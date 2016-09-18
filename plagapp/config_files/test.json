@@ -1,0 +1,1 @@
+{"k": 2, "cluster_method": "kmeans", "features": ["yule_k_characteristic", "yule_i", "stopword_percentage"], "atom_type": "paragraph"}
