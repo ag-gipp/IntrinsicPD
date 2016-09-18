@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd" reference="suspicious-document00001.txt">
+      <feature name="vroniplag" etext_number="Rts" url="http://de.vroniplag.wikia.com/wiki/Rts'"/>
+      <feature name="language" value="de" />
+    <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="2739" this_length="2198" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="5878" this_length="3070" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="8665" this_length="2745" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="11206" this_length="2512" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="13855" this_length="2502" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="15655" this_length="1718" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="16465" this_length="700" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="16605" this_length="114" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="18709" this_length="2058" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="20774" this_length="1921" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="21373" this_length="376" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="22610" this_length="1186" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="23548" this_length="779" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="23808" this_length="192" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="24592" this_length="707" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="25815" this_length="1200" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="26512" this_length="671" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="27742" this_length="1137" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="29826" this_length="375" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="30945" this_length="892" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="32652" this_length="1662" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="36577" this_length="1384" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="49707" this_length="406" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="52650" this_length="341" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="63802" this_length="560" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="65277" this_length="907" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="71593" this_length="805" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="79409" this_length="408" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="85377" this_length="1516" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="87544" this_length="1430" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="87763" this_length="121" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="91565" this_length="1487" />
+</document>

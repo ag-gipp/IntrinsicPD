@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd" reference="suspicious-document00001.txt">
+      <feature name="vroniplag" etext_number="Feb" url="http://de.vroniplag.wikia.com/wiki/Feb'"/>
+      <feature name="language" value="de" />
+    <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="4631" this_length="2674" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="8106" this_length="8061" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="31568" this_length="34835" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="70214" this_length="295" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="73312" this_length="1119" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="97629" this_length="1164" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="102034" this_length="4478" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="111347" this_length="325" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="178741" this_length="3614" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="182769" this_length="2027" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="187053" this_length="293" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="189468" this_length="1112" />
+</document>

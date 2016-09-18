@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd" reference="suspicious-document00001.txt">
+      <feature name="vroniplag" etext_number="Juh" url="http://de.vroniplag.wikia.com/wiki/Juh'"/>
+      <feature name="language" value="de" />
+    <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="8216" this_length="1766" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="10401" this_length="644" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="11532" this_length="20114" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="40943" this_length="1037" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="58884" this_length="26200" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="95176" this_length="24601" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="123207" this_length="4723" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="135284" this_length="8314" />
+</document>

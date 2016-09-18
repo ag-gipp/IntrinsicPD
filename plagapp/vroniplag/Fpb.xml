@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd" reference="suspicious-document00001.txt">
+      <feature name="vroniplag" etext_number="Fpb" url="http://de.vroniplag.wikia.com/wiki/Fpb'"/>
+      <feature name="language" value="de" />
+    <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="623" this_length="2656" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="4369" this_length="909" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="5325" this_length="47" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="5459" this_length="190" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="5750" this_length="3744" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="10820" this_length="1390" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="26541" this_length="9942" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="36598" this_length="5067" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="43331" this_length="650" />
+</document>

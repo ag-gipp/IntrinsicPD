@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd" reference="suspicious-document00001.txt">
+      <feature name="vroniplag" etext_number="Alm" url="http://de.vroniplag.wikia.com/wiki/Alm'"/>
+      <feature name="language" value="de" />
+    <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="2412" this_length="1976" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="4403" this_length="1456" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="5864" this_length="1852" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="8922" this_length="359" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="9282" this_length="527" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="9815" this_length="207" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="10043" this_length="465" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="10093" this_length="498" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="12196" this_length="445" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="12790" this_length="454" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="13250" this_length="601" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="13917" this_length="603" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="14602" this_length="1012" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="15723" this_length="270" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="16305" this_length="526" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="17967" this_length="1228" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="19445" this_length="95" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="21167" this_length="582" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="21759" this_length="1237" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="23865" this_length="625" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="24474" this_length="1341" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="25851" this_length="438" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="26296" this_length="1626" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="27933" this_length="667" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="28891" this_length="1462" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="31325" this_length="317" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="31665" this_length="2443" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="34131" this_length="1109" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="35241" this_length="655" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="35907" this_length="437" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="36355" this_length="1985" />
+</document>

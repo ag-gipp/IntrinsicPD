@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd" reference="suspicious-document00001.txt">
+      <feature name="vroniplag" etext_number="Anh" url="http://de.vroniplag.wikia.com/wiki/Anh'"/>
+      <feature name="language" value="de" />
+    <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="4658" this_length="512" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="7108" this_length="221" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="7403" this_length="2555" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="12838" this_length="2036" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="12838" this_length="224" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="14879" this_length="446" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="16713" this_length="1225" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="17939" this_length="2694" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="20638" this_length="2440" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="23083" this_length="1816" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="24904" this_length="655" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="25901" this_length="1310" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="27217" this_length="505" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="27732" this_length="1316" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="29057" this_length="745" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="29847" this_length="1649" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="31502" this_length="839" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="32343" this_length="1485" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="33833" this_length="2325" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="36163" this_length="541" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="36705" this_length="1122" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="37828" this_length="373" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="38202" this_length="1942" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="50141" this_length="1277" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="51423" this_length="2903" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="54331" this_length="189" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="54521" this_length="1974" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="57062" this_length="1877" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="58940" this_length="541" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="59865" this_length="923" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="60794" this_length="939" />
+</document>

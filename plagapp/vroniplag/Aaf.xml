@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd" reference="suspicious-document00001.txt">
+      <feature name="vroniplag" etext_number="Aaf" url="http://de.vroniplag.wikia.com/wiki/Aaf'"/>
+      <feature name="language" value="de" />
+    <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="6743" this_length="2256" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="9003" this_length="2003" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="11041" this_length="2471" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="14057" this_length="68" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="15584" this_length="2771" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="18431" this_length="2430" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="20866" this_length="2133" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="23005" this_length="2201" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="25211" this_length="2168" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="27384" this_length="2291" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="29680" this_length="1720" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="34907" this_length="1289" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="36921" this_length="1211" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="38255" this_length="122" />
+</document>

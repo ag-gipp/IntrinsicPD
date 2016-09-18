@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd" reference="suspicious-document00001.txt">
+      <feature name="vroniplag" etext_number="Al" url="http://de.vroniplag.wikia.com/wiki/Al'"/>
+      <feature name="language" value="de" />
+    <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="12573" this_length="520" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="13758" this_length="487" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="14478" this_length="721" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="15197" this_length="774" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="15976" this_length="905" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="16883" this_length="920" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="17821" this_length="679" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="21092" this_length="403" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="21744" this_length="284" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="23837" this_length="466" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="24304" this_length="2243" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="26566" this_length="755" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="27503" this_length="430" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="30012" this_length="271" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="30284" this_length="424" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="30772" this_length="966" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="31775" this_length="126" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="31901" this_length="298" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="32200" this_length="120" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="32342" this_length="1246" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="33789" this_length="186" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="34723" this_length="516" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="35420" this_length="671" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="36091" this_length="992" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="37295" this_length="299" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="38554" this_length="996" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="39563" this_length="151" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="40052" this_length="944" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="47792" this_length="388" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="56368" this_length="394" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="98867" this_length="1600" />
+</document>

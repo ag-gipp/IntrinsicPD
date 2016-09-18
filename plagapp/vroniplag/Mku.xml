@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd" reference="suspicious-document00001.txt">
+      <feature name="vroniplag" etext_number="Mku" url="http://de.vroniplag.wikia.com/wiki/Mku'"/>
+      <feature name="language" value="de" />
+    <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="4017" this_length="901" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="6132" this_length="40495" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="48832" this_length="665" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="55191" this_length="58247" />
+</document>

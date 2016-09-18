@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd" reference="suspicious-document00001.txt">
+      <feature name="vroniplag" etext_number="Go" url="http://de.vroniplag.wikia.com/wiki/Go'"/>
+      <feature name="language" value="de" />
+    <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="2466" this_length="18692" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="21550" this_length="12748" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="35042" this_length="32892" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="73129" this_length="1226" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="75137" this_length="519" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="76866" this_length="2869" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="81287" this_length="219" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="81840" this_length="3890" />
+</document>
