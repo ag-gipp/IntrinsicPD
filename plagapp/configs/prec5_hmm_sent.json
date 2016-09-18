@@ -1,0 +1,1 @@
+{"k": 2, "cluster_method": "hmm", "features": ["yule_i", "honore_r_measure", "flesch_reading_ease","flesch_kincaid_grade","punctuation_percentage"], "atom_type": "sentence"}

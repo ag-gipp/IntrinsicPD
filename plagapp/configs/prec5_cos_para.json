@@ -1,0 +1,1 @@
+{"k": 2, "cluster_method": "cos", "features": ["syntactic_complexity", "polysyllablcount", "yule_i","honore_r_measure","hapax_dislegomena","stopword_percentage"], "atom_type": "paragraph"}

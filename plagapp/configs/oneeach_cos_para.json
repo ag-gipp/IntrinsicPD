@@ -1,0 +1,1 @@
+{"k": 2, "cluster_method": "cos", "features": ["average_word_length", "polysyllablcount", "hapax_legomena"], "atom_type": "paragraph"}

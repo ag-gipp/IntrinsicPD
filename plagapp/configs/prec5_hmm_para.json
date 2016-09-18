@@ -1,0 +1,1 @@
+{"k": 2, "cluster_method": "hmm", "features": ["hapax_dislegomena","hapax_legomena","stopword_percentage","honore_r_measure", "avg_internal_word_freq_class", "yule_i","polysyllablcount","syntactic_complexity"], "atom_type": "paragraph"}

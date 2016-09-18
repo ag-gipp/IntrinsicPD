@@ -1,0 +1,1 @@
+{"k": 2, "cluster_method": "kmeans", "features": ["coleman_liau_index", "yule_i", "punctuation_percentage","flesch_kincaid_grade","flesch_reading_ease"], "atom_type": "sentence"}

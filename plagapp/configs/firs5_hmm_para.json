@@ -1,0 +1,1 @@
+{"k": 2, "cluster_method": "hmm", "features": ["average_word_length", "syntactic_complexity", "avg_internal_word_freq_class","average_syllables_per_word","avg_external_word_freq_class"], "atom_type": "paragraph"}
