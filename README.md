@@ -4,7 +4,8 @@ I have extended intrinsic plagiarism analysis module of this tool and updated wi
 In the front end part, i have added some visualizations to make it more interactive to see the suspicious passages.
 This extended tool is evaluated against vroniplag_medical test collections to measure the accuracy of stylistic features and created additional style models.The test collection contains all ground truths. Hence, it works as a framework to developers who are willing to test their new intrinsic plagiarism measures.
 
-TO run the module the following packages are required to be installed. (Versions should as shown below)
+TO run the module the following packages are required to be installed. (Versions should be strictly followed as shown below)
+
 Flask==0.10.1
 
 Flask-WTF==0.9.4
