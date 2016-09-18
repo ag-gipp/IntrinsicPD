@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+
+{% block further_head %}
+<link href="/static/css/view_doc.css" rel="stylesheet" media="screen">
+<script src="/static/js/popover.js"></script>
+<script src="/static/js/tooltip.js"></script>
+<script src="/static/js/view_doc.js"></script>
+{% endblock further_head %}
+
+{% block content %}
+<body>
+  <div class="container">
+    <h1>Where's the plag?</h1>
+    <div class="jumbotron">
+        <small>
+            <p>Atom Type: {{ atom_type }} </p>
+            <p>Cluster Method: {{ cluster_method }} </p>
+            <p>k: {{ k }} </p>
+        </small>
+
+      <button type="button" class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#full_table">
+      Hide/Show Table
+      </button>
+
+      <div class="row">
+          <div class="col-md-9">
+
+            <div class="panel panel-default">
+              <div class="panel-body" id="document_content">
+                <p>
+                {% for passage in passages %}
+                  {% if passage.plag_span %}
+                    <div class="passage" features="{{ passage.to_html() }}" style="font-size:14px; display:inline; color:blue">
+                  {% else %}
+                    <div class="passage" features="{{ passage.to_html() }}" style="font-size:14px;display:inline;">
+                  {% endif %}
+
+                      {{ passage.text.decode('utf8') }}
+                  </div>
+                  {% if atom_type == 'paragraph' %}
+                      <br />
+                  {% endif %}
+
+                {% endfor %}
+                </p>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="col-md-3">
+            <div class="panel panel-default" data-spy="affix" id="feature_panel" data-offset-top="400" data-offset-bottom="200">
+              <div class="panel-heading">
+                Passage Details
+              </div>
+              <div class="panel-body" id="feature_box" style="font-size:12px">
+                  
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+</body>
+{% endblock content %}

@@ -1,0 +1,15 @@
+/* 
+Help from: http://coderguy.com/2013/06/18/twitter-bootstrap-affix-nav-tutorial.html
+*/
+
+.affix {
+  width: inherit; 
+  position: fixed;
+  top: 50px;  
+}
+.affix-bottom {
+  width: inherit;
+  position: absolute;
+  top: auto;
+  bottom: 200px;
+}

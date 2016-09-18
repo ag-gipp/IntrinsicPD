@@ -1,0 +1,315 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="/static/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <script type=text/javascript src="/static/js/jquery.js"></script>
+    <script src="/static/js/bootstrap.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    
+<link href="/static/css/view_doc.css" rel="stylesheet" media="screen">
+<script src="/static/js/popover.js"></script>
+<script src="/static/js/tooltip.js"></script>
+<script src="/static/js/view_doc.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body>
+<nav class="navbar navbar-default" role="navigation">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+        <a class="navbar-brand" href="/">Copy Cats</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About Us</a></li>
+            <li><a href="/select_doc">Detect Plag!</a></li>
+            <li><a href="/select_folder">Bulk Analysis!</a></li>
+        </ul>
+    </div><!-- /.navbar-collapse -->
+</nav>
+
+
+
+<body>
+  <div class="container">
+    <h1>Where's the plag?</h1>
+    <div class="jumbotron">
+        <small>
+            <p>Atom Type: paragraph </p>
+            <p>Cluster Method: kmeans </p>
+            <p>k: 2 </p>
+        </small>
+
+      <button type="button" class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#full_table">
+      Hide/Show Table
+      </button>
+
+      <div class="row collapse in" id="full_table">
+        <div class="col-md-9">
+          <div class="table-responsive" style="font-size:12px;">
+          <table class="table table-condensed table-scrollable table-bordered">
+            <thead>
+              <tr>
+                <th>Start Index</th>
+                
+                  <th>yule_k_characteristic </th>
+                
+                <th>Plag. Conf.</th>
+                <th>Plag. Span</th>
+              </tr>
+            </thead>
+            <tbody>
+              
+                <tr class="passage_starting_at_">
+                  <td class="passage_row"> 0 </td>
+                  
+                    <td class="passage_row"> 464.8760 </td>
+                  
+
+                  
+                    <td class="passage_row"> 0.4939 </td>
+                  
+
+                  
+                    <td class="passage_row"></td>
+                  
+                </tr>
+              
+                <tr class="passage_starting_at_">
+                  <td class="passage_row"> 382 </td>
+                  
+                    <td class="passage_row"> 686.3905 </td>
+                  
+
+                  
+                    <td class="passage_row"> 1.0000 </td>
+                  
+
+                  
+                    <td class="passage_row"></td>
+                  
+                </tr>
+              
+                <tr class="passage_starting_at_">
+                  <td class="passage_row"> 939 </td>
+                  
+                    <td class="passage_row"> 150.0000 </td>
+                  
+
+                  
+                    <td class="passage_row"> 0.1555 </td>
+                  
+
+                  
+                    <td class="passage_row"></td>
+                  
+                </tr>
+              
+                <tr class="passage_starting_at_">
+                  <td class="passage_row"> 1219 </td>
+                  
+                    <td class="passage_row"> 414.2012 </td>
+                  
+
+                  
+                    <td class="passage_row"> 0.3781 </td>
+                  
+
+                  
+                    <td class="passage_row"></td>
+                  
+                </tr>
+              
+                <tr class="passage_starting_at_">
+                  <td class="passage_row"> 2151 </td>
+                  
+                    <td class="passage_row"> 163.5742 </td>
+                  
+
+                  
+                    <td class="passage_row"> 0.1401 </td>
+                  
+
+                  
+                    <td class="passage_row"></td>
+                  
+                </tr>
+              
+                <tr class="passage_starting_at_">
+                  <td class="passage_row"> 2653 </td>
+                  
+                    <td class="passage_row"> 51.0204 </td>
+                  
+
+                  
+                    <td class="passage_row"> 0.2373 </td>
+                  
+
+                  
+                    <td class="passage_row"></td>
+                  
+                </tr>
+              
+            </tbody>
+          </table>
+        </div>
+        </div>
+      </div>
+
+      <div class="row">
+          <div class="col-md-9">
+
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                head_training_sample
+              </div>
+              <div class="panel-body" id="document_content">
+                <p>
+                
+                <div class="passage" features="&lt;p&gt;Span&lt;/p&gt;&lt;p&gt;0, 380&lt;/p&gt;&lt;hr size = &#34;10&#34;&lt;p&gt;Plag. conf.&lt;/p&gt;&lt;p&gt;0.493861808021&lt;/p&gt;&lt;hr size = &#34;10&#34;&lt;p&gt;PLAG SPAN&lt;/p&gt;&lt;p&gt;No plag!&lt;/p&gt;&lt;hr size = &#34;10&#34;&lt;p&gt;yule_k_characteristic&lt;/p&gt;&lt;p&gt;464.8760&lt;/p&gt;&lt;hr size = &#34;10&#34;" style="font-size:14px;display:inline;">
+                    I can see nothing in that proposition but the justifiable safeguarding by
+society of the necessary processes of its very life. There is nothing
+arbitrary or unjust in it unless it be arbitrarily and unjustly done. It
+can and should be done with a full and scrupulous regard for the interests
+and liberties of all concerned as well as for the permanent interests of
+society itself.
+                </div>
+                
+                    <br />
+                
+
+                
+                <div class="passage" features="&lt;p&gt;Span&lt;/p&gt;&lt;p&gt;382, 937&lt;/p&gt;&lt;hr size = &#34;10&#34;&lt;p&gt;Plag. conf.&lt;/p&gt;&lt;p&gt;1.0&lt;/p&gt;&lt;hr size = &#34;10&#34;&lt;p&gt;PLAG SPAN&lt;/p&gt;&lt;p&gt;No plag!&lt;/p&gt;&lt;hr size = &#34;10&#34;&lt;p&gt;yule_k_characteristic&lt;/p&gt;&lt;p&gt;686.3905&lt;/p&gt;&lt;hr size = &#34;10&#34;" style="font-size:14px;display:inline;">
+                    Three matters of capital importance await the action of the Senate which
+have already been acted upon by the House of Representatives; the bill
+which seeks to extend greater freedom of combination to those engaged in
+promoting the foreign commerce of the country than is now thought by some
+to be legal under the terms of the laws against monopoly; the bill amending
+the present organic law of Porto Rico; and the bill proposing a more
+thorough and systematic regulation of the expenditure of money in
+elections, commonly called the Corrupt Practices Act.
+                </div>
+                
+                    <br />
+                
+
+                
+                <div class="passage" features="&lt;p&gt;Span&lt;/p&gt;&lt;p&gt;939, 1217&lt;/p&gt;&lt;hr size = &#34;10&#34;&lt;p&gt;Plag. conf.&lt;/p&gt;&lt;p&gt;0.155456617258&lt;/p&gt;&lt;hr size = &#34;10&#34;&lt;p&gt;PLAG SPAN&lt;/p&gt;&lt;p&gt;No plag!&lt;/p&gt;&lt;hr size = &#34;10&#34;&lt;p&gt;yule_k_characteristic&lt;/p&gt;&lt;p&gt;150.0000&lt;/p&gt;&lt;hr size = &#34;10&#34;" style="font-size:14px;display:inline;">
+                    I need not labor my advice that these measures be enacted into law. Their
+urgency lies in the manifest circumstances which render their adoption at
+this time not only opportune but necessary. Even delay would seriously
+jeopard the interests of the country and of the Government.
+                </div>
+                
+                    <br />
+                
+
+                
+                <div class="passage" features="&lt;p&gt;Span&lt;/p&gt;&lt;p&gt;1219, 2149&lt;/p&gt;&lt;hr size = &#34;10&#34;&lt;p&gt;Plag. conf.&lt;/p&gt;&lt;p&gt;0.378074909972&lt;/p&gt;&lt;hr size = &#34;10&#34;&lt;p&gt;PLAG SPAN&lt;/p&gt;&lt;p&gt;No plag!&lt;/p&gt;&lt;hr size = &#34;10&#34;&lt;p&gt;yule_k_characteristic&lt;/p&gt;&lt;p&gt;414.2012&lt;/p&gt;&lt;hr size = &#34;10&#34;" style="font-size:14px;display:inline;">
+                    Immediate passage of the bill to regulate the expenditure of money in
+elections may seem to be less necessary than the immediate enactment of the
+other measures to which I refer, because at least two years will elapse
+before another election in which Federal offices are to be filled; but it
+would greatly relieve the public mind if this important matter were dealt
+with while the circumstances and the dangers to the public morals of the
+present method of obtaining and spending campaign funds stand clear under
+recent observation, and the methods of expenditure can be frankly studied
+in the light of present experience; and a delay would have the further very
+serious disadvantage of postponing action until another election was at
+hand and some special object connected with it might be thought to be in
+the mind of those who urged it. Action can be taken now with facts for
+guidance and without suspicion of partisan purpose.
+                </div>
+                
+                    <br />
+                
+
+                
+                <div class="passage" features="&lt;p&gt;Span&lt;/p&gt;&lt;p&gt;2151, 2651&lt;/p&gt;&lt;hr size = &#34;10&#34;&lt;p&gt;Plag. conf.&lt;/p&gt;&lt;p&gt;0.140071458373&lt;/p&gt;&lt;hr size = &#34;10&#34;&lt;p&gt;PLAG SPAN&lt;/p&gt;&lt;p&gt;No plag!&lt;/p&gt;&lt;hr size = &#34;10&#34;&lt;p&gt;yule_k_characteristic&lt;/p&gt;&lt;p&gt;163.5742&lt;/p&gt;&lt;hr size = &#34;10&#34;" style="font-size:14px;display:inline;">
+                    I shall not argue at length the desirability of giving a freer hand in the
+matter of combined and concerted effort to those who shall undertake the
+essential enterprise of building up our export trade. That enterprise will
+presently, will immediately assume, has indeed already assumed a magnitude
+unprecedented in our experience. We have not the necessary
+instrumentalities for its prosecution; it is deemed to be doubtful whether
+they could be created upon an adequate scale under our present laws.
+                </div>
+                
+                    <br />
+                
+
+                
+                <div class="passage" features="&lt;p&gt;Span&lt;/p&gt;&lt;p&gt;2653, 2903&lt;/p&gt;&lt;hr size = &#34;10&#34;&lt;p&gt;Plag. conf.&lt;/p&gt;&lt;p&gt;0.237327736901&lt;/p&gt;&lt;hr size = &#34;10&#34;&lt;p&gt;PLAG SPAN&lt;/p&gt;&lt;p&gt;No plag!&lt;/p&gt;&lt;hr size = &#34;10&#34;&lt;p&gt;yule_k_characteristic&lt;/p&gt;&lt;p&gt;51.0204&lt;/p&gt;&lt;hr size = &#34;10&#34;" style="font-size:14px;display:inline;">
+                    We should clear away all legal obstacles and create a basis of undoubted
+law for it which will give freedom without permitting unregulated license.
+The thing must be done now, because the opportunity is here and may escape
+us if we hesitate or delay.
+                </div>
+                
+                    <br />
+                
+
+                
+                </p>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="col-md-3">
+            <div class="panel panel-default" data-spy="affix" id="feature_panel" data-offset-top="400" data-offset-bottom="200">
+              <div class="panel-heading">
+                Passage Details
+              </div>
+              <div class="panel-body" id="feature_box" style="font-size:12px">
+                  
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+<div id="myDiv" style="width: 480px; height: 400px;"><!-- Plotly chart will be drawn inside this DIV --></div>
+</body>
+
+
+    <script type="text/javascript">
+        
+            var yule_k_characteristic = {
+	
+                 x : 0,
+                 y : 464.876033058
+            }
+        
+                 x : 382,
+                 y : 686.390532544
+            }
+        
+                 x : 939,
+                 y : 150.0
+            }
+        
+                 x : 1219,
+                 y : 414.201183432
+            }
+        
+                 x : 2151,
+                 y : 163.57421875
+            }
+        
+                 x : 2653,
+                 y : 51.0204081633
+            }
+        
+	
+        var dat = [yule_k_characteristic]
+        Plotly.newPlot('myDiv',dat);
+    </script>
+
+</body>
+</html>

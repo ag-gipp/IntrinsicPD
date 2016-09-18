@@ -1,0 +1,178 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+    <div class="container" xmlns="http://www.w3.org/1999/html">
+        <h1>Detect Suspicious Passages</h1>
+        <div class="jumbotron">
+
+            <div class="form-group">
+
+
+                <form action='/view_doc'>
+
+                    <div class="form-group">
+                        <label for="usr">Select Doc:</label>
+                        <select name="doc">
+                            {% for doc in docs %}
+                                <option value='{{ doc[0] }}'>{{ doc[0] }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                <br>
+                 <div class="form-group">
+                <label>Atom Type:</label>
+                    {% for atom_option in atom_options %}
+                        <input type="radio" class="atomClass" name="atom" value="{{ atom_option[0] }}">
+                        {{ atom_option[0] }}&emsp;
+                    {% endfor %}
+                </div>
+                <br>
+                    <div class="form-group">
+                <label>Stylistic Feature(s):</label>
+                    <select id="features" name="features" multiple>
+                    </select>
+
+                    <!--<select name="similarity_measure">
+                        {% for similarity_measure in similarity_measures %}
+                        <option value="{{ similarity_measure[0] }}">{{ similarity_measure[0] }}</option>
+                        {% endfor %}
+                    </select>-->
+                </div>
+                <br>
+                <div class="form-group">
+                <label>Clustering Method/Outlier Detection:</label>
+                    <select name="cluster_method">
+                        {% for cluster_method in cluster_methods %}
+                            <option value="{{ cluster_method[0] }}">{{ cluster_method[0] }}</option>
+                        {% endfor %}
+                    </select>
+                &emsp;
+                <label>Cluster Value:</label>
+
+                    <select name="k">
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                    </select>
+                </div>
+
+                    <div class="form-group">
+                        <!-- included creation/modification of style models(seenu.andi-rajendran)-->
+                    <br><i>Save Style Model ?</i>&emsp;
+                    <input type="radio" class="save_config" name="save_config" value="yes"
+                           onclick="document.getElementById('fname').style.display = 'block';"><i>Yes</i>
+                    <input type="radio" class="save_config" name="save_config" value="no"
+                           onclick="document.getElementById('fname').style.display = 'none';" checked><i>No</i><br>
+                    <div id="fname" class="form-group" style="display: none;"><i>Style Model file name</i>&emsp;
+                        <input type="text" name="fname" value="" width="30" height="30"><br>
+                    </div>
+                    </div>
+                    <div class="form-group">
+                    <i>Load existing Style Model ?</i>&emsp;
+                    <input type="radio" name='qload' value="yes"
+                           onclick="document.getElementById('load_config').style.display = 'block';document.getElementById('over_config').style.display = 'block';"><i>Yes</i>
+                    <input type="radio" name='qload' value="no"
+                           onclick="document.getElementById('load_config').style.display = 'none';document.getElementById('over_config').style.display = 'none';"
+                           checked><i>No</i><br>
+                    </div>
+
+                    <div id="over_config" class="form-group" style="display: none;"><i>Overwrite Style Model ?</i>&emsp;
+                        <input type="radio" name="over_config" value="yes"> <i>Yes</i>
+                        <input type="radio" name="over_config" value="no" checked><i>No</i><br>
+                    </div>
+                    </div>
+
+                    <div id="load_config" class="form-group" style="display: none;">
+                        <i>Load Style Model</i>&emsp;
+                        <select name="lname">
+                            {% for config_file in config_fold %}
+                                <option value='{{ config_file }}'>{{ config_file }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+
+
+                    <div class="btn btn-default">
+                        <input type='submit' value='Go'>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <!-- loading of stylistic features according to atom type when selected (seenu.andi-rajendran)-->
+    <script type="text/javascript">
+        if ('undefined' == typeof window.jQuery) {
+
+            alert("Jquery is not loaded");
+
+        } else {
+
+
+            $('.atomClass').change(function (event) {
+                which = $(this).val();
+                switch (which) {
+                    case "paragraph":
+
+                        $("#features").empty();
+
+                        $('#features').append($("<optgroup></optgroup>").attr("label", 'Vocab Richness'));
+                    {% for feature in vocab_richness %}
+
+                        $('#features').append($("<option></option>").attr("value", "{{ feature[0] }}").text("{{ feature[0] }}"));
+
+                    {% endfor %}
+                        $('#features').append($("<optgroup></optgroup>").attr("label", 'Syntactic Features'));
+                    {% for feature in synt_feats %}
+
+                        $('#features').append($("<option></option>").attr("value", "{{ feature[0] }}").text("{{ feature[0] }}"));
+
+                    {% endfor %}
+                        $('#features').append($("<optgroup></optgroup>").attr("label", 'Readability Features'));
+                    {% for feature in read_feat %}
+
+                        $('#features').append($("<option></option>").attr("value", "{{ feature[0] }}").text("{{ feature[0] }}"));
+
+                    {% endfor %}
+
+                        break;
+                    case "sentence":
+
+                        $("#features").empty();
+
+                        $('#features').append($("<optgroup></optgroup>").attr("label", 'Vocab Richness'));
+                    {% for feature in vocab_richness %}
+
+                        $('#features').append($("<option></option>").attr("value", "{{ feature[0] }}").text("{{ feature[0] }}"));
+
+                    {% endfor %}
+                        $('#features').append($("<optgroup></optgroup>").attr("label", 'Syntactic Features'));
+                    {% for feature in synt_feats %}
+
+                        $('#features').append($("<option></option>").attr("value", "{{ feature[0] }}").text("{{ feature[0] }}"));
+
+                    {% endfor %}
+                        $('#features').append($("<optgroup></optgroup>").attr("label", 'Readability Features'));
+                    {% for feature in read_feat %}
+
+                        $('#features').append($("<option></option>").attr("value", "{{ feature[0] }}").text("{{ feature[0] }}"));
+
+                    {% endfor %}
+                        break;
+                    case "word":
+                        $("#features").empty();
+
+                    {% for feature in word_features %}
+
+                        $('#features').append($("<option></option>").attr("value", "{{ feature[0] }}").text("{{ feature[0] }}"));
+
+                    {% endfor %}
+
+                        break;
+                }
+            });
+        }
+
+    </script>
+{% endblock content %}
