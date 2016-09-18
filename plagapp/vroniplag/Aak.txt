@@ -1,0 +1,2187 @@
+Inhaltsverzeichnis
+1.
+
+Einleitung .....................................................................................…............2
+
+1.1.
+1.2.
+1.3.
+
+Chronische Niereninsuffizienz ...............................................…………….2
+Hämodialyse …………………………………………………….………….......4
+Anämie und Erythropoietin .......................................................................6
+
+2.
+
+Fragestellung ……………………. …………………………………………......8
+
+3.
+
+Material und Methoden ……………………………....……………………......9
+
+3.1.
+3.2.
+3.3.
+3.4.
+3.5.
+
+Studiendesign ……………………………………. …………………………….9
+Charakterisierung der Patienten ……………………………………………..9
+Digitale Photoplethysmographie .........................................................…..9
+HDI/Pulse wave Research Cardio Vascular Profiling Instrument …….13
+Statistik ...………………………………………………………………............14
+
+4.
+
+Ergebnisse ................................................................................................15
+
+4.1.
+
+Allgemein ..................................................................................................15
+
+4.2. Einfluss von Erythropoietin auf die Gefäßeigenschaften..................... 25
+4.2.1. Der Vascular Index (RI) während der Hämodialyse ...............................25
+4.2.2. Veränderungen der Arterielle Steifigkeiten (S1, S2) unter Dialyse .....30
+5.
+
+Diskussion ……………………………………………………………………...36
+
+5.1.
+5.2.
+
+Vascular Index ................................................….….…..…………………..36
+Arterielle Steifigkeit...................................................................................37
+
+6.
+
+Zusammenfassung....................................................................................39
+
+7.
+
+Literaturverzeichnis .................................................................................40
+
+8.
+
+Danksagung ..............................................................................................47
+
+9.
+
+Lebenslauf .................................................................................................48
+
+Einleitung und Fragestellung
+
+Einleitung
+1.1. Chronische Niereninsuffizienz
+In Deutschland beträgt die Prävalenz der chronischen Nierenersatztherapie 949
+Patienten pro 1 Million Einwohner (Bericht über Dialysebehandlung und
+Nierentransplantation in Deutschland, Quasiniere, Dezember 2004), davon 710
+Patienten pro 1 Million Einwohner mit Dialysetherapie (Hämodialyse plus Peri­
+tonealdialyse) und 239 Patienten pro 1 Million Einwohner nach Nierentransplanta­
+tion. Im Jahr 2003 lag die Ziffer der Neuerkrankungen bei 186 Patienten pro 1
+Million Einwohner. In den letzten Jahren ist die Ziffer der Dialysepatienten um rund
+5 bis 6% gestiegen. In Deutschland werden in rund 1200 Behandlungszentren
+etwa 60.000 Dialysepatienten behandelt. Die Inzidenz der terminalen Nierenin­
+suffizienz beträgt 15.000 Patienten pro Jahr. Die Kosten der Nierenersatzthera­
+pie liegen bei rund 35.000 Euro/Jahr (Quasiniere Update 2006). Viele Faktoren
+spielen eine große Rolle bei der Auswahl des Nierenersatzverfahrens, z.B. die
+medizinischen Aspekte, wie vorhandene Nierenrestfunktion, ausreichende Ultra­
+filtration und Giftelimination durch das gewählte Verfahren, die Möglichkeit eines
+Gefäßzuganges, kardiovaskuläre und hämodynamische Situation des Patienten,
+Erfahrungen der Dialyseeinrichtung mit dem jeweiligen Verfahren, sowie nichtme­
+dizinische Aspekte, z.B. Flexibilität und persönlicher Wunsch des Patienten und
+/ oder des medizinischen Betreuers, soziale Probleme und Kosten des Verfah­
+rens für die Entscheidungsfindung werden herangezogen. Das letztendlich ent­
+scheidende medizinische Auswahlkriterium ist aber das zu erwartende Patienten­
+überleben. Vielen Studien haben die Prognose von Hämodialyse (HD) und Peri­
+tonealdialyse (PD) Patienten untersucht (Van Biesen et al., 2004), wobei die end­
+gültige Antwort auf die Frage nach dem Verfahren, welches das längstmögliche
+Patientenüberleben ermöglicht, aufgrund einer Vielzahl von Problemen in der Stu­
+dienmethodik und Patientenauswahl schwierig zu beantworten bleibt.
+Patienten mit chronischer Niereninsuffizienz haben eine erheblich gesteigerte
+kardiovaskuläre Morbidität und Mortalität (Amann et al., 2004; Anavekar et al.,
+2004; Mallick & Gokal, 1999; Pastan & Bailey, 1998; Sarnak et al., 2003; Saw et
+al., 2004). Die jährliche Todesrate von Patienten mit terminaler Niereninsuffizienz
+liegt bei fast 25%. Patienten mit terminaler Niereninsuffizienz haben gehäuft
+kardiovaskuläre Ereignisse (Locatelli et al., 2004; Parfrey, 2000; Sarnak et al.,
+2003). Weiterhin konnte gezeigt werden, dass die Langzeitprognose nach Myo­
+kardinfarkt bei Patienten mit chronischer Niereninsuffizienz schlecht ist (Anavekar
+et al., 2004; Herzog et al., 1998). Wichtige Kofaktoren für die gesteigerte Mortalität
+bei Dialysepatienten sind eine Urämie-bedingte Malnutrition und die unzurei­
+chende Entfernung von Urämietoxinen (Iseki et al., 1993; Iseki et al., 1997; Owen
+et al., 1993). Weitere Gründe für die vermehrten kardiovaskulären Ereignisse bei
+Patienten mit dialysepflichtiger Niereninsuffizienz sind häufig vorliegende
+traditionelle Risikofaktoren wie Diabetes mellitus, arterielle Hypertonie (Bianchi G.
+et al 2000), Dyslipidämie oder Rauchen. Außerdem existieren noch zahlreiche
+spezifische niereninsuffizienzbedingte Risikofaktoren, wie Mikroinflammation
+(charakteristischer Marker z.B. C-reaktives Protein, Yeun et al 2000), gesteigerte
+reaktive Sauerstoffradikale (z.B. Superoxid-Radikale, Tepel 2003), chronische An­
+ämie oder Eisenmangel, Urämietoxine (z.B. Homocystein, Bachmann et al 1995,
+asymmetrisches Dimethylarginin, Zoccali C. et al 2001), entzündliche Gefäßver­
+
+2
+
+Einleitung und Fragestellung
+
+änderungen (Bhagat K et al 2001), Gefäßverkalkungen (Goodman et al 2000)
+oder Salz- und Wasserüberschuss (Goldwasser P et al 1993).
+Bei Patienten mit chronischer Niereninsuffizienz sind typische Befunde arteioskle­
+rotische Gefäßveränderungen und verminderte Gefäßelastizität. Die Gefäßelastizi­
+tät hat einen direkten Einfluss auf den Pulsdruck (pulse Presssure), d.h. die Diffe­
+renz von systolischem und diastolischem Blutdruck (Marchais et al., 1993). Ent­
+sprechend konnten Klassen et al. (2002) in einer retrospektiven Kohorten-Studie
+nach Auswertung der Daten von 37.069 Patienten belegen, dass der Pulsdruck
+einen eigenständigen Risikofaktor für die Mortalität bei Patienten mit dialyse­
+pflichtiger Niereninsuffizienz darstellt. Die vorliegenden Befunde deuten insgesamt
+darauf hin, dass vaskuläres Remodeling, Gefäßhypertrophie, verminderte GefäßCompliance und Gefäßkalzifikationen bei Patienten mit chronischer Niereninsuffi­
+zienz eine wesentliche Rolle spielen.
+Die Gefäß-Compliance stellt einen charakteristischen Marker für die Intaktheit der
+Gefäßwand in vivo dar. Strukturelle Veränderungen, wie sie bei verschiedenen Er­
+krankungen einschließlich arterieller Hypertonie oder chronischer Niereninsuffizi­
+enz auftreten, sind durch entsprechende Veränderungen der Gefäß-Compliance
+darstellbar. Die Veränderungen der Gefäß-Compliance können durch Pulswellen­
+analyse nicht-invasiv, einfach, risikolos und reproduzierbar bestimmt werden.
+Dabei wird der Index der Elastizität der großen Gefäße (C1) und der Index der
+Elastizität der kleinen Gefäße (C2) als Maß für die Gefäß-Compliance ermittelt. In
+der Literatur finden sich bislang kaum Daten zur Gefäß-Compliance bei Patienten.
+Überwiegend wurden bislang Untersuchungen an gesunden Probanden durchge­
+führt. Der C2-Wert zeigt eine negative Korrelation mit dem Lebensalter, d.h. Der
+C2-Wert nimmt mit steigendem Lebensalter ab (Mcveigh et al., 1999). Der C2Wert zeigt eine positive Korrelation mit der Körpergröße, d.h. kleinere Personen
+haben niedrigere C2-Werte (Rietzschel et al., 2001). Bei 179 jungen gesunden
+Probanden unter 23 Jahren lagen die C2-Werte im Mittel bei 8,3±2,0 ml/mmhg
+(Mittelwert±SD; Arnett et al., 2001). Bei jungen Männern im mittleren Alter von 24
+Jahren waren die C2-Werte signifikant höher im Vergleich zu gleichaltrigen Frauen
+(Winer et al., 2001). Im Vergleich mit 47 normotensiven Probanden lagen die C2
+Werte signifikant niedriger bei 19 Patienten mit isolierter systolischer Hypertonie
+und bei 29 Patienten mit essentieller Hypertonie (Beltran et al., 2001). In einer Un­
+tersuchung bei nur 10 Patienten mit terminaler Niereninsuffizienz zeigten sich
+ebenfalls erniedrigte C2-Werte. Über eine Korrelation mit klinischen Parametern
+oder das Langzeit-Outcome war nicht berichtet worden (Cohen & Townsend,
+2002).
+Bei Patienten mit mittlerer sowie schwerer Funktionseinschränkung der Nieren
+und konsekutiver Dialysetherapie kommt es häufig zur Schädigung der endothel­
+vermittelten Vasodilatation (Annuk et al., 2001; Miyazaki et al., 2000; van
+Guldener et al., 1998). Die Gründe hierfür sind auch heute noch nicht vollständig
+aufgeklärt, doch wird spekuliert, dass eine Erhöhung des oxidaktiven Stresses,
+Hyperhomocysteinämie, Dyslipidämie, Hyperglykämie und Hypertonie eine ent­
+scheidende Rolle als Cofaktoren spielen. Auch die Kreatininclearance und damit
+die eingeschränkte Nierenfunktion per se wurde mit der Endothelfunktion in Ver­
+bindung gebracht (Annuk et al., 2001). Untersuchungen an nierengesunden
+Probanden zeigten einen Zusammenhang zwischen dem Auftreten von Ent­
+zündungen und der Schädigung der Endothelfunktion (Stenvinkel, 2001). Da so­
+wohl Patienten mit mäßiger als auch mit schwerer Nierenschädigung gehäuft Ent­
+3
+
+Einleitung und Fragestellung
+
+zündungen vorweisen, lässt sich vermuten, dass die endotheliale Dysfunktion eine
+Zwischenstufe im Verhältnis von Entzündung und kardiovaskulärer Schädigung
+bei niereninsuffizienten Patienten darstellt. Dafür spricht auch, dass eine Reihe
+antiinflammatorisch wirksamer Therapieregime zu einer Verbesserung der Endot­
+helfunktion in Studien an nierengesunden Patienten führten (Bhagat & Vallance,
+1997; Raza et al., 2000). Miyazaki et al. (2000) konnte bei Hämodialysepatienten
+zeigen, dass schon eine einzelne Dialyse unter Verwendung einer „non coated“
+Dialysemembran zu einer Schädigung der endothelvermittelten Vasodilatation
+führt während es bei Verwendung einer „Vitamin E coated“ Dialysemembran zu
+keiner Schädigung der Endothelfunktion kam.
+Eine Erhöhung des oxidativen Stresses ist bei Patienten mit terminaler Nierenin­
+suffizienz mehrfach beschrieben worden (Becker et al., 1997; Himmelfarb & Ha­
+kim, 2003; Kalousova et al. , 2003; Tepel, 2003; Tepel et al., 2000; Vaziri et al.,
+2002). Durch gesteigerten oxidativen Stress ausgelöste Veränderungen von Tran­
+skription und Wachstum sind bekannt für die Entwicklung von arteriosklerotischen
+Gefäßveränderungen (Blake & Ridker, 2001; Chakraborti & Chakraborti, 1998;
+Griendling et al. , 2000; Kamata & Hirata, 1999; Lassegue et al., 2001; Outinen et
+al., 1999; Parthasarathy et al., 1999; Wolin, 2000). In der letzten Zeit hat sich ge­
+zeigt, dass besonders die Steigerung des oxidativen Stresses bei chronischer
+Niereninsuffizienz Bedeutung für die erhöhte Morbidität und Mortalität hat, und
+dass eine antioxidative Therapie bei diesen Patienten günstig ist (Tepel, 2003).
+Die Gabe von antioxidativ wirksamem Vitamin E verminderte das Auftreten von
+kardiovaskulären Ereignissen bei Patienten mit dialysepflichtiger Niereninsuffizi­
+enz (Boaz et al. , 2000). Auch eine antioxidative Therapie mit Acetylcystein
+vermindert das Auftreten von kardiovaskulären Ereignissen bei Patienten mit dialy­
+sepflichtiger Niereninsuffizienz (Tepel et al. , 2003).
+1.2. Hämodialyse
+
+Abbildung 1. Hämodialysegerät der Dialysestation der Charite Campus Benjamin
+Franklin
+
+4
+
+Einleitung und Fragestellung
+
+Abbildung 2. Prinzip der Hämodialyse
+Bei der konventionellen Hämodialyse erfolgt die Elimination von urämischen Me­
+taboliten aus dem Blut des Patienten mittels eines Dialysators innerhalb von 3-5
+Stunden an 3-4 Tagen/Woche. Hierzu muss ein ausreichend großes Blutvolumen
+pro Zeiteinheit gereinigt werden, wozu ein entsprechender Gefäßzugang erforder­
+lich ist.
+Meist werden arteriovenöse Gefäßzugänge, die sogenannten Shunts (Abbildung
+2), bevorzugt am Unter- oder Oberarm, mit oder ohne Gefäßprothese angelegt.
+Bei der Hämodialyse findet der Stofftransport mittels Diffusion gemäß einem Kon­
+zentrationsgradienten über eine semipermeable Membran statt, die sich zwischen
+Blut und Dialysatlösung befindet. Um den Gradienten zwischen Blut und Dialysat
+möglichst groß zu halten, werden Blut und Dialysat nach dem Gegenstromprinzip
+geleitet.
+Das Dialysat wird nach einem Durchfluss verworfen. Die Porengröße der Dialyse­
+membran definiert dabei die Durchlässigkeit für verschieden große Moleküle.
+Dabei werden Stoffe nicht nur eliminiert, sondern auch über das Dialysat zugeführt
+(z.B. Bikarbonat, Calcium und Glukose).
+Eine Hämodialysebehandlung ist seit Jahren ein sehr effektives Routineverfahren
+zur Behandlung der terminalen Niereninsuffizienz. Die Hämodialyse dient als Er­
+satz für die exkretorische Nierenfunktion durch die Entfernung harnpflichtiger Sub­
+stanzen, Ausgleich des Volumenhaushalts, Ausgleich des Elektrolythaushaltes
+und Ausgleich des Sauren–Basenhaushaltes. Die endokrinen und metabolischen
+Funktionen der Niere werden durch Hämodialyse nicht ersezt. Trotz eines hohen
+Technikstandards stellen aber die Überwachung des Kreislaufes während der Hä­
+modialyse, die Vermeidung von Blutdruckabfällen während der Hämodialysebe­
+handlung und die Bestimmung des korrekten "Trockengewichts", d.h. das optimale
+Gewicht eines Dialyse-Patienten, wesentliche Probleme bei der Betreuung dieser
+Patienten dar. Die bisher durchgeführten Monitoring-Verfahren, wie die personal­
+5
+
+Einleitung und Fragestellung
+
+intensive intermittierende Blutdruckmessung des Patienten durch das Dialyseper­
+sonal oder die kostenintensive Steuerung der maschinellen Ultrafiltration über das
+Blutvolumen, können in der täglichen Routine ein kontinuierliches hämodyna­
+misches Monitoring des Patienten bislang nicht gewährleisten. Mit einem Pulso­
+ximeter kann eine kontinuierliche digitale Photoplethysmographie durchgeführt
+werden, die es erlaubt, den Volumenpuls am Finger kontinuierlich aufzuzeichnen
+(Millasseau et al., 2003; Takazawa et al., 1998). Mit der digitalen Photoplethysmo­
+graphie könnte somit eine kontinuierliche Überwachung der Hämodynamik bei den
+Hämodialysepatienten erfolgen. Allerdings gab es bislang keinen leicht anwendba­
+ren Auswerte-Algorithmus, um aus dem Volumenpuls am Finger Aussagen über
+die Hämodynamik bei den Patienten machen zu können.
+1.3. Anämie und Erythropoietin
+Es ist bekannt, dass die inadäquate Erythropoietinproduktion die Hauptursache
+der Anämie bei der chronischen Niereninsuffizienz darstellt. Erythropoietin ist ein
+sialinisiertes Glykoprotein aus zunächst 193 Aminosäuren, von denen 27 Amino­
+säuren als „leader sequence“ sowie das terminale Arginin posttranslational abge­
+spalten werden. Damit entsteht ein Polypeptid aus 165 Aminosäuren, dessen
+Tertiärstruktur durch zwei Disulfidbrücken stabilisiert wird. Das Molekül enthält vier
+Kohlenhydratketten, die 40% des Molekulargewichts von 30.400 Dalton ausma­
+chen. Für die Stabilität und damit die biologische Aktivität sind die endständigen
+Sialinsäuren der Kohlenhydratketten entscheidend, die das Molekül vor der hepa­
+tischen Metabolisierung bewahren.
+Die Plasmakonzentration Gesunder liegt zwischen 8 und 18 mu/ml und kann aus­
+gelöst durch Hypoxämie exponentiell auf das Tausendfache steigen. Produktions­
+ort des Erythropoietins sind peritubuläre interstitielle Zellen im Nierenkortex. Zu
+geringeren Anteilen auch die Hepatozyten und Makrophagen der Leber, die vor
+allem in der Embryonalentwicklung die Produktion von Erythropoietin über­
+nehmen.
+Das Hormon Erythropoietin stellt einen hämatopoetischen Wachstumsfaktor dar
+und stimuliert im Knochenmark die Bildung von Erythrozyten in Abhängigkeit vom
+Sauerstoffbedarf des Organismus. Dabei ist die Produktionsrate des Hormons in­
+vers proportional zur Sauerstoffkapazität des Blutes. Die Produktion wird durch
+einen Feedback-Mechanismus reguliert, bei dem durch gesteigerte Erythropoese
+und dadurch vermehrte Erythrozytenkonzentration eine Reduktion der Hypoxie
+entsteht.
+Erythropoietin aktiviert die erythropoetischen Vorläuferzellen im Knochenmark
+durch einen extrazellulären, membrangebundenen Rezeptor und setzt durch Ho­
+modimerisation der beiden Rezeptorketten eine intrazelluläre Signalkaskade in
+Gang. Erythropoietin reguliert primär durch Apoptosehemmung die Anzahl und
+Differenzierung von erythropoetischen Vorläuferzellen.
+Die Sauerstoffempfindlichkeit der Niere und die Stimulation der Erythrozytenpro­
+duktion durch Erythropoietin stellen somit einen effizienten Mechanismus zur Auf­
+rechterhaltung der optimalen Sauerstoffversorgung des Gewebes dar.
+Madore und Mitarbeiter zeigten 1997 in ihrer Studie an 21.899 Hämodialysepati­
+enten, dass das Mortalitätsrisiko- bei Patienten mit Hämoglobinkonzentrationen
+von weniger als 8g/dl im Vergleich zu Patienten mit Hämoglobin-Werten von 10–
+11 g/dl etwa doppelt so hoch war. Werte über 11g/dl führten zu weiterer Senkung
+des Mortalitätsrisikos. Eine mit der Niereninsuffizienz einhergehende Anämie kann
+6
+
+Einleitung und Fragestellung
+
+eine Dilatation des linken Ventrikels mit kompensatorischer linksventrikulärer Hy­
+pertrophie induzieren (Foley et al., 1998). Weiterhin stellt die Anämie einen Risiko­
+faktor für die Entwicklung einer de novo Herzinsuffizienz dar und ist mit einem
+erhöhten Mortalitätsrisiko verbunden (Parfrey, 2000).
+Die ausreichende Korrektur der renalen Anämie mit einer Erythropoietin-Medikati­
+on bei Patienten mit terminaler Niereninsuffizienz wird kontrovers diskutiert. Studi­
+en mit partieller Korrektur der renalen Anämie mittels einer Erythropoietin-Thera­
+pie zeigten zwar eine Verbesserung, jedoch keine Normalisierung der links­
+ventrikulären Strukturveränderungen (Sunder-Plassmann, Horl, 2001; Parfrey
+2000; Locatelli et al., 2000). Eine kanadische Studie verglich den Effekt einer Ery­
+thropoietin-Medikation auf die linksventrikuläre Struktur bei Hämodialysepatienten
+mit konzentrischer, linksventrikulärer Hypertrophie oder linksventrikulärer Dilatati­
+on. Eine vollständige Korrektur der Anämie führte auch hier zu keiner Regression
+der kardiomuskulären Veränderungen. Die Arbeit gab jedoch Hinweise dafür, dass
+die Normalisierung des Hämoglobin-Wertes eine linksventrikuläre Dilatation bei
+Hämodialysepatienten mit normaler Ventrikelgröße verhindern kann (Foley et al.,
+2000).
+Die Gabe von Erythropoietin Veränderung der Gefäßeigenschaften, z.B. eine Va­
+sokonstriktion hervorrufen kann (Heidenreich S, Rahn KH, Zidek W. Kidney Int.
+1991;39:259-265). Jetzt sollte untersucht werden, ob die Effekte von Erythropoie­
+tin auf die Gefäßeigenschaften auch bei Patienten mit dialysepflichtiger Nierenin­
+suffizienz nachweisbar sind.
+
+7
+
+Einleitung und Fragestellung
+
+2. Fragestellung
+Das nicht-invasive Monitoring der Hämodynamik während der Hämodialyse ist
+wesentlich, um die Kreislaufkomplikationen frühzeitig zu erkennen. Bislang stehen
+keine praktikablen Online-Verfahren zur Verfügung, um eine kontinuierliche Kreis­
+laufüberwachung zu gewährleisten. Daher soll ein neues, nicht-invasives, kontinu­
+ierliches Monitoring der Hämodynamik mittels digitaler Photoplethysmographie
+während der Hämodialysetherapie erfolgen. Weiterhin soll geprüft werden, ob die
+Hämodialyse einen Einfluss auf die Hämodynamik hat. Im Einzelnen ergaben sich
+für die Untersuchung folgende Fragen:
+1. Besteht eine Korrelation zwischen den durch nicht-invasive Pulswellen­
+messungen bestimmten Parametern, nämlich arterielle Steifigkeiten (S1,
+S2), bestimmt durch Applanationstonometrie, und Vascular Index (RI), be­
+stimmt durch digitale Volumenpulsphotoplethysmographie ?
+2. Wie verändern sich die Parameter arterielle Steifigkeiten (S1, S2) und
+Vascular Index (RI) während der Hämodialyse ?
+3. Welchen Einfluss hat die Gabe von Erythropoietin auf die Parameter arteri­
+elle Steifigkeiten (S1, S2) und Vascular Index (RI) ?
+4. Besteht eine Korrelation zwischen den Parametern und vaskulären Risiko­
+faktoren?
+
+8
+
+Material und Methoden
+
+3. Material und Methoden
+3.1. Studiendesign
+Nach Aufklärung und schriftlicher Einverständniserklärung wurden die Patienten in
+die Untersuchung eingeschlossen. Die Anamnese des Patienten wurde erhoben,
+insbesondere zu früheren kardio-, peripher- und cerebrovaskulären Erkrankungen
+einschließlich koronarer Herzerkrankung (KHK), Insult, peripher arterieller Ver­
+schlusskrankheit (pavk), zu arterieller Hypertonie, Diabetes mellitus, nach Tumor­
+leiden, Art der Nierenerkrankung, Gesamtdauer der Dialysetherapie (in Monaten)
+und Dauer der Einzeldialyse (in Stunden) sowie zur Medikation insbesondere Vit­
+amine, Phosphatbinder, Acetylcystein, Erythropoietin, Eisen, Angiotensin-Conver­
+ting Enzym-Hemmer, ß-Blocker, Calcium-Antagonisten, Nitrate, HMG-CoA-Reduk­
+tase-Hemmer, Thrombozytenaggregationshemmer, Diuretika, Immunsuppressiva.
+Laborchemisch wurden am Start der Dialyse das Blutbild, die Elektrolyte (Natrium,
+Kalium, Calcium, Phosphat), die Retentionsparameter (Harnstoff, Kreatinin, Harn­
+säure), Gesamteiweiß und Albumin, die Leberenzyme (GOT, GPT, GGT, al­
+kalische Phosphatase und Gesamt-Bilirubin) die Bluttfettwerte (Gesamt-, HDL-,
+LDL-Cholesterin und Triglyceride) sowie die kardiovaskulären Risikofaktoren (Pa­
+rathormon, Lipoprotein (a) und Homocystein ) bestimmt.
+Die Gefäßmessungen am Start und am Ende der Hämodialyse erfolgten mittels di­
+gitaler Photoplethysmographie, HDI/Puls Wave Cardiovascular Profiling Instru­
+ment.
+3.2. Charakterisierung der Patienten
+Die Untersuchung wurde bei Patienten mit dialysepflichtiger chronischer Nierenin­
+suffizienz durchgeführt. Einschlusskriterien waren: Alter > 18 Jahre, beiderlei Ge­
+schlecht, zustimmungsfähig, schriftliche und mündliche Zustimmung (informed
+consent). Für eine Untersuchung während der Hämodialysebehandlung lag ein zu­
+stimmendes Votum der zuständigen Ethik-Kommission der Charité Universitäts­
+medizin Berlin, Campus Benjamin Franklin, vor. Die Untersuchung erfolgte nach
+entsprechender Aufklärung und schriftlicher Einwilligungserklärung des Patienten.
+In meiner Promotionsarbeit wurde eine Querschnittsuntersuchung durchgeführt.
+Die Patienten wurden nicht für eine Erythropoietinbehandlung ausgewählt oder
+zugeordnet, sondern es wurde bei der Erhebung der Patientendaten darauf ge­
+achtet, ob die Patienten dauerhaft mit Erythropoietin behandelt worden waren. Bei
+der Auswertung wurden die Daten dann für Patienten mit und ohne Erythropoietin­
+therapie getrennt betrachtet.
+3.3. Digitale Photoplethysmographie
+Die digitale Photoplethysmographie wurde mit einem Pulsoximeter (Vitaguard
+VG3000; getemed, Teltow) durchgeführt mit einem Sensor (LNOP-Adult spo2
+Sensor; Masimo Corp. CA), der auf die Fingerkuppe des Mittelfingers oder des
+nächsten freien Fingers der kontralateralen Arm des Shuntes aufgeklebt wird. Ab­
+9
+
+Material und Methoden
+
+bildung 3. zeigt die Messapparatur in situ. Mit der digitalen Photoplethysmo­
+graphie wird der digitalen Volumenpuls gemessen. Mittels digitaler Photoplethys­
+mographie mit einem Pulsoximeter kann die Pulswelle bei jedem Herzschlag konti­
+nuierlich aufgezeichnet werden, ohne dass der Patient oder die Behandlung be­
+einträchtigt werden (Abbildung 4.). Wie in der Literatur beschrieben (Millasseau
+et al. , 2003) besteht die digitale Volumenpulswelle aus zwei Anteilen. Der initiale,
+systolische Anteil der digitalen Volumenpulswelle wird durch die voranschreitende
+Pulswelle bestimmt. Der spätere, diastolische Anteil der digitalen Volumenpuls­
+welle kommt durch die Reflexion der Pulswelle in der Peripherie, wahrscheinlich
+vorwiegend an kleinen Arterien insbesondere der unteren Körperabschnitte, zu­
+stande.
+
+Plethysmographie
+(arbiträre Einheiten)
+
+Abbildung 3. Digitale Photoplethysmographie zur Analyse der Pulswelle.
+100
+80
+60
+40
+20
+
+Plethysmographie
+(arbiträre Einheiten)
+
+0
+0
+
+10
+
+20 30 40
+Sekunden
+
+50
+
+60
+
+4
+
+5
+
+100
+80
+60
+40
+20
+0
+0
+
+1
+
+2
+3
+Sekunden
+
+Abbildung 4. Typisches Beispiel für kontinuierliches Monitoring der Pulswelle
+durch digitale Photoplethysmographie. Dargestellt sind die Pulswellen, die über
+einen Zeitraum von 60 Sekunden (obere Abbildung) bzw. 5 Sekunden (untere
+Abbildung) aufgezeichnet wurden.
+
+10
+
+Material und Methoden
+
+100
+
+100
+
+ts)
+uni
+
+uni
+
+ry
+
+ry
+75
+
+75
+
+itra
+
+itra
+50
+
+(arb
+
+50
+
+(arb
+
+w
+
+w
+25
+
+25
+
+Flo
+
+Flo
+0
+
+1000
+
+0
+
+1000
+
+0500
+ms
+
+20
+
+ms
+
+20
+
+nits)
+10
+
+u
+
+10
+
+u
+
+ry
+
+ry
+0
+
+0
+
+itra
+-10
+
+(arb
+
+f'
+
+-10
+
+(arb
+
+f'
+-20
+
+-20
+
+itra
+
+nits)
+
+0500
+
+ts)
+
+Die Photoplethysmographiedaten wurden mit 32 pro Sekunde gewonnen, aufge­
+zeichnet, auf einen PC übertragen und die Rohdaten wurden mit einem speziellen,
+neuentwickelten Auswerteprogramm analysiert. Die Messdaten wurden in
+Episoden von 150 Sekunden zusammengefasst. Zur Berechnung des Vascular In­
+dex und zur Charakterisierung des diastolischen Anteils der Pulskurve wurde für
+jede Pulswelle die erste Ableitung berechnet (graphpad Prism 3.0, graphpad Soft­
+ware, San Diego, CA) und das lokale Minimum dieser Funktion wurde automatisch
+berechnet. Das lokale Minimum der ersten Ableitung entspricht dem Wendepunkt
+der Pulswelle. Die Mittelwerte der Daten des dritten bis siebten Punktes, die dem
+Wendepunkt der Pulswelle folgen, wurden analysiert. Der Mittelwert in Prozent der
+maximalen Amplitude der Pulswelle wurde dann als Vascular Index bezeichnet.
+Die Abbildung 5 zeigt eine beispielhafte Auswertung der Pulswelle. Die oben ge­
+nannten Punkte liegen in einem Intervall zwischen 93 Millisekunden bis 218
+Millisekunden nach dem Wendepunkt der Pulswelle und beschreiben sehr exakt
+die charakteristische "Schulterregion" im diastolischen Verlauf der Pulswelle, wel­
+che überwiegend durch die Reflexion der Pulswelle in der Peripherie bedingt ist.
+Durch den neuen Auswerte-Algorithmus kann der Vascular Index als Charakteris­
+tikum des diastolischen Anteils der Pulswelle kontinuierlich während der Hämodia­
+lyse gemessen werden. Der Vascular Index wurde dabei immer als Mittelwert aus
+allen Pulswellen, die innerhalb einer Episode von 150 Sekunden aufgezeichnet
+wurden, also typischerweise mehr als 150 Pulswellen, angegeben. Eine Aus­
+nahme bilden die Vascular Indices die in der unmittelbar nach Stau folgenden
+Episode zum Anschluss und Ende der Dialyse gemessen wurden und im weiteren
+Text als RImax und RI15sec Werte bezeichnet wird. Sie bezeichnen den Mittelwert aus
+allen Pulswellen, die innerhalb von 15 Sekunden aufgezeichnet wurden.
+Abbildung 5. Analyse des diastolischen Anteils der Pulswelle, die mittels digitaler
+Photoplethysmographie gewonnen wurde. Die Pulswelle (Flow, obere Abbildung)
+wurde durch digitale Photoplethysmographie mit einem Pulsoximeter gemessen
+mit einem Sensor, der auf die Fingerkuppe aufgeklebt wurde. Die Plethysmo­
+graphiedaten wurden mit 32 pro Sekunde gewonnen. Für jede Pulswelle wurde die
+erste Ableitung berechnet (f', untere Abbildung) und das lokale Minimum dieser
+Funktion wurde automatisch analysiert. Das lokale Minimum der ersten Ableitung
+entspricht dem Wendepunkt der Pulswelle. Die Mittelwerte der Daten des dritten
+bis siebten Punktes, die dem Wendepunkt der Pulswelle folgen, wurden bestimmt
+und als Vascular Index bezeichnet. In diesem Beispiel ist der Vascular Index= 53.
+Eine kurzfristige Verminderung des arteriellen Einstroms für 5 Minuten wird durch
+eine Blutdruckmanschette erreicht, die über dem systolischen Blutdruck aufge­
+pumpt wird. Nach Lösen des Staus kommt es während der reaktiven Hyperämie
+zu einer „flow mediated dilation“ (Corretti et al., 2002). Man geht heute davon aus,
+dass EDRF (Endothelium derived relaxing factor) ein wichtiger Mediator zur Ver­
+mittlung dieser Reaktion ist. Dabei reagieren Calcium aktivierte Kaliumkanäle des
+Endothels auf Scherkräfte (Cooke et al., 1991; Miura et al., 2001; Olesen et al.,
+1988), und in Folge vermehrten Kaliumausstromes kommt es zur Hyperpolarisati­
+on der Zellen und zum Einstrom von Calcium. Calcium ist ein Aktivator der
+endothelialen NO Synthase und führt so zur NO vermittelten Dilatation, der „flow
+mediated dilation“ (Joannides et al. , 1995; Pohl et al., 1985).
+Während der reaktiven Hyperämie kommt es zu einem Abfall des RI Wertes.
+11
+
+Material und Methoden
+
+Beim Gesunden fällt der RI Wert nach initialen Anstieg unter den Wert des Vascu­
+lar Index (RI), gemessen in der Episode vor Stau, ab. Die Differenz zwischen dem
+Vascular Index (RI) nach Stau und dem Vascular Index (RI) vor Stau gilt als Maß
+für die Dilatation.
+Als Vascular Index gilt das Mittel aller in der Episode (150 Sekunden) vor bzw.
+nach Stau gemessenen Pulswellen. Die Vascular Indices der ersten Episode (150
+Sekunden) nach Stau werden zusätzlich als Mittel aller in einer Messperiode von
+15 Sekunden ermittelten Pulswellen angegeben und im Weiteren als RI15sec be­
+zeichnet. Der prozentual am höchsten liegenden RI15sec Wert, gemessen in der
+Episode nach Stau, wird dabei gesondert als RImax Wert betrachtet und beschreibt
+in seiner Ausprägung den maximalen Wert während der reaktiven Hyperämie. Die
+Abbildung 6 zeigt exemplarisch den Verlauf des Vascular Index (RI) für jeden ein­
+zelnen Pulsschlag über den Zeitraum einer Episode (150 Sekunden) bei einem
+Dialysepatienten während der Phase der reaktiven Hyperämie.
+
+12
+
+Material und Methoden
+
+Vascular index (%)
+
+100
+75
+50
+25
+0
+0
+
+1
+Minuten
+
+2
+
+Abbildung 6. Dargestellt ist der Verlauf des Vascular Index (RI) für jeden einzel­
+nen Pulsschlag während der reaktiven Hyperämie, gemessen am Ende einer Hä­
+modialysetherapiesitzung bei einem Patienten mit chronischer Niereninsuffizienz.
+3.4. HDI/Pulsewave Research Cardiovascular Profiling Instrument
+Die Messung der Gefäß-Compliance erfolgt mit einem HDI/Pulswave research
+cardiovascular profiling instrument (model CR-2000) entsprechend den Empfeh­
+lungen des Herstellers (Hypertension Diagnostics). Die Pulswellenmessungen er­
+folgen mittels eines Applanationstonometers, das von außen auf die Arteria
+radialis aufgesetzt wird. Das Applanationstonometer besteht aus einem Edelstahl­
+zylinder von 1,27 cm Durchmesser der unten durch ein 0,15 mm dickes Edelstahl­
+plättchen verschlossen ist. Über eine Verbindung mit einem piezoelektrischen
+Element erfolgt eine Verstärkung des Pulswellensignals. Eine Haltevorrichtung,
+die am Handgelenk des Patienten befestigt wird, ermöglicht die Justierung des To­
+nometers und gewährleistet die Stabilität während der Pulswellenanalyse. Durch
+einen angewinkelten „wrist stabilizer“ wird der Unterarm während der Messung zu­
+sätzlich stabilisiert. Bei Patienten mit AV-Shunt am Unterarm erfolgt die Messung
+am kontralateralen Arm. Die Pulswellen werden durch die unmittelbar vorausge­
+hende oszillometrische Blutdruckmessung am Oberarm geeicht. Die Form der
+arteriellen Pulswelle wird durch antegrade und retrograde (reflektierte) Druck­
+wellen bestimmt, die durch entsprechende Algorithmen bestimmt werden können.
+Durch einen Algorithmus unter Berücksichtigung eines 4-Element-WindkesselModells können aus der gemessenen Radialis-Pulswelle der totale periphere
+Widerstand (systemic vascular resistence, SVR), der Index der Elastizität der
+großen Gefäße (C1 in ml/mmhgx10) und der Index der Elastizität der kleinen Ge­
+fäße (C2 in ml/mmhgx100) bestimmt werden (Arnett et al., 2001,
+Finkelstein&Cohn, 1992, Mcveigh et al. 1999, Rietzschel et al. 2001).
+13
+
+Material und Methoden
+
+Diese Werte werden aus den Mittelwerten der Pulswellen während einer Messpe­
+riode von 30 Sekunden berechnet.
+Das Schlagvolumen (SV) wird aufgrund von Alter (in Jahren), Herzfrequenz (HR,
+pro Minute), Körperoberfläche (KÖF in m2) und Herzauswurfzeit (cardiac ejection
+time, CET in ms, bestimmt aus der Radialispulswelle) nach folgender Formel be­
+rechnet:
+SV=-6,6+0,25x(CET – 3,5)-0,62x(HR)+40,4x(KÖF)-0,51x(Alter).
+Die Körperoberfläche (KÖF in m2) berechnet sich nach der Formel:
+0,007184 x Körpergröße0,725 x Körpergewicht0,425.
+Der Schlagvolumen-Index berechnet sich aus Schlagvolumen (SV) dividiert durch
+die Körperoberfläche (KÖF).
+Das Herzschlagvolumen berechnet sich nach der Formel: (CO)=(SV)x(HR).
+Die arterielle Steifigkeit der großen Gefäße (S1) und die arterielle Steifigkeit der
+kleinen Gefäße (S2) berechnen sich nach der Formel: S1 = 10/C1 und S2 =
+100/C2.
+Der totale periphere Widerstand (systemic vascular resistence, SVR) errechnet
+sich aus dem mittleren arteriellen Blutdruck geteilt durch (CO).
+Der Index der Elastizität der großen Gefäße (C1), Index der Elastizität der kleinen
+Gefäße (C2) und induktiver Widerstand (inductance, L) wird durch nichtlineare
+Kurvenanpassung aus dem Kurvenverlauf des diastolischen Flusses errechnet.
+3.5. Statistik
+Die statistische Auswertung erfolgt mittels Graphpad Prism 3.0 (Graphpad Softwa­
+re, San Diego, CA) oder SPSS für Windows (Version 11.5:, SPSS, Chicago, IL).
+Kontinuierliche Daten sind als Mittelwert±SEM aufgeführt.
+Das Verhältnis zwischen den Hämodynamikparametern Vascular Index, arterielle
+Steifigkeiten ( S1, S2), wurde unter Verwendung der Spearman Korrelation be­
+wertet.
+Alle Daten wurden mit dem nicht-parametrischen Wilcoxon-Mann-Whitney-Test
+und oder dem nicht-parametrischen Kruskal-Wallis Test verglichen. Ein p<0,05 im
+zweiseitigem Test wurde als signifikanter Unterschied gewertet.
+
+14
+
+Ergebnisse
+
+4. Ergebnisse
+4.1. Allgemein
+In dieser Arbeit wurden n=85 dialysepflichtige Patienten mit einer chronischen
+Niereninsuffizienz untersucht. Es wurde bei der Erhebung der Patientendaten dar­
+auf geachtet, ob die Patienten dauerhaft mit Erythropoietin behandelt worden
+waren. Es erhielten 41 Patienten Erythropoietin, wohingegen 44 Patienten kein
+Erythropoietin erhielten. Das Verhältnis von männlichen zu weiblichen Patienten
+war 67:18. Die Patienten ohne Erythropoietin-Gabe waren im Mittel 67,1±2,1 Jah­
+re alt (Mittelwert±SEM) und seit 20,8±3,6 Monaten dialysepflichtig. Die Patienten
+mit Erythropoietin-Gabe waren Mittel 69,8±1,8 Jahre alt und seit 22,2±3,3 Mona­
+ten dialysepflichtig. Eine ausführliche klinische und biochemische Charakte­
+risierung der Patienten ohne und mit Erythropoietin-Gaben finden sich in Tabelle
+1.
+
+15
+
+Ergebnisse
+
+Tabelle 1. Klinische Charakterisierung der Dialysepatienten. Kontinuierliche Daten
+sind als Mittelwert±SEM angegeben.
+
+Charakteristikum
+Alter (Jahre)
+Mann / Frau
+Körpergewicht (kg)
+Körperoberfläche (m2)
+Body Mass Index (kg/m2)
+Raucher (%)
+Alkohol (%)
+Bluthochdruck (%)
+Diabetes Mellitus (%)
+KHK (%)
+Pavk (%)
+Insult (%)
+Leukozyten (109/L)
+Erythrozyten (1012/L)
+Hämoglobin (g/dl)
+Hämatokrit (%)
+MCV (fl)
+MCH (pg)
+MPV (fl)
+Thrombozyten (109/L)
+GOT (U/L)
+
+Hämodialyse-Patienten
+Ohne EPO-Gabe
+N=41
+67,1±2,1
+29 / 12
+70,9± 2,6
+1,8 ± 0,0
+23,8± 0,7
+31 (76)
+20 (49)
+18 (44)
+7 (17)
+13 (32)
+7 (17)
+1 (2)
+8,8±0,8
+3,4±0,1
+10,1±0,3
+0,3±0
+90,9±2,2
+31,5±1,5
+9,8±0,2
+242,6±14,4
+27,1±6,2
+
+16
+
+Hämodialyse-Patienten
+mit EPO-Gabe
+N=44
+69,8±1,8
+38 / 6
+76,7 ± 2,2
+1,9± 0,0
+26,1 ± 0,7
+27 (61)
+19 (43)
+24 (55)
+11 (16)
+23 (52)
+11 (16)
+5 (11)
+8,4±0,6
+3±0,1
+10,3±0,2
+0,3±0
+94,4±0,8
+30,8±0,3
+17,4±7,0
+219,7±10,7
+23,8±2,6
+
+Ergebnisse
+
+Tabelle 1. (Fortführung) Klinische Charakterisierung der Dialysepatienten. Konti­
+nuierliche Daten sind als Mittelwert±SEM angegeben.
+
+Charakteristikum
+GPT (U/L)
+Gamma GT (U/L)
+Alk. Phosphatase (U/L)
+Bilirubin gesamt (mg/dl)
+Glucose (mg/dl)
+Cholesterin gesamt(mg/dl)
+HDL-Cholesterin (mg/dl)
+LDL-Cholesterin (mg/dl)
+Triglyceride (mg/dl)
+Hscrp (mg/dl)
+Albumin (g/L)
+Homocystein (µmol/L)
+Lipoprotein A (mg/L)
+Fibrinogen (g/dl)
+Ferritin (µg/L)
+Transferrin (mg/dl)
+Eisen (µmol/L)
+Folsäure (mg/ml)
+Vit.B12 (pmol/L)
+Hb A1c (%)
+Serum-Kreatinin (mg/dl)
+Serum-Harnstoff (mg/dl)
+Serum-Harnsäure (mg/dl)
+Serum-Natrium (mmol/L)
+Serum-Kalium (mmol/L)
+Serum-Calcium (mmol/L)
+Serum-Phosphat(mmol/L)
+Gesamt-Eiweiß (g/dl)
+Parathomon (ng/L)
+
+Hämodialyse-Patienten
+Ohne EPO-Gabe
+N=41
+30,3±8,7
+76,2±16,2
+97,3±6,4
+0,9±0,2
+142,7±10,0
+150,5±7,3
+47±2,4
+105,5±8,0
+201,3±22,0
+5,0±0,9
+3,7±0,5
+18,1±1,3
+356,1± 136,9
+4,3±0,3
+920,5±148,7
+79,1±15
+12,2±1,2
+7,2±1,5
+418,5±42,6
+7,0±0,6
+5,7±0,4
+116,6±9,2
+5,6±0,3
+136,8±0,6
+4,6±0,1
+2,3±0
+1,8±0,1
+6,5±0.2
+307,7±135,6
+
+17
+
+Hämodialyse-patienten
+mit Epo-Gabe
+N=44
+26,2±3,5
+49,8±6,7
+83,1±4,7
+0,6±0,1
+119,5±5,6
+154,7±6,0
+47±2,4
+98,5±3,9
+182±23,4
+7,0±3,6
+4,1±0,8
+22,4±2,2
+240,4± 57,5
+5,4±0,4
+646,3±103,8
+1±0,04
+9,9±0,7
+4,1±0,5
+435,2±41,8
+6,1±0,2
+6,9±0,4
+111,6±7,1
+6,0±0,2
+135,5±0,7
+4,9±0,1
+2,3±0,01
+1,7±0,1
+6,4±0.1
+229,2±54,4
+
+Ergebnisse
+
+Tabelle 1. (Fortführung) Biochemische Charakterisierung der Dialysepatienten.
+Kontinuierliche Daten sind als Mittelwert±SEM angegeben.
+
+Charakteristikum
+Medikation (%)
+Vitamine
+Phosphatbinder
+ACC
+Eisen
+ACE-Hämmer
+ß-Blocker
+Ca-Antagonisten
+Nitrate
+HMGCoA Reductase-Hemmer
+Thrombozytenaggregationshem­
+mer
+Diuretika
+Immunsuppressiva
+Hämodialyse-Dauer (Monate)
+Harnstoff-Reduktionsrate (%)
+Dialyse-Dosis (kt/V)
+Ultrafiltration (L)
+Systolischer Blutdruck (mmHg)
+Diastolischer Blutdruck (mmHg)
+Pulsdruck (mmHg)
+
+Hämodialyse-Pati­
+enten
+Ohne EPO-Gabe
+N=41
+
+Hämodialyse-Pati­
+enten mit EPO-Gabe
+N=44
+
+17 (42)
+18 (44)
+7 (17)
+2 (5)
+8 (20)
+18 (44)
+12 (29)
+0 (0)
+2 (5)
+22 (54)
+
+8 (18)
+16 (36)
+7 (39)
+41 (93)
+11 (25)
+19 (43)
+10 (23)
+3 (9)
+10 (23)
+26 (59)
+
+28 (68)
+4 (10)
+20,8±3,6
+45±0,1
+0,9±0,1
+1,5±0,2
+124,8±3,4
+68,7±1,9
+56,1±2,2
+
+27 (61)
+7 (39)
+22,2±3,3
+35±0,1
+0,9±0,1
+1,6±0,2
+127,2±4,2
+64,1±2,5
+63,2±2,4
+
+18
+
+Ergebnisse
+
+Unter Dialysetherapie kam es in der Gruppe der Patienten mit Erythropoietin-Gabe
+zu einer Reduktion der Harnstoffkonzentration von 111,6±7,1 auf 39,2±4,2 mg/dl
+bei einer Harnstoffreduktionsrate von 35±0,1%. Das mittlere Ultrafiltrationsvolu­
+men und Ultrafiltrationsgewicht (in % des Körpergewichtes) waren 1,6±0,2L und
+2,1±0,2%, bei einer mittleren Dialysezeit von 4,0±0,1 Stunden. Die mittlere Kon­
+zentrationen sanken bei Kreatinin von 6,9±0,4mg/dl auf 3,2±0,3mg/dl, Kalium von
+4,9±0,1mmol/L auf 4,2±0,1 mmol/L, Harnsäure von 6,0±0,2mg/dl auf 2,2±0,1mg/dl
+und Phosphat von 1,7±0,1mmol/L auf 1,0±0,1 mmol/L am Ende der Dialyse. Kalzi­
+um stieg von 2,3±0,01mmol/L auf 2,5±0,0mmol/L und Eiweiß war unverändert
+6,4±0,1g/dl, während die Natriumkonzentration von 135,5±0,7mmol/L auf
+136,9±0,4mmol/L signifikant Anstieg. Am Ende der Dialyse zeigte sich das Blutbild
+keine signifikanten Veränderungen. Eine graphische Darstellung der Ver­
+änderungen von Elektrolyten und Retentionsparametern findet sich in Abbildung
+7, 9, 11 und 13. Zum Start der Dialyse betrugen die Werte für den mittleren Blut­
+druck 89,7±3,4mmhg, systolischen Blutdruck 127,2±4,2mmhg, diastolischen Blut­
+druck 64,1±2,5mmhg und den Pulsdruck 63,2±2,4mmhg. Zum Ende der Dialyse
+betrugen die Werte für den mittleren Blutdruck 96,8±3,6mmhg, Systolische Blut­
+druck 134,2±4,5mmhg, diastolische Blutdruck 67,6±2,5mmhg und den Pulsdruck
+66,6±2,7mmhg (siehe Abbildung 15). Die mittlere Pulsfrequenz war 75,7±2,4 pro
+Minute am Start und 75,5±2,5 pro Minute am Ende der Dialyse.
+In der Gruppe der Dialysepatienten ohne Erythropoietin-Gabe kam es zu einer Re­
+duktion der Harnstoffkonzentration von 116,6±9,2mg/dl auf 52±6,6mg/dl bei einer
+Harnstoffreduktionsrate von 45±0,1%. Die mittlere Ultrafiltrationsvolumen und
+Ultrafiltrationsgewicht (%) waren 1,5±0,2L und 2,2±0,3% bei einer mittleren Dialy­
+sezeit von 3,9±0,1 Stunden. Die mittlere Konzentrationen sanken bei Kreatinin von
+5,7±0,4mg/dl auf 3,0±0,2mg/dl, Kalium von 4,6±0,1mmol/L auf 4,1±0,1mmol/L,
+Harnsäure von 5,6±0,3mg/dl auf 2,2±0,2mg/dl und Phosphat von 1,8±0,1mmol/L
+auf 1,0±0,1mmol/L am Ende der Dialyse. Kalzium stieg von 2,3±0mmol/L auf
+2,5±0,0mmol/L und die Natriumkonzentration zeigte keinen signifikanten Anstieg
+(137,8±0,8mmol/L). Eine graphische Darstellung der Veränderungen von
+Elektrolyten und Retentionsparametern findet sich in Abbildung 8, 10, 12 und
+14. Zum Start der Dialyse betrugen die Werte für den mittleren Blutdruck
+91,1±2,7mmhg, systolischen Blutdruck 124,8±3,4mmhg und diastolischen Blut­
+druck 68,7±1,9mmhg sowie der Pulsdruck 56,1±2,2mmhg. Zum Ende der Dialyse
+betrugen die Werte für den mittleren Blutdruck 96,4±2,7mmhg, systolischen Blut­
+druck 132,9±4,0mmhg, diastolische Blutdruck 73,8±3,4mmhg und Puldruck
+62,3±3,0mmhg (siehe Abbildung 16). Die Pulsfrequenz war 79,0±3,3 pro Minute
+am Start und 104,4±26,4 pro Minute am Ende der Dialyse.
+
+19
+
+Konzentration(mg/dl)
+
+Ergebnisse
+
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+***
+***
+
+Kreatinin
+
+Start HD
+Ende HD
+
+Harnsäure
+
+Konzentration(mg/dl)
+
+Abbildung 7. Die Retentionsparameter Kreatinin und Harnsäure wurden bei 44
+Hämodialysepatienten mit Erythropoietin-Gabe gemessen am Start und am Ende
+der Hämodialyse. Wilcoxon Test ***P<0,0001 für den Vergleich Start vs. Ende der
+Hämodialyse (HD).
+
+7
+6
+5
+4
+3
+2
+1
+0
+
+***
+
+***
+
+Kreatinin
+
+Start HD
+Ende HD
+
+Harnsäure
+
+Abbildung 8. Die Retentionsparameter Kreatinin und Harnsäure wurden bei Hä­
+modialysepatienten ohne Erythropoietin-Gabe gemessen am Start und am Ende
+der Hämodialyse. Wilcoxon Test ***p<0,05 für den Vergleich Start vs. Ende der
+Hämodialyse(HD).
+
+20
+
+Ergebnisse
+
+Konzentration(mg/dl)
+
+125
+
+***
+
+Start HD
+Ende HD
+
+100
+75
+50
+25
+0
+
+Harnstoff
+
+Konzentration(mg/dl)
+
+Abbildungen 9. Der Retentionsparameter Harnstoff wurde bei 44 Hämodialysepa­
+tienten mit Erythropoietin-Gabe gemessen am Start und am Ende der Hämodialy­
+se (HD). Wilcoxon Test ***P<0,0001 für den Vergleich Start vs. Ende der Hämo­
+dialyse(HD).
+
+150
+125
+
+Start HD
+Ende HD
+
+***
+
+100
+75
+50
+25
+0
+Harnstoff
+
+Abbildungen 10. Der Retentionsparameter Harnstoff wurde bei 41 Hämodialyse­
+patienten ohne Erythropoietin-Gabe gemessen am Start und Ende der Hämodialy­
+se (HD).Wilcoxon Test ***p<0,05 für den Vergleich Start vs. Ende der Hämodialy­
+se( HD).
+
+21
+
+Ergebnisse
+
+Konzentration
+(mmol/L)
+
+150
+
+*
+
+125
+
+Start HD
+Ende HD
+
+100
+75
+50
+25
+0
+
+Natrium
+
+Abbildung 11. Die Natriumkonzentration bei 44 Hämodialysepatienten mit Ery­
+thropoietin-Gabe wurde gemessen am Start und am Ende der Dialyse. Wilcoxon
+Test *P<0,05 für den Vergleich Start vs. Ende der Hämodialyse.
+
+Konzentration
+(mmol/L)
+
+150
+
+Start HD
+Ende HD
+
+125
+100
+75
+50
+25
+0
+
+Natrium
+
+Abbildung 12. Die Natriumkonzentration bei 41 Hämodialysepatienten ohne Ery­
+thropoietin-Gabe wurde gemessen am Start und am Ende der Dialyse.
+Wilcoxon Test P<0,05 für den Vergleich Start vs. Ende der Hämodialyse.
+
+22
+
+Ergebnisse
+
+***
+
+Konzentration
+(mmol/L)
+
+5
+
+Start HD
+Ende HD
+
+4
+3
+
+***
+
+2
+
+***
+
+1
+0
+
+Calcium
+
+Kalium
+
+Phosphat
+
+Abbildungen 13. Konzentration der Elektrolyte Calcium, Kalium und Phosphat bei
+44 Hämodialysepatienten mit Erythropoietin-Gabe gemessen am Start und am
+Ende der Hämodialyse (HD). Wilcoxon Test ***P<0,05 für den Vergleich Start vs.
+Ende der Hämodialyse(HD).
+
+Konzentration
+(mmol/L)
+
+5
+
+***
+
+Start HD
+Ende HD
+
+4
+3
+
+***
+
+2
+
+***
+
+1
+0
+
+Calcium
+
+Kalium
+
+Phosphat
+
+Abbildung 14. Die Konzentration der Elektrolyte Calcium, Kalium und Phosphat
+wurde bei 41 Hämodialysepatienten ohne Erythropoietin-Gabe gemessen am Start
+und am Ende der Hämodialyse (HD). Wilcoxon Test ***p<0,05 für den Vergleich
+Start vs. Ende der Hämodialyse (HD).
+
+23
+
+Blutdruck(mmHg)
+
+Ergebnisse
+
+150
+125
+100
+
+Start HD
+Ende HD
+
+75
+50
+25
+0 Systolischer
+Blutdruck
+
+Diastolischer
+Blutdruck
+
+Mitteldruck
+
+Puls Druck
+
+Blutdruck(mmHg)
+
+Abbildung 15. Die mittleren, systolischen und diastolischen Blutdruckwerte sowie
+der Pulsdruck wurden bei 44 Hämodialysepatienten mit Erythropoietin-Gabe am
+Start und am Ende der Hämodialyse (HD) gemessen.
+
+150
+125
+100
+
+Start HD
+Ende HD
+
+75
+50
+25
+0
+
+Systolischer
+Blutdruck
+
+Diastolischer Mitteldruck
+Blutdruck
+
+Puls Druck
+
+Abbildung 16. Die mittleren-, systolischen- und diastolischen Blutdruckwerte so­
+wie der Pulsdruck wurden bei 41 Hämodialysepatienten ohne Erythropoietin-Gabe
+gemessen am Start und am Ende der Hämodialyse.
+
+24
+
+Ergebnisse
+
+4.2. Einfluss von Erythropoietin auf die Gefäßeigenschaften
+4.2.1. Der Vascular Index (RI) während der Hämodialyse
+Mittels nicht-invasiver photoplethysmographischer Messungen wurde ein kontinu­
+ierliches Monitoring der Pulswelle bei den Patienten während der Hämodialyse
+durchgeführt. Die Pulswellen wurden durch den Vascular Index charakterisiert:
+Der Vascular Index dient zur Charakterisierung des diastolischen Anteils der Puls­
+welle. Die Indices wurden immer als Mittelwert aus allen Pulswellen, die innerhalb
+einer Episode von 150 Sekunden aufgezeichnet wurden, angegeben. Eine Aus­
+nahme bilden Vascular Indices RImax und RI15sec, die Mittelwerte aller Pulswellen in­
+nerhalb einer Messperiode von 15 Sekunden darstellen.
+Im Verlauf der Hämodialyse kam es in der Gruppe der Hämodialysepatienten
+ohne Erythropoietin-Gabe im Mittel zu einem signifikanten Anstieg des Vascular
+Index von 37,7±1,7% am Start der Dialyse, auf 40,3±2,0% am Ende der Dialyse
+(n=41; P<0,05). Während der reaktiven Hyperämie nach Lösen eines kurzfristigen
+Staus des arteriellen Einstroms lagen die Werte des Vascular Index am Start der
+Hämodialyse bei 39,5±2,2% und am Ende der Hämodialyse bei 39,4±2,2% (Abbil­
+dung 17.).
+In der Gruppe der Hämodialysepatienten mit Erythropoietin-Gabe kam es im Mit­
+tel ebenfalls zu einem signifikanten Anstieg des Vascular Index von 35,5±1,6% am
+Start der Dialyse auf 38,1±1,7% am Ende der Dialyse (n=44, P<0,05). Während
+der reaktiven Hyperämie nach Lösen eines kurzfristigen Staus des arteriellen
+Einstroms lagen die Werte des Vascular Index am Start 37,3±1,7% und am Ende
+der Hämodialyse bei 38,9±1,9% (Abbildung 18.).
+In der Gruppe der Hämodialysepatienten mit Erythropoietin-Gabe war der Vascu­
+lar Index mit 38,9±1,9% nicht signifikant unterschiedlich im Vergleich zu der
+Gruppe ohne Erythropoietin-Gabe (Vascular Index 39,4±2,2%, P>0,05).
+
+25
+
+Vascular Index
+(Willkürliche Einheiten)
+
+Ergebnisse
+
+50
+40
+Vor Stau
+
+30
+
+Nach Stau
+
+20
+10
+0
+
+Vascular Index
+am Start der HD
+
+Vascular Index
+am Ende der HD
+
+Vascular Index
+(Willkürliche Einheiten)
+
+Abbildung 17. Vascular Index während der Dialyse. Dargestellt ist der Vascular
+Index für 41 Hämodialysepatienten ohne Erythropoietin-Gabe. Während der Hä­
+modialysebehandlung kam es zu einem signifikanten Anstieg des RI von
+37,7±1,7% auf 40,3±2,0% (P<0,05).
+
+50
+40
+Vor Stau
+
+30
+
+Nach Stau
+
+20
+10
+0
+
+Vascular Index
+am Start der HD
+
+Vascular Index
+am Ende der HD
+
+Abbildung 18. Vascular Index während der Dialyse. Dargestellt ist der Vascular
+Index für 44 Hämodialysepatienten mit Erythropoietin-Gabe. Während der Hämo­
+dialysebehandlung kam es zu einem signifikanten Anstieg des RI von 35,5±1,6%
+auf 38,13±1,7% (P<0,05).
+
+26
+
+Ergebnisse
+
+Nach Lösen einer Kompression am Oberarm mit einer Blutdruckmanschette über
+den systolischen Blutdruckwert kam es bei den Patienten zur reaktiven Hy­
+perämie. In der Gruppe der Hämodialysepatienten ohne Erythropoietin-Gabe kam
+es zu einem Anstieg der RImax Werte von 56,5±2,5% am Start der Dialyse und auf
+59,1±2,6% am Ende der Dialyse (p<0,05; Abbildung 19.). Der Vascular Index
+nach Stau lag in der Gruppe der Hämodialysepatienten ohne Erythropoietin-Gabe
+am Start bei 39,5±2,2% (37,7±1,7% vor Stau) und am Ende bei 39,4±2,2%
+(40,3±2.0% vor Stau) und wies keinen signifikanten Unterschied auf zu dem ent­
+sprechenden Vascular Index (RI) vor Stau (siehe Abbildung 20.).
+In der Gruppe der Hämodialysepatienten mit Erythropoietin-Gabe kam es zu
+einem Anstieg des RImax auf 55,9±2.3% zum Start der Dialyse und auf 62,4±2,2%
+am Ende der Dialyse (p<0,05; Abbildung 19.).
+Die Mittelwert±SEM des Vascular Index nach Stau lag in der Gruppe der Hämo­
+dialyse-Patienten mit Erythropoietin-Gabe am Start bei 37,3±1,7% (35,5±1,6% vor
+Stau) und am Ende bei 38,9±1,9% (38,1±1,7% vor Stau). Der Vascular Index (RI)
+nach Stau am Ende der Dialyse unterschied sich dabei nicht signifikant von dem
+entsprechenden Vascular Index vor Stau, p>0.05 (siehe Abbildung 20.).
+Sowohl in der ohne-Erythropoietin-Gruppe als auch in der mit-ErythropoietinGruppe waren die Veränderungen des RI am Start und am Ende der Hämodialyse
+nicht signifikant unterschiedlich (1,79±1,23 vs. –0,86±1,71 bzw. 1,74±0,89 vs.
+0,38±1.16).
+Im Zusammenhang mit den laborchemischen Parametern zum Start und Ende der
+Hämodialyse ergab sich eine Korrelation (Spearman; r=0,33) zwischen der Ab­
+nahme der Kreatininkonzentration und der Zunahme des maximalen nach Stau
+gemessenen Vascular Index (RImax) in der Gruppe der Hämodialysepatienten mit
+Erythropoietin-Gabe (siehe Abbildung 21.). Dabei zeigte sich die Reduktion der
+erhöhten Kreatininwerte (6,9±0,4mg/dl) zum Start der Dialyse auf Werte von
+3,2±0,3mg/dl assoziiert mit einem Anstieg des nach Stau gemessenen RImax.
+
+27
+
+RImax
+(Willkürliche Einheiten)
+
+Ergebnisse
+
+70
+60
+50
+40
+30
+20
+10
+0
+
+Start der HD
+Ende der HD
+
+Ohne EPO-Gabe
+
+Mit EPO-Gabe
+
+Abbildung 19. Die RImax Werte, wurde gemessen am Start (blaue Balken) und am
+Ende (rote Balken) der Hämodialyse bei 41 Hämodialysepatienten ohne Erythro­
+poietin-Gabe und bei 44 Hämodialysepatienten mit Erythropoietin-Gabe. Mann
+Whitney Test (P>0,05) für den Vergleich Start vs. Ende Hämodialyse (HD).
+
+28
+
+Ergebnisse
+
+Vascular Index
+(Willkürliche Einheiten)
+
+Vor Stau
+
+50
+
+Nach Stau
+
+40
+30
+20
+10
+0
+
+Vascular Index
+mit EPO-Gabe
+
+Vascular Index
+ohne EPO-Gabe
+
+Abbildung 20. Vascular Index (RI) vor Stau (blaue Balken) und während der re­
+aktiven Hyperämie (rote Balken) wurde gemessen am Ende der Hämodialyse. Die
+reaktive Hyperämie wurde bei 44 Hämodialysepatienten mit Erythropoietin-Gabe
+und bei 41 Hämodialysepatienten ohne Erythropoietin-Gabe ausgelöst durch Lö­
+sen einer Blutdruckmanschette am Oberarm, die für 5 Minuten auf einen suprasy­
+stolischen Druck aufgepumpt worden war. Mann Whitney Test (P>0,05) für den
+Vergleich zwischen vor Stau und nach Stau (reaktive Hyperämie) am Ende der
+Hämodialyse (HD).
+
+29
+
+Ergebnisse
+
+Kreatinin (mg/dl)
+
+20
+15
+10
+5
+0
+0
+
+25
+
+50
+
+75
+
+100
+
+RImax (willkürliche Einheiten)
+Abbildung 21. Korrelation von RImax Wert und Kreatininkonzentration während der
+Dialyse. Auf der Y-Achse sind Kreatininkonzentrationen am Ende der Hämodialy­
+se bei 44 Hämodialysepatienten mit Erythropoietin-Gabe aufgetragen. Auf der XAchse sind die RImax am Ende der Hämodialyse bei 44 Hämodialysepatienten mit
+Erythropoietin-Gabe aufgetragen. Dargestellt sind die Regressionsgerade und das
+95% Konfidenzintervall.
+4.2.2.Veränderungen der Arteriellen Steifigkeiten Indices (S1, S2) unter
+Dialyse
+Die Messung der Gefäß-Compliance erfolgte mit einem HDI/Pulswave research
+cardiovascular profiling Instrument (model CR-2000) entsprechend den Empfeh­
+lungen des Herstellers (Hypertension Diagnostics). Die Pulswellenmessungen er­
+folgten mittels eines Applanationstonometers, das von außen auf die Arteria
+radialis aufgesetzt wurde.
+Am Start der Hämodialyse waren S1 und S2 nicht signifikant unterschiedlich zwi­
+schen den beiden Gruppen. In der Gruppe der Hämodialysepatienten mit Erythro­
+poietin-Gabe waren S1 1,4±0,1mmhg/ml und S2 29,4±2,5mmhg/ml. In der Gruppe
+der Hämodialysepatienten ohne Erythropoietin waren S1 1,3±0,1mmhg/ml und S2
+24.5±2.4mmhg/ml.
+Am Ende der Hämodialyse waren S1 und S2 nicht signifikant unterschiedlich zwi­
+schen den beiden Gruppen. In der Gruppe der Hämodialysepatienten mit Erythro­
+poietin-Gabe waren S1 1,4±0,1mmhg/ml und S2 35,1±3,5mmhg/ml. In der Gruppe
+der Hämodialysepatienten ohne Erythropoietin waren S1 1,4±0,1mmhg/ml und S2
+36,6±4,7mmhg/ml.
+30
+
+Ergebnisse
+
+Bei 41 Hämodialysepatienten ohne Erythropoietin-Gabe kam es zu keiner signifi­
+kanten Änderung der arteriellen Steifigkeiten der großen Gefäße (S1), gemessen
+am Start und Ende der Dialyse (p=0,53). Der S1 Wert betrug 1,3±0,1mmhg/ml am
+Start der Dialyse und 1,4±0,1mmhg/ml am Ende der Dialyse. Es kam zu einem si­
+gnifikanten Anstieg der Arteriellen Steifigkeiten der kleinen Gefäße (S2), ge­
+messen am Start und Ende der Dialyse. Der S2 Wert betrug 24,5±2,4mmhg/ml am
+Start der Dialyse und 36,6±4,7mmhg/ml am Ende der Dialyse (p<0,05).
+Auch bei 44 Patienten mit Erythropoietin-Gabe kam es zu keiner signifikanten
+Änderung der Arteriellen Steifigkeiten der großen Gefäße (S1), gemessen am
+Start und Ende der Dialyse. Der S1 Wert betrug 1,4±0,1mmhg/ml am Start und
+1,4±0,1mmhg/ml am Ende der Dialyse. Die arterielle Steifigkeit der kleinen Gefäße
+(S2) zeigten in der Gruppe der Hämodialysepatienten mit Erythropoietin-Gabe
+einen signifikanten Anstieg. Es kam zu einem signifikanten Anstieg der arteriellen
+Steifigkeiten von 29,4±2,5mmhg/ml am Start auf 35,1±3,5mmhg/ml am Ende der
+Dialyse (p<0,05). In Abbildung 22. findet sich eine graphische Darstellung der
+Veränderung von S2.
+In der Gesamtgruppe der Hämodialysepatienten zeigte sich eine signifikante Kor­
+relation der arteriellen Steifigkeiten der großen Gefäße S1 mit dem Pulsdruck (Ab­
+bildung 23),
+Sowohl der S1 als auch der S2 Wert wiesen bei Hämodialysepatienten ohne Ery­
+thropoietin-Gabe eine Korrelation mit dem Pulsdruck auf (Abbildung 24. Und 25. ;
+Spearman: r=0,4, p<0,02). Bei Patienten mit Erythropoietingabe zeigte sich keine
+signifikante Korrelation zwischen den arteriellen Steifigkeiten S1 oder S2 mit dem
+Puls Druck,
+
+31
+
+Ergebnisse
+
+S2 (mmHg/mL)
+
+50
+40
+Start HD
+Ende HD
+
+30
+20
+10
+0
+
+Ohne EPO-Gabe
+
+Mit EPO-Gabe
+
+Abbildung 22. Arterielle Steifigkeit der kleinen Gefäße(S2) gemessen am Start
+und Ende der Hämodialyse (HD) bei 41 Patienten ohne Erythropoietin-Gabe und
+44 Patienten mit Erythropoietin-Gabe. Mann Whitney Test (P<0,05) für den Ver­
+gleich der S2 Werte Start vs. Ende der Hämodialyse (HD).
+
+32
+
+Ergebnisse
+
+Arterielle Steifigkeit S1
+(mmHg/mL)
+
+4
+3
+2
+1
+0
+0
+
+25
+
+50
+
+75
+
+100
+
+Pulsdruck (mmHg)
+Abbildung 23. Korrelation des Pulsdruckes der Patienten ohne ErythropoietinGabe (offene Punkte) und der Patienten mit Erythropoietin-Gabe (schwarze
+Punkte) mit der arterielle Steifigkeit der großen Gefäße (S1). Auf der X – Achse ist
+der Pulsdruck aufgetragen. Auf der Y–Achse ist die Arterielle Steifigkeit der
+großen Gefäße (S1) aufgetragen. Dargestellt sind die Regressionsgerade und das
+95% Konfidenzintervall.
+
+33
+
+Ergebnisse
+
+Arterielle Steifigkeit S2
+(mmHg/mL)
+
+80
+70
+60
+50
+40
+30
+20
+10
+0
+25
+
+50
+
+75
+
+100
+
+Pulsdruck (mmHg)
+Abbildung 24. Korrelation der arteriellen Steifigkeiten der kleinen Gefäße(S2) mit
+dem Pulsdruck. Auf der X-Achse ist Pulsdruck von 41 Dialysepatienten ohne Ery­
+thropoietin-Gabe am Start der HD aufgetragen. Auf der Y-Achse ist die Arterielle
+Steifigkeit der kleinen Gefäße (S2) am Start der HD aufgetragen. Dargestellt sind
+die Regressionsgrade und das 95% Konfidenzintervall.
+
+34
+
+Ergebnisse
+
+Arterielle Steifigkeit
+(mmHg/mL)
+
+4
+3
+2
+1
+0
+25
+
+50
+
+75
+
+100
+
+Pulsdruck (mmHg)
+Abbildung 25. Korrelation der arteriellen Steifigkeiten der großen Gefäße (S1) mit
+dem Pulsdruck. Auf der X–Achse ist der Pulsdruck am Start der Hämodialyse (HD)
+für 41 Patienten ohne EPO-Gabe aufgetragen. Auf der Y–Achse ist die Arterielle
+Steifigkeit der großen (S1) Gefäße am Start der Hämodialyse (HD) aufgetragen.
+
+35
+
+Diskussion
+
+5. Diskussion
+5.1.Vascular Index
+Die digitale Photoplethysmographie als Methode der kontinuierlichen Analyse der
+Pulswelle während einer Hämodialysebehandlung stellt einen wesentlichen Fort­
+schritt beim Monitoring der Hämodynamik bei Patienten mit dialysepflichtiger
+Niereninsuffizienz dar. Mit dem neu entwickelten Auswerte-Algorithmus war es
+erstmalig möglich, den diastolischen Anteil der Volumenpulswelle mit dem neu de­
+finierten Vascular Index genau zu erfassen. Wie in der Literatur beschrieben, ent­
+steht der diastolische Anteil der digitalen Volumenpulswelle vorwiegend durch die
+Reflexion der Pulswelle in der Peripherie, wahrscheinlich vorwiegend an kleinen
+Arterien insbesondere der unteren Körperabschnitte (Millasseau et al., 2003).
+Es ist bekannt, dass es unter der Hämodialysebehandlung zu Veränderungen der
+Hämodynamik kommt. Während einer routinemäßigen Hämodialyse kann es ge­
+legentlich zu Blutdruckanstiegen, aber häufiger zu Blutdruckabfällen kommen. Als
+Ursache für diese Veränderungen werden die Volumenveränderungen, die
+Eliminierung von osmotisch wirksamen Substanzen und die Elektrolyt- und PhVerschiebungen angesehen (Donauer, 2004; Noris et al., 1998). Cavalcanti et al.
+(2004) postulierten, dass das Auftreten von Blutdruckabfällen durch eine Ver­
+änderung der Adaptation der peripheren Widerstandsgefäße unter dem Volumen­
+entzug während der Dialyse bedingt sein könnte. Die Untersuchung zeigte jetzt,
+dass es tatsächlich im Verlauf der Hämodialyse sowohl bei Patienten ohne Ery­
+thropoietin-Gabe als auch bei Erythropoietin-Gabe zu einer Vasokonstriktion mit
+Erhöhung der Pulsreflexion in der Peripherie kam. Im Mittel kam es zu einem si­
+gnifikanten Anstieg des Vascular Index von 37,7±1,7% (ohne Erythropoietin-Gabe)
+und 35,5±1,6% (mit Erythropoietin-Gabe) am Start der Dialyse auf 40,3±2,0%
+(ohne Erythropoietin-Gabe) und 38,1±1,7% (Mit Erythropoietin-Gabe) am Ende
+der Dialyse. Klinisch bedeutsame Blutdruckabfälle traten während der Untersu­
+chungen nicht auf. Durch das neue Verfahren zur Überwachung der Pulswelle
+während der Hämodialyse mittels nicht-invasiver digitaler Photoplethysmographie
+können hämodynamische Veränderungen bei den Patienten während einer Hämo­
+dialyse ohne Beeinträchtigung des Patienten oder der Dialysebehandlung genau
+dokumentiert werden, so dass individuelle Veränderungen der Hämodynamik bei
+jedem Patienten erkannt werden können.
+Der Schädigung der Endothelfunktion durch Hypertonie, Dyslipidämie, Homocy­
+stein, glykosilierte Plasmaproteine, oxidativen Stress und Mikroinflammation, bei
+Patienten mit chronischer Niereninsuffizienz wird eine entscheidende Trigger­
+funktion in der Entwicklung kardiovaskulärer Erkrankungen zugeschrieben. Die
+Endothelfunktion wurde durch 5 minütige Kompression am ipsilateralen Oberarm
+mit einer Blutdruckmanschette über den systolischen Blutdruckwert und an­
+schließende Lösung der Kompression untersucht. Dabei kommt es bei Gesunden
+zu einer endothelvermittelten Vasodilatation ausgelöst durch Scherkräfte am
+Endothel (Cooke et al., 1991; Joannides et al., 1995; Miura et al., 2001; Olesen et
+al., 1988; Pohl et al., 1985). Diese Phase ist charakterisiert durch einen initialen
+Anstieg des Vascular Index und einen anschließenden Abfall auf Werte unter die
+Ausgangwerte vor der Kompression. Patienten ohne Erythropoietin-Gabe zeigten
+weder zum Start noch zum Ende der Dialyse Zeichen einer Vasodilatation nach
+36
+
+Diskussion
+
+Kompression. Dabei unterschied sich der initiale Anstieg zu Beginn der reaktiven
+Hyperämie, repräsentiert durch den RImax Wert zum Start und Ende der Dialyse.
+Patienten mit Erythropoietin-Gabe zeigten am Ende der Dialyse eine Veränderung
+des Vascular Index während reaktiver Hyperämie von 55,9±2,3% auf 62,4±2,2%.
+Im Vergleich zu den Hämodialysepatienten ohne Erythropoietin-Gabe ergab sich
+allerdings eine geringere Abnahme des Vascular Index während der reaktiven Hy­
+perämie. Der initiale Anstieg zu Beginn der reaktiven Hyperämie erwies sich zum
+Start der Dialyse im Vergleich mit Hämodialysepatienten ohne ErythropoietinGabe als gemindert (RImax= 56,5±2,5%) und wies zum Ende der Dialyse einen Un­
+terschied (RImax=59,1±2,6%) auf. Die Ergebnisse lassen vermuten, dass es bei
+den Patienten zu einer Verbesserung der Endothelfunktion unter Hämodialyse ge­
+kommen ist, die allerdings gegenüber Gesunden immer noch vermindert bleibt.
+Dies ist insofern beeindruckend, da sich in der Literatur eine Vielzahl an Studien
+findet in denen sich keine Verbesserung der endothelialen Funktion unter Hämo­
+dialyse zeigte (Miyazaki et al., 2000; Tarng et al., 2000). So untersuchten Kosch et
+al. (2001) doppler-sonographisch die Veränderungen während reaktiver Hy­
+perämie bei Hämodialysepatienten und fanden im Vergleich der end-diastolischen
+Durchmesser der Arteria brachialis vor und während reaktiver Hyperämie keinen
+signifikanten Unterschied. Anders als bei der doppler-sonographischen Bestim­
+mung des end-diastolischen Durchmessers der Arteria brachialis ist die genaue
+Lokalisation der Vasodilatation mittels digitaler Photoplethysmographie nicht
+möglich.
+5.2. Arterielle Steifigkeit
+Veränderungen, wie sie bei verschiedenen Erkrankungen einschließlich arterieller
+Hypertonie oder chronischer Niereninsuffizienz auftreten, sind durch entspre­
+chende Veränderungen der arteriellen Steifigkeiten darstellbar. Die arterielle Stei­
+figkeit konnte durch Pulswellenanalyse nicht-invasiv, einfach risikolos bestimmt
+werden. Dabei wurden der Index der Elastizität der großen Gefäße (C1) und der
+Index der Elastizität der kleinen Gefäße (C2) als Maß für die Gefäß-Compliance
+mit einem HDI/Pulswave research cardiovascular profiling instrument (model CR2000) entsprechend den Empfehlungen des Herstellers (Hypertension Diagno­
+stics) ermittelt. Die arterielle Steifigkeit der großen Gefäße (S1) und die arterielle
+Steifigkeit der kleinen Gefäße (S2) berechnete sich dann nach der Formel: S1 =
+10/C1 und S2 = 100/C2. Ateriosklerotische Gefäßveränderungen und verminderte
+Gefäßelastizität sind typische Befunde bei Patienten mit chronischer Niereninsuffi­
+zienz. Die Gefäßelastizität hat einen direkten Einfluss auf den Pulsdruck (pulse
+Presssure), d.h. die Differenz von systolischem und diastolischem Blutdruck (Mar­
+chais et al., 1993). Entsprechend konnten Klassen et al. (2002) in einer retrospek­
+tiven Kohorten-Studie nach Auswertung der Daten von 37069 Patienten belegen,
+dass der Pulsdruck einen eigenständigen Risikofaktor für die Mortalität bei Pati­
+enten mit dialysepflichtiger Niereninsuffizienz darstellt. Die arterielle Steifigkeit
+stellt einen charakteristischen Marker für die Intaktheit der Gefäßwand in vivo dar.
+Strukturelle Veränderungen, wie sie bei verschiedenen Erkrankungen einschließ­
+lich arterieller Hypertonie oder chronischer Niereninsuffizienz auftreten, sind durch
+entsprechende Veränderungen der arteriellen Steifigkeiten darstellbar.
+
+37
+
+Diskussion
+
+Für alle untersuchten Dialysepatienten ergab sich keine signifikante Änderung der
+arteriellen Steifigkeiten großer Gefäße (S1). Eine Beeinflussung der Funktion der
+großen zentralen Gefäße unter Dialysetherapie, erscheint daher unwahrscheinlich.
+Die Veränderungen der arteriellen Steifigkeiten (S1) zeigten sich bei Hämodialyse­
+patienten ohne Erythropoietin-Gabe abhängig von den Veränderungen des Puls­
+druckes. Im Vergleich mit Hämodialysepatienten mit Erythropoietin-Gabe zeigten
+Hämodialysepatienten ohne Erythropoietin-Gabe keine signifikanten Werte der
+arteriellen Steifigkeiten großer Gefäße am Start und am Ende der Dialyse. Dies
+lässt vermuten, dass es abhängig von der Dauer der chronischen Niereninsuffizi­
+enz und von der Erythropoietin-Gabe in zunehmender Weise bei den Hämodialy­
+sepatienten auch zu einer Schädigung zentraler großer Gefäße kam, da sich bei
+Hämodialysepatienten ohne Erythropoietin-Gabe mit einer Dialysedauer von (Mit­
+telwer±SEM; 20,8±3,6) Monaten die arterielle Steifigkeit der großen Gefäße eine
+signifikante Abhängigkeit von der Veränderung des Pulsdruckes zeigte. Magus
+Annuk et al. (2005) zeigten, dass „Epoetin alfa“ die endothelial function bei niere­
+erkrankten Patienten und Gesunden beeinträchtigen und somit zu einer wahr­
+scheinlichen vaskulären Komplikationen führen kann. Fraglich ist auch, ob dabei
+die chronische Dialysetherapie per se einen ungünstigen Einfluss auf die zentrale
+Gefäßfunktion ausübt und es dadurch zur Schädigung kommt. Um dies weiter
+abzuklären, empfiehlt es sich, die Untersuchungen an selbigen Patienten über
+einen größeren Zeitraum zu wiederhohlen. Eine Verbesserung der zentralen Ge­
+fäßfunktion würde dann einen Langzeiteffekt der Hämodialysetherapie vermuten
+lassen, eine Verschlechterung die Vermutung bestärken, dass die Hämodialyse­
+therapie und die Erythropoietin-Gabe per se einen schädigenden Einfluss auf die
+zentrale Gefäßfunktion vorzuweisen hat.
+Die arterielle Steifigkeit kleiner Gefäße (S2) zeigte bei allen Hämodialysepatienten
+keine signifikanten Veränderung. Im Vergleich erwies sich die arterielle Steifigkeit
+(S2) Wert (Mittelwert±SEM) am Start der Dialyse bei Hämodialysepatienten mit
+Erythropoietin-Gabe als deutlich erhöht, wohingegen bei Hämodialysepatienten
+ohne Erythropoietin-Gabe als niedrig. Am Ende der Dialyse erwies sich der S2
+Wert als niedrig bei Hämodialysepatienten mit Erythropoietin-Gabe im Vergleich
+zu Hämodialysepatienten ohne Erythropoietin-Gabe. In beiden Gruppen ergab
+sich eine Abhängigkeit dieses Anstieges mit Veränderungen von arteriellem Puls­
+druck, systolischem Blutdruck sowie vom body mass index. Bezieht man die Ver­
+änderungen des Vascular Index unter Hämodialyse mit ein, lässt sich die ver­
+stärkte Pulsreflexion vor allem mit einer Zunahme des Tonus der kleinen periphe­
+ren Gefäße erklären. Die Arterielle Steifigkeit kleiner Gefäße (S2) zeigte sich si­
+gnifikant verschieden zu der gemessenen am Start als auch am Ende der Dialyse
+bei allen Hämodialysepatienten unabhängig von der Dialysedauer und Erythro­
+poietin-Gabe. Dies macht eine vorbestehende Funktionseinschränkung der
+kleinen peripheren Gefäße bei den Patienten aufgrund der chronischen Nierenin­
+suffizienz unwahrscheinlich.
+Die jetzt durchgeführten nicht-invasiven Messungen belegen keine wesentlichen
+Veränderungen der Gefäßeigenschaften unter der Erythropoietin-Therapie.
+
+38
+
+Zusammenfassung
+
+6. Zusammenfassung
+Patienten mit chronischer Niereninsuffizienz weisen eine erhöhte kardiovaskuläre
+Morbidität und Mortalität auf. In der vorliegenden Arbeit sollte nun der Einfluss von
+Erythropoietin auf die Gefäßeigenschaften bei Patienten mit dialysepflichtiger
+Niereninsuffizienz durch nicht-invasive Methoden untersucht werden. 85 Patienten
+mit chronischer terminaler Niereninsuffizienz (Alter: 69±2 Jahre, Dialysedauer:
+22±4 Monate, Mittelwert±Standardfehler des Mittelwertes) wurden in zwei
+Gruppen aufgeteilt, solche mit und ohne bestehende Erythropoietin-Therapie. In
+der Erythropoietin-Gruppe war das Alter 67±2 Jahre und die Dialysedauer 21±4
+Monate, in der Nicht-Erythropoietin-Gruppe war das Alter 70±2 Jahre und die Dia­
+lysedauer 22±3 Monate. Mittels digitaler Photoplethysmographie wurden die
+Fingervolumenpulswellen kontinuierlich bestimmt und durch den Vascular Index
+(RI) quantifiziert. Die Endothelfunktion wurde durch die Veränderung des Vascular
+Index im Rahmen der flussabhängigen Vasodilatation nach kurzzeitiger suprasy­
+stolischer Stauung am Oberarm gemessen. Mittels Applanationstonometrie der
+Arteria radialis wurde die Steifigkeit der großen und kleineren arteriellen Gefäße
+bestimmt und durch die Indices S1 und S2 quantifiziert.
+Während der Hämodialysebehandlung kam es zu einem signifikanten Anstieg des
+RI von 37,7±1,7% auf 40,3±2,0% (ohne-Erythropoietin-Gruppe; P<0,05) bzw. Von
+35,5±1,6% auf 38,13±1,7% (P<0,05; mit-Erythropoietin-Gruppe).
+Sowohl in der ohne-Erythropoietin-Gruppe als auch in der mit-ErythropoietinGruppe waren die Veränderungen des RI am Start und am Ende der Hämodialyse
+nicht signifikant unterschiedlich (1,79±1,23 vs. –0,86±1,71 bzw. 1,74±0,89 vs.
+0,38±1.16).
+Während der Hämodialysetherapie kam es zu einem signifikanten Anstieg von S2
+in der ohne-Erythropoietin-Gruppe von 24,5±2,4 auf 36,6±4,7 (p<0,05). In der mitErythropoietin-Gruppe kam es zu einem signifikanter Anstieg von S2(29,4±2,6 auf
+35,1±3,5, p>0,05).
+Die Veränderung des S1 und S2 wiesen eine signifikante Korrelation mit dem
+Pulsdruck auf (p<0,05).
+Die jetzt durchgeführten nicht-invasiven Messungen belegen keine wesentlichen
+Veränderungen der Gefäßeigenschaften unter der Erythropoietin-Therapie.
+
+39
+
+Literaturverzeichnis
+
+7. Literaturverzeichnis
+A:
+Amann K, Gross ML, Ritz E. Pathophysiology underlying accelerated
+atherogenesis in renal disease: Closing in on the target. J Am Soc
+Nephrol. 2004;15:1664-1666.
+Anavekar NS, mcmurray JJ, Velazquez EJ, Solomon SD, Kober L, Rouleau JL,
+White HD, Nordlander R, Maggioni A, Dickstein K, Zelenkofske S, Leimber­
+ger JD, Califf RM, Pfeffer MA. Relation between renal dysfunction and car­
+diovascular outcomes after myocardial infarction. N Engl J Med.
+2004;351:1285-1295.
+Annuk M, Lind L, Linde T, Fellstrom B. Impaired endothelium-dependent
+vasodilation in renal failure in humans. Nephrol Dial Transplant.
+2001;16:302–306.
+Arnett DK, Glasser SP, mcveigh G, Prineas R, Finkelstein S, Donahue R, Cohn
+JN, Sinaiko A. Blood pressure and arterial compliance in young adults: the
+Minnesota Children´s Blood Pressure Study. Am J Hypertens. 2001;14:200205.
+B:
+Bachmann J, Tepel M, Raidt H, Riezler R, Graefe U, Langer K, Zidek W.
+Hyperhomocysteinemia and the risk for vascular disease in hemodialysis
+patients. J Am Soc Nephrol. 1995;6:121-125.
+Baigent C, Burbury K, Wheeler D. Premature cardiovascular disease in chronic
+renal failure. Lancet. 2000;356:147-152.
+Becker BN, Himmelfarb J, Henrich WL, Hakim RM. Reassessing the cardiac risk
+profile in chronic hemodialysis patients: a hypothesis on the role of oxidant
+stress and other non-traditional cardiac risk factors. J Am Soc Nephrol.
+1997;8:475-486.
+Beltran A, mcveigh G, Morgan D, Glasser SP, Neutel JM, Weber M, Finkelstein
+SM, Cohn JN. Arterial compliance abnormalities in isolated systolic hyper­
+tension. Am J Hypertens. 2001;14:1007-1011.
+Bhagat K, Vallance P. Inflammatory cytokines impair endothelium-dependent
+dilatation in human veins in vivo. Circulation. 1997;96:3042–3047.
+Bianchi G. Hypertension in chronic renal failure and end-stage renal disease
+patients treated with haemodialysis or peritoneal dialysis. Nephrol Dial
+Transplant. 2000;15:105-110.
+Blake GJ, Ridker PM. Novel clinical markers of vascular wall inflammation. Circ
+Res. 2001;89:763-771.
+Blacher J, Guerin AP, Pannier B, Marchais SJ, Safar ME, London GM. Impact of
+aortic stiffness on survival in end-stage renal disease. Circulation.
+1999;99:2434–2439.
+Block GA, Hulbert-Shearon TE, Levin NW, Port FK. Association of serum
+phosphorus and calcium x phosphate product with mortality risk in chronic
+hemodialysis patients: a national study. Am J Kidney Dis. 1998;31:607-617.
+Boaz M, Smetana S, Weinstein T, Matas Z, Gafter U, Iaina A, Knecht A,
+Weissgarten Y, Brunner D, Fainaru M, Green MS. Secondary prevention
+with antioxidants of cardiovascular disease in endstage renal disease
+(SPACE): randomised placebo-controlled trial. Lancet. 2000;356:12131218.
+
+40
+
+Literaturverzeichnis
+
+C:
+Cavalcanti S, Ciandrini A, Severi S, Badiali F, Bini S, Gattiani A, Cagnoli L,
+Santoro A. Model-based study of the effects of the hemodialysis technique
+on the compensatory response to hypovolemia. Kidney Int. 2004;65:14991510.
+Chakraborti S, Chakraborti T. Oxidant-mediated activation of mitogen-activated
+protein kinases and nuclear transcription factors in the cardiovascular sys­
+tem: a brief overview. Cell Signal. 1998;10:675-683.
+Charra B, Calemard M, Laurent G. Importance of treatment time and blood
+pressure control in achieving long-term survival on dialysis. Am J Nephrol.
+1996;16:35-44.
+Cohen DL, Townsend RR. Large and small artery compliance changes during
+hemodialysis. Am J Hypertens. 2002;15:236-239.
+Cooke JP, Rossitch E Jr, Andon NA, Loscalzo J, Dzau VJ. Flow activates an
+endothelial potassium channel to release an endogenous nitrovasodilator.
+J Clin Invest. 1991;88:1663-1671.
+Corretti MC, Anderson TJ, Benjamin EJ, Celermajer D, Charbonneau F, Creager
+MA, Deanfield J, Drexler H, Gerhard-Herman M, Herrington D, Vallance P,
+Vita J, Vogel R; International Brachial Artery Reactivity Task Force.
+Guidelines for the ultrasound assessment of endothelial-dependent flowmediated vasodilation of the brachial artery: a report of the International
+Brachial Artery Reactivity Task Force. J Am Coll Cardiol. 2002;39:257-265.
+D:
+Daugirdas JT. Simplified equations for monitoring Kt/V, pcrn, ekt/V, and epcrn.
+Adv Ren Replace Ther. 1995;2:295-304.
+Donauer J. Hemodialysis-induced hypotension: impact of technologic advances.
+Semin Dial. 2004;17:333-335.
+Drzewiecki GM, Melbin J, Noordergraaf A. Arterial tonometry: review and analysis.
+J Biomech. 1983;16:141–152.
+E:
+Eknoyan G, Beck GJ, Cheung AK, Daugirdas JT, Greene T, Kusek JW, Allon M,
+Bailey J, Delmez JA, Depner TA, Dwyer JT, Levey AS, Levin NW, Milford
+E, Ornt DB, Rocco MV, Schulman G, Schwab SJ, Teehan BP, Toto R;
+Hemodialysis (HEMO) Study Group. Effect of dialysis dose and membrane
+flux in maintenance hemodialysis. N Engl J Med. 2002;347:2010-2019.
+
+F:
+Finkelstein SM, Cohn JN. First- and third-order models for determining arterial
+compliance. J Hypertens Suppl. 1992;10:11-14.
+Frei U, Schober-Halstenberg HJ. Nierenersatztherapie in Deutschland. QuasiNiere Jahresbericht 2003/2004, Berlin, Deutschland.
+G:
+Gesenhues S, R. Ziesche R. Allgemeinmedizin Praxisleitfaden 4. Auflage 2003
+Goldwasser P, Mittman N, Antignani A, Burrell D, Michel MA, Collier J, Avram MM.
+Predictors of mortality in hemodialysis patients. J Am Soc Nephrol.
+1993;3:1613-1622.
+41
+
+Literaturverzeichnis
+
+Goodman WG, Goldin J, Kuizon BD, Yoon C, Gales B, Sider D, Wang Y, Chung J,
+Emerick A, Greaser L, Elashoff RM, Salusky IB. Coronary-artery calcifica­
+tion in young adults with end-stage renal disease who are undergoing dia­
+lysis. N Engl J Med. 2000;342:1478-1483.
+Griendling KK, Sorescu D, Lassegue B, Ushio-Fukai M. Modulation of protein
+kinase activity and gene expression by reactive oxygen species and their
+role in vascular physiology and pathophysiology. Arterioscler Thromb Vasc
+Biol. 2000;20:2175-2183.
+H:
+Herzog CA, Ma JZ, Collins AJ. Poor long-term survival after acute myocardial
+infarction among patients on long-term dialysis. N Engl J Med.
+1998;339:799-805.
+Himmelfarb J, Hakim RM. Oxidative stress in uremia. Curr Opin Nephrol Hyper­
+tens. 2003;12:593-598.
+Heidenreich S, Rahn KH, Zidek W. Direct vasopressor effect of recombinant
+Human erythropoietin on renal resistance vessels. Kidney Int. 1991;39:259265.
+I:
+Iseki K, Kawazoe N, Fukiyama K. Serum albumin is a strong predictor of death in
+chronic dialysis patients. Kidney Int. 1993;44:115-119.
+Iseki K, Miyasato F, Tokuyama K, Nishime K, Uehara H, Shiohira Y, Sunagawa H,
+Yoshihara K, Yoshi S, Toma S, Kowatari T, Wake T, Oura T, Fukiyama K.
+Low diastolic blood pressure, hypoalbuminemia, and risk of death in a co­
+hort of chronic hemodialysis patients. Kidney Int. 1997;51:1212-1217.
+J:
+Joannides R, Haefeli WE, Linder L, Richard V, Bakkali EH, Thuillez C, Luscher TF.
+Nitric oxide is responsible for flow-dependent dilatation of human peripheral
+conduit arteries in vivo. Circulation. 1995;91:1314-1349.
+K:
+Kalantar-Zadeh K, Block G, Humphreys MH, mcallister CJ, Kopple JD. A low,
+rather than a high, total plasma homocysteine is an indicator of poor out­
+come in hemodialysis patients. J Am Soc Nephrol. 2004a;15:442-453.
+Kalantar-Zadeh K, mcallister CJ, Lehn RS, Liu E, Kopple JD. A low serum iron
+level is a predictor of poor outcome in hemodialysis patients. Am J Kidney
+Dis. 2004b;43:671-684.
+Kalousova M, Sulkova S, Fialova L, Soukupova J, Malbohan IM, Spacek P, Braun
+M, Mikulikova L, Fortova M, Horejsi M, Tesar V, Zima T. Glycoxidation and
+inflammation in chronic haemodialysis patients. Nephrol Dial Transplant.
+2003;18:2577-2581.
+Kamata H, Hirata H. Redox regulation of cellular signalling. Cell Signal.
+1999;11:1-14.
+Karamanoglu M, O’Rourke MF, Avolio AP, Kelly RP. An analysis of the
+relationship
+between central aortic and peripheral upper limb pressure
+waves in man. Eur Heart J. 1993;14:160–167.
+Kelly R, Hayward C, Avolio A, O’Rourke M. Noninvasive determination of agerelated changes in the human arterial pulse. Circulation. 1989;80:1652–
+1659.
+42
+
+Literaturverzeichnis
+
+Klassen PS, Lowrie EG, Reddan DN, delong ER, Coladonato JA, Szczech LA,
+Lazarus JM, Owen WF Jr. Association between pulse pressure and mortal­
+ity in patients undergoing maintenance hemodialysis. JAMA.
+2002;287:1548-1555.
+Kosch M, Levers A, Barenbrock M, Matzkies F, Schaefer RM, Kisters K, Rahn
+KH, Hausberg M. Acute effects of haemodialysis on endothelial function
+and large artery elasticity. Nephrol Dial Transplant. 2001;16:1663-1668.
+L:
+Lassegue B, Sorescu D, Szocs K, Yin Q, Akers M, Zhang Y, Grant SL, Lambeth
+JD, Griendling KK. Novel gp91(phox) homologues in vascular smooth
+muscle cells: nox1 mediates angiotensin II-induced superoxide formation
+and redox-sensitive signaling pathways. Circ Res. 2001;88:888-894.
+Locatelli F, Aljama P, Barany P, Canaud B, Carrera F, Eckardt KU, Horl WH,
+Macdougal IC, Macleod A, Wiecek A, Cameron S; European Best Practice
+Guidelines Working Group. Revised European best practice guidelines for
+the management of anaemia in patients with chronic renal failure. Nephrol
+Dial Transplant. 2004;19:1-47.
+Locatelli F, Marcelli D, Conte F, D'Amico M, delvecchio L, Limido A, Malberti F,
+Spotti D. Cardiovascular disease in chronic renal failure: the challenge con­
+tinues. Registro Lombardo Dialisi e Trapianto. Nephrol Dial Transplant.
+2000;15:69-80.
+M:
+Mallick NP, Gokal R. Haemodialysis. Lancet. 1999;353:737-742.
+Marchais SJ, Guerin AP, Pannier BM, Delavaud G, London GM. Arterial
+compliance and blood pressure. Drugs. 1993;46:82-87.
+Mcveigh GE, Bratteli CW, Morgan DJ, Alinder CM, Glasser SP, Finkelstein SM,
+Cohn JN. Age-related abnormalities in arterial compliance identified by
+pressure pulse contour analysis: aging and arterial compliance. Hyperten­
+sion. 1999;33:1392-1398.
+Miura H, Wachtel RE, Liu Y, Loberiza FR Jr, Saito T, Miura M, Gutterman DD.
+Flow-induced dilation of human coronary arterioles: important role of
+Ca(2+)-activated K(+) channels. Circulation. 2001;103:1992-1998.
+Miyazaki H, Matsuka H, Itabe H, Usui M, Ueda S, Okuda S, Imaizumi T.
+Hemodialysis impairs endothelial function via oxidative stress: effects of vit­
+amin E-coated dialyzer. Circulation. 2000;101:1002-1006.
+Millasseau SC, Kelly RP, Ritter JM, Chowienczyk PJ. The vascular impact of aging
+and vasoactive drugs: comparison of two digital volume pulse measure­
+ments. Am J Hypertens. 2003;16:467-472.
+N:
+Noris M, Todeschini M, Casiraghi F, Roccatello D, Martina G, Minetti L, Imberti B,
+Gaspari F, Atti M, Remuzzi G. Effect of acetate, bicarbonate dialysis, and
+acetate-free biofiltration on nitric oxide synthesis: implications for dialysis
+hypotension. Am J Kidney Dis. 1998;32:115-124.
+O:
+Olesen SP, Clapham DE, Davies PF. Haemodynamic shear stress activates a K+
+current in endothelial cells. Nature. 1988;331:168-170.
+Outinen PA, Sood SK, Pfeifer SI, Pamidi S, Podor TJ, Li J, Weitz JI, Austin RC.
+43
+
+Literaturverzeichnis
+
+Homocysteine-induced endoplasmic reticulum stress and growth arrest
+leads to specific changes in gene expression in human vascular endothelial
+cells. Blood. 1999;94:959-967.
+Owen WF Jr, Lew NL, Liu Y, Lowrie EG, Lazarus JM. The urea reduction ratio and
+serum albumin concentration as predictors of mortality in patients undergo­
+ing hemodialysis. N Engl J Med. 1993;329:1001-1006.
+P:
+Parfrey PS. Cardiac disease in dialysis patients: diagnosis, burden of disease,
+prognosis, risk factors and management. Nephrol Dial Transplant.
+2000;15:58-68.
+Parthasarathy S, Santanam N, Ramachandran S, Meilhac O. Oxidants and
+antioxidants in atherogenesis: an appraisal. J Lipid Res. 1999;40:21432157.
+Pastan S, Bailey J. Dialysis therapy. N Engl J Med. 1998;338:1428-1437.
+Pohl U, Holtz J, Busse R, Bassenge E. Crucial role of the endothelium in the
+vasodilator response to flow in vivo. Hypertension. 1985;8:37-44.
+Pressman GL, Newgard PM. A transducer for the continuous external
+measurement of arterial blood pressure. IEEE Trans Biomed Eng.
+1963;10:73–81.
+R:
+Raza K, Thambyrajah J, Townend JN, Exley AR, Hortas C, Filer A, Carruthers
+DM, Bacon PA. Suppression of inflammation in primary systemic vasculitis
+restores vascular endothelial function: lesson for atherosclerotic disease?
+Circulation. 2000;102:1470-1472.
+Rietzschel ER, Boeykens E, De Buyzere ML, Duprez DA, Clement DL. A
+comparison between systolic and diastolic pulse contour analysis in the
+evaluation of arterial stiffness. Hypertension. 2001;37:15-22.
+S:
+Safar ME, Blacher J, Pannier B, Guerin AP, Marchais SJ, Guyonvarc'h PM,
+London GM. Central pulse pressure and mortality in end-stage renal dis­
+ease. Hypertension. 2002;39:735-738.
+Sarnak MJ, Levey AS, Schoolwerth AC, Coresh J, Culleton B, Hamm LL,
+Mccullough PA, Kasiske BL, Kelepouris E, Klag MJ, Parfrey P, Pfeffer M,
+Raij L, Singbart G: Adverse events of erythropoietin in long-term and in
+acute/short-termtreatment. Clin invest 1994;72:s36-s43
+Sato T, Nishinaga M, Kawamoto A, Ozawa T, Takatsuji H. Accuracy of a
+continuous blood pressure monitor based on arterial tonometry. Hyperten­
+sion. 1993;21:866-874.
+Saw J, Levin A, Gin K. Coronary artery disease in chronic kidney disease patients:
+assessing the evidence for diagnosis, screening and revascularization.
+Can J Cardiol. 2004;20:807- 813.
+Spinosa DJ, Wilson PW; American Heart Association Councils on Kidney in
+Cardiovascular Disease, High Blood Pressure Research, Clinical Cardi­
+ology, and Epidemiology and Prevention. Kidney disease as a risk factor for
+development of cardiovascular disease: a statement from the American
+Heart Association Councils on Kidney in Cardiovascular Disease, High
+Blood Pressure Research, Clinical Cardiology, and Epidemiology and Pre­
+vention. Circulation. 2003;108:2154-2169.
+44
+
+Literaturverzeichnis
+
+Smulyan H, Marchais SJ, Pannier B, Guerin AP, Safar ME, London GM. Influence
+of body height on pulsatile arterial hemodynamic data. J Am Coll Cardiol.
+1998;31:1103–1109.
+Stenvinkel P. Inflammatory and atherosclerotic interactions in the depleted uremic
+patient. Blood Purif. 2001;19:53–61
+Stenvinkel P, Barany P. Anaemia, rhuepo resistance, and cardiovascular disease
+in end-stage renal failure; links to inflammation and oxidative stress.
+Nephrol Dial Transplant. 2002;17:32-37.
+T:
+Takazawa K, Tanaka N, Fujita M, Matsuoka O, Saiki T, Aikawa M, Tamura S,
+Ibukiyama C. Assessment of vasoactive agents and vascular aging by the
+second derivative of photoplethysmogram waveform. Hypertension.
+1998;32:365-370.
+Tarng DC, Huang TP, Liu TY, Chen HW, Sung YJ, Wei YH. Effect of vitamin Ebonded membrane on the 8-hydroxy 2'-deoxyguanosine level in leukocyte
+DNA of hemodialysis patients. Kidney Int. 2000;58:790–799.
+Tepel M, Oxidative stress - does it play a role in the genesis of essential
+hypertension and hypertension of uremia? Nephrol Dial Transplant.
+2003;18:1439-1442.
+Tepel M, Echelmeyer M, Orie NN, Zidek W. Increased intracellular reactive oxygen
+species in patients with end-stage renal failure: effect of hemodialysis. Kid­
+ney Int. 2000;58:867-872.
+Tepel M, van der Giet M, Statz M, Jankowski J, Zidek W: The antioxidant,
+acetylcysteine, reduces cardiovascular events in patients with end-stage
+renal failure: a randomized controlled trial. Circulation. 2003;107:992-995.
+V:
+Van Guldener C, Janssen MJ, Lambert J, Steyn M, Donker AJ, Stehouwer CD.
+Endothelium-dependent vasodilation is impaired in peritoneal dialysis pa­
+tients. Nephrol Dial Transplant. 1998;13:1782-1786.
+Vaziri ND, Ni Z, Oveisi F, Liang K, Pandian R. Enhanced nitric oxide inactivation
+and protein nitration by reactive oxygen species in renal insufficiency. Hy­
+pertension. 2002;39:135-141.
+W:
+Winer N, Sowers JR, Weber MA. Gender differences in vascular compliance in
+young, healthy subjects assessed by pulse contour analysis. J Clin Hy­
+pertens. 2001;3:145-152.
+Wolin MS. Interactions of oxidants with vascular signaling systems. Arterioscler
+Thromb Vasc Biol. 2000;20:1430-1442.
+Y:
+Yeun JY, Kaysen GA. C-reactive protein, oxidative stress, homocysteine, and
+troponin as inflammatory and metabolic predictors of atherosclerosis in ES­
+RD. Curr Opin Nephrol Hypertens. 2000;9:621-630.
+
+45
+
+Literaturverzeichnis
+
+Z:
+Zoccali C, Bode-Boger S, Mallamaci F, Benedetto F, Tripepi G, Malatino L,
+Cataliotti A, Bellanuova I, Fermo I, Frolich J, Boger R. Plasma concentration
+of asymmetrical dimethylarginine and mortality in patients with end-stage
+renal disease: a prospective study. Lancet. 2001;358:2113-2117.
+
+46
+
+Danksagung
+
+8. Danksagung
+Herrn Prof. Dr. Med. Tepel danke ich für die Aufnahme in den Arbeitskreis, die
+wohlwollende Unterstützung meiner Arbeit und sehr gute und kompetente Betreu­
+ung, die interessante Aufgabenstellung sowie die stete Förderung meiner Arbeit
+und die sehr angenehmen Arbeitsbedingungen. Durch die mir großzügig gewährte
+Freiheit zum selbstständigen Arbeiten konnte ich viele meiner Ideen und Überle­
+gungen bearbeiten und umsetzen.
+Fr. Dr. Med. Alexandra Scholze möchte ich für den Erfahrungsaustausch in allen
+Belangen sowie die zahlreichen Diskussionen über den gesamten Zeitraum
+meiner Promotion hinweg danken.
+Dr.med. Ndatsu Mahmud danke ich ganz besonders für die Unterstützung
+Mr. Felix Terngu Jor (Masters in political Sciences) und Mr. Franklin Osameke
+(Akune) möchte ich für ihr Engagement danken.
+Michael Mertins danke ich für seine Hilfe bei der Rechtsschreibung und Gramma­
+tik.
+Allen Mitarbeitern der Dialysestation der Charite Campus Benjamin Franklin danke
+ich herzlich, da sie zum Gelingen dieser Arbeit beitrugen.
+Meiner Familie und Freunden möchte ich für die moralischen Unterstützungen
+danken.
+
+47
+
+Lebenslauf
+
+9. Lebenslauf
+Vermerk: „Mein Lebenslauf wird aus Datenschutzgründen in der elektronischen Version
+meiner Arbeit nicht mit veröffentlicht.“
+
+Autor: Herr Kevin, Alexander Ali
+
+48
+
+

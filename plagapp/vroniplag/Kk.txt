@@ -1,0 +1,3334 @@
+Aus dem
+CharitéCentrum für Innere Medizin und Dermatologie (CC12)
+Institut für Medizinische Immunologie
+Direktor: Prof. Dr. med. Hans-Dieter Volk
+
+Diagnostik und Therapie der Transplantatqualität
+Habilitationsschrift zur Erlangung der Venia legendi für das Fach Immunologie
+
+Vorgelegt dem Fakultätsrat der Medizinischen Fakultät
+Charité-Universitätsmedizin Berlin
+
+von
+Dr. rer. nat. Katja Kotsch,
+geboren am 28. April 1969 in Berlin
+
+Dekanin: Prof. Dr. A. Grüters-Kieslich
+Präsident: Prof. Dr. Dr. h.c. Christoph Markschies
+
+1. Gutachter: Prof. Dr. E. Geissler
+2. Gutachter: Prof. Dr. D. Kabelitz
+
+Tag der mündlichen Prüfung: 12. November 2008
+
+1
+
+Alles kommt in der Wissenschaft auf ein Gewahrwerden dessen an, was den Erscheinungen zu
+Grunde liegt. Ein solches Gewahrwerden ist bis ins Unendliche fruchtbar.
+Johann Wolfgang von Goethe (1749 - 1832)
+
+2
+Inhaltsverzeichnis
+
+1.
+
+EINLEITUNG
+
+Seite 4
+
+2.
+
+RISIKOFAKTOREN DER TRANSPLANTATDYSFUNKTION
+
+Seite 7
+
+3.
+
+ALLOANTIGEN-ABHÄNGIGE RISIKOFAKTOREN
+
+Seite 8
+
+4.
+
+3.1. Akute zelluläre Abstoßung
+
+Seite 9
+
+3.2. Immunmonitoring der akuten zellulären Abstoßung
+
+Seite 12
+
+3.3. Bedeutung der KIR/HLA Liganden Kompatibilität
+
+Seite 17
+
+ALLOANTIGEN-UNABHÄNGIGE RISIKOFAKTOREN
+
+4.1. Diagnostik und Therapie des Ischämie/-Reperfusionsschadens
+
+Seite 19
+Seite 19
+
+4.2. Einfluss des Spender-Hirntodes auf Ischämie/Reperfusionsschaden
+und akute Abstoßungsreaktionen
+
+Seite 25
+
+4.3. Therapeutische Ansätze zur Verbesserung der Transplantatqualität
+nach Spender-Hirntod
+
+Seite 28
+
+5.
+
+ZUSAMMENFASSUNG
+
+Seite 31
+
+6.
+
+REFERENZEN
+
+Seite 35
+
+7.
+
+ABKÜRZUNGSVERZEICHNIS
+
+Seite 47
+
+8.
+
+DANKSAGUNG
+
+Seite 48
+
+9.
+
+EIDESSTATTLICHE ERKLÄRUNG
+
+Seite 49
+
+3
+Zusammenfassung
+
+Zentraler Aspekt der eigenen Arbeiten war die Analyse definierter Alloantigen-abhängiger
+sowie Alloantigen-unabhängiger Risikofaktoren auf das Transplantatüberleben. Zu den
+Alloantigen-abhängigen Risikofaktoren zählt das Auftreten einer akuten zellulären
+Abstoßung post Transplantation. Im Rahmen der eigenen Untersuchungen konnte gezeigt
+werden, dass ein konsequentes Monitoring definierter Kandidatenmarker im Urin
+nierentransplantierter Patienten die Vorhersage einer akuten zellulären Rejektion erlaubt.
+Ferner konnte die Bedeutung der Inkompatibilität zwischen den polymorphen killer-cell
+immunglobulin-like Rezeptoren und ihren korrespondierenden HLA Liganden für das
+Risiko einer akuten Abstoßung nach allogener Nierentransplantation identifiziert werden.
+In
+
+weiterführenden
+
+Risikofaktoren
+
+der
+
+Untersuchungen
+Einfluss
+
+des
+
+wurde
+
+hinsichtlich
+
+Alloantigen-unabhängiger
+
+Ischämie-Reperfusionsschadens
+
+und
+
+des
+
+Spenderhirntods analysiert. Neben der Identifikation potentieller Kandidatenmarker für
+eine Transplantatschädigung wurden neue therapeutische Ansätze in experimentellen als
+auch
+
+klinischen
+
+Ansätzen
+
+überprüft.
+
+Zusammengefasst
+
+betrachtet
+
+konnten
+
+die
+
+vorliegenden Untersuchungen einen wesentlichen Beitrag zum Verständnis der
+Pathogenese,
+
+Diagnostik
+
+und
+
+Therapie
+
+einzelner
+
+Risikofaktoren
+
+Langzeitüberleben bei der soliden Organtransplantation leisten.
+
+für
+
+das
+
+4
+1.
+
+Einleitung
+
+Die solide Organtransplantation hat sich innerhalb der vergangenen 30 Jahre zu einer
+etablierten therapeutischen Methode bei irreversiblen und terminalen Organschäden
+entwickelt. Die moderne Geschichte der Organtransplantation begann 1954 mit der ersten
+erfolgreichen Nierentransplantation, die durch Joseph Murray in Boston, U.S.A. zwischen
+eineiigen Zwillingen durchgeführt wurde (MERILL et al. 1956). Dieses Ereignis zog eine
+Reihe erfolgreicher klinischer Transplantationen nach sich. So erfolgte 1967 durch
+Thomas E. Starzl die erste Lebertransplantation und im gleichen Jahr unter der Leitung
+von Christiaan N. Barnard die erste Herztransplantation (BARNARD 1968; STARZL et
+al. 1969).
+
+Eine Transplantation kann die Lebensqualität der betroffenen Patienten maßgeblich
+verbessern. Insbesondere die Nierentransplantation hat sich als Ersatztherapie
+gegenüber der Dialyse durchgesetzt. Von ihren Anfängen im Jahre 1954 mit zunächst
+unbefriedigenden Ergebnissen (80% Transplantatverlust im ersten Jahr nach postmortaler
+Nierenspende) hat sie sich drastisch weiter entwickelt. Derzeit werden 1-JahresTransplantatüberlebensraten
+
+von
+
+85%
+
+(postmortale
+
+Organspende)
+
+bis
+
+zu
+
+95% (Lebendspende) erreicht (UNOS 2000). Neben der Entwicklung chirurgischer
+Operationstechniken sowie verbesserter postoperativer Behandlungskonzepte ist es vor
+allem
+
+der
+
+Entdeckung
+
+potenter
+
+Immunsuppressiva
+
+zu
+
+verdanken,
+
+dass
+
+die
+
+Organtransplantation erfolgreich in der klinischen Routine etabliert werden konnte. Dabei
+stellt die Einführung von Cyclosporin A (CsA) Ende der 70er Jahre einen der Meilensteine
+für die schnelle Zunahme erfolgreicher Organtransplantationen in den darauf folgenden
+Jahren dar (MULTICENTER TRIAL 1982). Durch die Implementierung des gegen das
+T-Zellantigen
+
+CD3
+
+gerichteten
+
+monoklonalen
+
+Antikörpers
+
+(OKT3)
+
+und
+
+weiterer
+
+verbesserter immunsuppressiver Regime in den neunziger Jahren konnte das Auftreten
+akuter Rejektionsereignisse erfolgreich verringert werden (COSIMI et al. 1981; DENTON
+et al. 1999). Eine konsequente ambulante Überwachung Patienten in Verbindung mit
+einer differenzierten Anwendung aktuell verfügbarer Immunsuppressiva konnte zu
+weiteren Fortschritten in der Anwendung und im Erfolg der Organtransplantation
+beitragen. So wurden im Versorgungsgebiet von Eurotransplant im Jahre 2005 insgesamt
+3.406 Nieren-, 1.364 Leber-, 563 Herz-, 839 Lungen- und 304 Pankreastransplantationen
+durchgeführt (EUROTRANSPLANT 2005). Allerdings stellt der zunehmende Verlust von
+Organtransplantaten nach Monaten bis Jahren eines der herausragenden Probleme in der
+Transplantationsmedizin dar. So bildet die chronische Rejektion die Hauptursache für den
+
+5
+sp€ten Verlust der transplantierten Niere mit einer Inzidenz von 3 - 5% p.a. (CECKA 1999;
+PASCUAL et al. 2002).
+
+F•r eine Organtransplantation werden gr‚ƒtenteils Leichentransplantate, d.h. Organe
+hirntoter Spender verwendet. Aufgrund des bestehenden Spender- und daraus
+resultierenden
+
+Organmangels
+
+stagnieren
+
+jedoch
+
+die
+
+j€hrlich
+
+durchgef•hrten
+
+Transplantationen in den letzten Jahren und sind sogar tendenziell r•ckl€ufig (DSO 2006).
+Da einerseits die Indikationen f•r eine Transplantation hinsichtlich einer zunehmenden
+Akzeptanz in den letzten Jahren groƒz•giger gestellt werden, andererseits jedoch die
+Bereitschaft zur Organspende in der Bev‚lkerung unvermindert niedrig ist, wird die
+Diskrepanz zwischen verf•gbaren Organen und Patienten immer gr‚ƒer. In Deutschland
+warteten 2006 ca. 8.473 Patienten auf eine neue Niere. Dahingegen wurden aber nur
+2.776 Organe transplantiert, wovon der Anteil der Lebendnierenspenden ca. 18,8% betrug
+(DSO 2006). Die Einstellung der Bev‚lkerung zur Organspende l€sst nicht erwarten, dass
+sich die Situation des Organmangels in absehbarer Zukunft verbessern wird.
+Lebendspenden von Nieren und zunehmend auch von Lebern erreichen zumindest im
+Gebiet von Eurotransplant aktuell keine ausreichend hohe Frequenz, um den
+bestehenden Bedarf zu decken. Eine Zunahme der Mortalit€tsrate auf den Wartelisten ist
+die Folge.
+
+Um die steigende Nachfrage nach Transplantaten zu befriedigen, werden zunehmend
+Organe mit erweiterten Spenderkriterien, sogenannte marginale Organe (€ltere
+Leichenspender, l€ngere Isch€miezeiten, organische Vorsch€den), akzeptiert (TULLIUS
+et al. 2001). Statistische Analysen und tierexperimentelle Daten belegen, dass nach einer
+Nierentransplantation Organe €lterer Spender eine h‚here Abstoƒungswahrscheinlichkeit
+haben, wobei eine erh‚hte Sensibilit€t gegen hirntod- und isch€miebedingter Sch€digung,
+ein vermindertes Regenerationsverm‚gen sowie der Einfluss von Vorsch€digungen
+(Vaskulopathien, etc.) als
+
+urs€chlich diskutiert werden (CHERTOW et al. 1995;
+
+HARIHARAN et al. 1997; TAKADA et al. 1998; PRATSCHKE et al. 2001). „hnliches
+wurde f•r Organe von hypertonischen Spendern beschrieben (LEE et al. 1998; CARTER
+et al. 2000). Jedoch ist dieses Problem nicht ausschlieƒlich auf Nierentransplantate
+beschr€nkt,
+
+da
+
+€hnliche,
+
+wenngleich
+
+weniger
+
+intensiv
+
+untersuchte
+
+Daten
+
+f•r
+
+„Fettlebertransplantate“ und marginale Herztransplantate berichtet wurden (LIVI et
+al. 1994; SCHEMMER et al. 1999). Um die Komplexit€t der "Organqualit€t" besser
+verstehen und untersuchen zu k‚nnen, wurde in den letzten Jahren in experimentellen
+Tiermodellen die Bedeutung einzelner Risikofaktoren getrennt und systematisch
+analysiert. Diese Studien zeigen eindeutig, dass sowohl die Auspr€gung der
+
+6
+Isch€mie/Reperfusion als auch Spenderfaktoren wie Hirntod, Alter und Bluthochdruck
+einen deutlichen Einfluss auf das Langzeit•berleben der Nierentransplantate haben
+(TULLIUS et al. 2001). Die gemeinsame Auswirkung aller Risikofaktoren ist eine erh‚hte
+Entz•ndungsreaktion im Transplantat, assoziiert mit einer akzelerierten chronischen
+Transplantatdysfunktion. Es zeigt sich, dass weniger die direkte Sch€digung der
+parenchymalen Funktion die Ursache einer schlechteren Prognose ist, sondern vielmehr
+eine erh‚hte Immunogenit€t des vorgesch€digten Transplantates, die zu einer
+akzelerierten
+
+Alloreaktivit€t
+
+f•hrt.
+
+Diese
+
+Beobachtung
+
+erkl€rt
+
+weiterhin,
+
+dass
+
+HLA Disparit€ten in den statistischen Patientenanalysen bei der Leichenspende eine
+gr‚ƒere Rolle als bei der Lebendspende spielen, da der immunologische Unterschied bei
+der
+
+Aktivierung
+
+Antigen-pr€sentierender
+
+Zellen
+
+(APC)
+
+des
+
+Spenders
+
+(Leichenspenderniere: l€ngere Isch€mie, zumeist €ltere Spender, Ko-morbidit€t, etc.)
+mehr zur Geltung kommt. Es deutet sich an, dass eine erh‚hte Immunogenit€t durch die
+Aktivierung u.a. von Zytokinen, Adh€sionsmolek•len und der damit verbundenen
+Infiltration von T-Lymphozyten, Granulozyten und Monozyten/Makrophagen hervorgerufen
+wird und somit wichtiger erscheint als hypoxische „Organsch€den“. Dabei konnte eine
+erh‚hte Spenderalter-abh€ngige Rate alloreaktiver T-Zellen, eine erh‚hte Expression von
+T-Helferzellen vom Typ 1 (Th1) assoziierten Zytokinen sowie eine erh‚hte Rate
+infiltrierender CD4+ und CD8+ T-Zellen in der fr•hen Phase nach Transplantation von
+€lteren Organen in j•ngere Empf€ngertiere detektiert werden. Der Einfluss einer
+isch€mischen
+
+Sch€digung
+
+erlangt
+
+insbesondere
+
+bei
+
+marginalen
+
+Donororganen
+
+(z.B. hohes Spenderalter) fundamentale Bedeutung, da von einer verbesserten
+Transplantatfunktion bei z.B. €lteren Spenderorganen bei gleichzeitig verk•rzter Isch€mie
+ausgegangen werden kann. So konnte in einer experimentellen Untersuchung ein
+synergistisches Verh€ltnis einer verl€ngerten Isch€miezeit bei erh‚htem Spenderalter
+gezeigt werden (TULLIUS et al. 2000). Weitere experimentelle Untersuchungen zeigten
+eindrucksvolle Verbesserungen nach einer anti-inflammatorischen Vorbehandlung der
+Spender (REUTZEL-SELKE et al. 2003).
+
+Unter dem Druck eines immer gr‚ƒer werdenden Spenderbedarfes besteht zunehmend
+die Tendenz, die Entscheidung zu Gunsten der Nutzung marginaler Organe zu treffen.
+Weiterhin konnten aufgrund des Einsatzes verbesserter Immunsuppressiva die
+Transplantatergebnisse in den letzten 10 Jahren trotz "schlechterer" Organqualit€t
+verbessert werden, wodurch die Grenzen der Transplantatauswahl neu determiniert
+werden k‚nnen. Diese Beobachtung unterstreicht die Bedeutsamkeit der Definition
+objektiver Parameter zur individuellen Beurteilung der "Organqualit€t", woran es derzeit
+weitgehend mangelt. Besonders wichtig w€ren hierbei geeignete Marker im Spender. Da
+
+7
+die
+
+Vorschädigung
+
+des
+
+Spenderorgans
+
+die
+
+Immunogenität
+
+des
+
+Transplantates
+
+mitbestimmt, spielt die spezifische Empfängerreaktion auf das transplantierte Organ eine
+wesentliche
+
+Rolle
+
+für
+
+die
+
+Langzeitprognose,
+
+so
+
+dass
+
+der
+
+Frühphase
+
+der
+
+Entzündungsreaktion eine große prognostische Rolle zuteil wird. Dies beinhaltet den
+Nachteil, dass die Transplantation bereits erfolgte und für ein gutes Langzeitergebnis nur
+eine selektive, der spezifischen Situation angepasste, Immuntherapie für den Patienten in
+Frage kommt.
+
+2.
+
+Risikofaktoren der Transplantatdysfunktion
+
+Eine
+
+progrediente
+
+Funktionseinschränkung,
+
+die
+
+Monate
+
+bis
+
+Jahre
+
+nach
+
+der
+
+Transplantation auftritt und schließlich zum Funktionsverlust des Transplantats führt, wird
+üblicherweise als chronische Abstoßung oder chronische Transplantatnephropathie
+(engl.: chronic allograft nephropathy, CAN), bzw. chronische Transplantatvaskulopathie
+bezeichnet. Während sich Diagnostik, Prophylaxe und Therapie der klinisch "sichtbaren"
+akuten Rejektion, einer plötzlicher Verschlechterung der Organfunktion als direkte
+Konsequenz der Immunantwort auf das Spenderorgan, in den letzten Jahren deutlich
+verbessert haben, steckt die Früherkennung und Therapie der chronischen Abstoßung
+noch in den Anfängen. Als pathophysiologisches Konzept zur Erklärung der Vorgänge
+wird ein multifaktorielles Geschehen, bestehend aus Alloantigen-spezifischen und
+Alloantigen-unspezifischen
+
+Einflüssen
+
+diskutiert
+
+(TULLIUS
+
+et
+
+al. 1995).
+
+Einen
+
+wesentlichen Risikofaktor für chronische Abstoßungen stellen immunologisch vermittelte
+Prozesse der ersten Wochen oder Monate nach der Transplantation dar. Nach neueren
+wissenschaftlichen
+
+Erkenntnissen
+
+(Funktionsverschlechterung),
+
+als
+
+führen
+auch
+
+sowohl
+subklinisch
+
+klinisch
+akute
+
+"sichtbare"
+(ohne
+
+akute
+
+erkennbare
+
+Funktionsverschlechterung) Rejektionen in der Frühphase nach einer Transplantation zu
+einer erhöhten Inzidenz von sich innerhalb des ersten Jahres nach einer Transplantation
+manifestierenden ersten Zeichen einer chronischen Rejektion, die letztendlich zu einer
+Funktionseinschränkung bis hin zum Transplantatsverlust führen.
+
+Morphologisch
+
+sind
+
+klare
+
+Unterscheidungskriterien
+
+für
+
+akute
+
+und
+
+chronische
+
+Transplantatabstoßungen definiert: Während ausgeprägte, zelluläre Infiltrate sowie
+ödematöse und nekrotische Veränderungen als morphologisches Korrelat akuter
+Abstoßungsreaktionen charakterisiert werden können, lassen sich die morphologischen
+Merkmale der chronischen Transplantatabstoßung eher als proliferative Veränderungen
+beschreiben. Eine persistierende, zunächst gering ausgeprägte, zelluläre Infiltration,
+verbunden mit einer Expression von Adhäsionsmolekülen auf Endothelzellen und der
+
+8
+Freisetzung chemotaktischer Faktoren führt zu einer zunehmenden zellulären Infiltration.
+Die Freisetzung von Zytokinen und Wachstumsfaktoren verstärkt die Endothel- und
+Fibroblastenaktivierung, die schließlich zu den organspezifischen Veränderungen führt
+(TILNEY et al. 1991; TULLIUS & TILNEY 1995). Frühe unspezifische Schäden als Folge
+des Ischämie-/Reperfusionsschadens oder in Folge des Hirntodes (PRATSCHKE et
+al. 2001) sind hierbei zumindest mitverantwortlich für die Langzeitschäden. So werden die
+Zusammenhänge
+
+zwischen
+
+der
+
+adaptiven
+
+Immunantwort
+
+einhergehend
+
+mit
+
+unspezifischen Schädigungen, z.B. Aktivierung von Toll-like Rezeptoren, in jüngster Zeit
+zunehmend besser verstanden (TESAR & GOLDSTEIN 2007). Eine initiale Schädigung
+des Endothels, verursacht durch unspezifisch inflammatorische oder Alloantigenspezifische Faktoren (akute Abstoßungen/HLA-Kompatibilität), scheint sowohl bei der
+Nieren-, als auch bei der Herztransplantation, eine entscheidende Rolle für eine spätere
+Transplantatschädigung zu spielen (LIPPY & TANAKA 1994; RUSH et al. 1999). Die
+besondere Rolle unspezifisch schädigender Faktoren wird eindrucksvoll in der klinischen
+Nierentransplantation dokumentiert: Eine annähernd gleiche 3-Jahresfunktion von
+HLA-identischen und nicht-verwandten Lebendtransplantationen sowie die wesentlich
+günstigeren Langzeitergebnisse von Lebend- versus Leichenspenden spiegelt diese
+Situation wider (TERASAKI et al. 1995; HARIHARAN et al. 2000). Ferner scheinen
+HLA-Antikörper
+
+eine
+
+kausale
+
+Rolle
+
+für
+
+die
+
+Entstehung
+
+der
+
+chronischen
+
+Transplantatdysfunktion zu spielen (JOOSTEN et al. 2003; TERASAKI 2003). Die
+Ergebnisse
+
+einer
+
+prospektiven
+
+Studie
+
+zeigen
+
+eine
+
+signifikante
+
+Häufung
+
+von
+
+HLA-Antikörpern ein Jahr nach Transplantation bei Patienten mit einem chronischen
+Transplantatverlust (TERASAKI & OZAWA 2004). Zusammenfassend betrachtet führt die
+synergistische Steigerung der Alloantigen-abhängigen Immunantwort in Kombination mit
+Spender-spezifischen
+
+Risikofaktoren
+
+zu
+
+verstärkt
+
+auftretenden
+
+akuten
+
+Abstoßungsepisoden und somit zu einer frühen und akzelerierten Schädigung des
+Organs.
+3.
+
+Alloantigen-abhängige Faktoren
+
+Die Bedeutung Alloantigen-abhängiger Faktoren konnte ursprünglich durch das signifikant
+frühe und ausgeprägte Auftreten der chronischen Organdysfunktion bei Allotransplantaten
+im Vergleich zu Isotransplantaten demonstriert werden. Dabei schien das Auftreten akuter
+Abstoßungsreaktionen eine entscheidende Rolle zu spielen (GULANIKAR et al. 1992;
+ALMOND et al. 1993; BASADONNA et al. 1993). Untersuchungen belegen eine
+signifikant bessere Langzeitfunktion bei HLA-kompatiblen Spender-/Empfängerpaaren
+(MORRIS et al. 1999), wobei umfangreiche Registerdaten den signifikanten Einfluss der
+
+9
+Anzahl der HLA Disparit€ten (HLA-A, -B und -DR) auf das Transplantat•berleben nach
+allogener Nierentransplantation belegen (SMITS et al. 1996; HATA et al. 1996; MORRIS
+et al. 1999). Erg€nzend konnte k•rzlich ebenfalls gezeigt werden, dass trotz verbesserter
+‡berlebensraten der vergangenen 20 Jahre, der Einfluss der HLA-Kompatibilit€t nach wie
+vor signifikant mit dem Auftreten von Rejektionskrisen und Transplantat•berleben
+assoziiert ist (OPELZ & DOHLER 2007).
+3.1.
+
+Akute zelluläre Abstoßung
+
+Die Ursache f•r einen Organverlust in Folge einer Entz•ndungsreaktion wurde erstmals
+von
+
+Sir
+
+Peter
+
+Medawar
+
+unter
+
+dem
+
+Begriff
+
+„Abstoƒungsreaktion“
+
+erw€hnt
+
+(MEDAWAR 1944; GIBSON & MEDAWAR 1943). So konnten Abstoƒungsreaktionen nur
+dann beobachtet werden, wenn Organe zwischen genetisch verschiedenen Individuen
+transplantiert wurden (ANDERSON et al. 1954). Hingegen wurden auto- und isogene
+Transplantationen nicht mit einer Entz•ndungsreaktion beantwortet und f•hrten zur
+Organakzeptanz. Es konnte gezeigt werden, dass das Auftreten von Interaktionen
+zwischen Empf€ngerorganismus und Spenderorgan vor allem auf eine genetische
+Differenz und die damit verbundenen unterschiedlichen zellul€ren Oberfl€chenantigene
+zur•ckzuf•hren ist und somit entscheidend vom Grad der genetischen Verwandtschaft
+zwischen Empf€nger und Spender abh€ngt (GORER 1938).
+
+Die akute immunologische Reaktion auf Fremdgewebe, allogen oder xenogen, st•tzt sich
+haupts€chlich auf ein T-zellvermitteltes Geschehen (akute, zellul€re Rejektion), welches
+meist innerhalb von Tagen bis mehreren Wochen nach Transplantation auftritt. Hierbei
+kommt es zu einer Infiltration des Allotransplantates von aktivierten T- und
+B-Lymphozyten, Makrophagen sowie Nat•rlichen Killerzellen (NK). Dabei basieren die
+zellvermittelten
+
+Effektormechanismen
+
+auf
+
+der
+
+direkten
+
+sowie
+
+indirekten
+
+Alloantigenerkennung durch immunkompetente T-Lymphozyten. Als Initiatoren der
+Immunantwort
+
+gelten,
+
+neben
+
+MHC Klasse II-tragenden
+
+Endothelzellen
+
+(AUSTYN & LARSEN 1992), vor allem die Dendritischen Zellen. Diese sind in der Lage,
+Kofaktoren zu sezernieren und tragen somit zur Aktivierung von alloreaktiven
+Lymphozyten und somit entscheidend zur Initialisierung der Abstoƒungsreaktion bei
+(HUGHES et al. 1990). Ist die initiale Fremderkennung des transplantierten Organs
+erfolgt, schlieƒt sich ein durch gegenseitige Aktivierung gekennzeichneter Circulus
+vitiosus an, der letztendlich zu einer Transplantatzerst‚rung f•hrt. Durch die Antigenspezifische Aktivierung erfolgt die Sekretion von verschiedenen Zytokinen und
+Chemokinen durch einzelne Lymphozytensubpopulationen. Die Freisetzung von TNF
+
+10
+führt zu einer unspezifischen Stimulation von Neutrophilen und Endothelzellen mit
+anschließender
+
+Expression
+
+von Adhäsionsmolekülen,
+
+z.B.
+
+intracellular
+
+adhesion
+
+molecule 1 (ICAM-1) (ADAMS et al. 1989). Vor allem die Sekretion von IL-2 und IFN
+spielt in der Erkennungs- und Aktivierungsphase eine entscheidende Rolle (DALLMANN
+et al. 2002). Es erfolgt eine massive MHC Expression sowohl auf Endothelzellen als auch
+auf Parenchymzellen durch IFN (DALLMANN 1993). Es scheint, dass die vermehrte
+Expression von MHC auf Transplantatzellen die Immunogenität des Transplantates
+potenziert und somit die weitere zelluläre Immunantwort getriggert wird (TILNEY et
+al. 1993), so dass eine Korrelation zwischen der MHC-Dichte und dem histologischen
+Abstoßungsgrad besteht (SHOSKES et al. 1990; SHOSKES & HALLORAN 1991). Die
+Produktion von chemotaktischen Zytokinen und Chemokinen resultiert in einer weiteren
+selektiven Rekrutierung von T- und B-Lymphozyten sowie Makrophagen. Mittlerweile ist
+gut dokumentiert, dass insbesondere CD4+ Helferzellen für die Initiierung der primären
+Antwort gegen das Allograft verantwortlich sind (HEEGER 2003). Ferner begünstigen in
+das Transplantat rekrutierte zytotoxische CD8+ Zellen den Abstoßungsprozess, indem sie
+Endothel- und Parenchymzellen durch zytotoxische Effektorfunktionen, wie z.B. die
+Sezernierung des porenbildenden Perforins sowie anhand der Freisetzung von
+Granzymen
+
+(Granzym A/B)
+
+schädigen
+
+(COLONNA
+
+et
+
+al. 1993,
+
+PIPKIN & LIEBERMANN 2007). Infiltrierende allostimulierte B-Zellen differenzieren in
+Antikörper-produzierende
+
+Plasmazellen
+
+und
+
+sekretieren
+
+spezifische
+
+als
+
+auch
+
+unspezifische anti-Donor-Antikörper (HÄYRY et al. 1984).
+
+Humorale Abstoßungsmechanismen spielen, neben ihrer überragenden Bedeutung bei
+Transplantationen von gegen Spender MHC vorsensibilisierten Empfängern, eine
+bedeutende Rolle bei der akuten sowie chronischen allogenen Abstoßungsreaktion. Dabei
+lässt sich die akute humorale/vaskuläre Form der Abstoßung in der Nierentransplantation
+pathologisch durch das Vorhandensein des Komplementspaltproduktes C4d, Neutrophiler
+in den Kapillaren, einer arteriellen, fibrinoiden Nekrose und akuter, tubulärer
+Gewebsschädigung sowie durch das Vorkommen zirkulierender anti-Donor MHCspezifischer
+
+Antikörper
+
+charakterisieren
+
+(MAUIYYEDI
+
+et
+
+al. 2002).
+
+Die
+
+primäre
+
+Angriffsfläche bei der humoralen Abstoßungsreaktion stellen die Endothelzellen dar
+(RYAN 1986; DAVIES & HAGEN 1993), wobei als auslösendes Ereignis bei der
+Antikörper-vermittelten Abstoßungsreaktion die Bindung von Komplement-aktivierenden
+Antikörpern
+
+an
+
+endotheliale
+
+Oberflächenstrukturen
+
+gilt.
+
+Antikörper-
+
+und
+
+Komplementreaktion induzieren eine Abfolge von Veränderungen im Endothel des
+Transplantates, welche zur Aktivierung und nachfolgender Zytolyse der Endothelzelle
+führen.
+
+11
+Die akute Rejektion und deren Therapie stellen ein Kernproblem der Organtransplantation
+dar. Obwohl die Inzidenz akuter Rejektionsepisoden nach allogener Nierentransplantation
+aufgrund verbesserter Immunsuppressiva und einer intensiven klinischen Betreuung
+immer weiter reduziert wird, gefährdet jede durchlittene Abstoßung die Langzeitfunktion
+des Allotransplantats und ist somit ein Hauptrisikofaktor für die Entwicklung einer
+chronischen
+
+Dysfunktion
+
+Nierentransplantation
+Blutdruckanstieg,
+
+im
+
+sind
+
+Langzeitverlauf
+
+sowohl
+
+klinische
+
+Transplantatschmerz,
+
+(ALMOND
+Zeichen
+
+Fieber,
+
+et
+
+al. 1993).
+
+(Rückgang
+
+Bei
+
+der
+
+Gewichtszunahme)
+
+der
+
+Diurese,
+
+als
+
+auch
+
+laborchemische (Serumkreatinin) sowie histologische (Biopsie) Befunde mögliche
+Merkmale einer Rejektion. Die Entnahme einer Biopsie für eine feingewebliche Diagnostik
+ist nicht nur teuer und zeitaufwändig, sie kann auch zu klinischen Komplikationen führen.
+Ferner wird sie zu einem Zeitpunkt durchgeführt, an dem das Transplantat schon eine
+Gewebeschädigung erlitten hat. Rejektionen unter dem jeweiligen immunsuppressiven
+Regime können ohne Symptome verlaufen. Jene subklinische Rejektionen werden zwar
+histologisch diagnostiziert, hingegen ist klinisch keine renale Dysfunktion zu verzeichnen
+(RUSH et al. 1996). Dabei ist das Auftreten subklinischer Abstoßungen durch infiltrierende
+Lymphozyten,
+
+aktivierte
+
+Makrophagen und
+
+weitere
+
+inflammatorische
+
+Mediatoren
+
+gekennzeichnet. Unbehandelte subklinische Rejektionen resultieren in permanente
+tubulo-interstitielle
+
+Gewebeschädigungen
+
+sowie
+
+in
+
+eine
+
+eingeschränkte
+
+Transplantatfunktion und ein beschränktes Transplantatüberleben (NANKIVELL et
+al. 2001; RUSH et al. 1996; RUSH et al. 1998). Die Identifikation von potenziellen
+Biomarkern gewinnt folglich für eine nicht-invasive Diagnostik einer Transplantatfunktionsverschlechterung zunehmend an Bedeutung in der Transplantationsmedizin. Jene Marker
+könnten die Basis für zukünftige Diagnostika und Monitoringstrategien bilden, in dem sie
+hohe Sensitivitäten und Spezifitäten mit einem hohen prädiktiven Wert aufweisen und ihre
+Analyse das nicht-inavsive Monitoring von Patienten während der stationären als auch
+ambulanten Phase erlaubt. Das Ziel dieser Tests sollte dabei ein optimales
+Kosten/Nutzen/Risiko-Verhältnis für die Identifikation von Patienten mit erhöhtem Risiko
+für eine akute sowie subklinisch akute Rejektion sein.
+
+12
+3.2.
+
+Immunmonitoring der akuten zellulären Abstoßung
+
+Die Implementation molekularer Methoden hat sich als hilfreich für die Diagnostik, das
+Monitoring sowie für die Aufklärung funktioneller Mechanismen bei der Transplantation
+erwiesen. So konnten mittels Genexpressionsanalysen unter Verwendung der real-time
+RT-PCR diverse Kandidatenmarker in Bioptaten, peripherem Blut oder in Urin identifiziert
+werden, welche mit dem Auftreten einer akuten zellulären Abstoßung assoziiert werden
+konnten (SHARMA et al. 1996; ODE-HAKIM et al. 1996; STREHLAU et al. 1997;
+VASCONCELLOS
+
+et
+
+al. 1998;
+
+PAVLAKIS
+
+et
+
+al. 1999;
+
+NICKEL
+
+et
+
+al. 2001;
+
+MUTHUKUMAR et al. 2003; DING et al. 2003). Insbesondere die Induktion der
+zytotoxischen
+
+Effektormoleküle
+
+Granzym B
+
+und
+
+Perforin
+
+in
+
+Biopsien
+
+von
+
+Nierentransplantaten konnte mit akuten Abstoßungskrisen korreliert werden (SABEK et
+al. 2002), deren Nachweis auch im Urinzellsediment gelang (Li et al. 2001). In der
+Nierentransplantation bietet der Urin eine hervorragende Alternative, um nicht-invasiv
+Informationen über den Status des Transplantates zu erhalten. Unsere eigenen
+kinetischen
+
+Untersuchungen
+
+im
+
+Urinzellsediment
+
+nierentransplantierter
+
+Patienten
+
+belegen, dass insbesondere die mRNA Induktion des zytotoxischen Moleküls Granulysin
+sowie des T-Zellmarkers CD3 signifikant in 11/14-Patienten mit einer frühen (<10 Tage
+post Transplantation) sowie mit einer verzögerten akuten zellulären Rejektion (>20 Tage
+post Transplantation) assoziiert ist (100% Spezifität, 80% Sensitivität). Hingegen zeigte
+die Analyse bislang dokumentierter Effektormoleküle wie Granzym B, Perforin oder FasL
+eine wesentlich geringere Sensitivität und Spezifität. Ähnlich wie Granzym B und Perforin
+ist
+
+Granulysin ein zytolytisches Protein, welches konstitutiv von zytotoxischen
+
+T-Lymphozyten und NK-Zellen exprimiert wird. Im Gegensatz zu Granzym B induziert
+Granulysin
+
+einen
+
+Caspase-unabhängigen
+
+Zelltod
+
+und
+
+wirkt
+
+u.a.
+
+antimikrobiell
+
+(PENA & KRENSKY 1997). Die generierten Daten verdeutlichen den prädiktiven,
+diagnostischen
+
+Aussagewert
+
+von
+
+CD3
+
+und
+
+insbesondere
+
+von
+
+Granulysin
+
+im
+
+Urinzellsediment, welcher auf die Infiltration von zytotoxischen CD8+ T Zellen in das
+Allotransplantat hinweist, bevor eine klinische Manifestation der akuten Abstoßung zu
+verzeichnen ist.
+
+K. Kotsch, M.-F. Mashreghi, G. Bold, P. Tretow, J. Beyer, M. Matz, J. Hoerstrup,
+J. Pratschke, R. Ding, M. Suthanthiran, H.-D. Volk, and P. Reinke. Enhanced granulysin
+mRNA expression in urinary sediment predicts early and delayed acute renal allograft
+rejection. Transplantation, 2004; 27;77(12):1866-75.
+
+13
+Ein weiterer interessanter Kandidatenmarker für das nicht-invasive Monitoring nach
+allogener Nierentransplantation ist das chemotaktische Chemokin interferon-inducible
+protein 10 (IP-10). Der Rezeptor für IP-10 ist CXCR3 (C-X-C Motiv), welcher überwiegend
+auf aktivierten T-Lymphozyten und NK-Zellen exprimiert wird. In zwei unabhängigen
+Arbeiten konnte bereits gezeigt werden, dass die Induktion von IP-10 auf mRNA als auch
+auf Proteinebene mit einer akuten zellulären Rejektion assoziiert ist (TATAPUDI et
+al. 2004; HU et al. 2004). Allerdings wurden diese Untersuchungen von IP-10 zum
+Zeitpunkt der histologisch diagnostizierten akuten Abstoßung durchgeführt. Um zu
+überprüfen, ob die Analyse von IP-10 prädiktive Eigenschaften für die Vorhersage einer
+Transplantatverschlechterung besitzt, wurde im Rahmen der eigenen Untersuchungen
+eine retrospektive, kinetische Analyse der IP-10 mRNA und Proteinexpression im Urin
+nierentransplantierter Patienten durchgeführt. Die Ergebnisse belegen, dass im Vergleich
+zu Patienten mit einer stabilen Transplantatfunktion bis zu sieben Tage vor der klinischen
+Indikation (erhöhte Serumkreatininspiegel) einer Bioptatentnahme, eine signifikante
+Induktion von IP-10 im Urin von Patienten mit einer akuten zellulären Abstoßung zu
+detektieren ist. Dabei betrug die Spezifität und Sensitivität der IP-10 Proteinexpression für
+die Vorhersage einer akuten Abstoßung 71% sowie 95%. Es zeigte sich, dass
+insbesondere Patienten mit erhöhten IP-10 Konzentrationen im Urin während der ersten
+vier Wochen post Transplantation unter einer eingeschränkten Transplantatfunktion nach
+sechs Monaten litten. Diese Assoziation war völlig unabhängig von dem Auftreten einer
+akuten Abstoßung in der Frühphase post Transplantation. Zusammenfassend betrachtet
+implementieren unsere Daten, dass eine frühzeitige Induktion von IP-10 durch
+Alloantigen-unabhängige Risikofaktoren (verlängerte und kalte Ischämie, operative
+Manipulation) zu einer Rekrutierung IFN produzierender CXCR3+ Lymphozyten in das
+Transplantat führt. Die Sezernierung von IFN führt ferner zu einer verstärkten IP-10
+Produktion und somit zu einer Initiierung eines Circulus vitiosus. Die Induktion von IP-10
+mRNA und Protein im Urin ist folglich ein frühzeitiger Indikator inflammatorischer
+Prozesse im Allotransplantat und prädiktiv für eine subklinische Immunaktivierung, welche
+einen Transplantatverlust im Langzeitverlauf begünstigt.
+
+M. Matz, J. Beyer, D. Wunsch, M.-F. Mashreghi, M. Seiler, J. Pratschke, N. Babel,
+H.-D. Volk, P. Reinke and K. Kotsch. Early post-transplant urinary IP-10 expression after
+kidney transplantation is predictive of short- and long-term graft function. Kidney Int. 2006
+May;69(9):1683-90.
+
+14
+Die polymorphen major histocompatibility complex (MHC) class I chain-related Proteine A
+and B (MICA/B) werden in Folge von zellulärem Stress u. a. auf Endothelzellen induziert.
+Es ist mittlerweile gut dokumentiert, dass klassische HLA Antigene in transplantierten
+Patienten die Synthese von Alloantikörpern stimulieren und diese mit einem kurzen
+Transplantatüberleben sowie mit chronischer Rejektion korreliert werden können (LEE et
+al. 2002). Hierbei erkennen die Alloantikörper HLA Klasse I Antigene und aktivieren
+Effektorfunktionen. Folglich könnten auch MICA Antigene ein potentielles Ziel für
+Alloantikörper sein. Die Untersuchungen von ZWIRNER et al. (2000) zeigen, dass gegen
+MIC Antigene gerichtete Alloantikörper in den Seren von transplantierten Nieren-, Herzund Lungenempfängern nachweisbar waren und sich diese von gegen HLA Klasse I
+gerichteten Antikörpern unterschieden. MIC Proteine dienen als Liganden für NKG2D,
+einem aktivierenden Zytotoxizitätsrezeptor, welcher mit DAP10, einem transmembranen
+Signalprotein, assoziiert ist und auf NK-Zellen als auch auf  T-Zellen und  CD8+ TZellen exprimiert wird. Die Bindung zwischen MIC Antigenen und NKG2D induziert eine
+zytolytische Aktivität (BAUER et al. 1999). Gegenstand unserer Untersuchungen war, ob
+eine akute zelluläre Abstoßung zu einer Induktion von MICA auf mRNA Ebene im renalen
+Gewebe als Konsequenz des zellulären Stresses führt, und ob dies in einer Aktivierung
+des NK-Zellrezeptors NKG2D resultiert. Im Gegensatz zu bislang publizierten Daten
+konnten
+
+wir
+
+keine
+
+erhöhten
+
+mRNA
+
+Expressionslevel
+
+von
+
+MICA
+
+in
+
+renalen
+
+Transplantatbiopsien mit der Diagnose einer akuten zellulären oder chronischen Rejektion
+nachweisen. Hingegen belegen unsere Daten eine signifikante Assoziation zwischen der
+NKG2D mRNA Expression im Transplantat (Urin/Biopsie) und einer akuten sowie
+chronischen Dysfunktion. Dabei korrelierte das Expressionsniveau von NKG2D mit dem
+Schweregrad der akuten Abstoßung. Weiterhin ist die NKG2D mRNA Expression prädiktiv
+für eine eingeschränkte Transplantatfunktion nach sechs Monaten post Transplantation.
+Ähnliche Beobachtungen konnten auch für die Langzeitfunktion nach 12 und 18 Monaten
+gemacht werden. Im Gegensatz zu der Induktion von IP-10 (MATZ et al. 2006) war diese
+Assoziation nicht unabhängig von dem Auftreten einer akuten Abstoßung. Signifikant
+induzierte
+
+NKG2D
+
+mRNA
+
+Expressionslevel
+
+konnten
+
+auch
+
+im
+
+Urinzellsediment
+
+nierentransplantierter Patienten mit einer akuten Abstoßungskrise während der ersten drei
+postoperativen Monate nachgewiesen werden. Diese signifikante Geninduktion konnte
+bereits zwei bis drei Tage vor der bioptischen Bestätigung einer akuten Abstoßung
+detektiert werden. Es besteht die Annahme, dass die durch NKG2D vermittelten
+Effektormechanismen selektiv zu einer Aktivierung und Expansion zytotoxischer
+T-Lymphozyten im Transplantat führen und somit die Entzündungsreaktion während einer
+akuten Abstoßung begünstigen. Die signifikante mRNA Expression von NKG2D in
+
+15
+Biopsien zum Zeitpunkt einer chronischen Transplantatnephropathie implementiert, dass
+dieser Effekt im Langzeitverlauf persistiert.
+
+M. Seiler,
+
+I. Brabcova,
+
+O. Viklicky,
+
+P. Hribova,
+
+C. Rosenberger,
+
+A. Lodererova, M. Matz, C. Schönemann, P. Reinke,
+
+H.-D. Volk, and
+
+J. Pratschke,
+K. Kotsch.
+
+Heightened expression of the cytotoxicity receptor NKG2D correlates with acute and
+chronic nephropathy after kidney transplantation. American Journal of Transplantation.
+2006 Dec 15; (6):1-11.
+
+16
+Umfangreiche Arbeiten belegen, dass die Expression des Wachstumsfaktors transforming
+growth factor 1 (TGF1) in renalen Biopsien mit interstitieller Fibrose, tubulärer Atrophie,
+sowie
+
+mit
+
+chronischer
+
+Transplantatnephropathie
+
+korreliert
+
+(BORDER
+
+& RUOSLAHTI 1992; BORDER & NOBLE 1994; VIKLICKY et al. 2003). Dabei agiert
+TGF1 als ein wichtiger Regulator für die Synthese extrazellulärer Matrix (Collagen,
+Fibronectin) sowie für eine verstärkte Expression von Integrinen. Obwohl TGF1 eher
+über immunsuppressive Eigenschaften verfügt, scheint es auch eine pro-inflammatorische
+Bedeutung in Geweben zu besitzen. Übereinstimmend mit der Beobachtung, dass TGF1
+einen wesentlichen Einfluss auf die Wundheilung hat, besitzt es chemotaktische
+Eigenschaften für die Rekrutierung von Leukozyten. Ferner belegen jüngste Arbeiten den
+Einfluss von TGF1 auf die akute zelluläre Abstoßung, in dem es die Expression von
+aEb7
+
+Integrin
+
+auf
+
+Effektorfunktionen
+
+CD8+
+
+Lymphozyten
+
+begünstigt
+
+(HADLEY
+
+kontrolliert
+et
+
+und
+
+somit
+
+al. 1999, 2001).
+
+zytotoxische
+
+Unsere
+
+eigenen
+
+Untersuchungen dokumentieren, dass erhöhte mRNA Expressionslevel von TGF1 in
+renalen Biopsien mit einer akuten zellulären Abstoßung sowie mit einer chronischen
+Transplantatnephropathie assoziiert werden können. Diese Ergebnisse legen nahe, dass
+eine Induktion von TGF1 während einer akuten zellulären Abstoßung zu einer
+verstärkten Zytolyse und der damit verbundenen Gewebezerstörung führt. So scheint eine
+anhaltende Produktion von TGF1 im Langzeitverlauf eine Veränderung des renalen
+Gewebes
+
+zu
+
+nephropathie.
+
+beeinflussen;
+Eine
+
+ein
+
+Induktion
+
+Charakteristikum
+von
+
+TGF1
+
+der
+
+ist
+
+chronischen
+
+folglich
+
+Transplantat-
+
+prädiktiv
+
+für
+
+eine
+
+Funktionsverschlechterung des Transplantates bei Patienten mit akuter zellulärer
+Rejektion, in dem es die Entwicklung einer chronischen Transplantatnephropathie
+begünstigt.
+
+P. Pribylova-Hribova,
+
+K. Kotsch,
+
+A. Lodererova,
+
+O. Viklicky,
+
+S. Vitko,
+
+H.-D. Volk,
+
+J. Lacha. TGF-beta1 mRNA up-regulation influences chronic renal allograft dysfunction.
+Kidney Int. 2006 May;69(10):1872-9.
+
+17
+3.3.
+
+Bedeutung der KIR/HLA Liganden Kompatibilität
+
+Die akute zelluläre Abstoßung nach allogener Nierentransplantation ist das Resultat eines
+multifaktoriellen Prozesses sowie der Interaktion immunkompetenter Zellen, welche in das
+transplantierte Organ infiltrieren. Dabei bilden zytotoxische T-Lymphozyten (CTLs) die
+Haupteffektorzellen, indem sie zur Gewebezerstörung beitragen. Diese Beobachtung wird
+durch das Vorhandensein von zytotoxischen Effektormolekülen in Transplantatbiopsien
+gestützt (LIPMAN et al. 1994; VASCONCELLOS et al. 1998; PAVLAKIS et al. 1999).
+Mittlerweile gibt es zunehmende Evidenzen, dass auch die angeborene Immunantwort
+sowohl bei der Transplantatabstoßung als auch bei der Toleranzinduktion eine
+wesentliche Rolle spielt (SEINO et al. 2001; MCNERNEY et al. 2006). Die Infiltration von
+Natürlichen Killerzellen (NK) des Empfängers implementiert folglich, dass eine Aktivierung
+von NK-Zellen in der Frühphase für das Allotransplantat von Bedeutung sein könnte.
+Bislang verbleiben jedoch die funktionellen Mechanismen, welche zu einer Aktivierung
+von NK-Zellen bei der soliden Organtransplantation führen könnten, ungeklärt. Humane
+NK-Zellen (MORETTA et al. 1990), TCR+ T-Zellen sowie memory/effector TCR+ TZellen (PHILLIPS et al. 1995) exprimieren so genannte killer-cell Ig-like Rezeptoren
+(KIRs), welche aus inhibitorischen als auch aktivierenden Rezeptoren bestehen. KIR
+Rezeptoren erkennen HLA Klasse I Liganden auf Antigen-präsentierenden Zellen;
+insbesondere
+
+HLA-C
+
+Allele
+
+sowie
+
+das
+
+Bw4
+
+Motiv
+
+(GUMPERZ
+
+et
+
+al. 1995;
+
+CARRINGTON & NORMAN 2003). Es besteht die Annahme, dass die Reaktivität der
+NK-Zelle durch die Balance ihrer inhibitorischen als auch aktivierenden Signale
+determiniert wird. Unter normalen Bedingungen wird eine Aktivierung der NK-Zelle durch
+das dominante Signal der inhibitorischen Rezeptoren verhindert. Folglich kann die
+Aktivierung einer NK-Zelle durch das Ausbleiben inhibitorischer Signale oder durch eine
+Verstärkung der aktivierenden Signale ausgelöst werden. Die Basis für diese Annahme
+bildet die missing-self-Hypothese, welche postuliert, dass eine ausreichende MHC
+Expression die Aktivierung der NK-Zelle verhindert (LJUNGGREN & KARRE 1990).
+Umfangreiche klinische Untersuchungen belegen die funktionelle Bedeutung von
+fehlenden KIR Liganden auf Empfängerzellen, insbesondere bei der hämatopoetischen
+Stammzelltransplantation (HSCT). Bei einem Mismatch
+
+zwischen Spender
+
+und
+
+Empfänger HLA Allelen (HLA-C) führen die aktivierten NK-Zellen des Spenders zu einem
+Anti-Leukämieeffekt sowie zu einer verminderten Rate an Graft versus Host Disease
+(GvHD) (RUGGERI et al. 2002).
+
+Basierend auf diesen Ergebnissen postulierten wir, dass das Risiko einer akuten oder
+subklinisch akuten Abstoßung in der Frühphase nach allogener Nierentransplantation
+
+18
+durch die allogene Interaktion zwischen Empfänger KIR Rezeptoren auf NK-Zellen und
+den HLA Liganden des Transplantates beeinflusst wird. Transplantate, welche nicht die
+MHC Klasse Liganden des Empfängers exprimieren, unterliegen vermutlich einer höheren
+Alloreaktivität der NK-Zellen. In einer retrospektiven klinischen Studie konnten wir zeigen,
+dass Transplantate, welche homozygot den HLA-C Liganden für den inhibitorischen KIR
+Rezeptor KIR2DL1 exprimierten (HLA-C Gruppe 2), einen besseren Verlauf post
+Transplantation zeigten. Ferner konnte eine signifikant geringere Anzahl inhibitorischer
+KIR Rezeptoren für Patienten detektiert werden, die eine akute Abstoßung innerhalb der
+ersten drei Monate post Transplantation erlitten. Die Analyse einzelner KIR/HLA
+Liganden-Interaktionen belegt die Assoziation einer signifikant höheren Anzahl an
+Matches für die Rezeptoren KIR2DL2/DS2 sowie einer signifikant höheren Anzahl an
+Mismatches
+
+für
+
+den
+
+inhibitorischen
+
+Rezeptor
+
+KIR2DL3
+
+mit
+
+einer
+
+stabilen
+
+Transplantatfunktion. Zusammenfassend betrachtet dokumentieren unsere eigenen Daten
+erstmalig die Bedeutung der KIR/HLA Ligandeninkompatibilität als einen weiteren
+Alloantigen-abhängigen Risikofaktor für das Transplantatüberleben nach allogener
+Nierentransplantation, indem definierte Rezeptor-Liganden Interaktionen mit akuter
+zellulärer Abstoßung assoziiert werden konnten.
+
+K. Kunert,
+
+M. Seiler,
+
+M.F. Mashreghi,
+
+K. Klippert,
+
+C. Schönemann,
+
+K. Neumann,
+
+J, Pratschke, P. Reinke, H.-D. Volk and K. Kotsch. KIR/HLA ligand incompatibility in
+kidney transplantation. Transplantation, Dec 15;84(11):1527-33.
+
+19
+4.
+
+Alloantigen-unabhängige Faktoren
+
+Zahlreiche
+
+klinische und
+
+Alloantigen-unabh€ngiger
+
+experimentelle
+Faktoren
+
+auf
+
+Untersuchungen belegen
+die
+
+Entwicklung
+
+den
+
+der
+
+Einfluss
+
+chronischen
+
+Transplantatdysfunktion, wobei ein akzelerierender, bzw. synergistischer Zusammenhang
+mit Alloantigen-abh€ngigen Faktoren vermutet werden kann. Langzeituntersuchungen
+nach experimenteller isogener Nierentransplantation dokumentieren morphologische als
+auch strukturelle Ver€nderungen, welche chronischen Rejektionen nach allogener
+Organtransplantation gleichen (TULLIUS et al. 1994). Bei klinischen Untersuchungen
+zeigte sich, dass ca. 40% der Nierentransplantate zwischen eineiigen Zwillingen nach
+10 Jahren ihre Funktion einstellten. Dies wird zum Teil auf ein Rezidiv der
+Grunderkrankung zur•ckgef•hrt, andererseits jedoch mit Sch€digungen durch die
+Transplantation “per se” erkl€rt. Die Langzeitfunktion nach Transplantation von
+nichtverwandten
+
+Lebendspenderorganen
+
+Lebendspenderorganen
+
+identisch.
+
+ist
+
+im
+
+Andererseits
+
+Vergleich
+
+ist
+
+die
+
+zu
+
+verwandten
+
+Langzeitfunktion
+
+von
+
+Leichenspenderorganen immer schlechter als die Funktion von Lebendspenderorganen,
+trotz des •blicherweise besseren immunologischen Matchings der Leichenspenderorgane
+(TERASAKI et al. 1995, NICHOLSON et al. 2000). Die bessere Langzeitfunktion von
+immunologisch
+
+optimal
+
+gematchten
+
+Organen
+
+unterstreicht
+
+die
+
+Wichtigkeit
+
+immunologischer Parameter f•r die chronische Organdysfunktion, andererseits relativiert
+die Auswertung groƒer Patientenkollektive deren Bedeutung (TERASAKI et al. 1995).
+Eine Reihe von Spender-spezifischen Risikofaktoren definiert die Organqualit€t; so wird
+diese bereits vor Organentnahme u.a. durch Spenderkriterien (Spenderalter, spenderassoziierte Erkrankungen), den Hirntod des Spenders, Intensivtherapie und deren Dauer,
+chirurgische Manipulationen bei Organentnahme sowie durch die Isch€mie beim
+Organtransport beeinflusst (PRATSCHKE et al. 1999; KOO et al. 1999; VAN DER
+HOEVEN et al. 2000). Die Gesamtheit dieser Risikofaktoren vor Transplantation f•hrt zu
+einer
+
+unspezifischen
+
+immunologischen
+
+Aktivierung
+
+des
+
+Organs,
+
+welche
+
+nach
+
+Transplantation eine verst€rkte Empf€ngerantwort induziert.
+4.1.
+
+Diagnostik und Therapie des Ischämie-/Reperfusionsschadens
+
+Die Gesamtisch€miezeit f•r das transplantierte Organ ergibt sich aus der Summe der
+initialen
+
+warmen
+
+Isch€mie,
+
+der
+
+anschlieƒenden
+
+kalten
+
+Isch€mie
+
+w€hrend
+
+der
+
+Aufbewahrung und des Transports sowie der f•r die Reperfusion ben‚tigten Zeit. Dabei
+ist eine Vielzahl von Immunprozessen mit einem Isch€mie-/Reperfusionsschaden
+assoziiert. Es kommt zu einer Bildung und Freisetzung freier Sauerstoffradikale (engl.
+
+20
+reactive oxygen species, ROS) (BONVENTRE 1993), einer Rekrutierung von aktivierten
+Neutrophilen und Monozyten/Makrophagen (DE GREEF et al. 1998; BURNE-TANEY et
+al. 2003), zu einer Freisetzung pro-inflammatorischer Zytokine/Chemokine (ARAKI et
+al. 2004) und einer Komplementaktivierung (BONVENTRE & ZUK 2004) sowie zu einer
+Aktivierung der Leukozytenadhäsion. Die Entzündung resultiert ferner in eine Aktivierung
+des Endothels mit verstärkter Adhäsion (z.B. durch eine Induktion von E- und P-Selectin
+oder intracellular adhesion molecule-1, ICAM-1) sowie einer Migration Antigenpräsentierender Zellen in die sekundären lymphatischen Organe zur Initiierung einer AlloImmunantwort.
+
+Zu
+
+den
+
+wichtigsten
+
+induzierten pro-inflammatorischen
+
+Zytokinen/
+
+Chemokinen zählen neben Interleukin-1beta (IL-1b), IL-8 sowie das monocyte
+chemotactic protein 1 (MCP-1). Pro-thrombotische Moleküle (z.B. Tissue Factor, TF)
+konnten ebenfalls mit einer ischämischen Schädigung assoziiert werden (CINES et
+al. 1998). Mittlerweile wurde gezeigt, dass die angeborene Immunantwort ebenfalls in die
+Pathogenese des Ischämie-/Reperfusionsschadens involviert ist. Hintergrund ist die
+Beobachtung, dass eine Reihe von Toll-like Rezeptoren (TLR) für die Initiierung eines
+Ischämie-/Reperfusionsschadens mit verantwortlich ist (ZHAI et al. 2004).
+
+Aktuell wird eine organprotektive Therapie im Organspender durch die Gabe von
+konservierender Perfusionslösung begonnen. Weitergehende therapeutische Ansätze im
+Vorfeld der Transplantation, im Sinne einer sogenannten Spendertherapie, sind bislang
+klinisch nicht etabliert. Als Konzept bietet sich eine Reduktion der durch Alloantigenunabhängige Faktoren bedingten unspezifischen Schädigungen im Organspender an.
+Von Bedeutung scheint in diesem Zusammenhang eine Korrelation zwischen der
+Organqualität vor Transplantation und der Inzidenz akuter Abstoßungsreaktionen nach
+Transplantation zu sein. Vor diesem Hintergrund erscheint die anti-inflammatorische
+Vorbehandlung des Organspenders als eine sinnvolle therapeutischer Alternative. Ein
+Ansatz zur Untersuchung und Prävention des Transplantatschadens vor und nach
+Transplantation ist die Induktion protektiver Gene (HANCOCK et al. 1998). So konnte
+durch die erhöhte Expression des Hitzeschockproteins Hämoxygenase 1 (HO-1) in
+zahlreichen experimentellen Ansätzen eine verbesserte Transplantatfunktion sowohl im
+Kurz- als auch im Langzeitverlauf nachgewiesen werden (SOARES et al. 1998; AMERSI
+et al. 1999; TULLIUS et al. 2002; KATORI et al. 2002, SHEN et al. 2005). Die Induktion
+von HO-1 unter Verwendung des chemischen Induktors Kobaltprotoporphyrin (CoPP)
+oder
+
+mittels
+
+Gentransfer
+
+von
+
+HO-1
+
+im
+
+Spenderorgan,
+
+schützt
+
+nach
+
+einer
+
+Lebertransplantation in Ratten vor Ischämie/Reperfusions-bedingten Schäden und
+verlängert das Überleben nach Transplantation. Dies beruht vermutlich auf einer
+Suppression der Th1 Zytokinproduktion sowie einer verminderten Apoptose nach
+
+21
+Reperfusion (AMERSI et al. 1999; KATORI et al. 2001). Die Enzymfamilie der
+Hämoxygenasen katalysiert die erste und limitierende Reaktion des Hämabbauweges und
+reguliert damit die Konzentration von Häm. Bei dieser Reaktion wird der Porphyrinring des
+Häms
+
+auf
+
+oxidative
+
+Weise
+
+gespalten.
+
+Es
+
+entstehen
+
+equimolare
+
+Mengen
+
+an
+
+Kohlenstoffmonoxid (CO), Biliverdin-Ix (BV) und ein divalentes ungebundenes Eisenion
+(Fe2+) (TENHUNEN et al. 1970).
+
+Kurz nach einer soliden Organtransplantation sind spender-spezifische Antigenpräsentierende Zellen (APCs) die Hauptinitiatoren einer Allostimulation, indem sie in die
+sekundären lymphatischen Organe des Spenders migrieren und dort T-Zellantworten
+gegen das Allotransplantat initiieren (LARSEN et al. 1990; SAIKI et al. 2001). Dabei wird
+die Reifung Spender-spezifischer APCs in vivo durch inflammatorische Prozesse, wie z.B.
+einen Ischämie-/Reperfusionsschaden, begünstigt. Eine Inhibition der Antigenpräsentation
+Spender-spezifischer
+
+APCs
+
+bietet
+
+folglich
+
+einen
+
+interessanten
+
+Ansatz,
+
+die
+
+Alloimmunantwort zu inhibieren, frühe Abstoßungsreaktionen zu verhindern und somit die
+Langzeitfunktion des Transplantates zu verlängern. So führt die Depletion dieser APCs im
+Allotransplantat
+
+und
+
+dem
+
+damit
+
+verbundenen
+
+Ausschluss
+
+der
+
+direkten
+
+Antigenpräsentation zu einer verzögerten Abstoßungsreaktion (BENICHOU 1999). Neben
+Bilirubin wird in der derzeitigen Diskussion insbesondere dem niedermolekularen
+Abbauprodukt CO der größte Anteil an den zellprotektiven Eigenschaften des HO-1
+Systems zugesprochen (MORITA et al. 1995; OTTERBEIN et al. 2000; SONG et
+al. 2004). Nicht nur die Induktion von HO-1, sondern auch die Administration von CO
+konnte in verschiedenen Transplantationsmodellen einen Schutz gegenüber Ischämie/Reperfusionsschaden
+
+verbunden
+
+mit
+
+einer
+
+verbesserten
+
+Langzeitfunktion
+
+des
+
+Allotransplantats bewirken (KAIZU et al. 2005; MISHRA et al. 2006; KOHMOTO et
+al. 2007). Hierbei deutete vieles auf eine Hemmung der DC Aktivierung hin. Unsere
+eigenen
+
+Arbeiten
+
+im
+
+experimentellen
+
+Tiermodell
+
+belegen
+
+die
+
+Effektivität
+
+der
+
+Behandlungsstrategie mit CO in der Qualitätsverbesserung von marginalen Organen.
+Interessanterweise bewirkt die Vorbehandlung von Nierenspendern mit Methylenchlorid
+(MC), einer Substanz die in vivo CO freisetzt, kurz nach der Transplantation eine
+Reduktion der Anzahl Spender-spezifischer APCs in der Milz und im peripheren Blut der
+Empfänger, verbunden mit einer verminderten Anzahl von alloreaktiven CD4+ TLymphozyten im Transplantat. Zusätzlich führt die verringerte Immunogenität des
+Allotransplantats nach MC Vorbehandlung der Spendertiere zu einer Hemmung der
+chronischen Transplantatsdysfunktion, charakterisiert durch eine signifikante Reduktion
+der Arteriosklerose, Fibrose und tubulären Atrophie.
+
+22
+P.N.A. Martins,
+
+A. Reutzel-Selke,
+
+A. Jurisch,
+
+C. Denecke,
+
+K. Attrot,
+
+A. Pascher,
+
+K. Kotsch, J. Pratschke, P. Neuhaus, H.-D. Volk and S.G. Tullius. Induction of carbon
+monoxide in donor animals prior to organ procurement reduces graft immunogenicity and
+inhibits chronic allograft dysfunction. Transplantation. 2006 Oct 15;82(7):938-944.
+
+23
+Die Verwendung marginaler Spenderorgane ist risikobehaftet und resultiert häufig in einer
+eingeschränkten Langzeitfunktion. Ferner existieren derzeit keine definierten Parameter
+zur Einschätzung des individuellen Risikos marginaler Transplantate sowie für die
+Entwicklung neuer zielgerichteter Therapien. Im Rahmen unserer eigenen Arbeiten wurde
+mittels cDNA-Microarraytechnologie ein Set von differentiell exprimierten Genen in
+Abhängigkeit
+
+des
+
+Ischämieschadens
+
+in
+
+einem
+
+experimentellen
+
+Nierentrans-
+
+plantationsmodell der Ratte analysiert. Unter Berücksichtigung des Einflusses der Stärke
+des Ischämieschadens haben wir ein Set von interessanten Kandidatengenen identifiziert,
+unter denen sich die beiden Chemokine IP-10 (CXCL10), C-C motif ligand 19 (CCL19),
+das Adhäsionsmolekül intracellular adhesion molecule 1 (ICAM-1) sowie die drei
+Immunoproteasomenuntereinheiten PSMB8, PSMB9 und PSMB10 befanden. Letztere
+sind Teil des 20S Immunoproteasoms, welches in Folge einer IFN Induktion entsteht.
+Das Proteasom ist ein multikatalytischer Proteasekomplex, der neben der MHC Klasse I
+vermittelten
+
+Antigenpräsentation
+
+eine
+
+funktionelle
+
+Rolle
+
+bei
+
+der
+
+gesamten
+
+Proteindegradation in der Zelle spielt (GRIFFIN et al. 1998). In jüngerer Zeit wird der
+Inhibition
+
+des
+
+Proteasomenkomplexes
+
+aufgrund
+
+der
+
+protektiven
+
+Effekte
+
+nach
+
+Ischämie/Reperfusion großes Interesse entgegengebracht. So konnten die Ischämie/Reperfusionsschäden im Herzinfarktmodell des Schweins durch die Anwendung von
+spezifischen Inhibitoren der Proteasomen vermindert werden (PYE et al. 2003). Ein antiinflammatorischer
+
+Effekt
+
+/Reperfusionsschaden
+
+wird
+
+von
+
+Proteasomeninhibitoren
+
+derzeit
+
+von
+
+uns
+
+in
+
+auf
+einem
+
+den
+
+Ischämie-
+
+experimentellen
+
+Nierentransplantationsmodell der Ratte überprüft.
+
+Eine große Anzahl von Publikationen beschreibt die schützende Wirkung von HO-1
+gegenüber Ischämie/Reperfusionsschäden in Herz-, (KATORI et al. 2002), Nieren-,
+(TULLIUS et al. 2002) und Leber- (AMERSI et al. 1999) Transplantationsmodellen.
+Allerdings sind die molekularen Mechanismen der protektiven Wirkung des Enzyms oder
+dessen Abbauprodukte (insbesondere CO) weitgehend unbekannt. Chauveau et al.
+(2005) konnten erstmals einen direkten Effekt der CoPP induzierten HO-1 Expression und
+einer Inhibition der LPS vermittelten Reifung Dendritischer Zellen (DC) demonstrieren. Die
+Ergebnisse inkludieren, dass eine CoPP Vorbehandlung von Organspendern die
+Ischämie/Reperfusion vermittelte Reifung donor-spezifischer DCs inhibiert, die Inzidenz
+T-zellvermittelter akuter Rejektionsepisoden kurz nach Transplantation verringert und
+somit das Überleben des Allotransplantats verlängert. Unsere eigenen Untersuchungen
+belegen diese Beobachtungen. Obwohl eine Spendervorbehandlung mit CoPP oder MC
+zu keiner Modulation der mittels cDNA Microarray identifizierten Kandidatenmarker
+(PSMB8-10, IP-10, CCL19) in Folge eines Ischämie-/Reperfusionsschadens im
+
+24
+Allotransplantat f•hrt, konnte hingegen eine signifikante Inhibition dieser Gene sowie der
+MHC Klasse II Expression in der Milz von Nierentransplantatempf€ngern detektiert
+werden. Diese Ergebnisse verdeutlichen die Annahme, dass eine Migration reifer DCs in
+die sekund€ren lymphatischen Organe nach HO-1 Induktion inhibiert ist. Eine Inhibition
+der Reifung Dendritischer Zellen wurde im Anschluss unter Verwendung von in vitro
+Experimenten verifiziert. Die Induktion von Immunoproteasomen scheint folglich – neben
+einer erh‚hten MHC Klasse II Expression und weiterer kostimulatorischer Molek•le
+(CD80, CD86) – ein Charakteristikum f•r die „Immunigenit€t“ des Allotransplantates in
+Folge eines Isch€mie-/Reperfusionsschadens zu sein. Wir schlussfolgern daher, dass
+eine Induktion von HO-1 zu einer reduzierten Alloreaktivit€t nach Isch€mie-/Reperfusionssch€den f•hrt, in dem (i) eine Inhibition der Reifung und Migration dendritischer Zellen in
+die sekund€ren lymphatischen Organe erreicht wird, (ii) weniger allogene Peptdide durch
+die Reduktion von Immunoproteasomen synthetisiert werden und folglich eine
+schw€chere
+
+CD8
+
+T-Zellantwort
+
+induziert
+
+wird
+
+sowie
+
+(iii)
+
+eine
+
+Hemmung
+
+von
+
+chemotaktischen Chemokinen erzielt wird, welche f•r das Homing von Lymphozyten in
+die
+
+sekund€ren
+
+lymphatischen Organe
+
+verantwortlich
+
+sind.
+
+Folglich
+
+bietet die
+
+Spendervorbehandlung mit HO-1 einen interessanten Ansatz f•r die Verbesserung des
+Langzeit•berlebens marginaler Spenderorgane.
+K. Kotsch, P.N.A. Martins, R. Klemz, U. Janssen, B. Gerstmayer, A. Dernier, A. ReutzelSelke, U. Kuckelkorn, S.G. Tullius, and H.-D. Volk. Heme oxygenase-1 ameliorates
+ischemia reperfusion injury by targeting dendritic cell maturation and migration.
+Antioxidants & Redox Signaling, 2007, Dec;9(12):2049-64.
+
+25
+4.2.
+
+Einfluss des Spender-Hirntodes auf Ischämie-/Reperfusionsschaden und
+akute Abstoßungsreaktionen
+
+Transplantate von nichtverwandten Lebendspendern zeigen unabh€ngig von der
+immunologischen Kompatibilit€t eine signifikant bessere Kurz- und Langzeitfunktion im
+Vergleich zu Transplantaten von hirntoten Organspendern (KOO et al. 1999, FARMER et
+al. 2001). Die Beobachtung, dass das ‡berleben von Nierentransplantaten von
+nichtverwandten Lebendspendern ann€hernd identisch mit dem Organ•berleben von
+verwandten Lebendspendern ist, demonstriert die Bedeutung Antigen-unabh€ngiger
+Faktoren und relativiert die Rolle von HLA-Disparit€ten (TERASAKI et al. 1995). Die
+Vermutung, dass das unterschiedliche Organ•berleben nach Transplantation von
+Kadaver- und Lebendspenderorganen auf pathophysiologischen und weniger auf
+genetischen Unterschieden beruht, f•hrte zu Untersuchungen des Zusammenhangs
+funktioneller
+
+und
+
+struktureller
+
+Ver€nderungen
+
+assoziiert
+
+mit
+
+unspezifischer
+
+Organsch€digung.
+Bereits in den 80er Jahren wurden die ersten Untersuchungen zum Hirntod des
+Organspenders durchgef•hrt und eine signifikant reduzierte Sofortfunktion von Organen
+hirntoter Spender im Vergleich zu denen von Lebendspendern beobachtet (WICOMB et
+al. 1986; NOVITZKY et al. 1988; NOVITZKY 1997). So konnten an Herzen hirntoter
+Organspender morphologische als auch funktionelle Ver€nderungen in experimentellen
+Modellen beschrieben werden. Im Myokard zeigten sich neben einer ‚demat‚sen
+Auflockerung der myozyt€ren Strukturen Infiltrate mit Monozyten (NOVITZKY et al. 1987).
+In
+
+Nieren
+
+und
+
+Lungen
+
+derselben
+
+Spender
+
+fanden
+
+sich
+
+ebenfalls
+
+strukturelle
+
+Ver€nderungen, welche auf hormonelle und metabolische Entgleisungen zur•ckgef•hrt
+wurden. Ver€nderungen des Kortisolspiegels und reduzierte Schilddr•senhormone in
+Kombination mit einer Azidose wurden in diesem Zusammenhang als urs€chlich diskutiert
+(POWER & VAN HEERDEN 1995). Die Ver€nderungen im Rahmen des Hirntodes des
+Spenders wurden unter dem Begriff „autonomer Sturm“ zusammengefasst und beinhalten
+massive Blutdruckschwankungen, Hypotension, Koagulopathien sowie Elektrolyt- und
+Hormonentgleisungen
+
+(GRAMM
+
+et
+
+al. 1992;
+
+MERTES 1996).
+
+Der
+
+hypertensiven
+
+Stressreaktion nach Induktion des Hirntodes folgen normotensive und im weiteren Verlauf
+hypotensive Phasen mit kardiopulmonaler Instabilit€t. Der gesamte Organismus ist einer
+massiven sympathogenen Stimulation, vermittelt durch systemisch oder endogen
+freigesetzte Katecholamine, ausgesetzt (MERTES 1996; HERIJGERS 1996). Nach der
+initial hypertensiven Phase w€hrend des “autonomen Sturms” folgen meist hypotensive
+Phasen
+
+mit
+
+zunehmender
+
+Bradykardie
+
+und
+
+Arrhythmien.
+
+Der
+
+Verlust
+
+der
+
+26
+Gefäßautoregulation führt zur Hypotension mit reduzierter Blut- und Sauerstoffversorgung
+des Gewebes.
+
+Allogene Transplantate, sowohl von marginalen Spendern als auch von hirntoten
+Organspendern, sind zum Zeitpunkt der Entnahme immunologisch aktiviert. Somit
+initiieren oder amplifizieren sie zum Zeitpunkt der Transplantation die Immunantwort des
+Organempfängers (KOO et al. 1999; PRATSCHKE et al. 1999; WILHELM et al. 2000).
+Das potenziell aktivierte Organ provoziert eine Interaktion zwischen unspezifischen proinflammatorischen Schäden und der zum Zeitpunkt der Reperfusion einsetzenden
+Immunantwort. Die Hypothese, dass der Faktor Hirntod die Immunogenität prospektiver
+Transplantate erhöht, wurde erstmals von TILNEY und seinen Mitarbeitern überprüft
+(TAKADA et al. 1998). Sie dokumentierten erstmals in einem Modell der explosiven
+Hirntodinduktion eine massive Steigerung der Transkriptionsraten proinflammatorischer
+Zytokine in peripheren Organen. Es zeigte sich experimentell, dass bereits im
+Organspender die Transkription proinflammatorische Zytokine erhöht ist und somit ein
+immunologisch aktiviertes Organ transplantiert wird. Klinische Studien belegen in
+Nierenbiopsien hirntoter Spender bereits vor Transplantation eine erhöhte Expression von
+Selektinen in Verbindung mit neutrophilen Zellinfiltraten (KOO et al. 1999). Eigene
+klinische Daten in sequentiell durchgeführten Leberbiopsien (nach Laparotomie des
+Spenders, vor Reperfusion im Spender, vor Reperfusion im Empfänger, eine Stunde nach
+Reperfusion im Empfänger) demonstrieren signifikant erhöhte Transkriptionsraten
+proinflammatorischer
+
+Zytokine
+
+in
+
+Organen
+
+hirntoter
+
+Spender
+
+im
+
+Vergleich
+
+zu
+
+entsprechenden Transplantaten von Lebendspendern.
+
+Die Bestimmung von Zytokinen in definierten zeitlichen Abständen nach Reperfusion ist
+ein guter Marker für das Ausmaß des Reperfusionsschadens. Der Hirntod des Spenders
+triggert die Expression der proinflammatorischen Zytokine TNF und IL-6. Die Induktion
+von IL-10 zeigte in den kinetischen Untersuchungen signifikante Unterschiede zwischen
+Hirntod- und Lebendspende insbesondere nach Laparotomie und vor Organentnahme
+sowie im sequentiellen Verlauf. Das Chemokin macrophage inflammatory protein 1 alpha
+(MIP-1 alpha) sowie TGF zeigen zu allen Untersuchungszeitpunkten eine signifikante
+Induktion in hirntoten Spendern. Die Zytokine IL-4 und INF sind zwar zu allen
+Zeitpunkten erhöht, allerdings war nur die Expression unmittelbar nach Laparotomie
+zwischen beiden Untersuchungsgruppen signifikant. Die signifikante Induktion der
+Antigene CD3 und CD25 in Leichenspendern kann dabei als ein direkter Hinweis auf
+lymphozytäre Infiltrate diskutiert werden. Eine erhöhte Immunogenität des Transplantates
+in hirntoten Organspendern konnte anhand einer verstärkten Expression der MHC
+
+27
+Klasse II Expression detektiert werden. Die Serumkonzentration von IL-6 und IL-10 waren
+im Gegensatz zu TNF ebenfalls signifikant in Leichenspendern erhöht. Um zu
+überprüfen, ob die Immunaktivierung in Folge des Hirntodes einen direkten Einfluss auf
+das Transplantatüberleben hat, wurden im Rahmen dieser Untersuchung die klinischen
+Serumparameter ALT (Alanin-Aminotransferase) und AST (Aspartat-Aminotransferase)
+analysiert. Es zeigte sich, dass ein signifikanter Anstieg beider Parameter in den Seren
+von Patienten, welche ein Organ von hirntoten Spendern erhielten, am ersten und dritten
+postoperativen Tag zu verzeichnen war. Ferner konnte eine erhöhte Rate an akuten
+Abstoßungen sowie primären Nichtfunktionen für die Transplantate hirntoter Spender
+detektiert werden. Zusammenfassend betrachtet unterstreichen unsere Daten die
+Bedeutung des Hirntodes nach allogener Lebertransplantation. Dabei handelt es sich um
+ein multifaktorielles Geschehen, welches einen Ischämie/Reperfusionsschaden sowie die
+Entwicklung akuter Abstoßungen begünstigt, und in einer eingeschränkten Initialfunktion
+resultiert.
+
+Inwiefern
+
+die
+
+Induktion
+
+der
+
+Inflammation
+
+in
+
+hirntoten
+
+Spender
+
+die
+
+Langzeitfunktion des Allotransplantates beeinflusst, muss in weiterführenden klinischen
+Untersuchungen untersucht werden.
+
+K. Kotsch*, S. Weiss*, M. Francuski, A. Reutzel-Selke, L. Mantouvalou, R. Klemz,
+O. Kuecuek, S. Jonas, C. Wesslau, F. Ulrich, A. Pascher, H.-D. Volk, S.G. Tullius,
+P. Neuhaus, J. Pratschke. Brain death activates donor organs and is associated with a
+worse I/R injury after liver transplantation. American Journal of Transplantation. 2007
+Jun;7(6):1584-93. *Beide Autoren sind gleichberechtigte Erstautoren
+
+28
+4.3.
+
+Therapeutische Ansätze zur Verbesserung der Transplantatqualität nach
+Spender-Hirntod
+
+Die
+
+immunologischen
+
+pathophysiologisch
+weitergehend
+
+Auswirkungen
+
+denen
+
+die
+
+nach
+
+des
+
+Spenderhirntodes
+
+Ischämie-/Reperfusionsschäden.
+
+Langzeitfunktion
+
+transplantierter
+
+Organe,
+
+entsprechen
+
+Vergleicht
+so
+
+ähneln
+
+man
+die
+
+morphologischen und immunologischen Veränderungen nach dem Hirntodschaden denen
+nach ausgeprägter ischämischer Schädigung. Als gemeinsamer pathophysiologischer
+Mechanismus steigert der unspezifische Organschaden die Immunogenität des Organs.
+Nach Transplantation kommt es zu einer verstärkten Empfängerimmunantwort, welche
+sowohl die Inzidenz als auch die Intensität akuter und chronischer Abstoßungen
+beeinflusst. Die Beobachtung, dass Risikofaktoren für die Transplantatfunktion sowohl
+Antigen-abhängig als auch Antigen-unabhängig sind, betont die Bedeutung der
+Transplantatqualität. Möglicherweise lässt sich sowohl durch eine Reduktion Hirntodassoziierter Schäden eine Reduktion des Ischämie-/Repefusionsschadens mit einer
+resultierenden verbesserten Langzeitfunktion erzielen. In diesem Zusammenhang bietet
+sich als mögliches Therapiekonzept die Vorbehandlung hirntoter Organspender an.
+
+Bisherige Ansätze unter Verwendung von Hormonersatztherapien oder Katecholaminen in
+hirntoten
+
+Spendern
+
+sind
+
+widersprüchlich
+
+und
+
+nicht
+
+viel
+
+versprechend
+
+(NOVITZKY & COOPER 1988, HARMS et al. 1993, SCHNUELLE et al. 1999). Weitere
+Arbeiten untersuchten die Effekte einer gezielten Spendervorbehandlung mit löslichen
+P-selectin glycoprotein ligand (sPSGL) nach allogener Nierentransplantation (GASSER et
+al. 2002), welche in einer verminderten Rate akuter Abstoßungen sowie verbesserten
+Langzeitfunktionen resultierte. Die anti-inflammatorische Potenz von Steroiden ist im
+klinischen
+
+Alltag
+
+bekannt
+
+und
+
+beruht
+
+neben
+
+der
+
+Proliferationshemmung
+
+immunkompetenter Zellen auf einer unspezifischen Blockade der Produktion von
+Zytokinen und Zellprodukten. Bisherige Untersuchungen mit Steroiden belegen eine
+Reduktion
+
+der
+
+zellulären
+
+Spendervorbehandlung
+
+waren
+
+und
+die
+
+inflammatorischen
+Funktion
+
+und
+
+Veränderungen.
+das
+
+Überleben
+
+Nach
+von
+
+Kadaverspenderorganen im Vergleich zu unbehandelten Organen deutlich verbessert
+(PRATSCHKE et al. 2001). Diese Ergebnisse demonstrieren, dass die Hirntod-induzierten
+proinflammatorischen Veränderungen in Organen von hirntoten Spendern durch gezielte
+immunmodulatorische
+
+Spendervorbehandlung
+
+reduziert
+
+werden
+
+können
+
+und
+
+implementieren eine gezielte klinische Vorbehandlung hirntoter Spender. Jüngste
+Untersuchungsergebnisse der eigenen Arbeitsgruppe belegen die Effizienz dieser
+Behandlungsstrategie für die Lebertransplantation. Die Vorbehandlung hirntoter Spender
+
+29
+mit Steroiden resultierte in einer signifikant niedrigen Expression von l‚slichen Zytokinen
+(z.B. IL-6, TNF) und Chemokinen (MCP-1 and IP-10) im Serum der Patienten. Ferner
+konnte
+
+eine
+
+signifikante
+
+mRNA
+
+Herunterregulation
+
+von
+
+proinflammatorischen
+
+Kandidatengenen wie ICAM-1, TNF-α, MHC Klasse II, FasL, IP-10 and CD68 in den
+Leberbioptaten beobachtet werden. Die Bedeutung dieser Ergebnisse werden in den
+verbesserten Funktionsparametern (ALT, AST) sowie in einer verminderten Rate an
+akuten Abstoƒungsreaktionen post Transplantation reflektiert.
+K. Kotsch*, F. Ulrich*, A. Reutzel-Selke, A. Pascher, W. Faber, P. Warnick, S. Hoffman,
+M. Francuski, O. Kuecuek, G. Schumacher, C. Wesslau, A. Lun, S. Kohler, S. Weiss,
+S. G. Tullius, P. Neuhaus, J. Pratschke. Donor Treatment with Steroids Reduces
+Inflammation and Improves Graft Function and Outcome Following Deceased Liver
+Transplantation, Annals of Surgery, in Druck. *Beide Autoren sind gleichberechtigte
+Erstautoren
+
+30
+Ein weiterer Ansatz zur Untersuchung und Prävention des Transplantatschadens vor und
+nach Transplantation ist die Induktion protektiver Gene. Durch die erhöhte Expression von
+HO-1 konnte in zahlreichen Versuchen eine verbesserte Transplantatfunktion sowohl im
+Kurz- als auch im Langzeitverlauf nachgewiesen werden. Dabei konnte unsere
+Arbeitsgruppe die Effektivität der Behandlungsstrategie sowohl in der Prävention des
+Ischämie-/Reperfusionsschadens als auch in der Qualitätsverbesserung von Organen
+marginaler Spender nachweisen (TULLIUS et al. 2002, MARTINS et al. 2007; KOTSCH et
+al. 2007). So zeigt die Vorbehandlung hirntoter Spender durch Induktion von HO-1 eine
+deutlich verbesserte Organqualität, ein signifikant verbessertes Transplantatüberleben bei
+reduzierten zellulären Infiltraten (Makrophagen, CD4+ T-Lymphozyten und MHC Klasse II
+positive Lymphozyten) sowie eine verminderte Alloreaktivität.
+K. Kotsch, M. Kordic, A. Pascher, R. Klemz, S.G. Tullius, R. Buelow, H.-D. Volk,
+P. Neuhaus and J. Pratschke. Improved organ survival after HO-1 induction in brain-dead
+organ donors. American Journal of Transplantation. 2006 Mar;6(3):477-86.
+
+31
+5.
+
+Diskussion
+
+Sowohl Antigen-abhängige als auch Antigen-unabhängige Risikofaktoren führen initial
+über endotheliale Schädigungen zu einer immunologischen Transplantataktivierung.
+Dabei besteht ein enger Zusammenhang zwischen initial unspezifischen Antigenunabhängen Zellschäden und einer nachfolgenden spezifischen Antigen-getriggerten
+Immunantwort. Je schlechter das immunologische Matching zwischen Transplantat und
+Empfänger ist, umso desto stärker ist die inflammatorische Antwort auf den initial
+unspezifischen Schaden. Dabei kann den verschiedenen Risikofaktoren sowohl ein
+isolierter Einfluss als auch ein additiver oder synergistischer Effekt zugesprochen werden.
+Vor allem Risikofaktoren, welche bereits vor Transplantation die Organqualität definieren,
+scheinen nach Transplantation bei der Induktion akuter Abstoßungsreaktionen eine
+bedeutende Rolle zu spielen. Ziel der vorliegenden Arbeit war daher, molekulare
+Determinanten der Transplantatqualität näher zu charakterisieren. Neben dem besseren
+Verständnis der molekularen Mechanismen einzelner Risikofaktoren, sollten jene
+Kandidatenmarker die Grundlage für rechtzeitige therapeutische Optionen bilden, um eine
+Verlängerung des Transplantatüberlebens zu erreichen.
+
+Da wiederkehrende Rejektionsepisoden nach der Nierentransplantation bislang zu den
+Hauptrisikofaktoren für die Entwicklung einer chronischen Transplantatnephropathie
+gehören, könnte eine rechtzeitige Intervention in einer verbesserten Langzeitfunktion des
+Allotransplantats resultieren. Ein Ziel der Transplantationsmedizin ist daher die
+Entwicklung alternativer Strategien, welche eine robuste und zuverlässige Diagnostik des
+Immunstatus transplantierter Patienten erlauben, bevor es zu einem Auftreten massiver
+Gewebeschädigung des Transplantates in Folge einer akuten Rejektion kommt. Viele der
+bislang publizierten Arbeiten, welche in renalen Bioptaten, peripherem Blut oder in Urin
+durchgeführt worden sind, dokumentieren das Genexpressionsprofil ausgewählter
+Kandidatenmarker ausschließlich zum Zeitpunkt der akuten Abstoßung. Jedoch ist eine
+frühzeitige Diagnose mit dem Ziel der Vorhersage einer Funktionsverschlechterung des
+Transplantates vor einer irreversiblen Gewebeschädigung von essentieller Bedeutung,
+und kann nur durch ein konsequentes Monitoring der Patienten erreicht werden. Eine
+Vorhersage würde eine rechtzeitige therapeutische Intervention implementieren, mit der
+eine Revertierung der Abstoßung erreicht werden könnte; ein Vorteil, der besonders für
+ambulante Patienten von großem Nutzen wäre, welche keiner engmaschigen Kontrolle
+unterliegen. Im Rahmen der eigenen Untersuchungen konnte insbesondere die mRNA
+Induktion des zytotoxischen Markers Granulysin, des Chemokins IP-10 sowie des
+Zytotoxizitätsrezeptors NKG2D im Urinzellsediment nierentransplantierter Patienten zum
+
+32
+Zeitpunkt einer akuten Abstoßung dokumentiert werden. Ferner zeigten alle Marker ein
+prädiktives Potential für die Vorhersage einer Funktionsverschlechterung im Vorfeld der
+klinischen Diagnose. Im Gegensatz zu Granulysin und IP-10 konnte eine erhöhte
+Expression von NKG2D sowie des Zytokins TGF1 nicht nur zum Zeitpunkt einer akuten
+zellulären Abstoßung detektiert werden, sondern auch in renalen Bioptaten mit der
+Diagnose
+
+einer
+
+chronischen
+
+Transplantatnephropathie.
+
+Dabei
+
+waren
+
+induzierte
+
+Transkriptionsraten von NKG2D und TGF1 zum Zeitpunkt der Abstoßung prädiktiv für
+eine Funktionsverschlechterung des Transplantates im Langzeitverlauf. Die im Rahmen
+der vorliegenden Untersuchungen gewonnen Informationen bilden die Basis für ein
+besseres Verständnis der pathologischen Mechanismen der Transplantatabstoßung auf
+molekularer Ebene. Ferner könnte die Verwendung dieser und weiterer immunologischer
+Parameter zukünftig die Voraussetzung für die Entwicklung alternativer Diagnostika
+bilden. Vorrangiges Ziel dieser diagnostischen Strategien sollte die Identifikation von
+Patienten mit einem erhöhten Rejektionsrisiko sein, um eine Adaption der mit
+Nebenwirkungen assoziierten immunsuppressiven Therapie sowie eine Verbesserung des
+Langzeitüberlebens des Allotransplantates zu erzielen. Neben der HLA-Disparität konnten
+wir erstmalig den Zusammenhang zwischen den polymorphen KIR Rezeptoren auf NKZellen des Empfängers und ihren korrespondierenden HLA Liganden auf dem
+Transplantat
+
+als
+
+einen
+
+weiteren
+
+Alloantigen-abhängigen
+
+Risikofaktor
+
+für
+
+das
+
+Transplantatüberleben dokumentieren. Es zeigte sich, dass die Homozygotie des HLA-C
+Liganden Gruppe 2, eine höhere Anzahl inhibitorischer KIR Rezeptoren sowie definierte
+Rezeptor/Liganden Matche das Risiko einer akuten zellulären Abstoßung vermindern.
+Diese Erkenntnisse implementieren eine funktionelle Bedeutung von NK-Zellen innerhalb
+der soliden Organtransplantation und müssen in weiteren Studien verifiziert werden.
+
+Transplantate von nichtverwandten Lebendspendern zeigen unabhängig von der
+immunologischen Kompatibilität eine signifikant bessere Kurzzeit- und Langzeitfunktion im
+Vergleich zu Transplantaten hirntoter Organspender. Diese Beobachtung unterstreicht die
+Bedeutsamkeit Antigen-unabhängiger Faktoren und relativiert die Rolle Antigenabhängiger Faktoren. Unsere Untersuchungen zeigten, dass Transplantate sowohl von
+marginalen Spendern als auch von hirntoten Organspendern zum Zeitpunkt der
+Entnahme immunologisch aktiviert sind. Somit initiieren oder amplifizieren sie zum
+Zeitpunkt der Transplantation die Immunantwort des Organempfängers. Das potenziell
+aktivierte
+
+Organ
+
+provoziert
+
+eine
+
+Interaktion
+
+zwischen
+
+unspezifischen
+
+proinflammatorischen Schäden und der zum Zeitpunkt der Reperfusion einsetzenden
+Immunantwort. Die Trigger dieser Interaktion können Spender-assoziierte Risikofaktoren,
+
+33
+wie z.B. Alter, Hypertension, Diabetes mellitus, ein Ischämie-/Reperfusionsschaden oder
+die systemischen Effekte des Spender-Hirntodes darstellen.
+
+Der Einfluss des Ischämie-/Reperfusionsschadens auf die Transplantatfunktion wurde in
+zahlreichen
+
+klinischen
+
+und
+
+experimentellen
+
+Arbeiten
+
+umfangreich
+
+beschrieben.
+
+Pathophysiologisch wird hierbei die Aktivierung einer Kaskade von Adhäsionsmolekülen,
+Zytokinen/Chemokinen und Wachstumsfaktoren angenommen. Experimentelle Studien
+belegen, dass es in Folge des Ischämie-/Reperfusionsschadens zu einer verstärkten
+Expression von Adhäsionsmolekülen sowie proinflammatorischen Zytokinen mit der Folge
+einer Infiltration von Granulozyten, Monozyten/Makrophagen sowie von T-Lymphozyten
+kommt. In dem Zusammenhang konnten wir neue Kandidatenmarker für eine ischämische
+Schädigung unter Verwendung von cDNA Microarrays identifizieren. Die begrenzte
+Lebensdauer
+
+von
+
+Spenderorganen
+
+sowie
+
+das
+
+Auftreten
+
+ischämiebedingter
+
+Transplantatschäden erfordern allerdings die Entwicklung protektiver Lösungen für die
+Organkonservierung.
+
+Unsere
+
+Arbeiten
+
+belegen
+
+die
+
+protektiven
+
+Effekte
+
+einer
+
+Spendervorbehandlung mittels der Induktion des zytoprotektiven Enzyms HO-1 sowie
+dessen Abbauprodukt CO. Neben einem verbesserten Langzeitüberleben scheint ein
+Schutz hinsichtlich einer ischämischen Schädigung hier über eine Hemmung der DCAktivierung erreicht zu werden.
+
+Der Hirntod stellt einen Antigen-unabhängigen Leichenspender-spezifischen Risikofaktor
+dar, der bislang unzureichend berücksichtigt wurde. In nahezu allen experimentellen
+Studien
+
+zu
+
+transplantationsrelevanten
+
+Fragestellungen
+
+dienen
+
+junge,
+
+gesunde
+
+Lebendspendertiere als Organspender, im Gegensatz zur klinischen Situation, in der
+überwiegend Organe hirntoter Organspender zur Transplantation zur Verfügung stehen.
+Der hirntote Organspender erleidet typischerweise eine plötzliche, irreversible und
+ausgeprägte Schädigung des zentralnervösen Systems. In Tiermodellen wurde
+demonstriert, dass die Funktion und Struktur peripherer Organe durch den Faktor Hirntod
+signifikant beeinflusst wird und von der Genese des Hirntodes abhängt. In unseren
+experimentellen
+
+Arbeiten
+
+wurden
+
+die
+
+Mechanismen
+
+der
+
+Schädigung
+
+und
+
+die
+
+Auswirkungen des Hirntodes auf die Transplantatqualität sowie auf das Ergebnis nach
+Transplantation untersucht. Diese Studien trugen wesentlich zum Verständnis des
+Risikofaktors Hirntod für den postoperativen Transplantationsverlauf bei. Wir zeigten
+erstmalig in klinischen Untersuchungen, dass der Hirntod des Spenders den Ischämie/Reperfusionsschaden
+Abstoßungsreaktion
+
+sowie
+nach
+
+die
+
+Häufigkeit
+
+allogener
+
+und
+
+Intensität
+
+Lebertransplantation
+
+sowohl
+
+signifikant
+
+der
+
+akuten
+
+beeinflusst.
+
+Pathophysiologisch konnte ein Prozess postuliert werden, bei dem der unspezifischen
+
+34
+Aktivierung
+
+durch
+
+den
+
+Spender-Hirntod
+
+eine
+
+verstärkte
+
+immunologische
+
+Empfängerantwort nach Transplantation folgt. Dieser Mechanismus zeigt die enge
+Interaktion zwischen Antigen-unabhängigen und -abhängigen Faktoren in der Destruktion
+des Transplantates. Durch Vorbehandlungsstrategien kann die Organqualität signifikant
+verbessert werden. So wurde weiterführend in einem Konzept der Vorbehandlung des
+hirntoten Spenders ein Ansatz im experimentellen Tiermodell untersucht. Hierbei zeigten
+sich ebenfalls vielversprechende Ergebnisse mittels der Induktion von HO-1 hinsichtlich
+einer verbesserten Organqualität, eines verbesserten Transplantatüberlebens sowie einer
+verminderten Alloreaktivität. Die Effizienz einer Spendertherapie mit Steroiden wurde in
+einer klinischen Studie nach Lebertransplantation überprüft und zeigte eine signifikante
+Reduktion inflammatorischer Mediatoren (IL-6, TNF), verbesserter Funktionsparameter
+und einer geringerer Rate an akuten Abstoßungsreaktionen nach Vorbehandlung des
+hirntoten Spenders.
+
+Zusammengefasst trugen unsere Untersuchungen wesentlich zu einem besseren
+Verständnis der Einflussfaktoren auf die Transplantatqualität bei. Unsere Befunde
+dokumentieren das prädiktive Potenzial definierter Kandidatenmarker zur Vorhersage
+einer akuten Abstoßungsreaktion und erklären teilweise die klinische Beobachtung, dass
+Transplantate von Lebendspendern trotz eines ausgeprägteren MHC-Mismatches einen
+besseren Kurz- und Langzeitverlauf zeigen. Weitere Alloantigen-abhängige Risikofaktoren
+konnten in dem Zusammenhang definiert werden. Die Charakterisierung der durch den
+Ischämie-/Reperfusionsschaden und den Spenderhirntod verursachten Veränderungen
+ermöglichen in Zukunft eine gezielte therapeutischen Intervention zur Verbesserung der
+Transplantatqualität und somit des Transplantationsergebnisses.
+
+35
+6.
+
+Referenzen
+
+ADAMS DH, HUBSCHER SG, SHAW J, ROTHLEIN R, NEUBERGER JM. Intercellular
+adhesion molecule 1 on liver allografts during rejection. Lancet. 1989; 2: 1122-5
+ALMOND PS, MATAS A, GILINGHAM K, DUNN DL, PAYNE WD, GORES P,
+GRUESSNER R, NAJARIAN JS. Risk factors for chronic rejection in renal allograft
+recipients. Transplantation. 1993; 55: 752-6
+AMERSI F, BUELOW R, KATO H, KE B, COITO AJ, SHEN XD, ZHAO D, ZAKY J,
+MELINEK J, LASSMANN CR, KOLLS JK, ALAM J, RITTER T, VOLK HD,
+FARNER DG, GHOBRIAL RM, BUSUTILL RW, KUPIEC-WEGLINSKI JW.
+Upregulation of heme oxygenase-1 protects genetically fat Zucker rat livers from
+ischemia/reperfusion injury. J Clin Invest. 1999; 104: 1631-9
+ANDERSON DC, BILLINGHAM RE, LAMPIN GH, MEDAWAR PB. The use of skin
+grafting to distinguish between monozygotic and dizygotic twins in cattle. Heredity.
+1951; 5: 379
+ARAKI M, SCHENK AD, FAIRCHILD RL. Cytokines and chemokines: roles in the
+pathophysiology and therapy of ischemia and reperfusion injury. Curr Opin Organ
+Transplant. 2004; 9: 139-144
+AUSTYN JM, LARSEN CP. Antigen uptake and presentation by dendritic leukocytes.
+Seminar Immunol. 1992; 4: 227-36
+BARNARD CN. What we have learned about heart transplants. Cardiovasc Surg. 1968;
+56: 457-68
+BASADONNA GP, MATAS AJ, GILLINGHAM KJ, PAYNE WD, DUNN DL, SUTHERLAND
+DE, GORES PF, GRUESSNER RW, NAJARIAN JS. Early versus late acute renal
+allograft rejection: impact on chronic rejection. Transplantation. 1993; 55: 993-5
+BAUER S, GROH V, WU J, STEINLE A, PHILLIPS JH, LANIER LL, SPIES T. Activation
+of NK cells and T cells by NKG2D, a receptor for stress-inducible MICA. Science.
+1999; 285: 727-9
+BENICHOU G. Direct and indirect antigen recognition: the pathways to allograft immune
+rejection. Front Biosci. 1999; 4: 476-80
+BONVENTRE JV. Mechanisms of ischemic acute renal failure. Kidney Int. 1993; 43: 116078
+BONVENTRE V, ZUK A. Ischemic acute renal failure: an inflammatory disease? Kidney
+Int. 2004; 66: 480–485
+BORDER WA, RUOSLAHTI E. Transforming growth factor-beta in disease: the dark side
+of tissue repair. J Clin Invest. 1992; 90: 1–7
+
+36
+BORDER WA, NOBLE NA. Transforming growth factor beta in tissue fibrosis. N Engl J
+Med. 1994; 331: 1286–1292
+BURNE-TANEY MJ, KOFLER J, YOKOTA N, WEISFELDT M, TRAYSTMAN RJ, RABB
+H. Acute renal failure after whole body ischemia is characterized by inflammation
+and T cell-mediated injury. Am J Physiol Renal Physiol. 2003; 285: 87-94
+CARRINGTON M, NORMAN P. The KIR gene cluster. National Library of Medicine (US),
+National
+
+Center
+
+for
+
+Biotechnology
+
+Information;
+
+2003.
+
+URL:
+
+http://www.ncbi.nlm.nih.gov/books/bookres.fcgi/mono_003/ch1d1.pdf
+CARTER JT, LEE CM, WEINSTEIN RJ, LU AD, DAFOE DC, ALFREY EJ. Evaluation of
+the older cadaveric kidney donor: the impact of donor hypertension and creatinine
+clearance on graft performance and survival. Transplantation. 2000; 70: 765-71
+CECKA JM. The UNOS Scientific Renal Transplant Registry. Clin Transpl. 1999; 1-21
+CHAUVEAU C, REMY S, ROYER PJ, HILL M, TANGUY-ROYER S, HUBERT FX,
+TESSON L, BRION R, BERIOU G, GREGOIRE M, JOSIEN R, CUTURI MC,
+ANEGON I. Heme oxygenase-1 expression inhibits dendritic cell maturation and
+proinflammatory function but conserves IL-10 expression. Blood. 2005; 106: 1694702
+CHERTOW GM, BRENNER BM, MACKENZIE HS, MILFORD EL. Non-immunologic
+predictors of chronic renal allograft failure: data from the United Network of Organ
+Sharing. Kidney Int Suppl. 1995; 52: 48-51
+CINES DB, POLLAK ES, BUCK CA, LOSCALZO J, ZIMMERMAN GA, MCEVER RP,
+POBER JS, WICK TM, KONKLE BA, SCHWARTZ BS, BARNATHAN ES,
+MCCRAE KR, HUG BA, SCHMIDT AM & STERN DM. Endothelial cells in
+physiology and in the pathophysiology of vascular disorders. Blood. 1998; 91:
+3527-61
+COLONNA M, BROOKS EG, FALCO M, FERRARA GB, STROMINGER JL. Generation
+of allospecific natural killer cells by stimulation across a polymorphism of HLA-C.
+Science. 1993; 260: 1121-4
+COSIMI AB, BURTON RC, COLVIN RB, GOLDSTEIN G, DELMONICO FL, LAQUAGLIA
+MP, TOLKOFF-RUBIN N, RUBIN RH, HERRIN JT, RUSSELL PS. Treatment of
+acute renal allograft rejection with OKT3 monoclonal antibody. Transplantation.
+1981; 32: 535-9
+DALLMAN MJ, WOOD KJ, HAMANO K. Cytokines and peripheral tolerance to
+alloantigen. Immunol Rev. 2002; 133: 5-18
+DALLMAN MJ. Cytokines as mediators of organ graft rejection and tolerance. Curr
+Opinion in Immunol. 1993; 5: 788-93
+
+37
+DAVIES MG, HAGEN PO. The vascular endothelium, a new horizon. Ann Surg. 1993;
+218: 593-609
+DE GREEF KE, YSEBAERT DK, GHIELLI M, VERCAUTEREN S, NOUWEN EJ,
+EYSKENS EJ, DE BROE ME. Neutrophils and acute ischemia-reperfusion injury. J
+Nephrol. 1998; 11: 110-22
+DENTON
+
+MD,
+
+MAGEE
+
+CC,
+
+SAYEGH
+
+MH.
+
+Immunosuppressive
+
+strategies
+
+in
+
+transplantation. Lancet. 1999; 353: 1083-91
+DEUTSHCE STIFTUNG ORGANTRANSPLANTATION (DSO). http://www.dso.de
+DING R, Li B, MUTHUKUMAR T, DADHANIA D, MEDEIROS M, HARTONO C, SERUR
+D, SESHAN SV, SHARMA VK, KAPUR S, SUTHANTHIRAN M. CD103 mRNA
+levels in urinary cells predict acute rejection of renal allografts. Transplantation.
+2003; 75: 1307-12
+EUROPEAN MULTICENTRE TRIAL. Cyclosporin A as sole immunosuppressive agent in
+recipients of kidney allografts from cadaver donors. Preliminary results of a
+European multicentre trial. Lancet. 1982; 2: 57-60
+EUROTRANSPLANT
+
+INTERNATIONAL
+
+FOUNDATION.
+
+Annual
+
+Report
+
+2005.
+
+Eurotransplant.
+2005.http://www.eurotransplant.nl/files/annual_report/AR2005_def.pdf
+FARMER DG, YERSIZ H, GHOBRIAL RM, MCDIARMID SV, GORMBEIN J, LE H,
+SCHLIFKE A, AMERSI F, MAXFILED A, AMOS N, RESTREPO GC, CHEN P,
+DAWSON S 3rd, BUSUTTIL RW. Early graft function after pediatric liver
+transplantation: comparison between in situ split liver grafts and living-related
+grafts. Transplantation. 2001; 72: 1795-802
+GASSER M, WAAGA AM, KIST-VAN HOLTHE JE LENHARD SM, LASKOWSKI I, SHAW
+GD, HANCOCK WW, TILNEY NL. Normalization of brain death-induced injury to
+rat renal allografts by recombinant soluble P-selectin glycoprotein ligand. J Am
+Soc Nephrol. 2002; 13: 1937–1945
+GIBSON T, MEDAWAR PB. The fate of skin homografts in man. J Anat. 1943; 77: 299310
+GORER PA. The antigenic basis of tumour transplantation. J Path Bacteriol. 1938; 47:
+231
+GRAMM HJ, MEINHOLD H, BICKEL U, ZIMMERMANN J, VON HAMMERSTEIN B,
+KELLER F, DENNHARDT R, VOIGT K. Acute endocrine failure after brain death?
+Transplantation. 1992; 54: 851-7
+GRIFFIN TA, NANDI D, CRUZ M, FEHLING HJ, KAER LV, MONACO JJ, COLBERT AA.
+Immunoproteasome assembly: cooperative incorporation of interferon gamma
+(IFN-gamma)-inducible subunits. J Exp Med. 1998; 187: 97–104
+
+38
+GULANIKAR AC, MACDONALD AS, SUNGURTEKIN U, BELITSKY P. The incidence and
+impact of early rejection episodes on graft outcome in recipients of first cadaver
+kidney transplants. Transplantation. 1992; 53: 323-8
+GUMPERZ JE, LITWIN V, PHILLIPS JH, LANIER LL, PARHAM P. The Bw4 public
+epitope of HLA-B molecules confers reactivity with natural killer cell clones that
+express NKB1, a putative HLA receptor. J Exp Med. 1995; 181: 1133-44
+HADLEY GA, ROSTAPSHOVA EA, GOMOLKA DM, TAYLOR BM, BARTLETT ST,
+DRACHENBERG CI, WEIR MR. Regulation of the epithelial cell-specific integrin
+CD103, by human CD8+ cytolytic T lymphocytes. Transplantation 1999; 67: 1418–
+1425
+HADLEY GA, CHANRANDEE C, WEIR MR, WANG D, BARTLETT ST, DRACHENBERG
+CB. CD103+ CTL accumulate within the graft epithelium during clinical renal
+allograft rejection. Transplantation 2001; 72: 1548–1555
+HANCOCK WW, BUELOW R, SAYEGH MH, TURKA LA. Antibody-induced transplant
+arteriosclerosis is prevented by graft expression of anti-oxidant and anti-apoptotic
+genes. Nat Med 1998; 4: 1392-6
+HARIHARAN S, JOHNSON CP, BRESNAHAN BA, TARANTO SE, MCINTOSH MJ,
+STABLEIN D. Improved graft survival after renal transplantation in the United
+States, 1988 to 1996. N Engl J Med. 2000; 342: 605-12
+HARIHARAN S, MCBRIDE MA, BENNETT LE, COHEN EP. Risk factors for renal allograft
+survival from older cadaver donors. Transplantation. 1997; 64: 1748-54
+HARMS J, ISEMER FE, KOLENDA H. Hormonal alteration and pituitary function during
+course of brain stem death in potential organ donors. Transplantation. 1993; 56:
+363-6
+HATA Y, OZAWA M, TAKEMOTO SK, CECKA JM. HLA matching. Clin Transpl. 1996;
+381-96
+H„YRY P, VON WILLEBRAND E, PARTHENAIS E, NEMLANDER A, SOOTS A,
+LAUTENSCHLAGER I, ALFOLDY
+
+P,
+
+RENKONEN
+
+R.
+
+The
+
+inflammatory
+
+mechanisms of allograft rejection. Immunol Rev. 1984; 77:85-142
+HEEGER PS. T-cell allorecognition and transplant rejection: a summary and update. Am J
+Transplant. 2003; 3: 525-33
+HERIJGERS P, LEUNENS V, TJANDRA-MAGA TB, MUBAGWA K, FLAMENG W.
+Changes in organ perfusion after brain death in the rat and its relation to circulating
+catecholamines. Transplantation. 1996; 62: 330-5
+HU H, AIZENSTEIN BD, PUCHALSKI A, BURMANIA JA, HAMAWY MM, KNECHTLE SJ.
+Elevation of CXCR3-binding chemokines in urine indicates acute renal-allograft
+dysfunction. Am J Transplant. 2004; 4: 432-7
+
+39
+HUGHES CC, SAVAGE CO, POBER JS. The endothelial cell as a regulator of T-cell
+function. Imm Rev. 1990; 117: 85-102
+JOOSTEN SA, VAN KOOTEN, PAUL LC. Pathogenesis of chronic allograft rejection.
+Transplant Int. 2003; 16: 137-45
+KAIZU T, NAKAO A, TSUNG A, TOYOKAWA H, SAHAI R, GELLER DA, MURASE N.
+Carbon monoxide inhalation ameliorates cold ischemia/reperfusion injury after rat
+liver transplantation. Surgery. 2005; 138: 229-35
+KATORI M, BUELOW R, KE B, MA J, COITO AJ, IYER S, SOUTHARD D, BUSUTTIL
+RW, KUPIEC-WEGLINSKI JW. Heme oxygenase-1 overexpression protects rat
+hearts from cold ischemia/reperfusion injury via an antiapoptotic pathway.
+Transplantation. 2002; 73: 287-92
+KOHMOTO J, NAKAO A, STOLZ DB, KAIZU T, TSUNG A, IKEDA A, SHIMIZU H,
+TAKAHASHI T, TOMIYAMA K, SUGIMOTO R, CHOI AM, BILIAR TR, MURASE
+N, MCCURRY KR. Carbon Monoxide Protects Rat Lung Transplants From
+Ischemia-Reperfusion Injury via a Mechanism Involving p38 MAPK Pathway. Am J
+Transplant. 2007; 7: 2279-90
+KOO DD, WELSH KI, MCLAREN AJ, ROAKE JA, MORRIS PJ, FUGGLE SV. Cadaver
+versus living donor kidneys: impact of donor factors on antigen induction before
+transplantation. Kidney Int. 1999; 56: 1551-1559
+LARSEN, CP, MORRIS, PJ, AUSTYN JM. Migration of dendritic leukocytes from cardiac
+allografts into host spleens. A novel pathway for initiation of rejection. J Exp Med.
+1990; 171: 307-14
+LEE CM, SCANDLING JD, PAVLAKIS M, MARKEZICH AJ, DAFOE DC, ALFREY EJ. A
+review of the kidneys that nobody wanted: determinants of optimal outcome.
+Transplantation. 1998; 65: 213-9
+LEE PC, TERASAKI PI, TAKEMOTO SK, LEE PH, HUNG CJ, CHEN YL, TSAI A, LEI HY.
+All chronic rejection failures of kidney transplants were preceded by the
+development of HLA antibodies. Transplantation. 2002; 74: 1192-4
+LI B, HARTONO C, DING R, SHARMA VK, RAMASWAMY R, QIAN B, SERUR D,
+MOURADIAN J, SCHWARTZ JE, SUTHANTHIRAN M. Noninvasive diagnosis of
+renal-allograft rejection by measurement of messenger RNA for perforin and
+granzyme b in urine. N Eng J Med. 2001; 344: 947-54
+LIPMAN ML, STEVENS AC, STROM TB. Heightened intragraft CTL gene expression in
+acutely rejecting renal allografts. J Immunol. 1994;152: 5120-7
+LIPPY P, TANAKA H. The pathogenesis of coronary arteriosclerosis ("chronic rejection")
+in transplanted hearts. Clin Transplant. 1994; 8: 313-18
+
+40
+LIVI U, BORTOLOTTI U, LUCIANI GB, BOFFA GM, MILANO A, THIENE G,
+CASAROTTO D. Donor shortage in heart transplantation. Is extension of donor
+age limits justified? J Thorac Cardiovasc Surg. 1994; 107: 1346-54
+LJUNGGREN HG, KARRE K. In search of the 'missing self': MHC molecules and NK cell
+recognition. Immunol Today. 1990; 11: 237-44
+MAUIYYEDI S, CRESPO M, COLLINS AB, SCHNEEBERGER EE, PASCUAL MA,
+SAIDMAN SL, TOLKOFF-RUBIN NE, WILLIAMS WW, DELMONICO FL, COSIMI
+AB, COLVIN RB. Acute humoral rejection in kidney transplantation: II. Morphology,
+immunopathology, and pathologic classification. J Am Soc Nephrol. 2002; 13: 77987
+MCNERNEY ME, LEE KM, ZHOU P, MOLINERO L, MASHAYEKHI M, GUZIOR D,
+SATTAR H, KUPPIREDDI S, WANG CR, KUMAR V, ALEGRE ML. Role of natural
+killer cell subsets in cardiac allograft rejection. Am J Transplant. 2006 6: 505-13
+MEDAWAR PB. The behaviour and fate of skin autografts and skin homografts in rabbits.
+J Anat. 1944; 78: 176-99
+MERRILL JP, MURRAY JE, HARRISON JH, GUILD WR. Successful homotransplantation
+of the human kidney between identical twins. JAMA. 1956; 160: 277-82
+MERTES PM. Physiology of brain death. Transplantation Biology: Cellular and Molecular
+Aspects, TILNEY NL, STROM TB, PAUL LC, eds. Philadelphia, Lippincott, 1996;
+275
+MISHRA S, FUJITA T, LAMA VN, NAM D, LIAO H, OKADA M, MINAMOTO K,
+YOSHIKAWA Y, HARADA H, PINSKY DJ. Carbon monoxide rescues ischemic
+lungs by interrupting MAPK-driven expression of early growth response 1 gene
+and its downstream target genes. Proc Natl Acad Sci U S A. 2006; 103: 5191-6
+MORETTA A, BOTTINO C, PENDE D, TRIPODI G, TAMBUSSI G, VIALE O, et al.
+Identification of four subsets of human CD3-CD16+ natural killer (NK) cells by the
+expression of clonally distributed functional surface molecules: correlation between
+subset assignment of NK clones and ability to mediate specific alloantigen
+recognition. J Exp Med. 1990; 172: 1589-98
+MORITA T, PERRELLA MA, LEE ME, KOUREMBANAS S. Smooth muscle cell-derived
+carbon monoxide is a regulator of vascular cGMP. Proc Natl Acad Sci U S A.
+1995; 92: 1475-9
+MORRIS PJ, JOHNSON RJ, FUGGLE SV, BELGER MA, BRIGGS JD. Analysis of factors
+that affect outcome of primary cadaveric renal transplantation in the UK. HLA Task
+Force of the Kidney Advisory Group of the United Kingdom Transplant Support
+Service Authority (UKTSSA), Lancet. 1999; 354: 1147-52
+
+41
+MULTICENTER TRIAL. Cyclosporin a as sole immunosuppressive agent in recipients of
+kidney allografts from cadaver donors. Preliminary results of a European
+multicentre trial. Lancet. 1982; 10: 57-60
+MUTHUKUMAR T, DING R, DADHANIA D, MEDEIROS M, Li B, SHARMA VK,
+HARTONO C, SERUR D, SESHAN SV, VOLK HD, REINKE P, KAPUR S,
+SUTHANTHIRAN M. Serine proteinase inhibitor-9, an endogenous blocker of
+granzyme B/perforin lytic pathway, is hyperexpressed during acute rejection of
+renal allografts. Transplantation. 2003; 75: 1565-70
+NANKIVELL BJ, FENTON-LEE CA, KUYPERS DR, CHEUNG E, ALLEN RD,
+O'CONNELL PJ, CHAPMAN JR. Effect of histological damage on long-term kidney
+transplant outcome. Transplantation. 2001; 71: 515-23
+NICHOLSON ML, METCALFE MS, WHITE SA, WALLER JR, DOUGHMAN TM,
+HORSBURGH T, FEEHALLY J, CARR SJ, VEITCH PS. A comparison of the
+results of renal transplantation from non-heart-beating, conventional cadaveric and
+living donors. Kidney Int. 2000; 58: 2585-91
+NICKEL P, LACHA J, ODE-HAKIM S, SAWITZKI B, BABEL N, FREI U, VOLK HD,
+REINKE P. Cytotoxic effector molecule gene expression in acute renal allograft
+rejection: correlation with clinical outcome; histopathology and function of the
+allograft. Transplantation. 2001; 72: 1158-60
+NOVITZKY D, COOPER DK, REICHART B. Hemodynamic and metabolic response to
+hormonal therapy in brain-dead potential organ donors. Transplantation. 1987; 43:
+852-4
+NOVITZKY D, COOPER DK, ROSE AG. Injury of myocardial conduction tissue and
+coronary
+
+artery
+
+smooth
+
+muscle
+
+following
+
+brain
+
+death
+
+in
+
+the
+
+baboon.
+
+Transplantation. 1988; 45: 964-6
+NOVITZKY D, COOPER DK. Results of hormonal therapy in human brain-dead potential
+organ donors. Transplant Proc. 1988; 20: 59–62
+NOVITZKY D. Detrimental effects of brain death on the potential organ donor. Trans.
+Proc. 1997; 29: 3770-2
+ODE-HAKIM S, DOCKE WD, KERN F, EMMRICH F, VOLK HD, REINKE P. Delayed-type
+hypersensitivity-like mechanisms dominate late acute rejection episodes in renal
+allograft recipients. Transplantation. 1996; 61: 1233-40
+OPELZ G, DOHLER B. Effect of human leukocyte antigen compatibility on kidney graft
+survival: comparative analysis of two decades. Transplantation. 2007; 84: 137-43
+OTTERBEIN LE, BACH FH, ALAM J, SOARES M, TAO LH H, WYSK M, DAVIS RJ,
+FLAVELL RA, CHOI AM. Carbon monoxide has anti-inflammatory effects involving
+the mitogen-activated protein kinase pathway. Nat Med. 2000; 6: 422-8
+
+42
+PASCUAL M, THERUVATH T, KAWAI T, TOLKOFF-RUBIN N, COSIMI AB. Strategies to
+improve long-term outcomes after renal transplantation. N Engl J Med 2002; 346:
+580-90
+PAVLAKIS M, STREHLAU J, LIPMAN M, SHAPIRO M, MASLINSKI W, STROM TB.
+Intragraft IL-15 transcripts are increased in human renal allograft rejection.
+Transplantation. 1999; 27: 543-5
+PENA SV, KRENSKY AM. Granulysin, a new human cytolytic granule-associated protein
+with possible involvement in cell-mediated cytotoxicity. Semin Immunol. 1997; 9:
+117-25
+PHILLIPS JH, GUMPERZ JE, PARHAM P, LANIER LL. Superantigen-dependent, cellmediated cytotoxicity inhibited by MHC class I receptors on T lymphocytes.
+Science 1995; 268: 403-5
+PIPKIN ME, LIEBERMANN J. Delivering the kiss of death: progress on understanding
+how perforin works. Curr Opin Immunol. 2007; 19: 301-8
+POWER BM, VAN HEERDEN PV. The physiological changes associated with brain
+death: current concepts and implications for the treatment of the brain dead donor.
+Anaesth Intensive Car. 1995; 23: 26-36
+PRATSCHKE J, KOFLA G, WILHELM MJ, VERGOPOULOS A, LASKOWSKI I, SHAW
+GD, TULLIUS SG, VOLK HD, NEUHAUS P, TILNEY NL. Improvements in early
+behavior of rat kidney allografts after treatment of the brain-dead donor. Ann Surg.
+2001; 234: 732-40
+PRATSCHKE J, WILHELM MJ, KUSAKA M, BASKER M, COOPER DK, TILNEY NL.
+Brain death and its influence on donor organ quality and outcome after
+transplantation. Transplantation. 1999; 67: 343-8
+PRATSCHKE J, WILHELM MJ, KUSAKA M, HANCOCK WW, TILNEY NL. Activation of
+donor proinflammatory genes as a consequence of brain death. Trans Proc. 1999;
+31: 1003-5
+PRATSCHKE J, WILHELM MJ, LASKOWSKI I, KUSAKA M, BEATO F, TULLIUS SG,
+NEUHAUS P, HANCOCK WW, TILNEY NL. Influence of donor brain death on
+chronic rejection of renal transplants in rats. J Am Soc Nephrol. 2001; 12: 2474-81
+PYE J, ARDESSHIRPOUR F, MCCAIN A, BELLINGER DA, MERRICKS E, ADAMS J,
+ELLIOTT PJ, PIEN C, FISCHER TH, BALDWIN AS Jr, NICHOLS TC. Proteasome
+inhibition ablates activation of NF-kappa B in myocardial reperfusion and reduces
+reperfusion injury. Am J Physiol Heart Circ Physiol. 2003; 284: 919-26
+REUTZEL-SELKE A, ZSCHOCKELT T, DENECKE C, BACHMANN U, JURISCH A,
+PRATSCHKE J, SCHMIDBAUR G, VOLK HD, NEUHAUS P, TULLIUS SG. Shortterm immunosuppressive treatment of the donor ameliorates consequences of
+
+43
+ischemia/ reperfusion injury and long-term graft function in renal allografts from
+older donors. Transplantation. 2003; 75: 1786-92
+RUGGERI L, CAPANNI M, URBANI E, PERRUCCIO K, SHLOMCHIK WD, TOSTI A,
+POSATIS, ROGAIA D, FRASSONI F, AVERSA F, MARTELLI MF, VELARDI A.
+Effectiveness of donor natural killer cell alloreactivity in mismatched hematopoietic
+transplants. Science. 2002; 295: 2097-100
+RUSH D, JEFFERY J, TRPKOV K, SOLEZ K, GOUGH J. Effect of subclinical rejection on
+renal allograft histology and function at 6 months. Transplant Proc. 1996; 28: 494-5
+RUSH D, NICKERSON P, GOUGH J, MCKENNA R, GRIMM P, CHEANG M, TRPKOV K,
+SOLEZ K, JEFFERY J. Beneficial effects of treatment of early subclinical rejection:
+a randomized study. J Am Soc Nephrol. 1998; 9: 2129-34
+RUSH DN, KARPINSKI ME, NICKERSON P, DANCEA S, BIRK P, JEFFERY JR. Does
+subclinical rejection contribute to chronic rejection in renal transplant patients? Clin
+Transplant. 1999; 13: 441-6. Review
+RYAN US. The endothelial surface and response to injury. Fed Proc. 1986; 45: 101-8
+SABEK O, DORAK MT, KOTB M, GABER AO, GABER L. Quantitative detection of T-cell
+activation markers by real-time PCR in renal transplant rejection and correlation
+with histopathologic evaluation. Transplantation. 2002; 74: 701-7
+SAIKI T, EZAKI T, OGAWA M, MATSUNO K. Trafficking of host- and donor-derived
+dendritic cells in rat cardiac transplantation: allosensitization in the spleen and
+hepatic nodes. Transplantation. 2001; 71: 1806-15
+SCHEMMER P, SCHOONHOVEN R, SWENBERG JA, BUNZENDAHL H, RALEIGH JA,
+LEMASTERS JJ, THURMAN RG. Gentle organ manipulation during harvest as a
+key determinant of survival of fatty livers after transplantation in the rat. Transpl Int.
+1999; 12: 351-9
+SCHNUELLE P, LORENZ D, MUELLER A, TREDE M, VAN DER WOUDE FJ. Donor
+catecholamine use reduces acute allograft rejection and improves graft survival
+after cadaveric renal transplantation. Kidney Int. 1999; 56: 738–746
+SEINO KI, FUKAO K, MURAMOTO K, YANAGISAWA K, TAKADA Y, KAKUTA S,
+IWAKURA Y, VAN KAER L, TAKEDA K, NAKAYAMA T, TANIGUCHI M,
+BASHUDA H, YAGITA H, OKUMURA K. Requirement for natural killer T (NKT)
+cells in the induction of allograft tolerance. Proc Natl Acad Sci U S A. 2001;98:
+2577-81
+SHARMA VK, BOLOGA RM, LI B, XU GP, LAGMAN M, HISCOCK W, MOURADIAN J,
+WANG J, SERUR D, RAO VK, SUTHANTHIRAN M. Molecular executors of cell
+death--differential intrarenal expression of Fas ligand, Fas, granzyme B, and
+
+44
+perforin during acute and/or chronic rejection of human renal allografts.
+Transplantation. 1996; 27: 1860-6
+SHEN XD, KE B, ZHAI Y, GAO F, BUSUTTIL RW, CHENG G, KUPIEC-WEGLINSKI JW.
+Toll-like receptor and heme oxygenase-1 signaling in hepatic ischemia/reperfusion
+injury. Am J Transplant. 2005; 5: 1793-800
+SHOSKES DA, HALLORAN PF. Ischemic injury induces altered MHC gene expression in
+kidney by an interferon-gamma-dependent pathway. Trans Proc. 1991; 23: 599601
+SHOSKES DA, PARFREY NA, HALLORAN PF. Increased major histocompatibility
+complex antigen expression in unilateral ischemic acute tubular necrosis in the
+mouse. Transplantation. 1990; 49: 201-7
+SMITS JMA, DE MEESTER J, PERSIJN GG, CLASS FH, VANRENTERHEM Y. Longterm results of solid organ transplantation: report from the Eurotransplant
+International Foundation. Cecka JM, Terasaki PI, eds. Clinical transplants. Los
+Angeles: UCLA Tissue Typing Laboratory, 1996: 109-27
+SOARES MP, LIN Y, ANRATHER J, CSIZMADIA E, TAKIGAMI K, SATO K, GREY ST,
+COLVIN RB, CHOI AM, POSS KD, BACH FH. Expression of heme oxygenase-1
+can determine cardiac xenograft survival. Nat Med. 1998; 4: 1073-7
+SONG R, MAHIDHARA RS, ZHOU Z, HOFFMAN RA, SEOL DW, FLAVELL RA, BILIAR
+TR, OTTERBEIN LE, CHOI AM. Carbon monoxide inhibits T lymphocyte
+proliferation via caspase-dependent pathway. J Immunol. 2004; 172: 1220-6
+STARZL TE, PORTER KA, BRETTSCHNEIDER L, PENN I, BELL P, PUTNAM CW,
+MCGUIRE
+
+RL.
+
+Clinical
+
+and
+
+pathological
+
+observations
+
+after
+
+orthotopic
+
+transplantation of the human liver. Surg Gynecol Obstet. 1969; 128: 327-39
+STREHLAU J, PAVLAKIS M, LIPMAN M, SHAPIRO M, VASCONCELLOS L, HARMON
+W, STROM TB. Quantitative detection of immune activation transcripts as a
+diagnostic tool in kidney transplantation. Proc Natl Acad Sci U S A. 1997; 94: 695700
+TAKADA M, NADEAU KC, HANCOCK WW, MACKENZIE HS, SHAW GD, WAAGA AM,
+CHANDRAKER A, SAYEGH MH, TILNEY NL. Effects of explosive brain death on
+cytokine activation of peripheral organs in the rat. Transplantation. 1998; 65: 153342
+TATAPUDI RR, MUTHUKUMAR T, DADHANIA D, DING R, LI B, SHARMA VK, LOZADAPASTORIO E, SEETHARAMU N, HARTONO C, SERUR D, SESHAN SV, KAPUR
+S, HANCOCK WW, SUTHANTHIRAN M. Noninvasive detection of renal allograft
+Inflammation by measurements of mRNA for IP-10 and CXCR3 in urine. Kidney
+Int. 2004; 65: 2390-7
+
+45
+TENHUNEN R, MARVER HS, SCHMID R. The enzymatic catabolism of hemoglobin:
+stimulation of microsomal heme oxygenase by hemin. J Lab Clin Med. 1970; 75:
+410-21
+TERASAKI PI, CECKA JM, GJERTSON DW, TAKEMOTO S. High survival rates of kidney
+transplants from spousal and living unrelated donors. N Engl J Med. 1995; 333:
+333-6
+TERASAKI PI, OZAWA M. Predicting graft failure by HLA antibodies: a prospective trial. Am
+J Transplant. 2004; 4: 438-43
+TERASAKI PI. Humoral theory of transplantation. Am J Transplant. 2003; 3: 665-73
+TESAR BM, GOLDSTEIN DR. Toll-like receptors and their role in transplantation.
+Front Biosci. 2007; 12: 4221-38. Review
+TILNEY NL, WHITLEY WD, TULLIUS SG, HEEMANN UW, WASOWSKA B, BALDWIN
+WM 3rd, HANCOCK WW. Serial analysis of cytokines, adhesion molecule
+expression, and humoral responses during development of chronic kidney allograft
+rejection in a new rat model. Transplant Proc. 1993; 25: 861-2
+TILNEY NL, WHITLEY WD, DIAMOND JR, KUPIEC-WEGLINSKI JW, ADAMS DH.
+Chronic rejection--an undefined conundrum. Transplantation. 1991; 52: 389-98.
+Review.
+TULLIUS SG, NIEMINEN-KELHA M, BUELOW R, REUTZEL-SELKE A, MARTINS PN,
+PRATSCHKE J, BACHMANN U, LEHMANN M, SOUTHARD D, IYER S,
+SCHMIDBAUER G, SAWITZKI B, REINKE P, NEUHAUS P, VOLK HD. Inhibition
+of ischemia/reperfusion injury and chronic graft deterioration by a single donor
+treatment with cobalt-protoporphyrin for the induction of heme oxygenase-1.
+Transplantation. 2002; 74: 591-8
+TULLIUS SG, HEEMANN U, HANCOCK WW, AZUMA H, TILNEY NL. Long-term kidney
+isografts develop functional and morphological changes that mimic those of
+chronic allograft rejection. Ann Surg. 1994; 220: 425-32
+TULLIUS SG, REUTZEL-SELKE A, EGERMANN F, NIEMINEN-KELHA M, JONAS S,
+BECHSTEIN WO, VOLK HD, NEUHAUS P. Contribution of prolonged ischemia
+and donor age to chronic renal allograft dysfunction. J Am Soc Nephrol. 2000; 11:
+1317-24
+TULLIUS SG, TILNEY NL. Both alloantigen-dependent and -independent factors influence
+chronic allograft rejection. Transplantation. 1995; 59: 313- 8
+TULLIUS SG, VOLK HD, NEUHAUS P. Transplantation of organs from marginal donors.
+Transplantation. 2001; 72: 1341-9
+
+46
+UNOS: UNITED NETWORK FOR ORGAN SHARING 2000. Annual Report of the U.S.
+Scientific Registry for Transplant Recipients and the Organ and Transplantation
+Network. UNOS Richmond 2000
+VAN DER HOEVEN JA, TER HOST GT, MOLEMA G, DE VOS P, GIRBES AR,
+POSTEMA F, FREUND RL, WIERSEMA J, VAN SCHILFGAARDE R, PLOEG RJ.
+Effects of brain death and hemodynamic status on function and immunological
+activation of the potential donor liver in the rat. Ann Surg. 2000; 232: 804-13
+VASCONCELLOS LM, SCHACHTER AD, ZHENG XX, VACONCELLOS LH, SHAPIRO
+M, HARMON WE, STROM TB. Cytotoxic lymphocyte gene expression in
+peripheral
+
+blood
+
+leukocytes
+
+correlates
+
+with
+
+rejecting
+
+renal
+
+allografts.
+
+Transplantation. 1998; 66: 562-6
+VIKLICKY O, MATL I, VOSKA L, BOHMOVA R, JARESOVA M, LACHA J,
+LODEREROVA A, STRIZ I, TEPLAN V, VITKO S. TGF-beta1 expression and
+chronic allograft nephropathy in protocol kidney graft biopsy. Physiol Res. 2003;
+52: 353-60
+WICOMB WN, COOPER DK, LANZA RP, NOVITZKY D, ISAACS S. The effects of brain
+death and 24 hours' storage by hypothermic perfusion on donor heart function in
+the pig. J Thoc Cardiovasc Surg.1986; 91: 896
+WILHELM MJ, PRATSCHKE J, BEATO F, TAAL M, KUSKA M, HANCOCK WW, TILNEY
+NL. Activation of the heart by donor brain death accelerates acute rejection after
+transplantation. Circulation. 2000; 102: 2426-33
+ZHAI Y, SHEN XD, O'CONNELL R, GAO F, LASSMAN C, BUSUTTIL RW, CHENG G,
+KUPIEC-WEGLINSKI
+
+JW.
+
+Cutting
+
+edge:
+
+TLR4
+
+activation
+
+mediates
+
+liver
+
+ischemia/reperfusion inflammatory response via IFN regulatory factor 3-dependent
+MyD88-independent pathway. J Immunol. 2004; 173: 7115-7119
+ZWIRNER NW, MARCOS CY, MIRBAHA F, ZOU Y, STASTNY P. Identification of MICA
+as a new polymorphic alloantigen recognized by antibodies in sera of organ
+transplant recipients. Hum Immunol. 2000; 61: 917-24
+
+47
+7.
+
+Abkürzungsverzeichnis
+
+APC
+
+antigen-presenting cell
+
+CAN
+
+chronic allograft nephropathy
+
+CCL19
+
+(C-C motif) ligand 19
+
+CTL
+
+cytotoxic T lymphocyte
+
+CsA
+
+Cyclosporin A
+
+CXCR3
+
+chemokine (C-X-C motif) receptor 3
+
+DC
+
+dendritic cells
+
+DSO
+
+Deutsche Stiftung Organtransplantation
+
+FASL
+
+FAS ligand
+
+HLA
+
+Humanes Leukozyten Antigen
+
+HO-1
+
+Hämoxygenase 1
+
+IP-10
+
+(C-X-C motif) ligand 10
+
+KIR
+
+killer-cell immunoglobulin-like receptor
+
+mRNA
+
+messenger
+
+MHC
+
+major histocompatibility complex
+
+NK
+
+natural killer cell
+
+RT-PCR
+
+reverse Transkriptase - Polymerase Chain Reaktion
+
+TGF
+
+transforming growth factor 
+
+Th1
+
+T-Helfer Zellen vom Typ 1
+
+UNOS
+
+United Network for Organ Sharing
+
+48
+8.
+
+Danksagung
+
+Herrn Prof. Dr. Hans-Dieter Volk, Direktor des Institutes für Medizinische Immunologie der
+Charité, Universitätsmedizin Berlin, danke ich für seine stets großzügige Unterstützung
+meiner wissenschaftlichen Tätigkeit, für zahlreiche Anregungen, für die Betreuung meiner
+Arbeit sowie für stets fruchtbare und weiterführende Diskussionen. Besonders danken
+möchte ich auch meinen klinischen Kooperationspartnern, insbesondere PD. Dr. med.
+Johann Pratschke (Klinik für Allgemein-, Viszeral- und Transplantationschirugie Charité),
+Prof. Dr. med. Stefan Tullius (Brigham and Women´s Hospital, Boston, USA) und Prof. Dr.
+med. Petra Reinke (Klinik für Nephrologie und intern. Intensivmedizin, Charité) ohne
+deren unermüdliche Hilfe und Ratschläge die Durchführung der Projekte sicherlich nicht
+möglich gewesen wäre. Danken möchte ich insbesondere meinen Mitarbeitern Diana
+Stauch, Roman Klemz, Mir-Farzin Mashreghi, Mareen Matz, Marleen Seiler, Cam-Tien
+Le, Katrin Klippert und Kristina Kunert für die fruchtbare und erfolgreiche Zusammenarbeit
+in den vergangenen Jahren sowie besonders Annelie Dernier für ihre technische
+Unterstützung. Den Mitarbeitern des Institutes für Medizinische Immunologie gilt mein
+Dank für die kooperative Zusammenarbeit in dieser Zeit. Frau Dr. rer. nat. Constanze
+Schönemann (HLA-Labor, Abteilung für Transfusionsmedizin der Charité) hat meine
+wissenschaftliche Laufbahn stets mit großem Engagement begleitet, wofür ich ihr
+ebenfalls danke. Mein herzlicher Dank gilt allen nationalen und internationalen
+Kooperationspartnern
+
+für
+
+den
+
+intensiven
+
+wissenschaftlichen
+
+Austausch,
+
+die
+
+Berlin,
+
+die
+
+stimulierenden Diskussionen und die anregende Kritik.
+
+Schließlich
+
+gilt
+
+mein
+
+Dank
+
+der
+
+Charité,
+
+Universitätsmedizin
+
+für
+
+wissenschaftliche und persönliche Förderung meiner Arbeit durch die Gewährung eines
+Rahel-Hirsch
+
+Habilitationsstipendiums
+
+sowie
+
+durch
+
+die
+
+Aufnahme
+
+in
+
+das
+
+Mentorenprogramm der Charité.
+
+Der Dank, den ich meiner Familie für ihre Unterstützung schulde, lässt sich nicht in Worte
+fassen.
+
+49
+9.
+
+Eidesstattliche Erklärung
+
+ERKLÄRUNG
+§ 4 Abs. 3 (k) der HabOMed der Charité
+
+Hiermit erkläre ich, daß
+-
+
+weder früher noch gleichzeitig ein Habilitationsverfahren durchgeführt oder
+angemeldet wird bzw. wurde,
+
+-
+
+welchen Ausgang ein durchgeführtes Habilitationsverfahren hatte,
+
+-
+
+die vorgelegte Habilitationsschrift ohne fremde Hilfe verfaßt, die beschriebenen
+Ergebnisse selbst gewonnen sowie die verwendeten Hilfsmittel, die
+Zusammenarbeit mit anderen Wissenschaftlern/Wissenschaftlerinnen und mit
+technischen Hilfskräften sowie die verwendete Literatur vollständig in der
+Habilitationsschrift angegeben wurden.
+
+-
+
+mir die geltende Habilitationsordnung bekannt ist.
+
+.............................................
+Datum
+
+......................................................
+Unterschrift
+
+

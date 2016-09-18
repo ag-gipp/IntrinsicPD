@@ -1,0 +1,1013 @@
+Aus dem Universitätsklinikum Münster
+Institut für Physiologie I
+Direktor: Univ.-Prof. Dr H. C. Pape
+
+Acute effects of garlic extract on spreading depression and
+synaptic activity in rat brain slices
+
+INAUGURAL - Dissertation
+
+zur
+Erlangung des doctor medicinae dentium
+
+der Medizinischen Fakultät
+der Westfälischen Wilhelms-Universität Münster
+
+Marschollek, Claudia
+aus Minden
+
+2010
+
+
+
+Abstract
+Throughout history many different cultures have recognised the potential use of garlic for
+prevention and treatment of different kind of diseases. Recent studies support the effects of
+garlic and its extracts in a wide range of application. Different compounds in garlic are
+thought to reduce the risk for cardiovascular diseases and cancer, to have anti-tumour effects,
+to show effect on blood glucose concentration, and to prevent and treat neurological disorders.
+Garlic was suggested by many medieval literatures to be beneficial in treatment of headache.
+To investigate the neurophysiologic properties of the action of garlic oil, its effects on CSD
+induced by KCl microinjection, electrically evoked field excitatory post-synaptic potentials
+(fEPSP), and long-term potentiation (LTP) were tested in rat somatosensory neocortical
+tissues. Garlic oil dose-dependently (1-500μl/l) decreased the amplitude of CSD whereas has
+no effect on CSD duration and propagation of velocity. Garlic oil (500μl/l) also reversibly
+reduced the amplitude of fEPSP. Garlic oil at concentration of 500μl/l significantly blocked
+induction of LTP of fEPSP in the third layer of neocortical slices. Thus, garlic oil can
+suppress CSD, likely via inhibition of synaptic plasticity. The data indicate the potential for
+garlic oil to use in the treatment of CSD-related neurological disorders.
+
+5
+
+Introduction
+Dietary factors play a crucial role in the development of various human diseases. Across
+different cultures, there are several dietary patterns, which are believed to promote human
+health. Despite cultural and geographical differences, there are some shared characteristics of
+healthy dietary patterns. Perceiving plant foods as beneficial diet is advised by the folklore of
+many cultures over centuries. Garlic acquired a reputation in different traditions as a
+formidable prophylactic and therapeutic medicinal herb.
+
+The history of garlic
+Garlic has been used throughout history for both culinary and medicinal purposes. Although
+sometimes maligned, garlic has had an amazing array of nutritional and medicinal
+applications throughout human history, and it is still improving the health of many today.
+Some of the earliest references to medicinal effect of garlic were found in Avesta, a collection
+of Zoroastrian holy writing that was probably compiled during the sixth century BC
+(Darmestetar, 1898). Archaeologists have discovered clay sculptures of garlic bulbs and
+paintings of garlic dating about 3200 B.C. in Egyptian tombs in El Mahasna. A recently
+discovered Egyptian papyrus dating from 1,500 B.C. recommends garlic as a cure all for over
+22 common ailments, including lack of stamina, heart disease and tumors, and it’s been said
+the Egyptians fed garlic to the slaves building the pyramids to increase their strength
+(Lasinski, 2005). In ancient Greece and Rome, garlic enjoyed a variety of uses, from repelling
+scorpions to treating dog bites and bladder infections to curing leprosy and asthma. Ancient
+Chinese and Indian medicine recommended garlic to aid respiration as well as digestion and
+to treat leprosy and parasitic infestation (Rivlin, 1998). Garlic is mentioned in the Bible and
+the Talmud. In the medieval period, garlic also played an important role in the treatment of
+different diseases. Avicenna, in his well-known book Canon, recommended garlic as a useful
+6
+
+compound in treatment of arthritis, toothache, chronic cough, constipation, parasitic
+infestation, snake-biting, gynaecologic disorders, and infectious diseases (Ibn Sina, 1989).
+With the onset of Renaissance, special attention was paid in whole Europe to the medicinal
+benefits of garlic. In the middle Ages, garlic was thought to combat the plague and was hung
+in braided strands across the entrances of houses to prevent evil spirits from entering
+(Lasinski, 2005).
+In seventeenth century England, garlic was considered unfit for ladies and anyone who
+wished to court them, and it was avoided in America even early into the 20th century.
+However, garlic has attracted particular attention of modern medicine because of its
+widespread belief that it helps in maintaining good health. In some Western countries, the sale
+of garlic preparations ranks with those of leading prescription drugs.
+
+Allium sativum, commonly known as garlic (German: Knoblauch), is a species in the onion
+family Alliaceae (German: Lauchgewächse). Garlic is a bulb of a lily-like plant, belonging to
+the same family as onions, chives, leeks and scallions. Garlic is the strongest flavoured
+member of the onion family. The majority of Allium species including garlic are native to the
+Northern hemisphere, mainly in Asia. A few species are native to Africa and Central and
+South America. China is by far the largest producer of garlic, with approximately 10.5 million
+tonnes annually, accounting for over 77% of world output (Economic Research Service,
+2006).
+The herbaceous bulb is characterized by a pungent odour. The bulb is compound, consisting
+of anything up to twenty segments, called 'cloves'. Usually there are about ten cloves to a
+bulb, packed side by side around a thin central core. These cloves separated by scaly
+membranes and enclosed by a brittle parchment-like skin. The flesh of the clove is ivory
+coloured, and should be hard and firm though easily cut with a finger nail. The skin is usually
+white, but may have a pale pink or purplish tinge. Garlic is widely variable in size, based on
+7
+
+its variety. Many varieties of garlic exist in different parts of world. In South East Asia a
+small variety with only four to six cloves grows and is similar to Spanish garlic, llium sativum
+ophioscorodon. A giant variety is grown in California. There are different types or subspecies
+of garlic, most notably hard-neck garlic and soft-neck garlic. The latitude where the garlic is
+grown affects the choice of type as garlic can be day-length sensitive. Hard-neck garlic is
+generally grown in cooler climates; soft-neck garlic is generally grown closer to the equator.
+The leaves, and flowers on the head are also edible, and being milder in flavour than the
+bulbs. The root cluster attached to the basal plate of the bulb is the only part not typically
+considered palatable in any form. Garlic propagates easily and is one of the simplest plants to
+grow. The flowers are hermaphrodite and are pollinated by Bees, insects.
+The plant prefers light (sandy) and medium (loamy) soils and requires well-drained soil. The
+plant prefers acid, neutral and basic (alkaline) soils and can grow in very alkaline soil. It can
+not grow in the shade. Garlic plants can be grown close together, leaving enough room for the
+bulbs to mature, and are easily grown in containers of sufficient depth. It requires dry or moist
+soil. August or early fall is considered the best time for sowing cloves, as this allows the roots
+time to develop before the first frost sets in. New leaves will appear before winter and in the
+spring. Plants will rapidly reach a height of 18 inches. Garlic will do best in full sun but can
+be grown with satisfactory results in partial shade.
+
+Garlic properties
+When crushed, garlic yields allicin. Allicin has been found to be the compound most
+responsible for the hot sensation of raw garlic. Allicin (allyl 2-propenethiosulfineate or diallyl
+thiosulfinate) is the principal bioactive compound present in aqueous garlic extract or raw
+garlic homogenate. When garlic is chopped or crushed, allinase enzyme, present in garlic, is
+activated and acts on alliin (present in intact garlic) to produce allicin. Other main compounds
+present in garlic homogenate are 1-propenyl allyl thiosulfonate, allyl methyl thiosulfonate,
+8
+
+(E,Z)-4,5,9-trithiadodeca-1,6,11-triene 9-oxide (ajoene), and γ-L-glutamyl-S-alkyl-L-cysteine.
+The adenosine concentration increases several-fold as the homogenate is incubated at room
+temperature for several hours.
+Another widely studied garlic preparation is aged garlic extract. Sliced raw garlic stored in
+15-20% ethanol for more than 1.5 years is refereed to aged garlic extract. This process is
+supposed to cause considerable loss of allicin and increased activity of certain new
+compounds. These compounds include S-allylcysteine, S-allylmercaptocysteine, allixin (3hydroxy-5-methoxy-6-methyl-2-penthyl-4H-pyran-4-one), and selenium which are stable and
+significantly antioxidant. Medicinally used garlic oil is usually prepared by steam-distillation
+process. Steam-distilled garlic oil consists of diallyl, allylmethyl, and dimethyl mono to hexa
+sulfides (Lawson, 1998).
+Allyl methyl sulfide cannot be digested and is passed into the blood. It is carried to the lungs
+and the skin, where it is excreted. Since digestion takes several hours and release of AMS
+several hours more, the effect of eating garlic may be present for a long time.
+
+Garlic adverse effects
+Multiple cases of bleeding have been associated with garlic use, and caution is warranted in
+patients at risk of bleeding or prior to some surgical/dental procedures. Garlic can cause a skin
+rash in sensitive people. Over consumption can cause heartburn. Garlic may interact with antiinflammatory medications, such as ibuprofen or naproxen, aspirin, ASA, warfarin, heparin,
+and other drugs that affect bleeding or platelets (Gattu et al., 2009).
+
+9
+
+A
+
+B
+
+C
+
+Figure 1. Allium sativum, commonly known as garlic, is a species in the onion family
+Alliaceae. A: different forms of whole plant. B: the bulb of garlic. C: garlic preparations.
+
+10
+
+Medicinal use and health benefits
+There are appreciable epidemiologic evidences that demonstrate therapeutic and preventive
+roles of garlic. Several experimental and clinical investigations suggest many favourable
+effects of garlic and its preparations. These effects have been largely attributed to i) reduction
+of risk factors for cardiovascular diseases, ii) reduction of cancer risk, iii) antioxidant effect,
+iv) antimicrobial effect, v) enhancement of detoxification of foreign compound and
+hepatoprotection, and vi) neurological disorders.
+
+Garlic and its preparations have been widely recognised for prevention and treatment of
+cardiovascular diseases. The wealth of scientific literatures supports the proposal that garlic
+consumption have significant effect on lowering of blood pressure, reduction of
+atherosclerosis, decreasing serum cholesterol as well as triglyceride, inhibition of platelet
+aggregation, and increasing fibrolytic activity. In in vivo animal experiments, intravenous
+administration of garlic extracts in hypertensive animals brought the blood pressure back to
+the normal levels (Sial and Ahmed, 1982). Several clinical studies showed that garlic reduced
+blood pressure in more than 80% of patients suffering from hypertension (Pektov, 1979;
+Konig and Scincider 1986; Auer et al., 1989). Most of human studies on lipid lowering effects
+of garlic and its compounds described significant decrease in serum cholesterol and
+triglyceride (Gardner et al., 2001; Ziaei et al., 2001). Allicin and S-allyl cysteine present in
+aged garlic extract as well as diallyl-di-sulfide in garlic oil are the active compounds
+responsible for anti-atherosclerotic effect (Gebhardt and Beck, 1996; Yeh and Liu., 2001). In
+addition, it was reported that garlic decreases the risk of peripheral arterial occlusive diseases,
+plasma viscosity, as well as unstable angina and increases elastic property of blood vessels
+and capillary perfusion (Banerjee and Maulik, 2002). Garlic significantly inhibited
+intracellular ca2+ mobilization, thromboxane-A2 synthesis, and protected against
+
+11
+
+thrombocytopenia induced by collagen or arachidonate application in rabbits (Banerjee and
+Maulik, 2002).
+Many experimental and clinical studies pointed to possible cancer-preventive effects of garlic.
+In rodents, garlic and its constitutes have been reported to inhibit the development of
+chemically induced tomurs in the liver, colon, bladder, mammary gland, esophagus, lung,
+skin, and stomach (Lau et al., 1986; Sparnins et al., 1986; Wattenberg et al., 1989; Amagase
+and Milner, 1993; Wargovich et al., 1988; Ohaeri, 2001; Lawson, 2001; Knowles and Milner,
+2003; Kweon et al., 2003). Garlic compounds have been found to block covalent of
+carcinogens to DNA, enhance degradation of carcinogens, have anti-oxidative and free radical
+scavenging properties, and regulate cell responses. Reduction of some malignancies risk by
+consumption of selenium-enriched plants like garlic has been reported (Finley, 2003).
+
+On oral administration of and garlic sulfoxide amino acids, S-methylcysteine sulfoxide and
+S-allylcysteine sulfoxide to alloxan-diabetic rats for a month, their diabetic condition, being
+characterized by glucose intolerance, weight loss, depletion of liver glycogen, etc., was
+ameliorated as comparable to rats treated with glibenclamide and insulin (Sheela et al., 1995).
+However, anti-diabetic effect of garlic in human is still controversial. It was suggested that
+allicin may effectively combine with compounds like cysteine and enhance serum insulin. In
+some clinical investigations chronic feeding of garlic extracts showed significant reduction of
+blood glucose level whereas some other studies reported no change on glucose concentrations
+(Banerjee and Maulik, 2002). Garlic also can protect the liver cells from some toxic gents like
+in overdose of acetaminophen (Patten et al., 1993).
+
+Garlic has been used for centuries in various societies to combat infectious diseases. Garlic
+has been proven to be effective against a plethora of gram-negative, gram-positive, and acidfast bacteria. These include Salmonella, Escherichia coli, Pseudomonas, Proteus,
+12
+
+Staphylococcus aureus, Klebsiella, Closteridium, Mycobacterium, Micrococcus, and
+Helicobacter (Cavallito et al., 1944; Jezowa et al., 1966; Johnson and Vaughan, 1969; Sharma
+et al., 1977; O’Gara et al., 2000; Adler and Beuchat, 2002). An inhibitory synergism effect
+was observed when garlic applied together with vancomycin (Jonkers et al., 1999).
+
+In addition to antimicrobial effect, garlic has been reported to act against several protozoa
+such as Candida, tinea pedis, Leishmania, and Lepromonas (Lemar et al., 2002) as well as
+several fungi like Cryptococcus, Trichosporon, aflatoxin, and Aspergillus (Tansey and
+Appleton, 1975; Tadi et al., 1991). Furthermore, anti-viral action of garlic was reported to
+affect influenza A and B, Cytomegalovirus, HIV, herpes simplex virus 1 and 2 as well as
+rhinovirus (Weber et al., 1992; Tsai et al., 1985 a,b). Allicin, diallyl trisulfide, and ajoene
+have been shown to have antiviral effect (Weber et al., 1992).
+
+Garlic and its extract have been shown to be effective in prevention of different neurological
+disorders. S-methyl-L-cysteine , a substrate in the catalytic antioxidant system mediated by
+methionine sulfoxide reductases, is an abundantly substance in garlic and some other
+vegetables such as cabbage, and turnips. It has been shown that S-methyl-L-cysteine prevents
+the
+
+-synuclein-induced abnormalities in rats. Application of this substance is a new
+
+prevention and therapeutic approach for Parkinson disease and potentially for other
+neurodegenerative diseases involving oxidative stress (Wassef et al, 2007). Some members of
+the transient receptor potential (TRPA) family of cation channels mediate sensory responses
+to irritant substances. TRPA1 is an important component of the transduction machinery
+through which environmental irritants and endogenous proalgesic agents depolarize
+nociceptors to elicit inflammatory pain. TRPA1 has been proposed to function in diverse
+sensory processes, including thermal (cold) nociception, hearing, and inflammatory pain. It is
+well known that TRPA1 channels are activated by pungent compounds found in garlic. This
+13
+
+substance may act on nocieceptors and modulate noxious stimuli (Salazar et al., 2008).
+Alzheimer's disease involves amyloid beta accumulation, oxidative damage and
+inflammation. S-allyl-l-cysteine, a water-soluble organosulfur component present in garlic is
+known to prevent cognitive decline by protecting neurons from amyloid beta induced
+neuronal apoptosis (Gupta and Rao, 2007). Feeding of aged garlic extract prevented
+deterioration of hippocampal based memory tasks in mice, suggesting that aged garlic extract
+has a potential for preventing Alzheimer (Chauhan and Sandoval, 2007). N-acetylcysteine, a
+compound available in garlic, protects neuronal death in cerebellar granule neurons. This
+neuroprotective effect is due, at least in part, to preservation of mitochondrial membrane
+potential and intracellular intracellular glutathione levels (Arakawa et al., 2006).
+
+Spreading depression
+Cortical spreading depression (CSD), is a pathophysiological phenomenon which occurs as a
+propagating wave of short neuronal hyperexcitability followed by a transient wave of
+depression, first identified in the neocortex of rabbits (Leao, 1944). CSD is an "all-or-none"
+process and spreads in the manner of a wave through gray matter. CSD appears first at the
+stimulated site and propagate in all directions at the velocity of 2–3 mm/min, so that
+increasingly distant areas undergo successively a similar temporary depression. An important
+characteristic feature of CSD is a propagating negative potential with amplitude of 10–30 mV
+and duration of more than 30 sec, which may be preceded or succeeded by a positive
+fluctuation of variable amplitude and duration (figure 2).
+
+CSD can be initiated by different stimuli and so can be directly studied in experimental
+investigations. It was first induced by applying a brief tetanus of faradic stimulation to the
+rabbit neocortex by Leao group (Leao, 1944; Fig. 1). However, such stimuli could lead to
+convulsive activity spreading from the stimulated area and so subsequent authors preferred to
+14
+
+employ direct current (DC) stimuli (Leao & Morrison, 1945; Ochs, 1962). Mechanical
+stimulation, for example, by stroking of the cortical surface with a blunt instrument, a falling
+weight or even lightly tapping the cortex also initiates SD (Leao, 1944). More recent studies
+have achieved more reliable and reproducible induction of CSD by rapidly inserting and
+retracting hypodermic steel needles (Kaube and Goadsby, 1994; Lambert et al., 1999;
+Ebersberger et al., 2001). However, one of the most common models of SD initiation is KCl
+application to the neuronal tissues (Wernsmann et al., 2006; Dehbandi et al., 2008). This
+model has been proven to be the most reliable stimulus leading to reproducible events on
+earlier investigations (Martins-Ferreira et al., 2000; Bradley et al., 2001). Changes in
+extracellular K+ concentration might be involved in such pathophysiological processes in
+human brain tissue (Mayevsky et al., 1996; Nicholson & Sykova, 1998). CSD can also be
+induced by applications of the excitatory amino acids glutamate and aspartate; metabolic
+inhibitors such as NaCN that poison oxidative metabolism and NaF and iodoacetate that
+primarily interfere with glycolysis; the Na+-K+ ATP-ase inhibitor ouabain has also been used
+in cortical brain slices; local cooling by depressing energy metabolism below a critical level
+but has proven an irreproducible experimental method (Smith et al., 2006).
+CSD involves a temporary localized redistribution of different ions between extracellular and
+intracellular compartments. These ions redistribution are energy dependent. During eliciting
+of CSD the concentration of extracellular K+ rapidly rises (between 40-60mM), causing brief
+neuronal excitation then depolarization and a period of electrical silence during which DC
+potential at the brain surface falls. In tandem, [Na+]o and [Cl−]o levels decrease as these ions
+enter cells. Consequently, water enters cells, the extracellular compartment is reduced, and
+cells swell. Ca2+ ions also move inwards, but slightly later than the outward movement of K+,
+suggesting that Ca2+ movements follow K+ fluxes. Additional negative ion species move
+outwards to maintain electrical balance, the excitatory neurotransmitter glutamate probably
+
+15
+
+being the most important (Somjen et al., 2001). Widely accepted hypotheses hold that the
+primary event responsible for both the initiation and the propagation of CSD is the release of
+potassium and glutamate from neuronal elements to the extracellular space, which initially
+excites and then depresses adjacent neurons (Somjen, 2001).
+
+DC4
+I
+II
+
+DC3
+III
+
+IV
+
+DC2
+
+V
+
+2 mV
+
+DC1
+
+VI
+
+10 s
+
+KCl
+
+Figure 2. Vertical propagation of a negative DC-potential wave after injection of KCl in a
+neocortical slice. Injection of KCl solution (3 M) via a microelectrode elicited spreading
+depression-like fluctuation during superfusion with artificial cerebrospinal fluid. Injecting and
+recording electrodes arranged as shown. Voltage variations were recorded simultaneously by
+four electrodes (DC1–DC4) which set apart by 1 mm (Adopted from Gorji et al., 2001).
+
+16
+
+There are evidences to suggest that CSD plays an important role in different neurological
+disorders (Gorji, 2001; Somjen, 2001). Subdural recordings in patients demonstrated that
+CSD is involved in various disorders associated with acute neuronal injury including
+traumatic and spontaneous intra-cerebral hemorrhage (Strong et al., 2002; Fabricius et al.,
+2008) as well as subarachnoid hemorrhage and stroke and contribute to tissue damage.
+Furthermore, propagation of a CSD wave in human neocortical tissues has been shown to
+generate aura symptoms in patients suffering from migraine attacks (Hadjikhani et al. 2001).
+The designation migraine with aura denotes the syndrome of headache associated with
+characteristic sensory, motor, or visual symptoms, usually gradually developed over 5–20 min
+and lasting less than 60 min. Direct alterations of electrical activity of cortical neurons by the
+locally spreading wave can lead to clinical symptoms (e.g. the aura phase of migraine). The
+most common symptoms in aura phase are visual arising from dysfunction of occipital lobe
+neurons. The excitatory neurological symptoms, e.g., flashing lights are usually followed by
+suppressive ones, e.g., scotoma or hemianopia in this phase. Magnetoencephalographic
+studies in human noted that the magnetic signals were seen in migraineous patients but not in
+patients suffering from other forms of headache or normal controls. Three distinctive signal
+patterns; suppression of spontaneous cortical activity, slow field changes and large-amplitude
+waves, were observed strictly in migraine patients. In some migraine patients, magnetic
+signals were also recorded between attacks. The same magnetic fields appeared during the
+propagation of CSD in the cortex of anesthetized animals. High-field functional MRI was
+used to detect blood oxygenation level-dependent (BOLD) changes during visual aura in three
+migraineurs. A focal increase in BOLD signals developed first in extrastriate cortex and
+spread at the velocity of 3.5 ± 1.1 mm/min over occipital cortex. These initial BOLD features
+were consistent with scintillations and paralleled by decreases in the stimulus-driven MR
+17
+
+oscillations. Increasing in BOLD signals was followed by a decrease in the mean signal. This
+phase appeared to correspond to the localized scotoma and MR stimulus-induced response
+remained suppressed. Within 15 ± 3 min, both BOLD signals and MR stimulus-induced
+response recovered. During periods with no visual stimulation, but while the subject was
+experiencing scintillations, BOLD signal followed the retinotopic progression of the visual
+percept. Spreading BOLD signal changes as neocortical SD did not cross prominent sulci
+(Hadjikhani et al., 2001). Recent investigations provide early insights into mechanisms that
+lead to trigeminovascular activation.
+CSD is also a well-known phenomenon in experimental epilepsy. CSD can be elicited in
+susceptible area by a single discharge of an epileptic focus. Epilepsy and migraine are both
+disorders characterized by transient paroxysmal neurological dysfunction, usually with a
+normal neurological examination between attacks. A number of syndromes in which migraine
+and epilepsy are related have been described. Headaches are observed quite frequently
+following epileptic attacks and seizures provoke a syndrome similar to the headache phase of
+migraine in 50% of epileptics. A number of anticonvulsive drugs have the capacity to stabilize
+migraine and some anti-migraine drugs increase the epilepsy threshold. It was reported that
+combination therapy with anticonvulsant and anti-migraine drugs in some intractable
+epileptics improves seizure control (Gorji, 2001).
+Consistent with an upstream role for CSD, prolonged application of migraine prophylactic
+drugs suppresses CSD in experimental models as a proposed mechanism of action. In line
+with clinical recognition that prolonged administration of prophylactic medicaments is
+important to achieve maximum therapeutic efficacy, treatment extension beyond 3–4 weeks
+also maximizes the inhibitory effects of drugs such as topiramate, valproate, methysergide,
+amitriptyline, and propranolol (Gorji, 2001). Application of new substances with potential of
+
+18
+
+efficacy in CSD-related neurological disorders on CSD threshold in in vitro as well as in vivo
+studies is a well-known model to investigate of possible efficacy of these substances.
+Naturally occurring substances derived from plants currently have, and will continue to have,
+a relevant place in drug discovery. The use of medicinal plants for the treatment of headache
+in Persia can be traced back to the 6th century BC. Despite progress in the development of
+therapy in recent years, effective and potent drugs are still required for the treatment of
+headache. The search for new pharmacologically active analgesics obtained from plants has
+led to the discovery of some clinically useful drugs that, during the past two centuries, have
+played a major role in the treatment of human diseases. However, most medicinal plants
+prescribed by Persian physicians remain largely unexamined (Gorji, 2003). One of substances
+which were suggested to act effectively on treatment of headache attacks in medieval
+literature is garlic. The aim of the present study to investigate the effect of garlic extract at
+different concentrations on CSD as well as its effect on synaptic strength in rat neocortical
+tissues.
+
+19
+
+Material and methods
+The experiments were performed on adult rat (200-350g) somatosensory neocortical slices.
+The brain was removed under deep methohexital anaesthesia and placed in cold (1–4°C)
+artificial cerebrospinal fluid (ACSF) pre-equilibrated with 5% CO2 in O2 to give a pH of 7.4.
+The ACSF contained (in mM): NaCl 124, KCl 4, CaCl2 1.0, NaH2PO4 1.24, MgSO4 1.3,
+NaHCO3 26 and glucose 10. The somatosensory neocortices were dissected and cut into slices
+of 500 μm thickness. The slices were incubated in ACSF solution for >1 h at 28°C. After 30min incubation, CaCl2 was elevated to 2.0 mM. Slices were transferred to an interphase-type
+experimental chamber and superfused with ACSF at 32°C (1.5–2 ml/min).
+
+Electrophysiological recordings
+Extracellular field potentials were recorded with glass microelectrodes (150 mmol/l NaCl; 2–
+10 M ) connected to the amplifier by an Ag/AgCl–KCl bridge in the third and the fifth layers
+of neocortical tissues. Field potentials were traced by an ink-writer and recorded by a digital
+oscilloscope.
+
+Induction of neocortical SD
+
+SD was elicited by KCl microinjection. A glass electrode filled with 2 M KCl was fixed in a
+special holder connected with plastic tube to a pressure injector and the tip inserted into the
+sixth layer of the neocortical slices. A high-pressure pulse was applied to inject an amount of
+K+ in the tissue sufficient to induce cortical SD (tip diameter: 2 μm; injection pressure 0.5–1.0
+bar applied for 200–300 ms, two injections, 1–3 nl per pulse). Cortical SD-like events were
+evaluated with respect to their amplitude, duration and velocity rates. SD duration was defined
+
+20
+
+as the interval between the time of half-maximal voltage shift during onset and recovery of the
+negative DC potential deflection.
+
+Long-term potentiation
+Single pulses of electrical stimulation were applied through a bipolar platinum electrode
+attached to the white matter perpendicular to the recording electrodes. Evoked field excitatory
+postsynaptic potentials (fEPSP) were recorded in the third layer of neocortical slices. The
+fEPSP was elicited by adjusting the intensity of stimulation to
+
+50% of that at which
+
+population spikes after fEPSP began to appear. The amplitude of fEPSP 1 ms after the onset
+was measured for data analysis. In long-term potentiation (LTP) experiments, the cortex was
+sequentially stimulated once every minute. Ten trains of four pulses (pulse duration 0.1 msec;
+interpulse interval 50 msec; intensity 5 V) were repeated at intervals of 10 msec. LTP was
+operationally defined as the mean change in fEPSP amplitude in response to five stimuli
+given 30 min after tetanic stimulation compared with the mean response to five test pulses
+applied immediately before the stimulation. Thus % potentiation = [(posttetanus amplitude of
+fEPSP/baseline amplitude of fEPSP) 1] 100. Tetanic stimulation was applied 60 min after
+application of drug.
+
+Experimental protocols
+The experimental protocol consisted of four periods as follows: (a) control period, neocortical
+slices were superfused with ACSF (30 min), tested for spontaneous CSD; (b) KCl injection,
+induction of SD (CSD1); (c) application of garlic oil (1-500 μl/l) before the second injection
+of KCl (CSD2); (d) washout of garlic oil with ASCF (45 min, second control period), third
+injection of KCl (CSD3). Only a single concentration of garlic oil was used in a given slice.
+
+21
+
+Drug
+Garlic oil purchased from Caelo (Hilden, Germany).
+
+Statistical analysis
+All data are given as mean ± SEM. The data were statistically analysed using the Mann–
+Whitney Rank Sum test. Multiple comparisons were performed by analysis of variance test
+(ANOVA) for repeated measures followed by a Dunn’s test. Significance was established
+when the probability values were less than 0.05. The investigations were approved by the
+local ethics committee (Tierversuchsgenehmigung, Bezirksregierung Münster, Deutschland,
+AZ: 50.0835.1.0, G79/2002).
+
+22
+
+Results
+
+The effect of garlic oil on CSD
+Focal application of KCl in the sixth layer of neocortical tissues induced negative DC
+deflections followed by positive waves (amplitude of 14.7 ± 2.2 mV; duration of 121 ± 6 sec).
+Negative DC-fluctuations were sometimes preceded by small positive waves. These cortical
+CSD waves propagated opposite to the direction of the ACSF flow at propagation velocity of
+3.3 ± 0.1 mm / min. The effect of five different concentrations of garlic oil (1, 10, 100, 500
+μl/l; n = 6 for each concentration) was tested on potassium-evoked CSD in neocortical slices.
+The ratio between the second and the first DC potential waves (SD2/SD1) was calculated in
+slices treated with garlic oil. Sixty minutes of garlic oil application at concentration of 1, 10,
+100, 500 μl/l reduced the amplitude of CSD by 34.6 ± 5.7%, 38.6 ± 9%, 49.4 ± 7.4%, and
+69.6 ± 9%, respectively. Garlic oil dose-dependently decreased the amplitude of CSD (Fig. 3;
+P = 0.04 ; ANOVA test, Dunn’s method). Garlic oil at these concentrations did not affect the
+duration or propagation velocity of CSD.
+
+23
+
+A
+
+DC1
+
+DC2
+
+5
+mV
+30 s
+
+DC3
+
+Reduction of CSD amplitude (%)
+
+B
+80
+
+60
+
+40
+
+20
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+Garlic oil amount (microl/l)
+
+Figure 3. Effects of garlic oil on cortical spreading depression (CSD) in somatosensory
+neocortical tissues. A: Recording of DC potential shifts in the third layer of a neocortical slice
+before (DC1), during (DC2), and after (DC3) application of garlic oil (100 μl/l). Field
+potentials were recorded by an ink-writer. CSD was elicited by KCl microinjection. B: The
+curve indicates the plot of percentage reduction of CSD amplitude vs. garlic oil
+concentrations (n = 6 for each concentration). Garlic oil dose-dependently decreased the
+
+24
+
+amplitude of CSD. The percentage of CSD amplitude enlargement was measured by division
+of the amplitude of CSD induced after application of garlic oil to the amplitude of CSD
+elicited before superfusion of the substance. Values represent mean ± SEM. Significance was
+determined by ANOVA test followed by Dunn’s post-test (B; P = 0.04).
+
+The effect of garlic oil on EPSP and LTP
+Garlic oil at concentration of 500μl/l decreased the fEPSP amplitude by 28.9 ± 8.8% after 60
+min of continuous application. After 30 min washout of garlic oil, the amplitude of fEPSP
+returned to the pre-application level. A conditioning tetanic stimulation was delivered to the
+white substance of neocortical slices followed by pulses with stimulation parameters identical
+to control values. The evoked fEPSP was stable for at least 30 min before application of
+tetanic stimulation (less than 10% variation; Fig. 4). Administration of tetanic stimulation
+produced a rapid and stable enhancement of the amplitude of the fEPSP in all tested
+preparations (n = 7, 154 ± 11 % control; Fig. 4). LTP lasted as long as the fEPSP were
+recorded (at least for 90 min). The potentiation rose within 1–2 min and stabilized within 5
+minutes after the train of stimulations. Application of garlic oil (500μl/l; n = 12) sixty min
+before tetanic stimulation significantly suppressed LTP induction in all tested slices (134 ± 6
+% baseline, Mann–Whitney Rank Sum test; P ≤ 0.001, Fig. 4).
+
+25
+
+A
+FP1
+
+FP2
+
+FP3
+
+0.5
+mV
+30 ms
+
+B
+
+fEPSP amplitude (% baseline)
+
+180
+
+160
+
+140
+
+120
+Garlic oil
+100
+
+Control
+LTP
+
+80
+-20
+
+0
+
+20
+
+40
+
+60
+
+Time (min)
+
+Figure 4. The effect of garlic oil on the evoked field excitatory postsynaptic potentials
+(fEPSP) and long-term potentiation (LTP) of fEPSP in neocortical preparations. (A) Garlic oil
+at concentration of 500μl/l decreased the fEPSP amplitude by 28.9 ± 8.8% after 60 min of
+continuous application (FP2). After 30 min washout of garlic oil, the amplitude of fEPSP
+returned to the pre-application level (FP3). B: Tetanic stimulation (Ten trains of four pulses;
+
+26
+
+pulse duration 0.1 msec; interpulse interval 50 msec; intensity 5 V) produces a rapid and
+stable potentiation in the amplitude of the evoked field potentials, calculated as a percentage
+of baseline mean response amplitude. Closed triangel and closed circles show the evoked
+fEPSP after application of garlic oil (500μl/l) and control, respectively. Arrow shows the
+time of tetanic stimulation, 60 min after application of substances. Application of garlic oil
+significantly inhibited LTP of the evoked field potentials (Mann–Whitney Rank Sum test, P =
+0.001), calculated as a percentage of baseline mean response amplitude.
+
+27
+
+Discussion
+The beneficial effects of garlic in the treatment of cephalic pain were recommended
+emphatically by many medieval medical literatures. The present data indicate the strong
+effects of garlic oil to suppress CSD in in vitro animal brain models. Furthermore, garlic oil
+significantly inhibited the evoked fEPSP and decreased LTP induction in neocortical slices.
+
+CSD is a complex neurovascular event that triggers a cascade of mechanisms leading to the
+up-regulation of genes, plasma protein extravasation, sensitization of perivascular nerve
+fibers, and central transmission of pain signals via the brainstem (Gorji, 2001). Observation of
+trigeminovascular activation by CSD within cerebral cortex indicates that CSD increases the
+trigeminal neuronal discharges, which could explain the underlying mechanism of the
+subsequent headache (Gorji et al., 2004). The effects of several anti-headache substances
+including both classic (such as paracetamol and acetylsalicylic acid) and new compounds
+(such as sumatriptan and tonabersat) on different in vivo and in vitro models of CSD were
+examined. CSD also affected by application of some natural substances such as eugenol
+(Muller et al., 2006) or some hormones such as estrogen and progesterone (Sachs et al.,
+2007). These chemical compounds influenced different characteristic features of CSD such as
+the amplitude of the fluctuation of DC potential, the propagation velocity, the recovery of the
+optical and electrical signals (Wiedemann et al., 1996), the latency of initiation and the
+frequency of occurrence (Takagi et al., 1998), elevation in cGMP (Read et al., 2001), nitric
+oxide release (Read and Parsons, 2000), COX-2 expression (Miettinen et al., 1997), biphasic
+blood oxygenation level-dependent magnetic resonance imaging waves (Netsiri et al., 2003),
+and CSD-associated hyperemia (Gold et al., 1998). CSD, therefore, serves as a model to
+examine the efficacy of substances that may have clinical usefulness in the treatment of
+cephalic pain. The suppressive effects of garlic oil on CSD indicate the probable clinical
+benefits of this substance for the treatment of migraine headache with aura.
+28
+
+LTP is an experimental phenomenon, which can be used to demonstrate the repertoire of
+long-lasting changes of which individual synapses are capable (Collingridge & Singer 1990,
+Malenka and Bear 2004). LTP points to long-lasting enhancement in signal transmission
+between two neurons, which results from stimulating them synchronously. LTP can be
+induced experimentally by applying a few trains of high-frequency stimuli to the connection
+between two neuronal cells. LTP improves synaptic transmission in neuronal network.. LTP
+enhances the ability of communication between pre-synaptic and postsynaptic neurons with
+each other at the synaptic site. The magnitude of pre-synaptic depolarization determines
+whether LTP will be produced in the postsynaptic neuron. LTP enhances the postsynaptic
+sensitivity to neurotransmitter by increasing the activity of existing receptors especially
+NMDA receptors and by increasing the number of receptors especially AMPA receptors on
+the postsynaptic surface. Induction of LTP occurs when the concentration of Ca2+ inside the
+post-synaptic cell flow via NMDA-receptors exceeds a critical threshold. While NMDAreceptors are present at most postsynaptic membranes, at resting membrane potentials they are
+blocked by a magnesium ion that prevents the entry of calcium into the postsynaptic neuron.
+Strong depolarization through the summation of excitatory postsynaptic potentials relieves the
+magnesium blockade of the NMDA-receptor and allowing calcium influx to the cell (Malenka
+and Bear 2004). LTP activates CaMKII and PKC use phosphorylation to carry out the two
+major mechanisms underlying the induction of LTP. These mediators phosphorylate existing
+AMPA receptors to increase their activity and mediate or modulate the insertion of additional
+AMPA receptors into the postsynaptic membrane.
+LTP is expressed in spinal cord as well as several brain areas, including neocortex and
+hippocampus and have been proposed to represent the cellular mechanisms underlying pain as
+well as learning and memory (Ji et al., 2003). Central sensitization plays a major role in the
+
+29
+
+generation of migraine, tension-type headache and neuropathic pain (Burstein and Woolf
+1999). The present data showed that LTP in the neocortical tissues was significantly inhibited
+after garlic oil application. This demonstrates that garlic oil produces a sustained inhibition in
+the synaptic plasticity of neocortical tissues. CSD induces an LTP-like effect in rat neocortical
+slices (Footitt and Newberry, 1998) and enhances LTP induction in human neocortical tissues
+(Berger et al., 2008). Both inhibition of LTP induction and CSD elicitation were observed by
+eugenol or esterogen and progesterone applications in rat neocortical tissues (Muller et al.,
+2006; Sachs et al., 2007). Both aberrant presynaptic and postsynaptic connectivity contribute
+to epileptogenesis and migraine (Cohen, 2005). The neurophysiological events that were
+inhibited by garlic oil in the present study all involve modulation of synaptic transmission.
+CSD, a phenomenon suggested to be involved in migraine with aura, was suppressed
+drastically by garlic oil. Triggering of SD also requires activation of excitatory synaptic
+transmission in animal and human neuronal tissues (Gorji et al., 2001).
+LTP is a phenomenon in which a constant pre-synaptic high stimulation of excitatory amino
+acids neuronal pathways results in a prolonged enhanced postsynaptic response. In the present
+study, garlic oil reversibly suppressed fEPSP as well as CSD and inhibited LTP in neocortical
+slices. It is well established that NMDA receptors are a molecular detector of the coincidence
+of both the presynaptic release of glutamate and a postsynaptic depolarization at the origin of
+LTP induction (Sourdet and Debanne, 1999). Pre-synaptic NMDA receptors have recently
+been suggested to potentate the afferent field volley evoked by Schaffer axon stimulation
+(Suarez et al., 2005). However, other pre-synaptic mechanisms such as involvement of
+kainate receptors (Schmitz et al., 2001) or transient outward potassium current could also
+modify presynaptic excitability (Gu et al., 2004).
+Furthermore, garlic suppressed platelet aggregation via inhibition of the release of mediators
+such as thromboxane A2, prostaglandin E2, and calcium (Qi and Wang, 2003).
+30
+
+Lipoxygenases and cyclooxygenases are the most common therapeutic drug target in human
+pain (Warner and Mitchell, 2004). Arachidonic acid by modulation of a postsynaptic transient
+K+ current strongly regulates synaptic integration by means of suppression of postsynaptic Acurrent and subsequently facilitates induction of LTP in hippocampal pyramidal cells
+(Ramakers and Storm, 2002). Lipoxygenase and cyclooxygenase inhibitors of arachidonic
+acid attenuated potentiation of the population excitatory postsynaptic potential and reduced
+pre-established LTP in CA1 area of hippocampal slices (Williams and Bliss 1989; Shaw et al
+2003). Arachidonic acid increased markedly during the negative DC shift and returned to
+normal levels in few minutes after SD (Lauritzen et al., 1990). COX-2, the inducible form of
+the enzyme converting arachidonic acid to prostaglandins, is induced within hours after SD in
+cortical neurons by a mechanism dependent on phospholipase A2.
+However it should be noted that some studies point to activation of pain sensing by garlic.
+Allicin is the active ingredient of garlic that causes a burning sensation through activation of
+TRPA1 and TRPV1. Fresh-cut garlic and allicin, one of its constituents, activate TRPA1 and
+TRPV1, two noxious thermo TRPs found in pain-sensing neurons that innervate the mouth
+and tongue. Activation by garlic and allicin is specific to neurons expressing these channels;
+no other populations of trigeminal ganglia neurons are activated by these stimuli. Among the
+chemical constituents of garlic extracts, allicin is by far the most potent activator of TRPA1
+and TRPV1. Furthermore, the activity of allicin, given its concentration in garlic, is sufficient
+to explain all of garlic extract’s activity on these thermo TRPs. Extracts of baked garlic
+(which differ from fresh extracts primarily in their lack of allicin) are unable to activate
+thermo TRPs. Allicin and other garlic constituents are expected to stimulate olfactory and
+gustatory neurons as well; however, the burning sensation that fresh garlic can produce must
+act via the trigeminal system (Macpherson et al., 2005).
+
+31
+
+Conclusion
+In conclusion, the present data revealed that garlic oil suppressed the amplitude of CSD in rat
+neocortical slices as well as fEPSP and LTP. The inhibitory effect of garlic oil on CSD is
+likely to be mediated by inhibition of synaptic transmission. This indicates the potential for
+garlic oil to use in the treatment of CSD-related neurological disorders such as migraine
+headache with aura.
+
+32
+
+References
+Adler BB, Beuchat LR. Death of Salmonella, Escherichia coli O157:H7, and Listeria
+monocytogenes in garlic butter as affected by storage temperature. J Food Prot. 2002
+;65:1976-80.
+Adler BB, Beuchat LR. Death of Salmonella, Escherichia coli O157:H7, and Listeria
+monocytogenes in garlic butter as affected by storage temperature. J Food Prot.
+2002;65:1976-80.
+Amagase H, Milner JA. Impact of various sources of garlic and their constituents on 7,12dimethylbenz[a]anthracene binding to mammary cell DNA. Carcinogenesis. 1993;14:162731.
+Antimicrob Agents Chemother. 1999;43:3045.
+Appleton JA, Tansey MR Inhibition of growth of zoopathogenic fungi by garlic extract.
+Mycologia. 1975;67:882-5.
+Arakawa M, Ushimaru N, Osada N, Oda T, Ishige K, Ito Y. N-acetylcysteine selectively
+protects cerebellar granule cells from 4-hydroxynonenal-induced cell death. Neurosci Res.
+2006;55:255-63.
+Arakawa M, Ushimaru N, Osada N, Oda T, Ishige K, Ito Y. N-acetylcysteine selectively
+protects cerebellar granule cells from 4-hydroxynonenal-induced cell death. Neurosci Res.
+2006;55:255-63.
+Banerjee SK, Maulik SK. Effect of garlic on cardiovascular disorders: a review. Nutr J.
+2002;1:4.
+
+33
+
+Berger M, Speckmann EJ, Pape HC, Gorji A. Spreading depression enhances human
+neocortical excitability in vitro. Cephalalgia 2008;28:558-62.
+Burstein R, Woolf CJ. Central sensitization and headache. In: J. Olesen, Editor, The
+headaches, Lippincott Williams & Wilkins, Philadelphia (1999).
+Cavallito CJ, Bailey JH. The antibacterial principle of Allium sativum. I. Isolation, physical
+properties, and antibacterial action. J Am Soc 1944;66: 1950-1.
+Chauhan NB, Sandoval J.Amelioration of early cognitive deficits by aged garlic extract in
+Alzheimer's transgenic mice. Phytother Res. 2007;21:629-40.
+Cohen GL. Migraine prophylactic drugs work via ion channels, Med Hypoth 2005:114–122.
+
+Darmesteter
+
+J.
+
+Avesta:
+
+vendidad:
+
+fargard
+
+20:
+
+the
+
+origins
+
+of
+
+medicine,
+
+http://www.avesta.org/vendidad/vd20sbe.htm (accessed Jan 23, 2010).
+
+Dehbandi S, Speckmann EJ, Pape HC, Gorji A. Cortical spreading depression modulates
+synaptic transmission of the rat lateral amygdala. Eur J Neurosci. 2008;27:2057-65.
+
+Economic Research Service, United States Department of Agriculture. Vegetables and
+Melons Outlook, October 19, 2006, p. 25. (The excerpt "Commodity Highlight: Garlic" (pp.
+25–29) is available from Lewis & Clark College).
+
+Footitt DR, Newberry NR. Cortical spreading depression induces an LTP-like effect in rat
+neocortex in vitro, Brain Res. 1998;781:339–342.
+Gardner CD, Chatterjee LM, Carlson JJ. The effect of a garlic preparation on plasma lipid
+levels in moderately hypercholesterolemic adults. Atherosclerosis. 2001;154:213-20.
+34
+
+Gattu S, Rashid RM, Khachemoune A. Self-induced skin lesions: a review of dermatitis
+artefacta. Cutis. 2009;84:247-51.
+Gebhardt R, Beck H. Differential inhibitory effects of garlic-derived organosulfur compounds
+on cholesterol biosynthesis in primary rat hepatocyte cultures. Lipids 1996;31:1269-76.
+Gold L, Back T, Arnold G, Dreier J, Einhaupl KM, Reuter U, Dirnagl U. Cortical spreading
+depression-associated hyperemia in rats: involvement of serotonin, Brain Res. 1998;783:188–
+193.
+
+Gorji A, Scheller D, Straub H, Tegtmeier F, Kohling R, Hohling J, Tuxhorn I, Ebner A, Wolf
+P, Panneck HW, Oppel F, Speckmann EJ. Spreading depression in human neocortical slices,
+Brain Res. 2001;906:74–83.
+Gorji A. Pharmacological treatment of headache using traditional Persian medicine. Trends
+Pharmacol Sci. 2003;24:331-4.
+Gorji A. Spreading depression: a review of the clinical relevance. Brain Res Brain Res Rev.
+2001;38:33-60.
+Gorji A, Zahn PK, Pogatzki EM, Speckmann EJ. Spinal and cortical spreading depression
+enhance spinal cord activity, Neurobiol Dis. 2004;15:70–79.
+Gu Y, Ge SY, Ruan DY. Effect of 4-aminopyridine on synaptic transmission in rat
+hippocampal slices, Brain Res. 2004;1006:225–232.
+Gupta VB, Rao KS. Anti-amyloidogenic activity of S-allyl-L-cysteine and its activity to
+destabilize Alzheimer's beta-amyloid fibrils in vitro. Neurosci Lett. 2007;429:75-80.
+
+35
+
+Hadjikhani N, Sanchez Del Rio M, Wu O, Schwartz D, Bukker D, Fischt B, Kwong KK,
+Cutrer FM, Rosen BR, Tootell RB, Sorensen AG, Moskowitz MA. Mechanisms of migraine
+aura revealed by functional MRI in human visual cortex. Proc. Natl. Acad. Sci. USA.,
+2001;98:4687 4692.
+
+Jezowa L, Rafinski T, Wrocinski T. Investigations on the antibiotic activity of Allium sativum
+L. Herba Pol 1966;12:3-13.
+
+Ji RR, Kohno T., Moore KA,. Woolf CJ. Central sensitization and LTP: do pain and memory
+share similar mechanisms?, Trends Neurosci. 2003; 26:696–705.
+
+Johnson MG, Vaughan RH. Death of Salmonella typhimurium and Escherchia coli in the
+presence of freshly reconstituted dehydrated garlic and onion. Appl Microbiol. 1969;17:9035.
+Jonkers D, Sluimer J, Stobberingh E. Effect of garlic on vancomycin-resistant enterococci.
+Knowles LM, Milner JA. Diallyl disulfide induces ERK phosphorylation and alters gene
+expression profiles in human colon tumor cells. J Nutr. 2003;133:2901-6.
+Konig FK, Scincider B. Knoblauch bessert Durchblutungstörungen. Ärztliche Praxis
+1986;38:35-44.
+Lasiniski
+
+K.
+
+The
+
+History
+
+of
+
+Garlic:
+
+Nature's
+
+Ancient
+
+Superfood,
+
+http://www.googobits.com/articles/p0-1167-the-history-of-garlic-natures-ancientsuperfood.html ((accessed Jan 25, 2010).
+
+36
+
+Lau BH, Woolley JL, Marsh CL, Barker GR, Koobs DH, Torrey RR. Superiority of
+intralesional immunotherapy with Corynebacterium parvum and Allium sativum in control of
+murine transitional cell carcinoma. J Urol. 1986;136:701-5.
+Lauritzen M, Hansen AJ, Kronborg D, Wieloch T. Cortical spreading depression is associated
+with arachidonic acid accumulation and preservation of energy charge, J Cereb Blood Flow
+Metab 1990;10:115–122.
+
+Lawson L D. Garlic: a review of its medicinal effects and indicated active compounds. In:
+Lawson L D, Bauer R, editors; Lawson L D, Bauer R, editors. Phytomedicines of Europe:
+their chemistry and biological activity. ACS Symposium Series 691. Washington, D.C.:
+American Chemical Society; 1998. pp. 176–209.
+Lawson LD. Garlic for total cholesterol reduction. Ann Intern Med. 2001;135:65-6.
+Leao AAP, Morrison RS. Propagation of spreading cortical depression. J. Neurophysiol.
+1945;8:33–45.
+Leao AAP. Spreading depression of activity in the cerebral cortex. J. Neurophysiol. 1944;
+7:359–390.
+Lemar KM, Turner MP, Lloyd D.Garlic (Allium sativum) as an anti-Candida agent: a
+comparison of the efficacy of fresh garlic and freeze-dried extracts. J Appl Microbiol.
+2002;93:398-405.
+Macpherson LJ, Geierstanger BH, Viswanath V, Bandell M, Eid SR, Hwang S, Patapoutian
+A. The pungency of garlic: activation of TRPA1 and TRPV1 in response to allicin. Curr Biol.
+2005;15:929-34.
+
+37
+
+Malenka RC, Bear MF. LTP and LTD: an embarrassment of riches. Neuron 2004;44:5-21.
+
+Miettinen S, Fusco FR, Yrjanheikki J, Keinanen R, Hirvonen T, Roivainen R, Narhi M,
+Hokfelt T, Koistinaho J. Spreading depression and focal brain ischemia induce
+cyclooxygenase-2 in cortical neurons through N-methyl-D-aspartic acid-receptors and
+phospholipase A2, Proc Natl Acad Sci U S A 1997;94:6500–6505.
+
+Muller M, Pape HC, Speckmann EJ, Gorji A. Effect of eugenol on spreading depression and
+epileptiform discharges in rat neocortical and hippocampal tissues, Neuroscience
+2006;140:743–751.
+
+Netsiri C, Bradley DP, Takeda T, Smith MI, Papadakis N, Hall LD, Parsons AA, JamesMF,
+Huang CL. A delayed class of BOLD waveforms associated with spreading depression in the
+feline cerebral cortex can be detected and characterised using independent component
+analysis (ICA), Magn. Reson. Imaging 2003;21:1097–1110.
+O'Gara EA, Hill DJ, Maslin DJ. Activities of garlic oil, garlic powder, and their diallyl
+constituents against Helicobacter pylori. Appl Environ Microbiol. 2000;66:2269-73.
+Ohaeri OC. Effect of garlic oil on the levels of various enzymes in the serum and tissue of
+streptozotocin diabetic rats. Biosci Rep. 2001 Feb;21(1):19-24.
+Patten CJ, Thomas PE, Guy RL, Lee M, Gonzalez FJ, Guengerich FP, Yang CS. Cytochrome
+P450 enzymes involved in acetaminophen activation by rat and human liver microsomes and
+their kinetics. Chem Res Toxicol. 1993;6:511-8.
+
+38
+
+Patten CJ, Thomas PE, Guy RL, Lee M, Gonzalez FJ, Guengerich FP, Yang CS. Cytochrome
+P450 enzymes involved in acetaminophen activation by rat and human liver microsomes and
+their kinetics. Chem Res Toxicol. 1993;6:511-8.
+Petkov V. Plants and hypotensive, antiatheromatous and coronarodilatating action. Am J Chin
+Med. 1979;7:197-236.
+Qi R., Wang Z. Pharmacological effects of garlic extracts. Trends Pharmacol. Sci.
+2003;24:62–63.
+
+Ramakers GM, Storm JF. A postsynaptic transient K+ current modulated by arachidonic acid
+regulates synaptic integration and threshold for LTP induction in hippocampal pyramidal
+cells, Proc Natl Acad Sci U S A 2002;99:10144–10149.
+
+Read SJ, Hirst WD, Upton N, Parsons AA. Cortical spreading depression produces increased
+cGMP levels in cortex and brain stem that is inhibited by tonabersat (SB-220453) but not
+sumatriptan, Brain Res. 2001;831:69–77.
+
+Sachs M, Pape HC, Speckmann EJ, Gorji A. The effect of estrogen and progesterone on
+spreading depression in rat neocortical tissues. Neurobiol Dis. 2007;25:27-34.
+Salazar H, Llorente I, Jara-Oseguera A, García-Villegas R, Munari M, Gordon SE, Islas LD,
+Rosenbaum T. A single N-terminal cysteine in TRPV1 determines activation by pungent
+compounds from onion and garlic. Nat Neurosci. 2008;11:255-61.
+Schmitz D, Mellor J, Frerking M, Nicoll RA. Presynaptic kainate receptors at hippocampal
+mossy fiber synapses, Proc Natl Acad Sci U S A 2001;98:11003–11008.
+
+39
+
+Sharma VD, Sethi MS, Kumar A, Rarotra JR. Antibacterial property of Allium sativum Linn.:
+in vivo & in vitro studies. Indian J Exp Biol. 1977;15:466-8.
+Sheela CG, Kumud K, Augusti KT. Anti-diabetic effects of onion and garlic sulfoxide amino
+acids in rats. Planta Med. 1995;61:356-7.
+Sial AY, Ahmed SJ. Study of the hypotensive action of garlic extract in experimental animals.
+J Pak Med Assoc. 1982;32:237-9.
+Smith JM, Bradley DP, James MF, Huang CL. Physiological studies of cortical spreading
+depression. Biol Rev Camb Philos Soc. 2006;81:457-81.
+Somjen GG. Mechanisms of spreading depression and hypoxic spreading depression-like
+depolarization. Physiol Rev.; 2001;81:1065-96.
+Sourdet V, Debanne D. The role of dendritic filtering in associative long-term synaptic
+plasticity, Learn Mem. 1999;6:422–447.
+Sparnins VL, Mott AW, Barany G, Wattenberg LW. Effects of allyl methyl trisulfide on
+glutathione S-transferase activity and BP-induced neoplasia in the mouse. Nutr Cancer.
+1986;8:211-5.
+Suarez LM, Suarez F, Del Olmo N, Ruiz M, Gonzalez-Escalada JR, Solis JM. Presynaptic
+NMDA autoreceptors facilitate axon excitability: a new molecular target for the
+anticonvulsant gabapentin, Eur J Neurosci 2005;21:197–209.
+
+Suarez LM, Suarez F, Del Olmo N, Ruiz M, Gonzalez-Escalada JR, Solis JM. Presynaptic
+NMDA autoreceptors facilitate axon excitability: a new molecular target for the
+anticonvulsant gabapentin, Eur J Neurosci 2005;21:197–209.
+
+40
+
+Tadi PP, Lau BH, Teel RW, Herrmann CE.Binding of aflatoxin B1 to DNA inhibited by
+ajoene and diallyl sulfide. Anticancer Res. 1991;11:2037-41.
+Takagi H, Takashima M, Liou SY. Effect of KB-2796, a novel calcium channel blocker, on
+spreading depression in rat hippocampal slices, Nippon Yakurigaku Zasshi 1998;111:309–
+316.
+Tsai Y, Cole LL, Davis LE, Lockwood SJ, Simmons V, Wild GC. Antiviral Properties of
+Garlic: In vitro Effects on Influenza B, Herpes Simplex and Coxsackie Viruses. Planta Med.
+1985a ;51:460-1.
+Tsai Y, Cole LL, Davis LE, Lockwood SJ, Simmons V, Wild GC. Antiviral properties of
+garlic: in vitro effects on influenza B, herpes simplex and coxsackie viruses. Planta Med.
+1985b ;:460-1.
+Wargovich MJ. New dietary anticarcinogens and prevention of gastrointestinal cancer. Dis
+Colon Rectum. 1988;31:72-5.
+Warner TD, Mitchell JA. Cyclooxygenases: new forms, new inhibitors, and lessons from the
+clinic, FASEB J 2004;18:790–804.
+Wassef R, Haenold R, Hansel A, Brot N, Heinemann SH, Hoshi T. Methionine sulfoxide
+reductase A and a dietary supplement S-methyl-L-cysteine prevent Parkinson's-like
+symptoms. J Neurosci. 2007;27:12808-16.
+Weber ND, Andersen DO, North JA, Murray BK, Lawson LD, Hughes BG. In vitro virucidal
+effects of Allium sativum (garlic) extract and compounds. Planta Med. 1992;58:417-23.
+Wernsmann B, Pape HC, Speckmann EJ, Gorji A. Effect of cortical spreading depression on
+synaptic transmission of rat hippocampal tissues. Eur J Neurosci. 2006;23:1103-10.
+41
+
+Wiedemann M, de Lima VM, Hanke W. Effects of antimigraine drugs on retinal spreading
+depression, Naunyn Schmiedebergs Arch Pharmacol. 1996;353:552–556.
+
+Williams JH, Bliss TV. An in vitro study of the effect of lipoxygenase and cyclo-oxygenase
+inhibitors of arachidonic acid on the induction and maintenance of long-term potentiation in
+the hippocampus, Neurosci Lett. 1989;107:301–306.
+Yeh YY, Liu L. Cholesterol-lowering effect of garlic extracts and organosulfur compounds:
+human and animal studies. J Nutr. 2001;131:989S-93S.
+Ziaei S, Hantoshzadeh S, Rezasoltani P, Lamyian M. The effect of garlic tablet on plasma
+lipids and platelet aggregation in nulliparous pregnants at high risk of preeclampsia. Eur J
+Obstet Gynecol Reprod Biol. 2001 Dec 1;99(2):201-6.
+
+42
+
+43
+
+44
+
+45
+
+

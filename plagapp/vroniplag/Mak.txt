@@ -1,0 +1,1779 @@
+Geringe MRSA Inzidenz einer neurochirurgischen Intensivstation bei einer
+Langzeitstudie mit über 10 000 Patienten
+
+Inaugural- Dissertation
+zur Erlangung des Doktorgrades
+der Hohen Medizinischen Fakultät
+der Rheinischen Friedrich-Wilhelms-Universität
+Bonn
+
+Markus Kleinpoppen
+aus Bonn
+2008
+
+Angefertigt mit der Genehmigung der
+Medizinischen Fakultät der Universität Bonn
+
+1. Gutachter: PD Dr. med. Thomas Kral
+2. Gutachter: Prof. Dr. M. Exner
+
+Tag der Mündlichen Prüfung: 07.10.2008
+
+Aus der Rheinischen Friedrich-Wilhelms-Universität Bonn
+Zentrum für Neurochirurgie
+Prof. Dr. med. Johannes Schramm
+
+Diese Dissertation ist auf dem Hochschulschriftenserver der ULB Bonn unter
+http://hss.ulb.uni-bonn.de/diss_online elektronisch publiziert.
+
+Für meine Mutter
+
+5
+
+INHALTSVERZEICHNIS
+ABKÜRZUNGSVERZEICHNIS .......................................................................................................... 6
+1. EINLEITUNG.................................................................................................................................... 7
+1.1 ENTWICKLUNG EINER ANTIBIOTIKARESISTENZ VON S. AUREUS ..................................................... 7
+1.1.2 EPIDEMIOLOGIE DES MRSA ............................................................................................................ 9
+1.2 DIE BEDEUTUNG VON MRSA ALS ERREGER NOSOKOMIALER INFEKTIONEN ............................... 11
+1.2.1 URSACHEN FÜR EINE MRSA KOLONISATION/INFEKTION ............................................................... 12
+1.2.2 DIAGNOSTIK NOSOKOMIALER MRSA KOLONISATION/INFEKTIONEN IN DER INTENSIVMEDIZIN ...... 13
+1.3 ZIEL DER ARBEIT ............................................................................................................................ 15
+2. MATERIAL UND METHODEN .................................................................................................... 16
+2.2 ERHOBENE DATEN .......................................................................................................................... 16
+2.3 PROTKOLL ZUR BEGRENZUNG DER MRSA KOLONISATION / INFEKTION ..................................... 18
+3. ERGEBNISSE.................................................................................................................................. 22
+3.1 JÄHRLICHE INZIDENZ VON MRSA VON 1992 - 2003 ...................................................................... 22
+3.2 NEUROCHIRURGISCHE ERKRANKUNGEN MIT THERAPIE DER MRSA POSITIVEN PATIENTEN ...... 24
+3.3 LOKALISATION VON MRSA INFEKTION UND KOLONISATION ....................................................... 26
+4. DISKUSSION................................................................................................................................... 28
+4.1 INZIDENZ VON MRSA AUF DER NEUROCHIRURGISCHEN INTENSIVSTATION ................................. 28
+4.2 LOKALISATION VON MRSA............................................................................................................ 29
+4.3 THERAPIE UND ERADIKATION ........................................................................................................ 30
+4.4 HYGIENERICHTLINIEN BEI MRSA NACHWEIS ............................................................................... 33
+4.5 KOSTEN ........................................................................................................................................... 34
+4.6 BEDEUTUNG DER HÄNDEDESINFEKTION ........................................................................................ 35
+4.7 AUSBLICK........................................................................................................................................ 37
+5 ZUSAMMENFASSUNG................................................................................................................... 39
+LITERATURVERZEICHNIS ............................................................................................................ 41
+DANKSAGUNG .................................................................................................................................. 49
+CURRICULUM VITAE...................................................................................................................... 50
+
+6
+
+Abkürzungsverzeichnis
+S. aureus
+
+Staphylococcus aureus
+
+MRSA
+
+Multi Resistenter Staphylococcus aureus
+
+AB
+
+Antibiotikum
+
+i.v.
+
+intra-venös
+
+NRZ
+
+Nationales Referenzzentrum für Krankenhaushygiene
+
+RKI
+
+Robert Koch-Institut
+
+CDC
+
+Centers for Disease Control and Prevention
+
+APACHE
+
+Acute Physiology Score and Chronic Health Evaluation
+
+EPIC
+
+European Prevalence of Infection in Intensive Care
+
+ICU
+
+Intensive Care Unit
+
+KISS
+
+German Nosokomial Infektion Surveillance System
+
+VISA
+
+Vancomycin intermediate Staphylococcus aureus
+
+p.o.
+
+per os
+
+WHO
+
+Weltgesundheitsorganisation
+
+PFGE
+
+Pulsfeld Gelelektrophorese
+
+7
+
+1. Einleitung
+
+1.1 Entwicklung einer Antibiotikaresistenz von S. aureus
+
+In der „prä-Antibiotika Ära“ galt S. aureus als ein lebensbedrohender Erreger. In einer
+retrospektiven Untersuchung konnten Smith und Vickers (Smith und Vickers, 1960) zeigen,
+dass in dieser Zeit über 90% der durch S. aureus hervorgerufenen Septikämien letal verliefen.
+Mit der Entdeckung des Penicillins im Jahre 1928 durch Flemming stand nach Überwindung
+zahlreicher Herstellungs-Probleme wie Anreicherung, Reinigung und Großproduktion seit
+1944 erstmals ein wirkungsvolles Therapeutikum zur Verfügung. Die Jahre 1946 - 1950
+wurden daher auch als goldenes Zeitalter der Behandlung von Staphylococcen Infektionen
+bezeichnet. Seit 1944 konnte allerdings bei einem wachsenden Anteil der S.aureus - Isolate
+eine Resistenz gegenüber Penicillin beobachtet werden, die durch die Bildung einer
+Penizillinase verursacht wurde.
+Bei der Penizillinase handelt es sich um eine Betalaktamase, die den Laktamring des
+Antibiotikums (AB) enzymatisch zerstört und es so wirkungslos macht. 1950 waren bereits
+80% aller
+
+S.aureus
+
+–
+
+Isolate,
+
+die in
+
+Krankenhäusern
+
+zu
+
+Infektionen
+
+führten,
+
+Penicillinasebildner (Barber und Rozwadoswska-Dowzenko, 1949). Mitte der 50-iger Jahre
+standen mit Tetrazyklinen und Makroliden neue wirkungsvolle Antibiotika zur Verfügung,
+doch schon bald zeigten sich die ersten multiresistenten S. aureus – Stämme. Einen
+vorübergehenden Erfolg im Kampf gegen resistente S. aureus-Stämme stellte 1960 die
+Entdeckung des ersten semisynthetischen Penizillins (Methicillin), einem penizillinasefesten
+Betalaktam-Antibiotikum, dar. Methicillin war jedoch nur parenteral anwendbar, relativ
+toxisch und hatte eine vergleichsweise geringe in-vitro-Aktivität auf Penizillinase-bildende
+
+8
+
+Staphylococcen. Daher wurden es durch die später entwickelten Penizillinasefesten
+Isoxazolylpenicilline Oxacillin, Cloxacillin, Dicloxacillin und Flucloxacillin abgelöst. Diese
+waren wasserlöslich und auch oral einsetzbar.
+Innerhalb eines Jahres nach Einführung des Methicillin kam es wiederum zu einer
+Resistenzentwicklung bei S. aureus-Stämmen (Jevons et al., 1961; Parker und Hewitt, 1970).
+Diese Methicillin-resistenten S. aureus-Stämme breiteten sich in den folgenden 30 Jahren
+sogar weltweit aus. Die ersten MRSA Epidemien wurden Anfang der 60-iger Jahre in
+Großbritannien und Ende der 60 Jahre in Australien beobachtet (Rountree und Vickery,
+1973). In den USA gab es dagegen vor 1976 überraschenderweise nur einen größeren MRSA
+Ausbruch (Barrett et al., 1968). Anfänglich konnten die MRSA noch durch den Einsatz von
+Aminoglykosiden, insbesondere Gentamicin, erfolgreich therapiert werden (Hoeprich , 1969).
+Doch schon Ende der 70-iger Jahre traten die ersten Gentamicin-resistenten-MRSA-Isolate
+auf (Shanson et al., 1976) und es folgte eine weltweite MRSA-Epidemie. MRSA scheinen die
+Fähigkeit zu besitzen innerhalb kürzester Zeit eine Resistenz gegenüber neu entwickelten
+Antibiotika auszubilden.
+Bis zum Ende der 90-iger Jahre standen noch mit den Glykopeptiden Vancomycin und
+Teicoplanin noch sicher wirksame Therapeutika zur Verfügung. Doch seit dem Auftreten der
+Vancomycin-resistenten S. aureus Isolate 1997 in den USA und Japan (Centers for Disease
+Control 1997; Hiramatsu et al., 1997) droht eine nicht kontrollierbare Ausbreitung
+multiresistenter MRSA - Stämme.
+
+9
+
+1.1.2 Epidemiologie des MRSA
+Hinsichtlich des MRSA Nachweises bei Patienten muss zwischen einer Kolonisation und
+einer Infektion unterschieden werden. Die Kolonisation mit MRSA
+
+ist zwar die
+
+Vorraussetzung für eine Infektion, sie muss aber nicht zwangsläufig dazu führen. In der
+gesunden Bevölkerung sind 10 – 40% Keimträger von MRSA, während 45 – 65% des
+Krankenhauspersonals betroffen, d.h. kolonisiert sind (Pulverer, 1993). Bei letzteren wird der
+MRSA am häufigsten im Vestibulum nasi (62%) und im Handbereich (56%) nachgewiesen.
+Der Handbereich, als auch der Nasen - Rachen - Raum gilt damit für den MRSA als
+bevorzugtes Keimreservoir. Die mittlere Halbwertszeit für MRSA im Nasen-Rachenraum
+wurde mit 40 Monaten angegeben (Stanford et al., 1994), so dass Keimträger ohne eine
+erfolgreiche Sanierung für lange Zeit als potentieller Streuherd im stationären Bereich gelten
+können. Bei bestimmten Grunderkrankungen werden häufiger Keimträger gefunden. Dabei ist
+eine habituelle, oder chronische Unterbrechung der Integrität des Hautepithels von besonderer
+Bedeutung. So sind bis zu 76% aller Typ 1 Diabetiker, bis zu 84% aller
+Hämodialysepatienten und bis zu 61% aller i.v. Drogenabhängigen MRSA Keimträger
+(Kluytmans und van Belkum, 1997). Eine zunehmende Risikopopulation stellen Bewohner
+von Pflege und Altenheimen dar. Sie leiden zum einen häufig unter prädisponierenden,
+chronischen Krankheiten und benötigen zum anderen öfter Krankenhausaufenthalte (Alber et
+al., 2000).
+
+Seit den 60-iger Jahren, als die ersten Methicillin-resistenten Stämme in Großbritannien
+identifiziert wurden, steigt der prozentuale Anteil von MRSA an nosokomialen Infektionen
+stetig an. In Kliniken in den USA beispielsweise um mehr als das zehnfache von 2,4% (1974)
+
+10
+
+auf 29% (1991). Die höchsten Anstiege waren in den größten Krankenhäusern zu
+verzeichnen.
+Heute sind die MRSA weltweit verbreitet und die Häufigkeit von Infektionen und
+Krankheitsausbrüchen nimmt stetig zu. Daten aus dem US - Sentry – Programm (1998) und
+dem Scope - Projekt (1998) zeigen, dass 26% bzw. 29% der S.aureus, welche im
+Zusammenhang mit Septikämien isoliert wurden, Methicillin-resistent waren (Marshall et al.,
+1998).
+Die Daten des „Nationalen Referenzlabors für die Lysotypie von MRSA“ in Bonn,
+verdeutlichen eine ähnliche Problematik auch für Deutschland. In den Jahreskollektiven der
+stationär behandelten Patienten, zeigte sich eine Zunahme des MRSA Anteils an allen S.
+aureus Isolaten während des allgemein stationären Aufenthaltes von 4,8% (1987) auf 16,3%
+(1993). Die Studie der Paul-Ehrlich-Gesellschaft aus dem Jahre 1998 erbrachte einen
+Durchschnittswert von 15,2 % MRSA Anteils, an allen S. aureus Isolaten in den 33
+bundesweit beteiligten mikrobiologischen Laboratorien. Damit wächst auch in Deutschland
+die MRSA Problematik. Studien des European antimicrobiological resistance surveillance
+system zeigten ein auffälliges Nord-Süd-Gefälle in Europa. Während in den skandinavischen
+Ländern und den Niederlanden, schon früh durch konsequente krankenhaushygienische
+Maßnahmen die MRSA Raten unter 1% liegen (Belkum et al., 2001), liegen sie in Italien bei
+26% und in weiter südlichen Ländern bei 30%. Hohe MRSA Raten werden auch aus Irland
+und Großbritannien beschrieben (Daschner et al., 2002).
+
+11
+
+1.2 Die Bedeutung von MRSA als Erreger nosokomialer Infektionen
+In den meisten Studien werden abhängig vom Ort des Infektionserwerbs zwei verschiedene
+Arten von Infektionen unterschieden (Vincent et al., 1995). Dies sind zum einen die
+Community-aquired Infektion und die Hospital-aquired Infektion. Infektionen, deren
+Auftreten in einem zeitlichen, räumlichen und kausalen Zusammenhang mit einem
+Krankenhausaufenthalt stehen, werden als nosokomiale Infektionen oder Hospital-aquired
+Infections bezeichnet. Zu den Hospital-aquired Infections zählen unter anderem die Intensive
+Care Unit-aquired Infections, als ein Teil der nosokomialen Infektionen. In der vorliegenden
+Arbeit geht es im Weiteren um die Intensive Care Unit aquired Infektions. Die Erreger dieser
+nosokomialen Infektionen können endogenen, oder exogenen Ursprungs sein. Keime können
+die Patienten entweder über Kontakt mit dem behandelnden Krankenhauspersonal, oder im
+Verlauf invasiver Behandlungs- und Untersuchungsmaßnahmen erreichen. Auch die
+Standortflora des Patienten stellt ein endogenes Infektionsrisiko dar. Die nosokomiale
+Infektion muss während des Krankenhausaufenthaltes erworben sein, kann jedoch auch nach
+der Entlassung aus dem Krankenhaus manifest werden. Infektionen, die sich zum Zeitpunkt
+der Aufnahme im Krankenhaus in der Inkubationsphase befinden und dann während des
+Krankenhausaufenthaltes manifest werden, gelten ebenfalls als nosokomiale Infektionen. Die
+hier angegebene Beschreibung der nosokomialen Infektion, folgt der Definition der Centers
+for Disease Control and Prevention in den Vereinigten Staaten (Garner et al., 1988). Eine
+weiterentwickelte und ergänzte Version, ist die vom Nationalen Referenzzentrum für
+Krankenhaushygiene (NRZ) gemeinschaftlich mit dem Robert-Koch-Institut (RKI),
+erarbeitete Fassung (NRZ, 2003).
+Die Centers for Disease Control and
+
+Prevention
+
+unterscheiden
+
+unterschiedliche
+
+12
+
+Lokalisationen von nosokomialen Infektionen: Zu den häufigsten Lokalisationen zählen an
+erster Stelle die Pneumonie, gefolgt von den Harnwegsinfektionen und bei chirurgischen
+Patienten die postoperative Wundinfektion.
+1.2.1 Ursachen für eine MRSA Kolonisation/Infektion
+Es sind keinesfalls allein mangelhafte hygienische Bedingungen als Ursache für eine MRSA
+Kolonisation/Infektion anzunehmen, wie z.B. mangelnde Händehygiene. Die endogenen
+Risikofaktoren haben hierbei die größte Bedeutung (Fernandez et al., 1997). Die endogenen
+Risiken werden vom Alter des Patienten, dessen Allgemeinzustand und durch die
+Grunderkrankung bestimmt.
+In der genannten Arbeit beschreiben die Autoren eine prospektive Studie, in der alle 944
+Patienten untersucht wurden, die über zehn Monate für mindestens 24 Stunden auf eine
+Intensivstation aufgenommen wurden. Unter endogenen Risikofaktoren verstehen die
+Autoren eine schwere Grunderkrankung, Koma und Fehl- oder Mangelernährung. Eine
+vorher bestehende Besiedlung mit MRSA und eine längere Einnahmedauer von Antibiotika,
+mit einem verlängerten Intensivstationsaufenthalt, werden ebenfalls zu den Risikofaktoren
+gezählt.
+Als exogenes Risiko gilt vor allem die mangelnde Einhaltung der Hygienerichtlinien. Hier ist
+am ehesten die mangelnde Händedesinfektion durch das medizinische Personal zu nennen.
+Des Weiteren zählen invasive, diagnostische und therapeutische Verfahren zu den exogenen
+Risikofaktoren. Als Hauptursache für die Pneumonie sind zum Beispiel die Intubation und die
+maschinelle Beatmung zu nennen. Bei Patienten auf der Intensivstation bieten die
+Kombination aus der vorhandenen Grunderkrankung, mit invasiven Maßnahmen und die
+antibiotische
+
+Therapie
+
+einen
+
+Selektionsvorteil
+
+für
+
+Multiresistente
+
+Keime.
+
+Beim
+
+13
+
+Intensivpatienten besteht darüber hinaus eine Schwächung der normalerweise bestehenden
+körpereigenen Immunabwehr, aufgrund seiner Erkrankung und natürlicherweise bestehenden
+Barrieren gegen das Eindringen von Krankheitserregern. Letzteres vor allem durch das
+Einbringen von Kathetern und Beatmungstuben in den Körper. Infektionen sind daher beim
+Intensivpatienten häufiger als bei Patienten auf Normalstation (Vincent et al., 1995). Die
+European Prevalence of Infection in Intensive Care Study (EPIC) fand eine Häufigkeit von
+20,5% für ICU (Intensive Care Unit)-aquired-Infections mit MRSA. (Vincent et al., 1995).
+Die EPIC-Studie liefert Daten über die häufigsten nosokomialen Infektionen in der
+Intensivmedizin. Die häufigsten auf einer Intensivstation erworbene Infektionen, waren mit
+47% die Pneumonie, meist verursacht durch die Intubation und die maschinelle Beatmung.
+Mit jeweils 18 % folgten andere Infektionen der unteren Atemwege, sowie Harnwegsinfekte
+und die primäre Sepsis mit 12%. Die Kombination aus Grunderkrankung und zusätzlich
+erworbener nosokomialer Infektion, erhöhen für einen Intensivpatienten das Mortalitätsrisiko.
+Diese Aussage gilt vor allem für die auf der Intensivstation erworbene Pneumonie. Die
+erhöhte Sterblichkeit von Intensivpatienten, die zusätzlich eine nosokomiale Infektion
+erleiden, wurde in zahlreichen Untersuchungen nachgewiesen. Molina et al. (1998) fanden
+ein zweifach erhöhtes Sterberisiko bei den Intensivpatienten eines Krankenhauses der
+Maximalversorgung, falls sich eine nosokomiale Infektion nachweisen ließ.
+1.2.2 Diagnostik nosokomialer MRSA Kolonisation/Infektionen in der Intensivmedizin
+Die Aussagekraft der diagnostischen Methoden ist mitentscheidend für die Therapie. Die
+Diagnostik der nosokomialen Pneumonie stellt das häufigste Problem dar. Neben der
+klinischen Diagnosestellung, ist die radiologische Diagnostik einer durch z.B. MRSA
+verursachten nosokomialen Pneumonie zum Teil erschwert. Atelektasen und ein erhöhter
+
+14
+
+Wassergehalt des extravaskulären Gewebes, können eine Pneumonie vortäuschen oder
+verschleiern.
+Auch Fagon et al. konnten in ihren Studien zeigen, dass klinische Kriterien zur Diagnose der
+Pneumonie bei kritisch kranken und beatmeten Patienten nicht ausreichend sind.
+Deshalb wurden von der „ Infectious Disease Society of America“ Richtlinien für die
+Diagnostik der nosokomialen Pneumonie erstellt. Die Diagnostik stützt sich nach diesen
+Richtlinien nicht nur auf radiologische Untersuchungen, sondern auch auf die Untersuchung
+von Sekreten aus den Atemwegen. So wird die vorerst durchgeführte Antibiotikakombination
+entsprechend den mikrobiologischen Ergebnissen spezifisch angepasst.
+Im Laufe der letzten Jahre wurden für die Erregertypisierung klassische Methoden aus der
+Immunologie, Biochemie und Genetik übernommen (van Belkum, 1994; Lenz, 1991). Dabei
+können die erhobenen Daten dem Krankenhaushygieniker und dem klinisch tätigen Kollegen
+zusätzliche Informationen liefern. Mit deren Hilfe kann es dann möglich sein, die
+Ausbreitung von MRSA Krankenhausinfektionen zu erkennen, effektiv zu behandeln, zu
+begrenzen, oder primär zu verhindern.
+Grundsätzlich können Typisierungsverfahren in phänotypische und genotypische Methoden
+gegliedert werden. Die phänotypischen Methoden detektieren Eigenschaften welche von den
+Mikroorganismen und damit auch MRSA exprimiert werden. Im Laufe der vergangenen
+Jahre hat man jedoch immer mehr auf genotypische Methoden zur Erregertypisierung gesetzt,
+da diese präziser sind. Zu den wichtigsten Techniken zählen zum einen die PulsfeldGelelektrophorese (PFGE) und die Lysotopie.
+Von mehreren Autoren wurde die hohe Diskriminationsfähigkeit der PFGE bei
+unterschiedlichen Infektionserregern hervorgehoben und als Gold Standard der molekularen
+Epidemiologie
+
+bezeichnet.
+
+Während
+
+dem
+
+in
+
+dieser
+
+Arbeit
+
+betrachteten
+
+15
+
+Untersuchungszeitraum, stand die PFGE nicht für den gesamten Zeitraum zur Verfügung, so
+dass neben dem mikrobiologischen MRSA Nachweis nur eine begrenzte Typisierung mit der
+Lysotypie durchgeführt wurde.
+
+1.3 Ziel der Arbeit
+Die Inzidenz von MRSA, ausschließlich bei einer Gruppe von neurochirurgischen
+Intensivpatienten, ist bislang so erst einmal in der Literatur beschrieben worden
+(Gnanalingham et al., 2003). Darüber hinaus gibt es mehrere Studien, welche die MRSA
+Inzidenz beim intensivmedizinischen Krankengut verschiedener Disziplinen beschrieben
+haben (Mest et al., 1994; Graffunder und Venezia, 2002). Die auch in Deutschland teilweise
+beobachtete hohe Inzidenz von bis zu 20,7%, bei stationär behandelten Patienten, erfordert
+besondere Kontrollmaßnahmen und ein striktes Hygieneprotokoll (Mückley und Diefenbeck,
+2005). Gerade bei Intensivpatienten, die wie oben beschrieben ein höheres Risiko tragen, ist
+ein verantwortungsvolles Hygienemonitoring unbedingt zu beachten. Zusätzlich kommt beim
+neurochirurgischen Krankengut noch ein anderes Risikoprofil hinzu. Bei neurochirurgischen
+Intensivpatienten
+
+kann
+
+zusätzlich
+
+zur
+
+kardiopulmonalen
+
+Indikation,
+
+eine
+
+gestörte
+
+Bewusstseinslage eine Intubation und Respiratorbehandlung notwendig machen. Dies
+bedeutet, dass zusätzlich zu den oben aufgeführten prädisponierenden Faktoren die
+neurochirurgische Grunderkrankung zum Risikofaktor für eine MRSA Kolonisation/Infektion
+wird. Da zu Beginn der 90er Jahre ein Anstieg der MRSA Inzidenz in der ausschließlich mit
+neurochirurgischen Patienten belegten Intensivstation beobachtet wurde, etablierte man ein
+neues Hygieneprotokoll. Neben einem regelmäßigen mikrobiologischen Screening, strengen
+Isolationsrichtlinien beim MRSA Nachweis und der gezielten Behandlung, erfolgte bei allen
+Patienten die prophylaktische intranasale Applikation von Octenidine hydrochloride.
+
+16
+
+Ziel dieser Studie war es nun die Häufigkeit der MRSA Kolonisierung und/oder Infektion in
+der
+
+Neurochirurgischen
+
+Intensivstation,
+
+unter
+
+Verwendung
+
+des
+
+neuen
+
+strikten
+
+Hygieneprotokolls zu analysieren. Da die prospektive Erfassung von mikrobiologischen
+Untersuchungsergebnissen erst 1992 standardisiert begann, wird in dieser Arbeit der Zeitraum
+ab 1992 bis 2003 untersucht.
+
+2. Material und Methoden
+
+Die von 10.207 neurochirurgisch, intensivmedizinisch behandelten Patienten analysierten
+mikrobiologischen Daten wurden von Januar 1992 bis Dezember 2003 durch den
+Beauftragten Hygienepfleger prospektiv in eine EXEL – Datenbank eingepflegt. Nach
+Abschluss der Erhebung konnte man jeden MRSA Kolonisation/Infektionsfall genauer
+untersuchen.
+Die computergestützte Auswertung der Daten erfolgte mit dem EXEL Programm für
+Windows©. Mittelwert Vergleiche fanden mit dem t-Test statt. Statistische Signifikanz der
+Unterschiede wurde bei einem p-Wert < 0,05 angenommen.
+Zum Zeitpunkt der Studie verfügte die Neurochirurgische Intensivstation über 10
+Betten/Beatmungsplätze, von denen jeweils fünf ohne Trennung in einem großen Raum
+untergebracht waren, d.h. eine räumliche Isolation war nicht möglich.
+
+2.2 Erhobene Daten
+Die
+
+Patienten
+
+mit
+
+einer
+
+MRSA
+
+Kolonisation/Infektion
+
+wurden
+
+unter
+
+weiteren
+
+Gesichtspunkten analysiert. Zu den demographischen Daten der Patienten, die Alter und
+
+17
+
+Geschlecht enthielten, interessierte die gesamte Liegedauer in der Neurochirurgischen
+Abteilung und auf der Neurochirurgischen Intensivstation. Neurochirurgische Erkrankung
+und Therapie wurde ebenso erfasst, wie die Indikation und die Art der intensivmedizinischen
+Therapie. Die erforderlichen Daten für die Parameter MRSA Besiedlung vs. Infektion
+stammen aus der Pat. Akte, mit den mikrobiologischen Nachweisen aus dem
+Mikrobiologischen Institut der Universität Bonn. Der Parameter der Lysotypie konnte nur bei
+den letzten 25 Pat. erhoben werden, vorher fehlte die notwendige Infrastruktur des
+Mikrobiologischen Labors. Die Lysotypie charakterisiert die MRSA Stämme genauer,
+wodurch sich Infektionsketten, Übertragungswege und Resistenzen besser nachvollziehen
+lassen.
+
+Folgende Parameter der intensivmedizinischen Therapie wurden erfasst und untersucht:
+-
+
+antibiotische Behandlung während des stationären Aufenthalts
+
+-
+
+Beatmungsdauer
+
+Bei MRSA-Nachweis wurden weitere Parameter erfasst:
+-
+
+MRSA Besiedlung vs. Infektion
+
+-
+
+Lokalisation der Kolonisation/Infektion
+
+-
+
+MRSA Subtyp mittels Lysotypie
+
+-
+
+Tag des stationären Aufenthaltes an dem MRSA nachgewiesen wurde:
+o Gruppe 1: 0 – 5. Tag
+o Gruppe 2: 6 – 20. Tag
+o Gruppe 3: > 20. Tag ( Aufnahme = Tag 0)
+
+-
+
+chirurgische Behandlung des MRSA bei infizierten Wunden
+
+18
+
+Zusätzlich wurden auch alle anderen Infektionen des Patienten während des stationären
+Aufenthaltes erfasst, d.h. Ort der Infektion und die Behandlung der Infektion. Bei einer KoInfektion mit MRSA und einem anderen Keim an gleicher Lokalisation, wurden beide Keime
+gezielt antibiotisch behandelt.
+
+2.3 Protokoll zur Begrenzung der MRSA Kolonisation / Infektion
+Die Studie begann 1992, es wurde ein Protokoll für das Screening und die Eradikation von
+MRSA-Kolonisationen und Infektionen etabliert. Die nachfolgenden Daten beziehen sich auf
+den gesamten Zeitraum von 1992 – 2003.
+Zu den allgemeinen Maßnahmen gehört die Isolation:
+-
+
+Eine räumliche Isolierung des Patienten war auf der neurochirurgischen
+Intensivstation nicht möglich, der Isolationsbereich wurde durch rotes Klebeband
+auf dem Fußboden gekennzeichnet.
+
+-
+
+Besucher müssen sich vorher beim Pflegepersonal anmelden und müssen
+eingewiesen werden in das hygienische Verhalten im Umgang mit MRSA
+positiven
+
+Patienten,
+
+z.B.
+
+hygienische
+
+Händedesinfektion,
+
+Handschuhe,
+
+Mundschutz etc.
+-
+
+Bei MRSA müssen alle Personen einen Kittelwechsel vornehmen, wenn sie den
+Raum betreten
+
+-
+
+Beim Absaugen der Patienten ist zusätzlich eine Schutzbrille zu tragen
+
+-
+
+Die Entsorgung von Abfällen etc. ist in dichten Behältern oder wasserdichten
+Plastiksäcken vorzunehmen
+
+19
+
+Darüber
+
+hinaus
+
+erfolgen
+
+patientenbezogene
+
+mikrobiologische
+
+Untersuchung
+
+(nach
+
+Rücksprache mit dem Institut für Medizinische Mikrobiologie und Immunologie):
+-
+
+MRSA Screening bei allen Neuaufnahmen.
+
+-
+
+bei Wiederaufnahme und bei bekannter MRSA Anamnese
+
+-
+
+bei Aufnahme aus Einrichtungen mit bekannten, vermutlich endemisch
+vorkommenden MRSA ( z.B. Dialyse, Intensivstation, Länder mit hoher MRSA
+Prävalenz wie USA, England etc)
+
+-
+
+Abstriche von Nasen Rachen, allen Katheterspitzen, Perineum sowie Urin und
+Liquor. Kulturen aller intensivmedizinisch behandelter Patienten bei Aufnahme
+und zweimal wöchentlich (Montags und Donnerstags)
+
+Bei der Pflege des MRSA positiver Patienten ist folgendes zu beachten:
+-
+
+täglich mit antiseptischer Seife (Primasept ® Med. Schülke & Mayr GmbH)
+waschen, inkl. Haarwäsche
+
+-
+
+tägliche Bett- und Nachtwäsche, Utensilien zur Körperpflege wechseln (z.B.
+Waschlappen)
+
+-
+
+persönliche Gegenstände im Zimmer belassen, desinfizieren ( z.B. Brille)
+
+-
+
+infizierte Hautstellen einmal täglich über 5 Tage mit Octenisept (Schülke & Mayr
+GmbH) behandeln
+
+-
+
+evtl. vorhandene Trachealkanülen des Pat. mit Descogen (Antiseptica chem.
+pharm. Produkte GmbH) zu desinfizieren und reinigen
+
+Folgende Maßnahmen sind bei Verlegung/ Transport des Patienten zu beachten:
+-
+
+Transporte auf strenge Indikationen beschränken
+
+20
+
+-
+
+kleinere Eingriffe möglichst im Patientenzimmer durchführen
+
+-
+
+Station oder Klinik in die der Pat. verlegt wird, muss vorher umfassend informiert
+werden
+
+-
+
+Beim Transport in der Klinik und nasopharyngealer Besiedlung erhält der Pat.
+einen Mund – Nasen Schutz
+
+-
+
+Transport nicht im als kontaminiert anzusehendem Bett, frische Bett und
+Körperwäsche
+
+-
+
+Wunden dicht abdecken
+
+-
+
+Bei Broncho-/Endoskopie Mund – Nasen Schutz und Schutzbrille verwenden
+
+-
+
+Untersuchungs- und Transportliege desinfizieren
+
+-
+
+bei anstehender OP Pat. ans Ende des OP Programms setzen, damit nachher
+anschließend desinfiziert (s.u.) werden kann
+
+Grundsätzliche organisatorische Maßnahmen sind:
+-
+
+Sollte der/die Pat./in vor dem bekannt werden der MRSA Besiedlung/Infektion in
+einem Mehrbettzimmer untergebracht worden sein, müssen bei allen Mitpatienten
+regelmäßig mikrobiologische Untersuchungen durchgeführt werden.
+
+Allgemeine Desinfektionsmaßnahmen für das Patientenzimmer sind:
+-
+
+Die im Hygieneplan festgelegten Desinfektionsmaßnahmen sind konsequent
+durchzuführen
+
+-
+
+mindestens tägliche Scheuer-Wisch Desinfektion aller patientennahen Flächen,
+Fussboden und Nasszelle mit zimmerbezogener Desinfektionslösung und
+Tüchern, die nicht zur Reinigung anderer Zimmer verwendet werden dürfen
+
+21
+
+-
+
+alle Kontaktflächen von am Pat. benutzten Geräten, sofort nach dem Einsatz
+desinfizieren
+
+-
+
+nach Entlassung des Patienten sind Bettdecke, Kissen und Vorhänge in die
+Wäscherei zu geben, Desinfektion mit Bettgestell, Matratze und Nachttisch
+
+-
+
+Transport
+
+von
+
+Instrumenten
+
+in
+
+geschlossenen
+
+Behältern
+
+zur
+
+Desinfektionsabteilung
+
+Für die Müllentsorgung gilt:
+-
+
+Abfälle sind als infektiöse Krankenhausabfälle zu entsorgen ( Säcke im Zimmer
+verschließen)
+
+-
+
+Wäscheentsorgung:
+
+-
+
+Wäsche, Handtücher, Schmutzkleidung usw. werden in Säcken eingesammelt,
+desinfizierende Reinigung in der Krankenhauswäscherei
+
+Zu den spezifischen Maßnahmen/ praktizierten Vorgehensweisen auf der Neurochirurgischen
+Intensivstation gehören zusätzlich folgende Punkte:
+
+1.
+
+Bei allen MRSA Infektionen und oder zeitgleichen, zusätzlichen bakteriellen
+
+Infektionen wurde eine systemische antibiotische Therapie nach Antibiogramm verabreicht,
+d. h. in dieser Studie Vancomycin in allen Fällen. Die Antibiotische Therapie wurde nach drei
+negativen Abstrichen/Kulturen an aufeinander folgenden Tagen, nach dem unter 1.
+dargestellten Algorithmus beendet. Ebenso wurde bei MRSA Kolonisation ohne
+Infektionszeichen die antibiotische Therapie beendet.
+
+22
+
+2.
+
+Ein
+
+Patient
+
+wurde
+
+nur
+
+als
+
+MRSA
+
+frei
+
+angesehen,
+
+wenn
+
+nach
+
+antibiotischer/antiseptischer Behandlung drei negative Abstriche/Kulturen an aufeinander
+folgenden Tagen erzielt wurde.
+
+3. Ergebnisse
+3.1 Jährliche Inzidenz von MRSA von 1992 - 2003
+
+Von den 10.207 Patienten wurde mit dem oben dargestellten Algorithmus bei 60 Patienten
+ein positiver MRSA Nachweis erbracht. Tabelle 1 zeigt die jährliche Inzidenz von MRSA bei
+allen neurochirurgischen Intensivpatienten von 1992 – 2003. Vor 1992 wurde eine noch
+höhere MRSA Inzidenz beobachtet. Nach Etablierung des neuen Protokolls, d.h. von 1993 –
+2003, wurde nie mehr als ein MRSA positiver Patient auf der Intensivstation betreut.
+
+Tabelle 1:
+Jährliche Inzidenz von MRSA bei allen neurochirurgischen Intensivpatienten von
+1992 – 2003
+
+Anzahl der
+Jahr
+
+Patienten auf der
+ICU
+
+Anzahl der MRSA
+
+Inzidenz von MRSA
+
+positiven Patienten
+
+in Prozent
+
+1992
+
+794
+
+20
+
+2,52
+
+1993
+
+840
+
+7
+
+0,83
+
+23
+
+Anzahl der
+Jahr
+
+Patienten auf der
+ICU
+
+Anzahl der MRSA
+
+Inzidenz von MRSA
+
+positiven Patienten
+
+in Prozent
+
+1994
+
+954
+
+0
+
+0
+
+1995
+
+979
+
+0
+
+0
+
+1996
+
+855
+
+2
+
+0,23
+
+1997
+
+744
+
+3
+
+0,40
+
+1998
+
+811
+
+3
+
+0,36
+
+1999
+
+856
+
+5
+
+0.58
+
+2000
+
+829
+
+6
+
+0.72
+
+2001
+
+939
+
+5
+
+0.53
+
+2002
+
+997
+
+4
+
+0.40
+
+2003
+
+979
+
+5
+
+0.51
+
+Total
+
+10207
+
+60
+
+0,59
+
+Die Inzidenz nach Einführung des Protokolls von 1993 – 2003 betrug 0,41%.
+
+Ein signifikanter Unterschied p < 0,05 stellte sich in der mittleren Liegedauer auf der
+Intensivstation zwischen
+
+MRSA negativen Patienten mit 3 ± 12 Tage und den MRSA
+
+positiven Patienten mit 17 ± 7 Tage dar (t-Test). 15 Prozent der MRSA positiven Patienten
+hatten eine mittlere Liegedauer von weniger als drei Tagen.
+
+24
+
+Im Folgenden wird die Patientengruppe mit positivem MRSA Nachweis (n = 60) genauer
+analysiert.
+Das Durchschnittsalter betrug 61 ± 17 Jahre (n = 24 weiblich und n = 36 männlich).
+
+3.2 Neurochirurgische Erkrankungen mit Therapie der MRSA positiven Patienten
+
+Alle Patienten wurden aufgrund einer neurochirurgischen Erkrankung aufgenommen, 54
+wurden operativ und 6 konservativ behandelt (Tabelle 2).
+
+Tabelle 2:
+Neurochirurgische Erkrankungen und Therapie der MRSA positiven Patienten
+
+Neurochirurgische Erkrankung
+
+Therapie
+
+Anzahl
+
+Hirntumor
+
+Resektion
+
+14
+
+Subdurales Hämatom
+
+Evakuation
+
+20
+
+Clipausschaltung
+Subarachnoidalblutung
+
+12
+des Aneurysmas
+Evakuation n = 4
+
+Intracerebrale Blutung
+
+5
+Konservativ n = 1
+
+Arteriovenöse Malformation
+
+Resektion
+
+2
+
+Laminektomie n = 2
+Ossäre Wirbelsäulenmetastasen
+
+7
+Konservativ n = 5
+
+Im Rahmen des Aufenthaltes auf der Intensivstation mussten 64% (n = 38) der MRSA
+positiven Patienten für 11 ± 9 Tage künstlich beatmet werden. Diese Patienten hatten eine
+
+25
+
+deutlich höhere Mortalität, unabhängig von der neurochirurgischen Erkrankung. Die
+Gesamtmortalität der untersuchten Gruppe lag bei 17% (n = 10) wobei nur einer dieser
+Patienten nicht beatmungspflichtig war. Lediglich ein Patient mit einer schweren Pneumonie
+bei einer MRSA Co-Kolonisation starb im septischen Schock.
+Eine Stammtypisierung wurde in den ersten Jahren der Studie noch nicht durchgeführt, so
+dass nur bei 25 Patienten hierzu Daten vorliegen (Tabelle 3). Die Süddeutsche Variante fand
+sich in dieser Untergruppe am häufigsten. Wegen der inkompletten Datenlage wurde dieser
+Parameter nicht weiter in dieser Arbeit untersucht.
+
+Tabelle 3:
+MRSA Subtyp ermittelt durch Phagen – Typisierung
+
+MRSA Subtyp nach
+
+Anzahl
+
+Phagen – Typisierung
+
+Nett/Jenne
+
+2
+
+Süddeutsche Variante
+
+17
+
+Lybische Variante
+
+1
+
+Chirurgische Variante
+
+1
+
+Thübinger Typ
+
+2
+
+Unbekannter Typ
+
+2
+
+Gesamt
+
+25
+
+26
+
+3.3 Lokalisation von MRSA Infektion und Kolonisation
+Von allen MRSA positiven Patienten (n = 60), waren 70% in Nase und Rachen kolonisiert,
+obwohl alle Patienten ab dem 3. Tag antiseptisch intranasal mit Octenidine hydrochloride
+behandelt wurden. Mehr als die Hälfte der MRSA positiven Patienten n = 15, litten zusätzlich
+unter meist pulmonalen Infektionen, wobei MRSA in 12 Fällen als Co – Kolonisation
+nachgewiesen und entsprechend dem oben dargestellten Algorithmus wie eine Infektion
+behandelt wurde.
+
+% der positiven MRSA
+Patienten
+
+70
+60
+50
+
+Infektion
+Kolonisation
+
+40
+30
+20
+10
+
+MRSA Nachweis
+
+.
+Abbildung 1:
+Lokalisationen von MRSA – Kolonisation oder - Infektion
+
+Blutkultur
+N=1
+
+Harnblase
+N=2
+
+Wunde N=5
+
+Meningitis
+N=7
+
+ZVK N=8
+
+Pneumonie
+N=10
+
+Perineum
+N=3
+
+Nase und
+Rachen N=42
+
+Rachen N=9
+
+Nase N=4
+
+0
+
+27
+‫ ٭‬Mehrere Lokalisationen waren bei n = 33 Patienten zu beobachten
+
+Die Eradikation von MRSA gelang bei 16 Patienten während der intensivmedizinischen
+Behandlung. Bei 56% (n =34) bestand weiterhin eine Kolonisation zum Zeitpunkt der
+Entlassung von der Intensivstation. Eine Infektion bestand bei keinem der Patienten zum
+Entlassungszeitpunkt. Zehn Patienten starben, wobei lediglich einer an einer Pneumonie mit
+MRSA als Co Kolonisation im septischen Schock verstarb.
+
+28
+
+4. Diskussion
+
+4.1 Inzidenz von MRSA auf der neurochirurgischen Intensivstation
+
+In der vorliegenden retrospektiven Arbeit wurde die Inzidenz von MRSA positiven Patienten
+der
+
+neurochirurgischen
+
+Intensivstation,
+
+vor
+
+und
+
+nach
+
+Einführung
+
+eines
+
+neuen
+
+Hygieneprotokolls untersucht. In den Jahren 1992 bis 2003 sind 10.207 Patienten auf der
+neurochirurgischen Intensivstation behandelt worden. Die Inzidenz von MRSA Kolonisation
+und Infektion sank vor der Einführung des Protokolls von 2,5% auf Werte zwischen 0% und
+0,8%. Die mittlere jährliche MRSA Inzidenz über den Untersuchungszeitraum von 11 Jahren
+betrug 0,41%. Dies steht im Gegensatz zu der in der Literatur angegebenen MRSA Inzidenz
+von bis zu 40% auf chirurgischen Intensivstationen (Gastmeier et al., 2004). In der bisher
+einzigen Studie über ausschließlich neurochirurgische Patienten beschreibt Gnanalingham
+ebenfalls eine höhere Inzidenz von bis zu 25% von MRSA positiven Fällen (Gnanalingham et
+al., 2003).
+Das mittlere Alter lag bei den MRSA positiven Patienten in dieser Arbeit über 60 Jahren und
+entspricht damit den in der Literatur beschriebenen Daten (Peltroche Llacsahuanga und
+Haase, 1998). Ein Zusammenhang besteht zwischen der Liegedauer des Patienten auf der
+Intensivstation und einer MRSA Infektion/Kolonisation. Bei den MRSA positiven Patienten
+ist die Liegedauer signifikant erhöht. Dies zeigten bereits Ibelings und Bruining in ihrer
+Studie (Ibelings und Bruining, 1998; Theaker et al., 2001). In der vorliegenden Studie wurde
+dies ebenfalls bestätigt, die Liegedauer der MRSA positiven Patienten betrug 17±7 Tage, die
+der MRSA negativen Patienten 3±12 Tage. Trotz der eindeutigen Studienlage ist ein kausaler
+Zusammenhang zwischen Liegedauer und positiven MRSA Nachweis nur schwer zu
+
+29
+
+beweisen.
+Der Aufenthalt auf einer chirurgischen Intensivstation ist als eigenständiger Risikofaktor für
+eine MRSA Kolonisation/Infektion zu nennen (Gastmeier et al., 2004). Gnanalingham
+bestätigte dies für eine neurochirurgische Intensivstation. In der vorliegenden Studie, als auch
+in der Literatur, ist die (Multi) - Morbidität als Risikofaktor identifiziert worden (Graffunder
+und Venzia, 2002). Beim neurochirurgischen imtensivmedizinischen Krankengut kommt
+noch ein anderes Risikoprofil hinzu, da zusätzlich zur kardiopulmonalen Indikation. eine
+gestörte Bewusstseinslage eine Intubation und Respiratorbehandlung notwendig macht
+(Pankin und Geldner, 2000). Dies bedeutet, dass die neurochirurgische Grunderkrankung zu
+einem prädisponierenden Faktor für eine MRSA Kolonisation/Infektion wird.
+In der vorliegenden Studie bestätigte sich, dass die Mortalität bei beatmeten Patienten höher
+ist, als bei nicht beatmeten Patienten. Die Mortalität der untersuchten MRSA positiven
+Patienten lag bei 17%, wobei nur 1 Patient davon nicht beatmet war.
+
+4.2 Lokalisation von MRSA
+Für die Kolonisation mit MRSA sind besonders die Nase, aber auch der Rachen und der
+Perinealbereich als Prädilektionsstellen zu nennen (Kluytmans et al., 1999). Dies stimmt mit
+den Ergebnissen der vorliegenden Studie überein, in der 88% der MRSA positiven Patienten
+in Nase und Rachen kolonisiert waren. In der vorliegenden Studie war der Nachweis in der
+Leiste die zweithäufigste Lokalisation.
+Der Kolonisation mit MRSA kommt eine wichtige Bedeutung zu. Es konnte wissenschaftlich
+bewiesen werden, dass MRSA-Träger eine signifikant erhöhte Infektionsrate mit diesem
+Keim erleben. Bei MRSA kolonisierten Patienten geschehen typische Selbst-Infektionen im
+Rahmen von chirurgischen Eingriffen, der Hämodialyse, einer Beatmung, einer i.v.-Katheter-
+
+30
+
+Sepsis oder einer Sepsis bei HIV/AIDS oder anderen Formen der Immunsuppression
+(Kluytmans et al., 1999; Muder et al., 2000; Roghman et al., 1998). Jerning bestätigt mit
+seiner Studie, dass Patienten mit einer nasalen MRSA Kolonisation auf Intensivstationen ein
+erhöhtes Risiko für eine Bakteriämie zeigten, die bei nicht rechtzeitiger Behandlung mit einer
+schlechteren Prognose einhergeht. (Jernignan et al., 1995; Pujol et al., 1996). In der
+vorliegenden Studie wird dies ebenfalls bestätigt, 60% der Patienten, die an einer MRSA
+Infektion erkrankten wiesen eine vorherige Kolonisation im Nasen/Rachen Raum auf.
+Bei den MRSA Infektionen war die MRSA bedingte Pneumonie mit 36% am Häufigsten. In
+der Literatur ist dies ebenfalls beschrieben (Shorr und Ying, 2006). Beatmungsassoziierte
+Pneumonien, katheterassoziierte Sepsis-Fälle und katheterassoziierte Harnwegsinfektionen,
+werden ebenfalls von Gastmeier et al. als häufigste Infektionen durch MRSA auf einer
+Intensivstation erfasst. Erstaunlich ist hier, das die Hautinfektionen nur einen geringen Anteil
+ausmachen (Gastmeier et al., 2003) (Jernigan et al., 2003).
+
+4.3 Therapie und Eradikation
+Neben der frühen Identifizierung der MRSA positiven Patienten, ist eine restriktives
+Antibiotikaregime obligatorisch. Dies hat z.B. in Dänemark zu einer Reduktion der MRSA
+Inzidenz im stationären Bereich von 20%, auf heutzutage 1% geführt (Zinn und Tabori,
+2004). Bei einem restriktiven Antibiotikaregime sollte zunächst zwischen einer Kolonisation
+und einer Infektion mit MRSA unterschieden werden.
+Wendt et al. geben eine genaue Definition zu den Begriffen Kolonisation und Infektion
+(Wendt et al., 1999):
+Kolonisation:
+
+31
+
+Besiedlung eines Individuums mit einem Mikroorganismus, wobei sich der Mikroorganismus
+aktiv vermehren kann. Es kommt zu keiner manifesten Infektion an der Besiedlungsstelle.
+Infektion:
+Besiedlung eines Individuums mit einem Mikroorganismus und einer lokalen oder
+generalisierten entzündlichen Reaktion des besiedelten Makroorganismus auf diesen Erreger.
+Zu einem restriktiven Antibiotikaregime gehört der Einsatz eines intranasalen Antibiotikums.
+In der Literatur findet man als etablierte Nasensalbe Mupirocin (Dziekan und Daschner
+2001). Zur Eradikation von MRSA bei nasaler Besiedlung wird das Lokalantibiotikum
+Mupirocin seit 1985 eingesetzt. Aber auch hier steigt durch die häufige Benutzung dieses
+Antibiotikums die Mupirocinresistenz bei MRSA an, so dass vor seinem Einsatz eine
+Empfindlichkeitstestung
+
+und
+
+der
+
+Gebrauch
+
+diskutiert
+
+werden
+
+sollte.
+
+Die
+
+ersten
+
+mupirocinresistenten MRSA wurden bereits 1987 aus Großbritanien, später aus den USA und
+dann weltweit berichtet (Alarcon et al., 1998; Ayliffe et al., 1998; Irish et al., 1998; Layton et
+al., 2005; Rahmann et al., 1990; Vasquez et al., 2000). Der aktuellen Datenlage folgend,
+wurde bei den in der hier vorgestellten Studie behandelten Patienten Octenidine
+Hydrochloride als intranasales Antiseptikum eingesetzt. Die antiseptische Wirkung von
+Octenidine Hydrochloride bei MRSA Patienten wurde für die Ganzkörperwaschung bereits
+nachgewiesen (Rohr et al., 2003).
+Der antiseptische Effekt der Ganzkörperwaschung als unterstützender Therapieansatz zur
+MRSA Sanierung wurde ebenfalls vom Robert-Koch-Institut als sinnvolle Ergänzung
+empfohlen. Zum einen um die Dauer der Isolierung und zusätzlicher Hygienemaßnahmen zu
+verkürzen, zum anderen das Risiko endogener Infektionen zu verringern (Kommission für
+Krankenhaushygiene und Infektionsprävention am RKI, 1999). Dieser Studienlage folgend,
+
+32
+
+wurden die MRSA positiven Patienten einer täglichen Octenidine Hydrochloride
+Ganzkörperwaschung unterzogen.
+Klinisch manifeste MRSA Infektionen erfordern eine systemische antibiotische Therapie
+nach Antibiogramm (Daschner und Schumpelick, 2002). Glykopeptide sind das Mittel der
+Wahl zur systemischen Therapie von Infektionen mit MRSA. Glykopeptide wie Vancomycin
+und Teicoplanin sind jedoch durch einige Nachteile gekennzeichnet. Sie haben einen
+ausgesprochenen toxischen Wirkbereich (nephro-, ototoxisch), die Applikation ist nur
+parenteral möglich und ist zudem relativ kostspielig (Martin et al., 1993). 1997 wurde das
+erste Mal in Japan und in den USA von einer Intermediärresistenz von MRSA gegen
+Glykopeptide (Vancomycin-intermediate Staphylococcus aureus
+
+– VISA) berichtet
+
+(Hiramatsu et al., 1998; Johnson et al., 1998). Kurze Zeit später wurden auch in zwei
+deutschen Krankenhäusern VISA-Stämme isoliert (RKI, 1998). Aufgrund der progredienten
+Resistenzentwicklung von MRSA gegenüber den Glykopeptidantibiotika muss über neue
+Antibiotikatherapien nachgedacht werden.
+Um der Resistenzentwicklung entgegenzuwirken ist ein verantwortungsvoller Umgang mit
+den zu Verfügung stehenden Antibiotika erforderlich.
+Zu den empfohlenen Richtlinien in Bezug auf eine antibiotische Therapie bei MRSA
+positiven Patienten nach dem RKI (Robert –Koch-Institut) gehören:
+Bei systemischen Infektionen mit MRSA sollte immer Rücksprache mit einem
+Infektiologen/Mikrobiologen gehalten werden, um einem unsachgemäßen Gebrauch von
+Reserveantibiotika zu verhindern. Bei schweren Infektionen: zügiger Einsatz eines
+Glykopeptid-Antibiotikums (Vancomycin/Teicoplanin) i.v.
+Bei leichteren Infektionen: mögliche orale Applikation von Rifampicin in Kombination mit
+Fusidinsäure p.o.
+
+33
+
+In der vorliegenden Studie wurde die antibiotische Therapie mit Vancomycin betrieben. Nach
+mikrobioligischem Antibiogramm erwiesen sich alle Erreger Vancomycin sensibel.
+Bei 6 Patienten wurde unter Anwendung der Hygieneprotokollmaßnahmen eine Eradikation
+von MRSA erreicht. Dreizehn Patienten wurden mit MRSA positivem Nachweis in andere
+Krankenhäuser verlegt. Sechs Patienten starben während ihres Aufenthaltes auf der
+Intensivstation, wobei ein Patient an den Folgen einer MRSA assoziierten Pneumonie mit
+nachfolgender Sepsis verstarb. Die anderen fünf Patienten starben unabhängig von ihrer
+MRSA Infektion.
+
+4.4 Hygienerichtlinien bei MRSA Nachweis
+
+Bei den identifizierten Risikofaktoren ist es nur bedingt möglich einen Einfluss auf die
+MRSA Inzidenz zu nehmen. Umso wichtiger ist es strikte Hygienerichtlinien in Form eines
+Hygieneprotokolls auf einer Intensivstation einzuhalten. In zahlreichen Studien ist unter den
+obligat einzuhaltenden Hygienerichtlinien die Isolierung MRSA positiver Patienten genannt.
+Wie auch schon durch Ziegler beschrieben, führte eine minimal Isolierung in der
+vorliegenden Studie zu keiner höheren Inzidenz (Ziegler et al., 2004). Bei einer minimalen
+Isolierung wird der MRSA positive Patient nicht in Einzelräumen oder Kohorten
+untergebracht, sondern der Isolationsbereich bezieht sich auf den Patienten in seinem Bett,
+inklusive seiner unmittelbaren Umbebung. In der vorliegenden Studie ist die Tatsache das
+zeitgleich nie mehr als ein positiver MRSA Patient auf der Intensivstation behandelt wurde,
+eine
+
+mögliche
+
+Hypothese
+
+für
+
+die
+
+trotzdem
+
+niedrige
+
+Inzidenz.
+
+Nach
+
+aktuellen
+
+Hygienerichtlinien sollte der MRSA positive Patient jedoch, wenn möglich, in Einzelräumen
+isoliert werden. Ein weiterer wichtiger Punkt für eine niedrige MRSA Inzidenz ist die frühe
+Erkennung einer MRSA Kolonisierung/Infektion nach Aufnahme des Patienten. Dieser Punkt
+
+34
+
+des Hygienemanagement, erreicht durch ein Screening Protokoll, wird ebenfalls vom German
+Nosokomial Infektion Surveillance System (KISS), sowie vom RKI (Robert-Koch-Institut)
+empfohlen. In der vorliegenden Studie wurden 76% der MRSA positiven Patienten innerhalb
+der ersten vier Tage nach Aufnahme identifiziert. In anderen Studien zeigte sich der
+Zeitpunkt der Identifikation, unter Anwendung eines routinemäßiges mikrobiologischen
+Screening bei Aufnahme und zweimal wöchentlich, ebenfalls innerhalb der ersten 3±1 Tage
+(Hornberg et al., 2001; Kipp et al., 2004). Durch dieses Screening Protokoll bei
+Intensivpatienten findet eine frühe Identifizierung der MRSA positiven Patienten statt, so
+dass die nosokomiale Infektionsübertragung verringert werden kann (Mückley und
+Diefenbeck, 2005).
+
+4.5 Kosten
+
+Im Rahmen der aktuellen Empfehlungen zur Einführung eines Screening Protokolls auf
+Intensivstationen, darf heutzutage keinesfalls eine Kosten/Nutzen Analyse ausbleiben. Einer
+der wichtigsten Gründe für die rege wissenschaftliche Diskussion und Forschung auf diesem
+Gebiet ist der zunehmende Kostendruck auf die Krankenhäuser. Die Prävention nosokomialer
+Infektionen stellt die wahrscheinlich wirtschaftlichste Lösung des Problems dar. Galt bis in
+die ersten Jahrzehnte des letzten Jahrhunderts vor allem die hohe Sterblichkeit in den
+Krankenhäusern als Motivation für die Anstrengungen auf dem Gebiet der Infektiologie, ist
+es heute im zunehmenden Maße der Zwang Einsparungen vorzunehmen zu müssen. Neben
+den zusätzlichen Belastungen des Patienten, die durch eine nosokomiale Infektion verursacht
+werden,
+
+entstehen
+
+nicht
+
+zu
+
+unterschätzende
+
+Kosten,
+
+die
+
+die
+
+Finanzierung
+
+des
+
+Gesundheitssystems belasten. Von Martone et al. wurden für die USA zusätzliche Kosten in
+Höhe von 4,5 Milliarden US $ pro Jahr angegeben (Martone et al., 1992). Bei diesen Zahlen
+
+35
+
+handelt es sich um die gesamten, für die Volkswirtschaft entstehenden Kosten. Zum einen die
+direkten Kosten die aus der Behandlung des Patienten resultieren, zum anderen die indirekten
+Kosten, die aus dem Verlust der Arbeitskraft, der Steuereinahmen und weiterer für die
+Gesellschaft wichtiger Faktoren resultieren.
+Geldner zeigte in seiner Studie das es pro MRSA Patient auf einer Intensivstation zu einem
+täglichen Mehrkostenaufwand von 1622 € kommt (Geldner et al., 1999). Zusammenfassend
+ist zu sagen, dass die Screeningprogramme zur Identifizierung unerkannter MRSA Träger
+effektiv sind. Sie tragen zur Senkung der MRSA-Übertragung bei und reduzieren die
+Liegedauer, wodurch Kosten vermindert werden(Byrne., 1994).
+
+4.6 Bedeutung der Händedesinfektion
+
+Neben der Identifizierung von Risikofaktoren, Isolation des Patienten, sowie einer topischen
+und systemischen Antibiotikatherapie, ist die Händehygiene des Personals und der Besucher
+eine der wichtigsten Maßnahmen zur Verhinderung einer Verbreitung von MRSA (Gastmeier
+et al., 2003; Pittet et al., 2000).
+Einmal in eine medizinische Einrichtung eingebracht, verbreitet sich der multiresistente Keim
+zumeist über die vorübergehend kontaminierten Hände des Krankenhauspersonals. Aber auch
+die Übertragung durch Besucher im Krankenhaus ist möglich. Diese Infektionskette entsteht
+entweder durch den Kontakt mit besiedelten Patienten, oder durch den Kontakt mit
+kontaminierten Gegenständen. Die Transmission von MRSA in einem Krankenhaus kann
+zusätzlich über die zwischenzeitlich kolonisierten Nasenvorhöfe aller Mitarbeitergruppen auf
+die Patienten erfolgen (Mulligan et al., 1993).
+Es konnte nachgewiesen werden, dass MRSA bei fehlender hygienische Händedesinfektion
+für Stunden auf den Händen des medizinischen Personals überleben kann (Martin et al.,
+
+36
+
+1993). Die Möglichkeiten der Verbreitung von MRSA in einer Behandlungseinheit sind daher
+gut nachvollziehbar und konnten in klinischen Untersuchungen wiederholt beobachtet
+werden.
+Thompson et al., berichten von einer Abteilung, in der ein neu eingeführter MRSA in
+wenigen Wochen 5 bis 10% aller stationären Patienten kolonisierte bzw. infizierte
+(Thompson et al., 1982).
+Die endemische Ausbreitung von MRSA konnte von verschiedenen Autoren dokumentiert
+werden. Locksley et al. berichten detailliert von einer 15 Monate währenden Endemie in
+einem amerikanischen Lehrkrankenhaus (Locksley et al., 1982). Retrospektiv konnte der Weg
+von der Verbrennungsabteilung, über die Intensivstation in die verschiedenen anderen
+Abteilungen dieses Hauses nachvollzogen werden. Schließlich wurden in diesem Fall 34
+Patienten mit MRSA kolonisiert und 27 infiziert, von denen17 starben (Locksley et al., 1982).
+Die oben genannten Untersuchungen verdeutlichen, auf welch einfache Art und Weise
+MRSA-Stämme in eine Behandlungseinrichtung Einzug halten und dabei durch ihre klinische
+Inapparenz unentdeckt bleiben können. Obwohl in dieser Studie nie mehr als ein MRSA
+positiver Patient gleichzeitig behandelt wurde, identifizierte man 76% der MRSA positiven
+Fälle frühestens 48 Std. nach Aufnahme. Um diesen Infektionsweg nachzuvollziehen, reichen
+die Daten dieser Studie leider nicht aus. Falls sich in weiteren Studien ähnliche Phänomene
+zeigen, sollte über die Einführung eines regelmäßigen Screenings des Personals nachgedacht
+werden.
+
+37
+
+4.7 Ausblick
+
+Der Missbrauch bzw. inadäquate Gebrauch von antimikrobiellen Substanzen scheint der
+große Selektionsfaktor zu sein, der dem MRSA beim Überlebenskampf im antimikrobiellen
+Milieu den Vorzug gegenüber den Antibiotika-sensiblen Artgenossen gibt (Ayliffe et al.,
+1997).
+Immer wieder haben sich besiegt geglaubte pathogene Keime gegen neu entwickelte
+antimikrobielle Substanzen mit der Bildung neuer Resistenz-Mechanismen zur Wehr gesetzt.
+Darwin und Wallace (1859) prägten mit der zentralen Aussage ihrer Evolutionstheorie den
+Ausdruck „Survival of the fittest“. Die natürliche Selektion scheint bei den Mikroorganismen
+unter dem Selektionsdruck der Breitspektrumantibiotika direkt vor unseren Augen abzulaufen
+(Rao, 1998)
+Während in anderen Bereichen der Medizin z.b. bei den Herzerkrankungen und chronischen
+Erkrankungen oder den antiretroviralen Medikamenten in den letzten Jahren viele neue
+Erkenntnisse gesammelt werden konnten, war das Forschungsaufkommen im Bereich der
+bakteriellen Infektionserkrankungen vergleichsweise niedrig (Brundtland, 2005)
+Im ständigen Wettlauf der Entwicklung neuer Antibiotika gegen die Resistenzentwicklung
+der Bakterien, hatten die Mikroorganismen genug Zeit neue Resistenzen auszubilden und so
+bereiten multiresistente Keime mehr und mehr Probleme. Heute begreift man, dass die
+Entstehung von Resistenzen gegen antibiotische Medikamente und der Gebrauch dieser
+Antibiotika in einem direkten Gleichgewicht stehen und dies ein Wettlauf ist, der letztlich nie
+gewonnen werden kann (Brundtland, 2005).
+
+38
+
+Die Welt-Gesundheits-Organisation (WHO) hat neben anderen Organisationen und
+Fachgesellschaften
+
+diese
+
+Problematik
+
+als
+
+eine
+
+weltweite
+
+erkannt
+
+und
+
+einen
+
+Maßnahmenkatalog zur Bekämpfung der antimikrobiellen Resistenz entwickelt (Ayliffe et al.,
+1999).
+Zwei Maßnahmen können die Resistenzentwicklung zukünftig wirksam verlangsamen und
+wurden bereits wissenschaftlich bewiesen:
+1. Verhinderung der Ausbreitung resistenter Keime: Einfache Maßnahmen (wie die
+Vermeidung
+
+von
+
+Infektionsketten
+
+durch
+
+die
+
+hygienische
+
+Händedesinfektionen)
+
+Identifizierung, Isolationspflege und Sanierung von Keimträgern bzw. rechtzeitige
+Präventivmaßnahmen vermindern nachweislich die Verbreitung resistenter Stämme und
+können noch verbessert werden.
+2. Verminderung des Selektionsdrucks: Eine selektive und restriktive Gabe von Antibiotika
+kann das Auftreten multiresistenter Stämme signifikant vermindern. Vor allem in den
+Kliniken muss der unkritische Gebrauch von Breitbandantibiotika und Reserveantibiotika
+vermindert werden. (Witte et al., 2003)
+
+Konsequente Beispiele für die Umsetzung dieser Verhaltensregeln gibt es bereits in
+Dänemark und den Niederlanden (Vandenbroucke-Grauls, 2004). In Zeiten des weltweiten
+Transfers und der Globalisierung, dürfen die Erfolge in solchen relativ kleinen Nationen aber
+nicht darüber hinwegtäuschen, dass wir es mit einem Problem zu tun haben, von dessen
+Lösung wir noch sehr weit entfernt sind.
+
+39
+
+5 Zusammenfassung
+Die vorliegende retrospektive Studie untersucht die Auswirkungen eines neu eingeführten
+Hygieneprotokolls mit intranasaler Applikation von Octenidine hydrochloride, auf die MRSA
+Inzidenz bei neurochirurgischen Intensivpatienten.
+In den Jahren von 1993 – 2003 wurde unter Verwendung dieses Protokolls eine MRSA
+Inzidenz, bei 10.207 behandelten Patienten, von 0,41% erreicht.
+Die Durchführung des Protokolls umschloss die Erfassung der relevanten o.g. Infektionsdaten
+der Pat. in einer EXEL Datenbank, zweimal wöchentliche Screening Untersuchungen mit
+Abstrichen aus Mund, Nase-Rachen-Raum, Perineum, sämtlichen Kathetern, inklusive
+Urinproben und Liquorproben. Alle Pat. die entweder länger als 3 Tage auf der
+Intensivstation lagen und/oder einen positiven MRSA Nachweis zeigten, bekamen Octenidine
+hydrochloride Salbe intranasal appliziert. Zusätzlich wurden die MRSA positiven Pat.
+isloliert, im Falle von MRSA Infektionen wurde eine systemische, Antibiogramm gerechte
+Antibiotikatherapie durchgeführt. Unter diesen Maßnahmen wurden in den Jahren von 1993 –
+2003 bei insgesamt 10.207 Pat. eine MRSA Inzidenz von 0,41% erreicht. Im Jahr vor der
+Einführung des Protokolls 1992 lag die Inzidenz bei 2,52%.
+Für eine niedrige MRSA Inzidenz, vor allem auf Intensivstationen, ist ein striktes
+Hygienemanagement
+
+erforderlich. Als
+
+erstes ist hier die Händedesinfektion des
+
+Krankenhauspersonals sowie des Patientenbesuches zu nennen. Regelmäßige Fortbildungen
+über neue Hygienerichtlinien und Maßnahmen sind erforderlich. Des Weiteren beinhaltet dies
+ein primäres Screening der Patienten bei Aufnahme, danach regelmäßig mindestens zweimal
+pro Woche Abstriche aus Nase und Rachen, allen Kathetern, Perineum und falls vorhandenen
+Wunden. Zusätzlich sollte eine tägliche intranasale Applikation
+
+von Octenidine
+
+40
+
+Hydrochloride (bei zunehmender Mupirocin Resistenz) erfolgen, ebenfalls eine Octenidine
+Hydrochloride
+
+Ganzkörperwaschung,
+
+inklusive
+
+der
+
+Haare.
+
+Eine
+
+systemische
+
+Antibiotikatherapie sollte bei einer MRSA Infektion nach Antibiogramm erfolgen. Es ist
+erforderlich eine MRSA-Datenbank zu pflegen, um die Informationsweitergabe über MRSA
+Patienten zwischen den beteiligten Einrichtungen zu optimieren und vorbeugend tätig werden
+zu können.
+Dieser finanzielle Mehraufwand, der dieses funktionierende Hygienemanagement mit sich
+bringt, führt bei einer dadurch erreichten niedrigen MRSA Inzidenz trotzdem zu einer
+Kostenersparnis.
+
+Abschließend sei ein Zitat von Appleyard aus der Titel-Story des Sunday Times Magazine
+vom Februar 2000 angeführt, das die Multiresistenz-Problematik folgendermaßen
+charakterisiert:
+„We thought we had won the war against deadly bacteria. But germs have devised ingenious
+ways of fighting back. Some experts say that if we don’t find new antibiotics soon, an
+ordinary cut in the finger will be fatal... ...we have no choice but to continue the bacterial and
+viral arms race. But this time round we must remember: there are no miracle drugs and there
+are no victories, only temporary respites. For the bugs will always be out there, chanting there
+monotonous mantra – survive, survive, survive. And they will.”
+
+41
+
+Literaturverzeichnis
+Alarcon T, Sanz JC, Blanco F, Domingo D. High-level mupirocin resistance among Spanish
+methicillin-resistant Staphylococcus aureus. Eur J Clin Microbiol Infect Dis. 1998; 12: 877879
+Albers S, Wichelhaus TA. Significance of methicillin resistant S. aureus (MRSA) in
+geriatrics--epidemiology, therapy and management. Z Gerontol Geriatr. 2000; 33: 367-373
+Andrew Shorr, Ying Tabak. Morbidity and cost burden of methicillin-resistant
+Staphylococcus aureus in early onset ventilator-associated pneumonia. Crit Care. 2006; 10:
+97
+Ayliffe GA. Barber M. Inactivation of benzylpenicillin and methicillin by hospital
+staphylococci. Br Med J. 1998; 5351: 202-205
+Ayliffe GA. The progressive intercontinental spread of methicillin-resistant Staphylococcus
+aureus. Clin Infect Dis. 1997; 1: 74-79
+Ayliffe GA, Buckles A, Casewell MW, Cookson BD, Cox RA. Revised guidelines for control
+of MRSA applying appropriately-based recommendations. J Hosp Infect. 1999; 43: 315-316
+Barber M, Rozwadowska-Dowzenko M. Penicillin-resistant staphylococcal infection in a
+maternity hospital.Lancet. 1949; 2: 1120-1125
+Barrett FF, McGhee RF, Finland M. Methicillin-resistant Staphylococcus aureus at
+Boston City Hospital. Bacteriologic and epidemiologic observations. N Engl J Med 1968;
+279: 418
+Brundtland GH. Public health challenges in a globalizing world. Eur J Public Health. 2005;
+15: 3-5
+
+42
+
+Byrne S, Tenover FC, Arbeit R, Archer G, Biddle J, Goering R. Comparison of traditional
+and molecular methods of typing isolates of Staphylococcus aureus. J Clin Microbiol. 1994;
+32: 407-415
+Centers for Disease Control, Staphylococcus aureus with reduced susceptibility to
+Control of methicillin-resistant S. aureus by active surveillance : Results of a workshop held
+by the Deutsche Gesellschaft für Hygiene und Mikrobiologie. Anaesthesist. 2006; 55: 778783
+Daschner F, Schumpelick V. MRSA as a challenge to clinical organization Chirurg. 2002; 73:
+924-929
+Daschner FD. Diversity of Staphylococcus aureus strains isolated from two European regions
+with different prevalences of methicillin resistance. Eur J Clin Microbiol Infect Dis. 2002; 21:
+880-883
+Diaz Molina C. Influence of nosocomial infection on mortality in an intensive care unit. Gac
+Sanit. 1998; 12: 23-28
+Dziekan G, Daschner FD: What is certain in the topical eradication of MRSA from carriers?
+Dtsch Med Wochenschr. 2001; 126: 761-763
+Fernandez Crehuet. Nosocomial infection in an intensive-care unit: identification of risk
+factors. Infect Control Hosp Epidemiol. 1997; 18: 825-830
+Garner JS. CDC definitions for nosocomial infections, 1988. Am J Infect Control. 1988; 16:
+128-40. Erratum in: Am J Infect Control 1988; 16: 177
+Gastmeier P, Zuschneid J, Sohr D, Ruden H, GeffersC. Microbiological isolates associated
+with nosocomial infections in intensive care units: data of 274 intensive care units
+participating in the German Nosocomial Infections Surveillance System (KISS) Anasthesiol
+Intensivmed Notfallmed Schmerzther. 2004; 39: 15-19
+
+43
+
+Gastmeier P. Occurrence of methicillin-resistant Staphylococcus aureus infections in German
+intensive care units. Infection. 2002; 30: 198-202
+Gastmeier P, Geffers C, Sohr D, Dettenkofer M, Daschner F, Rüden H. Five years working
+with the German nosocomial infection surveillance system (Krankenhaus Infektions
+Surveillance System) Am J Infect Control. 2003; 31: 316-321
+Gastmeier P, Sohr D, Geffers C. Five years working with the German nosocomial infection
+surveillance system (Krankenhaus Infektions Surveillance System). Am J Infect Control.
+2003; 31: 316-321
+Geldner G, Ruoff M, Hoffmann HJ. Cost analysis concerning MRSA-infection in ICU
+Anasthesiol Intensivmed Notfallmed Schmerzther. 1999; 34: 409-413
+Gnanalingham KK, Elsaghier A, Kibbler C, Shief C. The impact of methicillin-resistant
+Staphylococcus aureus in a neurosurgical unit: a growing problem. J Neurosurg. 2003; 98: 813
+Gnanalingham KK, Elsaghier A, Kibbler C, Shieff C. The impact of methicillin-resistant
+Staphylococcus aureus in a neurosurgical unit: a growing problem. J Neurosurg. 2003; 98: 813
+Graffunder EM, Venezia RA. Risk factors associated with nosocomial methicillin-resistant
+Staphylococcus aureus (MRSA) infection including previous use of antimicrobials. J
+Antimicrob Chemother. 2002; 49: 999-1005
+Hiramatsu K. Vancomycin resistance in staphylococci. Drug Resist Updat. 1998; 1: 135-150
+Hiramatsu K, Hanaki H, Ino T, Yabuta K. Methicillin-resistant Staphylococcus aureus
+clinical strain with reduced vancomycin susceptibility. J Antimicrob. Chemother . 1997; 40:
+135-136
+Hoeprich PD. Gentamicin versus staphylococcus aureus.J Infect Dis. 1969; 119: 391-392
+
+44
+
+Hornberg C. Methicillin-resistant Staphylococcus aureus (MRSA). Current status and
+significance of preventing infection in technical orthopedics. Orthopade. 2001; 30: 231-235
+Ibelings MM, Bruining HA. Methicillin-resistant Staphylococcus aureus: acquisition and risk
+of death in patients in the intensive care unit. Eur J Surg. 1998; 164: 411-418
+Irish FA, Layton ME. Failure to control an outbreak of multidrug-resistant Streptococcus
+pneumoniae in a long-term-care facility: emergence and ongoing transmission of a
+fluoroquinolone-resistant strain. Infect Control Hosp Epidemiol. 2005; 26: 248-255
+Jernigan JA, Clemence MA, Stott GA, Titus MG. Control of methicillin-resistant
+Staphylococcus aureus at a university hospital: one decade later. Infect Control Hosp
+Epidemiol. 1995; 16: 686-696
+Jerningan JA, Pullen AL, Flowers L. Prevalence of and risk factors for colonization with
+methicillin-resistant Staphylococcus aureus at the time of hospital admission. Infect Control
+Hosp Epidemiol. 2003; 24: 409-414
+Jevons MP. "Celebin"-resistant staphylococci. Brit Med J. 2006; 1: 124-125
+Kipp F, Becker K, Peters G, v. Eiff C. Evaluation of different methods to detect methicillin
+resistance in small-colony variants of Staphylococcus aureus. J Clin Microbiol. 2004; 42:
+1277-1279
+Kluytmans JA, van Keulen PA, Verbrug HA. Low prevalence of methicillin-resistant
+Staphylococcus aureus (MRSA) at hospital admission in the Netherlands: the value of search
+and destroy and restrictive antibiotic use. J Hosp Infect. 2004; 56: 321-325
+Kluytmans J., van Belkum A. Nasal carriage of Staphylococcus aureus: epidemiology,
+underlying mechanisms, and associated risks.Clin Microbiol Rev. 1997; 10: 505-520
+Lenz W. Phenotypical and genotypical characterization of epidemic clumping factornegative, oxacillin-resistant Staphylococcus aureus. J Clin Microbiol. 1993; 31: 2281-2285
+
+45
+
+Locksley RM, Cohen ML, Quinn TC, Tompkins LS, Coyle MB, Kirihara JM. Multiply
+antibiotic-resistant Staphylococcus aureus: introduction, transmission, and evolution of
+nosocomial infection. Ann Intern Med. 1982; 97: 317-324
+Marshall SA, Wilke WW, Pfaller MA, Jones RN. Staphylococcus aureus and coagulasenegative staphylococci from blood stream infections: frequency of occurrence, antimicrobial
+susceptibility, and molecular (mecA) characterization of oxacillin resistance in the SCOPE
+program. Diagn Microbiol Infect Dis. 1998; 30: 205-214
+Martin MA. Methicillin-resistant Staphylococcus aureus: the persistent resistant nosocomial
+pathogen. Curr Clin Top Infect Dis. 1994; 14: 170-191
+Martone WJ. Methicillin-resistant Staphylococcus aureus in U.S. hospitals, 1975-1991 Infect
+Control Hosp Epidemiol. 1992; 13: 582-586
+Mest DR, Wong DH, Shimoda KJ, Mulligan ME, Wilson ME. Nasal colonization with
+methicillin-resistant Staphylococcus aureus on admission to the surgical intensive care unit
+increases the risk of infection. Anesth Analg. 1994; 78: 644-650
+Mueckley T, Diefenbeck M. Prophylaxis and treatment of implant-related infections by local
+application of antibiotics. Injury. 2006; 2: 95-104
+Mueckley TH, Diefenbeck M, Treatment of MRSA infection in orthopedic surgery Chirurg.
+2004; 75: 269-275
+Muder RR. Methicillin-resistant Staphylococcus aureus in the community: a hospital-based
+study. Infect Control Hosp Epidemiol. 1999; 20: 689-691
+Mulligan ME, Walsh TJ, Standiford HC, Reboli AC, John JF, Ribner BS. Randomized
+double-blinded trial of rifampin with either novobiocin or trimethoprim-sulfamethoxazole
+against methicillin-resistant Staphylococcus aureus colonization: prevention of antimicrobial
+
+46
+
+resistance and effect of host factors on outcome. Antimicrob Agents Chemother. 1993; 37:
+1334-1342
+Pankin H, Geldner G. Cost analysis concerning MRSA-infection in ICU. Anasthesiol
+Intensivmed Notfallmed Schmerzther. 1999; 34: 409-413
+Parker MT, Hewitt JH, Methicillin-resistance in Staphylococcus aureus. Lancet. 1996; 800804
+Peltroche Llacsahuanga H. Methicillin-resistant Staphylococcus aureus (MRSA)-clinical
+implications Chirurg. 1998; 69: 801-805
+Pittet D. Hand hygiene-beliefs or science? Clin Microbiol Infect. 2000; 6: 350-356
+Pujol M, Pena C, Pallares R, Ariza J, Ayats J, Dominguez MA, Gudiol F. Nosocomial
+Staphylococcus aureus bacteremia among nasal carriers of methicillin-resistant and
+methicillin-susceptible strains. Am J Med. 1996; 100: 509-516
+Pulverer G. Carriers of staphylococci causing nosocomial infections Zentralbl Hyg
+Umweltmed. 1993; 194: 144-151
+Rahmann MR, Vasquez JE, Walker ES, Franzus BW, Overbay BK, Reagen DR, Sarubbi FA.
+The epidemiology of mupirocin resistance among methicillin-resistant Staphylococcus aureus
+at a Veterans' Affairs hospital. Infect Control Hosp Epidemiol. 2000; 21: 459-464
+Rao KH. Vancomycin resistance in staphylococci. Drug Resist Updat. 1998; 1: 135-150
+Roghman MC, Fink JC, Polish L, Maker T, Brewrink J. Colonization with vancomycinresistant enterococci in chronic hemodialysis patients. Am J Kidney Dis. 1998; 32: 254-257
+Rohr U, Mueller C, Wilhelm M, Muhr G, Gaterman S. Methicillin-resistant Staphylococcus
+aureus whole-body decolonization among hospitalized patients with variable site colonization
+by using mupirocin in combination with octenidine dihydrochloride. J Hosp Infect. 2003; 54:
+305-309
+
+47
+
+Rountree PM, Vickery AM. Further observations on methicilllin-resistant staphylococci. J
+Hosp Infect. 2001; 48 :98-102
+Shanson DC, Kensit JG, Duke R. Outbreak of hospital infection with a strain of
+Staphylococcus aureus resistant to gentamicin and methicillin.Lancet. 1976; 18: 1347-1348
+Smith IM; Vickers AB. Natural history of 338 treated and untreated patients with
+staphylococcal septicaemia (1936-1955).Lancet. 1960; 18: 1318-1322
+Stanford MD, Widmer AF, Bale MJ. Efficient detection and long-term persistence of the
+carriage of methicillin-resistant Staphylococcus aureus. Clin Infect Dis. 1994; 19: 1123-1128
+Theaker C, Ormond-Walshe S, Asadian B, Soni N. MRSA in the critically ill. J Hosp Infect.
+2001; 48: 98-102
+Thompson RA, Boyce JM, White RL, Spruil EY. Impact of methicillin-resistant
+Staphylococcus aureus on the incidence of nosocomial staphylococcal infections. J Infect Dis.
+1983; 148: 763
+v. Belkum A. International spread of major clones of methicillin resistant Staphylococcus
+aureus: nosocomial endemicity of multi locus sequence type 239 in Saudi Arabia and
+Romania. Infect Genet Evol. 2005; 5: 335-339
+v. Belkum A. 40 years of methicillin resistant Staphylococcus aureus. BMJ. 2001; 22: 644645
+Vandenbroucke-Grauls. Low prevalence of methicillin-resistant Staphylococcus aureus
+(MRSA) at hospital admission in the Netherlands: the value of search and destroy and
+restrictive antibiotic use. J Hosp Infect. 2004; 56: 321-325
+Vincent JL, Bihari DJ, Suter PM. The prevalence of nosocomial infection in intensive care
+units in Europe. Results of the European Prevalence of Infection in Intensive Care (EPIC)
+Study. EPIC International Advisory Committee. JAMA. 1995; 274: 639-644
+
+48
+
+Wendt C, Krause C, Xander LU, Löffler D, Floss H. Prevalence of colonization with
+vancomycin-resistant enterococci in various population groups in Berlin, Germany. J Hosp
+Infect. 1999; 42: 193-200
+Witte W, Jarvis WR. Are there regional variations in the diagnosis, surveillance, and control
+of methicillin-resistant Staphylococcus aureus? Infect Control Hosp Epidemiol. 2003; 24:
+334-341
+Ziegler R, Geis A. Molecular identification and differentiation of Staphylococcus species and
+strains of cheese origin. Syst Appl Microbiol. 2004; 27: 211-218
+Zinn CH, Tabori E. An international multicenter study of antimicrobial consumption and
+resistance in Staphylococcus aureus isolates from 15 hospitals in 14 countries. Microb Drug
+Resist. 2004; 10: 169-176
+
+49
+
+Danksagung:
+
+Herrn Prof. J. Schramm danke ich für die Überlassung des Themas.
+Herrn Priv. Doz. Thomas Kral möchte ich für seine weit über das normale Maß
+hinausgehende Hilfe danken. Er stand mir immer mit Rat und Tat beiseite und bewies dabei
+viel Geduld und Verständnis.
+
+

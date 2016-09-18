@@ -1,0 +1,3158 @@
+Aus der Abteilung für Experimentelle Chirurgie/Molekularbiologie
+der Klinik für Allgemein-, Visceral-, Gefäß- und Thoraxchirurgie
+Campus Charité Mitte
+der Medizinischen Fakultät Charité – Universitätsmedizin Berlin
+
+Dissertation
+
+Der Einfluss von HIV-1-Tat Peptiden auf die Angioneogenese und
+ihre mögliche Anwendung in der Therapie
+Zur Erlangung des akademischen Grades
+Doctor medicinae (Dr. med.)
+
+vorgelegt der Medizinischen Fakultät
+Charité – Universitätsmedizin Berlin
+
+von
+Mahmoud Ismail
+aus Ghazieh-Libanon
+
+Gutachter/in:
+
+1. Priv.-Doz. Dr. med. R.I. Rückert
+2. Prof. Dr. W. Dubiel
+3. Prof. Dr. med. H. Bektas
+
+Datum der Promotion: 03.06.2012
+
+Inhaltsverzeichnis
+
+Inhaltsverzeichnis
+Inhaltsverzeichnis............................................................................... 3
+2 Abkürzungsverzeichnis................................................................... 6
+3 Einleitung ......................................................................................... 9
+3.1 Angiogenese ................................................................................................9
+3.2 Periphere arterielle Verschlusskrankheit ...................................................10
+3.3 Angioneogenese und Therapie von vaskulären Erkrankungen .................12
+3.4 Gefäßwachstum .........................................................................................12
+3.5 Das Tat-Protein..........................................................................................13
+3.6 Das Ubiquitin-Proteasom-System .............................................................15
+3.7 c-Jun und Angiogenese..............................................................................16
+3.8 Specificity protein 1 (SP1) und Angiognenese..........................................16
+3.9 Basic Fibroblast Growth Factor (bFGF) und Angiogenese.......................17
+3.10 Der angiogene Wachstumsfaktor Vascular Endothelial Growth Factor
+(VEGF) ............................................................................................................18
+3.11 Rolle von Plasminogen-Activator-Inhibitor-1 (PAI-1) in der
+Angiogenese ....................................................................................................19
+3.12 Fragestellung und Ziele ...........................................................................19
+
+4 Material und Methodik................................................................. 21
+4.1 Material......................................................................................................21
+4.1.1 Kits .......................................................................................................................... 21
+4.1.2 Zellen ...................................................................................................................... 21
+4.1.3 Enzyme.................................................................................................................... 21
+4.1.4 Geräte ...................................................................................................................... 21
+4.1.5 Sonstiges ................................................................................................................. 23
+
+4.2 Methoden ...................................................................................................24
+4.2.1 Synthese von Tat-Protein und Tat-Peptiden ........................................................... 24
+4.2.2 Durchführung von Proteaseassays mit fluorogenen Substraten, kinetische
+Untersuchungen mit dem 20S Proteasom ........................................................................ 25
+3
+
+Inhaltsverzeichnis
+4.2.3 Zellen und Zellkulturen........................................................................................... 27
+4.2.4 Einfrieren und Auftauen von Zellen ....................................................................... 28
+4.2.5 Inkubation der Tat-Peptide und des Tat-Proteins mit HUVEC .............................. 28
+4.2.6 Lyse der Zellen........................................................................................................ 29
+4.2.7 Nicht-denaturierende Gelelektrophorese ................................................................ 30
+4.2.8 Dichtegradientenzentrifugation............................................................................... 30
+4.2.9 SDS-PAGE Gelelektrophorese ............................................................................... 30
+4.2.10 Western Blot ......................................................................................................... 30
+4.2.11 Immunpräzipitation (IP)........................................................................................ 31
+4.2.12 Bestimmung der Proteinkonzentration.................................................................. 31
+4.2.13 bFGF-ELISA-Assay.............................................................................................. 32
+4.2.14 VEGF-ELISA-Assay ............................................................................................ 32
+4.2.15 PAI-1-ELISA-Assay ............................................................................................. 32
+4.2.16 MTT-Zellwachstumsassay .................................................................................... 33
+4.2.17 Matrigel Invasion Assay ....................................................................................... 33
+4.2.18 Matrigel Assay für Tubulogenese ......................................................................... 35
+4.2.19 Statistik.................................................................................................................. 36
+
+5 Ergebnisse ...................................................................................... 37
+5.1 Die basische Domäne des Tat-Proteins .....................................................37
+5.2 Synthetisierte Tat-Peptide mit Mutationen in der basischen Domäne.......39
+5.3 Einfluss der Tat-Peptide auf die Aktivität des 20S Proteasoms ................40
+5.4 Einfluss der Tat-Peptide auf die Expression von c-Jun und SP1 im
+Western-Blot....................................................................................................42
+5.5 Einfluss der Tat-Peptide auf das Zellwachstum der HUVEC (MTTZellwachstumsassay) .......................................................................................43
+5.6 Stimulierung der Produktion von bFGF durch HUVEC ...........................44
+5.7 Nachweis der VEGF-Produktion mittels ELISA.......................................46
+5.8 Stimulierung der PAI-1 Produktion/Sekretion durch HUVEC .................47
+5.9 Tatpep5 und Tatpep15 stimulieren die Migration und Invasion im
+Matrigel-Invasionsassay ..................................................................................48
+5.10 Gefäßneubildung (Tubulogenese): qualitativer Assay ............................49
+5.11 Gefäßneubildung (Tubulogenese): quantitativer Assay ..........................50
+4
+
+Inhaltsverzeichnis
+
+6 Diskussion ...................................................................................... 52
+6.1 Ischämische Gefäßerkrankungen...............................................................52
+6.2 Therapeutische Angioneogenese ...............................................................52
+6.3 Das HIV-1 Tat-Protein und Angiogenese..................................................54
+6.4 Mechanismus der Angiogenese und Arteriogenese...................................55
+6.5 Testung der Effekte von Tat-Protein und von Tat-Peptiden auf das
+Proteasomsystem .............................................................................................56
+6.6 Einfluss der Tat-Peptide auf die Transkriptionsfaktoren c-Jun und SP1...57
+6.7 Einfluss der Tat-Peptide auf die Produktion von bFGF und VEGF..........58
+6.8 Tatpep5, Tatpep15 und Tatpep16 stimulieren die Produktion von PAI-1 in
+HUVEC ...........................................................................................................59
+6.9 Tatpep5, Tatpep15 und Tatpep16 unterstützen die Invasion/Migration
+sowie die Gefäßneubildung in HUVEC ..........................................................59
+
+7 Zusammenfassung ......................................................................... 61
+8 Summary ........................................................................................ 62
+9 Literaturverzeichnis...................................................................... 63
+Anhang .............................................................................................. 75
+Danksagung .....................................................................................................75
+Lebenslauf........................................................................................................76
+Publikationen ...................................................................................................79
+Eidesstattliche Erklärung .................................................................................82
+
+5
+
+Abkürzungsverzeichnis
+
+2 Abkürzungsverzeichnis
+A
+
+Alanin (Ala)
+
+Å
+
+Angström
+
+AA
+
+Aminosäure (amino acid)
+
+Abb.
+
+Abbildung
+
+AIDS
+
+Acquired Immune Deficiency Syndrome
+
+AMC
+
+7-Amido-Methylcumarin
+
+AP-1
+
+Activating Protein 1
+
+bFGF
+
+basic fibroblast growth factor
+
+C
+
+Cystein
+
+CSN
+
+COP9 Signalosom
+
+DMEM
+
+Dulbecco's Modified Eagle Medium
+
+DMSO
+
+Dimethylsulfoxid
+
+DNA
+
+Desoxyribonukleinsäue (deoxyribonucleic acid)
+
+DTT
+
+Dithiothreitol
+
+ECM
+
+extrazellulären Matrix
+
+ELISA
+
+Enzyme linked immunosorbent assay
+
+ECL
+
+enhanced chemiluminescence
+
+E. coli
+
+Escherichia coli
+
+EDTA
+
+Ethylendiamintetraacetat
+
+EGF
+
+epidermal growth factor
+
+EGFR
+
+EGF receptor
+
+ELISA
+
+Enzyme Linked Immunosorbent Assay
+
+ER
+
+Endoplasmatisches Retikulum
+
+et al.
+
+et alii (und andere)
+
+FCS
+
+fötales Kälberserum (fetal calf serum)
+
+FMOC
+
+9H-(f)luoren-9-yl(m)eth(o)xy(c)arbonyl
+
+GST
+
+Glutathionyl-S-Transferase
+
+h
+
+Stunde (n)
+
+HB-EGF
+
+heparin-binding epidermal growth factor
+
+HIV-1
+
+Humanes Immundefizienzvirus-1
+
+HUVEC
+
+Human umbilical vein endothelial cells
+6
+
+Abkürzungsverzeichnis
+I
+
+Isoleucin
+
+K
+
+Lysin
+
+LTR
+
+Long Terminal Sequence Repeat
+
+L
+
+Leucin
+
+M
+
+Methionin (Met)
+
+MAP
+
+Mitogen-activated protein
+
+min
+
+Minute (n)
+
+mM
+
+millimolar
+
+MHC Klasse I
+
+Major Histocompatibility Complex
+
+MMP1
+
+matrix metalloproteinase 1
+
+mRNA
+
+messenger RNA
+
+MTT
+
+3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide
+
+N
+
+Asparagin
+
+NLS
+
+nuclear localization signal
+
+pAVK
+
+periphere arterielle Verschlusskrankheit
+
+PAGE
+
+Polyacrylamid-Gelelektrophorese
+
+PAI-1
+
+plasminogen-activator-inhibitor-1
+
+PBS
+
+Phosphate buffered saline
+
+PCR
+
+Polymerase-Kettenreaktion (polymerase chain reaction)
+
+PMSF
+
+Phenylmethylsulfonylfluorid
+
+p53
+
+Protein 53 kDa
+
+Ras
+
+(rat sarcoma) Protoonkogen
+
+Raf
+
+Protoonkogen
+
+rpm
+
+revolutions per minute, „Umdrehungen pro Minute“
+
+RNA
+
+Ribonukleinsäure (ribonucleic acid)
+
+RT
+
+Raumtemperatur
+
+SDS
+
+Natriumlaurylsulfat (sodium dodecyl sulphate)
+
+SP1
+
+Specificity protein 1
+
+TAR-Element
+
+Transacting Responsive Element
+
+Tat
+
+trans-acting transcriptional activator
+
+TCE
+
+Trichloressigsäure
+
+TEMED
+
+N,N,N′,N′-Tetramethyl-p-phenylendiamin
+
+t-PA
+
+tissue-plasminogen activator
+
+uPA
+
+urokinase plasminogen activator
+7
+
+Abkürzungsverzeichnis
+uPAR
+
+uPA receptor
+
+VEGF
+
+vascular endothelial growth factor
+
+Y
+
+Tyrosin
+
+8
+
+Einleitung
+
+3 Einleitung
+
+3.1 Angiogenese
+Die Angiogenese wurde 1935 von Hertig als ein Prozess der Bildung von neuen Blutgefäßen
+in der Plazenta beschrieben (Hertig et al., 1935; Risau et al., 1997). Später, 1971, verwendete
+Folkman den Begriff auch für das Gefäßwachstum in soliden Tumoren (Folkman et al.,
+1971). Prinzipiell steht die Angiogenese für das Wachstum von Kapillaren aus einem bereits
+vorgebildeten Kapillarsystem (Risau et al., 1997). Eine komplexe Wechselwirkung zwischen
+Zellen, löslichen Faktoren und der extrazellulären Matrix bildet die Voraussetzung für den
+koordinierten Ablauf einer solchen Gefäßneubildung (Zhang et al., 2004). Hierbei
+unterscheidet man zwischen einer sprossenden und einer nicht sprossenden Form (Risau et.
+al., 1997): Die sprossende Angiogenese beginnt mit der Proliferation von Endothelzellen aus
+präexistierenden Kapillaren. Nach proteolytischer Degradation der Extrazellulärmatrix kommt
+es infolge chemotaktischer Endothelzellmigration zur Bildung kapillärer Sprossen ins
+umliegende Gewebe (Folkman et al., 1995). Bei der nicht-sprossenden Angiogenese dagegen
+zerteilen transkapilläre Matrixstege präexistierende Gefäße, was zuerst für die embryonale
+Lunge beschrieben wurde (Folkman et al., 1971; Patan et al., 1996). Welche der beiden
+synchron stattfindenden Angiogeneseformen während der Entwicklung von Organen
+vorzufinden ist, hängt wahrscheinlich von der Anzahl bereits vorhandener Gefäße bei
+Organwachstumsbeginn ab (Risau et Al., 1997). Es entstehen jeweils kapilläre Netzwerke zur
+lebensnotwendigen Nähr- und Sauerstoffversorgung von Geweben (Hertig et al., 1935).
+Die Angiogenese spielt eine wichtige Rolle in der Entwicklung und Aufrechterhaltung der
+Homöostase, z. B. bei der Menstruation und der Wundheilung, und bei verschiedenen
+pathologischen Zuständen wie der diabetischen Retinopathie und dem Wachstum von soliden
+Tumoren (Hanahan et al., 1996; Torry et al., 1997; Smith et al., 1998; Gargett et al., 1999).
+Der Prozess der Angiogenese verläuft in vier unterscheidbaren Phasen: 1. Abbau der
+extrazellulären Matrix (ECM), 2. Zell-Migration, 3. Zell-Proliferation und 4. Strukturelle
+Reorganisation (Kumar et al., 1998). In den letzten Jahren hat die Angiogenese-Forschung
+exponentiell zugenommen, und es wurden einige Faktoren identifiziert, welche die
+Angiogenese stimulieren. Dazu gehören der basic fibroblast growth factor (bFGF), welcher
+die Proliferation einer Reihe von Zellen induziert und die Migration von Endothelzellen
+stimuliert (Folkman et al., 1987; Yang et al., 1996) oder der vascular endothelial growth
+9
+
+Einleitung
+factor (VEGF), der das Wachstum und die Vermehrung von Endothelzellen induziert (Leung
+et al., 1989). Das Wachstum und die Metastasierung von soliden Tumoren sind von der
+Neovaskularisierung abhängig. Ohne Angiogenese kann ein solider Tumor nur bis zu einem
+Durchmesser von 1-2 mm wachsen. Daher bekam die Erforschung der Tumorangiogenese
+einen hohen Stellenwert bei der Suche nach neuen Tumortherapieformen. Es konnte gezeigt
+werden, dass Tumorzellen große Mengen von VEGF produzieren können und damit die
+Angiogenese von Endothelzellen anregen. Die erhöhte VEGF-Produktion in Tumorzellen
+wird durch den COP9 Signalosom (CSN)-abhängigen c-Jun-Signalweg gesteuert, welcher
+vollständig durch Curcumin hemmbar ist (Pollmann et al., 2001).
+Die therapeutische Angiogenese bezeichnet die Induktion der Gefäßneubildung und
+verbesserte
+
+Kollateralgefäßbildung
+
+durch
+
+das
+
+lokale
+
+Einbringen
+
+angiogenetischer
+
+Wachstumsfaktoren und Zytokine (Rissanen et al., 2001) bzw. durch die Transplantation
+(Kalka et al., 2000) oder Mobilisation (Takahashi et al., 1999) autologer endothelialer
+Progenitorzellen (Asahara et al., 1997; Sprengers et al., 2008). Die klinische Voraussetzung
+für diese bislang experimentelle Form der Revaskularisationstherapie ist die peripherarterielle Verschlußkrankheit im klinischen Stadium III und IV nach Fontaine ohne weitere
+chirurgische oder interventionelle Option (Sprengers et al., 2010). Davon betroffen sind in
+erster Linie Patienten mit fortgeschrittener Makro- und Mikroangiopathie.
+
+3.2 Periphere arterielle Verschlusskrankheit
+Unter der peripheren arteriellen Verschlusskrankheit (pAVK) versteht man eine
+Durchblutungsstörung der Beine oder der Arme. Diese wird durch Verengungen oder
+Verschlüsse von Arterien verursacht. In 95% der Fälle ist die pAVK auf eine Arteriosklerose
+zurückzuführen. Die Erkrankung entwickelt sich meist langsam, teilweise über mehrere Jahre
+hinweg. Entdeckt wird sie häufig erst, wenn Beschwerden erscheinen. Oft wird die Krankheit
+durch ungesunde Lebensgewohnheiten in ihrem Verlauf beschleunigt. Fünf bis zehn Prozent
+der Erwachsenen in Deutschland leiden an peripheren arteriellen Durchblutungsstörungen der
+unteren Gliedmaßen. Die Erkrankungshäufigkeit nimmt mit dem Alter zu. Bei den über 65Jährigen sind es bereits zirka 20 Prozent der Bevölkerung, die arterielle Gefäßengpässe
+aufweisen. Die pAVK ist demnach sehr häufig und weit verbreitet. Männer sind häufiger
+betroffen als Frauen (Diehm et al., 2011).
+Periphere arterielle Durchblutungsstörungen lassen sich, je nach Ausmaß der durch sie
+verursachten Beschwerden in den Beinen, in vier Stadien einteilen (Fontaine et al., 1954).
+10
+
+Einleitung
+Zentrales Ziel in der Therapie der pAVK ist in allen vier Stadien die konsequente Behandlung
+der Risikofaktoren. Darüber hinaus unterscheiden sich die jeweiligen Behandlungsziele für
+die einzelnen Stadien der pAVK (Abb. 1).
+Im Stadium I der Erkrankung ist der Patient noch beschwerdefrei. Hier gilt es, ein
+Fortschreiten der Krankheit durch die Behandlung der Risikofaktoren zu verhindern.
+Patienten im Stadium II der Krankheit leiden unter belastungsabhängigen Schmerzen in den
+Beinen. Das Ziel der Behandlung ist es, die schmerzfreie Gehstrecke sowie die
+Gesamtgehstrecke des Patienten zu verlängern. Im Stadium III und IV kommt es zu
+Schmerzen in Ruhe sowie zusätzlichen Geschwüren und absterbendem Gewebe (Ouriel et al.,
+2001). Behandlungsziele sind die Erleichterung der Schmerzen, die Abheilung von
+Geschwüren und die Vermeidung von Amputationen (Luther et al., 1996).
+
+pAVK-Stadium
+
+Beschwerden
+
+Therapiemöglichkeiten
+
+I
+
+Keine, pAVK nur apparativ nachweisbar
+
+Beeinflussung der Risikofaktoren
+
+IIa
+
+Belastungsabhängige Muskelschmerzen,
+
+Gehtraining, Medikamente,
+
+schmerzfreie Gehstrecke > 200m
+
+Endovaskuläre Therapie
+
+Schmerzfreie Gehstrecke < 200m
+
+Gehtraining, Medikamente,
+
+IIb
+
+Endovaskuläre Therapie, Gefäßchirurgie
+III
+
+Ruheschmerzen
+
+Medikamente, Endovaskuläre Therapie
+Gefäßchirurgie
+
+IV
+
+Gangrän, Nekrose
+
+Lokale Maßnahmen, Medikamente,
+Endovaskuläre Therapie, Gefäßchirurgie,
+Amputation
+
+Abb. 1: Stadieneinteilung nach Fontaine (Fontaine et al., 1954) und Therapiemöglichkeiten
+der pAVK.
+
+11
+
+Einleitung
+
+3.3 Angioneogenese und Therapie von vaskulären Erkrankungen
+In jüngster Zeit rückt die Angiogenese-Forschung in den Mittelpunkt des Interesses bei der
+Suche nach neuen Therapieformen der pAVK. Das Ziel der klinischen Forschung besteht in
+der Identifizierung von geeigneten Stimulatoren der Angiogenese. Die Induktion der
+Angiogenese durch VEGF165 konnte experimentell und klinisch gezeigt werden (Baumgartner
+et al., 2001; Baumgartner et al., 1998; Folkman et al., 1998; Isner et al., 1998; Isner et al.,
+1996; Takeshita et al., 1994; Vale et al., 2001). VEGF gehört zu den potentesten Stimulatoren
+der Angiogenese. Die klinische Applikation ist allerdings nicht unbedenklich, da eine
+Wachstumsstimulation sowohl physiologischer als auch maligner Gewebe erfolgen kann. Die
+positiven Effekte einer Vaskularisierung bei Gefäßerkrankungen konnten tierexperimentell
+nachgewiesen werden (Baumgartner et al., 1998). Daneben wurde jedoch auch die
+Aktivierung atherosklerotischer Plaques beobachtet (Celletti et al., 2001). Die Suche nach
+weiteren pro-angiogenen Substanzen hat für die klinische Anwendung bei peripheren
+arteriellen Gefäßerkrankungen, insbesondere der pAVK, eine hohe Priorität. Bei nicht mehr
+gegebener
+
+Revaskularisationsmöglichkeit
+
+durch
+
+endovaskuläre
+
+oder
+
+konventionell
+
+gefäßchirurgische Therapieformen stellt die Angiogenese eine verbleibende Option zur
+Behandlung der chronischen kritischen Ischämie in den Stadien III und IV der pAVK nach
+Fontaine dar.
+
+3.4 Gefäßwachstum
+Das Wachstum von Gefäßen wird in Vaskulogenese, Angiogenese und Arteriogenese
+unterteilt (Risau et al., 1997). Vaskulogenese beschreibt die Neuentstehung von
+Gefäßstrukturen aus einzelnen Zellen (Luttun et al., 2003). Diese Form des Gefäßwachstums
+ist der Hauptmechanismus während der embryonalen Entwicklung sowohl von Arterien,
+Arteriolen und Kapillaren, als auch von Venolen und Venen (Demir et al., 2010). Weitere
+Formen des Gefäßwachstums beziehen sich auf die postnatale Gefäßentwicklung. Postnatal
+unterscheidet man die Angiogenese von der Arteriogenese. Die Angiogenese betrifft die
+Neubildung von Gefäßkanälen, typischerweise Kapillaren, durch Aussprossung sich neu
+bildender Endothelzellen aus bestehenden funktionsfähigen Gefäßen (Folkman et al., 1995).
+Diese präexistenten Gefäße sind in der Lage, zu proliferieren. Dabei entstehen funktionell
+wichtige Kollateralkreisläufe zur Gewebeversorgung. Es gibt zwei unterschiedliche Formen
+der Angiogenese. Die Zellen der präexistenten Gefäße können sich teilen und damit
+verdoppeln, oder durch Aussprossung eine Tochterkapillare bilden. Der entscheidende
+12
+
+Einleitung
+Vorgang der Angiogenese ist die Endothelzellproliferation und -migration. Dabei sind viele
+Faktoren, wie z.B. VEGF, plasminogen-activator-inhibitor-1 (PAI-1) und bFGF, am Ablauf
+dieses komplexen Prozesses beteiligt (Heil et al., 2006).
+
+Die Angiogenese stellt einen
+
+wichtigen Bestandteil sowohl physiologischer als auch pathologischer Vorgänge dar. Die
+Angiogenese spielt eine sehr wichtige positive Rolle bei der Wundheilung. Zugleich wurde
+erkannt, dass der Vorgang der Angiogenese unerwünschterweise auch das Tumorwachstum
+fördert, indem sich der Tumor die Blutversorgung der Zellen des ihn umgebenden gesunden
+Gewebes durch Neubildung von Gefäßkapillaren zu Nutze macht. Ein wesentlicher Trigger
+für die Angiogenese ist eine Verminderung des Sauerstoffgehalts des Gewebes, entweder
+durch einen vermehrten Sauerstoffverbrauch oder durch ein vermindertes Angebot im Sinne
+einer Minderdurchblutung des Gewebes. Beim Vorgang der Arteriogenese steht, im
+Gegensatz zur Angiogenese, nicht die Gefäßneubildung im Vordergrund. Das Substrat der
+Arteriogenese sind bereits vorbestehende Arteriolen (Schaper et al., 2003; Arras et al.,
+1998). Diese zeichnen sich dadurch aus, dass sie neben Endothelzellen bereits glatte
+Muskelzellen in ihren Gefäßwänden enthalten. Die Arteriolen werden als präexistent
+bezeichnet, da sie bereits im Organismus angelegt, aber noch nicht voll durchblutet sind.
+Arteriogenese ist somit der Mechanismus, der verantwortlich ist für die Erweiterung und das
+Wachstum von Kollateralkreisläufen aus vorbestehenden unreifen Arteriolen zu voll
+funktionsfähigen blutführenden Kanälen.
+
+3.5 Das Tat-Protein
+Die pro-angiogene Kapazität des durch HIV-1 (Humanes Immundefizienzvirus-1)
+exprimierten multifunktionellen Proteins Tat (trans-acting transcriptional activator) ist
+bekannt (Rubartelli et al., 1998). Das Tat-Protein induziert Angiogenese (Albini et al., 1995),
+wodurch die Ausbildung des Kaposi-Sarkoms (Barillari et al., 2002) während der AIDSErkrankung (Acquired Immune Deficiency Syndrome) erklärbar ist. Das Tat-Gen entsteht
+durch das Spleißen von zwei Regionen des Virus-Genoms (Transaktivation und
+Transkription). Das Tat-Protein ist wesentlich für die virale Replikation und in allen
+Lentiviren von Primaten konserviert (Jeang et al., 1994; Gallo et al., 1999). Im HIV-1infizierten Patienten wird ein Tat-Protein gefunden, das aus 101 Aminosäuren besteht. Das
+sogenannte vollständige Tat-Protein, bestehend aus 86 Aminosäuren, wurde durch die
+Zellkultur im Labor hergestellt und existiert nicht in der Natur (Rana et al., 1999). Es wurde
+
+13
+
+Einleitung
+jedoch von vielen Forschern bestätigt, dass das 86-Aminosäuren-Tat-Protein genau wie das
+101-Aminosäuren-Tat-Protein funktioniert.
+Das 86-Aminosäuren-Tat-Protein wird von zwei Exons kodiert. Die ersten 72 Aminosäuren
+werden von dem ersten Exon kodiert, die übrigen 14 C-terminalen Aminosäuren vom zweiten
+Exon. Das Tat-Protein besteht aus 5 Domänen; einer N-terminalen, einer Cystein-reichen,
+einer Kern-, einer basischen und einer C-terminalen Region (Abb. 2). Die basische Region
+enthält die RNA-Bindungsdomäne und ein NLS (Nuclear Localization Signal). Außerdem ist
+sie zuständig für den freien Durchgang durch die zelluläre Membran. Im Gegensatz dazu
+bindet die Cystein-reiche Region unspezifisch an viele Komplexe und ist für die
+Oligomerisierung des Tat-Proteins zuständig (Rana et al., 1999).
+
+1
+
+22
+
+37
+
+MEPVDPRLEPWKHPGSQPKTACTNCYCKKCCFHCQVCFITKGL
+49
+
+58
+
+86
+
+GISYGRKKRRQRRRPSQGGQTHQDPIPKQPTSQSRGDPTGPKE
+Abb. 2: Die Sequenz und die Domänen des HIV-1 Tat-Proteins. AA 1-21: N-terminale
+Domäne; AA 22-36: Cystein-reiche Domäne; AA 37-48: Kerndomäne; AA 49-57 Basische
+Domäne; AA 58-86 C-terminale Domäne.
+Das Tat-Protein bewirkt eine Erhöhung der Ablesung des HIV-Genoms (Berkhout et al.,
+1990). Auf einer frühen Stufe wird das Tat-Protein im Zellplasma synthetisiert, geht danach in
+den Zellkern und bindet an das sogenannte TAR-Element (Transacting Responsive Element).
+Das TAR-RNA-Element befindet sich in der 5´- LTR (Long Terminal Sequence Repeat) –
+Sequenz. Die Struktur von + 19 bis + 42 in der HIV-mRNA ist Voraussetzung für die TatBindung (Jakobovits et al., 1988).
+Das Tat-Protein erhöht durch eine verstärkte Initiation und Prolongation der Transkription die
+Konzentration viraler RNAs (Frankel et al., 1992). Es stimuliert die Expression von HIVGenen um mehr als das Tausendfache. Darüber hinaus wird auch die Expression von
+Wirtszellproteinen unspezifisch erhöht (Huang et al., 1994).
+
+14
+
+Einleitung
+
+3.6 Das Ubiquitin-Proteasom-System
+Das Proteasom-System ist für die Abwehr viraler Infektionen von großer Bedeutung (Kloetzel
+et al., 2001). Der proteolytische Kern des Proteasom-Systems ist das 20S Proteasom, eine
+multikatalytische Protease, die in allen Organismen von Archaebakterien bis zu
+Mammaliazellen nachgewiesen wurde (Baumeister et al., 1998). Es ist im Zytoplasma, am
+Endoplasmatischen Retikulum (ER) und im Zellkern lokalisiert. Als zentraler Bestandteil des
+Ubiquitin-abhängigen Proteinabbauweges ist es am Abbau vieler zellulärer Proteine beteiligt
+(Rock et al., 1994). Die Substrate des Ubiquitin-Proteasom-Systems sind am meisten Proteine,
+die als Regulatoren in verschiedensten zellulären Prozessen, wie z.B. im Metabolismus, bei
+der Transkription und bei der Zellzykluskontrolle fungieren. Das Proteasom ist an der
+Generierung der Epitope beteiligt, die durch Major Histocompatibility Complex (MHC)
+Klasse I Moleküle präsentiert werden (Kloetzel et al., 2004; Momburg et al., 1998). In
+eukaryotischen Zellen besteht das 20S Proteasom aus 7 verschiedenen α- und 7 verschiedenen
+β-Untereinheiten. Der Komplex ist aus vier heptameren Ringen (α1-7, β1-7, β1-7, α1-7)
+aufgebaut. Die beiden äußeren Ringe des Enzymkomplexes werden aus den 7 αUntereinheiten gebildet und die zwei inneren Ringe sind aus den 7 β-Untereinheiten (Kopp et
+al., 1993) zusammengesetzt. Auf den β-Untereinheiten befinden sich die katalytischen
+Zentren, die in das Innere des proteasomalen Kompartiments gerichtet sind. Die αUntereinheiten formen an den beiden Enden eine zentrale Öffnung, die mit einem
+Durchmesser von 13 Å vermutlich nur den Zugang von entfalteten Polypeptidketten zulässt
+(Lupas et al., 1993). Das Proteasom besitzt mindestens fünf verschiedene peptidspaltende
+Aktivitäten. Künstliche Peptidsubstrate werden an der Carboxylseite von hydrophoben
+(Chymotrypsin-ähnliche Aktivität), von basischen (Trypsin-ähnliche Aktivität) und von
+sauren (Peptidyl-Glutamyl-Peptid-spaltende Aktivität) Aminosäuren gespalten (Rivett et al.,
+1989; Orlowski et al., 1990). Darüber hinaus ist die BrAAP-Aktivität (Spaltung nach
+verzweigten Aminosäuren) und die SNAAP-Aktivität (Spaltung nach kleinen neutralen
+Aminosäuren) beschrieben (Orlowski et al., 1993). Es gibt eine Reihe von Inhibitoren, die die
+hydrolytische Aktivität des 20S Proteasoms in vivo wie auch in-vitro hemmen. Sehr
+spezifisch wirkt Lactacystin. Die in wässriger Lösung als Lacton vorliegende Substanz
+modifiziert die katalytisch aktiven Threoninreste der entsprechenden Untereinheiten
+(Cerundolo et al., 1997; Craiu et al., 1997).
+
+15
+
+Einleitung
+
+3.7 c-Jun und Angiogenese
+Das c-Jun ist ein Mitglied der Activating Protein 1 (AP-1) Familie (Karin et al., 1997). Die
+Proteine der AP-1-Familie sind in der Lage, die Transkription bestimmter Gene durch die
+Bindung an spezielle DNA-responsive elements zu induzieren. Während die Expression von
+c-Jun durch verschiedene extrazelluläre Stimuli erhöht wird, ist dessen intrazelluläre Stabilität
+durch das Proteasom-System Ubiquitin-abhängig reguliert (Jariel-Encontre et al., 1995).
+Beachtet man die Bedeutung von c-Jun für die Proliferation, Transformation und Apoptose
+von Zellen, erklärt sich auch sein Einfluss auf die Initiation, Progression und Angiogenese
+maligner Tumoren. Obwohl, c-Jun in der Lage ist, Zellen zu transformieren, entwickeln
+transgene, c-Jun überexprimierende Mäuse keine Tumoren. Dagegen geht die verstärkte
+Expression von c-Fos, Fra1 oder Fra2 mit einer hohen Inzidenz von Osteosarkomen, Lungenbzw. epithelialen Tumoren einher. Wahrscheinlich spielt aber auch in diesen Fällen c-Jun eine
+entscheidende Rolle, da Fos-Proteine untereinander keine stabilen Dimere bilden (Shaulian et
+al., 2001). Insbesondere hängt die Entstehung von Lebertumoren und chemisch induzierten
+Papillomen von einer intakten c-Jun-Funktion ab.
+Die Wichtigkeit von c-Jun und anderen AP-1-Proteinen für die Tumor- und Angiogenese
+lassen auch die von ihnen kontrollierten Gene erkennen. Neben den oben bereits
+beschriebenen kontrolliert c-Jun auch die Gene von HB-EGF (heparin-binding epidermal
+growth factor) und EGFR (EGF receptor), die Gene der die Tumorinvasion regulierenden
+Proteine MMP1 (matrix metalloproteinase 1), MMP3 und CD44 sowie die Gene der
+proangiogenen Faktoren VEGF, uPA (urokinase plasminogen activator), uPAR (uPA
+receptor) und Proliferin. Dabei scheint c-Jun vorrangig für die Steuerung der Proliferation und
+Apoptose verantwortlich zu sein, indes die Fos-Proteine eher für die Tumorinvasion und
+Angiogenese erforderlich sind, allerdings wiederum im dimeren Verbund mit c-Jun (Eferl et
+al., 2003).
+
+3.8 Specificity protein 1 (SP1) und Angiognenese
+Der humane Transkriptionsfaktor SP1 wird in fast allen humanen Zellen exprimiert, wobei die
+Expressionsstärke, abhängig vom Zelltyp, variiert und sich mit dem Entwicklungzustand der
+Zelle ändert. SP1 bindet an Methyl-CG-Sequenzen verschiedener Promotoren sowohl
+gewebsspezifischer als auch ubiquitärer Gene über eine Zink-Finger-Domäne. Die
+verschiedenen Domänen des 95/105 KDa (nicht glycosylierte/glycosylierte Form) Proteins
+wurden sowohl biochemisch, als auch strukturell charakterisiert (Kadonaga et al., 1987). N16
+
+Einleitung
+terminale Deletionsmutanten zeigten, dass die 168 C-terminalen Aminosäuren des Proteins
+die DNA-Bindungsdomäne enthalten. In diesem Bereich liegen die 3 Zink Finger Motive. Die
+transkriptionelle Aktivität dieses Deletionsproteins nimmt eindeutig ab.
+Der ubiquitäre Transkriptionsfaktor SP1 wurde Anfang der 1980er Jahre isoliert und
+begründete die Familie der SP1/Krüppel-ähnlichen Transkriptionsfaktoren (Dynan et al.,
+1983). Mitglieder der SP1-Familie binden über drei tandemartige Cys2His2 Zinkfinger
+Motive an die DNA Konsensussequenzen 5`-GGCGGG-3` bzw. 5`-CACCC-3`. Inzwischen
+umfasst die Familie über 20 Mitglieder. Strukturell sind die sechs SP-Proteine und 15
+Krüppel-Proteine im hochkonservierten C-Terminus homolog. Dennoch binden die SPProteine vor allem an 5`-GGCGGG-3` während die Krüppel-Proteine die Sequenz 5`CACCC-3` favorisieren. Der Aminoterminus der SP-Krüppel-Proteine ist sehr variabel und
+kann transkriptionelle Aktivator- oder Repressordomänen enthalten. Das NLS (nuclear
+localization signal), bisher nur in den Krüppel-Proteinen identifiziert, ist in deren ZinkFinger-Domäne bzw. direkt daran anliegend lokalisiert (Shields et al., 1997; Song et al.,
+2002). Der Transkriptionsfaktor SP1 ist ein starker transkriptioneller Aktivator, der an seine
+glutaminreichen Aktivatordomänen Koaktivatoren wie z.B. TAFII130 (Hoey et al., 1993) und
+CRSP rekrutieren kann (Ryu et al., 1999). Der Koaktivator p300 interagiert dagegen mit dem
+C-Terminus von SP1 und verstärkt dadurch die Affinität der SP1-DNA-Bindungsdomäne zum
+Zielpromotor (Suzuki et al., 2000). Aktivität und Stabilität von SP1 werden außerdem durch
+Phosphorylierung, Glycosilierung und Acetylierung beeinflusst. So regulieren eine Reihe von
+Kinasen und Phosphatasen wie CamKII, PKC, PKA, CyclinA/cdk2, und PP2A, meist über die
+Modifikation der DNA-Bindung, die transkriptionelle Aktivität von SP1 (Armstrong et al.,
+1997; Rohlff et al., 1997; Pal et al., 1998; Garcia et al., 2000; Fojas et al., 2001).
+
+3.9 Basic Fibroblast Growth Factor (bFGF) und Angiogenese
+Bei bFGF handelt es sich um einen Heparin bindenden Wachstumsfaktor, der von einer
+Vielzahl verschiedener Zelltypen sezerniert wird. Das Molekulargewicht beträgt 16-18 kDa.
+Eine entscheidende Rolle spielt der Wachstumsfaktor sowohl bei der Regeneration
+geschädigter Gefäßabschnitte als auch bei der Ausbildung von Kollateralen in ischämischen
+Bezirken (Yang et al., 1996). Durch bFGF wird sowohl die Replikation als auch die Migration
+der Endothelzellen gefördert. In einer Arbeit von Sato und Rifkin (Sato et al., 1988) wurden
+konfluente einlagige Zellschichten von Endothelzellen auf Glasplatten kultiviert. In der Folge
+wurde ein Teil des Endothels mit einer Rasierklinge weggeschabt. Es kam zur Transmigration
+17
+
+Einleitung
+der Endothelzellen in den denudierten Bereich. Diese Transmigration konnte durch die Kultur
+mit spezifisch gegen bFGF gerichteten Antikörpern verhindert werden. Der Wachstumsfaktor
+wirkt offenbar auch autokrin ohne Externalisation auf die Endothelzellen. An der Oberfläche
+der Endothelzellen befinden sich niedrig- und hochaffine bFGF-Rezeptoren. Die niedrigaffinen Rezeptoren führen zu einer Konformationsänderung des Wachstumsfaktors, der
+daraufhin an den hochaffinen Rezeptor binden kann. Der hochaffine Rezeptor führt zu einer
+Aktivierung der Tyrosin-Kinase (Brindle et al., 1993). Eine wichtige Enzymkaskade geht
+offenbar über die Aktivierung von Ras-Protoonkogen, Raf-Protoonkogen und Mitogenactivated protein (MAP), so dass es zur Transkription von Wachstumsgenen kommt und
+letztendlich zur mitogenen Antwort der Zelle. bFGF hat auch Einfluß auf die
+Elektrophysiologie der Endothelzellen. Der Wachtumsfaktor induziert eine Steigerung der
+Inositol-1,4,5-triphosphat-Konzentration. Diese führt zu einer Freisetzung von Calcium aus
+dem ER, welches den Calcium-aktivierten Kaliumkanal aktiviert (Tang et al., 1999).
+
+3.10 Der angiogene Wachstumsfaktor Vascular Endothelial Growth Factor
+(VEGF)
+VEGF ist ein endothelial sezerniertes, endothelspezifisches Mitogen mit angiogenen
+Eigenschaften, das eine parakrine Steuerung der Angiogenese möglich erscheinen lässt
+(Carmeliet et al., 1998). Seine Gen-Expression wird durch Bindung des infolge Hypoxie
+vermehrt exprimierten Transkriptionsfaktors HIF-1 an den Promotor hochreguliert (Ikeda et
+al., 1995; Shweiki et al., 1992). VEGF ist einer der wichtigsten Faktoren in der
+tumorinduzierten Angiogenese. Er fördert nach Bindung an seine spezifischen Rezeptoren
+KDR und Flt-1 auf Endothelzellen deren Proliferation und Migration. Neben seiner
+mitogenen Eigenschaft funktioniert VEGF auch als Überlebensfaktor für serumfrei kultivierte
+Endothelzellen. Über den Phosphatidylinositol 3´-kinase/Akt Signaltransduktionsweg bewirkt
+es im menschlichen Endothel die Expression der anti-apoptotischen Proteine Bcl-2 und Al
+(Gerber et al., 1998). Außerdem veranlasst es die endotheliale Expression einiger Proteasen,
+wie tissue-Plasminogen-Activator (t-PA) und dessen Inhibitor (PAI-1) (Pepper et al., 1991;
+Ouriel et al., 1991). VEGF stimuliert die Gefäßneubildung, indem es die Migration und
+Proliferation der Endothelzellen aktiviert und gleichzeitig als Überlebensfaktor für diese
+Zellen in den neu formierten Gefäßen agiert (Ferrara et al., 2003).
+
+18
+
+Einleitung
+
+3.11
+
+Rolle
+
+von
+
+Plasminogen-Activator-Inhibitor-1
+
+(PAI-1)
+
+in
+
+der
+
+Angiogenese
+Ein wichtiger Regulator der Angiogenese ist der PAI-1. PAI-1 ist ein Glykoprotein mit einem
+Molekulargewicht von 48 kDa und gehört zur Familie der Serinprotease-Inhibitoren. Seine
+physiologische Funktion besteht hauptsächlich in der Inhibition der Plasminogen-Aktivatoren
+(t-PA und u-PA) (Loskutoff et al., 1999; Ossowski et al., 2000; Preissner et al.; 2000). Er
+nimmt damit eine zentrale, regulatorische Funktion in der Ausbildung stabiler Thromben ein.
+PAI-1 wird im Plasma durch Bindung an Vitronectin in seiner aktiven Konformation
+stabilisiert. Darüber hinaus spielt die Expression von PAI-1 eine wichtige Rolle in der
+Regulation der Zellmigartion und Angiogenese. Für den notwendigen Abbau der ECM in der
+ersten Phase der Angiogenese müssen die Matrix-Metalloproteasen durch Plasmin aktiviert
+werden. Die Umwandlung von Plasminogen in Plasmin wird durch Plasminogen-Aktivatoren
+stimuliert, die durch PAI-1 gehemmt werden können (McMahon et al., 2001).
+Interessanterweise ist die Überexpression von PAI-1 mit einer schlechten Prognose bei einer
+Reihe von Tumoren verbunden, und Mäuse mit PAI-1 Defizit haben ein reduziertes
+Tumorwachstum und eine reduzierte Angiogenese (Gutierrez et al., 2000). Offensichtlich
+hemmt PAI-1 die Angiogenese in bestimmten Phasen, wahrscheinlich den Abbau der ECM,
+während es in anderen Phasen die Angiogenese stimuliert. Der exakte Wirkmechanismus von
+PAI-1 ist bisher unbekannt. Die Transkriptionsfaktoren c-Jun und SP1 sind für die Induktion
+von PAI-1 zuständig (Arts et al., 1999; Chen et al., 1998), und VEGF ist einer der wichtigsten
+Induktoren von PAI-1 in Endothelzellen (Pepper et al., 2001).
+
+3.12 Fragestellung und Ziele
+Die pro-angiogene Kapazität des durch HIV-1 exprimierten multifunktionellen Proteins Tat
+ist bekannt. Über die Induktion der Angiogenese kommt es zum Beispiel zur Ausbildung des
+Kaposi- Sarkoms während der AIDS-Erkrankung. Andererseits hemmt das Tat-Protein die
+Antigenpräsentation mittels MHC Klasse I Molekülen. Es konnte gezeigt werden, dass das
+HIV-1 Tat-Protein einen führenden Einfluss auf das COP9 Signalosom/26S Proteasom
+System hat. Tat konkurriert hierbei mit dem 11S Regulator um die Bindungsstelle des 20S
+Proteasoms. Dadurch wird die Antigenprozessierung vermindert und eine Präsentation
+antigener Peptide über MHC Klasse I Moleküle verhindert. Dieser Tat-Effekt führt zur
+Unterwanderung des Immunsystems durch das HIV-1.
+
+19
+
+Einleitung
+Das Anliegen des Projektes bestand in der Identifizierung von Tat-Peptiden, die Angiogenese
+induzieren, aber keinen Effekt auf das Immunsystem haben. Somit sollte der Effekt des TatProteins auf die Angiogenese von dem Effekt auf das Immunsystem getrennt werden.
+Es sollten Tat-Peptide hinsichtlich ihrer angiogenen Kapazität getestet und deren Effekt auf
+die Produktion pro-angiogenetischer Faktoren analysiert werden. Solche Peptide könnten für
+die Therapie schwer heilbarer vaskulärer Erkrankungen dienen. Sie könnten die Therapie mit
+VEGF ersetzen, durch die eine Reihe unerwünschter Nebenwirkungen hervorgerufen wird.
+Als Modell-Zelllinie dienten normale Endothelzellen (HUVEC, Human umbilical vein
+endothelial cells) die mit Tat-Peptiden behandelt wurden. Kriterien für die Auswahl
+potenzieller pro-angiogener Tat-Peptide waren die Induktion von c-Jun, SP1 und PAI-1 in
+HUVEC. Drei potentiell pro-angiogene Tat-Peptide wurden identifiziert. Selektierte TatPeptide wurden in einem Matrigel-System auf ihre Fähigkeit, die Invasion/Mobiltät von
+Endothelzellen zu stimulieren, untersucht.
+
+20
+
+Material und Methodik
+
+4 Material und Methodik
+
+4.1 Material
+4.1.1 Kits
+Biorad protein assay
+
+Biorad
+
+BM chemiluminescence western blotting reagent
+
+Boehringer Mannheim
+
+Endofree Maxi Plasmidkit
+
+Qiagen
+
+Endothelial Cell Growth Medium Kit
+
+PromoCell
+
+Human VEGF Elisa Kit (C-64406)
+
+PromoCell
+
+Human bFGF EIA Kit (C-60207)
+
+PromoCell
+
+Mini Plasmidkit
+
+Qiagen
+
+MTT Kit
+
+Sigma-Aldrich
+
+PAI-1 ELISA Kit (821)
+
+American Diagnostica
+
+PerfectTM Transfection Kit
+
+Invitrogen
+
+Qiaquick Gelreinigungskit
+
+Qiagen
+
+Site-directed Mutagenesis Kit
+
+Stratagene
+
+Thrombin-Cleavage-Capture-Kit
+
+Novagen
+
+4.1.2 Zellen
+HUVEC
+
+Cell-Lining
+
+4.1.3 Enzyme
+Restriktionsenzyme
+
+Biolabs
+
+T4 Bakteriophage DNA Polymerase
+
+Biolabs
+
+T4 DNA-Ligase
+
+Roche
+
+Taq-Polymerase
+
+Roche
+
+4.1.4 Geräte
+Agarosegelkammer Geltray
+
+Renner
+
+CK40 inverted lab. Syst. Microscope
+
+Olympus
+
+C2020Z Digital Camera
+
+Olympus
+
+Eismaschine AF-10
+
+Scotsman
+21
+
+Material und Methodik
+Elektroporationsgerät
+
+Peqlab
+
+Feinwaage MC1
+
+Satorius
+
+Fluorimeter Fluostar Reader
+
+SLT
+
+French Press
+
+SIM-AMINCO
+
+Geltrockner Drystar
+
+Hölzel
+
+Heizblock
+
+Eppendorf
+
+Inverses Mikroskop DMI
+
+Leica
+
+Kühlzentrifuge 5417R
+
+Eppendorf
+
+Kühlzentrifuge Avanti J-25
+
+Beckman
+
+Kühlzentrifuge RC24
+
+Sorvall
+
+Magnetrührer
+
+Heidolph
+
+Medifuge
+
+Heraeus
+
+Membranvakuumpumpe
+
+Vacuumbrand
+
+Mikrowelle
+
+Moulinex
+
+MilliQ-Anlage
+
+Millipore
+
+Mixer 5432
+
+Eppendorf
+
+PCR Thermocycler UNO Block
+
+Biometra
+
+Phast Gel System
+
+Pharmacia
+
+Photometer
+
+Shimadzu
+
+Pipetten
+
+Gilson
+
+Pipettus-Akku
+
+Hirschmann
+
+Röntgenfilmentwickler Hyperprocessor
+
+Amersham
+
+Rotor SS34
+
+Sorvall
+
+Rotor SW40
+
+Beckman
+
+Schüttlerwasserbad
+
+GFL
+
+Schüttler
+
+Infos
+
+Sterilbank
+
+Baker
+
+Stickstofftank
+
+Taylor-Wharton
+
+Tischultrazentrifuge Optima TLX
+
+Beckman
+
+Ultrazentrifuge Ultra Pro 80
+
+Sorvall
+
+Vakuumtrockner
+
+Labcono
+
+Mischer Vortex VF2
+
+Janke & Kunkel
+
+Waage BP2100S
+
+Sartorius
+
+Wasserbad U3
+
+Julabo
+22
+
+Material und Methodik
+Zellkultur-Inkubator BB4220CV
+
+Heraeus
+
+4.1.5 Sonstiges
+3MM Papier
+
+Whatman
+
+Acrylamid 30 %, 29:1
+
+Roth
+
+Aprotinin
+
+Applichem
+
+Bacto-Agar
+
+DIFCO
+
+Bacto-Trypton
+
+DIFCO
+
+BD BioCoat Matrigel Invasion Chambers
+
+Becton Dickinson
+
+Cell Culture Cluster
+
+Corning Lifesciences
+
+Centricon
+
+Amicon/Millipore
+
+DMSO
+
+Fluka
+
+Elektroporationsküvetten
+
+Peqlab
+
+Endothel-Zellkultur-Medien
+
+PromoCell
+
+Endothelial Cell Basal Medium
+
+PromoCell
+
+Endothelial Cell Growth Medium
+
+PromoCell
+
+FCS
+
+Seromed
+
+Fluorogene Proteasom Substrate
+
+Bachem Biochemica
+
+Hefe-Extrakt
+
+DIFCO
+
+IgG-Standard
+
+Biolab
+
+Glutatathion-Agarose
+
+Sigma
+
+L-Glutamin
+
+Seromed
+
+Lactacystin
+
+Affiniti
+
+Mehrfachkulturschalen
+
+Corning Lifesciences
+
+Matrigel Growth Factor reduced
+
+Becton Dickinson
+
+Mikroliterspritze
+
+Hamilton
+
+Molekulargewichtsstandard, DNA
+
+GibcoBRL
+
+Molekulargewichtsstandard, Protein
+
+Amersham
+
+Nitrocellulose Membran
+
+Schleicher&Schuell
+
+Penicillin/Streptomycin
+
+Seromed
+
+Phast-System, Nativ-Gel-Pufferstreifen
+
+Pharmacia
+
+PMSF
+
+Sigma
+
+pcDNA3.1 Vektor
+
+Invitrogen
+
+PS-Microplatte
+
+Greiner bio-one
+
+Röntgenfilme
+
+Kodak
+23
+
+Material und Methodik
+Schwarze Mikrotiter-Platten
+
+Dynatec
+
+Sekundärantikörper
+
+Seramun
+
+Steriles Plastikmaterial für die Zellkultur
+
+Falcon
+
+Sterilfilter
+
+Microgen
+
+TEMED
+
+Serva
+
+Transwell Membraneinsätze
+
+Corning Lifesciences
+
+Trypanblau-Lösung
+
+Sigma
+
+Trypsin-EDTA
+
+Gibco BRL
+
+Zellheber
+
+Corning Lifesciences
+
+Zellkultur-Medien
+
+Seromed
+
+Zephiranchlorid, 17 %
+
+ICN
+
+β-Mercaptoethanol
+
+Serva
+
+4.2 Methoden
+
+4.2.1 Synthese von Tat-Protein und Tat-Peptiden
+Das HIV-Tat Protein und die davon abgeleiteten Tat-Peptide wurden durch FMOC (9Hfluoren-9-yl methoxycarbonyl) Strategy in einem 433A Peptidsynthesizer (ABI) hergestellt.
+Das GST-Tat (Glutathion-S-Transferase) Konstrukt wurde vom NIH AIDS Reagent Program
+(USA) zur Verfügung gestellt (contributor Dr. J. Brady).
+Primer für 86-AA Tat und Tat-Fragment DNA-Konstrukte (5´ → 3´)
+Primer A: ACG TGG ATC CTG ATG GAG CCA GTA GAT CCT AGA
+Primer B: TCG CTC GAG CTA TTC CTT CGG GCC TGT CGG
+Primer C: ACG TAC GTT ACC TTG GCA ATG AAA GCA ACA
+Primer D:ACG TGG TAC CCC ACC TCC CAA TCC CGA GGG
+
+PCR-Ansatz (100 µl):
+
+2 µl DNA (10 ng/µl)
+Je 2 µl Primer (0,1 µg/ml)
+10 µl 10 x PCR-Puffer
+8 µl MgCl2 (25 mM)
+24
+
+Material und Methodik
+je 2 µl dNTP (0,2 mM)
+0,5 µl Taq-Polymerase (2,5 U)
+aqua dest. ad 100 µl
+Die Template-DNA und die Oligonukleotide wurden vor der PCR 3 min bei 95°C denaturiert.
+Es wurden folgende PCR-Bedingungen gewählt: 1 min, 95°C; 45 sec, 52°C; 45 sec, 72°C; 33
+Zyklen; 5 min, 72°C. Um die gewünschten amplifizierten Fragmente von sonstiger DNA im
+PCR-Ansatz zu trennen, wurde der gesamte Reaktionsansatz auf ein präparatives 1%iges
+TAE-Agarosegel aufgetragen. Die entsprechenden DNA-Fragmente wurden ausgeschnitten
+und mit einem Gel-Extraktions-Kit von QIAGEN isoliert.
+
+4.2.2 Durchführung von Proteaseassays mit fluorogenen Substraten, kinetische
+Untersuchungen mit dem 20S Proteasom
+Substratpuffer:
+
+50 mM
+
+Tris pH 7,5
+
+25 mM
+
+KCl
+
+10 mM
+
+NaCl
+
+1 mM
+
+MgCl2
+
+0,1 mM
+
+EDTA
+
+1 mM
+
+DTT, frisch zugesetzt
+
+Stammlösung des Peptidsubstrats: 4 mM Suc-Leu-Leu-Val-Tyr-AMC in DMF gelöst
+Die Assays wurden in der Regel in 100 µl Substratpuffer mit 0,1 µg 20S Proteasom und 100
+µM Peptidsubstrat (Endkonzentration) durchgeführt. Es wurden schwarze 96-Lochplatten
+verwendet. Die Fluoreszenz der vom Substrat abgespaltenen Gruppe (AMC: 7-AmidoMethylcumarin) wurde mit dem „Fluostar STL“ oder „Fluoroscan II“ (Labsystems) bei einer
+Exzitation von 390 nm und einer Emission von 460 nm bei Raumtemperatur (RT) oder bei
+37°C gemessen. Der „Gain“ betrug 20, die Anzahl der „Blitze“ 10. Die Fluoreszenz wurde in
+ΔF/min angegeben.
+1. Titration ansteigender Mengen von Tat-Peptiden gegen eine konstante Menge des 20S
+Proteasoms.
+
+25
+
+Material und Methodik
+0,1 µg 20S Proteasom wurden mit je 0, 0,15625, 0,3125, 0,625, 1,25, 2,5, 5, und 10 µg/ml der
+Tat-Peptide 30 min bei 37°C vorinkubiert. Anschließend wurde das Peptidsubstrat zugegeben
+und die Fluoreszenz mit dem „Fluoroscan II“ (Labsystems) bei 37°C gemessen.
+2. Titration ansteigender Mengen von Tat-Peptiden gegen eine konstante Menge des nativen
+11S Regulators und des 20S Proteasoms.
+0,1 µg 20S Proteasom und 0,16 µg nativer 11S Regulator wurden mit 200, 100, 50, 25, 12,5,
+6,25, 3,125 und 0 µg/ml der Tat-Peptide 30 min bei 37°C vorinkubiert. Anschließend wurde
+das Peptidsubstrat zugegeben und die Fluoreszenz mit dem „Fluoroscan II“ (Labsystem) bei
+37°C gemessen.
+3. Titration ansteigender Mengen von REGαwt oder REGαm gegen eine konstante Menge
+des 20S Proteasoms.
+0,1 µg 20S Proteasom wurden mit 120, 60, 30, 15, 7,5, 3,75, 1,8725 und 0 µg/ml REGαwt
+oder REGαm 30 min bei 37°C vorinkubiert. Anschließend wurde das Peptidsubstrat
+zugegeben und die Fluoreszenz mit dem „Fluostar STL“ bei RT gemessen.
+4. Titration ansteigender Mengen von REGαwt/REGβ oder REGαm/REGβ gegen eine
+konstante Menge des 20S Proteasoms.
+0,1 µg 20S Proteasom wurden mit 20, 10, 05, 2,5, 1,25, 0,625, 0,3125 und 0 µg/ml REGαwt
+und REGβ oder REGSαm und REGβ 60 min bei 37°C vorinkubiert. Anschließend wurde das
+Peptidsubstrat zugegeben und die Fluoreszenz mit dem „Fluostar STL“ bei RT gemessen.
+5. Titration ansteigender Mengen von REGαwt gegen eine konstante Menge der
+REGαwt/REGβ und des 20S Proteasoms.
+0,1 µg 20S Proteasom und 0,3 µg REGαwt, 0,3 µg REGβ wurden mit 30, 20, 16, 8, 4, 2, 1,
+0,5 und 0 µg/ml REGαwt 60 min bei 37°C vorinkubiert. Anschließend wurde das
+Peptidsubstrat zugegeben und die Fluoreszenz mit dem „Fluostar STL“ bei RT gemessen.
+6. Titration ansteigender Mengen von REGαm gegen eine konstante Menge der
+REGαwt/REGβ und das 20S Proteasom.
+0,1 µg 20S Proteasom und 0,3 µg REGαwt, 0,3 µg REGβ wurden mit 30, 20, 16, 8, 4, 2, 1,
+0,5 und 0 µg/ml REGαm 60 min bei 37°C vorinkubiert. Anschließend wurde das
+Peptidsubstrat zugegeben und die Fluoreszenz mit dem „Fluostar STL“ bei RT gemessen.
+7. Titration ansteigender Mengen der Tat-Peptide gegen eine konstante Menge des 20S
+Proteasoms.
+
+26
+
+Material und Methodik
+0,1 µg 20S Proteasom wurden mit 10, 5, 2,5, 1,25, 0,625, 0,3125, 0,15625 und 0 µM/ml
+Tatpeptide 1, 2 und 5 30 min bei 37°C vorinkubiert. Anschließend wurde das Peptidsubstrat
+zugegeben und die Fluoreszenz mit dem „Fluostar STL“ bei RT gemessen.
+Die Daten wurden nach folgender Formel analysiert:
+Vmax1 + Vmax2[Tat]
+V = ------------------------------(K1 + [Tat]) (K2 + [Tat])
+Dabei wurden für das Tat-Protein und den 11S Regulator zwei Bindungsstellungen am 20S
+Proteasom angenommen. Die Bedeutungen der kinetischen Konstanten Vmax1, Vmax2, K1
+und K2 sind durch folgende Gleichungen erklärt:
+Vmax1 = (K1TatK2Tat/K1REG + K2REG) [REG]2
+Vmax2 = Vmax (K1Tat/K1REG + K2Tat/K2REG) [REG]
+K1 = K1Tat(1 + [REG]/K1REG)
+K2 = K2Tat(1 + [REG]/K2REG)
+
+4.2.3 Zellen und Zellkulturen
+Human Umbilical Vein Endothelial Cells (HUVEC)
+Endothel Zellkultur Medium
+Endothel Zellkultur serumfreies Medium
+Trypsin/EDTA-Lösung
+HUVEC sind Zellen aus dem Endothel der Nabelschnurvenen von Neugeborenen. Sie wurden
+bei der Firma Cell-Lining, Germany bestellt und auf Trockeneis gelagert und verschickt.
+HUVEC wurden im Endothel Zellkultur Medium (PromoCell, Germany) bei 37 °C unter 5%
+CO2 kultiviert. Jegliche Behandlung der Zellen erfolgte unter sterilen Bedingungen. Waren
+die Zellen konfluent, wurden sie nach einmaligem Waschen mit 1 x PBS mit Trypsin/EDTALösung abgelöst und neu ausplattiert. Die Zentrifugationsschritte erfolgten bei 200 x g für 5
+min bei 4°C. Die Zellen wurden zwischen den Passagen 4 und 9 benutzt.
+
+27
+
+Material und Methodik
+
+4.2.4 Einfrieren und Auftauen von Zellen
+Die Zellen wurden in einer Konzentration von 3x106 pro ml eingefroren. Dazu wurden die
+Zellen für 5 min trypsiniert und in Kulturmedium überführt um das Trypsin zu inaktivieren.
+Die Zellsuspension wurde zentrifugiert (3 min, bei 12000 rpm) und der Überstand abgesaugt.
+Das Zellpellett wurde in eiskaltem Kryomedium (90% FCS und 10% DMSO) resuspendiert
+und die Suspension auf Kryoröhrchen aliquotiert. Das Einfrieren erfolgte langsam in
+speziellen Behältnissen, diese enthielten Isopropanol. Die Zellen wurden nach einigen Tagen
+in flüssigem Stickstoff gelagert. Das Auftauen erfolgte möglichst schnell, die Kryoröhrchen
+wurden auf Eis zum Zellabor transportiert. Der aufgetaute Inhalt (bei 37°C im Wasserbad)
+wurde in 10 ml Medium aufgenommen und für 3 min bei 12000 rpm zentrifugiert. Der
+Überstand wurde abgesaugt und die Zellen wurden in frischem Medium resuspendiert und zur
+Kultivierung ausgesät.
+
+4.2.5 Inkubation der Tat-Peptide und des Tat-Proteins mit HUVEC
+Zwischen Passage 4 und 9 wurden die HUVEC auf 6-well-Platten (je ca. 0,5x106 Zellen pro
+Well) verteilt. Am zweiten Tag wurden Tat-Peptide (je 2 µg/ml oder 10µg/ml,
+Endkonzentration)
+
+und
+
+das
+
+rekombinante
+
+Tat-Protein
+
+(2
+
+µg/ml
+
+oder
+
+10µg/ml,
+
+Endkonzentration) sowie Curcumin (10µM) zu den HUVEC zugesetzt (Abb. 3). Das
+Endothelmedium war Serumfrei und enthielt keine weiteren Wachstumsfaktoren. Nach 24 h
+wurde 1 ml zellfreier Überstand abgenommen und für 5 Minuten zentrifugiert (15000 g, 4°C)
+und der Überstand bei -70 °C gelagert. Dann wurden die behandelten und die unbehandelten
+HUVEC (Kontrolle) geerntet.
+
+28
+
+Material und Methodik
+
+Abb. 3: 6-well-Platte: Inkubation von HUVEC mit Tat-Protein, Tat-Peptiden und Curcumin.
+
+4.2.6 Lyse der Zellen
+Lysepuffer:
+
+50 mM
+
+Tris-HCl (pH 8,5)
+
+150 mM
+
+NaCl
+
+0,02%
+
+Natriumazid
+
+0,1%
+
+SDS
+
+1%
+
+NP-40
+
+0,5%
+
+Natriumdesoxycholat
+
+1 mM PMSF und 7 µM Aprotinin wurden frisch zugegeben
+Das Medium wurde zunächst entfernt und die Zellen mit 1 x PBS gewaschen und 10 min auf
+Eis inkubiert. Der eisgekühlte Lysepuffer wurde zugegeben, und mit einem Schaber wurden
+die Zellen gesammelt. Auf Eis wurden die Zelllysate mit einer 21-gauge Spritze 6-mal
+angesaugt und 10 min bei 17 000 x g und 4°C zentrifugiert. Die Überstände wurden mit 4 x
+Proben-Puffer 5 min lang gekocht. Die Proben wurden entweder bei 4°C gelagert oder sofort
+auf das SDS-Gel aufgeladen. Die gleichen Überstände wurden auch für die nichtdenaturierende Gelelektrophorese oder die Immunopräzipitation verwendet.
+
+29
+
+Material und Methodik
+
+4.2.7 Nicht-denaturierende Gelelektrophorese
+Die nicht-denaturierende Gelelektrophorese wurde mit dem Phast-System von Pharmacia
+durchgeführt. Es wurden Gradientengele von 4-15% Acrylamid genutzt. Folgende
+Laufbedingungen wurden gewählt: 300 Vh bei 10 V, 0,1 mA, 1 W, 4°C.
+
+4.2.8 Dichtegradientenzentrifugation
+Mit einem Gradientenmischer wurde ein kontinuierlicher Gradient von 10-40% Glycerin in
+Beckman SW40-Zentrifugenröhrchen gegossen. 0,3-0,5 ml Proben wurden auf den
+Gradienten geschichtet und bei 40 000 rpm im Beckman SW40-Rotor für 16 h bei 4°C
+zentrifugiert. Der Gradient wurde von oben nach unten in 600-800 µl Fraktionen aliquotiert.
+Die Proteine der Fraktionen wurden mit TCE präzipitiert.
+
+4.2.9 SDS-PAGE Gelelektrophorese
+Lösungen:
+4 x Sammelgelpuffer: 250 mM Tris HCl pH 6,8, 0,8% SDS
+4 x Trenngelpuffer: 150 mM Tris HCl, pH 8,8, 0,4% SDS
+Elektrophoresepuffer: 25 mM Tris, 190 mM Glycerin, 0,1% SDS
+Die Proben wurden in 4 x SDS-PAGE-Probenpuffer aufgenommen, 5 min bei 95°C im
+Heizblock erhitzt und anschließend 3 min bei 14000 rpm zentrifugiert. Um die Proteinmengen
+auszugleichen, erfolgte zuvor über die photometrische Absorptionsmessung bei 280 nm die
+Bestimmung der Proteinkonzentrationen. Für den Lauf durch das Sammelgel wurde eine
+Spannung von 70V angelegt und beim Übergang der Proteine ins Trenngel wurde die
+Spannung auf 140V erhöht. Die gesamte Elektrophorese dauerte, in Abhängigkeit der
+Gelkonzentration, 1-1,5 h.
+
+4.2.10 Western Blot
+Blotpuffer: 14,4 g Glycerin, 3,04 g Tris, auf 1 Liter H2O
+Waschpuffer (PBS-T): 140 mM NaCl, 2,7 mM KCl, 10 mM Na2HPO4, 1,8 mM KH2PO4, pH
+7,3 und 0,1% Tween-20
+
+30
+
+Material und Methodik
+Nach der SDS-PAGE wurden die aufgetrennten Proteine elektrophoretisch (120 mA bei 4°C
+über Nacht oder 200mA bei Raumtemperatur 2h) auf Nitrocellelose-Membranen überführt
+und immunochemisch getestet. Die Membran wurde zuerst mit Ponceau S gefärbt und dann
+mit 5% Milch (in PBS-T) 1-2 h blockiert. Danach erfolgte die Inkubation mit dem geeigneten
+Antikörper (anti-c-Jun oder anti-SP1). Die Detektion der Proteine erfolgte mit dem BMChemiluminescence ECL-Kit nach der Vorschrift von Boehringer. Die Röntgenfilme (XDS,
+XAR von KODAK) wurden in dem Entwicklerautomat „Hyperprocessor“ (Amersham)
+entwickelt.
+
+4.2.11 Immunpräzipitation (IP)
+IP-Puffer:
+
+50 mM
+
+Tris/HCl pH 8,5
+
+150 mM
+
+NaCl
+
+0,02%
+
+Natriumazid
+
+0,1%
+
+SDS
+
+1%
+
+NP-40
+
+0,5%
+
+Natriumdesoxycholat
+
+Um unspezifische Bindungen zu beseitigen, wurden die Überstände (ca. 300 µl) der Zelllysate
+zunächst mit Protein A-Agarose (30 µl) vorinkubiert (1 h, 4°C, auf dem Schüttler). Nach dem
+Zentrifugieren (1 min 14000 rpm) wurden die Antikörper (1-3 µg anti-C2 oder anti-S4) zu
+den Überständen zugegeben und inkubiert (1 h, 4°C, auf dem Schüttler). Danach wurden zu
+dem Gemisch 60 µl Protein A-Agarose zugegeben und über Nacht bei 4°C unter Schütteln
+inkubiert. Nachdem Zentrifugieren (1 min 14000 rpm) wurden die Überstände vorsichtig mit
+einer Absaugpumpe entfernt. Anschließend wurde 1 ml IP-Puffer zugesetzt und 5 min bei 4°C
+geschüttelt. Dieser Schritt wurde 5-mal wiederholt. Anschließend wurden 20 µl Proben-Puffer
+zugegeben und 5 min gekocht. Nach dem Zentrifugieren wurden die Proben auf die SDS-Gele
+aufgetragen und dann der Western Blot mit dem anti-Flag Antikörper durchgeführt.
+
+4.2.12 Bestimmung der Proteinkonzentration
+Der Protein-Assay ist eine Modifikation der Proteinbestimmung nach Bradford (Bradford et
+al., 1976). Zu 200 µl Probe wurden 800 µl Bio-Rad-Lösung zugegeben und gut durchmischt.
+Für die Erstellung einer Eichkurve wurden BSA-Lösungen mit Konzentrationen von 2, 5, 10,
+31
+
+Material und Methodik
+20 und 50 µg/ml vermessen. Die Messungen wurden in Einweg-Acryl-Küvetten bei einer
+Wellenlänge von 590 nm gegen Wasser durchführt. Die Differenz aus dem Messwert bei 590
+nm wurde gegen die eingesetzte Proteinmenge der entsprechenden Eichlösung aufgetragen
+und die Proteinmenge der Probe anhand der Eichgeraden ermittelt.
+
+4.2.13 bFGF-ELISA-Assay
+Von den Medien der mit Tat-Protein, Tat-Peptiden und Curcumin behandeltem HUVEC
+wurde nach 24 h Inkubation 1ml zellfreier Überstand abgenommen und bei -70°C gelagert.
+Insgesamt wurden von fünf solcher Versuchsserien Zellüberstände gewonnen. Mit einem
+bFGF-ELISA-KIT wurde gemäß der Vorschrift des Herstellers die bFGF-Konzentration
+bestimmt.
+
+4.2.14 VEGF-ELISA-Assay
+Zum Nachweis von VEGF im Überstand wurde ein VEGF-ELISA-KIT gemäß der Vorschrift
+des Herstellers verwendet. Zuerst wurden 50 µl Verdünnungspuffer und dann 200 µl Standard
+und Zellkulturüberstand hinzugefügt und für 2 h bei Raumtemperatur inkubiert. Nach
+dreimaligem Waschen mit Waschpuffer wurde der ELISA für 2 h mit 200 µl Konjugat
+inkubiert. Anschließend wurde wieder dreimal gewaschen. Zuletzt wurden 200 µl der
+Entwicklerlösung dazugegeben und nach einer ca. 20 minütigen Inkubationszeit wurde die
+Entwicklung mit 50 µl Stopplösung beendet. Die Zytokin-Konzentration wurde photometrisch
+bei einer Wellenlänge von 450 nm mit einer Referenzwellenlänge von 570 nm im ELISAPhotometer bestimmt.
+
+4.2.15 PAI-1-ELISA-Assay
+Von den Medien der mit dem Tat-Protein, Tat-Peptiden und Curcumin behandelten HUVEC
+(s. Abschnitt 3.2.5) wurde nach 24 h Inkubationszeit 1 ml zellfreier Überstand abgenommen
+und für 5 min zentrifugiert (15000 rpm, 4°C) und der Überstand bei -70 °C gelagert.
+Insgesamt wurden von acht solcher Versuchsserien Zellüberstände gewonnen. Mit einem
+PAI-1-ELISA-Kit wurde in diesen Zellüberständen gemäß der Firmenvorschrift die PAI-1
+Konzentration bestimmt. Die basale Sekretion von PAI-1 betrug 993.8 ± 11.6 ng/mL und
+wurde abgezogen. Die in den Überständen der unbehandelten Zellen gemessenen PAI-1Konzentrationen wurden jeweils als 100% normiert. Dazu wurden die PAI-1-Konzentrationen
+32
+
+Material und Methodik
+in den Überständen der mit den jeweiligen Tat-Peptiden inkubierten Zellen in Relation
+gesetzt.
+
+4.2.16 MTT-Zellwachstumsassay
+Zunächst kam der sogenannte MTT-Zellwachstumsassay zum Einsatz, welcher auf
+kolorimetrischer Grundlage Aussagen über die zelluläre Lebensfähigkeit und die Zytotoxizität
+gibt. Die zu messenden Zellen werden einer Substanz ausgesetzt (MTT-Reagens (3-(4,5dimethyl-thiazoyl-2-yl)-2,5-diphenyltetrazolium bromide)), einem gelben Tetrazoliumsalz,
+das bei Spaltung wasserunlösliche, blaue Formazankristalle bildet. Diese Umwandlung findet
+nur in lebenden, stoffwechselaktiven Zellen statt, indem MTT durch ein mitochondriales
+Enzym, die Succinat-Dehydrogenase, umgewandelt wird, womit durch diesen Assay die
+Stoffwechselaktivität von Zellen bestimmt wird. Die Absorption des gebildeten Formazans
+wird photometrisch bestimmt und ist direkt proportional zur Zahl der stoffwechselaktiven,
+vitalen Zellen.
+MTT wurde in einer Pufferlösung (PBS) gelöst (5mg/ml). Dann erfolgte die sterile Filtration
+mit einem 0,2 mm Filter und die Lagerung bei -20°C. HUVEC wurden mit Tat-Protein, TatPeptiden, bFGF und Curcumin inkubiert. Nach 24 h wurde das alte Medium aus den Platten
+abgesaugt und die Zellen vorsichtig mit Pufferlösung gewaschen. Anschließend wurde die
+Kultur mit MTT-Lösung (1:10 Verdünnung der originalen Konzentration des Mediums) für 4
+h behandelt. Nach Entfernung des MTT-Mediums wurde 100µl DMSO hinzugegeben um die
+Formazankristalle zu lösen. Danach wurde der Absorptionsgrad des Farbstoffs Formazan
+unter dem Spektrometer bei 570 nm (Background-Subtraction 620 nm) mit dem ELISAReader gemessen.
+
+4.2.17 Matrigel Invasion Assay
+Growth Factor Reduced Matrigel Basement Membrane Matrix (Becton Dickinson, Germany)
+6-Well-Boyden-Kammern
+Polykarbonat Membran-Einsätze der Porengröße 8
+Tat-Protein, Tat-Peptide, bFGF, Curcumin
+MTT-Lösung
+HUVEC
+Endothel Serumarmes Medium
+
+33
+
+Material und Methodik
+Die in-vitro Methode zur Quantifizierung des Invasionspotenzials der Zellen mittels des
+sogenannten "Boyden chamber assay" wurde erstmals von Albini beschrieben (Albini et al.,
+1987). Dieses Modell ermöglicht Untersuchungen zur Adhäsion der Zellen an die ECM, ihrer
+lokalen Degradation und der direkten Lokomotion der Zellen in die ECM. Die
+Versuchsanordnung besteht aus zwei Kammern, die durch eine beschichtete poröse Membran
+voneinander getrennt sind. In unserer Arbeit verwendeten wir als künstliche Basalmembran
+eine Growth Factor Reduced Matrigel-Beschichtung. Bei Matrigel handelt es sich um einen
+löslichen Basalmembran-Extrakt des Englebreth-Holm-Swarm-Maus-Sarkoms, dass bei
+Temperaturen um 37 °C geliert und dabei die Zusammensetzung, Struktur und physikalischen
+Eigenschaften einer Basalmembran einnimmt.
+Es wurden 6-Well-Boyden-Kammern mit Polykarbonat Membran-Einsätzen der Porengröße 8
+µm verwendet (Abb. 4). Die Membraneinsätze wurden unter sterilen Bedingungen
+gleichmäßig mit 675 µl verdünntem Matrigel (1mg/ml Verdünnung mit dem serumfreiem
+Medium) bedeckt und für 2 h bei 37 °C im Brutschrank belassen (wie vom Hersteller
+empfohlen). Nach 2 h wurde nicht festgewordenes Matrigel absaugt und einmal mit DMEM
+gespült. Das untere Kompartiment der 6-Well-Boyden-Kammern wurde mit 2,5 ml
+serumfreiem Medium gefüllt.
+Die Vorbereitung der HUVEC erfolgte gemäß dem Standard-Protokoll (vgl. Kapitel 3.2.3 und
+3.2.4). Die Transwell-Inserts (oberes Kompartiment der 6-Well-Boyden-Kammern) wurden
+mit einer Konzentration von 300 000 Zellen/ml (insgesamt 1,5 ml) besiedelt. Jeweils erfolgte
+die Zugabe von Tat-Protein, Tat-Peptiden, bFGF und Curcumin ins obere und untere
+Kompartiment der 6-Well-Boyden-Kammern, so dass kein Konzentrationsgradient entstand.
+Nach 24 h wurden die Zellen mit 0,5 mg/ml MTT (s. Kapitel 3.2.16) für 4 h inkubiert
+(Imamura et al., 1994). Danach wurde das Medium abgesaugt und die invasiven Zellen auf
+der Unterseite des Inserts mit einem Zellscraper vorsichtig und vollständig entnommen und
+mit 200 µl DMSO vom Zellscraper in eine neue, schräggestellte 6-well-Platte gespült (die
+Membran darf nicht beschädigt werden, damit sich keine Zellen von der Oberseite ablösen
+können). Die nicht-invasiven Zellen im Inneren des Inserts wurden in 200 µl DMSO gelöst
+(in einer neuen 6-Well Platte). Die Proben wurden in eine 96-Well Platte überführt. Danach
+wurde der Absorptionsgrad des Farbstoff Formazan unter dem Spektrometer bei 570 nm
+(Background-Subtraction 620 nm) mit dem ELISA-Reader gemessen.
+
+34
+
+Material und Methodik
+
+Abb. 4: 6-Well-Boyden-Kammern mit Polykarbonat Membran-Einsätzen.
+
+4.2.18 Matrigel Assay für Tubulogenese
+Growth Factor Reduced Matrigel Basement Membrane Matrix (Becton Dickinson, Germany)
+24-Well Platten
+Tat-Protein, Tat-Peptide, bFGF, Curcumin
+Trypsin, PBS
+HUVEC
+Endothel Serumarmes Medium
+Der Matrigel Assay für die Tubulogenese wurde nach Morales et al. mit geringen
+Modifikationen durchgeführt (Morales et al., 1995) (Abb. 5).
+Die Growth Factor Reduced Matrigel Basement Membrane Matrix wurde über Nacht auf Eis
+aufgetaut. Dann wurde der Boden der 24-Well Platte mit 50 µl Matrigel (11.7 mg/ml,
+Verdünnung mit serumfreiem Medium) auf Eis beschichtet und bei 37°C für 30 Minuten
+ausgehärtet. Inzwischen wurden HUVEC vorbereitet (siehe Kapitel 3.2.3 und 3.2.4). Die
+Verdünnung der Zellen erfolgte in serumfreiem Medium. HUVEC wurden in einer
+Konzentration von 25 000 Zellen/cm² in der 24-Well Platte in Basal-Medium besiedelt.
+Jeweils erfolgte die Zugabe von Tat-Peptiden (2 µg/ml), bFGF (2 ng/ml) und Curcumin (10
+µM). Nach 24 h wurde die Tubulogenese unter dem Mikroskop (Olympus CK40 Inverted
+Laboratory System Mikroskop, Vergrößerung ×10) bewertet und mittels Digitalkamera
+35
+
+Material und Methodik
+(Olympus Digitalkamera C2020Z) dokumentiert. Es wurden mindestens drei dreifache
+unabhängige Experimente durchgeführt. Für die quantitative Analyse wurde die Anzahl der
+Branch-Points gezählt (Abb. 5). Zur quantitativen Bewertung wurden die Branch-Points
+jeweils aus 6 verschiedenen Sichtfeldern ausgezählt, wie bei Kok et al. beschrieben (Kok et
+al., 2005).
+
+Abb. 5: Modifizierter Matrigel-Assay zur Bestimmung der Tubulogenese.
+
+4.2.19 Statistik
+Die Ergebnisse wurden als Resultate von mindestens drei jeweils dreifach durchgeführten und
+voneinander unabhängigen Experimenten als Mittelwert ± Standardfehler (SE) angegeben.
+Die statistische Auswertung erfolgte mit Hilfe des Student-t-Tests zum Vergleich der
+Mittelwerte. Ein Wert von p < 0,05 wurde als statistisch signifikant angesehen.
+
+36
+
+Ergebnisse
+
+5 Ergebnisse
+
+5.1 Die basische Domäne des Tat-Proteins
+Das 86-Aminosäuren-Tat-Protein wird von zwei Exons kodiert (Neuveut et al., 1996). Die
+ersten 72 Aminosäuren werden von dem ersten Exon kodiert, die übrigen 14 C-terminalen
+Aminosäuren von einem weiteren Exon. Das Tat-Protein besteht aus 5 funktionellen
+Domänen (Abb. 6) (Huang et al., 2002): einer N-terminalen, einer Cystein-reichen, einer
+Kern-, einer basischen und einer C-terminalen Region.
+Um die Wirkung der Tat-Region 37-72 auf das Proteasom besser untersuchen zu können,
+wurde ein Tat-Peptid 37-72 synthetisiert (Tatpep1). Außerdem wurden veränderte Versionen
+von Tatpep1 synthetisiert und ihre Wirkung getestet. In Tatpep2 wurde die basische Domäne
+(AA 49-57) deletiert. Tatpep3 hat eine Deletion des C-terminalen Bereichs von Tatpep1. In
+Tatpep4 wurde die Kern-Region deletiert (Abb. 7). Die Tat-Peptide 1-4 wurden mit isoliertem
+20S Proteasom getestet. 0,1 µg 20S Proteasom wurden mit unterschiedlichen Konzentrationen
+der vier Tat-Peptide 30 min bei 37°C vorinkubiert. Mit Hilfe von fluorogenen Substraten lässt
+sich die Inhibition des 20S Proteasoms durch die Tat-Peptide im in vitro-System untersuchen.
+Die Freisetzung der fluoreszierenden Substanz AMC ist Maß für die Aktivität des 20S
+Proteasoms. Suc-Leu-Leu-Val-Tyr-AMC ist ein Substrat der Chymotrypsin-ähnlichen
+Aktivität des Proteasoms. Das vollständige Tat-Protein wurde als positive Kontrolle benutzt.
+Zur Berechnung der kinetischen Parameter wurde ein Modell verwendet, das von zwei
+Bindungsstellen des Tat-Proteins am 20S Proteasom ausgeht. Aus den Hemm-Kurven und
+den kinetischen Parametern (Abb. 7) ist ersichtlich, dass der Hemmeffekt des Tatpep1 auf das
+20S Proteasom sehr ähnlich des vollständigen Tat-Proteins ist. Durch die Deletion der
+basischen Domäne ging die Hemmung verloren, während die Deletion des C-terminalen und
+des Kern-Bereichs wenig Einfluß hatten (Abb. 7).
+
+37
+
+Ergebnisse
+
+1
+
+22
+
+37
+
+MEPVDPRLEPWKHPGSQPKTACTNCYCKKCCFHCQVCFITKGL
+49
+
+58
+
+86
+
+GISYGRKKRRQRRRPSQGGQTHQDPIPKQPTSQSRGDPTGPKE
+Abb. 6: Die Sequenz und die Domänen des HIV-1 Tat-Proteins: AA 1-21: N-terminale
+Domäne; AA 22-36: Cystein-reiche Domäne; AA 37-48: Kerndomäne; AA 49-57 basische
+Domäne; AA 58-86 C-terminale Domäne (Huang et al., 2002).
+
+38
+
+Ergebnisse
+
+Abb. 7: Der basische Bereich des Tat-Proteins spielt bei der Inhibition des 20S Proteasoms
+eine entscheidende Rolle. Das Tat-Peptid 37-72 konkurriert mit dem 11S Regulator um die
+Bindungsstelle am 20S Proteasom. (Huang et al., 2002).
+
+5.2 Synthetisierte Tat-Peptide mit Mutationen in der basischen Domäne
+Es wurden insgesamt 15 Tat-Peptide synthetisiert (Abb. 8). Alle Tat-Peptide enthalten die
+basische Domäne des Tat-Proteins. Die Mutation der Tat-Aminosäuren Lys51, Arg52 und
+Asp67 führt zum vollständigen Verlust des Tat-Effekts auf das Proteasomsystem und auf die
+Antigenpräsentation (Huang et al., 2002). Daraus resultierte die Synthese des Tat-Peptides
+Tatpep5. Darüber hinaus wurden die Tat-Peptide Tatpep6 bis Tatpep18 synthetisiert. Tatpep6
+resultiert aus einem Literaturvergleich. Es stellt die Minimalregion des Tat-Proteins dar, die in
+allen Tat-Peptiden mit pro-angiogener Wirksamkeit enthalten ist.
+
+39
+
+Ergebnisse
+37
+
+72
+
+Tatpep1
+
+CFITKGLGIS YGRKKRRQRR RPSQGGQTHQ DPIPKQ
+
+Tatpep5
+
+CFITKGLGIS YGRKAARQRR RPSQGGQTHQ APIPKQ
+
+Tatpep6
+
+RR RPSQ
+
+Tatpep7
+
+GRKKRRQRR RPSQG
+
+Tatpep8
+
+GAAKRRQRR RPSQG
+
+Tatpep9
+
+GRAARRQRR RPSQG
+
+Tatpep10
+
+GRKAARQRR RPSQG
+
+Tatpep11
+
+GRKKAAQRR RPSQG
+
+Tatpep12
+
+GRKKRAARR RPSQG
+
+Tatpep13
+
+GRKKRRAAR RPSQG
+
+Tatpep14
+
+GRKKRRQAA RPSQG
+
+Tatpep15
+
+GRKKRRQRA APSQG
+
+Tatpep16
+
+GRKKRRQRR AASQG
+
+Tatpep17
+
+GRKKRRQRR RAAQG
+
+Tatpep18
+
+GRKKRRQRR RPAAG
+
+Abb. 8: Sequenzen der Tat-Peptide. Tatpep1 und 5 bestehen aus den Aminosäuren 37 bis 72.
+Im Tatpep5 wurden Aminosäuren Lys51, Arg52 und Asp67 durch Ala substituiert. Tatpep6
+ist eine kurze Sequenz der basischen Domäne, wobei Tatpep7 die gesamte basische Domäne
+enthält. In Tatpep8 bis 18 wurden je 2 Aminosäuren durch Ala in unterschiedlichen
+Positionen substituiert.
+
+5.3 Einfluss der Tat-Peptide auf die Aktivität des 20S Proteasoms
+Um Tat-Peptide für eine Therapie von vaskulären Erkrankungen nutzbar zu machen, wurden
+die Effekte einer Vielzahl von synthetisierten Tat-Peptiden auf das Proteasomsystem getestet
+(Abb. 9). Die Peptide Tatpep1 bis Tatpep18 wurden zunächst mit dem 20S Proteasom
+inkubiert und ihr Effekt auf die Peptidaseaktivität des Proteasoms getestet. Mit Tatpep5 wurde
+kein Hemmeffekt auf das 20S Proteasom gemessen. Ebenfalls zeigten Tatpep15 und Tatpep16
+keinen Hemmeffekt auf das 20S Proteasome (Abb. 9). Alle anderen Peptide hatten einen
+Effekt auf das Proteasom und sind demzufolge für eine potenzielle Anwendung in der
+Therapie ungeeignet. Es wurde gezeigt, dass vollständiges Tat-Protein das 20S Proteasom
+40
+
+Ergebnisse
+hemmt und den Proteasom-Aktivator PA28 vom Proteasom verdrängt. Außerdem führt die
+Tat-Bindung an den 19S Regulator zur Stimulierung des 26S Proteasoms (Seeger et al.,
+1997). Darüber hinaus wurde demonstriert, dass das Tatpep1 den gleichen Effekt auf das
+Proteasomsystem ausübt wie das vollständige Tat-Protein. Sowohl Tatpep1 als auch
+vollständiges Tat-Protein hemmen die Antigenpräsentation via MHC Klasse I (Huang et al.,
+2002). Diese Eigenschaften des Tat-Proteins wären für die pro-angiogene klinische
+Anwendung des Proteins völlig ungeeignet. Tatpep5, Tatpep15 und Tatpep16 zeigten im
+Vergleich mit dem Tatpep1 keinen Hemmeffekt auf das 20S Proteasom (Abb. 9, 10).
+
+Tat-Peptide 20S Inhibition Tat-Peptide 20S Inhibition
+Tatpep1
+
++
+
+Tatpep12
+
++
+
+Tatpep5
+
+-
+
+Tatpep13
+
++
+
+Tatpep6
+
++
+
+Tatpep14
+
++
+
+Tatpep7
+
++
+
+Tatpep15
+
+-
+
+Tatpep8
+
++
+
+Tatpep16
+
+-
+
+Tatpep9
+
++
+
+Tatpep17
+
++
+
+Tatpep10
+
++
+
+Tatpep18
+
++
+
+Tatpep11
+
++
+
+Abb. 9: Der Einfluss von Tat-Peptiden auf die Peptidaseaktivität des Proteasoms (20S). Der
+Effekt ist mit Plus und Minus gezeichnet.
+
+41
+
+Ergebnisse
+
+Abb. 10: Einfluss von Tat-Peptiden (Tatpep1, Tatpep5, Tatpep15 und Tatpep16) auf die
+Peptidaseaktivität des Proteasoms (20S). Die Peptidaseaktivität wurde als ∆F (F:
+Fluorescence) pro Minute gemessen und als relative Peptidaseaktivität (100% = 20 ∆F/min
+per µg 20S Proteasom) mit Suc-Leu-Leu-Val-Tyr-AMC als Substrat aus je vier Experimenten
+berechnet.
+
+5.4 Einfluss der Tat-Peptide auf die Expression von c-Jun und SP1 im
+Western-Blot
+Mittels Western-Blot wurde der Einfluss der Tat-Peptide auf die intrazellulären
+Konzentrationen der Transkriptionsfaktoren c-Jun und SP1 getestet. c-Jun und SP1 sind
+wesentliche Regulatoren der Angiogenese. In Abb. 11 sind ausgewählte Daten dargestellt. Als
+positive Kontrolle wurden HUVEC mit vollständigem Tat-Protein inkubiert. Als negative
+Kontrolle wurden die Zellen mit Curcumin behandelt. Als optimale Behandlungszeit hat sich
+ein Zeitraum von 24 h erwiesen. Die Behandlung von HUVEC mit vollständigem Tat-Protein
+führte zum Anstieg des endogenen c-Jun und SP1. Beim Einsatz von Curcumin resultierte
+eine Senkung der Konzentrationen der Transkriptionsfaktoren. In Abb. 11 sind die Effekte
+ausgewählter Tat-Peptide auf die c-Jun und SP1 Spiegel in HUVEC gezeigt. Tatpep15 und
+Tatpep16 zeigten einen signifikanten konzentrationsabhängigen Anstieg des endogenen c-Jun
+und SP1.
+42
+
+Ergebnisse
+
+Abb. 11: Western Blots mit Lysaten von HUVEC nach Behandlung der Zellen mit
+ausgewählten Tat-Peptiden. Die Zellen wurden mit jewels 2, 5 und 10 µg/ml Tat-Peptid für 24
+h behandelt. Die Blots wurden mit einem anti-c-Jun (c-Jun) und einem anti-SP1 (SP1)
+Antikörper getestet. Als Loading Kontrolle wurde ß-tubulin verwendet.
+
+5.5 Einfluss der Tat-Peptide auf das Zellwachstum der HUVEC (MTTZellwachstumsassay)
+In einem weiteren Versuch wurden HUVEC mit Tatpep5, Tatpep15 and Tatpep16 sowie
+Curcumin (10 µM) für 24 h inkubiert. Der Kinase-Inhibitor Curcumin (Bech-Otschir et al.,
+2002) führt zur Zellapoptose (Liontas et al., 2004). Als ein Inhibitor der Angiogenese
+(Arbiser et al., 1998) wurde Curcumin als negative Kontrolle in unseren Experimenten
+verwendet. Tatpep5, Tatpep15 und Tatpep16 zeigten keinen inhibitorischen Effekt auf das
+Zellwachstum der HUVEC (Abb. 12). Im Gegensatz dazu zeigte Curcumin eine signifikante
+Reduktion des Zellwachstums. Daher haben Tatpep5, Tatpep15 und Tatpep16 weder einen
+toxischen noch apoptotischen Effekt unter den Bedingungen in diesem Experiment.
+
+43
+
+Ergebnisse
+
+Abb. 12: Effekt von Tatpep5, Tatpep15 und Tatpep16 sowie Curcumin auf das Wachstum
+der HUVEC. Zwischen Passage 4 und 9 wurden die HUVEC auf 6-well-Platten (je ca. 0,2 x
+106 Zellen pro Well) verteilt. Am zweiten Tag wurden Tat-Peptide (je 2 µg/ml
+Endkonzentration) und Curcumin (10µM) zu den HUVEC zugesetzt. Das Endothelmedium
+war serumfrei und enthielt keine weiteren Wachstumsfaktoren. Nach 24 h wurde der MTTAssay durchgeführt. Das Zellwachstum wurde in % dargestellt (unbehandelte Zellen =
+100%). Mittelwert +/- SE. * P < 0,05 versus Kontrolle.
+
+5.6 Stimulierung der Produktion von bFGF durch HUVEC
+HUVEC wurden mit den Tat-Peptiden in unterschiedlichen Konzentrationen für 24 h
+inkubiert. Die bFGF-Sekretion wurde mittels ELISA gemessen (Abb. 13, Abb. 14). Tatpep1318 (2 µg/ml) bzw. Tatpep14 bis Tatpep18 (2 µg/ml) zeigten eine Stimulation der bFGF
+Produktion im Vergleich zur Basissekretion (Kontrolle). Diese Sekretion wurde von
+Curcumin gehemmt.
+
+44
+
+Ergebnisse
+
+Abb. 13: Darstellung der Freisetzung von bFGF in HUVEC unter der Stimulation mit TatPeptiden (2 µg/ml Endkonzentration) nach 24 h Inkubationszeit. Mittelwert +/- SE. P < 0,05
+versus Kontrolle.
+
+Abb. 14: Darstellung der Freisetzung von bFGF in HUVEC unter der Stimulation von TatPeptiden (10 µg/ml Endkonzentration) nach 24 h Inkubationszeit. Mittelwert +/- SE. P < 0,05
+versus Kontrolle.
+
+45
+
+Ergebnisse
+
+5.7 Nachweis der VEGF-Produktion mittels ELISA
+Es gab keinen relevanten Anstieg der VEGF-Produktion in Abhängigkeit von der
+Inkubationszeit zwischen 12 und 24 h (Abb. 15, Abb. 16). Obwohl die Höhe der im ELISA
+gemessenen VEGF-Spiegel insgesamt während der einzelnen Versuche variierte, lag der
+zwischen Negativkontrolle und behandelten Zellen erreichte Anstieg immer bei einem Faktor
+von 2-4, in einigen Fällen wurde sogar die VEGF-Produktion der Positivkontrollen
+überschritten.
+
+Abb. 15: Es zeigte sich kein Anstieg der VEGF-Produktion nach 12 h Inkubation von
+HUVEC mit unterschiedlichen Tat-Peptiden in Vergleich zu den unbehandelten Zellen
+(=Kontrolle). Mittelwert +/- SE. * P < 0,05 versus Kontrolle.
+
+46
+
+Ergebnisse
+
+Abb. 16: Auch nach 24 h Inkubation wurde kein Anstieg der VEGF-Produktion erreicht.
+Weiterhin zeigte Curcumin einen inhibitorischen Effekt. Mittelwert +/- SE. * P < 0,05 versus
+Kontrolle.
+
+5.8 Stimulierung der PAI-1 Produktion/Sekretion durch HUVEC
+Ziel dieses Experimentes war die Untersuchung des Einflusses von Tat-Protein sowie TatPeptiden auf die Sekretion von PAI-1 aus humanen Endothelzellkulturen. Hierzu wurden
+HUVEC mit unterschiedlichen Konzentrationen von Tat-Peptiden für 24 h inkubiert. Als
+positive Kontrolle diente das Tat-Protein. Anschließend erfolgte die Bestimmung von PAI-1
+mittels ELISA im Überstand der Endothelzellkulturen. Tatpep5 und Tatpep15 stimulierten die
+Produktion von PAI-1 in HUVEC etwa zweifach im Vergleich zu Tatpep16 und dem TatProtein (Abb. 17). Dadurch konnte gezeigt werden, dass Tatpep5 und Tatpep15 als mögliche
+Kandidaten für eine proangiogene Therapie in Betracht zu ziehen sind.
+
+47
+
+Ergebnisse
+
+Abb. 17: Einfluß von Tat-Peptiden auf die Produktion von PAI-1 in HUVEC im Vergleich
+mit dem Tat-Protein. Die PAI-1-Konzentration wurde nach 24 h Inkubationszeit mit TatProtein (2 µg/ml Endkonzentration) oder Tat-Peptiden (2 µg/ml Endkonzentration) in den
+Überständen von HUVEC mittels ELISA gemessen. Die basale Sekretion wurde abgezogen.
+Mittelwert +/- SE. * P < 0,05 versus Tat-Protein.
+
+5.9 Tatpep5 und Tatpep15 stimulieren die Migration und Invasion im
+Matrigel-Invasionsassay
+Tatpep5, Tatpep15 und Tatpep16 stimulierten die Migration und Invasion von HUVEC im
+Matrigel-Invasionsassay in ähnlicher Weise wie bFGF. Curcumin als bekannter Inhibitor der
+Angiogenese zeigte eine Hemmung der Invasion und Migration von HUVEC (Abb. 18).
+
+48
+
+Ergebnisse
+
+Abb. 18: Einfluss von bFGF, Tat-Peptiden und Curcumin auf die Migration und Invesion von
+HUVEC. Es ist zu erkennen, dass Tatpep5, Tatpep15 und Tatpep16 die Migration von
+HUVEC ähnlich stimulierten wie der proangiogene Faktor bFGF. Die negative Kontrolle mit
+Curcumin zeigte einen signifikanten inhibitorischen Effekt. Mittelwert +/- SE. * P < 0,05
+versus Kontrolle.
+
+5.10 Gefäßneubildung (Tubulogenese): qualitativer Assay
+Der Effekt von Tat-Peptiden auf die Gefäßneubildung wurde im modifizierten Matrigel-Assay
+zur Messung der Tubulogenese nach Morales et al. 1995 geprüft. Die Growth Factor Reduced
+Matrigel Basalmembran-Matrix wurde verwendet und mit serumfreiem Medium verdünnt.
+Nach der Inkubation von HUVEC mit Tat-Peptiden in der 24-Well Platte wurden
+kapillarähnliche Strukturen ausgebildet, die im Lichtmikroskop sichtbar waren. Tatpep5,
+Tatpep15 und Tatpep16 (Abb. 19 C-E) stimulierten die Tubulogenese von HUVEC ähnlich
+wie bFGF (Abb. 19 A). Wie erwartet, wurde die Gefäßneubildung durch Curcumin gehemmt
+(Abb. 19 B).
+
+49
+
+Ergebnisse
+
+Abb. 19: Formationen von Kapillar-ähnlichen Strukturen (Tubuli), die die HUVEC auf der
+Grundlage der Growth Factor Reduced Matrigel Basalmembran-Matrix ausbildeten. Die
+Tubuli wurden 24 h nach der Zugabe von bFGF, Tat-Peptiden oder Curcumin zu HUVEC auf
+dem Matrigel fotografiert. HUVEC (25 x 10³ Zellen/cm²) wurden für 24 h mit (A) bFGF, (B)
+Curcumin, (C) Tatpep5, (D) Tatpep15, (E) Tatpep16 und (F) ohne Zugabe inkubiert.
+Kennzeichnung eines sogenannten Brach-Point in E.
+
+5.11 Gefäßneubildung (Tubulogenese): quantitativer Assay
+Zur quantitativen Bewertung wurden die Branch-Points, wie in Abb. 19 E exemplarisch
+dargestellt, jeweils ausgezählt, wie bei Kok et al. beschrieben (Kok et al., 2005). bFGF,
+Tatpep5, Tatpep15 und Tatpep16 stimulierten die Tubulogenese von HUVEC. Es wurden 3mal mehr Branch-Points durch HUVEC nach Inkubation mit Tatpep15 gebildet, als im
+Kontrollvergleich (Abb. 20).
+
+50
+
+Ergebnisse
+
+Abb. 20: Stimulation der Tubulogenese im Matrigel. Die Anzahl der Branch-Points sind
+Ausdruck für die Tubulogenese. Sie wurden jeweils aus 6 verschiedenen Sichtfeldern
+ausgezählt. Die Mittelwerte und Standardabweichungen von Branch-Points aus 6
+unabhängigen Experimenten sind dargestellt. * P < 0,05 versus Kontrolle.
+
+51
+
+Diskussion
+
+6 Diskussion
+
+6.1 Ischämische Gefäßerkrankungen
+Ziel der vorliegenden Arbeit war die Entwicklung eines neuartigen angiogenetischen Faktors.
+Klinischer Hintergrund ist das Fehlen einer effektiven medikamentösen Therapieoption für
+die periphere arterielle Verschlusskrankheit im fortgeschrittenen Stadium. Ischämische
+Gefäßerkrankungen stellen die häufigste Todesursache in der westlichen Welt dar. Pro Jahr
+kommt es zu über 1,1 Millionen Myokardinfarkten und mehr als 400 000 neuen Fällen von
+stenosebedingtem Herzversagen (Orlic et al., 2002). Im peripheren Gefäßsystem stellt die
+pAVK das Korrelat zur koronaren Herzkrankheit dar. Bei dieser Erkrankung kommt es
+infolge arteriosklerotischer Veränderungen zu einer Degeneration der Gefäßwände und in der
+Folge zu Stenose- und Verschlußprozessen der Becken- und Beinarterien, die zum
+Perfusionsdefizit der unteren Extremität führen (Gottsäter et al., 2006). Die pAVK wird leider
+auch heute noch zu selten diagnostiziert und in ihrer prognostischen Bedeutung als
+Markerkrankheit für eine hohe Mortalität der betroffenen Patienten unterschätzt (Diehm et al.,
+2011). Therapeutisch stehen neben der Einstellung von Risikofaktoren endovaskuläre (z.B.
+PTA mit oder ohne Stent-Implantation oder Katheter-Atherektomie) und konventionell
+chirurgische (z.B. offene Atherektomie oder Bypass) Revaskularisierungsverfahren zur
+Verfügung. Da diese Therapieverfahren jedoch nicht bei allen Patienten durchführbar oder
+ausreichend erfolgreich sind, kommt es in den meisten Fällen bei weiterem Fortschreiten der
+Erkrankung zur Bedrohung der Extremität (Sprengers et al., 2010). Bei Patienten mit pAVK
+im Stadium IV, bei denen eine konservative oder gefäßchirurgische Therapie nicht mehr
+möglich oder sinnvoll ist, besteht als einzige Therapieoption die Amputation. Eine potenzielle
+alternative Therapieoption für diese Patienten stellt die therapeutische Angioneogenese dar.
+
+6.2 Therapeutische Angioneogenese
+Als
+
+therapeutische
+
+Angiogenese
+
+wird
+
+die
+
+Applikation
+
+von
+
+angiogenetischen
+
+Wachstumsfaktoren bei Ischämie von Geweben bezeichnet mit dem Ziel, die natürliche,
+reaktive Arteriogenese und Angiogenese zu stimulieren, und somit den Blutfluss in
+minderperfundierten Geweben, also im Falle der pAVK in ischämischen Muskelarealen zu
+verbessern.
+
+Hierbei
+
+werden
+
+entweder
+
+rekombinante
+
+Wachstumsfaktoren
+
+oder
+
+für
+
+Wachstumsfaktoren kodierende Gene appliziert (Losordo et al., 1998; Schumacher et al.,
+52
+
+Diskussion
+1998). Die therapeutische Angiogenese stellt eine potenzielle alternative Therapieoption für
+Patienten mit einer kritischen Beinischämie auf dem Boden einer Kapillaraussprossung und
+der Neubildung von Kollateralgefäßen dar. Zwar konnten in den letzten Jahrzehnten
+innovative Techniken zur Revaskularisation, wie die Rekanalisation okkludierter Gefäße
+durch endovaskuläre Verfahren oder die intraarterielle Lysetherapie oder auch operative
+Bypassverfahren, erfolgreich etabliert werden, jedoch stellen diese invasiven Methoden für
+viele Patienten nur bedingt eine optimale Therapie dar oder sind gar nicht mehr möglich.
+Neben dem Risiko des Eingriffes ist auch die Wahrscheinlichkeit einer Wiedereinengung des
+Gefäßlumens nicht unerheblich, auch wenn in den letzten Jahren, etwa durch mit
+Medikamenten beschichtete Ballons oder Stents, die Restenoserate deutlich reduziert werden
+konnte (Scheller et al., 2006; Tepe et al., 2008). Die zum Teil begrenzte Funktionsdauer von
+Bypass-Rekonstruktionen kann erneute Interventionen erforderlich machen. Die Betroffenen
+gehören somit zur wachsenden Patientengruppe mit chronischer pAVK. Die Entwicklung
+neuer Therapiestrategien ist unter diesem Aspekt von großer Bedeutung. In jüngster Zeit rückt
+die Angiogenese-Forschung in den Mittelpunkt des Interesses bei der Suche nach neuen
+Therapieformen für die Heilung von peripheren vaskulären Erkrankungen. Das Ziel der
+klinischen Forschung besteht in der Identifizierung von geeigneten Stimulatoren der
+Angiogenese für die Therapie dieser Erkrankungen. Die Gentherapie für kardiovaskuläre
+Systemerkrankungen hat nach Nabel´s Publikation einen deutlichen Aufschwung in den
+letzten Jahren erfahren (Nabel et al., 1990). Die Gentherapie mit angiogenen
+Wachstumsfaktoren wie HGF, FGF-1, FGF-4, VEGF 121, VEGF-175 und VEGF-10 konnte
+im Tierversuchsmodell durch einen intramuskulären Gentransfer in den Hintergliedmaßen
+oder bei Myokardischämien eine Angioneogenese induzieren. Die Induktion der Angiogenese
+durch VEGF165 konnte experimentell und klinisch gezeigt werden (Baumgartner et al., 1998;
+Baumgartner et al., 2001; Isner et al., 1996; Isner et al., 1998; Folkman et al., 1998;
+Takeshita et al., 1994). VEGF gehört zu den potentesten Stimulatoren der Angiogenese.
+Jedoch ist die klinische Applikation nicht unbedenklich, da eine Wachstumsstimulation
+sowohl physiologischer als auch maligner Gewebe erfolgen kann. Daneben wurde auch die
+Aktivierung atherosklerotischer Plaques beobachtet (Celletti et al., 2001). Potenzielle
+Nebenwirkungen der Gentherapie können in Form von Tumoren oder einer diabetischen
+Retinonpathie auftreten (Caldwell et al., 2003). Der Mechanismus der Wirkung und
+Nebenwirkungen nach angiogener Gentherapie ist noch nicht in toto verstanden. Die
+Angiogenese wurde bereits mit niedrigen Konzentrationen adenoviraler VEGF induziert,
+während höhere Konzentrationen nötig waren, um effizient eine kapillare Ausprossung und
+53
+
+Diskussion
+eine Erhöhung der Zielmuskelperfusion zu erreichen. Interessanterweise korrelierten
+metabolische Vorteile wie ein verbesserter Sauerstoffumsatz nach adenoviraler VEGF
+Applikation im höheren Maße mit der Kapillarlumenvergrößerung als mit der
+Neuaussprossung von Gefäßen (Korpisalo et al., 2011). Unter der Gentherapie mit VEGF
+wurden mehrere systemische dosisabhängige Nebenwirkungen beobachtet, die durch
+charakteristische Veränderungen von Indexparametern des hepato-pankreatischen und renalen
+Systems begleitet wurden. Außerdem wurden kardiale Funktionsparameter verändert
+(Korpisalo et al., 2011).
+Phase I und Phase II Studien wurden mit den Wachstumsfaktoren FGF und VEGF zur
+therapeutischen Angiogenese bei Patienten mit peripherer oder koronarer Ischämie nach
+verschiedenen Tierversuchen initiiert und teilweise abgeschlossen (Lederman et al., 2002;
+Henry et al., 2003; Grines et al., 2002). Zwar erbrachten die initial durchgeführten, nicht
+kontrollierten Studien zunächst vielversprechende Ergebnisse (Henry et al., 2003), die
+inzwischen
+
+vorliegenden
+
+Ergebnisse
+
+von
+
+mehreren
+
+kontrollierten,
+
+randomisierten
+
+Doppelblindstudien ergaben jedoch ein gemischtes Bild (Henry et al., 2007). So wurde in
+einigen Studien ein prädefinierter primärer Endpunkt erreicht, weitere primäre Endpunkte
+jedoch verfehlt (Henry et al., 2007).
+Die Anwendung von Stammzellen zur Induktion von Neoangiogenese stellt eine
+vielversprechende Alternative zu konventionellen Therapieverfahren der kardiovaskulären
+Medizin dar (Sprengers et al., 2008). Zurzeit sind mehrere placebo-kontrollierte Studien zur
+Feststellung der Rolle von autologen Knochenmarksstammzellen initiiert (Amann et al.,
+2008). Stammzellen aus dem Knochenmark können die Angioneogenese induzieren und die
+kollaterale Durchblutung verbessern. Diese Hypothese wurde in einer randomisierten
+Placebo-kontrollierten multizentischen Studie in Deutschland (BONMOT-CLI) mit 90
+Patienten mit kritischer Extremitätenischämie überprüft. Die ersten Ergebnisse zeigten, dass
+die Injektion autologer Stammzellen bei kritischer Ischämie der unteren Extremität ohne
+Möglichkeit einer Revaskularisation effektiv im Sinne einer verbesserten Wundheilung ist
+sowie mit einer verminderten Majoramputationrate einherzugehen scheint (Amann et al.,
+2009). Allerdings ist nicht vor Ende Sommer 2011 mit abschließenden Ergebnissen der
+BONMOT-CLI-Studie zu rechnen (Lüdemann et al., 2011).
+
+6.3 Das HIV-1 Tat-Protein und Angiogenese
+Das HIV-1 Tat-Protein ist ein Transaktivator der HIV-1 Replikation und Transkription
+54
+
+Diskussion
+(Neuveut et al., 1996; Rana et al., 1999) und trägt zur Immundefizienz während der AIDS
+Erkrankung bei. Darüber hinaus induziert das HIV-1 Tat-Protein angiogene Effekte im
+Endothel, was zur Entwicklung des Kaposi Sarkoma im AIDS Stadium bei Patienten führen
+kann (Rubartelli et al., 1998). Das 86-Aminosäuren-Tat-Protein wird von zwei Exons kodiert
+(Neuveut et al., 1996). Die ersten 72 Aminosäuren werden von dem ersten Exon kodiert, die
+übrigen 14 C-terminalen Aminosäuren von einem weiteren Exon. Das Tat-Protein besteht aus
+5 funktionellen Domänen, einer N-terminalen-, einer Cystein-reichen-, einer Kern-, einer
+basischen- und einer C-terminalen Region. Die basische Region enthält die RNABindungsdomäne und ein NLS (Nuclear Localization Signal). Außerdem ist sie zuständig für
+die Aufnahme von Tat in die Zelle durch die zelluläre Membran. Im Gegensatz dazu bindet
+die Cystein-reiche Region unspezifisch an zahlreiche Komplexe und ist für die
+Oligomerisierung des Tat-Proteins verantwortlich (Rana et al., 1999).
+Eine eventuelle Anwendung des Tat-Proteins für eine pro-angiogene Therapie muss mögliche
+negative Nebenwirkungen des viralen Proteins berücksichtigen. Es ist bekannt, dass das TatProtein eine immunsuppressive Wirkung hat. Es wurde gezeigt, dass die Tat-Aminosäuren
+Lys51, Arg52 und Asp67 für die Unterdrückung der Antigenpräsentation mittels MHC Klasse
+I essentiell sind. Die Tat-Wirkung basiert auf der Hemmung des 20S Proteasoms und der
+Kompetition des Tat-Proteins mit dem Proteasom-Aktivator PA28. Die Mutation der
+Aminosäuren Lys51, Arg52 und Asp67 zu Ala führt zur Aufhebung der Tat-Wirkung auf die
+Antigenpräsentation (Huang et al., 2002).
+Das HIV-1 Tat-Protein ist ein angiogener Wachstumsfaktor. Es konnte gezeigt werden, dass
+die basische Domäne des viralen Proteins für die Stimulierung des Wachstums und der
+Migration von Endothelzellen verantwortlich ist (Albini et al., 1996). Der exakte
+Mechanismus der Wirkungsweise ist noch unklar. Es wurde angenommen, dass die basische
+Domäne des Tat-Proteins über den VEGF Rezeptor 2 wirkt (Scheidegger et al., 2001).
+Andererseits penetriert die basische Domäne in die Zelle und hat einen Einfluss auf das
+Proteasomsystem (Huang et al., 2002; Seeger et al., 1997).
+
+6.4 Mechanismus der Angiogenese und Arteriogenese
+In unterschiedlischen experimentellen Studien wurde die Adaptation des Gefäßsystems des
+erwachsenen Organismus an die chronische Ischämie durch Angiogenese und Arteriogenese
+gezeigt (Folkman et al., 1971; Schaper et al., 1999). Die ersten Publikationen über
+Angiogenese befassten sich mit der Vaskularisierung von Tumoren (Folkman et al., 1971).
+55
+
+Diskussion
+Bei der Angiogenese handelt sich um die Neubildung von Kapillaren in dem ischämischen
+Areal, wie zum Beispiel beim Karzinom, Apoplex und ischämischer Gefäßkrankheit. Die
+Angiogenese ist ein komplexer Prozess, der ein intensives Zusammenspiel zwischen den
+beteiligten Zellen, löslichen Faktoren und extrazellulären Matrixkomponenten erfordert. Die
+Angiogenese bezieht sich auf die Aussprossung von Endothelzellen, welche schließlich zur
+Formierung eines kapillären Netzwerks führt (Folkman et al., 1997).
+In unserem Labor haben wir zunächst den Mechanismus der Tumorangiogenese erforscht. Es
+konnte gezeigt werden, dass die anti-angiogene Substanz Curcumin ein Hemmstoff der CSNassoziierten Kinasen ist (Bech-Otschir et al., 2002). Durch die Hemmung der CSNassoziierten Kinasen kommt es zum Abbau des Transkriptionsfaktors c-Jun durch das
+Ubiquitin-Proteasom-System (UPS). Der Transkriptionsfaktor c-Jun reguliert den Hauptteil
+der VEGF-Produktion in Tumorzellen, und der Abbau von c-Jun führt zur Abnahme der
+VEGF-Produktion in HeLa und HL-60 Zellen um 75% (Pollmann et al., 2001).
+Die Arteriogenese stellt die zweite Form des Gefäßwachstums dar. Sie wurde als
+eigenständiger Prozess erkannt und wird inzwischen auch als eigenständiges therapeutisches
+Ziel angesehen (Schaper et al., 1999). Arteriogenese bezeichnet das Wachstum von bereits
+existierenden Arteriolen zu funktionell bedeutenden Kollateralen. Die Role der Arteriogenese
+im Sinne der Verbesserung der regionalen Durchblutung und Vermeidung von
+Ischämiefolgen ist gut erforscht (Nohara et al., 1983; Schwartz et al., 1985). Das
+Kollateralwachstum findet, im Gegensatz zur Angiogenese, nicht im ischämischen Gewebe
+selbst, sondern proximal davon statt (Schaper et al., 1996). Der entscheidende Stimulus ist
+daher auch nicht die Ischämie selbst, sondern mechanische Kräfte durch Umverteilung des
+Blutflusses (Singh et al., 1998). In unserer Arbeit haben wir den initialen Effekt von TatPeptiden auf die Stimulation der Angiogenese untersucht.
+
+6.5 Testung der Effekte von Tat-Protein und von Tat-Peptiden auf das
+Proteasomsystem
+Um Tat-Peptide für eine Therapie von vaskulären Erkrankungen potenziell nutzbar zu
+machen, haben wir zunächst die Effekte einer Vielzahl von synthetisierten Tat-Peptiden auf
+das Proteasomsystem getestet. Wir hatten gezeigt, dass vollständiges Tat-Protein das 20S
+Proteasom hemmt und den Proteasom-Aktivator PA28 vom Proteasom verdrängt. Außerdem
+führt die Tat-Bindung an den 19S Regulator zur Stimulierung des 26S Proteasoms (Seeger et
+al., 1997). Darüber hinaus wurde demonstriert, dass das Tatpep1 den gleichen Effekt auf das
+56
+
+Diskussion
+Proteasomsystem ausübt wie das vollständige Tat-Protein. Sowohl Tatpep1 als auch
+vollständiges Tat-Protein hemmen die Antigenpräsentation via MHC Klasse I (Huang et al.,
+2002). Diese Eigenschaften des Tat-Proteins wären für die pro-angiogene Anwendung des
+viralen Proteins ungeeignet. Die Mutation der Tat-Aminosäuren Lys51, Arg52 und Asp67
+führt zum vollständigen Verlust des Tat-Protein-Effekts auf das Proteasomsystem und auf die
+Antigenpräsentation (Huang et al., 2002). Daraus resultierte die Synthese des Tat-Peptides
+Tatpep5.
+Darüber hinaus wurden die Tat-Peptide Tatpep6 bis Tatpep18 synthetisiert. Tatpep6 resultiert
+aus einem Literaturvergleich. Es stellt die Minimalregion des Tat-Proteins dar, die in allen
+Tat-Peptiden mit pro-angiogener Wirksamkeit enthalten ist. Die Peptide Tatpep6 bis Tatpep18
+wurden zunächst mit dem 20S Proteasom inkubiert und so ihr Effekt auf die Peptidaseaktivität
+des Proteasoms getestet. Mit Tatpep5, Tatpep15 und Tatpep16 wurde kein Hemmeffekt auf
+das 20S Proteasom gemessen. Alle anderen Peptide hatten einen Hemmeffekt auf das
+Proteasom und sind demzufolge für eine klinische Anwendung in der Therapie ungeeignet.
+
+6.6 Einfluss der Tat-Peptide auf die Transkriptionsfaktoren c-Jun und SP1
+Ein weiterer wesentlicher Faktor zur Einschätzung des Effekts der Tat-Peptide auf die
+Angiogenese ist deren Einfluss auf die Stimulation von Angiogenesetranskriptionsfaktoren
+wie c-Jun und SP1. Die Angiogenese wird im Wesentlichen reguliert durch c-Jun und SP1.
+Die Behandlung von HUVEC mit vollständigem Tat-Protein führte zum Anstieg der
+endogenen Konzentration von c-Jun und SP1. Diese bestätigte den Angiogeneseeffekt des
+Tat-Proteins. Auf Grund dieses Ergebnisses wurde der Effekt der Tat-Peptide auf die
+Konzentrationen der Transkriptionsfaktoren untersucht. Beim Einsatz von Curcumin
+resultierte eine Senkung der Konzentrationen der Transkriptionsfaktoren, währenddessen
+Tatpep15 und Tatpep16 konzentrationsabhängig eine Erhöhung des endogenen c-Jun- und
+SP1- Spiegels bewirkten.
+Weiterhin zeigten Tatpep5, Tatpep15 und Tatpep16 keinen inhibitorischen Effekt auf das
+Zellwachstum der HUVEC in dem MTT-Assay. Daher haben Tatpep5, Tatpep15 und
+Tatpep16 weder toxische noch apoptotische Effekte unter den verwendeten experimentellen
+Bedingungen. Im Gegensatz dazu hatte die Inkubation der Zellen mit Curcumin, das für
+seinen apoptotischen Effekt bekannt ist (Bech-Otschir et al., 2001; Liontas et al., 2004), eine
+Reduktion der Proliferation um 60% zur Folge.
+
+57
+
+Diskussion
+
+6.7 Einfluss der Tat-Peptide auf die Produktion von bFGF und VEGF
+bFGF kann an Gefäßen die Proliferation aller drei Gefäßzellarten (Endothelzellen, glatte
+Muskelzellen, Fibroblasten) stimulieren. bFGF wurde 1974 zum ersten Mal isoliert. Es wird
+als Polypeptid von einer Vielzahl verschiedener Zellen synthetisiert und liegt in zwei
+verschiedenen Formen vor, als acidic FGF (aFGF) mit 16 kD und als basic FGF (bFGF) mit
+18 kD. Im Gegensatz zu VEGF ist FGF nicht allein spezifisch für Endothelzellen, sondern
+bindet sich an verschiedene Zelltypen wie zum Beispiel glatte Muskelzellen, Fibroblasten und
+auch Myoblasten. Durch die unterstützende Funktion bei der Degradierung von
+Kapillarmembranen, bei der Migration und Proliferation von Endothelzellen und durch die
+Produktion des Plasminogen-Aktivators spielt FGF eine wichtige Rolle in der Angiogenese
+(Descheemaeker et al., 1993; Okada et al., 1996; Lafreniere et al., 2004). Während andere
+Wachstumsfaktoren pleiotrop wirksam sind, ist VEGF ein hochspezifisches Mitogen für
+Endothelzellen. Die biologische Bedeutung von VEGF beschränkt sich aber nicht auf die
+Induktion der Zellproliferation. Über die Expression bestimmter Adhäsionsmoleküle auf
+Endothel und Zellen des peripheren Blutes fördert dieser Wachstumsfaktor die Zellmigration
+und
+
+Zellkommunikation
+
+und
+
+bildet
+
+so
+
+mit
+
+seinen
+
+Rezeptoren
+
+ein
+
+essenzielles
+
+Regulationssystem für die Formation von Blutgefäßen während der embryonalen Entwicklung
+(Leung et al., 1989). Darüberhinaus verfügt VEGF auch über Einfluss auf die EndothelzellDifferenzierung (Carmeliet et al., 1995). Unterbindet man die Signaltransduktion bei
+Versuchstieren in utero, zeigen die Embryonen keine Endothel- oder hämopoetischen
+Stammzellen. VEGF ist demnach als entscheidende Determinante der Differenzierung von
+Hämangioblasten in endotheliale Vorläuferzellen und Stammzellen der Blutbildung
+anzusehen. Ausserdem kommt es unter seinem Einfluss durch Einbau von Fenestrierungen in
+das Endothel sowie durch Formation von Kanälen zu gesteigerter Gefäßpermeabilität
+(Neufeld et al., 1999).
+In der vorliegenden Arbeit konnte gezeigt werden, dass Tat-Peptide keinen relevanten
+Einfluss auf die VEGF-Produktion in HUVEC haben. Im Gegensatz dazu haben Tat-Peptide
+jedoch einen konzentrationsabhängigen Einfluss auf bFGF-Produktion. Die FGF-Familie
+spielt eine wesentliche Rolle in der Prozess der Arteriogenese (Lebherz et al., 2003). Dennoch
+ist die vaskuläre Adaptation bei Ischämie als Ganzes ein komplexer Prozess, bei dem viele
+verschiedene Faktoren eine Rolle spielen. Die FGF-Familie fördert die Angiogenese durch die
+Steigerung der VEGF-Produktion und der Expression seines Rezeptors (Hata et al., 1999).
+
+58
+
+Diskussion
+
+6.8 Tatpep5, Tatpep15 und Tatpep16 stimulieren die Produktion von PAI-1
+in HUVEC
+PAI-1 ist ein Glykoprotein mit einem Molekulargewicht von 48 kD und gehört zur Familie
+der Serinprotease-Inhibitoren (Loskutoff et al., 1987). Seine physiologische Funktion besteht
+hauptsächlich in der Inhibition der Plasminogen-Aktivatoren (t-PA und u-PA) (Bos et al.,
+1992). Es nimmt damit eine zentrale Funktion in der Regulation der Bildung stabiler
+Thromben ein (Rånby et al., 1988). PAI-1 wird im Plasma durch Bindung an Vitronectin in
+seiner aktiven Konformation stabilisiert (Wiman et al., 1988). Darüber hinaus spielt die
+Expression von PAI-1 eine wichtige Rolle in der Regulation der Zellmigration und
+Angiogenese (Inyang et al., 1990). Die Produktion von PAI-1 in HUVEC wird beschleunigt
+durch die Präsenz der Transkriptionsfaktoren c-Jun und SP1 (Arts et al., 1999, Chen et al.,
+1998). PAI-1 spielt eine essenzielle Rolle in dem angiogenen Programm (Bajou et al., 2004;
+McMahon et al., 2001; Vogten et al., 2003). Als weiteres Kriterium für die pro-angiogene
+Wirkung der Tat-Peptide wurde die PAI-1 Produktion von HUVEC gemessen. Mit Hilfe eines
+spezifischen ELISA-Tests wurde die PAI-1 Konzentration im Überstand von HUVEC
+quantifiziert.
+Das vollständige Tat-Protein steigert die PAI-1 Produktion um 50% im Vergleich zur
+Kontrolle. Es konnte zum ersten Mal gezeigt werden, dass das Tat-Protein sowie Tat-Peptide
+die Sekretion von PAI-1 in HUVEC stimulieren. Die Curcumin-Behandlung der HUVEC
+resultiert in der Senkung der PAI-1-Produktion, was mit hoher Wahrscheinlichkeit auf die
+Reduzierung der c-Jun und SP1 Protein-Konzentrationen zurückzuführen ist. Die Hemmung
+der PAI-1 Produktion lässt sich durch die Hemmung der CSN-assoziierten Kinasen erklären.
+Tatpep5 und Tatpep15 waren zweifach effektiver in der Stimulation der PAI-1-Sekretion im
+Vergleich zum Tat-Protein. Das Tatpep16 hatte den gleichen Effekt wie das Tat-Protein. Die
+Stimulation der PAI-1-Sekretion macht die Tat-Peptide Tatpep5, Tatpep15 und Tatpep16 zu
+potenziellen Peptiden für das pro-angiogene Programm.
+
+6.9 Tatpep5, Tatpep15 und Tatpep16 unterstützen die Invasion/Migration
+sowie die Gefäßneubildung in HUVEC
+Die Angiogenese ist ein komplexer Vorgang, der auf dem intensiven Zusammenspiel von
+Zellen, löslichen Faktoren und extrazellulären Matrixkomponenten basiert. Die Angiogenese
+beinhaltet in vivo das Wachstum und die Stabilisierung neuer Gefäße (Vailhé et al., 2001).
+59
+
+Diskussion
+Analog zur in vivo-Angiogenese durchliefen die eingesetzten mikrovaskulären Endothelzellen
+auch in-vitro nach Stimulation mit pro-angiogenen Faktoren die verschiedenen Stadien der
+angiogenen Kaskade wie Migration, Proliferation und Differenzierung in kapillarähnliche
+Strukturen mit einem zentralen Lumen, welche eindeutig dem Wachstum von Gefäßen in vivo
+zugeordnet werden können. Der proteolytische Abbau der extrazellulären Matrix führt zu
+einem lokalen Anstieg von Wachstumsfaktoren (z.B. VEGF, bFGF, platelet-derived growth
+factor, epidermal growth factor) und Peptidfragmenten (z.B. Fibrin, Hyaluronsäure), die die
+Migration und Proliferation von HUVEC unterstützen (Liekens et al., 2002).
+Die zunächst durchgeführten Untersuchungen hatten zum Ziel, den Einfluss der Tat-Peptide
+auf die Invasion und Migration von HUVEC zu analysieren. Das für die Endothelzellkultur
+verwendete Medium enthielt keine proliferationssteigernden Faktoren, so dass ausschließlich
+der Effekt der Tat-Peptide auf die Invasion und Migration von HUVEC untersucht werden
+konnte. Der angiogene Faktor bFGF spielt eine wichtige Rolle in der Invasion und Migration
+von Endothelzellen (Descheemaeker et al., 1993; Okada et al., 1996) und wurde als positive
+Kontrolle verwendet. Curcumin diente als negative Kontrolle. Die Ergebnisse dieser Arbeit
+bestätigen die vielfach beschriebene Steigerung der Invasion und Migration von
+Endothelzellen durch bFGF (Scharpfenecker et al., 2007). Tatpep5 und Tatpep15 stimulieren
+die Migration und Invasion von HUVEC im Matrigel-Invasionsassay ähnlich wie bFGF.
+Curcumin, als bekannter Inhibitor der Angiogenese, zeigte eine Hemmung der Invasion und
+Migration von HUVEC. Diese Ergebnisse stellten einen ersten Schritt in der Untersuchung
+des Einflusses der Tat-Peptide auf die in-vitro Angiogenese dar. Zur umfassenden Analyse
+dieser Wirkungen wurden weitere in-vitro Untersuchungen mittels Gefäßneubildungsassay
+durchgeführt. Diese diente zur qualitativen und quantitativen Beurteilung der Bildung von
+kapillarähnlichen Strukturen. Wie die vorliegenden Daten zeigen, wurde die Bildung
+tubulärer Strukturen von HUVEC im in-vitro Gefäßneubildungsassay unter dem Einfluss von
+Tatpep5, Tatpep15 und Tatpep16 stimuliert. Tatpep15 zeigte die stärkste Stimulation.
+Daneben wurde der bekannte positive Effekt von bFGF auf die Bildung tubulärer Strukturen
+bestätigt.
+Anhand dieser verschiedenen Modelle zur in-vitro Angiogenese ließ sich zeigen, dass
+Tatpep5,
+
+Tatpep15
+
+und
+
+Tatpep16
+
+in
+
+der
+
+Lage
+
+sind,
+
+angiogeneserelevante
+
+Endothelzellfunktionen zu stimulieren. So wurden die Proliferation, die Migration und die
+Bildung kapillarähnlicher tubulärer Strukturen von HUVEC durch die ausgewählten Tatpeptide signifikant stimuliert.
+
+60
+
+Zusammenfassung
+
+7 Zusammenfassung
+Die pro-angiogene Kapazität des durch HIV-1 exprimierten multifunktionellen Proteins Tat
+ist bekannt. Das Tat-Protein induziert Angiogenese, bekannt ist die Ausbildung des Kaposi
+Sarkoms während der AIDS-Erkrankung. Das Anliegen des Projektes bestand in der
+Identifizierung von Tat-Peptiden, die Angiogenese induzieren, aber keinen Effekt auf das
+Immunsystem haben. Solche Peptide könnten für die Therapie schwer heilbarer vaskulärer
+Erkrankungen dienen.
+Das Tat-Protein hemmt die Antigenpräsentation mittels MHC Klasse I Molekülen. Der
+Mechanismus dieses Effekts wurde im Labor aufgeklärt und bei der Synthese und Auswahl
+pro-angiogener Tat-Peptide berücksichtigt.
+Ausgehend von der essentiellen Sequenz des Tat-Peptides wurden verschiedene Peptide
+synthetisiert. HUVEC wurden mit diesen Tat-Peptiden behandelt. Hierbei wurde deren
+Einfluss auf das Ubiquitin/Proteasom-System analysiert. Kriterien für die Auswahl
+potenzieller pro-angiogener Eigenschaften der Tat-Peptide waren die Induktion der
+Transkriptionsfaktoren c-Jun und SP1 sowie von PAI-1 in HUVEC. c-Jun und SP1 wurden
+mittels Western blot, PAI-1 mittels spezifischem ELISA bestimmt. Ein wichtiger Schritt der
+Angiogenese ist die Invasion/Migration der Endothelzellen durch die Basalmembran. Die
+Invasion von Endothelzellen wurde in einer modifizierten Boyden-Kammer gemessen. Der
+weitere Einfluss der Tat-Peptide auf die Angioneogenese wurde durch den Matrigel-Assay für
+die Tubulogenese untersucht.
+Es wurden Tat-Peptide mit proangiogenem Effekt synthetisiert, welche keinen Einfluss auf
+das Ubiquitin/Proteasom-System haben. Im HUVEC System konnten 2 Tat-Peptide (Tatpep5
+und Tatpep15) mit proangiogener Kapazität selektiert werden. Tatpep5 und Tatpep15 zeigten
+weder einen toxischen noch einen apoptotischen Effekt auf das Zellwachstum der HUVEC in
+dem MTT-Assay. Tatpep5 und Tatpep15 stimulierten die Migration und Invasion von
+HUVEC im Matrigel-Invasionsassay ähnlich wie bFGF (Ismail et al., 2006). Die
+ausgewählten Tat-Peptide induzierten eine Stimulation der Bildung kapillarähnlicher
+tubulärer Strukturen, welche im qualitativen und quantitativen Gefäßneubildungsassay gezeigt
+wurde. Die erreichten Ergebnisse können Ausgangspunkt für weitere Untersuchungen sein. In
+einer anschließenden Forschungsreihe sollten die Effekte der in den molekularbiologischen
+Studien vor-selektierten Tat-Peptide auf die Vaskularisierung im Tiermodell untersucht
+werden. Dabei soll nachgewiesen werden, ob die Peptide eine therapeutisch relevante
+Angioneogenese induzieren können.
+61
+
+Symmary
+
+8 Summary
+Therapeutic angiogenesis represents a novel approach to treat critical limb ischemia when
+revascularization is no more an option. The clinical use of the vascular endothelial growth
+factor is questioned, because of its side effects. This study was designed to identify and
+characterise human immunodeficiency virus type 1 Tat-derived peptides based on their proangiogenic properties. A series of Tat-derived peptides were synthesized containing mutations
+in the basic domain. To minimize side effects Tat peptides were selected exerting no effects
+on the proteasome and on the growth of human umbilical vein endothelial cells. Tat peptides,
+Tatpep5 and Tatpep15, increased the endogenous levels of the pro-angiogenic transcription
+factors c-Jun and SP1 as well as the production of the plasminogen activator inhibitor-1 by
+human umbilical vein endothelial cells. A significant induction of endothelial cell invasion
+was observed upon treatment of human umbilical vein endothelial cells with Tat peptides. In
+addition, selected Tat peptides induced tube formation by human umbilical vein endothelial
+cells as visualized and quantified in a Matrigel matrix. Our data demonstrate that both
+Tatpep5 and Tatpep15 fulfil essential criteria for pro-angiogenic substances. They represent
+the basis for the development of novel pro-angiogenic drugs for therapeutic angiogenesis,
+which might be applied for treatment of unreconstructible critical limb ischemia.
+
+62
+
+Literaturverzeichnis
+
+9 Literaturverzeichnis
+Albini A, Iwamoto Y, Kleinman H K. A rapid in vitro assay for quantitating the invasive
+potential of tumor cells. Cancer Research 1987; 47:3239-3245.
+Albini A, Barillari G, Benelli R, Gallo RC, Ensoli B. Angiogenic properties of human
+immunodeficiency virus type 1 Tat protein. Proc Natl Acad Sci USA 1995; 92:48384842.
+Albini A, Soldi R, Giunciuglio D, Giraudo E, Benelli R, Primo L, Noonan D, Salio M,
+Camussi G, Rockl W, Bussolino F. The angiogenesis induced by HIV-1 Tat protein
+is mediated by the Flk-1/KDR receptor on vascular endothelial cells. Nat Med 1996;
+2:1371-1375.
+Amann B, Lüdemann C, Rückert R, Lawall H, Liesenfeld B, Schneider M, Schmidt-Lucke J.
+Design and rationale of a randomized, double-blind, placebo-controlled phase III
+study for autologous bone marrow cell transplantation in critical limb ischemia: the
+BONe Marrow Outcomes Trial in Critical Limb Ischemia (BONMOT-CLI). Vasa
+2008; 37:319-25.
+Amann B, Lüdemann C, Ratei R, Schmidt-Lucke J. Autologous Bone Marrow Cell
+Transplantation Increases Leg Perfusion and Reduces Amputations in Patients With
+Advanced Critical Limb Ischemia Due to Peripheral Artery Disease. Cell
+Transplantation 2009; 371-380.
+Arbiser JL, Klauber N, Rohan R, van Leeuwen R, Huang MT, Fisher C, Flynn E, Byers HR.
+Curcumin is an in vivo inhibitor of angiogenesis. Mol Med 1998; 4:376-383.
+Armstrong SA, Barry DA, Leggett RW, Mueller CR. Casein kinase II-mediated
+phosphorylation of the C-terminus of SP1 decreases its DNA binding activity. J Biol
+Chem 1997; 272:13489-13495.
+Arras M, Ito WD, Scholz D, Winkler B, Schaper J, Schaper W. Monocyte activation in
+angiogenesis and collateral growth in the rabbit hind limb. J Clin Invest 1998;
+101:40-50.
+Arts J, Grimbergen J, Toet K, Kooistra T. On the role of c-Jun in the induction of PAI-1 gene
+expression by phorbol ester, serum, and IL-1alpha in HepG2 cells. Arterioscler
+Thromb Vasc Biol 1999; 19:39-46.
+Asahara T. Isolation of putative progenitor endothelial cells for angiogenesis. Science 1997;
+275:964-967.
+63
+
+Literaturverzeichnis
+Bajou K, Maillard C, Jost M, Lijnen RH, Gils A, Declerck P, Carmeliet P, Foidart JM, Noel
+A. Host-derived plasminogen activator inhibitor-1 (PAI-1) concentration is critical
+for in vivo tumoral angiogenesis and growth. Oncogene 2004; 23:6986-6990.
+Barillari G, Ensoli B. Angiogenic effects of extracellular human immunodeficiency virus type
+1 Tat protein and its role in the pathogenesis of AIDS-associated Kaposi's sarcoma.
+Clin Microbiol Rev 2002; 15:310-326.
+Baumeister W, Walz J, Zuhl F, Seemuller E. The proteasome: paradigm of a selfcompartmentalizing protease. Cell 1998; 92:367-380.
+Baumgartner I, Isner JM. Stimulation of peripheral angiogenesis by vascular endothelial
+growth factor (VEGF). Vasa 1998; 27:201-206.
+Baumgartner I, Pieczek A, Manor O, Blair R, Kearney M, Walsh K, Isner JM Constitutive
+expression of phVEGF165 after intramuscular gene transfer promotes collateral
+vessel development in patients with critical limb ischemia. Circulation 1998;
+97:1114-1123.
+Baumgartner I, Isner JM. Somatic gene therapy in the cardiovascular system. Annu Rev
+Physiol 2001; 63;427-450.
+Bech-Otschir D, Kraft R, Huang X, Henklein P, Kapelari B, Pollmann C, Dubiel W. COP9
+signalosome-specific phosphorylation targets p53 to degradation by the ubiquitin
+system. EMBO J 2001; 20:1630-1639.
+Bech-Otschir D, Seeger M, Dubiel W. The COP9 signalosome: at the interface between signal
+transduction and ubiquitin-dependent proteolysis. J Cell Sci 2002; 115:467-473.
+Berkhout B, Gatignol A, Rabson AB, Jeang KT. TAR-independent activation of the HIV-1
+LTR: evidence that tat requires specific regions of the promoter. Cell 1990; 62:757767.
+Bos R, Nieuwenhuizen W. Bispecific monoclonal antibodies increase the fibrin-specific
+fibrinolytic activity of tissue-type plasminogen activator (tPA) and urokinase-type
+plasminogen activator (uPA). Ann N Y Acad Sci 1992; 667:428-30.
+Bradford, MM. A rapid and sensitive method for the quantitation of microgram quantities of
+protein utilizing the principle of protein-dye binding. Anal Biochem. 1976; 72:24854.
+Brindle N. Growth factors in endothelial regeneration. Cardiov Res 1993; 27:1162-1172.
+Caldwell RB, Bartoli M, Behzadian MA, El-Remessy AE, Al-Shabrawey M, Platt DH,
+Caldwell RW. Vascular endothelial growth factor and diabetic retinopathy:
+pathophysiological mechanisms and treatment perspectives. Diabetes Metab Res
+64
+
+Literaturverzeichnis
+Rev. 2003; 19:442-55.
+Carmeliet P, Collen D. Vascular development and disorders: molecular analysis and
+pathogenic insights. Kidney Int 1998; 53:1519-4159.
+Carmeliet P. VEGF as a key mediator of angiogenesis in cancer. Oncology. 2005; 3:4-10.
+Celletti FL, Hilfiker PR, Ghafouri P, Dake MD. Effect of human recombinant vascular
+endothelial growth factor165 on progression of atherosclerotic plaque. J Am Coll
+Cardiol 2001; 37:2126-2130.
+Celletti FL, Waugh JM, Amabile PG, Brendolan A, Hilfiker PR, Dake MD. Vascular
+endothelial growth factor enhances atherosclerotic plaque progression. Nat Med
+2001; 7:425-429.
+Cerundolo V, Benham A, Braud V, Mukherjee S, Gould K, Macino B, Neefjes J, Townsend
+A. The proteasome-specific inhibitor lactacystin blocks presentation of cytotoxic Tlymphocyte epitopes in human and murine cells. Eur J Immunol 1997; 27:336-341.
+Chen YQ, Su M, Walia RR, Hao Q, Covington JW, Vaughan DE. Sp1 sites mediate
+activation of the plasminogen activator inhibitor-1 promoter by glucose in vascular
+smooth muscle cells. J Biol Chem 1998; 273:8225-8231.
+Craiu A, Gaczynska M, Akopian T, Gramm CF, Fenteany G, Goldberg AL, Rock KL.
+Lactacystin and clasto-lactacystin beta-lactone modify multiple proteasome betasubunits and inhibit intracellular protein degradation and major histocompatibility
+complex class I antigen presentation. J Biol Chem 1997; 272:13437-13445.
+Demir R, Yaba A, Huppertz B. Vasculogenesis and angiogenesis in the endometrium during
+menstrual cycle and implantation. Acta Histochem. 2010; 112:203-14.
+Descheemaeker K. On the regulation of the plasminogen activator inhibitor-1 gene
+expression. Verh K Acad Geneeskd Belg 1993; 55:225-264.
+Diehm C, Darius H, Pittrow D, Schwertfeger M, Tepohl G, Haberl RL, Allenberg JR,
+Burghaus I, Trampisch HJ. Prognostic value of a low post-exercise ankle brachial
+index as assessed by primary care physicians. Atherosclerosis 2011; 214:364-372.
+Dynan WS, Tjian R. The promoter-specific transcription factor Sp1 binds to upstream
+sequences in the SV40 early promoter. Cell 1983; 35:79-87.
+Eferl R, Wagner EF. AP-1: A double-edged sword in tumorogenesis. Nat Rev Cancer 2003;
+3:859-868.
+Ferrara N, Gerber HP, LeCouter J. The biology of VEGF and its receptors. Nat Med 2003;
+9:669-676.
+Fojas de Borja P, Collins NK, Du P, Azizkhan-Clifford J, Mudryj M. Cyclin A-CDK
+65
+
+Literaturverzeichnis
+phosphorylates Sp1 and enhances Sp1-mediated transcription. EMBO J 2001;
+20:5737-5747.
+Folkman J. Tumor angiogenesis: therapeutic implications. N Engl J Med 1971; 285:11821186.
+Folkman J, Klagsburn M. Angiogenic factors. Science 1987; 235:442-447.
+Folkman J. Angiogenesis in cancer, vascular, rheumatoid and other disease. Nat Med 1995;
+27-31.
+Folkman J. Addressing tumor blood vessels. Nat Biotechnol. 1997; 15:510.
+Folkman J. Therapeutic angiogenesis in ischemic limbs. Circulation 1998; 97:1108-10.
+Fontaine
+
+R,
+
+Kim
+
+M,
+
+Kieny
+
+R.
+
+Die
+
+chirugische
+
+Behandlung
+
+der
+
+peripheren
+
+Durchblutungsstörungen. Helvetica Chirurgica Acta 1954; 21:499-533.
+Frankel AD. Activation of HIV transcription by Tat. Curr Opin Genet Dev 1992; 2:293-298.
+Gallo RC. Tat as one key to HIV-induced immune pathogenesis and Tat (correction of Pat)
+toxoid as an important component of a vaccine. Proc Natl Acad Sci USA 1999;
+96:8324-8326.
+Garcia A, Cereghini S, Sontag E. Protein phosphatase 2A and phosphatidylinositol 3-kinase
+regulate the activity of Sp1-responsive promoters. J Biol Chem. 2000; 275:93859389.
+Gargett CE, Lederman F, Lau TM, Taylor NH and Rogers PAW. Lack of correlation between
+vascular endothelial growth factor production and endothelial cell proliferation in
+the human endometrium. Human Reproduction 1999; 14:2080-2088.
+Gerber HP, McMurtrey A, Kowalski J, Yan M, Keyt BA, Dixit V, Ferrara N. Vascular
+endothelial growth factor regulates endothelial cell survival through the
+phosphatidylinositol 3'-kinase/Akt signal transduction pathway. Requirement for
+Flk-1/KDR activation. J Biol Chem 1998; 273:30336-30343.
+Gottsäter A. Managing risk factors for atherosclerosis in critical limb ischaemia. Eur J Vasc
+Endovasc Surg 2006; 32:478-483.
+Grines CL, Watkins MW, Helmer G, Penny W, Brinker J, Marmur JD, West A, Rade JJ,
+Marrott P, Hammond HK, Engler RL. Angiogenic Gene Therapy (AGENT) trial in
+patients with stable angina pectoris. Circulation 2002; 105:1291-1297.
+Gutierrez LS, Schulman A, Brito-Robinson T, Noria F, Ploplis VA, Castellino FJ. Tumor
+development is retarded in mice lacking the gene for urokinase-type plasminogen
+activator or its inhibitor, plasminogen activator inhibitor-1. Cancer Res 2000;
+60:5839-5847.
+66
+
+Literaturverzeichnis
+Hanahan D and Folkman J. Patterns and emerging mechanisms of the angiogenic switch
+during tumorigenesis. Cell 1996; 86:353-364.
+Hata Y, Rook SL, Aiello LP. Basic fibroblast growth factor induces expression of VEGF
+receptor KDR through a protein kinase C and p44/p42 mitogen-activated protein
+kinase-dependent pathway. Diabetes 1999; 48:1145-1155.
+Heil M, Eitenmuller I, Schmitz-Rixen T, Schaper W. Arteriogenesis versus angiogenesis:
+similarities and differences. J Cell Mol Med 2006; 10:45-55.
+Henry TD, Annex BH, McKendall GR, Azrin MA, Lopez JJ, Giordano FJ, Shah PK,
+Willerson JT, Benza RL, Berman DS, Gibson CM, Bajamonde A, Rundle AC, Fine
+J, McCluskey ER. The VIVA trial: Vascular endothelial growth factor in Ischemia
+for Vascular Angiogenesis. Circulation 2003; 107:1359-1365.
+Henry TD, Grines CL, Watkins MW, Dib N, Barbeau G, Moreadith R, Andrasfay T, Engler
+RL. Effects of Ad5FGF-4 in patients with angina: an analysis of pooled data from
+the AGENT-3 and AGENT-4 trials. J Am Coll Cardiol 2007; 50:1038-1046.
+Hertig AT. Angiogenesis in the early human chorion. Contrib Embryol Carnegie Inst 1935;
+25:37-43.
+Hoey T, Weinzierl RO, Gill G, Chen JL, Dynlacht BD, Tjian R. Molecular cloning and
+functional analysis of Drosophila TAF110 reveal properties expected of
+coactivators. Cell 1993; 72:247-260.
+Huang LM, Joshi A, Willey R, Orenstein J, Jeang KT. Human immunodeficiency viruses
+regulated by alternative trans-activators: genetic evidence for a novel nontranscriptional function of Tat in virion infectivity. EMBO J 1994; 13:2886-2896.
+Huang X, Seifert U, Salzmann U, Henklein P, Preissner R, Henke W, Sijts AJ, Kloetzel PM,
+Dubiel W. The RTP site shared by the HIV-1 Tat protein and the 11S regulator
+subunit alpha is crucial for their effects on proteasome function including antigen
+processing. J Mol Biol 2002; 323:771-782.
+Ikeda E, Achen MG, Breier G, Risau W. Hypoxia-induced transcriptional activation and
+increased mRNA stability of vascular endothelial growth factor in C6 glioma cells. J
+Biol Chem 1995; 270:19761-19766.
+Imamura H, Takao S, Aikou T. A modified invasion-3-(4,5- dimethylthiazole-2-yl)-2,5diphenyltetrazolium bromide assay for quantitating tumor cell invasion. Cancer Res
+1994; 54:3620-3624.
+Inyang AL, Tobelem G. Tissue-plasminogen activator stimulates endothelial cell migration in
+wound assays. Biochem Biophys Res Commun 1990; 171:1326-1332.
+67
+
+Literaturverzeichnis
+Ismail M, Henklein P, Huang X, Braumann C, Rückert RI, Dubiel W. Identification of HIV-1
+Tat peptides for future therapeutic angiogenesis. Eur J Haematol 2006; 77:157-165.
+Isner JM, Pieczek A, Schainfeld R, Blair R, Haley L, Asahara T, Rosenfield K, Razvi S,
+Walsh K, Symes JF. Clinical evidence of angiogenesis after arterial gene transfer of
+phVEGF165 in patient with ischaemic limb. Lancet 1996; 348:370-374
+Isner JM, Baumgartner I, Rauh G, Schainfeld R, Blair R, Manor O, Razvi S, Symes
+JF.Treatment of thrombangiitis obliterans (Buerger’s disease) by intramuscular gene
+transfer of vascular endothelial growth factor: Preliminary clinical results. J Vasc
+Surg 1998; 28:964-975
+Jariel-Encontre I, Pariat M, Martin F, Carillo S, Salvat C, Piechaczyk M. Ubiquitinylation is
+not an absolute requirement for degradation of c-Jun protein by the 26 S proteasome.
+J Biol Chem 1995; 270:11623-11627.
+Jakobovits A, Smith DH, Jakobovits EB, Capon DJ. A discrete element 3' of human
+immunodeficiency virus 1 (HIV-1) and HIV-2 mRNA initiation sites mediates
+transcriptional activation by an HIV trans activator. Mol Cell Biol 1988; 8:25552561.
+Jeang KT, Gatignol A. Comparison of regulatory features among primate lentiviruses. Curr
+Top Microbiol Immunol 1994; 188:123-144.
+Kadonaga JT, Carner KR, Masiarz FR, Tjian R. Isolation of cDNA encoding transcription
+factor Sp1 and functional analysis of the DNA binding domain. Cell 1987; 51:10791090.
+Kalka C, Masuda H, Takahashi T, Kalka-Moll WM, Silver M, Kearney M, Li T, Isner JM,
+Asahara T. Transplantation of ex vivo expanded endothelial progenitor cells for
+therapeutic neovascularization. Proc Natl Acad Sci USA 2000; 97: 3422-3427.
+Karin M, Liu Zg, Zandi E. AP-1 function and regulation. Curr Opin Cell Biol 1997; 9:240246.
+Kloetzel PM. Antigen processing by the proteasome. Nat Rev Mol Cell Biol 2001; 2:179-187.
+Kloetzel PM. Generation of major histocompatibility complex class I antigens: functional
+interplay between proteasomes and TPPII. Nat Immunol 2004; 5:661-669.
+Kok TW, Yue PY, Mak NK, Fan TP, Liu L, Wong RN. The anti-angiogenic effect of
+sinomenine. Angiogenesis 2005; 8:3-12.
+Kopp F, Dahlmann B, Hendil KB. Evidence indicating that the human proteasome is a
+complex dimer. J Mol Biol 1993; 229:14-19.
+Korpisalo P, Hytönen JP, Laitinen JT, Laidinen S, Parviainen H, Karvinen H, Siponen J,
+68
+
+Literaturverzeichnis
+Marjomäki V, Vajanto I, Rissanen TT, Ylä-Herttuala S. Capillary enlargement, not
+sprouting angiogenesis, determines beneficial therapeutic effects and side effects of
+angiogenic gene therapy. Eur Heart J 2011; 32:1664-72.
+Kumar R, Yoneda J, Bucana CD, Fidler IJ. Regulation of distinct steps of angiogenesis by
+different angiogenic molecules. Int J Oncol 1998; 12:749-757.
+Lafreniere JF, Mills P, Tremblay JP, El Fahime E. Growth factors improve the in vivo
+migration of human skeletal myoblasts by modulating their endogenous proteolytic
+activity. Transplantation 2004; 77:1741-1747.
+Lebherz C, von Degenfeld G, Karl A, Pfosser A, Raake P, Pachmayr F, Scholz D, Kupatt C,
+Boekstegers P. Therapeutic angiogenesis/arteriogenesis in the chronic ischemic
+rabbit hindlimb: effect of venous basic fibroblast growth factor retroinfusion.
+Endothelium 2003; 10:257-265.
+Lederman RJ, Mendelsohn FO, Anderson RD, Saucedo JF, Tenaglia AN, Hermiller JB,
+Hillegass WB, Rocha-Singh K, Moon TE, Whitehouse MJ, Annex BH. Therapeutic
+angiogenesis with recombinant fibroblast growth factor-2 for intermittent
+claudication (the TRAFFIC study): a randomised trial. Lancet 2002; 359:2053-2058.
+Leung ZW, Cachianes G, Kuang WJ, Goeddel DV, Ferrara N. Vascular endothelial growth
+factor is a secreted angiogenic mitogen. Science 1989; 246:1306-1309.
+Liekens S. The role of growth factors, angiogenic enzymes and apoptosis in
+neovascularization and tumor growth-collected publications. Verh K Acad Geneeskd
+Belg 2002; 64:197-224.
+Liontas A, Yeger H. Curcumin and resveratrol induce apoptosis and nuclear translocation and
+activation of p53 in human neuroblastoma. Anticancer Res 2004; 24:987-998.
+Loskutoff DJ, Linders M, Keijer J, Veerman H, van Heerikhuizen H, Pannekoek H. Structure
+of the human plasminogen activator inhibitor 1 gene: nonrandom distribution of
+introns. Biochemistry 1987; 26:3763-3768.
+Loskutoff DJ, Curriden SA, Hu G, Deng G. Regulation of cell adhesion by PAI-1. APMIS
+1999; 107:54-61.
+Losordo DW, Vale PR, Symes JF, Dunnington CH, Esakof DD, Maysky M, Ashare AB,
+Lathi K, Isner JM. Gene therapy for myocardial angiogenesis: initial clinical results
+with direct myocardial injection of phVEGF165 as sole therapy for myocardial
+ischemia. Circulation 1998; 98: 2800-2804.
+Lupas J, Stock D, Jap B. Zwickl P, Baumeister W, Huber R. Structural features of 26S and
+20S proteasomes. Enzyme Protein 1993; 47:252-273.
+69
+
+Literaturverzeichnis
+Lüdemann C, Lawall H, Liesenfeld B, Schmidt-Lucke J, Amann B. Stammzelltherapie der
+kritischen Extremitätenischämie: Halbzeitergebnisse der BONMOT-CLI-Studie.
+Clin Res Cardiol 2011; Suppl 1:100
+Luther M, Lepantalo M, Alback A, Matzke S. Amputation rates as a measure of vascular
+surgical results. Br J Surg 1996; 83:241-244.
+Luttun A, Carmeliet P. De novo vasculogenesis in the heart. Cardiovasc Res 2003; 58:378-89.
+McMahon GA, Petitclerc E, Stefansson S, Smith E, Wong MK, Westrick RJ, Ginsburg D,
+Brooks PC, Lawrence DA. Plasminogen activator inhibitor-1 regulates tumor growth
+and angiogenesis. J Biol Chem 2001; 276:33964-33968.
+Momburg F, Hammerling GJ. Generation and TAP-mediated transport of peptides for major
+histocompatibility complex class I molecules. Adv Immunol 1998; 68:191-256.
+Morales DE, McGowan KA, Grant DS, Maheshwari S, Bhartiya D, Cid MC, Kleinman HK,
+Schnaper HW. Estrogen promotes angiogenic activity in human umbilical vein
+endothelial cells in vitro and in a murine model. Circulation 1995; 91: 755-763.
+Nabel EG, Plautz G, Nabel GJ. Site-specific gene expression in vivo by direct gene transfer
+into arterial wall. Science 1990; 249:1285-1288.
+Neufeld G, Cohen T, Gengrinovitch S, Poltorak Z. Vascular endothelial growth factor
+(VEGF) and its receptors. FASEB J 1999; 13:9-22.
+Neuveut C, Jeang KT. Recombinant human immunodeficiency virus type 1 genomes with tat
+unconstrained by overlapping reading frames reveal residues in Tat important for
+replication in tissue culture. J Virol 1996; 70:5572-5581.
+Nohara R, Kambara H, Murakami T, Kadota K, Tamaki S, Kawai C. Collateral function in
+early acute myocardial infarction. Am J Cardiol 1983; 52:955-959.
+Okada SS, Grobmyer SR, Barnathan ES. Contrasting effects of plasminogen activators,
+urokinase receptor, and LDL receptor-related protein on smooth muscle cell
+migration and invasion. Arterioscler Thromb Vasc Biol 1996; 16:1269-1276.
+Orlic D, Hill JM, Arai AE. Stem cells for myocardial regeneration. Circ Res 2002; 91:10921102.
+Orlowski M. The multicatalytic proteinase complex (proteasome) and intracellular protein
+degradation: diverse functions of an intracellular particle. J Lab Clin Med 1993;
+121:187-189.
+Orlowski M. The multicatalytic proteinase complex, a major extralysosomal proteolytic
+system. Biochemistry 1990; 29:10289-10297.
+Ossowski L, Aguirre-Ghiso JA. Urokinase receptor and integrin partnership: coordination of
+70
+
+Literaturverzeichnis
+signaling for cell adhesion, migration and growth. Curr Opin Cell Biol 2000;
+12:613-620.
+Ouriel K, Donayre C, Shortell CK, Cimino C, Donnelly J, Oxley D, Green RM. The
+hemodynamics of thrombus formation in arteries. J Vasc Surg. 1991; 14:757-62.
+Ouriel K. Peripheral arterial disease. Lancet 2001; 358:1257-1264.
+Pal S, Claffey KP, Cohen HT, Mukhopadhyay D. Activation of Sp1-mediated vascular
+permeability factor/vascular endothelial growth factor transcription requires specific
+interaction with protein kinase C zeta. J Biol Chem 1998; 273:26277-26280.
+Patan S, Haenni B, Burri PH. Implementation of intussusceptive microvascular growth in the
+chicken chorioallantoic membrane (CAM): 1. pillar formation by folding of the
+capillary wall. Microvasc Res 1996; 51:80-98.
+Pepper MS, Ferrara N, Orci L, Montesano R. Vascular endothelial growth factor induces
+plasminogen activator and plasminogen activator inhibitor-1 in microvascular
+endothelial cells. Biochem Biophys Res Com 1991; 181:902-906.
+Pepper MS. Extracellular proteolysis and angiogenesis. Thromb Haemost 2001; 86:346-55.
+Pollmann C, Huang X, Mall J, Bech-Otschir D, Naumann M, Dubiel W. The constitutive
+photomorphogenesis 9 signalosome directs vascular endothelial growth factor
+production in tumor cells. Cancer Res 2001; 61:8416-8421.
+Preissner KT, Kanse SM, May AE. Urokinase receptor: a molecular organizer in cellular
+communication. Curr Opin Cell Biol 2000; 12:621- 628.
+Rana TM, Jeang KT. Biochemical and functional interactions between HIV-1 Tat protein and
+TAR RNA. Arch Biochem Biophys 1999; 365:175-185.
+Rånby M, Brändström A. Biological control of tissue plasminogen activator-mediated
+fibrinolysis. Enzyme 1988; 40:130-43.
+Risau W. Mechanisms of angiogenesis. Nature 1997; 386:671-674.
+Rissanen TT, Vajanto I, Yla-Herttuala S. Gene therapy for therapeutic angiogenesis in
+critically ischaemic lower limb – on the way to the clinic. Eur J Clin Invest 2001;
+31: 651-66.
+Rivett AJ. The multicatalytic proteinase. Multiple proteolytic activities. J Biol Chem 1989;
+264:12215-12219.
+Rock KL, Gramm C, Rothstein L, Clark K, Stein R, Dick L, Hwang D, Goldberg AL.
+Inhibitors of the proteasome block the degradation of most cell proteins and the
+generation of peptides presented on MHC class I molecules. Cell 1994; 78:761-771.
+Rohlff C, Ahmad S, Borellini F, Lei J, Glazer RI. Modulation of transcription factor Sp1 by
+71
+
+Literaturverzeichnis
+cAMP-dependent protein kinase. J Biol Chem 1997; 272:21137-21141.
+Rubartelli A, Poggi A, Sitia R, Zocchi MR. HIV-I Tat: a polypeptide for all seasons. Immunol
+Today 1998; 19:543-545.
+Ryu S, Zhou S, Ladurner AG, Tjian R. The transcriptional cofactor complex CRSP is required
+for activity of the enhancer-binding protein Sp1. Nature 1999; 397:446-450.
+Sato Y, Bifkin D. Autocrine activities of basic fibroblast growth factor: regulation of
+endothelial cell movement, plasminogen activator synthesis, and DANN synthesis. J
+Cell Biol 1988; 107:1199-1205.
+Schaper W and Ito WD: Molecular mechanisms of coronary collateral vessel growth.
+Circulation Res 1996; 79:911-919.
+Schaper W. On arteriogenesis - a reply. Basic Res Cardiol 2003; 98:183-184.
+Schaper W, Buschmann I. Arteriogenesis, the good and bad of it. Eur Heart J 1999; 20:12971299.
+Scharpfenecker M, van Dinther M, Liu Z, van Bezooijen RL, Zhao Q, Pukac L, Löwik CW,
+ten Dijke P. BMP-9 signals via ALK1 and inhibits bFGF-induced endothelial cell
+proliferation and VEGF-stimulated angiogenesis. J Cell Sci. 2007; 120:964-72.
+Scheller B, Hehrlein C, Bocksch W, Rutsch W, Haghi D, Dietz U, Böhm M, Speck U.
+Treatment of coronary in-stent restenosis with a paclitaxel-coated balloon catheter.
+N Engl J Med 2006; 355:2113-2124.
+Scheidegger P, Weiglhofer W, Suarez S, Console S, Waltenberger J, Pepper MS, Jaussi R,
+Ballmer-Hofer K. Signalling properties of an HIV-encoded angiogenic peptide
+mimicking vascular endothelial growth factor activity. Biochem J 2001; 353:569578.
+Schumacher B, Pecher P, von Specht BU, Stegmann T. Induction of neoangiogenesis in
+ischemic myocardium by human growth factors: first clinical results of a new
+treatment of coronary heart disease. Circulation 1998; 97: 645-650.
+Schwartz H, Leiboff RL, Katz RJ, Wasserman AG, Bren GB, Varghese PJ, Ross AM.
+Arteriographic predictors of spontaneous improvement in left ventricular function
+after myocardial infarction. Circulation 1985; 71:466-472.
+Seeger M, Ferrell K, Frank R, Dubiel W. HIV-1 tat inhibits the 20 S proteasome and its 11 S
+regulator-mediated activation. J Biol Chem 1997; 272:8145-8148.
+Shaulian E, Karin M. AP-1 in cell proliferation and survival. Oncogene 2001; 20:2390-2400.
+Shields JM, Yang VW. Two potent nuclear localization signals in the gut-enriched Krüppellike factor define a subfamily of closely related Krüppel proteins. J Biol Chem 1997;
+72
+
+Literaturverzeichnis
+272:18504-18507.
+Shweiki D, Itin A, Soffer D, Keshet E. Vascular endothelial growth factor induced by hypoxia
+may mediate hypoxia-initiated angiogenesis. Nature 1992; 359:843-845.
+Singh TM, Abe KY, Sasaki T, Zhuang YJ, Masuda H, Zarins CK. Basic fibroblast growth
+factor expression precedes flow-induced arterial enlargement. J Surg Res 1998;
+77:165-173.
+Smith SK. Angiogenesis, vascular endothelial growth factor and the endometrium Human
+Reproduction Update 1998; 4:509-519.
+Song CZ, Keller K, Murata K, Asano H, Stamatoyannopoulos G., Functional interaction
+between coactivators CBP/p300, PCAF, and transcription factor FKLF2. J Biol
+Chem 2002; 277:7029-7036.
+Sprengers RW, Lips DJ, Moll FL, Verhaar MC. Progenitor cell therapy in patients with
+critical limb ischemia without surgical options. Ann Surg 2008; 247:411-420.
+Sprengers RW, Teraa M, Moll FL, de Wit GA, van der Graaf Y, Verhaar MC. Quality of life
+in patients with no-option critical limb ischemia underlines the need for new
+effective treatment. J Vasc Surg 2010; 52:843-849.
+Suzuki T, Kimura A, Nagai R, Horikoshi M. Regulation of interaction of the acetyltransferase
+region of p300 and the DNA-binding domain of Sp1 on and through DNA binding.
+Genes Cells 2000; 5:29-41.
+Takahashi T, Kalka C, Masuda H, Chen D, Silver M, Kearney M, Magner M, Isner JM,
+Asahara T. Ischemia- and cytokine-induced mobilization of bone marrow-derived
+endothelial progenitor cells for neovascularization. Nat Med 1999; 5: 434-438.
+Takeshita S, Zheng LP, Brogi E, Kearney M, Pu LQ, Bunting S, Ferrara N, Symes JF, Isner
+JM. Therapeutic angiogenesis. A single intraarterial bolus of vascular endothelial
+growth factor augments revascularization in a rabbit ischemic hind limb model. J
+Clin Invest 1994; 93:662-670.
+Tang G, Hanna S, Wang R. Effect of nicotine on K channel currents in vascular smooth
+muscle cells from rat tail arteries. Eur J Pharmacol 1999; 364:247-254.
+Tepe G, Zeller T, Albrecht T, Heller S, Schwarzwälder U, Beregi JP, Claussen CD,
+Oldenburg A, Scheller B, Speck U. Local delivery of paclitaxel to inhibit restenosis
+during angioplasty of the leg. N Engl J Med 2008; 358:689-699.
+Torry DS and Torry RJ. Angiogenesis and the expression of vascular endothelial growth
+factor in endometrium and placenta. Am J Reprod Immunol 1997; 37:21-29.
+Vailhé B, Vittet D, Feige JJ. In vitro models of vasculogenesis and angiogenesis. Lab Invest
+73
+
+Literaturverzeichnis
+2001; 81:439-452.
+Vale PR, Isner JM, Rosenfield K. Therapeutic angiogenesis in critical limb and myocardial
+ischemia. J Interv Cardiol 2001; 14:511-528.
+Vogten JM, Reijerkerk A, Meijers JC, Voest EE, Borel Rinkes IH, Gebbink MF. The role of
+the fibrinolytic system in corneal angiogenesis. Angiogenesis 2003; 6:311-316.
+Wiman B, Almquist A, Sigurdardottir O, Lindahl T.Plasminogen activator inhibitor 1 (PAI) is
+bound to vitronectin in plasma. FEBS Lett 1988; 242:125-128.
+Yang H, Deschenes M, Ogilvie R, Terjung R. Basic fibroblast growth factor increases
+collateral blood flow in rats with femoral arterial ligation. Circ Res 1996; 79:62-69.
+Zhang G, Dass CR, Sumithran E, Di Girolamo N, Sun LQ, Khachigian LM. Effect of
+deoxyribozymes targeting c-Jun on solid tumor growth and angiogenesis in rodents.
+J Natl Cancer Inst 2004; 96:683-696.
+
+74
+
+Anhang
+
+Anhang
+
+Danksagung
+Für den erfolgreichen Abschluß der vorliegenden Arbeit schulde ich vielen Menschen meinen
+herzlichen Dank.
+Herrn Prof. Dr. Wolfgang Dubiel danke ich für die Möglichkeit, in seinem Labor meine
+Promotionsarbeit anfertigen zu dürfen. Er hat diese Arbeit mit seinen Ideen, seiner Geduld
+und Erfahrung und vielen fruchtbaren Diskussionen immer wieder vorangetrieben.
+An dieser Stelle möchte ich Herrn PD Dr. med. Ralph I. Rückert danken, der mir viel Geduld
+und Vertrauen entgegengebracht und mich in schwierigen Situationen mit seiner
+Diskussionsbereitschaft und seinen wertvollen Ratschlägen zum Weitermachen motiviert hat.
+Weiterhin bedanke ich mich sehr bei Dawadschargal Bech-Otschir und Xiiaohua Huang für
+ihre Betreuung, ständige Diskussionsbereitschaft, zahlreichen Ideen und Motivation. Ich
+danke allen Mitarbeitern der Arbeitsgruppe Dubiel für viele methodische Ratschläge und
+Hilfestellung bei der Durchführung von Experimenten. Ganz besonders danke ich natürlich
+meinen Eltern, die mir das Studium erst ermöglichten und mich jederzeit unterstützten, sowie
+meiner Frau Souzan, die meiner Arbeit viel Verständnis und Geduld entgegenbrachte.
+
+75
+
+Anhang
+
+Lebenslauf
+Mein Lebenslauf wird aus datenschutzrechtlichen Gründen in der
+elektronischen Version meiner Arbeit nicht veröffentlicht.
+
+76
+
+Anhang
+
+Mein Lebenslauf wird aus datenschutzrechtlichen Gründen in der
+elektronischen Version meiner Arbeit nicht veröffentlicht.
+
+77
+
+Anhang
+
+Mein Lebenslauf wird aus datenschutzrechtlichen Gründen in der
+elektronischen Version meiner Arbeit nicht veröffentlicht.
+
+78
+
+Anhang
+
+Publikationen
+
+Ismail M, Braumann C, Rückert RI, Dubiel W, A possible therapy with HIV-1-Tat derived
+peptides for the treatment of unreconstructable end-stage vascular diseases. Langenbeck´s
+Arch Chir Suppl I 2003; 120:551-552.
+Ismail M, Rückert RI, Dubiel W, Identification of HIV-1 Tat peptides with pro-angiogenic
+effects for the treatment of end-stage vascular diseases. Acta Chir Belg 2003; 103:3-4
+Ismail M, Rückert RI, Dubiel W, Angiogenese mit HIV-1-Tat-Peptiden: Grundlage der
+Behandlung chirurgisch nicht rekonstruierbarer peripherer arterieller Verschlusskrankheiten?
+MedReport 2003; 38:27
+Ismail M, Henklein P, Huang X, Braumann C, Rückert RI, Dubiel W. Identification of HIV-1
+Tat peptides for future therapeutic angiogenesis. Eur J Haematol 2006; 77(2):157-65.
+Ismail M, Rückert JC, Rogala P, Sandrock D, Jacobi D, Müller JM, Thoracoscopic resection
+of mediastinal parathyroid glands with the DaVinci robotic system: The optimal surgical
+therapy. Surg Lap Endosc Percut Tech 2006; 16(4):299.
+Ismail M, Swierzy M, Einhäupl KM, Rogalla P, Rückert RI, Rückert JC. Robotic-Assisted
+Thymectomy for Myasthenia Gravis. Ann Neurol 2008; 64:12 (4-64).
+Ismail M, Maza S, Swierzy M, Tsilimparis N, Rogalla P, Sandrock D, Rückert RI, Müller
+JM, Rückert JC. Resection of ectopic mediastinal parathyroid glands with the da Vinci robotic
+system. Br J Surg 2010; 97(3):337-43.
+Rückert JC, Swierzy M, Ismail M. Comparison of robotic and nonrobotic thoracoscopic
+thymectomy: a cohort study. J Thorac Cardiovasc Surg 2011; 141:673-7.
+Rückert JC, Ismail M, Swierzy M, Sobel HK, Badakhshi H, Rogalla P, Rückert RI, Müller
+JM, Chirurgische Therapieverfahren bei Erkrankungen des Thymus. Viszeralchirurgie 2005;
+635.
+79
+
+Anhang
+
+Rückert RI, Pirlich M, Rogalla P, Ismail M, Kasper A, Gerl H, Müller J, Endovascular
+therapy of non-aneurysmatic infrarenal aortic rupture. Zentralbl Chir 2006; 131:8-12.
+Rückert JC, Ismail M, Swierzy M, Sobel HK, Jacobi CA, Rogalla P, Einhäupl KM, Müller
+JM. Results of Robotic-assisted Thoracoscopic Thymectomy. Surg Lap Endosc Percut Tech
+2006; 16(4):295.
+Rückert J, Ismail M, Robotic thymectomy for a mediastinal parathyroid gland. Int J Med
+Robot 2006; 2 (1):98-103.
+Rückert JC, Ismail, M, Neudecker J, Mall J, Rogalla P, Sandrock D, Braumann C, Jacobi C
+A, Müller JM, Complete Thoracoscopic Thymectomy With a Unilateral 3-Trocar Technique
+using the Da Vinci Robotic System. Surg Lap Endosc Percut Tech 2006; 16(4):288-289.
+Braumann C, Jacobi CA, Menenakos Ch, Ismail M, Rückert JC, Müller JM, Computerassisted surgery with the da Vinci system: Indications, advantages, limitations. A review.
+Hellenic Journal of Surgery 2006; 78 (4): 218-224.
+Rückert RI, Pirlich M, Rogalla P, Ismail M, Müller JM. Successful endovascular treatment of
+infrarenal aortic rupture after chemotherapy of a mesenchymal periaortic tumor. Eur J Vasc
+Endovasc Surg 2007; 33(3):302-5.
+Rückert JC, Ismail M, Swierzy M, Sobel HK, Braumann C, Jacobi CA, Rogalla P, Rückert
+RI, Egert M, Müller JM, Results of robotic-assisted thoracoscopic thymectomy. Surg Endosc
+2007; 21: 1-106.
+Braumann C, Hartmann J, Ordemann J, Menenakos Ch, Ismail M, Müller JM, Jacobi CA.
+Laparoscopic Treatment of Gastroesophageal Reflux Disease and Upside-Down Stomach
+with the Da Vinci System. Int J Med Robot 2007; 3 (2):164-180.
+Rückert JC, Ismail M, Swierzy M, Sobel HK, Braumann C, Jacobi CA, Rogalla P, Einhäupl
+KM, Müller JM. The Advantage Of Robotic – Assisted Thymectomy. Int J Med Robot 2007;
+3(2):178-180.
+80
+
+Anhang
+Rückert JC, Ismail M, Swierzy M, Sobel H, Rogalla P, Meisel A, Wernecke KD, Rückert RI,
+Müller JM. Thoracoscopic thymectomy with the da Vinci robotic system for myasthenia
+gravis. Ann N Y Acad Sci 2008; 1132:329-35.
+Rückert JC, Ismail M, Swierzy M, Braumann C, Badakhshi H, Rogalla P, Meisel A, Rückert
+RI, Müller JM. Minimally invasive thymus surgery. Chirurg 2008; 79(1):18, 20-5.
+Braumann C, Jacobi CA, Menenakos C, Ismail M, Rückert JC, Müller JM. Robotic-assisted
+laparoscopic and thoracoscopic surgery with the da Vinci system: a 4-year experience in a
+single institution. Surg Laparosc Endosc Percutan Tech 2008; 18(3):260-6.
+Hartmann J, Jacobi CA, Menenakos C, Ismail M, Braumann C. Surgical treatment of
+gastroesophageal reflux disease and upside-down stomach using the Da Vinci robotic system.
+A prospective study. J Gastrointest Surg 2008; 12(3):504-9.
+Rückert JC, Swierzy M, Ismail M, Rogalla P, Meisel A, Rückert RI. Robotic-assisted
+thymectomy? Report of 134 patients. Interact CardioVasc Thorac Surg 2008; 7:147-200.
+Ruckert JC, Swierzy M, Ismail M. Robotic assisted thymectomy: a 5 year experience, J
+Thorac Cardiovasc Surg 2008; 136:1107-1109.
+Swidsinski A, Doerffel Y, Loening-Baucke V, Theissig F, Rückert JC, Ismail M, Rau WA,
+Gaschler D, Weizenegger M, Kühn S, Schilling J, Doerffel WV. Acute appendicitis is
+characterized by local invasion with Fusobacterium nucleatum/necrophorum. Gut. 2009;
+Published Online: 18 Nov. 2009.
+Tsilimparis N, Gregor JI, Swierzy M, Ismail M, Rogalla P, Weichert W, Rückert JC.
+Intrapericardial paraganglioma in a 78-year-old female patient. Am Surg. 2010 Apr;76:450-1.
+de Bucourt M, Swierzy M, Ismail M, Gregor J, Webler M, Rückert JC. A novel sternal
+closure technique with implants suitable for complex dehiscencess. Surg Innov. 2010
+Dec;17:353-5. Epub 2010 Aug 10.
+
+81
+
+Anhang
+
+Eidesstattliche Erklärung
+
+Hiermit versichere ich, dass ich die vorliegende Dissertation selbständig verfasst und keine
+anderen als die angegebenen Quellen und Hilfsmittel verwendet habe, und auch in Teilen
+keine Kopien anderer Arbeiten dargestellt habe.
+
+Berlin, 08.12.2011
+
+82
+
+

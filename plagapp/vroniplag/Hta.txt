@@ -1,0 +1,2956 @@
+Einfluß von NO/cGMP-abhängiger Induktion des
+pro-apoptotischen Signaltransduktionsweges auf das
+Kontraktionsverhalten ventrikulärer
+Herzmuskelzellen
+
+Inauguraldissertation
+zur Erlangung des Grades eines
+Doktors der Medizin des Fachbereichs Medizin
+der Justus-Liebig-Universität Gießen
+
+vorgelegt von
+
+Hakan Tastan
+aus Flensburg
+
+Gießen, 2006
+
+1.
+
+Einleitung
+
+1.1.
+
+Definition und Pathogenese der Herzinsuffizienz
+Die Herzinsuffizienz äußert sich im Unvermögen des Herzens, durch seine Pumparbeit
+die Homöostase des Körpers aufrechtzuerhalten. Es besteht eine kardiale Dysfunktion
+mit vermindertem Auswurfvolumen. Es werden akute und chronische Formen
+unterschieden. Eine akute Linksherzinsuffizienz kann bei einem frischen Herzinfarkt,
+bei Lungenödem, hypertensiver Krise oder als akute Dekompensation einer bereits
+bestehenden Herzinsuffizienz auftreten. Die chronische Herzinsuffizienz zeigt einen
+progredienten Verlauf mit zugrunde liegender meist ausgeprägter myokardialer
+Schädigung. Sie äußert sich als Veränderung der Kontraktilität, Herzfrequenz, Vorlast
+oder
+
+Nachlast.
+
+Koronarinsuffizienz,
+
+Herzvitien,
+
+Herzrhythmusstörungen
+
+und
+
+Kardiomyopathien können die Ursache sein. Weiterhin werden systolische und
+diastolische Ventrikelfunktionsstörungen beschrieben. Systolische Ventrikelfunktionsstörungen finden sich bei Kontraktionsschwäche (dilatative Kardiomyopathie,
+Myokarditis,
+
+koronare
+
+Herzkrankheit),
+
+bei
+
+Volumenbelastung
+
+(Shuntvitien,
+
+Klappeninsuffizienzen) und bei Druckbelastungen (Klappenstenosen, arterielle und
+pulmonale Hypertonien). Diastolische Ventrikelfunktionsstörungen sind durch eine
+behinderte Ventrikelfüllung gekennzeichnet und treten im Rahmen von konstriktiver
+Perikarditis oder einer restriktiven Kardiomyopathie auf (Goebell et al., 1992).
+In der Initiation und Manifestation der Herzinsuffizienz spielt der Zelltod von
+Kardiomyozyten eine bedeutende Rolle. Infolge der schweren Zellschädigung durch
+Hypoperfusion des Myokards oder schwerwiegende Überlastung der Kardiomyozyten
+kommt es zum Untergang der Zellen (Anversa et Kajstura, 1998). Dieser Zelltod ist in
+vielen Fällen nekrotisch und durch eine irreversible Dysfunktion der Mitochondrien
+gekennzeichnet, da die Energiereserven ausgeschöpft sind (Ferrari et al., 1998). Neben
+dem nekrotischen spielt eine weitere Art des Zelluntergangs eine wichtige
+physiologische Rolle. Dieser Zelltod wird mit dem Begriff Apoptose umschrieben
+(Kerr et al., 1972) und ist im Gegensatz zur Nekrose genetisch codiert. Apoptose wird
+daher auch als „programmierter“ Zelltod bezeichnet.
+
+1
+
+1.2.
+
+Arten des Zelltodes: Apoptose und Nekrose
+Es gibt beim Untergang von Zellen zwei Arten des Zelltodes, die Apoptose und die
+Nekrose. Ein wesentlicher Unterschied zwischen Apoptose und Nekrose ist der
+zeitliche Verlauf des Zelltodes. Die Nekrose läuft spontan ab und kann deswegen nur
+durch das Abfangen ihrer Auslöser verhindert werden. Die Apoptose ist dagegen ein
+aktiver, genetisch determinierter Vorgang, der über spezifische Signalkaskaden läuft,
+so dass man auch noch nach dem Auftreten des Auslösers den weiteren Verlauf der
+Apoptose stoppen kann. Diese beiden Formen des Zelltodes werden nach
+morphologischen und biochemischen Kriterien eingeteilt.
+Stark schädigende Einflüsse führen bei der Nekrose zu einem spontanen, passiven
+Sterben der Zelle. Die Zelle schwillt an und es kommt zum Zerreißen der
+Zellmembran und der Zellorganellen sowie zur Karyolyse. Enzyme werden aus dem
+Zytosol freigesetzt und die DNA wird unspezifisch abgebaut. Von dem nekrotischen
+Zelltod sind im Gewebe immer eine Gruppe von Zellen betroffen. Makrophagen
+werden aktiviert, die die nekrotischen Zellen eliminieren (Wylie et al., 1980). Im
+Gegensatz zur Nekrose wird die Apoptose eher in einzelnen Zellen eines Gewebeverbandes ausgelöst und ruft keine inflammatorischen Prozesse hervor. Bei der
+Apoptose bleibt die Integrität der Zellmembran und Zellorganellen erhalten. Die Zelle
+und
+
+auch
+
+der
+
+Zellkern
+
+kondensieren.
+
+Es
+
+kommt
+
+zum
+
+Abschnüren
+
+von
+
+Membranvesikeln („apoptotic bodies“), die von benachbarten Zellen phagozytiert
+werden (Wylie et al., 1980). Das genetische Programm der Apoptose ist in allen
+Körperzellen enthalten, seine Aktivierung unterliegt jedoch einer strengen Kontrolle.
+Diese morphologischen Veränderungen der apoptotischen Zelle werden von einer
+Vielzahl biochemischer Veränderungen begleitet, die im Folgenden genauer
+beschrieben werden.
+
+2
+
+Abb. 1.1. Morphologische Veränderungen bei Nekrose und Apoptose
+A: Zellschwellung und Verdickung der Mitochondrien B: Ruptur von Zellorganellen und
+Plasmazellmembranen, wahllose Fragmentation der DNA C: Schrumpfen der Zelle, Kondensation des
+Chromatins, Kondensation und Fragmentation des Zellkerns, Entstehung „apoptotic bodies“ (Feuerstein
+et al., 1997).
+
+1.3.
+
+Apoptose: Charakteristika und Signalkaskaden
+Die Aktivierung von Apoptose kann exogen über spezifische Rezeptoren induziert
+werden, wie zum Beispiel über den Fas-Rezeptor oder den TNF-1-Rezeptor. Diese
+Rezeptoren haben eine zytosolische „Todesdomäne“ gemeinsam, an die bei
+Rezeptoraktivierung spezifische Proteine binden und ihrerseits intrazelluläre
+Signalkaskaden aktivieren. Ebenfalls ist eine Rezeptor-unabhängige endogene
+Induktion von Apoptose, zum Beispiel nach DNA-Schädigung oder bestimmten
+zellulären Stresssituationen, nachgewiesen worden (Vaux DL, 1993). Die Aktivierung
+erfolgt über intrazelluläre Signaltransduktionskaskaden, unter anderem über spezielle
+Aspartat-Proteasen der Interleukin-1-konvertierendes Enzym (ICE)-Familie, genannt
+Caspasen. Einige Substrate dieser Proteasenkaskade sind bekannt, es handelt sich
+dabei zum Beispiel um Bestandteile der Kernmembran (Lamine), EndonukleasenVorstufen, die durch Spaltung aktiviert werden (Enari et al., 1998), oder das DNAReparaturenzym Poly-Adenosin-Ribose-Polymerase (PARP), das durch Spaltung
+inaktiviert
+
+wird
+
+(Margolin
+
+et
+
+al.,
+
+1997).
+
+An
+
+verschiedenen
+
+von
+
+diesen
+
+Reaktionsschritten setzen anti-apoptotische Kontrollmechanismen an, wie zum
+3
+
+Beispiel die Genprodukte der Bcl-2-Onkogenfamilie. Deren Mitglieder verhalten sich
+antagonistisch zueinander und entfalten ihre pro- und anti-apoptotischen Effekte in
+Abhängigkeit von ihrer relativen Menge. Homodimere des Bcl-2-Proteins wirken antiapoptotisch (Bcl-2, Bcl-XL), während Heterodimere von Bcl-2 und seinem
+Gegenspieler Bax pro-apoptotisch wirken (Boise et al., 1995; Yin et al., 1994). Diese
+Proteine assoziieren an die Mitochondrien- und Kernmembranen und wirken
+möglicherweise
+
+als
+
+spezifische
+
+Kanäle
+
+und
+
+regulieren
+
+die
+
+mitochondriale
+
+Permeabilitätstransition (Antonsson et al., 1997; Van der Heiden et al., 1997).
+Induktion von Bax führt zur Abnahme des mitochondrialen Transmembranpotentials
+und zu apoptotischem Zelltod (Pastorino et al., 1998). Dabei wurde auch die
+Freisetzung pro-apoptotischer Faktoren z.B. Cytochrom C aus den Mitochondrien in
+das Zytoplasma beobachtet (Pastorino et al., 1998; Jürgensmeier et al., 1998). Für
+Bcl-2 ist auch eine anti-oxidative Wirkung postuliert worden (Shimizu et al., 1995). In
+einem direkten Zusammenhang mit Apoptose steht auch das Tumorsuppressorgen p53.
+Eine p53-abhängige Transkription wird bei verschiedenen Genen beobachtet. Es
+wurde berichtet, dass p53 an die Promotorregion von Angiotensinogen, AT1 Rezeptor
+und Bax bindet (Leri et al., 1998; Kirshenbaum et al., 1997). Die Bindung von
+Angiotensin II an AT1 löst Apoptose aus (Kajstura et al., 1997; Leri et al., 2000).
+Vermutlich kann p53 den apoptotischen Prozess transkriptionsabhängig und
+-unabhängig aktivieren (Ding et al., 2000).
+Weiterhin wird von Cytochrom C-unabhängiger Induktion von Apoptose durch p53abhängige Erhöhung von reaktiven Sauerstoffspezies und damit Senkung des
+mitochondrialen Membranpotentials berichtet (Li et al., 1999). Es gibt weitere
+Kontrollmechanismen der apoptotischen Signalkaskade, die auf der Ebene der
+Caspase-Kaskade einsetzen. Es sind verschiedene Moleküle bekannt, die als
+Inhibitoren für Caspasen wirken. Dazu gehören unter anderem Mitglieder der IAP
+(Inhibitor of apoptosis) Familie, wie c-IAP-1 und c-IAP-2 (Yaoita et al., 1998; Roy et
+al., 1997). Auch die Aktivierung von Mitgliedern der Mitogen-aktivierten
+Proteinkinasen (MAPK)-Familie kann in Kardiomyozyten zu apoptotischem Zelltod
+führen. Zellulärer Stress kann bestimmte Mitglieder der MAPK-Familie aktivieren
+(Komuro et al., 1996; Bogoyevitch et al., 1996; Aoki et al., 2002). Extrazellulär
+regulierte Kinase (ERK), c-Jun N-terminale Kinase (JNK) und p38-MAPK werden bei
+Stress aktiviert (Bogoyevitch et al., 1996; Clerk et al., 1998). Stress-aktivierte
+Proteinkinasen (SAPK) sind in Kardiomyozyten an der Entstehung von Apoptose
+4
+
+beteiligt (Bogoyevitch et al., 1996; Aoki et al., 2002). Aktivierung von JNK bei
+oxidativem Stress führt zur Freisetzung von Cytochrom C aus den Mitochondrien und
+zur Auslösung von programmiertem Zelltod (Aoki et al., 2002; Yue et al., 2000). Die
+Aktivierung von p38-MAPK kann scheinbar ebenso Apoptose induzieren (Yue et al.,
+2000). Phosphorylierung von p38-MAPK führt aber auch zur Aktivierung von MAPK
+aktivierter Proteinkinase 2 (MAPKAPK2), die dann das Hitzeschockprotein 25/27
+(HSP25/27) phosphoryliert (Clerk et al., 1998). Dies wirkt sich schützend auf das
+Aktin des Zytoskeletts aus (Guay et al., 1997). ERK-Aktivierung führt wahrscheinlich
+auch zu Inhibition von Apoptose (Yeh et al., 1998). Das Zusammenspiel der pro- und
+anti-apoptotischen Signalwege ist in Abbildung 1.2. zusammengefasst.
+
+Abb. 1.2. Die apoptotischen Signalkaskaden (Hengartner M, 2000).
+
+5
+
+1.4.
+
+Rolle der Apoptose in Ischämie und Reperfusion
+Viele
+
+Studien
+
+haben
+
+das
+
+Auftreten
+
+von
+
+Herzmuskelzell-Apoptose
+
+nach
+
+Ischämie/Reperfusion untersucht (Fliss et Gattinger, 1996; Batling et al., 1998;
+Haunstetter et Izumo, 1998). Die Vielzahl unterschiedlicher experimenteller Ansätze,
+Spezies und Nachweismethoden führen jedoch zu teilweise erheblichen Unterschieden
+hinsichtlich der Zahl der betroffenen Zellen und lassen Art und Quelle der Induktoren
+meist im Dunkeln.
+Einige Studien zeigten, dass Herzmuskelzell-Apoptose durch die Ischämie selbst
+ausgelöst (Kajstura et al., 1996; Olivetti et al., 1996; Akiyama et al., 1997) und durch
+die Reperfusion beschleunigt oder verstärkt werden könnte (Fliss et Gattinger, 1996;
+Fliss H, 1998). Andere haben nur in reperfundiertem Gewebe Apoptose nachweisen
+können (Gottlieb et al., 1994; Bielawska et al., 1997; Cordis et al., 1998). Eine
+Untersuchung an kultivierten neonatalen Rattenkardiomyozyten hat gezeigt, dass
+Hypoxie zu Apoptose unter gleichzeitiger Hochregulation des Fas-Rezeptors führt
+(Tanaka et al. 1994). Nach Ischämie/Reperfusion in Ratten ist in vivo ebenfalls eine
+starke Hochregulation von Fas gleichzeitig aber auch von Bcl-2 nachgewiesen worden
+(Kajstura et al., 1996). Überexpression von p53 konnte sowohl in adulten als auch in
+neonatalen Rattenkardiomyozyten Apoptose auslösen. Bcl-2-Überexpression dagegen
+schützte diese effektiv vor p53-vermittelter Apoptose (Pierzchalski et al., 1997;
+Kirshenbaum, 1998) und kann nach akutem Herzinfarkt (Misao et al., 1996) sowie bei
+Herzversagen induziert werden (Olivetti et al., 1997).
+In einer Studie an Rattenherzen wurde nach Ischämie/Reperfusion im Infarktbereich
+erhöhte Caspase-3-Aktivität in apoptotischen (Tunel-positiven) Zellen nachgewiesen
+(Black et al., 1998). Zudem konnte durch Einsatz eines Caspase-3-Inhibitors die
+Infarktgröße nach Ischämie/Reperfusion isolierter Rattenherzen signifikant erniedrigt
+werden (Yaoita et al., 1998). Auch nach ischämischer Präkonditionierung, einem
+vermutlich
+Herzmuskel
+
+PKC-vermittelten
+durch
+
+endogenen
+
+vorhergehende
+
+Schutzmechanismus,
+
+bei
+
+dem
+
+der
+
+Kurzzeit-Ischämie/Reperfusionsphasen
+
+vor
+
+Schädigung durch Langzeit-Ischämie geschützt wird, war die Apoptose-Induktion in
+ischämisch/reperfundierten Herzen reduziert (Piot et al., 1998).
+In einer früheren Untersuchung unserer Arbeitsgruppe an isolierten ventrikulären
+Herzmuskelzellen der adulten Ratte wurde belegt, dass Bedingungen simulierter
+Ischämie und/oder Reoxygenierung allein, trotz der weitreichenden Analogie zu in
+6
+
+vivo Bedingungen von Ischämie/Reperfusion (Siegmund et al., 1990) nicht
+ausreichen, um endogen Apoptose in den isolierten Zellen zu induzieren (Taimor et
+al., 1999). Daher wurde die Hypothese aufgestellt, dass in vivo während
+Ischämie/Reperfusion Faktoren von anderen Zelltypen des Herzens freigesetzt
+werden, zum Beispiel Sauerstoffradikale oder Stickstoffmonoxid aus aktivierten
+Makrophagen oder beschädigten Endothelzellen bei der Reperfusion (Matsubara et
+al., 1986), die in Herzmuskelzellen Apoptose induzieren.
+
+1.5.
+
+Stickstoffmonoxid (NO) als Apoptose-Induktor
+TNF-α aktiviert unter anderem die induzierbare Stickstoffmonoxid-Synthase (iNOS)
+(Ferrari et al., 1998) und in Herzmuskelzellen von Patienten mit Herzversagen ist eine
+Überexpression von TNF-Rezeptormolekülen und iNOS gezeigt worden, die via NOSynthese und oxidativem Stress Apoptose auslösten (Pinsky et al., 1995; Kitajima et
+al., 1994). Auch in anderen Zellmodellen ist NO als Induktor von Apoptose
+nachgewiesen worden. Loweth et al. (1997), Pollmann et al. (1996) und Wei et Zhu
+(1996) zeigten in neonatalen Herzmuskelzellen erhöhte NO-Produktion nach 3 h
+Hypoxie und 30 min Reoxygenierung. Andererseits kann exogenes NO auch kardioprotektiv wirken (Brunner F., 1997; Pabla et al., 1995). Die Effekte von NO hängen
+von den lokalen Konzentrationen und der zellulären Umgebung ab (Gonzalez-Zulueta,
+2000). NO dient unter physiologischen Bedingungen als Signalmolekül, das z.B. die
+cGMP-abhängige Signaltransduktion über Aktivierung der löslichen Guanylatzyklase
+moduliert. NO und NO-Derivate werden durch die zellulären Redoxsysteme
+kontrolliert und in nicht-toxische Formen (z.B. Nitrat) umgewandelt. Die Produktion
+großer NO-Konzentrationen in pathologischen Situationen fördert die Bildung
+hochreaktiver und potentiell toxischer Oxidationsprodukte von NO, die häufig mit
+einer erhöhten Bildung von Superoxid-Anionen einhergeht (Gross et Wolin, 1995).
+Das Stoffwechsel-Endprodukt der gebildeten Spezies, einschließlich des DNAschädigenden Peroxynitrits (ONOO-), hängt dann von ihren lokalen Konzentrationen
+und dem Zustand der zellulären Systeme ab, mit denen sie interagieren.
+
+7
+
+1.6.
+
+Wirkung von Apoptose auf die kardiale Funktion
+Die Apoptoseinduktion bewirkt auch unter strengen Konditionen, dass nur einige
+wenige Zellen den apoptotischen Prozess durchlaufen. In einem Herzen mit
+chronischer Hypertrophie finden sich neben normalen und gesunden Herzmuskelzellen
+nur wenige apoptotische Zellen. Im Herzen mit dilatativer Kardiomyopathie ist die
+Situation viel komplizierter, weil neben der Apoptose auch ein onkotischer und
+autophagozytischer Zelltod gleichzeitig vorkommen können (Kostin et al., 2003).
+Wenngleich nur einige Zellen den apoptotischen Zyklus vollständig durchlaufen,
+untersucht durch DNA-Fragmentation, kann die Induktion des pro-apoptotischen
+Signaltransduktionsweges in vielen weiteren Zellen gefunden werden. Dieses
+beinhaltet auch die Aktivierung von Caspase-3 und die erhöhte Expression von pround anti-apoptotischen Genen. Die Inhibition der Caspase-3 Aktivierung verbessert
+die kardiale Funktion bei Myokardinfarkt und Herzhypertrophie, obwohl nur eine
+kleine Zahl von Herzmuskelzellen die Kriterien des apoptotischen Zelltodes erfüllen
+(Yaoita et al., 1998).
+Als eine mögliche Erklärung wurde überlegt, dass Caspase-3 direkt an solche Proteine
+bindet, die für die Regulation der kardialen Funktion zuständig sind (Moretti et al.,
+2002; Communal et al., 2002). Diese Vorstellungen führen zu der Überlegung, dass
+eine Aktivierung des pro-apoptotischen Signaltransduktionsweges im Herzen zu einer
+eingeschränkten Kontraktilität führt bevor es zum Zelltod kommt. Man geht davon
+aus, dass die spezifische Aktivierung des NO/cGMP-Signaltransduktionsweges die
+hypertrophe Entwicklung in einem chronisch hypertrophierten Herzen rückgängig
+machen kann (Dumitrascu et al., 2006).
+Fiedler und Wollert (2004) haben gezeigt, dass viele Mechanismen am antihypertrophen Effekt von NO/cGMP teilhaben. Man geht davon aus, dass die
+Aktivierung
+
+des
+
+NO/cGMP-Signaltransduktionsweges
+
+den
+
+Transport
+
+des
+
+Transkriptionsfaktors NFAT (JNK abhängig) in den Zellkern hemmt. Eine NFAT
+Aktivierung erhöht die SERCA2-Expression und steigert die Relaxation der
+Kardiomyozyten (Anwar et al., 2005). Demzufolge wird eine Hemmung der NFAT
+Aktivierung den günstigen Effekt von NFAT auf die SERCA2-Expression reduzieren.
+Es ist bekannt, dass die NO/cGMP/JNK-Signaltransduktionswege den apoptotischen
+Zelltod induzieren können (Taimor et al., 2000). NO aktiviert den pro-apoptotischen
+Signaltransduktionsweg über die Aktivierung der löslichen Guanylatzyklase (Taimor
+8
+
+et al., 2000). Die Art und Weise wie die Agonisten den pro-apoptotischen Zelltod
+induzieren sind sehr komplex. Die Induktion von cGMP-abhängiger Apoptose von
+adulten Kardiomyozyten benötigt die Aktivierung von bestimmten Transkriptionsfaktoren, wie SMAD3 und Aktivatorprotein-1 (AP-1), und es braucht einige Stunden
+bis die Zellen den apoptotischen Prozess durchmachen und komplettieren (Taimor et
+al., 2001; Schneiders et al., 2005). Diese Fakten zeigen, dass die Expositionszeiten der
+Aktivatoren des cGMP-Signaltransduktionsweges eine wesentliche Rolle bei der
+Induktion der Apoptose spielen. Kurzfristige Gabe von hoch konzentriertem NO oder
+cGMP auf die Kardiomyozyten senkt akut die kardiale Funktion (Kojda et al., 1996).
+Mit dieser Art Experimenten ist jedoch keine Langzeitauswirkung der eingesetzten
+Substanzen auf die kardiale Funktion abschätzbar.
+Um diese ungeklärte Frage zu beantworten, wurde in dieser Forschungsarbeit der
+chronische Effekt der Aktivierung des NO/cGMP-Signaltransduktionsweges auf das
+Kontraktionsverhalten von Kardiomyozyten untersucht. Es wurde vermutet, dass die
+Aktivatoren dieser Signalkaskade sowohl eine Induktion des apoptotischen Zelltodes
+als auch eine Abnahme der kardialen Kontraktilität bewirken. Für die Induktion der
+Apoptose in adulten Herzmuskelzellen der Ratte wurden in dieser Studie der NODonor S-Nitroso-N-acetylpenicillamin (SNAP), das cGMP-Analogon 8-bromo-cycloGMP (8-br-cGMP) und der NO-unabhängige Aktivator der löslichen Guanylatzyklase
+3-(5`-Hydroxymethyl-2`-Furyl)-1-Benzyl-Imidazol
+
+(YC-1)
+
+eingesetzt.
+
+Um
+
+zu
+
+beweisen, dass die Wirkung von SNAP alleine auf seine NO-Freisetzung
+zurückzuführen ist, wurde ebenfalls das Strukturanalogon N-acetylpenicillamin
+(NAP), welches kein NO freisetzen kann, eingesetzt.
+
+1.7.
+
+Untersuchungen an isolierten Herzmuskelzellen
+Als Modell für Untersuchungen an isolierten Herzmuskelzellen finden adulte
+Herzmuskelzellen Verwendung. Das selektive Anheften adulter Herzmuskelzellen an
+FCS-vorbehandelte Kulturschalen ermöglicht die Gewinnung reiner Herzmuskelzellkulturen (Piper et al. 1989), Zelltypspezifische Vorgänge können daher sehr gut in
+Kulturen adulter Herzmuskelzellen analysiert werden. Da krankhafte Veränderungen,
+wie bei einem Herzinfarkt oder bei der Herzinsuffizienz, überwiegend im
+
+9
+
+Erwachsenenalter auftreten, ist der Phänotyp der adulten Herzmuskelzelle gut geeignet
+für Untersuchungen zu pathophysiologisch relevanten Mechanismen.
+
+1.8.
+
+Methodische Voraussetzungen
+Das Kontraktionsverhalten adulter Herzmuskelzellen wurde in dieser Arbeit
+untersucht. Die Zellen wurden über Nacht mit den jeweiligen Substanzen vorinkubiert.
+Vorausgehende Arbeiten an diesem Modell haben bereits gezeigt, dass die einzige
+messbare Veränderung hinsichtlich der basalen Funktion eine Beeinträchtigung der
+Frequenz-Kontraktionsbeziehung ist. Das bedeutet, dass die Zellen im nicht
+behandelten Zustand eine Abnahme der basalen Zellverkürzung bei Zunahme der
+Frequenz zeigen. Dieses ist vergleichbar mit der negativen Frequenz-Kraft-Beziehung
+des insuffizienten menschlichen Herzens. Da die Zellen der Ratte auch basal eine
+negative Frequenz-Verkürzungsbeziehung im Bereich von 0,5 bis 1 Hz zeigen, sind
+sie nicht direkt mit humanen Systemen vergleichbar. Bezüglich einer direkten
+Übertragbarkeit auf das humane System gelten für diese vorgestellten Untersuchungen
+speziesbedingte Vorbehalte. Auf der anderen Seite ist das Rattenzellsystem der
+Herzmuskelzellen das am besten untersuchte Modell und zeigt hinsichtlich der
+Signaltransduktion viele Parallelen zu den humanen Systemen, während dies für
+Mauszellen weit weniger gilt. Die Untersuchungen an isolierten Herzmuskelzellen
+erlauben eine Detailanalyse der maximalen Zellkontraktion und der Verkürzungsdynamik. In der vorliegenden Arbeit wurden die Zellen aus einem Herzen isoliert und
+gemessen. Die Ergebnisse aus mindestens zwei verschiedenen Präparationen wurden
+zusammengestellt, so dass die zufallsbedingte Variabilität durch die Präparation
+weitgehend ausgeglichen werden konnte.
+
+10
+
+2.
+
+Material
+
+2.1.
+
+Chemikalien
+8-br-cGMP
+
+Merck, Darmstadt
+
+Calciumchlorid
+
+Merck, Darmstadt
+
+Cytosin-β-Arabinofuranosid
+
+Sigma, Taufkirchen
+
+FCS
+
+PAA Laboratories, Cölbe
+
+Glucose
+
+Sigma, Taufkirchen
+
+Salzsäure (HCl)
+
+Merck, Darmstadt
+
+HEPES
+
+Roche Applied Science, Mannheim
+
+Kaliumchlorid
+
+Merck, Darmstadt
+
+Kaliumhydrogenphosphat
+
+Fluka Chemie AG, Buchs, Schweiz
+
+Kollagenase Typ CLSII (332 U/mg)
+
+Biochrom, Berlin
+
+Karnitin
+
+Sigma, Taufkirchen
+
+Kreatin
+
+Sigma, Taufkirchen
+
+Magnesiumsulfat
+
+Merck, Darmstadt
+
+Medium 199/Earl’s Salts
+
+Invitrogen, Eggenstein
+
+Methylcellulose MD 40.000
+
+Sigma, Taufkirchen
+
+NAP
+
+Sigma, Taufkirchen
+
+Natriumchlorid (NaCl)
+
+Merck, Darmstadt
+
+Penicillin-Streptomycin-Lösung
+
+Invitrogen, Eggenstein
+
+SNAP
+
+Sigma, Taufkirchen
+
+YC-1
+
+Sigma, Taufkirchen
+
+Die übrigen verwendeten Chemikalien wurden von den Firmen Boehringer
+(Mannheim), Gibco-BRL (Eggenstein), Merck, Riedel-de-Haën (Seelze) und Sigma in
+der höchsten erhältlichen Qualität bezogen. Alle Chemikalien wurden nach
+Herstellerangaben gelöst und aufbewahrt.
+
+11
+
+2.2.
+
+Medien
+Calciumchlorid-Stammlösung:
+CaCl2
+
+100 mM
+
+CCT-Kulturmedium:
+M 199-HEPES gepuffert
+
+x ml
+
+Kreatin
+
+5 mM
+
+Karnitin
+
+2 mM
+
+Taurin
+
+5 mM
+
+Streptomycin
+
+100 µg/ml
+
+Penicillin
+
+100 IU/ml
+
+Cytosin-β-Arabinofuranosid
+
+100 µM
+
+M 199-HEPES gepuffert:
+Medium 199/Earl’s Salts
+
+9,8 g/l
+
+HEPES
+
+15 mM
+
+PH
+
+7,4
+
+Powell-Medium:
+NaCl
+
+110 mM
+
+NaHCO3
+
+25 mM
+
+KCL
+
+2,6 mM
+
+KH2PO4
+
+1,2 mM
+
+MgSO4
+
+1,2 mM
+
+Glucose
+
+11 mM
+
+Vorinkubationsmedium:
+M 199-HEPES gepuffert
+
+x ml
+
+FCS
+
+4 % (vol/vol)
+
+Penicillin
+
+100 IU/ml
+
+Streptomycin
+
+100 µg/ml
+
+12
+
+Cytosin-β-Arabinofuranosid wurde zur Hemmung der Proliferation verbliebener
+Nicht-Herzmuskelzellen zugesetzt. Alle Medien wurden steril filtriert, bei einer
+Temperatur von 4 °C aufbewahrt und vor dem Gebrauch auf 37 °C erwärmt.
+
+2.3.
+
+Puffer
+Kollagenasepuffer:
+Powell-Medium
+
+40 ml
+
+Kollagenase
+
+25 mg
+
+Calciumchlorid-Stammlösung
+
+12,5 µl
+
+PBS-Puffer:
+NaCl
+
+150 mM
+
+KH2PO4
+
+5 mM
+
+Na2HPO4
+
+5 mM
+
+PH
+
+7,4
+
+Rezirkulationspuffer:
+Powell-Medium
+
+40 ml
+
+Kollagenase
+
+30 mg
+
+TBS-Puffer:
+TRIS-HCl
+
+10 mM
+
+NaCl
+
+150 mM
+
+PH
+
+7,4
+
+Zellkontraktionspuffer-Stammlösung:
+NaCl
+
+125 mM
+
+KH2PO4
+
+1,2 mM
+
+KCl
+
+2,6 mM
+
+MgSO4
+
+1,2 mM
+
+CaCl2
+
+1,0 mM
+
+Glucose
+
+10 mM
+13
+
+HEPES
+
+10 mM
+
+PH
+
+7,4
+
+Zellkontraktionspuffer-Gebrauchslösung:
+Zellkontraktionsstammlösung
+
+100 ml
+
+Adenosin-Desaminase
+
+2.4.
+
+20 µl
+
+Geräte und Laborbedarf
+
+2.4.1. Zellpräparation und Zellkultur
+Präparationsbesteck
+
+Aeskulap, Heidelberg
+
+Langendorff-Apparatur
+
+Eigenbau des Physiologischen Institutes
+der J.-L.-Universität Gießen
+
+Gewebehacker
+
+Harvard Scientific, Holliston, MA, USA
+
+Nylonnetz
+
+NeoLab, Heidelberg
+
+Sterilbank
+
+Kendro, Hanau
+
+Brutschrank
+
+Kendro, Hanau
+
+Mikroskop
+
+TMS-F von Nikon, Japan
+
+2.4.2. System zur Erkennung von Zellgrenzen während der Kontraktion
+Interface INT4
+
+Scientific Instruments GmbH, Heidelberg
+
+Mikroskop
+
+TMS-F von Nikon, Japan
+
+Monitor
+
+Philips One Dimensional Camera ZK4
+Scientific Instruments GmbH, Heidelberg
+
+Oszillograph
+
+Scientific Instruments GmbH, Heidelberg
+
+Stimulator
+
+Physiologisches Labor des
+Physiologischen Institutes der
+J.-L.-Universität Gießen
+
+2.4.3. Sonstige Geräte
+Glasgeräte
+
+Schott, Mainz
+
+Heizrührer
+
+Jahnke&Kunkel, Staufen
+
+PH-Meter
+
+WTW, Weilheim
+14
+
+Pipetten
+
+Eppendorf-Netheler-Hinz, Hamburg
+
+Wasserbad
+
+Julabo, Seelbach
+
+Wasserdemineralisierungsanlage
+
+Millipore, Eschborn
+
+2.4.4. Verbrauchsmaterialien
+Kulturschalen (Typ Falcon 3001)
+
+Becton, Dickinson, Heidelberg
+
+Kulturschalen (Typ Falcon 3004)
+
+Becton, Dickinson, Heidelberg
+
+Pipettespitzen
+
+Eppendorf-Netheler-Hinz, Hamburg
+
+Reaktionsgefäße
+
+Eppendorf-Netheler-Hinz, Hamburg
+
+Sterilfilter (0,2 µm Porenweite)
+
+Schleicher&Schuell, Dassel
+
+2.4.5. Software
+Excel
+
+Microsoft
+
+MUCEL
+
+Scientific Instruments GmbH, Heidelberg
+
+SPSS
+
+SAS Software-Version 6.11
+
+15
+
+3.
+
+Methoden
+
+3.1.
+
+Präparation isolierter Herzmuskelzellen und deren Inkubation
+Zu Beginn der Präparation von Ca++-toleranten Herzmuskelzellen wurde eine
+Langendorff-Apparatur zunächst mit Krebs-Ringer-Bicarbonatpuffer (KRB-Puffer)
+gespült und danach mit dem gleichen Puffer luftblasenfrei gefüllt. Während der
+gesamten Herzzellisolierung wurde die Perfusionslösung weiter mit Carbogen begast.
+Zur Isolierung von ventrikulären Myokardzellen wurden ca. 12 Wochen alte, 300350 g schwere, männliche Wistar-Ratten aus dem Tierstall des Physiologischen
+Instituts, Justus-Liebig-Universität Gießen, mit Diethylether narkotisiert und
+thorakotomiert. Die Herzen wurden mit eiskalter 0,15 M NaCl-Lösung still gestellt
+und oberhalb des Aortenbogens abgetrennt, danach die Lungenflügel entfernt und die
+Aorta frei präpariert. Bei langsam laufender Perfusion mit dem KRB-Puffer (ca. 30
+Tropfen/min) wurden die Herzen mit der frei präparierten Aorta an die LangendorffApparatur angehängt und mit 40 ml pro Herz blutfrei perfundiert. Anschließend wurde
+für 30 min mit Kollagenasepuffer (2-3 ml/min) rezirkulierend perfundiert.
+Nach
+
+Beendigung
+
+der
+
+Perfusion
+
+wurden
+
+die
+
+Vorhöfe
+
+entfernt,
+
+und
+
+das
+
+Ventrikelgewebe mit einem Gewebehacker (Tissue Chopper 1086, Bachofer,
+Reutlingen) bei einer Schnittbreite von 0,7 mm mechanisch zerkleinert. Im
+Kollagenasepuffer mit 1 % Albumin wurde das Gewebe während eines 15-20
+minütigen wiederholten Ansaugens mit einer 10 ml-Pipette weiter aufgetrennt. Die so
+gewonnene Zellsuspension wurde bei Raumtemperatur durch ein Nylonnetz mit 200
+µm Porengröße filtriert, um Bindegewebsstücke abzutrennen. Das Filtrat wurde für
+3 min bei 400 Upm zentrifugiert (Digifuge GL, Heraeus-Christ, Osterode/Harz), um
+Zelltrümmer und kleinere Zellen, wie z.B. Endothelzellen, von intakten Myozyten zu
+trennen. Das Sediment wurde im KRB-Puffer + 0,2 mM CaCl2 resuspendiert und
+erneut bei 400 Upm für 3 min zentrifugiert. Intakte Ca++-tolerante Myozten wurden
+durch Sedimentation durch ein Medium hoher Dichte aufkonzentriert. Hierfür wurden
+vier hohe Reagenzgläser bis zur Hälfte mit dem KRB-Puffer + 4 % Albumin + 1 mM
+CaCl2 gefüllt und die Zellsuspension mit einer gebogenen Pasteurpipette vorsichtig
+überschichtet. Zur beschleunigten Sedimentation wurden diese Reagenzgläser bei 300
+Upm für 30 Sekunden zentrifugiert (Sigma 4K-1; Sigma, Taufkirchen). Dabei
+16
+
+wanderten Aggregate aus vorwiegend intakten Zellen auf den Boden der
+Reagenzgläser und bildeten dort ein lockeres Sediment. Das zu ca. 80 % aus intakten
+stabförmigen Zellen bestehende Sediment wurde für die Kurzzeitkultur in
+modifiziertem Kulturmedium 199 (CCT-Medium) resuspendiert. 35 mm-Gewebekulturschalen (Falcon Nr. 3004) wurden am Vorabend mit 1,0-1,5 ml modifiziertem
+Kulturmedium 199 [CCT plus 4 % (v/v) FCS] beschichtet und über Nacht bei 37 °C
+im Brutschrank (Cytoperm, Heraeus, Osterode/Harz) vorinkubiert. Diese 15 bis 20
+stündige Vorinkubation der Kulturschalen war für eine effektive Anheftung der Zellen
+nach der Präparation notwendig. Unmittelbar vor dem Ausplattieren der im
+Kulturmedium resuspendierten isolierten Zellen, wurde das alte Inkubationsmedium
+von den Kulturschalen abgesaugt. Pro 35 mm-Schale wurden dann jeweils 1 mm der
+Zellsuspension ausplattiert und für zwei Stunden im Brutschrank inkubiert. Diese
+Kurzzeitkultur im CCT-Medium bewirkte eine energetische Erholung der Zellen nach
+der Präparation.
+Während der zweistündigen Kurzzeitkultur werden die intakten Myozten zusätzlich
+aufgereinigt. Im Gegensatz zu den beschädigten und lysierten Zellen sedimentieren die
+stäbchenförmigen, intakten Myozyten und heften sich am Boden der vorinkubierten
+Plastik-Kulturschale an. Die runden und isolierten Zellen flotierten im überstehenden
+Medium und konnten somit zu Versuchsbeginn abgesaugt werden. Nach dem
+Waschen der Zellen wurden diese über Nacht mit unterschiedlichen Reagenzien
+inkubiert (siehe Versuchsprotokolle im Ergebnisteil).
+
+3.2.
+
+Messung von Myokardzell-Kontraktionen im elektrischen Feld
+
+3.2.1. Probenvorbereitung
+Bei der Messung von Myokardzell-Kontraktionen wurde mit Übernachtkulturen von
+isolierten Kardiomyozyten gearbeitet. Nach einer Inkubationszeit von 24 Stunden (mit
+unterschiedlichen Reagenzien, siehe Ergebnisteil) wurden bei den Myozyten die
+Kontraktionsparameter entweder ohne weitere Zugabe von Reagenzien oder unter
+Anlegen einer äußeren Last durch Kontraktion in hoch viskösem Medium gemessen.
+
+17
+
+3.2.2. Elektrische Stimulation und Steuerung der Myokardzell-Kontraktion
+Die Kulturschale wurde auf den Objekttisch eines Mikroskops gestellt und mit einem
+speziellen Deckel verschlossen. In diesen wurden vier Löcher gebohrt, die so
+angeordnet wurden, dass sie annähernd die Eckpunkte eines Quadrats bildeten,
+welches den Kreis des Deckels maximal ausfüllte. Der Draht, der später an die
+Kathode des Elektrostimulators angeschlossen wurde, war durch eines dieser Löcher
+in das Innere des Deckels geführt worden, so dass er in das Medium in der
+Kulturschale eintauchen konnte. Durch ein benachbartes Loch wurde dieser wieder
+nach außen geführt. Dabei war er so gebogen, dass er annähernd senkrecht in das
+Medium eintauchte, dann abknickte und horizontal durch das Medium verlief, wieder
+abknickte und senkrecht das Medium verließ. Mit dem Draht, der später an die Anode
+angeschlossen wurde, verfuhr man auf die gleiche Weise. In der mit diesem Deckel
+geschlossenen Kulturschale lagen sich also zwei horizontal verlaufende Drähte
+gegenüber, die beide in den Puffer eintauchten. Die beiden Drähte stellten Kathode
+und Anode in der Schale dar. Wurden sie an den Stimulator angeschlossen, baute sich
+zwischen ihnen ein elektrisches Feld auf, das aufgrund der Form des Drahtes einem
+homogenen Feld angenähert war und so zu einem relativ gleichmäßigen Stromfluss
+durch die Zellen zwischen den beiden Drähten führte.
+Die Zellen wurden mit biphasischen Stromstössen, die von zwei 60 Volt starken
+entgegengesetzten
+Millisekunden
+
+Rechteckspannungen
+
+dauerten,
+
+zur
+
+ausgelöst
+
+Kontraktion
+
+wurden
+
+stimuliert.
+
+und
+
+Zeitweise
+
+jeweils
+
+0,5
+
+auftretende
+
+Spontankontraktionen in unregelmäßiger Frequenz wurden durch die Stimulation
+vereinheitlicht, indem der Stimulator ihnen seine Stromstoßfrequenz als Kontraktionsfrequenz aufzwang. Zellen, welche die vorgegebene Frequenz nicht annahmen,
+wurden in den Experimenten nicht berücksichtigt. Man konnte nun den Myokardzellen
+verschiedene Frequenzen vorgeben, indem man die Stimulationsfrequenz änderte.
+
+3.2.3. Messung der Kontraktionsparameter
+Die Kontraktionsparameter wurden mit einer Geräteanordnung der Firma Scientific
+Instruments GmbH aus Heidelberg erfasst. Während der Stimulation der Zellen befand
+sich die Kulturschale auf dem Objekttisch eines Mikroskops. Durch das Mikroskop
+war es möglich, die Zellen bei ihren Kontraktionen zu beobachten.
+An das Mikroskop waren zwei Kameras angeschlossen. Die eine Kamera war eine
+Videokamera zur Beobachtung des Okularbildes auf einem Monitor. Bei der anderen
+18
+
+handelte es sich um eine Zeilenkamera, die in der Lage war, Zellgrenzen zu erkennen,
+da sie verschiedene Helligkeiten wahrnehmen konnte, so auch den Hell-Dunkel- bzw.
+Dunkel-Hell-Übergang an der Grenze zwischen Zelle und Hintergrund. Um nun eine
+Kontraktion mit der Zeilenkamera beobachten zu können, musste man die
+Zeilenkamera so positionieren, dass beide Zellenden im Bild der eindimensionalen
+Zeile lagen. Dazu bewegte man die Kulturschale so, dass sich die zu untersuchende
+Zelle genau in der Mitte des Okularbildes befand, und drehte dann die Zeilenkamera,
+bis man am Videobild sehen konnte, dass sich beide Zellenden im Erfassungsbereich
+der Zeilenkamera befanden.
+Das in elektrische Signale umgewandelte Bild der Zeilenkamera wurde nicht auf
+einem Monitor, sondern über das Interface auf einem Oszillographen dargestellt. Die
+Ablenkzeit war auf dem Horizontalverstärker fest auf 0,1 ms/cm eingestellt, der
+Vertikalverstärker war auf 5 V/div geregelt. Für die Bilddarstellung wurde er intern
+getriggert, so dass man ein stehendes Bild erhielt. Wenn nun die Zeilenkamera
+verschiedene Helligkeiten wahrnahm, wurden diese auf dem Oszillographen als
+verschiedene starke y-Auslenkungen dargestellt. Diejenigen Amplituden, welche die
+Zellgrenzen darstellten, konnten an ihrer horizontalen Bewegung identifiziert werden.
+Es war also möglich, die Zellkontraktion auf dem Oszillographen zu beobachten. Der
+Oszillograph wurde als Zwei-Kanaloszillograph betrieben. Am zweiten Kanal lag eine
+feste Spannung des Interface an. Wurde sie abgelesen, stellte sie sich als eine weitere
+horizontale Linie einer bestimmten Höhe auf dem Bildschirm des Oszillographen dar.
+Wurde sie nicht abgelesen, zeigte der Oszillograph eine horizontale Linie in der Höhe
+Null. Diese zweite Spannung wurde extern über das Interface getriggert, und zwar auf
+folgende Weise: Man setzte einen Triggermarker des Interface, der ebenfalls vom
+Interface auf dem Oszillograph durch eine Amplitude sichtbar gemacht wurde, vor
+eine Amplitude des Zellbildes. Erreichte nun die ansteigende Spannung des Zellbildes
+(sichtbar gemacht durch den Anstieg der Amplitude des Zellbildes) den Wert, der
+durch den Triggermarker vorgegeben wurde (sichtbar gemacht durch die Amplitude
+des Triggermarkers), so begann der Oszillograph, die Interface-Spannung am zweiten
+Kanal aufzuzeichnen. Am Bildschirm des Oszillographen sah man an dieser Stelle im
+Bild des zweiten Kanals einen Sprung der Horizontalen aus der Null-Position in die
+Höhe. Veränderte nun die Amplitude des Zellbildes im Zuge der Kontraktion ihre
+Position, so veränderte sich auch die Position, an welcher der Trigger-Wert erreicht
+wurde. Damit veränderte sich ebenso die Stelle, an der die Horizontale nach oben
+19
+
+sprang. Im bewegten Bild sah man, wie sich die obere Horizontale an ihrer Kante vor
+und zurück bewegte. Man konnte also die Zelllänge und die Zellkontraktion an dieser
+Zellkante anhand der Horizontalen beobachten. An der anderen Zellkante verfuhr man
+analog.
+Die Information Interface-Spannung an bzw. Interface-Spannung aus wurde vom
+Oszillograph an das Interface weitergegeben, welches sie wiederum an einen
+Computer weiterleitete. Auf diesem PC lief das Programm Mucell der Firma Scientific
+Instruments GmbH. Dieses Programm registrierte aus der Information - Spannung an
+bzw. Spannung aus - die Länge der Zelle zu einem bestimmten Zeitpunkt. Anhand der
+Zelllängen zu verschiedenen Zeitpunkten erstellte das Programm einen Graphen, der
+die Zelllänge in Abhängigkeit von der Zeit darstellte. Mithin eine Kurve, welche die
+Kontraktion der Zelle anzeigte. Der Computer erkannte an der jeweils einsetzenden
+Längenverkürzung den Beginn einer Kontraktion. Er nahm fünf Kontraktionen auf
+und
+
+ermittelte
+
+folgende
+
+Werte
+
+als
+
+Mittelwerte
+
+aus
+
+den
+
+jeweiligen
+
+fünf
+
+Einzelmessungen:
+1. Die maximale Zelllänge (diastolische Zelllänge) in Mikrometern
+2. Die minimale Zelllänge (systolische Zelllänge) in Mikrometern
+3. Die Zeit vom Beginn der Kontraktion bis zur maximalen Kontraktion („Time-toPeak“) in Millisekunden
+4. Die maximale Kontraktionsgeschwindigkeit in Mikrometern pro Sekunde
+(bestimmt aus der ersten Ableitung der Kontraktionskurve)
+5. Die maximale Relaxationsgeschwindigkeit in Mikrometern pro Sekunden
+6. Die Zeit von der 10 %-igen Zellkontraktion bis zur vollständigen Zellkontraktion
+in Millisekunden („T10-to-Peak“)
+7. Die Zeit von der maximalen Kontraktion bis zur Relaxation um 90 % der Zellverkürzungsstrecke („R90-Wert“)
+Aus diesen Parametern wurden noch weitere Parameter errechnet:
+1. Der Quotient ΔL/L: Man bildete die Differenz aus diastolischer und systolischer
+Zelllänge (ΔL). In Prozent ausgedrückt zeigt ΔL/L an, um wieviel Prozent ihrer
+diastolischen Länge sich die Zelle während der Kontraktion verkürzt.
+2. Die Conmax als Ratenkonstante für die maximale Kontraktionsgeschwindigkeit:
+Die maximale Kontraktionsgeschwindigkeit wird als erste zeitliche Ableitung der
+Zellverkürzung bestimmt und in µm/s angegeben.
+20
+
+3. Die Relmax als Ratenkonstante für die maximale Relaxationsgeschwindigkeit wird
+als erste zeitliche Ableitung der Relaxation bestimmt und in µm/s angegeben.
+
+3.2.4. Messprotokoll
+Jede Zelle wurde auf die oben beschriebene Weise bei einer Frequenz von 1 Hz
+viermal ausgemessen, wobei zwischen zwei Messungen jeweils 15 Sekunden
+verstrichen. Die so erhaltenen vier Mittelwerte der Kontraktionsparameter wurden in
+das Programm Excel übertragen und weiter verarbeitet: aus diesen jeweiligen ersten
+Mittelwerten wurden Mittelwert, Standardabweichungen und Median bestimmt.
+Danach änderte man die Frequenz und maß die Zelle noch einmal bei 0,5 und 2 Hz
+aus.
+
+3.2.5. Messung der Zelllängen und –breiten
+Die Messung der Herzmuskelzellen erfolgte mit Hilfe einer CCD-Videokamera
+(AVC-D5CE, SONY, Japan). Während der Messung befanden sich die Zellen in der
+Kulturschale. Mit Hilfe der Kamera war es möglich, die Zelllängen und –breiten der
+Herzmuskelzellen genau zu erfassen.
+
+3.3.
+
+Statistik
+Die
+
+Einzellkontraktionen
+
+wurden
+
+jeweils
+
+aus
+
+verschiedenen
+
+Präparationen
+
+zusammengefasst und der Mittelwert aus diesen bestimmt. Dargestellt sind die
+Mittelwerte und Standardfehler. Bei Vergleichen zwischen zwei Gruppen wurde ein
+konventioneller T-Test herangezogen. Wurden mehr als zwei Gruppen in einem
+Experiment verglichen, wurde zunächst eine Varianzanalyse durchgeführt (ANOVA)
+und anschließend ein Student-Neumann-Keuls-Test als post hoc Test verwendet.
+Daten mit p<0,05 wurden als voneinander statistisch signifikant bezeichnet.
+
+21
+
+4.
+
+Ergebnisse
+
+4.1.
+
+Lastfreie Kontraktion isolierter Herzmuskelzellen nach anhaltender
+8-br-cGMP-Exposition
+Um den chronischen Einfluss von cGMP-Derivaten auf deren Kontraktionsverhalten
+zu überprüfen, wurden adulte ventrikuläre Herzmuskelzellen der Ratte für 24 Stunden
+in Gegenwart von 8-br-cGMP (0,0001-1 mM) inkubiert. Danach wurde die
+Kontraktion der Herzmuskelzellen unter elektrischer Stimulation (2 Hz) in
+unmodifiziertem Zellkulturmedium untersucht. Das entspricht einer nominell
+weitgehend lastfreien Verkürzung. Als Grad für die Kontraktion der Zelle wurde die
+diastolische Zelllänge (L Diast), die Zeit bis zur maximalen Zellverkürzung (TTP) und
+die relative Zellverkürzung (dl/L) berechnet und in Relation zu den Kontrollen
+(100 %) prozentual angegeben. Die diastolische Zelllänge war bei 0,01 und 0,1 mM
+jeweils signifikant höher, jedoch bei 0,0001 und 0,001 mM jeweils signifikant
+niedriger (Abb. 4.1.A). Die Zeit bis zur maximalen Zellverkürzung war zwischen
+0,01-1
+
+mM
+
+signifikant
+
+kürzer.
+
+In
+
+diesem
+
+Bereich
+
+war
+
+auch
+
+eine
+
+konzentrationsabhängige Zunahme der Zeit zu erkennen (Abb. 4.1.B). Die relative
+Zellverkürzung stellt sich biphasisch dar mit einem signifikant niedrigen Wert bei
+0,01 mM (Abb. 4.1.C).
+8-br-cGMP 2 Hz
+
+A
+
+L Diast in %
+
+120
+110
+100
+90
+80
+0,00001
+
+*
+
+*
+*
+0,0001
+
+*
+0,001
+
+0,01
+
+0,1
+
+1
+
+10
+
+Konzentration in mM
+
+8-br-cGMP 2 Hz
+
+*
+
+B
+
+TTP in %
+
+100
+
+*
+*
+
+90
+
+*
+
+80
+70
+0,00001
+
+0,0001
+
+0,001
+
+0,01
+
+0,1
+
+Konzentration in mM
+
+22
+
+1
+
+10
+
+8-br-cGMP 2 Hz
+130
+
+C
+
+dl/L in %
+
+120
+110
+100
+
+*
+
+90
+80
+0,00001
+
+0,0001
+
+0,001
+
+0,01
+
+0,1
+
+1
+
+10
+
+Konzentration in mM
+
+Abb. 1: Einfluss von chronischer Supplementation von 8-br-cGMP auf das
+Kontraktionsverhalten adulter Herzmuskelzellen der Ratte. Isolierte Herzmuskelzellen
+wurden
+
+über
+
+Nacht
+
+in
+
+Kulturmedium
+
+mit
+
+8-br-cGMP
+
+(0,01
+
+mM
+
+n=
+
+72,
+
+0,0001/0,001/0,1/1 mM n= 36) inkubiert. Dargestellt sind jeweils die prozentualen
+Mittelwerte und Standardfehler für die diastolische Zelllänge (A), die Zeit bis zur
+maximalen Zellverkürzung (B) und die relative Zellverkürzung (C) relativ zu den
+Kontrollen (100 %). * kennzeichnet Unterschiede gegenüber der unbehandelten Kontrolle
+mit p<0,05.
+
+4.2.
+
+Frequenzabhängige lastfreie Kontraktion isolierter Herzmuskelzellen nach
+anhaltender 8-br-cGMP-Exposition
+Um das frequenzabhängige Kontraktionsverhalten zu überprüfen,
+
+wurden adulte
+
+ventrikuläre Herzmuskelzellen der Ratte für 24 Stunden in Gegenwart von 8-br-cGMP
+(0,01 mM) inkubiert. Danach wurde die Kontraktion der Herzmuskelzellen unter
+elektrischer
+
+Stimulation
+
+(0,5/1/2
+
+Hz)
+
+in
+
+unmodifiziertem
+
+Zellkulturmedium
+
+untersucht. Eine Frequenz von 0,5 Hz für die Ratte ist unphysiologisch niedrig, erlaubt
+aber der Zelle eine starke Verkürzung. Im Bereich von 1-2 Hz findet sich an frisch
+isolierten Herzmuskelzellen eine positive Verkürzungs-Frequenz-Beziehung, wie sie
+als Frequenzinotropie beschrieben wird. Wieder wurden die diastolische Zelllänge, die
+Zeit bis zur maximalen Zellverkürzung und die relative Zellverkürzung berechnet und
+in Relation zu den Kontrollen (100 %) prozentual angegeben. Die diastolische
+Zelllänge war bei 0,5 und 2 Hz signifikant höher als bei den Kontrollen (Abb. 4.2.A).
+TTP war bei allen drei Frequenzen signifikant höher, am höchsten jedoch bei 1 Hz
+(Abb. 4.2.B). Die relative Zellverkürzung war bei allen drei Frequenzen signifikant
+niedriger, jedoch bei 1 Hz am niedrigsten (Abb. 4.2.C).
+23
+
+8-br-cGMP 0,01 mM
+
+*
+
+A
+
+L Diast in %
+
+115
+
+*
+
+110
+105
+100
+0
+
+0.5
+
+1
+
+1.5
+
+2
+
+2.5
+
+Frequenz in Hz
+
+8-br-cGMP 0,01 mM
+
+B
+
+TTP in %
+
+100
+
+*
+
+95
+
+*
+
+*
+
+90
+
+85
+0
+
+0.5
+
+1
+
+1.5
+
+2
+
+2.5
+
+Frequenz in Hz
+
+8-br-cGMP 0,01 mM
+
+C
+
+dL/L in %
+
+100
+
+*
+
+*
+
+90
+
+*
+
+80
+70
+0
+
+0,5
+
+1
+
+1,5
+
+2
+
+2,5
+
+Frequenz in Hz
+
+Abb. 2: Einfluss von chronischer Supplementation von 8-br-cGMP auf das
+Kontraktionsverhalten adulter Herzmuskelzellen der Ratte. Isolierte Herzmuskelzellen
+wurden über Nacht in Kulturmedium mit 8-br-cGMP (0,01 mM n= 72) inkubiert.
+Dargestellt sind jeweils die prozentualen Mittelwerte und Standardfehler für die
+diastolische Zelllänge (A), die Zeit bis zur maximalen Zellverkürzung (B) und die
+relative Zellverkürzung (C) relativ zu den Kontrollen (100 %). * kennzeichnet
+Unterschiede gegenüber der unbehandelten Kontrolle mit p<0,05.
+
+24
+
+Zelllängen und -breiten isolierter Herzmuskelzellen nach anhaltender
+8-br-cGMP-Exposition
+Adulte ventrikuläre Herzmuskelzellen der Ratte wurden für 24 Stunden in Gegenwart
+von 8-br-cGMP (0,0001-1 mM) inkubiert. Danach wurden die Zelllängen und -breiten
+der Herzmuskelzellen ohne vorherige Kontraktion in unmodifiziertem Zellkulturmedium untersucht. Angegeben sind die prozentualen Zelllängen und -breiten in
+Relation zu den Kontrollen (100 %). Bei allen Konzentrationen war eine signifikante
+Zunahme der Zelllänge unter 8-br-cGMP-Zugabe zu erkennen (Abb. 4.3.A). Eine
+konzentrationsabhängige Zunahme oder Abnahme der Zelllänge war nicht zu sehen.
+Bei den Konzentrationen 0,001-0,1 mM war eine signifikante Zunahme der Zellbreite
+zu erkennen, diese wurde mit zunehmender Konzentration geringer (Abb. 4.3.B).
+Zelllänge 8-br-cGMP
+
+*
+
+A
+
+Zelllänge in %
+
+115
+
+*
+
+110
+
+*
+
+*
+
+*
+
+105
+100
+0,00001
+
+0,0001
+
+0,001
+
+0,01
+
+0,1
+
+1
+
+10
+
+1
+
+10
+
+Konzentrationen in mM
+
+Zellbreite 8-br-cGMP
+115
+
+B
+
+Zellbreite in %
+
+4.3.
+
+*
+
+110
+
+*
+
+*
+
+105
+100
+95
+0,00001
+
+0,0001
+
+0,001
+
+0,01
+
+0,1
+
+Konzentrationen in mM
+
+Abb. 3: Einfluss von chronischer Supplementation von 8-br-cGMP auf das
+Kontraktionsverhalten adulter Herzmuskelzellen der Ratte. Isolierte Herzmuskelzellen
+wurden
+
+über
+
+Nacht
+
+in
+
+Kulturmedium
+
+mit
+
+8-br-cGMP
+
+(0,01
+
+mM
+
+n=
+
+72,
+
+0,0001/0,001/0,1/1 mM n= 36) inkubiert. Dargestellt sind jeweils die prozentualen
+Mittelwerte und Standardfehler für die Zelllänge (A) und Zellbreite (B) relativ zu den
+Kontrollen (100 %). * kennzeichnet Unterschiede gegenüber der unbehandelten Kontrolle
+mit p<0,05.
+
+25
+
+Lastfreie Kontraktion isolierter Herzmuskelzellen nach anhaltender
+SNAP-Exposition
+Um den chronischen Einfluss von NO-Donoren auf deren Kontraktionsverhalten zu
+überprüfen, wurden adulte ventrikuläre Herzmuskelzellen der Ratte für 24 Stunden in
+Gegenwart von SNAP (0,001-100 µM) inkubiert. Danach wurde die Kontraktion der
+Herzmuskelzellen unter elektrischer Stimulation (2 Hz) in unmodifiziertem
+Zellkulturmedium untersucht. Die diastolische Zelllänge, die Zeit bis zur maximalen
+Zellverkürzung und die relative Zellverkürzung wurden berechnet und in Relation zu
+den Kontrollen (100 %) prozentual angegeben. Die diastolische Zelllänge war bei
+1 und 10 µM jeweils signifikant höher, bei den übrigen Konzentrationen war eine
+Tendenz zu niedrigeren Werten zu erkennen, diese war jedoch nicht signifikant
+(Abb. 4.4.A). TTP war nur bei 0,1 µM signifikant kürzer (Abb. 4.4.B). Die relative
+Zellverkürzung hatte zwischen 1 und 100 µM eine Tendenz zu höheren Werten und
+zwischen 0,001 und 0,1 µM zu niedrigeren Werten, es lag jedoch keine Signifikanz
+vor (Abb. 4.4.C).
+
+%
+
+SNAP 2 Hz
+
+*
+
+115
+
+*
+
+L Diast in %
+
+110
+
+A
+
+105
+100
+95
+90
+0,0001
+
+0,001
+
+0,01
+
+0,1
+
+1
+
+10
+
+100
+
+1000
+
+10
+
+100
+
+1000
+
+Konzentration in µM
+
+SNAP 2 Hz
+110
+105
+
+B
+
+TTP in %
+
+4.4.
+
+100
+
+*
+
+95
+90
+85
+0,0001
+
+0,001
+
+0,01
+
+0,1
+
+1
+
+Konzentration in µM
+
+26
+
+SNAP 2 Hz
+
+C
+
+dL/L in %
+
+120
+110
+100
+90
+80
+0,0001
+
+0,001
+
+0,01
+
+0,1
+
+1
+
+10
+
+100
+
+1000
+
+Konzentration in µM
+
+Abb.
+
+4:
+
+Einfluss
+
+von
+
+chronischer
+
+Supplementation
+
+von
+
+SNAP
+
+auf
+
+das
+
+Kontraktionsverhalten adulter Herzmuskelzellen der Ratte. Isolierte Herzmuskelzellen
+wurden über Nacht in Kulturmedium mit SNAP (1 µM n= 72, 0,001/0,01/0,1/10/100 µM
+n= 48) inkubiert. Dargestellt sind jeweils die prozentualen Mittelwerte und
+Standardfehler für die diastolische Zelllänge (A), die Zeit bis zur maximalen
+Zellverkürzung (B) und die relative Zellverkürzung (C) relativ zu den Kontrollen
+(100 %). * kennzeichnet Unterschiede gegenüber der unbehandelten Kontrolle mit
+p<0,05.
+
+4.5.
+
+Lastfreie Kontraktion isolierter Herzmuskelzellen nach anhaltender
+NAP-Exposition
+Um zu überprüfen, ob der Einfluss von SNAP auf das Kontraktionsverhalten NOabhängig ist, wurden die selben Messungen mit NAP vorgenommen. Dabei wurden
+adulte ventrikuläre Herzmuskelzellen der Ratte für 24 Stunden in Gegenwart von NAP
+(0,001-100 µM) inkubiert. Bei NAP handelt es sich um das inaktive Kontrollmolekül
+des NO-Donors SNAP. Danach wurde die Kontraktion der Herzmuskelzellen unter
+elektrischer Stimulation (2 Hz) in unmodifiziertem Zellkulturmedium untersucht. Die
+diastolische Zelllänge, die Zeit bis zur maximalen Zellverkürzung und die relative
+Zellverkürzung wurden berechnet und in Relation zu den Kontrollen (100 %)
+prozentual angegeben. Die diastolische Zelllänge war bei 0,1 und 1 µM jeweils
+signifikant niedriger, bei den übrigen Konzentrationen war kein signifikanter
+Unterschied zu erkennen (Abb. 4.5.A). TTP war nur bei 0,1 µM signifikant kürzer
+(Abb. 4.5.B). Die relative Zellverkürzung zeigte bei 100 µM einen signifikant
+niedrigen Wert (Abb. 4.5.C).
+
+27
+
+NAP 2 Hz
+
+A
+
+L Diast in %
+
+105
+100
+
+*
+
+95
+90
+0,0001
+
+0,001
+
+0,01
+
+*
+
+0,1
+
+1
+
+10
+
+100
+
+1000
+
+10
+
+100
+
+1000
+
+Konzentration in µmol/L
+
+NAP 2 Hz
+110
+
+B
+
+TTP in %
+
+105
+100
+
+*
+
+95
+90
+85
+0,0001
+
+0,001
+
+0,01
+
+0,1
+
+1
+
+Konzentration in µM
+
+C
+
+dL/L in %
+
+NAP 2 Hz
+120
+110
+100
+90
+80
+70
+60
+
+*
+
+0,0001
+
+0,001
+
+0,01
+
+0,1
+
+1
+
+10
+
+100
+
+1000
+
+Konzentration in µM
+
+Abb.
+
+5:
+
+Einfluss
+
+von
+
+chronischer
+
+Supplementation
+
+von
+
+NAP
+
+auf
+
+das
+
+Kontraktionsverhalten adulter Herzmuskelzellen der Ratte. Isolierte Herzmuskelzellen
+wurden über Nacht in Kulturmedium mit NAP (1 µM n= 72, 0,001/0,01/0,1/10/100 µM
+n= 48) inkubiert. Dargestellt sind jeweils die prozentualen Mittelwerte und Standardfehler für die diastolische Zelllänge (A), die Zeit bis zur maximalen Zellverkürzung (B)
+und die relative Zellverkürzung (C) relativ zu den Kontrollen (100 %). * kennzeichnet
+Unterschiede gegenüber der unbehandelten Kontrolle mit p<0,05.
+
+28
+
+Frequenzabhängige lastfreie Kontraktion isolierter Herzmuskelzellen nach
+anhaltender SNAP-Exposition
+Um das frequenzabhängige Kontraktionsverhalten zu überprüfen, wurden adulte
+ventrikuläre Herzmuskelzellen der Ratte für 24 Stunden in Gegenwart von SNAP
+(1 µM) inkubiert. Danach wurde die Kontraktion der Herzmuskelzellen unter
+elektrischer
+
+Stimulation
+
+(0,5/1/2
+
+Hz)
+
+in
+
+unmodifiziertem
+
+Zellkulturmedium
+
+untersucht. Wieder wurden die diastolische Zelllänge, die Zeit bis zur maximalen
+Zellverkürzung und die relative Zellverkürzung berechnet und in Relation zu den
+Kontrollen (100 %) prozentual angegeben. Die diastolische Zelllänge war bei allen
+drei Frequenzen signifikant höher als bei den Kontrollen (Abb. 4.6.A). TTP war bei
+allen drei Frequenzen nicht signifikant verändert (Abb. 4.6.B). Die relative
+Zellverkürzung war ebenfalls bei allen drei Frequenzen nicht signifikant verändert
+(Abb. 4.6.C).
+SNAP 1 µM
+
+*
+
+A
+
+L Diast in %
+
+115
+
+*
+
+*
+
+110
+105
+100
+0
+
+0,5
+
+1
+
+1,5
+
+2
+
+2,5
+
+2
+
+2,5
+
+Frequenz in Hz
+
+SNAP 1 µM
+105
+
+B
+
+TTP in %
+
+4.6.
+
+100
+
+95
+0
+
+0,5
+
+1
+
+1,5
+
+Frequenz in Hz
+
+29
+
+SNAP 1 µM
+
+dL/L in %
+
+120
+
+C
+
+110
+100
+90
+80
+0
+
+0,5
+
+1
+
+1,5
+
+2
+
+2,5
+
+Frequenz in Hz
+
+Abb.
+
+6:
+
+Einfluss
+
+von
+
+chronischer
+
+Supplementation
+
+von
+
+SNAP
+
+auf
+
+das
+
+Kontraktionsverhalten adulter Herzmuskelzellen der Ratte. Isolierte Herzmuskelzellen
+wurden über Nacht in Kulturmedium mit SNAP (1 µM n= 72) inkubiert. Dargestellt sind
+jeweils die prozentualen Mittelwerte und Standardfehler für die diastolische Zelllänge
+(A), die Zeit bis zur maximalen Zellverkürzung (B) und die relative Zellverkürzung (C)
+relativ zu den Kontrollen (100 %). * kennzeichnet Unterschiede gegenüber der
+unbehandelten Kontrolle mit p<0,05.
+
+4.7.
+
+Frequenzabhängige lastfreie Kontraktion isolierter Herzmuskelzellen nach
+anhaltender NAP-Exposition
+Adulte ventrikuläre Herzmuskelzellen der Ratte wurden für 24 Stunden in Gegenwart
+von NAP (1 µM) inkubiert, um ebenfalls das frequenzabhängige Kontraktionsverhalten zu überprüfen. Die Kontraktionen der Herzmuskelzellen wurden unter
+elektrischer
+
+Stimulation
+
+(0,5/1/2
+
+Hz)
+
+in
+
+unmodifiziertem
+
+Zellkulturmedium
+
+untersucht. Wieder wurden die diastolische Zelllänge, die Zeit bis zur maximalen
+Zellverkürzung und die relative Zellverkürzung berechnet und in Relation zu den
+Kontrollen (100 %) prozentual angegeben. Die diastolische Zelllänge war bei allen
+drei Frequenzen signifikant niedriger als bei den Kontrollen (Abb. 4.7.A). TTP war bei
+allen drei Frequenzen nicht signifikant verändert, mit zunehmender Frequenz war
+jedoch eine Tendenz zu niedrigen Werten zu erkennen (Abb. 4.7.B). Die relative
+Zellverkürzung war ebenfalls bei allen drei Frequenzen nicht signifikant verändert
+(Abb. 4.7.C).
+
+30
+
+NAP 1 µM
+
+A
+
+L Diast in %
+
+100
+98
+
+*
+
+96
+
+*
+
+*
+
+94
+92
+90
+0
+
+0,5
+
+1
+
+1,5
+
+2
+
+2,5
+
+2
+
+2,5
+
+2
+
+2,5
+
+Frequenz in Hz
+
+NAP 1 µM
+
+B
+
+TTP in %
+
+100
+
+95
+
+90
+
+85
+0
+
+0,5
+
+1
+
+1,5
+
+Frequenz in Hz
+
+NAP 1 µM
+
+C
+
+dL/L in %
+
+130
+120
+110
+100
+90
+0
+
+0,5
+
+1
+
+1,5
+
+Frequenz in Hz
+
+Abb.
+
+7:
+
+Einfluss
+
+von
+
+chronischer
+
+Supplementation
+
+von
+
+NAP
+
+auf
+
+das
+
+Kontraktionsverhalten adulter Herzmuskelzellen der Ratte. Isolierte Herzmuskelzellen
+wurden über Nacht in Kulturmedium mit NAP (1 µM n= 72) inkubiert. Dargestellt sind
+jeweils die prozentualen Mittelwerte und Standardfehler für die diastolische Zelllänge
+(A), die Zeit bis zur maximalen Zellverkürzung (B) und die relative Zellverkürzung (C)
+relativ zu den Kontrollen (100 %). * kennzeichnet Unterschiede gegenüber der
+unbehandelten Kontrolle mit p<0,05.
+
+31
+
+Zelllängen und -breiten isolierter Herzmuskelzellen nach anhaltender SNAP- und
+NAP-Exposition
+Adulte ventrikuläre Herzmuskelzellen der Ratte wurden für 24 Stunden in Gegenwart
+von SNAP (1 µM) und NAP (1 µM) inkubiert. Danach wurden die Zelllängen und
+-breiten der Herzmuskelzellen ohne vorherige Kontraktion in unmodifiziertem
+Zellkulturmedium untersucht. Angegeben sind die prozentualen Zelllängen und
+-breiten in Relation zu den Kontrollen (100 %). Nach SNAP-Exposition war eine
+signifikante Zunahme der Zelllängen erkennbar, die Zellbreiten waren tendenziell
+geringer, jedoch nicht signifikant (Abb. 4.8.A/B). Nach NAP-Exposition war keine
+signifikante Veränderung der Zelllängen und –breiten vorhanden (Abb. 4.8.A/B).
+
+SNAP/NAP 1 µM
+
+A
+
+Zelllänge in %
+
+120
+
+*
+
+110
+
+100
+
+90
+SNAP
+
+NAP
+
+SNAP/NAP 1 µM
+104
+
+B
+
+Zellbreite in %
+
+4.8.
+
+102
+100
+98
+96
+94
+SNAP
+
+NAP
+
+Abb. 8: Einfluss von chronischer Supplementation von SNAP und NAP auf das
+Kontraktionsverhalten adulter Herzmuskelzellen der Ratte. Isolierte Herzmuskelzellen
+wurden über Nacht in Kulturmedium mit SNAP und NAP (1 µM n= 120) inkubiert.
+Dargestellt sind jeweils die prozentualen Mittelwerte und Standardfehler für die Zelllänge
+(A) und Zellbreite (B) relativ zu den Kontrollen (100 %). * kennzeichnet Unterschiede
+gegenüber der unbehandelten Kontrolle mit p<0,05.
+
+32
+
+Frequenzabhängige lastfreie Kontraktion isolierter Herzmuskelzellen nach
+anhaltender YC-1-Exposition
+Adulte ventrikuläre Herzmuskelzellen der Ratte wurden für 24 Stunden in Gegenwart
+von YC-1 (3 µM) inkubiert, um das frequenzabhängige Kontraktionsverhalten zu
+überprüfen. Die Kontraktionen der Herzmuskelzellen wurden unter elektrischer
+Stimulation (0,5/1/2 Hz) in unmodifiziertem Zellkulturmedium untersucht. Wieder
+wurden die diastolische Zelllänge, die Zeit bis zur maximalen Zellverkürzung und die
+relative Zellverkürzung berechnet und in Relation zu den Kontrollen (100 %)
+prozentual angegeben. Die diastolische Zelllänge war bei allen drei Frequenzen
+signifikant höher als bei den Kontrollen (Abb. 4.9.A). TTP war nur bei 0,5 und 1 Hz
+signifikant niedriger (Abb. 4.9.B). Die relative Zellverkürzung war bei allen drei
+Frequenzen nicht signifikant verändert (Abb. 4.9.C).
+
+YC-1 3 µM
+
+A
+
+L Diast in %
+
+115
+
+*
+
+*
+
+*
+
+110
+105
+100
+0
+
+0,5
+
+1
+
+1,5
+
+2
+
+2,5
+
+2
+
+2,5
+
+Frequenz in Hz
+
+YC-1 3 µM
+100
+98
+
+B
+
+TTP in %
+
+4.9.
+
+96
+
+*
+
+94
+
+*
+
+92
+90
+0
+
+0,5
+
+1
+
+1,5
+
+Frequenz in Hz
+
+33
+
+YC-1 3 µM
+
+C
+
+dL/L in %
+
+110
+105
+100
+95
+90
+0
+
+0,5
+
+1
+
+1,5
+
+2
+
+2,5
+
+Frequenz in Hz
+
+Abb.
+
+9:
+
+Einfluss
+
+von
+
+chronischer
+
+Supplementation
+
+von
+
+YC-1
+
+auf
+
+das
+
+Kontraktionsverhalten adulter Herzmuskelzellen der Ratte. Isolierte Herzmuskelzellen
+wurden über Nacht in Kulturmedium mit YC-1 (3 µM n= 72) inkubiert. Dargestellt sind
+jeweils die prozentualen Mittelwerte und Standardfehler für die diastolische Zelllänge
+(A), die Zeit bis zur maximalen Zellverkürzung (B) und die relative Zellverkürzung (C)
+relativ zu den Kontrollen (100 %). * kennzeichnet Unterschiede gegenüber der unbehandelten Kontrolle mit p<0,05.
+
+4.10. Einfluss von Last auf isolierte Herzmuskelzellen nach anhaltender 8-br-cGMP-,
+SNAP- und YC-1-Exposition
+Um den Einfluss einer externen Last auf die Kontraktion nach anhaltender Exposition
+mit 8-br-cGMP, SNAP und YC-1 zu beurteilen, wurden die Zellen mit 8-br-cGMP
+(1 mM), SNAP (100 µM) und YC-1 (3 µM) inkubiert und am darauf folgenden Tag in
+viskösem Medium (nominell 400 cP durch Zugabe von Methylcellulose) elektrisch
+(2 Hz) stimuliert. Dies imitiert eine externe Lasterhöhung, wie sie sich im
+Gesamtorgan als erhöhte Nachlast äußert. Die diastolische Zelllänge, die Zeit bis zur
+maximalen Zellverkürzung und die relative Zellverkürzung wurden berechnet und in
+Relation zu den Kontrollen (100 %) prozentual angegeben. Bei der diastolischen
+Zelllänge war keine signifikante Veränderung zu erkennen, nach 8-br-cGMP-Zugabe
+war nur eine leichte Tendenz zu niedrigen Werten vorhanden (Abb. 4.10.A). TTP war
+nach
+
+8-br-cGMP-,
+
+SNAP-
+
+und
+
+YC-1-Zugabe
+
+jeweils
+
+signifikant
+
+niedriger
+
+(Abb. 4.10.B). Die relative Zellverkürzung wies bei allen drei Substanzen signifikant
+höhere Werte auf (Abb. 4.10.C).
+
+34
+
+400 cP 2 Hz
+
+A
+
+L Diast in %
+
+104
+102
+100
+98
+96
+8Br-cGMP 1 mM
+
+SNAP 100 µM
+
+YC-1 3 µM
+
+400 cP 2 Hz
+100
+
+B
+
+TTP in %
+
+*
+
+*
+
+95
+
+90
+
+*
+
+85
+8Br-cGMP 1 mM
+
+SNAP 100 µM
+
+YC-1 3 µM
+
+400 cP 2 Hz
+
+C
+
+dL/L in %
+
+115
+
+*
+
+*
+
+*
+
+8Br-cGMP 1mM
+
+SNAP 100µM
+
+110
+
+105
+
+100
+YC-1 3µM
+
+Abb. 10: Einfluss von chronischer Supplementation von 8-br-cGMP, SNAP und YC-1
+auf das Kontraktionsverhalten adulter Herzmuskelzellen der Ratte. Isolierte Herzmuskelzellen wurden über Nacht in Kulturmedium mit 8-br-cGMP (1 mM n= 108),
+SNAP (100 µM n= 108) und YC-1 (3 µM n= 108) inkubiert. Dargestellt sind jeweils die
+prozentualen Mittelwerte und Standardfehler für die diastolische Zelllänge (A), die Zeit
+bis zur maximalen Zellverkürzung (B) und die relative Zellverkürzung (C) relativ zu den
+Kontrollen (100 %). * kennzeichnet Unterschiede gegenüber der unbehandelten Kontrolle
+mit p<0,05.
+
+35
+
+5.
+
+Diskussion
+
+Das Ziel dieser Studie war es zu ermitteln, ob eine chronische Aktivierung des
+NO/cGMP-Signaltransduktionsweges, der bei akuter Aktivierung die kardiale
+Funktion modifiziert, auch langfristig die kardiale Funktion beeinträchtigt. Die
+Fragestellung ergibt sich aus der Überlegung heraus, dass dieser Signalweg chronisch
+zur Induktion von Apoptose beiträgt.
+Für diese Arbeit wurde ein Übernacht-Zellkultur-System benutzt, in dem sich eine
+negative Frequenz-Verkürzungsbeziehung von Zellen entwickelt. Da eine negative
+Frequenz-Kraft-Beziehung im insuffizienten menschlichen Herzen vorgefunden wird,
+kann das genannte Zellkultursystem benutzt werden, um solch eine Situation
+nachzuahmen. Taimor et al. (2004) und Anwar et al. (2005) konnten zeigen, dass die
+Stimulierung von α-Adrenorezeptoren, die einen pro-hypertrophen Effekt in diesem
+System durch Aktivierung des AP-1-Transkriptionsfaktors bewirkt, die Zellfunktion
+durch Aktivierung von SERCA2 steigern kann. Diese Resultate wurden nur bei einer
+Herzfrequenz von über 2 Hz und mehr gemessen, entsprechen also einer Aufhebung
+der negativen Kraft-Frequenz-Beziehung.
+Als Hauptbefund dieser Arbeit konnte gezeigt werden, dass die Induktion des proapoptotischen Signaltransduktionsweges durch NO/cGMP weder die kardiale
+Funktion steigert noch verringert. Diese Tatsache gilt für Experimente, die unter
+lastfreien Konditionen durchgeführt wurden. In dieser Arbeit konnte ebenfalls gezeigt
+werden, dass auch bei den Experimenten mit zunehmender Last (400 cP) kein
+Funktionsverlust der Herzmuskelzelle beobachtet werden konnte. Die Zellverkürzung
+nahm unter diesen Konditionen gering, aber trotzdem signifikant zu. Die Messung der
+Zellfunktion nach 24 Stunden ergab, dass die Induktion des NO/cGMP
+Signaltransduktionsweges die kardiale Leistung reduzieren kann. Dabei wurden aber
+weit geringere Konzentrationen verwendet, als benötigt, um eine Apoptose zu
+induzieren, und um die Zellfunktion durch eine akute Aktivierung zu beeinträchtigen.
+Begleitend wurde auch eine Zunahme der ruhenden Kardiomyozytenzelllängen
+beobachtet. Diese Daten deuten darauf hin, dass eine moderate, chronische Stimulation
+des NO/cGMP Signaltransduktionsweges zu einem Calcium-Sensibilitätsverlust führt.
+Um den Effekt von NO/cGMP auf die kardiale Leistung zu analysieren, wurden die
+36
+
+Herzmuskelzellen über Nacht unter Serum-freien Konditionen kultiviert. Unter diesen
+Bedingungen können die Zellen eine stabile Proteinsynthese aufrecht erhalten (Pinson
+et al., 1993), aber dennoch von einer normalen biphasischen Frequenz-Zellverkürzungs-Beziehung, wie sie in frisch isolierten Herzmuskelzellen auftritt (Langer
+et al., 2003 und diese Studie), in eine negative Frequenz-Kraft-Beziehung übergehen
+(Anwar et al., 2005 und diese Studie). Dieser Übergang kann unterdrückt werden
+durch eine α-Adrenorezeptor-Stimulation, wobei eine NFAT-Aktivierung und eine
+NFAT-abhängige SERCA2-Expression als notwendige Zwischenschritte identifiziert
+werden konnten. Das NO/cGMP-System hat verschiedene Möglichkeiten NFAT zu
+deaktivieren. NO kann z.B. über cGMP den JNK-Signaltransduktionsweg in
+Kardiomyozyten aktivieren (Taimor et al., 2001). Die Aktivierung des JNKSignaltransduktionsweges stimuliert die Freisetzung von NFAT aus dem Nukleus und
+hat deshalb einen negativen Einfluss auf die Aktivierung des Transkriptionsfaktor
+(Chow et al., 1997). Die Ergebnisse dieser Studie, dass eine Stimulation des
+NO/cGMP-Signaltransduktionsweges
+
+die
+
+negative
+
+Frequenz-Zellverkürzungs-
+
+Beziehung nicht verbessert, stimmen überein mit diesen Daten.
+Andererseits ist bekannt, dass eine α-Adrenorezeptor-Stimulation und NO den AP-1Signaltransduktionsweg aktivieren (Taimor et al., 2001). Bei Kardiomyozyten führt
+die
+
+α-Adrenorezeptor-Stimulation
+
+ohne
+
+NFAT-Aktivierung
+
+nicht
+
+zu
+
+einer
+
+Veränderung der negativen Frequenz-Zellverkürzungs-Beziehung (Anwar et al.,
+2005). Da weder die α-Adrenorezeptor-Stimulation ohne NFAT-Aktivierung noch
+NO/cGMP die Veränderungen oder kontraktilen Eigenschaften, gemessen an
+kultivierten Kardiomyozyten, modifizieren, aber dennoch beide Agonisten AP-1
+aktivieren, sprechen die Resultate gegen eine Beteiligung von AP-1 in diesem Prozess.
+Einer der wichtigsten Ergebnisse dieser Studie ist, dass geringe Konzentrationen von
+8-br-cGMP oder SNAP ausreichen, um die Kontraktionsleistung der Zellen zu
+reduzieren, gemessen nach 24 stündiger Inkubationszeit der Kardiomyozyten. Die
+Konzentrationen von 8-br-cGMP oder SNAP, die erforderlich sind, um die
+Zellverkürzungsrate zu reduzieren, sind geringer als die, die notwendig sind, um
+Apoptose zu induzieren. Eine Reduktion der Kontraktionsleistung wurde jedoch bei
+höheren Konzentrationen und gleichzeitiger Aktivierung des pro-apoptotischen
+Signaltransduktionsweges nicht gemessen. Unter solchen Bedingungen zeigen fast alle
+Herzmuskelzellen eine Aktivierung von Caspase-3. Die Aktivierung von Caspase-3 in
+Verbindung mit SNAP wurde bereits von Taimor (2000) dargelegt.
+37
+
+Die Frage, auf welche Weise der apoptotische Zelltod bei der Entwicklung einer
+Herzinsuffizienz eine Rolle spielt und von welchen Faktoren sie abhängig ist, ist
+immer noch nicht geklärt.
+In dieser Studie wurde untersucht, ob die alleinige Induktion von Apoptose die
+kontraktile Funktion von Kardiomyozyten negativ beeinflusst. Der Hinweis für diese
+Fragestellung kam, wie in der Einleitung beschrieben, von verschiedenen
+Forschungsarbeiten, die nachwiesen, dass eine Caspase-3 abhängige Teilung von
+kontraktilen Proteinen und eine Verbesserung der kardialen Funktion auftraten, sobald
+Caspase-3 inhibiert wurde. In dieser Arbeit wurde jedoch kein signifikanter
+Zusammenhang zwischen der Caspase-3-Inhibition und der Teilung von kontraktilen
+Proteinen sowie der Verbesserung der kardialen Funktion festgestellt. Es sollte
+erwähnt werden, dass der Hinweis für die direkte Beteiligung einer Caspase-3Aktivierung an der Verschlechterung der kardialen Funktion von drei von einander
+unabhängigen Forschungsarbeiten dargestellt wurde. Communal et al. (2002)
+berichteten, dass aktivierte Caspase-3 Sarkomeren-Proteine in vitro spalten und die
+Calcium-Sensibilität reduzieren kann. Die dargelegten Befunde stimmen mit denen
+von Communal in sofern überein, als dass eine Calcium-Desensibilisierung festgestellt
+werden konnte, nachgewiesen auf eine indirekte Weise durch Beobachtungen der
+Zelllängenveränderungen. Einen Zellfunktionsverlust konnte man bei Versuchen
+weder mit noch ohne Last eruieren. Im Gegensatz zu den Arbeiten von Communal
+fand sich aber noch keine Zunahme der Apoptose, ein indirektes Maß für Caspase-3Aktivität
+
+und
+
+bei
+
+nachgewiesener
+
+Caspase-3-Aktivierung
+
+ergab
+
+sich
+
+kein
+
+Funktionsverlust.
+Zusammengefasst kann man sagen, dass das NO/cGMP-System viele verschiedene
+Signaltransduktionswege aktiviert, wie z.B. die Aktivierung von verschiedenen
+Transkriptionsfaktoren. Die Reaktion der Zelle auf eine NO/cGMP-Aktivierung ist
+nicht nur die Aktivierung von Caspase-3 alleine. Ferner konnte beobachtet werden,
+dass ein desensibilisierender Effekt von NO/cGMP nur bei niedrigen Konzentrationen
+auftritt. Diese Konzentrationen waren niedriger als jene, die benötigt werden, um
+Caspase-3 zu aktivieren. Das führt wiederum zu der Überlegung, ob die Caspase-3Aktivierung wirklich zu einer Calcium-Desensibilisierung in gesunden Herzmuskelzellen führt. Weiterhin ist die Mitwirkung der Caspase-3-Aktivierung beim
+Übergang zur Herzinsuffizienz kritisch zu betrachten, da diese Erkenntnisse von
+38
+
+Kaninchen-Versuchen stammen, bei denen die Herzinsuffizienz induziert wurde. Wie
+schon erwähnt, führt eine Caspase-3-Aktivierung zur Teilung von SarkomerenProteinen (Moretti et al., 2002). Laugwitz et al. (2001) haben gesunde Kardiomyozyten mit denen von insuffizienten Herzen verglichen. Die Kardiomyozyten von
+insuffizienten Herzen entwickelten einen Funktionsverlust, der nach Caspase-3Inhibition rückläufig sein könnte. In der hier vorliegenden Arbeit wurden nur gesunde
+Kardiomyozyten untersucht. Es konnte gezeigt werden, dass sowohl unbehandelte
+Kardiomyozyten als auch jene, die mit pro-apoptotischen Konzentrationen von
+8-br-cGMP oder SNAP behandelt wurden, einen Übergang von einer normalen in eine
+negative biphasische Frequenz-Zellverkürzungs-Beziehung zeigten. Die Aktivierung
+des pro-apoptotischen Signaltransduktionsweges übt keinen zusätzlichen Effekt aus.
+Mit anderen Worten, die hier vorgelegte Arbeit konnte zeigen, dass die Induktion des
+pro-apoptotischen
+
+Signaltransduktionsweges
+
+das
+
+Kontraktionsverhalten
+
+nicht
+
+beeinflusst.
+Abschließend betrachtet, zeigen die in dieser Studie erhobenen Befunde deutlich, dass
+die Induktion des pro-apoptotischen Signaltransduktionsweges die Funktion von
+Kardiomyozyten nicht beeinflusst. Ebenso konnte dargestellt werden, dass bei
+Konzentrationen,
+
+bei
+
+denen
+
+Apoptose
+
+induziert
+
+wird,
+
+NO/cGMP-abhängige
+
+Signaltransduktionswege den Verlust der kardialen Funktion weder erhöhen noch
+erniedrigen. Unabhängig von ihrem Effekt auf die Apoptose waren interessanter Weise
+gerade niedrige Konzentrationen von NO/cGMP ausreichend, um die kardiale
+Leistung zu reduzieren. Das kann interpretiert werden als ein Effekt, welcher von einer
+Calcium-Desensibilisierung ausgeht. Da NO, cGMP und eine direkte Aktivierung der
+Guanylatzyklase einen ähnlichen Effekt auf die Zelllängen haben, kann man davon
+ausgehen, dass NO diesen Effekt über cGMP ausübt. Layland et al. (2002)
+beschrieben bereits ähnliche Effekte von cGMP auf die Calcium-Desensibilisierung in
+Form von akuten Reaktionen von cGMP-Derivaten. Diese kommen in Betracht als
+NO/cGMP-abhängige Troponin I Phosphorylierungen. Es ist möglich, dass die in
+dieser Studie benutzten niedrigeren Konzentrationen einen ähnlichen Effekt ausüben,
+jedoch wird eine längere Zeit benötigt, damit dieser für das Herz mechanisch relevant
+wird.
+
+39
+
+Basierend auf diesen neuen Resultaten, dass hohe Konzentrationen von NO/cGMP
+Apoptose induzieren, und dass gerade niedrige Konzentrationen bei chronischer
+Exposition die kardiale Leistung reduzieren, ist die Aktivierung des NO/cGMPSystems ein fragwürdiger Ansatz für eine anti-hypertrophe Therapie.
+
+40
+
+6.
+
+Zusammenfassung und abschließende Betrachtung
+
+Die vorliegende Arbeit verfolgte das Ziel, den chronischen Effekt der Aktivierung des
+NO/cGMP-Signaltransduktionsweges auf das Kontraktionsverhalten von Kardiomyozyten zu untersuchen.
+
+Die Ergebnisse dieser Studie zeigen:
+1. Bei den Experimenten mit Last und ohne Last konnte kein Funktionsverlust der
+Herzmuskelzelle beobachtet werden.
+2. Die Induktion des NO/cGMP Signaltransduktionsweges kann die kardiale Leistung
+reduzieren, wenn die dabei verwendeten Konzentrationen geringer sind als
+benötigt, um eine Apoptose zu induzieren oder um die Zellfunktion akut zu
+beeinträchtigen.
+3. Begleitend mit der Reduktion der kardialen Leistung bei geringen Konzentrationen
+wurde auch eine Verlängerung der ruhenden Kardiomyozytenzelllängen
+beobachtet.
+4. Die Induktion des pro-apoptotischen Signaltransduktionsweges durch NO/cGMP
+hat weder einen positiven noch einen negativen Effekt auf die kardiale Funktion.
+5. Eine Stimulation des NO/cGMP-Signaltransduktionsweges verbessert nicht die
+negative Frequenz-Zellverkürzungs-Beziehung.
+6. Durch Messungen der Zell- und Sarkomerenlängenveränderungen konnte eine
+Calcium-Desensibilisierung festgestellt werden
+
+41
+
+Summary
+It is still under discussion to what extent and why apoptotic cell death contributes to
+the progression of heart failure. This study investigated whether the induction of
+apoptotic cell death per se depresses contractile function of cardiomyocytes. The
+evidence for this comes from previous findings of caspase-3-dependent cleavage of
+contractile proteins and the improvement of cardiac function when caspase-3 is
+inhibited. However, this study shows no evidence for such a strict coupling.
+Communal et al. (2002) reported that active caspase-3 develop a reduced calcium
+sensitivity. This study could also report a calcium desensitization, although in an
+indirect way by the observation of cell lengthening. A loss of cell function, neither as
+unloaded cell shortening nor when the cells were exposed to external load (400 cP),
+could not be observed. However, in a living cell, NO/cGMP activates multiple
+pathways including the activation of transcription factors and the final response of the
+cell is not simply the response to active caspase-3. Furthermore, it could be observed
+such a desensitizing effect of NO/cGMP already at concentrations below those
+required for significant caspase-3 activation. This makes it questionable whether
+indeed caspase-3 activation leads to calcium desensitization in intact cells. Again,
+caspase-3 activation went along with the cleavage of sarcomeric proteins (Moretti et
+al., 2002). Compared to cardiomyocytes from healthy animals, those isolated from the
+failing hearts developed a loss of function that could be reserved by caspase-3
+inhibition (Laugwitz et al., 2001). In this study, however, it was not compared normal
+cardiomyocytes with failing myocytes. In either untreated cardiomyocytes or those
+treated with pro-apoptotic concentrations of either 8-br-cGMP or SNAP, the cells
+underwent a transition from a normal biphasic frequency cell shortening relationship
+into a negative relationship. On top of this transition, the activation of pro-apoptotic
+pathways did not exert an additional effect. In other words, in this well controlled
+situation the induction of pro-apoptotic pathways did not influence the contractile
+function of cardiomyocytes further.
+In summary this study provides direct evidence that NO/cGMP-dependent pathways
+do neither improve nor worsen the loss of cardiac function at concentrations at which
+they accelerate apoptosis. Nevertheless, even low but sustained concentrations of
+cGMP/NO are sufficient to reduce cardiac performance, irrespectively of their effect
+on apoptosis. This was can be interpreted as a calcium desensitizing effect.
+42
+
+7.
+
+Literaturverzeichnis
+
+Akiyama K, Gluckman TL, Terhakopian A, Jinadasa PM, Narayan S, Singaswamy S,
+Massey B 3rd, Bing RJ., Apoptosis in experimental myocardial infarction in situ and
+in the perfused heart in vitro. Tissue Cell (1997) 29: 733-43
+Antonsson B, Conti F, Ciavatta A, Montessuit S, Lewis S, Martinou I, Bernasconi L,
+Bernard A, Mermod JJ, Mazzei G, Maundrell K, Gambale F, Sadoul R, Martinou JC.,
+Inhibition of Bax channel-forming activity by Bcl-2. Science (1997) 277: 370-372
+Anversa P, Kajstura J. Myocyte cell death in the diseased heart. Circ Res (1998)
+82: 1231-1233
+Anwar A, Taimor G, Korkususz H, Schreckenberg R, Berndt T, Abdallah Y, Piper
+HM, Schlüter K-D. PKC-independent signal transduction pathways increase SERCA2
+expression in adult rat cardiomyocytes. J Mol Cell Cardiol (2005) 39:911-919
+Aoki H, Kang P, Hampe J, Yoshimura K, Noma T, Matsuzaki M, Izumo S: Direct
+activation of mitochondrial apoptosis machinery by c-Jun N-terminal kinase in adult
+cardiac myocytes. J Biol Chem 277 (2002) 10244-10250
+Bartling B, Holtz J, Darmer D., Contribution of myocyte apoptosis to myocardial
+infarction. Basic Res Cardiol (1998) 93: 71-84
+Bielawska AE, Shapiro JP, Jiang L, Melkonyan HS, Piot C, Wolfe CL, Tomei LD,
+Hannun YA, Umansky SR., Ceramide is involved in triggering of cardiomyocyte
+apoptosis induced by ischemia and reperfusion. Am J Pathol (1997) 151: 1257-1263
+Black SC, Huang JQ, Rezaiefar P, Radinovic S, Eberhart A, Nicholson DW, Rodger
+IW., Co-localization of the cysteine protease caspase-3 with apoptotic myocytes after
+in vivo myocardial ischemia and reperfusion in the rat. J Mol Cell Cardiol (1998)
+30: 733-742
+
+43
+
+Bogoyevitch M, Gillespie-Brown J, Ketterman A, Fuller S, Ben-Levy R, Ashworth A,
+Marshall C, Sugden P: Stimulation of the stress-activated mitogenactivated protein
+kinase subfamilies in perfused heart. Circ Res (1996) 79: 162-173
+Boise LH, Gottschalk AR, Quintans J, Thompson CB., Bcl-2 and Bcl-2-related
+proteins in apoptosis regulation. Curr Top Microbiol Immunol (1995) 200: 107-121
+Brunner F., Interaction of nitric oxide and endothelin-1 in ischemia/reperfusion injury
+of rat heart. J Mol Cell Cardiol (1997) 29: 2363-2374
+Chow CW, Rincon M, Cavanagh J, Dickens M, Davis RJ. Nuclear accumulation of
+NFAT4 opposed by the JNK signal transduction pathway. Science (1997) 278:16381641
+Clerk A, Michael A, Sugden P: Stimulation of multiple mitogen-activated protein
+kinase sub-families by oxidative stress and phosphorylation of the small heat shock
+protein, HSP25/27, in neonatal ventricular myocytes. Biochem J (1998) 333: 581-589
+Communal C, Samundea M, de Tombe P, Narula J, Solaro RJ, Hajjar RJ. Functional
+consequences of caspase activation in cardiac myocytes. Proc Natl Acad Sci (2002)
+99: 6252-6256
+Cordis GA, Yoshida T, Das DK., HPTLC analysis of sphingomylein, ceramide and
+sphingosine in ischemic/reperfused rat heart. J Pharm Biomed Anal (1998) 16: 11891193
+Ding H, Lin Y, McGill G, Juo P, Zhu H, Blenis J, Yuan J, Fisher D: Essential role for
+Caspase-8 in transcription-independent apoptosis triggered by p53. J Biol Chem
+(2000) 275: 38905-38911
+Dumitrascu R, Weissmann N, Ghofrani HA, Dony E, Beueerlein K, Schmidt H,
+Stasch J-P, Gnoth MJ, Seeger W, Grimminger F, Schermuly RT. Activation of soluble
+guanylate cyclase reverses experimental pulmonary hypertension and vascular
+remodeling. Circulation (2006) 113: 286-295
+44
+
+Enari M, Sakahira H, Yokoyama H, Okawa K, Iwamatsu A, Nagata S., A caspaseactivated DNase that degrades DNA during apoptosis, and its inhibitor ICAD. Nature.
+(1998) 391: 43-50. Erratum in: Nature (1998) 393: 396
+Ferrari, R, Agnoletti, L, Comini L, Gaia G, Bachetti T, Cargnoni A, Ceconi C, Curello
+S, Visioli O. Oxidative stress during myocardial ischaemia and heart failure. Eur.
+Heart J (1998) 19: B2-11
+Feuerstein G, Ruffolo R, Yue T: Apoptosis and congestive heart failure. TCM (1997)
+7: 249-255
+Fiedler B, Wollert K. Interference of antihypertrophic molecules and signaling
+pathways with the Ca2+-calcineurin-NFAT cascade in cardiac myocytes. Cardiovasc
+Res (2004) 63: 450-457
+Fliss H., Accelerated apoptosis in reperfused myocardium: friend of foe?
+Basic Res Cardiol (1998) 93: 90-93
+Fliss H, Gattinger D, Apoptosis in ischemic and reperfused rat myocardium. Circ Res
+(1996) 79: 949-956
+Goebell H, Wagner J: Innere Medizin. de Gruyter, Berlin, New York (1992): 38-43
+Gonzalez-Zulueta M, Feldman AB, Klesse LJ, Kalb RG, Dillman JF, Parada LF,
+Dawson
+
+TM,
+
+Dawson
+
+VL.,
+
+Requirement
+
+for
+
+nitric
+
+oxide
+
+activation
+
+of
+
+p21(ras)/extracellular regulated kinase in neuronal ischemic preconditioning. Proc Natl
+Acad Sci U S A (2000) 97: 436-441
+Gottlieb RA, Burleson KO, Kloner RA, Babior BM, Engler RL., Reperfusion injury
+induces apoptosis in rabbit cardiomyocytes. J Clin Invest (1994) 94: 1621-1628
+Gross SS, Wolin MS., Nitric oxide: pathophysiological mechanisms. Annu Rev
+Physiol (1995) 57: 737-769
+
+45
+
+Guay J, Lambert H, Gingras-Breton G, Lavoie J, Huot J, Landry J: Regulation of actin
+filament dynamics by p38 map kinase-mediated phosphorylation of heat shock protein
+27. J Cell Sci (1997) 110: 357-368
+Haunstetter A, Izumo S., Apoptosis: basic mechanisms and implications for
+cardiovascular disease. Circ Res (1998) 82: 1111-1129
+Hengartner M: The biochemistry of apoptosis. Nature (2000) 407: 770-776
+Jürgensmeier J, Xie Z, Deveraux Q, Ellerby L, Bredesen D, Reed John: Bax directly
+induces release of cytochrome c from isolated mitochondria. PNAS (1998) 95: 49975002
+Kajstura J, Cheng W, Reiss K, Clark WA, Sonnenblick EH, Krajewski S, Reed JC,
+Olivetti G, Anversa P., Apoptotic and necrotic myocyte cell deaths are independent
+contributing variables of infarct size in rats. Lab Invest (1996) 74: 86-107
+Kajstura J, Cheng W, Sarangarajan R, Li P, Li B, Nitahara JA, Chapnick S, Reiss K,
+Olivetti G, Anversa P., Necrotic and apoptotic myocyte cell death in the aging heart of
+Fischer 344 rats. Am J Physiol (1996) 271: H1215-1228
+Kajstura J, Cigola E, Malhotra A, Li P, Cheng W, Meggs L, Anversa P: Angiotensin II
+induces apoptosis of adult ventricular myocytes in vitro. J Mol Cell Cardiol (1997)
+29: 859-870
+Kerr J, Wylli A, Currie A. Apoptosis: a basic biological phenomenon with wideranging implications in tissue kinetics. Br J Cancer (1972) 26: 239-257
+Kirshenbaum LA., Regulators of apoptosis in the heart: a matter of life and death. Can
+J Cardiol (1998) 14: 457-460
+Kirshenbaum L, de Moissac D: The bcl-2 gene product prevents programmed cell
+death of ventricular myocytes. Circulation (1997) 96: 1580-1585
+
+46
+
+Kitajima I, Kawahara K, Nakajima T, Soejima Y, Matsuyama T, Maruyama I., Nitric
+oxide-mediated apoptosis in murine mastocytoma. Biochem Biophys Res Commun
+(1994) 204: 244-251
+Kojda G, Kottenberg K, Nix P, Schlüter K-D, Piper HM, Noack E. Low increase in
+cGMP by organic nitrates and nitrovasodilators improves contractile response of rat
+cardiac myocytes. Circ Res (1996) 78: 91-101
+Komuro I, Kudo S, Yamazaki T, Zou Y, Shiojima I, Yazaki Y: Mechanical stretch
+activates the stress-activated protein kinases in cardiac myocytes. FASEB J (1996)
+10: 631-636
+Kostin S, Pool L, Elsässer A, Hein S, Drexler HCA, Arnon E, Hayakawa Y,
+Zimmermann R, Bauer EP, Klövekorn W-P, Schaper J. Myocytes die by different
+mechanisms in human failing myocardium. Circ Res (2003) 92: 715-724
+Langer M, Luttecke D, Schluter KD. Mechanism of the positive contractile effect of
+nitric oxide on rat ventricular cardiomyocytes with positive force/frequency
+relationship. Pflugers Arch (2003) 447: 289-297
+Leri A, Claudio P, Li Q, Wang X, Reiss K, Wang S, Malhotra A, Kajstura J, Anversa
+P: Stretch-mediated release of Angiotensin II induces myocyte apoptosis by activating
+p53 that enhances the local Renin-angiotensin system and decreases the bcl-2-to-bax
+protein ratio in the cell. J Clin Invest (1998) 101: 1326-1342
+Leri A, Liu Y, Li B, Fiordaliso F, Malhotra A, Latini R, Kajstura J, Anversa P: Upregulation of AT1 and AT2 receptors in postinfarcted hypertrophied myocytes and
+stretch-mediated apoptotic cell death. Am J Pathol (2000) 156: 1663-1672
+Li P, Dietz R, von Harsdorf R: p53 regulates mitochondrial membrane potential
+through reactive oxygen species and induces cytochrome c-independent apoptosis
+blocked by bcl-2. EMBO J (1999) 18: 6027-6036
+
+47
+
+Loweth AC, Williams GT, Scarpello JH, Morgan NG., Evidence for the involvement
+of cGMP and protein kinase G in nitric oxide-induced apoptosis in the pancreatic Bcell line, HIT-T15. FEBS Lett (1997) 400: 285-288
+Margolin N, Raybuck SA, Wilson KP, Chen W, Fox T, Gu Y, Livingston DJ.,
+Substrate and inhibitor specificity of interleukin-1 beta-converting enzyme and related
+caspases. J Biol Chem (1997) 272: 7223-7228
+Matsubara T, Ziff M., Increased superoxide anion release from human endothelial
+cells in response to cytokines. J Immunol (1986) 137: 3295-3298
+Misao J, Hayakawa Y, Ohno M, Kato S, Fujiwara T, Fujiwara H., Expression of bcl-2
+protein, an inhibitor of apoptosis, and Bax, an accelerator of apoptosis, in ventricular
+myocytes of human hearts with myocardial infarction. Circulation (1996) 94: 15061512
+Moretti A, Weig H-J, Ott T, Seyfarth M, Holthoff H-P, Grewe D, Gillitzer A, BottFlügel L., Schömig A, Ungerer M, Laugwitz K-L. Essential myosin light chain as a
+target for caspase-3 in failing myocardium. Proc Natl Acad Sci (2002) 99: 1186011865
+Olivetti G, Abbi R, Quaini F, Kajstura J, Cheng W, Nitahara JA, Quaini E, Di Loreto
+C, Beltrami CA, Krajewski S, Reed JC, Anversa P., Apoptosis in the failing human
+heart. N Engl J Med (1997) 336: 1131-1341
+Olivetti G, Quaini F, Sala R, Lagrasta C, Corradi D, Bonacina E, Gambert SR, Cigola
+E, Anversa P., Acute myocardial infarction in humans is associated with activation of
+programmed myocyte cell death in the surviving portion of the heart. J Mol Cell
+Cardiol (1996) 28: 2005-2016
+Pabla R, Buda AJ, Flynn DM, Salzberg DB, Lefer DJ, Intracoronary nitric oxide
+improves postischemic coronary blood flow and myocardial contractile function.
+Am J Physiol (1995) 269: H1113-1121
+
+48
+
+Pastorino J, Chen S, Tafani M, Snyder J, Farber J: The overexpression of bax
+produces cell death upon induction of the mitochondrial permeability transition. J Biol
+Chem (1998) 273: 7770-7775
+Pierzchalski P, Reiss K, Cheng W, Cirielli C, Kajstura J, Nitahara JA, Rizk M,
+Capogrossi MC, Anversa P., p53 Induces myocyte apoptosis via the activation of the
+renin-angiotensin system. Exp Cell Res (1997) 234: 57-65
+Pinsky DJ, Cai B, Yang X, Rodriguez C, Sciacca RR, Cannon PJ., The lethal effects of
+cytokine-induced nitric oxide on cardiac myocytes are blocked by nitric oxide
+synthase antagonism or transforming growth factor beta. J Clin Invest (1995) 95: 677685
+Pinson A, Schlüter K-D, Zhou XJ, Schwartz P, Kessler-Icekson G, Piper HM. Alphaand beta-adrenergic stimulation of protein synthesis in cultured adult ventricular
+cardiomyocytes. J Mol Cell Cardiol (1993) 25: 477-490
+Piper HM, Millar BC, McDermott BJ., The negative inotropic effect of neuropeptide
+Y on the ventricular cardiomyocyte. Naunyn Schmiedebergs Arch Pharmacol (1989)
+340: 333-337
+Pollman MJ, Yamada T, Horiuchi M, Gibbons GH., Vasoactive substances regulate
+vascular smooth muscle cell apoptosis. Countervailing influences of nitric oxide and
+angiotensin II. Circ Res (1996) 79: 748-756
+Roy N, Deveraux Q, Takahashi R, Salvesen G, Reed J: The c-IAP-1 and c-IAP-2
+proteins are direct inhibitors of specific Caspases. EMBO J (1997) 16: 6914-6925
+Schneiders D, Heger J, Best P, Piper HM, Taimor G. SMAD proteins are involved in
+apoptosis induction in ventricular cardiomyocytes. Cardiovasc Res (2005) 67: 87-96
+Shimizu S, Eguchi Y, Kosaka H, Kamiike W, Matsuda H, Tsujimoto Y., Prevention
+of hypoxia-induced cell death by Bcl-2 and Bcl-xL. Nature (1995) 374: 811-813
+
+49
+
+Siegmund B, Koop A, Klietz T, Schwartz P, Piper HM., Sarcolemmal integrity and
+metabolic competence of cardiomyocytes under anoxia-reoxygenation. Am J Physiol
+(1990) 258: H285-291
+Taimor G, Hofstaetter B, Piper HM. Apoptosis induction by nitric oxide in adult
+cardiomyocytes via cGMP-signaling and its impairment after simulated ischemia.
+Cardiovasc Res (2000) 45: 588-594
+Taimor G, Lorenz H, Hofstaetter B, Schluter KD, Piper HM., Induction of necrosis but
+not apoptosis after anoxia and reoxygenation in isolated adult cardiomyocytes of rat.
+Cardiovasc Res (1999) 41: 147-156
+Taimor G, Rakow A, Piper HM. Transcription activator protein 1 (AP-1) mediate NOinduced apoptosis of adult ventricular cardiomyocytes. FASEB J (2001) 15: 25182520
+Taimor G, Schlüter K-D, Best P, Helmig S, Piper HM. Transcription activator protein
+1 mediates α but not β-adrenergic hypertrophic growth responses in adult cardiomyocytes. Am J Physiol Heart Circ Physiol (2004) 286: H2369-2375
+Tanaka M, Ito H, Adachi S, Akimoto H, Nishikawa T, Kasajima T, Marumo F, Hiroe
+M., Hypoxia induces apoptosis with enhanced expression of Fas antigen messenger
+RNA in cultured neonatal rat cardiomyocytes. Circ Res (1994) 75: 426-433
+Van der Heiden AP, Goebbels D, Pijpers AP, Koole LH., A photochemical method
+for the surface modification of poly(etherurethanes) with phosphorylcholinecontaining compounds to improve hemocompatibility. J Biomed Mater Res (1997)
+37: 282-290
+Vaux DL, Toward an understanding of the molecular mechanisms of physiological
+cell death. Proc Natl Acad Sci U S A (1993) 90: 786-789
+
+50
+
+Wei L, Zhu H, The influence of hypoxia/reoxygenation on production and release of
+nitric oxide fromculturednewbornratcardiomyocytes. Zhonghua Yi Xue Za Zhi (1996)
+76: 697-699
+Wylie, AH, Kerr JFR, Currie AR, Cell death: The significance of apoptosis.
+International Review of Cytology (1980) 68: 251-306
+Yaoita H, Ogawa K, Maehara K, Maruyama Y., Attenuation of ischemia/reperfusion
+injury in rats by a caspase inhibitor. Circulation (1998) 97: 276-281
+Yeh W, de la Pompa J, McCurrach M, Shu H, Elia A, Shahinian A, Ng M, Wakeham
+A, Khoo W, Mitchell K, El-Deiry W, Lowe S, Goeddel D, Mak T: FADD: Essential
+for embryo development and signaling from some, but not all, inducers of apoptosis.
+Science (1998) 279: 1944-1958
+Yin XM, Oltvai ZN, Korsmeyer SJ., BH1 and BH2 domains of Bcl-2 are required for
+inhibition of apoptosis and heterodimerization with Bax. Nature (1994) 369: 321-323
+Yue T, Wang L, Gu J, Ma X, Kumar S, Lee J, Feuerstein G, Thomas H, Maleeff B,
+Ohlstein
+
+E:
+
+Inhibition
+
+of
+
+Extracellular
+
+signal-regulated
+
+kinase
+
+enhances
+
+ischemia/reoxygenation-induced apoptosis in cultured cardiac myocytes and
+exaggerates reperfusion injury in isolated perfused heart. Circ Res (2000) 86: 692-699
+
+51

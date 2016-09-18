@@ -1,0 +1,4585 @@
+Aus dem Universitätsklinikum Münster
+Klinik und Poliklinik für Mund- und Kiefer-Gesichtschirurgie
+– Direktor: Univ.-Prof. Dr. med. Dr. med .dent. Dr.h.c. U. Joos –
+
+Einfluß des Vascular Endothelial Growth Factors bei der Vaskulogenese
+in der Knochenregeneration – Eine in-vivo basierte Analyse
+am Unterkiefer- Defekt Modell
+des Kaninchens
+
+INAUGURAL–DISSERTATION
+
+zur
+
+Erlangung des doctor medicinae
+der Medizinischen Fakultät
+der Westfälischen Wilhelms–Universität Münster
+
+vorgelegt von
+Lunatschek, Christian Ilja Boris
+aus Höxter
+2007
+
+Einleitung
+
+1
+
+1 Einleitung
+
+Eine der Domänen der Mund-, Kiefer- und Gesichtschirurgie ist die
+rekonstruktive Chirurgie des Viszero- und frontalen Neurocraniums. So stehen
+inzwischen für die Frakturversorgung evoluzionierte Osteosynthesesysteme zur
+Verfügung. Distraktoren sind mittlerweile Standard bei Translokationen osseärer
+Fragmente,
+
+wie
+
+z.B.
+
+Dysgnathieoperationen.
+
+Eine
+
+konzeptionelle
+
+Herausforderung stellt weiterhin der knöcherne Kontinuitätsverlust dar.
+Fehlbildungen, Traumen oder osseäre Defekte infolge von Entzündungen oder
+Tumoroperationen bedeuten für einen Patienten häufig massive ästhetische
+aber auch funktionelle Einschränkungen. Möglichkeiten eines Knochenersatzes
+durch Knochenneubildung und die Knochenregeneration zur morphologischen
+und funktionellen Wiederherstellung ist in den letzten Jahren zunehmend
+Gegenstand der wissenschaftlichen Forschung. Die Wiederherstellung von
+Knochendefekten durch Transplantate und Implantate beruht auf drei
+wesentlichen Mechanismen. Diese sind die Osteogenese, die Osteokonduktion
+und die Osteoinduktion. Die Osteogenese ist die Knochenneubildung aus
+Osteoblasten bzw. deren Vorläuferzellen aus dem Empfängerknochen bzw.
+bereits im autologen Transplantat vorhandenen Zellen. Die Osteokonduktion ist
+das Integrieren eines Implantats im Knochen und gleichzeitigem schleichendem
+Ersatz der primären Implantatarchitektur. Hierbei reifen im Gefolge der
+einsprossenden Gefäße aus der Umgebung Osteoprogenitorzellen aus dem
+Transplantat und bilden kalzifizierende Knochenmatrix [Kübler 1997]. Die
+einsprossenden Gefäße werden von pluripotenten Wirtszellen begleitet, welche
+sich über die Osteoinduktion durch Aktivierung über den Einfluß von Bone
+Morphogenetic Proteins (BMP) zu Chondro- und Osteoblasten differenzieren
+[Urist et al. 1967].
+
+Einleitung
+
+2
+
+Ziel der Entwicklung ist es ein Präparat aus einer knochenähnlichen
+Grundsubstanz
+
+herzustellen,
+
+das
+
+nach
+
+einer
+
+Einheilungsphase
+
+nebenwirkungsfrei im Organismus inkorporiert und physiologisch belastet
+werden kann. Alle bei der Knochenregeneration beteiligten zellulären und
+extrazellulären organischen und anorganischen Matrixbestandteile, welche
+Bestandteil der physiologischen Abläufe sind, sollen vorhanden sein. Es stellen
+sich daher an ein solches Präparat die gleichen Anforderungen wie bei der
+physiologischen Osteogenese. Der Knochen ist während des ganzen Lebens
+einer Erneuerung unterworfen [Buckwalter et al. 1995]. Die physiologische
+Erneuerungsrate, d.h. das bone remodelling mit gesteuertem Ab- und
+Wiederaufbau des gesamten Knochenvolumens pro Jahr, liegt bei etwa 5 %.
+Diese Rate ist jedoch bei entsprechendem Bedarf, wie z.B. nach einer Fraktur,
+deutlich
+
+erhöht
+
+Schlüssel
+
+[Kleinheinz
+
+einer
+
+2000].
+
+benötigten
+
+Steuerungsmechanismen
+gesteigerten
+
+sind
+
+daher
+
+Osteogenese.
+
+Ein
+
+Knochenersatzpräparat sollte daher neben notwendigen Substraten möglichst
+Faktoren beinhalten, welche eine Erhöhung der Osteogenese induzieren.
+
+1.1 Osteogenese, Osteokonduktion und Osteoinduktion
+Die Osteogenese oder Knochenneubildung beschreibt die grundlegende,
+lebenslang funktionierende Eigenschaft des Knochens zur Regeneration. Nicht
+nur
+
+bei
+
+Frakturen,
+
+auch
+
+bei
+
+bedarfsgerechter
+
+Anpassung
+
+der
+
+Knochenarchitektur ist der dynamische Prozess von Knochenab- und -aufbau
+von verschiedenen Faktoren beeinflusst. Hierunter fallen äußere mechanische
+Faktoren, wie etwa die trabekuläre Knochenmodellierung bei physiologischer
+Belastung des Knochens als auch endogene humorale Faktoren, wie der
+Kalziumstoffwechsel
+Mechanismen
+
+in
+
+oder
+ein
+
+hormonelle
+
+Einflüsse.
+
+Regulationssystem,
+
+Rückkopplungsprozesse auszeichnet.
+
+das
+
+Eingebettet
+sich
+
+durch
+
+sind
+
+diese
+
+verschiedene
+
+Einleitung
+
+3
+
+1.1.1 Mitogene Faktoren der extrazellulären Matrix
+Der
+
+Hauptanteil
+
+der
+
+in
+
+der
+
+extrazellulären
+
+Matrix
+
+vorhandenen
+
+Polypeptidfaktoren sind Mitogene, wie beispielsweise Insulin-like growth factor1 und -2 (IGF-1, IGF-2), transforming growth factors (TGF-b1, TGFb2 und TGFb3), platelet derived growth factor (PDGF) und acidic und basic fibrolast growth
+factor (aFGF und bFGF). Sie üben auf ortsständiges Knochengewebe eine
+regulierende und proliferationsfördernde Wirkung aus. Da Wachstumsfaktoren
+auf
+
+die
+
+entstehenden
+
+oder
+
+schon
+
+im
+
+Knochen
+
+vorhandenen
+
+Osteoprogenitorzellen einwirken, ist ihre Wirksamkeit bei großen knöchernen
+Defekten begrenzt.
+
+Insulin-like growth factor (IGF)
+Der Insulin-like growth factor spielt eine lokal regulatorische Rolle im Knochenremodelling [Collins et al.1998]. Ebenfalls ist eine Regulierung der Proliferation
+von Endothelzellen knöchernen Ursprungs durch IGF-I gezeigt worden. Solche
+Studien lassen einen Einfluss von IGF-I in der skelletalen Angiogenese
+vermuten [Fiorelli et al. 1994]. Allerdings ist die direkte angiogene Wirkung
+ungeklärt. Goad et al. 1996 kommen zu dem Entschluß, dass IGF-I die VEGFSynthese der Osteoblasten steigert und somit indirekt angiogen wirken kann
+[Goad et al. 1996]. Ob er jedoch direkten Einfluß auf die Gefäßneubildung
+besitzt ist bisher ungeklärt [Fiorelli et al. 1994].
+
+Platelet-derived growth factor (PDGF)
+Platelet-derived growth factors (PDGFs) sind starke Mitogene für Knochenzellen
+und stimulieren die Osteoblastenproliferation. Indirekt scheinen sie auch
+Einfluss auf die Induktion von Endothelzellproliferation und damit der
+Angiogenese zu nehmen. Untermauert wird diese These durch die Tatsache,
+dass PDGF sowohl von Osteoblasten als auch von vaskulären Endothelzellen
+produziert werden und dass PDGF mRNA und der PDGF-alpha Rezeptor im
+
+Einleitung
+
+4
+
+neugebildeten Knochen ubiquitär angefunden werden kann [Horner et al.
+1996]. Genaue Aussagen zum Wirkmechanismus im Verlauf der Angiogenese
+bestehen bisher noch nicht.
+
+1.2 Osteoinduktion am Beispiel der Frakturheilung
+Jede Form der Wundheilung, so auch im Knochen, findet um und auf der
+extrazellulären Matrix statt [Reddi 1994]. Beginnend mit einem FibrinFibronectin Blutgerinnsel, wandelt sich das Regenerat in ein Gerüst um, welches
+von Kollagen und Glycoproteinen durchsetzt wird. Die Steigerung des Prozesses
+entwickelt sich aus der Stimulierung pluripotenter mesenchymaler Stammzellen
+(induzierbare
+
+mesenchymale
+
+Zellen,
+
+IOPC),
+
+Proliferation
+
+determinierter
+
+Osteoblastenvorläuferzellen (DOPC) und durch metaplastische Umwandlung von
+Zellen
+
+des
+
+Binde-
+
+und
+
+Stützgewebes.
+
+Dadurch
+
+können
+
+verschiedene
+
+Populationen zur Osteogenese befähigter Vorläuferzellen aktiviert werden, ein
+Vorgang der als Osteoinduktion bezeichnet wird [Kübler 1997, Schmidt und
+Swoboda 1995]. Triggermoleküle stellen dabei die morphogenen Proteine aus
+der Familie der bone morphogenetic proteins (BMP) dar. BMP ist seit Mitte der
+60er Jahre bekannt. Inzwischen wird auch rekombinantes, humanes BMP
+(rhBMP) seit fast 20 Jahren hergestellt. Aufgrund ihrer Aminosäuresequenz
+werden die BMP der transforming growth factor-b (TFG-b) Großfamilie
+zugeordnet
+
+und
+
+sind
+
+speziesübergreifend
+
+weitgehend
+
+identisch.
+
+Durch
+
+Ähnlichkeit der Aminosäuresequenz der BMP untereinander lassen sich BMP-2
+bis 8 außerdem in drei Untergruppen teilen: BMP-2 und 4, BMP-5 bis 8 und
+BMP-3.
+
+Bei
+
+adäquater
+
+Reizsetzung
+
+(z.B.
+
+Trauma)
+
+wird
+
+die
+
+Knocheninduktionskaskade [Aubin et al. 1995, Reddi und Anderson 1976,
+Hollinger
+
+und
+
+Leong
+
+1996]
+
+gestartet.
+
+Sie
+
+stellt
+
+einen
+
+klassischen
+
+Regenerationsprozess mit Neubildung ohne Narben- oder Ersatzgewebsbildung
+dar. Der Ablauf wird charakterisiert durch eine präzise Abfolge der Aktivierung
+von Fibroblasten, Endothelzellen und Osteo- und Chondroprogenitorzellen. Dies
+
+Einleitung
+
+5
+
+geschieht einerseits durch Veränderung der Rahmenbedingungen (vermindertes
+Sauerstoffangebot, abnehmender pH-Wert), andererseits durch Freisetzung
+aktiver biologischer Faktoren, vor allem aus den extravasal im Hämatom
+liegenden Thrombozyten [Hollinger und Wong 1996].
+Nach
+
+erfolgter
+
+Bereitstellung
+
+einer
+
+ausreichenden
+
+Anzahl
+
+zur
+
+Knochenneubildung befähigter Zellen, den Osteoblasten, sind es neben den
+lokal wirkenden osteogenen Wachstumsfaktoren (TGF-β1+2, IGF, bFGF, PDGF)
+[Eymer und Preusse 1999, Hollinger und Wong 1996, Schaub und Wozney
+1991, Terheyden und Jepsen 1999], vor allem auch systemische Faktoren
+(Parathormon, Vitamin D3, Calcitonin, Geschlechtshormone), welche die
+interzellulären Aktionen über autokrine, parakrine und endokrine Bahnen
+[Hollinger und Leong 1996] vermitteln und zur Modulation der Osteogenese
+führen.
+Unabdingbare Voraussetzungen für eine Knochenformation sind aber eine
+suffiziente Blutversorgung und eine angepaßte mechanische Unterstützung
+[Schenk 1994]. Den Osteoblasten kommt innerhalb dieses Gefüges die Aufgabe
+zu, nach der Differenzierung, Proliferation und Maturation, die Knochenmatrix
+und anschließend das Assembling einer charakteristischen dreidimensionalen
+Struktur durch die Mineralisation zu bilden. Durch funktionelle Ausformung des
+Knochens wird die Knochenregeneration abgeschlossen.
+Normales Knochenwachstum und Knochenheilung sind abhängig von der
+Angiogenese [Saadeh et al. 2000], und die Beurteilung der Vitalität des
+skelettalen Systems ist heutzutage im Wesentlichen vaskularisationsabhängig
+[Hollinger und Wong 1996].
+Dabei gilt die Blutversorgung als der kritischste Faktor für die Beeinflussung
+der Knochenheilung [Motoki und Mulliken 1990], denn eine Unterbrechung führt
+zu Beginn einer Regeneration rasch zum Erliegen der Migration und
+Matrixsynthese der Osteoblasten [Lemperle et al. 1998], in späteren Stadien
+zum
+
+Untergang
+
+der Osteozyten,
+
+zur
+
+Knochennekrose
+
+und
+
+–resorption
+
+[Buckwalter et al. 1995a, Buckwalter et al. 1995b]. Die Zirkulation ist daher
+
+Einleitung
+
+6
+
+Dreh- und Angelpunkt der Knochenheilung [Collin-Osdoby 1994, Paralkar et al.
+1991].
+
+1.3 Gefäßversorgung des Knochens
+Neben
+
+der
+
+Differenzierung
+
+und
+
+Proliferation
+
+von
+
+Osteoblasten,
+
+der
+
+Matrixsynthese und Mineralisation spielt die Gefäßneubildung und -einsprossung
+eine entscheidende Rolle im Verlauf der Knochenneubildung und –regeneration
+[Collin-Osdoby 1994]. Der Knochen benötigt, vergleichbar mit allen anderen
+körpereigenen Geweben, eine Gefäßversorgung, um seine physiologischen
+Aufgaben erfüllen zu können. Morphologisch ist dies durch die typische osseäre
+Architektur, durch Osteone bzw. Havers-Kanäle, deutlich. Die Vaskularisation
+gewährleistet die Aufrechterhaltung der Homöostase (Temperatur, pH-Wert,
+Austausch von Zellen und Molekülen), die Sauerstoffversorgung der Zellen
+(Blutfluß und Hämatokrit), die flexible Speicherung eines großen Anteiles des
+Blutvolumens
+
+[Gross
+
+et
+
+al.
+
+1979],
+
+den
+
+Austausch
+
+von
+
+Nährstoffen,
+
+Abbauprodukten, Hormonen und Zytokinen und besitzt somit einen großen
+Einfluß auf den Strukturerhalt und die Regeneration. Das Gefäßendothel besitzt
+dabei wesentlichen Einfluß auf Blutfluß, Gefäßpermeabilität und Diapedese
+durch
+
+Expression
+
+aktiver
+
+Substanzen.
+
+Die
+
+Ausbildung
+
+einer
+
+endothelzellgestützten Mikrovaskularisation und –zirkulation wird schon seit
+längerer Zeit zweifelsfrei als Grundlage für eine erfolgreiche Ossifikation
+angesehen [Trueta und Little 1960, Trueta 1963]. Die Verbindung von
+Osteoblasten und Gefäßen reicht in unterschiedlichen Abläufen von indirekten
+Einflüssen, beispielsweise der Regulation der interstitiellen Temperatur durch
+die Mikrozirkulation, bis zur direkten Beeinflussung, wie z.B. durch die
+Produktion von Vascular endothelial growth factor (VEGF) durch Osteoblasten
+[Wang et al. 1997], die Bereitstellung der Osteoprogenitorzellen durch das
+Gefäßsystem [Winet 1996] oder sogar die direkte Transdifferenzierung von
+Osteoprogenitorzellen aus einwandernden Endothelzellen [Decker et al. 1995,
+
+Einleitung
+
+7
+
+Brighton und Hunt 1991, Brighton et al. 1992]. Die Gefäßneubildung verbindet
+den Bindegewebsprozess der fibroblastendominierten Granulation mit dem
+Prozess der osteoblastengetragenden Kalzifizierung einer Kollagen-I Matrix.
+Instabile
+
+Verhältnisse,
+
+beispielweise
+
+eine
+
+permanente
+
+Beweglichkeit
+
+im
+
+Regenerationsbereich, verändern den Gang der Bindegewebsreaktion durch
+permanente Schädigung der feinen neu ausgesprossten Gefäße. Infolgedessen
+wird der Weg über die minimal gefäßabhängige Knorpelbildung eingeschlagen.
+Die Knorpelbildung stellt somit auch einen Hinweis auf die Gefäßversorgung
+und –situation im Regenerationsbereich dar [Gerber et al. 1999, Winet 1996 ].
+Die extrazelluläre Matrix des Knochens ist integraler Bestandteil der vaskulären
+Physiologie. Mit ihrer Porosität, bedingt durch die schwammartige Struktur aus
+Kollagen und Hydroxylapatit (Porengröße 20-60 nm), stellt sie die ideale
+Verbindung zum Substrataustausch zwischen Gefäßen und extravasalen Zellen
+dar. Die Gefäße selbst, umgeben von einer perivaskulären Flüssigkeitssäule,
+befinden sich in den Havers'schen und Volkmann'schen Kanälen. Die
+Matrixproteine scheinen im Bereich der Steuerung der Gefäßneubildungsrate
+eine bedeutende Rolle zu spielen [Drake und Little 1995].
+Neben der Ver- und Entsorgungsaufgabe spielt das vaskuläre System innerhalb
+der mechanisch relativ unflexiblen Knochenstruktur eine bedeutende Rolle in
+der Transduktion von Kompressions- und Spannungsbelastungen. Zum einen
+erfolgt
+
+eine
+
+Verteilung
+
+Flüssigkeitskonvektion,
+
+und
+zum
+
+Dämpfung
+
+auftretender
+
+anderen
+
+werden
+
+Energie
+
+durch
+
+durchflussbedingte
+
+Scherbelastungen auf der Osteozytenmembran in mechanisch-sensorische
+Stimuli
+
+umgewandelt.
+
+Diese
+
+führen
+
+über
+
+eine
+
+zytoplasmatische
+
+Ca++-
+
+Freisetzung und einen Proteoglykan-Albumin-Komplex letzendlich zur Synthese
+von Kollagen I [James et al. 1995, Weinbaum et al. 1994]. Der intraossäre
+Flüssigkeitshaushalt, charakterisiert durch den Austausch zwischen Gefäßen und
+EZM, reguliert durch mechanische und neurohumorale Mechanismen [Gross et
+al. 1979], spielt somit eine direkte Rolle im Knochenwachstum und der
+Knochenregeneration.
+
+Einleitung
+
+8
+
+1.3.1 Grundlagen der Gefäßneubildung
+Die
+
+Gefäßversorgung
+
+stellt
+
+für
+
+den
+
+menschlichen
+
+Organismus
+
+eine
+
+Grundvoraussetzung für Entwicklung, Aufrechterhaltung, Reparatur und Schutz
+dar. Das Gefäßendothel gilt als Interface zwischen Blut und Gewebe mit der
+Eigenschaft
+
+einer
+
+permeablen
+
+Membran
+
+für
+
+Blutprodukte
+
+und
+
+der
+
+darunterliegenden Matrix [DiCorleto und Cimbrone 1996]. In der Embryonalzeit
+ist
+
+für
+
+die
+
+Gewebedifferenzierung
+
+vor
+
+allem
+
+der
+
+Transport
+
+von
+
+Ernährungssubstraten und der Abtransport von Abbauprodukten sowie der
+Einfluß der hämodynamischen Kräfte auf Teile der Morphogenese von
+Bedeutung.
+
+Im
+
+Erwachsenenalter
+
+kommt
+
+zusätzlich
+
+die
+
+Aufgabe
+
+als
+
+Kommunikationssystem zwischen entfernt liegenden Organen und Geweben
+dazu.
+In den meisten ausdifferenzierten Geweben findet man eine hochspezialisierte
+Vaskularisation, die den speziellen Anforderungen hinsichtlich der Qualität und
+Quantität der ein- und ausgehenden Moleküle und Nachrichten entspricht
+[Risau 1995b]. Den Endothelzellen der Gefäße kommt dabei eine entscheidende
+Bedeutung zu, da ihre Heterogenität es erst ermöglicht, die funktionelle
+Hämostase grundlegend unterschiedlicher Gewebearten und Organformen
+aufrechtzuerhalten
+Differenzierung
+
+[Garlanda
+
+wird
+
+durch
+
+und
+
+Dejana
+
+Interaktionen
+
+1997].
+mit den
+
+Ihre
+
+organspezifische
+
+umgebenden
+
+Zellen
+
+determiniert, wobei lösliche Zytokine, Zell-Zell-Adhäsionen und die Synthese
+von Matrixproteinen eine Rolle spielen [Goerdt et al. 1991].
+Neben seiner Bedeutung für die physiologischen Abläufe spielt der Zustand des
+Gefäßsystems und seine regenerativen Potentiale auch eine entscheidende
+Rolle
+
+im
+
+Zuge
+
+der
+
+Pathophysiologie
+
+einiger
+
+Kiefererkrankungen.
+
+Der
+
+Osteomyelitis wird eine massive Störung der Blutzirkulation ebenso zugrunde
+gelegt [Bartkowski et al. 1994, Wannfors 1989, Wannfors und Gazelius 1991]
+wie der Osteoradionekrose [Marx und Johnson 1987] oder der trockenen
+Alveole [Amler 1999].
+
+Einleitung
+
+9
+
+Die Blutgefäßneubildung im menschlichen Organismus kann grundsätzlich in
+zwei unterschiedliche Abläufe aufgeteilt werden, die sich in ihrer Entstehung
+und in ihrem Ablauf deutlich voneinander unterscheiden. Vaskulogenese und
+Angiogenese treten (Abb.2) in vivo aber nicht immer streng getrennt
+voneinander
+
+auf
+
+und
+
+sind
+
+eher
+
+als
+
+Alternativwege,
+
+basierend
+
+auf
+
+unterschiedlichen Voraussetzungen, zu verstehen.
+
+1.3.2 Vaskulogenese
+Die Vaskulogenese beschreibt den Vorgang der Gefäßneubildung während der
+Embryonalentwicklung [Risau und Flamme 1995] und, jedoch zu einem weitaus
+geringeren Teil, auch im postnatalen Verlauf [Asahara et al. 1999a]. Die
+Differenzierung der Angioblasten aus dem Mesoderm und die Formierung von
+primitiven Blutgefäßen aus den Angioblasten sind zwei spezifische Schritte zu
+Beginn der Vaskulogenese. Die Differenzierung erfolgt nach Induktion durch
+Faktoren aus der Familie der fibroblast growth factors (FGF). Es wird
+angenommen, dass vor der Ausbildung des Angioblasten zunächst die Stufe des
+Hämangioblasten durchlaufen wird [Bikfalvi und Han 1994, Nishikawa et al.
+1998, Risau 1997]. Sie stellt die Trennungsstelle zwischen hämatopoetischer
+und angioblastischer Zellreihe dar, wie Untersuchungen an Defektmodellen
+spezifischer Rezeptoren (VEGF-Rezeptor 2 für die angioblastische Reihe) und
+Transskriptionsfaktoren (Scl/tal-1 für die hämatopoetische Reihe) ergeben
+haben [Robb 1996, Shalaby et al. 1995]. Nach Ausdifferenzierung in
+Angioblasten, maßgeblich initiiert durch VEGF-Rezeptor 2 [Flamme et al. 1995],
+erfolgt die Formung erster funktioneller Blutgefäße, die speziell unter dem
+Einfluß von VEGF-Rezeptor 1 steht [Fong et al. 1995]. Sowohl für die
+Differenzierung der Zellen als auch für die Formierung von Gefäßen ist eine
+ausreichende Konzentration des Liganden der Rezeptoren, dem VEGF selbst,
+erforderlich [Breier et al. 1997, Carmeliet et al. 1996, Ferrara et al. 1996,
+Yancopoulos et al. 2000], der das Überleben der Angioblasten sichert. Weitere
+
+Einleitung
+
+10
+
+angiogene Wachstumsfaktoren, Zell-Adhäsionsmoleküle, Transkriptionsfaktoren
+und mechanische Kräfte sind im weiteren Verlauf bestimmend sowohl für die
+vaskuläre Regression und Remodellation [Augustin et al. 1995, Bach et al.
+1998, Brooks et al. 1994], als auch für Endothelzelldifferenzierung und
+Angiogenese [Breier und Risau 1996, Risau 1995b].
+Die umsatzstärkste Phase der Neovaskularisation besteht zweifelsfrei in der
+Embryonalzeit, da es im Erwachsenenalter unter physiologischen Bedingungen
+zu keiner nennenswerten Gefäßneubildung kommt. Das Endothel weist dabei
+einen niedrigen Mitoseindex mit einem sehr geringen Zellturnover auf.
+Pathologische Reize können allerdings das „ruhende“ Endothel erneut aktivieren
+[Ali et al. 1997, Plate 1993], ein Vorgang, der als Angiogenese beschrieben
+wird.
+
+1.3.3 Angiogene Faktoren
+Die Angiogenese gilt im ausgereiften gesunden Organismus als Prozess, der
+sich in Form einer dynamischen Balance zwischen Stimulatoren und Inhibitoren
+(Inhibitoren der Prostaglandinsynthese, Protamin, Fumagillin, Angiostatin,
+Endostatin, Thrombospondin-1) abspielt [Iruela-Arispe und Dvorak 1997].
+Neben einer geeigneten Umgebungsmatrix, wie z.B. Fibrin [Nehls und
+Herrmann 1996], sind es vor allem die Stimulatoren mit angiogenem Potential
+(Angiogenese-Faktoren), die eine entscheidende Rolle spielen. Sie werden in
+Gruppen eingeteilt [Folkman und Klagsbrun 1987, Litwin et al. 1995, Schott und
+Morrow 1993], deren Wirkungsweise und -potential unterschiedlich beurteilt
+werden.
+
+Einleitung
+
+11
+
+Vascular endothelial growth factor (VEGF)
+Zu einem der wichtigsten Wachstumsfaktoren für Endothelzellen gehört der
+Vascular endothelial growth factor (VEGF) [Iruela-Arispe und Dvorak 1997]. Als
+endothelzellspezifisches Mitogen [Brown et al. 1992, Drake und Little 1995,
+Leung et al. 1989, Schlaeppi et al.1997, Wang et al. 1996] stellt er den
+Hauptmediator der pathologischen Angiogenese dar [Ferrara et al. 1996] und
+ist als Hauptinduktor der Angiogenese bei physiologischen [Leung et al. 1989]
+und pathologischen Konditionen etabliert [Farnebo et al. 1999, Harada et al.
+1994]. Er induziert die Angiogenese, stimuliert die Endothelzellproliferation und
+spielt eine entscheidende Rolle bei der Regulation der Vaskulogenese [Asahara
+et al. 1999b, Risau und Flamme 1995, Risau 1997 ]. Vorausgegangene Studien
+haben gezeigt, dass der VEGF an der Knochenformation und –reparatur
+beteiligt ist [Schlaeppi et al. 1997]. VEGF ist ein heparinbindendes dimerisches
+Glykoprotein,
+
+welches
+
+von
+
+Fibroblasten,
+
+Monozyten,
+
+Makrophagen,
+
+Lymphozyten, Tumorzellen und auch von Osteoblasten mit Ausnahme der
+Endothelzellen selbst exprimiert wird [Steinbrech et al. 1999, Wang et al.
+1997]). Die Expression von VEGF-Rezeptoren erstreckt sich auf unterschiedliche
+Zelltypen, jedoch zeigen ausschließlich die Endothelzellen eine mitogene
+Wirkung auf VEGF [Chang et al. 2000, Clauss et al. 1996]. Das VEGF ist für die
+Endothelzellen, die an ihrer Oberfläche kompatible Rezeptoren (u.a. VEGF-R1
+und VEGF-R2) exprimieren, als Ligand existenziell [Yancopoulos et al. 2000].
+VEGF und das high-affinity receptor tyrosine kinase flk-1 repräsentieren ein
+parakrines
+
+System,
+
+welches
+
+entscheidend
+
+für
+
+die
+
+Differenzierung
+
+von
+
+Endothelzellen und die Entwicklung des vaskulären Systems ist [Risau und
+Flamme 1995]. Als Ergebnis einer alternativen Verbindung sind fünf Typen (AE) der VEGF-Species, mit Differenzen in der Molekularmasse und den
+biologischen Merkmalen, von einem einzelnen Gen kopiert [Neufeld et al.
+1994). VEGF-A entfaltet seine Aktivitäten vor allem bei der Angiogenese in vivo
+und zeigt großen Einfluß auf die Tumorangiogenese. VEGF-B konnte vor allem
+im Herz und im ZNS während der embryonalen Entwicklung nachgewiesen
+
+Einleitung
+
+12
+
+werden [Lagercrantz et al. 1998], während VEGF-C bei der Lymphangiogenese
+[Mandriota und Pepper 1999] und bei der lymphogenen Metastasierung eine
+entscheidende Rolle spielt. VEGF-D ist strukturell dem VEGF-C verwandt und
+kann während der Embryonalzeit speziell in der Lunge nachgewiesen werden
+[Farnebo et al. 1999]. Die E-Form des VEGF scheint dem VEGF-A vergleichbare
+Bioaktivitäten zu besitzen [Ogawa et al. 1998]. Es bindet mit ebenso hoher
+Affinität an den VEGF-Rezeptor 2, jedoch nicht an den VEGF-Rezeptor 1 [Meyer
+et al. 1999]. Die verschiedenen Mitglieder der VEGF - Familie haben
+stimulatorische Schlüsselrollen in der Angiogenese in vivo, der Vaskulogenese,
+der Steigerung der mikrovaskulären Permeabilität [Brown et al. 1992], der
+Endothelzellproliferation [Klagsbrun und D’Amore 1996], der Chemotaxis und
+dem Sprießen von vaskulären Endothelzellen in vitro [Meyer et al. 1999]. Durch
+alternatives Splicing der RNA können verschiedene Isoformen des VEGF-A mit
+Sequenzen von 121, 145, 165, 183, 189 oder 206 Aminosäuren entstehen.
+VEGF165 ist das vorherrschende Protein, obwohl die Transskriptionsrate von
+VEGF121 teilweise höher ist. Beide Formen sind frei im Plasma gelöst, während
+VEGF189 und VEGF206 vorwiegend an Heparin oder an Basalmembranen
+gebunden sind [Heits et al. 1998]. Die Endothelzellprolifertion, Angiogenese
+und mikrovaskuläre Permeabilität wird durch die hohe Affinität zu den VEGFEndothelzellrezeptoren KDR/Flk-1 (VEGF-R2) und Flt-1 (VEGF-R1) vermittelt
+[Klagsbrun und D’Amore 1996, Ogawa et al. 1998]. Beide Tyrosin-KinaseRezeptoren (Flt-1 und Flk-1/KDR) sind für die Angiogenese essentiell [Hiratsuka
+et al. 1998] und werden als zwei der wichtigsten Systeme betrachtet, die in die
+Angiogenese verwickelt sind [Shibuya 1996].
+Hemmende und fördernde Effekte auf die VEGF mRNA-Synthese konnten für
+weitere Mediatoren nachgewiesen werden. IL-1β, TGF-β, Östrogene und
+Prostaglandin E1+2 [Harada et al. 1994] fördern die VEGF-Freisetzung, während
+TNF-α und Dexamethason sie hemmen [Heits et al. 1998]. VEGF-R1 zeigt eine
+höhere Affinität für VEGF-A als VEGF-R2 und vermittelt die Motilität und die
+vaskuläre Permeabilität, während VEGF-R2 für die endotheliale Proliferation
+bedeutend ist. Die Wirkungsweise beruht auf der Autophosphorylierung des
+
+Einleitung
+
+Rezeptors
+
+13
+
+und
+
+einem
+
+biphasischen
+
+Anstieg
+
+der
+
+intrazellulären
+
+Ca2+-
+
+Konzentration [Meyer et al. 1999]. Seine zentrale Bedeutung für die
+Angiogenese basiert auf der Steigerung der Gefäßpermeabilität (Fenestration
+durch
+
+Auflösung
+
+Stimulation der
+eines
+
+von
+
+Zell-Zell-Kontakten
+
+nach
+
+Rezeptorbindung),
+
+der
+
+Endothelzellproliferation (Mitogenität) und des Aussetzens
+
+Migrationsreizes
+
+für
+
+Endothelien,
+
+Makrophagen
+
+und
+
+Mastzellen
+
+(Chemotaxis).
+Eine direkte Wechselwirkung zwischen knochenbildenden Osteoblasten und
+gefäßbildenden Endothelien wurde von Wang et al. 1997 beschrieben. Über
+eine 1,25-(OH)2D3 vermittelte Aktivierung kommt es zu einer gesteigerten
+Expression
+
+von
+
+VEGF
+
+mRNA
+
+durch
+
+die
+
+Osteoblasten.
+
+Die
+
+aktivierten
+
+Endothelzellen wiederum steigern die Proliferation und Differenzierung von
+osteoblast-like cells durch Produktion von osteogenen Faktoren [Hauschka et al.
+1986]. Eine weitere Wechselwirkung zwischen VEGF und der Knochenformation
+wurde von Gerber et al. 1999 sowie Harper und Klagsbrun 1999 beschrieben.
+Die Sequestrierung von VEGF, welches durch Chondrozyten sezerniert wurde,
+durch eine lösliche Form eines VEGF-Rezeptors führte bei nicht ausgereiften
+Mäusen zu einer hypertrophen Chondrozytenzone und einer Unterentwicklung
+der trabekulären Knochenneubildungszone im Bereich der Epiphysenfugen.
+Nach Aufhebung der Blockade kam es binnen kurzer Zeit zu einer
+Kapillareinsprossung, einer Restauration der osteogenen Front, einer Resorption
+des hypertrophen Knorpels und damit zu einer Normalisierung der Architektur
+der Wachstumsfuge.
+
+Angiopoietin 1 (Ang-1)
+Der endothelzellspezifische Faktor Angiopoietin 1 spielt ebenfalls im Verlauf der
+Angiogenese eine bedeutende Rolle. Gemeinsam mit VEGF hat Ang-1 eine
+additive Wirkung auf die Angiogenese. Im Vergleich zu VEGF werden unter
+seinem Einfluß stabilere Endothelzellverbände gebildet, die sich durch eine
+geringere Permeabilität und Durchlässigkeit für weitere Moleküle auszeichnen
+
+Einleitung
+
+14
+
+[Thurston et al. 1999]. Neben der Regulation der Bildung von kapillarartigen
+Tubulusstrukturen gilt er als Überlebensfaktor für die Endothelzellen [Hayes et
+al. 1999]. Die Abwesenheit von Ang-1 oder Tie-2 verhindert den geregelten
+Ablauf der Angiogenese [Sato et al. 1995]. Eine direkte Wirkung auf die
+Osteogenese ist nicht bekannt.
+
+Ephrin-B2
+Das System aus dem Liganden Ephrin-B2 und seinem Tyrosinkinase Rezeptor
+EphB4 nimmt eine Schlüsselstellung während der Gefäßentwicklung ein [Adams
+et al. 1999]. Besonders hervorzuheben ist die Eigenschaft, die arterielle und
+venöse Identität der Gefäße zu etablieren. Ein Ausbleiben dieser Wirkung,
+untersucht in Studien mit Knock-out Mäusen, führt zu einem völlig insuffizienten
+und unterentwickelten Gefäßsystem [Wang et al. 1998]. Ephrin-B2 markiert zu
+Anfang der Angiogenese arterielle Endothelzellen und der Rezeptor EphB4
+(Ephrinrezeptor B4) fördert dagegen Venen [Wang et al. 1998].
+
+Fibroblast growth factors (FGF)
+Die Vertreter dieser Familie, das azidische aFGF (FGF1) und das basische bFGF
+(FGF2) zeigen eine Vielzahl von Wirkungen auf unterschiedliche Zelltypen,
+insbesondere als Mitogen für Osteoblasten und Chondrozyten [Leunig et al.
+1997]. Für das bFGF ist jedoch bekannt, daß es sich um den Wachstumsfaktor
+mit der stärksten mitogenen und chemotaktischen Aktivität auf Endothelzellen
+in vitro handelt [Bastaki et al. 1997, Slavin 1995]. Alle bisherigen in vivo
+Versuche weisen ebenfalls auf eine bFGF induzierte angiogene Reaktion hin
+[Litwin et al. 1995]. So konnte Leunig et al. 1997 am Mäusefemur zeigen, daß
+bFGF die Angiogenese moduliert, indem es indirekt chemotaktisch die
+Zellmigration und -invasion beeinflußt. Eppley et al. 1988 stellten am
+Kaninchenunterkiefer eine deutlich schnellere und extensivere Vaskularisation in
+Knochentransplantaten unter Mitwirkung von bFGF fest.
+
+Einleitung
+
+15
+
+Weitere angiogene Faktoren
+Die Liste der Wachstumsfaktoren mit angiogenem Potential ist zunehmend
+[Schott und Morrow 1993]. In der Literatur werden eine Reihe weiterer
+Faktoren beschrieben, die jedoch in Struktur und Funktion nicht im gleichen
+Ausmaß wie die oben beschriebenen charakterisiert sind. Zu diesen gehören:
+Angiogenin, Angiotropin, TNFα, PGE1+2 und Interleukine. Zum Teil zeigen diese
+Faktoren nur sehr geringe und nicht vorhersagbare Auswirkungen auf die
+Angiogenese, zum Teil ist ihr Wirkungsmechanismus und -ort nicht bekannt. Da
+weder in vitro noch in vivo Versuche vorliegen, die eine gesicherte Aussage
+zulassen, wird diesen Faktoren keine spezifische angiogene Potenz zugeordnet.
+Daher wird auf diese Faktoren nicht näher eingegangen. Mit den lokal
+wirkenden Wachstumsfaktoren TGFß-1+2, IGF, bFGF, PDGF und BMP fanden
+bisher zahlreiche Untersuchungen statt [Hollinger und Wong 1996, Schaub und
+Woznej 1991]. Darüberhinaus sind als Modulatoren der Osteogenese die
+systemischen
+
+Faktoren
+
+Parathormon,
+
+Vitamin
+
+D3,
+
+Calcitonin
+
+und
+
+Geschlechtshormone bekannt [Hollinger und Leong 1996].
+Eine Gemeinsamkeit vieler Untersuchungen mit Cytokinen ist, dass in vitro die
+Ergebnisse besser ausfallen als in vivo. Gerade deshalb werden Versuche
+entwickelt, in denen der Aktivität der Knochenzellen, der Knochenmatrix, den
+interagierenden körpereigenen Cytokinen und den Freisetzungseigenschaften
+und der Dosisfestlegung Rechnung getragen wird. In der vorliegenden Studie
+wurde auf diese Problemstellung geachtet und in einer vorausgegangenen in
+vitro Studie die Freisetzungskinetik und die Dosisfeststellung errechnet
+[Kleinheinz et al. 2000].
+Nach Übersicht über die unterschiedlichen Wachstumsfaktoren wird wegen der
+Förderung
+
+der
+
+Blutversorgung
+
+in
+
+der
+
+kritischen
+
+Phase
+
+des
+
+Knochenheilungsprozesses [Motoki und Mulliken 1990] dem VEGF165 besonderer
+Vorzug gewährt.
+
+Einleitung
+
+16
+
+1.4 Knochenersatzmaterialien
+Das autologe Knochentransplantat stellt nach wie vor das beste Material zur
+Verbesserung der lokalen Knochenregeneration dar. Neben einer optimalen
+osteokonduktiven Wirkung durch Bereitstellung der natürlichen Knochenmatrix,
+bedeuten vor allem die in physiologischer Menge und Bindung vorhandenen
+osteoinduktiven Proteine und Wachstumsfaktoren [Bolander und Balian 1986]
+einen unschlagbaren Vorteil. Zunehmend problematisch ist jedoch zum einen
+die Gewinnung eines ausreichenden Knochenvolumens, ohne den oftmals
+multimorbiden Patienten durch weitere operative Eingriffe zu belasten, zum
+anderen die immunologischen und infektionsbedingten Gründe, die bei einer
+allogenen Transplantation ein oft nicht abschätzbares Risiko in sich bergen.
+
+Alloplastische Materialien
+Trotz unterschiedlicher Bearbeitungsschritte, die in diesem Bereich deutliche
+Verbesserungen zeigen [Kübler et al. 1993, Schwartz et al. 1996], bleibt die
+zwingende
+
+Herausforderung,
+
+nach
+
+immunologisch
+
+vorteilhafteren
+
+und
+
+mengenmäßig unbegrenzten Alternativen zu suchen. Diese müssten komplexe
+Systeme (drug delivery systems) sein, die sich aus einer Grundsubstanz, dem
+Trägermaterial oder Carrier, und darin komplexierten aktiven Stoffen,
+zusammensetzten. Als Carrier kommen Materialien in Frage, denen die aktiven
+Faktoren bei der Herstellung verloren gegangen sind oder sie diese niemals
+besaßen und somit neu zugeführt werden müssen. Die sowohl aus organischen
+Gewebearten als auch aus synthetischen Gerüstbausteinen hergestellten
+Materialien weisen dabei in ihren physikalischen und chemischen Eigenschaften
+oft
+
+deutliche
+
+Unterschiede
+
+auf
+
+(mechanische
+
+Stabilität,
+
+Porosität,
+
+Resorptionsverhalten etc.) und durchlaufen nicht selten bis zu ihrer Endform
+umfangreiche Modifikationsprozesse. Vorteile dieser Systeme sind eine gewisse
+Steuerbarkeit der Eigenschaften und die nahezu unbegrenzte Verfügbarkeit.
+Sie sollten die aktiven Stoffe räumlich und zeitlich begrenzbar aufnehmen und
+für lokale Anforderungen zur Verfügung stellen [Hollinger und Leong 1996]. Ein
+
+Einleitung
+
+17
+
+detaillierter Anforderungskatalog an eine Trägersubstanz, die gleichzeitig auch
+als Knochenersatzmaterial verwendet werden sollte, wurde bereits mehrfach
+beschrieben [Agrawal et al. 1995, Hutmacher et al. 1998, Wang et al. 1996,
+Zellin und Linde 1997]. Grundsätzlich muß das Trägermaterial suffizient in all
+seinen biochemischen, physikalischen und pharmakologischen Eigenschaften
+charakterisiert werden können und biokompatibel sein [Winet et al. 1995]. So
+sollte neben einer funktionell und strukturell definierten Resorptions- oder
+Umbaurate in einem biologischen Millieu und der damit verbundenen definierten
+Freigabe von Faktoren, eine osteokonduktive Wirkung vorliegen. Entscheidend
+dabei ist die Synchronisation zwischen Abbaurate des Carriers und Aufbaurate
+des Knochens [Hutmacher et al. 1998]. Im Augenblick werden vier
+unterschiedliche Biomaterialgruppen diskutiert, die sowohl experimentell als
+auch klinisch ausgetestet wurden:
+synthetische organische Materialien (Bsp.: PLA, PGA)
+synthetische anorganische Materialien (Bsp.: Hydroxylapatit,
+Trikalziumphosphat, Biogläser)
+natürliche organische Materialien (Bsp.: Kollagen, Fibringel)
+natürliche anorganische Materialien (Bsp.: korallines Hydroxylapatit,
+gereinigte anorganische bovine Knochenmatrix, AAA-Knochen)
+Die wichtigsten resorbierbaren Implantatmaterialien stellen im Augenblick die
+Polymere der Milchsäure PLA (Poly-Lactic-Acid) und der Glykolsäure PGA (PolyGlycolic-Acid)
+
+dar.
+
+Tierexperimentelle
+
+und
+
+klinische
+
+Studien
+
+ergaben
+
+vielversprechende Ergebnisse, sowohl im Einsatz als Knochenersatzmaterial, als
+auch als Carrier für Proteine und Wachstumsfaktoren [Hollinger und Leong
+1996a, Miki und Imai 1996, Zellin und Linde 1997]. Vor allem die Beeinflussung
+der Abbaurate des Carriers durch unterschiedliche Zusammensetzung der
+Bestandteile
+
+erscheint
+
+hinsichtlich
+
+der
+
+Anforderungen
+
+von
+
+besonderer
+
+Bedeutung. Es muss jedoch erwähnt werden, dass durch den hydrolytischen
+Abbau des Materials eine lokale Ansäuerung des Gewebes erfolgen und eine
+
+Einleitung
+
+18
+
+entzündliche Reaktion aufrecht erhalten werden kann, bis das Material
+vollständig abgebaut wird. Des Weiteren erscheint während der Regeneration
+eines knöchernen Defektes durch ein PLA/PGA Ersatzstück die Vaskularisation
+und damit die Sauerstoffversorgung aufgrund des Zerfalls des Materials deutlich
+reduziert und somit für die kritische Phase des Heilungsprozesses nicht geeignet
+zu sein [Winet 1995].
+Die
+
+am
+
+weitest
+
+verbreiteten
+
+Implantattypen
+
+stellen
+
+sicherlich
+
+die
+
+Kalziumphosphate Hydroxylapatit (HA) und Trikalziumphosphat (TCP) dar. Die
+synthetisch hergestellten Apatitkristalle des HA zeigen eine ausgezeichnete
+Biokompatibilität und Osteokonduktivität und können als Granulat [Horch und
+Steegmann 1985] oder Festkörper eingesetzt werden. HA-Zement kann
+problemlos intraoperativ an die Gegebenheiten adaptiert werden und bindet
+ohne Wärmebildung ab [Costantino et al. 1991]. Probleme entstehen bei der
+individuellen Formgebung der Blöcke, die zumeist sehr spröde sind und nicht im
+Bereich lasttragender Regionen angebracht werden können. Die langen
+Resorptionszeiten führen häufig dazu, daß es zu einer Dislokation des
+Granulates unter Belastung kommt. Deutliche kürzere Degradationszeiten weist
+das β-TCP auf [Foitzik und Stamm 1997, Ramselaar et al. 1991] allerdings wird
+der abgebaute Teil nur zögerlich von Knochen ersetzt, so daß eine
+Konturstabilität nicht immer gewährleistet werden kann. Als Trägersubstanzen
+wurden Kalziumphosphate speziell für das bone morphogenetic proteins (BMP)
+bereits getestet [Ripamonti et al. 1992]. HA in Kombination mit BMP zeigte sich
+dem reinen HA bezüglich der Knochenneubildung in einem Schädeldefektmodell
+deutlich überlegen [Horisaka et al. 1994] Formbarer HA-Zement als Carrier
+wurde als Verbesserung des Gesamtsystems angesehen [Kamegai et al. 1994]
+zudem zeigte sich in dieser Studie eine Resorption des HA und ein direkter
+Ersatz durch neu gebildeten Knochen.
+Biogläser können nach Implantation bleibende strukturelle Verbindungen mit
+dem Knochenlager eingehen und zeigen auch bezüglich der Stabilität
+ausreichende Qualität um als Last tragender Knochenersatz verwendet zu
+
+Einleitung
+
+19
+
+werden. Neben der lokalen Stabilität, wird vor allem der rasche Ersatz durch
+Knochen hervorgehoben [Greenspan 1999, Stanley et al. 1997]. Die Funktion
+als Carrier für Proteine oder Wachstumsfaktoren zeigte bisher jedoch noch
+keine Erfolge.
+Das Kollagen, speziell das Kollagen I, stellt mit 90% den Hauptbestandteil der
+organischen Knochenmatrix, den natürlichen Träger von Wachstumsfaktoren
+und den Bindungsort für Osteoblasten dar [Basle et al. 1998]. Nach geeigneter
+Vorbehandlung können Schwämme, Blöcke oder Granulat, zumeist aus boviner
+oder equiner Herkunft, in die zu rekonstruierenden Defekte eingebracht werden
+[Hemprich et al. 1989]. Durch Tamponade des Defektes mit dem Kollagenvlies
+können Blutkoagel vermieden werden, eine Grundvoraussetzung für ein rasches
+Einsprossen neu gebildeter Gefäße und somit einer raschen knöchernen
+Regeneration [Joos 1983]. Die Tatsache, dass die kollagene Matrix nicht
+abgebaut sondern in den regenerierten Knochen eingebaut wird, führt zu einer
+schnellen knöchernen Regeneration und es können Nebenwirkungen durch
+Spaltprodukte nahezu ausgeschlossen werden [Horisaka et al. 1994, Joos
+1983]. In präklinischen Tierstudien wurde das Kollagen I als bevorzugtes
+Trägermaterial für rhBMP verwendet [Boyne 1995, Kübler et al. 1998,
+Kusumoto et al. 1997, Nevins et al. 1996]. Besondere Bedeutung
+
+fand die
+
+Identifikation von deutlich ausgeprägten angioiden Strukturen innerhalb des
+Kollagens nach vier Wochen und der ausgeprägte Einfluß auf die Mineralisation
+im Verlauf der Knochenregeneration [Horisaka et al. 1994, Kusumoto et al.
+1997].
+
+Aktuelle Entwicklungen zielen darauf ab, durch Denaturierung und
+
+Renaturierung boviner Kollagenmatrix einen schwer löslichen Komplex aus
+Kollagen
+
+und
+
+Nichtkollagen-Proteinen
+
+zu
+
+bilden,
+
+der
+
+die
+
+natürliche
+
+Zusammensetzung enthält und somit osteoinduktiv wirksam werden kann [Arzt
+et al. 1996]. Des Weiteren wird versucht, die Eigenschaften des Kollagens durch
+Kombination mit anderen Grundmaterialien (PLA/PGA oder Hydroxylapatit)
+zeitlich variabel zu gestalten.
+Die natürlichen anorganischen Materialien werden von unterschiedlichen
+Spendern durch unterschiedliche Verfahren gewonnen. Neben phykogener
+
+Einleitung
+
+20
+
+Matrix [Kasper et al. 1988] wird deproteinierte bovine Knochenmatrix
+[Schlickewei und Paul 1991], lösungsmittelkonservierte sterilisierte bovine
+Knochenmatrix [Günther et al. 1996] und autolysierter, antigen-extrahierter,
+allogener Knochen [Kübler et al. 1993] eingesetzt. Untersuchungen in
+Kombination mit BMP [Terheyden und Jepsen 1999] einem bone inducing
+complex (BIC) [Feifel et al. 1995] und anderen osteoinduktiven Faktoren [Herr
+et
+
+al.
+
+1993]
+
+Eigenschaften
+
+wurden
+der
+
+durchgeführt.
+
+reinen
+
+Hinsichtlich
+
+Trägersubstanz
+
+konnten
+
+der
+
+osteoinduktiven
+
+keine
+
+signifikanten
+
+Unterschiede zu den synthetisch hergestellten anorganischen Materialien
+festgestellt werden. Lediglich für den AAA-bone wird postuliert, dass die
+Herstellungsmethode eine Konservierung der osteoinduktiven Matrixproteine bei
+gleichzeitiger Extraktion der zellgebundenen Alloantigene ermöglicht [Kübler
+1997].
+
+1.5 Problemstellung
+Nach den bisher dargestellten Grundlagen und dem aktuellen Stand der
+Forschung hinsichtlich der Untersuchung und Beeinflussung der Angiogenese
+während der Knochenregeneration unter dem Einfluss VEGF ergibt sich die
+Forderung, Ergebnisse und Daten von vorausgegangenen Studien und in vitro
+Modellen in eine in-vivo-Studie umzusetzen und zu untersuchen. Der Aufbau
+und die Eigenschaften des in vitro Modells müssen charakterisiert und optimiert
+sein, um sie in die in vivo Studie übernehmen zu können. Die Untersuchung soll
+in einer tierexperimentellen Studie stattfinden. Diese muss die Beurteilung der
+Angiogenese
+
+während
+
+der
+
+Knochenregeneration
+
+in
+
+einem
+
+Kaninchenunterkieferdefektmodell und die Beurteilung der qualitativen und
+quantitativen Veränderung der Knochenregeneration und der Angiogenese
+unter dem Einfluß von VEGF beinhalten. Zudem muss die Wirkung der Zeit auf
+die Regeneration verdeutlicht werden und mit dem Einfluss von VEGF im
+zeitlichen Verlauf vergleichbar sein. Ferner ist morphologisch und quantitativ zu
+
+Einleitung
+
+21
+
+klären, ob und wieweit sich eine Beeinflussung der Gefäßneubildung auf die
+Knochenregeneration auswirkt und wie viele Unterschiede zwischen angiogener.
+
+Material und Methode
+
+22
+
+2 Material und Methode
+
+2.1 Grundlagen
+Nach Erfolgs versprechenden in vitro Untersuchungen für VEGF165 bei der
+Knochenregeneration soll nun eine in vivo Studie klären, wieweit eine
+Umsetzung der Ergebnisse auf einen Organismus erfolgen kann. Es soll die
+biologische Aktivität des Faktors in Verbindung mit einem konventionellen
+Kollagen I auf die Osteogenese im Vergleich mit Kollagen ohne VEGF bzw. einer
+„Leerprobe“ mit einem Blutkoagel analysiert werden. Die Auswahl erfolgte unter
+dem Gesichtspunkt des Lebensalters sowie den zum Vergleich vorliegenden
+Erfahrungen anderer Arbeitsgruppen bezüglich der Knochenregeneration im
+Tiermodell. In verschiedenen experimentellen Studien konnte die gute Eignung
+vom Kaninchenmodell für Experimente mit Zytokinen
+
+nachgewiesen werden
+
+[Eppley et al. 1991, Kübler 1998, Schenk 1994, Walgenbach et al. 1998]. Auch
+die Wirksamkeit von humanem VEGF165 im Kaninchenmodell [Takeshita et al.
+1996] sprach für dessen Auswahl.
+
+2.1.1 Tiermodell
+Als Versuchtiere wurden insgesamt 56 skelettal ausgereifte männliche
+Kaninchen der Rasse „White New Zeeland Rabbits“ herangezogen. Sie hatten
+ein durchschnittliches Gewicht von 3800 g. Die Haltung der Tiere erfolgte unter
+Standardlaborbedingungen. Jedes Kaninchen wurde im Einzelkäfig und unter
+gleichen sozialen Bedingungen gehalten. Als Futter erhielten die Tiere eine
+Standarddiät und zusätzlich Wasser ad libidum, entsprechend den Richtlinien
+zur
+
+Tierhaltung
+
+der
+
+Westfälischen
+
+Wilhelms-Universität
+
+Münster.
+
+Eine
+
+präoperative Akkomodationszeit an die Laborbedingungen von mindestens einer
+
+Material und Methode
+
+23
+
+Woche wurde eingehalten. Nach Operation in Vollnarkose wurden die Tiere
+nach jeweils verschiedenen Intervallen eutanisiert und die zu untersuchenden
+Regionen explantiert und untersucht. Dabei entsprach der experimentelle
+Ablauf den Anforderungen des Tierschutzgesetzes und war durch das
+Regierungspräsidium Münster mit dem Aktenzeichen 23.0835.1.0 (G 46 / 97)
+vom 12. Januar 1998 genehmigt worden.
+
+2.1.2 Probeneinteilung – Implantate
+Die Einteilung der Proben erfolgte in drei Hauptgruppen, welche sich durch das
+Substrat zur Füllung des Bohrlochdefektes unterschieden. Pro Tier wurden im
+Unterkiefer insgesamt vier Bohrlochdefekte gesetzt, welche entweder mit
+Kollagen, Kollagen-VEGF-Komplex oder Blutkoagel als Leerprobe gefüllt wurden.
+Die einzelnen Tiere wurden später nach verschiedenem Heilungsintervall
+eutanisiert und der Progress der Restitutio histologisch untersucht. Zur
+Einteilung siehe Tabelle 1.
+
+Gruppe
+Defektfüllung
+Regio
+Kontrollgruppe K1 Leer
+3+4
+Kontrollgruppe K2 Kollagen
+1+2
+Studiengruppe S
+Koll. + VEGF165 1+2+3+4
+
+Tage
+Anzahl Proben/Tiere
+3/7/14/28
+56/28
+3/7/14/28
+56/28
+3/7/14/28
+112/28
+
+Tab. 1:Gruppen- und Probeneinteilung
+Die Proben der Kontrollgruppen (K1, K2) und der Studiengruppe S1 mit dem zu
+untersuchenden Cytokin stammten von getrennten Tierserien, um systemische
+Effekte des VEGF165 auf die Gegenseite eines Tieres zu vermeiden. Die Einlage
+der Implantate (Typ-1 Kollagen, Typ-1 Kollagen-VEGF165-Komplex) und die
+Anlage der Leerproben erfolgte in 4 regional definierte Bohrdefekte (Regionen
+1-4) pro Tier, wobei Regio 1 im Kieferwinkelbereich distokaudal des letzten
+Molaren rechts, Regio 2 im Corpusbereich kaudal der Schneidezahnwurzel
+
+Material und Methode
+
+24
+
+rechts gewählt wurden. Regio 3 und Regio 4 wurden analog der Zahnformel
+spiegelbildlich anterior bzw. posterior festgelegt (Abb.1 und 2).
+Dabei waren in den Regionen 3 und 4 Leer-Kontrollproben und in den Regionen
+1 und 2 Kollagen-Kontrollproben, um systemische Wirkungen durch VEGF zu
+vermeiden. So konnte auch die Anzahl der Versuchstiere gering gehalten
+werden. In der Studiengruppe beinhalteten alle 4 Regionen eines Tieres Typ-1
+Kollagen mit VEGF165 (Tab.1). Insgesamt waren nicht alle Proben, sondern 7
+Proben pro Zeitpunkt (3, 7, 14, 28 Tage) und Gruppe für die Paraffineinbettung
+und für die immunhistologische Untersuchung vorgesehen.
+
+Abb. 1: Bohrlöcher Aufsicht von oben
+
+Material und Methode
+
+25
+
+Abb. 2 Bohrlöcher von der Seite
+
+Für die
+
+Bestimmung einer ausreichenden VEGF165-Konzentration des
+
+Kollagenimplantates
+
+im
+
+Tiermodell
+
+wurden
+
+Ergebnisse
+
+von
+
+in
+
+vitro
+
+Untersuchungen von Kleinheinz et al. 2000 als Referenz herangezogen.
+Das Volumen des Bohrdefekts (Durchmesser: 5mm, Höhe: 5mm), die
+Freisetzungseigenschaften und die auf Endothelzellen biologisch wirksame
+Konzentration wurden mit einbezogen. Aus dem in vitro Modell ging hervor,
+dass die nach 48 h freigesetzte VEGF165 -menge aus einem Kollagenimplantat,
+beladen mit 800ng VEGF165, in einem Kreislaufsystem mit einem Volumen von
+2
+
+2
+
+80 ml, nach 48 h bei 10 pg/ml liegt. Der Bohrzylinder (H*r *π=5*2,5 *π ) weist
+ein Regenerationsvolumen von 98mm3 (98µl)auf. Im Tierversuch würde bei
+gleichbleibender Freisetzungskinetik eine lokale Konzentration von mindestens
+10 ng/ml vorliegen.
+Für eine ausreichende Promotion der Endothelzellen durch VEGF165 ist eine
+Konzentration von bis 6 ng/ml notwendig und ausreichend nach Conn et al.
+1990 . Daraus lässt sich schließen, dass zur Stimulierung der endothelialen
+Zellproliferation im und um den Bohrdefekt eine Konzentration von 0,8µg
+VEGF165 ausreicht.
+
+Material und Methode
+
+26
+
+Es wurden daher industriell gefertigte (Resorba, Nürnberg) mit 800ng VEGF165
+beladene Typ-1 Kollagen-Implantate als Träger-Cytokin-Komplex eingesetzt.
+
+2.1.3 Narkoseverfahren
+Die
+
+Betäubung
+
+der
+
+Kaninchen
+
+erfolgte
+
+in
+
+Allgemeinanästhesie
+
+unter
+
+Beibehaltung der Spontanatmung. Nach Wiegen der Tiere zur Ermittlung des
+Körpergewichts
+
+wurde
+
+die
+
+entsprechende
+
+dem
+
+Gewicht
+
+adaptierte
+
+Anästhesielösungen aus 3,0 mg Xylazinhydrochlorid ( Xylazin 2% ) / kg KG , 20
+mg Ketaminhydrochlorid ( Ketanest ) / kg KG und 0,25 mg Atropinsulfat / kg KG
+in separaten Spritzen aufgezogen.
+Die Anästhesielösungen wurden intramuskulär in der gluteal- Region injiziert.
+Xylazin wirkte als Sedativum und Muskelrelaxanz. Das Ketanest wirkte sedativ
+und analgetisch.
+
+Anschließend wurde zusätzlich im Operationsgebiet 1,2ml
+
+2%iges Ultracain zur perioperativen Analgesie und zur Vasokonstriktion injiziert.
+
+2.1.4 Operatives Verfahren - Implantation
+In Narkose wurde dem Kaninchen die submandibulären Region, der Hals links
+und rechts und eines der Ohrinnenseiten rasiert. Anschließend erfolgte die
+Lagerung des Tieres auf dem Operationstisch. Nach steriler Abdeckung erfolgte
+die Desinfektion mit Betaisodona-Lösung der rasierten Areale. Am rasierten Ohr
+wurden aus einer Ohrvene Blutproben entnommen. Die Monovetten wurden
+sofort kühl gelagert und anschließend als Vollblut und abzentrifugiertes Serum
+der Auswertung zugeführt um eventuelle systemische Auswirkungen des
+VEGF165 auf den Gesamtorganismus festzustellen. Anschließend wurde in die
+Submandibularloge
+
+links
+
+und
+
+rechts
+
+1,2
+
+ml
+
+2%iges
+
+Ultracain
+
+zur
+
+Vasokonstriktion und Analgesie subkutan injiziert. Jetzt wurde eine mediane
+Inzision von ca. 4 cm in der Submandibularregion durchgeführt. Unter
+Schonung der V. facialis und anderen kleineren Gefäße wurde sukzessive bis
+
+Material und Methode
+
+27
+
+auf den Unterkieferunterrand präpariert. Dabei musste die Sehne der
+Muskelschlinge, gebildet aus dem M. masseter und dem M. pterygoideus
+medialis, durchtrennt werden. Kleinere Blutungen wurden mit der bipolaren
+Pinzette subtil koaguliert. Anschließend wurde im Bereich des Unterkieferrandes
+das Periost scharf mit einem Skalpell durchtrennt und mit einem Raspatorium
+vom Korpusbereich subperiostal präpariert. Dies erfolgte sowohl auf der
+bukkalen wie auch auf der lingualen Korpusoberfläche. Die Konstruktion des
+Bohrzylinders erfolgte mit einem Trepanbohrer mit 5mm Außendurchmesser.
+Die Bohrung erfolgte von der bukkalen Fläche ausgehend drucklos in linguale
+Richtung. An der lingualen Fläche wurde ein Raspatorium zum Schutz des
+Weichgewebes
+
+im
+
+Mundbodenbereich
+
+positioniert.
+
+Zur
+
+Protektion
+
+vor
+
+Wärmeschaden des Unterkieferknochens durch die Bohrung wurde ständig mit
+steriler Kochsalzlösung gespült. Auf jeder Kieferhälfte wurden jeweils 2
+Implantatlager, eine im anterioren Bereich caudal der Schneidezahnwurzeln und
+eine am Übergang vom Korpus zum aufsteigenden Ast distocaudal der
+Seitenzahnwurzeln, konstruiert. Anschließend folgte die Einlage aus reinem Typ1 Kollagen oder Typ-1 Kollagen mit VEGF165 in die Implantatlager. Bis zum
+Zeitpunkt der Implantation wurden die Implantate bei -25ºC gelagert. Zur
+Gewinnung von Leerproben wurden einige Implantatlager leer gelassen, so
+dass sie sich mit einem Blutkoagel füllen konnten. Vor dem Wundverschluss
+wurde die Wunde mit physiologischer Kochsalzlösung gespült. Anschließend
+erfolgte die Rekonstruktion der Muskelschlinge und der Subcutis mit 4-0 Vicryl
+Einzelknopfnähten und der Haut mit 5-0 monofilen Prolene Einzelknopfnähten
+(Abb. 3- Bilder A-H). Als Verband diente ein Sprühpflaster. Eine postoperative,
+prophylaktisch-antibiotische
+
+und
+
+-analgetische
+
+Medikation
+
+wurde
+
+nicht
+
+verabreicht. In engen Zeitabständen wurden die Tiere klinisch beobachtet. Die
+ausreichende Nahrungsaufnahme sowie die Ausscheidung der Kaninchen
+wurden kontrolliert. Postoperativ wurde bedingt durch die Nachwirkungen der
+Narkose und des Eingriffs, eine eingeschränkte Nahrungsaufnahme kurzfristig
+beobachtet. Der operative Eingriff an den Tieren verlief bei allen Versuchstieren
+komplikationslos.
+
+Material und Methode
+
+Abb. 3: Operativer Verlauf
+
+28
+
+Material und Methode
+
+29
+
+2.1.5 Operative Explantation – Paraffineinbettung
+Die Entnahme der Proben erfolgte in der zweiten Operation nach 3, 7, 14 oder
+28 Tagen nach bereits beschriebener Narkotisierung und der Blutentnahme aus
+der Ohrvene. Die
+
+Kaninchen wurden exzitationslos
+
+geopfert
+
+mittels
+
+intrakardialer Injektion von 2ml des Tötungsmittels T61. Nach Feststellung des
+Todes wurden Organproben von Herz, Leber, Niere, Milz, Speicheldrüse und
+Lymphknoten und eine Urinprobe direkt aus der Harnblase zur weiteren
+Diagnostik entnommen. Jetzt erfolgte die Exartikulation des Unterkiefers und
+Entfernung des Weichgewebsmantels. Anschließend wurden die Implantatlager
+makroskopisch betrachtet und untersucht. Drei Tiere mit insgesamt vier Proben
+wiesen Zeichen einer Infektion des Präparationsbereichs auf. Diese Präparate
+wurden nicht verwertet. Die makroskopischen erkennbaren Befunde differierten
+einerseits in der Einlageform (Leer, Kollagen oder VEGF165) und in der
+Einlagezeit bis zur Explantation (3, 7, 14 oder 28 Tage). Zur radiologischen
+Untersuchung wurden von den implantierten Regionen Röntgenbilder mit einem
+Langtubusröntgengerät bei definierter Einstellung (70 kV, 7 mA) auf Zahnfilmen
+(2,5 x 4,0 cm) aufgenommen. Anschließend wurde der Defektbereich als
+Gesamtprobe, mit dem Implantations- bzw. Regenerationsbereich, mit einer
+diamantierten Trennscheibe unter Kühlung mit steriler Natriumchloridlösung in
+Rechteckform aus dem Kiefer herausgeschnitten und bis zur weiteren
+Bearbeitung und Entkalkung nach folgendem Protokoll einzeln in 4%igem
+Paraformaldehyd fixiert.
+
+2.1.6 Histologie und Immunhistologie
+
+Lichtmikroskopie – Paraffineinbettung
+Die knöchernen Proben aus den Regenerationsbereichen wurden mit einer
+Diamanttrennscheibe in Blockform aus den Kiefern herausgeschnitten und
+sofort fixiert (siehe Protokoll). Nach Entkalkung und Einbettung erfolgte die
+
+Material und Methode
+
+30
+
+Anfertigung von Schnitten aus dem zentralen Bereich des Regenerates ,um
+eventuelle Einflüsse der Weichgewebe an den oberflächlichen Schnitten bei der
+Analyse auszuschließen. Die Auswertung der Schnitte erfolgte an definierten
+Stellen.
+
+Entkalkung
+Die Herstellung der Proben erfolgt nach folgendem Standardverfahren zur
+Aufbereitung
+
+von
+
+biologischen
+
+Knochenproben
+
+(Entkalkung)
+
+für
+
+die
+
+histologische, immunhistologische und histomorphometrische Untersuchung:
+-
+
+Fixierung der Probe für 24 h bei RT in 4 % Paraformaldehyd
+
+-
+
+Spülung für 24 h in 0,1 m PBS (pH 7,4) mit zweimaligem Wechsel
+
+-
+
+Entkalkung der Proben über 8 -10 Wochen in einem 10 ml fassenden
+Probegefäß
+
+in 20 % EDTA und 0,2 % Paraformaldehyd (pH 7,3); die
+
+Lösung wurde wöchentlich gewechselt
+-
+
+der Endpunkt des Entkalkungsvorganges wurde durch stichprobenartige
+Röntgenkontrollen und Erfahrungswerte des Labors festgestellt
+
+-
+
+Spülung für 24 h in 0,1 m PBS (pH 7,4) mit zweimaligem Wechsel
+
+-
+
+Dehydratation durch eine aufsteigende Alkoholreihe (50 % - 70 % - 90 % 96 %) in 24 h Abständen
+
+-
+
+Abschluß mit 100 % Isopropylalkohol
+
+-
+
+Verdrängung von Restalkohol und eventuellen Wasserrückständen durch
+Einlagerung für 24 h - 72 h in Zedernholzöl und anschließende Einlagerung
+für 24 h in einem Zedernholzöl/Paraffingemisch (Verhältnis 1:1)
+
+-
+
+Einbettung in reines Paraffin für 24 h bei 60°C
+
+-
+
+Einbettung in ein Paraffin-Polymer-Gemisch mit DMSO für 3 x 24 h bei 60°C
+und dreimaligem Wechsel
+
+-
+
+Ausgießen in eine Blockform und Abkühlung bei RT
+
+Material und Methode
+
+-
+
+Schneiden
+
+der
+
+31
+
+Paraffinblöcke
+
+in
+
+8-10
+
+µm
+
+Schnitte
+
+mit
+
+einem
+
+Rotationsmikrotom
+-
+
+Aufziehen der Schnitte auf Objektträger
+
+Gestützt auf das theoretische Modell der Knochenregeneration, welches besagt,
+dass knöcherne Defekte von außen, von der Peripherie zum Zentrum hin,
+regenerieren, dabei jedoch mittig primär die größte Anlagerung erreicht wird,
+und sich die Knochenlamellen dort zuerst konzentrisch vereinigen [Brockmann
+2003], wurden histologische Schnitte mit einer Dicke von 10 µm stets aus der
+Mitte des entnommenen Probenzylinders angefertigt.
+
+Immunhistologie
+An den Paraffinschnitten wurde immunhistologisch der spezifische Nachweis
+und die Darstellung von Endothelien geführt, wofür der monoklonale Antikörper
+CD 31 / PECAM-1 und der von Willebrand Faktor der Literaturhinweise
+entsprechend verwendet wurden [Albelda et al. 1991, Baldwin et al. 1994,
+Horak et al. 1992, Rabie 1997]
+Die Detektion des CD 31 / PECAM-1 erfolgte mit einem auf der StreptavidinBiotin-Methode basierenden Catalyzed Signal Amplifikation (CSA) System, mit
+Peroxidase als Enzym und DAB-Wasserstoffperoxid als Chromogen-Substrat. Die
+Durchführung stützte sich auf die Protokolle von Bobrow et al. 1991 und Arras
+et al. 1998.
+Für den von Willebrand Faktor wurde eine universelle Avidin-Biotin-PeroxidaseMethode (A.B.C.), von
+beschrieben, angewandt.
+
+Hanke et al. 1999 für den Einsatz am Kaninchen
+
+Material und Methode
+
+32
+
+Protokoll für CD 31 / PECAM-1
+-
+
+Entparaffinieren der Schnitte mit Xylol für 2 x 10 min
+
+-
+
+Rehydratation über eine absteigende Alkoholreihe (100 % - 96 % - 70 %)
+für jeweils 10 min
+
+-
+
+Spülung in Aqua dest.
+
+-
+
+Antigendemaskierung durch eine Mikrowellenvorbehandlung mit 10 mM
+Citratpuffer (pH 6,0) für 5,5 min bei 500 Watt
+
+-
+
+Abkühlen der Schnitte für 20 min bei RT
+
+-
+
+Spülen mit 0,05 M Tris-HCL-Puffer (pH 7,6)
+
+-
+
+Blockierung der endogenen Peroxydase durch Inkubation über 5 min bei RT
+mit 3 % H2O2
+
+-
+
+Spülen mit Puffer und Lagerung im CSA-Puffer
+
+-
+
+5 min Inkubation bei RT mit Blockierungsreagenz (serumfreies Protein in
+PBS mit 15 mM NaN3)
+
+-
+
+15 min Inkubation bei RT mit Primärantikörper CD 31 (die optimale
+Verdünnung wurde im Vorfeld ausgetestet und betrug 1:20)
+
+-
+
+Spülen mit Puffer und Lagerung im Pufferbad
+
+-
+
+15 min Inkubation bei RT mit Brückenantikörper (biotinylierte F(ab‘)2
+Kaninchen Anti-Mausimmunoglobuline in Tris-HCL-Puffer mit Trägerprotein)
+
+-
+
+Spülen mit Puffer und Lagerung im Pufferbad
+
+-
+
+15 min Inkubation bei RT mit Streptavidin-Biotin-Peroxidasekomplex
+
+-
+
+Spülen mit Puffer und Lagerung im Pufferbad
+
+-
+
+15 min Inkubation bei RT mit Verstärkungsreagenz (biotinyliertes Tyramin
+und H2O2 in PBS mit Trägerprotein und antimikrobiellem Agens)
+
+-
+
+Spülen mit Puffer und Lagerung im Pufferbad
+
+-
+
+15 min Inkubation bei RT mit Streptavidin-Peroxidase-Konjugat
+
+-
+
+Spülen mit Puffer und Lagerung im Pufferbad
+
+-
+
+5 min Inkubation bei RT mit Substrat-Chromogenlösung (DAB-Chromogen)
+
+-
+
+Spülen mit Aqua dest.
+
+-
+
+2-3 sec Inkubation bei RT mit Hämatoxylin zur Gegenfärbung
+
+Material und Methode
+
+33
+
+-
+
+Spülen mit Leitungswasser
+
+-
+
+Dehydratation über eine aufsteigende Alkoholreihe (50 % - 70 % - 96 % 100 %)
+
+-
+
+5-10 min Xylol zum Alkoholentzug
+
+-
+
+Eindecken der Gewebeschnitte mit Metacrylat (DePeX)
+
+Protokoll für den von Willebrand Faktor
+-
+
+Entparaffinieren der Schnitte mit Xylol für 2 x 10 min
+
+-
+
+Rehydratation über eine absteigende Alkoholreihe (100 % - 96 % - 70 %)
+für jeweils 10 min
+
+-
+
+Blockierung der endogenen Peroxydase durch Inkubation für 15 min in 3%
+Hydrogenperoxidase-Lösung
+
+-
+
+Spülen mit Aqua dest.
+
+-
+
+Antigendemaskierung durch Kochen in 10 mM Citratpuffer (pH 6,0) für 2 -3
+min im Schnellkochtopf
+
+-
+
+Spülen mit 0,1 M Tris-HCL-Puffer (pH 7,6)
+
+-
+
+45 min Inkubation bei RT mit Primärantikörper (die optimale Verdünnung
+wurde im Vorfeld ausgetestet und betrug 1:100)
+
+-
+
+Spülen mit Puffer
+
+-
+
+30 min Inkubation bei RT mit universal secondary antibody (Verdünnung 1 :
+100)
+
+-
+
+Spülen mit Puffer
+
+-
+
+30 min Inkubation bei RT mit ABC-Reagenz
+
+-
+
+Spülen mit Puffer
+
+-
+
+6 min Inkubation bei RT mit Peroxidase-Chromogen-Substrat
+
+-
+
+Spülen mit Puffer
+
+-
+
+2-3 sec Inkubation bei RT mit Hämatoxylin zur Gegenfärbung
+
+-
+
+Spülen mit Leitungswasser
+
+-
+
+Dehydratation über eine aufsteigende Alkoholreihe (50 % - 70 % - 96 % 100 %)
+
+Material und Methode
+
+-
+
+5-10 min Xylol zum Alkoholentzug
+
+-
+
+Eindecken der Gewebeschnitte mit Metacrylat
+
+34
+
+Die Qualitätskontrolle erfolgte bei allen Gewebeschnitten über eine negative
+Gewebeprobe, bei der unspezifische Anfärbungen ausgeschlossen wurden.
+
+Material und Methode
+
+35
+
+Auswertungskriterium und Auswertungsmethoden
+Zur Auswertung wurden auswählte Präparate verwendet. Es wurden nur
+unbeschädigte und fehlerfreie Proben der 3-, 7-, 14- und 28-Tages-Tiere
+herangezogen.
+
+Defekte
+
+oder
+
+fehlerhaft
+
+geschnittene
+
+Präparate
+
+wurden
+
+verworfen. Es wurde berücksichtigt, dass keine großen Varianzen oder
+Dislokationen in der Auswahl der Schnittebene lagen.
+
+Immunhistologische Untersuchung
+Nach Anfärbung mit Hilfe des spezifischen Antikörper CD 31 und den von
+Willebrand Faktor wurden die angefertigten Schnitte unter dem Lichtmikroskop
+bei 40 bis 400- facher Vergrößerung deskriptiv nach morphologischen Kriterien,
+Verteilungsmustern sowie Lokalisation des markierten Endothels untersucht.
+Speziell an den Übergangsbereichen (ortsständiger Knochen – regenerierter
+Knochen – Kollagenimplantat) wurden die Schnitte untersucht. Die Vergleiche
+erfolgten unter den einzelnen Gruppen und im zeitlichen Verlauf.
+
+Auswertung Gefäßdichte und Gefäßquerschnitt
+Die Quantifizierung der Gefäßdichte und des Gefäßquerschnitts pro Sichtfeld
+wurde in Anlehnung an die von Augustin et al. 1995, Kleinheinz et al. 1997 und
+Weidner et al. 1991 beschriebenen Verfahren durchgeführt. Zunächst erfolgte
+bei 100- facher Vergrößerung eine Übersicht über die Probe und die
+randomisierte Auswahl von 5 sogenannten „hot spots“ [Takano et al. 1996].
+Diese
+
+wurden
+
+fotografiert,
+
+Bildbearbeitungsprogramme
+
+digitalisiert
+
+ImageTool
+
+2.0
+
+und
+und
+
+Corel
+
+mit
+
+Hilfe
+
+Photo-Paint
+
+der
+8.0
+
+quantitativ ausgewertet.
+Die Werte für die Gefäßdichte (= Anzahl der Gefäße / 1,18 mm2 hot spot) und
+die Vaskularisation (= Gefäßfläche / 1,18mm2 hot spot) wurden
+Annahme einer Normalverteilung
+
+unter der
+
+mit dem Statistikprogramm SPSS 9.0
+
+Material und Methode
+
+36
+
+zunächst rein deskriptiv und anschließend mit einer Rang-Varianzanalyse nach
+Kruskal-Wallis[Miller1980]ausgewertet.
+
+Ergebnisse
+
+37
+
+3 ERGEBNISSE
+
+3.1 Makroskopisch-klinische Beurteilung
+Der klinisch-makroskopische Befund differierte je nach Studiengruppe und
+Zeitpunkt der Probenentnahme. An keiner der entnommenen Proben waren
+Zeichen von Infektionen, Resorptionen oder Atrophien festzustellen.
+In den Proben ohne Implantateinlage konnte klinisch nach 3 Tagen ein stabiles
+randbildendes Koagel festgestellt werden, welches den Defekt vollständig
+ausfüllt.(Abb. 4)
+Anzeichen einer Hartgewebsbildung waren nicht zu erkennen.
+
+Abb. 4: Stabiles randbildendes Koagel nach drei Tagen in Regio 4 (A) und 3 (B) in
+einem ungefüllten Defekt.
+
+In den Kollagenproben ohne Faktorzusatz und Implantaten mit VEGF165 war
+nach drei Tagen die typisch retikuläre Kollagenstruktur für Kollagenimplantate
+noch zu erkennen.
+Das Kollagen hatte durch seine Quellungstendenz an Volumen zugenommen, so
+dass der Defekt randbildend mit teilweise überragenden Kollagenanteilen
+ausgefüllt wurde.(Abb. 5)
+
+Ergebnisse
+
+38
+
+Abb. 5: Deutliche Quellungstendenz des Kollagenimplantates nach drei Tagen in
+Regio 2 (A) und 3 (B).
+
+Erst nach dem 14. Tag war makroskopisch in allen Gruppen (Leer, Kollagen und
+VEGF165) eine knöcherne Regeneration in den Randzonen festzustellen. Im
+zentralen Bereich waren noch Kollagenimplantatreste nachweisbar (Abb. 6).
+
+Abb. 6: Defekt aus der Studiengruppe mit VEGF165 – Freisetzung nach 14 Tagen.
+Am 28. Tag war bei den Proben mit dem Faktor-Kollagen-Komplex der Defekt
+fast vollständig knöchern regeneriert. Die Verknöcherung war oberflächlich
+homogen und auch im Zentrum fortgeschritten.
+In
+
+einzelnen
+
+Proben
+
+war
+
+im
+
+Zentrum
+
+fibrochondroides Gewebe erkennbar (Abb. 7).
+
+noch
+
+Kollagen
+
+und
+
+weiches
+
+Ergebnisse
+
+39
+
+Abb. 7: Defekt aus der Studiengruppe nach VEGF165 – Freisetzung nach 28 Tagen.
+
+Zum Vergleich wiesen die Leerproben ebenfalls die gleiche Ausrichtung der
+Verknöcherung vom Rand zum Zentrum hin auf. Nach 28 Tagen war die
+Ausprägung der Knochenregeneration im Vergleich zu den Proben mit Kollagen
+und Kollagen mit VEGF deutlich schwächer. Auch die reinen Kollagenproben
+wiesen
+
+gegenüber
+
+der
+
+Leerprobe
+
+lediglich
+
+im
+
+Randbereich
+
+eine
+
+fortgeschrittenere Verknöcherung auf.
+
+3.2 Mikroskopisch – Immunhistologische Auswertung
+Die spezifischen Antikörper CD 31 und von Willebrand Faktor erlaubten eine
+differenzierte Beurteilung von Lokalisation, Ausdehnung, zeitlichem Verlauf und
+Struktur der Gefäßneubildung durch Darstellung der Endothelien. Gezielt an den
+Übergangsbereichen (ortsständigen Knochen - regenerierter Knochen –
+Kollagenimplantates) konnte das Verteilungsmuster der Gefäße mit der
+Knochenneubildungsfront verglichen werden (Abb. 8).
+Der Vergleich erfolgte unter den einzelnen Gruppen und im zeitlichen Verlauf.
+
+Ergebnisse
+
+A
+
+40
+
+B
+
+C
+
+D
+
+E
+
+Abb. 8: Querschnitt durch einen Regenerationsbereich nach 14 Tagen. (A)
+ortsständiger Knochen, (B) Randzone, (C) regenerierter trabekulärer Knochen, (D)
+fibro-össare Übergangszone, (E) Kollagenimplantat (Endothelmarkierung: CD 31,
+Vergrößerung x 100).
+
+Nach 3 Tagen ist eine Mehranfärbung der Zellen zwischen Knochen und
+Kollagenimplantat im Spaltbereich festzustellen(Abb. 9). Es kommt bei der
+Anfärbung mit vWF zur Anfärbung freier Endothelien mit
+
+zusätzlicher
+
+Markierung von noch nicht abgebauten Thrombozyten, Monozyten und
+Granulozyten.
+
+Abb. 9: Kollagenimplantat nach drei Tagen (vWF). Darstellung des Randspaltes mit
+vermehrter Markierung von Zellen (Vergrößerung x 40).
+
+Ergebnisse
+
+41
+
+Die Vergrößerung demonstriert, dass das Zentrum des Implantates nur geringe
+Mengen an Blutzellen und Endothelien enthält (Abb.10).
+
+Abb. 10: Kollagenimplantat nach drei Tagen (vWF). Die Detailaufnahme zeigt nur
+wenige Markierungen im Zentrum des Implantates (Vergrößerung x 400).
+
+Nach sieben Tagen kommt es zur ersten Ausbildung vaskulärer Strukturen und
+Strukturveränderung des Kollagengerüstes in Abhängigkeit von der Lokalisation
+innerhalb des Defektes (Abb.11).
+
+Abb. 11: Kollagenfüllung nach 7 Tagen mit VEGF165 (CD 31). Übersichtsaufnahme
+mit Bereichen unterschiedlicher Kollagenstrukturen (x 100).
+
+Ergebnisse
+
+42
+
+Der Randspalt zeigte bereits deutliche tubuläre Formationen (Abb.12).
+
+Abb. 12: Kollagenfüllung nach 7 Tagen mit VEGF165 (CD 31). Am Übergang zum
+ortsständigen Knochen kann eine ausgeprägte Gefäßneubildung dargestellt werden
+(x 100).
+
+Der Übergang vom ortsständigen Knochen zum
+
+Kollagengerüst ist faserig
+
+verschmolzen und beladen mit kleinen Clustern von Endothelien und Resten
+von Blutzellen (Abb.13).
+
+Abb. 13: Kollagenfüllung nach 7 Tagen mit VEGF165 (CD 31). Umgebaute
+Kollagenstrukturen mit Einlagerung von Blut- und Endothelzellen (x 200).
+
+Ergebnisse
+
+43
+
+Der überwiegende Anteil des Kollagengerüstes weist nach wie vor eine
+retikuläre Struktur auf, wenngleich die einzelnen Verstrebungen deutliche
+Zeichen einer Aufquellung durch die Einlagerung von Blutzellen aufweisen
+(Abb.14).
+
+Abb. 14: Kollagenfüllung nach 7 Tagen mit VEGF165 (CD 31). Verdickte retikuläre
+Grundstruktur des Kollagens mit Einlagerung von Zellen (x 400).
+
+Nach 14 Tagen tritt eine weitere Strukturveränderung des Kollagens und der
+nun deutlich mengenmäßig zunehmenden Ausbildung endothelial gebildeter
+Kapillaren ein. Diese finden sich innerhalb des neu gebildeten Knochens
+(Abb.15A), im direkten Bereich der osteogenen Front (Abb.15B) und im
+Kollagenimplantat (Abb.15C+D).
+
+Ergebnisse
+
+44
+
+→
+→
+→
+A
+
+B
+→
+
+↓2
+
+←3
+
+D ←4
+
+C
+
+←1
+
+Abb. 15 A-D: Kollagenfüllung mit Faktor nach 14 Tagen (CD 31). (A) Sowohl in der
+Knochenneubildungszone als auch in den Trabekeln sind Gefäße erkennbar (→) (x
+100). (B) Die osteogene Front beinhaltet die größte Gefäßdichte mit sehr
+unterschiedlichen Gefäßkalibern (x 100). (C+D) Im Implantat selbst findet sich eine
+Zone, in der alle Stufen der Lumenbildung demonstriert werden können
+(Endothelinseln (←1), Teillumenbildung (↓2), entfaltetes Gefäß (←3)). Reste des
+Kollagens sind nur noch als bläuliche Inseln zu erkennen (←4) (x 400).
+
+Nach
+
+28
+
+Tagen
+
+werden
+
+am
+
+Übergang
+
+zum
+
+ortsständigen
+
+Knochen
+
+Resorptionslakunen sichtbar, die primär durch Gefäße und nachfolgend durch
+neu gebildeten Knochen ausgefüllt werden (Abb.16A). Innerhalb der Trabekel
+sind neben den Kapillaren deutlich auch großlumigere Gefäße mit großem
+Lumen zu erkennen (Abb.16B). Die osteogene Front hat sich weiter in das
+Implantatzentrum verlagert, gekoppelt mit der direkt vorgelagerten angiogenen
+Front (Abb.16C+D). In dieser Randzone zeigt sich die größte angiogene
+Aktivität.
+
+Ergebnisse
+
+45
+
+→
+A
+
+B
+
+C
+
+B
+D
+
+Abb. 16A-D: Kollagenfüllung mit Faktor nach 28 Tagen (vWF). (A) Die
+Resorptionslakune (→) ist durch mehrere Gefäße und bereits neu gebildeten
+Knochen aufgefüllt (x 100). (B) Großlumige Gefäße im trabekulären
+Regenerationsbereich (x 200). (C+D) Verstärkte angiogene Aktivität im Bereich der
+Regenerationsfront (x 200, x 400).
+
+3.3 Quantitative Auswertung Gefäßzahl
+Die quantitative Auswertung unter den Gesichtspunkten Gefäßzahl und
+Gefäßquerschnitt ergab nahezu gleichmäßige und -gerichtete Veränderungen
+für alle Gruppen, mit einheitlich führender Position für die Studiengruppe. Die
+Gefäßzahl stieg, beginnend mit dem 3. postoperativen Tag, bis zum 14. Tag
+an.
+Am 28. Tag zeigte lediglich die Studiengruppe eine gleichbleibend hohe Anzahl,
+während in den beiden Kontrollgruppen ein eindeutiger Rückgang zu bemerken
+war (Abb.17).
+
+Ergebnisse
+
+46
+
+Der Werte für den Gefäßquerschnitt wiesen in allen Gruppen einen
+kontinuierlichen Anstieg bis zum 28. Tag auf, ohne Veränderung der Rangfolge
+der einzelnen Gruppen (Abb.18).
+
+35
+
+Gefäßzahl/Sichtfeld
+
+30
+25
+20
+15
+10
+K2
+
+5
+
+K1
+
+0
+
+S
+
+3
+
+7
+
+14
+
+28
+
+Tag
+
+Abb.17: Veränderung der Gefäßzahl / Gefäßdichte in den einzelnen Gruppen im
+zeitlichen Verlauf.
+
+Ergebnisse
+
+47
+
+Gefäßquerschnitt in %/Sichtfeld
+
+5
+4
+3
+2
+K2
+
+1
+
+K1
+
+0
+
+S
+
+3
+
+7
+
+14
+
+28
+
+Tag
+
+Abb. 18: Veränderung des Gefäßquerschnittes in den einzelnen Gruppen im
+zeitlichen Verlauf.
+
+Die statistische Auswertung ergab nach Anwendung der Rang-Varianzanalyse
+signifikante Unterschiede der Werte für die unterschiedlichen Tage innerhalb
+der einzelnen Gruppen. Die Differenz der Rangmittelwerte wurden unter
+Zuhilfenahme der Chi2F-Verteilung errechnet und einzelne Signifikanzen (p <
+0,05) ermittelt (Abb. 19).
+
+Ergebnisse
+
+48
+
+Gefäßzahl
+
+Tag
+
+3
+7
+14
+28
+
+Gefäßquerschnitt
+
+3
+n=7
+
+7
+n=7
+
+14
+n=7
+
+28
+n=7
+
+n.s.
+*
+*
+
+7,93 18,64 15,43
+10,71 7,2
+3,21
+n.s.
+n.s.
+n.s.
+
+Tag
+
+3
+n=7
+
+7
+n=7
+
+14
+n=7
+
+28
+n=7
+
+3
+7
+14
+28
+
+10,86 12,43 18,15
+1,57 7,29
+n.s.
+5,72
+*
+n.s.
+*
+n.s.
+n.s.
+
+Tag
+
+3
+n=7
+
+7
+n=7
+
+n.s.
+*
+*
+
+4,57 12,57 17,43
+8
+12,86
+4,86
+n.s.
+*
+n.s.
+
+3
+n=7
+
+7
+n=7
+
+n.s.
+n.s.
+*
+
+4,28 11,28 17,28
+7
+13
+6
+n.s.
+*
+n.s.
+
+A: Kontrollgruppe K1 (leer)
+Tag
+
+3
+7
+14
+28
+
+3
+n=7
+
+7
+n=7
+
+14
+n=7
+
+28
+n=7
+
+n.s.
+*
+*
+
+10,5 18,86 12,64
+8,36 2,14
+6,22
+n.s.
+n.s.
+n.s.
+
+3
+7
+14
+28
+
+14
+n=7
+
+28
+n=7
+
+B: Kontrollgruppe K2
+Tag
+
+3
+7
+14
+28
+
+3
+n=7
+
+7
+n=7
+9
+
+n.s.
+*
+*
+
+n.s.
+n.s.
+
+14
+n=7
+
+28
+n=7
+
+16,29 16,71
+7,29 7,71
+0,42
+n.s.
+
+Tag
+
+3
+7
+14
+28
+
+14
+n=7
+
+28
+n=7
+
+C: Studiengruppe S C:
+
+Abb. 19: Statistische Auswertung der Gefäßzahl und des -querschnittes für die
+Kontrollgruppen (K1 und K2) sowie die Studiengruppe S. Im rechten oberen
+Teil sind die Differenzen der Rangmittelwerte dargestellt, links unten deren
+Bewertung (n.s. = nicht signifikant, * = signifikant für p < 0,05).
+
+Diskussion
+
+49
+
+4 Diskussion
+
+In der Mund-, Kiefer- und Gesichtschirurgie hat die Rekonstruktion knöcherner
+Defekte und Defizite durch Knochenneubildung und die Knochenregeneration in
+den letzten Jahren eine zunehmende klinische Bedeutung gewonnen. Der Ersatz
+osseärer Defekte nach Substanzverlust nach Tumoroperationen oder –
+destruktion, nach Traumen, nach Infektionsfolgen oder Fehlbildungen ist
+Grundvoraussetzung für Wiederherstellung eines funktionellen und ästhetisch
+zufriedenstellenden
+
+Ergebnisses.
+
+Die
+
+Anforderungen
+
+an
+
+ein
+
+geeignetes
+
+Ersatzmaterial sind vielfältig: so sollte ein rascher Einbau in das vorhandene
+Skelett und eine physiologische Belastung möglich sein. Hierfür prädestiniert
+sich ein autologes Knochentransplantat, welches aufgrund der begrenzten
+Menge und der mit Entnahme verbundenen Morbidität eine enge Grenze
+gesetzt
+
+ist.
+
+Die
+
+gesuchte
+
+künstliche
+
+Alternative
+
+sollte
+
+daher
+
+eine
+
+knochenähnliche Grundsubstanz aufweisen und möglichst ein Milieu bieten,
+welches
+
+durch
+
+Vorhandensein
+
+entsprechender
+
+Substrate
+
+und
+
+Wachstumsfaktoren eine Vaskulogenese und Osteogenese im Transplantat
+fördert.
+Maßgebliche Voraussetzung für eine regelrechte Knochendefektheilung ist die
+Neovaskularisation durch Gefäßeinsprossung aus dem randständigen Knochen
+[Goad et al. 1996, Kloss und Neukam 1999]. Das Zusammenspiel von
+Osteoblasten
+
+und
+
+Endothelzellen
+
+Gefäßsystem
+
+wie
+
+die
+
+Mikrovaskularisation
+
+Regulation
+
+und
+
+direkte
+
+umfaßt
+der
+
+indirekte
+
+Einflüsse
+
+interstitiellen
+
+Einflüsse
+
+durch
+
+aus
+
+Temperatur
+
+die
+
+Produktion
+
+dem
+durch
+von
+
+Angiogenesefaktoren [Carano 2003 und Olmsted-Davis 2003]. Der Grad der
+Vaskularisation ist für die Qualität des neuen Knochenlagers von entscheidender
+Bedeutung [Ritman 1998].
+
+Diskussion
+
+50
+
+Je nach Patientenkollektiv ist jedoch die lokale Durchblutung häufig insuffizient
+oder sogar nahezu kaum vorhanden. Dies kann durch Bestrahlung, Traumata,
+Osteomyelitis oder knochendestruierende Tumorerkrankungen bedingt sein. Zur
+Wiederherstellung des Blutflusses werden zwei komplementäre Prozesse, die
+Rezirkulation und die Neovaskularisation, benötigt [Leunig et al. 1994]. Diese
+könnten für eine gezielte therapeutische Intervention genutzt werden.
+Der Nachweis, daß bovine Knochenzellen Wachstumsfaktoren synthetisieren
+[Globus et al. 1989) und die Angiogenese induzieren [Arnold und West 1991],
+ist ein Beweis für die Interaktion zwischen der Gefäßversorgung und der
+Osteogenese.
+Durch eine selektive Beeinflussung der Vaskularisation kann die Osteogenese
+gefördert werden kann. Diese gezielte Intervention kann durch eine gerichtete
+Stimulation mit Wachstumsfaktoren aus einem Ersatzmaterial erfolgen [Kübler
+et al. 1998, Ripamonti et al. 1992].
+VEGF165 spielt als angiogenes Protein im Regelkreis der Knochenneubildung eine
+zentrale Rolle, da die Neubildung von Blutgefäßen und die Blutversorgung den
+Dreh- und Angelpunkt für die Knochenneuformation darstellt [Paralkar et al.
+1991].
+Physiologisch ist der Startpunkt der Angiogenese innerhalb der ersten zwei
+Tage nach Wachstumsfaktoraktivierung in jeder Gewebsart [Folkman 1992 und
+Risau 1997]. Die dynamische und optimale Balance zwischen Stimulatoren und
+Inhibitoren für die Angiogenese ist entscheidend [Iruela-Arispe und Dvorak
+1997].
+Durch die Auswahl des VEGF165 als angiogenes Zytokin wird über den
+physiologischen Weg der Angiogenese die Knochenregeneration stimuliert ohne
+direkten
+
+Einfluß
+
+auf
+
+das
+
+Knochenwachstum zu haben [Hollinger und
+
+Kleinschmidt 1990].
+Für den Einsatz von extern zugeführten Faktoren ist die Wahl des richtigen
+Zeitpunktes, die optimale Konzentration und die Berücksichtigung des CarrierFreisetzungsmodus wichtig. Nur durch eine gute Interaktion zwischen Zellen,
+Proteinen, Molekülen, Inhibitoren und Stimulatoren, welche eine Kaskade
+
+Diskussion
+
+51
+
+bilden, kann die Angiogenese begünstigt werden [Klagsburn und D’Amore 1991,
+Risau 1997].
+Lazarous et al.1997 und Leunig et al. 1997 konnten bei systematischer
+Applikation von bFGF keine Beeinflussung, jedoch bei lokaler Applikation eine
+deutliche Beeinflussung der Angiogenese nachweisen. Weiter wiesen sie auf die
+lokale Wirkung und die Notwendigkeit einer kontinuierlichen Freisetzung wegen
+der kurzen Halbwertzeit hin.
+Ein zentraler Punkt ist die Bestimmung einer günstigen Ausgangskonzentration
+vor der Komplexherstellung. Nach der Implantatherstellung, Implantatlagerung
+bis zum Einbringen des Trägermaterials und während der Wirkstofffreisetzung
+muß eine optimale und definierte aktive Konzentration vorliegen [Dash AK und
+Cudworth GC 1998]. Nach Kleinheinz et al. 2000 geht ein Teil des Faktors schon
+bei Lagerung und Transport verloren. Es ist daher besonders wichtig die
+Proteinstabilisierung und damit die Träger-Wirkstoff-Effizienz zu steigern.
+Ziel ist es, eine definierte Wirkstoffkonzentration über einen bestimmten
+Zeitraum in einem bestimmten Regenerationsbereich aufrecht zu erhalten
+(optimales Dosisprofil) [Kleinheinz 2000].
+
+Tiermodell
+Die Auswahl des Tiermodells erfolgte unter Berücksichtigung der in der Literatur
+angegebenen Erfahrungen. Das skelettal ausgereifte Kaninchen gilt sowohl für
+die Simulation einer reproduzierbaren physiologischen Knochenregeneration
+[Eppley et al. 1991, Rabie 1997, Schenk 1994 und Walgenbach et al. 1998) als
+auch für die Untersuchung der Angiogenese [Arras et al. 1998] als ausreichend
+valide.
+Auch der Einsatz von VEGF165 im Kaninchenmodell mit der Suggestion der
+Therapie
+
+vaskulärer
+
+Insuffizienzen
+
+zeugt
+
+für
+
+die
+
+Zulänglichkeit
+
+des
+
+Kaninchenmodells [Takeshita et al. 1996]. Trotz der Unterschiede der Spezies,
+Mensch als Proteinquelle und Kaninchen als Empfänger, konnte die Effektivität
+des Kaninchenmodells gezeigt werden [Arras et al. 1998, Takeshita et al. 1996].
+
+Diskussion
+
+52
+
+Die Vorteile des Kaninchenmodells liegen in den großzügigen Dimensionen, der
+Möglichkeit bikortikaler Defektsetzung, der Übersichtlichkeit, der nahezu
+atraumatischen Operationsmöglichkeit und der Möglichkeit der postoperativen
+physiologischen Belastung und ungestörten Regeneration. Andererseits ist das
+Kaninchenmodell klein genug, so dass man an ihm gleichmäßige stetige
+Evaluationen in großer Anzahl durchführen kann [Hollinger und Kleinschmidt
+1990].
+Eine weitere Forderung von Hollinger und Kleinschmidt 1990 ist das
+Hinzuziehen von Kontrollgruppen in die Studie, bei denen alle Parameter, bis
+auf die zu untersuchenden Wirkstoffe und Materialien, gleich sind mit denen der
+Studiengruppe. Nur so können Vergleiche und signifikante Daten erfaßt und der
+Einfluß des Untersuchungsgutes bestimmt werden. So wurde der Forderung
+nach Kontrollgruppen [Joos et al. 1980] eine abgestufte Rechnung getragen, da
+einerseits ein Vergleich der Studiengruppe mit einem unversorgten und einem
+mit reinem Kollagen versorgten Defekt und andererseits ein Vergleich der
+beiden Kontrollgruppen untereinander möglich war. Dabei mußten das Lager
+und das Ersatz- und Trägermaterial eine ungestörte Regeneration ermöglichen.
+Hollinger und Kleinschmidt 1990 fordern, eine Wunde nach dem Critical size
+defect (CSD), das heißt, eine kleinstmögliche intraossäre Wunde, die nicht
+spontan und in der gesamten Lebenszeit des Individuums nicht komplett
+knöchern
+
+regenerieren
+
+würde,
+
+zu
+
+wählen,
+
+um
+
+die
+
+Vorzüge
+
+von
+
+Knochenersatzmaterialien und Wachstumsfaktoren zu beweisen. Darüber hinaus
+soll eine Wunde nach dem CSD nicht schneller als eine mit einem
+Knochenersatzmaterial versorgte Wunde heilen dürfen. Andererseits diskutiert
+Kleinheinz 2000 zum Critical size defect, dass es eher einschränkend sei, diese
+Defektgröße für alle Tiermodelle zu fordern. Zum einen sei es nicht
+durchführbar, für jedes Knochen- und Versuchsmodell den CSD eindeutig
+definieren
+
+zu
+
+können,
+
+zum
+
+anderen
+
+wäre
+
+es
+
+für
+
+derartige
+
+Studien
+
+(Kontrolluntersuchungen) geradezu entscheidend, einen Defekt zu wählen, der
+mit Sicherheit verknöchert, da nur so der komplette Ablauf einer ungestörten
+Knochenregeneration als Vergleich herangezogen werden könne, um die
+
+Diskussion
+
+53
+
+quantitativen Veränderungen unter dem Einfluß von VEGF165 beurteilen zu
+können [Kleinheinz 2000].
+Wie von Hollinger und Kleinschmidt 1990 für den Kaninchen-Unterkiefer
+verlangt, betrug der CSD in der vorliegenden Studie 5 mm im Durchmesser.
+Ebenfalls ist die Forderung nach standardisierbaren Bedingungen zur Erlangung
+von
+
+möglichst
+
+genauen
+
+und
+
+reproduzierbaren
+
+Ergebnissen,
+
+untrügliche
+
+Kennzeichen wissenschaftlicher Methodik [Hollinger und Kleinschmidt 1990], zu
+stellen. Entzündliche Veränderungen und Störungen der Regeneration sollten in
+tierexperimentellen Studien soweit ausgeschlossen werden. Folglich wurden
+Proben mit Infektionszeichen, Resorptionen und Atrophien nicht weiter
+verwertet und beurteilt.
+
+Trägermaterial
+Bei
+
+der
+
+Auswahl
+
+des
+
+Anwendungsmöglichkeiten
+
+Ersatzmaterials
+und
+
+die
+
+sind
+
+besonders
+
+physikalischen
+
+die
+
+und
+
+klinischen
+chemischen
+
+Eigenschaften des Materials von großer Bedeutung. Als Trägermaterial sind
+unter anderem Granulate, Pulver, Schwämme und Gele erhältlich.
+Kollagen weist durch seine immunologisch nebenwirkungsfreie Resorbierbarkeit
+und Integration in das Regenerat, seine Inkorporationsfähigkeit im Defekt und
+seine ausgezeichnete Formbarkeit wesentliche Vorteile [Hollinger und Leong
+1996].
+Materialien,
+
+bei
+
+deren
+
+Resorption
+
+Spaltprodukte
+
+entstehen,
+
+haben
+
+Auswirkungen auf die Regeneration und sind somit den nebenwirkungsfreien
+Materialien wie Kollagen unterlegen [Horisaka et al. 1994, Joos 1983].
+Typ-1 Kollagen füllt als unlösliche Matrix den Defekt aus, verhindert Einfall von
+Weichgewebe in die Wunde [Ripamonti et al. 1992] und übernimmt dadurch
+auch osteokonduktive Aufgaben [Kloss und Neukam 1999].
+Pulver und Granulate können nach Dislokation in falsche Bereiche, bedingt
+durch mechanische Instabilität, zu falsch-positiven Ergebnissen führen [Kübler
+et al. 1998].
+
+Diskussion
+
+54
+
+Kollagen steht als industriell aus Schweine- oder Rinderhaut hergestelltes
+Ersatzmaterial in steriler und gefriergetrockneter Form in großen Mengen zur
+Verfügung [Joos et al. 1980].
+Auch Hollinger und Leong 1996 und Kübler et al. 1998 haben in
+Vergleichsstudien mit Kollagen als Trägermaterial für das BMP sehr gute
+Ergebnisse erzielt. Darüber hinaus wurde Kollagen in klinischen Studien als
+Trägermaterial
+
+für
+
+Gentamycin
+
+in
+
+der
+
+Osteomyelitistherapie
+
+erfolgreich
+
+eingesetzt [Letsch et al. 1993].
+Das
+
+Typ-1
+
+Kollagen
+
+als
+
+Trägermaterial
+
+für
+
+VEGF165
+
+ermöglicht
+
+eine
+
+Stabilisierung im Defekt, verbunden mit einer längeren Wirkdauer im
+Tierversuch. Diesen Nachweis konnte Kleinheinz 2000 erbringen.
+Die Freisetzung des VEGF läuft über Diffusionsvorgänge, wobei das Kollagen
+von Blut durchsetzt und das VEGF ausgeschwemmt wird. Wichtig ist die
+gleichmäßige Verteilung des Faktors im Carrier. Wenn der Faktor überwiegend
+im Randbereich des Trägers vorhanden ist, ist die Dauer der Freisetzung kurz.
+Aus den tieferen Schichten des Trägermaterials ist die Freisetzungsdauer
+länger.
+
+Die
+
+sich
+
+in
+
+den
+
+Kollagenporen
+
+befindlichen
+
+restlichen
+
+Faktorkonzentrationen werden in einem zweiten Schritt durch Abbau des
+Kollagens freigegeben [Shah et al. 1992].
+Nach dem bisherigen Stand des Wissens und in Anlehnung an die Arbeit von
+Joos et al. 1980 beeinflußt Kollagen die Knochenregeneration in Qualität und
+Quantität positiv und entspricht als Träger für Wachstumsfaktoren der
+Forderung
+
+nach
+
+vernünftiger
+
+wissenschaftlichen Studien.
+
+und
+
+schrittweiser
+
+Weiterentwicklung
+
+von
+
+Diskussion
+
+55
+
+Bestimmung der Wirkstoffkonzentration
+Kleinheinz 2000 stellte fest, das 90 % der Gesamtmenge des VEGF bereits nach
+4-8 Stunden freigegeben werden. Darüber hinaus sei ein weiterer Effekt auf das
+Gewebe nicht vorhanden. Entscheidend ist allerdings der lokale Wirkspiegel des
+Zytokins im Regenerationsbereich. VEGF165 liegt nach 48 Stunden noch in
+hyperphysiologischen Konzentrationen vor. Dies stimuliert eine Zellaktivierung
+[Kleinheinz 2000].
+
+Untersuchungszeitraum
+Aufgrund der kurzzeitigen Aktivierungsphase und der früh einsetzenden
+Angiogenese wurde der Untersuchungszeitraum auf 28 Tage angesetzt. Die
+Wachstumsfaktoren
+
+und
+
+die
+
+Ersatzmaterialien
+
+greifen
+
+am
+
+Anfang
+
+der
+
+Implantation in die Regeneration ein und haben ihren Wirkungshöhepunkt in
+der Mitte des Regenerationsablaufs [Kübler et al. 1998]. Zu späteren
+Zeitpunkten, in denen die Wachstumsfaktoren und das Ersatzmaterial nicht
+mehr wirksam sind, holt die Regeneration im unversorgten Defekt auf und die
+Unterschiede werden kleiner [Feifel et al. 1995]. Lazarous et al. 1996 haben die
+Wirkung von VEGF und bFGF auf die Koronargefäßentwicklung ebenfalls über
+einen Zeitpunkt von 4 Wochen erfolgreich verglichen.
+
+Vergleich Kollagenprobe mit der Leerprobe
+Vorteile des Kollagens gegenüber der Leerprobe konnten in dieser Studie nicht
+gezeigt werden. Im Gegensatz zu den Leerproben, wo sich bei einem relativ
+kleinen Bohrdefekt von 5 mm Durchmesser sehr früh ein randdichtes und
+stabiles Blutkoagel organisierte, fehlte dieses bei den Kollagenproben durch die
+Spalt-
+
+und
+
+Hohlraumbildung
+
+zum
+
+ortsständigen
+
+Knochen.
+
+Bei
+
+den
+
+Kollagenproben verzögerte sich die angio- und osteoinduktive Wirkung der im
+Koagel befindlichen Zytokine. Wesentliche Vorteile des Kollagens gegenüber der
+Leerprobe werden nur Defekten zugeschrieben, in denen aufgrund der Größe
+
+Diskussion
+
+56
+
+und Ausdehnung eine stabilisierende Wirkung des Kollagens auf das Koagel
+erwartet wird. Der Osteokonduktion kommt jedoch eine entscheidende Rolle bei
+der Osteogenese zu [Farmand 1988, Joos 1983].
+
+4.1 Immunhistologie
+Die spezifischen Antikörper CD 31 und von Willebrand Faktor erlaubten eine
+differenzierte Beurteilung von Lokalisation, Ausdehnung, zeitlichem Verlauf und
+Struktur der Gefäßneubildung durch Darstellung der Endothelien. Gezielt an den
+Übergangsbereichen (ortsständigen Knochen – regenerierter Knochen –
+Kollagenimplantat)
+
+konnte
+
+das
+
+Verteilungsmuster
+
+der
+
+Gefäße
+
+mit
+
+der
+
+Knochenneubildungsfront verglichen werden. Mit der Immunhistolgie konnten
+alle Zwischenstufen der Angiogenese dargestellt werden. Ab dem dritten Tag
+kamen Gefäßlumina zur Darstellung.
+In der Quantifizierung der Gefäßzahl zeigte sich in allen 3 Gruppen ein
+permanenter Anstieg der Gefäßdichte bis zum 14. Tag.
+Im Gegensatz zu der Studiengruppe mit dem Wachstumsfaktor VEGF165, wo die
+Gefäßzahl stetig war, kam es ausschließlich in den Kontrollgruppen ab dem 14.
+Tag zu einer Regression der Gefäßzahl. Dies läßt auf eine länger andauernde
+Aktivierungsphase verbunden mit einem ausgeprägteren Gefäßnetz schliessen.
+Die Gefäßquerschnittsfläche in der Kontrollgruppe ohne Wachstumsfaktor zeigte
+keinen Rückgang, was in Kombination mit der abnehmenden Gefäßdichte als
+physiologischer Reifungsprozess mit zunehmender Lumenvergrößerung des
+Einzelgefäßes des zunächst unreifen Gefäßplexus angesehen wird [Augustin et
+al. 1995, Drake und Little 1995, Yancoupoulus et al.2000]. In der
+Studiengruppe war keine derartige Veränderung nachweisbar.
+
+Diskussion
+
+57
+
+4.1.1 Zukunft
+Durch den gezielten Einsatz von Wachtumsfaktoren sollte die Unterstützung
+der natürlichen Mechanismen der Osteogenese in großen Defekten induziert
+werden, in denen alleine eine solide Reossifikation nicht erreicht wird.
+Knochenersatzmaterialien können dabei alleinig durch ihre osteokonduktive
+Wirkung zu keiner Konsolodierung führen [Kübler et al. 1998]. Durch Zugabe
+von osteoinduktiv wirksamen Proteinen kann eine dichtere und größere
+Konsolidierung der Defekte erreicht werden [Kübler et al. 1998, Kloss und
+Neukam 1999, Ripamonti et al. 1992]. Bezogen auf die Knochenregeneration
+kann gesagt werden, daß VEGF165 durch die lokale Freisetzung zu einer
+Steigerung der Gefäßzahl und zur Verstärkung der Osteogenese führt und somit
+zur Knochenregeneration deutlich beiträgt. Um eine Aussage über die
+Wirksamkeit des VEGF165 in pathologisch veränderten Defekten treffen zu
+können, müßten weitere Untersuchungen durchgeführt werden. Man könnte
+sich auch einen gezielten Einsatz von VEGF165 in einem mit Hilfe des TissueEngineerings hergestellten Trägers vorstellen, wodurch die Einheilunsphase
+verkürzt und die Knochenqualität gesteigert werden könnte.
+
+Zusammenfassung
+
+58
+
+5 Zusammenfassung
+Zufriedenstellende Knochenersatzmaterialien sind trotz steigenden Bedarfes
+immer noch nicht entwickelt worden. Als primärer Motor einer suffizienten
+Osteogenese gilt eine ausreichende Vaskularisation. In der vorliegenden Studie
+wurde die Angiogenese und die Osteogenese unter dem Einfluss des
+angiogenen Wachtumsfaktors VEGF165 (Vaskular Endothelial Growth Factor 165)
+in Typ-1 Kollagen als Trägermaterial in einem Unterkieferdefektmodell am
+Kaninchen untersucht. Es lagen zwei Kontrollgruppen, K1 mit reinem Typ-1
+Kollagen als Defektfüllung und K2 als Leerprobe ohne Einlage in den Defekt
+zum Vergleich vor.
+Der Ablauf des Tierexperiments wurde unter Einhaltung der Anforderungen
+durch
+
+das
+
+Tierschutzgesetz
+
+und
+
+mit
+
+einer
+
+Genehmigung
+
+durch
+
+das
+
+Regierungspräsidium Münster vom 12. Januar 1998 (Az. 23.0835.1.0 (G 46 /
+97)) durchgeführt.
+Es wurden Proben von 56 weißen New Zealand Kaninchen mit vier bikortikal
+angelegten Bohrlöcher im Unterkiefer untersucht. Für die zwei Kontrollgruppen
+wurden zwei Bohrungen ohne Einlage belassen (K1) und zwei mit reinem Typ-1
+Kollagen ausgefüllt (K2). In der Studiengruppe wurden alle vier Defekte mit
+Typ-1
+
+Kollagen
+
+komplexierten
+
+mit
+
+einer
+
+in
+
+der
+
+Konzentration
+
+und
+
+Freisetzungskinetik angepassten Ausgangsmenge von 0,8µg VEGF165 versorgt.
+Nach 3,7,14 und 28 Tagen wurden die Tiere geopfert, Proben aus dem
+Defektbereich entnommen und immunhistologisch bezüglich der Parameter
+Lokalisation, Ausdehnung, zeitlicher Verlauf, Struktur der Gefäßneubildung und
+Gefäßzahl und Gefäßquerschnittsfläche evaluiert.
+In
+
+der
+
+immunhistologischen
+
+Übergansbereichen
+Kollagenimplantat)
+
+Untersuchung
+
+(ortsständiger
+das
+
+Knochen
+
+Verteilungsmuster
+
+wurden
+–
+
+speziell
+
+regenerierter
+der
+
+Gefäße
+
+an
+
+den
+
+Knochen
+mit
+
+–
+der
+
+Knochenneubildungsfront verglichen. Die osteogene Wachstumszone hatte sich
+
+Zusammenfassung
+
+59
+
+direkt hinter der angiogenen Front mit der größten angiogenen Aktivität in das
+Implantatzentrum vorgeschoben. In der quantitativen Auswertung zeigten sich
+nahezu gleichmäßige und gleichgerichtete Veränderungen für alle Gruppen mit
+führender Position für die Studiengruppe.
+Die Gefäßdichte stieg bei allen Gruppen ab dem 3. postoperativen Tag bis zum
+14. Tag. Am 28. Tag konnte gleich große Gefäßdichte in der Studiengruppe
+nachgewiesen werden. In den beiden Kontrollgruppen kam es zu einem
+signifikanten Abfall der Gefäßdichte.
+In der Untersuchung bezüglich des Gefäßquerschnittes konnten dagegen keine
+signifikanten Unterschiede festgestellt werden.
+Die Ergebnisse der vorliegenden Untersuchung lassen den Schluss zu, dass die
+Einbringung und lokale Freisetzung von VEGF
+
+165
+
+die Angiogenese im
+
+Defektbereich steigert und verlängert. Es zeigten sich bereits innerhalb des
+Beobachtungszeitraums
+
+Hinweise
+
+auf
+
+eine
+
+bessere
+
+Osteogenese
+
+bei
+
+Vorhandensein von VEGF. Damit ist die supportive Wirkung von VEGF im
+Komplex mit Kollagen für die Osteogenese im vorliegenden in-vivo Experiment
+nachgewiesen.
+
+Literaturverzeichnis
+
+60
+
+6 Literaturverzeichnis
+
+1.
+
+Adams RH, Wilkinson GA, Weiss C, Diella F, Gale NW, Deutsch U, Risau W,
+Klein R (1999)
+Roles
+
+of
+
+ephrinB
+
+development:
+
+ligands
+
+demarcation
+
+and
+
+EphB
+
+receptors
+
+of
+
+arterial/venous
+
+in
+
+cardiovascular
+
+domains,
+
+vascular
+
+morphogenesis, and sprouting angiogenesis. Genes Dev 13:295-306
+2.
+
+Agrawal CM, Best J, Heckmann JD, Boyan BD (1995)
+Protein release kinetics of a biodegradable implant for fracture nonunions. Biomaterials 16: 1255-1260
+
+3.
+
+Albelda S, Muller W, Buck C, Newman P (1991)
+Molecular and cellular properties of PECAM-1 (endoCAM/CD31): a novel
+vascular cell-cell adhesion molecule. J Cell Biol 114: 1059-1068
+
+4.
+
+Ali J, Liao F, Martens E, Muller WA (1997)
+Vascular
+
+endothelial
+
+cadherin
+
+(VE-cadherin):
+
+cloning
+
+and
+
+role
+
+endothelial cell-cell adhesion. Microcirculation 4: 267-277
+5.
+
+Amler MH (1999)
+Disturbed healing of extraction wounds. J Oral Implantol 25: 179-184
+
+6.
+
+Arnold F, West DC (1991)
+Angiogenesis in wound healing. Pharmacol Ther 52: 407-422
+
+in
+
+Literaturverzeichnis
+
+7.
+
+61
+
+Arras M, Ito WD, Scholz D, Winkler B, Schaper J, Schaper W (1998)
+Monocyte activation in angiogenesis and collateral growth in the rabbit
+hindlimb. J Clin Invest 101: 40-50
+
+8.
+
+Arzt T, Maschtowski J, Wimmer F, Schmidt K (1996)
+Sinuselevation
+
+durch
+
+Osteogenese
+
+mittels
+
+eines
+
+osteoinduktiven
+
+Proteinkomplexes. Z Zahnärztl Implant 12: 3-10
+9.
+
+Asahara T, Masuda H, Takahashi T, Kalka C, Pastore C, Silver M, Kearne
+M, Magner M, Isner JM (1999a)
+Bone marrow origin of endothelial progenitor cells responsible for
+postnatal
+
+vasculogenesis
+
+in
+
+physiological
+
+and
+
+pathological
+
+neovascularisation. Circ Res 85: 221-228
+10. Asahara T, Takahashi T, Masuda H, Kalka C, Chen D, Iwaguro H, Inai Y,
+Silver M, Isner JM (1999b)
+VEGF contributes to postnatal neovascularisation by mobilizing bone
+marrow-derived endothelial progenitor cells. EMBO J 18: 3964-3972
+11. Aubin J, Liu F, Malaval L, Gupta AK (1995)
+Osteoblast and chondroblast differentiation. Bone 17: 77S-83S
+12. Augustin H, Braun K, Telemenakis I, Modlich U, Kuhn W (1995)
+Phenotypic characterization of endothelial cells in a physiological model of
+blood vessel growth and regression. Am J Pathol 147: 339-351
+13. Bach T,
+
+Barsigian C,
+
+Chalupowicz D,
+
+Busler D,
+
+Yaen C,
+
+Grant
+
+D,Martinez J(1998)
+VE-cadherin mediates endothelial cell capillary tube formation in fibrin and
+collagen gels. Exp Cell Res 238: 324-334
+
+Literaturverzeichnis
+
+62
+
+14. Baldwin H, Shen H, Yan H, DeLisser H, Chung A, Mickanin C, Trask T,
+Kirschbaum N, Newman P, Albelda S (1994)
+Platelet endothelial cell adhesion molecule-1 (PECAM-1/CD31): lternatively
+spliced, functionally distinct isoforms expressed during mammalian
+cardiovascular development. Development 120: 2539-2553
+15. Bartkowski SB, Heczko PB, Lisiewicz J, Dorozynki J, Kurek M, Kusiderski J,
+Kasprzyk J (1994)
+Combined treatment with antibiotic, heparin and streptokinase- a new
+approach to the therapy of bacterial osteomyelitis. J Craniomaxillofac Surg
+22: 167-176
+16. Basle MF, Lesourd M, Grizon F, Pascaretti C, Chappard D (1998)
+Typ-I-Kollagen im xenogenen Knochenmaterial reguliert Anbindung und
+Verbreitung von Osteoblasten über die beta 1-Integrin-Untereinheit.
+Orthopade 27: 136-142
+17. Bastaki M, Nelli EE, Dell’Era P, Rustani M, Molinari-Tosatti MP, Parolini S,
+Auerbach R, Ruco LP, Possati L, Presta M (1997)
+Basic fibroblast growth factor-induced angiogenic phenotype in mouse
+endothelium. A study of aortic and microvascular endothelial cell lines.
+Arterioscler Thromb Vasc Biol 17: 454-464
+18. Bikfalvi A, Han ZC (1994)
+Angiogenic factors are hematopoietic growth factors and vice versa.
+Leukemia 8: 523-529
+19. Bobrow M, Shaughnessy K, Litt G (1991)
+Catalyzed reporter deposition, a novel method of signal amplification. II.
+Application to membrane immunoassays. J Immunol Methods 137: 103112
+
+Literaturverzeichnis
+
+63
+
+20. Bolander ME, Balian G (1986)
+The use of demineralized bone matrix in the repair of segmental defects.
+Augmentation with extracted matrix proteins and a comparison with
+autologous grafts. J Bone Joint Surg Am 68: 1264-1274
+21. Boyne P (1995)
+Reconstruction of discontinuity defects in rhesus monkeys using rhBMP-2.
+J Oral Maxillofac Surg 53: 92-97
+22. Breier G, Risau W (1996)
+The role of vascular endothelial growth factor in blood vessel formation.
+Trends Cell Biol 6: 454-456
+23. Breier G, Damert A, Plate KH, Risau W (1997)
+Angiogenesis in embryos and ischemic diseases. Thromb Haemost 78:
+678-683
+24. Breier G (2000)
+Functions of the VEGF/VEGF receptor system in the vascular system.
+Semin Thromb Hemost 26: 553-559
+25. Brighton CT, Lorich DG, Kupcha R, Reilly TM, Jones AR, Woodbury RA
+(1992)
+The pericyte as a possible osteoblast progenitor cell. Clin Orthop 275: 287299
+26. Brighton C, Hunt R (1991)
+Early histological and ultrastructural changes in medullary fracture callus. J
+Bone Joint Surg 73: 832-847
+
+Literaturverzeichnis
+
+64
+
+27. Brockmann J (2003)
+Die Beeinflussung der Knochenregeneration durch Vascular endothelial
+growth
+
+factor
+
+–
+
+Korrelation
+
+von
+
+Histomorphometrie
+
+und
+
+Radiomorphometrie. Dissertationsschrift; Klinik und Poliklinik für Mundund Kiefer- Gesichtschirurgie der Westfälischen Wilhelms-Universität
+Münster
+28. Brooks P, Clark R, Cheresh D (1994)
+Requirement of vascular integrin alpha v beta 3 for angiogenesis. Science
+264: 569-571
+29. Brown LF, Berse B, Tognazzi K, Manseau EJ, Van de Water L, Senger DR,
+Dvorak HF, Rosen S (1992)
+Vascular permeability factor mRNA and protein expression in human
+kidney. Kidney Int 42: 1457-1461
+30. Buckwalter J, Glimcher M, Cooper R, Recker R (1995a)
+Bone biology. Part I: structure, blood supply, cells, matrix, and
+mineralization. J Bone Joint Surg 77: 1256-1275
+31. Buckwalter J, Glimcher M, Cooper R, Recker R (1995b)
+Bone biology. Part II: formation, modeling, remodeling, and regulation of
+cell function. J Bone Joint Surg 77: 1276-1289
+32. Burchardt H (1987)
+Biology of bone transplantation. Orthop Clin North Am 18: 187-196
+33. Carano R.A. and Filvaroff E.H. (2003)
+Angiogenesis and bone repair,Drug Discov Today 8 : 980.
+
+Literaturverzeichnis
+
+65
+
+34. Carmeliet P, Ferreira V, Breier G, Pollefeyt S, Kieckens L, Gertsenstein
+M,
+
+Fahrig M,
+
+Vandenhoeck A,
+
+Harpal K,
+
+Eberhardt C,
+
+Declercq C,
+
+Pawling J, Moons L, Colen D, Risau W, Nagy A (1996)
+Abnormal blood vessel development and lethality in embryos lacking a
+single VEGF allele. Nature 380: 435-439
+35. Carmeliet P, Jain RK (2000)
+Angiogenesis in cancer and other diseases. Nature 407: 249-257
+36. Chang Y, Munn L, Hillsley M, Dull R, Yuan J, Lakshminarayanan S,
+Gardner T, Jain R, Tarbell J (2000)
+Effect of vascular endothelial growth factor on cultured endothelial cell
+monolayer transport properties. Microvas Res 59: 265-277
+37. Clauss M, Weich H, Breier G, Knies U, Röckl W, Waltenberger J, Risau
+W (1996)
+The vascular endothelial growth factor receptor flt-1 mediates biological
+activities. J Biol Chem 271: 17629-17634
+38. Collin-Osdoby P (1994)
+Role of vascular endothelial cells in bone biology. J Cell Biochem 55: 304309
+39. Collins D, Woods A, Herd R, Blake G, Fogelman I, Wheeler M,
+Swaminathan R (1998)
+Insulin-like growth factor-I and bone mineral density. Bone 23: 13-16
+
+40. Costantino PD, Friedmann CD, Jones K, Chow LC, Pelzer HJ, Sisson GA
+(1991)
+Hydroxyapatite cement. I. Basic chemistry and histologic properties.
+
+Literaturverzeichnis
+
+66
+
+Arch Otolaryngol Head Neck Surg 117: 379-384
+41. Dash AK, Cudworth GC (1998)
+Therapeutic
+
+applications
+
+of
+
+implantable drug
+
+delivery
+
+systems.
+
+J
+
+Pharmacol Toxicol Methods 40: 1-12
+42. Decker B, Bartels H, Decker S (1995)
+Relationships between endothelial cells, pericytes, and osteoblasts during
+bone
+
+formation
+
+in
+
+the
+
+sheep
+
+femur
+
+following
+
+implantation
+
+of
+
+tricalciumphosphate-ceramic. Anat Rec 242: 310-320
+43. DiCorleto P, Cimbrone M (1996)
+Vascular endothelium. In: Foster V, Ross R, Topol E (eds) Athersclerosis
+and coronary artery disease; Lippincott-Raven; Philadelphia 1996: 387-397
+44. Drake CJ, Little CD (1995)
+Exogenous vascular endothelial growth factor induces mailformed and
+hyperfused vessels during embryonic neovascularisation. Proc Natl Acad
+Sci U S A 92: 7657-7661
+45. Eppley BL, Connolly DT, Winkelmann T, Sadove AM, Heuvelmann D, Feder
+J (1991)
+Fee bone graft reconstruction of irradiated facial tissue: experimental
+effects of basic fibroblast growth factor stimulation. Plast Reconstr Surg
+88: 1-11
+46. Eymer H, Preusse F (1999)
+Platelet-rich plasma: erste klinische Beobachtungen mit autologen
+Wachstumsfaktoren zur Verbesserung augmentativer Verfahren mit
+autologem, xenogenem sowie synthetischem Knochenersatzmaterial.
+Implantologie 4: 399-406
+
+Literaturverzeichnis
+
+67
+
+47. Farmand M (1988)
+Experimentelle Ergebnisse zur spontanen Unterkieferregeneration beim
+wachsenden Organismus. Kiefer Gesichtschirurgie 1: 53-56
+48. Farnebo F, Piehl F, Lagercrantz J (1999)
+Restricted expression pattern of vegf-d in the adult and fetal mouse: high
+expression in the embryonic lung. Biochem Biophys Res Commun 257:
+891-894
+49. Feifel H, Gerner A, Schmidt K-H, Wimmer F, Schmitz H-J (1995)
+Die
+
+Beeinflussung
+
+der
+
+Knochenregeneration
+
+in
+
+phykogener
+
+Hydroxylapatitkeramik durch einen osteoinduktiven Proteinkomplex. Dtsch
+Z Mund Kiefer Gesichtschir 19: 25-27
+50. Ferrara N, Carver-Moore K, Chen H, Dowd M, Lu L, O’Shea KS, PowellBraxton L, Hillan KJ, Moore MW (1996)
+Heterozygous embryonic lethality induced by targeted inactivation of the
+VEGF gene. Nature 380: 439-442
+51. Fiorelli G, Orlando C, Benvenuti S, Franceschelli F, Bianchi S, Pioli P, Tanini
+A, Serio M, Bartucci F, Brandi ML (1994)
+Characterization, regulation, and function of specific cell membrane
+receptors for insulin-like growth factor I on bone endothelial cells. J Bone
+Miner Res 9: 329-337
+52. Flamme I, Breier G, Risau W (1995)
+Vascular endothelial growth factor (VEGF) and VEGF receptor 2 (flk-1) are
+expressed during vasculogenesis and vascular differentiation in the quail
+embryo. Dev Biol 169: 699-712
+
+Literaturverzeichnis
+
+68
+
+53. Foitzik C, Stamm M (1997)
+Einsatz von phasenreinem β-Tricalciumphosphat zur Auffüllung von
+ossären Defekten biologische Materialvorteile und klinische Erfahrungen.
+Quintessenz 48: 1365-1377
+54. Folkman J, und Klagsbrunn M (1987)
+Vascular physiology. A family of angiogenic paptides.
+Nature. 1987 Oct 22 – 28;329(6141): 671 – 2.
+55. Folkman J. and Shing Y. (1992)
+Angiogenesis, J Biol Chem :10931.
+56. Fong G, Rossant J, Gerstenstein M, Breitman M (1995)
+Role of the FLT-1 receptor tyrosine kinase in regulating the assembly of
+vascular endothelium. Nature 376: 66-70
+57. Garlanda C, Dejana E (1997)
+Heterogenity of endothelial cells. Arterioscler Thromb Vasc Biol 17: 11931202
+58. Gerber H, Vu T, Ryan A, Kowalski J, Werb Z, Ferrara N (1999)
+VEGF
+
+couples
+
+hypertrophic
+
+cartilage
+
+remodeling,
+
+ossification
+
+and
+
+angiogenesis during endochondral bone formation. Nature Medicine 5:
+623-628
+
+59. Globus RK, Poulet J, Gospodarowicz D (1989)
+Cultured bovine bone cells synthesize basic fibroblast growth factor and
+store it in their extracellular matrix. Endocrinology 124: 1539-1547
+
+Literaturverzeichnis
+
+69
+
+60. Goad DL, Rubin J, Wang H, Tashjian AH, Patterson C (1996):
+Enhanced expression of vascular endothelial growth factor in human
+SaOS-2 osteoblast –like cells and murine osteoblasts induced by insulinlike growth factor I. Endocrinology 137:2262-2268
+61. Goerdt S, Walsh L, Murphy G, Pober J (1991)
+Identification of a novel high molecular weight protein preferentially
+expressed by sinusoidal endothelial cells in normal human tissues. J Cell
+Biol 113: 1425-1437
+62. Greenspan D (1999)
+Bioactive glass: mechanisms of bone bonding. J Swed Dent Ass 8: 31-35
+63. Gross PM, Heistad DD, Marcus ML (1979)
+Neurohumoral regulation of blood flow to bones and marrow. Am J Physiol
+237: H440-H448
+64. Günther K, Scharf H, Pesch H, Puhl W (1996)
+Osteointegration
+
+lösungsmittel-konservierter
+
+Knochenimplantate
+
+im
+
+Tiermodell. Osteologie 5: 4-12
+65. Hanke H, Kamenz J, Hanke S, Spiess J, Lenz C, Brehme U, Bruck B,
+Finking G, Hombach V (1999)
+Effect of 17-beta estradiol on pre-existing atherosclerotic lesions: role of
+the endothelium. Atherosclerosis 147: 123-132
+66. Harada S, Nagy JA, Sullivan KA, Thomas KA, Endo N, Rodan GA, Rodan SB
+(1994)
+Induction
+
+of
+
+vascular
+
+endothelial
+
+growth
+
+factor
+
+expression
+
+prostaglandin E2 and E1 in osteoblasts. J Clin Invest 93: 2490-2496
+
+by
+
+Literaturverzeichnis
+
+70
+
+67. Harper J, Klagsbrun M (1999)
+Cartilage to bone - angiogenesis leads the way. Nature Medicine 5: 617618
+68. Hauschka P, Mavrakos A, Iafrati M, Doleman S, Klagsbrun M (1986)
+Growth factors in bone matrix. J Biol Chem 261: 12665-12674
+69. Hayes AJ, Huang WQ, Mallah J, Yang D, Lippman ME, Li LY (1999)
+Angiopoietin-1 and its receptor Tie-2 participate in the regulation of
+capillary-like tubule formation and survival of endothelial cells. Microvasc
+Res 58: 224-237
+70. Heits F, Wiedemann G, Jelkmann W (1998)
+Der
+
+vaskuläre
+
+endotheliale
+
+Wachstumsfaktor
+
+VEGF
+
+stimuliert
+
+die
+
+Angiogenese im Guten wie im Bösen. Dtsch Med Wschr: 259-265
+71. Hemprich A, Lehmann R, Khoury F, Schulte A, Hidding J (1989)
+Filling cysts with type 1 bone collagen. Dtsch Zahnarztl Z 44: 590-592
+72. Herr G, Wahl D, Küsswetter W (1993)
+Osteogenic activity of bone morphogenetic protein and hydroxyapatite
+composites implants. Ann Chir Gyn 82: 99-108
+73. Hiratsuka S, Minowa O, Kuno J, Noda T, Shibuya M (1998)
+Flt-1 lacking the tyrosine kinase domain is sufficient for normal
+development and angiogenesis in mice. Proc Natl Acad Sci U S A 95:
+9349-9354
+74. Hollinger JO, Kleinschmidt JC (1990)
+The critical size defect as an experimental model to test bone repair
+materials. J CraniofacSurg 1: 60-68
+
+Literaturverzeichnis
+
+71
+
+75. Hollinger J, Leong K (1996)
+Poly(a-hydroxy
+
+acids):
+
+carriers
+
+for
+
+bone
+
+morphogenetic
+
+proteins.
+
+Biomaterials 17: 187-194
+76. Hollinger JO, Wong ME (1996)
+The integrated processes of hard tissue regeneration with special
+emphasis on fracture healing. Oral Surg Oral Med Oral Pathol Oral Radiol
+Endod 82: 594-606
+77. Horak E, Leek R, Klenk N, Lejeune S, Smith K, Stuart N, Greenall M,
+Stepniewska K, Harris A (1992)
+Angiogenesis, assessed by platelet/endothelial cell adhesion molecule
+antibodies, as indicator of node metastases and survival in breast cancer.
+Lancet 340: 1120-1124
+78. Horch H, Steegmann B (1985)
+Experience with resorbable TCP-ceramic granules for the filling of large
+bone defects after cystectomy in the jaw. Dtsch Zahnarztl Z 40: 672-677
+79. Horisaka Y, OkamotoY, Matsumoto N, Yoshimura Y, Hirano A, Nishida M,
+Kawada J, Yamashita K, Takagi T (1994)
+Histological changes of implanted collagen material during bone induction.
+J Biomed MaterRes 28: 97-103
+80. Hutmacher D, Kirsch A, Ackermann K, Hürzeler M (1998)
+Matrix and carrier materials for bone growth factors: state of the art and
+future perspectives. Berlin Heidelberg, Springer
+81. Iruela-Arispe ML, Dvorak HF (1997)
+Angiogenesis: a dynamic balance of stimulators and inhibitors. Thromb
+Haemost 78: 672-677
+
+Literaturverzeichnis
+
+72
+
+82. James N, Harrison D, Nerem R (1995)
+Effects of shear on endothelial cell calcium in the presence and absence of
+ATP. FASEB J 9: 968-973
+83. Joos U, Ochs G, Ries P (1980)
+Influence of Collagenfleece on bone regeneration. Biomaterials 1: 23-26
+84. Joos U (1983)
+Die Beschleunigung der Knochenregeneration in chirurgisch bedingten
+Defekten am Kiefer durch Kollagen. Habilitationsschrift; Albert-LudwigsUniversität Freiburg
+85. Kamegai A, Shimamura N, Naitou K, Nagahara K, Kanematsu N, Mori M
+(1994)
+Bone formation under the influence of bone morphogenetic protein/self
+setting apatite cementcomposite as a delivery system. Biomed Mater Eng
+4: 291-307
+86. Kasper C, Ewers R, Simons B (1988)
+Knochenersatzmaterial aus Algen. Dtsch Zahnärztl Z 43: 116-119
+87. Klagsbrun M, D'Amore P (1991)
+Regulators of angiogenesis. Annu Rev Physiol 53: 217-239
+88. Klagsbrun M, D’Amore PA (1996)
+Vascular endothelial growth factor and its receptors. Cytokine Growth
+Factor Rev 7: 259-270
+
+Literaturverzeichnis
+
+73
+
+89. Kleinheinz J, Rottke S, Blasius C, Wiesmann H, Joos U (1997)
+Immunohistochemical investigation of the microcirculation of mandibular
+osteomyelitis using endothelial-specific antibodies. Int J Oral Maxillofac
+Surg 26: 245
+90. Kleinheinz J (2000)
+Die Beeinflussung der Angiogenese durch Vascular endothelial growth
+factor im Verlauf der Knochenregeneration des Unterkiefers.
+Habilitationsschrift;
+
+Klinik
+
+und
+
+Poliklinik
+
+für
+
+Mund-
+
+und
+
+Kiefer-
+
+Gesichtschirurgie der Westfälischen Wilhelms-Universität Münster
+91. Kloss FR, Neukam FW (1999)
+Rekonstruktive Knochenchirurgie. Methoden der letzten 15 Jahre. Z
+Zahnärztl Implantol 15: 33-43
+92. Kusumoto K, Bessho K, Fujimura K, Ogawa Y, Iizuka T (1997)
+Intramuscular osteoinduction and bone marrow formation by the
+implantation of rhBMP-2 with atelopeptide type I collagen. Br J Oral
+Maxillofac Surg 35: 433-437
+93. Kübler NR, Reuther J, Kirchner T, Priessnitz B, Sebald W (1993)
+Osteoinductive, morphologic, and biomechanical propertiesof autolyzed,
+antigen-extracted, allogenic human bone. J Oral Maxillofac Surg 51: 13461357
+94. Kübler NR (1997)
+Osteoinduktion und –reparation. Mund Kiefer Gesichtschir 1: 2-25
+95. Kübler NR (1998)
+Knochenregeneration durch Osteoinduktion. Dtsch Zahnärztl Z 1998 Heft
+12
+
+Literaturverzeichnis
+
+74
+
+96. Kübler NR, Würzler KK, Biebl S, Käding C, Faller G, Sieber E, Kirchner T,
+Sebald W, Lagercrantz J, Farnebo F, Larsson C, Tvrdik T, Weber G, Piehl F
+(1998)
+A comparative study of the expression patterns for VEGF, VEGF-B/VRF and
+VEGF-C in the developing and adult mouse. Biochem Biophys Acta 1398:
+157-163
+97. Lazarous DF, Shou M, Scheinowitz M, Hodge E, Thirumurti V, Kitsiou AN,
+Stiber JA, Lobo AD, Hunsberger S, Guetta E, Epstein SE, Unger EF (1996)
+Comparative effects of basic fibroblast growth factor and vascular
+endothelial growth factor on coronary collateral development and the
+arteial response to injury. Circulation 94: 1074-1082
+98. Lagercrantz J, Farnebo F, Larrson C, Tvrdik T, Weber G, Piehl F (1998)
+A comparative study of the expression patterns for VEGF, VEGF-B/VRF and
+VEGF-C in the developing and adult mouse. Biochem Biophys Acta 1398:
+157-163
+99. Lazarous DF, Shou M, Stiber JA, Dadhania DM, Thirumurti V, Hodge E,
+Unger EF (1997)
+Pharmacodynamics
+administration
+
+of
+
+basic
+
+determines
+
+fibroblast
+
+myocardial
+
+growth
+and
+
+factor:
+
+systemic
+
+route
+
+of
+
+distribution.
+
+Cardiovasc Res 36: 78-85
+100. Lazarous DF, Shou M, Stiber JA, Hodge E, Thirumurti V, Goncalves L,
+Unger EF (1999)
+Adenoviral-mediated gene transfer induces sustained pericardial VEGF
+expression in dogs: effect on myocardial angiogenesis. Cardiovasc Res 44:
+294-302
+
+Literaturverzeichnis
+
+75
+
+101. Lemperle S, Calhoun C, Curran R, Holmes R (1998)
+Bony healing of large cranial and mandibular defects protected from soft
+tissue
+
+interposition:
+
+a
+
+comparative
+
+study
+
+of
+
+spontaneous
+
+bone
+
+regeneration, osteoconduction, and cancellous autografting in dogs. Plast
+Reconstr Surg 101: 660-672
+102. Letsch R, Rosenthal E, Joka T (1993)
+Lokale
+
+Antibiotika-Applikation
+
+in
+
+der
+
+Osteomyelitisbehandlung--Eine
+
+Vergleichsstudie mit zwei verschiedenen Trägersubstanzen. Aktuelle
+Traumatol 23: 324-329
+103. Leung DW, Cachianes G, Kuang WJ, Goeddel DV, Ferrara N (1989)
+ascular endothelial growth factor is a secreted angiogenic mitogen.
+Science 246: 1306-1309
+104. Leunig M, Yuan F, Berk DA, Gerweck LE, Jain RK (1994)
+Angiogenesis and growth of isografted bone: quantitative in vivo assay in
+nude mice. Lab Invest 71: 300-307
+105. Leunig M, Yuan F, Gerweck LE, Jain RK (1997)
+Effect of basic fibroblast growth factor on angiogenesis and growth of
+isografted bone: quantitative in vitro-in vivo analysis in mice. Int J
+Microcirc Clin Exp 17: 1-9
+106. Litwin M, Gamble J, Vadas M (1995)
+Role of cytokines in endothelial cell functions, Human cytokines: their role
+in disease and therapy. Aggarwal B, Puri R (Hrsg.). Cambridge, Blackwell
+Science, 101-129
+
+Literaturverzeichnis
+
+76
+
+107. Mandriota SJ, PepperMS (1999)
+Lymphangiogenesis and biological activity of vascular endothelial growth
+factor-C. J Soc Biol 193: 159-163
+108. Marden LJ, Reddi AH, Hollinger JO (1990)
+Growth and differentation factors: role in bone induction and potential
+application in craniofacial surgery. J Craniofac Surg 1: 154-160
+109. Marx RE, Johnson RP (1987)
+Studies in the radiobiology of osteoradionecrosis and their clinical
+significance. Oral Surg Oral Med Oral Pathol 64: 379-390
+110. Meyer M, Clauss M, Lepple-Wienhues A, Waltenberger J, Augustin HG,
+Ziche M, Lanz C, Buttner M, Rziha HJ, Dehio C (1999)
+A novel vascular endothelial growth factor encoded by Orf virus, VEGF-E,
+mediates angiogenesis via signaling through VEGF-R2 (KDR) but not
+VEGF-R1 (Flt-1) receptor tyrosine kinases. EMBO J 18: 363-374
+111. Miki T, Imai Y (1996)
+Osteoinductive potential of freeze-dried, biodegradable, poly(glycolic acidco-lactic acid) disks incorporated with bone morphogenetic protein in skull
+defects of rats. Int J Oral Maxillofac Surg; 25: 402-406
+112. Miller R (1980)
+Simultaneous statistical inference, 2. Edition. New York, Springer Verlag
+113. Motoki D, Mulliken J (1990)
+The healing of bone and cartilage. Clin Plast Surg; 17: 527-544
+
+Literaturverzeichnis
+
+77
+
+114. Nehls V, Herrmann R (1996)
+The configuration of fibrin clots determines capillary morphogenesis and
+endothelial cell migration. Microvasc Res 51: 347-364
+115. Neufeld G, Tessler S, Gitay-Goren H, Cohen T, Levi B (1994)
+Vascular endothelial growth factor and its receptors. Prog Growth Factors
+Res 5: 89-97
+116. Nevins M, Kirker-Head C, Nevins M, Wozney J, Palmer R, Graham D
+(1996)
+Bone formation in the goat maxillary sinus induced by absorbable collagen
+sponge
+
+implants
+
+impregnated
+
+with
+
+recombinant
+
+human
+
+bone
+
+morphogenetic protein-2. Int J Periodont Rest Dent 16: 9-19
+117. Nishikawa S,
+
+Nishikawa S,
+
+Hirashima M,
+
+Matsuyoshi N,
+
+Kodama H
+
+(1998)
+Progressive lineage analysis by cell sorting and culture identifies FLK+VEcadherin+ cells at a diverging point of endothelial and hematopoietic
+lineages. Development; 125: 1747-1757
+118. Ogawa S, Oku A, SawanoA, Yamaguchi S, Yazaki Y, Shibuya M (1998)
+A novel type of vascular endothelial growth factor, VEGF-E (NZ-7 VEGF),
+preferentially utilizes KDR/Flk-1 receptor and carries a potent mitotic
+activity without heparin-binding domains. J Biol Chem 273: 31273-82
+119. Olmsted-Davis E.A., Gugala Z.and Camargo F. et al. (2003)
+Primitive adult hematopoietic stem cells can function as osteoblast
+precursors, PNAS Proceedings of the National Academy of Sciences 100 :
+15877.
+
+Literaturverzeichnis
+
+78
+
+120. Paralkar VM, Vukicevic S, Reddi AH (1991)
+Transforming growth factor b type I binds to collagen IV of basement
+membrane matrix: implication for development. Dev Biol 143: 303-308
+121. Plate H (1993)
+Angiogenese und Anti-Angiogenese. Dtsch Ärtzeblatt: 2006-2009
+122. Rabie ABM (1997)
+Vascular endothelial growth pattern during demineralized bone matrix
+induced osteogenesis.Connect Tiss Res 36: 337-345
+123. Ramselaar M, Driessens F, Kalk W, De Wijn J, Van Mullem P (1991)
+Biodegradation of four calcium phosphate ceramics; in vivo rates and
+tissue interactions. J Mat Sci 2: 63-70
+124. Reddi AH, Anderson WA (1976)
+Collagenous bone matrix-induced endochondral ossification hemopoiesis. J
+Cell Biol 69 : 557-572
+125. Reddi A (1994)
+Bone and cartilage differentiation. Curr Opin Gen Develop 4: 737-744
+126. Ripamonti U (1992)
+Calvarial reconstruction in baboons with porous hydroxyapatite. J
+Craniofac Surg 3: 149-159
+127. Ripamonti U, Ma SS, van den Heever B, Reddi A (1992)
+Osteogenin, a bone morphogenetic protein, adsorbed on porous
+hydroxyapatite substrata, induces rapid bone differentation in calvarial
+defects of adult primates. Plast Reconstr Surg 90: 382-393
+
+Literaturverzeichnis
+
+79
+
+128. Risau W, Flamme I (1995)
+Vasculogenesis. Annu Rev Cell Dev Biol 11: 73-91
+129. Risau W (1995)
+Differentiation of endothelium. FASEB J 9: 926-933
+130. Risau W (1997)
+Mechanisms of angiogenesis. Nature386: 671-674
+131. Ritman E, Bolander M, Fitzpatrick L, Turner R (1998)
+Micro-CT
+
+imaging
+
+of
+
+structure-to-function
+
+relationship
+
+of
+
+bone
+
+microstructure and associated vascular involvement. Tech Health Care 6:
+403-412
+132. Robb L (1996)
+The Scl gene product is required for the generation of all hematopoietic
+lineages in the adult mouse. EMBO J 15: 4123-4129
+133. Saadeh P, Mehrara B, Steinbrech D, Spector J, Greenwald J, Chin G,
+Ueno H, Gittes G, Longaker M (2000)
+Mechanisms of fibroblast growth factor-2 modulation of vascular
+endothelial growth factor expression by osteoblastic cells. Endocrinology
+141: 2075-2083
+134. Safi J, Di Paula AF, Riccioni T, Kajstura J, Ambrosio G, Becker LC, Anversa
+P, Capogrossi MC (1999)
+Adenovirus –mediated acidic fibroblast growth factor gene transfer
+induces angiogenesis in the noniscemic rabbit heart. Microvasc Res 58:
+238-249
+
+Literaturverzeichnis
+
+135. Sato T,
+
+Tozawa Y,
+
+80
+
+Deutsch U,
+
+Wolburg-Buchholz K,
+
+Fujiwara Y,
+
+Gendron Maguire M, Gridley T, Wolburg H, Risau W, Qin Y (1995)
+Distinct roles of the receptor tyrosine kinases Tie-1 and Tie-2 in blood
+vessel formation. Nature; 376: 70-74
+136. Schaub RG, Wozney J (1991)
+Novel agents that promote bone regeneration. Curr Opin Biotechnol 2:
+868-871
+137. Schenk R (1994)
+Bone regeneration: biologic basis, Guided bone regeneration in implant
+dentistry. Buser D, Dahlin C, Schenk R (Hrsg.). Chicago, Berlin, London,
+Tokyo, Moskau, Prag, Sofia, Warschau, Quintessence Books, 49-101
+138. Schlaeppi JM, Gutzwiller S, Finkenzeller G, Fournier B (1997)
+1,25-Dihydroxivitamin D3 induces the expression of vascular endothelial
+growth factor in osteoblastic cells. Endocr Res 23: 213-229
+139. Schlickewei W, Paul C (1991)
+Experimentelle Untersuchungen zum Knochenersatz mit bovinem Apatit.
+Hefte zur Unfallheilkunde 216: 59-69
+140. Schmidt K, Swoboda H (1995)
+Die Bedeutung matrixgebundener Zytokine für die Osteoinduktion und
+Osteogenese. Implantologie 2: 127-148
+141. Schmid J., Wallkamm B. and Hammerle C.H. et al, (1997)
+The significance of angiogenesis in guided bone regeneration. A case
+report of a rabbit experiment, Clin Oral Implants Res 8: 244
+
+Literaturverzeichnis
+
+81
+
+142. Schott RJ, Morrow LA (1993)
+Growth factors and angiogenesis. Cardiovasc Res 27: 1155-1161
+143. Schwartz Z, Mellonig JT, Carnes DL, de la Fontaine J, Cochran DL, Dean
+DD, Boyan BD (1996)
+Ability of commercial demineralized freeze-dried bone allograft to induce
+new bone formation. J Periodontol 67: 918-926
+144. Shah S, Cha Y, Pitt C (1992)
+Poly(glycolic acid-co-DL-lactic acid): diffusion or degradation controlled
+drug delivery. J Controlled Release 18: 261-270
+145. Shalaby F, Rossant J, Yamaguchi T, Gertsenstein J, Wu X, Breitman M,
+Schuh A (1995)
+Failure of blood-island formation and vasculogenesis in FLK-1-deficient
+mice. Nature; 376: 62-66
+146. Shibuya M (1996)
+Involment of the VEGF-Flt-receptor family in angiogenesis. Nippon
+Yakurigaku Zasshi 107: 119-131
+147. Slavin J (1995)
+Fibroblast growth factors: at the heart of angiogenesis. Cell Biol Int 19:
+431-444
+148. Stanley HR, Hall MB, Clark AE, King CJ, Hench LL, Berte JJ (1997)
+Using 45S5 bioglass cones as endosseous ridge maintenance implants to
+prevent alveolar ridge resorption: a 5-year evaluation. Int J Oral Maxillofac
+Implants 12: 95-105
+
+Literaturverzeichnis
+
+82
+
+149. Steinbrech DS, Mehrara BJ, Saadeh PB, Chin G, Dudziak ME, Gerrets RP,
+Gittes GK, Longaker MT (1999)
+Hypoxia
+
+regulates
+
+VEGF
+
+expression
+
+and
+
+cellular
+
+proliferation
+
+by
+
+osteoblasts in vitro. Plast Reconstr Surg 104: 738-747
+150. Takano S, Yoshii Y, Kondo S, Suzuki H, Maruno T, Shirai S, Nose T
+(1996)
+Concentration of vascular endothelial growth factor in the serum and
+tumor tissue of brain tumor patients. Cancer Reaserach; 56: 2185-2190
+151. Takeshita S, Weir L, Chen D, Zheng LP, Riessen R, Bauters C, Symes JF,
+Ferrara N, Isner JM (1996)
+Therapeutic angiogenesis following arterial gene transfer of vascular
+endothelial growth factor in a rabbit model of hindlimb ischemia. Biochem
+Biophys Res Commun 227: 628-635
+152. Terheyden H, Jepsen S (1999)
+Hartgeweberegeneration durch Wachstumsfaktoren und morphogene
+Proteine. Implantologie 4: 359-378
+153. Thurston G, Suri C, Smith K, McClain J, Sato TN, Yancopoulos GD,
+McDonald DM (1999)
+Leakage-resistant blood vessels in mice transgenically overexpressing
+angiopoietin-1. Science 286: 2511-2514
+154. Trueta J, Little K (1960)
+The vascular contribution to osteogenesis. II. Studies with the electron
+microscope. J Bone Joint Surg 42: 367-376
+155. Trueta J (1963)
+The role of vessels in osteogenesis. J Bone Joint Surg 45B: 402-418
+
+Literaturverzeichnis
+
+83
+
+156. Urist MR, Siverman BF, Buring K, Dubuc FL, Rosenberg JM (1967)
+The bone induction principle. Clin Orthop 53: 243-283
+157. Walgenbach K, Bruenagel G, Lovett J, Shestak K, Stark G (1998)
+Therapeutic angiogenesis in wounds: the influence of growth factors at a
+muscle flap-ischemic tissue interface. Biological matrices and tissue
+reconstruction. Stark G, Horch R, Tanczos E (Hrsg.). Berlin, Springer, 279282
+158. Wang DS, Yamazaki K, Nohtomi K, Shizume K, Ohsumi K, Shibuya M,
+Demura H, Sato K (1996)
+Increase of vascular endothelial growth factor mRNA expression by 1,25dihydroxyvitamin D3 in human osteoblast-like cells. J Bone Miner Res 11:
+472-479
+159. Wang DS, Miura M, Demura H, Sato K (1997)
+Anabolic effects of 1,25-dihydroxyvitamin D3 on osteoblasts are enhanced
+by vascular endothelial growth factor produced by osteoblasts and by
+growth factors produced by endothelial cells. Endocrinology 138: 29532962
+160. Wang HU, Chen ZF, Anderson DJ (1998)
+Molecular distinction and angiogenic interaction between embryonic
+arteries and veins revealed by ephrin-B2 and its receptor Eph-B4. Cell 93:
+741-753
+161. Wannfors K (1989)
+Vascular changes after experimentally-induced inflammation in the
+mandible. Int J Oral Maxillofac Surg 18: 79-82
+
+Literaturverzeichnis
+
+84
+
+162. Wannfors K, Gazelius B (1991)
+Blood flow in jaw bones affected by chronic osteomyelitis. Br J Oral
+Maxillofac Surg 29: 147-153
+163. Weidner N, Semple J, Welch W, Folkman J (1991)
+Tumor angiogenesis and metastasis: correlation in invasive breast
+carcinoma. N Engl J Med 324: 1-8
+164. Weinbaum S, Cowin S, Zeng Y (1994)
+A model for the excitation of osteocytes by mechanical loading-induced
+bone fluid shear stresses. J Biomech 27: 339-360
+165. Winet H, Hollinger J, Stevanovic M (1995)
+Incorporation
+
+of
+
+polylactide-polyglycolide
+
+in
+
+a
+
+cortical
+
+defect:
+
+neoangiogenesis and blood supply in a bone chamber. J Orthop Res 13:
+679-689
+166. Winet H (1996)
+The role of microvasculature in normal and pertubated bone healing as
+revealed by intravital microscopy. Bone 19: 39S-57S
+167. Yancopoulos GD, Davis S, Gale NW, Rudge JS, Wiegand SJ, Holash J
+(2000)
+Vascular-specific growth factors and blood vessel formation. Nature 407:
+242-248
+168. Zellin G, Linde A (1997)
+Importance of delivery systems for growth-stimulatory factors in
+combination with osteopromotive membranes. An experimental study
+using rhBMP-2 in rat mandibular defects. J Biomed Mater Res 35: 181-190
+
+Danksagung
+
+84
+
+7 Danksagung
+Ich möchte mich bei Herrn Priv.- Doz. Dr. med. Dr. med. dent. Johannes
+Kleinheinz (Klinik und Poliklinik für Mund- und Kiefer-Gesichtschirurgie) für die
+Überlassung dieses interessanten Themas und das freundliche und produktive
+Klima in der Arbeitsgruppe bedanken. Er sorgte für eine hervorragende
+wissenschaftliche Betreuung.
+Des Weiteren möchte ich Herrn Priv.- Doz. Dr. H.-P. Wiesmann (Klinik und
+Poliklinik für Mund- und Kiefer-Gesichtschirurgie, Institut für Biomieralisation)
+für die Unterstützung bei der Umsetzung der Experimente danken.
+Ebenfalls möchte ich mich bei Herrn Prof. Dr. U. Stratmann (Institut für
+Anatomie) bedanken, der mir stets Zugang zu seinen Laboratorien ermöglichte
+und Unterstützung bei den mikroskopischen Untersuchungen leistete.
+Ein besonderer Dank geht an Frau K. Cebulla (Institut für Anatomie), die mich
+durch ihre Lebenserfahrung und Kompetenz in medizinisch-technischen
+Angelegenheiten vor Fehlern und auch zeitraubenden Umsetzungen von
+Verarbeitungsverfahren bewahren konnte und für klare Fakten sorgte.
+Ein Dank an meine Arbeitsgruppenkollegen E. Bölükbasi, J Brockmann und C.
+Fischer für die
+
+gute Zusammenarbeit an den bis in die Nacht dauernden
+
+Labortage.
+Herzlichen Dank auch an alle Mitarbeiter der zentralen tierexperimentellen
+Einrichtung für die Tierliebe und sorgfältige Betreuung der Tiere.
+Meinen ganz herzlichen Dank geht auch an meine Freunde und Kollegen,
+insbesondere Robert für die geduldige Hilfe bei der Lösung von Problemen mit
+der Arbeit.
+Ausdrücklich möchte ich meiner Frau für den moralischen Beistand und ihre
+Unterstützung während meiner Arbeit danken.
+
+Lebenslauf
+
+85
+
+Lebenslauf
+Geburtsdatum:
+
+27.10.1971
+
+Geburtsort:
+
+Höxter
+
+Staatsangehörigkeit:
+
+deutsch
+
+Familienstand:
+
+verheiratet
+
+Schulbildung:
+06/1992
+
+Abitur, Herder-Gymnasium in Minden
+
+Zivildienst
+01/1993 – 4/1994
+
+Kinderklinik, Klinikum Minden
+
+Studium
+04/1994 -
+
+Studium der Humanmedizin an der
+Westfälischen Wilhelms-Universität Münster
+Famulaturen
+
+Pädiatrie
+bei Herrn Prof. Dr. med. Tillmann
+Kinderklinik, Klinikum Minden
+
+Radiologie
+bei Herrn Prof. Dr. Ritter
+Institut für ZÄ Röntgenologie, WWÜ-Münster
+
+Mund- und Kiefer-Gesichtschirurgie
+bei Herrn Prof. Dr. Dr. Dr. Joos
+Klinik und Poliklinik für Mund- und
+Kiefer- Gesichtschirurgie, WWU-Münster
+
+Plastische Chirurgie
+bei Herrn Dr. Tillkorn/ PD Dr. Schwipper
+Fachklinik Hornheide
+10/2000-10/2001
+
+Praktisches Jahr
+in Städt. Kliniken Bielefeld Mitte
+Wahlfach: Hals-, Nasen-, Ohrenheilkunde
+
+10/2001
+
+3. Abschnitt der ärztlichen Prüfung
+
+Lebenslauf
+
+11/2001 – 4/2003
+
+86
+
+Arzt im Praktikum
+Klinikum Minden
+Klinik für Hals- Nasen-Ohrenheilkunde,
+Plastische Operationen und Logopädie
+Chefarzt Prof. Dr. med. M.Schrader
+
+05/2003 -
+
+Assistenzarzt
+Universitätsklink Bonn
+Klinik und Poliklinik für
+Hals-Nasen-Ohrenheilkunde/Chirurgie
+Direktor Prof. Dr. med. F. Bootz
+
+

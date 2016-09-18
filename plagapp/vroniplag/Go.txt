@@ -1,0 +1,2458 @@
+Morphologische Studie bei 77 Patienten mit Temporallappenepilepsie mittels
+Magnetresonanztomographie: Vergleich zwischen zwei verschiedenen
+Bildbearbeitungsalgorithmen
+
+Inaugural-Dissertation
+zur Erlangung des Doktorgrades
+der Hohen Medizinischen Fakultät
+der Rheinischen Friedrich-Wilhelms-Universität
+Bonn
+
+Georgios Orfanos
+aus Rhodos/Griechenland
+
+2010
+
+1 Einleitung
+Die Epilepsie gehört mit einer Lebenszeitprävalenz von etwa 3% zu den häufigsten
+neurologischen
+
+Erkrankungen
+
+überhaupt.
+
+Sie
+
+kann
+
+Ausdruck
+
+von
+
+unterschiedlichen
+
+Krankheitszuständen des Gehirns sein und hat viele Ursachen. Entsprechend vielfältig ist auch
+die Einteilung der Epilepsien. Zur Diagnostik stehen neben der Anamnese, dem klinischen
+Untersuchungsbefund, dem EEG und MRT auch speziellere Verfahren wie die PET und die
+SPECT zur Verfügung.
+Die Temporallappenepilepsie (TLE) macht etwa 30-40% aller Epilepsien aus und ist somit eines
+der häufigsten Epilepsie-Syndrome. In der Anamnese sind komplizierte Fieberkrämpfe sowie
+familiäre Epilepsie häufig. Typische klinische Merkmale sind Auren unterschiedlicher Art gefolgt
+von komplex-partiellen Anfällen. Die Magnetresonanztomographie ist bei der Diagnose der TLE
+eines der hilfreichsten Mittel; hier findet sich häufig eine Ammonshornsklerose (AHS). Zur
+Behandlung stehen neben medikamentösen, wie Carbamazepin oder Valproat, auch operative
+Optionen zur Wahl. Die operativen Verfahren der Wahl sind heutzutage die antero-mesiale
+Resektion und die selektive Amygdala-Hippokampektomie.
+In dieser morphologischen Studie soll der Einfluss von verschiedenen Parametern, wie das Alter
+bei Beginn der Symptome, das Vorhandensein von Grand-Mal-Anfällen oder anamnestisch
+eruierbarem frühem Hirnschaden, die Seite der Epilepsie sowie die Anzahl der Anfälle pro Monat
+auf die MRT-Bildgebung bei der TLE untersucht werden. Denn obwohl bisher sehr viele Studien
+über die TLE veröffentlicht worden sind, existieren in der Literatur nur wenig morphologische
+Studien, die den Stellenwert von klinischen (und nicht-klinischen) Kriterien auf das Ausmaß der
+durch MRT feststellbaren Läsionen hervorbringt.
+
+Außerdem soll überprüft werden, ob ein kürzlich entwickelter Bildbearbeitungsalgorithmus
+(DARTEL) bessere und präzisere Ergebnisse als der bisherige Standardalgorithmus hat, wie
+Erfahrungen im FIL(Functional Imaging Laboratory, University College London) zeigen.
+
+10
+
+2 Grundlagen
+2.1 Epilepsie
+
+2.1.1 Definitionen
+Epilepsie (altgriechisches Substantiv epílēpsis, „der Anfall“), im Deutschen die Fallsucht oder
+auch Krampfleiden genannt, bezeichnet ein Krankheitsbild mit mindestens zwei wiederholt
+spontan auftretenden Krampfanfällen, die nicht durch eine vorausgehende erkennbare Ursache
+hervorgerufen wurden. Ein solcher epileptischer Krampfanfall ist Folge paroxysmaler synchroner
+Entladungen von Neuronengruppen im Gehirn, die zu plötzlichen unwillkürlichen stereotypen
+Verhaltens- oder Befindensstörungen führen.
+
+Primär Generalisierter Krampfanfall
+Ein Anfall wird als primär generalisiert bezeichnet, wenn der Verlauf und die Symptome keine
+Hinweise auf eine anatomisch begrenzte Lokalisation geben und keine Zeichen eines lokalen
+(herdförmigen) Beginns zu erkennen sind.
+Die generalisierten Anfälle werden in drei Untertypen unterteilt:
+-konvulsive Anfälle, der typische „große“ Anfall mit Bewusstseinsverlust, Sturz, Verkrampfung
+und anschließend rhythmischen Myoklonien beider Arme und Beine (tonisch-klonischer oder
+früher auch französisch Grand-mal genannt), aber auch Verlust der Spannung der Muskulatur
+(atonischer Anfall) oder krampfhaft gesteigerte Spannung der Muskulatur (tonischer Anfall). Der
+Anfall geht auch oft mit einem Biss in die Zunge einher.
+-nicht konvulsive generalisierte Anfälle, wie Absence-Anfälle mit kurzer Bewusstseinspause
+ohne Sturz, früher auch französisch mit Petit-mal bezeichnet.
+-myoklonische Anfälle, bei denen einzelne oder unregelmäßig wiederholte Myoklonien einzelner
+Muskelgruppen auftreten.
+
+Partieller (fokaler) Krampfanfall
+Andere Ausdrücke für einen partiellen Anfall sind fokaler Anfall oder Herdanfall. Diese
+Anfallsform ist dadurch gekennzeichnet, dass es ein Zeichen für einen Beginn des
+Anfallsgeschehens in einer umschriebenen Region des Gehirns gibt. Dabei ist es egal, ob es zu
+
+11
+
+einer sekundären Ausbreitung auf die restliche Hirnrinde kommt (sekundäre Generalisierung).
+Insbesondere ein Anfallsbeginn mit einer Aura hat einen hohen Aussagewert darüber, in welcher
+Hirnregion der Anfall seinen Ursprung hat, denn sie ist das Ergebnis einer umschriebenen
+Aktivierung von Nervenzellverbänden.
+Wenn der Patient beim Anfall wach ist und angemessen auf seine Umgebung reagiert, wird der
+Anfall einfach partiell genannt.
+Wenn das Bewusstsein eingeschränkt ist und eine Erinnerungslücke oder Verwirrtheitszustände
+während des Anfalls oder danach auftreten, wird der Anfall komplex partiell genannt.
+Bei manchen Anfällen kann man keine Unterscheidung zwischen einfach und komplex partiell
+treffen. Dann nennt man ihn partiellen Anfall unbekannten Typs.
+Weitet sich das Anfallsgeschehen nach herdförmigem Beginn zu einem generalisierten Anfall
+aus, so nennt man ihn komplex partiellen Anfall mit sekundärer Generalisierung.
+
+Aura
+Der Begriff Aura stammt aus dem Griechischen und bedeutet die „Wahrnehmung eines
+Lufthauches“. Man könnte sie auch mit einem „unbestimmten Vorgefühl“ umschreiben. Wenn
+die Aura isoliert bleibt, kann sie das einzige – subjektive – Symptom eines einfach partiellen
+Anfalls darstellen. Sie ist das Ergebnis einer epileptischen Aktivierung der Nervenzellen einer
+umschriebenen Hirnregion. Aufgrund der funktionellen Zuordnung der Symptome zu den
+entsprechenden Arealen der Hirnrinde kommt ihnen eine hohe Bedeutung in der
+Lokalisationsdiagnostik von epilepsieauslösenden Herden zu. Breitet sich die epileptische
+Aktivität aus, kann ein sogenannter sekundär generalisierter Anfall folgen. Beispiele für Auren
+sind die sogenannte „viszerale Aura“, ein Aufsteigen unbestimmt unangenehmer Gefühle aus der
+Magengegend, als häufigste Aura bei Schläfenlappenepilepsie, Taubheitsgefühle, Kribbeln oder
+Nadelstiche
+
+als
+
+Aura
+
+bei
+
+Hinterhauptslappenepilepsie.
+
+Scheitellappenepilepsie
+Andere
+
+Beispiele
+
+oder
+für
+
+visuelle
+eine
+
+Halluzinationen
+Aura
+
+bei
+
+können
+
+Konzentrationsschwierigkeiten, Vergesslichkeit und das nicht mehr richtige Wahrnehmen der
+Umgebung sein.
+
+12
+
+2.1.2 Einteilung der Epilepsien
+
+Die verschiedenen Formen der Epilepsien werden nach einer Klassifikation der Internationalen
+Liga gegen Epilepsie (ILAE) eingeteilt:
+
+Lokalisationsbezogene Epilepsien und Syndrome
+Bei dieser Form der Epilepsien – auch fokale, lokale, partielle oder herdförmige Epilepsie
+genannt – beschränkt sich die anfallsartige Entladung zumindest zu Beginn der Anfälle auf eine
+begrenzte Region der Hirnrinde, sie geht von einem Herd oder Fokus aus.
+
+Generalisierte Epilepsien und Syndrome
+Bei generalisierten Anfällen ist immer von Anfang an die gesamte Hirnrinde von der elektrischen
+Anfallsaktivität betroffen. Diese Anfallsformen gehen daher auch im Regelfall mit einem
+Bewusstseinsverlust einher (Ausnahme ist die Juvenile myoklonische Epilepsie). Sie werden
+nochmals in sogenannte kleine (Petit-mal, frz. kleines Übel) und große (Grand-mal, frz. großes
+Übel) Anfälle unterschieden.
+
+Epilepsien und Syndrome, die nicht als lokalisationsbezogen oder generalisiert
+bestimmbar sind
+Hierzu zählen Neugeborenenkrämpfe, die schwere myoklonische Epilepsie des Kindesalters, die
+Epilepsie mit anhaltenden spike-wave-Entladungen im synchronisierten Schlaf und das AphasieEpilepsie-Syndrom.
+
+Spezielle Syndrome
+Hierzu gehören Gelegenheitsanfälle, Fieberkrämpfe, isolierte Anfälle, sowie ausschließlich bei
+akuten Ereignissen auftretende Anfälle.
+
+13
+
+2.1.3 Ursachen der Epilepsie
+
+Schon der Einteilung der Epilepsien lässt sich entnehmen, dass diese Gruppe von Erkrankungen
+Ausdruck von unterschiedlichen Krankheitszuständen des Gehirns sein kann und sich keine
+einheitliche Ursache benennen lässt. Grundsätzlich lassen sich aber drei Gruppen von
+zugrundeliegenden Ursachen unterscheiden:
+Symptomatische Epilepsien sind die Folge einer nachweisbaren Hirnschädigung. Hierbei kann
+es sich um eine Fehlbildung (wie zum Beispiel die fokale kortikale Dysplasie), eine Narbe, oder
+einen Tumor handeln.
+Bei den idiopathischen Epilepsien liegt eine erbliche Veranlagung zugrunde.
+Findet man keine der beiden vorgenannten Ursachen, nennt man die Epilepsie kryptogen.
+Angaben über die relative Häufigkeit der unterschiedlichen Gruppen schwanken von Studie zu
+Studie und sind beispielsweise davon abhängig, mit welchen Untersuchungsmethoden nach
+Hirnschädigungen gesucht wurde. In der Ära vor Einführung der Computer- oder der
+Magnetresonanztomografie lag der Anteil der Epilepsien, bei denen man keine Ursache fand,
+entsprechend höher. Aber auch bei den symptomatischen und kryptogenen Epilepsien spielen
+Erbfaktoren durchaus eine Rolle, wenn auch ihr Beitrag zur Entstehung von epileptischen
+Anfällen viel geringer ist als bei den idiopathischen Epilepsien.
+
+2.1.4 Pathophysiologie
+
+Obwohl das Wissen über die Entstehung von Epilepsien in den letzten Jahrzehnten deutlich
+zugenommen hat, sind die Zusammenhänge noch immer nur unvollständig verstanden. Zum
+Auftreten epileptischer Anfälle tragen zum einen eine Übererregbarkeit (Hyperexzitabilität) von
+Nervenzellen, zum anderen eine abnorme gleichzeitige elektrische Aktivität von größeren
+Nervenzellverbänden (neuronale Netze) bei. So nimmt man an, dass ein Ungleichgewicht von
+Erregung und Hemmung in diesen neuronalen Netzen Krampfanfälle entstehen lässt.
+Verstärkte Erregung oder verminderte Hemmung können sowohl durch Veränderungen in den
+Membraneigenschaften der Nervenzellen als auch in der Erregungsübertragung von Nervenzelle
+zu Nervenzelle durch die Überträgersubstanzen (Neurotransmitter) bewirkt werden. So können
+sich Defekte in den Ionenkanälen für Natrium- und Calciumionen an der Entstehung und
+Ausbreitung von Anfallsentladungen beteiligen. Als erregende Neurotransmitter sind die
+
+14
+
+Aminosäuren Glutamat und Aspartat beteiligt, die über eine Bindung an NMDA- oder AMPARezeptoren Ionenkanäle öffnen. Gamma-Aminobuttersäure (GABA) stellt als hemmender
+Überträgerstoff sozusagen den Gegenspieler dar. Defekte in der Biosynthese, gesteigerter Abbau
+oder Hemmung der Rezeptoren (GABA-Rezeptoren) können ebenfalls zum Anfallsgeschehen
+beitragen. Elektrolytungleichgewichte aufgrund fortgesetzter Erregung hemmender GABAverwendender Synapsen können diese zu erregenden Synapsen machen. Die zentral hemmende
+Wirkung einiger Neuropeptide, wie beispielsweise Neuropeptid Y und Galanin, wird als
+körpereigener Mechanismus der Verhütung epileptischer Krämpfe diskutiert. Die Mechanismen,
+die dazu führen, dass aus einzelnen Krampfanfällen eine Epilepsie entsteht, sind weitaus
+komplexer und noch unbekannt. Da die Mehrzahl der Anfälle Einzelereignisse bleiben, scheinen
+sie nicht zwangsläufig epilepsieauslösende Veränderungen zu verursachen. Allerdings hat das
+tierexperimentelle Modell des „Kindling“ auch die Vorstellung zur Entstehung von Epilepsien
+beim Menschen geprägt. Unter Kindling versteht man einen dynamischen Vorgang, bei dem die
+wiederholte Ausübung elektrischer Reize, die noch nicht ausreichen, einen Anfall hervorzurufen,
+eine zunehmende Verstärkung der Anfallsbereitschaft hervorruft, bis schließlich Krampfanfälle
+auftreten. Anschließend bleibt die erhöhte Empfindlichkeit gegenüber dem Reiz bestehen.
+
+2.1.5 Diagnostik
+
+An erster Stelle steht, wie bei allen anderen Erkrankungen auch, die Erhebung der
+Krankengeschichte (Anamnese). Bei Epilepsie-Patienten sollte hierbei neben dem familiären
+Auftreten von Epilepsien und anderen Erkrankungen des Nervensystems besonderes Augenmerk
+auf Vorerkrankungen gerichtet sein, die möglicherweise eine symptomatische Epilepsie
+verursachen. Dazu gehören Störungen und Risiken in der Schwangerschaft, Probleme unter der
+Geburt, die zu einem Sauerstoffmangel führen, Unfälle mit Schädel- Hirn-Trauma oder
+entzündliche Erkrankungen des Zentralnervensystems.
+Darauf folgt die körperliche Untersuchung insbesondere des Nervensystems mit Untersuchung
+von Kraft, Gefühl (Sensibilität), Reflexen, Hirnnervenfunktion, Gleichgewicht und Koordination.
+Laboruntersuchungen aus dem Blut dienen zum einen dem Erkennen von möglichen Ursachen
+symptomatischer epileptischer Anfälle (wie Unterzuckerung oder Mineralstoffmangel). Zum
+anderen überwacht der behandelnde Arzt unter einer medikamentösen Therapie die Menge des
+Medikamentes im Blut (Medikamentenspiegel oder Therapiespiegel) wie auch mögliche
+
+15
+
+Nebenwirkungen (Blutbild, Leberenzyme, Nierenfunktion, Blutgerinnung, Calcium-PhosphatStoffwechsel).
+Durch das EEG kann die Bereitschaft des Gehirns zu epileptischen Entladungen direkt angezeigt
+werden. Zur routinemäßigen Ableitung bei der Fragestellung nach einer Epilepsie gehört die
+Aktivierung mit Hyperventilation und Photostimulation. Im Rahmen der Erstdiagnostik dient das
+EEG vor allem der Einordnung des Anfalls bzw. der Epilepsie und der Lokalisation des Herdes
+bei herdförmigen Anfällen. Bei speziellen Fragestellungen können auch Langzeitableitungen
+(beispielsweise über 24 Stunden, Langzeit-EEG) oder Ableitungen mit gleichzeitiger paralleler
+Videoaufzeichnung des Patienten (Video-EEG-Monitoring) durchgeführt werden.
+Dagegen leitet die Magnetoenzephalographie (MEG) die magnetische Aktivität des Gehirns mit
+hoher zeitlicher und räumlicher Auflösung ab. Es handelt sich hierbei aber um eine sehr
+aufwändige, teure und neue Methode, die vor allem der exakten Lokalisation von
+epilepsieauslösenden Hirnarealen dient.
+Die cerebrale Computertomografie (cCT) war das erste bildgebende Verfahren, mit dem
+auslösende gröbere Veränderungen am Hirngewebe gefunden werden konnten. Seine Vorteile
+liegen in der schnellen Verfügbarkeit und der Wirtschaftlichkeit. Da seine Auflösung der
+Gewebeveränderungen am Gehirn aber anderen Methoden unterlegen ist, hat sie auch wegen der
+mit ihr verbundenen Strahlenbelastung an Bedeutung verloren.
+In der Magnetresonanztomografie (MRT oder MRI) werden die Bilder durch wechselnde, starke
+Magnetfelder erzeugt. Die Darstellung hat eine deutlich höhere Auflösung und einen besseren
+Kontrast zwischen grauer und weißer Substanz. Für spezielle Fragestellungen insbesondere in der
+prächirurgischen Diagnostik steht die funktionelle Magnetresonanztomografie (fMRI) zur
+Verfügung, mit der spezielle Hirnfunktionen den zugehörigen Rindenarealen zugeordnet werden
+kann.
+Bei Neugeborenen und Säuglingen kann auch durch eine Ultraschalluntersuchung des Gehirns
+durch die offene Fontanelle Hinweise auf anatomische Abweichungen gewonnen werden.
+Mit Positronen-Emissionstomografie (PET), Flumazenil-PET und Single Photon Emission
+Computed Tomography (SPECT) stehen weitere Spezialverfahren zur Verfügung mit denen vor
+allem epilepsieauslösende Herde genau lokalisiert und im Falle prächirurgischer Diagnostik
+neurologische Ausfälle durch die Operation abgeschätzt werden können.
+
+16
+
+Neuropsychologie in der Epilepsiediagnostik
+Die neuropsychologische Diagnostik bei Epilepsiepatienten, das heißt die Untersuchung
+verschiedener kognitiver Funktionen wie etwa der Konzentration, der unmittelbaren
+Merkfähigkeit oder der mittelfristigen Gedächtnisleistungen, der basalen oder höheren
+Sprachleistungen etc. erfolgt zur Beantwortung mehrerer Fragestellungen:
+Während früher Fragen der Lateralisation und der Lokalisation der Epilepsie im Vordergrund
+standen, interessieren heute durch die großen Fortschritte im Bereich der strukturellen und
+funktionellen Bildgebung mehr Fragen der funktionellen Beeinträchtigung kognitiver Leistungen
+durch die Epilepsie selbst bzw. deren somatischen Grundlage, unerwünschte Effekte der
+medikamentösen Behandlung oder das Risiko kognitiver Einbußen durch einen eventuellen
+epilepsiechirurgischen Eingriff. Diese Aufgaben der Neuropsychologie lassen sich letztendlich
+unter dem Stichwort der Qualitätskontrolle, das heißt der Beurteilung der Vertretbarkeit und
+Verträglichkeit einer gewählten Therapiemethode recht gut zusammenfassen.
+Zusätzlich beantwortet werden sollen auch Fragen nach der Alltagsrelevanz epilepsieassoziierter
+kognitiver Störungen beispielsweise auf die schulische Leistungsfähigkeit oder den Beruf und
+dienen auch zur Feststellung der Notwendigkeit der Durchführung einer rehabilitativen
+Maßnahme und wiederum auch deren Validierung. Üblicherweise erfolgen viele Tests noch mit
+Papier und Stift, einige Verfahren sind heute aber auch schon als computergestützte
+Testverfahren erhältlich. Zusätzlich wird in den spezialisierten Zentren immer häufiger auch auf
+die Methode der funktionellen Bildgebung wie etwa der funktionellen Magnet-ResonanzTomographie zur Lateralisation der hemispheriellen Sprachdominanz zurückgegriffen. Bei
+Unklarheiten in der Interpretation der Ergebnisse resultiert unter Umständen die Notwendigkeit
+zur Durchführung des invasiven intra-carotidalen Amobarbitaltests (auch Wada-Test genannt),
+der über die temporäre Narkotisierung einer Hirnhemisphäre eine recht zuverlässige Aussage
+über die Hemisphärenlateralisierung für Sprache erlaubt. Ziel dieser Verfahren ist es, die Risiken
+bei einem epilepsiechirurgischen Eingriff für weitere kognitive Einbußen möglichst gering zu
+halten. Weitere Aufgaben der Neuropsychologie betreffen auch die kurz-, mittel- und
+langfristigen psychosozialen Folgen, die eine chronische Erkrankung wie Epilepsie auf das Leben
+der Betroffenen hat. Anhand von mehr oder weniger standardisierten Fragebögen und Interviews
+versucht man, diese Effekte zu erfassen. Letztendlich müssen sich auch die unterschiedlichen
+Therapiemethoden an ihren Auswirkungen auf die psycho-soziale Entwicklung der Patienten
+bezüglich ihrer Wirksamkeit messen lassen.
+
+17
+
+2.1.6 Behandlung
+
+Ziel der Behandlung bei Epilepsien ist die völlige Anfallsfreiheit mit möglichst wenigen oder
+ohne Nebenwirkungen. Bei Kindern soll durch die Therapie darüber hinaus eine
+unbeeinträchtigte Entwicklung gewährleistet werden. Allen Patienten soll eine Lebensform
+ermöglicht werden, die den Fähigkeiten und Begabungen gerecht wird. Dabei ist zwischen der
+Akutbehandlung eines epileptischen Anfalls und der Dauerbehandlung zu unterscheiden. Diese
+Therapieziele werden in erster Linie durch eine geeignete Pharmakotherapie erreicht. Mit Hilfe
+einer Monotherapie mit Valproinsäure, Carbamazepin oder einem anderen Antiepileptikum
+gelingt es in etwa zwei Drittel der Fälle, die Anfälle zu kontrollieren. Bei den übrigen Patienten
+spricht man von einer pharmakoresistenten Epilepsie. Der zusätzliche Einsatz weiterer
+Antiepileptika (Add-On-Therapie) führt bei pharmakoresistenten Epileptikern (etwa 10 %) zwar
+nur selten zur dauerhaften Anfallsfreiheit, jedoch sind Teilerfolge, wie etwa eine reduzierte
+Anfallsfrequenz oder mildere Anfallsformen, erzielbar.
+Bei pharmakoresistenten Epileptikern sollte ebenfalls frühzeitig geprüft werden, ob sie geeignete
+Kandidaten für einen epilepsiechirurgischen Eingriff sind. Die Epilepsiechirurgie kann
+mittlerweile – bei pharmakoresistenten fokalen Epilepsien – die Epilepsie „heilen“, wenn das
+epileptogene Areal im Hirn genau identifiziert werden kann und operabel ist. Die Chance auf
+Anfallsfreiheit durch einen epilepsiechirurgischen Eingriff liegt je nach Befundkonstellation bei
+50-80 %.
+Zu einem umfassenden Behandlungskonzept gehören auch eine Aufklärung und Beratung bis hin
+zur Patientenschulung, die Anleitung zur Anfallsdokumentation gegebenenfalls durch Führen
+eines Anfallstagebuchs und Hilfen zur Integration in Familie, Schule, Beruf und Gesellschaft.
+Gesellschaftlich wird hierbei eine offene Auseinandersetzung empfohlen, die auf Respekt beruht.
+
+2.1.7 Prognose und Remission
+
+Die
+
+Prognose
+
+von
+
+Epilepsien
+
+hängt
+
+einerseits
+
+von
+
+verschiedenen
+
+Faktoren
+
+wie
+
+Manifestationsalter, Art der Anfälle oder begleitende Erkrankungen des Nervensystems ab.
+Andererseits kann sie unter den unterschiedlichen Gesichtspunkten der langfristigen
+Anfallsfreiheit (Remission), den psychosozialen Beeinträchtigungen oder der Sterblichkeit
+betrachtet werden.
+
+18
+
+Fasst man die unterschiedlichen Studien zur Prognose zusammen, erreichen insgesamt etwa 50
+bis 80 Prozent aller Epilepsie-Patienten eine anhaltende Anfallsfreiheit. Idiopathische und
+kryptogene Epilepsien haben allgemein eine bessere Prognose als symptomatische. Entsprechend
+verschlechtert sich die Prognose bei Patienten mit begleitenden neurologischen Erkrankungen
+oder geistigen Behinderungen. Anhaltende EEG-Veränderungen gehen ebenfalls mit einer etwas
+schlechteren Rate an Remissionen einher. Ein gutes prognostisches Zeichen stellt das rasche
+Ansprechen auf die Therapie dar, wohingegen bisher nicht belegt werden konnte, dass sich die
+Langzeitprognose durch ein frühes Einsetzen der antiepileptischen Behandlung günstig
+beeinflussen lässt.
+
+2.2 Temporallappenepilepsie
+Ich möchte mich kurz an dieser Stelle besonders mit der Temporallappenepilepsie eingehender
+befassen, da sie ein zentrales Thema dieser Arbeit darstellt. Sie wird klassischerweise in die
+häufigere Epilepsie des medialen- und in die seltenere Epilepsie des lateralen Temporallappens
+eingeteilt.
+
+2.2.1 Epilepsie des medialen Temporallappens
+2.2.1.1 Allgemeines
+Etwa 90-95% aller Temporallappenepilepsien gehen vom entwicklungsgeschichtlich älteren
+medialen Temporallappen aus. Synonyme der Epilepsie des medialen Temporallappens sind
+mesiale Temporallappenepilepsie, Hippokampus-Amygdala-Epilepsie, mesiobasal-limbische
+Epilepsie, rhinezephale Epilepsie, Epilepsie mit psychomotorischen Anfällen , Epilepsie mit
+Dämmerattacken
+
+,
+
+psychomotorische
+
+Epilepsie
+
+,
+
+lokalisationsbezogene
+
+Epilepsie
+
+des
+
+Temorallappens. Sie macht etwa 60-70% aller fokalen Epilepsien und etwa 40% aller Epilepsien
+überhaupt aus und ist somit eines der häufigsten Epilepsie-Syndrome (Schmidt und Elger, 2005).
+2.2.1.2 Diagnose
+In der Anamnese sind komplizierte Fieberkrämpfe und eine familiäre Epilepsie häufig. Der
+Beginn liegt oft zwischen dem 5. und dem 10. Lebensjahr. Isolierte Auren und sekundär
+generalisierte Anfälle sind die Regel. Mehrjährige anfallsfreie Phasen kommen vor. Meist aber
+
+19
+
+handelt es sich um komplex-partielle Anfälle (Synonym: Dämmerattacke, psychomotorischer
+Anfall), die innerhalb weniger Tage gehäuft in Clustern auftreten. In etwa 80% der Fälle kommt
+es zu einer Aura. Am häufigsten ist die epigastrische Aura mit einem unbeschreibaren, von der
+Magengegend aufsteigenden Gefühl sowie vegetativen und psychischen Symptomen, wie z.B.
+Angst. Aber auch olfaktorische und gustatorische Halluzinationen sind nicht selten. Bei
+olfaktorischer , gustatorischer , dysmnestischer bzw. experimenteller Aura mit einem Gefühl der
+unangemessenen Vertrautheit mit der Umgebung (deja vu) oder einem Fremdheitsgefühl (jamais
+vu) und einer Absence ohne fokale Zeichen, handelt es sich bei etwa drei Viertel der Fälle um
+eine Läsion im Temporallappen. Harndrang ist bei nicht-dominanten Temporallappenanfällen als
+Aura beschrieben. Komplexe visuelle Halluzinationen und Tunnelblick kommen vor. Bei
+oroalimentären
+
+Automatismen
+
+handelt
+
+es
+
+sich
+
+praktisch
+
+ausschließlich
+
+um
+
+Temporallappenepilepsien. Selten sind hingegen pharyngeale Missempfindungen. Während der
+Aura bleibt die Wahrnehmung der Umgebung erhalten, auf Fragen kann geantwortet werden.
+Nach der Aura ist die häufigste Sequenz der Anfallssymptome : starrer Gesichtsausdruck ,
+unwillkürliche
+
+Schmatz-,
+
+Leck-,
+
+Schluckbewegung,
+
+Rülpsen
+
+als
+
+sog.
+
+oroalimentäre
+
+Automatismen, Nesteln, Reiben, Umherblicken, Sichaufrichten, Zurücklehnen, Sichstrecken,
+Aufstehen, selten ist Gehen oder sogar Laufen („Running Fits“) ; als Rarität kann es zum
+Orgasmus kommen. Der Patient nimmt während des Anfalls in der Regel die Umgebung gar nicht
+wahr, und reagiert nicht auf Ansprache, z.B. auf die Aufforderung zu zählen. Bei komplexen
+fokalen Anfällen ohne sekundäre Generalisierung oder fokalen Zuckungen kommt es nicht selten
+zu einer langsamen Kopfdrehung, die in der Regel ipsilateral zum EEG-Fokus gerichtet ist. Eine
+tonische Haltung des zum Anfallherd kontralateralen Arms ist nicht ungewöhnlich. Treten
+periiktal Kopfschmerzen auf, sind diese meist ipsilateral zum Fokus lokalisiert. Der Anfall endet
+allmählich und dauert in der Regel 1-2 Minuten. Zum Anfallsende lichtet sich die
+Bewusstseinstörung über eine Desorientierungsphase allmählich im Laufe einiger Minuten. In
+dieser Zeit kann das Kurzzeitgedächtnis gestört sein. Bei Anfallsursprung in der
+sprachdominanten Hemisphäre kann es zur Dysphasie kommen. Postiktal wird nicht selten die
+Nase
+
+angefasst.
+
+Neurologisch
+
+besteht
+
+ein
+
+normaler
+
+Befund
+
+bis
+
+auf
+
+eine
+
+Kurzzeitgedächtnisstörung, es sei denn, es liegt eine symptomatische Epilepsie vor. Eine zur
+Seite des Fokus kontralaterale Fazialisschwäche fällt bei unwillkürlichen Bewegungen wie
+Lachen auf. Polyzystische Ovarien und hypogonadotroper Hypogonadismus treten häufiger auf
+als bei Frauen in der Gesamtbevölkerung. Neuropsychologisch findet man eine für den jeweiligen
+
+20
+
+Temporallappen typische Gedächtnisstörung, entweder verbal oder bildhaft, je nachdem ob der
+dominante oder nichtdominante Temporallappen betroffen ist. Weiterhin wurde eine
+Beeinträchtigung von Intelligenz, akademischer Leistung, Sprache und visuospatialen Funktionen
+beschrieben, während Konzentration und Problemlösung ungestört bleiben. Psychiatrische
+Auffälligkeiten, insbesondere Depressionen, sind häufig. Bei etwa der Hälfte der Patienten wird
+eine Persönlichkeitssörung nach DSM IV gefunden. Manche Patienten fallen schon frühabends
+todmüde ins Bett und wachen sehr früh und frisch auf, ein Schlafverhalten, das Psychologen mit
+dem Begriff „Lerchen“ bezeichnen. Temporallappenepilepsien können die Libido verringern. Im
+MRT findet sich häufig eine Ammonhornsklerose (AHS). Es besteht Übereinstimmung, dass eine
+Hippokampusatrophie, die im quantitativen MRT zu erkennen ist, ein sensitiver und spezifischer
+Surrogatindikator für eine AHS bei Patienten mit fokaler Epilepsie ist. Eine AHS findet sich bei
+etwa
+
+70%
+
+in
+
+präparatorisch
+
+gut
+
+erhaltenen
+
+Resektaten
+
+von
+
+Patienten
+
+mit
+
+Temporallappenepilepsie. Das quantitative MRT ist bei der Diagnose der medialen
+Temporallappenepilepsie hilfreicher als andere Methoden wie das interiktale EEG. Im EEG
+findet man einseitige oder unabhängig beidseitige temporal vorn gelegene Spikes mit maximaler
+Amplitude in den basalen Ableitungen. Im Anfall sieht man fokale rhythmische Muster von 5-7/s
+mit maximaler Ausprägung in einer basalen temporalen Ableitung. Bei Patienten ohne Tumoren
+ist die Hippokampusatrophie ein verlässlicher Hinweis auf deutliche Nervenzellverluste und
+zudem ein Prädiktor für eine gute postoperative Prognose. Ob die Hippokampusatrophie eine
+Folge
+
+häufiger
+
+Anfälle
+
+über
+
+viele
+
+Jahre
+
+oder
+
+präexistierende
+
+Ursache
+
+der
+
+Temporallappenepilepsie ist, bleibt umstritten. Selten sind im MRT zu erkennende
+Veränderungen auf die Amygdala beschränkt. Durch ein hochauflösendes MRT sind bei
+Patienten mit medialen Temporallappenepilepsien bei etwa 7% eine Reihe unterschiedlicher
+Formen kortikaler Dysgenesien und auch kleine Tumoren nachzuweisen, die sich dem CT
+weitgehend entziehen, während nichttumoröse Veränderungen wie die vor allem bei
+pharmakoresistenten Fällen nicht seltene AHS, alte Nekrosen oder vaskuläre Malformationen
+häufig erst histopathologisch im Operationspräparat sichtbar werden. Im interiktalen SPECT
+findet man eine Hypoperfusion im Temporallappen. Die im PET nachgewiesenen hypometabolen
+Zonen im Temporallappen sind ein Prädiktor für eine gute postoperative Prognose. Das
+ätiologische Spektrum symptomatischer Ursachen ist breit. Trotz sorgfältiger neurologischer und
+bilgebender Diagnostik bleibt die Ätiologie bei etwa einem Drittel der Patienten unbekannt
+(Schmidt und Elger, 2005).
+
+21
+
+2.2.1.3 Verlauf
+Der Verlauf der medialen Temporallappenepilepsie ist durch ein gutes Ansprechen auf
+Standardmedikamente der ersten Wahl wie Carbamazepin oder Valproat in Monotherapie bei
+allenfalls der Hälfte der Patienten charakterisiert. Etwa 30 % werden anfallsfrei und 20 % haben
+eine deutliche Anfallsverringerung. In den übrigen Fällen ist durch Austausch mit einem anderen
+Standardmedikament oder durch Kombination mit bewährten oder neuen Antiepileptika bei 10 %
+Anfallsfreiheit zu erzielen. Allerdings sind 35-40 % der Patienten derzeit medikamentös nicht
+ausreichend behandelbar, speziell Patienten mit einer AHS. Diese Patienten können aber mit sehr
+gutem Erfolg operativ behandelt werden. Anfallsfrei werden postoperativ vor allem Patienten mit
+einer kleinen epileptogenen Zone, AHS, vorwiegend unilateralen interiktalen Spikes im vorderen
+Temporallappen, möglichst vollständige Resektion der temporomesialen Strukturen, Operation
+vor dem 30 Lebensjahr und keinen frühen Anfällen in der postoperativen Phase. Nicht anfallsfrei
+werden hingegen Patienten mit großer epileptogenen Zone mit Beteiligung des posterioren und
+lateralen Temporallappens, traumatischer oder entzündlicher Ätiologie, bitemporalen oder
+temporal hinten gelegenen interiktalen Spikes (Schmidt und Elger, 2005).
+2.2.1.4 Medikamentöse Therapie
+
+Moderne Antiepileptika wie Gabapentin, Lamotrigin, Oxcarbazepin und die klassichen
+Antiepileptika wie Carbamazepin oder Valproat werden als Mittel der 1. Wahl zur Behandlung
+fokaler Anfälle empfohlen. Frühzeitig ist an die sehr erfolgreiche operative Therapie zu denken,
+mit der geeignete Patienten in 60-70 % der Fälle anfallsfrei werden. Haben mindestens 3
+Medikamente innerhalb von 3 Jahren nicht den erwünschten Erfolg gebracht, sollte die
+Möglichkeit der operativen Therapie ernsthaft in Betracht gezogen werden und die Operabilität
+der Epilepsie untersucht werden. Außerdem stehen noch Phenytoin, Phenobarbital, Primidon und
+Azetazolamid als einige der weiteren Alternativen zur Verfügung. Bromid oder Mesuximid ist als
+Ultima ratio anzusehen. Bromid bei extrem schwer behandelbaren Epilepsien mit tonischklonischen oder komplexen fokalen Anfällen als Komedikament in Einzelfällen hilfreich. Eine
+Einstellung auf Medikamente der weiteren Wahl sollte allerdings Ärzten mit spezieller Erfahrung
+vorbehalten bleiben wegen der Schwierigkeit, die individuelle Nutzen-Risiko-Relation
+abzuschätzen und wegen der höheren Rate an Komplikationen bei der Behandlung mit diesen
+Medikamenten. Zu betonen ist, dass die individuelle Entscheidung nach Abwägung von
+
+22
+
+Schwächen und Stärken der einzelnen Substanzen unterschiedlich ausfallen kann. Es gibt keine
+kontrollierten Studien, ob bestimmte Kombinationen von Medikamenten besser sind als andere
+(Schmidt und Elger, 2005).
+
+2.2.1.5. Operative Therapie
+
+Patienten mit medialen Temporallappeneplepsien, die trotz Behandlung mit adäquat dosierten
+Standardmedikamenten in Monotherapie wie in Kombination noch weiterhin mehrere Anfälle pro
+Monat aufweisen und die auch auf Zugabe neuer speziell wirksamer Medikamente wie
+Levetiracetam, Oxcarbazepin, Pregabalin, Topiramat nicht angesprochen haben, kann durch einen
+epilepsiechirurgischen Eingriff häufig geholfen werden. Die prächirurgische Untersuchung prüft,
+ob der Ursprung der üblichen Anfälle innerhalb der Grenzen der beabsichtigten Resektion liegt.
+Die Gedächtnisleistung des kontralateralen medialen Temporallappens wird kontrolliert. Die
+apparative Diagnosestellung erfolgt durch den Nachweis von temporal vorn gelegenen Spikes im
+EEG und einer Hippokampusatrophie im hochauflösenden MRT. Die Ergebnisse der
+chirurgischen Behandlung nach Temporallappenresektion sind sehr gut. 60-70 % der Patienten
+werden anfallsfrei oder fast anfallsfrei, wobei dies heißt, dass zwei Jahre lang keine
+„behindernden“ Anfälle auftreten. Auch die Operationsergebnisse in der Pädiatrie sind sehr gut.
+Auren kommen jedoch gelegentlich vor und die Patienten nehmen in der Regel Antiepileptika
+auch postoperativ ein. Weitere 20-25 % weisen eine mehr als 90 %ige Reduktion der
+Anfallshäufigkeit auf. Zu dieser Gruppe gehören auch Patienten mit ein oder zwei Anfällen nach
+der Operation. Nach 5 Jahren sind noch mehr als 50 % und nach 10 Jahren etwas weniger als
+50% anfallsfrei oder fast anfallsfrei. Die besten Operationserfolge werden bei Patienten mit AHS,
+glialen Tumoren oder angeborenen Malformationen erzielt. Der Nachweis der Epileptogenität ist
+durch bildgebende Verfahren nicht möglich. Es muss durch mehrere Anfalls-EEGs belegt
+werden, dass diese Strukturen tatsächlich für die Entstehung der Anfälle verantwortlich sind. Bei
+Patienten, die weder im bildgebenden Verfahren noch retrospektiv bei der histopathologischen
+Untersuchung des exzidierten Präparats einen pathologischen Befund aufweisen, sinken die
+Erfolgschancen. Diese Patienten werden meist nicht anfallsfrei. Die Erfolgsaussichten werden
+größer, wenn die Patienten mit medialen Temporallappenepilepsien bereits im Jugend- oder
+frühen Erwachsenenalter operiert werden können. Die Resektion des medialen Temporallappens
+ist wie jede Operation nicht frei von Komplikationen. Häufig treten Gesichtsfelddefekte im
+
+23
+
+oberen Quadranten sowohl nach Resektion des vorderen Temporallappens als auch nach
+Amygdala-Hippokampektomie auf, die durch Untersuchungen festgestellt werden können, vom
+Patienten
+
+aber
+
+fast
+
+nie
+
+bemerkt
+
+werden.
+
+Bei
+
+Temporallappenresektion
+
+der
+
+nicht
+
+sprachdominanten Hemisphäre sind zusätzliche Gedächtnisdefekte unwahrscheinlich. Die
+Temporallappenresektion der sprachdominanten Hemisphäre ruft hingegen ein Defizit in der
+verbalen Gedächtnisfunktion hervor, das intellektuell anspruchsvolle Tätigkeiten einschränken
+kann. Durch funktionelle Untersuchungen (z.B. Injektion von Amobarbital in die Carotis beim
+Wada-Test) kann ein erhöhtes Risiko von Sprach-, Gedächtnis- oder anderen neurologischen
+Störungen erfasst werden. Dennoch sind bei einigen Patienten neurologische Störungen
+postoperativ unvermeidbar (Schmidt und Elger, 2005).
+
+2.2.2 Epilepsie des lateralen Temporallappens
+
+Sie ist viel seltener als solche des medialen Temporallappens; folgende Kriterien sprechen für
+eine laterale Temporallappenepilepsie: keine Fieberkrämpfe in der Anamnese, keine epigastrische
+Aura, experimentelle Aura und frühe motorische Anfallsbeteiligung des kontralateralen Arms
+sowie seltener frühe orale Automatismen. Patienten mit lateralen Temporallappenepilepsien
+werden seltener postoperativ anfallsfrei als solche mit medialer TLE. Außerdem ist es nicht
+bekannt, ob es Unterschiede im Ansprechen auf einzelne Medikamente zwischen der lateralen
+und der medialen TLE gibt (Schmidt und Elger, 2005).
+
+2.3 Epilepsiechirurgie
+2.3.1 Definition – Was ist Epilepsiechirurgie?
+
+Unter Epilepsiechirurgie versteht man eine neurochirurgische Operation zur Behandlung einer
+therapieresistenten Epilepsie mit den folgenden Zielen: (1) Verbesserung der Anfallskontrolle, im
+Idealfall Anfallsfreiheit; (2) Minimierung von Nebenwirkungen; (3) Verbesserung der
+Lebensqualität.
+
+Da die Epilepsiechirurgie einen elektiven Eingriff darstellt, sind die
+
+Anforderungen an die Qualitätskontrolle besonders hoch.
+
+24
+
+2.3.2 Epilepsiechirurgie – Bedeutung und Bedarf
+
+Die Epilepsie ist mit einer Prävalenz von 5–9 pro 1000 Einwohner eine der häufigsten
+neurologischen Erkrankungen. Während bei ca. 65 % der Epilepsiepatienten durch eine
+antiepileptische Therapie anhaltende Anfallsfreiheit erreicht werden kann, besteht bei den übrigen
+35 % eine schwer behandelbare Epilepsie (Anfälle trotz maximaler Therapie). Bei einem Teil
+dieser Patienten kann durch eine neurochirurgische Operation Anfallsfreiheit oder eine
+signifikante Verbesserung der Anfallssituation erreicht werden. Die Effektivität und Sicherheit
+der Epilepsiechirurgie im Vergleich zur Pharmakotherapie wurde kürzlich von der „American
+Academy of Neurology“ in Zusammenarbeit mit der „American Epilepsy Society“ und der
+„American Association of Neurological Surgeons“ einer kritischen Evaluation unterzogen. Dazu
+wurde die zu diesem Thema seit 1990 veröffentlichte Literatur systematisch analysiert. In einer
+Intention-to-treat-Class-I-randomisierten, kontrollierten Studie zur chirurgischen Behandlung von
+Patienten mit Temporallappenepilepsie konnte dabei eine signifikante Überlegenheit der
+chirurgischen Therapie im Vergleich zur medikamentösen Therapie nachgewiesen werden
+(Wiebe et al., 2001). So waren nach einem Jahr 58 % der in die chirurgische Gruppe
+randomisierten Patienten anfallsfrei (64 % der Patienten, die auch tatsächlich operiert wurden),
+jedoch nur 8 % der Patienten, die in die medikamentöse Gruppe randomisiert worden waren.
+Zudem zeigte die chirurgische Gruppe eine signifikante Verbesserung der Lebensqualität und
+einen Trend zu einer besseren sozialen Integration. Es bestand keine chirurgische Mortalität, die
+chirurgische Morbidität war gering. Zudem erbrachten 24 Class-IV-Serien von temporalen
+Resektionen im Wesentlichen identische Ergebnisse. Es wird deshalb empfohlen, Patienten mit
+therapieresistenten Temporallappenepilepsien an ein epilepsiechirurgisches Zentrum zur
+prächirurgischen Diagnostik zuzuweisen. Für Patienten mit extratemporalen Epilepsien wurde
+keine abschließende Empfehlung abgegeben.
+
+2.3.3 Für wen kommt ein epilepsiechirurgischer Eingriff in Frage?
+
+Folgende 2 Voraussetzungen müssen für einen epilepsiechirurgischen Eingriff bestehen: (1) Es
+besteht eine medikamentös therapieresistente Epilepsie; (2) der Patient leidet an einem operativ
+behandelbaren Epilepsiesyndrom.
+
+25
+
+2.3.3.1. Medikamentöse Therapieresistenz
+In der Literatur existiert keine einheitliche Definition für eine therapieresistente Epilepsie. Dies
+macht in Anbetracht der Heterogenität der Patientenpopulationen und Epilepsiesyndrome (neudiagnostizierte Epilepsien vs. chronische Epilepsien; Kinder vs. Erwachsene; Erwachsene mit
+chronischen Epilepsien vs. Kinder mit katastrophalen Epilepsien etc.) auch durchaus Sinn. Für
+epilepsiechirurgische
+
+Kandidaten
+
+werden
+
+für
+
+den
+
+Nachweis
+
+der
+
+medikamentösen
+
+Therapieresistenz derzeit von den meisten Autoren zwei adäquate Therapieversuche in
+Monotherapie sowie fakultativ einer in Kombinationstherapie gefordert. Die unter diesen
+Therapieversuchen bestehende Anfallsfrequenz wird unterschiedlich angegeben, in einer rezenten
+Studie wurde eine durchschnittliche Anfallsfrequenz von mindestens 20 Anfällen in den letzten 2
+Jahren festgelegt (Berg et al., 2003 und Spencer et al., 2003). Allerdings ist die Anfallsfrequenz,
+die für den Patienten beeinträchtigend ist, individuell festzulegen und hängt von seinen
+Lebensumständen ab. Sicherlich sind in diesem Zusammenhang auch die Erfolgsaussichten eines
+epilepsiechirurgischen Eingriffs im gegebenen Fall zu berücksichtigen. So wird man bei guten
+Erfolgsaussichten dem Patienten auch bei seltenen Anfällen eher zu einem epilepsiechirurgischen
+Eingriff raten können. Andererseits kann sich bei extrem hoher Anfallsfrequenz und
+ungünstigeren Erfolgschancen trotzdem die Indikation zur Operation im Sinne eines
+Palliativeingriffs zur Verminderung der Anfallsfrequenz ergeben. Immer sind auch die
+Nebenwirkungen der antiepileptischen Therapie zu berücksichtigen, zumal sie in vielen Fällen
+einen stärkeren Einfluss auf die Lebensqualität der Patienten haben als die Anfallsfrequenz. In
+diesem Zusammenhang ist aber festzuhalten, dass die Ziele eines epilepsiechirurgischen Eingriffs
+Anfallsfreiheit bzw. Anfallsreduktion sind, und nicht die Beendigung der antiepileptischen
+Therapie. Allerdings kann nach einem erfolgreichen epilepsiechirurgischen Eingriff in den
+meisten Fällen die Antiepileptika-Dosis signifikant reduziert werden. Die Prüfung der
+medikamentösen Therapieresistenz ist zügig und jedenfalls innerhalb von 2 Jahren
+durchzuführen.
+2.3.3.2. Operativ behandelbare Epilepsiesyndrome
+Die zweite wesentliche Voraussetzung für einen epilepsiechirurgischen Eingriff ist, dass der
+Patient überhaupt an einem chirurgisch behandelbaren Epilepsiesyndrom leidet, d. h. es muss
+hinreichend klar sein, dass die Erkrankung medikamentös therapieresistent ist und bleibt (unter
+Umständen sogar progressiv ist) und dass ein chirurgischer Eingriff mit hoher Wahrscheinlichkeit
+zur Anfallsfreiheit bzw. -reduktion führt. Der Krankheitsverlauf verschiedener
+
+26
+
+Epilepsiesyndrome, ihr Ansprechen auf eine medikamentöse antikonvulsive Behandlung und ihre
+Prognose wurden in den vergangenen Jahren genauer erforscht, sodass es heute schon frühzeitig
+möglich ist, eine langfristige Prognose abzugeben. Grundsätzlich ist die zugrundeliegende
+strukturelle Läsion von entscheidender prognostischer Bedeutung. Oft besteht gerade bei
+denjenigen Epilepsiesyndromen, bei denen in einem hohen Prozentsatz medikamentöse
+Therapieresistenz gegeben ist, eine sehr gute Prognose im Falle einer chirurgischen Therapie.
+Grundsätzlich können 2 Gruppen von operativ behandelbaren Epilepsiesyndromen unterschieden
+werden.
+
+Im
+
+Folgenden
+
+sollen
+
+einige
+
+der
+
+wichtigsten
+
+chirurgisch
+
+behandelbaren
+
+Epilepsiesyndrome exemplarisch dargestellt werden.
+2.3.3.2.1. Mesiale Temporallappenepilepsie
+Die mesiale Temporallappenepilepsie ist die häufigste Epilepsieform überhaupt. Das
+pathologisch-anatomische Substrat stellt die mesiale Temporallappensklerose dar. Die
+Erkrankung beginnt typischerweise mit einem sog. „initial precipitating incident“ (IPI), wie
+komplizierten Fieberkrämpfen, einem Trauma, einer Hypoxie oder einer intrakraniellen Infektion
+im Alter von < 5 Jahren. Es folgt dann ein anfallsfreies Intervall, Anfälle ohne Fieber treten in der
+zweiten Hälfte der ersten Lebensdekade oder später auf. Die Anfälle sind anfangs gut
+einzustellen, bei 70–90 % der Patienten entwickelt sich im weiteren Verlauf jedoch eine
+therapierefraktäre Epilepsie. Die Anfallsformen umfassen Auren (in 90 % der Fälle; epigastrische
+Auren und affektive Auren sind dabei am häufigsten), fokal-komplexe Temporallappenanfälle
+und sekundär generalisierte tonisch-klonische Anfälle. Das interiktale EEG zeigt eine
+intermittierende (rhythmische) Verlangsamung regional temporal sowie Spikes. Mittels MRT
+sind eine Substanzminderung als Ausdruck der Hippokampusatrophie (T1-gewichtete
+Sequenzen), ein hyperintenses Signal als Ausdruck der Hippokampussklerose (T2-gewichtete
+Sequenzen) sowie ein Verlust der hippokampalen Binnenstruktur (Inversion RecoverySequenzen) nachweisbar. In der interiktalen FDG-PET findet sich ein ausgedehnter
+Hypometabolismus, der den gesamten Temporallappen sowie auch den lateralen frontalen Kortex
+erfasst. Neuropsychologisch zeigen die Patienten charakteristischerweise materialspezifische
+Gedächtnisdefizite, wobei insbesondere bei einer epileptogenen Zone im Bereich des
+sprachdominanten Temporallappens verbale Gedächtnisdefizite ausgeprägt sind.
+
+27
+
+2.3.3.2.2 Sonstige Operationsindikationen
+-Läsionelle Epilepsien
+-Zystische Läsionen: porenzephale Zysten
+-Entzündliche bzw. postentzündliche Veränderungen: Neurozystizerkose, Tuberkulome
+-Vaskuläre Läsionen
+-Posttraumatische Läsionen
+-Malformationen der kortikalen Entwicklung („malformations of cortical development“, MCDs)
+-Tumoren
+-Gefäßmalformationen
+-MR-negative Epilepsien
+-Diffuse hemisphärische Epilepsien
+-Epilepsien, bei denen eine Diskonnektionsoperation sinnvoll ist
+
+2.3.4 Präoperative Epilepsiediagnostik
+
+2.3.4.1. Konzeptionelle Überlegungen
+Das Ziel eines epilepsiechirurgischen Eingriffs besteht einerseits in der Entfernung des
+epileptogenen Gewebes und damit der Beseitigung der Anfallsursache. Zum anderen dürfen
+durch die Operation keine neurologischen oder neuropsychologischen Defizite verursacht
+werden. Deshalb müssen im Rahmen der präoperativen Epilepsiediagnostik einerseits
+Lokalisation und Ausdehnung der durch den epileptogenen Prozess bedingten strukturellen und
+funktionellen Veränderungen genau bestimmt werden, andererseits müssen auch sogenannte
+essentielle Hirnregionen (Zentren für Motorik, Sprache und Gedächtnis) exakt lokalisiert werden.
+In diesem Zusammenhang wurden die folgenden Begriffe geprägt:
+• Irritative Zone: Bezeichnet diejenigen Kortexareale, von denen interiktale epileptiforme
+Entladungen abgeleitet werden können.
+• Anfallsursprungszone: Hirnregion, von der die Anfälle ihren Ausgang nehmen bzw. in der die
+iktalen epileptiformen Entladungen beginnen.
+• Iktal
+
+symptomatogene
+
+Zone:
+
+Hirnregion,
+
+in
+
+der
+
+die
+
+ersten,
+
+klinisch
+
+manifesten
+
+Anfallssymptome erzeugt werden (kann mit der Anfallsursprungszone identisch sein oder aber
+erst durch Propagation erfasst werden und in diesem Fall von der Anfallsursprungszone entfernt
+liegen).
+
+28
+
+• Funktionelle Defizitzone: Hirnregion, in der nicht-epileptische Funktionsstörungen bestehen,
+wie sie in der klinisch-neurologischen Untersuchung, der neuropsychologischen Testung, im
+interiktalen EEG (Verlangsamungen), in der interiktalen PET und SPECT erfasst werden können.
+• Epileptogene Läsion: Strukturelle Läsion, die ursächlich für die Anfälle verantwortlich ist –
+definiert mittels Magnetresonanztomographie bzw. Histologie.
+• Epileptogene Zone: Hirnregion, deren Entfernung notwendig und hinreichend ist, um
+Anfallsfreiheit zu erzielen. Eine verlässliche Definition der epileptogenen Zone beruht dabei auf
+konvergierenden Befunden unterschiedlicher Untersuchungsmodalitäten. Man kann dabei
+zwischen einer nicht-invasiven (Phase I) und einer invasiven Abklärungsphase (Phase II)
+unterscheiden.
+2.3.4.2. Nicht-invasive Abklärung (Phase I)
+Bei der nicht-invasiven Abklärung lassen sich obligate und fakultative Methoden unterscheiden.
+Zu den obligaten Methoden, die bei jedem Patienten durchgeführt werden müssen, zählen das
+prolongierte Video-EEG-Monitoring, die hochauflösende Magnetresonanztomographie und die
+neuropsychologische Testung. Die fakultativen Methoden (SPECT, PET, fMRT, MRSpektroskopie, Magnetoenzephalographie, Wada-Test) werden nur dann eingesetzt, wenn sich
+bei den obligaten Methoden inkongruente oder widersprüchliche Befunde ergeben.
+2.3.4.2.1. Prolongiertes Video-EEG-Monitoring
+Die Dokumentation der klinischen Anfallssymptomatologie sowie der interiktalen und iktalen
+EEG-Veränderungen im Oberflächen-EEG mittels prolongiertem Video- EEG-Monitoring bildet
+das Kernstück der präoperativen Diagnostik. Die Video-EEG-Überwachung erfolgt kontinuierlich
+über 24 Stunden pro Tag durchschnittlich über 5–10 Tage. Das interiktale EEG wird sowohl
+hinsichtlich unspezifischer Veränderungen (regionale Verlangsamungen) als auch bezüglich
+epileptiformer Veränderungen (interiktale Spitzen) beurteilt, wobei ein ausreichendes Sampling
+über die verschiedenen Stadien des Schlaf- Wach-Zyklus erforderlich ist. Es müssen immer
+mehrere Anfälle abgeleitet werden um sicherzustellen, dass der Patient lediglich an einem
+Anfallstyp leidet. Die Antiepileptika werden deshalb je nach Bedarf reduziert oder ganz
+abgesetzt. Aus der klinischen Anfallssymptomatologie können – insbesondere bei entsprechender
+iktaler und postiktaler Testung – bereits wertvolle lokalisatorische und lateralisierende
+Informationen erhalten werden. Die im Video aufgezeichnete klinische Anfallssymptomatologie
+wird anschließend mit den exakt zeitsynchronisierten iktalen EEG-Veränderungen korreliert.
+
+29
+
+2.3.4.2.2. Strukturelle Bildgebung
+Die strukturelle Abklärung erfolgt mittels hochauflösender Magnetresonanztomographie.
+Verbesserungen der Untersuchungstechnik (enge koronale Schichtführung orthogonal zur
+Längsachse
+
+des
+
+Hippokampus,
+
+Inversion-
+
+Recovery-Sequenzen
+
+zur
+
+Beurteilung
+
+der
+
+Binnenstruktur der Hippokampusformation, Verwendung von Oberflächenspulen bei der
+Untersuchung von neokortikalen Strukturen) und der Bildanalyse (Volumetrie des Hippokampus,
+dreidimensionale Bildrekonstruktion, kurvilineare Rekonstruktion, Voxel-Based-Morphometrie)
+haben dabei zu einem entscheidenden Durchbruch in der präoperativen Epilepsiediagnostik
+geführt, wobei anzumerken ist, dass bei vielen Patienten mit einem unauffälligen Befund aus
+einer routinemäßig durchgeführten Magnetresonanztomographie nunmehr bei entsprechend
+gezielter Untersuchung strukturelle Veränderungen nachgewiesen werden können, was wiederum
+die Strategie der präopevativen Diagnostik und operativen Therapie ganz entscheidend
+beeinflusst.
+2.3.4.2.3. Neuropsychologische Verfahren
+Bei allen Patienten erfolgt eine ausführliche neuropsychologische Testung zur Erstellung eines
+präoperativen neuropsychologischen Profils, aus dem ebenfalls Rückschlüsse auf die funktionelle
+Defizitzone erhalten werden können. Zudem können prognostische Aussagen über allfällige,
+durch die Operation zu erwartende neuropsychologische Beeinträchtigungen getroffen werden.
+Mittels Wada-Test können bei speziellen Fragestellungen Sprache und Gedächtnis lateralisiert
+werden.
+2.3.4.2.4. PET und SPECT
+Das mit einer fokalen Epilepsie assoziierte funktionelle Defizit kann durch Messung des
+regionalen
+
+Glukosestoffwechsels
+
+in
+
+der
+
+interiktalen
+
+Positronenemissionstomographie
+
+([18F]FDG-PET) und des regionalen zerebralen Blutflusses in der interiktalen Single-PhotonEmissionscomputertomographie
+
+(99mTc-Hexamethyl-propyleneamine
+
+[99mTc-HMPAO]-
+
+SPECT und 99mTc-ethyl cysteinate dimer [99mTc-ECD]-SPECT) erfasst werden. Im
+Allgemeinen sind die Veränderungen in PET und SPECT räumlich ausgedehnter als die in der
+strukturellen Bildgebung fassbaren strukturellen Veränderungen und die durch interiktale und
+iktale EEG-Veränderungen definierten elektrophysiologischen Veränderungen. Die Sensitivität
+der PET beträgt 60–90 % bei den Temporallappenepilepsien, wobei bei Patienten mit
+unauffälligem MRT die Sensitivität eher bei 60 % liegt, während bei Patienten mit
+Hippokampusatrophie eine Sensitivität von nahezu 100 % erreicht werden kann. Bei der
+
+30
+
+extratemporalen Epilepsie ist die Sensitivität deutlich geringer. Die interiktale SPECT liegt mit
+einer Sensitivität von 40–50 % bei der Temporallappenepilepsie deutlich niedriger als die der
+PET, was einerseits in der besseren räumlichen Auflösung der PET und andererseits in den
+unterschiedlichen erfassten Parametern der beiden Untersuchungsmodalitäten (PET: regionaler
+Glukosemetabolismus; SPECT: regionaler zerebraler Blutfluss) begründet ist. Die SPECT
+ermöglicht – im Gegensatz zur PET – aufgrund der speziellen Tracerkinetik die Untersuchung
+des regionalen zerebralen Blutflusses während eines Anfalls, wobei es im Bereich der
+Anfallsursprungszone zu einer signifikanten Zunahme des regionalen zerebralen Blutflusses
+kommt – iktale SPECT. Die Indikation für die iktale SPECT besteht vorwiegend in der
+Lokalisationsdiagnostik bei extratemporalen, nicht-läsionellen Epilepsien, wobei Sensitivität und
+Spezifität durch Koregistrierung von MRT, interiktaler und iktaler SPECT signifikant erhöht
+werden können. Da der Tracer unmittelbar zu Beginn des Anfalls appliziert werden muss, ist die
+Durchführung von iktalen SPECT-Untersuchungen mit einem erheblichen personellen und
+organisatorischen Aufwand verbunden.
+2.3.4.2.5. Funktionelle Magnetresonanztomographie (fMRT)
+Die fMRT erlaubt die Visualisierung des mit einer fokalen Epilepsie assoziierten funktionellen
+Defizits. Zudem können auch die daraus resultierenden Plastizitätsvorgänge nicht-invasiv
+untersucht werden. Hier sind insbesondere das Sprach- und das Gedächtnis-fMRT zu erwähnen.
+Die Sprachlateralisation mittels fMRT zeigt eine exzellente Übereinstimmung mit dem WadaTest. Die Übereinstimmung ist bei links-hemisphärischer Sprachrepräsentation am höchsten,
+jedoch deutlich niedriger bei rechts-hemisphärischer oder bilateraler Sprachrepräsentation.
+Zudem war die Übereinstimmung bei linksseitiger Temporallappenepilepsie besser als bei
+linksseitiger extratemporaler Epilepsie. Die fMRT konnte postoperative Benennstörungen nach
+einer linksseitigen Temporallappenresektion mit einer Sensitivität von 100 % und einer Spezifität
+von 73 % vorhersagen (Sabsevitz et al., 2003). Die fMRT kann auch zur interhemisphärischen
+Sprachlokalisation bei Eingriffen im Bereich sprachrelevanter Hirnareale verwendet werden,
+wobei sich eine Sensitivität von 100 % bei einer Spezifität von 60 % zeigte. Derzeit kann die
+Sprach-fMRT zwar zur Operationsplanung verwendet werden, kann aber die direkte kortikale
+Stimulation für die Lokalisation von sprachrelevantem Kortex noch nicht ersetzen. Mittels
+Gedächtnis-fMRT kann bei Patienten mit Temporallappenepilepsien eine verminderte
+Aktivierung mesialer temporaler Strukturen ipsilateral zum epileptischen Fokus nachgewiesen
+werden (Bellgowan et al., 1998; Detre et al., 1998; Golby et al., 2002; Jokeit et al., 2001; Rutten
+
+31
+
+et al., 2002), wobei sich gute Übereinstimmungen mit den Ergebnissen der neuropsychologischen
+Testung und des Wada-Tests zeigten. Zudem ermöglicht die Gedächtnis-fMRT auch
+prognostische Aussagen über postoperative Gedächtniseinbußen, insbesondere über Einbußen des
+verbalen Gedächtnisses bei Eingriffen am sprachdominanten Temporallappen.
+2.3.4.3. Invasive Abklärung (Phase II)
+Falls die nicht-invasiven Untersuchungen der Phase I inkonklusive oder widersprüchliche
+Befunde ergeben, müssen in einer Phase II invasive Methoden mit intrakraniellen Elektroden zur
+Anwendung gebracht werden. Man kann dabei epidurale Peg-Elektroden, Foramen ovaleElektroden, stereotaktisch implantierte Tiefenelektroden und subdurale Streifen- oder
+Plattenelektroden unterscheiden.
+2.3.4.3.1. Epidurale Peg-Elektroden
+Epidurale Peg-Elektroden sind pilzförmige, kleine Elektroden, die über Bohrlöcher epidural in
+beliebiger Lokalisation gesetzt werden können und im Falle einer unzureichenden Hypothese
+hinsichtlich der Lokalisation der epileptogenen Zone aus der nicht-invasiven Abklärung die
+Erfassung verschiedener, unter Umständen weit entfernter Hirnareale ermöglichen. Da die Dura
+nicht eröffnet wird, ist die Komplikationsrate entsprechend gering: Lokale Infektionen mit milden
+transienten Hemiparesen treten in weniger als 2 % der Fälle auf. Als Nachteile der PegElektroden sind das lokale Sampling (Ableitung lediglich in unmittelbarer Umgebung der
+Bohrlöcher) und die fehlende Möglichkeit einer funktionellen Stimulation anzuführen, sodass sie
+lediglich als Zwischenstufe vor der Verwendung von Tiefen- oder Plattenelektroden anzusehen
+sind und in letzter Zeit auch zunehmend wieder verlassen wurden.
+2.3.4.3.2. Foramen ovale-Elektroden
+Foramen ovale-Elektroden sind Multikontaktelektroden, die durch das Foramen ovale in den
+Subarachnoidalraum mesio-basal des Temporallappens gesetzt werden und somit intrakraniell,
+extrazerebral zu liegen kommen. Die Indikation für Foramen ovale-Elektroden besteht
+insbesondere in der Lateralisation von Temporallappenanfällen. Die Vorteile bestehen in der
+relativ geringen Invasivität und der guten Erfassung von mesio-basalen, temporalen Strukturen,
+die Nachteile in der geringen Sensitivität für epileptische Aktivität im Nucleus amygdalae und
+der fehlenden Möglichkeit zwischen Anfällen aus mesio-basalen bzw. lateralen, temporalen
+Strukturen zu unterscheiden. Als Komplikationen sind Schmerzen und Dysästhesien im
+Trigeminusbereich (7 %), Masseterparesen und sehr selten vorübergehende Hirnstammsymptome
+(0,5 %) bzw. leichte Subarachnoidalblutungen (1 %) zu erwähnen.
+
+32
+
+2.3.4.3.3. Stereotaktisch implantierte Tiefenelektroden
+Stereotaktisch implantierte Tiefenelektroden sind Elektroden, die intrazerebral platziert werden
+und die Ableitung von beliebigen, auch tief gelegenen Hirnstrukturen ermöglichen. Indikationen
+bestehen in der Lateralisation von Temporallappenanfällen, in der Differenzierung von mesiotemporalen und neokortikalen Anfällen sowie in der exakten Lokalisation bei extratemporalen
+Epilepsien. Die Vorteile liegen in der hohen Sensitivität (intrazerebrale Ableitung) und der
+Erfassung beliebiger Hirnstrukturen, die Nachteile in der hohen Invasivität und einem SamplingProblem, da lediglich Aktivität in unmittelbarer Umgebung der Elektrodenkontakte abgeleitet
+werden kann. An möglichen Komplikationen können intrazerebrale Blutungen in 1–4 %
+auftreten, wobei eine chirurgische Entleerung in lediglich 0,3 % erforderlich ist.
+2.3.4.3.4. Subdurale Streifen- und Plattenelektroden
+Subdurale Streifenelektroden werden über Bohrlöcher, subdurale Plattenelektroden über eine
+Kraniotomie nach Eröffnung der Dura direkt auf die Hirnoberfläche platziert. Die Streifen bzw.
+Platten
+
+bestehen
+
+aus
+
+multiplen,
+
+in
+
+Kunststoff
+
+eingeschweißten
+
+Platin-Iridium-
+
+Elektrodenkontakten, wobei der Elektrodenabstand zwischen 5 und 10 mm liegt und Elektroden
+mit 4 bis zu 64 Kontakten zur Verfügung stehen. Die Elektroden ermöglichen einerseits die
+Erfassung epileptiformer Veränderungen von einem relativ ausgedehnten Anteil der
+Hirnoberfläche und somit die Bestimmung von Lokalisation und räumlicher Ausdehnung der
+irritativen Zone und der Anfallsursprungszone. Zum anderen können die einzelnen Elektroden
+und damit die unmittelbar angrenzenden Hirnrindenareale selektiv elektrisch stimuliert werden
+und somit essentielle Hirnregionen (Motorik, Sensorik, Sprache) exakt abgegrenzt werden
+(kortikale Stimulation). Die Indikation dieser Elektroden besteht in der Lateralisation von
+Temporallappenepilepsien (bilaterale Streifen), in der Differenzierung von mesialen und
+neokortikalen Temporallappenepilepsien und vor allem in der Abklärung von extratemporalen
+Epilepsien, insbesondere wenn die Anfallsursprungszone in der Nähe funktionell bedeutsamer
+Hirnareale liegt. Als Nachteil der Platten ist die Notwendigkeit der Kraniotomie zur Platzierung
+der Elektroden anzuführen. Mögliche seltene Komplikationen bestehen in Hirndruck, venösen
+Infarzierungen und intrakraniellen Infektionen, die mit einer Häufigkeit von 1–4 % vorkommen.
+
+33
+
+2.3.5 Operative Verfahren
+
+Die operative Therapie der Temporallappenepilepsie und hier insbesondere der mesialen
+Temporallappenepilepsie stellt quantitativ die größte Gruppe der epilepsiechirurgischen Eingriffe
+dar. Nachdem ursprünglich sog. En-bloc- Resektionen des Temporallappens durchgeführt
+wurden, wurden in weiterer Folge – auch bedingt durch die Möglichkeiten der
+Mikroneurochirurgie – neue Operationsverfahren entwickelt, bei denen laterale temporale
+Strukturen geschont werden und sich die Resektion auf den Temporalpol und die mesialen
+temporalen Strukturen (antero-mesiale Resektion) oder lediglich auf die mesialen Strukturen
+beschränkt
+
+(selektive
+
+Amygdala-Hippokampektomie).
+
+Die
+
+diesen
+
+Operationsstrategien
+
+zugrundeliegende Überlegung besteht darin, dass durch eine selektivere Operation etwaige
+neuropsychologische Defizite, insbesondere Gedächtniseinbußen, minimiert werden können. Die
+Behandlung der extratemporalen Epilepsien und der neokortikalen Temporallappenepilepsien
+erfolgt mit kortikalen Resektionen, wobei sich die operative Strategie nach dem Vorhandensein
+einer strukturellen Läsion richtet. Für die postoperative Anfallskontrolle ist die vollständige
+Entfernung der strukturellen Läsion entscheidend. Die Frage, ob eine erweiterte, durch
+elektrophysiologische Parameter bestimmte Resektion bei der Behandlung von läsionellen
+Epilepsien bessere Resultate erbringt, wird kontrovers beurteilt. Dies hängt sicherlich auch von
+der Art der Läsion ab, so repräsentiert – wie bereits obenerwähnt – die makroskopisch sichtbare
+Läsion bei lokalen kortikalen Dysplasien nur die Spitze des Eisbergs. Bei nicht-läsionellen, sog.
+MR-negativen Epilepsien orientiert sich die Resektion ausschließlich an elektrophysiologischen
+Parametern. Falls das epileptogene Gewebe in funktionell wichtigen Hirnarealen gelegen ist und
+somit eine fokale Resektion aufgrund der dadurch zu erwartenden neurologischen
+Ausfallserscheinungen nicht möglich ist, bietet sich als Alternative die durch Morrell eingeführte
+Technik der sogenannten multiplen subpialen Transektionen an. Dabei werden mit einem eigens
+dafür entwickelten Dissektor die kurzen, horizontalen intrakortikalen Fasern in einem Abstand
+von 5 mm durchtrennt, während die vertikalen Strukturen und die Pia erhalten werden. Dadurch
+wird die horizontale Propagation epileptischer Aktivität verhindert, während die vorwiegend in
+vertikalen Zellverbänden organisierte Funktion erhalten bleibt. Bei ausgedehnten Pathologien
+(Hemimegalenzephalien und andere diffuse kortikale Dysplasien, Sturge-Weber- Syndrom, große
+porenzephale Zysten, Rasmussen-Enzephalitis), die oft schwer behandelbare Epilepsien im
+frühen Kindesalter mit katastrophalem Verlauf verursachen, besteht die operative Strategie in
+
+34
+
+großen, multilobären Resektionen oder Hemisphärektomien. Bei der sog. Funktionellen
+Hemisphärektomie wird die Zentralregion und der Temporallappen entfernt und eine
+Kallosotomie
+
+durchgeführt,
+
+während
+
+der
+
+restliche,
+
+diskonnektierte
+
+Frontal-
+
+und
+
+Parietookzipitallappen in situ belassen werden. Durch diese Operationstechnik kann die
+gefürchtete Spätkomplikation einer oberflächlichen, zerebralen Hämosiderose verhindert werden.
+Bei entsprechend früher Intervention profitieren die zumeist schwerst behinderten Kinder oft
+dramatisch sowohl hinsichtlich Anfallskontrolle als auch bezüglich ihrer psychomotorischen
+Entwicklung,
+
+wobei
+
+auch
+
+eine
+
+allfällige
+
+Hemisymptomatik
+
+meistens
+
+eine
+
+gute
+
+Rückbildungstendenz zeigt. Als palliativer Eingriff ist schließlich die Korpus- Kallosotomie zu
+erwähnen, deren Indikation in der Behandlung von Sturzanfällen bei sekundär generalisierten
+Epilepsien im Rahmen eines Lennox-Gastaut-Syndroms besteht. Dabei werden die vorderen 2/3
+des Balkens durchtrennt und so die interhemisphärische Propagation epileptischer Aktivität
+zwischen homotopen Arealen beider Frontal- bzw. Parietallappen verhindert.
+
+2.3.6 Postoperative Anfallskontrolle
+
+Die Beurteilung der postoperativen Anfallskontrolle erfolgt mit Hilfe von Klassifikations- bzw.
+Scoring-Systemen, um so einen Vergleich der einzelnen epilepsiechirurgischen Zentren zu
+ermöglichen und auch eine entsprechende
+
+Qualitätskontrolle zu gewährleisten. Das
+
+gebräuchlichste Klassifikationssystem ist dabei die sog. Engel-Klassifikation, wobei von der
+„Internationalen Liga gegen Epilepsie“ ein neues Klassifikationssystem vorgeschlagen wurde,
+das den Gegebenheiten in der klinischen Praxis besser gerecht werden sollte.
+Bei der Beurteilung der postoperativen Anfallskontrolle sind die folgenden methodischen
+Probleme zu beachten:
+1. Definition der Anfallsfreiheit: Nur wenige Studien dokumentieren die Anzahl der Patienten mit
+kompletter und dauernder Anfallskontrolle seit der Operation. Zumeist wird die Anfallskontrolle
+lediglich im letzten Jahr vor dem Ende des Beobachtungs-zeitraums angegeben. Zudem wird
+nicht explizit zwischen kompletter Anfallsfreiheit und Freiheit von behindernden Anfällen bei
+persistierenden Auren unterschieden. Auch die unterschiedlichen Outcome-Klassifikationen
+(Engel, Wieser, andere) sind zu berücksichtigen.
+2. Ferner ist zu beachten, dass sich die Anfallssituation auch postoperativ über die Zeit ändern
+kann. Dabei kann es einerseits zum Wiederauftreten von Anfällen bei zunächst bestehender
+
+35
+
+Anfallsfreiheit kommen (Anfallsrezidiv), andererseits können die Anfälle im zeitlichen Verlauf
+auch remittieren, nachdem zunächst postoperativ Anfälle bestanden haben.
+3. Bei den Outcome-Studien handelt es sich meist um retrospektive Studien, es gibt selten
+konservative Vergleichsgruppen bzw. quantitative Informationen über die präoperative
+Anfallsfrequenz. Die langfristige Anfallskontrolle nach resektiven epilepsiechirurgischen
+Eingriffen wurde in einer rezenten Metaanalyse untersucht, in die 83 Studien eingeschlossen
+wurden (Tellez-Zenteno et al., 2005). Der mediane Anteil der langfristig anfallsfreien Patienten
+(Beobachtungszeitraum ≥ 5 Jahre) war 66 % nach Temporallappenresektionen, 46 % nach
+okzipitalen und parietalen Resektionen, und 27 % nach frontalen Resektionen. Während die
+langfristige Anfallskontrolle nach Temporallappenresektionen somit dem kurzfristigen Outcome
+nach einem Jahr entspricht, ist die langfristige Anfallskontrolle nach frontalen Resektionen
+wesentlich schlechter als die kurzfristige Anfallskontrolle nach einem Jahr. Zu beachten ist
+ferner, dass der Anteil der komplett und dauerhaft anfallsfreien Patienten im Langzeitverlauf
+unter 40 % liegt (Wieser und Hane, 2003). Die besten Ergebnisse können bei Patienten mit
+mesialer
+
+Temporallappenepilepsie
+
+(hier
+
+insbesondere
+
+bei
+
+kongruenten
+
+Befunden
+
+aus
+
+Magnetresonanztomographie und interiktalem EEG) und bei Patienten mit läsionellen
+Temporallappenepilepsien (gliale Tumoren, Gefäßmalformationen) erzielt werden, bei nichtläsionellen neokortikalen Temporallappenepilepsien ist das Outcome schlechter (Engel 1996;
+Janszky et al., 2005; McIntosh et al., 2004; Radhakrishnan et al., 1998). Bei den extratemporalen
+Epilepsien wird das Outcome entscheidend durch das Vorhandensein bzw. Fehlen einer Läsion
+sowie durch die Art der Läsion beeinflusst (Ferrier et al., 1999; Mosewich et al., 2000; Zentner et
+al., 1996). Im Kindesalter (inkl. Operationen innerhalb der ersten 3 Lebensjahre) lassen sich
+vergleichbare Ergebnisse wie im Erwachsenenalter erzielen.
+
+2.3.6.1. Prognosefaktoren für die postoperative Anfallskontrolle
+Für eine adäquate präoperative Beratung und Aufklärung des Patienten ist es erforderlich, die zu
+erwartende Anfallskontrolle bereits präoperativ möglichst genau zu prognostizieren –
+präoperative
+
+Prognosefaktoren.
+
+Zudem
+
+ist
+
+auch
+
+die
+
+Kenntnis
+
+von
+
+postoperativen
+
+Prognosefaktoren wichtig, um einerseits eine Entscheidungshilfe beim Absetzen der
+antiepileptischen Therapie und der Befürwortung der Fahrerlaubnis bei anfallsfreien Patienten zu
+haben und andererseits bei Wiederauftreten von Anfällen den Patienten entsprechend beraten zu
+können. Allerdings ist festzuhalten, dass sich trotz zahlreicher Studien deutlich kontroverse
+
+36
+
+Ergebnisse hinsichtlich möglicher Prognosefaktoren ergeben. In einer rezenten Metaanalyse, in
+die 47 Studien mit klar definierten Studienpopulationen von mindestens 30 Patienten, einem
+Follow-up von mehr als einem Jahr und einer Outcome-Klassifikation mit dem Kriterium der
+Anfallsfreiheit einbezogen wurden, konnten folgende Prognosefaktoren identifiziert werden
+(Tonini et al., 2004):
+•Positive Prädiktoren: Fieberkrämpfe (Odd-Ratio [OR] 0,48; Konfidenzintervall [CI] 0,27–0,83);
+Hippokampusatrophie oder -sklerose (OR 0,47; CI 0,35–0,64); Tumoren (OR 0,58; CI 0,42–
+0,80); pathologisches MRT (OR 0,44; CI 0,29–0,65); Konkordanz EEG/ MRT (OR 0,52; CI
+0,32–0,83); extensive Resektion (OR 0,24; CI 0,16–0,36).
+•Negative Prädiktoren: Postoperative epileptiforme Entladungen im EEG (OR 2,41; CI 1,37–
+4,27); invasives Monitoring (OR 2,72; CI 1,60–4,60).
+
+2.3.7 Komplikationen der Epilepsiechirurgie
+
+Operative Komplikationen sind äußerst selten, die perioperative Mortalität liegt bei Resektionen
+im Bereich des Temporallappens unter 0,5 %, und beträgt 0,8 % bei extratemporalen Resektionen
+und 2 % bei Hemisphärektomien. Unerwartete postoperative neurologische Defizite, wie Paresen
+oder Hirnnervenausfälle, sind bei weniger als 5 % der Patienten zu beobachten und bilden sich
+zumeist innerhalb von wenigen Wochen oder Monaten vollständig zurück. Temporale
+Resektionen (En-bloc-Resektionen, anteromesiale Resektionen und selektive AmygdalaHippokampektomien) können zu oberen Quadrantenanopsien führen.
+
+2.4 Diagnostisches Verfahren: Magnet-Resonanz-Tomographie (MRT)
+Die Magnet-Resonanz-Tomographie ist eine moderne diagnostische Methode, die sehr exakte
+und detaillierte Schnittbilder des menschlichen Körpers liefert. Bei der MRT werden keine
+Röntgenstrahlen angewendet, sondern sie basiert auf dem Prinzip der Kernspinresonanz. Dabei
+nutzt man aus, dass Protonen einen Spin besitzen. Dies ist ein quantenmechanischer Effekt, den
+man sich etwa als Kreiselbewegung vorstellen kann. Durch diesen Spin erhalten die Atomkerne
+ein magnetisches Moment. Sowohl die Einzelspins als auch das von vielen Spins im Atomkern
+verursachte magnetische Feld reagieren auf ein durch das MR-Gerät erzeugtes Magnetfeld: Ein
+MR-Gerät verwendet ein zeitlich konstantes Magnetfeld, das eine Richtung vorgibt, in der sich
+die Spins ausrichten. Senkrecht dazu wird dann ein hochfrequentes Magnetfeld (HF-Feld) mit
+
+37
+
+einer speziellen Frequenz, der „Resonanzfrequenz“ des Protons angeschaltet. Dadurch richten
+sich die Spins und das magnetische Moment in Richtung des neuen Magnetfeldes aus (Schick,
+2005). Wird nun dieses Feld nach einiger Zeit wieder ausgeschaltet, dann senden die Protonen
+elektromagnetische Strahlung aus, die gemessen werden kann, während sie sich schnell wieder in
+Richtung des konstanten Magnetfeldes ausrichten. Dabei treten zwei Effekte auf: Die
+Magnetisierungsvektoren richten sich wieder in Richtung des ursprünglichen Magnetfeldes aus.
+Aufgrund der speziellen physikalischen Natur dieses Vorgangs wird diese Längsrelaxation auch
+als Spin-Gitter-Relaxation bezeichnet. Die Zeit, bis das Signal in Richtung des konstanten
+Magnetfeldes wieder ca. 63% des Wertes ohne HF-Feld erreicht hat, ist die T1-Zeit. Außerdem
+fällt die Magnetisierung senkrecht zum konstanten Magnetfeld ab. Diese Querrelaxation
+geschieht durch einen anderen Effekt als die Längsrelaxation und wird auch als Spin-SpinRelaxation bezeichnet. Die Zeit ab Ausschalten des HF-Feldes, nach der ca. 63% dieses Signals
+zerfallen sind, nennt man T2-Zeit (Schick, 2005).
+T1 und T2-Zeit können gemessen werden und sind abhängig vom Gewebetyp, z.B. hat
+Tumorgewebe meist eine längere T2-Zeit als normales Muskelgewebe. Allerdings ist die T1-Zeit
+wesentlich länger als die T2-Zeit. Eine Kernspintomografie umfasst stets T1- und T2- gewichtete
+Bildserien und darüber hinaus mindestens zwei räumliche Ebenen. Beide Methoden haben ihre
+Vorteile und sind nützlich: T1-gewichtete Messungen erlauben wegen des stärkeren Signals eine
+wesentlich bessere Ortsauflösung und sind deswegen sehr geeignet für die Morphometrie. Dafür
+ist bei T2-gewichteten Bildern der Gewebekontrast besser. Die Schnittbilder können außerdem
+bei der MRT-Technik im Gegensatz zu der Computertomographie (CT) koronar, axial und
+sagittal aufgenommen werden.
+Während des gesamten Untersuchungsablaufs liegt der Patient je nach Scanner in einem
+Magnetfeld von 0,5-3 Tesla, was etwa dem 15.000-90.000fachen Erdmagnetfeldes entspricht. Da
+die direkt aus dem Scanner gewonnenen Rohbilder nicht immer die beste Befundungsqualität
+haben, müssen sie mit unterschiedlichen Verfahren nachträglich verbessert werden. Die
+Filterungstechniken verwenden Algorithmen, die an der Stelle des Originalwertes einen anderen
+Grauwert setzen, der mit Daten aus der Umgebung berechnet wird. So lassen sich z.B. Lücken
+schließen oder der Kontrast erhöhen. Zusätzlich kann man mit Hilfe spezieller Software die
+Bilder auf seine Wünsche anpassen, um spezielle für die Befundung wichtige Regionen (Regions
+of Interest (ROI), hervorzuheben. Außerdem kann man manuell noch Aktionen wie Glättung und
+
+38
+
+Kantenhervorhebung durchführen.
+
+Für die zusätzliche Befundung oder Operations-Planung
+
+können auch noch verschiedene Segmentierungs-Verfahren auf die Bilder-Serie angewendet
+werden, um das Bild dreidimensional darzustellen. Bei diesen Verfahren werden die
+verschiedenen, nacheinander aufgenommenen Schnittbilder mit Hilfe einer Überlagerungstechnik
+zu einem Datenquader geformt. Dieses Datenquader besteht aus so genannten Voxeln. Um nun
+eine bestimmte Struktur darstellen zu können, muss das Bild zerlegt (segmentiert) und für jedes
+Voxel gekennzeichnet werden, zu welcher Struktur es gehört. Ein Kriterium dafür wäre zum
+Beispiel der Grauwert eines Voxels. Nachdem ein Voxel ausgewählt wurde, werden von diesem
+ausgehend immer seine Nachbarvoxel untersucht. Besitzen diese den gleichen Grauwert, gehören
+sie zur selben Struktur.
+
+Abb. 1 T1-gewichtete MRT-Aufnahme. Das kleine Bild rechts oben zeigt die Lage der axialen
+Schicht, die in der linken Bildhälfte dargestellt ist. Anhand der unterschiedlichen
+Signalintensitäten ist eine Untersuchung zwischen grauer und weißer Substanz und Liquor (CSF)
+möglich. Bild aus (Gaser, 2005)
+2.5 BILDVORVERARBEITUNG UND VBM
+In diesem Abschnitt sollen kurz die Bildverarbeitungschritte und das Prinzip der Voxel-basierten
+Morphometrie erläutert werden.
+
+39
+
+2.5.1 Stereotaktische Normalisierung
+In einem ersten Schritt werden die individuellen 3-D-Rohdatensätze räumlich normalisiert d.h. in
+einen stereotaktischen Standardraum transferiert, damit sie miteinander verglichen werden
+können.
+Um Gehirne also interindividuell vergleichbar zu machen und somit auch die Identifikation
+bestimmter Hirnstrukturen zu vereinfachen und zu operationalisieren haben die Wissenschaftler
+Talairach und Tournoux ein Atlassystem entworfen, das ursprünglich eine reine lineare
+Reskalierung der Größenverhältnisse war.
+Grundlage dieses Systems ist die Gestaltung eines Raumes, eines Normgehirnes, in welches jedes
+beliebige Gehirn transformiert werden kann. Benötigt werden dazu primäre Landmarken
+(anteriore und posteriore Kommissur (AC/PC)), die durch eine gedachte Linie verbunden werden
+und dann das Gehirn so ausgerichtet wird, dass diese Linie durch AC und PC horizontal liegt und
+das gesamte Gehirn waagerecht orientiert ist. Dies geschieht unter Beibehaltung seiner Form
+(starre Transformation). Im nächsten Schritt werden sekundäre Landmarken festgelegt (räumliche
+Extrempositionen, die am weitesten rechts und links, anterior und posterior, sowie inferior und
+superior des Gehirns liegen – ausgenommen ist das Cerebellum). Die sekundären Landmarken
+repräsentieren durch Verbindungen der zueinander gehörenden Extrempunkte die x, y und z
+Achse und fungieren so als Koordinatensystem im Talairach-Tournoux-System (s. Abb. 2).
+
+40
+
+Abb. 2 Talairach-Koordinatensystem. Der Koordinatenursprung des Talairach-Raums wird
+durch eine anteriore Kommissur (CA) definiert. Von dort ausgehend können alle Punkte des
+Gehirns als Koordinaten in Millimetern angegeben werden. Die Linie durch die anteriore und
+posteriore Kommissur (CP) dient dabei zur Ausrichtung des Koordinatensystems. Im Bild ist die
+Ausdehnung in y-Richtung (posterior-anterior) und z-Richtung (inferior-superior) zu sehen. Die
+x-Achse (hier nicht dargestellt) bestimmt die Ausdehnung links-rechts. Bild aus (Gaser, 2005)
+Im Rahmen dieser Normalisierung kommen lineare Transformationsoperationen wie Drehung,
+Dehnung, Stauchung und Verschiebung aber auch nicht-lineare Operationen wie Verzerrungen
+zum Einsatz. Dies hat zum Ziel, dass das zu untersuchende Gehirn dem eines Standardgehirns
+entspricht. Diese Transformationen werden häufig benutzt. Schwierigkeiten liegen darin, alle
+sechs anatomischen Landmarken zu identifizieren und in der interindividuellen Variabilität
+hinsichtlich anatomischer Landmarken, die bis zu 2 cm Unterschied betragen können. Das
+ursprüngliche Talairach-Gehirn basierte auf einer Gehirnhälfte einer 60 Jahre alten Frau.
+Inzwischen wird das „ICBM 152-Gehirn“ verwendet, das aus 152 gesunden Gehirnen berechnet
+wurde.
+
+Abb. 3 Lineare und nichtlineare räumliche Normalisierung. Die linke Bildhälfte zeigt die
+möglichen Linearen Transformationen, die jeweils auf das gesamte Bild wirken. Ein Spezialfall
+ist dabei die so genannte rigide oder starre Transformation. Hier wird das Bild nur durch
+Verschiebung (links oben) und Rotation (links unten) angepasst. Eine zusätzliche Änderung der
+Bildgröße kann dann durch Skalierung (Mitte oben) und Scherung (Mitte unten) des Bildes
+
+41
+
+erfolgen. Die Gesamtheit dieser linearen Transformationen wird auch als affine Normalisierung
+bezeichnet. Häufig wird auch die Anzahl der benötigten Parameter angegeben. Da bei
+dreidimensionalen Bildern eine Transformation der Gehirne in allen drei Ebenen (x, y, z) erfolgt,
+werden sechs (für die rigide Transformation) bzw. zwölf (für die affine Transformation
+Parameter verwendet. Im Gegensatz zu diesen linearen Transformationen setzt die nichtlineare
+Normalisierung (dargestellt in der rechten Bildhälfte) lokale Verzerrungen ein, um eine noch
+genauere Anpassung des Bildes zu erzielen. Bild aus (Gaser, 2005)
+2.5.2 Segmentierung
+In einem zweiten Bearbeitungsschritt werden die normalisierten Datensätze automatisch
+segmentiert. Ziel dieser Methoden ist die Unterteilung (Segmentierung) eines Bildes in
+verschiedene anatomische Regionen, wie z.B. graue Substanz, weiße Substanz und Liquor (CSF).
+Es lassen sich aber auch pathologische Veränderungen, wie -in dieser Arbeit relevante- Tumoren,
+postentzündliche Veränderungen oder Narben, segmentieren.
+Segmentierungsalgorithmen zählen zu den am häufigsten eingesetzten Verfahren in der
+Hirnmorphometrie. Es existiert eine Vielzahl verschiedener Algorithmen; es soll exemplarisch
+ein Verfahren vorgestellt werden: das Gaussian Mixture Model. Dabei wird zuerst ein
+Histogramm des Bildes bestimmt. Dieses setzt sich aus den unterschiedlichsten Häufigkeiten der
+Bildhelligkeiten (Intensitäten) zusammen. Die geringsten Bildintensitäten sind dabei dem
+Hintergrund zugeordnet. Es folgen CSF, graue und weiße Substanz mit der höchsten
+Bildintensität. In diese Häufigkeitsverteilungen werden jetzt vier Gausskurven eingepasst, die
+unterschiedlich hoch und breit sein können. Jede dieser Gausskurven hat einen Maximalwert, der
+in der Mitte der Kurve liegt und den mittleren Helligkeitswert der jeweiligen Verteilung angibt.
+Dort ist die Wahrscheinlichkeit für diesen Gewebetyp auch am größten. Am Beispiel für graue
+Substanz würde das bedeuten, dass die Bildintensitäten, die diesem Mittelwert entsprechen, mit
+großer Wahrscheinlichkeit graue Substanz sind. Je mehr die Intensitäten von diesem Mittelwert
+abweichen, desto wahrscheinlicher handelt es sich um CSF oder weisse Substanz. Die Angabe
+der Wahrscheinlichkeiten ist fließend und es gibt Bildbereiche, in denen sich die Gausskurven
+überschneiden. Wenn nur die Intensität zur Beurteilung der Wahrscheinlichkeit des Gewebetyps
+herangezogen wird, kommt es im Bereich des Schädels zur fehlerhaften Segmentierung. Deshalb
+wird in einem weiteren Schritt auch die a priori Information über die räumliche Verteilung der
+
+42
+
+Gewebetypen einbezogen. Diese Verbindung beider Informationen verbessert das Ergebnis der
+Segmentierung und wird in mehreren Schritten wiederholt, bis sich das Ergebnis nicht mehr
+entscheidend verbessert.
+
+Abb. 4 Segmentierung. Die Segmentierung eines Bildes in graue und weiße Substanz und CSF ist
+hier dargestellt am Beispiel eines Gaussian-Mixture-Model in Verbindung mit einem
+Expectation-Maximizazion-Algorithmus. Dabei wird nicht nur die Information der Bildintensität
+genutzt, sondern zusätzlich geht auch die A-priori-Information über die räumliche Verteilung für
+graue und weiße Substanz und CSF ein. Die Häufigkeit der einzelnen Bildintensitäten über das
+gesamte Bild bildet das Histogramm, in das einzelne Gausskurven für die jeweiligen Verteilungen
+eingepasst werden. Zusätzlich zu dieser Helligkeitsinformation wird eine A-priori-Information
+aus bereits segmentierten Gehirnen verwendet und über einen Bayes-Schätzer verknüpft.
+CSF=Liquor. Bild aus (Gaser, 2005)
+2.5.3 Statistische Glättung (Smoothing)
+In einem letzten Bearbeitungsschritt werden die resultierenden Datensätze “geglättet”, d.h. der
+Wert jedes Voxels wird mit denen seiner Nachbarvoxel gewichtet gemittelt. Das bedeutet, dass je
+weiter ein Nachbarvoxel entfernt ist, desto weniger er in den Mittelwert eingeht. Dabei werden
+Gauß´sche Filter (Gaußsche Kernel) verwendet (s.Abb. 5).
+
+43
+
+Der Vorteil dieser Methode ist, dass sich die Validität der nachfolgenden parametrischen
+statistischen Tests erhöht, da der resultierende Gesamtdatensatz besser normalverteilt ist; der
+Nachteil, dass sich die räumliche Auflösung erheblich verschlechtert.
+Schließlich können die so gewonnenen Daten von verschiedenen Patienten einer Studiengruppe
+aufaddiert werden und mit denen einer Kontrollgruppe voxelweise mit Hilfe statistischer
+Methoden verglichen werden.
+
+Abb. 5 Smoothing. In diesem Bearbeitungsschritt kommt es zu einer besseren Normalverteilung
+des Gesamtdatensatzes; die räumliche Auflösung verschlechtert sich aber erheblich. GM= graue
+Substanz
+2.5.4 Voxelbasierte Morphometrie (VBM)
+Die VBM ist ein vollautomatisiertes Verfahren zum voxelbasierten Vergleich von T1gewichteten Bildern zweier Personengruppen. Bei der voxelbasierten Morphometrie wird in
+jedem Voxel die Konzentration (Wahrscheinlichkeit) von grauer oder weißer Substanz oder CSF
+
+44
+
+analysiert. Diese Wahrscheinlichkeiten werden durch die Bildvorverarbeitung gewonnen
+(Normalisierung, Segmentierung, Glättung, s. Abbildung 7). Diese Bilder können in jedem Voxel
+statistisch analysiert werden und das Ergebnis zeigt die Regionen im Gehirn, in denen sich z.B.
+die Konzentration der grauen Substanz zwischen den analysierten Gehirnen unterscheidet. Es
+können also strukturelle Unterschiede des Gehirns ermittelt werden und somit Vergleiche
+zwischen mehreren Personen ermöglicht werden.
+Die Vorteile dieser Methode sind, dass erstens sie nicht durch den Untersucher beeinflusst
+werden kann (da keine bestimmten Strukturen -region of interest- ausfindig gemacht werden
+müssen) und im relativ geringen Rechenaufwand für Segmentierung und Normalisierung. Damit
+können große Stichproben untersucht werden, obwohl die räumliche Auflösung dieses Verfahrens
+relativ gering ist.
+
+2.6 BILDBEARBEITUNGSPROGRAMME
+In diesem Kapitel sollen die Programme, mit denen die bearbeiteten Bilder miteinander
+verglichen werden, dargestellt werden. Dabei handelt es sich um MATLAB und das darauf
+basierende SPM.
+2.6.1 MATLAB
+Matlab ist eine kommerzielle, plattformunabhängige Software des Unternehmens The
+MathWorks, Inc. zur Lösung mathematischer Probleme und zur grafischen Darstellung der
+Ergebnisse. MATLAB ist primär für numerische Berechnungen mithilfe von Matrizen ausgelegt,
+woher sich auch der Name ableitet: MATrix LABoratory. Es bietet eine Umgebung zur
+Entwicklung eigener Programme und neuer Funktionen und dient im Gegensatz zu
+Computeralgebrasystemen
+
+nicht
+
+der
+
+symbolischen,
+
+sondern
+
+primär
+
+der
+
+numerischen
+
+(zahlenmäßigen) Lösung von Problemen. Die Software wird in Industrie und an Hochschulen vor
+allem für numerische Simulation sowie Datenerfassung, Datenanalyse und -auswertung
+eingesetzt. Programmiert wird unter MATLAB in einer proprietären Programmiersprache, die auf
+der jeweiligen Maschine (Computer) interpretiert wird. Kleinere Programme können als so
+genannte Skripts oder Funktionen zu atomaren Einheiten verpackt werden, was das Erstellen von
+
+45
+
+anwendungsorientierten Werkzeugkisten (Toolboxes) erlaubt. Viele solcher Pakete sind auch
+kommerziell erhältlich. Durch die vereinfachte, mathematisch orientierte Syntax der MATLABSkriptsprache und die umfangreichen Funktionsbibliotheken für zum Beispiel Statistik, Signalund Bildverarbeitung ist die Erstellung entsprechender Programme sehr einfach.
+2.6.2 SPM
+Die in dieser Arbeit unter anderem verwendete SPM-Software (Statistical Parametric Mapping)
+ist ein umfangreiches, auf Matlab basierendes Softwarepaket zur bildgestützten Analyse in der
+funktionellen Hirnbildgebung. Es dient zum Nachweis von Aktivitätsänderungen in Hirnarealen
+bei Durchführung definierter Aufgaben und Wahrnehmung sensorischer Stimuli mittels fMRT,
+SPECT oder PET. Unabhängig davon, welche Technologie eingesetzt wird, produziert der
+Scanner ein 'map' (eine Karte) von dem Bereich, der gescannt wird, der als Voxels dargestellt
+wird. Jedes Voxel stellt gewöhnlich die Tätigkeit einer bestimmten Koordinate im
+dreidimensionalen Raum dar. Die genaue Größe eines Voxels schwankt abhängig von der
+eingesetzten Technologie, obgleich fMRI Voxels gewöhnlich ein Volumen von 27 mm³
+darstellen (ein Würfel mit 3mm Längenseiten).
+SPM baut auf den Modulen der Bearbeitung, der statistische Analyse und der visuellen
+Darstellung auf. Die einzelnen Bausteine stellen unterschiedliche Anforderungen; während die
+visuelle Darstellung technisch sehr rudimentär ist und wenig Rechenzeit benötigt, können die
+Bearbeitungschritte abhängig von der Anzahl der auszuwertenden Bilddaten, der verwendeten
+Interpolationsverfahren und der definierten Iterationsschritte, sehr zeitintensiv sein. Allerdings
+können die Bearbeitungsschritte Registrierung, Normalisierung auf ein Standard-Template und
+Glättung auf Untermengen der Bilddaten ausgeführt und somit parallelisiert werden. Das Modul
+„Realign“ dient der Elimination von Bewegungen während der Aufnahme durch Registrierung
+auf eine Referenzbild der Zeitserie. Mit dem Modul „Normalize“ werden die Strukturen der
+gemessenen Hirnbilddaten auf ein ideales „Durchschnitts“-Gehirn (MNI-Template) transformiert.
+Dies dient zum Vergleich der Ergebnisse verschiedener Probanden und ermöglicht eine
+Gruppenanalyse. Das Modul „Smooth“ dient der Glättung der Original-Bilddaten, wodurch das
+
+46
+
+Rauschen minimiert und die statistische Analyse unabhängiger von der genauen Lage und
+Ausdehnung der aktivierten Hirnareale verschiedener Probanden ist.
+Das Ziel der Bildbearbeitung ist die Vorbereitung der Bilder für die Durchführung von
+statistischen Tests (wie z.B. den sog. two sample t-Test).
+SPM vergleicht die Gruppen auf Voxel-Ebene, d.h. es werden getrennte t-Tests für jeden Voxel
+zwischen Personen und Gruppen durchgeführt (s. Abb. 6). Zusätzlich können Regressoren (z.B.
+Alter) und andere Variabeln mitgerechnet werden, um Unterschiede zwischen Geschlechtern oder
+Altersgruppen von der Auswertung auszunehmen. Am Ende wird eine Statistische Parametrische
+Karte (SPM) produziert, wo -in einem normalisierten Raum (Hirn) (s. Abb. 7) die signifikanten
+Voxel-Bereiche gezeigt werden.
+An dieser Stelle soll das sog. multiple comparisons problem kurz erläutert werden. Wenn man
+von einem Voxel-Volumen von 1 mm³ ausgeht, besteht ein einziges T1 Bild aus etwa 1.700.000
+Voxeln. Bei einem normalen t-Test mit einem alpha-Fehler von 0,05 würden etwa 70.000
+zufällige Voxel als signifikant gezeigt werden, die es wirklich nicht sind. Deswegen müssen
+mathematische Methoden (wie z.B. die Gauß´sche Feldtheorie) appliziert werden, um diesen
+Störfaktor zu minimieren. Ohne solche Korrekturen ist eine fMRT- oder VBM-Analyse ungültig.
+SPM wurde von Karl Friston und John Ashburner entwickelt. SPM ist freeware (d.h. free
+software), ist also vom Urheber zur kostenlosen Nutzung zur Verfügung gestellt. Es ist unten den
+GNU General Public Licence Bedingungen durch die Free Software Foundation lizenziert.
+(Functional Imaging Laboratory, 2009)
+
+47
+
+Abb.6 Es werden sog. Voxel-by-Voxel t-Tests durchgeführt um regionale Unterschiede der
+weißen bzw. grauen Substanz Volumina zu identifizieren.
+
+Abb.7 Der Weg vom MRT zum SPM. Reihenfolge der Bearbeitungsschritte der Rohdatensätze bis
+zur Auswertung. T1=MRT-Sequenz, Design Matrix= Matrix, die die unabhängigen Variablen
+
+48
+darstellt
+
+und
+
+der
+
+besseren
+
+statistischen
+
+Auswertung
+
+dient.
+
+Lineartransformation
+
+(Normalisierung), Segmentierung, Glättung= Bildbearbeitungsschritte (s. §2.5), Statistical
+Parametric Map= Programm, mit dem das Untersuchungsergebnis mit Nachweis von
+Aktivitätsunterschieden in verschiedenen Hirnarealen gezeigt wird
+
+2.6.3 DARTEL
+2.6.3.1 Definition
+Dartel (Diffeomorphic Anatomical Registration Through Exponentiated Lie Algebra) ist ein
+schneller,
+
+kürzlich
+
+entwickelter
+
+(Ashburner,
+
+2007)
+
+sog.
+
+diffeomorphischer
+
+Bildbearbeitungsalgorithmus, der auf komplexen mathematischen Formeln basiert. Es ist ein Satz
+von Hilfsmitteln, die zu einer genaueren Bildbearbeitung führt und aus Tausenden
+Programmzeilen besteht. Deformationen werden hierbei von einem einflutigen Feld
+parameterisiert, was in der Zeit konstant bleibt. Es ist geeignet für die Bearbeitung sowohl von
+2D- als auch von 3D-Bildern. Dartel ist außerdem so formuliert worden, um eine Option für die
+Abschätzung inverser, gleich bleibender Deformationen zu beinhalten. Nicht-lineare Bearbeitung
+wird als ein lokales Optimierungsproblem angesehen, welches unter Verwendung einer
+Levenberg-Marquardt Strategie gelöst wird. Die notwendigen Matrixlösungen werden im
+angemessenen Zeitraum unter Verwendung einer Multigittermethode erreicht. Ein konstanter
+eulerischer Geschwindigkeitsrahmen wird verwendet, um zu erlauben, dass eine schnelle
+Skalierungs- und Quadrierungmethode bei der Berechnung verwendet wird. Erfahrungen am FIL
+(Functional Imaging Laboratory, University College London) deuten darauf hin, dass Dartel sehr
+sichere und klare Verbesserungen für VBM-Studien anbietet - sowohl in Bezug auf die
+Lokalisierung der Läsionen als auch die erhöhte Sensitivität.
+2.6.3.2 Methoden
+Begrifflich ist DARTEL ein schneller diffeomorphischer Bildbearbeitungsalgorithmus mit einem
+unveränderlichen Geschwindigkeitsfeld. Die Deformierungsfelder können erzeugt werden, in
+dem man das Geschwindigkeitsfeld integriert. In der Praxis wird das über die rekursive
+Zusammensetzung der kleinen Deformierung erreicht. Die Bilder werden zuerst mittels SPM in
+eine Wahrscheinlichkeitskarte von GM (graue Substanz), WM (weiße Substanz), und CSF
+(Liquor) segmentiert, dann in unveränderter Große (sogenanntes „rigid body“) entsprechend auf
+
+49
+das Originale justiert (Voxelgröße jeweils 1 mm3). Ein anfänglicher Gruppendurchschnitt wird
+als das beginnende Ziel geschaffen, dann werden die Bilder so verzerrt, um dem Durchschnitt
+angepasst zu werden. Nach drei Wiederholungen wird ein Former-Durchschnitt geschaffen. Das
+Verfahren wird sechsmal wiederholt. Auf jeder Stufe wird die Regularisierung reduziert, folglich
+nimmt der Grad der Verzerrung nach jeder Wiederholung zu. Zurzeit gibt es, außer dem
+herkömmlichen Mittelquadratunterschied, zwei Formen der objektiven Funktion; multinomiale
+Wahrscheinlichkeit scheint das schärfere Verzerren anzubieten. Intuitiv wird die Registrierung
+mit dieser objektiven Funktion versuchen, jene voxels mit einer Wahrscheinlichkeit, die 1 und 0
+näher ist, mehr und jene voxels mit einer Wahrscheinlichkeit von ungefähr 0.5 weniger zu
+vergleichen.
+
+50
+
+3 Material und Methodik
+3.1 Patienten
+Zuerst wurden die Akten -inklusive Entlassungsbriefen, Ambulanzbriefen und histologischen
+Berichten- aller Patienten, die an Temporallappenepilepsie gelitten haben (mit Verdacht auf
+Ammonshornsklerose) und zwischen August 2005 und Juni 2008 in der epileptologischen Klinik
+der Universität Bonn zur präoperativen Vorbereitung untersucht wurden, aus dem elektronischen
+Archiv der Universität Bonn herausgesucht und nach bestimmten Kriterien analysiert. Dies waren
+bestimmte epidemiologische Kriterien wie Alter und Geschlecht, anamnestische Kriterien wie das
+Alter des Patienten beim Beginn der Symptome und das Existieren eines früheren Hirnschadens
+(am häufigsten Fieberkrämpfe aber auch Einzelfälle von Meningoenzephalitis, hypoxischem
+Hirnschaden oder Schädel-Hirn-Trauma im Säuglings- beziehungsweise im frühen Kindesalter),
+klinische Kriterien wie die Anzahl der Anfälle pro Monat, das Vorhandensein (oder nicht) von
+einfach-partiellen, komplex partiellen oder Grand-Mal (GM) Anfällen, das Ergebnis der prä- (und
+gegebenenfalls auch der post-) operativen neuropsychologischen Untersuchung sowie Ergebnisse
+anderer Untersuchungen, wie die MRT-Bildgebung, das Elektroenzephalogramm und
+gegebenenfalls das Ergebnis postoperativer histologischer Untersuchungen. Außerdem sind
+andere Faktoren in Betracht gezogen worden wie die postoperative Anfallskontrolle (klassifiziert
+nach Engel 1996, s. Anhang), ob der Patient operiert oder implantiert wurde (falls nicht, auch
+warum) und die Operationseite (rechter bzw. linker Temporallappen).
+Von diesen 165 Patienten sind aus der Analyse 88 herausgenommen worden. Die Gründe dafür
+waren vielfältig. Bei den meisten Patienten (57 von 88) war die MRT-Bildgebung für den
+Ausschluß maßgebend. Hier konnte nämlich eine andere Diagnose gestellt beziehungsweise
+konnte die Verdachtsdiagnose nicht bestätigt werden, es waren andere Läsionen zu sehen, die für
+die Symptome verantwortlich sein könnten (z.B. Tumore, postentzündliche Narben) oder die
+MRT-Aufnahmen waren nicht gut zu diagnostizieren. Bei 17 Patienten waren nicht genug
+Informationen dokumentiert worden. Häufig kam es außerdem vor, dass Patienten trotz
+Empfehlung nicht operiert werden wollten oder sich einer weiteren Diagnostik nicht unterziehen
+wollten. Dies war der Fall bei 10 Patienten. Als letztes waren organisatorische Gründe von
+Bedeutung, da z.B. bestimmte Sequenzen nicht im Archiv vorhanden waren (4 von 88).
+Nach der Kodierung der Informationen entstand eine Excel-Tabelle mit insgesamt 77 Patienten.
+
+51
+
+Als nächstes wurde jedem Patient ein gesunder Proband zugeordnet. Diese freiwillig untersuchten
+Probanden stammen aus verschiedenen MRT-Studien, die im Life & Brain Center AG
+NeuroCognition der Universität Bonn durchgeführt wurden. Alle Probanden wurden in
+demselben Scanner und mit demselben Protokoll wie die Patienten gemessen. Beide Gruppen
+(Patienten und Kontrollen) hatten vor der Untersuchung und Datenerhebung die entsprechende
+Einverständniserklärung für die wissenschaftliche Nutzung und Auswertung ihrer Daten
+unterschrieben. Diese Studien wurden von der Ethikkommission der Universität Bonn genehmigt.
+Hierbei musste jeder Proband dasselbe Geschlecht und etwa das gleiche Alter (Mittelwert und
+SD-s. Tabelle 1) wie der zugehörige Patient haben. Die entstandene SPSS-Tabelle diente der
+definitiven statistischen Auswertung.
+Descriptive Statistics
+N
+Control
+
+Alter_beim_scanner 77
+Valid N (listwise)
+
+Patient
+
+Std. Deviation
+
+16
+
+65
+
+41,71
+
+12,625
+
+14
+
+65
+
+41,87
+
+12,572
+
+77
+
+Alter_beim_scanner 77
+Valid N (listwise)
+
+Minimum Maximum Mean
+
+77
+
+Tabelle 1: Minimal- und Maximalalter, Mittelwerte, Standarddeviationen, der Probanden (Control) und Patientengruppe (Patient).
+
+3.2 MRT-Messdaten
+Alle Messungen wurden auf demselben 3 Tesla MRT Scanner (Trio, Siemens, Erlangen,
+Deutschland) unter Verwendung einer Standard 8-Kanal-Spule durchgeführt. Dabei handelte es
+sich um eine T1-gewichtete sagital orientierte MPRAGE Spinecho-Sequenz (TR = 22 ms, TE = 9
+ms, Schlagwinkel = 35°, Matrix = 256x256x160 Millimeter, Messzeit-8:53minuten)
+
+52
+
+3.3 Eigenschaften der Patienten/Probandengruppen
+Beide Gruppen bestehen aus 40 männlichen und 37 weiblichen Patienten. Wie oben ersichtlich
+liegt der Altersdurchschnitt (wiederum bei beiden Gruppen) bei etwa 42 Jahren mit einer
+Standarddeviation von etwa 12 Jahren. In der Patientengruppe liegt der Altersdurchschnitt bei
+Beginn der Symptome bei knapp 17 Jahren mit einer Standarddeviation von 13,5 Jahren. Die
+Anzahl der Anfälle pro Monat liegt hier bei durchschnittlich 17 mit einer Standarddeviation von
+42. 53 (also knapp zwei Drittel) der Patienten litten unter GM-Anfällen und 24 nicht. Bei 37 der
+Patienten konnte ein früher Hirnschaden anamnestisch eruiert werden, bei 37 nicht (die übrigen
+drei Akten lieferten keine Informationen diesbezüglich). Bei 76 Patienten waren komplexpartielle Anfälle dokumentiert worden. Bei 52 der Patienten (also etwa zwei Drittel) konnte MRTomografisch ein AHS links und bei 25 ein AHS rechts nachgewiesen werden. In 7 der 52 „AHS
+links“-Patienten und 5 der 25 „AHS rechts“-Patienten zeigten sich Zeichen einer bilateralen
+Atrophie; sie war aber immer deutlich weniger ausgeprägt als auf der anderen Seite. 27 Patienten
+litten unter einfach-partiellen Anfällen, 49 nicht. Die interiktale EEG-Aufzeichnung zeigte bei 44
+Patienten einen ipsilateral-passenden, bei 18 einen bilateralen, bei acht einen unspezifischen und
+bei fünf einen völlig normalen Befund. Die iktale EEG-Aufzeichnung zeigte bei 47 Patienten
+einen passenden, bei elf einen bilateralen, bei elf einen unspezifischen, bei vier einen
+kontralateralen und bei zwei einen normalen Befund. 30 Patienten wurden operiert, 44 nicht.
+Zwölf Patienten davon wünschte keine Operation trotz Empfehlung, bei sieben lag ein bilateraler
+Focus/EEG vor, bei vier Patienten war die Fokuslokalisation nicht klar und bei 20 Patienten war
+die Ursache der Epilepsie unklar. 17 Patienten wurden implantiert und 57 nicht. Bei 28 operierten
+Patienten zeigte die histologische Aufarbeitung der Präparate ein AHS, bei vier zusätzlich eine
+Grau-Weiß-Differenzierungsstörung(GWDS). 24 der operierten Patienten waren postoperativ
+anfallsfrei (Engel I) und zwei nahezu anfallsfrei (Engel II). Die neuropsychologische
+Untersuchung ergab bei 39 Patienten einen links-temporalen, bei 33 Patienten einen rechtstemporalen, bei 17 Patienten einen links-frontalen, bei 14 Patienten einen rechts-frontalen, bei 5
+Patienten einen normalen und bei 6 Patienten einen unspezifischen Befund.
+3.4 Vorbereitung der Bilder
+Jede originale T1-Aufnahme besteht aus einer Reihe von 160 Bildern in DICOM-Format (Digital
+Imaging and Communications in Medicine). Sie wurden auf ein Einzelarchiv mit der frei
+vefügbaren Software „dcmtonifti“ in „nifti“-Format konvertiert (Rorden, 2007).
+
+53
+
+Nifti
+
+ist
+
+ein
+
+Format
+
+von
+
+Volumendatensätzen,
+
+welches
+
+bei
+
+mehreren
+
+MRT-
+
+Bearbeitungsprogrammen erkannt wird.
+3.5 Bildbearbeitung
+Alle Bildbearbeitungsschritte und die statistischen Analysen wurde mit der Software Statistical
+Parametric Mapping 5 (SPM5) auf MATLAB 7 for Windows durchgeführt (Functional Imaging
+Laboratory, 2009).
+Die Segmentierung der T1-Bilder wurde zunächst mittels SPM5 und der Prozedur, die von Good
+et al. (2001) empfohlen wird, durchgeführt und auf frei verfügbaren Manuskripten von Christian
+Gaser implementiert (Gaser, 2009).
+Alle Bilder wurden hiernach mit dem Toolbox DARTEL, welches im SPM5 beinhaltet ist,
+nochmals segmentiert, so dass am Ende der Segmentierungsprozesse zwei Bilderreihen zur
+Analyse entstanden sind: diejenigen, die mit dem Standardverfahren und diejenigen, die mit
+DARTEL bearbeitet wurden.
+Sowohl die Standard- (SPM5) als auch die (optimierten) DARTEL-Bilder wurden durch eine
+sogenannte „Jacobian determinant“ moduliert. Diese Modulierung führt dazu, dass die
+Gesamtvolumina aller Strukturen gleich bleiben und muss gemacht werden damit alle Volumina
+mit der Standardmasse abgeglichen werden.
+Bilderreihen appliziert.
+
+10 mm Gauss´sche Glättung wurde auf beide
+
+54
+
+4 Statistische Analysen und Ergebnisse
+Nach dieser Bildbearbeitung konnten die gewonnenen Daten von der o.g. Patientengruppe
+aufaddiert werden und mit denen der Probandengruppe voxelweise mit Hilfe vom SPM
+verglichen werden.
+Hierbei wurde durch entsprechende Gruppenbilbung untersucht, ob es gewisse Korrelationen
+zwischen verschiedenen Faktoren und strukturellen Veränderungen (feststellbar durch MRT)
+gibt. Bei den Auswertungen wurden die Variablen Alter und Geschlecht bewusst mitgerechnet,
+um
+
+de
+
+facto
+
+existierende
+
+Unterschiede
+
+zwischen
+
+unterschiedlichen
+
+Alters-
+
+und
+
+Geschlechtsgruppen von der Auswertung auszunehmen.
+Bezüglich der statistischen Korrektur der Ergebnisse haben wir uns für das FDR-Verfahren (false
+discovery rate) entschieden. Denn es liefert einen guten Kompromiss zwischen dem zu
+konservativen FWE-Verfahren (zu wenig signifikante Ergebnisse) und dem Ergebnis ohne
+Korrektur (zu viele falsch-positive Ergebnisse). Der gewählte FDR-Wert betrug 0,05 (p<0,05).
+
+55
+
+4.1 Vergleich zwischen gesunden Probanden und Patienten mit AHS linksseitig
+Als erstes wurden die bearbeiteten MRT-Bilder aller 77 gesunden Probanden mit denen der 52
+Patienten, die an AHS links erkrankt waren, aufaddiert und mittels eines „two sample t-Tests“ mit
+einander verglichen. Die unten gezeigten Abbildungen zeigten die Ergebnisse beider Analysen
+(also ohne und mit Dartel-Bearbeitung):
+
+Abbildung 8: Gesunde Probanden vs AHS
+
+Abbildung 9: Gesunde Probanden vs AHS links
+
+links (Standard)
+
+(Dartel)
+
+(Die Skala rechts unten zeigt die Relevanz der Befunde an, AHS=Ammonshornsklerose)
+
+56
+
+4.2 Vergleich zwischen gesunden Probanden und Patienten mit AHS rechtsseitig
+Als zweites wurden die bearbeiteten MRT-Bilder der 77 gesunden Probanden mit denen der 25
+Patienten, die an AHS rechts erkrankt waren, aufaddiert und mittels eines „two sample t-Tests“
+mit einander verglichen. Es zeigten sich folgende Ergebnisse (Abb. 10 und 11):
+
+Abbildung 10: Gesunde Probanden vs
+
+Abbildung 11: Gesunde Probanden vs AHS rechts
+
+AHS rechts (Standard)
+
+(Dartel)
+
+57
+
+4.3 Vergleich zwischen Patienten mit AHS links und Patienten mit AHS rechts
+Bei der dritten Untersuchung wurden die bearbeiteten MRT-Bilder der 52 Patienten, die an AHS
+links erkrankt waren mit denen der 25 Patienten, die an AHS rechts gelitten haben, aufaddiert und
+mittels eines „two sample t-Tests“ mit einander verglichen. Die Ergebnisse zeigen Abbildungen
+12 und 13.
+
+Abbildung 12: AHS re vs AHS li (Standard)
+
+Abbildung 13: AHS re vs AHS li (Dartel)
+
+58
+
+4.4 Negative Korrelation zwischen Alter bei Beginn und MRT
+Als nächstes wurde mittels eines sog. multiple-regressions-test untersucht, ob eine Korrelation
+zwischen frühem Beginn der Epilepsie und MRT-Veränderungen besteht. Hier wurde der Faktor
+´Alter´ bewusst weggelassen, da er sehr stark mit dem Faktor ´Alter bei Beginn´ korreliert und
+somit zu einer Fälschung der Ergebnisse führt. Der Faktor ´Seite´ wurde hier berücksichtigt. Es
+zeigten sich folgende Ergebnisse:
+
+Abb. 14: Negative Korrelation zwischen
+
+Abb. 15: Negative Korrelation zwischen
+
+Alter bei Beginn und MRT (Standard)
+
+Alter bei Beginn und MRT (Dartel)
+
+59
+
+4.5 Vergleich zwischen Patienten mit GM-Anfällen und Patienten ohne GM-Anfälle bei
+Patienten mit AHS links
+Hier wurden die bearbeiteten MRT-Bilder der 16 Patienten , die an AHS links und nicht unter
+GM-Anfällen gelitten haben, mit denen der 36 Patienten, die an AHS links und unter GMAnfällen gelitten haben, aufaddiert und mittels eines „two sample t-Tests“ mit einander
+verglichen. Die Ergebnisse zeigen Abbildungen 16 und 17.
+
+Abb. 16: Kein GM links vs GM links
+
+Abb. 17: Kein GM links vs GM links
+
+(Standard)
+
+(Dartel)
+
+60
+
+4.6 Vergleich zwischen Patienten mit GM-Anfällen und Patienten ohne GM-Anfälle bei
+Patienten mit AHS rechts
+Als nächstes wurden die bearbeiteten MRT-Bilder der neun Patienten , die an AHS rechts und
+unter keinen GM-Anfällen gelitten haben, mit denen der 16 Patienten, die an AHS rechts und
+unter GM-Anfällen gelitten haben, mit einander mittels eines „two sample t-Tests“ verglichen.
+Die Ergebnisse zeigen Abbildungen 18 und 19.
+
+Abb. 18: Kein GM rechts vs GM rechts
+
+Abb. 19: Kein GM rechts vs GM rechts
+
+(Standard)
+
+(Dartel)
+
+61
+
+4.7 Vergleich zwischen Patienten ohne frühen Schaden und Patienten mit frühem Schaden
+bei AHS links
+
+Es wurden die bearbeiteten MRT-Bilder der 23 Patienten , die an AHS links gelitten haben und
+bei denen kein früher Hirnschaden eruiert werden konnte, mit denen der 26 Patienten, die an AHS
+links gelitten haben und bei denen ein früher Hirnschaden eruiert werden konnte, aufaddiert und
+mit einander mittels eines „two sample t-Tests“ verglichen. Die Ergebnisse zeigen Abbildungen
+20 und 21.
+
+Abb. 20: Kein früher Schaden li vs
+
+Abb. 21: Kein früher Schaden li vs
+
+früher Schaden li (Standard)
+
+früher Schaden li (Dartel)
+
+62
+
+4.8 Vergleich zwischen Patienten ohne frühen Schaden und Patienten mit frühem Schaden
+bei AHS rechts
+
+Hier wurden die bearbeiteten MRT-Bilder der 14 Patienten , die an AHS rechts gelitten haben
+und bei denen kein früher Hirnschaden eruiert werden konnte, mit denen der elf Patienten, die an
+AHS rechts gelitten haben und bei denen ein früher Hirnschaden eruiert werden konnte, mit
+einander mittels eines „two sample t-Tests“ verglichen. Die Ergebnisse zeigen Abbildungen 22
+und 23.
+
+Abb. 22: Kein früher Schaden re vs
+
+Abb. 23: Kein früher Schaden re vs
+
+früher Schaden re (Standard)
+
+früher Schaden re (Dartel)
+
+63
+
+4.9 Positive Korrelation zwischen Anzahl der Anfälle pro Monat und MRT
+
+Bei dieser Analyse wurde mittels eines ´multiple-regressions-test´ überprüft, ob es (bei allen 77
+Patienten) eine Korrelation zwischen der Anzahl der Anfälle pro Monat und strukturellen
+Veränderungen im MRT besteht. Hier wurden nicht nur die Variablen Alter und Geschlecht,
+sondern auch die Variable Seite mitgerechnet. Die Ergebnisse zeigen Abbildungen 24 und 25.
+
+Abb. 24: Korrelation zwischen ´Anfälle
+
+Abb 25: Korrelation zwischen ´Anfälle
+
+pro Monat` und MRT (Standard)
+
+pro Monat` und MRT (Dartel)
+
+64
+
+5 Diskussion
+
+Die ersten drei Analysen, bei denen MRT-Bilder von gesunden Patienten mit MRT-Bildern von
+an AHS erkrankten Patienten verglichen wurden, konnten uns mehrere wichtige Informationen
+liefern. Patienten, die an AHS links erkrankt sind, zeigen wesentlich mehr Läsionen
+parietookzipital, kontralateral sowie innerhalb des limbischen Systems als Patienten, die an AHS
+rechts leiden. Patienten mit AHS links zeigen Veränderungen hippokampal, parahippokampal, im
+Bereich des Thalamus, Gyrus dentatus, Regio entorhinalis und Corpus amygdaloideum.
+Außerdem bestehen diffuse Läsionen im Parietal-, Frontal- und Okzipitalpol. Die meisten dieser
+Läsionen konnten als kontralateral nachgewiesen werden, auch wenn in geringerem Ausmaß als
+ipsilateral. Bei AHS-rechts-Patienten konzentrieren sich die Läsionen in gewissen Teilen des
+limbischen Systems und vorwiegend ipsilateral.
+Diese Ergebnisse stimmen sehr gut mit Ergebnissen von anderen Autoren ein. Bonilha et al.
+(2007) sowie Düzel et al. (2006) konnten zeigen, dass sich die Läsionen bei AHS Patienten
+vorwiegend hippokampal, im Gyrus parahippocampalis, parietookzipital sowie im kontralateralen
+Hippokampus zeigen und dass AHS-links-Patienten mehr Läsionen als AHS-rechts-Patienten
+aufweisen. Bernasconi et al. (2003) fanden Hinweise darauf, dass der Grad der hippokampalen
+Atrophie mit einer diffusen Atrophie des limbischen Systems (was bekanntlich im Wesentlichen
+aus dem Hippokampus, Gyrus cinguli, parahippokampalis, dentatus und Corpus amygdaloideum
+und mamillare sowie Thalamusanteile besteht) korreliert; also mit denjenigen Hirnregionen, mit
+denen er in enger funktioneller und anatomischer Verbindung steht und konnte so die von
+Spencer et al. (2002) aufgestellte Hypothese stützen, dass der neuronale Schaden bei AHSPatienten einer bestimmten „anatomischen Route“ folgt. Die Ergebnisse dieser Arbeit können
+diese Hypothese untermauern. Es ist jedoch bisher unklar, ob diese Strukturen durch ihre enge
+Konnektivität zum Hippokampus oder durch ihre Anfälligkeit für den exzitatorischen Effekt von
+kontinuierlichen Anfällen geschädigt werden. Unklar bleibt auch warum die Läsionen bei der
+AHS links so viel ausgedehnter als bei der AHS rechts sind. Ist die Ursache in dem früheren
+Beginn der Epilepsie, in der Art der Anfälle, in der vermehrten Anfälligkeit des linken
+Hippokampus oder in der Tatsache dass die linke Hemisphäre (bei den meisten Menschen) die
+dominante ist begründet? Haben diese Veränderungen einen Einfluss auf die Chance auf
+postoperative Anfallsfreiheit?
+65
+
+Als nächstes wurde untersucht, ob und inwiefern der Faktor „Alter bei Beginn“ zu - durch MRT
+feststellbaren - Hirnläsionen führt. Hier wurden Unterschiede zwischen Patienten mit frühem
+Beginn (sog. „early onset“) und Patienten mit spätem Beginn („late onset“) der Epilepsie
+festgestellt. Die Läsionen sind nicht in einem distinkten Areal lokalisiert, sondern sind praktisch
+fast gleichmäßig auf den Frontal- und den Parietallappen und -wenn auch geringeren Ausmaßesden Temporal- sowie den Okzipitalpol verteilt. Kaaden und Helmstaedter (2009) haben
+nachgewiesen, dass Patienten mit „early onset epilepsy“ einen niedrigeren IQ aufweisen und ein
+niedrigeres Bildungsniveau erreichen als Patienten mit spätem Beginn der Anfälle. Außerdem
+werden Gedächtnisaspekte negativ beeinflusst, die mit dem lateralen Temporallappen sowie mit
+extratemporalen Strukturen in Zusammenhang stehen. Clusmann et al. (2004) haben desweiteren
+gezeigt, dass ein Beginn der Anfälle im Kindesalter einen negativen Einfluss auf den Grad der
+postoperativen Freiheit hat. Es liegt also die Vermutung nahe, dass ein früher Beginn der
+Epilepsie durch einen Mechanismus zu diffusen Hirnschäden führt, die verschiedene klinische
+Faktoren
+
+beeinflussen.
+
+Ob
+
+das
+
+durch
+
+die
+
+hohe
+
+Hirnplastizität
+
+im
+
+Kindesalter,
+
+Entwicklungstörungen des Gehirns, die mit der Epilepsie verbunden sind, oder eine allgemeine
+Anfälligkeit des Gehirns von AHS-Patienten gegenüber Epilepsieanfällen oder Noxen bedingt ist,
+bleibt unklar. Es sollte aber jeder Patient mit frühem Beginn darauf hingewiesen werden, dass die
+Prognose einer Operation und der Verlauf der Krankheit u.a. aufgrund der oben nachgewiesen
+diffusen Läsionen ungünstiger als bei anderen Pateinten sein können. Hier muss hinzugefügt
+werden, dass in dieser Arbeit der Faktor „früher Beginn“ nicht mit dem Faktor „Dauer der
+Epilepsie“ konfundiert wird, wie dies häufig in der Literatur der Fall ist.
+Bei den folgenden zwei Analysen wurde der Zusammenhang von Grand-Mal-Anfällen mit
+morphologischen Hirnveränderungen untersucht. Bei den AHS-links-Patienten konnte die DartelAnalyse zeigen, dass diejenigen Patienten, die an GM leiden, im Vergleich zu denjenigen
+Patienten, die nicht an GM leiden, diffuse Läsionen im Frontal- sowie im Okzipitallappen
+aufweisen. Auch wenn bisher keine ähnlichen Studien publiziert worden sind, gibt es durchaus
+Untersuchungen, die diesen Befund stützen. Janszky et al. (2005) und Jeong et al. (2005) haben
+bei einer Suche nach positiven bzw. negativen Prädiktoren für die postoperative Anfallsfreiheit
+bei der AHS nachgewiesen, dass das Vorhandensein von sekundär-generalisierten Anfällen die
+Prognose signifikant negativ beeinflusst. Kanner et al. (2009) haben herausgefunden, dass die
+Abwesenheit von generalisierten tonisch-klonischen Anfällen einen positiven Prädiktor für das
+postoperative Outcome bei der AHS darstellt. Bei den AHS-rechts-Patienten konnten in dieser
+66
+
+Arbeit keine Unterschiede zwischen den beiden Gruppen festgestellt werden. Obige
+Untersuchungen lassen also einige Aussagen treffen. Patienten mit AHS links und GM-Anfällen
+haben mit großer Wahrscheinlichket diffuse (frontookzipital) gelegene Läsionen, die für das
+schlechte postoperative Ergebnis verantwortlich sein könnten; diese Tatsache sollte bei den
+therapeutischen Überlegungen mit in Betracht bezogen werden. Desweiteren bleibt noch zu
+klären, ob das Vorhandensein von GM-Anfällen bei AHS-links-Patienten klinische Parameter
+beeinflusst, wie Gedächtnisaspekte oder den IQ. Bei AHS-rechts-Patienten können zwar keine
+solchen Läsionen festgestellt werden; ob dies zu einem besseren postoperativen Ergebnis führt,
+bleibt noch unklar; zumal bei AHS-rechts-Patienten (wie im § 4.2 gezeigt) per se eine geringere
+Anzahl an diffusen Läsionen besteht. Es wäre außerdem durchaus möglich, dass die GM-Anfälle
+mit nicht durch MRT feststellbaren Läsionen (sog. Mikroläsionen) einhergehen.
+Im nächsten Abschnitt wurde untersucht, ob frühe Hirnschäden (in den meisten Fällen
+Fieberkrämpfe) bei der AHS verantwortlich für morphologische Hirnveränderungen sein können.
+Bei
+
+beiden
+
+Analysen
+
+(sowohl
+
+mit
+
+dem
+
+Dartel-
+
+als
+
+auch
+
+mit
+
+dem
+
+Standardbearbeitungsalgorithmus) konnten sowohl bei AHS-links- als auch bei AHS-rechtsPatienten keine MRT-positiven Läsionen festgestellt werden. In der Literatur wird dieses Thema
+sehr kontrovers diskutiert. Es gibt Autoren, die für einen Zusammenhang von frühen Hirnschäden
+bzw. Fieberkrämpfen mit der AHS plädieren. So vertreten z.B. Keller et al. (2002) die Ansicht,
+dass eine der Hauptursachen der AHS ein früher Hirnschaden sein könnte. Sie konnten
+nachweisen, dass die Volumina des Hippokampus der betroffenen Seite (sowohl bei AHS-rechts
+als auch bei AHS-links-Patienten) bei Patienten mit Fieberkrämpfen in der Vorgeschichte im
+Vergleich zu denjenigen Patienten, bei denen kein solcher Schaden eruiert werden konnte,
+reduziert sind. Auer et al. (2008) konnten zeigen, dass Fieberkrämpfe im Kindesalter mit
+Hippokampusabnormitäten im Erwachsenenalter zusammenhängen könnten; Diese Abnormitäten
+seien aber nicht unbedingt epileptogen. Harvey et al. (1995) haben bei der Suche nach der
+Korrelation zwischen AHS, Fieberkrämpfen und komplex-partiellen Anfällen eine statistische
+Signifikanz zwischen AHS und frühen, vor dem Beginn der komplex-partiellen Anfälle
+eingesetzten, Hirnschäden herausgefunden. Es gibt aber auch andere Autoren, die das Gegenteil
+behaupten, dass also keinen Zusammenhang zwischen AHS und frühem Hirnschaden existiert.
+Tarkka et al. (2003) konnten bei einer MRT-Studie von 64 Personen, die an Fieberkrämpfen
+gelitten hatten -hierunter 32 Personen mit prologierten bzw. wiederholten Fieberkrämpfen und
+32 Kontrollpersonen mit einfachen Fieberkrämpfen- keinen Unterschied in den mittleren
+
+67
+
+Volumina des rechten bzw. linken Hippokampus und der Amygdala finden. Es konnten auch
+keine sklerotischen Veränderungen im medialen Temporallappen festgestellt werden. Bower et
+al. (2000) haben keine Differenz bei den ipsilateralen und kontralateralen Hippokampalvolumina
+und bei verschiedenen klinischen Parametern (wie Alter bei Beginn, Dauer der Epilepsie,
+Vorhandensein von GM-Anfällen) zwischen Fieberkrämpfe-positiven und –negativen Patienten
+nachweisen können. Zusammenfassend lässt sich also sagen, dass frühe Hirnschäden zu einer
+AHS führen können. Sie können Hirnläsionen verursachen, die entweder klinisch inapparent
+bleiben oder sich klinisch manifestieren aber durch 3T-MRT nicht nachgewiesen werden können.
+Als letztes wurde untersucht, welchen Einfluss die Anzahl der Anfälle auf die MRT-Bildgebung
+hat. Beide Algorithmen konnten zeigen, dass dieser Faktor zu keinen morphologischen
+Veränderungen führt. Varoglou et al. (2009) haben bei der Suche nach prognostischen Faktoren
+bei der AHS feststellen können, dass die Anfallfrequenz die Prognose der AHS nicht beeinflusst.
+Es liegt also hier die Vermutung nahe, dass bei Ammonshornsklerose die Anzahl der
+Epilepsieanfälle weder klinisch noch bildgebungstechnisch eine Rolle spielt. Denkbar wäre auch,
+dass die Art der Anfälle und ob sie monomorph oder polymorph sind, eine wichtigere Rolle
+spielt.
+Im letzten Abschnitt dieser Arbeit möchte ich mich mit dem Vergleich zwischen den beiden
+Bildbearbeitungsalgorithmen (Standard und Dartel) befassen. Denn bei genauerer Betrachtung
+erkennt man viele Unterschiede zwischen den beiden Analysen.
+Wenn man zunächst die beiden Bilder im §4.1 miteinander vergleicht, sieht man, dass die
+Analyse mit dem Dartel-Algorithmus die (in vielen verschiedenen Studien nachgewiesenen)
+Veränderungen im hippokampalen, parahippokampalen und Thalamus-Bereich (im Sinne einer
+Beteiligung
+
+des
+
+limbischen
+
+Systems)
+
+signifikanter
+
+und
+
+die
+
+diffusen
+
+Läsionen
+
+im
+
+frontookzipitoparietalen Bereich weniger signifikant zum Vorschein bringt. Bei der StandardAnalyse erscheint es, als würden - bis auf den Temporallappen – alle anderen Hirnabschnitte
+gleichmäßig betroffen sein. Der Frontallappen scheint aber im Gegensatz zur Dartel-Analyse
+stärker beeinflusst zu sein, was mit dem niedrigeren IQ bei (besonders mit „early onset“) AHSPatienten passen würde. Es lässt sich also hier keine eindeutige Aussage machen, welcher
+Algorithmus genauer ist.
+
+68
+
+Im §4.2 wurden AHS-rechts-Patienten mit gesunden Probanden verglichen. Hier sieht man, dass
+die Dartel-Analyse die Läsionen im rechten limbischen System (besonders eindrucksvoll im
+rechten Hippokampus) zweifellos besser darstellt. Bei der Standard-Analyse werden hier kaum
+Läsionen gezeigt, der Hippokampus scheint gar nicht lädiert zu sein. Dies würde mit keiner in der
+Literatur veröffentlichten Studie zusammenstimmen. Bei dieser Untersuchung lässt sich also
+behaupten, dass die Dartel-Analyse der Realität näher ist.
+Beim nächsten Vergleich (AHS-links- vs. AHS rechts-Patienten) kann man über die StandardAnalyse sagen, dass sie -bis auf diffuse kleinere Veränderungen- die Läsionen im limbischen
+System (z.B. hippokampal, parahippokampal und Inselrinde) mehr zum Vorschein bringt, als die
+Dartel-Analyse, bei der die Läsionen sich eher auf den linken medialen Temporallappen
+konzentrieren.
+Über die Vergleiche im §4.4 lässt sich Ähnliches aussagen wie im §4.1. Bei der StandardAnalyse scheinen -bis auf das Zerebellum- alle Hirnregionen gleichermaßen betroffen zu sein.
+Der Frontallappen weist mehr auffällige Stellen auf als bei der Dartel-Analyse, wo zwar diffuse
+Läsionen bestehen, man aber auch Regionen erkennen kann, die weniger betroffen sind (z.B.
+Okzipital- und Frontalpol).
+Den größten Unterschied zwischen den beiden Algorithmen kann man im §4.5 beobachten.
+Während bei der Standard-Analyse sich keine morphologische Unterschiede zwischen AHSlinks-Patienten ohne GM-Anfällen und AHS-links-Patienten mit GM-Anfällen zeigen lassen,
+kommen bei der ´Dartel-Analyse´ diffuse frontale und okzipitale Läsionen zum Vorschein. Diese
+stimmen sehr gut mit den in der Literatur veröffentlichten Ergebnissen über AHS-Patienten, die
+an GM-Anfällen leiden überein (siehe oben).
+In den letzten vier Vergleichen erkennt man keine Unterschiede zwischen den Algorithmen.
+Zusammenfassend lässt sich also sagen, dass -obwohl der Dartel-Algorithmus bei manchen
+Analysen klar bessere Ergebnisse hervorbringt- man nicht eindeutig behaupten kann, welcher
+Algorithmus zutreffender die morphologischen Veränderungen bei der AHS darstellt.
+
+69
+
+6 Zusammenfassung
+In einer morphologischen Studie wurde die Korrelation zwischen verschiedenen Faktoren und
+durch MRT feststellbaren Läsionen bei der TLE untersucht. Hierzu wurden zunächst die Akten
+von 77 Patienten, die an TLE gelitten haben und an der epileptologischen Klinik der Rheinischen
+Friedrich-Wilhelms-Universität Bonn im Zeitraum zwischen August 2005 und Juni 2008
+untersucht wurden, nach den zu untersuchenden Kriterien analysiert. Jedem Patienten wurde
+daraufhin ein gesunder Proband mit demselben Geschlecht und etwa dem gleichen Alter
+zugeordnet. Als nächstes wurden alle MRT-„Rohbilder“ verarbeitet (normalisiert, segmentiert,
+geglättet) und mittels voxel-basierter Morphometrie (VBM) und mit Hilfe von statistischen
+Programmen (SPM) gruppenweise miteinander verglichen. Diese Analysen konnten uns mehrere
+Informationen liefern. Bei Patienten mit AHS links bestehen sowohl Läsionen im limbischen
+System als auch diffuse Hirnläsionen frontoparietookzipital. Bei der AHS rechts konzentrieren
+sich die Läsionen im rechten hippokampalen und parahippokampalen Bereich und sind somit
+geringeren Ausmaßes als bei der AHS links. Bei Patienten mit frühem Beginn der Epilepsie
+bestehen massive diffuse Veränderungen, die praktisch in allen Hirnregionen verteilt sind. Bei
+Patienten mit AHS links und GM-Anfällen bestehen diffuse Läsionen frontookzipital. Faktoren
+wie früher Hirnschaden, Anzahl der Anfälle pro Monat sowie Vorhandensein von GM-Anfällen
+bei der AHS rechts beeinflussen die MRT-Bildgebung nicht.
+Als letztes wurden alle Bilder in einem zweiten Durchgang mit dem DARTEL überarbeitet,
+einem neuen, schnellen und kürzlich entwickelten Bildbearbeitungsalgorithmus. Denn
+Erfahrungen am FIL (Functional Imaging Laboratory, University College London) deuten darauf
+hin, dass DARTEL gegenüber dem Standardbearbeitungsalgorithmus sehr sichere und klare
+Verbesserungen für VBM-Studien anbietet - sowohl in Bezug auf die Lokalisierung der Läsionen
+als auch die erhöhte Sensitivität. So sind zwei Analysen entstanden, die Standard- und die
+DARTEL-Analyse, die miteinander verglichen wurden. Es hat hierbei herausgestellt, dass die
+DARTEL-Analyse beim Vergleich zwischen Patienten mit AHS rechts und gesunden Probanden
+sowie beim Vergleich zwischen Patienten mit GM-Anfällen und Patienten ohne GM-Anfällen bei
+der AHS links klar bessere Ergebnisse zeigt. Beim Vergleich zwischen AHS links und gesunden
+Probanden sowie bei der negativen Korrelation zwischen Alter bei Beginn und MRT zeigte die
+DARTEL-Analyse weniger diffuse Läsionen und war eher auf bestimmte Regionen konzentiert
+als die Standard-Analyse. Bei den übrigen fünf Untersuchungen gab es keinen Unterschied
+zwischen den beiden Algorithmen.
+
+70
+
+7 Anhang
+Klassifikation der postoperativen Anfallskontrolle („Engel-Klassifikation“)
+Klasse I: frei von behindernden Anfällen
+IA. komplett anfallsfrei
+IB. ausschließlich nichtbehindernde, einfach fokale Anfälle
+IC. einige behindernde postoperative Anfälle, jedoch in den letzten 2 Jahren keine behindernden
+Anfälle
+ID. ausschließlich generalisierte Anfälle bei Absetzen der antiepileptischen Therapie
+Klasse II: seltene behindernde Anfälle („nahezu anfallsfrei“)
+IIA. anfänglich anfallsfrei, aber nunmehr seltene Anfälle
+IIB. seltene behindernde Anfälle
+IIC. mehr als seltene behindernde Anfälle postoperativ, jedoch in den letzten 2 Jahren seltene
+Anfälle
+IID. ausschließlich nächtliche Anfälle
+Klasse III: lohnenswerte Verbesserung
+IIIA. lohnenswerte Anfallsreduktion
+IIIB. längere anfallsfreie Intervalle für mehr als die Hälfte der mindestens 2jährigen Follow-upPeriode
+Klasse IV: keine lohnenswerte Verbesserung
+IVA. signifikante Anfallsreduktion
+IVB. keine wesentliche Änderung
+IVC. Verschlechterung der Anfälle
+
+71
+
+8 Literaturverzeichnis
+Ashburner J. A fast diffeomorphic image registration algorithm. Neuroimage 2007; 38: 95-113
+Auer T, Barsi P, Bone B, Angyalosi A, Aradi M, Szalay C, Horvath RA, Kovacs N, Kotek G,
+Fogarasi A, Komoly S, Janszky I, Schwarcz A, Janszky J. History of simple febrile seizures is
+associated with hippocampal abnormalities in adults. Epilepsia 2008; 49: 1562-1569
+Bellgowan PS, Binder JR, Swanson SJ, Hammeke TA, Springer JA, Frost JA, Mueller WM,
+Morris GL. Side of seizure focus predicts left medial temporal lobe activation during verbal
+encoding. Neurology 1998; 51: 479–484
+Berg AT, Vickrey BG, Langfitt JT, Sperling MR, Walczak TS, Shinnar S, Bazil CW, Pacia SV,
+Spencer SS. The multicenter study of epilepsy surgery: recruitment and selection for surgery.
+Epilepsia 2003; 44: 1425–1433
+Bernasconi N, Bernasconi A, Caramanos Z, Antel SB, Andermann F, Arnold DL. Mesial
+temporal
+
+damage
+
+in
+
+temporal
+
+lobe
+
+epilepsy:
+
+a
+
+volumetric
+
+MRI
+
+study
+
+of
+
+the
+
+hippocampus,amygdala and parahippocampal region. Brain 2003; 126: 462-469
+Bonilha L, Rorden C, Appenzeller S, Coan AC, Cendes F, Li LM. Gray matter atrophy associated
+with duration of temporal lobe epilepsy. NeuroImage 2006; 32: 1070-1079
+Bonilha L, Rorden C, Halford JJ, Eckert M, Appenzeller S, Cendes F, Li LM. Asymmetrical
+extra-hippocampal grey matter loss related to hippocampal atrophy in patients with medial
+temporal lobe epilepsy. J Neurol Neurosurg Psychiatry 2007; 78: 286-294
+Bower SP, Kilpatrick CJ, Vogrin SJ, Morris K, Cook MJ. Degree of hippocampal atrophy is not
+related to a history of febrile seizures in patients with proved hippocampal sclerosis. J Neurol
+Neurosurg Psychiatry 2000; 69: 733-738
+Clusmann H, Kral T, Fackeldey E, Blümcke I, Helmstaedter C, von Oertzen J, Urbach H,
+Schramm J. Lesional mesial temporal lobe epilepsy and limited resections: prognostic factors and
+outcome. J Neurol Neurosurg Psychiatry 2004; 75: 1589-1596
+
+72
+
+Detre JA, Maccotta L, King D, Alsop DC, Glosser G, D´Esposito M, Zarahn E, Aquirre GK,
+French JA. Functional MRI lateralization of memory in temporal lobe epilepsy. Neurology 1998;
+50: 926– 932
+Düzel E, Schiltz K, Solbach T, Peschel T, Baldeweg T, Kaufmann J, Szentkuti A, Heinze HJ.
+Hippocampal atrophy in temporal lobe epilepsy is correlated with limbic systems atrophy. J
+Neurol 2006; 253: 294-300
+Engel J Jr. Introduction to temporal lobe epilepsy. Epilepsy Res 1996; 26: 141–150
+Ferrier CH, Engelsman J, Alarcon G, Binnie CD, Polkey CE. Prognostic factors in presurgical
+assessment of frontal lobe epilepsy. J Neurol Neurosurg Psychiatry 1999; 66: 350–356
+Functional Imaging Laboratory, University College London, 2009: Statistical Parametric
+Mapping. http://www.fil.ion.ucl.ac.uk/spm/ (Zugriffsdatum: 17.05.2009)
+Gaser C. Morphometrie. In: Walter H, HRSG. Funktionelle Bildgebung in Psychiatrie und
+Psychotherapie. Stuttgart: Schattauer Verlag, 2005: 89-104
+Gaser
+
+C,
+
+2009:
+
+VBM5
+
+for
+
+SPM5.
+
+http://dbm.neuro.uni-jena.de/vbm/vbm5-for-spm5/
+
+(Zugriffsdatum: 17.05.2009)
+Golby AJ, Poldrack RA, Illes J, Chen D, Desmond JE, Gabrieli JD. Memory lateralization in
+medial temporal lobe epilepsy assessed by functional MRI. Epilepsia 2002; 43: 855–863
+Good CD, Johnsrude IS, Ashburner J, Henson RN, Friston KJ, Frackowiak RS. A voxel-based
+morphometric study of ageing in 465 normal adult human brains. NeuroImage 2001; 14: 21-36
+Harvey AS, Grattan-Smith JD, Desmond PM, Chow CW, Berkovic SF. Febrile seizures and
+hippocampal sclerosis: frequent and related findings in intractable temporal lobe epilepsy of
+childhood. Pediatr Neurol. 1995; 12: 201-206
+Keller SS, Wieshmann UC, Mackay CE, Denby CE, Webb J, Roberts N. Voxel based
+morphometry of grey matter abnormalities in patients with medically intractable temporal lobe
+epilepsy: effects of side of seizure onset and epilepsy duration. J Neurol Neurosurg Psychiatry
+2002; 73: 648-655
+
+73
+
+Janszky J, Janszky I, Schulz R, Hoppe M, Behne F, Pannek HW, Ebner A. Temporal lobe
+epilepsy with hippocampal sclerosis: predictors for long-term surgical outcome. Brain 2005; 128:
+395–404
+Jeong SW, Lee SK, Hong KS, Kim KK, Chung CK, Kim H. Prognostic factors for the surgery for
+mesial temporal lobe epilepsy: longitudinal analysis. Epilepsia 2005; 46: 1273-1279
+Jokeit H, Okujava M, Woermann FG. Memory fMRI lateralizes temporal lobe epilepsy.
+Neurology 2001; 57: 1786–1793
+Kaaden S, Helmstaedter C. Age at onset of epilepsy as a determinant of intellectual impairment in
+temporal lobe epilepsy. Epilepsy Behav 2009; 15: 213-217
+Kanner AM, Byrne R, Chicharro A, Wuu J, Frey M. A lifetime psychiatric history predicts a
+worse seizure outcome following temporal lobectomy. Neurology 2009; 72: 793-799
+Keller SS, Wieshmann UC, Mackay CE, Denby CE, Webb J, Roberts N. Voxel based
+morphometry of grey matter abnormalities in patients with medically intractable temporal lobe
+epilepsy: effects of side of seizure onset and epilepsy duration. J Neurol Neurosurg Psychiatry
+2002; 73: 648-655
+McIntosh AM, Kalnins RM, Mitchell LA, Fabinyi GC, Briellmann RS, Berkovic SF. Temporal
+lobectomy: long-term seizure outcome, late recurrence and risks for seizure recurrence. Brain
+2004; 127: 2018–2030
+Mosewich RK, So EL, O’Brien TJ, Cascino GD, Sharbrough FW, Marsh WR, Meyer FB, Jack
+CR, O´Brien PC. Factors predictive of the outcome of frontal lobe epilepsy surgery. Epilepsia
+2000; 41: 843–849
+Radhakrishnan K, So EL, Silbert PL, Jack CR Jr, Cascino GD, Sharbrough FW, O´Brien PC.
+Predictors of outcome of anterior temporal lobectomy for intractable epilepsy: A multivariate
+study. Neurology 1998; 51: 465–471
+Rorden
+
+C,
+
+2007:
+
+Dcm2nii
+
+DICOM
+
+to
+
+NIFTI
+
+conversion.
+
+http://www.sph.sc.edu/comd/rorden/mricron/dcm2nii.html (Zugriffsdatum 17.05.2009)
+
+74
+
+Rutten GJ, Ramsey NF, van Rijen PC, Noordmans HJ, van Veelen CW. Development of a
+functional magnetic resonance imaging protocol for intraoperative localization of critical
+temporoparietal language areas. Ann Neurol 2002; 51: 350–360
+Sabsevitz DS, Swanson SJ, Hammeke TA, Spanaki MV, Possing ET, Morris GL 3rd, Mueller
+WM, Binder JR. Use of preoperative functional neuroimaging to predict language deficits from
+epilepsy surgery. Neurology 2003; 60: 1788–1792
+Schick F. Grundlagen der Magnetresonanztomographie (MRT). Radiologe 2005; 45: 69-88
+Schmidt D, Elger CE. Praktische Epilepsiebehandlung. Stuttgart: Thieme, 2005
+Spencer, SS. Neural networks in human epilepsy: evidence of and implications for treatment.
+Epilepsia 2002; 43: 219–227
+Spencer SS, Berg AT, Vickrey BG, Sperling MR, Bazil CW, Shinnar S, Langfitt JT, Walczak TS,
+Pacia SV, Ebrahimi N, Frobish D. Initial outcomes in the Multicenter Study of Epilepsy Surgery.
+Neurology 2003; 61: 1680–1685
+Tarkka R, Pääkkö E, Pyhtinen J, Uhari M, Rantala H. Febrile seizures and mesial temporal
+sclerosis: No association in a long-term follow-up study. Neurology 2003; 60: 215-218
+Tellez-Zenteno JF, Dhar R, Wiebe S. Long-term seizure outcomes following epilepsy surgery: a
+systematic review and meta-analysis. Brain 2005; 128: 1188–1198
+Tonini C, Beghi E, Berg AT, Bogliun G, Giordano L, Newton RW, Tetto A, Vitelli E, Vitezic D,
+Wiebe S. Predictors of epilepsy surgery outcome: a meta-analysis. Epilepsy Res 2004; 62: 75–87
+Varoglu AO, Saygi S, Acemoglu H, Ciger A. Prognosis of patients with mesial temporal lobe
+epilepsy due to hippocampal sclerosis. Epilepsy Res 2009; 85: 206-211
+Wiebe S, Blume WT, Girvin JP, Eliasziw M. A randomized, controlled trial of surgery for
+temporal-lobe epilepsy. N Engl J Med 2001; 345: 311–318
+Wieser
+
+HG,
+
+Hane
+
+A.
+
+Antiepileptic
+
+drug
+
+treatment
+
+amygdalohippocampectomy. Epilepsy Res 2003; 55: 211–223
+
+before
+
+and
+
+after
+
+selective
+
+75
+
+Zentner J, Hufnagel A, Ostertun B, Wolf HK, Behrens E, Campos MG, Solymosi L, Elger CE,
+Wiestler OD, Schramm J. Surgical treatment of extratemporal epilepsy: clinical, radiologic, and
+histopathologic findings in 60 patients. Epilepsia 1996; 37: 1072–1080
+
+

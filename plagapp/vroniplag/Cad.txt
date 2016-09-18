@@ -1,0 +1,3673 @@
+Aus der Medizinischen Universitätsklinik Tübingen
+Abteilung Innere Medizin IV
+Ärztlicher Direktor: Professor Dr. H.-U. Häring
+
+Bedeutung des PPARγ Pro 12 Ala Polymorphismus für
+die Regulation der lokalen Lipolyse
+
+Inaugural-Dissertation
+zur Erlangung des Doktorgrades
+der Medizin
+
+der MEDIZINISCHEN FAKULTÄT
+der Eberhard-Karls-Universität
+zu Tübingen
+
+vorgelegt von
+Christoph Alexander Dopslaff
+aus Waiblingen
+2006
+
+1 Einleitung
+1.1 Bedeutung des Typ 2 Diabetes mellitus
+Der Diabetes mellitus Typ 2 ist ein zunehmendes Problem der westlichen
+Industrienationen geworden. Die Prävalenz des Typ 2 Diabetes wird hier nach
+epidemiologischen Studien mit 3 bis 10 % angegeben; die Zahl der Patienten
+mit nicht diagnostiziertem Diabetes liegt mindestens in der gleichen
+Größenordnung [1]. Daher muss man davon ausgehen, dass in der
+Bundesrepublik Deutschland etwa vier Millionen Menschen mit manifestem und
+ebenso viele mit nicht diagnostiziertem Typ 2 Diabetes leben. Gestörte
+Glukosetoleranz oder Bluthochdruck,Übergewicht Risikofaktorenmuster manifester ist mit
+Diabetes gehen und Dyslipidämi einem besonders sehr häufig einher.
+hohen mitDieses Risiko für arteriosklerotische kardiovaskuläre Erkrankungen assoziiert [2-5]. Die Morbidität
+und Mortalität der Diabetespatienten ist vor allem durch makrovaskuläre
+Veränderungen gekennzeichnet [6-10]. So weisen Diabetiker gegenüber NichtDiabetikern ein drei- bis vierfach höheres koronares Erkrankungs- und
+Sterblichkeitsrisiko auf [6,9].
+Bereits zum Zeitpunkt der Diagnose, die im Mittel erst sieben Jahre nach
+Krankheitsbeginn gestellt wird,beträgt die Prävalenz der Koronaren
+Herzerkrankung etwa 50%, sind ca. 80% der Patienten nach den neuen
+Hypertonie-Klassifikationen als Hypertoniker einzustufen, und es weisen
+außerdem über 3/4 aller Diabetiker eine Hyper- oder Dyslipidämie und
+Adipositas auf [3,11,12].
+Daraus folgt, dass die Entwicklung kardiovaskulärer Erkrankungen bei Typ 2
+Diabetikern offenbar in der prädiabetischen Phase stattfindet und nicht erst
+durch die Hyperglykämie induziert wird. Es wird vermutet, dass in der
+prädiabetischen normoglykämischen Phase erhöhte Insulinspiegel [3,13] eine
+wesentliche Bedeutung für die Pathogenese der makrovaskulären
+Veränderungen besitzen und demnach als kardiovaskuläre Risikofaktoren
+anzusehen sind [2,3,14,15]. Diese prädiabetische Phase ist durch das
+metabolische Syndrom charakterisiert, bei dem Übergewicht mit androider
+Fettverteilung, essentielle Hypertonie, Dyslipoproteinämie mit erniedrigtem
+High-Density-Lipoprotein und Hypertriglyzeridämie, Hyperurikämie und/oder die
+gestörte Glukosetoleranz gemeinsam auftreten [16].
+Als Schlüsselfaktor und gemeinsame Grundlage des metabolischen Syndroms,
+des Typ  2  Diabetes  und  der  Atherosklerose  wird  zunehmend  die  Insulinresistenz anerkannt. Diese Resistenz ist durch eine verminderte insulinstimulierte  Glukoseaufnahme  in  die  Muskulatur  gekennzeichnet.  Die 
+Insulinresistenz der Glukoseaufnahme wird nicht nur bei Patienten mit Diabetes
+mellitus, sondern auch bei einem Grossteil der essentiellen Hypertoniker, bei
+Adipositas sowie zusätzlich auch bei asymptomatischen Nachkommen von Typ
+2 Diabetikern gefunden [11,17-19]. Demnach lässt sich diese Insulinresistenz
+bei einem beträchtlichen Teil der europäischen Bevölkerung zeigen.
+
+1.2 Pathogenese des Typ 2 Diabetes mellitus
+Zwei Hauptmechanismen spielen für die Entstehung des Typ 2 Diabetes eine
+wesentliche Rolle: Die Störung der quantitativen und qualitativen InsulinSekretion
+ des  Pankreas  einerseits  und  andererseits  die  verminderte 
+Insulinsensitivität der Glukoseaufnahme des Skelettmuskels, aber auch die
+Insulinresistenz des Fettgewebes und der Leber [20,21].
+Ursachen dieser Insulinwirkungsstörung sind prinzipiell in allen Teilschritten
+zwischen der pankreatischen Sekretion und dem Effekt des Hormons am
+Zielorgan denkbar. Man geht heute davon aus, dass die verminderte Wirkung
+von Insulin bei Diabetes mellitus, aber auch bei Adipositas, bei Hypertonie und
+bei Verwandten ersten Grades von Typ 2 Diabetikern nicht an einer gestörten
+Bindung an den Rezeptor liegt, sondern es wird vielmehr ein PostrezeptorDefekt postuliert [3,22].
+Des weiteren scheint auch die Insulinwirkung auf die endothelabhängige
+Vasodilatation und konsekutiv auf die Perfusion der Muskulatur vermindert zu
+sein [23].
+Den Circulus vitiosus der Insulinresistenz vereinfacht dargestellt, zeigt die
+Abbildung 1-1. Die Hyperinsulinämie induziert dabei eine verminderte
+Signaltransduktion als post-Rezeptor-Defekt [24], welche konsekutiv die
+muskuläre Glukoseaufnahme herabsetzt und somit die Insulinresistenz
+verstärkt.
+
+Signaltransduktion
+(post-Rezeptor-Defekt)
+
+Hyperinsulinämie
+
+muskuläre
+Glukoseaufnahme
+
+relative
+Hyperglykämie
+
+Insulinsekretion (β-Zellen)
+
+Abbildung 1-1: Circulus vitiosus der Insulinresistenz (IR)
+
+Aber abgesehen von seltenen genetischen Defekten, wie zum Beispiel die
+Acanthosis nigricans oder das Leprechaunismus-Syndrom, welche zur
+Insulinresistenz führen, sind zwar die Ursachen, nicht aber die exakten
+Mechanismen der metabolischen Störung endgültig geklärt.
+
+1.2.1 Insulinsekretion
+Bei der Diagnose oder der Erstmanifestation eines Typ 2 Diabetes ist die
+Insulin-Sekretion, besonders die erste Phase, deutlich vermindert [22,25]. Aber
+auch bei gesunden, normoglykämischen Personen oder bei Übergewichtigen
+wird eine Störung der Insulin-Sekretion beschrieben [26,27].
+
+Einleitung
+
+Seite 8
+
+1.2.2 Physiologische Insulinwirkung
+Insulin besitzt als Hormon verschiedene Effekte, wovon die Wichtigsten für den
+Glukose-, Lipid- und Proteinstoffwechsel in der Abbildung 1-2 dargestellt
+werden.
+Zudem senkt Insulin die Glukoneogenese in der Leber und in der Niere. Als
+weiteres Beispiel hat Insulin am Gefässendothel einen vasodilatatorischen
+Einfluss.
+
+Gefäßsystem
+
+Vasodilatation
+
+Glukosestoffwechsel
+
+Erhöhung der Glukoseaufnahme
+Stimulation der Glykogensynthese
+Erhöhung der Glukoseoxidation
+Hemmung der Glukoneogenese
+
+Insulin
+Lipidstoffwechsel
+
+Inhibition der Lipolyse
+Stimulation der Triglyzerid-Synthese
+
+Proteinstoffwechsel
+
+Stimulation der Protein-Synthese
+
+Abbildung 1-2: Effekte der Insulinwirkung
+
+1.2.2.1 Insulinsensitivität der Glukoseaufnahme
+Bei Typ 2 Diabetikern und auch bei normoglykämischen prädiabetischen
+Personen ist die insulin-vermittelte Glukoseaufnahme in den Skelettmuskel
+reduziert [12,16,25,28]. Dies wird als Insulinresistenz der Glukoseaufnahme
+bezeichnet.
+Insulinresistenz ist somit definiert als eine subnormale biologische Antwort auf
+Insulin und der daraus resultierenden verminderten Insulinwirkung und bedeutet
+hier konventionell eine verminderte Insulinsensitivität der Glukoseaufnahme.
+Mit Hilfe des euglykämischen hyperinsulinämischen Glukose-Clamps [29] kann
+dies dargestellt werden. Der von DeFronzo et al. [30] beschriebene und als
+Goldstandard angesehene Clamp quantifiziert im wesentlichen die insulinvermittelte Glukoseaufnahme in die Skelettmuskulatur.
+
+Es werden dabei hohe, supraphysiologische Insulinkonzentrationen über zwei
+Stunden eingestellt.
+Da mit dem Glukose-Clamp nur eine Aussage über die Gesamt-KörperGlukoseaufnahme
+ gemacht  werden  kann,  lassen  sich  die 
+Stoffwechselvorgänge der einzelnen Kompartimente mit dieser Methode nicht
+beschreiben.
+
+1.2.2.2 Insulinsensitivität der Antilipolyse
+Bei Patienten mit Typ 2 Diabetes und ebenso bei Patienten mit einer
+Insulinresistenz der Glukoseaufnahme ist die Inhibition der Lipolyse durch
+Insulin vermindert und wird als Insulinresistenz der Antilipolyse bezeichnet.
+Insulin hat bereits bei geringsten Konzentrationen inhibitorische Effekte auf die
+Lipolyse [31].
+Während eines euglykämischen hyperinsulinämischen Glukose-Clamps wird
+durch die supraphysiologischen Insulinspiegel im Serum die Lipolyse fast
+vollständig supprimiert.
+Daher lag das Interesse in der Entwicklung eines 3-Stufen-Glukose-Clamps mit
+einer sehr niedrigen Insulin-Anfangsdosis, um die Inhibition der Lipolyse
+erfassen und die Insulinresistenz der Antilipolyse quantifizieren zu können.
+Dabei gibt die Menge der Freien Fettsäuren im Serum im Steady-State einer
+Stufe im Glukose-Clamp die Insulinsensitivität der Antilipolyse an.
+Die niedrigen Insulindosierungen in der 1. und 2. Stufe, bei nur geringer
+Verwertung
+von  Glukose  entsprechen  eher  der  Physiologie  als 
+supraphysiologische Insulinspiegel mit entsprechend hoher Glukoseaufnahme
+im Standard-Glukose-Clamp.
+
+1.2.3 Von der Insulinresistenz zum manifesten Diabetes
+Vor der Manifestation des Diabetes mellitus, der sogenannten prädiabetischen,
+normoglykämische Phase,  die  vermutlich  über  Jahre  dauert,  ist  die
+Insulinwirkung bereits vermindert; diese kann aber durch eine reaktive
+Hyperinsulinämie kompensiert werden.
+Es wird heute vermutet, dass zu diesem Zeitpunkt die insulin-stimulierte
+Glukoseaufnahme, besonders  des  Muskels,  ausgeprägt  reduziert  ist  [12,28,39].Heute geht man davon aus, dass die Blutzuckerwerte in besonderem
+Maße ansteigen und ein manifester Diabetes resultiert dann, wenn eine Störung
+der Sekretion hinzukommt (Verlust der 1. Phase).
+Epidemiologische Studien zeigen, dass bereits bei normoglykämischen
+Risikopatienten für Diabetes mellitus, wie zum Beispiel Verwandte ersten
+Grades von Typ 2 Diabetikern die Insulinsensitivität der Glukoseaufnahme
+herabgesetzt ist [12,26].
+Kommen zu einer genetischen Vorbelastung weitere Faktoren, wie Inaktivität,
+Fehlernährung und Adipositas hinzu, nimmt die Insulinresistenz zu und das
+Risiko für die Manifestation des Diabetes mellitus steigt (s. Abb. 1-3).
+
+DM
+
+Übergewicht
+Fehlernährung
+Inaktivität
+
+genetische
+Vorbelastung
+
+Insulinresistenz
+
+Insulin-Sekretion
+
+Prädiabetische Phase
+
+Alter
+
+Abbildung 1-3: Entwicklung des Diabetes mellitus (DM)
+
+1.2.4 Bedeutung des Übergewichtes und der Fettverteilung
+Übergewicht verschlechtert die Insulinsensitivität (s. Abb. 1-3); dies ist aber
+durch erfolgreiche Gewichtsreduktion reversibel [40,41]. So korreliert vor allem
+die Körper-Fett-Masse eng mit der Insulinsensitivität, wie epidemiologische
+Studien zeigen konnten [42,43].
+Weiterhin spielt die Fettverteilung eine besondere Rolle: Eine Vermehrung des
+viszeralen Fettgewebes wirkt sich viel ungünstiger auf die Insulinsensitivität aus
+als eine Vermehrung des subkutanen Unterhautfettgewebes [44]. Bei einer
+mehr viszeralen, androiden Fettverteilung, besonders wenn kombiniert mit
+Übergewicht, findet sich eine deutlich erhöhte Inzidenz von Insulinresistenz und
+Typ 2 Diabetes [42,43].
+
+1.2.5 Bedeutung der Freien Fettsäuren
+Bei Typ 2 Diabetikern und gesunden Personen mit Insulinresistenz lassen sich
+erhöhte Plasmaspiegel an Freien Fettsäuren (FFS) messen [45-49]. Auch bei
+einem oralen Glukose Toleranztest oder einem hyperinsulinämischen GlukoseClamp werden die FFS in dieser Gruppe nicht adäquat supprimiert [47,50].
+Epidemiologischen Untersuchungen zufolge weisen die erhöhten FFS bei
+Personen mit normaler Glukosetoleranz auf ein erhöhtes Risiko für die
+Entwicklung eines Typ 2 Diabetes hin [45,51].
+Die Hemmung der Lipolyse durch Insulin ist bei Typ 2 Diabetikern und bei
+Nicht-Diabetikern mit Insulinresistenz scheint gestört zu sein; das heißt, dass
+die Lipolyse durch physiologische Insulinspiegel nicht mehr adäquat supprimiert
+werden kann und demnach eine Insulinresistenz der Antilipolyse vorliegt
+[17,47,52,53].
+Die Bedeutung der Lipolyse und der systemischen FFS ist aber noch nicht
+eindeutig geklärt. Bisher wurde davon ausgegangen, dass die im Plasma
+erhöhten Spiegel der FFS das Resultat einer vermehrten Lipolyse im
+Fettgewebe sind [54].
+Daher nimmt man heute an, dass eine im "Organ Fettgewebe" lokalisierte
+Regulationsstörung, nämlich einer verminderten insulin-vermittelten Antilipolyse
+einerseits und zum Beispiel einer gesteigerten sympatho-adrenerg vermittelten
+Lipolyse-Sensitivität andererseits, zu der im Plasma nachweisbaren Erhöhung
+der Freien Fettsäuren führt. Diese Störung induziert dann im Skelettmuskel
+aufgrund einer Substrat-Kompetition eine vermehrte Lipidoxidation und
+konsekutiv eine verminderte Glukoseaufnahme [54-62] (s. Abb. 1-4). Diese
+kompetitive Hemmung wird als "Randle Mechanismus" beschrieben [54].
+Weiterhin haben die vermehrten FFS eine inhibitorische Wirkung auf den
+Glukosetransport im Skelettmuskel und durch eine Erhöhung der FFS wird die
+Glukoneogenese in der Leber aktiviert.
+Allerdings haben bisherige Studien nur eine relativ schwache Korrelation
+zwischen Serumwerten der FFS und dem Ausmaß der Insulinresistenz
+gegeben [63], so dass dieser oben genannte Mechanismus die Störung der
+Insulinsensitivität nicht hinreichend zu erklären erklären ist.
+
+Lipolyse Ï
+FFS ?
+Fettgewebe
+Muskulatur
+•Lipid Oxidation Ï
+•Glukose Oxidation Ð
+•Glukose AufnahmeÐ
+•Glykogen Synthese Ð
+
+Abbildung 1-4: "Cross talk" zwischen Fett- und Muskelgewebe
+
+1.2.6 Muskuläres Fett
+In den letzten Jahren ergaben sich Hinweise dafür, dass neben den subkutan
+und viszeral gelegenen Fettdepots auch intramuskulär gelegene Lipide
+existieren, die in der Pathogenese der Insulinresistenz eine Rolle spielen
+könnten.Mehrere  Arbeitsgruppen  untersuchten  den  Zusammenhang  zwischen  Fettaufnahme, muskulär gelegenen Lipiden und Insulinsensitivität. Diese
+experimentellen Studien fanden bei Ratten eine deutliche Reduktion der
+Insulinsensitivität  unter  einer  fettreichen  Diät  im  Vergleich  zu  reiner  Kohlenhydraternährung [65-68]. Dabei wurde eine Erhöhung der muskulären
+Fette bei den mit Fett diätetisch behandelten Ratten festgestellt [65,66].
+
+Epidemiologische Daten zeigen einen engen Zusammenhang zwischen der
+vermehrten Fettaufnahme und der Entwicklung einer Insulinresistenz bzw. des
+Typ 2 Diabetes mellitus [69].
+Andererseits hat die Rückkehr der Aborigines in Australien von einer
+fettreichen, zu ihrer traditionellen, faserreichen und fettarmen Kost, die
+Störungen im Lipid- und Kohlenhydratstoffwechsel deutlich verbessert [70].
+
+Falholt beschrieb 1987 eine deutlich vermehrte Lipideinlagerung in Biopsien
+des M. rectus abd. von Patienten mit Typ 2 Diabetes im Vergleich zu Gesunden
+[71]. Eine erhöhte intramuskuläre Triglyzeridakkumulation war auch bei nichtdiabetischen Patienten mit koronarer Herz-Erkrankung zu verzeichnen [72],
+einer Patientengruppe, die häufig durch eine ausgeprägte Insulinresistenz
+auffällt [11,17,73]. In allen diesen Gruppen ließen sich auch deutlich erhöhte
+lipogenetische Enzymaktivitäten in der Muskelbiopsie nachweisen. Diese
+Ergebnisse wurden über längere Zeit wenig beachtet oder als nicht relevant für
+die Pathogenese der Insulinresistenz angesehen.
+
+Erst in der letzten Zeit wurde von verschiedenen Arbeitsgruppen mit Hilfe von
+Muskelbiopsien oder CT gezeigt [74-76], dass nicht-diabetische Personen mit
+verminderter Insulinsensitivität einen erhöhten Pool an intramuskulärem Fett
+aufweisen. Sowohl bei Pima-Indianern, als auch bei post-menopausalen Frauen
+bestanden klare und statistisch unabhängige Zusammenhänge zwischen den
+Parametern der Insulinresistenz und den intramuskulären Triglyzeriden.
+
+1.3 PPAR
+Die Peroxisome-Proliferator Activated Receptors (PPARs) gehören zu den
+Hormonrezeptoren der Transkriptionsfaktoren auf der Zellkernmembran. Diese
+erkennen bestimmte Liganden, leiten deren Signale ins Zellkerninnere und
+regulieren so die Genexpression.
+1.3.1 PPARγ
+Die Untergruppe PPARγ kommt in hoher Konzentration in Fettzellen
+(Adipozyten), in mittlerer Konzentration in Makrophagen, Myoblasten und in der
+Leber und in niedriger Konzentration in fast allen Körpergeweben vor und spielt
+eine wichtige Rolle in der Regulation der Zelldifferenzierung von Adipozyten
+[94]. Auch ist nachgewiesen, dass PPARγ eine Rolle in der Regulation der
+
+Insulinsensitivität und in der Pathogenese der Insulinresistenz spielt (s.Tab.1-1)
+[96].
+Natürliche Liganden dieser Rezeptoren sind Prostaglandin J2 und mehrfach
+ungesättigte Fettsäuren wie Linolensäure [94].
+Künstliche Liganden, die Thiazolidinedione setzen ebenfalls an diesen
+Rezeptoren an und verbessern die Insulinsensitivität und das Lipidprofil.
+Thiazolidinedione werden als Insulinsensitizer bei der Behandlung des Typ 2
+Diabetes mellitus eingesetzt.
+
+Einleitung
+
+Seite 15
+
+Gewebe Steigerung Genprodukt
+
+Funktion
+
+/ Senkung
+Fett-
+
+Steigerung
+
+gewebe
+
+-
+
+Dihydrolipoamide Acyltransferase
+
+Lipogenese
+
+-
+
+Acetyl-CoA Carboxylase
+
+-
+
+Fatty acid synthase
+
+-
+
+Pyruvate carboxylase
+
+-
+
+Tricarboxylate transport protein
+
+-
+
+Malic enzyme
+
+-
+
+Acyl-Coa synthetase
+
+-
+
+Carnitine palmitoyltransferase
+
+Fettsäure-
+
+-
+
+Acyl-CoA dehydrogenase
+
+oxidation
+
+-
+
+Monoglyceride lipase
+
+-
+
+Uncoupling protein-3
+
+-
+
+Lipoprotein lipase
+
+Fettsäure-
+
+-
+
+Fatty acid transport protein
+
+transport
+
+-
+
+CD 36
+
+und
+
+-
+
+Adipocyte fatty acid binding protein
+
+speicherung
+
+-
+
+Phosphoenolpyruvate carboxykinase Triglycerid-
+
+-
+
+synthese
+Senkung
+
+-
+
+Leptin
+
+Lipolyse
+
+Muskel- Senkung
+
+-
+
+Fatty acid transport protein
+
+Fettsäure-
+
+gewebe
+
+transport
+Senkung
+
+-
+
+Pyruvate dehydrogenase kinase 4
+
+Glukosestoffwechsel
+
+-
+
+Uncoupling protein-3
+
+Fettsäureoxidation
+
+Leber-
+
+Senkung
+
+gewebe
+
+Senkung
+
+-
+
+Phosphoenolpyruvate carboxykinase Gluco-
+
+-
+
+Pyruvate carboxylase
+
+-
+
+Glucose-6-phosphatase
+
+-
+
+Acyl-CoA dehydrogenase
+
+neogenese
+
+Fettsäureoxidation
+
+Tab. 1-1: Durch PPARγ regulierte Genexpression
+
+Einleitung
+
+Seite 16
+
+1.3.2 PPARγ-1/-2/-3
+Es sind 3 Untergruppen des PPARγ bekannt. Durch unterschiedliche Promoter
+und unterschiedliches splicing des auf Chromosom 3 befindlichen Gens für
+PPARγ, entstehen die Untergruppen PPARγ-1, PPARγ-2 und PPARγ‐3 [97,
+98]. Während PPARγ-1 und –3 beim Menschen identisch sind, unterscheidet
+sich PPARγ-2 von den anderen Formen um 28 Aminosäuren. Das Vorkommen
+von PPARγ-2 ist auf Fettgewebe und Lebergewebe beschränkt, das von
+PPARγ-3 auf Makrophagen, Fettgewebe und Colon-Epithel, während PPARγ-1
+in praktisch allen Körpergeweben vorkommt. Zudem ist die Konzentration von
+PPARγ-2
+
+in Fibroblasten und Myoblasten so hoch, dass diese sich bei
+
+entsprechender Stimulation in Adipozyten umwandeln. Die Potenz von PPARγ2, Signale umzusetzen ist um das 5-10fache höher als bei PPARγ-1& -3 [99].
+
+1.3.3 PPARγ-2 Pro 12 Ala Polymorphismus
+Der Pro 12 Ala Polymorphismus besteht in einem Austausch der Aminosäure
+Prolin (Pro) durch Alanin (Ala), der durch einen Nukleotidaustausch auf Exon 2
+des codierenden Gens ausgelöst wird [100].
+Die Wahrscheinlichkeit  des  Polymorphismus  schwankt  zwischen  den  unterschiedlichen Bevölkerungsgruppen beträchtlich. So beträgt die Häufigkeit
+des Ala-Allels für die weiße Bevölkerung Amerikas und Europas 12%, für
+Japaner ca. 2% und ca. 1% für Chinesen [100].
+In vitro- Versuche zeigten, dass diese Variante des Rezeptors zu einer
+verminderten Transkriptionsaktivität führt [101].
+In vivo-Versuche zeigten unterschiedliche Ergebnisse in Bezug auf BMI und
+Insulinsensitivität. So zeigen zwar die meisten Studien eine bei Vorliegen des
+Pro 12 Ala-Polymorphismus verbesserte Insulinsensitivität[102], ein verringertes
+Risiko für Typ 2 Diabetes [101,103,104] und erst kürzlich ein verringertes Risiko
+für eine diabetische Nephropathie bei Patienten mit Typ 2 Diabetes [105]. Es
+gab aber auch widersprüchliche Ergebnisse bezüglich der Zusammenhänge
+zwischen Pro 12 Ala und Insulinsensitivität [106].
+
+Einleitung
+
+Seite 17
+
+1.4 Ziel der Studie
+Die gegenwärtige Datenlage gibt Hinweise dafür, dass Personen, die die Pro 12
+Ala Mutation tragen, eine bessere Insulinsensitivität zeigen [102]. Ebenfalls
+zeigen der Großteil der Studien, dass das Risiko für die Entstehung eines Typ 2
+Diabetes bei Personen mit PPARγ-2 Pro 12 Ala Polymorphismus niedriger ist
+[101,103,104]. Personen mit einer Insulinresistenz der Glukoseaufnahme
+weisen ebenso eine Störung der insulinvermittelten Antilipolyse auf. Somit stellt
+sich die Frage, ob Personen mit Polymorphismus ebenso eine verbesserte
+insulinvermittelte Antilipolyse zeigen, wie dies Personen ohne Polymorphismus
+aufweisen. Es soll daher der Frage nachgegangen werden, ob Personen mit
+PPARγ-2 Pro 12 Ala Polymorphismus eine bessere insulinvermittelte
+Antilipolyse aufweisen. Dazu wird die Methodik der Mikrodialyse (s. Material
+und Methoden) eingesetzt, die es ermöglicht, den Stoffwechsel bestimmter
+Substrate in verschiedenen Geweben zu untersuchen.
+
+Folgende Fragestellungen sind von Interesse:
+•
+
+Haben Probanden mit PPARγ-2 Pro 12 Ala Polymorphismus eine bessere
+Insulinsensitivität der Glucoseaufnahme?
+
+•
+
+Hat der PPARγ-2 Pro 12 Ala Polymorphismus Auswirkungen auf die lokale
+(Muskel- und Fettgewebe) und die systemische Lipolyse?
+
+•  Wie  verhält  sich  Polymorphismus  die  Lipolyse  während  in  eines  Abhängigkeit  des  Drei-Stufen  Pro  12  Ala  isoglykämischen  hyperinsulinämischen Glukose-Clamps?
+•  Bestehen Unterschiede in den Kompartimenten in Abhängigkeit des Pro 12
+Ala Polymorphismus bezüglich des Wiederanstiegs der Lipolyse nach
+Reduktion der Insulinspiegel während der Post-Clamp-Phase?
+
+•
+
+Inwiefern spielt der Pro 12 Ala Polymorphismus eine Rolle für die Lipolyse
+während der Postprandialen-Phase?
+
+•
+
+Welchen Einfluß hat der PPARγ-2 Pro 12 Ala Polymorphismus auf die
+Assoziation intramyozelluläres Fett und Insulinsensitivität?
+
+Material und Methoden
+
+Seite 18
+
+2 Material und Methoden
+2.1 Beschreibung der Studienteilnehmer
+Alle Probanden wurden aus dem Tübinger Familien Früherfassung Projekt
+(TÜFF-Projekt) rekrutiert. Dieses Projekt ist eine groß angelegte prospektive
+Studie und untersucht gesunde Verwandte ersten Grades von Typ 2
+Diabetikern  hinsichtlich  des  Glukosestoffwechsels  sowie  begleitenden  Risikofaktoren [26]. Die  Studienteilnehmer  des  TÜFF-Projektes  wurden  anthropometrisch,  laborchemisch und metabolisch charakterisiert. Hierzu gehört:
+-
+
+der orale Glukose Toleranztest mit der Messung der Insulinspiegel, die dem
+Ausschluss eines manifesten Diabetes und der Einteilung in gestörte und
+normale Glukosetoleranz dient (WHO Kriterien) und die Insulinsekretion
+erfasst.
+
+-
+
+die Erfassung der Körperzusammensetzung (Body-Impedanz-Analyse; BIA).
+
+-
+
+die 24 Stunden Blutdruckmessung.
+
+-
+
+die Untersuchung der körperlichen Fitness mit Hilfe der Spiroergometrie und
+Bestimmung der VO2max.
+
+-
+
+die indirekte Kalorimetrie.
+
+-
+
+die Bestimmung umfangreicher Laborparameter und gegebenenfalls eine
+genetische DNA-Untersuchung zur Identifizierung von Polymorphismen.
+
+-
+
+ein umfangreicher Fragebogen.
+
+-
+
+die Quantifizierung der Insulinsensitivität mit Hilfe des isoglykämischen
+hyperinsulinämischen Glukose-Clamps.
+
+Somit wurden zunächst die in der Arbeit untersuchten Personen bezüglich ihrer
+Insulinsensitivität umfangreich charakterisiert.
+Personen mit manifestem Diabetes wurden aus der Studie ausgeschlossen
+[24,78].
+
+Material und Methoden
+
+Seite 19
+
+Insgesamt nahmen 31 gesunde Personen mit unauffälligem oralen Glukose
+Toleranztest an der vorliegenden Studie teil. Außer Kontrazeptiva waren keine
+Medikationen erlaubt.
+
+2.2 Ethik
+Die Probanden nahmen freiwillig an der Studie teil. Sie waren über die
+potentiellen Risiken der gesamten Untersuchung informiert und hatten ihr
+schriftliches Einverständnis abgegeben.
+Es lag das positive Votum der Ethikkommission der Universität Tübingen vor.
+
+2.3 Angewandte Methoden im TÜFF-Projekt
+2.3.1 Oraler Glukose Toleranztest
+Unter standardisierter Vorbereitung wird zu Beginn des Tests ein peripherer
+Venenkatheter in eine Unterarmvene gelegt. Anschließend trinken die
+Probanden eine wässrige Lösung mit 40g Glukose/m2 Körperoberfläche
+innerhalb von 5 Minuten.
+Die Blutentnahmen erfolgen vor dem Test zur Bestimmung der Basalwerte und
+danach zu den Minuten 15, 30, 45, 60, 90 und 120. Analysiert werden die
+Konzentrationen für Glukose, Freie Fettsäuren, Insulin, Pro-Insulin und CPeptid.
+
+2.3.2 Isoglykämischer hyperinsulinämischer Glukose-Clamp
+Die Untersuchung wird unter standardisierten Bedingungen nach einer
+zwölfstündigen nächtlichen Fastenperiode durchgeführt. Es werden zwei
+periphere Venenkatheter (Vasofix Braunüle, Braun, Melsungen) platziert; einen
+in eine Vene der Ellenbeuge, für die Infusion von Insulin und Glukose und die
+andere retrograd in den kontralateralen Handrücken, für die Blutentnahmen.
+Anschließend wird zur Arterialisierung des Blutes die Hand mit einem
+Heizkissen (Heated Hand) erwärmt.
+
+Material und Methoden
+
+Blutentnahmen erfolgen alle 5 Minuten für Glukose und alle 20 Minuten für
+Insulin, Glyzerol und Freie Fettsäuren.
+Nach initialen Blutentnahmen und einem definierten Insulinbolus über 9 Minuten
+Dauer wird über eine Präzisionspumpe (Braun, Melsungen) 2 Stunden lang
+kontinuierlich intravenös Insulin (Insulin H, Hoechst, Frankfurt) verabreicht. Bei
+dem Glukose-Clamp werden 1,0 mU/kg*min gegeben, um hochphysiologische
+Serumwerte für Insulin zu erreichen.
+Gemäss der alle 5 Minuten gemessenen Plasmaglukose wird mit der variablen
+Infusion einer 40%-igen Glukoselösung die initiale Glukosekonzentration
+innerhalb  eines  Zielbereichs  Gleichgewichtsbedingungen  von  +  entspricht  10% die  konstant zur  gehalten.  Unter  Aufrechterhaltung  der  Isoglykämie erforderliche infundierte Glukose der Glukose-Aufnahme in die Skelettmuskulatur. Dies setzt eine weitgehende Unterdrückung der hepatischen GlukoseProduktion,  welche  bei  dem  im  Standard  Glukose-Clamp  erreichten 
+Insulinspiegeln zu über 95% erfolgt ist, voraus [79]. Gleichgewichtsbedingungen
+werden angenommen, wenn nach einer Mindest-Clampdauer von 60 Minuten
+und konstanter Glukose-Infusions-Rate innerhalb von 30 Minuten die Variation
+der Plasmaglukose 10% nicht überschreitet.
+Zur Berechnung der Insulinsensitivität dient die Glukose-Infusions-Rate (GIR),
+welche aus der infundierten Glukose in mg pro kg Körpergewicht (KG) im
+Steady-State angegeben wird (GIR = Glukose/KG*min). Die MetabolicClearance-Rate (MCR) für Glukose, als ein weiteres Maß der Insulinsensitivität,
+erhält man, indem die Steady-State Plasmawerte für Glukose und Insulin im
+Verhältnis  zur  Glukose-Infusions-Rate  gesetzt  werden  (MCR  =  GIR*100/Serumglukose) [29,80].
+
+2.3.3 Body Mass Index (BMI)
+Der BMI wird mit der Formel Körpergewicht (KG) dividiert durch das Quadrat
+der Körperlänge (KL) berechnet [81].
+KG / KL² = BMI
+
+[ kg/m² ]
+
+Material und Methoden
+
+2.3.4 Waist to Hip Ratio (WHR)
+Der Taillenumfang wird nach den WHO Kriterien [82] zwischen der untersten
+Rippe und dem oberen Rand der Spina iliaca gemessen. Der Hüftumfang wird
+an der weitesten Stelle der Glutealregion gemessen. Beide Messungen finden
+im Stehen statt.
+⇑ Taillenumfang in cm / Hüftumfang in cm = WHR
+
+2.3.5 Lean Body Mass (LBM) und Körperfett (KF%)
+Beide Untersuchungen werden mit Hilfe der bio-elektrischen Impedanzanalyse
+(BIA 101, BJL System, Detroit, Michigan, USA) berechnet. Bei dieser Methode
+wird der elektrische Wechselstromwiderstand im Körper gemessen. Dabei wird
+ein Wechselstrom mit 50 kHz und eine Stromstärke von 800 mA an den Körper
+angelegt. Der Wassergehalt des Körpers ist bei Gesunden weitgehend von
+Alter und Geschlecht unabhängig und verhält sich umgekehrt proportional zum
+Widerstand. Das Fettgewebe besitzt einen niedrigen Wassergehalt und hat
+daher einen hohen elektrischen Widerstand. Die fettfreie Körpermasse ist
+dagegen reich an Wasser. Der angelegte Strom fließt aufgrund des Weges des
+geringsten Widerstandes hauptsächlich durch die fettfreie Körpermasse.
+Die Messung bezieht sich fast ausschließlich auf das Wasser im Körper. Durch
+Regression lässt sich daraus die fettfreie Masse und die Fettmasse errechnen.
+
+Messvorgang:
+Es werden am liegenden Probanden zwei Elektroden an einem Fuß angelegt.
+Die distale Elektrode wird über den Zehenwurzeln II und III und die proximale
+Elektrode an der Vorderseite in Höhe der tibialen und fibularen Malleole
+befestigt. Zwei weitere Elektroden werden distal über den Fingerwurzeln in
+Verlängerung des Mittelfingers und proximal am plantaren Handgelenk platziert.
+Der Elektrodenabstand soll jeweils mindestens eine Handbreite betragen.
+Der Stromeintritt  erfolgt  am  Fuß,  der  Spannungsabfall  tritt  an  den  Handgelenkselektroden auf. Die Stromleitung ist zum Volumen und zur Länge
+des zu untersuchenden Probanden linear. Die Beziehung (Körpergröße)² /
+Widerstand korreliert gut zu Standardmethoden.
+
+2.4 Angewandte Methoden der vorliegenden Studie
+2.4.1 3-Stufen hyperinsulinämischer isoglykämischer Glukose-Clamp
+Zur genaueren Beurteilung der Veränderung in der Lipolyse wurden sehr
+niedrige  Insulindosen  eingesetzt.  Die  erste  Stufe  wurde  mit  einer 
+Insulininfusionen, von 0,1 mU/kg*min; die zweite Stufe mit 0,25 mU/kg*min und
+die letzte Stufe mit der bekannten Dosierung von 1,0 mU/kg*min über jeweils
+120 Minuten durchgeführt.
+Da in den Stufen 1 und 2 des Glukose-Clamps keine so hohen Insulinspiegel
+erreicht werden, die die endogene Glukoneogenese unterdrücken, wird
+allgemein nur die GIR angegeben.
+Die weitere Durchführung und Vorgaben entsprechen dem isoglykämischen
+hyperinsulinämischen Glukose-Clamp (s.2.3.2). Zur Erhaltung der Isoglykämie
+wurde eine Glukose-Infusion eingesetzt. Dies war meist erst am Ende der 2.
+Stufe notwendig.
+
+2.4.2 Mikrodialyse
+Mit der Mikrodialyse steht in der klinischen Forschung eine Methode zur
+Verfügung, die es ermöglicht, Stoffwechseluntersuchungen in unterschiedlichen
+Geweben in vivo durchzuführen. Erstmals wurde diese Methode 1972 von
+Delgado et al. [32] in der tierexperimentellen Hirnforschung beschrieben.
+Ungerstedt et al. [33] und Lönnroth et al. [34-36] entwickelten die Mikrodialyse
+für den klinisch experimentellen Gebrauch weiter.
+Glyzerol als ein Endprodukt der Lipolyse, welches im Fett- und Muskelgewebe
+nicht weiter verstoffwechselt wird, ist ein allgemein akzeptierter indirekter
+Marker für die Aktivität der Lipolyse [34,37,38].
+
+Somit erlaubt die Mikrodialyse heutzutage eine "organnahe", kontinuierliche,
+minimal invasive Betrachtung der Regulation des Stoffwechsels. Sie wird seit
+vielen Jahren bei verschiedensten Fragestellungen, wie zum Beispiel der
+Untersuchung des Fettgewebes, eingesetzt.
+Kombiniert man nun den 3-Stufen-Glukose-Clamp mit der Mikrodialyse, so
+ermöglicht dies einen Einblick in die lokale und systemische Inhibition der
+Antilipolyse.
+
+2.4.2.1 Prinzip der Mikrodialyse
+Kleine, spezielle Doppellumen-Katheter werden in das zu untersuchende
+Gewebe, genauer den interstitiellen Raum, eingeführt und können dort über
+mehrere Tage liegen bleiben. Das Doppellumen-System wird mit Hilfe einer
+speziellen Pumpe mit einer variablen Förderleistung und einer definierten
+Lösung perfundiert. An der Spitze des Katheters befindet sich eine ca. 3 cm
+lange semipermeable Membran, über die per Dialyse die interstitielle Flüssigkeit
+gewonnen wird. Der Austausch an der Membran folgt den Gesetzen der
+Diffusion und des Konzentrationsausgleiches (s. Abb. 2-1). In dem gewonnenen
+Dialysat können mit einem Analysator Substratkonzentrationen bestimmt  Zelle  Interstitieller Raum  Abbildung 2-1: Prinzip der Mikrodialyse  Mikrodialyse Katheter  Blut Kapillare  werden.
+In dieser Studie wurde bei der Mikrodialyse Glyzerol als Marker für die Lipolyse
+verwendet. Durch verschiedenste Einflussfaktoren, wie zum Beispiel der
+Durchblutung oder der Recovery (s.u.) lassen sich aus den gemessenen
+Glyzerolwerten Dennoch  keine  lassen  absoluten  sich  unter  interstitiellen definierten  Konzentrationen Bedingungen  ableiten.  Stoffwechsel-  veränderungen beobachten. 
+
+2.4.2.2 Recovery
+Der  Begriff  der  "Recovery"  beschreibt  das  Verhältnis  der  absoluten  Konzentration im Gewebe zu der ex vivo gemessenen Substratkonzentration
+aus dem Dialysat. Sie ist von verschiedenen Faktoren, wie der Molekülgröße,
+der Durchlässigkeit der Dialysemembran, der Perfusionsgeschwindigkeit und
+der Gewebedurchblutung abhängig.
+Die Bestimmung der Recovery von Glyzerol wurde in einem separaten Versuch
+mit [d5]Glyzerol, wie von Hagström-Toft beschrieben [83], durchgeführt. Dabei
+wurde das Gewebe mit einer definierten Menge an [d5]Glyzerol perfundiert. Die
+Menge von [d5]Glyzerol im gewonnenen Dialysat bestimmt in Abhängigkeit der
+oben genannten Faktoren die Recovery und wird in Prozent der absoluten
+Konzentration im Gewebe angegeben [84-87].
+Da die Recovery, wie aus Voruntersuchungen anderer Arbeitsgruppen hervor
+geht, konstant ist, wird hier auf die Angaben der Absolutkonzentrationen
+verzichtet. Beschrieben wird vielmehr die Differenz der Konzentrationen.
+
+Die Recovery von Glyzerol wurde im Fettgewebe mit annähernd 100%
+gemessen und berechnet. Dagegen wurde im Skelettmuskel nur etwa 60%
+Recovery erreicht.
+Andere Daten aus der Literatur fanden 90% Recovery des Glyzerols im Muskel
+[83], hier wurde allerdings statt des M. tibialis ant. der M. gastrocnemius
+untersucht. Hingegen stimmen die Daten für das Fettgewebe dieser
+Untersuchung mit vorherigen Arbeiten überein [83].
+Demnach entspricht die Glyzerolkonzentration im Dialysat des Fettgewebes
+annähernd der Konzentration im Gewebe, während im Skelettmuskel mit den
+Absolutkonzentrationen aus dem Dialysat die echten Gewebekonzentrationen
+unterschätzt werden. Da nur die Verläufe beurteilt werden, spielt dies aber in
+der vorliegenden Studie keine Rolle.
+
+2.4.2.3 Methoden zur Untersuchung des Gewebe-Stoffwechsels
+Bisher standen folgende Möglichkeiten zur Untersuchung des Stoffwechsels im
+Gewebe zur Verfügung: Ex vivo konnten mit einer Biopsie, zum Beispiel im
+Fettgewebe,  in  Inkubation  klar  definierte  Untersuchungsbedingungen
+geschaffen werden. Dagegen kann mit diesem Verfahren keine dynamische
+Untersuchung durchgeführt werden. Andere Möglichkeiten zur Untersuchung
+des Stoffwechsels in Geweben sind die Messungen von arterio-venösen
+Differenzen und die Analysen mit Isotopen. Diese Verfahren betrachten aber im
+wesentlichen den Systemstoffwechsel und sind daher hinsichtlich ihrer
+Aussagekraft auf den Stoffwechsel im Gesamtorganismus limitiert und erlauben
+keinen Einblick in lokale Stoffwechselvorgänge.
+
+2.4.2.4 Messungen der Gewebedurchblutung
+Die Konzentration eines Substrates im Dialysat ist von mehreren Faktoren
+abhängig: der Konzentration dieses Stoffes in der interstitiellen Flüssigkeit, dem
+Blutfluss im Gewebe sowie der Perfusionsgeschwindigkeit der MikrodialyseKatheter.
+Mit  der  Ethanol-Auswasch-Technik  Durchblutung  beobachten  [83,88-91].  lassen Ethanol  sich ist  Veränderungen im  Interstitium  der nicht 
+vorhanden, und bei konstanter Perfusion mit einer Ethanollösung über den
+Mikrodialyse-Katheter ist die Konzentration von Ethanol im Dialysat nur vom
+Blutfluss abhängig. Die Durchblutung reguliert dabei die Geschwindigkeit mit
+welcher Ethanol aus dem Interstitium abtransportiert wird.
+Bei dieser Methode wird dem Perfusat eine definierte Menge an Ethanol
+(50mM) zugegeben. Im interstitiellen Raum diffundiert Ethanol, von der
+Durchblutung abhängig, in den Kreislauf ab. Im Dialysat wird die restliche
+Ethanolkonzentration bestimmt und dann mit der Ausgangskonzentration
+verglichen. Als Resultat erhält man die Ethanol outflow/inflow Ratio [89-91].
+Demnach kann man folgern: je stärker die Durchblutung, um so ausgeprägter
+ist der Abfall der Ethanolkonzentration und um so niedriger die Ratio.
+Für die Bestimmung der Gewebedurchblutung im subkutanen Fettgewebe und
+im M. tibialis ant. wurde, auch am Abend zuvor, jeweils ein zweiter
+Mikrodialyse-Katheter in die Gewebe gelegt. Die Katheter wurden mit einer
+Perfusionsgeschwindigkeit von 0,3 µl/min (CMA 102 perfusion pump, Solna,
+Schweden) perfundiert. Das Perfusat war mit 50mM Ethanol angereichert.
+Das über 20 Minuten in Vials gesammelte Dialysat wurde luftdicht verpackt. Zu
+einem späteren Zeitpunkt wurde dann die Ethanolkonzentration bestimmt
+(s.Kap. 2.6.1).
+
+2.4.2.5 Ablauf der Mikrodialyse
+In der vorliegenden Studie wurden die Mikrodialyse-Katheter (CMA 60
+microdialysis catheter, Solna, Schweden) am Abend vor der Untersuchung in
+das periumbilicale Fettgewebe, sowie in den M. tibialis anterior gelegt. Die
+lokale Hautanalgesie erfolgte mit Mepivacain. Nachdem die Haut mit einer
+Nadel perforiert und ein Stichkanal geschaffen war, wurde der MikrodialyseKatheter mit einem speziellen Applikator im Gewebe platziert. Die Katheter
+wurden anschließend mit einer Ringer-Lösung gespült und dann mit Hilfe einer
+speziellen Pumpe (CMA 106 perfusion pump, Solna, Schweden) mit einer
+Perfusionsgeschwindigkeit von 0,3µl/min mit gleicher Lösung perfundiert.
+Für  die  metabolischen  Untersuchungen  wurde  die  sehr  geringe 
+Perfusionsgeschwindigkeit von 0,3µl/min gewählt, da die Recovery der
+Substrate bei geringer Flussgeschwindigkeit am höchsten ist (s.Kap. 2.4.2.2).
+Das Dialysat wurde in speziellen Vials alle 20 Minuten gesammelt.
+Anschließend wurde die Glyzerolkonzentration mit einem Analysator (CMA 600
+analysator, Solna, Schweden) bestimmt.
+Da ein Totraumvolumen von 10 Minuten bei einer Perfusionsgeschwindigkeit
+von 0,3µl/min berechnet wurde, erfolgte der Vialwechsel immer 10 Minuten
+nach der Blutentnahme. Somit wurden die Entnahmezeiten der interstitiellen
+Flüssigkeit und der Blutentnahmen weitgehend synchronisiert.
+
+2.4.3 Kombination der Untersuchungstechniken
+Die Kombination der Mikrodialyse mit einem Glukose-Clamp bietet für
+metabolische Untersuchungen Vorteile in der Betrachtung verschiedener
+Gewebskompartimente unter standardisierten Bedingungen. In dieser Studie
+konnten somit Aussagen über die Aktivität der Lipolyse im Fettgewebe und in
+der Skelettmuskulatur im Vergleich zur systemischen Zirkulation gemacht
+werden.Der Informationsgewinn  liegt  in  der  simultanen  Beobachtung  der 
+Insulinsensitivität der Lipolyse in den Geweben und im Organismus, sowie der
+Gesamtkörper-Glukoseverwertung unter verschiedenen Insulinspiegeln.
+
+2.4.4 Molekularbiologische Analyse
+Die Mutation im PPARγ 12 Pro Ala wurde mittels Restriktionsfragmentlängenpolymorphismus  (RFLP)-PCR  untersucht.  Nach  Isolation  der  genomischen DNA aus peripheren Blutleukozyten und PCR-Amplifikation erfolgte über Nacht ein Endonuklease-Verdau des entstandenen PCR-Produkts mit dem Restriktionsenzym BstU-I [108]. Die anschließende Analyse im 2,5%igen Agarosegel zeigte, abhängig von der DNA-Sequenz, folgendes Bild: Wildtyp, ein 270 Basenpaare (bp) Fragment; heterozygote Mutante, 43 bp-, 227 bp- und 270 bp-Fragmente; homozygote Mutante, 43 bp- und 227 bpFragmente.
+
+2.4.5
+
+Untersuchung muskulärer Lipide mit Hilfe der Magnet-Resonanz
+Technik
+
+Alle MR-Untersuchungen der Waden- und Schienbeinmuskulatur wurden an
+einem 1,5 Tesla Ganzkörpertomographen (Vision, Siemens, Erlangen)
+durchgeführt. Zur Einstrahlung und zum Auslesen der Signale wurde die
+zirkular  polarisierte  Extremitätenspule  des  Herstellers  verwendet.  Um 
+Bewegungsartefakte bei den Untersuchungen zu vermeiden, wurde der rechte
+Unterschenkel der Probanden auf einer festen Schaumstoffunterlage so in der
+Spule gelagert, dass das Bein bei möglichst bequemer Positionierung fest fixiert
+war. Die dickste Stelle der Wade wurde im Spulenzentrum positioniert. Nach
+
+Material und Methoden
+
+Seite 28
+
+der Akquisition der Basisbilder in allen drei Raumrichtungen wurden zur Darstellung der Topographie der Wadenmuskulatur T1-gewichtete (s.Kap. 2.4.5.1)  Spin-Echo-Tomogramme  aufgenommen.  Anhand  dieser  in  transversaler  Tomogramme  Schnittrichtung  konnten  die  einzelnen  Muskelgruppen gut voneinander abgegrenzt werden. Die T1-gewichteten Tomogramme dienten im folgenden zur Selektion der Volumenelemente (Vol) für die volumenselektive Spektroskopie, sowie zum Einzeichnen der Regionen für die Auswertung der fettselektiven Tomogramme.
+
+2.4.5.1 Fettgewichtete Bildgebung
+
+In der Magnetresonanz-Tomographie gibt es unterschiedliche Möglichkeiten zur
+Kontrasterzeugung. In der klinischen Routine werden standardmäßig T1- bzw.
+T2- gewichtete sowie Protonendichte-gewichtete Verfahren eingesetzt. Bei den
+T1 bzw. T2-gewichteten Verfahren ist der Bildkontrast durch die verschiedenen
+Relaxationseigenschaften
+
+der
+
+Gewebekompartimente
+
+(T1:
+
+longitudinale
+
+Relaxationszeit, T2: transversale Relaxationszeit) charakterisiert.
+Bei Protonendichte-gewichteten Tomogrammen ist der Bildkontrast allein durch
+die Gewebedichte bestimmt. Zudem wurden in den letzten Jahren sogenannte
+Chemical-Shift-selektive Bildgebungsverfahren entwickelt. Diese Verfahren
+beruhen auf den unterschiedlichen Resonanzfrequenzen von Wasser und Fett
+(Frequenzdifferenz ca. 215 Hz bei einer Feldstärke von 1,5 T). Mit einer
+speziellen Abfolge von Hochfrequenzimpulsen, die der eigentlichen Sequenz
+vorgeschaltet ist, können selektiv Wasser- oder Fett-Protonen angeregt werden.
+Das Signal im MR-Tomogramm stammt dann nahezu ausschließlich von der
+Chemical-Shift Komponente.
+
+2.4.5.2 Magnetresonanz-Spektroskopie (MRS)
+Das Protonenspektrum der Skelettmuskulatur ist neben dem dominanten
+Wassersignal
+
+in
+
+erster
+
+Linie
+
+durch
+
+verschiedene
+
+Lipidresonanzen
+
+Material und Methoden
+
+Seite 29
+
+charakterisiert. Weitere Signale können den Komponenten von Kreatin und
+Cholin zugeschrieben werden.
+Volumenselektive Protonen-MRS erlaubt Einblicke in die Verteilung intra- und
+extramyozellulärer
+
+Fettkompartimente
+
+in
+
+der
+
+Muskulatur.
+
+Die
+
+beiden
+
+Lipidkompartimente können aufgrund ihrer unterschiedlichen geometrischen
+Anordnungen und den dadurch bewirkten anisotropen Suszeptibilitätseffekten
+spektroskopisch getrennt werden.
+Die Positionierung der Volumenelemente (Vol) im M. tibialis anterior und im M.
+soleus erfolgte in den Basisbildern und den T1-gewichteten Spin-EchoTomogrammen. Bei der Auswahl der Vol wurde darauf geachtet, dass größere,
+gut sichtbare Fettsepten aus dem Vol ausgeschlossen blieben. Im M.tibialis ant.
+Wurde das Vol zudem in genügender Entfernung zur Tibia positioniert, um
+zusätzliche Signale und Artefakte aus diesen angrenzenden Lokalisationen zu
+vermeiden. Im M. soleus wurde das Vol in eine für die Muskelgruppe
+repräsentative
+
+Region
+
+gelegt.
+
+Die
+
+Volumenselektion
+
+wurde
+
+mit
+
+einer
+
+sogenannten STEAM-Technik vorgenommen.
+Vor der Akquisition der Spektren wurde ein volumenselektiver Shimprozess zur
+Optimierung der Magnetfeldverteilung innerhalb des Vol vorgenommen. Dieser
+Vorgang ist relativ zeitaufwendig ( ca. 5 Min.), jedoch unabdingbar, um
+ausreichend schmale Spektrallinien und somit eine gute Separierung der intraund extramyozellulären Lipid-Komponenten zu erzielen. Zur Vermeidung von
+Signalverlusten durch transversale Relaxationsprozesse wurde eine kurze
+Echozeit gewählt. Die Repetitionszeit in den Spektren betrug 2 s. Um ein
+ausreichendes Signal-zu-Rausch-Verhältnis zu erreichen, wurden für jedes
+Spektrum 40 Akquisitionen aufgenommen und gemittelt. Die akquirierten
+Zeitsignale wurden mit einer Filterfunktion multipliziert (Gauß-Filter mit 150 ms
+Halbwertsbreite), Fourier-transformiert und phasenkorrigiert. Die Bestimmung
+der Lipidanteile erfolgte durch Integration der Methylen-Signale der EMCL und
+IMCL Komponenten in festen Frequenzbereichen (EMCL: 1,5-1,7 ppm; IMCL:
+1,3-1,5 ppm). Als interne Referenz diente das Methyl-Signal von Creatin bei
+3,15 ppm. Die im folgenden angegebenen Lipidanteile entsprechen den
+Quotienten aus den Signalintegralen von IMCL/EMCL und Creatin.
+
+2.5 Studienprotokoll
+2.5.1 Vorbereitungen
+Nach  Aufklärung  der  Einwilligungserklärung,  Probanden wurden  am  über Abend  die  Studie  die  und  Katheter,  schriftlicher je  zwei  im  Skelettmuskel und im Fettgewebe in situ gebracht. Anschließend folgte die Nachtruhe. 
+
+2.5.2 Messung der Antilipolyse - 3-Stufen-Clamp
+Am nächsten Morgen startete die Untersuchung um 8 Uhr mit dem 3-StufenGlukose-Clamp. In der Stunde davor wurden 3 Basalwerte der Mikrodialyse für
+Glyzerol und des Serums für Glyzerol, Freie Fettsäuren und Insulin bestimmt.
+Die Abnahmen der Metabolite erfolgte alle 20 Minuten über die gesamte Länge
+des Versuches und wurden, wie oben beschrieben synchronisiert.
+Um 14 Uhr endete der 3-Stufen-Glukose-Clamp mit Abschalten der
+Insulininfusion. Eine Übersicht der kombinierten Versuchstechniken für die
+Messung der Antilipolyse liefert Abbildung 2-2.
+
+Material und Methoden
+
+Seite 31
+
+1.0mU/kg/min
+0.25mU/kg/min
+
+Insulin
+
+0.1mU/kg/min
+
+Mikrodialyse (TA und FG, Ethanol-Ratio, Perfusionsgeschwindigkeit 3,0µL/min)
+Mikrodialyse (M. tibialis anterior, Perfusionsgeschwindigkeit 0,3µL/min)
+Mikrodialyse (periumbilikales Fettgewebe, Perfusionsgeschwindigkeit 0,3µL/min)
+Dialysat alle 20 Minuten
+
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+
+Blutentnahmen
+
+**********************************
+
+-10 h
+
+-1 h
+
+0h
+
+2h
+
+4h
+
+6h
+
+Abbildung 2-2: 3-Stufen-Glukose-Clamp mit Vorbereitungszeit. Bestimmung
+der Antilipolyse in den verschiedenen Kompartimenten und Messung von
+Durchblutungsveränderungen in Fettgewebe (FG) und in der Muskulatur (TA).
+
+2.5.3 Post-Clamp-Phase
+Am Ende des Glukose-Clamps fallen die Insulinspiegel mit dem Ausschalten
+der Insulin-Perfusion schnell ab. Dadurch wird die insulin-vermittelte Inhibition
+der Lipolyse zunehmend aufgehoben.
+Um zu sehen, wie schnell die Lipolyse wieder beginnt, wurde diese DisInhibition der Lipolyse über 40 Minuten in der sogenannten Post-Clamp-Phase
+beobachtet.
+
+Der  Blutzuckerspiegel  wurde  dabei  mit  einer  variablen  Glukoseinfusion konstant gehalten.
+
+GC I
+8
+
+GC II
+10
+
+GC III
+12
+
+PGC
+14
+
+15 h
+
+Abbildung 2-3: Verlauf des Glukose-Clamps (GC) und der Post-Clamp-Phase
+(PGC).
+
+Material und Methoden
+
+Seite 32
+
+2.5.4 Postprandiale-Phase
+
+Um 15.00 Uhr, d.h. 40 Minuten nach dem Glucose Clamp erhielten die
+Probanden eine standardisierte Mahlzeit in Form einer Pizza Typ „American
+Style“ oder „Hawaii“ ( Wagner-Pizza®) .
+Während der nächsten 160 Minuten wurden in regelmäßigen, 20-minütigen
+Abständen die Parameter der Lipolyse im Serum und Interstitium gemessen.
+Für die Auswertung wurden der Zeitpunkt 20 min, 80 min und 160 min post
+ingestionem für die Gesamtgruppe verwendet.
+
+Material und Methoden
+
+Seite 33
+
+Eine Zusammenfassung der Vorbereitungen und der Versuchsabschnitte
+gibt die Tabelle 2-1:
+
+1. Tag
+
+21:00 Uhr
+
+Aufnahme des Probanden und Legen eines peripheren
+Venenkatheters
+
+in
+
+eine
+
+Ellenbogenvene.
+
+Unter
+
+Lokalanästhesie platzieren der Mikrodialyse-Katheter.
+
+2. Tag
+
+22:00 Uhr
+
+Nachtruhe
+
+07:00 Uhr
+
+Legen eines peripheren Venenkatheters in eine Vene
+des Handrückens und Erwärmung der Hand (Heated
+Hand). Sammeln von drei Baselinewerten.
+
+08:00 Uhr
+
+Start mit der ersten Stufe des isoglykämischen
+Glukose-Clamps mit 0,1mU/kg/min (GC I).
+
+10:00 Uhr
+
+Start mit der zweiten Stufe des isoglykämischen
+Glukose-Clamps mit 0,25mU/kg/min (GC II).
+
+12:00 Uhr
+
+Start mit der dritten Stufe des isoglykämischen
+Glukose-Clamps mit 1,0mU/kg/min (GC III).
+
+14:00 Uhr
+
+Ende des Glukose-Clamps und Beginn der Post-ClampPhase (PGC).
+
+14:40 Uhr
+
+Ende der Post-Clamp-Phase
+
+15:00 Uhr
+
+Beginn der Postprandialen- Phase
+
+17:40 Uhr
+
+Ende
+
+der
+
+Postprandialen-Phase
+
+und
+
+Ende
+
+des
+
+Versuchs
+3. Tag
+
+06:00 Uhr
+
+Kernspintomographische Untersuchung zur Messung
+des intramyozellulären Fettgehalts
+
+Tabelle 2-1: Studienprotokoll
+
+Material und Methoden
+
+Seite 34
+
+2.6 Analytische Methoden
+2.6.1 Bestimmung der Serumwerte
+Alle Analysen wurden mit kommerziell erhältlichen Methoden durchgeführt. Die
+Serumwerte für Glyzerol (Sigma diagnostics, Deisenhofen, Deutschland), Freie
+Fettsäuren (WAKO Chemikalien, Neuss, Deutschland), Insulin (MEIA ABBOTT,
+Wiesbaden, Deutschland) und Ethanol (Colorimeter, Du Pont, Wilmington, DE,
+USA) wurden im Zentrallabor der Universitätskliniken Tübingen bestimmt.
+Während des gesamten Glukose-Clamps wurden die Blutzuckerspiegel und die
+Serumlaktatwerte alle  5-10  Minuten  an  einem  automatischen  Glukoseanalysator (Glukoseoxidase Methode,YSI, Yellow Springs Instruments, Ohio, USA) bestimmt.
+
+2.6.2 Bestimmung der Substrate aus dem Fett- und Muskelgewebe
+
+Aus dem Dialysat (Menge 3-5µl) der Mikrodialyse wurden die Substrate Glyzerol und Glukose online, vollautomatisch, bei 546nm photometrisch analysiert (CMA 600 microdialysis analyser, Solna, Schweden). Dieses Gerät wurde  uns  freundlicherweise  von  ROCHE-Diagnostics,  Mannheim  zur  Verfügung gestellt. Dabei  wird  Glyzerol  mit  Adenosintriphosphat  phosphoryliert  und  von  Glyzerolkinase zu Glyzerol-3-phosphat umgesetzt. Dieses wird mit Hilfe der Glyzerolphosphatoxidase schrittweise oxidiert. Bei der Peroxidase-Reaktion zwischen dem dabei gebildeten Wasserstoffperoxid und der 3,5-Dichloro-2hydroxibenzenschwefelsäure sowie dem 4-Amino-antipyrin entsteht das rotviolette  Quinonimin.  photometrisch  bei  Die 546  Bildungsrate nm  der  gemessen  gefärbten und  ist  Substanz  wird  proportional  zur  Glyzerolkonzentration. Glukose wird enzymatisch von der Glukoseoxidase oxidiert. Bei der Reaktion katalysiert die Peroxidase den dabei gebildeten Wasserstoff mit Phenol und 4Amino-antipyrin zum rot-violetten Quinonimin. Wie oben beschrieben sind die bei  der  photometrischen  Bestimmung  proportional zur gefärbten Substanz.  gemessenen  Konzentrationen
+
+2.7 Auswertung
+2.7.1 Gesamtgruppe
+Für die Untersuchung der Antilipolyse im 3-Stufen-Glukose-Clamp und für die
+Messung des Anstiegs der Lipolyse nach dem Glukose-Clamp wurden zunächst
+die  Veränderungen  aller  Parameter  im  gesamten  Probandenkollektiv  betrachtet.
+
+2.7.2 Berechnung der Mittelwerte
+Als Baseline wurden die Mittelwerte aus den 3 Serum- und Dialysatabnahmen
+vor dem Beginn des Glukose-Clamps bezeichnet.
+Am Ende jeder Stufe des 3-Stufen-Glukose-Clamps wurden im Steady State
+aus den Abnahmen der letzten 40 Minuten die Mittelwerte berechnet.
+Die Mittelwerte der Abnahmen im Steady State am Ende des Glukose-Clamps
+bildeten die Ausgangswerte für die Post-Clamp-Phase und wurden dann mit
+den gemessenen Werten in der 40. Minute nach Abschalten der Insulininfusion
+verglichen.
+Für die postprandiale Phase wurde der 40-Minuten-Wert der Post-Clamp-Phase
+als Ausgangswert und die Werte zum Zeitpunkt t=20, t=80 und t=160
+verwendet.
+
+2.7.3 Statistische Auswertung
+Die Auswertung erfolgte durch die Abteilung der EDV der Medizinischen Klinik
+IV Tübingen.
+Das Vorhandensein von Unterschieden in Bezug auf die Geschlechtsverteilung
+in den verschiedenen Studiengruppen ( Gruppe mit Mutation: 9 männliche und
+3 weibliche Teilnehmer; Gruppe ohne Mutation: 14 männliche und 5 weibliche
+Teilnehmer) wurden mit Hilfe des χ2 - Tests ausgeschlossen.
+Unterschiede der anthropometrischen und basalen metabolischen Daten
+zwischen den verschiedenen Gruppen wurden mit dem ungepaarten T - Test
+ermittelt.
+Die Varianzanalyse (ANOVA) für wiederholte Messungen wurde verwendet, um
+die zeitabhängigen Parameter, die im Rahmen des 3-Stufen-Glukose-Clamps
+und in der Post-Clamp-Phase erhoben wurden, auf signifikante Unterschiede zu
+testen.
+Dabei ist der Faktor PPARγ-2 Pro 12 Ala, der die Gruppen der Probanden
+beschreibt ein "between groups"-Faktor. Der zweite Faktor, die Zeit, ist ein
+"within groups"-Faktor. Er beschreibt die Unterschiede im Zeitverlauf.
+Aufgrund der kleinen Fallzahl wurden nur die wesentlichen Punkte (z.B. Anfang
+und  Ende  der  Glukose-Clamp-Stufe)  in  der  statistischen  Auswertung  berücksichtigt.
+Die Irrtumswahrscheinlichkeiten für die Effekte der einzelnen Faktoren werden
+folgendermaßen bezeichnet:
+p1 beschreibt den Effekt des Faktors PPARγ-2 Pro 12 Ala, d.h. Unterschiede
+zwischen den Parametern der PPARγ-pos. ( mit Mutation) und PPARγ-neg. (
+ohne Mutation- Wildtyp) Probanden.
+p2 beschreibt den Effekt des Faktors Zeit, d.h. Unterschiede im Zeitverlauf.
+p12 beschreibt den Effekt der Wechselwirkung zwischen den Faktoren PPARγ-2
+Pro 12 Ala und Zeit, d.h. die Unterschiede im Zeitverlauf in Abhängigkeit von
+der Gruppenzugehörigkeit.
+In den Tabellen zur Statistik sind die Mittelwerte und Standardfehler der
+untersuchten Parameter angegeben. In der letzten Spalte wird entweder der pWert
+ des  T-Tests  angegeben  oder  die  oben  beschriebenen  Irrtumswahrscheinlichkeiten p1, p2 und p12 die sich aus der Varianzanalyse ergeben.
+
+Ergebnisse
+
+Seite 37
+
+3 Ergebnisse
+3.1 Studienkollektiv der Mikrodialyse-Untersuchung
+3.1.1 Anthropometrische Daten der Gesamtgruppe
+
+Es wurden insgesamt 31 Probanden untersucht (s. Tab. 3-1). Die Beschreibung
+der Studienteilnehmer erfolgt immer als erstes in der Gesamtgruppe mit allen
+Personen.
+Im Weiteren werden 12 Probanden mit PPARγ-2 Pro 12 Ala Polymorphismus
+(PPARγ-2 pos.) und 19 ohne PPARy-2 Pro 12 Ala Polymorphismus ( PPARγ-2
+neg.) der Gesamtgruppe beschrieben.
+
+Mit PPARγ-2 Ohne PPARγ 
+Parameter
+
+Gesamt-
+
+Pro 12 Ala -2 Pro 12 Ala
+
+gruppe
+
+Polymorphis
+
+Polymorphis
+
+mus
+
+mus
+
+pos. vs.
+neg.
+p=
+
+Geschlecht(M / W)
+
+23/8
+
+9/3
+
+14/5
+
+Alter (Jahre)
+
+26,52
+
+27,42 ± 1,56
+
+25,95 ± 1,15
+
+0,46
+
+BMI (kg/m2)
+
+23,79
+
+23,38 ± 0,97
+
+24,05 ± 0,84
+
+0,64
+
+WHR
+
+0,82
+
+0,81 ± 0,02
+
+0,83 ± 0,02
+
+0,43
+
+Fettmasse (in %)
+
+20,35
+
+20,5 ± 2,89
+
+20,3 ± 2,31
+
+0,95
+
+Tabelle 3-1: Anthropometrische Daten der Gesamtgruppe und der PPARγ-2
+pos. ( mit Mutation) und PPARγ-2 neg.( ohne Mutation) Untergruppen.
+
+Ergebnisse
+
+Seite 38
+
+3.1.2 Metabolische Nüchternwerte des gesamten Studienkollektivs
+
+(s. Tab. 3-2)
+
+Mit PPARγ-2 Ohne PPARγ  pos.
+Parameter
+
+Gesamt-
+
+Pro 12 Ala -2 Pro 12 Ala vs.
+
+gruppe
+
+Polymorphis
+
+Polymorphis
+
+neg.
+
+mus
+
+mus
+
+p=
+
+Glukose (mg/dl)
+
+86,14 ± 1,13
+
+86,66 ± 1,58
+
+85,81 ± 2,47
+
+0,78
+
+Insulin (µU/ml)
+
+6,72±0,76
+
+6,16±1,05
+
+7,08±1,05
+
+0,47
+
+FFS (mmol/l)
+
+0,45±0,03
+
+0,42±0,05
+
+0,47±0,03
+
+0,64
+
+Glyzerol (mg/dl)
+
+0,63±0,06
+
+0,49±0,08
+
+0,73±0,07
+
+0,02
+
+Triglyzeride (mg/dl)
+
+103,68 ±10,7
+
+75,50 ± 11,2
+
+121,47 ± 19,6 0,05
+
+Cholesterin (mg/dl)
+
+194,73±6,32
+
+173,33 ±7,54
+
+208,26 ±9,91
+
+0,01
+
+LDL (mg/dl)
+
+124,81± 5,58
+
+108,92± 6,05
+
+134,84± 7,9
+
+0,01
+
+HDL (mg/dl)
+
+54,29 ± 1,75
+
+54,67± 3,50
+
+54,05± 2,53
+
+0,89
+
+Tabelle 3-2: Metabolische Nüchternwerte der Gesamtgruppe und der PPARγ-2
+pos.( mit Mutation) und PPARγ-2 neg. ( ohne Mutation) Untergruppen. FFS:
+Freie Fettsäuren.
+
+Ergebnisse
+
+Seite 39
+
+3.2 Ergebnisse des 3-Stufen-Glukose-Clamps – in Kombination
+mit der Mikrodialyse
+3.2.1 Metabolische Veränderungen in der Gesamtgruppe
+3.2.1.1 Gewebedurchblutung
+
+Die mit der Ethanol-Auswaschtechnik gemessene outflow/inflow Ratio ergab für
+das periumbilikale Fettgewebe 0,47 ± 0,03. Im M. tibialis ant. lag die Ratio bei
+0,24 ± 0,03. Dieser Unterschied weist auf eine signifikant höhere Durchblutung
+im Skelettmuskel hin (p<0,05), was auch bei anderen Arbeitsgruppen [83,88,92]
+und durch invasivere Methoden bereits beschrieben wurde [105,106].
+Während der gesamten Untersuchung ergaben sich im Fettgewebe als auch im
+Skelettmuskel keine signifikanten Veränderungen der outflow/inflow Ratio und
+somit der Durchblutung. Die absoluten Werte der outflow/inflow Ratio blieben im
+outflow/inflow Ratio
+Fettgewebe doppelt so hoch wie im Skelettmuskel. (s. Abb. 3-1)
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+0
+
+60
+
+120
+
+180
+
+240
+
+300
+
+360
+Zeit [min]
+
+Abbildung 3-1: outflow/inflow Ratio im 3-Stufen-Glukose-Clamp im Fettgewebe
+(Kurve oben) und Muskelgewebe (Kurve unten)
+
+Ergebnisse
+
+3.2.1.2 Basalwerte
+ Seite 40  der  Glyzerolkonzentration  aus  dem  Fett-  und  Muskelgewebe  
+ Die Glyzerolkonzentration aus dem Dialysat des Fettgewebes lag zu Beginn (nüchtern) bei 1,93 ± 0,14mg/dl. In der Muskulatur wurden dagegen um 
+ den Faktor 5 signifikant niedrigere Dialysat-Konzentrationen mit 0,39 ± 0,04 mg/dl gemessen. (s. Tab. 3-4)
+
+3.2.1.3 Glukose im Serum und Glukose-Infusions-Rate
+
+Die Glukosespiegel im Blut wurden während des gesamten Versuches auf dem
+Ausgangsniveau gehalten.
+In der 1. Stufe des Glukose-Clamps blieb der Blutzucker ohne Glukose-Infusion
+konstant. Dabei stiegen die Insulinwerte um 71% von 6,7 ± 0,8 µU/ml auf 11,6
+±1,0 µU/ml an. Ab der 2. Stufe des Clamps musste bei einem Insulinspiegel von
+
+19,8 ± 1,9 µU/ml Glukose infundiert werden, um die Serum-Glukose konstant zu
+halten (GIR mg/kg*min). Dies ist ein weiterer Anstieg der Insulinkonzentration
+um 72%. Mit einer GIR von 8,6 mg/kg*min war der Blutzucker in der 3. Stufe
+stabil. Insulin erreichte hier Werte von 63,5 ± 3,5 µU/ml im Serum, was einer
+Erhöhung um 220% zur zweiten Stufe entspricht. (s. Tab. 3-4)
+
+Ergebnisse
+
+Seite 41
+
+Baseline
+
+GC I
+
+GC II
+
+GC III
+
+6,7±0,8
+
+11,6±1,0
+
+19,8±1,9
+
+63,5±3,5
+
+0
+
+0
+
+2,4 ± 0,3
+
+8,6 ±0,9
+
+0,45±0,03
+
+0,29±0,03
+
+0,11±0,01
+
+0,04±0,004
+
+Serum-Glyzerol (mg/dl) 0,63±0,06
+
+0,49±0,04
+
+0,39±0,05
+
+0,33±0,03
+
+0,39±0,04
+
+0,33±0,04
+
+0,27±0,04
+
+0,27±0,043
+
+1,93±0,14
+
+1,54±0,11
+
+1,05±0,12
+
+0,56±0,06
+
+Serum-Insulin (µU/ml)
+GIR (mg/kg*min)
+Serum-FFS (mmol/l)
+
+Skelettmuskel-Glyzerol
+(mg/dl)
+Fettgewebe-Glyzerol
+(mg/dl)
+
+Tabelle 3-4: Metabolische Parameter im 3-Stufen Glukose-Clamp (GC I-III) in
+der Gesamtgruppe. GIR: Glukose Infusions Rate, FFS: Freie Fettsäuren. Alle
+Werte sind Mittelwerte der letzten 40 Minuten jeder Stufe.
+
+3.2.1.4 Veränderungen im Serum
+
+Die Serumwerte für Insulin stiegen vom Ausgangsniveau vor dem Clamp vor
+allem in der 2. und 3. Stufe nach einem schnellen und steilen Anstieg auf ein
+gleichmäßiges Plateau.
+Die Glyzerolkonzentration nahm mit steigender Insulininfusion in jeder ClampStufe signifikant ab. In den ersten beiden Stufen war diese Reduktion 23% und
+20%. In der dritten Stufe wurde das Serumglyzerol um weitere 16% gesenkt.
+Auch die Freien Fettsäuren wurden signifikant supprimiert, wobei die
+prozentuale Abnahme in jeder neuen Stufen mit 35%, 63% und 65%
+angegeben werden kann, in der 3. Stufe des Clamps waren sie praktisch
+komplett supprimiert. (s. Tab. 3-4)
+
+3.2.1.5 Veränderungen im Fettgewebe
+
+Die Dialysatkonzentrationen für Glyzerol im Fettgewebe waren direkt vor dem
+Clamp etwa 5 mal höher als in der Muskulatur. In jeder Clamp-Stufe fiel die
+Glyzerolkonzentration signifikant ab, wobei der Abfall in der letzten Stufe am
+größten war. Im einzelnen wurden die Konzentrationen für Glyzerol in der
+ersten Clamp-Stufe um 20% gesenkt. In der zweiten Stufe war die Reduktion
+31% zur vorherigen Stufe und in der letzten Stufe konnte eine weitere Abnahme
+um 47% gemessen werden. (s. Tab. 3-4)
+
+3.2.1.6 Veränderungen im Skelettmuskel
+
+Bei gegenüber dem Fettgewebe geringeren Glyzerolkonzentrationen im
+Dialysat des Muskels wurde ein Abfall des Glyzerols in der Muskulatur
+gemessen. Die Abnahme der Glyzerolkonzentration lag in der ersten Stufe bei
+17% im Vergleich zum Ausgangswert. In der zweiten Stufe wurde das Glyzerol
+um weitere 19% reduziert. Diese beiden Abnahmen der jeweiligen Clamp-Stufe
+waren signifikant. Eine Erhöhung der Insulininfusion in der letzten und dritten
+Stufe  des  Glukose-Clamps  ergab  keine  weitere  Veränderung  der  Glyzerolkonzentration. (s. Tab. 3-4)
+
+3.2.2 Metabolische Veränderungen bei den Subgruppen
+
+Wie in 2.7.3 und 3.1.3 beschrieben, werden hier die Subgruppen miteinander
+verglichen. Die Einteilung erfolgt in eine Gruppe mit PPARγ-2 Pro 12 Ala
+Polymorphismus (PPARγ-2 pos.; mit Mutation) und eine ohne PPARγ-2 Pro 12
+Ala Polymorphismus (PPARγ-2 neg.; Wildtyp).
+
+Ergebnisse
+
+Seite 43
+
+3.2.2.1 Veränderungen im Serum
+
+3.2.2.1.1 Insulin
+Die Insulinkonzentrationen zeigten in den ersten beiden Clamp-Stufen keine
+signifikanten Unterschiede zwischen der PPARy-2 pos. ( mit Polymorphismus)
+und der PPARy-2 neg. ( ohne Polymorphismus) Gruppe. In der 3. Stufe des
+Clamps zeigten sich in der Gruppe mit Mutation etwas niedrigere Insulinspiegel
+(s. Abb. 3-2).
+
+3 Stufen Clamp : Insulin im Serum
+90
+Ohne Polymorphismus
+
+Insulin [ uU/ml ]
+
+80
+70
+60
+50
+Mit Polymorphismus
+
+40
+30
+20
+10
+0
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+Zeit [min]
+Abbildung 3-2: Insulinkonzentrationen im Serum im 3-Stufen Glukose-Clamp
+in den gepaarten Gruppen
+
+Ergebnisse
+
+Seite 44
+
+3.2.2.1.2 Glyzerol
+Die Glyzerolkonzentration war von Beginn an in der PPARγ-2 pos. Gruppe
+niedriger und blieb auch während des Clamps deutlich unter den Werten der
+PPARγ-neg. Gruppe (p1=0,02; p12 =0,11).
+
+3 Stufen Clamp : Glyzerol im Serum
+1
+
+Glyzerol [ mg/dl ]
+
+0.9
+Ohne Polymorphismus
+
+0.8
+0.7
+0.6
+0.5
+0.4
+
+Mit Polymorphismus
+
+0.3
+0.2
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+Zeit [min]
+Abbildung 3-3: Glyzerolkonzentration im Serum im 3-Stufen Glukose-Clamp in
+den gepaarten Gruppen
+
+Ergebnisse
+
+Seite 45
+
+3.2.2.1.3 Freie Fettsäuren
+Sowohl nüchtern, als auch unter den verschiedenen Glukose-Clamp-Stufen
+ließen sich keine signifikanten Unterschiede zwischen den Subgruppen
+nachweisen.
+
+3 Stufen Clamp : FFS im Serum
+0.6
+
+0.5
+
+FFS [mmol/l]
+
+0.4
+Ohne Polymorphismus
+
+0.3
+
+0.2
+
+0.1
+Mit Polymorphismus
+
+0
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+Zeit [min]
+
+Abbildung 3-4: Freie Fettsäuren (FFS) im Serum im 3-Stufen Glukose-Clamp
+in den gepaarten Gruppen
+
+Ergebnisse
+
+Seite 46
+
+3.2.2.2 Veränderungen im Fettgewebe
+
+Sowohl nüchtern, als auch während der verschiedenen Glukose-Clamp-Stufen
+ließen sich keine signifikanten Unterschiede zwischen den Subgruppen
+nachweisen, jedoch lagen die Werte für Glyzerol im Fettgewebe der Probanden
+mit Mutation (PPARγ-2 pos.) zu allen Zeitpunkten niedriger als die der
+Kontrollgruppe.
+
+3 Stufen Clamp : Glyzerol im Fettgewebe
+
+Glyzerol [ mg/dl ]
+
+2.5
+
+2
+Ohne Polymorphismus
+
+1.5
+
+1
+Mit Polymorphismus
+
+0.5
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+Zeit [min]
+Abbildung 3-5: Glyzerol aus dem Dialysat des Fettgewebes im 3-Stufen
+Glukose-Clamp in den gepaarten Gruppen
+
+Ergebnisse
+
+Seite 47
+
+3.2.2.3 Veränderungen im Skelettmuskel
+
+Auch im Muskelgewebe lagen die Werte für Glyzerol der PPARγ-2 neg. stets
+über den Werten der PPARγ-2 pos.; bei diesen war auch während der letzten
+Stufe des Clamps die Glyzerol-Werte noch supprimierbar, während es in der
+Kontrollgruppe sogar zu einem leichten Anstieg kam.
+
+3 Stufen Clamp : Glyzerol im Muskelgewebe
+0.55
+
+Glyzerol [ mg/dl ]
+
+0.5
+Ohne Polymorphismus
+
+0.45
+0.4
+
+0.35
+0.3
+
+0.25
+Mit Polymorphismus
+
+0.2
+0.15
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+Zeit [min]
+Abbildung 3-6: Glyzerol aus dem Dialysat des Skelettmuskels im 3-Stufen
+Glukose-Clamp in den gepaarten Gruppen
+
+Ergebnisse
+
+Seite 48
+
+3.3 Post-Clamp-Phase - Effekte einer akuten Reduktion der
+Hyperinsulinämie
+3.3.1 Metabolische Veränderungen in der Gesamtgruppe
+In der letzten Stunde des Clamps lagen die Insulinkonzentrationen im Serum in
+der Gesamtgruppe bei 46,05
+Insulininfusion
+und  dem  ±  Beginn  2,1µU/ml. Mit dem Abschalten der der Post-Clamp-Phase  sanken  die
+Insulinspiegel innerhalb von 40 Minuten um 57,5% auf 19,57 ± 2,6µl/ml ab
+(p2<0,0005). (s. Tab. 3-5)
+Die Glukosespiegel wurden weiterhin mit einer Glukoseinfusion bei ca. 84mg/dl
+konstant gehalten.
+
+Ende Glukose-Clamp 40. Minute
+
+P2
+
+Insulin (µU/ml)
+
+46,05 ± 2,1
+
+19,57 ± 2,6 0,0005
+
+FFS Serum (mmol/l)
+
+0,03 ± 0,01
+
+0,19 ± 0,03 0,0005
+
+Glyzerol Serum (mg/dl)
+
+0,35 ± 0,04
+
+0,55 ± 0,06 0,0005
+
+Glyzerol Fettgewebe (mg/dl)
+
+0,42 ± 0,06
+
+1,24 ± 0,13 0,0005
+
+Glyzerol Skelettmuskel (mg/dl) 0,23 ± 0,04
+
+0,29 ± 0,06 0,02
+
+Tabelle 3-5: Metabolische Veränderungen der Gesamtgruppe in der PostClamp-Phase
+
+Die Konzentration der Freien Fettsäuren stieg um über das 6-fache vom Ende
+des Glukose-Clamps bis zum Ende der Post-Clamp-Phase (p2=0,0005).
+Das Glyzerol im Serum erhöhte sich in der Post-Clamp-Phase bis zur 40.
+Minute um das 1½-fache (p2=0,0005).
+
+Ergebnisse
+
+Seite 49
+
+Im Fettgewebe verdreifachte sich die Glyzerolkonzentration annähernd
+innerhalb der ersten 40 Minuten nach dem Glukose-Clamp (p2=0,0005).
+Die Glyzerolkonzentration aus dem Dialysat des Muskels stieg in der PostClamp-Phase um 29% an (p2=0,02).
+
+3.3.1.1 Durchblutung in den Geweben
+
+Auch in diesem Versuch ergaben sich sowohl im Fettgewebe als auch im
+Skelettmuskel keine signifikanten Veränderungen der outflow/inflow Ratio und
+somit der Durchblutung. Wie im 3-Stufen-Glukose-Clamp waren die absoluten
+Werte der outflow/inflow Ratio im Fettgewebe doppelt so hoch als wie im
+Skelettmuskel (s. Abb. 3-1).
+
+Ergebnisse
+
+Seite 50
+
+3.3.2 Metabolische Veränderungen bei den Untergruppen
+3.3.2.1 Veränderungen im Serum
+
+3.3.2.1.1 Insulin
+Die Insulinspiegel der PPARγ-2 neg. ( ohne Polymorphismus) Gruppe waren zu
+Beginn der Post-Clamp-Phase etwas höher und fielen bei dieser etwas steiler
+ab, so dass am Ende der Post-Clamp-Phase etwa gleich hohe Insulinwerte zu
+messen waren(s.Abb. 3-7).
+
+Post Clamp Phase : Insulin im Serum
+80
+
+Insulin [ uU/ml ]
+
+70
+60
+Mit Polymorphismus
+
+50
+40
+30
+20
+10
+
+Ohne Polymorphismus
+
+0
+-40
+
+-20
+
+0
+
+20
+
+40
+
+60
+
+80
+
+Zeit [min]
+Abbildung 3-7: Insulin im Serum in der Post-Clamp-Phase bei PPARγ-2 pos.
+(mit Polymorphismus) und PPARγ-2 neg. ( ohne Polymorphismus) Personen
+
+Ergebnisse
+
+Seite 51
+
+3.3.2.1.2 Glyzerol im Serum
+Am Ende des 3-Stufen-Glukose-Clamps waren die Glyzerolkonzentrationen bei
+den PPARγ-2 neg. um ca. 50% höher als bei den PPARγ-2 pos.. Diese
+Differenz war während der gesamten Post-Clamp- Phase konstant (p1=0,18)(s.
+Abb. 3-8).
+
+Post Clamp Phase : Glyzerol im Serum
+0.9
+Ohne Polymorphismus
+
+Glyzerol [ mg/dl ]
+
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+
+Mit Polymorphismus
+
+0.2
+
+-40
+
+-20
+
+0
+
+20
+
+40
+
+60
+
+80
+
+Zeit [min]
+Abbildung 3-8: Glyzerol im Serum in der Post-Clamp-Phase bei PPARγ-2 pos.
+und PPARγ-2 neg. Personen
+
+Ergebnisse
+
+Seite 52
+
+3.3.2.1.3 Freie Fettsäuren
+
+Post Clamp Phase : FFS im Serum
+0.45
+0.4
+
+FFS [ mmol/l ]
+
+0.35
+0.3
+Ohne Polymorphismus
+
+0.25
+0.2
+0.15
+0.1
+0.05
+
+Mit Polymorphismus
+
+0
+-0.05
+-40
+
+-20
+
+0
+
+20
+
+40
+
+60
+
+80
+
+Zeit [min]
+Abbildung 3-9: Freie Fettsäuren (FFS) im Serum in der Post-Clamp-Phase in
+den Untergruppen.
+
+Der Anstieg der Freien Fettsäuren war, bei fast identischen Basalwerten, in der
+PPARγ-2 neg. Gruppe ( Wildtyp) etwas steiler. (s. Abb. 3-9).
+
+Ergebnisse
+
+Seite 53
+
+3.3.2.2 Veränderungen im Fettgewebe
+
+Das Glyzerol im Dialysat des Fettgewebes war am Ende des Glukose-Clamps
+in der PPARγ-2 pos. Gruppe ( mit Mutation) etwas niedriger (s. Abb. 3-10).
+Nach dem Abschalten der Insulininfusion stieg das Glyzerol in den nächsten 40
+Minuten in beiden Gruppen gleich schnell an.
+
+Post Clamp Phase : Glyzerol im Fettgewebe
+2.5
+
+Glyzerol [ mg/dl ]
+
+Ohne Polymorphismus
+
+2
+
+1.5
+Mit Polymorphismus
+
+1
+
+0.5
+
+0
+-40
+
+-20
+
+0
+
+20
+
+40
+
+60
+
+80
+
+Zeit [min]
+
+Abbildung 3-10: Glyzerol im Fettgewebe in der Post-Clamp-Phase bei PPARγ‐
+2 pos. und PPARγ-2 neg. Personen
+
+3.3.2.3 Veränderungen im Skelettmuskel
+
+Vergleicht man die Gruppen miteinander, so lagen zu jedem Zeitpunkt des
+Versuches die Glyzerolkonzentrationen aus dem Dialysat des Muskels bei
+ähnlichen Insulinspiegeln in der Gruppe ohne PPARγ-2 Pro 12 Ala
+Polymorphismus deutlich höher als in der Gruppe mit Polymorphismus
+(p1=0,11).
+
+Ergebnisse
+
+Seite 54
+
+Der Anstieg der Werte verläuft in beiden Gruppen annähernd gleich (s. Abb. 311).
+
+Post Clamp Phase : Glyzerol im Muskelgewebe
+0.6
+
+Ohne Polymorphismus
+
+Glyzerol [ mg/dl ]
+
+0.5
+
+0.4
+
+0.3
+
+0.2
+Mit Polymorphismus
+
+0.1
+
+0
+-40
+
+-20
+
+0
+
+20
+
+40
+
+60
+
+80
+
+Zeit [min]
+Abbildung 3-11: Glyzerol im Skelettmuskel in der Post-Clamp-Phase bei
+PPARγ-2 pos. ( mit Polymorphismus) und PPARγ-2 neg. Personen
+
+3.4 Postprandiale Phase- Effekte der endogenen,
+physiologischen Insulinproduktion
+3.4.1 Metabolische Veränderungen in der Gesamtgruppe
+
+Zu Beginn der Postprandialen Phase
+
+lagen die Insulinkonzentrationen im
+
+Serum in der Gesamtgruppe bei 12,06 ± 2,38 µU/ml. Mit dem Beginn der
+Essensaufnahme und dem anschließenden Beginn der Postprandialen-Phase
+stiegen die Insulinspiegel innerhalb von nur 20 Minuten um 156% auf 30,94 ±
+5.04 an und hielten sich im Verlauf dieser Phase auf diesem hohen Niveau
+
+Ergebnisse
+
+Seite 55
+
+(p2<0,0005). Bei den freien Fettsäuren kam es als Reaktion auf die
+Essensaufnahme und die anschließend hohen Insulinspiegel zu einem kurzen
+Anstieg (um 28,6%) bis zur 20. Minute und einem ebenso deutlichen Abfall der
+Werte auf Ausgangniveau (p2 = 0,02). Das Glyzerol im Fett- bzw.
+Muskelkompartiment zeigte ebenfalls nach Nahrungsaufnahme zunächst einen
+deutlichen Anstieg (Fettgewebe 70,7%, Muskelgewebe 25%) und im weiteren
+Verlauf durch die Insulinwirkung einen Abfall, ebenfalls auf das Ausgangniveau
+(s. Tab. 3-6).
+Beginn
+Postprandiale
+
+20. Minute 80. Minute
+
+160.
+Minute
+
+P2
+
+Phase
+
+12,06±2,38 30,94±5,08 39,79±3,17 34,92±3,75 <0,0005
+
+Insulin (µU/ml)
+FFS
+
+Serum
+
+(mmol/l)
+Glyzerol
+
+Serum
+
+(mg/dl)
+Glyzerol
+
+Fett-
+
+gewebe (mg/dl)
+Glyzerol
+
+Skelett-
+
+muskel (mg/dl)
+
+Tabelle
+
+3-6:
+
+0,21 ± 0,04 0,27 ± 0,05 0,15 ± 0,02 0,20 ± 0,02
+
+0,02
+
+0,60 ± 0,07 0,53 ± 0,06 0,59 ± 0,05 0,76 ± 0,06
+
+0,007
+
+1,16 ± 0,16 1,98 ± 0,20 1,36 ± 0,13 1,31 ± 0,13 <0,0005
+0,28 ± 0,06 0,35 ± 0,06 0,23 ± 0,04 0,23 ± 0,04
+
+Metabolische
+
+Veränderungen
+
+der
+
+Gesamtgruppe
+
+0,001
+
+in
+
+der
+
+Postprandialen Phase
+3.4.1.1 Durchblutung in den Geweben
+
+Auch in diesem Versuch ergaben sich sowohl im Fettgewebe als auch im
+Skelettmuskel keine signifikanten Veränderungen der outflow/inflow Ratio und
+somit der Durchblutung. Wie im 3-Stufen-Glukose-Clamp und der Post-ClampPhase waren die absoluten Werte der outflow/inflow Ratio im Fettgewebe
+doppelt so hoch wie im Skelettmuskel (s. Abb. 3-1).
+
+Ergebnisse
+
+Seite 56
+
+3.4.2 Metabolische Veränderungen in den Untergruppen
+3.4.2.1 Veränderungen im Serum
+
+3.4.2.1.1 Insulin
+Während die PPARγ-2 pos. Untergruppe bereits nach 20 Minuten auf
+Höchstniveau der Insulin-Werte lag und diese über den gesamten Messraum
+beibehielt, zeigte die Gruppe der PPARγ-2 neg. einen langsameren Anstieg
+und ein späteres Erreichen des Insulin-Peaks (Abb. 3-12).
+
+Standard Mahlzeit : Insulin im Serum
+60
+
+Insulin [ uU/ml ]
+
+50
+
+Ohne Polymorphismus
+
+40
+
+30
+
+Mit Polymorphismus
+
+20
+
+10
+
+0
+-20
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+180
+
+Zeit [min]
+Abbildung 3-12: Insulin im Serum während der Postprandialen Phase bei
+PPARγ-2 pos.( mit Polymorphismus) und PPARγ-2 neg.
+
+Ergebnisse
+
+Seite 57
+
+3.4.2.1.2 Glyzerol im Serum
+Die Werte für Glyzerol im Serum lagen über die gesamte Phase in der PPARγ2 pos. Gruppe deutlich niedriger als die der PPARγ-2 neg.( p1= 0,049). Auch
+fällt der postprandiale Anstieg des Serum-Glyzerols bei den PPARy-2 pos.
+geringer aus, als in der Vergleichsgruppe (Abb. 3-13).
+
+Standard Mahlzeit : Glyzerol im Serum
+1.1
+Ohne Polymorphismus
+
+1
+
+Glyzerol [ mg/dl ]
+
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+Mit Polymorphismus
+
+0.3
+-20
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+180
+
+Zeit [min]
+Abbildung 3-13: Glyzerol im Serum während der Postprandialen Phase bei
+PPARγ-2 pos. und PPARγ-2 neg
+
+Ergebnisse
+
+Seite 58
+
+3.4.2.1.3 Freie Fettsäuren
+Die freien Fettsäuren zeigen bei der physiologischen Belastung einen nahezu
+gleichen Verlauf, wobei auch hier die Werte der PPARγ-2 neg. etwas über
+denen der PPARγ-2 pos. liegen (Abb. 3-14).
+
+Standard Mahlzeit : FFS im Serum
+0.4
+
+FFS [ mmol/l ]
+
+0.35
+
+0.3
+Ohne Polymorphismus
+
+0.25
+
+0.2
+
+0.15
+
+0.1
+Mit Polymorphismus
+
+0.05
+-20
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+180
+
+Zeit [min]
+Abbildung 3-14: Freie Fettsäuren im Serum während der Postprandialen
+Phase bei PPARγ-2 pos. und PPARγ-2 neg.
+
+Ergebnisse
+
+Seite 59
+
+3.4.2.1.4 Glyzerol im Fett- und Muskelgewebe
+Die Werte für Glyzerol im Fett- und im Muskelgewebe verhielten sich ähnlich
+wie in den vorhergegangenen Phasen. Die Glyzerol-Spiegel der PPARγ-2 pos.
+lagen zu allen Zeiten unterhalb derer der PPARγ-2 neg. Gruppe ( Abb. 3-15
+und 3-16).
+
+Standard Mahlzeit : Glyzerol im Fettgewebe
+
+Glyzerol [ mg/dl ]
+
+2.5
+
+2
+Ohne Polymorphismus
+
+1.5
+
+1
+
+Mit Polymorphismus
+
+0.5
+-20
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+180
+
+Zeit [min]
+Abbildung 3-15: Glyzerol im Fettgewebe in der Postprandialen Phase bei
+PPARγ-2 pos.( mit Polymorphismus) und PPARγ-2 neg. Personen
+
+Ergebnisse
+
+Seite 60
+
+Standard Mahlzeit : Glyzerol im Muskelgewebe
+0.6
+
+Glyzerol [ mg/dl ]
+
+0.5
+
+Ohne Polymorphismus
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+Mit Polymorphismus
+
+-20
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+180
+
+Zeit [min]
+Abbildung 3-16: : Glyzerol im Skelettmuskel in der Postprandialen Phase bei
+PPARγ-2 pos.( mit Polymorphismus) und PPARγ-2 neg. Personen.
+
+Ergebnisse
+
+Seite 61
+
+3.5 Vergleich der Insulinsensitivität in den Subgruppen
+
+Mit PPARγ-2
+Pro
+
+12
+
+Ohne
+Ala Pro
+
+PPARγ-2
+12
+
+Ala
+
+P
+
+Polymorphismus Polymorphismus
+BMI (kg/m²)
+
+23,68 ± 1,15
+
+24,05 ± 1,06
+
+0,81
+
+WHR
+
+0,81 ± 0,02
+
+0,83 ± 0,02
+
+0,4
+
+Körperfettmasse (%)
+
+22,1 ± 3,24
+
+20,26 ± 2,31
+
+0,65
+
+Nüchtern Glukose (mg/dl)
+
+86,66 ± 1,58
+
+85,81± 2,47
+
+0,78
+
+Nüchtern Insulin (µU/ml)
+
+6,16 ± 1,05
+
+7,08 ± 1,05
+
+0,47
+
+SS-PI (µU/ml)
+
+62,46 ± 8,21
+
+64,22 ± 2,8
+
+0,87
+
+Nüchtern FFS (mmol/l)
+
+0,42 ± 0,05
+
+0,47 ± 0,03
+
+0,63
+
+SS-FFS (mmol/l)
+
+0,029 ± 0,006
+
+0,043 ± 0,007
+
+0,23
+
+MCR (ml/kg*min*dl)
+
+9,34 ± 1,04
+
+8,85 ± 0,72
+
+0,71
+
+ISI (mg/kg*min/µU/ml)
+
+15,76 ± 1,68
+
+12,64 ± 1,27
+
+0,15
+
+Tabelle 3-7: Vergleich der metabolische Daten der Untergruppen
+
+Der BMI war in beiden Gruppen vergleichbar (p1= 0,81). Die MCR war in der
+Gruppe mit PPARγ-2 Polymorphismus etwas besser ( Tab. 3-7), ebenso hatte
+diese etwas niedrigere SS-PI (Steady State -Plasma Insulin) -Werte. Eine
+bessere MCR bei leicht niedrigeren Insulinspiegeln im steady state weist auf
+eine bessere Insulinsensitivität hin. Auch war der ISI (Insulin Sensitivity Index)
+bei den Probanden mit Polymorphismus (p=0,15) höher.
+Hinsichtlich der FFS zeigte sich keine Signifikanz, jedoch kam es zu einem
+deutlicheren Absinken der Werte in der PPARγ-2 pos. Gruppe. Beachtet man
+zusätzlich, dass die SS-PI niedriger waren, ist die Absenkung der FFS pro
+µU/ml- Anstieg des Serum-Insulins in der PPARγ-2 pos. Gruppe besser.
+
+Ergebnisse
+
+Seite 62
+
+3.6 Einfluß des PPARγ-2 Pro 12 Ala Polymorphismus auf die
+Assoziation intramyozelluläres Fett und Insulinsensitivität
+Die Probanden wurden am Tag nach der Mikrodialyse- und Clampuntersuchung
+kernspinspektroskopisch untersucht, um den intramyozellulären Lipidgehalt des
+M. tibialis anterior und des M. soleus zu bestimmen. Hierbei fiel auf, dass die
+Probanden mit Polymorphismus sowohl im M. tibialis anterior und im M. soleus
+leicht höhere Werte ( M. tibialis ant. 15%) für intramyozelluläres Fett aufwiesen.
+Die metabolischen Daten sind in Tab. 3-7 aufgeführt.
+
+Mit PPARγ-2
+Pro
+
+12
+
+Ohne
+Ala Pro
+
+PPARγ-2
+12
+
+Ala P2
+
+Polymorphismus Polymorphismus
+IMCL M. tibialis anterior
+
+4,01 ± 0,56
+
+3,48 ± 0,34
+
+0,43
+
+IMCL M. soleus
+
+10,9 ± 1,78
+
+10,5 ± 0,87
+
+0,84
+
+Tab. 3-8: Vergleich intramyozelluläres Fett
+
+Diskussion
+
+Seite 63
+
+4 Diskussion
+Der Peroxisome-Proliferator Activated Receptor gamma (PPARγ) ist ein
+Transkriptionsfaktor, der in der Regulation des Glukose- und Lipidstoffwechsels
+eine wichtige Rolle spielt [62,63,107]. Mutationen dieses Rezeptors könnten
+daher für die Pathogenese der Adipositas, der Insulinresistenz und des Typ 2
+Diabetes von großer Bedeutung sein. Daher interessierte, welche Effekte der
+relativ häufig gefundene PPARγ-2 Polymorphismus Pro 12 Ala auf die
+Insulinsensitivität der Glukoseaufnahme und der Antilipolyse hat.
+Dazu wurde die Technik der Mikrodialyse eingesetzt, bei der das Glyzerol im
+Dialysat der interstitiellen Flüssigkeit als Marker für die Lipolyse im Gewebe
+benutzt wurde. Kombiniert wurde diese Technik mit einem 3-Stufen
+isoglykämischen Glukose-Clamp.
+Die Befunde der vorliegenden Arbeit unterstützen die Annahme, dass die lokale
+Lipolyse bei Probanden mit PPARγ-2 Pro 12 Ala-Mutation einer besseren
+Kontrolle unterliegt, als dies bei der restlichen Bevölkerung ( Wildtyp) der Fall
+ist.
+Dieses Ergebnis deutet auf eine besondere Rolle des PPARγ-2 Pro 12 Ala
+Polymorphismus in der Lipolyse und bei der Entstehung der Insulinresistenz
+hin.
+
+4.1 Personen mit PPARγ-2 Pro 12 Ala Polymorphismus haben
+eine bessere Insulinsensitivität
+In den vorliegenden Studien wurden unterschiedliche Auswirkungen des
+PPARγ-2 Pro 12 Ala Polymorphismus in Bezug auf BMI und Insulinsensitivität
+präsentiert. So zeigen zwar die meisten Studien eine bei Vorliegen des Pro 12
+Ala-Polymorphismus verbesserte Insulinsensitivität [102] und ein verringertes
+Risiko für Typ 2 Diabetes [101,103,104] und erst kürzlich ein verringertes Risiko
+für eine diabetische Nephropathie bei Patienten mit Typ 2 Diabetes [105];
+
+Diskussion
+
+Seite 64
+
+einzelne Studien berichten über keinen Einfluß auf die Insulinsensitivität bei
+Trägern mit Pro 12 Ala Polymorphismus .
+Die in dieser Arbeit eingesetzte Kombination der Mikrodialyse und des 3-Stufen
+hyperinsulinämisch- euglykämischen Glukose Clamps und der anschließenden
+Post-Clamp-Phase und Postprandialen Phase ermöglichen einen genaueren
+Einblick in die Insulinsensitivität.
+Die in dieser Studie untersuchten Träger mit Polymorphismus wiesen bei
+vergleichbaren BMI im Trend eine bessere Insulinsensitivität auf.
+
+4.2 Einfluß des PPARγ-2 Pro 12 Ala Polymorphismus auf die
+Assoziation intramyozelluläres Fett und Insulinsensitivität
+
+In dieser Arbeit konnte gezeigt werden, dass PPARγ-2 pos. trotz leicht höheren
+IMCL im Muskelgewebe und einem annähernd gleichen BMI eine bessere
+Insulinsensitivität besitzen und eine verbesserte insulinvermittelte Antilipolyse
+vor allem im Muskelgewebe aufzeigen.
+Sowohl die Basalwerte für Glyzerol im Fettgewebe, als auch die basalen
+Glyzerolwerte im Skelettmuskel lagen in der Pro 12 Ala PolymorhismusGruppe gegenüber der PPARγ-2 neg. tiefer (Abb. 3-5; Abb 3-6), wobei der
+Unterschied im Muskelgewebe deutlicher war. Insulin induzierte in beiden
+Gruppen eine prompte und vergleichbare (relative) Reduktion des interstitiellen
+Glyzerols, sowohl im Fett- als auch im Muskelgewebe. Jedoch blieben die
+Differenzen der Untergruppen während des ganzen Clamps bestehen.
+Die Messung der intramyozellulären Fettspiegel lieferte interessanterweise bei
+den PPARγ-2 pos. leicht höhere Werte.
+
+Diskussion
+
+Seite 65
+
+4.3 Einfluß des PPARγ-2 Pro 12 Ala Polymorphismus auf die
+Lipolyse während eines Drei-Stufen-Glukose-Clamps
+Wie in früheren Arbeiten gezeigt, wird bereits während der ersten beiden
+Clamp-Stufen vor allem die Lipolyse im Fettgewebe und im Muskelgewebe
+gehemmt
+
+[95],
+
+wobei
+
+die
+
+Auswirkungen
+
+auf
+
+die
+
+insulinvermittelte
+
+Glukoseaufnahme jedoch nur gering sind.
+In den vorhergehenden Untersuchungen nahm die Serumkonzentration für
+Glyzerol in den ersten beiden Stufen des Glukose-Clamps um ca. 1/4 am
+stärksten ab. In der dritten Stufe war dieser Effekt nicht mehr ganz so stark
+ausgeprägt. Die Freien Fettsäuren nahmen pro Stufe um ca. 1/3 in der 1. und in
+der 2. und 3. Stufe jeweils um 2/3 ab.
+Während im Fettgewebe die Glyzerolkonzentration mit jeder Clamp-Stufe
+stärker abfiel, war in der Muskulatur die Abnahme des Glyzerols aus dem
+Dialysat in den ersten Stufen gleich ausgeprägt. Die Glyzerolwerte im
+Skelettmuskel wurden in der dritten Stufe mit den höchsten Plasmaspiegel an
+Insulin  nicht  weiter  gesenkt.  Diese  Beobachtung  wird  von  anderen 
+Arbeitsgruppen bestätigt [83,92,93,95].
+Die Bedeutung der fehlenden Supprimierung der Glyzerolspiegel im Muskel in
+der dritten Stufe ist derzeit noch unklar: Eine Möglichkeit wird in einer trotz
+Hyperinsulinämie weiterbestehenden Lipolyse gesehen. Eine andere Erklärung
+könnte eine Freisetzung von Glyzerol aus der Glykolyse sein.
+Für die unterschiedliche Ausprägung der Insulinwirkung im Skelettmuskel und
+im Fettgewebe kommen verschiedene Phosphodiesterase-Subtypen (PDEs)
+[92] in Betracht. Die Antilipolyse wird durch Insulin unter anderem über cAMPPhosphodiesterasen aktiviert. Enoksson et al. [92] konnte zeigen, dass im
+Skelettmuskel Insulin nicht über die PDE 3, -4 und –5 wirkt; im Fettgewebe aber
+die Antilipolyse über diese PDEs zum größten Teil getriggert werden.
+Hinsichtlich des PPARγ-2 Polymorphismus gab es während des Clamps keine
+Unterschiede der FFS im Serum, kaum Unterschiede beim Glyzerol im
+Fettgewebe, wohl aber beim Glyzerol im Muskel und im Serum. Die
+
+Diskussion
+
+Seite 66
+
+Suppression der Glyzerolwerte war in der PPARγ-2 neg. Gruppe während den
+ersten beiden Stufen zwar vergleichbar, jedoch lagen die Werte deutlich über
+denen der PPARγ-2 pos. Gruppe. In der 3. Stufe kam es zu dem oben
+beschriebenen Sistieren der Suppression in der Gesamtgruppe, wobei die
+PPARγ-2 pos. noch eine weitere leichte Suppression der Werte zeigte,
+wohingegen in der PPARγ-2 neg. Gruppe sogar ein leichter Anstieg zu messen
+war.
+
+4.4 Unterschiede in den Kompartimenten in Abhängigkeit des
+Pro 12 Ala Polymorphismus während der akuten Reduktion
+der Hyperinsulinämie während der Post-Clamp-Phase
+Es konnte nachgewiesen werden, dass Unterschiede der beiden Gruppen nach
+einer Hyperinsulinämie vorhanden sind. Nach Beendigung des Clamps und
+dem damit verbundenen Abfall der Insulinspiegel kam es zu schnellen
+Wiederanstieg der Freien Fettsäuren, der in beiden Gruppen kongruent verlief (
+s. Abb. 3-9), bei ebenso ähnlichem Verlauf der Insulinwerte ( s. Abb. 3-7). In
+den lokalen Kompartimenten gab es wieder vor allem im Muskelgewebe
+sichtbare Unterschiede. Wie schon während des Clamps lagen die Werte der
+PPARγ-2 neg. Gruppe oberhalb derer der PPARγ-2 pos. Gruppe (p=0,11); (s.
+Abb. 3-12).
+
+4.5 Auswirkungen des Pro 12 Ala Polymorphismus auf die
+Lipolyse während der Postprandialen-Phase
+Der Anstieg des Insulins zeigt Unterschiede zwischen den Gruppen (s. Abb. 312). Während die Träger des PPARγ-2 Pro 12 Ala Polymorphismus direkt nach
+Nahrungsaufnahme auf ihren Maximalwert für Insulin steigen und diesen Wert
+bis zum Ende des Versuchs gleichmäßig halten, dauert der Anstieg der
+
+Diskussion
+
+Seite 67
+
+Insulinwerte bei den Probanden ohne Polymorphismus bis ca. 1 Stunde nach
+Nahrungsaufnahme an.
+
+Dies deutet darauf hin, dass Personen mit
+
+Polymorphismus einen schnelleren durch die Nahrungsaufnahme gesteuerten
+Insulinanstieg haben und so auch die Wirkung des Insulins schneller ihren
+Maximalwert erreicht.
+Außerdem lässt der Kurvenverlauf der Gruppe ohne Polymorphismus eine
+überschießende Insulinantwort vermuten. Die Maximalwerte werden später
+erreicht und liegen höher als die der Gruppe mit Polymorphismus. Diese
+höheren Werte können als Ausgleichsreaktion auf den zu langsamen
+Insulinanstieg
+
+direkt
+
+nach
+
+dem
+
+Essen
+
+und
+
+einer
+
+leicht
+
+geringeren
+
+Insulinsensitivität gedeutet werden .
+Groß waren die Unterschiede der Glyzerolwerte in den lokalen Kompartimenten
+und im Serum. Im Fett- und im Muskelgewebe (s. Abb. 3-15 und Abb. 3-16) war
+der Verlauf der Kurven annähernd gleich, aber die Absolutwerte der PPARγ-2
+Positiven lagen unter denen der PPARγ-2 Negativen.
+Die Differenzen bei den Werten für Glyzerol im Serum (s. Abb. 3-13) bestanden
+schon zu Beginn, wurden aber im Verlauf der Postprandialen Phase deutlicher
+(p12=0,17). Der Grund hierfür konnte in einer verminderten Wirksamkeit des
+Insulins in Bezug auf die Antilipolyse oder auch im verzögerten Anstieg der
+Insulinwerte bei Personen ohne PPARγ-2 Polymorphismus liegen.
+
+Aufgrund oben genannter Beobachtungen liegt die Vermutung nahe, dass
+Personen mit PPARγ-2 Polymorphismus eine verbesserte insulinvermittelte
+Antilipolyse besitzen. Der Unterschied erscheint dabei im Muskelgewebe am
+ausgeprägtesten.
+
+Diskussion
+
+Seite 68
+
+4.6 Limitierung der Studie
+Für diese Studie wurden 31 Probanden ( 12 mit PPARγ- Pro 12 Ala
+Polymorphismus und 19 ohne) ausgewählt. Aufgrund der kleinen Fallzahl sind
+die Ergebnisse, statistisch nur in wenigen Bereichen signifikant und somit eher
+explorativ zu sehen.
+
+In der  Skelettmuskulatur  wurden  in  der  vorliegenden  Studie  die 
+Dialysatkonzentrationen von Glyzerol gemessen, welche der Konzentration in
+der interstitiellen Flüssigkeit entsprechen. Das Fett im Skelettmuskel setzt sich
+aber aus extra- und intramyozellulären Lipiden zusammen. Somit sind die
+Effekte nicht auf die Subkompartimente (intra- und extramyozellulär) zu
+lokalisieren. Die für die Insulinresistenz mit verantwortlichen intramyozellulären
+Lipide wurden nicht separat erfasst. Es wird lediglich die Lipolyse im
+Muskelkompartiment wiedergegeben.
+
+4.7 Klinische Relevanz des PPARγ-2 Pro 12 Ala
+Polymorphismus
+
+Wie in bisherigen Studien beschrieben, haben Personen mit PPARγ-2 Pro 12
+Ala Polymorphismus eine verbesserte Insulinsensitivität [102] und eine
+niedrigere Inzidenz für Typ 2 Diabetes [101,103,104].
+Diese Studien konnten in dieser Arbeit insofern bestätigt werden, als dass die
+Träger der Pro 12 Ala Mutation auch bei uns eine tendenziell bessere
+insulinvermittelte Glukoseaufnahme in die Muskulatur (4.1) und eine bessere
+Insulinsensitivität (ISI) zeigten. Die anderen Aussagen lassen sich jedoch nur
+indirekt herleiten: Die PPARγ-2 Pro 12 Ala Träger hatten vergleichbare oder
+niedrigere Insulinspiegel und leicht höhere intramyozellulären Lipidspiegel. Man
+hätte erwartet, dass bei vergleichbarer Regulation höhere Glyzerolspiegel im
+Muskel- und auch im Fettgewebe vorliegen. Es zeigte sich im Gegenteil, dass
+die Pro 12 Ala Träger während des Clamps, während der Post-Clamp-Phase
+und auch während der Postprandialen Phase stets niedrigere Werte für
+
+Diskussion
+
+Seite 69
+
+Glyzerol im Fett-, vor allem aber im Muskelgewebe zeigten, als die Gruppe
+ohne Mutation. Somit liegt die Vermutung nahe, dass die Personen mit PPARγ2 Pro 12 Ala Mutation ihre Lipide besser kontrollieren, was heißt, dass die
+insulinvermittelte Antilipolyse stärker ausgeprägt ist. Es ist daher vorstellbar,
+dass es nach Nahrungsaufnahme zu einer geringeren Substratkompetition
+kommt, denn eine verminderte lokale Lipolyse (gemessen durch geringere
+Mengen Glyzerol) lässt eine verminderte Substratkompetition erwarten. Daher
+könnten die oben beschriebenen Mechanismen dazu beitragen, dass bei
+Personen mit PPARγ-2 Pro 12 Ala Polymorphismus eine verminderte Inzidenz
+für Diabetes mellitus Typ 2 gefunden wird.
+
+Zusammenfassung
+
+Seite 70
+
+5 Zusammenfassung
+In der Pathogenese des Typ 2 Diabetes spielen einerseits eine reduzierte
+Insulinsekretion des Pankreas und andererseits eine gestörte insulinabhängige
+Glukoseverwertung der Skelettmuskulatur eine wichtige Rolle. Man nimmt an,
+dass bei der Entwicklung der Insulinresistenz eine Dysregulation des
+Lipidstoffwechsels  von  besonderer  Bedeutung  ist.  Diese  Störung  im 
+Lipidstoffwechsel kann das Resultat einer vermehrten Lipolyse und/oder einer
+verminderten Insulin-vermittelten Antilipolyse sein.
+Mutationen der PPARγ , besonders der Pro 12 Ala Polymorphismus, werden
+mit einer besseren Insulinsensitivität und einer verminderten Inzidenz für
+Diabetes mellitus assoziiert.
+
+Ziel dieser Arbeit war es zu überprüfen, inwiefern der Pro 12 Ala
+Polymorphismus des peroxysome proliferator-activated receptor gamma einen
+Einfluß auf die Insulinsensitivität der Glukoseaufnahme und der lokalen Lipolyse
+hat. Weiter interessierte, ob und wie der Polymorphismus Auswirkungen auf die
+Menge und Regulation der regionalen Lipide aufweist.
+
+Um die Regulation und die Aktivität der Lipolyse bestimmen zu können, wurde
+die Methode der Mikrodialyse-Technik eingesetzt und das Glyzerol im Dialysat
+unter standardisierten Bedingungen (vor, während und nach einem 3-StufenGlukose-Clamp, sowie während und nach einer Standardmahlzeit) sowohl im
+Fettgewebe als auch in der Skelettmuskulatur bestimmt. Die intramyozellulären
+Lipidspiegel wurden mit Hilfe der Magnetresonanz-Spektroskopie bestimmt.
+ Die  Ergebnisse  zeigen,  dass  Personen  mit  PPARγ-2  Pro  12  Ala 
+Polymorphismus eine bessere insulinvermittelte Glukoseaufnahme haben als
+Personen ohne Träger der Mutation. Auch weisen die Träger der Mutation
+während der gesamten Untersuchung, bei vergleichbaren Insulinspiegeln und
+etwas höheren intramyozellulären Lipidspiegeln weniger Glyzerol vor allem im
+
+Zusammenfassung
+
+Seite 71
+
+Muskelgewebe aber auch im Fettgewebe auf. Daher liegt die Vermutung nahe,
+dass PPARγ-2 Pro 12 Ala Träger eine besser kontrollierte Lipolyse und
+Antilipolyse im Fettgewebe, vor allem aber im Skelettmuskel besitzen. Dies
+könnte einer der Mechanismen sein, die zur verbesserten Insulinsensitivität und
+verringerten Inzidenz von Diabetes mellitus Typ 2 beitragen.
+Es sind jedoch weitere Studien mit größerer Fallzahl erforderlich, um diese
+Beobachtungen zu bestätigen.
+
+Literaturverzeichnis
+
+Seite 72
+
+6 Literaturverzeichnis
+[1] Harris MI, Flegal KM, Cowie CC, Eberhardt MS, Goldstein DE, Little RR,
+Wiedmeyer HM, Byrd Holt DD.: Prevalence of diabetes, impaired fasting glucose, and
+impaired glucose tolerance in U.S. adults. The Third National Health and Nutrition
+Examination Survey, 1988-1994. Diabetes Care 21:518-524, 1998
+[2] Sowers JR.: Insulin resistance, hyperinsulinemia, dyslipidemia, hypertension and
+accelerated arteriosclerosis. J Clin Pharmacol 32:529-535, 1992
+[3] DeFronzo RA and Ferrannini E.: Insulin resistance. A multifaceted syndrome
+responsible for NIDDM, obesity, hypertension, dyslipidemia, and atherosclerotic
+cardiovascular disease. Diabetes Care 14:173-194, 1991
+[4] Pyörälä K, Laakso M, Uusitupa M: Diabetes and arteriosclerosis: An epidemiologic
+view. Diab Metabol Rev 3:463-524, 1987
+[5] Castelli WP. Epidemiology of coronary heart disease: The Framingham study. Am J
+Med 76:4-12, 1984
+[6] Bo Isomaa, MD, Peter Almgren, MSC, Tiinamaija Tuomi, MD, Bjo¨ Rnforse´N, MD,
+Kaj Lahti, MD, Michael Nisse ´N, MD, Marja-Riitta Taskinen, MD, Leif Groop, MD:
+Cardiovascular Morbidity and Mortality Associated With the Metabolic Syndrome
+Diabetes Care 24:683–689, 2001
+[7] Diabetes Study Group: Association of glycaemia with macrovascular and
+microvascular complications of type 2 diabetes (UKPDS 35): prospective observational
+study. BMJ 321:405–12, 2000
+[8] Tight blood pressure control and risk of macrovascular and microvascular
+complications in type 2 diabetes: UKPDS 38. UK Prospective Diabetes Study Group.
+BMJ. 317:703-713, 1998
+[9] Haffner SM, Lehto S, Ronnemaa T, Pyorala K, Laakso M. : Mortality from coronary
+heart disease in subjects with type 2 diabetes and in nondiabetic subjects with and
+without prior myocardial infarction. N Engl J Med 339:229-234, 1998
+[10] Hanefeld M, Fischer S, Julius U, Schulze J, Schwanebeck U, Schmechel H,
+Ziegelasch HJ, Lindner J. : Risk factors for myocardial infarction and death in newly
+detected NIDDM: the Diabetes Intervention Study, 11-year follow-up. Diabetologia
+39:1577-1583, 1996
+[11] Klimm HD, Jacob S, Schlageter S, Schmidt-Köppler D, Weber M, Scherer S, Volk
+A, Rett K, Renn W, Keller H, Weismann G, Augustin HJ, März W, Häring HU. :
+Impairment of glucose tolerance in survivors of myocardial infarction (MI) and in their
+first degree relatives (FDR). (Abstr.) Diabetologia 41:A193 1998
+[12] Eriksson J, Franssila Kallunki A, Ekstrand A, Saloranta C, Widen E, Schalin C,
+Groop L.: Early metabolic defects in persons at increased risk for non-insulindependent diabetes mellitus. N Engl J Med 321:337-343, 1989
+
+Literaturverzeichnis
+
+Seite 73
+
+[13] Haffner SM, Stern MP, Hazuda HP, Mitchell BD, Patterson JK. : Cardiovascular
+risk factors in confirmed prediabetic individuals. Does the clock for coronary heart
+disease start ticking before the onset of clinical diabetes? JAMA 263:2893-2898, 1990
+[14] Pyorala M, Miettinen H, Laakso M, Pyorala K. : Hyperinsulinemia predicts coronary
+heart disease risk in healthy middle-aged men: the 22-year follow-up results of the
+Helsinki Policemen Study. Circulation 98:398-404, 1998
+[15] Jacob S, Klimm HD, Saschin C, Krieger B. : Incidence of insulin resistance in
+peripheral arterial occlusive disease patients. Pilot study in a general medicine
+practice. Fortschr. Med. 113:293-296, 1995
+[16] Reaven GM, Lithell H, Landsberg L. Pathophysiology of insulin resistance in
+human disease. Physiol Rev 75:473-486, 1995
+[17] Kooner JS, Baliga RR, Wilding J, Crook D, Packard CJ, Banks LM, Peart S,
+Aitman TJ, Scott J. Abdominal obesity, impaired nonesterified fatty acid suppression,
+and insulin-mediated glucose disposal are early metabolic abnormalities in families with
+premature myocardial infarction. Arterioscler Thromb Vasc Biol 18:1021-1026, 1998
+[18] Beck Nielsen H and Groop LC. : Metabolic and genetic characterization of
+prediabetic states. Sequence of events leading to non-insulin-dependent diabetes
+mellitus. J. Clin. Invest. 94:1714-1721, 1994
+[19] Ferrari P, Weidmann P, Shaw S, Giachino D, Riesen W, Allemann Y, Heynen G. :
+Altered insulin sensitivity, hyperinsulinemia, and dyslipidemia in individuals with a
+hypertensive parent. Am J Med 91:589-596, 1991
+[20] Weir GC: Which comes first in non-insulin-dependent diabetes mellitus: insulin
+resistance or beta-cell failure? Both come first. JAMA 273:1878-1879, 1995
+[21] Groop LC, Widen E, Ferrannini E. : Insulin resistance and insulin deficiency in the
+pathogenesis of type 2 (non-insulin-dependent) diabetes mellitus: errors of metabolism
+or of methods? Diabetologia 36:1326-1331, 1993
+[22] Häring HU: Pathogenesis of type II diabetes: are there common causes for insulin
+resistance and secretion failure? Exp Clin Endocrinol Diabetes 107:S17-S23, 1999
+[23] Baron AD, Brechtel Hook G, Johnson A, Hardin D. : Skeletal muscle blood flow. A
+possible link between insulin resistance and blood pressure. Hypertension 21:129-135,
+1993
+[24] Del Prato S, Leonetti F, Simonson DC, Sheehan P, Matsuda M, DeFronzo RA. :
+Effect of sustained physiologic hyperinsulinaemia and hyperglycaemia on insulin
+secretion and insulin sensitivity in man. Diabetologia 37:1025-1035, 1994
+[25] DeFronzo RA, Bonadonna RC, Ferrannini E. : Pathogenesis of NIDDM. A
+balanced overview. Diabetes Care 15:318-368, 1992
+[26] Volk A, Renn W, Overkamp D, Mehnert B, Maerker E, Jacob S, Balletshofer B,
+Häring HU, Rett K. : Insulin action and secretion in healthy, glucose tolerant first
+degree relatives of patients with type 2 diabetes mellitus. Influence of body weight. Exp
+Clin Endocrinol Diab 107:140-147, 1999
+
+Literaturverzeichnis
+
+Seite 74
+
+[27] Pimenta W, Korytkowski M, Mitrakou A, Jenssen T, Yki Jarvinen H, Evron W,
+Dailey G, Gerich J. : Pancreatic beta-cell dysfunction as the primary genetic lesion in
+NIDDM. Evidence from studies in normal glucose-tolerant individuals with a first-degree
+NIDDM relative. JAMA 273:1855-1861, 1995
+[28] Martin BS, Warram JH, Krolewski AS, et al.: Role of glucose and insulin resistance
+in development of type 2 diabetes mellitus: Results of a 25-year follow-up study. Lancet
+340:925-929, 1992
+[29] Jacob S, Augustin H-J, Dietze G-J : Quantifying insulin resistance: with special
+reference to the euglycaemic, hyperinsulinaemic glucose clamp technique. diabetes
+NEWS, volume 16, 4/1995
+[30] DeFronzo RA, Tobin JD, Andres R. : Glucose clamp technique: a method for
+quantifying insulin secretion and resistance. Am. J. Physiol. 237:E214-23, 1979
+[31] Stumvoll M and Jacob S. Multiple sites of insulin resistance: muscle, liver and
+adipose tissue. Exp. Clin. Endocrinol. Diab. 107:107-110, 1999
+[32] Delgado JMR, DeFeudis FV, Roth RH, Ryugo DK, Mitruka BM. Dialytrode for long
+term intracerebral perfusion in awake monkeys. Arch Int Pharmacodyn 198:9-21, 1972
+[33] Ungerstedt U, Pycock C. Functional correlates of dopamine neurotransmission.
+Bull Schweiz Akad Med Wiss 1278:44-55, 1974
+[34] Lönnroth P: Microdialysis in adipose tissue and skeletal muscle. Horm. Metab.
+Res. 29:344-346, 1997
+[35] Lönnroth P, Smith U. Microdialysis--a novel technique for clinical investigations. J
+Intern Med, Review May 227(5):295-300,1990
+[36] Lönnroth P, Jansson P-A, Smith U. A microdialysis method allowing
+characterization of intercellular water space in humans. Am J Physiol 253:E228-E231,
+1987
+[37] Arner P: Techniques for the measurement of white adipose tissue metabolism: a
+practical guide. Int. J. Obes. Relat. Metab. Disord. 19:435-442, 1995
+[38] Wennlund A, Wahrenberg H, Hagstrom Toft E, Bolinder J, Arner P. : Lipolytic and
+cardiac responses to various forms of stress in humans. Int. J. Sports Med. 15:408413, 1994
+[39] Reaven GM, Hollenbeck CB, Chen Y-DI. Relationship between glucose tolerance,
+insulin secretion, and insulin action in non-obese individuals with varying degrees of
+glucose tolerance. Diabetologia 32:52-55, 1989
+[40] Bonadonna RC, Groop L, Kraemer N, Ferrannini E, Del Prato S, DeFronzo RA.
+Obesity and insulin resistance in humans: A dose-response study. Metabolism 39:452459, 1990
+[41] Kolterman OG, Insel J, Saekow M, Olefsky JM. Mechanisms of insulin resisance in
+human obesity: Evidence for receptor and postreceptor defects. J Clin Invest 65:12721284, 1980
+
+Literaturverzeichnis
+
+Seite 75
+
+[42] Haffner SM, Karhapaa P, Mykkanen L, Laakso M. : Insulin resistance, body fat
+distribution, and sex hormones in men. Diabetes 43:212-219, 1994
+[43] Haffner SM, Stern MP, Mitchell BD, Hazuda HP, Patterson JK. : Incidence of type
+II diabetes in Mexican Americans predicted by fasting insulin and glucose levels,
+obesity, and body-fat distribution. Diabetes 39:283-288, 1990
+[44] Ruderman N, Chisholm D, Pi-Sunyer X, Schneider S. : The metabolically obese,
+normal-weight individual revisited. Diabetes 47(5):699-713, 1998
+[45] Charles MA, Eschwege E, Thibult N, Claude JR, Warnet JM, Rosselin GE, Girard
+J, Balkau B. : The role of non-esterified fatty acids in the deterioration of glucose
+tolerance in Caucasian subjects: results of the Paris Prospective Study. Diabetologia
+40:1101-1106, 1997
+[46] Ferrannini E, Camastra S, Coppack SW, Fliser D, Golay A, Mitrakou A. : Insulin
+action and non-esterified fatty acids. The European Group for the Study of Insulin
+Resistance (EGIR). Proc. Nutr. Soc. 56:753-761, 1997
+[47] Perseghin G, Ghosh S, Gerow K, Shulman GI. : Metabolic defects in lean
+nondiabetic offspring of NIDDM parents: a cross-sectional study. Diabetes 46:10011009, 1997
+[48] Saloranta C and Groop L. : Interactions between glucose and FFA metabolism in
+man. Diabetes Metab. Rev. 12:15-36, 1996
+[49] Paolisso G, Tataranni PA, Foley JE, Bogardus C, Howard BV, Ravussin E. : A high
+concentration of fasting plasma non-esterified fatty acids is a risk factor for the
+development of NIDDM. Diabetologia 38:1213-1217, 1995
+[50] Groop LC, Saloranta C, Shank M, Bonadonna RC, Ferrannini E, DeFronzo RA. :
+The role of free fatty acid metabolism in the pathogenesis of insulin resistance in
+obesity and noninsulin-dependent diabetes mellitus. J. Clin. Endocrinol. Metab. 72:96107, 1991
+[51] Paolisso G and Howard BV. : Role of non-esterified fatty acids in the pathogenesis
+of type 2 diabetes mellitus. Diabet. Med. 15:360-366, 1998
+[52] Byrne CD, Wareham NJ, Day NE, McLeish R, Williams DR, Hales CN. :
+Decreased non-esterified fatty acid suppression and features of the insulin resistance
+syndrome occur in a sub-group of individuals with normal glucose tolerance.
+Diabetologia 38:1358-1366, 1995
+[53] Chen YD, Golay A, Swislocki AL, Reaven GM. : Resistance to insulin suppression
+of plasma free fatty acid concentrations and insulin stimulation of glucose uptake in
+noninsulin-dependent diabetes mellitus. J. Clin. Endocrinol. Metab. 64:17-21, 1987
+[54] Randle PJ, Garland PB, Hales CN, Newsholme EA. : The glucose-fatty acid cycle;
+its role in insulin sensitivity and the metabolic disturbances of diabetes mellitus. Lancet
+1:784-789, 1963
+
+Literaturverzeichnis
+
+Seite 76
+
+[55] Roden M, Krssak M, Stingl H, Gruber S, Hofer A, Furnsinn C, Moser E, Waldhausl
+W. : Rapid impairment of skeletal muscle glucose transport/phosphorylation by free
+fatty acids in humans. Diabetes 48:358-364, 1999
+[56] Boden G: Role of fatty acids in the pathogenesis of insulin resistance and NIDDM.
+Diabetes 46:3-10, 1997
+[57] Jucker BM, Rennings AJ, Cline GW, Shulman GI. : 13C and 31P NMR studies on
+the effects of increased plasma free fatty acids on intramuscular glucose metabolism in
+the awake rat. J. Biol. Chem. 272:10464-10473, 1997
+[58] Kim JK, Wi JK, Youn JH. : Plasma free fatty acids decrease insulin-stimulated
+skeletal muscle glucose uptake by suppressing glycolysis in conscious rats. Diabetes
+45:446-453, 1996
+[59] Roden M, Price TB, Perseghin G, Petersen KF, Rothman DL, Cline GW, Shulman
+GI. : Mechanism of free fatty acid-induced insulin resistance in humans. J. Clin. Invest.
+97:2859-2865, 1996
+[60] Boden G and Chen X. : Effects of fat on glucose uptake and utilization in patients
+with non-insulin-dependent diabetes. J. Clin. Invest. 96:1261-1268, 1995
+[61] Boden G, Chen X, Ruiz J, White JV, Rossetti L. : Mechanisms of fatty acid-induced
+inhibition of glucose uptake. J. Clin. Invest. 93:2438-2446, 1994
+[62] Randle PJ, Priestman DA, Mistry SC, Halsall A. : Glucose fatty acid interactions
+and the regulation of glucose disposal. J. Cell Biochem. 55 Suppl:1-11, 1994
+[63] Bergman RN, Ader M. : Free fatty acids and pathogenesis of type 2 diabetes
+mellitus. Trends Endocrinol Metab. 11(9):351-6, 2000
+[64] DeFronzo RA, Lilly lecture. The triumvirate: β-cell, muscle, liver: A collusion
+responsible for NIDDM. Diabetes 37:667-687, 1988
+[65] Oakes ND, Cooney GJ, Camilleri S, Chisholm DJ, Kraegen EW. : Mechanisms of
+liver and muscle insulin resistance induced by chronic high-fat feeding. Diabetes
+46:1768-1774, 1997
+[66] Schmitz Peiffer C, Browne CL, Oakes ND, Watkinson A, Chisholm DJ, Kraegen
+EW, Biden TJ. : Alterations in the expression and cellular localization of protein kinase
+C isozymes epsilon and theta are associated with insulin resistance in skeletal muscle
+of the high-fat-fed rat. Diabetes 46:169-178, 1997
+[67] Storlien LH, Baur LA, Kriketos AD, Pan DA, Cooney GJ, Jenkins AB, Calvert GD,
+Campbell LV. : Dietary fats and insulin action. Diabetologia 39:621-631, 1996
+[68] Storlien LH, Kriketos AD, Jenkins AB, Baur LA, Pan DA, Tapsell LC, Calvert GD. :
+Does dietary fat influence insulin action? Ann. N. Y. Acad. Sci. 827:287-301, 1997
+[69] Mayer Davis EJ, Monaco JH, Hoen HM, Carmichael S, Vitolins MZ, Rewers MJ,
+Haffner SM, Ayad MF, Bergman RN, Karter AJ. : Dietary fat and insulin sensitivity in a
+triethnic population: the role of obesity. The Insulin Resistance Atherosclerosis Study
+(IRAS). Am. J. Clin. Nutr. 65:79-87, 1997
+
+Literaturverzeichnis
+
+Seite 77
+
+[70] O'Dea K: Marked improvement in carbohydrate and lipid metabolism in diabetic
+Australian aborigines after temporary reversion to traditional lifestyle. Diabetes 33:596603, 1984
+[71] Falholt K, Jensen I, Lindkaer Jensen S, Mortensen H, Volund A, Heding LG,
+Noerskov Petersen P, Falholt W. : Carbohydrate and lipid metabolism of skeletal
+muscle in type 2 diabetic patients. Diabet. Med. 5:27-31, 1988
+[72] Falholt K, Hjelms E, Jensen I, Voelund A, Heding LG, Falholt W. : Intracellular
+metabolism in biopsies from the aorta in patients undergoing coronary bypass surgery.
+Diabete. Metab. 13:312-317, 1987
+[73] Paternostro G, Camici PG, Lammerstma AA, Marinho N, Baliga RR, Kooner JS,
+Radda GK, Ferrannini E. : Cardiac and skeletal muscle insulin resistance in patients
+with coronary heart disease. A study with positron emission tomography. J. Clin. Invest.
+98:2094-2099, 1996
+[74] Goodpaster BH, Thaete FL, Simoneau JA, Kelley DE. : Subcutaneous abdominal
+fat and thigh muscle composition predict insulin sensitivity independently of visceral fat.
+Diabetes 46:1579-1585, 1997
+[75] Pan DA, Lillioja S, Kriketos AD, Milner MR, Baur LA, Bogardus C, Jenkins AB,
+Storlien LH. : Skeletal muscle triglyceride levels are inversely related to insulin action.
+Diabetes 46:983-988, 1997
+[76] Phillips DI, Caddy S, Ilic V, Fielding BA, Frayn KN, Borthwick AC, Taylor R. :
+Intramuscular triglyceride and muscle insulin sensitivity: evidence for a relationship in
+nondiabetic subjects. Metabolism 45:947-950, 1996
+[77] Wendling PS, Peters SJ, Heigenhauser GJ, Spriet LL. : Variability of triacylglycerol
+content in human skeletal muscle biopsy samples. J. Appl. Physiol. 81:1150-1155,
+1996
+[78] Vuorinen-Markkola H, Koivisto VA, Yki-Järvinen H. Mechanism of hyperglycemiainduced insulin resistance in whole body and skeletal muscle of type 1 diabetic
+patients. Diabetes 41:571-580, 1992
+[79] Rizza RA, Mandarino LJ, Gerich JE : Dose-response characteristics for effects of
+insulin on production and utilization of glucose in man. Am J Physiol. 240(6):E630-9,
+1981
+[80] Ferrannini E and Mari A. How to measure insulin sensitivity. J. Hypertens. 16:895906, 1998
+[81] Thomas AE, McKay DA, Cutlip MB. A nomograph method for assessing body
+weight. Am J Clin Nutr 29:302-304, 1976
+[82] World Health Organization. Measuring obesity-classification and description of
+anthropometric data. Report on a WHO consultation on the epidemiology of obesity.
+WHO, Warsaw:2-7,1987
+
+Literaturverzeichnis
+
+Seite 78
+
+[83] Hagstrom Toft E, Enoksson S, Moberg E, Bolinder J, Arner P. : Absolute
+concentrations of glycerol and lactate in human skeletal muscle, adipose tissue, and
+blood. Am. J. Physiol. 273:E584-92, 1997
+[84] Rosdahl H, Hamrin K, Ungerstedt U, Henriksson J. : Metabolite levels in human
+skeletal muscle and adipose tissue studied with microdialysis at low perfusion flow.
+Am. J. Physiol. 274:E936-45, 1998
+[85] Hagstrom Toft E, Bolinder J, Ungerstedt U, Arner P. : A circadian rhythm in lipid
+mobilization which is altered in IDDM. Diabetologia 40:1070-1078, 1997
+[86] Hickner RC, Fisher JS, Kohrt WM. : Regional differences in interstitial glycerol
+concentration in subcutaneous adipose tissue of women. Am. J. Physiol. 273:E1033-8,
+1997
+[87] Jansson PA, Veneman T, Nurjhan N, Gerich J. : An improved method to calculate
+adipose tissue interstitial substrate recovery for microdialysis studies. Life Sci. 54:16211624, 1994
+[88] Rosdahl H, Lind L, Millgard J, Lithell H, Ungerstedt U, Henriksson J. : Effect of
+physiological hyperinsulinemia on blood flow and interstitial glucose concentration in
+human skeletal muscle and adipose tissue studied by microdialysis. Diabetes 47:12961301, 1998
+[89] Hickner RC, Bone D, Ungerstedt U, Jorfeldt L, Henriksson J. : Muscle blood flow
+during intermittent exercise: comparison of the microdialysis ethanol technique and
+133Xe clearance. Clin. Sci. Colch. 86:15-25, 1994
+[90] Hickner RC, Rosdahl H, Borg I, Ungerstedt U, Jorfeldt L, Henriksson J. : The
+ethanol technique of monitoring local blood flow changes in rat skeletal muscle:
+implications for microdialysis. Acta Physiol. Scand. 146:87-97, 1992
+[91] Hickner RC, Rosdahl H, Borg I, Ungerstedt U, Jorfeldt L, Henriksson J. : Ethanol
+may be used with the microdialysis technique to monitor blood flow changes in skeletal
+muscle: dialysate glucose concentration is blood-flow-dependent. Acta Physiol. Scand.
+143:355-356, 1991
+[92] Enoksson S, Degerman E, Hagstrom Toft E, Large V, Arner P. : Various
+phosphodiesterase subtypes mediate the in vivo antilipolytic effect of insulin on adipose
+tissue and skeletal muscle in man. Diabetologia 41:560-568, 1998
+[93] Maggs DG, Jacob R, Rife F, Lange R, Leone P, During MJ, Tamborlane WV,
+Sherwin RS. : Interstitial fluid concentrations of glycerol, glucose, and amino acids in
+human quadricep muscle and adipose tissue. Evidence for significant lipolysis in
+skeletal muscle. J. Clin. Invest. 96:370-377, 1995
+[94] Spiegelmann BM: PPAR-gamma adipogenic regulator and thiazolidinedione
+receptor. Diabetes 46: 507-514, 1998
+[95] Moberg E, Arner P, Hagstrom Toft E, Bolinder J. : Different metabolic response of
+adipose tissue and skeletal muscle to insulin in vivo. (Abstr.) Diabetologia 42; 1999
+
+Literaturverzeichnis
+
+Seite 79
+
+[96] Way JM, Harrington WW, Brown KK, Gottschalk WK, Sundseth SS, Mansfield TA,
+Ramachandran RK, Willson TM, Kliewer SA : Comprehensive messenger ribonucleic
+acid profiling reveals that peroxisome proliferator-activated receptor gamma activation
+has coordinate effects on gene expression in multiple insulin-sensitive tissues.
+Endocrinology 142: 1269-1277, 2001
+[97] Meirhaeghe A, Fajas L, Helbecque N, Cottel D, Auwerx J, Deeb SS, Amouyel P :
+Impact of the peroxisome proliferator activated receptor gamma2 Pro 12 Ala
+polymorphism on adiposity, lipids and non-insulin-dependent diabetes mellitus.
+International Journal of Obesity 24, 195-199, 2000
+[98] Fajas L, Fruchart JC, Auwerx J : PPARgamma 3 mRNA: a distinct PPARgamma
+mRNA subtype transcribed from an independent promoter
+[99] Auwex J : PPARγ, the ultimate thrifty gene. Diabetologia 42: 1033-1049, 1999
+[100] Yen C-J, Beamer B, Negri C, Silver K, Brown K, Yarnall D, Burns D, Roth J,
+Shuldiner A : Molecular scanning of thr human peroxisome proliferator activated
+receptory gene in diabetic Caucasians: Identification of a Pro 12 Ala PPARγ2
+missense mutation. Biochemical and Biophysical Research Communications 241: 270274, 1997
+[101] Frederiksen L, Brodbaek K, Fenger M, Jorgensen T, Borch-Johnsen K, Madsbad
+S, Urhammer S : Studies of the Pro12Ala Polymorphism of the PPAR-γ gene in the
+Danish MONICA cohort: Homozygosity of the Ala Allele confers a decreased risk of the
+insulin resistance syndrome. The Journal of Clinical Endocrinology& Metabolism 87 (8):
+3989-3992, 2002
+[102] Hasstedt S, Ren Q-F, Teng K, Elbein S: Effect of the peroxisome proliferatoractivated receptor-γ 2 Pro 12 Ala variant on obesity, glucose homeostasis, and blood
+pressure in members of familial type 2 diabetic kindreds. The Journal of Clinical
+Endocrinology& Metabolism 86 (2): 536-541, 2001
+[103] Li S, Chen W, Srinivasan S, Boerwinkle E, Berenson G: The peroxisome
+proliferator-activated receptor-γ2 gene polymorphism (Pro 12 Ala ) beneficially
+influences insulin resistance and its tracking from childhood to adulthood. Diabetes 52:
+1265-1269, 2003
+[104] Ek J, Andersen G, Urhammer SA, Hansen L, Carstensen B, Borch-Johnsen K,
+Drivsholm T, Berglund L, Hansen T, Lithell H, Pedersen O: Studies of the Pro 12 Ala
+polymorphism of the peroxisome proliferator-activated receptor-gamma2 (PPARgamma2) gene in relation to insulin sensitivity among glucose tolerant caucasians.
+Diabetologia 44(9): 1170- 1176, 2001
+[105] Caramori M, Canani L, Costa L, Gross J: The human peroxisome proliferatoractivated receptor γ2 (PPARγ2) Pro 12 Ala polymorphism is associated with
+decreased risk of diabetic nephropathy in patients with type 2 diabetes. Diabetes 52:
+3010- 3013 , 2003
+
+Literaturverzeichnis
+
+Seite 80
+
+[106] Rosmond R, Chagnon M, Bouchard C: The Pro 12 Ala PPARγ2 gene missence
+mutation is associated with obesity and insulin resistance in swedish middle-aged men.
+Diabetes/Metabolism Research and Reviews 19: 159-163 , 2003
+[107] Jacob S, Stumvoll M, Becker R, Koch M, Nielsen M, Löblein K, Maerker E, Volk
+A, Renn W, Balletshofer B, Machicao F, Rett K, Häring HU: The PPARγ2
+polymorphism Pro 12 Ala is associated with better insulin sensitivity in the offspring of
+type 2 diabetic patients. Horm Metab Res 32: 413-416 , 2000
+
+[108] Koch M: The PPARγ-2 amino acid polymorphism Pro 12 Ala is prevalent
+inoffspring of Type II diabetic patients and is associated to increased insulin sensitivity
+in a subgroup of obese subjects. Diabetologia 42:758-762, 1999
+
+Literaturverzeichnis
+
+Seite 81
+
+Literaturverzeichnis alphabetisch geordnet
+[37] Arner P: Techniques for the measurement of white adipose tissue metabolism: a
+practical guide. Int. J. Obes. Relat. Metab. Disord. 19:435-442, 1995
+[99] Auwex J : PPARy, the ultimate thrifty gene. Diabetologia 42: 1033-1049, 1999
+[23] Baron AD, Brechtel Hook G, Johnson A, Hardin D. : Skeletal muscle blood flow. A
+possible link between insulin resistance and blood pressure. Hypertension 21:129-135,
+1993
+[18] Beck Nielsen H and Groop LC. : Metabolic and genetic characterization of
+prediabetic states. Sequence of events leading to non-insulin-dependent diabetes
+mellitus. J. Clin. Invest. 94:1714-1721, 1994
+[63] Bergman RN, Ader M. : Free fatty acids and pathogenesis of type 2 diabetes
+mellitus. Trends Endocrinol Metab. 11(9):351-6, 2000
+[56] Boden G: Role of fatty acids in the pathogenesis of insulin resistance and NIDDM.
+Diabetes 46:3-10, 1997
+[60] Boden G and Chen X. : Effects of fat on glucose uptake and utilization in patients
+with non-insulin-dependent diabetes. J. Clin. Invest. 96:1261-1268, 1995
+[61] Boden G, Chen X, Ruiz J, White JV, Rossetti L. : Mechanisms of fatty acid-induced
+inhibition of glucose uptake. J. Clin. Invest. 93:2438-2446, 1994
+[40] Bonadonna RC, Groop L, Kraemer N, Ferrannini E, Del Prato S, DeFronzo RA.
+Obesity and insulin resistance in humans: A dose-response study. Metabolism 39:452459, 1990
+[52] Byrne CD, Wareham NJ, Day NE, McLeish R, Williams DR, Hales CN. :
+Decreased non-esterified fatty acid suppression and features of the insulin resistance
+syndrome occur in a sub-group of individuals with normal glucose tolerance.
+Diabetologia 38:1358-1366, 1995
+[105] Caramori M, Canani L, Costa L, Gross J: The human peroxisome proliferatoractivated receptor y2 (PPARy2) Pro 12 Ala polymorphism is associated with decreased
+risk of diabetic nephropathy in patients with type 2 diabetes. Diabetes 52: 3010- 3013 ,
+2003
+[5] Castelli WP. Epidemiology of coronary heart disease: The Framingham study. Am J
+Med 76:4-12, 1984
+[45] Charles MA, Eschwege E, Thibult N, Claude JR, Warnet JM, Rosselin GE, Girard
+J, Balkau B. : The role of non-esterified fatty acids in the deterioration of glucose
+tolerance in Caucasian subjects: results of the Paris Prospective Study. Diabetologia
+40:1101-1106, 1997
+[53] Chen YD, Golay A, Swislocki AL, Reaven GM. : Resistance to insulin suppression
+of plasma free fatty acid concentrations and insulin stimulation of glucose uptake in
+noninsulin-dependent diabetes mellitus. J. Clin. Endocrinol. Metab. 64:17-21, 1987
+
+Literaturverzeichnis
+
+Seite 82
+
+[32] Delgado JMR, DeFeudis FV, Roth RH, Ryugo DK, Mitruka BM. Dialytrode for long
+term intracerebral perfusion in awake monkeys. Arch Int Pharmacodyn 198:9-21, 1972
+[24] Del Prato S, Leonetti F, Simonson DC, Sheehan P, Matsuda M, DeFronzo RA. :
+Effect of sustained physiologic hyperinsulinaemia and hyperglycaemia on insulin
+secretion and insulin sensitivity in man. Diabetologia 37:1025-1035, 1994
+[25] DeFronzo RA, Bonadonna RC, Ferrannini E. : Pathogenesis of NIDDM. A
+balanced overview. Diabetes Care 15:318-368, 1992
+[3] DeFronzo RA and Ferrannini E.: Insulin resistance. A multifaceted syndrome
+responsible for NIDDM, obesity, hypertension, dyslipidemia, and atherosclerotic
+cardiovascular disease. Diabetes Care 14:173-194, 1991
+[64] DeFronzo RA, Lilly lecture. The triumvirate: β-cell, muscle, liver: A collusion
+responsible for NIDDM. Diabetes 37:667-687, 1988
+[30] DeFronzo RA, Tobin JD, Andres R. : Glucose clamp technique: a method for
+quantifying insulin secretion and resistance. Am. J. Physiol. 237:E214-23, 1979
+[7] Diabetes Study Group: Association of glycaemia with macrovascular and
+microvascular complications of type 2 diabetes (UKPDS 35): prospective observational
+study BMJ 321:405–12, 2000
+[104] Ek J, Andersen G, Urhammer SA, Hansen L, Carstensen B, Borch-Johnsen K,
+Drivsholm T, Berglund L, Hansen T, Lithell H, Pedersen O: Studies of the Pro 12 Ala
+polymorphism of the peroxisome proliferator-activated receptor-gamma2 (PPARgamma2) gene in relation to insulin sensitivity among glucose tolerant caucasians.
+Diabetologia 44(9): 1170- 1176, 2001
+[92] Enoksson S, Degerman E, Hagstrom Toft E, Large V, Arner P. : Various
+phosphodiesterase subtypes mediate the in vivo antilipolytic effect of insulin on adipose
+tissue and skeletal muscle in man. Diabetologia 41:560-568, 1998
+[12] Eriksson J, Franssila Kallunki A, Ekstrand A, Saloranta C, Widen E, Schalin C,
+Groop L.: Early metabolic defects in persons at increased risk for non-insulindependent diabetes mellitus. N. Engl. J. Med. 321:337-343, 1989
+[98] Fajas L, Fruchart JC, Auwerx J : PPARgamma 3 mRNA: a distinct PPARgamma
+mRNA subtype transcribed from an independent promoter
+[71] Falholt K, Jensen I, Lindkaer Jensen S, Mortensen H, Volund A, Heding LG,
+Noerskov Petersen P, Falholt W. : Carbohydrate and lipid metabolism of skeletal
+muscle in type 2 diabetic patients. Diabet. Med. 5:27-31, 1988
+[72] Falholt K, Hjelms E, Jensen I, Voelund A, Heding LG, Falholt W. : Intracellular
+metabolism in biopsies from the aorta in patients undergoing coronary bypass surgery.
+Diabete. Metab. 13:312-317, 1987
+[80] Ferrannini E and Mari A. How to measure insulin sensitivity. J. Hypertens. 16:895906, 1998
+
+Literaturverzeichnis
+
+Seite 83
+
+[46] Ferrannini E, Camastra S, Coppack SW, Fliser D, Golay A, Mitrakou A. : Insulin
+action and non-esterified fatty acids. The European Group for the Study of Insulin
+Resistance (EGIR). Proc. Nutr. Soc. 56:753-761, 1997
+[19] Ferrari P, Weidmann P, Shaw S, Giachino D, Riesen W, Allemann Y, Heynen G. :
+Altered insulin sensitivity, hyperinsulinemia, and dyslipidemia in individuals with a
+hypertensive parent. Am. J. Med. 91:589-596, 1991
+[101] Frederiksen L, Brodbaek K, Fenger M, Jorgensen T, Borch-Johnsen K, Madsbad
+S, Urhammer S : Studies of the Pro12Ala Polymorphism of the PPAR-y gene in the
+Danish MONICA cohort: Homozygosity of the Ala Allele confers a decreased risk of the
+insulin resistance syndrome. The Journal of Clinical Endocrinology& Metabolism 87 (8):
+3989-3992, 2002
+[104] Goodpaster BH, Kelley DE. Role of muscle in triglyceride metabolism. Curr Opin
+Lipidol. Review Jun;9(3):231-236, 1998
+[74] Goodpaster BH, Thaete FL, Simoneau JA, Kelley DE. : Subcutaneous abdominal
+fat and thigh muscle composition predict insulin sensitivity independently of visceral fat.
+Diabetes 46:1579-1585, 1997
+[21] Groop LC, Widen E, Ferrannini E. : Insulin resistance and insulin deficiency in the
+pathogenesis of type 2 (non-insulin-dependent) diabetes mellitus: errors of metabolism
+or of methods? Diabetologia 36:1326-1331, 1993
+[50] Groop LC, Saloranta C, Shank M, Bonadonna RC, Ferrannini E, DeFronzo RA. :
+The role of free fatty acid metabolism in the pathogenesis of insulin resistance in
+obesity and noninsulin-dependent diabetes mellitus. J. Clin. Endocrinol. Metab. 72:96107, 1991
+[22] Häring HU: Pathogenesis of type II diabetes: are there common causes for insulin
+resistance and secretion failure? Exp Clin Endocrinol Diabetes 107:S17-S23, 1999
+[9] Haffner SM, Lehto S, Ronnemaa T, Pyorala K, Laakso M. : Mortality from coronary
+heart disease in subjects with type 2 diabetes and in nondiabetic subjects with and
+without prior myocardial infarction. N. Engl. J. Med. 339:229-234, 1998
+[42] Haffner SM, Karhapaa P, Mykkanen L, Laakso M. : Insulin resistance, body fat
+distribution, and sex hormones in men. Diabetes 43:212-219, 1994
+[43] Haffner SM, Stern MP, Mitchell BD, Hazuda HP, Patterson JK. : Incidence of type
+II diabetes in Mexican Americans predicted by fasting insulin and glucose levels,
+obesity, and body-fat distribution. Diabetes 39:283-288, 1990
+[13] Haffner SM, Stern MP, Hazuda HP, Mitchell BD, Patterson JK. : Cardiovascular
+risk factors in confirmed prediabetic individuals. Does the clock for coronary heart
+disease start ticking before the onset of clinical diabetes? JAMA 263:2893-2898, 1990
+[83] Hagstrom Toft E, Enoksson S, Moberg E, Bolinder J, Arner P. : Absolute
+concentrations of glycerol and lactate in human skeletal muscle, adipose tissue, and
+blood. Am. J. Physiol. 273:E584-92, 1997
+
+Literaturverzeichnis
+
+Seite 84
+
+[85] Hagstrom Toft E, Bolinder J, Ungerstedt U, Arner P. : A circadian rhythm in lipid
+mobilization which is altered in IDDM. Diabetologia 40:1070-1078, 1997
+[10] Hanefeld M, Fischer S, Julius U, Schulze J, Schwanebeck U, Schmechel H,
+Ziegelasch HJ, Lindner J. : Risk factors for myocardial infarction and death in newly
+detected NIDDM: the Diabetes Intervention Study, 11-year follow-up. Diabetologia
+39:1577-1583, 1996
+[1] Harris MI, Flegal KM, Cowie CC, Eberhardt MS, Goldstein DE, Little RR,
+Wiedmeyer HM, Byrd Holt DD.: Prevalence of diabetes, impaired fasting glucose, and
+impaired glucose tolerance in U.S. adults. The Third National Health and Nutrition
+Examination Survey, 1988-1994. Diabetes Care 21:518-524, 1998
+[102] Hasstedt S, Ren Q-F, Teng K, Elbein S: Effect of the peroxisome proliferatoractivated receptor-y2 Pro 12 Ala variant on obesity, glucose homeostasis, and blood
+pressure in members of familial type 2 diabetic kindreds. The Journal of Clinical
+Endocrinology& Metabolism 86 (2): 536-541, 2001
+[86] Hickner RC, Fisher JS, Kohrt WM. : Regional differences in interstitial glycerol
+concentration in subcutaneous adipose tissue of women. Am. J. Physiol. 273:E1033-8,
+1997
+[89] Hickner RC, Bone D, Ungerstedt U, Jorfeldt L, Henriksson J. : Muscle blood flow
+during intermittent exercise: comparison of the microdialysis ethanol technique and
+133Xe clearance. Clin. Sci. Colch. 86:15-25, 1994
+[90] Hickner RC, Rosdahl H, Borg I, Ungerstedt U, Jorfeldt L, Henriksson J. : The
+ethanol technique of monitoring local blood flow changes in rat skeletal muscle:
+implications for microdialysis. Acta Physiol. Scand. 146:87-97, 1992
+[91] Hickner RC, Rosdahl H, Borg I, Ungerstedt U, Jorfeldt L, Henriksson J. : Ethanol
+may be used with the microdialysis technique to monitor blood flow changes in skeletal
+muscle: dialysate glucose concentration is blood-flow-dependent. Acta Physiol. Scand.
+143:355-356, 1991
+[6] Bo Isomaa, MD, Peter Almgren, MSC, Tiinamaija Tuomi, MD, Bjo¨ Rnforse´N, MD,
+Kaj Lahti, MD, Michael Nisse ´N, MD, Marja-Riitta Taskinen, MD, Leif Groop, MD:
+Cardiovascular Morbidity and Mortality Associated With the Metabolic Syndrome
+Diabetes Care 24:683–689, 2001
+[15] Jacob S, Klimm HD, Saschin C, Krieger B. : Incidence of insulin resistance in
+peripheral arterial occlusive disease patients. Pilot study in a general medicine
+practice. Fortschr. Med. 113:293-296, 1995
+[29] Jacob S, Augustin H-J, Dietze G-J : Quantifying insulin resistance: with special
+reference to the euglycaemic, hyperinsulinaemic glucose clamp technique. diabetes
+NEWS, volume 16, 4/1995
+[107] Jacob S, Stumvoll M, Becker R, Koch M, Nielsen M, Löblein K, Maerker E, Volk
+A, Renn W, Balletshofer B, Machicao F, Rett K, Häring HU: The PPARy2
+polymorphism Pro 12 Ala is associated with better insulin sensitivity in the offspring of
+type 2 diabetic patients. Horm Metab Res 32: 413-416 , 2000
+
+Literaturverzeichnis
+
+Seite 85
+
+[87] Jansson PA, Veneman T, Nurjhan N, Gerich J. : An improved method to calculate
+adipose tissue interstitial substrate recovery for microdialysis studies. Life Sci. 54:16211624, 1994
+[57] Jucker BM, Rennings AJ, Cline GW, Shulman GI. : 13C and 31P NMR studies on
+the effects of increased plasma free fatty acids on intramuscular glucose metabolism in
+the awake rat. J. Biol. Chem. 272:10464-10473, 1997
+[58] Kim JK, Wi JK, Youn JH. : Plasma free fatty acids decrease insulin-stimulated
+skeletal muscle glucose uptake by suppressing glycolysis in conscious rats. Diabetes
+45:446-453, 1996
+[11] Klimm HD, Jacob S, Schlageter S, Schmidt-Köppler D, Weber M, Scherer S, Volk
+A, Rett K, Renn W, Keller H, Weismann G, Augustin HJ, März W, Häring HU. :
+Impairment of glucose tolerance in survivors of myocardial infarction (MI) and in their
+first degree relatives (FDR). (Abstr.) Diabetologia 41:A193 1998
+[41] Kolterman OG, Insel J, Saekow M, Olefsky JM. Mechanisms of insulin resisance in
+human obesity: Evidence for receptor and postreceptor defects. J Clin Invest 65:12721284, 1980
+[17] Kooner JS, Baliga RR, Wilding J, Crook D, Packard CJ, Banks LM, Peart S,
+Aitman TJ, Scott J. Abdominal obesity, impaired nonesterified fatty acid suppression,
+and insulin-mediated glucose disposal are early metabolic abnormalities in families with
+premature myocardial infarction. Arterioscler. Thromb. Vasc. Biol. 18:1021-1026, 1998
+[103] Li S, Chen W, Srinivasan S, Boerwinkle E, Berenson G: The peroxisome
+proliferator-activated receptor-y2 gene polymorphism (Pro 12 Ala ) beneficially
+influences insulin resistance and its tracking from childhood to adulthood. Diabetes 52:
+1265-1269, 2003
+[34] Lönnroth P: Microdialysis in adipose tissue and skeletal muscle. Horm. Metab.
+Res. 29:344-346, 1997
+[35] Lönnroth P, Smith U. Microdialysis--a novel technique for clinical investigations. J
+Intern Med, Review May 227(5):295-300,1990
+[36] Lönnroth P, Jansson P-A, Smith U. A microdialysis method allowing
+characterization of intercellular water space in humans. Am J Physiol 253:E228-E231,
+1987
+[93] Maggs DG, Jacob R, Rife F, Lange R, Leone P, During MJ, Tamborlane WV,
+Sherwin RS. : Interstitial fluid concentrations of glycerol, glucose, and amino acids in
+human quadricep muscle and adipose tissue. Evidence for significant lipolysis in
+skeletal muscle. J. Clin. Invest. 96:370-377, 1995
+[28] Martin BS, Warram JH, Krolewski AS, et al.. Role of glucose and insulin resistance
+in development of type 2 diabetes mellitus: Results of a 25-year follow-up study. Lancet
+340:925-929, 1992
+[69] Mayer Davis EJ, Monaco JH, Hoen HM, Carmichael S, Vitolins MZ, Rewers MJ,
+Haffner SM, Ayad MF, Bergman RN, Karter AJ. : Dietary fat and insulin sensitivity in a
+
+Literaturverzeichnis
+
+Seite 86
+
+triethnic population: the role of obesity. The Insulin Resistance Atherosclerosis Study
+(IRAS). Am. J. Clin. Nutr. 65:79-87, 1997
+[97] Meirhaeghe A, Fajas L, Helbecque N, Cottel D, Auwerx J, Deeb SS, Amouyel P :
+Impact of the peroxisome proliferator activated receptor gamma2 Pro 12 Ala
+polymorphism on adiposity, lipids and non-insulin-dependent diabetes mellitus.
+International Journal of Obesity 24, 195-199, 2000
+[95] Moberg E, Arner P, Hagstrom Toft E, Bolinder J. : Different metabolic response of
+adipose tissue and skeletal muscle to insulin in vivo. (Abstr.) Diabetologia 42; 1999
+[65] Oakes ND, Cooney GJ, Camilleri S, Chisholm DJ, Kraegen EW. : Mechanisms of
+liver and muscle insulin resistance induced by chronic high-fat feeding. Diabetes
+46:1768-1774, 1997
+[70] O'Dea K: Marked improvement in carbohydrate and lipid metabolism in diabetic
+Australian aborigines after temporary reversion to traditional lifestyle. Diabetes 33:596603, 1984
+[75] Pan DA, Lillioja S, Kriketos AD, Milner MR, Baur LA, Bogardus C, Jenkins AB,
+Storlien LH. : Skeletal muscle triglyceride levels are inversely related to insulin action.
+Diabetes 46:983-988, 1997
+[51] Paolisso G and Howard BV. : Role of non-esterified fatty acids in the
+pathogenesis of type 2 diabetes mellitus. Diabet. Med. 15:360-366, 1998
+[49] Paolisso G, Tataranni PA, Foley JE, Bogardus C, Howard BV, Ravussin E. : A high
+concentration of fasting plasma non-esterified fatty acids is a risk factor for the
+development of NIDDM. Diabetologia 38:1213-1217, 1995
+[73] Paternostro G, Camici PG, Lammerstma AA, Marinho N, Baliga RR, Kooner JS,
+Radda GK, Ferrannini E. : Cardiac and skeletal muscle insulin resistance in patients
+with coronary heart disease. A study with positron emission tomography. J. Clin. Invest.
+98:2094-2099, 1996
+[47] Perseghin G, Ghosh S, Gerow K, Shulman GI. : Metabolic defects in lean
+nondiabetic offspring of NIDDM parents: a cross-sectional study. Diabetes 46:10011009, 1997
+[76] Phillips DI, Caddy S, Ilic V, Fielding BA, Frayn KN, Borthwick AC, Taylor R. :
+Intramuscular triglyceride and muscle insulin sensitivity: evidence for a relationship in
+nondiabetic subjects. Metabolism 45:947-950, 1996
+[27] Pimenta W, Korytkowski M, Mitrakou A, Jenssen T, Yki Jarvinen H, Evron W,
+Dailey G, Gerich J. : Pancreatic beta-cell dysfunction as the primary genetic lesion in
+NIDDM. Evidence from studies in normal glucose-tolerant individuals with a first-degree
+NIDDM relative. JAMA 273:1855-1861, 1995
+[4] Pyörälä K, Laakso M, Uusitupa M: Diabetes and arteriosclerosis: An epidemiologic
+view. Diab Metabol Rev 3:463-524, 1987
+
+Literaturverzeichnis
+
+Seite 87
+
+[14] Pyorala M, Miettinen H, Laakso M, Pyorala K. : Hyperinsulinemia predicts coronary
+heart disease risk in healthy middle-aged men: the 22-year follow-up results of the
+Helsinki Policemen Study. Circulation 98:398-404, 1998
+[62] Randle PJ, Priestman DA, Mistry SC, Halsall A. : Glucose fatty acid interactions
+and the regulation of glucose disposal. J. Cell Biochem. 55 Suppl:1-11, 1994
+[54] Randle PJ, Garland PB, Hales CN, Newsholme EA. : The glucose-fatty acid cycle;
+its role in insulin sensitivity and the metabolic disturbances of diabetes mellitus. Lancet
+1:784-789, 1963
+[16] Reaven GM, Lithell H, Landsberg L. Pathophysiology of insulin resistance in
+human disease. Physiol Rev 75:473-486, 1995
+[39] Reaven GM, Hollenbeck CB, Chen Y-DI. Relationship between glucose tolerance,
+insulin secretion, and insulin action in non-obese individuals with varying degrees of
+glucose tolerance. Diabetologia 32:52-55, 1989
+[79] Rizza RA, Mandarino LJ, Gerich JE : Dose-response characteristics for effects of
+insulin on production and utilization of glucose in man. Am J Physiol. 240(6):E630-9,
+1981
+[55] Roden M, Krssak M, Stingl H, Gruber S, Hofer A, Furnsinn C, Moser E, Waldhausl
+W. : Rapid impairment of skeletal muscle glucose transport/phosphorylation by free
+fatty acids in humans. Diabetes 48:358-364, 1999
+[59] Roden M, Price TB, Perseghin G, Petersen KF, Rothman DL, Cline GW, Shulman
+GI. : Mechanism of free fatty acid-induced insulin resistance in humans. J. Clin. Invest.
+97:2859-2865, 1996
+[84] Rosdahl H, Hamrin K, Ungerstedt U, Henriksson J. : Metabolite levels in human
+skeletal muscle and adipose tissue studied with microdialysis at low perfusion flow.
+Am. J. Physiol. 274:E936-45, 1998
+[88] Rosdahl H, Lind L, Millgard J, Lithell H, Ungerstedt U, Henriksson J. : Effect of
+physiological hyperinsulinemia on blood flow and interstitial glucose concentration in
+human skeletal muscle and adipose tissue studied by microdialysis. Diabetes 47:12961301, 1998
+[106] Rosmond R, Chagnon M, Bouchard C: The Pro 12 Ala PPARy2 gene missence
+mutation is associated with obesity and insulin resistance in swedish middle-aged men.
+Diabetes/Metabolism Research and Reviews 19: 159-163 , 2003
+[44] Ruderman N, Chisholm D, Pi-Sunyer X, Schneider S. : The metabolically obese,
+normal-weight individual revisited. Diabetes 47(5):699-713, 1998
+[48] Saloranta C and Groop L. : Interactions between glucose and FFA metabolism in
+man. Diabetes Metab. Rev. 12:15-36, 1996
+[66] Schmitz Peiffer C, Browne CL, Oakes ND, Watkinson A, Chisholm DJ, Kraegen
+EW, Biden TJ. : Alterations in the expression and cellular localization of protein kinase
+C isozymes epsilon and theta are associated with insulin resistance in skeletal muscle
+of the high-fat-fed rat. Diabetes 46:169-178, 1997
+
+Literaturverzeichnis
+
+Seite 88
+
+[2] Sowers JR.: Insulin resistance, hyperinsulinemia, dyslipidemia, hypertension and
+accelerated arteriosclerosis. J Clin Pharmacol 32:529-535, 1992
+[94] Spiegelmann BM: PPAR-gamma adipogenic regulator and thiazolidinedione
+receptor. Diabetes 46: 507-514, 1998
+[68] Storlien LH, Kriketos AD, Jenkins AB, Baur LA, Pan DA, Tapsell LC, Calvert GD. :
+Does dietary fat influence insulin action? Ann. N. Y. Acad. Sci. 827:287-301, 1997
+[67] Storlien LH, Baur LA, Kriketos AD, Pan DA, Cooney GJ, Jenkins AB, Calvert GD,
+Campbell LV. : Dietary fats and insulin action. Diabetologia 39:621-631, 1996
+[31] Stumvoll M and Jacob S. Multiple sites of insulin resistance: muscle, liver and
+adipose tissue. Exp. Clin. Endocrinol. Diab. 107:107-110, 1999
+[81] Thomas AE, McKay DA, Cutlip MB. A nomograph method for assessing body
+weight. Am J Clin Nutr 29:302-304, 1976
+[8] Tight blood pressure control and risk of macrovascular and microvascular
+complications in type 2 diabetes: UKPDS 38. UK Prospective Diabetes Study Group.
+BMJ. 317:703-713, 1998
+[33] Ungerstedt U, Pycock C. Functional correlates of dopamine neurotransmission.
+Bull Schweiz Akad Med Wiss 1278:44-55, 1974
+[26] Volk A, Renn W, Overkamp D, Mehnert B, Maerker E, Jacob S, Balletshofer B,
+Häring HU, Rett K. : Insulin action and secretion in healthy, glucose tolerant first
+degree relatives of patients with type 2 diabetes mellitus. Influence of body weight.
+Exp. Clin. Endocrinol. Diab. 107:140-147, 1999
+[78] Vuorinen-Markkola H, Koivisto VA, Yki-Järvinen H. Mechanism of hyperglycemiainduced insulin resistance in whole body and skeletal muscle of type 1 diabetic
+patients. Diabetes 41:571-580, 1992
+[96] Way JM, Harrington WW, Brown KK, Gottschalk WK, Sundseth SS, Mansfield TA,
+Ramachandran RK, Willson TM, Kliewer SA : Comprehensive messenger ribonucleic
+acid profiling reveals that peroxisome proliferator-activated receptor gamma activation
+has coordinate effects on gene expression in multiple insulin-sensitive tissues.
+Endocrinology 142: 1269-1277, 2001
+[20] Weir GC: Which comes first in non-insulin-dependent diabetes mellitus: insulin
+resistance or beta-cell failure? Both come first. JAMA 273:1878-1879, 1995
+[77] Wendling PS, Peters SJ, Heigenhauser GJ, Spriet LL. : Variability of triacylglycerol
+content in human skeletal muscle biopsy samples. J. Appl. Physiol. 81:1150-1155,
+1996
+[38] Wennlund A, Wahrenberg H, Hagstrom Toft E, Bolinder J, Arner P. : Lipolytic and
+cardiac responses to various forms of stress in humans. Int. J. Sports Med. 15:408413, 1994
+
+Literaturverzeichnis
+
+Seite 89
+
+[82] World Health Organization. Measuring obesity-classification and description of
+anthropometric data. Report on a WHO consultation on the epidemiology of obesity.
+WHO, Warsaw:2-7,1987
+[100] Yen C-J, Beamer B, Negri C, Silver K, Brown K, Yarnall D, Burns D, Roth J,
+Shuldiner A : Molecular scanning of thr human peroxisome proliferator activated
+receptory gene in diabetic Caucasians: Identification of a Pro 12 Ala PPARy2
+missense mutation. Biochemical and Biophysical Research Communications 241: 270274, 1997

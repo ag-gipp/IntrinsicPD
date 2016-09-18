@@ -1,0 +1,1577 @@
+Aus dem Leibniz-Institut für Arterioskleroseforschung an der
+Westfälischen Wilhelms-Universität Münster
+Geschäftsführender Direktor: Univ.-Prof. Dr. G. Assmann
+Abteilung für Zellbiologie und Ultrastrukturforschung
+Leiter: Univ.-Prof. Dr. H. Robenek
+
+TOPOGRAPHIE VON CAVEOLAE UND CAVEOLIN-1, -2
+UND -3 IM HERZ- UND SKELETTMUSKEL VON RATTEN
+
+INAUGURAL-DISSERTATION
+zur
+Erlangung des doctor medicinae dentium
+der Medizinischen Fakultät der
+Westfälischen Wilhelms-Universität Münster
+
+Vorgelegt von
+Weichel, Peter
+aus
+
+-Münster2007
+
+1
+
+1. Einleitung
+
+1.1. Der Aufbau der Arterienwand
+Arterielle Gefäße werden nach ihrer Wandstruktur und nach ihrer Größe
+in drei Typen unterteilt. Bei den herznahen Gefäßen handelt es sich um
+Arterien vom elastischen Typ. Diese sind sehr dehnbare Gefäße, wie
+z.B. die Aorta und ihre großen Äste. Durch ihre hohe Elastizität vermögen sie den ruckartigen Blutausstoß des Herzens in eine ziemlich
+gleichmäßige, kontinuierliche Strömung zu überführen. Man spricht
+hierbei von der sog. Windkesselfunktion der Gefäße. Sie leiten das Blut
+in die Körperperipherie hin in Arterien vom muskulösen Typ. Dieser
+Arterientyp ist durch eine dicke Arterienwand gekennzeichnet. Ihre
+Aufgabe ist es, das Blut den anliegenden Geweben zuzuführen. Bei
+der dritten Form der Gefäße handelt es sich um die Arteriolen.
+Es handelt sich hierbei um präkapilläre Arterien, deren Lumina zur
+Regulation des Blutstroms in den Kapillaren verjüngt oder erweitert
+werden kann.
+Grundsätzlich besteht die Arterienwand aller oben genannten Typen
+aus drei morphologisch unterschiedlichen Schichten: der Tunica intima,
+der Tunica media und der Tunica adventitia, kurz: Intima, Media und
+Adventitia. Je nach Arterientyp ist der dreischichtige Wandaufbau unterschiedlich stark ausgeprägt.
+Die Intima ist eine einschichtige Endothelzellschicht, die das Gefäß zum
+Lumen hin lückenlos auskleidet (Abb. 1). Die rhomboiden Zellen sind in
+Richtung des Gefäßverlaufes angeordnet. Spärliches subendotheliales
+Bindegewebe, mit gelegentlich eingelagerten glatten Muskelzellen, ist
+ebenfalls in dieser Richtung angelegt. Dieses ermöglicht in geringem
+Umfang eine Mobilität des Endothelrohres. Bei Neugeborenen und Kindern ist die Intima eine dünne Zellschicht, die mit zunehmendem Alter
+durch einwandernde glatte Muskelzellen an Stärke zunehmen kann
+(ROSS und GLOMSET 1973).
+Im Rahmen des Stoff-, Flüssigkeits- und Gasaustausches agiert die
+Intima als Permeabilitätsbarriere, die den Substanzaustausch an der
+Arterienwand steuert. Des Weiteren agiert die Intima als Oberfläche, die
+
+2
+
+antithrombogenisch wirkt. Bei den oben genannten Funktionen der
+Intima spielen kleine Einstülpungen in der Plasmamembran der Endothelzellen, sogenannte Caveolae eine wichtige Rolle. Die Nichtexistenz
+der Strukturproteine der Caveolae, das Caveolin-1, -2 und -3 hat erhebliche Auswirkungen auf viele Pathologien des Menschen. Zu diesen
+Erkrankungen gehören besonders kardiovaskuläre, wie z.B. die Atherosklerose.
+Außerdem agiert die Intima als Quelle für vasokonstriktorische und vasodilatatorische Moleküle wie Prostazyklin und Endothelin; ist Syntheseort für Wachstumsfaktoren und Zytokine und ein Ort, an dem Lipoproteine modifiziert werden können. Ferner ist sie die Quelle für Matrixmoleküle (ROSS 1993 a, b).
+
+Abbildung 1: Prinzipieller Aufbau der Gefäßwand, dargestellt am Beispiel einer elastischen Arterie. Die Arterienwand besteht aus drei Schichten: der Intima, bei der es sich
+um die innere Schicht handelt, der benachbarten Media und der außen befindlichen
+Adventitia. Die Media wird durch die Lamina elastica interna von der Intima und durch
+die Lamina elastica externa von der Adventitia abgegrenzt. (Verändert nach AKKERMANN et al. 1987)
+
+3
+
+Die Intima wird von der Media durch eine elastische, gefensterte Membran, der Lamina elastica interna, abgegrenzt.
+Die Media besteht aus überwiegend ringförmig angeordneten Lagen
+von glatten Muskelzellen (SMC), die von geringen Mengen an Kollagenfasern (Typ I und III), elastischen Fasern und Grundsubstanz (Proteoglykane) umgeben sind.
+Hauptaufgabe der Media ist es, die Blutbewegung in der Arterie zu regulieren.
+Als Grenze zur Adventitia kann eine Lamina elastica externa ausgebildet sein.
+Über die Adventitia ist das Gefäß in dem umgebenden Gewebe eingebettet. Sie besteht im Wesentlichen aus extrazellulärer Matrix. In der
+Adventitia verlaufen kleine Blut- und Lymphgefäße und einzelne Nervenzellen. Dieses stellt die Versorgung der Gefäße von außen sicher
+(ROSS und GLOMSET 1976, ROBENEK und SEVERS 1992).
+
+1.2.
+
+Die Atherosklerose
+
+1.2.1. Definition
+Der Begriff der Atherosklerose wurde erstmalig 1904 von Marchand
+(Leipzig) verwandt. Die Bestandteile des Begriffs „Atherosklerose“
+stammen aus dem Griechischen (athära = Grütze, skleros = hart).
+Der Begriff der Arteriosklerose wird häufig als Synonym verwendet für
+die Atherosklerose, umfasst jedoch auch Arterienverhärtungen anderer
+Genese (z.B. kalzifizierende Mediasklerose, proliferative und hyaline
+Verhärtung der Wände kleiner Arterien und Ateriolen). Die Arteriosklerose stellt somit den Oberbegriff für Arterienerkrankungen dar. Die
+Atherosklerose ist allerdings die häufigste Form der Arteriosklerose.
+Bei der Atherosklerose handelt es sich laut Definition der World Health
+Organisation um eine variable Kombination von morphologischen Veränderungen der Arterienintima, die mit einer herdförmigen Anhäufung
+von Lipiden, komplexen Kohlenhydraten, Blut und Blutbestandteilen
+und ferner mit der Bildung eines fibrösen Gewebes und mit Kalkab-
+
+4
+
+lagerungen einhergeht sowie mit Veränderungen der Media verbunden
+sein kann.
+In den Industrienationen wie den USA, Europa und Japan ist die Atherosklerose mit steigender Tendenz die Haupttodesursache. Über 50%
+der Todesfälle in diesen Nationen erfolgen aufgrund einer HerzKreislauf-Erkrankung, wie z.B. dem Herzinfarkt oder Schlaganfall, die
+durch die Atherosklerose bedingt sind.
+Bei der Atherosklerose handelt es sich um einen jahrelangen bis jahrzehntelangen chronischen Prozess multifaktorieller Ursache. Erste klinische Manifestationen treten meist erst, obwohl die Erkrankung schon
+im Kindesalter oder frühen Erwachsenenalter seinen Verlauf nehmen
+kann, in der dritten bis vierten Lebensdekade auf. Eine der Hauptursachen ist der Lebenswandel vieler Menschen in den Industrienationen.
+Zu den Hauptrisikofaktoren, die eine Atherosklerose begünstigen, zählen der Bluthochdruck, Hypercholesterolämie, Diabetes mellitus, Gicht,
+Nikotinabusus, Bewegungsmangel und negativer Stress (WAHRBURG
+1989). Als weitere hauptsächliche Faktoren, die das Risiko einer atherosklerosen Gefäßwanderkrankung deutlich erhöhen, gelten heute auch
+das männliche Geschlecht, das fortgeschrittene Alter sowie genetische
+und konstitutionelle Faktoren.
+Allerdings spielen bisher untergeordnete Risikofaktoren, wie z.B. die
+Parodontitis, eine nicht zu unterschätzende Rolle bei der Ätiologie von
+koronaren Gefäßerkrankungen. Mikroorganismen, die mit der Parodontitis assoziiert sind, konnten in untersuchten Gefäßwandpräparaten
+nachgewiesen werden (MASTRAGELOPULOS et al. 2004). Das Risiko,
+an Atherosklerose zu erkranken, verdoppelt sich durch die Parodontitis.
+Die Atherosklerose kann sowohl in den großen Gefäßen, wie z.B. der
+Aorta, als auch in kleineren Gefäßen mit einem äußeren Durchmesser
+von 3 mm beobachtet werden. Für die Entstehung der Atherosklerose
+sind besonders die Aorta, Karotiden, Herzkranzgefäße, Hirnarterien und
+mittelgroße Arterien der Extremitäten prädisponiert (MUNRO und
+COTRAN 1988). Andere Gefäße, wie z.B. die Arteria thoracica interna,
+erkranken dagegen nur selten. Weiterhin sind häufig Gefäßabgänge
+und konvexe Gefäßinnenwände, wo die Strömungsrichtung des Blutes
+
+5
+
+wechselt und es zu Verzweigungen kommt, von der Atherosklerose
+betroffen ( ROSS 1995 ).
+
+“zelluläre Schicht”
+mit glatten Muskelzellen,
+extrazelluläre Matrix und
+Makrophagen
+
+“dichte fibrilläre Schicht”
+aus Bindegewebe
+
+“Fettkern”
+und nekrotische
+Gewebetrümmer
+
+Abbildung 2: Schema einer atherosklerotischen Plaque. (ROBENEK und SEVERS
+1992)
+
+1.2.2. Entstehung
+Die Veränderungen an den Arterien während der Atherosklerose können individuell sehr unterschiedlich ausgeprägt sein, weshalb es
+schwierig ist, die Ursachen und Pathogenese genau zu klären.
+Im Bezug auf die Aufklärung der Mechanismen, die zur Initiierung der
+Atherosklerose führen, haben sich in den letzten Jahrzehnten breit gefächerter Arterioskleroseforschung zwei zentrale Hypothesen herauskristallisiert.
+Die „Response to injury hypothesis“ und die „Lipoprotein–induced
+atherosclerosis hypothesis“.
+Die von ROSS und GLOMSET (1973) formulierte „Responce to injury“
+Hypothese sieht in der Verletzung der an das Blut angrenzenden obersten Arterienwandschicht, der Intima, die Initiierung des komplexen atherosklerotischen Geschehens. Die Intima besteht aus einer einzelligen
+
+6
+
+Lage von Endothelzellen. ROSS und GLOMSET führen mehrere Ursachen für die Schädigung der Endothelzellschicht auf.
+Neben morphologischen Schädigungen durch Trauma, mechanische
+Verletzungen, biochemische Schädigungen durch bakterielle Toxine
+zählen auch der Angriff durch Viren oder Antigen – Antikörper – Reaktionen sowie biophysikalische Verletzungen auf molekularer Ebene zu
+den möglichen Ursachen (MUNRO und COTRAN 1988, LIBBY 2006).
+Als Folge der Verletzung werden zwei für die Entstehung dieser Erkrankung typische Phänomene beobachtet. Zum einen die durch
+Wachstumsfaktoren bzw. Zytokine ausgelöste Proliferation und Migration von glatten Muskelzellen aus der mehrschichtigen Media in die Intima und zum anderen die durch Lipideinlagerung verursachte Bildung
+von Schaumzellen in Intima und Media. STEINBERG et al. (1989) bezeichneten diese Lipidinfiltration als einen bedeutenden Faktor im atherosklerotischen Geschehen. Diese beiden Erscheinungen führen über
+einen längeren Zeitraum zur Bildung herdförmiger Gewebsveränderungen, der sogenannten Plaques, die charakteristisch für das mikroskopische Bild der Atherosklerose sind.
+BROWN und GOLDSTEIN (1983) berichteten als erste von der Aufnahme chemisch modifizierter LDL durch Makrophagen und der darauf
+folgenden Umwandlung zu Schaumzellen. Die chemische Modifizierung
+bestand in einer Acetylierung des Proteinanteils. In Anbetracht der
+wichtigen Rolle der LDL und seiner modifizierten (oxidierten) Formen
+für die Entstehung der Atherosklerose kristallisierte sich eine neue
+Hypothese heraus, die „Lipoprotein–induced atherosclerosis“, welche
+die Verletzung von Endothelzellen nur als einen Teilschritt der Abfolge
+von komplexen Vorgängen sieht. In der oxidativen Modifizierung von
+LDL wird die eigentliche Ursache für die Initiierung des atherosklerotischen Geschehens gesehen. Lipide werden mit der Nahrung aufgenommen und gelangen in die Blutbahn. Im wässerigen Milieu des Blutes werden hydrophobe Lipide durch Lipoproteine transportiert. Der
+Proteinanteil dieser Lipoproteine hat die Aufgabe, die transportierten
+Lipide an ihren metabolischen Bestimmungsort zu dirigieren. Je nach
+
+7
+
+Protein– und Lipidanteil variieren die Lipoproteine in ihrer Dichte, nach
+der fünf Klassen definiert werden (BROWN und GOLDSTEIN 1983).
+Insbesondere die Klasse der LDL spielt bei der Progression der Atherosklerose eine wichtige Rolle. Diese LDL–Partikel zirkulieren mehrere
+Tage im Blut und lagern sich zum Teil in den Gefäßwänden ab, wenn
+alle Zellen ausreichend mit Lipiden versorgt sind. In der Gefäßwand
+verringert sich der Schutz der LDL vor chemischer Modifikation und sie
+werden oxidiert. Das sogenannte modifizierte LDL kann daraufhin von
+Makrophagen aufgenommen werden, die so zu Schaumzellen transformieren (BROWN und GOLDSTEIN 1990, GLASS und WITZTUM
+2001).
+Die oben beschriebene Migration der SMC von der Media in die Intima
+spielt bei der Progression der Atherosklerose eine entscheidende Rolle.
+Im Zuge der Pathogenese können auch sie modifizertes LDL aufnehmen und zu lipidbeladenen Schaumzellen werden (Abb. 3).
+
+Abbildung 3: Elektronenmikroskopische Darstellung schaumzelliger SMC in einer humanen Koronarterie. Die Zellen sind mit Lipidtropfen angereichert.
+Vergrößerung: x 13.500.
+
+In der Beschreibung des weiteren Verlaufes sind beide Hypothesen
+identisch.
+
+8
+
+Die Bildung von Schaumzellen verursacht eine Entzündungsreaktion,
+welche im weiteren Verlauf auf tiefere Bereiche der Arterienwand – wie
+die Media mit ihren Muskelzellen – übergreifen kann. Folge ist ein allmählicher Gewebeumbau, wobei in der Arterie eine bindegewebeartige
+Kappe entsteht, die im Inneren einen Lipidkern aufweist, die sogenannte atherosklerotische Plaque. Der Lipidkern resultiert hierbei aus den
+massenhaft abgestorbenen Schaumzellen, die große Mengen der oxidierten LDL–Partikel aufgenommen haben. An aufgebrochenen atherosklerotischen Plaques finden dann weiter Blutgerinnungsreaktionen
+statt, die den Gefäßdurchmesser weiter reduzieren (LIBBY 2006).
+Durch diesen Gewebeumbau wird die so geschädigte Arterie auch außerordentlich brüchig. Anzumerken bleibt, dass die Bildung der atherosklerotischen Plaque bis zur vermehrten Bildung der Schaumzellen
+reversibel ist. Weitergehende Schädigungen können allerdings nicht
+mehr ausgeglichen werden.
+
+1.2.3. Die Entwicklungsstufen
+Man unterscheidet drei unterschiedliche Grundtypen der atherosklerotischen Läsionen:
+
+
+die frühe Läsion
+
+
+
+die fortgeschrittene Läsion
+
+
+
+die komplizierte Läsion
+
+1.2.3.1. Frühe Läsionen
+
+1.2.3.1.1. Erste Läsion
+Bereits im Kindesalter können schon erste Läsionen der Arterienwand
+auftreten. Sie sind gekennzeichnet durch Lipoproteine, die atherogen
+und chemotaktisch auf Makrophagen wirken. In diesem Stadium liegen
+die Makrophagen nach Lipidaufnahme als Schaumzellen verstreut in
+der Intima vor. Vorwiegend treten diese ersten Läsionen, sogenannte
+Initialläsionen an Stellen mit diffuser intimaler Verdickung auf. Diese
+
+9
+
+diffuse Verdickung ist schon von Geburt an bei fast allen Menschen zu
+beobachten. Sie wird als eine physiologische Reaktion auf Blutdruck
+und Scherkräfte der Arterienwand angesehen. Dadurch kommt es zu
+einer Ansammlung von glatten Muskelzellen und extrazellulärer Matrix
+in der Intima. Hierdurch wird das Gefäßlumen allerdings noch in keiner
+Weise eingeengt (MUNRO und COTRAN 1988).
+
+1.2.3.1.2. Fettstreifen
+Erste makroskopisch erkennbare Veränderungen der Arterienwand im
+Zuge der Atherogenese sind die Fettstreifen. Dies sind schmale, flache,
+gelblich gefärbte Gebilde, die in Gefäßrichtung orientiert sind.
+Charakteristisch für Fettstreifen sind subendotheliale Schaumzellaggregate, die hauptsächlich aus Makrophagen, aber auch aus einigen lipidbeladenen glatten Muskelzellen bestehen (ROSS 1993 a).
+Vereinzelt werden T–Lymphozyten in den Fettstreifen beobachtet. Auch
+Fettstreifen treten schon nach der Geburt auf. Im Alter von zehn Jahren
+bedecken sie bis zu 10% der Aortenoberfläche (CAMPBELL und
+CAMPBELL 1994). Da die Fettstreifen die Intima um weniger als 1 mm
+verdicken, wird der arterielle Blutstrom nicht eingeschränkt. Die Bedeutung der Fettstreifen im Verlauf der Atherogenese wird kontrovers diskutiert. Während einige Autoren im Tiermodell zeigen konnten, dass
+Fettstreifen immer auch zu fibrösen Plaques werden (FAGIOTTO und
+ROSS 1984), stellte STARY (1989) fest, dass sich einige Fettstreifen
+bei jungen Menschen nicht weiterentwickeln und damit kein eindeutiges
+Anzeichen für eine fortschreitende Atherosklerose seien. Das Stadium
+der Fettstreifenbildung ist noch mit entsprechender Diät vollkommen
+reversibel. Diese Rückbildungsfähigkeit ist allerdings nicht mehr gegeben, wenn es zu einer vermehrten Ablagerung von extrazellulären Matrix–Komponenten in der Plaque kommt, wie dies bei der intermediären
+Läsion der Fall ist.
+
+10
+
+1.2.3.1.3. Intermediäre Läsion
+Nach der Pubertät kann es zur Ausbildung der sogenannten intermediären Läsion, auch Lipidplaques genannt, kommen.
+Sie stellen eine Entwicklungsstufe zwischen den rückbildungsfähigen
+Fettstreifen und dem Atherom dar. Zum Grossteil bestehen sie aus sich
+verdichtenden, lipidbeladenen Makrophagen und glatten Muskelzellen.
+Diese werden umgeben von Kollagenfibrillen, elastischen Fasern und
+Proteoglykanen (ROSS 1995 a). Im Gegensatz zu den Fettstreifen enthalten sie diffus verteilte extrazelluläre Lipide (STARY et al. 1995). An
+den Rändern der intermediären Läsionen können Risse und Fissuren
+entstehen. Durch das Auftreten von Blutgerinnseln ist die intermediäre
+Läsion im Laufe der Atherosklerose die erste Form, bei der es zu klinischen Folgen, wie z.B. Herzinfarkt und Schlaganfall, kommen kann.
+
+1.2.3.2. Fortgeschrittene Läsionen
+
+1.2.3.2.1. Das Atherom
+Ab der dritten Lebensdekade entstehen in der Intima Atherome. Sie
+sind gekennzeichnet durch eine dichte Ansammlung von Lipiden, Lipidkern genannt, und einer sogenannten Atheromkappe. An der betreffenden Stelle wird die Intimastruktur aufgelöst. Der Lipidkern entsteht
+durch Zusammenfließen der einzelnen, extrazellulären Lipidtropfen aus
+der intermediären Läsion und der weiteren kontinuierlichen Lipidfusion
+aus dem Blutplasma (STARY et al. 1995).
+Histologisch betrachtet besteht der Lipidkern aus Lipidtropfen, Zelltrümmern und Schaumzellen. Auch Kalziumablagerungen und Cholesterinkristalle werden schon in frühen Lebensjahren beobachtet. Ein solcher Herd erscheint makroskopisch gelblich und wird als Atherom oder
+als atherosklerotische Plaque bezeichnet. Die Atheromkappe wird aus
+glatten Muskelzellen, Kollagen, elastischen Fasern und Proteoglykanen
+gebildet und überzieht das Zentrum (MUNRO und COTRAN 1988). An
+den Rändern der Kappe siedeln sich Makrophagen, glatte Muskelzellen
+und T–Lymphozyten an. Kapillaren sprossen aus der Adventitia ein,
+
+11
+
+eine Neovaskularisation erfolgt besonders an den Rändern der Plaque
+(STARY et al. 1995). Die Arterienwand wird durch das Atherom verdickt. Dies muss aber nicht zwangsläufig zu einer Verengung des Gefäßlumens führen. Ist beim Atherom die Endothelzellschicht noch intakt,
+besteht keine akute Thrombosegefahr. Das Atherom kann sich jedoch
+weiter entwickeln und klinisch an Bedeutung gewinnen.
+
+1.2.3.2.2. Das Fibroatherom
+Als Fibroatherom werden Plaques aus mehreren unregelmäßig übereinanderliegenden Lipidkernen bezeichnet, die durch fibröses Gewebe
+getrennt sind. Der Lipidkern, der der Media am nächsten liegt, wurde
+zuerst gebildet. Von einer kalzifizierten Läsion wird gesprochen, wenn
+neben dem fibrösen Gewebe die Mineralisation einer Plaque dominiert.
+Mineralien können an die Stelle der extrazellulären Lipide und Zelltrümmer treten. Kalzifizierte Läsionen werden insbesondere in den unteren Extremitäten beobachtet (STARY et al. 1995). Da die Oberflächen der Atheromkappe und des Fibroatheroms mikroskopisch nicht zu
+unterscheiden sind, werden diese beiden Begriffe häufig als fibröse
+Plaque zusammengefasst.
+
+1.2.3.3. Die komplizierte Läsion
+Bilden sich auf der Oberfläche von Atheromen Risse und in dessen
+Folge Thromben, wird dies als komplizierte Läsion bezeichnet. Es werden nach STARY et al. (1995) histologisch drei komplizierte Läsionen
+unterschieden. Bei der ersten bilden sich Risse in der Oberfläche, wobei nur mikroskopisch nachweisbare Fissuren in der Endothelzellschicht
+oder auch makroskopisch sichtbare Ulzerationen auftreten können. Im
+zweiten Fall entstehen auf der Plaqueoberfläche Hämatome und Hämorrhagien. Thromben entwickeln sich im dritten Stadium. Komplizierte
+Läsionen neigen zu Rissen in der Oberfläche. Dies ist besonders an
+Stellen zu beobachten, an denen viele Makrophagen–Schaumzellen
+angesiedelt sind. Die Läsion wird instabil, wenn die „Plaqueschultern“
+dünn sind und viele Makrophagen enthalten (FUSTER et al. 1992). Ist
+
+12
+
+die Plaquekappe gleichmäßig dick und dicht, so handelt es sich um eine stabile Läsion.
+Im Bereich der komplizierten Läsion kann das Gefäßlumen so verringert
+sein, dass es zu einem spontanen Verschluss der Arterie kommt. Dies
+wird lebensbedrohlich, wenn es sich bei den betroffenen Gefäßen um
+Koronar– oder Hirngefäße handelt. Hieraus resultiert ein Herzinfarkt
+bzw. Schlaganfall.
+
+1.3. Der Herzmuskel
+Das Myokard stellt die mittlere, zwischen Endo– und Epikard gelegene
+Herzwandschicht dar. Hierbei handelt es sich um einen raumgitterartigen, von gefäßführendem Bindegewebe durchzogenen Hohlmuskel,
+der die Arbeitsmuskulatur des Herzens darstellt. Das Myokard besteht
+aus der quergestreiften Herzmuskulatur, deren Schichtdicke sich den
+bestehenden Druckverhältnissen anpasst. Die Herzmuskulatur ist eine
+besondere Form der quergestreiften Muskulatur, die aus 50–100 µm
+langen und 10–20 µm dicken Herzmuskelzellen aufgebaut ist. Die einzelnen Herzmuskelzellen (Kardiomyozyten) sind netzartig miteinander
+verflochten. Charakteristisch sind die Kontaktstrukturen, über die die
+einzelnen Kardiomyozyten an ihren Enden miteinander verknüpft sind.
+Sie werden Glanzstreifen (Disci intercalares) genannt.
+Diese sind herzmuskelspezifisch. Sie erscheinen im Längsschnitt treppenförmig strukturiert. Die Kardiomyozyten sind die energiereichsten
+Zellen im Körper. Sie besitzen deutlich mehr Sarkosomen (Mitochondrien der Muskelzelle) als die skelettalen Muskelzellen. Etwa 23% des
+Zellvolumens beträgt der Anteil der Sarkosomen bei Kardiomyozyten.
+Dies verdeutlicht die extreme Abhängigkeit der Kardiomyozyten vom
+aeroben Metabolismus. Die morphologische Grundeinheit des Muskelgewebes ist die vom Sarkolemm umhüllte, spindelförmige Muskelfaser,
+die mehrere Zentimeter lang sein kann. Sie entsteht während der Entwicklung des Organismus durch die Verschmelzung zahlreicher embryonaler Myoblasten und bildet somit ein Syncytium, was auch durch die
+Vielzahl der an der Peripherie liegenden Zellkerne zum Ausdruck
+kommt. Die Hauptmasse der Muskelfaser wird von den Myofibrillen ge-
+
+13
+
+bildet, die wiederum aus den Myofilamenten Aktin und Myosin bestehen. Jede Myofibrille wird von einem gitterfaserartigen glatten Endoplasmatischen Retikulum umgeben, das hier als sarkoplasmatisches
+Retikulum bezeichnet wird. Zwischen den Fibrillen liegen die zahlreichen Mitochondrien, die für die Bereitstellung des für die Muskelarbeit
+notwendigen ATP sorgen. Die Funktionseinheit der Myofibrille ist das
+Sarkomer. Dies ist lediglich ein Abschnitt einer Myofibrille, der sich in
+einer Myofibrille bis zu mehreren hundert Mal wiederholen kann. In jedem Sarkomer ist eine mittlere, sogenannte A-Bande zu beobachten.
+Beiderseits bis zur Z-Linie liegt ein Bereich, der nur aus Aktinfilamenten
+besteht, die I-Bande. Die A-Bande wird durch einen schmalen HStreifen in zwei Abschnitte geteilt. Da die Sarkomerbanden nicht nur
+innerhalb einer Faser, sondern auch im gesamten Muskel auf gleicher
+Höhe liegen, entsteht die charakteristische Querstreifung.
+
+Abbildung 4: Histologisches Bild einer Herzmuskelzelle (Myokard, Hund) mit an die
+Myofibrillen gebundene Quer- und Längsstreifung der Zellen, die durch sogenannte
+Glanzstreifen ( stärker rot eingefärbt ) miteinander verbunden werden. An den Kernpolen befinden sich myofibrillenfreie Sarkoplasma“höfe“, die Lipofuszingranula enthalten.
+Vergrößerung: x 960. (WELSCH 1997)
+
+14
+
+Abbildung 5: Schematische Darstellung des kontraktilen Apparates und von Membranstrukturen der Herzmuskelzelle. Links: Außenansicht einer Fibrille, rechts längsgeschnittene Fibrille und Teil eines Glanzstreifens. Die Gliederung der Myofibrille entspricht im Wesentlichen der der Skelettmuskelzelle. Dort wo zwei Herzmuskelzellen
+aneinandergrenzen, bilden sich die stufenförmigen Glanzstreifen aus. In deren transversalen Anteilen befinden sich Fascia adhaerentes, die jeweils halben Z–Linien entsprechen und in denen die terminalen Aktinfilamente verankert sind sowie Desmosomen. In den longitudinalen Anteilen der Glanzstreifen liegen die Nexus, die der elektrischen Koppelung dienen. Das Sarkoplasmatische Retikulum ist einfacher gebaut als
+in den Skelettmuskelzellen, die T-Tubuli sind relativ weit. (WELSCH 1997)
+
+15
+
+1.4. Der Skelettmuskel
+Der quergestreifte Skelettmuskel besteht aus Bündeln einige Millimeter
+bis zu 20 cm langer, zylindrischer, vielkerniger Zellen, den Muskelfasern. Sie besitzen einen Durchmesser von 10-100 µm. Die Zellkerne
+sind oval und befinden sich zumeist in der Peripherie am Rande der
+Zelle. In der Mitte liegen die Myofibrillen. Die Vielkernigkeit kommt
+durch eine Verschmelzung von ursprünglich einkernigen Muskelstammzellen, den Myoblasten zustande.
+Die Myofibrillen verleihen der Muskelfaser durch ihre Gliederung in
+helle und dunkle Abschnitte das charakteristische Bild der Querstreifung. Die Muskelfasern werden insgesamt von einer Hülle, dem Sarkolemm, überzogen. Das Sarkoplasma enthält abhängig von der Arbeitsbelastung des Muskels unterschiedliche Mengen an Sarkosomen. Von
+der Zelloberfläche ziehen feine Tubuli als Einstülpungen in die Muskelfaser senkrecht hinein. Sie bilden das Transversalsystem und dienen
+der schnellen Erregungsüberleitung ins Faserinnere. Zwischen je zwei
+Tranversalsystemen spannt sich ein Kanälchensystem aus, welches
+dem üblichen Endoplasmatischem Retikulum entspricht. In diesem
+longitundinalem System werden Calcium-Ionen gespeichert. In der
+Längsrichtung durchziehen Myofibrillen die Muskelfaser. Wie beim
+Herzmuskel bildet das Sarkomer die Funktionseinheit der Myofibrillen.
+Ihr Aufbau entspricht im Wesentlichen dem des Herzmuskels. Durch die
+fehlenden Glanzstreifen lässt sich der Skelettmuskel gut vom Herzmuskel differenzieren.
+
+16
+
+Abbildung 6: Skelettmuskelfaser mit deutlicher Querstreifung (Mensch). Deutlich sind
+hier die Z-Linien innerhalb jeder I-Bande zu erkennen. Direkt unter dem Sarkolemm
+sind schemenhaft zwei Kerne mit punktförmigem Nukleolus erkennbar. Vergrößerung:
+x 960. (WELSCH1997)
+
+1.5. Caveolae und Caveolin
+Als Caveolae wurden ursprünglich kleine, im elektronenmikroskopischen Bild als glatt erscheinende kolbenförmige Invaginationen der
+Plasmamembran bezeichnet (YAMADA 1955). Caveolae sind 50–100
+nm groß und können einzeln oder als Ketten oder Büschel von mehreren Caveolae vorkommen. Mit Hilfe von Schnellgefrier–Tiefätzpräparationen konnten ROTHBERG et al. (1992) später eine Hülle mit charakteristischer Struktur auf der zytoplasmatischen Oberfläche der Plasmamembran identifizieren. Es sind mehrere Verfahren entwickelt worden, um Caveolae nach Zellfraktionierung aus Geweben (JACOBSON
+et al. 1992, CHANG 1994, LISANTI et al. 1994a, b, SCHNITZER et al.
+1995, WU et al. 1997) oder Zellkulturen (SARGIACOMO et al. 1993,
+SMART et al. 1995, SONG et al. 1996) zu isolieren. Hierdurch konnte
+nachgewiesen werden, dass Caveolae und ihre Hüllen aus ca. 30 Pro-
+
+17
+
+teinen zusammengesetzt sind. Eines dieser Proteine ist das Caveolin
+(ROTHBERG et al. 1992, FRA et al. 1995, SMART et al. 1996), welches auch als Markerprotein bei der Isolierung der Caveolae dient. Neben Caveolin sind Membranen der Caveolae auch reich an Cholesterin,
+Sphingomyelin und Glycosphingolipiden. Caveolin, das hauptsächliche
+Strukturprotein der Caveolae ist wichtig für die typische Ausformung der
+kolbenförmigen Invaginationen. Es ist sowohl Bestandteil der Plasmamembran als auch der intrazellulären Strukturen. Der größte Anteil des
+Caveolins (> 90%), welches in der Plasmamembran lokalisiert ist, befindet sich in den Caveolae. Dies konnte durch die Immunogoldmarkierung (COUET et al. 2001) nachgewiesen werden. Die Caveolin–Gen–
+Familie besteht aus drei Mitgliedern: Caveolin–1, Caveolin-2 und Caveolin-3. Caveolin-1 und Caveolin–2 existieren jeweils in 2 unterschiedlichen Isoformen, nämlich als α–Form und als β– Form. Caveolin-1 und
+Caveolin-2 findet man in den meisten Zelltypen, wohingegen Caveolin–
+3, welches nicht in unterschiedlichen Isoformen vorliegt, muskelspezifisch ist. Es ist im Skelettmuskel, Herzmuskel und in der glatten Muskulatur zu finden.
+Caveolae wurden erstmals von PALADE (1953) in Endothelzellen von
+Blutgefäßen beschrieben. Auch in Adipozyten, Fibroblasten und Typ I
+Pneumozyten
+
+konnten
+
+zahlreiche
+
+Caveolae
+
+entdeckt
+
+werden
+
+(FIELDING und FIELDING 2000, COUET et al. 2001). In Monozyten,
+Lymphozyten, transformierten Zelllinien (SAGER et al. 1994) und in
+vielen humanen Krebszellen (KOLESKE et al. 1995, LEE et al 1998)
+kommen keine Caveolae vor. Die Expression der Caveoline 1-3 in
+Kardiomyozyten wird kontrovers diskutiert.
+
+1.5.1. Funktionen von Caveolae
+Die Anwesenheit von 30 verschiedenen Proteinen in den Caveolae
+lässt auf eine multifunktionelle Bedeutung der Caveolae im Zellstoffwechsel schließen.
+Vier Hauptfunktionen werden für Caveolae beschrieben. Im Einzelnen
+sind diese der Transport von Molekülen durch Endothelzellen, im Sinne
+von Transportvesikeln. Eine weitere Hauptaufgabe stellt die Potozytose
+
+18
+
+dar. Hierbei handelt es sich um eine Form der Endozytose, die jedoch
+nur über Caveolae stattfindet, im Gegensatz zur rezeptorvermittelten
+Endozytose, die wiederum nur über Coated Pits läuft und Makromoleküle umfasst. Bei der Potozytose werden kleine Moleküle, wie z.B. Folat, über in der Plasmamembran verankerte GPI–Rezeptoren aufgenommen. Des Weiteren wird die Bildung einer örtlich distinkten Plattform für Signaltransduktionsmoleküle und die Vermittlung des Effluxes
+von de novo synthetisiertem und aus LDL stammendem Cholesterin als
+Hauptaufgaben beschrieben.
+
+1.6. Ziele der Arbeit
+Die Expression von Caveolin-1, -2 und -3 in Kardiomyozyten wird kontrovers diskutiert.
+Die Untersuchungen dieser Arbeit wurden mit dem Ziel durchgeführt,
+neue Erkenntnisse über das Vorkommen und die Verteilung von Caveolae und Caveolin-1, -2 und -3 in Herzmuskel – und Skelettmuskelgewebe von Ratten zu gewinnen.
+Hierzu wurde das Verteilungsmuster von Caveolae und Caveolin-1, -2
+und -3 in den Plasmamembranen von Endothelzellen, Kardiomyozyten
+und Skelettmuskelzellen analysiert und ihr Vorkommen quantifiziert und
+verglichen.
+Die Untersuchungen wurden mit Hilfe der Natrium Dodecyl Sulfat
+(NDS)-Gefrierbruch-Immunzytochemie durchgeführt. Grundlage dieses
+Verfahrens bildet die elektronenmikroskopische Sichtbarmachung von
+Caveolae und Caveolin-1,-2 und -3 in Platin/Kohle Replikas von Memranbruchflächen mittels primärer und goldmarkierter sekundärer Antikörper.
+
+19
+
+2. Material und Methoden
+
+2.1. Gewebeentnahme
+Für die Experimente wurden Kardiomyozyten, Endothelzellen und Skelettmuskelzellen von Ratten eingesetzt. Die Gewebe wurden nach
+Tötung der Ratte durch Genickbruch frisch entnommen.
+
+2.2. Gefrierbruch als Methode zur Analyse von Membranen
+Biomembranen trennen zwei wässerige Kompartimente voneinander.
+Zwischen dem Zytoplasma und dem extrazellulären Medium befindet
+sich eine semipermeable Plasmamembran. Dementsprechend begrenzen andere Membranen den Innenraum der Organellen vom Zytosol.
+Alle biologischen Membranen bestehen aus einer Phospholipiddoppelschicht. Sie enthalten als essentielle Bestandteile Proteine. Diese verleihen den verschiedenen Membrantypen ihre jeweils charakteristischen Eigenschaften. Die spezifischen Funktionen aller Membranen
+werden erst durch das jeweilige Muster ihrer Membranproteine festgelegt. In den meisten eukaryotischen Zellen bildet eine Vielzahl intrazellulärer Membranen gesonderte Kompartimente bzw. Organellen wie
+Zellkern, Golgi–Apparat, Endoplasmatisches Retikulum, Lysosomen,
+Mitochondrien etc., in denen jeweils bestimmte Aufgaben erfüllt werden.
+Jede Organellmembran verfügt über ein bestimmtes Muster von Proteinen, welche für die biologischen Aktivitäten der Zelle unverzichtbar
+sind. Das Muster der mit den Membranen assoziierten Proteine ist vom
+Zelltyp und von der subzellulären Lokalisierung der jeweiligen Membranen abhängig (Abb. 7).
+
+20
+
+Abbildung 7: Schematische Darstellung einer biologischen Membran. Die Grundstruktur aller Zellmembranen besteht aus zwei Schichten von Phospholipid–Molekülen. Die
+Kohlenwasserstoffketten der darin gebundenen Fettsäuren befinden sich im hydrophoben Innenbereich der Doppelschicht, während die hydrophilen Köpfe der
+Phospholipide beide Oberflächen säumen. Integrale Proteine sind mit einer Domäne
+oder über mehrere Abschnitte in die Lipiddoppelschicht eingebettet. Periphere Proteine werden über spezifische Wechselwirkungen an Membranproteine gebunden. Oligosacharide sind als Bestandteile von Glykoproteinen anzutreffen oder bilden Glykolipide.
+
+2.2.1. Konventionelle Gefrierbruchmethode
+Die Einführung der Gefrierbruchmethode (STEERE 1957, MOOR und
+MÜHLETHALER 1963, BRANTON und MOOR 1964, BRANTON et al.
+1975) hat die Untersuchung der Membranstruktur revolutioniert und zur
+Entdeckung einer Fülle vorher ungeahnter Details der Membranarchitektur geführt. Ferner sind durch die breite Abwendung dieser Methode
+neue Perspektiven zum Verständnis der Beziehungen zwischen Membranstruktur und ihrer Funktion eröffnet worden.
+
+21
+
+E Surface (ES)
+Extracellular space
+E half
+E half
+
+E Face (EF)
+
+P half
+
+P Face (PF)
+P half
+
+Protoplasm
+P Surface (PS)
+
+Abbildung 8: Schematische Darstellung des Verlaufs eines Gefrierbruchs und Nomenklatur der Membranbruchflächen. Der Gefrierbruch spaltet die Phospholipiddoppelschicht in zwei Membraninnenansichten, die die Bezeichnung PF (protoplasmatic
+face) und EF (exoplasmatic face) tragen. Die Membranoberflächen werden als ES
+(external surface) und PS (protoplasmatic surface) bezeichnet. (Verändert nach
+SEVERS und SHOTTON 1995)
+
+Für die elektronenmikroskopische Darstellung lassen sich die beiden
+Seiten einer Zellmembran durch Gefrierbruch trennen. Wenn eine
+gefrorene Probe mit Zellen/Gewebe mit dem Messer eines Mikrotoms
+gebrochen wird, verläuft der Bruch durch den hydrophoben Innenteil
+der Membran und trennt auf diese Weise die zwei Phospholipidschichten (Abb. 8). Der Verlauf des Gefrierbruchs entlang der hydrophoben
+Zone der Lipiddoppelschicht der Membran und die daraus resultierende
+Flächendarstellung von Membraninnenansichten ist eine der wesentlichsten Vorteile dieser Methode. Während die konventionelle Dünnschnitttechnik nur Schnittbilder liefert und in den Dünnschnitten vorwiegend ein laminarer Schichtenaufbau der Membran sichtbar wird, lässt
+sich in Gefrierbruchreplikas bei ähnlichem Auflösungsvermögen ein
+wesentlich differenzierteres Membranbild beobachten. Die beiden durch
+den Gefrierbruch freigelegten Plasmamembraninnenansichten tragen
+die Bezeichnung PF (protoplasmic face) für die ursprünglich zytoplasmatische Lipidschicht der Membran und EF (exoplasmic face) für die
+exoplasmatische Lipidschicht der Membran. Die Oberflächen der
+
+22
+
+Plasmamembran bezeichnet man als ES (external surface) und PS
+(protoplasmic surface) (Abb. 8).
+In den Gefrierbruchreplikas der Membranen tritt vor allem eine granuläre Substruktur hervor. Hierbei handelt es sich um sogenannte intramembranöse Partikel (IMP). Es ist heute allgemein anerkannt, dass sie
+die in die Lipiddoppelschicht der Membran inkorporierten Glykoproteinbzw. Lipoproteinmoleküle repräsentieren. Die Phospholipide stellen sich
+als glatte, partikelfreie Areale dar.
+Die meisten oder alle IMP befinden sich auf einer der beiden Bruchflächen, während auf der anderen Bruchfläche in spiegelbildlicher Form
+Vertiefungen oder Löcher sichtbar werden. Dies hängt wahrscheinlich
+damit zusammen, dass die IMP an den Lipiden der einen Schicht fester
+gebunden sind als an denen der anderen Seite. In der Regel befinden
+sich auf der PF der Membran mehr IMP als auf der EF.
+Wie bereits beschrieben, wird die Plasmamembran durch den Verlauf
+des Gefrierbruchs in zwei Hälften gespalten, die nach der Nomenklatur
+von BRANTON et al. (1975) mit EF für die den extrazellulären Raum
+anliegende Membranbruchfläche und mit PF für die dem Protoplasma
+anliegende Membranbruchfäche bezeichnet werden. Wenn man diese
+Nomenklatur auf die intrazellulären Membranen anwendet, werden die
+Membranbruchflächen, die dem Zytoplasma, dem Kernplasma oder der
+Mitochondrienmatrix anliegen, mit PF bezeichnet. Die Membranbruchflächen, die dem Raum zwischen innerer und äußerer Kern- und Mitochondrienmembran sowie dem Lumen der Organellen anliegen, die mit
+einer Einheitsmembran ausgestattet sind, wie z.B. Vesikel, Endoplasmatisches Retikulum und Zisternen des Golgi-Apparates, werden mit
+EF bezeichnet.
+Als Vorbereitung für den Gefrierbruch wurden die Gewebestücke gegen
+das Austrocknen in PBS-Puffer gelegt. Danach wurden unter einer Stereolupe die Gewebestücke in 1 x 1 mm große Stücke geschnitten. Diese Gewebestücke wurden anschließend mit 30% (v/v) Glycerin auf
+Goldobjektträgern aufgeblockt, in flüssigem Stickstoff tiefgefroren und in
+der Gefrierätzanlage BA 300 (Balzer AG, Liechtenstein) gefriergebrochen. Die freigelegten Membranoberflächen wurden mit Platin in einem
+Winkel von 38° und mit Kohlenstoff in einem Winkel von 45° bedampft.
+
+23
+
+Die Schichtdicken wurden mit einem Schwingquarz gemessen. Sie betrugen für Platin 2 nm und für Kohle 20 nm.
+An den so gewonnenen Replika wurde nun Natrium Dodecyl Sulfat
+(NDS)-Gefrierbruch-Immunzytochmie durchgeführt.
+Die einzelnen Schritte der NDS-Gefrierbruch-Immunzytochemie sind
+kurz zusammengefasst folgende: Fixierung → Gefrierschutz → Gefrierbruch → Platin/Kohle-Bedampfung → Reinigung des Replikas mit NDS
+→ Elektronenmikroskopie.
+
+2.2.2. Natrium Dodecyl Sulfat-Gefrierbruch-Immunzytochemie
+Die Gefrierbruchtechnik ist eine morphologische Methode. Die Konsequenz ist, dass sich der Fortschritt über die Bedeutung und Funktion
+vieler struktureller Spezialisierungen, die in den Gefrierbruchreplikas
+der Membranen sichtbar sind, nur langsam vollzieht und bei weitem
+nicht mit der Beschreibung und der Analyse der feinstrukturellen Details
+Schritt hält.
+Technische Verbesserungen und Innovationen haben bei gleichzeitiger
+Entwicklung anderer biophysikalischer, biochemischer und biologischer
+Methoden den Rahmen der ursprünglichen Technik wesentlich erweitert. (s. Reviews: SEVERS und ROBENEK 1983, SEVERS 1989,
+SEVERS und SHOTTON 1995)
+Die Voraussetzung zum Verständnis der Beziehungen zwischen Memranstruktur und ihrer Funktion ist jedoch die direkte chemische Identifizierung der in gefriergebrochenen Membranen sichtbaren Komponenten. Die Applikation von Ferritin-konjugierten Antikörpern, Membranrekonstruktionsmethoden und Gefrierätzautoradiographie repräsentieren
+bereits erste Schritte, um dieses Ziel zu erreichen. Weitere Fortschritte
+sind durch die Einführung zytochemischer Methoden erzielt worden.
+Aufgrund ihrer Limitationen und methodischen Probleme haben diese
+Verfahren allerdings keine große Verbreitung gefunden.
+Die kürzlich von FUJIMOTO (1995) entwickelte sogenannte NatriumDodecyl Sulfat (NDS)-Gefrierbruch-Immunzytochemie ist allen bisherigen Verfahren überlegen. Die in diesem Verfahren benutzte Kombination von Gefrierbruchverfahren mit immunzytochemischer Markierung
+
+24
+
+von individuellen Membranmolekülen erlaubt den direkten Nachweis
+der chemischen Zusammensetzung und Topologie sowie Dynamik von
+Zellmembrankomponenten in situ.
+Mit dieser Methode waren FUJIMOTO und andere Autoren in der Lage,
+Membranproteine selektiv mit spezifischen Antikörpern zu markieren
+(FUJIMOTO 1995, HÜLSER et al 1997, FUJIMOTO et al. 1997a, b,
+1998, 2000, FURUSE et al 1998, NOMURA und FUJIMOTO 1999,
+TAKIZAWA et al. 1998, TAKIZAWA 1999, TAKIZAWA und ROBINSON
+2000, TAKAYAMA et al. 1999, PETERSON et al. 2000). Ferner konnten
+sie mit Hilfe dieser Methode und spezifischen Antikörpern die Verteilung
+von Phospholipiden in verschiedenen Zellen und intrazellulären Memranen sowie die exakte Topologie integraler Membranproteine darstellen (FUJIMOTO et al 1997a, b).
+Im Prinzip unterscheidet sich diese Methode nur unwesentlich von der
+konventionellen Gefrierbruchmethode.
+
+25
+
+Abbildung 9: Schematische Darstellung des Verlaufs des Gefrierbruchs und Immungoldmarkierung nach NDS-Reinigung des Replikas. A) Die Zelle ist gefroren. B) Der
+Gefrierbruch und die Platin/Kohle-Bedampfung (Pt/C) macht die
+exoplasmatische (EF) und die protoplasmatische (PF) Seite der Plasmamembran
+sichtbar. C) Mit NDS werden die nicht bedampften Zellen und Zellkomponenten aufgelöst, aber nicht die bedampften Membranbruchflächen. D) Das Replika wird mit primären und goldmarkierten sekundären Antikörpern inkubiert und markiert. Anschließend
+findet die elektronenmikroskopische Untersuchung und Auswertung des Replikas
+statt. (FUJIMOTO 1997)
+
+26
+
+Die
+
+NDS-Gefrierbruch-Immunzytochemie
+
+wurde
+
+nach
+
+der
+
+von
+
+FUJIMOTO (1995) entwickelten Methode durchgeführt. Im Gegensatz
+zur herkömmlichen Gefrierbruchtechnik werden die Zellen bei der NDSGefrierbruch-Immunzytochemie nicht fixiert. Abweichend von der Originalmethode haben wir die Gewebestücke vor dem Einfrieren auf den
+Goldobjektträgern in 30%igen Glycerin aufgeblockt. Der Gefrierbruch
+und die Bedampfung mit Platin/Kohle erfolgt wie bei der herkömmlichen
+Gefrierbruchtechnik. Für die Reinigung des Replikas wurde anstelle von
+Chlorbleiche jedoch NDS benutzt. Dafür wurde in der Regel mindestens
+24h benötigt.
+Die Immunzytochemie an den mit NDS gereinigten Replikas erfolgte in
+folgenden Schritten:
+
+
+Blocken der unspezifischen Bindungsstellen mit 5% BSA/PBS für
+15 min. Inkubation mit primären Antikörpern (verdünnt in
+PBS/5% BSA) für 1h bei Raumtemperatur auf einem Schüttler
+
+
+
+Spülen mit PBS (dreimal 10 min.)
+
+
+
+Inkubation mit goldmarkiertem sekundären Antikörpern ebenfalls
+verdünnt in BSA/PBS auf einem Schüttler für 1h bei Raumtemperatur
+
+
+
+Spülen mit PBS (dreimal 10 min.)
+
+
+
+Fixierung mit 0,5% Glutaraldehyd in 0,1 M PBS ph7,4 für 10 min.
+bei Raumtemperatur
+
+
+
+Spülen mit Aqua dest. (dreimal 10 min.)
+
+
+
+Aufnahme der markierten Replikas auf unbefilmte
+Kupfer – Netze
+
+Die Replikas können dann im Elektronenmikroskop ausgewertet werden.
+
+2.3.
+
+Antikörper und Immunogold
+
+Für die immunzytochemischen Markierungen von Caveolin-1, -2 und -3
+an den Gefrierbrüchen wurden die folgenden primären Antikörper verwandt:
+
+27
+
+
+
+monoklonaler Maus anti-Caveolin-1-Antikörper (C 37120, Clone
+2297, Transduction Lab., Lexington, USA)
+
+
+
+monoklonaler Maus anti-Caveolin-2-Antikörper (C 57820, Clone
+65, Transduction Lab., Lexington, USA)
+
+
+
+monoklonaler Maus anti-Caveolin-3-Antikörper (C 38320, Clone
+26, Transduction Lab., Lexington, USA)
+
+Alle in dieser Arbeit dargestellten Ergebnisse wurden ausschließlich mit
+diesen Antikörpern erzielt. Sie wurden durchweg in einer Konzentration
+von 5µg/ml eingesetzt.
+Als sekundärer Antikörper wurde der an 12 nm kolloidales Gold gekoppelte Ziege anti-Maus-IgG eingesetzt (48057, Dianova, Hamburg).
+
+2.4. Bilddokumentation
+Die elektronenmikroskopischen Aufnahmen wurden an einem Philips
+EM 410 mit Kodak 4489-Filmplatten hergestellt. Bildabzüge wurden mit
+Agfa Brovira-Papier hergestellt.
+
+2.5. Quantifizierung
+Die Bestimmung der Anzahl der an die Membranbruchflächen gebundenen Goldpartikel wurde an Platin/Kohle–Replika durchgeführt. Dazu
+wurden die Negativ–Fotografien in einer Vergrößerung von 16.900 x mit
+Hilfe eines Vergrößerungsgerätes (Durst Laborator 1200) auf eine Endvergrößerung von 59.000 x gebracht. Die Abzüge auf Agfa Brovira–
+Papier wurden mit Transparentpapier, welches ein Raster aufwies von
+5,9 cm x 5,9 cm überdeckt. Dies entspricht einer Plasmamembranoberfläche von 1 µm².
+Die Auszählung der Goldpartikel in diesen Feldern erfolgte für jeden
+Zelltyp an mindestens 100 verschiedenen Zellen. Die Angabe der Anzahl der Goldpartikel erfolgt in Anzahl / 1 µm².
+
+28
+
+3. Ergebnisse
+_________________________________________________________
+
+3.1. Gefrierbruch
+
+3.1.1. Herzmuskel
+Mit Hilfe des Gefrierbruchverfahrens und anschließender Betrachtung
+der Zellen im Elektronenmikroskop lassen sich die unterschiedlichen
+Strukturen, die am Aufbau des Herzmuskels beteiligt sind, erkennen
+und unterscheiden.
+Auf quergebrochenen Gefrierbruchaufnahmen von Kardiomyozyten erkennt man die Vielzahl der vorhandenen Mitochondrien, die Myofibrillen
+sowie die umgebende Plasmamembran (Abb. 10).
+
+Abbildung 10: Gefrierbruch-Replika des Herzmuskels. Oben rechts erkennt man Myofibrillen (myo) und Mitochondrien (mito). Der Gefrierbruch erfolgte dann durch die
+Plasmamembran des Kardiomyozyten (PM1). E kennzeichnet die extrazelluläre Matrix. Im unteren linken Bildteil befindet sich eine zweite Plasmamembran eines weiteren Kardiomyozyten. T markiert die Öffnung eines transversalen Tubulus.
+Vergrößerung: x 11.000. (SEVERS 2000)
+
+29
+
+Gefrierbruchaufsichten auf die Plasmamembran von Kardiomyozyten
+zeigen ihre Struktur mit Caveolae und den transversalen Tubuli. Diese
+Tubuli entstehen während der Embryonalentwicklung aus der Membran
+der Muskelfaser, dem Sarkolemm, durch einen Invaginationsprozess.
+Hierbei entsteht ein tubuläres Kanalsystem, das horizontal in die Faser
+eindringt und jede Fibrille in der Höhe der Z-Linie umgibt. Über dieses
+transversale tubuläre System breitet sich die Erregung in Millisekunden
+über die ganze Muskelfaser aus.
+Kardiomyozyten erscheinen hinsichtlich der Oberflächenstruktur ihrer
+Plasmamembran homogener als Endothelzellen mit ihrer Vielzahl an
+Invaginationen und Ausstülpungen. Die Endothelzellen im Herzmuskelgewebe stammen aus Gefäßen, die die Muskulatur mit Sauerstoff und
+Nährstoffen versorgen und somit auf Schnittbildern durch das Gewebe
+häufig zu finden sind. Auf der P-Seite der Endothelzellen und der Kardiomyozyten erkennt man Goldpartikel. Diese markieren in unserem
+Versuch die Caveoline. Auf der E-Seite sowohl der Kardiomyozyten als
+auch der Endothelzellen befinden sich keine Goldpartikel (Abb. 11, 12).
+
+30
+
+Abbildung 11: Gefrierbruch-Replika der Plasmamembran eines Kardiomyozyten. Auf
+der P-Seite (PF) des Kardiomyozyten finden sich Goldpartikel als immunzytochemischer Nachweis für Caveolin-1. Die E-Seite (EF) ist frei von Goldpartikeln.
+Vergrößerung: x 41.700
+
+31
+
+3.1.2. Endothelzellen
+Nachdem Endothelzellen das erste Mal mit Hilfe der Gefrierbruchmethode untersucht worden sind, konnten Caveolae sowohl in der
+Plasmamembran, als auch freie Vesikel im Zytoplasma nachgewiesen
+werden (DEMPSEY et al. 1973; MAZZONE und KORNBLAU 1981;
+GREEN und SEVERS 1983). Folgt der Gefrierbruch der Plasmamembran einer Zelle, ist keine Einsicht in das Zytoplasma mit seinen
+Zellorganellen möglich. Es werden lediglich die P-Seite und die E-Seite
+der Plasmamembran sichtbar. Diese lassen sich anhand der Oberflächenstruktur gut voneinander unterscheiden. Auf der P-Seite erscheinen die Caveolae als Invagination, wohingegen die E-Seite durch ihre
+Ausstülpungen charakterisiert ist (Abb. 12, 14). In Endothelzellen von
+Herzkapillaren haben die Öffnungen der Caveolae einen durchschnittlichen Durchmesser von ca. 40 nm und besitzen eine Dichte von 67 / 1
+µm² auf der luminalen und 110 / 1 µm² auf der vom Lumen abgewandten Seite. Im Gegensatz dazu beträgt der Durchmesser in Kardiomyozyten im benachbarten ventrikulären Herzmuskelgewebe durchschnittlich ca. 65 nm und sie haben eine Dichte von nur 4-6 / 1 µm²
+(GABELLA 1978; LEVIN und PAGE 1980). Der Durchmesser, die Dichte und die Verteilung dieser als kleine runde Vertiefungen und Erhebungen auftretenden Oberflächenstrukturen variiert von Zelle zu Zelle.
+In der Mehrzahl aller Fälle verläuft der Gefrierbruch allerdings in der
+Weise, dass sowohl Membranflächen der Plasmamembran als auch
+Zellorganellen in den Replikas zu finden sind. Die Plasmamembran
+umgibt die Zelle und kann in den Gefrierbruchbildern durch die Anwesenheit charakteristischer Strukturen, insbesondere der Caveolae identifiziert werden. Die Grundsubstanz des Zytoplasmas erscheint homogen. Einschlüsse, die nicht von einer Membran umgeben sind, werden
+im Gefrierbruch nicht sichtbar. Zellorganellen, wie der Golgi-Apparat
+oder Mitochondrien werden bei dieser Form des Gefrierbruchs sichtbar.
+Der Golgi-Apparat z.B. stellt sich als eine Ansammlung übereinanderliegender Membranen dar. Bei den Endothelzellen handelt es sich allerdings um Zellen mit vergleichsweise wenig Zellorganellen.
+
+32
+
+Abbildung 12: Gefrierbruch-Replika der Plasmamembranen einer Endothelzelle und
+eines Kardiomyozyten. Die E-Seite (EF) und die P-Seite (PF) lassen sich gut voneinander unterscheiden. Die P-Seite ist gekennzeichnet durch Einstülpungen, die E-Seite
+hingegen durch Ausstülpungen der Caveolae. Goldpartikel als immunzytochemischer
+Nachweis für Caveolin-1 befinden sich ausschließlich auf den P-Seiten.
+Vergrößerung: x 76.900
+
+33
+
+3.1.3. Kardiomyozyten
+Auf elektronenmikroskopischen Bildern von Kardiomyozyten nach Gefrierbruch durch die Plasmamembran lässt sich auch die P-Seite von
+der E-Seite anhand der Oberflächenstruktur unterscheiden (Abb. 11).
+Auf der P-Seite zeigen sich Einstülpungen der Plasmamembran, die ESeite hingegen ist gekennzeichnet von Ausstülpungen der Caveolae.
+Ferner befinden sich auf der P-Seite mehr intramembranöse Partikel als
+auf der E-Seite. Die Oberflächenstruktur erscheint im Vergleich mit der
+der Endothelzellen deutlich homogener. Die Dichte der Ein- und Ausstülpungen ist signifikant geringer und auch die Tiefe bzw. Höhe der
+Invagianationen und Ausstülpungen erscheint deutlich niedriger. Dadurch erscheinen die elektronenmikroskopischen Bilder der Plasmamembran von Kardiomyozyten nach Gefrierbruch insgesamt homogener.
+
+3.2. Die Natrium Dodecyl Sulfat-Gefrierbruch-Immunzytochemie
+zur Analyse der Caveoline in der Plasmamembran
+Die Feinstruktur der Membranbruchflächen in den Replikas nach der
+NDS-Gefrierbruch-Immunzytochemie ist prinzipiell dieselbe wie die
+nach herkömmlicher Gefrierbruchmethode. Die Unterschiede bestehen
+darin, dass die Replikas in den herkömmlichen Gefrierbruchpräparaten
+mit Chlorbleiche gereinigt werden und deshalb frei sein sollten von organischem
+
+Material.
+
+Die
+
+Präparate
+
+für
+
+die
+
+NDS-Gefrierbruch-
+
+Immunzytochemie werden dagegen mit NDS gereinigt, wobei die
+Membranbruchflächen an dem Replika haften bleiben sollten. Von großer Bedeutung für eine erfolgreiche Immunmarkierung ist die Position
+des zu analysierenden Proteins in der Membran und die Art und Weise
+des Bruchverlaufes durch dieses Protein. Proteine, die so getrennt werden, dass die sich nach dem Gefrierbruch auf der inneren Bruchfläche
+(P-Seite) der Membran befinden, können mit Antikörpern markiert werden, die gegen die zytoplasmatische Domäne gerichtet sind, aber nicht
+mit Antikörpern, die die extrazelluläre Domäne des Proteins erkennen.
+Bei den Caveolinen-1, -2 und -3 handelt es sich um Proteine, die in der
+
+34
+
+Membran verankert sind und dessen N- und C-Terminus auf der zytoplasmatischen/luminalen Membranoberfläche lokalisiert sind. Die Caveoline stellen somit eine ideale Proteinfamilie für die immunzytochemische Analyse dar. Aufgrund dieser Eigenschaften des Proteins wird die
+Goldmarkierung in den Replikas ausschließlich auf der P–Seite der
+Plasmamembran beobachtet. Die Goldpartikel befinden sich nicht in der
+Membranbruchfläche und nicht in den Platin/Kohle Replika, sondern
+haften ausschließlich über die primären und sekundären Antikörper an
+den zytoplasmatischen Seiten der inneren Bruchflächen (PF) der Plasmamembranen (Abb. 13).
+
+Carbon
+(15-20 nm)
+Pt
+(2 nm)
+PF
+Caveolin-1
+
+20 – 30 nm
+
+1st AB
+2nd AB-
+
+Abbildung 13: Schematische Darstellung eines immungoldmarkierten Replikas. Caveolin-1 ist an der P-Seite (PF) der Plasmamembran lokalisiert. Die P-Seite der Plasmamembran ist an das Platin (Pt) /Kohle (Carbon) Replika gebunden. Durch die indirekte Immungoldmarkierung liegen die Goldpartikel ca. 20-30 nm vom Caveolin-1
+entfernt. (Verändert nach FUJIMOTO 1997)
+
+35
+
+3.3. Caveoline in der Plasmamembran
+
+3.3.1. Caveolin-1
+
+3.3.1.1. Kardiomyozyten
+Die Freilegung großer Plasmamembraninnenansichten der Kardiomyozyten nach dem Gefrierbruch und die daran anschließende NDSGefrierbruch-Immunzytochemie erlaubt die Analyse der Verteilung und
+Struktur der Caveolae und des Caveolin-1. Goldpartikel, die an sekundäre Antikörper gebunden sind, erscheinen in elektronenmikroskopischen Bildern als Punkte. Das Caveolin-1 findet sich ausschließlich auf
+der P-Seite der Membranbruchflächen, wohingegen die E-Seite frei von
+Caveolin-1 ist (Abb. 11). Es befinden sich 8,52±0,26 Goldpartikel als
+immunzytochemischer Nachweis auf 1 µm² Membranfläche (Abb. 17).
+Die Anordnung der Goldpartikel erscheint ungleichmäßig. Markierungen
+finden sich vereinzelt in kleinen Gruppierungen, größtenteils aber isoliert. Eine Assoziation zu Invaginationen oder Ausstülpungen der Plasmamembran ist selten zu identifizieren.
+
+3.3.1.2. Endothelzellen
+In den elektronenmikroskopischen Bildern der Endothelzellen zeigt sich
+eine gleichmäßige Verteilung der Goldpartikel als immunzytochemischer Nachweis für Caveolin-1 auf der P-Seite der Plasmamembran
+und eine enge Assoziation der Goldpartikel sowohl mit flachen als auch
+tiefen Invaginationen der Membranbruchflächen (Abb. 14). Das Verteilungsmuster der Caveolae variiert von Zelle zu Zelle (Abb. 15). Es lässt
+sich feststellen, dass in allen Bereichen der Plasmamembran von Endothelzellen Caveolae vorhanden sind.
+Je nach physiologischem Zustand einer Zelle sind die Caveolae
+
+
+sehr dicht oder weniger gedrängt in der Plasmamembran vorhanden
+
+36
+
+
+
+mehr oder weniger gleichmäßig in der Plasmamembran verteilt
+(Abb. 16)
+
+
+
+in Gruppen oder Reihen angeordnet (Abb. 14, 15)
+
+
+
+konzentriert auf bestimmten Arealen der Plasmamembran vorhanden, während andere Areale fast völlig frei von Caveolae
+sind
+
+
+
+sowohl als tiefe als auch als flache Invaginationen vorhanden
+(Abb. 16)
+
+Es lassen sich keine Goldpartikel auf der E-Seite finden. Die Anzahl der
+Goldpartikel für Caveolin-1 auf der P-Seite von Endothelzellen liegt mit
+73,53±0,78 / 1 µm² Membranbruchfläche deutlich über der Anzahl der
+Goldpartikel für Kardiomyozyten (Abb. 18).
+
+37
+
+Abbildung 14: Markierung von Caveolin-1 assoziiert mit tiefen CaveolaeEinstülpungen.
+Vergrößerung: x 66.700
+
+38
+
+Abbildung 15: Die Verteilung von Caveolae variiert von Zelle zu Zelle (1-3).
+Vergrößerung: x 45.500
+
+39
+
+Abbildung 16: Verteilung von Caveolae und Caveolin-1 in der P-Seite der Plasmamembran von Endothelzellen.
+Vergrößerung: x 50.000
+
+40
+
+3.3.2. Caveolin-2
+
+3.3.2.1. Kardiomyozyten
+Die Goldpartikel, die Caveolin-2 über primäre und sekundäre Antikörper
+in der Plasmamembran markieren, sind vereinzelt auf den elektronenmikroskopischen Bildern verteilt. Auch hier lassen sie sich ausschließlich auf der P-Seite der Membran finden. Die E-Seite ist vollkommen frei
+von Caveolin-2-Markierung. Die Verteilung bzw. die Anordnung der
+Goldpartikel auf der P-Seite folgt keiner bestimmten Struktur. Es ist keine Assoziation des Caveolin-2 zu Caveolae zu erkennen. Es sind keine
+bestimmten Areale mit besonders hoher oder niedriger Dichte an Caveolin-2-Markierung vorhanden. Mit einer absoluten Dichte von nur 0,46±
+0,02 Markierungen / 1 µm² ist Caveolin-2 die mit Abstand am geringsten
+gefundene Isoform der Caveolin-Familie in Kardiomyozyten (Abb. 17).
+
+3.3.2.2. Endothelzellen
+Die Goldpartikel als immunzytochemischer Nachweis für Caveolin-2 in
+Endothelzellen befinden sich über den zahlreich in der Plasmamembran
+vorkommenden Caveolae. Die Caveolae sind auf der P-Seite als Invaginationen und auf der E-Seite als Erhebungen zu sehen. Die Goldpartikel sind ausnahmslos auf der P-Seite vorhanden. Es besteht eine enge Assoziation der Markierungen zu den Caveolae, wobei die Anzahl
+der Goldpartikel im Vergleich zum Caveolin-1 in Endothelzellen deutlich
+geringer ausfällt, was allerdings nicht für die Dichte an Caveolae gilt.
+Die Verteilung der Goldpartikel innerhalb der Caveolae ist unterschiedlich. Sie reicht von der halbringförmigen Anordnung, über die unstrukturierte Konzentrierung bis hin zu einzelnen Goldpartikeln an der Invagination. Diese Muster repräsentieren unter Umständen Stadien von der
+Inkorporation der Caveolin-Moleküle in die Membran bis hin zur Migration und Konzentration in Caveolae. Bei der quantitativen Analyse konnten 20,10±0,35 Goldpartikel / 1 µm² als immunzytochemischer Nachweis für Caveolin-2 gezählt werden (Abb. 18).
+
+41
+
+3.3.3. Caveolin-3
+
+3.3.3.1. Kardiomyozyten
+Caveolin-3
+
+ist
+
+die
+
+muskelspezifische
+
+Isoform
+
+der
+
+Caveolin-
+
+Proteinfamilie. Es wird sowohl in quergestreifter und glatter Muskulatur
+als auch im Myokard exprimiert. Die Anzahl und Verteilung der Goldpartikel als zytochemischer Nachweis für Caveolin-3 in Kardiomyozyten
+beträgt 11,45±0,35 / 1 µm² Membranfläche (Abb. 17, 19). Somit ist die
+Menge an markiertem Caveolin-3 im Vergleich mit der Anzahl der
+Goldpartikel von Caveolin-1 in Kardiomyozyten wesentlich höher. Allerdings ist beim Caveolin-3 keine strukturierte Anordnung der Goldmarkierungen zu erkennen. Eine Assoziation zu Invaginationen bzw. Ausstülpungen der Plasmamembran, wie sich Caveolae im Gefrierbruch
+darstellen, ist ebenfalls wie beim Caveolin-1 in Kardiomyozyten nicht zu
+finden.
+
+3.3.3.2. Skelettmuskelzellen
+In Plasmamembranen der Skelettmuskelzellen ist eine strikte Assoziation der Caveolin-3-Markierung zu Caveolae nicht eindeutig zu erkennen.
+Goldpartikel befinden sich sowohl in unmittelbarer Umgebung der Caveolae, aber auch frei in der Plasmamembran, wobei die Dichte an Einstülpungen bzw. Erhebungen vergleichsmäßig gering ist. Die Goldmarkierungen befinden sich allesamt auf der P–Seite der Plasmamembran.
+Ihre Verteilung erscheint somit eher willkürlich. Die Anzahl der Goldpartikel als immunzytochemischer Nachweis für Caveolin-3 beträgt 20,79
+±0,64 / 1 µm² Membranfläche (Abb. 19).
+
+42
+
+3.4. Zusammenfassung der quantitativen Ergebnisse
+Die folgenden Schemata fassen die quantitativen Ergebnisse zur Verteilung der Caveoline in Kardiomyozyten, Endothelzellen und in Skelettmuskelzellen zusammen. Die höchste Anzahl an Goldpartikeln als
+zytochemischer Nachweis für Caveolin in den von uns untersuchten
+und oben beschriebenen Zellen wird mit 73,53±0,78 / 1 µm² bei Caveolin-1 in Endothelzellen erreicht. Caveolin-2 an Endothelzellen ist mit
+20,10±0,35 Goldpartikeln / 1 µm² Membranfläche deutlich geringer vorhanden. Mit 20,79±0,64 / 1 µm² Goldpartikeln ist die Anzahl an Caveolin-3 im Skelettmuskel mit der Menge an Caveolin-1 in Endothelzellen in
+etwa vergleichbar. Caveolin-3 ist in Kardiomyozyten mit 11,45±0,35
+Goldpartikeln als zytochemischer Hinweis / 1 µm² Membranfläche signifikant geringer vorhanden. Eine deutlich geringere Dichte an Goldmarkierungen weist mit 8,52±0,26 Caveolin-1 in Kardiomyozyten auf. Im
+Vergleich zur Anzahl an Caveolin-1 in Endothelzellen entspricht der
+Wert nur circa 12,5%. Die mit Abstand geringste Dichte weist Caveolin2 in Kardiomyozyten mit nur 0,46±0,02 Markierungen / 1 µm² auf.
+
+Kardiomyozyten
+
+Markierungen je µm
+
+2
+
+12
+10
+8
+6
+4
+2
+0
+
+Caveolin-1
+
+Caveolin-2
+
+Caveolin-3
+
+Abbildung 17: Grafische Darstellung der Anzahl der Goldpartikel als immunzytochemischer Nachweis für die Caveoline 1-3 / 1 µm² Membranbruchfläche von Kardiomyozyten.
+
+43
+
+Endothelzellen
+Markierungen je µm
+
+2
+
+70
+60
+50
+40
+30
+20
+10
+0
+
+Caveolin-1
+
+Caveolin-2
+
+Abbildung 18: Grafische Darstellung der Anzahl der Goldpartikel als immunzytochemischer Nachweis für Caveolin-1 und -2 / 1 µm² Membranbruchfläche von Endothelzellen.
+
+Kardiomyozyten vs. Skelettmuskel
+
+Markierungen je µm
+
+2
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+Kardiomyozyten
+Caveolin-3
+
+Skelettmuskel
+Caveolin-3
+
+Abbildung 19: Grafische Darstellung der Anzahl der Goldpartikel als immunzytochemischer Nachweis für Caveolin-3 / 1 µm² Membranbruchfläche von Kardiomyozyten und
+Skelettmuskelzellen.
+
+44
+
+4. Diskussion
+_________________________________________________________
+
+4.1 Die Gefrierbruch-Immunzytochemie: Methodische Aspekte
+
+4.1.1 Vorteile
+Für das Erkennen spezieller Membranbestandteile und ihrer Eigenschaften ist die Kenntnis vom allgemeinen Membranaufbau Voraussetzung. Chemische Analysen haben gezeigt, dass alle Zellmembranen
+eukaryotischer Organismen hauptsächlich aus Proteinen und Lipiden
+aufgebaut sind. Obwohl jeder Membrantyp spezielle Funktionen besitzt,
+weisen ihre allgemeinen physikalischen Eigenschaften darauf hin, dass
+sie aus gleichen Strukturen bestehen. Auch der dreischichtige Aufbau
+der Membran im Ultradünnschnitt - ursprünglich als Einheitsmembran
+bezeichnet - deutet auf die grundsätzliche Gleichheit der molekularen
+Organisation einer Zellmembran hin. Obwohl der grundsätzliche Bauplan aller Membranen gleich ist, unterscheiden sie sich im Detail, und
+die spezifischen Lipid– und Proteinkomponenten variieren und unterteilen eine individuelle Membran in verschiedene topographische Bereiche
+mit unterschiedlichen funktionellen Eigenschaften. Das heute angewandte sogenannte „fluid mosaic"-Membranmodell von SINGER und
+NICOLSON (1972) setzt voraus, dass die Membranmatrix aus einer
+Lipiddoppelschicht besteht. In diese Lipiddoppelschicht sind die Membranproteine inkorporiert und mehr oder weniger frei beweglich. Hinweise dafür, dass Proteine teilweise oder vollständig die Lipiddoppelschicht penetrieren und sich frei bewegen können, lieferten Untersuchungen an Membrangefrierbrüchen. Der Gefrierbruch spaltet eine Einheitsmembran entlang ihrer hydrophoben Zone zwischen der Lipiddoppelschicht in zwei komplementäre Spalthälften, die entsprechend der
+von BRANTON et al. (1975) vorgeschlagenen Nomenklatur als PF (protoplasmic face) und als EF (exoplasmic face) bezeichnet werden. Auf
+den Membranbruchflächen lassen sich nach der Replikation mit Platin
+und Kohle intramembranöse Partikel (IMP) auf glattem Untergrund er-
+
+45
+
+kennen. Die glatten Areale entsprechen der Lipidschicht, und die IMP
+stellen die in die Membran inkorporierten Proteine dar.
+Einer der größten Vorteile des Gefrierbruchverfahrens ist, dass es benutzt werden kann, um die topographisch und funktionell unterschiedlichen Proteinmuster auf ausgedehnten Membranbruchflächen zu untersuchen. Ihre Darstellung in den Replikas ermöglicht auf diese Weise
+eine detaillierte Analyse ihrer Topographie und Dynamik unter physiologischen, experimentellen und pathologischen Bedingungen. Die Identität, Bedeutung und Funktion der IMP ist dagegen bisher weitestgehend unbekannt geblieben. Die Klärung dieser Fragen scheiterte bisher
+an dem Vorhandensein geeigneter Methoden. Ursprünglich war man
+der Ansicht, dass es unmöglich sei, IMP direkt zu markieren, da keine
+Membranproteine oder andere biologische Moleküle übrigbleiben,
+nachdem die Replikas mit den bisher üblichen Reinigungsmitteln - in
+der Regel Chlorbleiche oder Chromschwefelsäure - gereinigt wurden.
+Die Entwicklung von Verfahren, die eine gleichzeitige subzelluläre Lokalisation und biochemische Identifizierung der Membranproteine erlauben, ist gegenwärtig das Hauptziel der Gefrierbruchmethode. Die in
+den 70er und 80er Jahren eingeführten Methoden für die zytochemische Markierung von IMP, wie z.B. die Gefrierbruch-Autoradiographie
+(FISHER und BRANTON 1976, RASH et al. 1981) und sogenannten
+"Fracture-Flip"-Methoden (ANDERSSON FORSMAN und PINTO DA
+SILVA 1988, s. Reviews: SEVERS 1989, SEVERS und ROBENEK
+1983, SEVERS und SHOTTON 1995) sind umständlich, kompliziert und
+wenig reproduzierbar. Außerdem ist ihre Aussagekraft limitiert und ungenau. Sie haben daher keine weite Verbreitung gefunden.
+FUJIMOTO (1995) beschrieb einen völlig neuen Ansatz für die Kombination der Gefrierbruchmethode mit immunzytochemischen Verfahren.
+Diese Methode erlaubt die direkte Markierung von Membranproteinen in
+Platin/Kohle Replikas. Wesentliches Merkmal dieser Methode ist die
+Verwendung des Detergens Natrium Dodecyl Sulfat (NDS) anstelle von
+Chlorbleiche für die Reinigung der Platin/Kohle Replikas. FUJIMOTO
+konnte zeigen, dass durch die Behandlung der Platin/Kohle Replikas
+mit NDS fast alle zellulären Komponenten entfernt werden - ähnlich wie
+
+46
+
+mit der herkömmlichen Chlorbleiche - außer denen jedoch, die in direktem Kontakt mit dem Platin/Kohle Replika sind; dies sind die Membranbruchflächen mit den inkorporierten Membranproteinen. Die Membranproteine bleiben in den Replikas erhalten und sind für eine immunzytochemische Darstellung zugänglich.
+Diese NDS-Gefrierbruch-Immunzytochemie ist allen bisherigen Methoden überlegen und zurzeit die Methode der Wahl bei der Identifizierung
+von Membranproteinen in situ. Im Gegensatz zur Originalmethode von
+FUJIMOTO (1995) benutzen wir, bevor die Zellen tiefgefroren werden,
+eine kurze, maximal 3 min dauernde Behandlung mit Glycerin aus folgenden Gründen:
+
+
+Da wir Gefrierbrüche in der uns zur Verfügung stehenden Balzers Gefrierbruchanlage nur mit Hilfe eines Messers durchführen
+können, entstehen große Druckkräfte auf den zu schneidenden
+bzw. brechenden Eisblock. Der Zusatz von Glycerin wirkt stabilisierend und verstärkt die Haftung des Eisblocks an die Unterlage, so dass er nicht so leicht weggebrochen wird.
+
+
+
+Die Behandlung der Proben mit Glycerin bewirkt eine geringere
+Eiskristallbildung und damit insgesamt einen besseren ultrastrukturellen Erhalt und eine detailliertere Darstellung der Organellen,
+insbesondere der Membranen kleiner Organellen und Vesikel.
+
+
+
+Eine Beeinträchtigung der Verteilung der Caveolae und des Caveolin-1 sowie der IMP in den Membranbruchflächen wurde nach
+der Glycerinbehandlung gegenüber unbehandelten Zellen nicht
+beobachtet.
+
+Ein großes Problem bei der immunelektronenmikroskopischen Lokalisierung von Proteinen ist der mögliche Verlust der Antigenizität, der
+durch die notwendige Fixierung der Zellen oder Gewebe eintreten kann.
+Für die Fixierung werden Aldehyde eingesetzt, wobei Formaldehyd und
+Glutaraldehyd am häufigsten verwendet werden. Durch die Glutaraldehydfixierung erreicht man aufgrund der intensiven Quervernetzung zellulärer Proteine eine gute Erhaltung der Zellstruktur; allerdings geht dabei in der Regel die Antigenizität verloren. Die Formaldehydfixierung
+
+47
+
+dagegen erhält die Struktur der Zellen bei weitem nicht so gut wie die
+Glutaraldehydfixierung, bietet jedoch den Vorteil, dass bei akzeptabler
+Darstellung der Struktur auch die Antigenizität - zumindest für einige
+Proteine erhalten bleibt. Daher ist die Formaldehydfixierung die am besten geeignete Fixierungsmethode für die Immunelektronenmikroskopie
+von Zellen und Geweben. Mindestens eine Formaldehydfixierung von
+Zellen und Geweben ist auch für die Kryoultramikrotomie und anschließende Postembedding-Immunzytochemie, die sich bisher am besten
+von allen immunzytochemischen Techniken in der Elektronenmikroskopie bewährt hat, erforderlich. Der Grund hierfür liegt darin, dass man
+zum Unterdrücken von Eiskristallartefakten beim Einfrieren eine 2,3 M
+Saccharoselösung als Frostschutz verwendet. Eine solch hochkonzentrierte Lösung kann jedoch nur an durch chemische Fixierung stabilisierten Zellen und Geweben angewendet werden. Hierzu genügen Aldehyde in vergleichsweise schwachen Konzentrationen, welche in vielen Fällen die Antigenizität nicht störend beeinflussen.
+Die NDS-Gefrierbruch-Immunzytochemie bietet erstmals die Möglichkeit, Zellen durch vollständigen Verzicht auf chemische Fixierung bei
+optimaler Strukturerhaltung immunzytochemisch analysieren zu können. Mit dieser Methode wird neben optimaler Strukturerhaltung auch
+eine ultrastrukturelle Darstellung hochempfindlicher antigener Bindungsstellen erreicht, die sonst selbst schon bei schwacher chemischer
+Fixierung zerstört würden. Durch diese Methode kann ferner außerdem
+eine dem Naturzustand recht nahekommende Erhaltung der Ultrastruktur der Zellen erreicht werden. Denn durch die schnelle Gefrierfixation
+werden nicht nur die Proteinkomponenten erhalten, sondern sie
+verbleiben auch in ihrer ursprünglichen Lokalisation. Dies ist insbesondere für die Untersuchung von Proteinkomponenten in Membranen von
+unschätzbarem Vorteil, da es sich bei Membranen bekanntlich um eine
+Lipiddoppelschicht handelt, in der die Membranproteine leicht frei beweglich sind.
+
+48
+
+4.1.2. Nachteile
+Diesen großen Vorteilen stehen Einschränkungen gegenüber, die sich
+im Wesentlichen auf zwei Bereiche erstrecken.
+1. Eine dieser Einschränkungen betrifft den Anwendungsbereich
+dieser Methode. Bisher war diese Methode weitestgehend nur
+anwendbar auf kultivierte Zellen oder Zellen in Suspensionskultur. Membranproteine in komplexen Gewebestücken lassen sich
+leider nicht darstellen mit Ausnahme der hier untersuchten Gewebe. Dies hängt mit dem NDS-Reinigungsvorgang zusammen.
+Für die Reinigung der Replikas mit NDS ist es notwendig, die
+Präparate kräftig zu schütteln. Selbst bei Zellkulturen gelingt die
+Reinigung dabei oft nur unvollständig. Gewebestücke anderer
+anatomischer Strukturen widersetzen sich der Reinigung mit
+NDS noch stärker, da der Anteil an extrazellulärer Matrix deutlich
+höher ist. Dabei kommt es dann zu starker Fragmentierung der
+fragilen Replikas. Diese Fragmente sind meistens so klein, dass
+sie sich nur mühsam auf Netze aufnehmen lassen. Außerdem
+kommt es zu einem Verlust der histologischen Orientierung in
+den Replikafragmenten (RASH et al. 1998).
+2. Die zweite Einschränkung dieser Methode betrifft die Bedampfung und der damit zusammenhängenden Bindung der Membranproteine an das Platin/Kohle Replika und ihre Verfügbarkeit
+für die immunzytochemische Darstellung. FUJIMOTO (1995)
+nahm an, dass die Kohleatome die Membranproteine so stark
+adsorbieren, dass sie mit dem Detergens nicht entfernt werden
+können. RASH und YASUMURA (1999) dagegen sind der Meinung, dass der hydrophobe Kohlefilm die hydrophobe Oberfläche des Membranbruches stabilisiert. Ihre Untersuchungen bestätigen die Ansicht von FUJIMOTO, dass für die Immungoldmarkierung der Membranproteine eine Proteinstabilisierung durch
+Platinbeschattung nicht notwendig ist. Ferner konnten sie zeigen,
+dass Membranregionen in Replikas, die mit weniger oder ohne
+Platin bedampft waren, eine stärkere Goldmarkierung aufwiesen
+
+49
+
+als Membranregionen mit einer gleichmäßig gemischten Platin/Kohle Bedampfung. Daraus lässt sich schließen, dass die
+stark stabilisierenden Eigenschaften von Kohle ausreichen für
+eine Bindung von Membranproteinen an das Replika nach NDSReinigung.
+Auch unsere eigenen Ergebnisse bestätigen, dass in den Membranregionen, die weniger mit Platin bedampft wurden, in der Regel eine stärkere Immungoldmarkierung zu beobachten war als in den Regionen mit
+einer gleichmäßig gemischten Platin/Kohle Bedampfung. Für unsere
+quantitativen Analysen bedeutete dies, dass wir nur solche Regionen
+für eine Auswertung herangezogen haben, die eine gleichmäßige Platin/Kohle Bedampfung aufwiesen. Regionen, die überwiegend eine reine Kohlebedampfung zeigten, wurden von der Auswertung ausgeschlossen. Die Ursachen, die zu einer stärkeren Immungoldmarkierung
+in den hauptsächlich nur mit Kohle bedampften Replika-Regionen führen, sind in der Literatur nicht genannt. Eine mögliche Erklärung könnte
+aber der unterschiedliche Bedampfungswinkel zwischen Platin (38°)
+und Kohle (45°) sein. Wenn ein Membranprotein nur von oben mit Kohle bedampft wird und nicht zusätzlich von der Seite mit Platin, stehen
+möglicherweise mehr Epitope für eine immunzytochemische Markierung zur Verfügung, die dann in einer größeren Anzahl von Goldpartikeln zum Ausdruck kommt.
+
+4.1.3. Der geeignete Marker
+Die Caveolae und Caveoline-1, -2 und -3 sind überwiegend in der
+Plasmamembran lokalisiert. Wie bereits beschrieben, erfordert die Untersuchung ihrer topographischen Verteilung die Darstellung möglichst
+ausgedehnter Membranbruchflächen. Ferner ist die Anwendung eines
+geeigneten zytochemischen Markers, welcher der Technik für die Darstellung der Membranbruchflächen angepasst ist, notwendig. Prinzipiell
+können viele zytochemische Techniken und Marker in Verbindung mit
+Platin/Kohle Replikas angewandt werden. Die Marker, die am häufigsten für die Markierung von Membrankomponenten in Platin/Kohle
+
+50
+
+Replikas eingesetzt wurden, sind Ferritin, Hämocyanin, Silicapartikel,
+Latexpartikel und Meerrettich-Peroxidase. Sie sind jedoch für die Anwendung in Platin/Kohle Replikas mit erheblichen Nachteilen behaftet.
+Diese Marker lassen sich in Platin/Kohle Replikas nur schwer identifizieren und sind aufgrund ihrer mangelnden Elektronendichte nicht deutlich vom Untergrund zu unterscheiden. Sie sind leicht mit kleinen Oberflächenstrukturen zu verwechseln, das bedeutet, dass eine positive
+Markierung im Vergleich mit unmarkierten Kontrollpräparaten nur ungenau beurteilt werden kann.
+Marker, die im Schatten größerer Oberflächenstrukturen liegen, werden
+übersehen. Ferner ist die Beurteilung von unspezifisch gebundenen
+Markern schwierig. Aufgrund dieser Nachteile ist der Wert dieser Marker für eine exakte Lokalisation und angestrebte Quantifizierung von
+Zellmembrankomponenten in Platin/Kohle Replikas stark begrenzt.
+Diese Schwierigkeiten können vermieden werden, wenn kolloidale
+Goldpartikel als Marker benutzt werden (ROBENEK 1992, ROBENEK
+und SEVERS 1993). Kolloidale Goldpartikel haben sich nicht nur für die
+Markierung von intrazellulären Makromolekülen bei Pre- und Postembedding-Verfahren, sondern auch speziell für die Anwendung bei Platin/Kohle Replikas aufgrund ihres hohen Eigenkontrastes als ideale
+Marker erwiesen. Sie können darüber hinaus in unterschiedlichen Größen hergestellt werden und sind leicht mit Antikörpern zu koppeln. Sie
+sind hochspezifisch und sehr sensibel, so dass sie für eine quantitative
+Analyse eingesetzt werden können.
+
+4.2. Topographie und Dynamik von Caveolin-1 ,-2 und -3 in der
+Plasmamembran der Kardiomyozyten und der Skelettmuskelzellen
+In den Plasmamembranen der von uns untersuchten Zellen/Geweben
+können Caveolae zahlreich oder minimal vorhanden sein. Die Verteilung kann gleichmäßig, in Reihen oder Gruppen sein. Ebenso kommen
+Areale hoher Konzentration an Caveolae neben Arealen vor, die kaum
+Caveolae aufweisen. Die höchste Dichte an Caveolae wurde in Endothelzellen gefunden. Hingegen konnten wir bei der Analyse von
+Kardiomyozyten keine Invaginationen der Plasmamembran sichtbar
+
+51
+
+machen. Dieses erlaubt aber nicht die fälschliche Schlussfolgerung,
+dass Kardiomyozyten auch frei von Caveolin-1 sind. Mit Hilfe der NDSGefrierbruch-Immunzytochemie konnten wir eindeutig die Existenz von
+Caveolin-1 in Kardiomyozyten und auch Skelettmuskelzellen nachweisen. In Untersuchungen von AHN et al. (2006) konnte gezeigt werden,
+dass bei Ratten, die unter einer induzierten autoimmunen Myokarditis
+litten, die Anzahl an Caveolin-1 und -2 im Herzen signifikant anstieg.
+Dabei wurde Caveolin-1 hauptsächlich in ED1-positiven Makrophagen
+gefunden, aber auch in einigen Kardiomyozyten. Dieses Ergebnis wird
+auch durch unsere Ergebnisse gestützt. Im Gegensatz dazu, wurde in
+früheren Arbeiten von van DEURS et al. (2003) Caveolin-1 in Herzmuskelzellen als nicht existent angesehen. Van DEURS et al. (2003) unternahmen Untersuchungen mit Caveolin-1 freien Mäusen, um die Funktion der Caveolae, in Bezug auf kardiovaskuläre Erkrankungen zu klären.
+Sie nahmen an, dass Caveolin-1 nicht selber in Herzmuskelzellen vorhanden ist. Das Fehlen des Caveolin-1 führte bei den Mäusen zur Hyperthrophie und Dilatation sowohl des linken als auch des rechten
+Ventrikels. Dieses Phänomen wurde auf das Fehlen des Caveolin-1 in
+anderen, im Herz existenten Zellen, wie z.B. Fibroblasten und Endothelzellen zurückgeführt. Dies sollte für die Herzabnormitäten möglicherweise verantwortlich sein. WILLIAMS und LISANTI (2004) stellten
+ebenfalls anhand von Untersuchungen an Caveolin-1 freien Mäusen
+fest, dass der Mangel an Caveolin Einfluss auf viele kardiovaskuläre
+Erkrankungen des Menschen hat. Sie konnten Caveolin-1 und -2 auch
+nur in Endothelzellen und Fibroblasten identifizieren. Caveolin-3 konnten sie in Kardiomyozyten und im Skelettmuskel sichtbar machen. Der
+Mangel an Caveolin-1 in Kardiomyozyten konnte in Ihren Untersuchungen damit nicht festgestellt werden, da sie auch in Wildtyp Mäusen kein
+Caveolin-1 in Herzmuskelzellen fanden. Somit wurde die Defizienz des
+Caveolin-1 als Ursache der Pathologien außer Acht gelassen.
+In unseren Untersuchungen konnte Caveolin-1 über primäre und sekundäre Antikörper mit Goldpartikeln markiert werden und anschließend
+im Elektronenmikroskop sichtbar gemacht werden. Die Markierungen
+weisen in Kardiomyozyten keine Assoziation zu Caveolae auf. Es wurden auch keine Invaginationen sichtbar. Basierend auf früheren Unter-
+
+52
+
+suchungen mit Hilfe der Western-blot-Analyse von SONG et al. (1996)
+konnten in vorherigen Versuchsreihen zwar geringe Mengen an Caveolin-1 in Skelettmuskelgewebe und Herzmuskelgewebe identifiziert werden, jedoch nahm man an, dass es sich hierbei um Proteine aus z.B.
+nicht oder nur schwer zu isolierenden Endothelzellen handeln müsse.
+Dies konnte in dieser Arbeit eindeutig wiederlegt werden. Goldmarkierungen als immunzytochemischer Nachweis für Caveolin-1 konnten in
+den untersuchten Geweben und Zellen ausschließlich auf den P-Seiten
+der Plasmamembranen beobachtet werden. Die E-Seiten waren vollkommen frei von Goldpartikeln. Die meisten Goldpartikel / 1 µm² Membranfläche befanden sich, wie zu erwarten war, in Endothelzellen. Die
+Verteilung der Goldpartikel innerhalb der Caveolae ist unterschiedlich
+und differiert nicht nur zwischen den Caveolinen-1, -2 und -3, sondern
+auch stark zwischen den unterschiedlichen Zellarten.
+
+53
+
+5. Zusammenfassung
+_________________________________________________________
+Durch das Verfahren der Gefrierbruchtechnik lässt sich eine Einheitsmembran entlang ihrer hydrophoben Zone zwischen der Lipiddoppelschicht in zwei komplementäre Spalthälften teilen, die als P-Seite und
+als E-Seite bezeichnet werden.
+Durch die Einführung von Natrium Dodecyl Sulfat (NDS) als Detergens
+für die Reinigung der Replikas wurde ein neuartiger Ansatz für die
+Kombination der Gefrierbruchmethode mit immunzytochemischen Verfahren eingeführt. Der Vorteil der Reinigung mit NDS gegenüber einer
+Reinigung der Replikas mit Chlorbleiche liegt darin, dass bei der Verwendung von NDS zur Spülung die Membranbruchflächen mit den inkorporierten Membranproteinen erhalten bleiben und so für eine immunzytochemische Darstellung zugänglich sind.
+Die NDS-Gefrierbruch-Immunzytochemie bietet außerdem erstmals die
+Möglichkeit, Zellen durch gänzlichen Verzicht auf chemische Fixierung
+bei optimaler Strukturerhaltung immunzytochemisch zu analysieren.
+Diese Methode ist allen bisher verfügbaren Verfahren an Präzision, Auflösungsvermögen und Spezifität weit überlegen.
+Bisher konnten mit der NDS-Gefrierbruch-Immunzytochemie nur kultivierte Zellen oder Zellen in Suspensionskultur analysiert werden. Erstmals ist es gelungen dieses Verfahren auch an Gewebestücken des
+Herz- und Skelettmuskels erfolgreich anzuwenden.
+Unsere Beobachtungen über die Lokalisation von Caveolin-1 in Kardiomyozyten und Skelettmuskelzellen wiedersprechen den meisten bisherigen in der Literatur beschrieben Ergebnissen. Die Annahme, dass das
+in den Muskelgeweben gefundene Caveolin-1 nicht selbst aus den
+Muskelzellen stammt, sondern von Endothelzellen oder Fibroblasten,
+die das Muskelgewebe begleiten bzw. nicht isoliert werden konnten,
+konnte als irrtümlich nachgewiesen werden. Mit Hilfe der NDSGefrierbruch-Immunzytochemie konnte eindeutig Caveolin-1 in der
+Plasmamembran der Kardiomyozyten und Skelettmuskelzellen der Ratte gezeigt werden.
+
+54
+
+Ferner konnte gezeigt werden, dass Caveolin-3, wie auch bisher in der
+Literatur beschrieben, muskelspezifisch ist und in Kardiomyozyten und
+Skelettmuskelzellen vorkommt. Auch mit der NDS-Gefrierbruch-Immunzytochemie konnte kein Caveolin-3 auf Endothelzellen gefunden werden.
+
+55
+
+6. Literaturverzeichnis
+_________________________________________________________
+Ahn M, Kim H, Matsumoto Y, Shin T (2006) Increased expression of
+caveolin -1 and -2 in the hearts of Lewis rats with experimental autoimmune myocarditis. Autoimmunity 36, 489-495
+Akkermann JWN, Nieuwenhuis HK, Sixma JJ (1987) Thrombose und
+Arteriosklese. Thomae GmbH, Biberbach an der Riss
+Andersson Forsman C, Pinto da Silva P (1988) Fracture-flip: new,
+high resolution images of cell surfaces after stabilization of freezefractured membranes. J Cell Sci 90, 531-541
+Branton D, Moor H (1964) Fine structure in freeze-etched
+Allium cepa L. root tips. J Ultrastruct Res 11, 401-411
+
+Branton D, Bullivant S, Gilula NB, Karnovsky MJ, Moor H,
+Mühlethaler K, Northcote DH, Packer L, Satir B, Satir P, Speth V,
+Staehelin LA, Steere RL, Weinstein RS (1975) Freeze-etching
+nomenclature. Science 190, 54-56
+Brown MS, Goldstein JL (1983) Lipoprotein metabolism in macrophages: implications for cholesterol deposition in atherosclerosis.
+Annu Rev Biochem 52, 223-261
+Brown MS, Goldstein JL (1990) Atheroslerosis: scavenging for
+receptors. Nature 343, 508-509
+Campbell JH, Campbell GR (1994) Cell biology of atherosclerosis.
+J Hypertension 12, 129-132
+
+56
+
+Chang WJ, Ying YS, Rothberg KG, Hooper NM, Turner AJ, Gambliel HA, De Gunzburg J, Mumby SM, Gilman AG, Anderson RGW
+(1994) Purification and characterization of smooth muscle cell caveolae.
+J Cell Biol 126, 127-138
+Couet J, Belanger MM, Roussel E, Drolet M-C (2001) Cell biology of
+caveolae and caveolin. Advanced Drug Delivery Reviews 49, 223-235
+Dempsey GP, Bullivant S, Watkins WB (1973) Endothelial cell membranes:
+
+polarity
+
+of
+
+particles
+
+as
+
+seen
+
+by
+
+freeze-fracturing.
+
+Science 720-731
+Fagiotto A, Ross R (1984) Studies of hypercholesterolemia in the nonhuman primate. II. Fatty streak conversion to fibrous plaque.
+Arteriosclerosis 4, 341-356
+Fielding JF, Fielding PE (2000) Cholesterol and caveolae: structural
+functional relationships. Biochim Biophys Acta 1529, 210-222
+Fisher KA, Branton D (1976) Freeze-fracture autoradiography:
+feasibility. J Cell Biol 70, 453-458
+Fra AM, Williamson E, Simons K, Parton RG (1995) De novo formation of caveolae in lymphocytes by expression of VIP21-caveolin.
+Proc Natl Acad Sci USA 92, 8655-8659
+Fujimoto K (1995) Freeze-fracture replica electron microscopy combined with SDS digestion for cytochemical labeling of integral membrane proteins. Application to the immunogold labeling of intercellular
+junctional complexes. J Cell Sci 108, 3443-3449
+Fujimoto K (1997) SDS-digested freeze-fracture replica labeling electron microscopy to study the two-dimensional distribution of integral
+membrane proteins and phospholipids in biomembranes: practical procedure, interpretation and application. Histochem Cell Biol 107, 87-96
+
+57
+
+Fujimoto K, Nagafuchi A, Tsukita S, Kuraoka A, Ohokuma A, Shibata Y (1997 a) Dynamics of connexins, E-cadherin and catenin on cell
+membranes during gap junction formation. J Cell Sci 110, 311-322
+Fujimoto K, Noda T, Fujimoto T (1997 b) A simple and reliable quick
+freezing/freeze-fracturing procedure. Histochem Cell Biol 107, 81-84
+Fujimoto T, Hagiwara H, Aoki T, Kogo H, Nomura R (1998) Caveolae: a morphological point of view. J Electron Microsc 47, 451-460
+Fujimoto T, Kogo H, Nomura R, Une T (2000) Isoforms of caveolin-1
+and caveolar structure. J Cell Sci 113, 3509-3517
+Furuse M, Sasaki H, Fujimoto K, Tsukita S (1998) A single gene
+product, claudin-1 or -2, reconstitutes tight junction strands and recruits
+occludin in fibroblasts. J Cell Biol 143, 391-401
+Fuster V, Badimon JJ, Chesebro JH (1992) The pathogenesis of
+coronary artery disease and the acute coronary syndromes. N Engl J
+Med 326, 242-250
+Gabella G (1978) Inpocketings of cell membrane (caveolae) in the rat
+myocardium. J Ultrastruct Res 65, 135-147
+Glass CK, Witztum JL (2001) Atherosclerosis: the road ahead.
+Cell 104, 503-516
+Green CR, Severs NJ (1983) A simplified method for the rapid isolation
+of cardiac intercalated discs. Tissue Cell 15, 17-26
+Hülser DF, Rehkopf B, Traub O (1997) Dispersed and aggregated gap
+junction channels identified by immunogold labeling of freeze-fracture
+membranes. Exp Cell Res 233, 240-251
+
+58
+
+Jacobson BS, Schnitzer JE, McCaffery M, Palade GE (1992) Isolation and partial characterization of luminal plasmalemma of microvascular endothelium from rat lungs. Eur J Cell Biol 58, 296-306
+Koleske AJ, Baltimore D, Lisanti MP (1995) Reduction of caveolin
+and caveolae in oncogenically transformed cells. Proc Natl Acad Sci
+USA 92, 1381-1385
+Lee SW, Reimer CL, Oh P, Campbell DB, Schnitzer JE (1998) Tumor
+cell groth inhibition by caveolin re-expression in human breast cancer
+cells. Oncogene 16, 1391-1397
+Levin KR, Page E (1980) Quantitative studies on plasmalemmal folds
+and caveolae rabbit ventricular myocardial cells. Circ Res 46, 244-255
+Libby P (2006) Inflammation and cardiovascular disease mechanisms.
+Am J Clin Nutr 83, 456-460
+Lisanti MP, Scherer PE, Tang ZL, Sargiacomo M (1994a) Caveolae,
+caveolin and caveolin-rich membrane domains: a signalling hypothesis.
+Trends Cell Biol 4, 231 -235
+
+Lisanti MP, Scherer PE, Vidugiriene J, Tang ZL, HermanowskiVosatka A, Tu YH, Cook RF, Sargiacomo M (1994b) Characterization
+of caveolin-rich membrane domains isolated from endothelial-rich
+source: implications from human disease. J Cell Biol 126, 111-126
+
+Mastragelopulos N, Haraszthy VI, Zambon JJ, Zafiropoulos GG
+(2002) Detection of periodontal pathogenic microorganisms in atheromatous plaque. Chirurg. 2002, 785-791
+Mazzone RW, Kornblau S (1981) Size of pores of Kohn: influence of
+transpulmonary and vascular pressures. J Appl Physiol21, 739-745
+
+59
+
+Moor H, Mühlethaler K (1963) Fine structure in frozen-etched yeast
+cells. J Cell Biol 17, 609-588
+Munro M, Cotran RS (1988) The pathogenesis of atherosclerosis:
+atherogenesis and inflammation. Lab Invest 58, 249-261
+Nomura R, Fujimoto K (1999) Tyrosine-phosphorylated caveolin-1:
+immunolocalization and molecular characterization. Mol Cell Biol 10,
+975-986
+
+Palade
+
+GE
+
+(1953)
+
+The
+
+fine
+
+structure
+
+of
+
+blood
+
+capillaries.
+
+J Appl Phys 24, 1424
+
+Petersson C, Larsson B, Mahdavi J, Boren T, Magnusson K-E
+(2000) A new method to visualize the Heliobacter pylori-associated
+Lewis-binding adhesion utilizing SDS-digested freeze-fracture replica
+labelling. J Histochem Cytochem 48, 877-883
+Rash JE, Hudson CS, Mayer RF, Graham WF (1981) Freeze-fracture,
+labelled replica and electrophysiological studies of junctional fold
+destruction in myasthenia gravis and experimental autoimmune
+myasthenia gravis. Ann NY Acad Sci 377, 38-60
+Rash JE, Yasumura T, Hudson CS, Agre P, Nielsen S (1998) Direct
+immunogold labeling of aquaporin-4 in square arrays of astrocyte and
+ependymocyte plasma membrane in rat brain and spinal cord.
+Proc Natl Acad Sci USA 95, 11981-11986
+Rash JE, Yasumura T (1999) Direct immunogold labeling of connexins
+and aquaporin-4 in freeze-fracture replicas of liver, brain and spinal
+cord: factors limiting quantitation analysis. Cell Tiss Res 296, 307-321
+Robenek H (1992) Mikroskopie in Forschung und Praxis. GIT Verlag
+Darmstadt
+
+60
+
+Robenek H, Severs NJ (1992) Cell Interactions in atherosclerosis.
+CRS Press, Boca Raton, FL, USA
+Robenek H, Severs NJ (1993) Lipoprotein receptors on macrophages
+and smooth muscle cells. Curr Topics Pathol 87, 73-123
+Ross R (1993 a) The pathogenesis of atherosclerosis: a perspective of
+the 1990´s. Nature 362, 801-809
+Ross R (1993 b) The 1992 Rous-Whipple Lecture. Atheroslerosis: a
+defense mechanism gone awry. Am J Pathol 143, 987-1002
+Ross R (1995) Growth regulatory mechanisms and formation of the
+lesion in atherosclerosis. Annu NY Acad Sci 748, 1-6
+Ross R, Glomset JA (1973) Atherosclerosis and the arterial smooth
+muscle cell. Science 180, 1332-1340
+Ross R, Glomset JA (1976) The pathogenesis of atherosclerosis. N
+Engl J Med 295, 369-377
+
+Rothberg KG, Heuser JE, Donzell WC, Ying YS, Glenney JR,
+Anderson RGW (1992) Caveolin, a protein component of caveolae
+membrane coats. Cell 68, 673-682
+
+Sager R, Sheng S, Anisowicz A, Sotiropoulous G, Zou Z, Stenman
+G, Swisshelm K, Chen Z, Hendrix MJC, Pemberton P, Radifi K,
+Ryan K (1994) RNA genetics of breast cancer. Maspin as a paradigm.
+Cold Spring Harbor Symp Quant Biol 59, 537-546
+Sargiacomo M, Sudol M, Tang ZL, Lisanti MP (1993) Signal transducing molecules and glycosyl-phosphatidylinositol-linked proteins from
+caveolin-rich insoluble complex in MDCK cells. J Cell Biol 122, 789-807
+
+61
+
+Schnitzer JE, Oh P, Jacobson BS, Dvorak AM (1995) Caveolae from
+luminal plasmalemma of rat lung epithelium: microdomains enriched in
+caveolin, Ca²+-APTase, and inositol triphosphat receptor. Proc Natl
+Acad Sci USA 92, 1759-1763
+Severs NJ (1989) Freeze-fracture cytochemistry: review of methods.
+J Electron Microsc 13,175-203
+Severs NJ (2000) The cardiac muscle cell. Bioessays 22, 188-199
+Severs NJ, Robenek H (1983) Detection of microdomains in biomembranes – an appraisal of recent developments in freeze-fracture
+cytochemistry.
+Biochim Biophys Acta (Reviews on Biomembranes) 737, 373-408
+Severs NJ, Shotton DM (1995) Rapid freezing, freeze fracture, and
+deep etching. Wiley Liss Inc, New York
+Singer SJ, Nicolson GL (1972) The fluid mosaic model of the structure
+of cell membranes. Science 175, 720-731
+Smart EJ, Ying YS, Mineo C, Anderson RGW (1995) A detergent-free
+method for purifying caveolae membrane from tissue culture cells.
+Proc Natl Acad Sci USA 92, 10104-10108
+Smart EJ, Ying YS, Donzell WC, Anderson RGW (1996) a role for
+caveolin in transport of cholesterol from endoplasmic reticulum to
+plasma membrane. J Biol Chem 871, 29427-29435
+
+Song KS, Li SW, Okamoto T, Quilliam LA, Sargiacomo M, Lisanti
+MP (1996) Co-purification and direct interaction of Ras with caveolin, an
+integral
+
+membrane
+
+protein
+
+J Biol Chem 271, 9690-9697
+
+of
+
+caveolae
+
+microdomains.
+
+62
+
+Song KS, Scherer PE, Tang ZL, Okamoto T, Li SW, Chafel M, Chu
+C, Kohtz DS, Lisanti MP (1996) Expression of Caveolin-3 in Skeletal,
+Cardiac, and Smooth Muscle Cells. J Biol Chem 271, 15160-15165
+Stary HC (1989) Evolution and progression of atherosclerotic lesions in
+coronary arteries of children and young adults. Arterioscleosis 9, 1-19
+
+Stary HC, Chandler AB, Glasgov S, Guyton JR, Insull W, Rosenfeld
+ME, Schaffer A, Schwartz CJ, Wagner WD, Wissler RW (1995) A
+definition of advanced types of atherosclerotic lesions and a histological
+classification of atherosclerosis. Circulation 92, 1355-1374
+Steere RL (1957) Electron microscopy of structural detail in frozen
+biological specimens. J Biophys Biochem Cytol 3, 45-60
+
+Steinberg D, Parthasarathy S, Carew TE, Khoo JC, Witztum JL
+(1989) Beyond cholesterol: modifications of low density lipoprotein that
+increase its atherogenicity. N Engl J Med 320, 915-924
+
+Takayama I, Terada N, Baba T, Ueda H, Kato Y, Fujii Y, Ohno S
+(1999)
+
+”In vivo cryotechnique”
+
+in combination with replica immuno
+
+electron microscopy for caveolin in smooth muscle cells. Histochem
+Cell Biol 112,443-445
+Takizawa T, Takuma S, Robinson JM (1998) Freeze-fracture cytochemistry: a new method combining immunocytochemistry and enzyme
+cytochemistry on replicas. J Histochem Cytochem 46, 11-17
+Takizawa T (1999) High-resolution immunocytochemical labeling of
+replicas with ultrasmall gold. J Histochem Cytochem 47, 569-573
+Takizawa T, Robinson JM (2000) Freeze-fracture cytochemistry: a
+new fracture labeling method for topological analysis of biomembranes
+molecules. Histol Histopathol 15, 515-522
+
+63
+
+Travis J (1993) Army targets a potential vaccine against cholesterol
+Science 24, 1974-1975
+Van Deurs B, Roepstorff K, Hommelgaard AM, Sandvig K (2003)
+Caveolae: anchored, multifunctional platforms in the lipid ocean. Trends
+in Cell Biology 13, 92-100
+Wahrburg U (1989) Welche Rolle spielen die Risikofaktoren? Arteriosklerose: Riskofaktoren, Vorbeugung, Therapie. Richtige Ernährung bei
+erhöhtem Cholesterinspiegel. Falken, Niederhausen, 16-17
+Welsch U (1997) Histologie. Urban & Schwarzenberg Verlag
+Williams TM, Lisanti MP (2004) The Caveolin genes: from cell biology
+to medicine. Ann Med. 36, 584-595
+Wu C, Butz S, Ying YS, Anderson RGW (1997) Tyrosine kinase receptors concentrated in caveolae-like domains from neuronal plasma
+membrane. J Biol Chem 272, 3555-3559
+Yamada E (1955) The fine structure of the gall bladder epithelium.
+J Biophys Biochem Cytol 1, 445-458
+

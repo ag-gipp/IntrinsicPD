@@ -1,0 +1,2956 @@
+Aus dem Universitätsklinikum Münster
+Klinik und Poliklinik für Anästhesiologie und operative
+Intensivmedizin
+Direktor: Univ.-Prof. Dr. med. Dr. h. c. H. van Aken
+
+Messung von exhaliertem Kohlenmonoxid bei
+maschinell beatmeten, kritisch kranken Patienten und
+deren Korrelation mit Organdysfunktionen
+
+Inaugural – Dissertation
+zur
+Erlangung des doctor medicinae
+der Medizinischen Fakultät der
+Westfälischen Wilhelms-Universität Münster
+
+vorgelegt von:
+von Ostrowski, Thomas
+aus Danzig (Polen)
+
+2005
+
+1. Einleitung
+1.1 Monitoring in der Intensivmedizin
+Die Überwachung, speziell in der Intensivmedizin, umfasst die Beobachtung, Messung und
+Registrierung veränderlicher Funktionen des Intensivpatienten. Beim kritisch kranken
+Intensivpatienten sind häufig mehrere Organfunktionen gefährdet oder beeinträchtigt, so dass
+zumeist ein umfangreiches Überwachungsprogramm erforderlich ist. Im Mittelpunkt stehen
+hierbei die sog. Vitalorgane, d.h. die Funktion des Herz-Kreislauf-Systems und der Lunge,
+ergänzt durch die Erfassung einer Vielzahl weiterer Variablen und Parameter.
+Wesentliches Ziel ist die frühzeitige Erkennung von Störungen des physiologischen
+Gleichgewichts und die Erfolgskontrolle therapeutischer Maßnahmen. Dabei ist die
+Zuverlässigkeit der erhobenen Befunde und Messdaten wichtig, da sie häufig die Grundlage
+für therapeutische Entscheidungen darstellt. Alle Überwachungsmaßnahmen müssen sinnvoll
+sein. Eine Abwägung von Nutzen, Risiken und Kosten für den jeweiligen Bedarf muss immer
+gewährleistet sein. Nicht zuletzt ist das Ansammeln unzähliger irrelevanter Daten zu
+verhindern, denn es erschwert die integrative Beurteilung des Zustands des Patienten und
+behindert im ungünstigsten Fall den therapeutischen Entscheidungsprozeß.
+Anhand der vorliegenden Studie soll untersucht werden, ob exhaliertes Kohlenmonoxid (CO)
+einen Parameter darstellt, anhand dessen der Schweregrad einer Erkrankung ermittelt und
+somit möglicherweise Rückschlüsse auf den Verlauf einer Erkrankung gezogen werden
+können.
+
+1.2 CO in der Medizin
+1.2.1 Charakterisierung des CO
+CO ist ein farb- und geruchloses Gas, das grundsätzlich bei unvollständiger Verbrennung,
+z.B. in schadhaften Öfen und Feuerstellen, als Autoabgas, aber auch an jeder Brandstätte
+entsteht. CO ist daher bei jeder Rauchgasinhalation beteiligt. Methylenchlorid, ein
+Farblösungsmittel, wird zu CO metabolisiert (Schmailzl KJG et al., 1995). Das Gas weist eine
+240-mal stärkere Affinität zum Hämoglobin (Hb) auf als O2 und verdrängt es daher aus seiner
+Bindung (Nunn JF et al., 1968). Zudem blockiert es die zelluläre Atmungskette. Hierdurch
+1
+
+wird die O2-Transportkapazität kritisch reduziert. Bindet sich das CO an Myoglobin wird
+auch hier die Transportfähigkeit für O2 beeinträchtigt. In hohen Dosen ist CO ein toxisches
+Gas (Dolan MC et al., 1985).
+
+1.2.2 Exogenes CO und seine Wirkung auf den menschlichen Organismus
+Letztendlich resultiert bei zunehmender CO-Aufnahme und Bildung von Carboxyhämoglobin
+(COHb) ein Sauerstoffmangel, der eine Gewebshypoxie und eine Laktatazidose aufgrund des
+anaeroben Stoffwechsels nach sich zieht. Entfällt die Exposition, zerfällt der COHämoglobinkomplex, wodurch CO wieder frei wird und über die Lungen abgeatmet werden
+kann (Ginsberg MD et al., 1985; Schmailzl KJG et al., 1995). Klinisch manifestiert sich die
+resultierende Hypoxie v.a. im zentralen Nervensystem und im Herz-Kreislauf-System (Tab.
+1). Wegen der kirschroten Farbe des COHb entsteht keine Zyanose. Das Ausmaß der
+Hypoxämie kann nicht am arteriellen pO2 abgelesen werden und die Pulsoxymetrie liefert
+systematisch falsche Werte. Nur durch direkte CO-Oxymeterie kann das Ausmaß der
+Intoxikation quantitativ erfasst werden. Die klinische Symptomatik korreliert eng mit der
+steigenden COHb-Konzentration im Blut.
+Tab. 1: Klinische Symptomatik bei der CO-Vergiftung (aus Buchardi, Larsen, Schuster, Suter,
+Intensivmedizin, 8., S. 491, Springer Verlag Berlin Heidelberg New York, 2001)
+
+CO-HB (% IM BLUT)
+
+SYMPTOME
+
+0-10
+
+Keine
+
+10-20
+
+Leichte Kopfschmerzen,
+Angina pectoris bei Belastung,
+Dyspnoe bei schwerer Belastung
+
+20-30
+
+Klopfende Kopfschmerzen,
+Thoraxschmerzen,
+Dyspnoe bei mäßiger Belastung
+
+30-40
+
+Schwere Kopfschmerzen,
+Übelkeit, Erbrechen,
+Seh- und Denkstörungen
+
+40-50
+
+Bewusstlosigkeit, Tachykardie,
+Tachypnoe, Ataxie
+
+2
+
+50-60
+
+Koma, Krämpfe,
+Cheyne-Stokes-Atmung
+
+> 60
+
+Schwere Atem- und Kreisaufstörung,
+Exitus
+
+Wie
+
+Tab.1 zu entnehmen ist, treten bereits bei einem CO-Gehalt von 20%
+
+Intoxikationssymptome auf. Durch den ansteigenden Sauerstoffmangel der Organe treten je
+nach Dosis und Expositionsdauer oben beschriebene Symptome auf. Im Verlauf der
+Intoxikation kann es zum Lungen- und Hirnödem kommen. Eine metabolische Azidose ist in
+der arteriellen Blutgasanalyse erkennbar. Eine langsame Intoxikation kann zunächst zu
+Hypotension und EKG-Veränderungen führen. Das Auftreten eines Anstiegs der QT-Strecke
+im EKG gilt als ein direktes Maß der Intoxikation. Hierdurch wird die Grundlage für
+Arrhythmien des Herzen gelegt, die letztendlich zu Herzversagen und Tod führen können
+(Gurkan Y et al., 2002; Schmailzl KJG et al., 1995). Noch 2 bis 28 Tage nach einer akuten
+CO-Vergiftung können sich mitunter sehr gefährliche Situationen ergeben. So können
+insbesondere neuropsychiatrische Symptome, wie das Auftreten eines Morbus Parkinson,
+beobachtet werden. Bei jungen Patienten fällt häufiger die Entwicklung einer Polyneuropathie
+auf (Jaeckle RS et al., 1985; Lee HF et al., 2001). Zu einer Rhabdomyolyse mit akutem
+Nierenversagen kann es bei Bindungszuständen zwischen CO und Myoglobin kommen
+(Wolff E et al., 1994). Aufgrund des zunehmenden Sauerstoffmangels kommt es, bedingt
+durch
+
+eine
+
+mitochondrial
+
+vermittelte
+
+Inhibition
+
+der
+
+Cytochrom
+
+C-Oxidase,
+
+zu
+
+Membranschäden an Lymphozyten (Miro A et al., 1999). Die Höhe des während der akuten
+Intoxikation gemessenen COHb-Spiegels reflektiert die Schwere der Symptome und die
+Prognose des Patienten (Raub JA et al., 2000).
+Die Therapie der CO-Vergiftung besteht zunächst in der Unterbrechung der Exposition und
+Beseitigung der Asphyxie. Indiziert ist die 100%ige O2-Beatmung bereits an der Notfallstelle,
+möglichst mit Intubation und Beatmung, da nur so wirklich 100% O2 zugeführt werden
+können. Vermeintlich „normale“ Pulsoxymetriewerte dürfen nicht fehlgedeutet werden. Die
+hohe O2-Konzentration hat zwei Effekte:
+•
+
+Zunächst wird das asphyktische Gewebe zusätzlich mit O2 versorgt. Bei einem FiO2
+von 1,0 steht damit zumindest ein Teil des O2-Bedarfs des Organismus in gelöster
+Form zur Verfügung.
+
+3
+
+•
+
+Darüber hinaus verdrängt der hohe O2-Partialdruck das CO aus seiner Bindung an Hb.
+Während die Halbwertszeit für CO unter Beatmung mit Raumluft bei etwa 250 min.
+liegt, vermindert sie sich unter 100% O2 –Partialdruck auf etwa 40 min.
+
+Bei Schwangeren und Kleinkindern muss eine längere Sauerstofftherapie durchgeführt
+werden, da das fetale Hb eine stärkere Affinität zu CO besitzt. Sofern möglich, kann eine
+hyperbare Oxygenierung indiziert sein, insbesondere bei Patienten mit Krampfanfällen,
+Synkopen, Koma, neurologischen und kardiovaskulären Symptomen, die sich unter der
+Sauerstofftherapie nicht zurückbilden. Durch die hyperbare Sauerstoffbeatmung kann die
+Halbwertszeit nochmals auf 15 bis 30 min reduziert werden (Dolan MC et al., 1985;
+Mofenson HC et al., 1984; Schmailzl KJG et al., 1995). Jedoch ist die Therapieindikation
+zum Einsatz von hyperbarem Sauerstoff sehr eingeschränkt, insbesondere dann, wenn der
+Patient einen Herz-Kreislaufstillstand im Rahmen der CO-Intoxikation erleidet (Ginsberg MJ
+et al., 1985; Gandini C et al., 2001; Mehta SR et al., 2001). So berichtet Hampson, dass alle
+18 Patienten mit einem initialen Kreislaufstillstand aufgrund einer CO-Intoxikation trotz
+adäquater Therapie im Verlauf ihrer Hospitalzeit verstarben. In einer Untersuchung konnte
+gezeigt werden, dass die Anwendung einer hyperbaren Sauerstofftherapie immer auch mit
+dem potentiellen neurologischen Risiko abgewogen werden muss (Hampson NB et al., 1996).
+So wurde die Überlebenswahrscheinlichkeit eines hypothetischen Patienten mit 74% unter der
+hyperbaren Sauerstofftherapie angegeben. In einer weiteren Studie wurden die Auswirkungen
+dieser Therapie auf das zentrale Nervensystem untersucht. Von 900 intoxikierten Patienten
+konnten 300 einer hyperbaren Sauerstofftherapie zugeführt werden. Tab. 2 gibt die Häufigkeit
+der neurologischen Symptome in Abhängigkeit vom atmosphärischen Druck wider.
+Tab. 2: Krampfanfälle unter hyperbare O2 Therapie
+
+HYPERBARE O2
+
+BEOBACHTET KRAMPFANFÄLLE
+
+THERAPIE [ATM]
+2,45
+
+1
+
+2,8
+
+9
+
+3,0
+
+6
+
+4
+
+1.3 CO und die Hämoxygenase I
+1.3.1 Endogenes CO
+CO entsteht beim Abbau von Hb (Abb. 1). Der Abbau des Hb beginnt mit der Abspaltung des
+Eisen-Porphyrins vom Globin, nach Umwandlung des Hb zu Methämoglobin, aus dem sich
+das Hämin leicht ablösen lässt. Das Globin wird zu Aminosäuren abgebaut. Hämin oder Häm
+wird zu Biliverdin unter Freisetzung von CO oxidiert, das aus einem MethinbrückenKohlenstoffatom entsteht. Die Reaktion wird von der mikrosomalen Hämoxygenase (HO),
+einer Monooxygenase, unter Verwendung von O2 und NADPH katalysiert. Das freiwerdende
+Eisen wird an Ferritin gebunden. Die grüne Tetrapyrrolverbindung Biliverdin wird mit
+NADPH zum orangenroten Bilirubin reduziert, das ins Blut gelangt, wo es als lipohile
+Verbindung an Albumin gebunden vorliegt. Die Hauptmenge des pro Tag gebildeten
+Bilirubins stammt aus dem Abbau zirkulierender Erythrozyten in der Milz. Etwa 15% des
+Bilirubins stammen aus der Leber vom Abbau anderer Porphyrinproteine, z.B. der
+Cytochrome. Auch Gewebemakrophagen können Häm abbauen, was bei der Verarbeitung
+von Hämatomen eine Rolle spielt (Frieden E et al., 1971; Schmidt R et al., 1972). Die
+endogene CO-Produktion korreliert direkt mit dem Erythrozytenabbau. Dabei wird pro Mol
+zerlegtem Häm ein Mol CO gebildet. Bei gestörter Erythrozytenproduktion kann es zu einer
+signifikanten Zerstörung erythroider Zellen im Knochenmark kommen. Durch eine solche
+ineffektive Erythropoese entsteht eine erythroide Hyperplasie und erhöhte Aufnahme von
+Eisen ins Knochenmark bei nur schwacher Erholung des Eisens in den zirkulierenden
+Erythrozyten. Ein damit verbundener erhöhter Zellumsatz geht mit einer erhöhten endogenen
+Produktion von CO und unkonjugiertem Bilirubin einher (Barbior BM et al., 1990; Beck WS
+et al., 1991; Bunn HF et al., 1986).
+
+5
+
+hepatische Zelle
+
+Häm
+
+Hämoxygenase
+
+Biliverdin
+
+FE+CO
+
+Bilirubin
+
+hepatische Zelle
+
+Häm
+
+Hämoglobin
+Hämoglobin
+rote Blutkörperchen
+Abb. 1: Schematische Darstellung der Bedeutung der HO im hepatischen Zellsystem.
+
+1.3.2 Regulation der endogenen CO-Synthese
+Durch das Enzym HO wird die endogene CO-Produktion katalysiert. Insgesamt sind heute
+drei verschiedene Isoformen dieses Enzyms bekannt. Hinsichtlich Ihrer Regulation,
+Verteilung und Genstruktur sind alle Isoformen unterschiedlich (McCoubrey WK, Huang TJ,
+Mains MD, 1997).
+Die HO-1 ist die induzierbare Form. Sie ist ubiquitär zu aktivieren (McCoubrey WK, Huang
+TJ, Mains MD, 1997). Die HO-1 kommt insbesondere in Leber und Milz vor. Hingegen findet
+man die konstitutive Isoform, die HO- 2, vorwiegend in Cerebrum und Testes. Die dritte
+konstitutive Isoform, die HO-3, besitzt eine nur sehr geringe Aktivität. Bezüglich ihrer
+Lokalisation bestehen heute noch keine eindeutigen Hinweise (Elbirt KK et al., 1999).
+
+6
+
+1.3.3 Die HO-1 und ihre Induzierbarkeit
+Wie kein anderes Enzym reagiert die HO-1 extrem empfindlich auf verschiedene Stresssoren,
+wie z.B. Ischämie-/ Reperfusionsschäden (I/R), Hypoxie, Hyperoxie (Takahashi S et al.,
+1999), inflammatorische Zytokine (Amersi F et al., 1999; Kudo S et al., 1999; Rizzardini M et
+al., 1993; Terry CM et al., 1998), Endotoxin (Amersi F et al., 1999; Camhi SL et al., 1995;
+Pellacani A et al., 1998), Häm (Taylor JL et al., 1998; Vesely MJ et al., 1998), Metalle
+(Immenschuh S et al., 1995), Hypothermie, Hyperthermie (Shibahara S et al., 1987) sowie die
+portale Hypertension (Fernandez M et al., 1999). Der HO-1 wird eine bedeutende Rolle in der
+Stressantwort zugeschrieben, da Sequenzen von NF-κB, AP-1 und AP-2-Bindungen in der
+Promotorregion des humanen HO-1-Gens gefunden wurden (Camhi SL et al., 1995;
+Immenschuh S et al., 1998; Lavrovsky Y et al., 1994; Marks GS et al., 1988; Shan Y et al.,
+2000). Die Unterschiedlichkeit der HO-1-Induktoren legt verschiedene Regulationselemente
+für dieses Gen nahe. Zwei weitere regulatorische Elemente, NF-κB und AP-2, werden als
+wichtige regulierende Faktoren der Antwort der HO-1 auf oxidativen Stress, Zellschaden,
+Wachstum und Differenzierungsprozesse angesehen (Lavrovsky Y et al., 1994). Andere
+Proteine, die in der Entzündungsreaktion eine zentrale Rolle spielen, benutzen ebenfalls diese
+und weitere transkriptionelle Faktoren, NF-κB, AP-1 und HIF-1 wie z.B. NOS-2, welches ein
+bedeutende Rolle unter Stressbedingungen spielt (Liu Y et al., 1998; Willis D et al., 1996). Es
+wird angenommen, dass beispielweise HO-1 und bei NOS-2 in der Stressantwort auf Hypoxie
+und Sepsis miteinander interagieren (Bauer M et al., 1997; Carini R et al., 2000; Maines MD
+et al., 1997). Einige Experimente konnten diesen Zusammenhang belegen. So konnte Tyrrell
+in einem in vitro-Experiment zeigen, dass durch UVA-Strahlen oxidativer Stress in Zellen
+induziert werden kann. Sofort nach Exposition dieser Zellen konnte eine Aktivierung der HO1 gemessen werden. Vermutlich ist dieses Enzym in der Lage einen Notfallreparaturmechanismus in Gang zu setzen, der sofort nach Exposition der Zelle gegenüber
+Stress auftritt (Tyrrell R et al., 1999).
+In einem Rattenmodell wurde eine Myokardischämie induziert. In den ersten 24 Stunden nach
+der Induktion konnte eine Aktivierung von HO-1 gemessen werden (Hangalshi M, 2000).
+Bauer konnte eine erhöhte Aktivität des Enzyms im Rahmen von Schock und Reanimation
+feststellen. Nach experimenteller Hemmung der HO-1 durch Gabe von Zink-Protoporphyrin
+konnte ein signifikanter Anstieg der portalen Widerstände gemessen werden. Somit scheint
+die HO-1 an einer Reduktion des portalen Hypertonus nach Reanimation beteiligt zu sein
+(Bauer M et al., 1997).
+7
+
+Untersuchungen von Carraway zeigten, dass eine über drei Wochen andauernde Hypoxie eine
+Polyzythämie, eine rechtsventrikuläre Hypertrophie und ein pulmonales vaskuläres
+Remodeling verursacht. Im Rahmen einer chronischen Hypoxämie konnte in dieser
+Untersuchung ein Anstieg der HO gleich zu Beginn nachgewiesen werden. Dazu wurde ein
+Rattenmodell gewählt, in dem männliche Sparague-Dawley Ratten für 0, 1, 3, 7 und 14 Tage
+einem Luftdruck von 395 Torr ausgesetzt wurden. Nach Exposition wurde der Anteil an
+COHb und der Hämatokrit gemessen weiterhin wurden die Lungen für immunhistochemische
+Nachweise fixiert und für das spätere Messen der HO mittels Western Blot aufbearbeitet.
+Weiterhin wurde das Größenverhältnis von rechter zu linker Herzkammer beurteilt. Der
+Hämatokrit stieg kontinuierlich nach Exposition an und erreichte nach drei Tagen Exposition
+Werte, die oberhalb der Kontrollgruppe lagen. Nach diesen drei Tagen stieg der Wert noch
+weiter, bis ein Plateau von 60% nach 21 Tagen erreicht war. COHb, welches als Marker für
+die endogene CO-Produktion angesehen wird, stieg am ersten Tag der Exposition am
+stärksten an, ein weiterer Peak wurde nach 21 Tagen erreicht. Das Größenverhältnis der
+rechten zur linken Herzkammer erreichte nach sieben Tagen signifikant höhere Werte. Diese
+Daten implizieren die Entwicklung einer Rechtsherzhypertrophie über die Zeit der
+Exposition. Eine Aktivitätserhöhung der HO konnte vor allem in der frühen Phase der
+chronischen Hypoxie nachgewiesen werden. Der frühe Anstieg der HO am ersten Tag der
+Exposition kann mit seiner vasodilatierenden Wirkung erklärt werden und ähnelt dem
+Pathomechanismus von Stickstoffmonoxid (NO) (Carraway MS et al., 2000).
+Im Rahmen von zerebralen Vasospasmen konnten gleich zwei wissenschaftliche Gruppen die
+Aktivitätssteigerung von HO-1 nachvollziehen. Durch die resultierende zerebrale Ischämie
+und Infarzierung im Rahmen zerebraler Vasospasmen konnte Suzuki in einem Rattenmodell
+erhöhte HO-1mRNA-Expressionen in der Basilararterie nach intrazerebraler Blutung und
+nachfolgenden Vasospasmen nachweisen (Suzuki H et al., 1999). Mit der Injektion von
+lysiertem Blut wurde eine zerebrale Ischämie durch die resultierenden Vasospasmen
+hervorgerufen. Auch hier konnte die Gruppe um Matz eine fokale Hyperexpression der HO-1
+nachweisen, womit die Induktion durch Sauerstoffmangel erneut bestätigt wurde (Matz et al.,
+1996).
+Aber nicht nur die Hypoxämie, sondern auch inflammatorische Prozesse, Virusinfektionen
+und Hyperthermie können einen Einfluß auf die HO ausüben. Otterbein konnte zeigen, dass
+die Induktion der HO-1 vor einer Endotoxinämie schützt. Mittels des Lipopolysaccharids
+Endotoxin wurde ein Lungenversagen und eine Sepsis an Ratten induziert. Die Therapie mit
+8
+
+Hb, einem potenten Induktor der HO, ergab ein 100%iges Überleben dieser Population bei
+sonst deletärem Ausgang (Otterbein LE et al., 1995).
+Elia
+
+beschrieben
+
+ebenfalls
+
+positive
+
+Hämoxygenase/Kohlenmonoxid-Systems.
+
+Effekte
+Im
+
+Rahmen
+
+durch
+von
+
+die
+
+Induktion
+
+des
+
+Virusinfektionen
+
+und
+
+Hyperthermie werden vermehrt cytoprotektive Prostaglandine des Typs A (PGA1) gebildet.
+Dieser Effekt ist mit der Induktion eines Proteins verbunden, welches als Heat shock protein
+32 bezeichnet wird und der HO-1 entspricht (Elia G et al, 1999).
+1.3.3.1 Hormonelle Regulation
+Die Induzierbarkeit der HO durch Hormone wurde eingehend von Bakken untersucht
+(Bakken AF et al., 1972). Die Arbeitsgruppe postulierte den Effekt verschiedener Hormone,
+wie z.B. Epinephrin und Glucagon, auf die hepatische HO-Aktivität. 3,5,3'-L-Triiodthyronin
+(T3) wirkt aktivierend auf die hepatische HO- (Smith TJ, Drummond GS et al., 1982) und
+ALA-Synthetase (Smith TJ, Drummond GS et al., 1988) in einem dosis- und zeitabhängigen
+Verhältnis. In diesem Zusammenhang werden ebenfalls die P450-Cytochrome induziert.
+Diese Aktivierung scheint stereospezifisch zu sein, da die T3-Isoform 3,3',5'-Triiodthyronin
+nicht in der Lage ist, induzierend auf diese Enzyme zu wirken, während das Thyroxin ein
+potenter Induktor ist. Die alleinige Verabreichung von Retinsäure hat keinen Effekt auf die
+HO-1, wobei die Säure erniedrigend auf die Cytochrom P450-Enzyme wirkt und den
+zellulären Hämpool ausschöpft. Wird die Retinsäure zusammen mit T3 verabreicht, erfolgt
+eine Steigerung der Aktivität der HO um mindestens 61 %, wobei der Hämgehalt unter diesen
+Bedingungen nicht reprimiert wird (Smith TJ, Drummond GS et al., 1991). Ein interessanter
+Aspekt ist die Wirkung von Prostaglandin (Deoxy-[Delta]9.12.-13,14-dihydroprostaglandin D2
+([Delta]12-PDJ2), das ein potenter Induktor der zellulären Wachstumsinhibition (Ohno et al.,
+1986) und Zelldifferenzierung (Santoro et al., 1979) in den verschiedensten Zelllinien ist. Der
+inhibitorische Effekt des [Delta]12-PDJ2 wird hervorgerufen durch die Induktion eines 68 kDa
+Proteins. Dieses Protein wurde als ein Hitzeschock-Protein (HSP 68) identifiziert (Ohno et al.,
+1988), das wahrscheinlich die Zelle auf die veränderten Bedingungen "vorbereitet" und sie
+von ihnen schützt. Dieser Aspekt lieferte erstmals die Möglichkeit einer Zusammenarbeit von
+Hormonen deren zellulärer Einwirkung und die Einschaltung eines Streß-Proteins ohne
+Beteiligung ihrer spezifischen Rezeptoren und DNA-Erkennungssequenzen. Weitere
+Untersuchungen dieses Phämonens verifizierten, daß das [Delta]12-PDJ2 induzierend auf ein
+niedermolekulares Protein wirkt, eine ca. 31 kDa Protein, das als das Hitzeschock-Protein HO
+identifiziert werden konnte (Koizumi T et al., 1991; Koizumi T et al., 1992). Welche
+9
+
+molekulare Funktion die HO unter diesen Bedingungen hat, ist noch ungeklärt.
+Möglicherweise ist die erhöhte Expression die Folge einer oxidativen Veränderung in der
+Zelle, da das [Delta]12-PDJ2 mit Glutathion konjugiert wird (Entgiftungsweg) und damit die
+zellulären Antioxidanten vermindert werden.
+Metallporphyrine stellen in der Regel starke Induktoren der HO-1 dar. Umso
+bemerkenswerter ist die Tatsache, daß synthetische Glukocorticoide (z.B. Dexamethason), die
+einzigen bekannten nicht-Metallporphyrine in der Lage sind, eine HO-1-Induktion zu
+inhibieren (Lutton et al., 1992). Ein Kernbindungsprotein, das bei der Darreichung von
+Dexamethason verstärkt synthetisiert wird, verhindert eine HO-1-Genaktivität. Dieses konnte
+durch DNAse Footprinting- und in DNA-Protein-Wechselwirkungsversuchen (electrophoretic
+mobility shift assay, EMSA) gezeigt werden.
+
+1.3.4 Wirkungen der HO-1 sowie ihrer Produkte, insbesondere des CO
+Bevor auf die HO-1 und deren Produkt, das CO eingegangen wird, soll kurz ein Überblick
+über weitere Produkte der HO-1 und ihrer möglichen Interaktionen im menschlichen
+Organismus gegeben werden. Anhand von Abb. 2 ist dies schematisch dargestellt.
+Die HO-1 ist ein induzierbares Enzym, das den Abbau von Häm katalysiert. Endprodukte
+dieses katabolen Vorgangs sind Bilirubin und CO. Biliverdin wird durch die
+Biliverdinreduktase weiter zu Bilirubin, einem weiteren potenten Antioxidanz, Antimutagen
+und Antikomplementagenz abgebaut (Hayashi S et al., 1999; Liu Y et al., 2000). Bilirubin
+zeigt im Bereich physiologischer Plasmakonzentrationen antioxidative Wirkung. Neuere
+Arbeiten weisen dem Bilirubin eine dem "High-density-Lipoprotein" vergleichbare Rolle als
+Marker und funktioneller Mediator gefäßschützender, antiatherogener Effekte zu (Hopkins et
+al., 1996; Mayer et al., 2000). In mikromolaren Konzentrationen gilt Bilirubin als eines der
+effektivsten
+
+Antioxidantien.
+
+Eine
+
+experimentell
+
+erzeugte
+
+Hypoxämie
+
+mit
+
+einer
+
+Sauerstoffkonzentration von 2% läßt die antioxidative Wirkung von Bilirubin stärker noch als
+alpha- Tocopherol, welches als das beste Antioxidans der Lipidoxidation gilt, die Oxidationen
+verhindern (Stocker R et al., 1987). Es wurde gezeigt, dass Bilirubin effizient die
+Lipidperoxidation hemmt und seine antioxidative Wirkung wahrscheinlich auf einer
+Interaktion mit dem antioxidativen α-Tocopherol und Lipoproteinen beruht (Abraham NG et
+al., 1995; Clark JE et al., 2000).
+
+10
+
+Auch CO entfaltet in niedrigen Konzentrationen antiapoptotische, zellprotektive Effekte.
+Außerdem lässt sich CO in der Ausatmungsluft messen und als nichtinvasiver Paramter für
+"oxidativen Stress" und die kompensatorische Induktion von protektiven Stressproteinen
+verwenden. Diese Methode wird zurzeit schon routinemäßig bei Frühgeborenen angewandt
+(Stevenson et al., 2001). Neuere Untersuchungen lassen vermuten, dass sich COBestimmungen auch als Verfahren zur Kontrolle des Krankheitsverlaufs und Therapieerfolgs
+("disease monitoring") bei Diabetes- und Asthmapatienten einsetzen lassen (Paredi et al.,
+1999; Yamaya et al., 2001).
+Gekoppelt an die Induktion von HO-1 ist die Expression eines zweiten antioxidativ
+wirksamen Stressproteins, des Ferritins. Ferritin wird hauptsächlich translational reguliert und
+bindet als neugebildetes Apoferritin freie intrazelluläre Eisenionen. Dadurch wird dem
+Prozess der Sauerstoffradikalbildung ein essentieller Katalysator entzogen und die Entstehung
+der aggressiven Hydroxylradikale unterdrückt (Balla J et al., 1992; Balla G et al., 1992; Balla
+J et al., 1995).
+HO-1 und Ferritin sind induzierbare Proteine mit gewebeschützenden Eigenschaften und
+gelten als potentielle Zielstrukturen für Strategien zur Prävention von Atherosklerose und
+anderen
+
+inflammatorischen,
+
+zelltoxischen
+
+Prozessen
+
+(rheumatoide
+
+Transplantatabstoßung usw.).
+Häm
+Hämoxygenase 1
+
+HO-Induktoren
+
+CO
+
+Bilirubin
+
+vasodilatierend
+antioxidativ
+antiinflammatorisch
+antiproliferativ
+
+Fe
+Ferritin
+
+antioxidativ
+
+potentielle Indikationen
+für HO-1-Induktoren:
+
+cytoprotektiv
+
+Atherosklerose
+Inflammatorische Prozesse
+Transplantatabstoßung
+Ischämie und Reperfusionsschaden
+(Lunge, Herz, Niere, Gehirn)
+
+Abb. 2: Darstellung der Produkte der HO-1 und ihrer möglichen Interaktionsfelder
+
+11
+
+Arthritis,
+
+Wie bereits erwähnt, findet eine Induktion des Hämoxygenase/Kohlenmonoxid-Systems
+durch zellulären Stress statt. Die wohl bedeutenste Wirkung dieses Systems ist die über die
+Aktivierung
+
+der
+
+Guanylcyclase
+
+vermittelte
+
+Vasodilatation.
+
+CO
+
+-ein
+
+potentieller
+
+Signalüberträger wie das NO- reguliert das cGMP durch Bindung an der prostethischen
+Gruppe der Guanylatcyclase hoch und kann die Zellfunktion nach hämorrhagischer und
+oxidativer Zellschädigung modulieren (Morita T et al., 1995).
+Zusammenfassend lassen sich die Wirkungen von CO, wie in Abb. 2 dargestellt, und des
+Enzyms HO als vasodilatierend, antioxidativ, antiinflammatorisch und antiproliferativ
+beschreiben. Die vasodilatatorischen Effekte konnten in einigen Studien nachgewiesen
+werden. Tabellarisch sollen hier die wichtigsten Studien aufgeführt werden.
+Tab. 1: Darstellung von Studien mit Ergebnissen bezüglich vasodilatativer Effekte
+
+Studie
+Willis D, 1995; Siow RC, 1999
+
+Aussage im Bezug auf vasodilatative Effekte
+Eine
+
+Induktion
+
+des
+
+Hämoxygenase/Kohlenmonoxid-Systems
+
+in
+
+der
+
+Gefäßmuskelzelle kann über die Aktivierung der Guanylcyclase die Senkung
+eines vorbestehenden Hypertonus erreichen.
+Siow RC, 1999
+
+Es handelt sich um eine Studie über die HO und CO im Rahmen der
+Artherosklerose. Hier konnte durch „low density liporoteine“, Hypoxie und proinflammatorische Zytokine eine Induktion der HO erreicht werden. Die
+Aktivität war besonders im vaskulären Endothel und glatten Muskelzellen
+besonders hoch.
+
+Bauer M, 1997; Wakabayashi Y,
+
+Auf
+
+portaler
+
+Ebene
+
+kann
+
+durch
+
+die
+
+Induktion
+
+des
+
+1999
+
+Hämoxygenase/Kohlenmonoxid-Systems eine Senkung des portalen Drucks
+erreicht werden. Im Rahmen eines portalen Hypertonus scheint extrasinusoidal
+gebildetes CO eine Relaxierung des Gefäßsystems zu bewirken.
+
+Zhang F, 2001
+
+Zentral produziertes CO scheint über eine Inhibtion der Baroreflex-Aktivität
+eine antihypertensive Wirkung zu haben.
+
+Hangalshi et al., 2000
+
+1.) Thema ist die Wirkung des Hämoxygenase/Kohlenmonoxid-Systems nach
+experimentell induzierten Myokardischämien an Ratten. Beschrieben wird ein
+Anstieg der HO 24 Stunden nach der Ischämie und Reperfusion des Herzens.
+2.) An einer anderen Population von Ratten wurde die Wirkung von Häm als
+potenter Induktor des Hämoxygenase/Kohlenmonoxid-Systems auf das
+Myokard untersucht.
+
+12
+
+Zwei Tage vor der experimentell induzierten Myokardischämie wurde dieser
+Population intraperitoneal Häm injiziert. Die anschließend gemessenen
+Infarktareale waren signifikant kleiner als die der ersten Gruppe ohne HämInjektion.
+Eine durch chronischen Hypertonus verursachte Linksherzhypertrophie kann
+
+Seki T, 1999
+
+durch die Induktion des Hämoxygenase/Kohlenmonoxid-Systems abgeschwächt
+werden.
+Eine Untersuchung an genetisch hypertonen Ratten konnte durch die Induktion
+des Hämoxygenase/Kohlenmonoxid-Systems eine deutliche Reduktion der
+resultierenden
+
+Linksherzhypertrophie
+
+zeigen.
+
+Auch
+
+die
+
+m-RNA
+
+des
+
+natriuretischen Peptids, als ein Marker der kardialen Hypertrophie, sank. Ein
+Anstieg der HOm-RNA, sowie von c-GMP, war dagegen zu sehen, ohne dass
+der arterielle Blutdruck sich verminderte.
+Panahian N, 2001
+
+Durch die Induktion der HO und die Bildung von CO nach zerebraler Ischämie
+konnte eine Verkleinerung des Infarktareals und eine Reduktion des zerebralen
+Ödems nachgewiesen werden.
+
+Suzuki H, 1999
+
+Durch die Gabe von lysiertem Blut in die Cysterna magna konnte experimentell
+ein zerebraler Vasospasmus induziert werden. Durch dieses Ereignis wurde das
+Hämoxygenase/Kohlenmonoxid-System
+
+aktiviert.
+
+Hierdurch
+
+schien
+
+eine
+
+Degravierung der Symptome über eine zerebrale Vasodilatation verursacht zu
+werden.
+
+Neben der Vasodilatation durch die Bildung von CO fungiert die HO auch als Vermittler
+antioxidativer Funktionen. Die aktuellen Studien sind in der nachfolgenden Tabelle
+dargestellt.
+Tab. 2: Darstellung von Studien mit Ergebnissen bezüglich antioxidativer Effekte
+
+Studie
+Tyrrell R, 1999
+
+Aussage im Bezug auf antioxidative Effekten
+Bei einem durch UVA-Strahlung verursachten Zellschaden wird vermehrt das Oxidans Häm
+freigesetzt. Diese Freisetzung wiederum aktiviert die HO, so dass die Zelle schnell gegenüber
+Oxidantien geschützt werden kann. Das durch den Abbau von Häm freiwerdende Eisen kann
+in späteren Schritten durch langsam ansteigendes Ferritin gebunden werden.
+
+13
+
+Tab. 3: Darstellung von Studien mit Ergebnissen bezüglich antiinflammatorischer Effekte
+
+Studie
+Otterbein L, 1995; 2000
+
+Aussage im Bezug auf antiinflammatorische Funktionen
+In einem Rattenmodel konnte Otterbein die effektive Abwehr des Enzym-Systems
+gegenüber Endotoxinen nachweisen. Nach experimentell induzierter Sepsis mit
+Lungenversagen durch Lipopolysaccharrid-Endotoxin konnte ein Anstieg der HO
+und der HO-mRNA in der Lunge beobachtet werden.
+Nach aktiver Induktion der HO durch Gabe von Hb vermutet die Gruppe eine
+verbesserte Abwehr gegenüber dem Endotoxin in der Lunge. Tatsächlich
+überleben 100% der Tiere die induzierte Sepsis mit Lungenversagen nach einer
+Therapie mit Hb.
+
+Wiesel Pen, 2000
+
+Thema sind Beobachtungen an genetisch unterschiedlichen Mäusen. Nach
+Induktion einer Inflammation durch Lipopolysacharide wurde unter den an HO
+homozygot negativen Mäusen eine deutlich höhere Mortalität gemessen als in der
+Population der Mäuse, die dem Wildtyp angehörten. Diese Ergebnisse lassen
+vermuten, dass die HO eine bedeutende Rolle in der Abwehr im Rahmen eines
+Endotoxinschock besitzt (Otterbein L, 1995).
+
+Sethi JM, Otterbein L, 2002
+
+Hier konnte CO als potenter Mediator antiinflammatorischer Effekte beschrieben
+werden. Geringe Konzentrationen von CO konnten in vivo und in vitro die von
+Lipopolysacchariden induzierte Expression von proinflammatorischen Zytokinen,
+wie dem TNFα, dem IL1β und dem Makrophagen-inflammatorischen- Protein-1beta, vermindern und die Konzentration des antiinflammatorischen Zytokins
+Interleukin 10 erhöhen. Des weiteren scheint CO diese Reaktion unabhängig von
+der Guanylcyclase und NO zu steuern. Vermutlich gelingt dies über einen Weg,
+der die mitogenaktivierte Protein-Kinase involviert.
+
+Hierdurch konnte in letzter Zeit gezeigt werden, dass die HO-1 auch in der
+Transplantationsmedizin eine wichtige Rolle zu spielen scheint. Der nach Leberoperation und
+-transplantation auftretende I/R und die konsekutive Inflammation des Lebergewebes stellen
+ein bedeutendes klinisches Problem dar. In der Transplantationsmedizin führt der I/R häufig
+zu einer frühen Funktionsbeeinträchtigung oder sogar zu primären Versagen des
+Transplantates. Bei Leberresektionen kann es in Folge einer I/R zu einer Enzündung mit
+transienter oder permanenter Zellschädigung kommen (Clavien PA et al., 1992; Fan C et al.,
+1999). Die Erfolgsaussichten von Leberresektionen und Transplantationen haben sich durch
+Fortschritte in der Operationstechnik, der Organkonservierung und durch die Entwicklung
+14
+
+neuer immunsuppressiver Therapeutika verbessert. Die I/R wurde in vielen Studien sowohl
+unter den Bedingungen der warmen Ischämie, wie sie bei Leberresektionen auftritt, als auch
+unter der kalten Ischämie, wie bei orthotopen Lebertransplantationen, untersucht (Mochida S
+et al., 1994). Eine Ischämie von mehr als 12h führt bei der Lebertransplantation durch
+zentrolobuläre Nekrosen zum primären Organversagen und ist mit einer erhöhten Inzidenz
+einer akuten und chronischen Transplantatabstoßungsreaktion verbunden (Amersi F et al.,
+1999). Dabei werden verschiedene Formen der Zellschädigung beobachtet (Kaplowitz N,
+2000). Bei der kalten Ischämie wurde eine protrahierte ATP-Depletion (Jaeschke H, 1996;
+Losser MR et al., 1996), eine gesteigerte Glykolyse (Churchill TA et al., 1994; Losser MR et
+al., 1996) und Kupfer-Zellaktivierung (Mochida S et al., 1994) beobachtet. Bei der warmen
+Ischämie wurde eine Schädigung der Mitochondrien (Baumann M et al., 1989) beschrieben.
+Es hat sich gezeigt, daß sinusoidale Endothelzellen empfindlicher auf die kalte Ischämie
+reagieren, während die warme Ischämie primär Hepatozyten schädigt (Rauen U et al., 1999;
+Rauen U et al., 1994).
+In einer Arbeit von Müller wurden Einflüsse der warmen und kalten Ischämie sowie der
+Exposition inflammatorischer Zytokine und Endotoxine (IL-1beta, IFN-gamma; TNF-alpha,
+Lipopolysaccharide [LPS]) auf die Expression der HO-1mRNA und ihres Proteins, einem
+Vertreter der Hitze-Schock-Proteine mit potentiell antioxidativer Wirkung in humanen
+Hepatozytenprimärkulturen, untersucht. Warme und kalte Ischämie stimulierten die HO-1
+mRNA-Expression in humanen Hepatozyten nach 0,5 bis 1h. Das HO-1-Protein wurde über
+0,5-6h maximal exprimiert. Der Zellschaden, gemessen an der AST und LDH Freisetzung
+unter ischämischen Bedingungen, wurde insbesondere nach 24h beobachtet. Nach
+Zytokinexposition wurde die höchste Expressionsrate der HO-1mRNA durch IFN-gamma
+hervorgerufen, gefolgt von TNF-alpha, LPS und IL-1beta. Jedes einzelne Zytokin stimulierte
+die HO-1mRNA Expression nach 0,5h, erreichte ein Maximum nach 3h und fiel nach 6h ab.
+Nach Stimulation mit einem Zytokinmix (CM, IFN-gamma, TNF-alpha, IL-1beta, LPS) trat
+ein Maximum der HO-1mRNA Expression erst nach 6h ein, wobei ein signifikanter
+Zellschaden nach 12h beobachtet wurde. Die HO-1mRNA und Proteinexpression war nach
+Exposition
+
+von
+
+6h
+
+des
+
+mit
+
+Sauerstoffperoxides
+
+erhöht.
+
+Die
+
+HO-1mRNA
+
+und
+
+Proteinexpression war nach S-Nitrosoacetylpenicillamin-Exposition, einem NO- Donator, für
+3-12h verstärkt. Nach Cobaltprotoporphyrin (CoPP)-Exposition, einem potenten HO-1
+Induktor, wurde eine erhöhte mRNA- und Proteinexpression beobachtet. Dass CoPP die HO1mRNA- und Proteinneusynthese induziert, konnte durch die selektive Blockade mit
+Actinomycin D und Cycloheximide bewiesen werden. Die Neusynthese konnte ebenfalls
+15
+
+unter warmer und kalter Ischämie gezeigt werden. Hemin, ein weiterer Induktor der HO-1,
+induzierte die HO-1mRNA nach 3h und das Protein nach 6h. Die HO-1 Enzymaktivität wurde
+mittels Bilirubinbildung und Messung des Fe2+-Gehalts der Zellen bestimmt. Bei der
+Bilirubinbildung wurde die höchste Aktivität nach warmer Ischämie gemessen, gefolgt von
+kalter Ischämie, CM und der Kontrollgruppe. Die intrazelluläre Fe2+-Messung ergab ebenfalls
+die höchste Enzymaktivität nach warmer Ischämie. Die Vorbehandlung humaner Hepatozyten
+mit CoPP für 8h schützte die Zellen teilweise vor einer warmen und kalten Ischämie.
+Zusammenfassend zeigt diese Arbeit, dass die pharmakologische Induktion der HO-1 somit
+bei großen allgemeinchirurgischen Eingriffen, wie der Leberteilresektion oder der
+Transplantation, einen protektiven Effekt entfalten könnte (Müller E, 2002). Von ähnlichen
+Ergebnissen konnten in der Herztransplantation berichtet werden (Akamatsu et al., 2004).
+
+1.3.5 HO als ein streßinduziertes Protein
+Organismen, die Streßsituationen ausgesetzt werden, "antworten" häufig mit der
+Syntheseregulierung verschiedener Proteinklassen, welche kollektiv die Streßsituation
+verbessern sollen. In vielen Fällen ist der exakte Mechanismus dieses Vorganges noch nicht
+geklärt. Beispielsweise werden bei einer Entzündung während der Akute-Phase-Antwort eine
+ganze Reihe von Akute-Phase-Proteinen primär in der Leber gebildet. Eine große Menge von
+Cytokinen werden bei Entzündungsvorgängen freigesetzt und lösen eine Hochregulierung via
+spezifischer Rezeptoren aus, die in der hepatischen Zellmembran lokalisiert sind (Baumann H
+et al., 1994; Cosman D, 1993). C-reaktive Proteine und Serum Amyloid A, das häufigste
+humane Akute-Phase-Protein, ist unter Normalbedindungen in geringsten Mengen im Plasma
+exprimiert, wird aber bereits vier Stunden nach einem entzündlichen Stimulus induziert und
+erreicht sein Maximum nach 24 bis 48 Stunden (Marckiewicz A et al., 1993). Andere AkutePhase-Proteine wie z.B. a1-Glukoproteinsäure, a1-Protease, a1-Antichymotrypsin, Haptoglobin
+und Fibrinogen erreichen ihr Expressionsmaximum erst nach sieben bis zehn Tagen
+(Tsuchiya et al., 1987).
+Auch die HO-1 wird als eine Art "Akute-Phase-Protein" betrachtet. Mitani untersuchten den
+Effekt von Interleukin-6 (IL-6) auf die HO-1 in der humanen Hepatoma Zell-Linie Hep3B
+und beobachteten ein Zeit/Dosis-abhängiges Verhältnis der HO-1mRNA-Induktion. Die
+mRNA Induktion konnte durch die gleichzeitige Zugabe von Actinomycin D, einem Inhibitor
+der Transkription, verhindert werden (Mitani K et al., 1992). Folgende Feststellungen
+
+16
+
+vermittelten, das die Induktion des HO-Gens über ein IL-6-responsives Element vermittelt
+wird:
+•
+
+Das IL-6 ist ein Induktor des HO-1-Gens, wirkt aber wiederum nicht auf andere
+Hitzeschock-Proteine wie z.B. HSP 70. Daher wird die Induktion nicht über das
+Hitzeschock-responsive Element (HSE) vermittelt.
+
+•
+
+Zwei Sequenzen in der Promotor-Region des humanen HO-1-Gens zeigen eine
+signifikante Homologie mit dem IL-6-responsiven Element, das in anderen AkutePhase-Proteinen existent ist (Kunz D et al., 1989).
+
+Die Arbeitsgruppe um Akira stellte daraufhin die Hypothese auf, das das IL-6 das humane
+HO-1-Gen in gleicher Weise wie der Nukleare Faktor NF-IL-6, der an dem IL-1-responsiven
+Element auf dem IL-6-Gen bindet, reguliert (Akira S et al., 1990). Cytokine und LPS sind in
+der Lage, induzierend auf die HO-1 zu wirken. Von den LPS ist bekannt, das sie die Bildung
+mehrerer Cytokine induzieren (Martich GD et al., 1991). Dieses läßt vermuten, das die LPS
+eine indirekte Induktion auf die HO-1 ausübten, nämlich über die Faktoren IL-1 und TNF.
+Durch Mutationsanalysen konnte in der humanen AP-1-HO-1-Bindungssequenz eine
+Aktivierung des HO-1-Gens und eine Akkumulation der HO-1mRNA durch LPS festgestellt
+werden (Camhi SL et al., 1995). Die Forschergruppe um Cantoni untersuchte ebenfalls den
+Effekt von Glukocorticoiden auf die HO-1-Induktion durch IL-1 und TNF. Das Ergebnis war,
+das die Induktion der HO-1 durch IL-1 keine Anwesenheit von Glukocorticoiden erfordert.
+Durch die Anwesenheit von synthetischen Glukocorticoiden wurde der HO-1mRNA Gehalt
+eher erniedrigt (Cantoni L et al., 1991). Dieser Effekt wurde als ein "Feed-Back"Mechanismus von Cytokinen auf ihre eigene Synthese (Butler LD et al., 1989) postuliert.
+Fukuda zeigte in Leberzellen, daß das IL-1 wie das IL-6 in einem Zeit/Dosis-abhängigen
+Verhältnis in der Lage ist, die HO zu erhöhen (Fukuda Y et al., 1993). In der Leber agieren
+Cytokine gleichzeitig als Induktoren von Akute-Phase-Proteinen, wirken auf den
+Hypothalamus und erzeugen den Effekt einer febrilen "Antwort", die über die Induktion von
+Prostaglandin E2 (Dinarello CA et al., 1991) vermittelt wird. Der aus diesem Vorgang
+resultierende Anstieg der Zelltemperatur hat zwei wichtige Auswirkungen:
+•
+
+Eine Anschaltung der HO-1 durch Akute-Phase-Proteine (Shibahara S et al., 1987;
+Taketani S et al., 1988) und/oder
+
+•
+
+eine Anschaltung der HO-1 über ihre Hitzeschock-Protein-Funktion.
+
+Die Rolle der HO-1 als ein Akute-Phase-Protein ist noch nicht geklärt. Unter anderem wird
+das Enzym durch einen erhöhten Gehalt an Sauerstoffradikalen induziert, die z.B. durch
+aktivierte Makrophagen produziert werden. Die HO-1 (HSP 32) ist ein Hitzeschock-Protein
+und damit ein Streßprotein, daß unter anderem durch oxidative Schädigungen der Zelle
+17
+
+induziert wird (Keyse SM, Tyrrell RM, 1989; Nascimento et al., 1993). Durch die gesteigerte
+Synthese der HO-1 wird die Anpassung der Zelle an veränderte Situationen ermöglicht.
+
+1.3.6 CO und seine Interaktion mit NO
+NO ist ein Gasmolekül, welches enzymatisch aus L-Arginin freigesetzt wird. Die Reaktion
+wird durch die NO-Synthetase (NOS) katalysiert. Als weiteres Produkt entsteht L-Citrullin
+(Radomski MW, Palmer RM, Moncada S, 1987). Die Identifikation des NO als endotheliumderived relaxing Faktor (ERDF) gelang Furchgott (Furchgott et al., 1988). Er wies NO als
+einen in den Gefäßendothelzellen produzierten Stoff nach, der eine Gefäßdilatation bewirken
+kann. Die endogene NO-Synthese geschieht durch enzymatische Spaltung von L-Arginin. Der
+gefäßdilatatorische Effekt läuft über die Aktivierung der Guanylat- Cyclase (GC) und einer
+damit verbundenen Erhöhung des cGMP in der glatten Muskelzelle. Durch Bindung an das
+Hämoglobinmolekül wird NO sehr schnell inaktiviert.
+1993 beschrieben Verma, dass das Produkt der HO, das CO, ein Aktivator der Guanylcyclase
+ist. CO wirkt, ähnlich wie NO, regulatorisch auf die cGMP und kann die Funktion eines
+Neurotransmitters einnehmen. Die Affinität zum Rezeptor scheint jedoch viel geringer als die
+von NO zu sein (Verma A et al., 1993).
+Higgenbottam konnte an gesunden Probanden, die Sauerstoff mit Spuren von NO einatmeten,
+eine selektive Senkung des pulmonal- arteriellen Druckes ohne Beeinflussung des
+systemischen Blutdruckes nachweisen (Higgenbottam T, 1988). Dies zeigte ebenfalls die
+Arbeitsgruppe um Falke, zunächst an Tierversuchen, später (1991) im klinischen Bereich bei
+der Therapie von ARDS-Patienten (Falke K et al., 1991). Darüber hinaus wurde eine
+deutliche Verbesserung der Oxygenierung erreicht. Diese resultiert wahrscheinlich aus einer
+Zunahme der Perfusion in den belüfteten Lungenbezirken, die durch die lokal dilatative
+Wirkung des NO zustande kommt, und entsprechender Verminderung der Perfusion von
+Shuntbezirken. Die ersten Ergebnisse mit Langzeitinhalationstherapie wurden im Dez. 1991
+vorgestellt (Falke K et al., 1991).
+Zusammenfassend kann man die Wirkungen des NO als vasodilatierend, antioxidativ,
+antiproliferativ, sowie thrombozytenaggregationshemmend bezeichnen (Cooke JP et al.,
+1992; Griscavage J et al., 1994; Guo J et al., 1995; Forresti R et al., 1999, Furchgott R et al.,
+1980). Willis untersuchte die Interaktion zwischen NO und CO (Willis D et al., 1995). Nach
+18
+
+Stimulation mit Häm, bzw. Inhibition der NOS durch N(G)-Nitro-L-Arginin-Methylester (LNAME) konnten unterschiedliche Aktivitäten der NOS und der HO in den Nieren und dem
+Gehirn männlicher Ratten gemessen werden. In der Niere der männlichen Ratte konnten im
+Vergleich zur NOS doppelt so hohe Konzentrationen der HO gemessen werden. Nach
+Hinzugabe des NOS-Inhibitor, L-NAME stieg die HO dosisabhängig im Gehirn an. Eine
+Addition von L-Arginin, dem NOS-Substrat, konnte einen Abfall der HO-Aktivität bewirken
+(Willis D et al., 1995).
+Thorup konnte 1999 eine Untersuchung der Arteriolen der Nieren mittels NO
+Mikroelektroden durchführen. Nach der Perfusion mit CO enthaltenden Puffern konnte
+zunächst eine biphasische Freigabe von NO beobachtet werden. Die NO-Freigabe sistierte
+jedoch nach mehrfacher Stimulation. Der Versuch zeigte eine dosisabhängige Wirkung des
+CO auf die NO-Freigabe. Hohe CO-konzentrationen hemmen dem zufolge die NOProduktion. Hingegen können geringe Konzentrationen von CO eine Freisetzung des NO aus
+seinen Speichern bedingen (Thorup C et al., 1999).
+
+1.4 CO-Exhalation über die Lunge
+Zahlreiche Untersuchungen wurden zur Wirkung von CO und der HO der Lunge durchgeführt
+(Horvath I et al., 1998; Monma M et al., 1999; Montushi P et al., 2001; Zayasu K et a., 1997;
+Zegdi R et al., 2000; Kitada O et al., 2001; Zegdi R et al., 2002). Bisher konnte gezeigt
+werden, dass kritisch kranke Patienten im Vergleich zu gesunden Probanden signifikant
+höhere CO-Konzentrationen ausatmen (Scharte M, 2000). Zegdi konnte zeigen, dass bei
+mechanisch beatmeten Patienten, die unter einer Sepsis litten, das CO erheblich höher war als
+bei kritisch kranken Patienten der Kontrollgruppe, die ebenfalls maschinell beatmet waren
+(Zegdi R et al. 2002). In letzter Zeit wurden von Arbeitsgruppen Studien publiziert, die
+Hinweise lieferten, dass Erkrankungen der Atemwege mit einer erhöhten Exhalation von CO
+assoziiert zu sein schienen. Carraway konnte eine Induktion der HO in der Lunge im Rahmen
+einer Hypoxämie feststellen und aufgrund persistierender COHb-Spiegel auf eine endogene
+CO-Produktion schließen (Carraway MS et a., 2000).
+Die Gruppe um Zayasu fand in einer Studie an asthmakranken Patienten und gesunden
+Probanden, dass erhöhte CO-Werte bei Asthmapatienten durch eine Therapie mit
+Kortikosteroiden signifikant abfallen. Hingegen wurden bei Asthmapatienten ohne
+Kortikosteroidtherapie signifikant höhere CO-Werte gemessen. Es wird vermutet, dass die
+19
+
+vermehrte Exhalation von CO mit einer Inflammation in der asthmatischen Lunge
+einhergehend (Zayasu K et al., 1997).
+Bei Patienten mit bekannter saisonaler allergischer Rhinitis wurde in einem anderen
+Experiment die exhalierte CO-Konzentration gemessen. Dabei konnten bei symptomatischen
+Patienten höhere Konzentrationen von CO gemessen werden. Die Exhalation via Nase oder
+Mund differierte nicht, so dass von einer CO-Produktion der tieferen Atemwege ausgegangen
+wurde (Monma M et al., 1999).
+Auch bei Patienten mit einer akuten Infektion des oberen Respirationstraktes konnten erhöhte
+CO-Werte gemessen werden. Dabei waren alle Probanden Nichtraucher und litten bis zu 4
+Wochen vor der Messung an keiner Infektion des oberen Respirationstraktes (Yamaya M et
+al., 1999). In einem Tiermodell wurde die oben beschriebene Aussage durch Kitada
+reproduziert. Albuminsensible Mäuse wurden mit Albumin-Aerosol beatmet, um eine
+allergisch vermittelte Inflammation der Atemwege hervorzurufen. Die Identifikation der HOpositiven Zellen wurde anhand von Immunreaktionen durchgeführt. Die Ergebnisse dieser
+Studie zeigten eine deutliche Aktivierung des Enzyms durch Inflammation. Möglicherweise
+ist hierdurch ein klinisch brauchbarer Marker für die akute Exazerbation eines Asthma
+bronchiale gefunden worden (Kitada O et al., 2001).
+Aber auch bei Erkrankungen der Atemwege, wie Bronchiektasen, die mit einer chronischen
+Inflammation einhergehen, scheint die Messung von CO den oxidativen Stress zu reflektieren.
+In Anlehnung an die Studie von Zayasu (Zayasu K et al., 1997), konnte bei Patienten mit
+bekannten Bronchiektasen deutlich höhere CO-Konzentrationen gemessen werden. Auch hier
+zeigte sich, dass bei Patienten, die mit Kortikosteroiden behandelt wurden, niedrigere Werte
+von CO-Konzentrationen gemessen wurden, als bei Patienten, die nicht mit Kortikosteroiden
+behandelt wurden. Beide Gruppen exhalierten jedoch höhere Konzentrationen als die
+Kontrollgruppe. Die zusätzlich gemessenen COHb-Spiegel korrelierten nicht mit den
+exhalierten CO-Konzentrationen. Die hohe Störanfälligkeit gegenüber Nikotinabusus schränkt
+den Gebrauch jedoch enorm ein (Montushi P et al., 2001; Horvath I et al., 1998). Ähnlich
+dem NO scheint CO auch einen Einfluß auf eine hypoxieausgelöste Vasokonstriktion zu
+haben (Jernigan ML et al., 2001; Carraway MS et al., 2000; Nachar RA et al., 2001; Christou
+H et al., 2002).
+
+20
+
+Niedrigdosiertes CO konnte im Rahmen einer akuten Hypoxie die resultierende pulmonale
+Widerstandserhöhung vermindern (Nachar RA et al., 2001).
+
+1.5 Problemstellung
+Ziel der hier vorliegenden Arbeit ist es, einen Zusammenhang zwischen bestimmten
+Organdysfunktionen und der CO-Produktion herzustellen. Es soll untersucht werden, ob
+exhaliertes CO einen Parameter darstellt, anhand dessen der Schweregrad einer Erkrankung
+ermittelt und somit möglicherweise Rückschlüsse auf den Verlauf einer Erkrankung gezogen
+werden können.
+Biochemische Grundlage ist, wie schon in der Einleitung erörtert, dass CO beim Abbau von
+Hb (Abb. 1) entsteht. Die endogene CO-Produktion korreliert direkt mit dem
+Erythrozytenabbau. Dabei wird pro Mol zerlegtem Häm ein Mol CO gebildet. Induziert wird
+die HO-1 durch das Substrat Hämoglobin. Zudem reagiert die HO-1 wie kein anderes Enzym
+extrem empfindlich auf verschiedene Stresssoren, insbesondere auf Stimuli, die oxidativen
+Stress verstärken. Dazu gehören H2O2, Lipopolysacharide, NO, Ischämie, Heat Shock
+Proteine, Hypoxie und Hyperoxie (Wagener FA et al., 2003), I/R, (Takahashi S et al., 1999),
+inflammatorische Zytokine (Amersi F et al., 1999; Kudo S et al., 1999; Rizzardini M et al.,
+1993; Terry CM et al., 1998), Endotoxine (Amersi F et al., 1999; Camhi SL et al., 1995;
+Pellacani A et al., 1998), Häm (Taylor JL et al., 1998; Vesely MJ et al., 1998), Metalle
+(Immenschuh S et al., 1995), Hypothermie, Hyperthermie (Shibahara S et al., 1987) sowie die
+portale Hypertension (Fernandez M et al., 1999). Die HO-1 konnte als Hitzeschock-Protein
+32 identifiziert werden (Koizumi T et al., 1991; Koizumi T et al., 1992) und damit als ein
+Streßprotein, das unter anderem durch oxidative Schädigungen der Zelle induziert wird
+(Keyse SM, Tyrrell RM 1989; Nascimento et al., 1993).
+In der Vorgängerarbeit „Erhöhte expiratorische CO-Konzentrationen bei kritisch kranken
+Patienten“ konnte gezeigt werden, dass kritisch kranke Patienten im Vergleich zur gesunden
+Kontrollgruppe signifikant höhere CO-Konzentrationen ausatmen (Scharte M et al., 2000). Es
+ist somit zu vermuten, dass bei oxidativem Stress durch die Induktion von HO vermehrt CO
+produziert wird, anhand dessen der Schweregrad einer Erkrankung ermittelt und somit
+möglicherweise Rückschlüsse auf den Verlauf einer Erkrankung gezogen werden können.
+
+21
+
+An einem Untersuchungskollektiv von 95 kritisch kranken Patienten, die allesamt über mind.
+24 Stunden beatmet waren, soll überprüft werden, ob die endogene CO-Produktion in
+Korrelation mit vorbestehenden Erkrankungen der Patienten gebracht werden kann.
+In der Vorgängerarbeit „Erhöhte expiratorische CO-Konzentrationen bei kritisch kranken
+Patienten“ blieben die Grunderkrankungen der Patienten unberücksichtigt. In der
+vorliegenden
+
+Arbeit
+
+wurden
+
+Vorerkrankungen,
+
+aber
+
+auch
+
+akute
+
+Erkrankungen,
+
+eingeschlossen. Dies erscheint insbesondere für das pulmonale System von Bedeutung zu
+sein. Unterschiedliche Studiengruppen konnten nachweisen, dass es insbesondere im Rahmen
+von inflammatorischen Prozessen der Lunge zu erhöhten CO-Konzentrationen in der
+Ausatemluft kommt (Kitada O et al., 2001; Monma M et al., 1999; Yamaya M et al., 1999;
+Zayazu K et al., 1997; Zegdi R et al., 2000; Zegdi R et al., 2002). Carraway konnte eine
+Induktion der HO in der Lunge im Rahmen einer Hypoxämie feststellen und aufgrund
+persistierend erhöhter COHb-Spiegel auf eine endogene CO-Produktion schließen (Carraway
+MS et al., 2000). Aber auch das Krankheitsbild der Sepsis erscheint von Wichtigkeit. Durch
+die Arbeit einer französischem Forschergruppe (Zegdi R et al., 2002) konnten erste
+interessante klinische Hinweise bezüglich möglicher positiver Wirkungen des CO während
+eines protahierten Krankheitsverlaufs gezeigt werden. Bei der Arbeit wurden 24 Patienten
+einer Intensivstation mit septischem Krankheitsbild unterschiedlicher Genese und fünf
+Kontrollpatienten hinsichtlich ihrer CO-Konzentration in der Ausatemluft untersucht. In der
+Gruppe der Sepsispatienten konnten höhere Exhalationen von CO festgestellt werden als in
+der Kontrollgruppe. Am Expirationsschenkel des Respirators wurde CO an verschiedenen
+Tagen der Erkrankung der Patienten gemessen. Die Ergebnisse zeigten, dass die Gruppe der
+Sepsispatienten höhere CO-Konzentrationen ausatmeten als die Kontrollgruppe. Des weiteren
+konnte festgestellt werden, dass eine höhere Produktion von CO am ersten Tag des
+Intensivaufenthaltes mit einem deutlich verbesserten Outcome der Patienten verbunden war.
+Nach diesen Daten scheint es so, dass eine hohe endogene Produktion von CO zu Anfang der
+Erkrankung eine bessere Prognose signalisiert.
+
+22
+
+2. Material und Methoden
+2.1 Rekrutierung der Patienten
+Es wurden insgesamt konsekutiv 95 kritisch kranke Patienten der Intensivobservationsstation
+1 der
+
+Klinik und Poliklinik für Anästhesiologie und operative Intensivmedizin des
+
+Universitätsklinikums Münster untersucht. Die Messungen erstreckten sich vom 17.10.2000
+bis zum 28.05.2002.
+
+2.2 Materialien
+2.2.1 Beatmungsgeräte
+In dieser Studie wurden die Messungen an den Beatmungsgeräten EVITA 2 oder Evita 4 der
+Firma Dräger durchgeführt.
+
+2.2.2 Messgeräte und diverse Zusatzgeräte
+Als Transmitter für elektrochemische Sensoren wurde der Polytron 2 verwendet
+(DrägerSensor® CO – 6809605). Als Ansaugeinheit wurde eine Sampling Unit benutzt.
+Weitere elektrische Geräte waren ein Trenntransformator und ein Netzteil (24 V DC / 1A).
+Zur Verbindung der Messeinheit mit dem Beatmungsgerät wurden konventionelle
+Beatmungsschläuche benutzt.
+
+2.2.3 Dokumentationsgeräte
+Die Dokumentation wurde mit einem herkömmlichen PC Pentium 133 Mhz, oder einem
+Laptop Gericom 1,4 Ghz durchgeführt. Eine Webcam der Firma Logitech® wurde eingesetzt.
+2.2.4 Rahmenbedingungen für die Durchführung der Studie
+Als Einschlußkriterien wurden die im folgenden beschriebenen Parameter herangezogen.
+Voraussetzung war die maschinelle Beatmung des Patienten von mindestens 24 Stunden bei
+
+23
+
+respiratorischer Insuffizienz. Die Auswahl der Patienten erfolgte rein zufällig. Folgende
+Parameter wurden bei den Patienten erfasst:
+•
+
+Dialyse, pulmonale Erkrankungen, kardiale Erkrankungen und Nikotinabusus
+
+Dabei wurden bei kardialen Erkrankungen insbesondere folgende erfasst:
+•
+
+Herzinsuffizienz,
+
+Herzrhythmusstörungen,
+
+Koronarerkrankungen,
+
+infektiöse
+
+Endokarditiden, Herzklappenveränderungen
+Die Verabreichung von Fremderythrozyten (EKs), bis ≥ 1 Woche vor der Messung, sowie die
+Verabreichung von Katecholaminen wurden berücksichtigt. Auch die Art des chirurgischen
+Eingriffs im Sinne eines Notfalleingriffes oder elektiven Eingriffs wurde mitaufgenommen.
+Ferner waren das Geschlecht, Alter, Gewicht und die Größe des Patienten Parameter, die
+herangezogen wurden. Auch die Fachdisziplinen, aus der der Patient stammte, wurden
+berücksichtigt. Dazu zählten folgende Kliniken:
+•
+
+Zahn-Mund-Kieferchirurgie (ZMK)
+
+•
+
+Thorax-Herz-Gefäßchirurgie (THG)
+
+•
+
+Neurochirurgie (NCH)
+
+•
+
+Allgemein Chirurgie (ACH)
+
+•
+
+Gynäkologie/Geburtshilfe (GYN)
+
+Die Sepsiskriterien wurden definiert nach der ACCP/SCCM Consensus Konferenz (Bone RC
+et al., 1992).
+Die Pneumoniekriterien wurden nach klinischen Gesichtspunkten definiert, wie sie von Singh
+vorgeschlagen wurden (Singh N et al., 2000).
+Eine Prüfung durch die Ethikkommission des Universitätsklinikums Münster entfiel, da die
+Entnahme von Blut zur Bestimmung der Blutgase zur normalen täglichen Routine einer
+Intensivstation gehört. Eine zusätzliche Gewinnung von Blut war für diese Studie nicht
+notwendig. Ebenso wenig waren andere invasive Tätigkeiten am Patienten notwendig. Die
+Auswertungen der Ergebnisse wurden anonymisiert durchgeführt.
+
+2.3 Laborchemische und hämatologische Bestimmungen
+Ein aktuelles klinisches Labor (Kreatinin [Crea], Harnstoff, GOT, GPT, yGT, LDH, Bilirubin
+[Bil], Lactat)
+
+sowie ein kleines Blutbild (Thrombozyten, Hämatokrit, Hb) mit
+
+Entzündungsparametern (Leukozyten [Leuk], C-Reaktives Protein [CRP]) wurden im
+24
+
+Rahmen der Kontrolluntersuchungen täglich durchgeführt und protokolliert. Die Bestimmung
+wurde im Zentrallaboratorium des Universitätsklinikums Münster durchgeführt.
+Anhand einer zu Beginn und zum Schluss der Messung durchgeführten Blutgasanalyse
+wurden Kohlendioxid-Partialdruck (pCO2), Sauerstoff-Partialdruck (pO2) sowie der aktuelle
+pH-Wert ermittelt. Die Blutproben für die Blutgasbestimmung wurden in heparinisierten
+Röhrchen der Firma Sarsted gesammelt und sofort durch ein Blutgasanalysegerät (ABL 620,
+Radiometer Koppenhagen, Dänemark) analysiert.
+Bei allen Patienten erfolgte durch eine arterielle Kanülierung der A. radialis oder A. femoralis
+eine kontinuierlich Blutdruckmessung, die im Rahmen der Studie stündlich protokolliert
+wurde. Der zentralvenöse Druck konnte durch einen in der V. jungularis bzw. V. subclavia
+liegenden Katheter erhoben werden.
+In der 24 Stunden laufenden Messung wurden stündlich folgende Beatmungsparameter
+erhoben und dokumentiert: CO [ppm], Positiver endexpiratortischer Druck (PEEP),
+Atemminutenvolumen (AMV)[l/min], Atemfrequenz, Tidalvolumen, Kohlendioxid (CO2)
+(endexpiratorisch), FIO2 Herzfrequenz, mittlerer arterieller Blutdruck, Temperatur (T)[°C]
+und Beatmungstyp.
+Anschließend wurden die Patienten anhand des Scoresystems Acute Physiology and Chronic
+Health Evaluation II (APACHE II), sowie des Multiple Organ Dysfunktion Score (MODS)
+klassifiziert.
+
+2.4 Studiendesign
+Ziel der hier durchgeführten Studie war es, einen möglichen Zusammenhang zwischen COKonzentration in der Exhalationsluft und Organdysfunktionen zu untersuchen. Diesbezüglich
+schloss die Studie Patienten mit Erkrankungen des respiratorischen, kardiovaskulären und
+renalen Systems ein. Jedoch wurden auch akute Erkrankungen zum Zeitpunkt der Messung
+erfasst, wie Pneumonien, Adult Respiratory Distress Syndrome (ARDS), Acute lung injury
+(ALI) und Sepsis. Die Expirationsluft wurde am Expirationsschenkel des Beatmungsgeräts
+gesammelt. Die CO-Konzentration wurde direkt mittels einer Polytron-Zelle gemessen. Aus
+24 stündlichen CO-Messungen pro Person wurde jeweils ein Mittelwert gebildet.
+
+25
+
+Berechnet wurde die CO-Produktion nach folgender Formel:
+eCO[ppm]*AMV [l/min]/kg KG*60[min] = [µl/kg] pro h
+um gewichts- und größenspezifische Unterschiede zu berücksichtigen.
+
+2.4.1 Versuchsaufbau
+Die Expirationsluft wurde am Expirationsschenkel des Beatmungsgeräts gesammelt. Die
+Messung des CO-Gehalts wurde direkt mittels einer Polytron-Zelle gemessen. Abb. 3 wird
+der Versuchsaufbau schematisch dargestellt.
+
+*
+Abb. 3: Schematische Darstellung des Versuchaufbaus
+
+(* = Mischkammer)
+Am Expirationsschenkel der Beatmungsmaschine (hier EVITA 2 dura von Dräger) wurde
+durch die Mischkammer über eine Ansaugeinheit das zu untersuchende Gasgemisch
+angesaugt und dem Messkopf Polytron 2 von Dräger zugeführt. Nach Vorbeiführung wurde
+das Gasgemisch zur Mischkammer rückgeführt und anschließend an die Umgebung
+abgegeben.
+Die Dokumentation der gemessenen Werte am Display des Polytron Messkopfes erfolgte
+stündlich durch Aufnahme mit einer handelsüblichen Web-Kamera. Die Daten wurden
+anschließend auf einem PC gespeichert und nach Beendigung der Messung protokolliert.
+
+26
+
+2.5 Messung der CO-Konzentration
+Die in dieser Studie eingeschlossenen, kritisch kranken Patienten wurden mit einem
+Respirator der Firma Dräger vom Typ EVITA 2 oder 4 beatmet. Die COKonzentrationsmessung erfolgte mittels einer Polytron Zelle der Firma Dräger. Der Sensor ist
+ein Messwandler zur Messung des Partialdruckes eines Gases unter atmosphärischen
+Bedingungen. Komponenten des Messkopfs sind ein Gehäuse, ein Sensor und eine
+mikroprozessorgesteuerte Elektronik. Das Messkopfgehäuse besteht aus nicht-leitfähigem
+Kunstoff, der elektrostatische Aufladungen verhindert und unempfindlich gegenüber Säuern
+und Basen ist (Drägerwerk, 1995). Das zu überwachende Gas diffundiert durch eine Membran
+in den flüssigen Elektrolyt des Sensors. Dieser Elektrolyt, bestehend aus Schwefelsäure,
+enthält eine Messelektrode, eine Gegenelektrode und eine Referenzelektrode. Durch eine
+Potentiostatschaltung wird erreicht, dass zwischen Messelektrode und Referenzelektrode eine
+konstante elektrische Spannung herrscht. Die Spannung, der Elektrolyt und das
+Elektrodenmaterial sind so gewählt, dass das zu messende Gas an der Messelektrode
+elektrochemisch umgewandelt wird und durch den Sensor ein Strom fließt. Dieser Strom ist
+der Gaskonzentration proportional (Drägerwerk, 1995). Der durch den Sensor fließende
+Strom wird von einer Elektronik verstärkt, digitalisiert und mit mehreren Parametern
+verrechnet (z.B. die gemessene Umgebungstemperatur). Der so gewonnene Messwert wird
+sowohl analog als 4 bis 20 mA-Signal als auch als digital HART-kompatible Messgröße
+ausgegeben
+
+(Drägerwerk,
+
+1995).
+
+Dieser
+
+Polytron-Zelle
+
+wird
+
+eine
+
+Ansaugeinheit
+
+vorgeschaltet, die eine kontinuierliche Ansaugung des zu messenden Gas-Luft-Gemisches
+gewährleistet. In Verbindung mit der Zentraleinheit wird ein Alarm bei Unterschreitung der
+Mindest-Förderleistung ausgelöst. Die Ansaugeinheit besteht aus einer Pendelkolbenpumpe
+mit Gleichstrommotor und einem getakteten Spannungsregler zur Versorgung des
+Pumpmotors (Drägerwerk, 1995). Die Versorgung des Pumpmotors ist einstellbar, wodurch
+die Förderleistung der Pumpe über einen weiten Bereich an die gegebenen Verhältnisse
+angepasst werden kann. Das angesaugte Gas wird zur Abscheidung von Schwebstoffen
+zunächst über einen Staubfilter geleitet, bevor es die Drosselstrecke und die Pumpe passiert.
+Die Drosselstrecke mit der Differenzdruckschaltung und nachgeschalteter Elektronik dient zur
+Alarmierung im Falle einer Unterschreitung der Mindest-Förderleistung (Drägerwerk, 1995).
+
+27
+
+Reaktionen am Kohlenmonoxidsensor
+Reaktion an anode:
+2 CO + 2 H2O → 2 CO2 + 2 H+ + 2 eReaktion an der Kathode:
+O2 + 4 H+ + 4 e- → 2 H2O
+Zellreaktion:
+2 CO + O2 → 2 CO2
+
+Die nachfolgende Abb. 4 zeigt den schematischen Aufbau einer CO-Zelle.
+
+Abb. 4: Schematische Darstellung einer CO-Messzelle
+(Drägerwerke AG, Dr. Herbert Kiesele)
+
+28
+
+2.6 Statistische Methoden
+In der statistischen Auswertung wurden folgende Darstellungen gewählt:
+Für normal verteilte und nominale Werte wurde die Pearson Mroduct Moment correlation
+verwendet. Als nicht-parametrischer Test bei nicht-normalverteilten Werten wurde die
+Spearman Rank order correlation verwendet. Ferner wurde als nicht-parametrischer Test für
+nicht-normal verteilten Werten zum Vergleich zweier Gruppen der Mann-Whitney rank sum
+test verwendet.
+Das Signifikanzniveau lag bei p < 0,05.
+
+2.7 Scoringsysteme
+In der vorliegenden Arbeit wurde der Gesamtzustand der einzelnen Patienten anhand von
+Scoresystemen beschrieben. In dieser Arbeit bediente man sich des APACHE II- und MODSScore. Sinn der Anwendung eines Scoresystems ist die Kombination mehrerer Aspekte eines
+Krankheitsgeschehens. Jeder dieser Aspekte ist für sich messbar. Des weiteren können aber
+auch Aspekte berücksichtigt werden, die der Patient mitbringt, wie z.B. Alter und
+Vorerkrankungen. Auch therapeutische Maßnahmen finden Berücksichtigung, die Indikatoren
+für die Schwere der Erkrankung sein können.
+
+2.7.1 APACHE II-Score-System
+Das bekannteste Punktwertsystem ist die Klassifizierung nach APACHE, von welchem es
+inzwischen drei Versionen gibt. Die ursprüngliche Version des APACHE wurde 1981 von
+Knaus publiziert (Knaus WA et al., 1982). In der vorliegenden Studie wurde die zweite
+Generation des APACHE verwendet. 1985 publizierten Knaus den APACHE II-Score (Knaus
+WA et al., 1985). Hierbei werden 12 physiologische Parameter, sowie die der Glasgow Coma
+Scale (GCS), das Alter und Vorerkrankungen berücksichtigt. Bei den 12 physiologischen
+Parametern handelt es sich um die Temperatur [°C] den mittlerern arteriellen Blutdruck
+[mmHg], die Herzfrequenz [pro Minute], und die Oxygenierung. Im Falle eines FIO2 < 0,5
+wird der paO2 [mmHg] herangezogen, im Falle eines FIO2 von ≥ 0,5 wird der AaDO2
+[mmHg] berechnet. Weitere Parameter, die miteinbezogen wurden, waren der arterieller pH,
+Natrium [mmol/l], Kalium [mmol/l], Kreatinin [mg/dl], Hämatokrit [%] und Leukozyten
+[103/µl].
+
+Als
+
+relevante
+
+chronische
+
+Vorerkrankungen
+
+werden
+
+Organsysteme berücksichtigt, die in Tab. 6 beschrieben werden.
+29
+
+hierbei
+
+insbesondere
+
+Tab. 4: Chronische Vorerkrankungen, die in das Scoresystem APACHE II eingehen.
+
+Organsystem
+
+Erkrankungen
+
+Lunge
+
+Chronisch restriktive, obstruktive oder vaskuläre Erkrankungen, die eine
+erhebliche Einschränkung der Leistungsfähigkeit bedingen (z.B. Unfähigkeit,
+Treppen zu steigen oder Hausarbeiten zu verrichten); gesicherte chronische
+Hypoxie,
+
+Hyperkapnie,
+
+sekundäre
+
+Polyzythämie,
+
+schwere
+
+pulmonale
+
+Hypertonie (> 40 mmHg); Ventilatorabhängigkeit
+Herz-Kreislauf-
+
+Herzinsuffizienz NYHA Klasse V
+
+System
+Niere
+
+Chronisches dialysepflichtiges Nierenversagen
+
+Leber
+
+Histologisch
+
+gesicherte
+
+Leberzirrhose
+
+und
+
+dokumentierte
+
+portale
+
+Hypertension; vorangegangene Ösophagusvarizenblutung; Zustand nach
+Leberversagen/Enzephalopathie/Koma
+Immunsystem
+
+Immunsupprimierende
+
+Therapie
+
+(Immunsuppressiva,
+
+Chemotherapie,
+
+Bestrahlung; Langzeit- (> 30 Tage) oder hochdosierte Steroidgabe);
+fortgeschrittene Immunerkrankung (Leukämie; AIDS, Lymphome)
+
+Weitere Kriterien waren die Zuweisungen auf die Intensivstation nach elektiven Operationen,
+nach Notfalloperationen oder bei nichtoperativer Therapie.
+
+2.7.2 MODS-Score-System
+Der MODS (Multiple Organ Dysfunction Score) wurde von Marshall publiziert (Marshall J et
+al. 1995). Er wurde ausgehend von der direkten Beziehung zwischen der Anzahl der
+erkrankten Organsysteme und der korrespondierenden Mortalität von Intensivpatienten
+entwickelt. Seine Bestimmung ist, im Gegensatz zum APACHE II-Score, der nur im Rahmen
+der stationären Aufnahme eines Intensivpatienten ermittelt werden kann, täglich möglich.
+Vorteile ergeben sich dadurch, dass beim einzelnen Patienten die Erkennung und
+Dokumentation eines wechselnden Mortalitätsrisikos im Verlauf seines Intensivaufenthaltes
+möglich ist. Die Grundlage dieses Punktwertsystems ist das Multiorganversagen, als
+Haupttodesursache auf der Intensivstation. Obwohl dieses Syndrom ein recht einheitliches
+Erscheinungsbild bietet, entwickelt es sich unabhängig von der Gesundheitsstörung bei der
+Aufnahme des Patienten auf der Intensivstation. Das Prinzip der Werteerhebung des MODS
+ähnelt dem des APACHE-Systems. Für die Bestimmung des MODS ist die Analyse von sechs
+30
+
+Organsystemen erforderlich. Durch diese Auswahl sind die wichtigsten physiologischen
+Systeme, die im Prozess des Multiorganversagens involviert sind, repräsentiert. Auch beim
+MODS werden dem Grad der Abweichung des jeweiligen Parameters von der Norm
+entsprechende Punktwerte von 0 bis 4 vergeben. Es ist nicht notwendig, dass jeder Parameter
+erhoben wird. Ein fehlender Wert geht mit 0 Punkten in die Wertung ein. Das Ziel, das die
+Autoren mit der Entwicklung dieses Scores verfolgten, war es, ein System hervorzubringen,
+das in erster Linie den intensivmedizinischen Therapieerfolg quantifiziert. Die prognostische
+Wertigkeit des MODS war von sekundärer Bedeutung. Für diese Arbeit war es von Interesse,
+die Erkrankungsschwere der Patienten am Untersuchungstag zu bestimmen.
+Tab. 7 gibt das Scoresystem wieder.
+Tab. 5: Darstellung des MODS Methode: Für jeden einzelnen Parameter Ermittlung des in einem
+Zeitraum von 24 Stunden nach Aufnahme auf die Intensivstation am weitesten von der Norm
+abweichenden Messwertes und Bestimmung des korrespondierenden Punktwertes. Wurde ein Parameter
+nicht ermittelt, geht dieser mit 0 Punkten in die Wertung ein. Zur Berechnung des Score-Ergebnisses
+werden die korrespondierenden Punktwerte aller sechs Parameter addiert. Ein neuer Score kann im 24stündigen Intervall ermittelt werden. (Marshall JC et al., (1995) Multiple organe dysfunktion score: a
+reliable predictor of a complex clinical outcome. Crit Care Med 23: 1638-1652)
+
+Punkte
+Parameter
+
+0
+
+1
+
+2
+
+3
+
+4
+
+PaO2/FIO2
+
+> 300
+
+226-300
+
+151-225
+
+76-150
+
+≤ 75
+
+Serumkreatinin
+
+≤ 100
+
+101-200
+
+201-350
+
+351-500
+
+> 500
+
+≤ 20
+
+21-60
+
+61-120
+
+121-240
+
+> 30
+
+Pulse adjusted heartrate
+
+≤ 10
+
+10,1-15
+
+15,1-20
+
+20,1-30
+
+> 30
+
+Thrombozyten (1000/µl)
+
+> 120
+
+81-120
+
+51-80
+
+21-50
+
+≤ 20
+
+GCS
+
+15
+
+13-14
+
+10-12
+
+7-9
+
+≤6
+
+[µmol/l]
+Serumbilirubin
+[µmol/l]
+
+31
+
+3. Ergebnisse
+3.1 Epidemiologische Daten
+An der Studie nahmen insgesamt 95 kritisch kranke Patienten teil. Die Geschlechtsverteilung
+betrug 28 weibliche und 67 männliche Patienten. Das durchschnittliche Alter der Patienten
+betrug 59,5 Jahre mit einer Standardabweichung von 15,7 Jahren. Der älteste Patient war 87
+Jahre, der jüngste Patient 22 Jahre alt.
+Anhand des Scoresystems APACHE II wurden die Patienten beurteilt. Dabei war der
+durchschnittliche APACHE-Punktwert 22,2. Der höchste APACHE-Punktwert betrug 34 und
+der niedrigste 10 bei einer Standartabweichung von 4,9 (Tab.: 8).
+Die Patienten wurden aus unterschiedlichen Fachdisziplinen rekrutiert (Abb. 5).
+
+60
+50
+40
+30
+
+51
+
+20
+29
+10
+
+13
+
+0
+ZMK
+
+THG
+
+NCH
+
+1
+
+1
+
+ACH
+
+GYN
+
+Abb. 5: Darstellung der Patientenanteile in relativen Zahlen aus den unterschiedlichen Fachdisziplinen
+(ZMK, THG, NCH, ACH, GYN)
+
+32
+
+3.1.1 Demographische Daten
+Tab. 6: Demographische Daten der Studienpatienten (Mittelwert ± Standartabweichung)
+Alter
+
+59.5 ± 15.7
+28/67
+
+Geschlecht Ratio(W/M)
+Komorbidität
+Kardiale Erkrankungen
+
+54
+
+Pulmonale Erkrankungen
+
+24
+
+Raucher
+
+9
+22.2 ± 4.9
+
+APACHE II-Score
+
+9.4 ± 3.6
+
+MODS
+
+3.2 Darstellung der exhalierten CO-Konzentrationen kritisch kranker
+Patienten
+Wie bereits beschrieben, wurden pro Patient 24 Messungen des CO/d erhoben. Aus 24 COMessungen pro Person und Tag wurde jeweils der Mittelwert gebildet. Die CO-Produktion
+wurde in µl/kg/h berechnet, um gewichts- und größenspezifische Unterschiede zu
+berücksichtigen. Dabei lagen die Ergebnisse im Mittel bei 22,5 µl/kg/h. Der Median lag bei
+20,6 µl/kg/h, das 5%/95% Konfidenzintervall betrug 10,75 – 42,26. Die CO-Konzentration
+der Patienten variiert zwischen 0,86 und 8,47 ppm (Mittelwert ± Standartabweichung: 3,13 ±
+1,38 ppm). Patienten produzierten endogenes CO in einer Konzentration von 7,3 und 97,9
+µl/kg/h (22, 5 ± 12,3 µl/kg/h).
+
+3.2.1 Zusammenhang zwischen APACHE II-Score bzw. MODS-Score und
+endogener CO-Produktion
+In der vorliegenden Arbeit wurde der Gesamtzustand der einzelnen Patienten anhand von
+Scoresystemen beschrieben. Dazu wurde jeweils zu Beginn der Messung der APACHE IIScore und MODS berechnet. Hingegen wurde, um die Schwere der Organdysfunktion
+einzuschätzen, der MODS benutzt. Um einen möglichen Zusammenhang zwischen der
+endogenen CO-Produktion und dem entsprechenden Score zu erfassen, wurde anhand der
+Spearman Korrelation die CO-Produktion [µl/kg/h] mit den Scoresystemem verglichen. Die
+Tab. 9 gibt die Ergebnisse wieder.
+33
+
+Tab. 7: Spearman-Korrelation zwischen CO-Produktion [µl/kg/h] und MODS, sowie APACHE II-Score
+
+MODS
+
+R=0,266
+
+p=0,009
+
+APACHE II-Score
+
+R=0,04
+
+p=0,699
+
+Die CO-Produktion korreliert signifikant mit dem MODS (R = 0,266, p = 0,009) (Abb. 6).
+Keine Korrelation findet sich hingegen zwischen APACHE II-Score und der CO-Produktion
+(R = 0,04; p = 0,699).
+
+Korrelation CO-Produktion - MODS Score
+20
+
+R = 0.27
+p = 0.009
+
+18
+
+MODS score
+
+16
+14
+12
+10
+8
+6
+4
+2
+0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+CO [µl*kg-1*h-1]
+Abb. 6: Die endogene CO-Produktion kritisch kranker Patienten (ICU) wurde gegen den
+korrespondierenden MODS geplottet. Nachweisbar war eine signifikante Korrelation zwischen endogener
+CO-Produktion und MODS mit Hilfe der Pearson Product moment correlation (p = 0,009).
+
+3.2.2 Zusammenhang zwischen endogener CO-Produktion und verschiedenen
+Laborparametern
+Hb wird durch die HO zu gleichen Anteilen zu CO und Biliverdin, welches zu Bilirubin
+reduziert wird, abgebaut. Die Korrelation zwischen Bilirubin und endogener CO-Produktion
+wurde als eine Kontrolle für die Validität der CO-Konzentrationsmessung gewertet. Es wurde
+34
+
+eine signifikant positive Korrelation zwischen endogenen CO-Produktion dem und
+Serumbilirubin (R = 0,295; p = 0,004) gefunden.
+Es konnte weder eine signifikante Korrelation zwischen CO-Produktion und dem Hb-Wert (R
+= -0,022; p >0,05), noch zwischen der CO-Produktion und der Anzahl der verabreichten
+Erythrozyten Konzentraten, die in den letzten 7 Tagen der Messung verabreicht wurden (R =
+0,046; p > 0,05), gefunden werden
+Außerdem fand sich keine Korrelation zwischen endogener CO-Produktion und dem paCO2,
+oder dem paO2 (R = -0,024 und R = 0,124, bzw., p > 0,05).
+Die endogene CO-Produktion korreliert signifikant mit der Leukozytenanzahl (R = 0,291; p =
+0,004) und der Höhe des Serum-LDH (R = 0,347; p = 0,0006).
+Keine Korrelation existiert zwischen Serumcreatinin und CO-Produktion (R = 0,113; p >
+0,05).
+Die Ergebnisse sind übersichtlich in Tab. 10 dargestellt.
+Tab. 8: Zusammenhang zwischen endogener CO-Produktion und verschiedenen Laborparametern
+Hb
+
+R=-0,022
+
+p=0,83
+
+n=95
+
+Leukozyten
+
+R=0,291
+
+p=0,004
+
+n=95
+
+LDH
+
+R=0,347
+
+p=0,00057
+
+n=95
+
+Bilirubin
+
+R=0,295
+
+p=0,0037
+
+n=95
+
+Creatinin
+
+R=0,113
+
+p=0,276
+
+n=95
+
+paCO2
+
+R=-0,024
+
+p=0,823
+
+n=89
+
+Alter
+
+R=-0,083
+
+p=0,42
+
+n=95
+
+3.2.3 Zusammenhang zwischen endogener CO-Produktion und verschiedenen
+Erkrankungen der Organsysteme, sowie des Geschlechts
+Zum Vergleich zweier unabhängiger Verteilungen wurden mit dem Rangtest Mann-Whitney
+rank sum test (Mann-Whitney U) folgende Ereignisse überprüft.
+
+35
+
+Patienten mit einer kardialen Vorerkrankung (n = 54) produzierten signifikant höhere
+endogene CO-Konzentrationen als Patienten ohne kardiale Vorerkrankungen (n = 41)
+(Median 22,5, 75% CI 10,8 zu 45,1 µl/kg/h vs Median 18,2, 75% CI 10,6 zu 35,2 µl/kg/h, p =
+0,008) (Abb. 7). Bei Patienten mit kardialer Vorerkrankung waren der MODS (Median 11,
+75% CI 8 zu 11 vs Median 7, 75% CI 5 zu 8,25), sowie der APACHE II-Score (Median 24,
+75% CI 20 zu 26 vs Median 20, 75% CI 17, 75 to 24) signifikant höher als bei Patienten ohne
+kardiale Vorerkrankungen.
+Des weiteren produzierten renal erkrankte Patienten, die sich einer Dialyse (n = 14)
+unterziehen
+
+mußten,
+
+signifikant
+
+höhere
+
+CO-Konzentrationen,
+
+als
+
+Patienten
+
+ohne
+
+Nierenerkrankungen (n = 81) (Median 20,0, 75% CI 16,5 zu 41,0 µl/kg/h vs Median 19,4,
+75% CI 10,6 zu 43, 6 µl/kg/h; p = 0,004) (Abb. 8).
+
+CO-Produktion von Patienten mit und
+ohne kardialer Vorerkrankung
+50
+
+p = 0.008
+
+CO [µg*kg-1*h-1]
+
+40
+
+30
+
+20
+
+10
+
+0
+kardiale Vorerkrankung Kontrollen
+
+Abb. 7: Endogene CO-Produktion kritisch kranker Patienten mit und ohne kardiale Erkrankungen (ICU
+Kontrollen). Boxen –von der 25igsten bis zur 75igsten Perzentile- mit der Mittellinie als Median; SE
+Boxen –von den SE bars -von der 10er bis zur 90er Perzentile-; dots –von der 5er und 95er Perzentile; p =
+0,008: Nachweis mit signifikant höherer CO-Produktion bei kritisch kranken Patienten mit kardialen
+Erkrankungen im Vergleich zu ICU Kontrollen mit Hilfe des Mann-Whitney rank sum test.
+
+Entsprechend zu Patienten mit einer kardialen Vorerkrankung zeigten auch Patienten mit
+Nierenerkrankungen unter Dialyse signifikant höhere MODS-Werte (Median 13,5, 75% CI 10
+36
+
+zu 15 vs. Median 8, 75% CI 6,75 zu 11) und APACHE II-Score-Werte (Median 25,5, 75% CI
+20 zu 30 vs Median 22, 75% CI 19 zu 24) verglichen zu Patienten ohne Nierenerkrankung
+(bzw. p < 0,001 und p = 0,01). Bei kritisch kranken Patienten mit Pneumonie (n = 10) konnte
+die erhöhte endogene CO-Produktion im Vergleich zu kritisch kranken Patienten ohne
+Pneumonie (n = 85) keine Signifikanz erreichen (Median 16,4, 75% CI 12,7 zu 20,6 vs
+Median 20,9, 75% CI 16,1 zu 25,9; p = 0,07). Interessant stellt sich die Tatsache dar, dass
+kritisch kranke Patienten mit Sepsis ( n = 10) ähnlich viel endogenes CO verglichen mit
+kritisch kranken Patienten ohne Sepsis (n = 85) (Median 20,4, 75% CI 15,9 zu 27,9 vs Median
+20,6, 75% CI 15,7 zu 25,4; p > 0,05) produzierten, und zwar trotz eines signifikant höheren
+MODS bei kritisch kranken Patienten mit Sepsis (Median 12, 75% CI 10 zu 16 vs Median 8,
+75% CI 6,75 zu 12; p = 0,009). Ein Geschlechtsspezifischer Unterschied konnte nicht
+festgestellt werden (p=0,17).
+
+CO-Produktion von Dialyse-Patienten und Kontrollen
+60
+
+p = 0.004
+
+40
+
+-1
+
+-1
+
+CO [µg*kg *h ]
+
+50
+
+30
+20
+10
+0
+Dialyse
+
+Kontrollen
+
+Abb. 8: Endogene CO-Produktion kritisch kranker Patienten mit Dialysepflicht und ohne renale
+Erkrankungen (ICU Kontrolle). Boxen -25er bis 75er Perzentile-, mit der Mittellinie als Median;
+SE bars, 10er bis 90er Perzentile; dots, 5er und 95er Perzentile; p = 0,004: Nachweis einer signifikant
+höheren CO-Produktion bei kritisch kranken Patienten mit schwerer renaler Erkrankung im Vergleich
+zu IUC-Kontrollen mit Hilfe der Mann-Whitney rank sum test.
+
+37
+
+4. Diskussion
+In der vorliegenden Arbeit wurde der Zusammenhang zwischen dem Schweregrad
+verschiedener Erkrankungen (kardiale, pulmonale, renale) bzw. der Zusammenhang zwischen
+bestimmten Organdysfunktionen und der Höhe der CO-Produktion untersucht.
+Zum ersten Mal konnte ein eindeutiger Zusammenhang zwischen MODS und endogener COProduktion demonstriert werden. Damit lassen sich möglicherweise über die Höhe der COProduktion Rückschlüsse auf den Schweregrad akuter Erkrankungen ziehen. Insbesondere bei
+kritisch kranken Patienten mit kardialen und renalen Vorerkrankungen konnte eine
+Korrelation mit der Höhe der endogenen CO-Produktion hergestellt werden.
+In dieser Diskussion soll der Stellenwert des CO betrachtet werden. Insbesondere sollen die
+Fragen nach möglichen Gründen einer CO-Erhöhung in der Expirationsluft kritisch kranker
+Patienten diskutiert werden. Dabei scheinen Untersuchungen aus der Transplantationsmedizin
+hilfreich zu sein.
+
+4.1 Diskussion der erhobenen Daten
+4.1.1 Zusammenhang zwischen APACHE II-Score bzw. MODS und endogener
+CO-Produktion
+Seit der Erstbeschreibung und Weiterentwicklung des APACHE II-Scores durch Knaus gilt er
+als ein gut validiertes Score-System zur quantitativen Beurteilung des Zustandes und der
+Prognose von Intensivpatienten (Knaus WA et al., 1985, Moscovitz H et al., 1994, MüllerWerdan U et al., 1999, Pilz G et al., 1990). Der APACHE II-Score erlaubt weiterhin im
+Vergleich mit anderen Scores und parallel erhobenen hämodynamischen und klinischen
+Parametern die sicherste Diskriminierung von Hochrisikopatienten (Pilz G et al., 1990).
+In dieser Studie fand sich keine Korrelation zwischen APACHE II-Score und der Höhe der
+endogenen CO-Produktion (R = 0,04; p = 0,699). Ein Erklärungsversuch liegt in der Natur
+des APACHE-Scoresystems, das primär als ein Outcome-Score fungiert. Entgegen dem
+MODS der in erster Linie den intensivmedizinischen Therapieerfolg quantifiziert. Der
+APACHE II-Score reflektiert neben dem akuten Krankheitsgrad auch andere Parameter, die
+das Outcome des Patienten beeinflussen können. Im APACHE II-Score wird die Prognose des
+akuten Krankheitsbildes maßgeblich von den Vorerkrankungen des Patienten beeinflusst.
+38
+
+Daher lässt der APACHE II-Score neben dem akuten Krankheitsschweregrad auch die
+Krankheitsgeschichte des Patienten mit in die Bewertung einfließen. Das Einfließen kardialer
+Vorerkrankungen in den APACHE II-Score bei kritisch kranken Patienten, führt neben einem
+höheren MODS (Median 11, 75% CI 8 zu 11 vs Median 7, 75% CI 5 zu 8,25), auch zu einem
+höheren APACHE II-Score (Median 24, 75% CI 20 zu 26 vs Median 20, 75% CI 17, 75 to
+24), als bei Patienten ohne kardiale Vorerkrankungen.
+Gleiches findet sich bei Patienten mit Nierenerkrankungen, die dialysepflichtig sind. Neben
+einem signifikant höheren MODS (Median 13,5, 75% CI 10 zu 15 vs Median 8, 75% CI 6,75
+zu 11) fanden sich hier wiederum höhere APACHE II-Score-Werte (Median 25,5, 75% CI 20
+zu 30 vs Median 22, 75% CI 19 zu 24) im Vergleich zu Patienten ohne Nierenerkrankungen
+(bzw. p < 0,001 und p = 0,01). In dieser Studie konnte erstmals dargestellt werden, dass die
+endogene CO-Produktion signifikant mit dem MODS (R = 0,266, p = 0,009) (Abb. 6)
+korreliert. Die Korrelation zwischen endogener CO-Produktion und MODS -jedoch nicht mit
+dem APACHE II-Score- zeigt, daß die endogene CO-Produktion die Schwere der akuten
+Organfunktionsstörung reflektiert.
+
+4.1.2 Zusammenhang zwischen endogener CO-Produktion und verschiedenen
+Laborparametern
+Es stellte sich in dieser Studie eine Korrelation zwischen Billirubin, LDH, Leukozyten und
+der endogenen CO-Produktion heraus. Die starke Korrelation zwischen Leukozyten und
+endogener CO-Produktion (R = 0,291; p = 0,004) stützt die gegenwärtige Meinung, daß eine
+Entzündung bzw. entzündliche Prozesse im Allgemeinen zu einer Expression von HO-1 führt,
+die eine erhöhte CO-Produktion bedingt (Amersi F et al., 1999; Kudo S et al., 1999;
+Rizzardini M et al., 1993; Terry CM et al., 1998). Die signifikant positive Korrelation
+zwischen endogenen CO-Produktion und Serumbilirubin (R = 0,295; p = 0,004) wurde als
+eine Kontrolle für die Validität der CO-Konzentrationsmessung gewertet. Wie schon in der
+Einleitung beschrieben stammt die Hauptmenge des pro Tag gebildeten Bilirubins aus dem
+Abbau zirkulierender Erythrozyten in der Milz. CO entsteht beim Abbau von Hb (Abb. 1).
+Der Abbau des Hb beginnt mit der Abspaltung des Eisen- Porphyrins vom Globin. Dies
+geschieht vermutlich nach Umwandlung des Hb zu Methämoglobin, aus dem sich das Hämin
+leichter ablösen lässt. Das Globin wird zu Aminosäuren abgebaut. Hämin oder Häm wird zu
+Biliverdin unter Freisetzung von CO oxidiert. Das freiwerdende Eisen wird an Ferritin
+gebunden. Biliverdin wird mit NADPH zum Bilirubin reduziert. Die endogene CO39
+
+Produktion korreliert folglich direkt mit dem Erythrozytenabbau und damit besteht auch eine
+direkte Korrelation zur Bilirubinproduktion.
+Auch die Rolle des LDH ist interessant. So konnte gezeigt werden, dass eine Korrelation
+zwischen LDH und endogener CO-Produktion (R = 0,347; p = 0,0006) besteht. Ein Anstieg
+der LDH-Aktivität wird unter vielen pathologischen Bedingungen beobachtet. Die
+Freisetzung dieses intrazytoplasmatischen Enzyms gibt Aufschluß über die Zellschädigung.
+Somit stützt auch diese Beobachtung die These der HO-1-Induktion unter oxidativem Stress.
+Diese Beobachtung kann zudem mit der Arbeit von Müller in Einklang gebracht werden
+(Müller E, 2002). Der nach Leberoperation und -transplantation auftretende I/R und die
+konsekutive Inflammation des Lebergewebes stellen ein bedeutendes klinisches Problem dar.
+In der Arbeit von Müller wurden die Einflüsse der warmen und kalten Ischämie sowie der
+Exposition inflammatorischer Zytokine und Endotoxine auf die Expression der HO-1mRNA
+und ihres Proteins, der HO-1, in humanen Hepatozytenprimärkulturen untersucht. Warme und
+kalte Ischämie stimulierten die HO-1mRNA Expression in humanen Hepatozyten. Das HO-1
+Protein wurde über 0,5-6h maximal exprimiert. Der Zellschaden, gemessen an der AST- und
+LDH-Freisetzung unter ischämischen Bedingungen, wurde insbesondere nach 24h beobachtet
+(Müller E, 2002). In Anlehnung an die Arbeit von Müller ist die Korrelation zwischen LDH
+und endogener CO-Produktion in meiner Arbeit durchaus mit einer möglichen Induktion der
+HO-1 durch einen inflammatorischen Prozeß zu begründen.
+
+4.1.3 Zusammenhang zwischen endogener CO-Produktion und verschiedenen
+Erkrankungen der Organsysteme
+Die HO- I spielt eine zentrale Rolle bei der Abwehr von oxidativem Stress (Bandy B et al.,
+1990; Bauer I et al., 1998). Oxidativer Stress ist ein starker Induktor der HO-1 (Bauer M et
+al., 1997; Carraway MS et al., 2000; Carraway MS et al., 1998; Donnely LE et al., 2001; Elia
+G et al., 1999; Giaccia AJ et al., 1992; Hangalshi M et al., 2000; Lee PJ et al., 1996; Matz PG
+et al., 1996; Motterlini R et al., 2000). Hierdurch wird vermehrt endogenes CO produziert.
+Bei Organdysfunktion bzw.- versagen ist oxidativer Stress beteiligt
+In dieser Arbeit konnte festgestellt werden, dass sich bei Patienten mit Nierenerkrankungen,
+die sich einer Dialyse (n = 14) unterziehen mussten, signifikant höhere CO-Konzentrationen
+nachweisen ließen, als bei Patienten ohne Nierenerkrankungen (n = 81) (Median 20,0, 75% CI
+16,5 zu 41,0 µl/kg/h vs Median 19,4, 75% CI 10,6 zu 43, 6 µl/kg/h; p = 0,004). Eine mögliche
+40
+
+Interpretation dieses Ergebnisses ist, dass -bedingt durch das Organversagen und den
+begleitenden oxidativem Stress- die HO-1 induziert wird. Möglicherweise können Studien,
+die sich mit Transplantation und dem damit verbundenen I/R beschäftigen, Hinweise auf die
+pathophysiologischen Vorgänge geben. Sass berichtet, dass die Induktion der HO-1 in vitro
+vor TNF-vermittelter Apoptose schützt und in vivo vor I/R induzierter Leberschädigung.
+Dabei untersuchte Sass die Wirkung der HO-1 und ihrer Reaktionsprodukte (CO, Biliverdin
+und Eisen/Ferritin) bei der Fas-induzierten, apoptotischen Leberschädigung der Maus. Zur
+HO-1-Induktion wurden Balb/c Mäuse mit Cobalt-Protoporphyrin-9 (CoPP) vorbehandelt
+oder HO-1 wurde durch adenoviralen Gentransfer bereitgestellt. Die Hemmung der HO
+erfolgte durch Vorbehandlung mit Zinn-Protoporphyrin-9 (SnPP). Die CO-Applikation
+erfolgte mit Hilfe einer speziellen Begasungsanlage. Biliverdin wurde i.p. appliziert. Ferritin
+wurde adenoviral verabreicht. Der Leberschaden wurde durch Aktivierung von Fas mit antiCD95 erzeugt. Nach acht Stunden wurden die Transaminasen im Plasma und die Aktivierung
+der Caspase-3 in der Leber gemessen. Die Induktion der HO-1 wurde mit Hilfe von
+immunohistochemischen Färbungen und real-time RT-PCR nachgewiesen. Die Induktion
+oder Bereitstellung der HO-1 schützte vor apoptotischem Leberschaden, während die
+Hemmung der HO-1 den Leberschaden verschlimmerte. Von den Produkten der HO-1 war
+nur CO in der Lage, vor anti-CD95 induziertem Leberschaden zu schützen, während
+Biliverdin und Ferritin den Schaden verstärkten (Sass G et al., 2003).
+Die Induktion der HO-1 in der Leber führt zum Schutz vor apoptotischer Leberschädigung.
+Diese Eigenschaft der HO-1 lässt sich auf ihr Produkt CO zurückführen, dessen antiapoptotische Wirkung bereits in vitro nachgewiesen werden konnte (Liu XM et al., 2003;
+Zhang X et al., 2003; Brouard S et al., 2002).
+Mit Hilfe eines rekombinanten Adenovirus, der die HO-1 (AdHO-1) als therapeutisches
+Transgen exprimiert, wurde am Beispiel eines Rattentransplantationsmodells für „marginale“
+Lebern untersucht, ob die Hochregulation von HO-1 in „marginalen“ Lebern zu einer
+Verbesserung der Transplantatfunktion und -qualität führt. Das Lebertransplantationsmodell
+wurde deshalb ausgewählt, weil sich Leberzellen besonders gut mit rekombinanten
+Adenoviren transduzieren lassen und erwartet wurde, dass möglichst viele Zellen eines
+Transplantats das therapeutische Transgen exprimieren sollten. Es konnte zunächst in einem
+ex-vivo Leberperfusionsmodell gezeigt werden, dass die gentherapeutisch behandelten Lebern
+(AdHO-1) einen deutlich verminderten I/R Schaden aufwiesen. Dies konnte anhand der
+gemessenen Parameter (Blutfluss in der Portalvene, Gallenproduktion, Transaminasen)
+41
+
+eindrucksvoll belegt werden (Amersi F et al., 1999). Weiterhin konnte in einem isogenen
+Transplantationsmodell gezeigt werden, dass die AdHO-1 behandelten Lebern eine deutlich
+verlängerte
+
+Transplantatüberlebenszeit
+
+aufwiesen
+
+(mittlere
+
+Transplantatüberlebenszeit
+
+Kontrolle: 14 Tage, n=10-11, bei ca. 40% der Tiere; mittlere Transplantatüberlebenszeit
+AdHO-1: 14 Tage, n=10-11, ca. 80% der Tiere) (Amersi F et al., 1999). Ähnliche Ergebnisse
+brachte die Anwendung von CoPP sowohl im ex-vivo Perfusionsmodell als auch in den
+isogenen Transplantationsstudien (Amersi F et al., 1999). Mittlerweile liegen auch
+Untersuchungen in Nieren- bzw. Inselzell-Transplantationsmodellen vor, die zeigen, dass die
+Induktion von HO-1 zur Verbesserung der Organfunktion und somit auch zu einer
+Verlängerung der Transplantatüberlebenszeit beiträgt (Tullius SG et al., 2001; Pileggi et al.,
+2001).
+Aber auch das akute Nierenversagen (Tullius SG et al., 2001) ist ein Induktor der HO-1.
+Neben der schon genannten I/R (Amersi F et al., 1999) ist auch die Atherosklerose (Siow RC
+et al., 1999) Induktor der HO-1. Umso interessanter ist die Feststellung in dieser Studie, dass
+Patienten mit einer kardialen Vorerkrankung (n = 54) signifikant höhere endogene COMengen als Patienten ohne kardiale Vorerkrankungen (n = 41) (Median 22,5, 75% CI 10,8 zu
+45,1 µl/kg/h vs Median 18,2, 75% CL 10,6 zu 35,2 µl/kg/h, p = 0,008) aufwiesen.
+Die Atherosklerose ist eine allgemeine und häufig die zugrunde liegende Ursache einer
+breiten Vielzahl an kardialen Erkrankungen. Ferner spielt der I/R eine wichtige Rolle in der
+Pathologie von Myokardinfarkten und der koronaren Herzkrankheit. Diese Tatsachen spiegeln
+möglicherweise die erhöhten endogenen CO-Konzentrationen bei kardial vorerkrankten
+Patienten wieder. Auch die Hypoxie könnte eine weitere mögliche Erklärung für die erhöhten
+CO-Konzentrationen bei kardial erkrankten Patienten geben. Unter hypoxischen Bedingungen
+wird die HO-1 induziert (Katayose et al., 1993), wobei der molekulare Mechanismus dieser
+Induktion noch völlig unbekannt ist. Es wird angenommen, dass die Zellschädigung durch
+den Mangel an Sauerstoff und die damit verbundene Ausschüttung von freien Radikalen
+Grundlage des Regulationsmechanismus ist. Die durch die Radikale erzeugte Veränderung
+des Zellzustandes bewirkt eine Aktivierung des zellulären Schutzsystems und damit die
+Induktion der HO-1. Die Hypoxie wirkt zudem durch eine Drucküberlastung im rechten
+Herzventrikel verstärkend auf Herzerkrankungen. Katayose konnte eine Induktion der HO1mRNA in beiden Herzventrikeln unter hypoxischen Bedingungen feststellen (Katayose et
+al., 1993). Die Induktion der HO-1 in kardialem Gewebe bildet möglicherweise einen
+Schutzmechanismus, da eine erhöhte HO-1-Aktivität eine erhöhte CO-Produktion zur Folge
+42
+
+hat, die koronare und arterielle Muskelgewebe relaxieren lässt (Maines MD et al., 1993) und
+damit die Bedingungen des Herzens unter Hypoxie durch eine Aufweitung der Arterien
+wesentlich verbessert.
+Die HO-1 scheint eine wichtige Rolle bei der Verhinderung der Transplantatrejektion zu
+spielen, denn Herztransplantate von HO-1 defizienten Mäusen werden schneller abgestoßen
+(Soares MP et al., 1998). Weiterhin konnte gezeigt werden, dass die Vorbehandlung von
+Mäusen mit Kobaltporphyrin (CoPP), einem bekannten Induktor von HO-1, zu einer
+verlängerten Überlebenszeit von Herztransplantaten aus diesen Mäusen führt, wenn sie in
+allogene Rezipienten transplantiert wurden (Woo et al., 1998). Auch diese Beobachtungen
+spiegeln möglicherweise die erhöhten endogenen CO-Konzentrationen bei kardial
+vorerkrankten Patienten wieder.
+Kritisch kranke Patienten mit Sepsis (n = 10) produzieren ähnlich große Mengen von
+endogenem CO verglichen mit kritisch kranken Patienten ohne Sepsis (n = 85) (median 20,4,
+75% CI 15,9 zu 27,9 vs median 20,6, 75% CI 15,7 zu 25,4; p > 0,05). Dies gilt trotz eines
+signifikant höheren MODS bei kritisch kranken Patienten mit Sepsis (median 12, 75% CI 10
+zu 16 vs median 8, 75% CI 6,75 zu 12; p = 0,009). Auch bei schweren septischen
+Krankheitsbildern und beim septischen Schock ist oxidativer Stress vorhanden (Zegdi R et al.,
+2002). Dass in dieser Arbeit keine Korrelation zwischen kritisch kranken Patienten mit Sepsis
+und endogener CO-Produktion festgestellt werden konnte, kann seine Ursache in der
+unterschiedlichen Definition der Sepsis haben. In dieser Studie wurde die Sepsis anhand der
+ACCP/SCCM Konsensus Konferenz definiert (Bone RC et al., 1992). Zegdi schloßen
+hingegen nur Patienten ein, die die Kriterien einer schweren Sepsis, oder eines septischen
+Schocks erfüllten (Zegdi R et al., 2002).
+Bei kritisch kranken Patienten mit Pneumonie (n = 10) konnte die erhöhte endogene COProduktion im Vergleich zu kritisch kranken Patienten ohne Pneumonie (n = 85) keine
+Signifikanz erreichen (Median 16,4, 75% CI 12,7 zu 20,6 vs Median 20,9, 75% CI 16,1 zu
+25,9; p = 0,07). Wie schon in der Einleitung beschrieben, konnten Studiengruppen bei
+entzündlichen Erkrankungen der Atemwege erhöhte CO-Konzentrationen feststellen. So
+konnten bei asthmakranken Patienten (Zayasu K et al., 1997) sowie Patienten mit Infektionen
+der oberen Atemwege (Monma M et al., 1999) höhere CO-Konzentrationen in der
+Ausatemluft gefunden werden als in der Vergleichsgruppe. Erklärt wird dieses Phänomen mit
+der HO-1-Induktion in den Atemwegen durch Entzündungsreaktionen. Bei Patienten mit
+43
+
+bekannter saisonaler allergischer Rhinitis wurde in einem Experiment die exhalierte COKonzentration
+
+gemessen.
+
+Dabei
+
+konnten
+
+bei
+
+symptomatischen
+
+Patienten
+
+höhere
+
+Konzentrationen von CO gemessen werden. Die Exhalation via Nase oder Mund differierte
+nicht, so dass von einer CO-Produktion der tieferen Atemwege ausgegangen wurde (Monma
+M et al., 1999). Auch an Patienten mit einer Infektion des oberen Respirationstraktes konnten
+erhöhte CO-Werte gemessen werden. Dabei waren alle Probanden Nichtraucher und litten bis
+zu 4 Wochen vor der Messung an keiner Infektion des oberen Respirationstraktes (Yamaya M
+et al., 1999). In einem Tiermodell wurde die oben beschriebene Aussage durch Kitada
+reproduziert. Albuminsensible Mäuse wurden mit Albumin-Aerosol beatmet, um eine
+allergisch vermittelte Inflammation der Atemwege hervorzurufen (Kitada O et al., 2001). In
+der vorliegenden Untersuchung zeigen die Ergebnisse hingegen nur eine tendenziell erhöhte
+endogene CO-Produktion, die mit kritisch kranken Kontrollpatienten verglichen wurde
+(Median 16,4, 75% CI 12,7 zu 20,6 vs Median 20,9, 75% CI 16,1 zu 25,9; p = 0,07).
+Höchstwahrscheinlich bedingt durch die kleine Stichprobe (n = 10) konnte in dieser
+Untersuchung nur eine Tendenz, nicht hingegen eine statistische Signifikanz belegt werden.
+Die Induktion der HO-1 scheint einen schützenden Effekt auf Zellen und Geweben zu haben.
+In Tiermodellen konnte dieser zellschützende Effekt reproduziert werden. Durch
+oxidationsvermittelte Zellverletzungen sowie bei akuten Entzündungen konnten erhöhte
+Konzentrationen von HO-1 gemessen werden. Die HO-1 schützt somit die Zelle vor
+zellschädigenden Effekten sowie vor lipopolysaccharid-vermitteltem Zelltod (Tamion F et al.,
+2001; Hancock WW et al., 1998; Li L et al., 2000). Die pharmakologische Induktion der HO1 blockiert entzündliche Effekte (Amersi F et al., 1999; Wagener FA et al., 2001). Die
+genauen Regelmechanismen, die an den inflammatorischen und cytoprotektiven Effekten der
+HO-1 beteiligt sind, sind bisher nicht völlig geklärt. Jedoch scheint im Pathomechanismus die
+Downregulation von Adhäsionsmolekülen und eine verminderte Leukozytenadhäsion (Rucker
+M et al., 2001; Vachharajani TJ et al., 2000; Hayashi S et al., 1999) eine Rolle zu spielen.
+Ähnlich dem Überexpressionseffekt der HO-1 hemmt exogen zugeführtes CO in niedrigen
+Konzentrationen die pro-entzündlichen Gene und stimuliert damit die antiinflamatorische
+Cytokinproduktion. Die Vermittlung des antiinflammatorischen Effekts von CO wird
+vermutlich durch die Aktivierung von p38 Mitogen-aktivierter Proteinkinase herbeigeführt
+(Song R et al., 2002; Brouard S et al., 2000; Otterbein LE, 2000). In einer Studie von Dolinay
+konnte ein entzündungshemmender Effekt an einem Tiermodell durch Inhalation von
+niedrigdosiertem CO demonstriert werden (Dolinay T et al., 2004). Abgesehen von seinem
+44
+
+antiinflammatorischen Effekt zeigt CO auch einen anti-apoptotischen Effekt in vitro und in
+vivo (Liu XM et al., 2003; Zhang X et al., 2003; Brouard S et al., 2002).
+
+4.2 Zusammenfassung und Einordnung der erhobenen Daten
+CO ist insbesondere als Gas bekannt, das bei unvollständiger Verbrennung, z. B. in
+schadhaften Öfen und Feuerstellen, als Autoabgas, aber auch an jeder Brandstätte entsteht.
+Das Krankheitsbild der CO-Intoxikation ist durch den ansteigenden Sauerstoffmangel der
+Organe gekennzeichnet (Schmailzl KJG et al., 1995; Dolan MC et al., 1985). Klinisch
+manifestiert sich die resultierende Hypoxie v.a. im zentralen Nervensystem und im HerzKreislauf-System. Die Therapie der CO-Vergiftung besteht in der Unterbrechung der
+Exposition und Beseitigung der Asphyxie.
+In jüngerer Zeit wurde aber auch vermehrt die endogene Produktion von CO untersucht
+(Antuni JD et al., 2000; Horvath I et al., 1998; Kitada O et al., 2001; Monma M et al., 1999;
+Montushi P et al., 2001; Wakabayashi Y et al., 1999; Yamaya M et al., 1999; Zegdi R et al.,
+2000, 2002; Zayazu K et al., 1997). Endogenes CO entsteht beim Abbau von Hb. Im
+Abbauprozess von Hb kommt insbesondere einem Enzym eine tragende Rolle zu, der HO.
+Die HO ist beteiligtes und limitierendes Enzym im Hämoglobinabbauprozess. Die
+induzierbare Form der HO-1 und die konstitutiven Formen HO-2 und HO-3 sind als
+genetische Isoformen identifiziert worden (Maines MD et al., 1997; Terry MJ et al., 2002).
+Unter physiologischen Bedingungen werden HO-2 und HO-3 konstitutiv in den meisten
+Geweben exprimiert, während die meisten Gewebe nur niedrige oder unter der
+Nachweisgrenze liegende Konzentrationen von HO-1 exprimieren.
+Beim Hämoglobinabbau wird Biliverdin, Fe2+ und CO produziert. Biliverdin wird bei
+Säugetieren weiter zu Bilirubin verstoffwechselt (Montellano PR et al., 2000).
+Wie kein anderes Enzym reagiert die HO-1 extrem empfindlich auf verschiedene Stresssoren,
+insbesondere auf Stimuli, die oxidativen Stress verstärken. Dazu gehören H2O2,
+Lipopolysacharide, NO, Ischämie, Heat Shock Proteine, Hypoxie und Hyperoxie (Wagener
+FA et al., 2003), I/R, (Takahashi S et al., 1999), inflammatorische Zytokine (Amersi F et al.,
+1999; Kudo S et al., 1999; Rizzardini M et al., 1993; Terry CM et al., 1998), Endotoxine
+(Amersi F et al., 1999; Camhi SL et al., 1995; Pellacani A et al., 1998), Häm (Taylor JL et al.,
+1998; Vesely MJ et al., 1998), Metalle (Immenschuh S et al., 1995), Hypothermie,
+45
+
+Hyperthermie (Shibahara S et al., 1987) sowie die portale Hypertension (Fernandez M et al.,
+1999).
+Die Induzierbarkeit der HO durch Hormone wurde bereits eingehend von Bakken untersucht
+(Bakken AF et al., 1972). Die Arbeitsgruppe postulierte den Effekt verschiedener Hormone,
+wie z.B. Epinephrin und Glucagon, auf die hepatische HO-Aktivität. 3,5,3'-L-Triiodthyronin
+(T3) wirkt aktivierend auf die hepatische HO (Smith TJ, Drummond GS et al., 1982) und
+ALA-Synthase (Smith TJ, Drummond GS et al., 1988).
+Die Eigenschaften von CO kann man als vasodilatierend, antioxidativ, anitiinflamatorisch und
+antiprolferativ bezeichnen (Jernigan ML et al., 2001; Kuroki M et al., 1998; Matz PG et al.,
+1996; Morita T et al., 1995; Siow RC et al., 1999), aber auch als protektiv gegen
+apoptotischem Zellschaden (Sass G et al., 2003; Liu XM et al., 2003; Zhang X et al., 2003;
+Brouard S et al., 2002).
+In dieser Arbeit wurde bei insgesamt 95 kritisch kranken Patienten, die unter verschiedenen
+Erkrankungen (pulmonalen, kardialen und renalen Vorerkrankungen) und ferner allesamt
+unter einer respiratorischen Insuffizienz mit mindestens 24 stündiger maschineller Beatmung
+litten, stündlich dass exhalatorische CO gemessen.
+Zum ersten Mal konnte ein bedeutender Zusammenhang zwischen MODS und endogener
+CO-Produktion demonstriert werden. Somit reflektiert die endogene CO-Produktion die
+schwere der akuten Organdysfunktion. In diesem Zusammenhang können auch kritisch
+kranke Patienten mit Nierenversagen und Dialysepflichtigkeit, sowie Patienten mit kardialen
+Vorerkrankungen gesehen werden. Auch hier wird, möglicherweise durch die erhöhte
+endogene CO-Produktion, die Schwere der akuten Organdysfunktion dargestellt. Dies gilt
+insbesondere auch deswegen, weil –anders als beim APACHE II-Score- die Vorerkrankungen
+nicht in die Berechnung des MODS eingehen.
+Als unterstützend für die gängige Meinung, daß eine Entzündung bzw. entzündliche Prozesse
+im Allgemeinen zu einer Expression von HO-1 und damit zu erhöhter CO-Produktion führt,
+kann die Korrelationen der Laborwerte LDH und Leukozyten bei kritisch kranken Patienten
+mit der endogenen CO-Produktion gelten.
+
+46
+
+Aufgrund der zu kleinen Stichprobe konnte keine statistische Signifikanz, sondern lediglich
+eine Tendenz, dass kritisch kranke Patienten mit Pneumonien erhöhte endogene CO-Werte
+exhalieren, dargestellt werden.
+Bei kritisch kranken Patienten mit Sepsis konnte entgegen der Studie von Zegdi (Zegdi R et
+al., 2002) keine erhöhte endogene CO-Produktion nachgewiesen werden, was durch die
+unterschiedlichen Sepsisdefinitionen bedingt sein kann.
+
+4.3 Diskussion im Kontext zu möglichen zukünftigen Studien
+Zum ersten Mal konnte ein bedeutender Zusammenhang zwischen MODS und endogener
+CO-Produktion demonstriert werden. Somit reflektiert die endogene CO-Produktion die
+schwere der akuten Organdysfunktion. Damit verfügt der Organismus offenbar über einen
+Schutzmechanismus gegenüber schädigenden Einflüssen.
+Zwar konnten in dieser Arbeit Korrelationen zwischen der Produktion von endogenem CO
+und kardialen, sowie renalen Vorerkrankungen gezeigt werden. Es gelang bisher jedoch keine
+Aussage über die Prognose hinsichtlich der Morbidität und Mortalität der Patienten zu stellen.
+Jedoch reflektiert die erhöhte Produktion von CO bei kritisch kranken Patienten
+möglicherweise die Prognose hinsichtlich Morbidität und Mortalität. Für zukünftige Studien
+ist daher die Frage, ob die erhöhte endogene CO-Produktion bei kritisch kranken Patienten
+eine Aussage über Morbidität und Mortalität erlaubt, sicherlich äußerst interessant. So scheint
+es sinnvoll die Patienten, die in dieser Studie erhöhte CO-Konzentrationen exhalierten,
+retrospektiven Untersuchungen bezüglich Morbidität und Mortalität zuzuführen.
+Bei kritisch kranken Patienten mit Sepsis konnte entgegen der Studie von Zegdi (Zegdi R et
+al., 2002) keine erhöhte endogenen CO-Produktion nachgewiesen werden, was durch die
+unterschiedlichen Sepsisdefinitionen bedingt sein kann. In dieser Arbeit wurde die Sepsis
+nach der ACCP/SCCM-Konsensus-Konferenz definiert (Bone RC et al., 1992). In
+zukünftigen Studien sollte erneut unter den Bedingungen der ACCP/SCCM-KonsensusKonferenz, möglichst mit einer größeren Stichprobe, die Korrelation zwischen endogener
+CO-Produktion und kritisch kranken Patienten mit Sepsis untersucht werden.
+Unterschiedliche Studiengruppen konnten bei entzündlichen Erkrankungen der Atemwege
+erhöhte CO-Konzentrationen feststellen (Monma M et al., 1999; Zayasu K et al., 1997;
+47
+
+Yamaya M et al., 1999). In dieser Studie konnte aufgrund der zu kleinen Stichprobe eine
+Tendenz, jedoch keine statistische Signifikanz ermittelt werden. Jedoch sind die Hinweise
+einer HO-1-Induktion insbesondere in tieferen Atemwegen (Monma M et al., 1999) äußerst
+vielversprechend, weshalb zukünftige Studien insbesondere pulmonale Krankheitsbilder
+verstärkt einschließen sollten.
+
+48
+
+5. Literatur
+Abraham NG, da Silva JL, Lavrovsky Y, Stoltz RA, Kappas A, Dunn MW, Schwartzman ML
+(1995 Oct) Adenovirus-mediated heme oxygenase-1 gene transfer into rabbit ocular
+tissues. Invest Ophthalmol Vis Sci 36(11): 2202-10
+Akamatsu Y, Haga M, Tyagi S, Yamashita K, Graca-Souza AV, Ollinger R, Czismadia E,
+May GA, Ifedigbo E, Otterbein LE, Bach FH, Soares MP (2004 Apr) Heme oxygenase-1derived carbon monoxide protects hearts from transplant associated ischemia reperfusion
+injury. FASEB J 18(6): 771-2
+Akira S, Isshiki H, Sugita T, Tanabe, O, Kinoshita S, Nishio Y, Nakajima T, Hirnao T,
+Kishimoto T (1990) EMBO J 9: 1897-1906
+Amersi F, Buelow R, Kato H, Ke B, Coito AJ, Shen XD (1999) Upregulation of
+hemeoxygenase-1 protects genetically fat Zucker rat livers from ischemia/reperfusion
+injury. J Clin Invest 104: 1631-9
+Antuni JD, Kharitonov SA, Hughes D, et al. (2000) Increased in exhaled carbon monoxide
+during exacerbations of cystic fibrosis. Thorax 55: 138-42
+Bakken AF, Thaler MM, Schmid R (1972 Mar) Metabolic regulation of heme catabolism and
+bilirubin production. I. Hormonal control of hepatic heme oxygenase activity. J Clin Invest
+51(3):530-6
+Balla G, Jacob HS, Balla J, Rosenberg M, Nath K, Apple F, Eaton JW, Vercellotti GM (1992
+Sep) Ferritin: a cytoprotective antioxidant strategem of endothelium. J Biol Chem
+5;267(25):18148-53
+Balla J, Jacob HS, Balla G, Nath K, Vercellotti GM (1992) Endothelial cell heme oxygenase
+and ferritin induction by heme proteins: a possible mechanism limiting shock damage.
+Trans Assoc Am Physicians 105:1-6
+
+49
+
+Balla J, Nath KA, Bella G, Juckett MB, Jacob HS, Vercellotti GM (1995) Endothelial cell
+heme oxygenase and Ferritin induction in rat lung by haemoglobin in vivo. Am J Physiol
+268: L321-L327
+
+Bandy B, Davison AJ (1990) Mitochondrial mutations may increase oxidative stress:
+implications for carcinogenesis and aging. Free Rad Biol Med; 8:523-39
+Barbior BM, Stossel TP (1990) Hematology: A pathophysiological Approach, Churchill
+Livingston New York, 2d ed
+Barnes PJ (1993) Anti-Inflammatory therapy for asthma. Annu Rev Med 44: 229-242
+Bauer M, Rensing H, Bauer C, Bauer I, Larsen R (1997) Organ specific expression pattern of
+a carbon monoxide generating stress protein (hemoxygenase-1/heatshock protein 32)
+following hemorrhagig shock. Anaestesist 46(4): 339-42
+Bauer I, Wanner GA, Rensing H, Alte C, Miescher EA, Wolf B, Pannen BH, Clemens MG,
+Bauer M (1998 Mar) Expression pattern of heme oxygenase isoenzymes 1 and 2 in normal
+and stress-exposed rat liver. Hepatology 27(3):829-38
+Baumann H, Gauldie J (1994) The acute phase response. Immunol. Today 15: 74-80
+Baumann M, Bender E, Strommer G, Gross G, Brand K (1989) Effects of warm and cold
+ischemia on mitochondrial functions in brain, liver, and kidney. Mol Cell Biochem 87:
+137-145
+Beck WS(ed) (1991) Hematology, MIT Press, Boston, 5th ed
+Bone RC, Balk RA, Cerra FB, Dellinger RP, Fein AM, Knaus WA (1992) Definitions for
+sepsis and organ failure and guidelines for the use of innovative therapies in sepsis.The
+ACCP/SCCM
+
+Consensus
+
+Conference
+
+Committee.
+
+American
+
+College
+
+of
+
+Chest
+
+Physicians/Society of Critical Care Medicine. Chest 101: 1644-55
+Brouard S, Berberat PO, Tobiasch E, Seldon MP, Bach FH, Soares MP (2002)
+Hemeoxygenase-1-derived carbon monoxide requires the activation of transcription factor
+50
+
+NF-kappa B to protect endothelial cells from tumor necrosis factor-alphamediated
+apoptosis. J Biol Chem 277: 17950-61
+Brouard S, Otterbein LE, Anrather J, Tobiasch E, Bach FH, Choi AM, et al. (2000) Carbon
+monoxide generated by heme oxygenase 1 suppresses endothelial cell apoptosis. J Exp
+Med 192: 1015-26
+Bruene B, Ullrich V (1987) Inhibition of platelet aggragation by carbon monoxide is mediated
+by activation of granylate Cyclase. Mol Pharmacol 32: 497-504
+Buddecke E (1985) Grundriss der Biochemie. Walter de Gruter, 7. Auflage, 4 Kapitel, 259262
+Bunn HF, Forget BG (1986) Hemoglobin: Molecular Genetic and Clinical Aspects. Saunders,
+Philadelphia Comp., Philadelphia, London ,Toronto, Mexiko City, Rio de Janeiro, Sydney,
+Tokio, Hong Kong
+Butler LD, Layman NK, Riedl PE, Cain RL, Shellhaas J, Evans GF, Zuckerman SH (1989)
+Neuroendocrine regulation of in vivo cytokine production and effects: I. In vivo regulatory
+networks involving the neuroendocrine system, interleukin-1 and tumor necrosis factoralpha. J Neuroimmunol 24(1-2): 143-153
+Camhi SL, Alam J, Otterbein L, Sylvester SL, Choi A (1995) Induction of heme oxygenase-1
+gene expression by lipopolysaccharide is mediated by AP-1 activation. Am J Respir Cell
+Mol Biol 13: 387-98
+Cantoni L, Rossi C, Rizzanrdini M (1991) Interleukin-1 tumor necrosis factor induce hepatic
+heme oxygenase: feedback regulation by glucocorticoids. Biochem J 279: 891-4
+Carini R, De Cesaris MG, Splendore R, Bagnati M, Albano E (2000) Ischemic
+preconditioning reduces Na(+) accumulation and cell killing in isolated rat hepatocytes
+exposed to hypoxia. Hepatology 31(1): 166-72
+Carraway MS, Ghio AJ, Carter JD, Piantadosi CA (2000) Expression of heme oxygenase-1 in
+the lung in chronic hypoxie. Am J Physiol Lung Cell Mol 278: L806-12
+51
+
+Carraway MS, Ghio AJ, Suliman HB, Carter JD, Whorton AR, Piantaosi CA (2002) Carbon
+monoxide promotes hypoxic pulmonary vascular remodelling. Am J Physiol Lung Cell
+Mol Physiol 282: L693-702
+Carraway MS, Ghio AJ, Taylor HL, Piantadosi CA (1998) Induction of ferritin and HO-1 by
+endotoxin in the lung. Am J Physiol Lung Cell Mol Physiol 275: L583-L592
+Choi AM, Alam J (1996) Heme oxygenase-1: fuction, regulation, and implication of a novel
+stress-inducible protein in oxidant-induced lung injury. Am J Respir Cell Mol Biol 15: 919
+Choi EM (2002) Parikinsonism after caebon monoxide poisoning. Eur Neurol 48: 30-3
+Christou H, Morita T, Hsieh CM, Koibe H, Arkonac B, Perrella MA, Kourembanas S (2000)
+Prevention of hypoxia-induced pulmonary hypertension by enhancement of endogenous
+heme oxygenase-1 in the rat. Cir Res Abstract 86: 1224-9 Erratum in: Circ Res 2002 Mar
+8;90(4):e66-a
+Churchill TA, Cheetham KM, Fuller BJ (1994) Glycolysis and energy metabolism in rat liver
+during warm and cold ischemia: evidence of an activation of the regulatory enzyme
+phosphofructokinase. Cryobiology 31: 441-452
+Clark JE, Foresti R, Green CJ, Motterlini R (2000 Jun) Dynamics of haem oxygenase-1
+expression and bilirubin production in cellular protection against oxidative stress. Biochem
+J 15 348 Pt 3: 615-9
+Clark JS et al. (1992) Noninvasive assessment of blood gases. Am Rev Respir Dis 145(1):
+220-232
+Clavien PA, Harvey PR, Strasberg SM (1992) Preservation and reperfusion injuries in liver
+allografts. An overview and synthesis of current studies. Transplantation 53(5): 957-78
+
+52
+
+Clayton CE, Carraway MS, Suliman HB, Thalmann ED, Thalmann KN, Schmechel DE,
+Piantadosi CA (2001) Inhaled carbon monoxide and hyperoxic lung injury in rats. Am J
+Physiol Lung Cell Mol Physiol 281: L949-55
+Coburn RF, Blakemore WS, Forster RE (1963) Endogenous carbon monoxide production in
+man. J Clin Invest 42: 1172-1178
+Cooke JP, Tsao P (1992) The role of endothelial dysfunction in restenosis. Rev Port Cardiol
+11(10): 889-92
+Cosman, D (1993) The hematopoietin receptor superfamily. Cytokine 5: 95-106
+Crapo RO, Forste RE II (1989) Carbon monoxide diffusine capacity. Clin Chest Med 10: 187
+Dinarello CA, Cannon JG, Mancilla J, Bishai I, Lees J, Coneani F (1991) Interleukin-6 as an
+endogenous pyrogen: induction of prostaglandin E2 in brain but not in peripheral blood
+mononuclear cells. Brain Res 562(2): 199-206
+Dolan MC (1985) Carbon monoxide poisoning. Symposium- carbon monoxide poisoningmechanism of damge, late sequelae and therapy. Clin Toxicol 23: 247
+Dolinay T, Szilasi M, Liu M, Choi AM (2004) Inhaled Carbon Monoxide Confers
+Antiinflammatory Effects Against Ventilator-induced Lung Injury. Am J Respir Crit Care
+13: 13
+Donnely LE, Barnes PJ (2001) Expression of heme oxygenase in human airway epithelial
+cells. Am J Respi Cell Mol Biol 24: 295-303
+Drägerwek AG, Polytron, Ansaugeeinheit, Gebrauchsanweisung; 2. Ausgabe (1995); 31
+Drägerwek AG, Polytron 2, Meßkopf für elektrochemische Sensoren, Gebrauchsanweisung;
+4. Ausgabe (1995); 93.
+Durmaz E, Laurence S, Roden P, Carruthers S (1999) Carbon monoxide poisoning and
+hyperbaric oxygen therapy. Br J Nurs 111: 438-47
+53
+
+Elbirt KK, Bonkovsky HI (1999) Heme oxygenase: recent advances in understanding is
+regulation and role. Proc Assoc Am Physicians 111: 438-47
+Elia G, Polla B, Rossi AM, Santoro MG (1999) Induction of Ferritin and heat shock proteins
+by prostaglandin A1 in human monocytes. Evidence for transcriptional and
+posttranscriptional regulations. Eur J Biochem 264: 736-45
+Falke K, Rossaint R, Pison U, Slama K, Lopez F, Santak B, Zapol W M (1991) Inhaled nitric
+oxide selectively reduces pulmonary hypertension in severe ARDS and improves gas
+exchange as well as right heart ejektion fraction- A Case report. Am Rev Respir Dis 143:
+A248
+Fan C, Zwacka RM, Engelhardt JF (1999) Therapeutic approaches for ischemia/reperfusion
+injury in the liver. J Mol Med 77(8): 577-92
+Fernandez M, Bonkovsky HL (1999) Increased heme oxygenase-1 gene expression in liver
+cells and splanchnic organs from portal hypertensive rats. Hepatology 29(6): 1672-9
+Forresti R, Mottelini R (1999) The heme oxygenase pathway and is interaction with nitric
+oxide in the control of cellular homeostasis. Free Radic Res 31: 459-75
+Frieden E (1971) The ferrous to ferric cycles in iron metabolism. Comprehens Biochem 21:
+41-44
+Fukuda Y, Sassa S (1993 May) Effect of interleukin-11 on the levels of mRNAs encoding
+heme oxygenase and haptoglobin in human HepG2 hepatoma cells. Biochem Biophys Res
+Commun 193(1): 297-302
+Furchgott RF (1988) Studies on the relaxation of rabbit aorta by sodium nitrite: the basis for
+the proposal that the acid- activable factor from bovine retactor penis is inorganic nitrite
+and the endothelium- derived relaxing factor is nitric oxide. In: Vanhoutte PM (ed)
+Mechanisms of vasodilatation. New York Raven: 401- 414
+
+54
+
+Furchgott R, Zawadzki J (1980) The obligatory role of endothelial cells in the relaxation of
+aterial smooth muscle by acetylcholine. Nature 288: 373-376
+Gandini C, Castoldi AF, Xanura SM, Priori S, Locatelli C, Butera R, Bellet C, Manzo L
+(2002) Cardiac damag in pediatric carbon monoxide poisoning. J Toxicol Clin Toxicol 39:
+45-51
+Giaccia AJ, Auger EA, Koong A, Terris DH, Minchinion AI, Hahn CM, Brown JM (1992)
+Activation of the heat shock transcripotion factor by hypoxia in normal and tumor cell
+lines in vivo and in vitro. Int J Radiat Oncol Biol Phys 23: 891-7
+Ginsberg MD (1985) Carbon monoxide intoxication: clinical features, neuropathology and
+mechanisms of injury. J of Toxicol Clin Toxicol 23: 281-8
+Graven K, Farber HW (1997) Endothelial hypoxic stress proteins. Kidney Int 51: 426-437
+Griscavage J, Fukoto J, Komori Y, Ignarro L (1994) Nitric oxide inhibits neuronal nitric
+oxide synthase by interacting with the heme prosthetic group. Role of tetrahydrobiopterin
+in modulating the inhibitory action of nitric oxide. J of Biol Chem 269: 21644-21649
+Guo J, Panday M, Consigny Lefer A (1995) Mechanisms of vascular preservation by a novel
+NO donor follwing rat carotid artery intimal injury. Am J of Physiol 269: H1122-H1132
+Gurkan Y, Canatay H, Toprak A, Ural E, Toker K (2002) Carbon monoxide poisoning - a
+cause of increased QT dispersion. Acta Anaesthesiol Scand Abstract 46: 180-3
+Hampson NB, Simoson SG, Kramer CC, Piantadosi CA (1996) Central nervous system
+oxygen toxicity during hyperbaric treatment of patients with carbon monoxide poisoning.
+Undersea Hyper Med Abstract 23: 215-9
+Hampson NB, Zmaeff JL (2001 Jul) Outcome of patients experiencing cardiac arrest with
+carbon monoxide poisoning treated with hyperbaric oxygen. Ann Emerg 38(1): 36-41
+
+55
+
+Hancock WW, Buelow R, Sayegh MH, Turka LA (1998) Antibody-induced transplant
+arteriosclerosis is prevented by graft expression of anti-oxidant and anti-apoptotic genes.
+Nat Med 4: 1392-6
+Hangalshi M, Ishizawa N, Aizwa T, Kurihara Y, Tagushi J, Nagai R, Kimura S (2000)
+Induction of heme oxygenase –1 can act protectively against cardiav ishemia/reperfusion
+in vivo. Biochem Biophys Res Commun Abstract 279: 582-8
+Hayashi S, Takamiya R, Yamaguchi T, Matsumoto K, Tojo SJ, Tamatani T, Kitajima M,
+Makino N, Ishimura Y, Suematsu M (1999 Oct) Induction of heme oxygenase-1
+suppresses venular leukocyte adhesion elicited by oxidative stress: role of bilirubin
+generated by the enzyme. Circ Res 15 85(8): 663-71
+Higgenbottam T, Pepke- Zaba J, Scott J, Woolman P, Coutts C, Wallwork J (1988) Inhaled
+endthelium- derived relaxing factor (ERDF) in primary hypertension (PPH). Am Rev
+Respir Dis 137 Suppl 2: 107
+Hopkins PN, Wu LL, Hunt SC, James BC, Vincent GM, Williams RR (1996) Higher serum
+bilirubin is associated with decreased risk for early familial coronary artery disease.
+Arterioscler Thromb Vasc Biol 16: 250-255
+Horvath I, Donnelly LE, Kiss A, Paredi P, Kharitonov SA, Barnes PJ (1998 Aug) Raised
+levels of exhaled carbon monoxide are associated with an increased expression of heme
+oxygenase-1 in airway macrophages in asthma: a new marker of oxidative stress. Thorax
+53(8): 668-72
+Horvath I, Loukides S, Wodehouse T, Kharitonov SA, Cole PJ, Barnes PJ (1998 Oct)
+Increased levels of exhaled carbon monoxide in bronchiectasis: a new marker of oxidative
+stress. Thorax 53(10): 867-70
+Huang TJ, McCoubrey WK Jr, Maines MD (2001) Heme oxygenase-2 interaction with
+metalloporphyrins: function on oxygen saturation of haemoglobin. Scand J Clin Lab Invest
+Abstract 61: 83-7
+
+56
+
+Huttler M, Beneke R, Littschwager A, Boning D (2001) Measured fraction of
+caroxyhaemoglobin depends on oxygen saturation of haemoglobin. Scand J clin Lab Invest
+Abstract 61: 83-7
+Immenschuh S, Hinke V, Ohlmann A, Gifhorn-Katz S, Katz N, Jungermann K, Kietzmann T
+(1998) Transcriptional activation of the haem oxygenase-1 gene by cGMP via a cAMP
+response element/activator protein -1 element in primary cultures of rat hepatocytes.
+Biochem J 334(Pt1): 141-6
+Immenschuh S, Iwahara S, Satoh H, Nell C, Katz N, Muller-Eberhard U (1995) Expression of
+the mRNA of heme-binding protein 23 is coordinated with that of heme oxygenase-1 by
+heme and heavy metals in primary rat hepatocytes and hepatoma cells. Biochemistry
+34(41): 13407-11
+Immenschuh S, Ramadori G (2000) Gene regulation of heme oxygenase-1 as a therapeutic
+target. Biochem Pharmacol 15;60(8): 1121-8
+Jaeckle RS, Nasrallah HA (1985) Major depression and carbon monoxide-induced
+parkinsonism. Diagnosis, computerized axial tomography, an response to L-dopa. J Nerv
+Ment Dis Abstract 173: 503-8
+Jaeschke H (1996) Preservation injury: mechanisms, prevention and consequences. J Hepatol
+25(5): 774-80
+Jernigan ML, O Donughy TL, Walker BR (2001) Correlation of HO-1 expression with onset
+and reversal of hypoxia-induced vasoconstrictor hyoreactivity. Am J Physiol Heart Circ
+Physiol 281: H298-307
+Kaplowitz N (2000) Mechanisms of liver cell injury. J Hepatol 32(1Suppl): 39-47
+Katayose D, Isoyama S, Fujita H, Shibahara S (1993) Separate regulation of heme oxygenase
+and heat shock protein 70 mRNA expression in the rat heart by hemodynamic stress.
+Biochem Biophys Res Commun 15;191(2):587-94
+
+57
+
+Keyse SM, Tyrrell RM (1989 Jan) Heme oxygenase is the major 32-kDa stress protein
+induced in human skin fibroblasts by UVA radiation, hydrogen peroxide, and sodium
+arsenate. Proc Natl Acad Sci USA 86(1): 99-103
+Kiger L, Poyart C, Marden MC (1998 Oct) CO binding and valency exchange in asymmetric
+Hb hybrids. Biochemistry 13; 37(41): 14643-50
+Kitada O, Kodama T, Kuribayashi K, Ihaku D, Fujita M, Matsuyama T, Sugita M (2001 Sep)
+Heme oxygenase-1 (HO-1) protein induction in a mouse model of asthma. Clin Exp
+Allergy 31(9): 1470-7
+Knaus WA (1985) APACHE II: A severity of disease classification system. Crit Care Med
+13: 818-829
+Knaus WA, Zimmerman JE, Wagner DP (1981) APACHE – acute physiology and chronic
+health evaluation: A physiologically based classification system. Crit Care Med 9: 591-597
+Koizumi T, Negishi M, Ichikawa A (1992) Induction of heme oxygenase by delta 12prostaglandin J2 in porcine aortic endothelial cells. Prostaglandins 43(2): 121-131
+Koizumi T, Yamauchi R, Irie A, Negishi M, Ichikawa A (1991 Jul) Induction of a 31,000dalton stress protein by prostaglandins D2 and J2 in porcine aortic endothelial cells.
+Biochem Pharmacol 42(4): 777-785
+Kudo S, Kawano K (1999) Role of interleukin-1 beta in the modulations of cytochrome P450
+and heme metabolism in rat liver. J Interferon Cytokine Res 19(6): 601-7
+Kunz D, Zimmermann R, Heisig M, Heinrich PC (1989) Identification of the promoter
+sequences involved in the interleukin-6 dependent expression of the rat alpha 2macrogobulin gene. Nucleic Acids Res 17: 1121-1138
+Kuroki M, Kanamaru K, Suzuki H, Waga S, Semba R (1998 Mar) Effect of vasospasm on
+heme oxygenases in a rat model of subarachnoid hemorrhage. Stroke 29(3): 683-8;
+discussion 688-9
+
+58
+
+Kushida T, Li Volit G, Quan S, Goodman A, Abraham NG (2002) Role of human heme
+oxygenase-1 in attenuating TNF-alpha-mediated inflammation injury in endothelial cells. J
+Cell Biochem 87: 377-85
+Lavrovsky Y, Schwartzman ML, Levere RD, Kappas A, Abraham NG (1994) Identification
+of binding sites for transcription factors NF-kappa B and AP-2 in the promoter region of
+the human heme oxygenase 1 gene. Proc Natl Acad Sci USA 91(13): 5987-91
+Lee PJ, Allam J, Sylvester SL, Inamdar N, Otterbein L, Choi AM (1996) Regulation of heme
+oxygenase-1 expression in vivo and in vitro in hyperoxic lung injury. Am J Respir Cell
+Mol Biol 14: 556-558
+Lee PJ, Allam J, Wiegand GW, Choi AM (1996) Overexpression of heme oxygenase-1 in
+human polmonary epihelial cells results in cell growth arrest and increased resistance to
+hyperoxia. Proc Natl Sci USA Abstract 93: 10393-10398
+Lee TS, Chau LY (2002 Mar) Heme oxygenase-1 mediates the anti-inflammatory effect of
+interleukin-10 in mice. Nat Med 8(3): 240-6
+Li L, Hamilton RF Jr, Holian A (2000) Protection against ozone-induced pulmonary
+inflammation and cell death by endotoxin pretreatment in mice: role of HO-1. Inhal
+Toxicol 12: 1225-38
+Liu XM, Chapman GB, Peyton KJ, Schafer AI, Durante W (2002 Aug) Carbon monoxide
+inhibits apoptosis in vascular smooth muscle cells. Cardiovasc Res 1;55(2): 396-405
+Liu XM, Chapman GB, Peyton KJ, Schafer AI, Durante W (2003) Antiapoptotic action of
+carbon monoxide on cultured vascular smooth muscle cells. Exp Biol Med Maywood 228:
+572-5
+Liu Y, Christou H, Morita T, Laughner E, Semenza GL, Kourembanas S (1998) Carbon
+monoxide and nitric oxide supress the hypoxic induction of vascular endothelial growth
+factor gene via the 5' enhancer. J Biol Chem 273(24): 15257-62
+Losser MR, Payen D (1996) Mechanisms of liver damage. Semin Liver Dis 16(4): 357-67
+59
+
+Lutton JD, da Silva JL, Moqattash S, Brown AC, Levere RD, Abraham NG (1992 Jul)
+Differential induction of heme oxygenase in the hepatocarcinoma cedll line (Hep3B) by
+environmental agents. J Cell Biochem 49(3): 259-65
+Maines MD (1997) The heme oxygenase system: a regulator of second messenger gases.
+Annu Rev Pharmacol Toxicol 37: 517-54
+Maines MD, Mark JA, Ewing, JF (1993) The Roles of Nitric Oxide and Carbon Monoxide in
+the Survival of PC 12 Cells. Mol Cell Neurosci 4, 389-405
+Marckiewicz A, Kushner I, Baumann H (1993) Boca Raton CRC Press: 1-686
+Marks GS, McCluskey SA, Mackie JE, Riddick DS, James CA (1988) Disruption of hepatic
+heme biosynthesis after interaction of xenobiotics with cytochrome P-450. FASEB J 2(12):
+2774-83
+Marshall J et al. (1995) Multiple Organ Dysfunction Score: A reliable descriptor of a complex
+clinical outcome. Crit Care Med 23: 1638-1652
+Martich GD, Danner RL, Ceska M, Suffredini AF (1991) Detection of interleukin 8 and
+tumor necrosis factor in normal humans after intravenous endotoxin: the effect of antiinflammatory agents. J Exp Med 173(4): 1021- 1024
+Matz PG, Massa SM, Weinstein PR, Turner C, Panter SS, Sharp FR (1996 Nov) Focal
+hyperexpression of hemeoxygenase-1 protein and messenger RNA in rat brain caused by
+cellular stress following subarachnoid injections of lysed blood. J Neurosurg 85(5): 892900
+Mayer M (2000) Association of serum bilirubin concentration with risk of coronary artery
+disease. Clin Chem 46: 1723-1727
+Mc Coubrey WK Jr, Huang TJ, Maines MD (1997) Isolation and characterization of a cDNA
+from the rat brain that encodes hemoproteine heme oxygenase-3. Eur J Biochem 247: 72532
+60
+
+Mehta SR, Niyosi M, Kasthuri AS, Dubat U, Bindras S, Prased D, Lahiri AK (2001) Carbon
+monoxide poisoning. J Assoc Physicans India 49: 622-5
+Meyer J, Prien TH, Van Aken H, Bone HG, Waurick R, Theilmeier G, Booke M (1998)
+Arterio-venous carboxyhaemoglobin difference suggest carbon monoxide production by
+human lungs. Biochem Biophys Research Comm 244: 230-232
+Miro Alonso JR, Casdemont J, Jarreta D, Urbano-Marquez A, Cardellach F (1999) Oxidative
+damage on lympycyte membranes increase in patients suffering from acute carbon
+monoxide poisoning. Toxicol Lett 110: 219-23
+Mitani K, Kappas A, Sassa S (1992) Heme oxygenase is a positive acutephase reactant in
+human Hep3B hepatoma cells. Blood 79: 1255-1259
+Mochida S, Arai M, Ohno A, Masaki N, Ogata I, Fujiwara K (1994) Oxidative stress in
+hepatocytes and stimulatory state of Kupffer cells after reperfusion differ between warm
+and cold ischemia in rats. Liver 14(5): 234-40
+Mofenson HC et al (1993) Carbon monoxide poisoning. Am J Emerg Med 2: 254
+Moncada S, Palmer RMJ, Higgs EA (1991 Jun) Nitric oxide: physiology, pathophysiology,
+and pharmacology. Pharmacol Rev 43(2): 109-142
+Moncure M, Brathwaite CE, Samaha E, Marburger R, Ross SE (1999 Mar)
+Carboxyhemoglobin elevation in trauma victims. J Trauma 46(3): 424-7
+Monma M, Yamaya M, Sekizawa K, Ikeda K, Suzuki N, Kikuchi T, Takasaka T, Sasaki H
+(1999 Nov) Increased carbon monoxide in exhaled air of patients with seasonal allergic
+rhinitis. Clin Exp Allergy 29(11): 1537-41
+Montellano PR (2000) The mechanism of heme oxygenase. Curr Opin Chem Biol 4: 221-7
+Montushi P, Kharitnov SA, Barnes PJ (2001) Exhaled carbon monoxide and nitric oxide in
+COPD. Chest 120: 496-501
+61
+
+Morita T, Kourembanas S (1995 Dec) Endothelial cell expression of vasoconstrictors and
+growth factors is regulated by smooth muscle cell-derived carbon monoxide. J Clin Invest
+96(6): 2676-82
+Morita T, Perrella MA, Lee M, Kourembanas S (1992) Smooth muscle cell-derived carbon
+monoxide is a regulator of vascular cGMP. Prox Natl Acad Sci USA Abstract: 1475-1479
+Morse D, Choi AM (2002) Heme oxygenase-1: the "emerging molecule" has arrived. Am J
+Respir Cell Mol Biol 27: 8-16
+Moscovitz H, Shofer F, Mignott H, Behrman A, Kilkpatrick L (1994) Plasma cytokine
+determinations in emergency department patients as a predictor of bacteremia and
+infectious disease severity. Crit Care Med 22: 1102-1107
+Motterlini R, Foresti R, Bassi R, Calabrese V, Clark JE, Green CJ (2000 May) Endothelial
+heme oxygenase-1 induction by hypoxia. Modulation by inducible nitric-oxide synthase
+and S-nitrosothiols. J Biol Chem 275(18): 13613-20
+Müller E (2002) Induktion und Regulation der Hämoxygenase-1 in humanen Hepatozyten.
+Dissertation Klinik für Allgemein-, Visceral-, und Transplantationschirurgie der
+Medizinischen Fakultät Charite der Humboldt-Universität zu Berlin
+Müller-Werdan U, Werdan K, Schuster HP (1999) Monitoring von kritisch Kranken mit
+Sepsis, Multiorgandysfunktionssyndrom und Herz-Kreislauf-Erkrankungen. Intensiv und
+Notfallbehandlung 1: 10-24
+Nachar RA, Pastene CM, Herrers EA, Riquelme RA, Sanchueza EM, Troncoso S, Clavos AJ
+(2001) Low dose inhaled carbon monoxide reduces pulmonary vascular resistece during
+acute hypoxemia in adult sheeeps. High Alt Med Biol 2: 377-85
+Nascimento AL, Luscher P, Tyrrell RM (1993 Mar) Ultraviolet A (320-380nm) radiation
+causes an alteration in the binding of a specific protein/protein complex to a short region of
+the promoter of the human heme oxygenase 1 gene. Nucleic Acids Res 21(5): 1103-1109
+
+62
+
+Nathan C, Xie QW (1994 May) Regulation of biosynthesis of nitric oxide. J Biol Chem.
+13;269(19): 13725-8
+Nunn J (1969) Applied Respiratory Physiologie with special reerence to anaesthesia,
+Butterworth and CO: 351-353
+Ohno K, Fujiwara M, Fukushima M, Narumiya S (1988) Induction of 68,000-dalton heat
+shock proteins by cyclopentenone prostaglandins. Its association with prostaglandininduced G1 block in cell cycle progression. J Biol Chem 263(36): 19764- 19770
+Ohno K, Fujiwara M, Fukushima M, Narumiya S (1986 Sep) Metabolic dehydration of
+prostaglandin E2 and cellular uptake of the dehydration product: correlation with
+prostaglandin
+
+E2-induced
+
+growth
+
+inhibition.
+
+Biochem
+
+Biophys
+
+Res
+
+Commun
+
+14;139(2):808-15
+Otterbein LE, Bach FH, Alam J, Soares M, Tao Lu H, Wysk M, Davis RJ, Flavell RA, Choi
+AM (2000 Apr) Carbon monoxide has anti-inflammatory effects involving the mitogenactivated protein kinase pathway. Nat Med 6(4): 422-8
+Otterbein LE, Choi AM (2000) Heme oxygenase: colors of defense against cellular stress. Am
+J Physiol Lung Cell Mol Physiol 279: L1029-37
+Otterbein LE, Sylvester SL, Choi AM (1995) Hamoglobin provides protection against lethal
+endotoxemia in rats: the role of heme oxygenase-1. Am J Respir Cell Mol Biol 13: 595601
+Panahian N, Maines MD (2001 Jan) Site of injury-directed induction of heme oxygenase-1
+and -2 in experimental spinal cord injury: differential functions in neuronal defense
+mechanisms? J Neurochem 76(2): 539-54
+Paredi P, Biernacki W, Invernizzi G, Kharitonov SA, Barnes PJ (1999) Exhaled carbon
+monoxide levels elevated in diabetes and correlated with glucose concentration in blood: a
+new test for monitoring the disease? Chest 116: 1007-1011
+
+63
+
+Pellacani A, Wiesel P, Sharma A, Foster LC, Huggins GS, Yet SF, Perrella MA (1998)
+Induction of heme oxygenase-1 during endotoxemia is downregulated by transforming
+growth factor-beta1. Circ Res 83(4): 396-403
+Perella MA (2000) Endotoxin-induced, mortality is reated to increased oxidative stress and
+end-organ dysfunktion, not refractory hypotension, in heme-oxygenase-1 deficient mice.
+Circulation 102: 3015-3022
+Pilz G, Werdan K (1990) Cardiovascular parameters and scoring systems in the evaluation of
+response to therapy in sepsis and septic shock. Infection 18: 253-262
+Radomski MW, Palmer RM, Moncada S (1987 Sep) Comparative pharmacology of
+endothelium-derived relaxing factor, nitric oxide and prostacyclin in platelets. Br J
+Pharmacol 92(1): 181-7
+Raub JA, Mathieu-Nolf M, Hampson NB, Thom SR (2000 Apr) Carbon monoxide poisonin-a
+public health perspective. Toxicology 7;145(1): 1-14
+Rauen U, Polzar B, Stephan H, Mannherz HG, de Groot H (1999) Cold-induced apoptosis in
+cultured hepatocytes and liver endothelial cells: mediation by reactive oxygen species.
+FASEB J 13(1): 155-68
+Rauen U, Viebahn R, Lauchart W, de Groot H (1994) The potential role of reactive oxygen
+species
+
+in
+
+liver
+
+ischemia/reperfusion
+
+injury
+
+following
+
+liver
+
+surgery.
+
+Hepatogastroenterology 41(4): 333-6
+Rensing H, Bauer I, Peters I, Wein T, Silomon M, Jaeschke H, Bauer M (1999 Oct) Role of
+reactive oxygen species for hepatocellular injury and heme oxygenase-1 gene expression
+after hemorrhage and resuscitation. Shock 12(4): 300-8
+Rizzardini M, Terao M, Falciani F, Cantoni L (1993) Cytokine induction of haem oxygenase
+mRNA in mouse liver: Interleukin 1 transcriptionally activates the haem oxygenase gene.
+Biochem J 290: 343-347
+
+64
+
+Rucker M, Schafer T, Roesken F, Spitzer WJ, Bauer M, Menger MD (2001) Reduction of
+inflammatory response in composite flap transfer by local stress conditioning-induced
+heat-shock protein 32. Surgery 129: 292-301
+Ryter SW, Otterbein LE, Morse D, Choi AM (2002 May-Jun) Heme oxygenase/carbon
+monoxide signaling pathways: regulation and functional significance. Mol Cell Biochem
+234-235(1-2): 249-63
+Santoro MG, Benedetto A, Jaffe BM (1979) Prostaglandin A1 induces differentiation in
+Friend erythroleukemia cells. Prostaglandins 17(5): 719-727
+Sass G, Soares MC, Yamashita K, Seyfried S, Zimmermann WH, Eschenhagen T, Kaczmarek
+E, Ritter T, Volk HD, Tiegs G (2003) Heme oxygenase-1 and its reaction product, carbon
+monoxide, prevent inflammation-related apoptotic liver damage in mice. Hepatology
+38(4):909-18
+Scharte M, Bone HG, Van Aken H, Meyer J (2000) Increased carbon monoxide in exhaled air
+of critically ill patients. Biochem Biophys Res Commun 267: 423-6
+Scheffer AL (1992) International consensus report on the diagnosis an management of
+asthma. Clin Exp Allergy 22: 1-72
+Schmailzl KJG (1995) Harrisons Innere Medizin, deutsche Aussgabe der 13 Auflage; Kapitel
+393, Teil 14, 2850
+Schmailzl KJG (1995) Harrisons Innere Medizin, deutsche Aussgabe der 13 Auflage; Kapitel
+395, Teil 14, 2870
+Schmidt H, Mertz K, Morgan JI (1999) Regulation of heme oxygenase-1 expression by
+dopamine in cultured c6 glioma and primary astrocytes. Brain Res Mol Abstract 73: 50-9
+Schmidt R, Stanbury JB, Wyngaarden JB (1972) Hyperbilirubinemia. In: Fredrickson DS
+(Eds.) The metabolism basis of inherited disease. New York: McGraw Hill
+
+65
+
+Schnidt R (1972) Hyperbilirubinämia. In: Stanbury JB, Wyngaarden JB, Fredrickson DS The
+metabolism basis of inherited disease. New York: McGraw Hill, p. 1141-1178
+Seki T, Naruse M, Naruse K, Yoshimoto T, Tanabe A, Seki M, Tago K, Imaki T, Demura R,
+Demura
+
+H
+
+(1999)
+
+Induction
+
+of
+
+heme
+
+oxygenase
+
+produces
+
+load-independent
+
+cardioprotective effects in hypertensive rats. Life Sci 65(10): 1077-86
+Sethi JM, Otterbein LE, Choi AM (2002 Apr) Differential modulation by exogenous carbon
+monoxide of TNF-alpha stimulated mitogen-activated protein kinases in rat pulmonary
+artery endothelial cells. Antioxid Redox Signal 4(2):241-8
+Sever S, Degoricia V, Bilic B, Trotic R, Milanowiz-Stipkovic B, Ratkovi-Gusic J, Kes P
+(1999) Acute carbon monoxide as the cause of rhabdomyolysis and acute renal failure.
+Acta Med Croatica Abstract 53: 199-202
+Shan Y, Pepe J, Lu TH, Elbirt KK, Lambrecht RW, Bonkovsky HL (2000) Induction of the
+heme oxygenase-1 gene by metalloporphyrins. Arch Biochem Biophys 380(2): 219-27
+Shibahara S, Muller RM, Taguchi H (1987) Transcriptional control of rat heme oxygenase by
+heat shock. J Biol Chem 262(27):12889-92
+Shimazu T, Ikeuchi H, Sugimoto H, Goodwin CW, Mason AD Jr, Pruitt BA Jr (2000 Jul)
+Half-life of blood carboxyhemoglobin after short-term and long-term exposure to carbon
+monoxide. J Trauma 49(1): 126-31
+Singh N, Rogers P, Atwood CW, Wagener MM, Yu VL (2000) Short-course empiric
+antibiotic therapy for patients with pulmonary infiltrates in the intensive care unit. A
+proposed solution for indiscriminate antibiotic prescription. Am J Respir Crit Care Med
+162: 505-11
+Siow RC, Sato H, Mann GE (1999 Feb) Heme oxygenase-carbon monoxide signalling
+pathway in atherosclerosis: anti-atherogenic actions of bilirubin and carbon monoxide?
+Cardiovasc Res 41(2): 385-94
+
+66
+
+Smith TJ, Drummond GS (1988) Thyroid hormone regulation of heme synthesis in r at liver.
+Endocrinology 122(5): 1964-1967
+Smith TJ, Drummond GS, (1991) Retinoic acid can enhance the stimulation by thyrid
+hormone of heme oxygenase activity in the liver of thyroidectomized rats. Biochim
+Biophys Acta 1075(2): 119-122
+Smith TJ, Drummond GS, Kourides IA, Kappas A (1982) Thyroid hormone regulation of
+heme oxidation in the liver. Proc Natl Acad Sci USA 79(23): 7537-7542
+Soares MP, Lin Y, Anrather J, Csizmadia E, Takigami K, Sato K, Grey ST, Colvin RB, Choi
+AM, Poss KD, Bach FH (1998) Expression of heme oxygenase-1 can determine cardiac
+xenograft survival. Nat Med 4(9):1073-7
+Song R, Mahidhara RS, Liu F, Ning W, Otterbein LE, Choi AM (2002) Carbon monoxide
+inhibits human airway smooth muscle cell proliferation via mitogen-activated protein
+kinase pathway. Am J Respir Cell Mol Biol 27: 603-10
+Stevenson DK, Vreman HJ, Wong RJ, Contag CH (2001) Carbon monoxide and bilirubin
+production in neonates. Semin Perinatol 25: 85-93
+Stocker R, Yamamoto AF, McDonagh AM, Glazer AN, Ames BN (1987) Bilirubin is an
+antioxidant of possible physiological importance. Science 235(4792): 1043-1046
+Suematsu M, Kashiwagi S, Sano T, Goda N, Shinoda Y, Ishimura Y (1994 Dec) Carbon
+monoxide as an endogenous modulator of hepatic vascular perfusion. Biochem Biophys
+Res Commun15; 205(2): 1333-7
+Suematsu M, Wakabayashi Y, Ishimura Y (1996 Oct) Gaseous monoxides: a new class of
+microvascular regulator in the liver. Cardiovasc Res 32(4): 679-86
+Suzuki H, Kanamaru K, Tsunoda H, Inada H, Kuroki M, Sun H, Waga S, Tanaka T (1999 Jul)
+Heme oxygenase-1 gene induction as an intrinsic regulation against delayed cerebral
+vasospasm in rats. J Clin Invest 104(1): 59-66
+
+67
+
+Takahashi S, Takahashi Y, Ito K, Nagano T, Shibahara S, Miura T (1999) Positive and
+negative regulation of the human heme oxygenase-1 gene expression in cultured cells.
+Biochim Biophys Acta 1447(2-3): 231-5
+Taketani S, Kohno H, Yoshinaga T, Tokunaga R (1988) Induction of heme oxygenase in rat
+hepatoma cells by exposure to heavy metals and hyperthermia. Biochem Int 17(4): 665672
+Tamion F, Richard V, Bonmarchand G, Leroy J, Lebreton JP, Thuillez C (2001) Induction of
+heme-oxygenase-1 prevents the systemic responses to hemorrhagic shock. Am J Respir
+Crit Care Med 164: 1933-8
+Taylor JL, Carraway MS, Piantadosi CA (1998 Apr) Lung-specific induction of heme
+oxygenase-1 and hyperoxic lung injury. Am J Physiol 274(4 Pt 1): L582-90
+Tenhunen R, Marver HS, Schmidt R (1968) The enzymatic conversion of heme to bilirubin
+by microsomal heme oxygenase. Proc Natl Axad Sci 61: 748-755
+Terry MJ, Linley PJ, Kohchi T (2002) Making light of it: the role of plant haem oxygenases
+in phytochrome chromophore synthesis. Biochem Soc Trans 30: 604-9
+Terry CM, Clikeman JA, Hoidal JR, Callahan KS (1998 Mar) Effect of tumor necrosis factoralpha and interleukin-1 alpha on heme oxygenase-1 expression in human endothelial cells.
+Am J Physiol 274(3 Pt 2):H883-91
+Thom SR, Keim LW (1989) Carbon monoxide poisoning: a review epidemiology,
+pathophysiology, clinical findings, and treatment options including hyperbaric oxygen
+therapy. J Toxicol Clin Toxicol 27(3): 141-56
+Thorup C, Jones CL, Gross SS, Moore LC, Goligorsky MS (1999) Carbon monoxide induces
+vasodilation and nitric oxide release but suppresses endothelial NOS. Am J Physiol 277(6
+Pt 2): F882-9
+Togores B, Bosch M, Augustin AG (2000) The measurement of exhaled carbon monoxide is
+influenced by airflow obstruction. Eur Respi J 31: 335-40
+68
+
+Tsuchiya Y, Hattori K, Hayashida K, Okubo H, Sakaki Y (1987) Sequenze analysis of the
+putative regulatory region of rat alpha 2-macroglobulin gene. Gene 57(1): 73-80
+Tullius SG, Nieminen-Kelha M, Bachmann U, Reutzel-Selke A, Jonas S, Pratschke J (2001)
+Induction of heme-oxygenase-1 prevents ischemia/reperfusion injury and improves longterm graft outcome in rat renal allografts. Transplant Proc 33: 1286-7
+Tyrrell R (1999) Redox regulation and oxidant activation of heme oxygenase-1. Free Radic
+Res 31: 335-40
+Vachharajani TJ, Work J, Issekutz AC, Granger DN (2000) Heme oxygenase modulates
+selectin expression in different regional vascular beds. Am J Physiol Heart CircPhysio 278:
+H1613-7
+Verma A, Hirsch DJ, Galtt CE, Ronett GV, Synder SH (1993) Carbon monoxide: a putative
+neural messenger. Science 259: 381-384
+Vesely MJ, Exon DJ, Clark JE, Foresti R, Green CJ, Motterlini R (1998) Heme oxygenase-1
+induction in skeletal muscle cells: hemin and sodium nitroprusside are regulators in vitro.
+Am J Physiol 275(4Pt1): C1087-94
+Wagener FA, Eggert A, Boerman OC, Oyen WJ, Verhofstad A, Abraham NG, Adema G, van
+Kooyk Y, de Witte T, Figdor CG (2001 Sep) Heme is a potent inducer of inflammation in
+mice and is counteracted by heme oxygenase. Blood 15;98(6):1802-11
+Wagener FA, Volk HD, Willis D, Abraham NG, Soares MP, Adema GJ, Figdor CG (2003)
+Different faces of the heme-heme oxygenase system in inflammation. Pharmacol Rev 55:
+551-71. Epub 2003 Jul 17
+Wakabayashi Y, Takamiya R, Mizuki A, Kyokane T, Goda N, Yamaguchi T, Takeoka S,
+Tsuchida E, Suematsu M, Ishimura Y (1999 Nov) Carbon monoxide overproduced by
+heme oxygenase-1 causes a reduction of vascular resistance in perfused rat liver. Am J
+Physiol 277(5 Pt 1): G1088-96
+
+69
+
+Weaver LK, Howe S, Hopkins R, Chan KJ (2000 Mar) Carboxyhemoglobin half-life in
+carbon monoxide-poisoned patients treated with 100% oxygen at atmospheric pressure.
+Chest 117(3): 801-8
+Westphal M, Weber TP, Meyer J, von Kegler S, Van Aken H, Booke M (2002 Jul) Affinity of
+carbon monoxide to hemoglobin increases at low oxygen fractions. Biochem Biophys Res
+Commun 26;295(4): 975-7
+Wiesel P, Patel AP, DiFonzo N, Marria PB, Sim CU, Pellacani A, Maemura K, LeBlanc BW,
+Marino K, Doerschuk CM, Yet SF, Lee ME, Perrella MA (2000 Dec) Endotoxin-induced
+mortality is related to increased oxidative stress and end-organ dysfunction, not refractory
+hypotension, in heme oxygenase-1-deficient mice. Circulation12;102(24): 3015-22
+Willis D, Moor AR, Frederick R, Paul Clark MJ, Willougby DA (1995) Modulation of heme
+oxygenase activity in rat brain and spleen by inhibitors and donors of nitric oxide.
+Biochem Biophysio Res Commun 214: 1152-6
+Willis D, Moore AR, Frederick R, Willoughby DA (1996) Heme oxygenase: a novel target
+for the modulation of the inflammatory response. Nat Med 2(1): 87-90
+Wolff E (1994) Carbon monoxide poisoning with severe myonecrosis and acute renal failure.
+Am J Emerg Med; 12: 347-9
+Woo YJ, Zhang JC, Vijayasarathy C, Zwacka RM, Englehardt JF, Gardner TJ, Sweeney HL
+(1998) Recombinant adenovirus-mediated cardiac gene transfer of superoxide dismutase
+and catalase attenuates postischemic contractile dysfunction. Circulation 10;98(19
+Suppl):II255-60; discussion II260-1
+Yamada N, Yamaya M, Okinaga S, Lie R, Suzuki T, Nakayama K, Takeda A, Yamaguchi T,
+Itoyama Y, Sekizawa K, Sasaki H (1999 Sep) Protective effects of heme oxygenase-1
+against oxidant-induced injury in the cultured human tracheal epithelium. Am J Respir Cell
+Mol Biol 21(3): 428-35
+
+70
+
+Yamaya M, Hosoda M, Ishizuka S, Monma M, Matsui T, Suzuki T, Sekizawa K, Sasaki H
+(2001 Mar) Relation between exhaled carbon monoxide levels and clinical severity of
+asthma. Clin Exp Allergy 31(3): 417-22
+Yamaya M, Sekizawa K, Ishizuka S, Monma M, Mizuta K, Sasaki H (1998 Jul) Increased
+carbon monoxide in exhaled air of subjects with upper respiratory tract infections. Am J
+Respir Crit Care Med 158(1): 311-4
+Yamaya M, Sekizawa K, Ishizuka S, Monma M, Sasaki H, Yamara M (1999 Apr) Exhaled
+carbon monoxide levels during treatment of acute asthma. Eur Respir J 13(4): 757-60
+Yasuda H, Yamaya M, Yanai M, Ohrui T, Sasaki H (2002 Sep) Increased blood
+carboxyhaemoglobin concentrations in inflammatory pulmonary diseases. Thorax 57(9):
+779-83
+Zayasu K, Sekizawa K, Okinaga S, Yamaya M, Ohrui T, Sasaki H (1997) Increased carbon
+monoxide in exhaled air of asthmatic patients. Am J Respir Crit Care Med 156: 1140-3
+Zayazu K, Sekizawa K, Okinaga S, Yamaya M, Ohuri T, Sasaki H,. Increased carbon
+monoxide in exhaled air of asthmatic patients. Am J respir Crit Care Med (1997); 156:
+1140-1143.
+Zegdi R, Caid R, Van De Louw A, Perrin D, Burdin M, Boiteau R, Tenaillon A (2000 Sep)
+Exhaled carbon monoxide in mechanically ventilated critically ill patients: influence of
+inspired oxygen fraction. Intensive Care Med 26(9): 1228-31
+Zegdi R, Perrin D, Burdin M, Boiteau R, Tenaillon A (2002 Jun) Increased endogenous
+carbon monoxide production in severe sepsis. Intensive Care Med 28: 793-6
+Zhang F, Kaide J, Wei Y, Jiang H, Yu C, Balazy M, Abraham NG, Wang W, Nasjletti A
+(2001 Jul) Carbon monoxide produced by isolated arterioles attenuates pressure-induced
+vasoconstriction. Am J Physiol Heart Circ Physiol 281(1): H350-8
+
+71
+
+Zhang F, Kaide JI, Rodriguez-Mulero F, Abraham NG, Nasjletti A (2001 Jun) Vasoregulatory
+function of the heme-heme oxygenase-carbon monoxide system. Am J Hypertens 14(6 Pt
+2): 62S-67S
+Zhang X, Shan P, Alam J, Davis RJ, Flavell RA, Lee PJ (2003) Carbon monoxide modulates
+Fas/Fas ligand, caspases, and Bcl-2 family proteins via the p38alpha mitogen-activated
+protein kinase pathway during ischemia-reperfusion lung injury. J Biol Che 278: 22061-70
+
+72
+
+6. Danksagungen
+Mein besonderer Dank gilt Prof. Dr. Hans-Georg Bone, der mir das Thema der Arbeit
+überließ, mich bei der Planung und Durchführung der Studie und dem Verfassen der Arbeit
+außerordentlich unterstützte und mir bei allen Fragen wertvoll zur Seite stand.
+An dieser Stelle danke ich insbesondere Frau Dr. Marion Scharte für Ihre stets vorhandene
+Hilfsbereitschaft in praktischen und theoretischen Fragen und Ihren Engagement bei der
+Unterstützung meiner Dissertation.
+Ferner danke ich den Mitarbeitern der Intensivstation 1 der Universitätsklinik Münster.
+Ich danke Herrn Univ.-Prof. Dr. Dr. h.c. Hugo Van Aken für die freundliche Unterstützung
+dieser Arbeit.
+
+7. Lebenslauf
+Persönliche Daten
+Name
+Adresse
+
+Thomas Adam von Ostrowski
+Kögelweg 19a
+46282 Dorsten
+Tel.: 02362/24854
+E-Mail: toka2000@gmx.de
+
+Geburtsdatum
+Geburtsort
+Staatsangehörigkeit
+Familienstand
+Vater
+
+02.11.1974
+Danzig (Polen)
+deutsch
+ledig
+Adam J. von Ostrowski
+Facharzt für Allgemeinmedizin
+Maria E. Kobus von Ostrowski
+Pharmazeutin
+
+Mutter
+Schulausbildung
+1981-1985
+1985-1994
+1994
+
+Buschei Grundschule Dortmund
+Mittelstufe und gymnasiale Oberstufe
+Erlangung der allgemeinen Hochschulreife (Abitur)
+
+Zivildienst
+1994-1995
+1994
+
+Zivildienst im Malteser Hilfsdienst Dortmund als Rettungssanitäter
+Ausbildung und Prüfungsabnahme zum Rettungssanitäter
+Straubing/Regensburg
+
+in
+
+Hochschulausbildung
+1995-2002
+1998
+2000
+2000
+2001
+2001-2002
+2002
+
+Studium der Humanmedizin an der Westfälischen Wilhelms-Universität
+Münster (WWU)
+Ärztliche Vorprüfung
+Erster Abschnitt der Ärztlichen Prüfung
+Dissertation an der Klinik und Poliklinik für Anästhesiologie und
+operative Intensivmedizin der WWU
+Zweiter Abschnitt der Ärztlichen Prüfung
+Praktisches Jahr: Chirurgie, Psychiatrie und Innere Medizin am
+Universitätsklinikum Münster
+Dritter Abschnitt der Ärztlichen Prüfung
+
+Auslandsaufenthalte und Tätigkeiten.
+1998
+Ab 1995
+2001
+
+einmonatiger Aufenthalt am Kreiskrankenhaus Chojnice (Polen:
+Wojewodztwo Pomorski) im Bereich Anästhesiologie
+ehrenamtliche Mitarbeit im Rettungsdienst des Malteser Hilfsdienstes
+in Dortmund
+lehrende Tätigkeit an der Rettungsassistentenschule des Malteser
+
+2000-2002
+
+Hilfsdienstes in Dortmund
+praktische Tätigkeit auf der Intensivstation der Universitätsklinik
+Münster im Rahmen der Dissertation
+
+Beruflicher Werdegang
+12/2002
+03/2003-09/2004
+
+Ab 09/2004
+
+Berufserlaubnis als Arzt im Praktikum
+Arzt im Praktikum an den Kliniken Essen Mitte in der Klinik und
+Poliklinik für Gynäkologie und Geburtshilfe, CA. Dr. U. Rademacher,
+ab 07/04 CA. Dr. M. Schütte
+Assistenzarzt an den Kliniken Essen Mitte in der Klinik und Poliklinik
+für Gynäkologie und Geburtshilfe CA. Dr. M. Schütte
+Schwerpunktbildung: Pränataldiagnostik
+
+Mitgliedschaften
+06/03
+09/03
+
+Deutsche Gesellschaft für Reproduktionsmedizin e.V.
+Deutsche Gesellschaft für perinatale Medizin und Neonatologie
+
+

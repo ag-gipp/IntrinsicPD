@@ -1,0 +1,4293 @@
+Aus dem Universitätsklinikum Münster
+Klinik und Poliklinik für Innere Medizin A
+- Direktor: Univ. – Prof. Dr. med. W. E. Berdel
+
+VERGLEICHENDE UNTERSUCHUNGEN ZUR CHARAKTERISIERUNG VON
+DENTRISCHEN ZELLEN AUS HUMANEN UND MURINEN VORLÄUFERZELLEN
+SOWIE AUS AML-BLASTEN
+
+Inaugural – Dissertation
+zur
+Erlangung des doctor medicinae
+
+der
+Medizinischen Fakultät der
+Westfälischen Wilhelms - Universität Münster
+
+vorgelegt von
+Britta Massmann
+aus Dortmund
+
+
+1
+
+EINLEITUNG
+
+In den vergangenen Jahrzehnten haben sich diverse Strategien zur Therapie
+maligner Erkrankungen etabliert, wozu solide Tumoren sowie die vielen
+unterschiedlichen Formen der Leukämien und Lymphome zählen.
+Bei Leukämien, in denen Zellen des hämatopoetischen Systems maligne entartet
+sind,
+
+können
+
+die
+
+bisher
+
+angewandten
+
+Therapien
+
+oft
+
+keine
+
+dauerhaften
+
+Heilungserfolge bewirken. Akute Leukämien, sowohl die lymphatischen (ALL), als
+auch die myeloischen (AML) Formen, stellen die häufigste Indikation zur allogenen
+Knochenmarktransplantation dar. [LOWENBERG, 1999, KOLB, 1998].
+Das Knochenmark ist als Ort der Hämatopoese von besonderer Bedeutung, da alle
+zellulären Bestandteile des Blutes von einer pluripotenten, hämatopetischen
+Stammzelle des Knochenmarks abstammen (Abbildung 1.1).
+
+Abbildung 1.1:
+
+Differenzierung von Blutzellen (Schema vereinfacht, nach
+Janeway 1997)
+
+1 EINLEITUNG
+
+11
+
+Aus der pluripotenten Blutstammzelle leiten sich zwei spezialisierte Typen von
+Stammzellen, die lymphatische Vorläuferzelle, aus der sich die B und TLymphozyten und die plasmazytären dendritischen Zellen entwickeln und die
+myeloische Vorläuferzelle, aus der sämtliche anderen Leukozyten hervorgehen, ab.
+Dieses Schema ist stark vereinfacht dargestellt und berücksichtigt nicht die
+unterschiedlichen Entwicklungswege der B- und T-Lymphozyten. B-Lymphozyten
+reifen bereits im Knochenmark heran, während T-Lymphozyten im Thymus
+ausdifferenziert werden.
+
+1.1
+
+Das Immunsystem
+
+Die Aufgabe des Immunsystems besteht darin, die Integrität des Körpers gegen
+Eindringen von Fremdstoffen zu gewährleisten. Diese Abwehrreaktionen des
+Organismus werden einerseits durch die unspezifische (angeborene) sowie durch
+die spezifische (erworbene) Immunität vermittelt [JANEWAY, 1999]. Daneben
+haben Granulozyten und Makrophagen die Aufgabe schnellstmöglichst alle
+eingedrungenen Erreger zu eliminieren. Makrophagen sind in fast allen Geweben
+verteilt und bilden ein frühes Warnsystem gegenüber eindringenden exogenen
+Agenzien. Lösliche, zirkulierende Moleküle wie die Komplementfaktoren sind in der
+Lage sich an Mikroorganismen anzuheften und zu einer verbesserten Erkennung
+und Phagozytose zu führen [GORDON, 1999]. Natürliche Killerzellen nehmen
+dabei eine Zwischenstufe der unspezifischen und spezifischen Immunität ein, da
+sie einerseits Virus-infizierte Zellen aufspüren und eliminieren können, obwohl
+ihnen andererseits Antigen-spezifische Rezeptoren fehlen. Die Spezifität der
+antigen-spezifischen
+
+Antwort
+
+ergibt
+
+sich
+
+aus
+
+dem
+
+Repertoire
+
+von
+
+Antigenrezeptoren, die von den T- und B-Lymphozyten exprimiert werden, wobei
+jeder dieser beiden Antigenrezeptoren auf seiner Zelloberfläche trägt, die in
+einzigartiger Weise fähig sind, spezifische Srutkturdeterminanten (Epitope) oder
+Antigene zu erkennen [HAYNES, 1999].
+B-Lymphozyten sind die Vorläufer von Antikörper-sezernierenden Plasmazellen,
+die eine humorale Immunität vermitteln. T-Lymphozyten vermitteln die Antigenspezifische zelluläre Immunität und regulieren gleichzeitig auch die Funktion der BLymphozyten und Makrophagen durch zelluläre Interaktionen und die Produktion
+von Zytokinen. [HAYNES, 1999; JANEWAY, 1999].
+
+1 EINLEITUNG
+1.1.1
+
+Dendritische Zellen
+
+1.1.2
+
+Dendritische Zellen des Menschen
+
+12
+
+Obwohl alle Zellen des Körpers die Kapazität aufweisen, Antigen auf ihren
+Oberflächen zu exprimieren, ist nur eine spezielle Gruppe von hämatopoetischen
+Zellen in der Lage, als „professionelle“ APC´s (Antigen präsentierende Zellen) zu
+fungieren, um effektiv T-Lymphozyten zu aktivieren und eine Immunantwort zu
+induzieren. Dazu zählen Makrophagen, aktivierte B-Lymphozyten und die
+dendritischen Zellen (DC), welche sich in Langerhan´sche Zellen, interstitielle DCs
+und lymphoide bzw. plasmazytäre DCs unterteilen lassen. Die dendritischen Zellen
+sind die potentesten APCs die man kennt und entwickeln sich ebenfalls aus CD34+
+myeloischen Vorläuferzellen des Knochenmarks. Aufgrund des Fehlens von
+spezifischen Oberflächenmarkern, die eindeutig unreife DC Vorläuferzellen
+charakterisieren, ist die Unterscheidung der beiden myeloischen Subpopulationen
+noch immer nicht komplett definiert. Morphologisch sind DCs charakterisiert als
+bizarr aussehende, unregelmäßig geformte Zellen mit großen Zellkörpern und
+langen zytoplasmatischen Ausläufern (Dendriten), die sich wie feine Schleierfäden
+vom Zellkörper abheben. Die Antigenaufnahme erfolgt normalerweise in der
+Peripherie und veranlasst dann die DCs zu den sekundären lymphoiden Organen
+zu wandern, wo sie das Antigen den T-Zellen präsentieren.
+
+1.1.3
+
+Dendritische Zellen der Maus
+
+Bei den anfänglich von Steinmann untersuchten Zellen handelte es sich um Zellen
+der Mauslymphorgane, insbesondere um Milzzellen [STEINMANN, 1973, 1974,
+1975]. Durch weitere Arbeiten gelang es, den Ursprung dieser Zellgruppe in den für
+das Oberflächenantigen CD34 positiven hämatopoetischen Stammzellen des
+Knochenmarks von Mäusen [INABA, 1992, 1993] zu entdecken und in vitro aus
+ihnen dendritische Zellen zu generieren [INABA 1992, SCHEICHER, 1992,
+BOWERS, 1986].
+
+1 EINLEITUNG
+1.2
+
+13
+
+Akute myeloische Leukämie
+
+Die Ursache der akuten myeloischen Leukämie ist die maligne klonale Entartung
+einer frühen myeloischen Vorläuferzelle bei der Blutbildung im Knochenmark (KM).
+Aufgrund dieser bösartigen Entartung kommt es zu einer variablen Beteiligung der
+hämatopoetischen Zellreihen. Fast immer ist die granulozytäre- und/oder
+monozytäre-, zum Teil zusätzlich die erythrozytäre Reihe betroffen und gelegentlich
+ausschliesslich die megakaryozytäre Zellreihe. [CRIPE, 1997]. Die Heterogenität
+der AML wird auch auf der morphologischen Ebene sichtbar. Im Jahre 1976 wurde
+daher eine morphologische und zytochemische Klassifikation der akuten
+myeloischen Leukämien von einer Gruppe von Hämatologen aus Frankreich, USA
+und England eingeführt (FAB-Klassifikation). Diese Klassifikation bezieht sich auf
+den dominierenden Zelltyp und den Entwicklungsgrad der Zellen [LÖWENBERG,
+1999].
+
+FAB-Typ
+
+Bezeichnung (% der Fälle)
+
+Genotyp (% der Fälle)
+
+M0
+
+Akute undifferenzierte Leukämie 3%
+
+M1
+
+Akute unreife Myeloblastenleukämie (15-20%)
+
+M2
+
+Akute Myeloblastenleukämie mit Ausreifung
+
+t (8;21) (40%)
+
+M2 Baso mit Basophilie (25-30%)
+M3
+
+Akute Promyelozytenleukämie (APL) (5-10%)
+
+t (15;17) (98%)
+t (11;17) selten
+
+M4
+M5
+
+Akute myelomonozytäre Leukämie M4-eo mit > 5% 11q23 (20%)
+abnormalen Eosinophilen (20-30%)
+
+inv (16), t (16;16) (80%)
+
+Akute Monoblastenleukämie
+
+11q23 (20%)
+
+M5a ohne Ausreifung
+M5b mit Ausreifung (2-10%)
+M6
+
+Akute Erythroleukämie (3-5%)
+
+M7
+
+Akute Megakaryoblastenleukämie (3-12%)
+
+Tabelle 1.1: FAB-Klassifikation Veränderungen der AML assoziiert mit genetischen
+
+1 EINLEITUNG
+1.2.1
+
+14
+
+Therapiemöglichkeiten für Patienten mit AML
+
+In den letzten Jahren haben Fortschritte bei der Therapie der AML, aber auch
+Verbesserungen bei der Diagnose der verschiedenen Subtypen der AML, zu einer
+deutlich erhöhten Remissionsrate und Überlebensrate geführt. Trotzdem kommt es
+bei Patienten unter 65 Jahren nur in 40% der Fälle zu einer dauerhaften Remission
+[LÖWENBERG, 1999]. Ziel der aktuellen Behandlungen ist es, bei Patienten eine
+komplette und dauerhafte Remission (weniger als 5% Blasten im peripheren Blut,
+bzw. Knochenmark) zu erreichen. Dabei erscheint sicher, dass der Durchführung
+einer konsolidierenden Behandlung in Remission (=Postremissionstherapie) eine
+entscheidende Bedeutung zukommt. Für die Postremissionstherapie stehen drei
+etablierte
+
+Therapiemöglichkeiten
+
+Chemotherapie,
+
+(2)
+
+die
+
+myeloablative
+
+Therapie
+
+Stammzelltransplantation
+
+zur
+
+autologe
+
+Verfügung,
+
+Blutstammzelltransplantation
+
+in
+
+die
+
+Stammzelltransplantation
+
+kombiniert
+(SZT)
+
+(1)
+
+mit
+Form
+
+(PBSZT)
+
+einer
+der
+oder
+
+konventionelle
+und
+
+(3)
+
+allogenen
+
+allogenen,
+der
+
+die
+
+(Blut-)
+
+peripheren
+allogenen
+
+Knochenmarkstransplantation (KMT). Als Immuntherapie nach allogener SZT bei
+Rezidiven wird versucht, durch Transfusion von Spenderlymphozyten (Donor
+Lymphocyte Infusion, DLI) einen erneuten immunologischen, sogenannten „Graft
+versus Leukemia“ (GvL)-Effekt zu erzielen. Die Gabe von hämatopoetischen
+Wachstumsfaktoren wie Granulozyten/Makrophagen-Kolonie-stimulierender Faktor
+(GM-CSF)
+
+oder
+
+Granulozyten-Kolonie-stimulierender
+
+Faktor
+
+(G-CSF)
+
+wird
+
+unterstützend durchgeführt, um z.B. die Zytotoxizität von Chemotherapeutika in
+vivo zu erhöhen sowie hämatopoetische Stammzellen vom Knochenmark ins Blut
+zu mobilisieren und eine verbesserte Infektionsabwehr zu gewährleisten
+[TERPSTRA, 1997, LÖWENBERG, 1993, STONE, 1995]. Da Tumorzellen, nicht
+oder nur in geringem Masse die wichtigen kostimulatorischen Moleküle CD80 und
+CD86 auf ihrer Zelloberfläche exprimieren und somit CTL nicht aktivieren können,
+kommt keine effektive Immunreaktion zustande. Untersuchungen der AML-Blasten
+haben gezeigt, dass das kostimulatorische Molekül CD80 so gut wie nicht, und
+CD86 nur in geringem Masse exprimiert wird [NOTTER, 2001, HIRANO, 1996].
+
+1 EINLEITUNG
+
+1.3
+
+15
+
+Zytokine
+
+Zytokine haben große Bedeutung bei immunregulatorischen Prozessen. Es sind
+Proteine, die von verschiedenen aktivierten Zellen, wie z.B. Makrophagen und T
+Lymphozyten synthetisiert werden. Diese freigesetzten Zytokine wirken über
+Oberflächenrezeptoren vor allem parakrin an benachbarten Zellen. Zytokine
+regulieren und beeinflussen viele biologische Prozesse wie Zellwachstum,
+Zellaktivierung, den Typ der Immunantwort und Gewebereparation [ROITT, 2001].
+
+1.3.1
+
+Klinische Bedeutung von Zytokinen und Adhäsionsmolekülen
+
+Mit der klinischen Anwendung von Zytokinen lassen sich die biologischen
+Eigenschaften von gesunden Knochenmarkszellen und AML-Blasten beeinflussen.
+Werden Zytokine nach Chemotherapie eingesetzt, wird v.a. deren Effekt auf
+gesunde Knochenmarkszellen zur Verkürzung der Zytopeniephase oder zur
+Stammzellmobilisation
+
+gewünscht.
+
+Werden
+
+Zytokine
+
+vor
+
+oder
+
+während
+
+Chemotherapie eingesetzt, soll durch den proliferationssteigernden Effekt auf AMLBlasten die Toxizität der verabreichten Chemotherapeutika gesteigert werden
+(`Priming´). Bei allen Anwendungszeitpunkten gilt es zu beachten, dass die
+verabreichten Zytokine sowohl gesunde als auch maligne Zellen stimulieren
+können. In neueren, immunbiologischen Therapieansätzen wird versucht, durch
+Zytokine die Oberflächen- und Adhäsionseigenschaften der Zellen zu verändern
+und dadurch die AML-Blasten für Abwehrzellen zu sensibilisieren.
+1.3.2
+
+Interleukin 4
+
+IL-4 wirkt auf eine Vielzahl von Immunzellen. HOWARD und Mitarbeiter (1982)
+beschrieben es erstmals aufgrund seiner B Zell-aktivierenden Eigenschaften als „B
+cell growth factor“ (BCGF). IL-4 wird hauptsächlich von aktivierten Th2 Zellen und
+Mastzellen produziert [MOSMANN, 1986, CHERWINSKI, 1987, BROWN, 1987,
+BURD, 1989, PLAUT, 1989]. Humanes IL-4 besteht aus 151 AS, einschließlich
+einer Signalsequenz von 24 AS, bei einer Molmasse von 20 kD und wird über zwei
+N-Glykosylierungsstellen glykosyliert. IL-4 gilt als spezies-spezifisch. Rezeptoren
+kommen in relativ kleiner Anzahl (ca. 400 pro Zelle) auf Lymphozyten,
+Makrophagen, aber auch auf einigen hämatopoetischen Zellen und Fibroblasten
+vor [OHARA, 1987, LOWENTHAL, 1988]. IL-4 beeinflusst aber auch das
+Wachstum und die Differenzierung von anderen hämatopoetischen Zellen, wie T
+Lymphozyten, Makrophagen und Mastzellen [SCHRADER, 1986, HU-LI, 1987,
+MCINNES, 1988, BROWN, 1988]. Es fördert die Proliferation von Vorläufern der
+zytotoxischen T Zellen (CTL) und deren Differenzierung in aktive CTL [WIDMER,
+1987, TRENN, 1988].
+
+1.3.3
+
+Interleukin 6
+
+Humanes Interleukin-6 (IL-6) ist ein Polypeptid von 184 Aminosäuren Länge, das
+als Precursor von 212 Aminosäuren synthetisiert wird. Der menschliche
+Organismus produziert mindestens fünf Formen von IL-6, die sich in Masse (21,528
+
+kD)
+
+und
+
+durch
+
+posttranslationale
+
+Modifikationen
+
+(Glykosylierung,
+
+Phosphorylierung) unterscheiden [KISHIMOTO, 1989].
+Die Hauptquellen für IL-6 in vivo sind stimulierte Monozyten, Fibroblasten und
+Endothelzellen. Außerdem wird IL-6 von Makrophagen, B- und T-Lymphozyten,
+Eosinophilen, Mastzellen, Gliazellen, Astrozyten und Stromazellen synthetisiert
+[IBELGAUFTS, 1995]. Interleukin-6 kann als Paradebeispiel für die pleiotrope
+Wirkung von Zytokinen angesehen werden. IL-6 beeinflusst das Immunsystem, die
+Hämatopoese, die Akute-Phase-Reaktion und das Nervensystem.
+
+1.3.4
+
+Interleukin 7
+
+Das menschliche IL-7 besteht aus 177 Aminosäuren, von denen 25 eine
+Signalsequenz bilden. Rezeptoren für IL-7 kommen auf Zellen lymphatischer und
+myeloischer Herkunft vor [KOMSCHLIES, 1994]. IL-7 wurde zuerst als Produkt von
+Stromazellen im Überstand einer Mausknochenmarkkultur identifiziert und
+Lymphopoetin-1 genannt [NAMEN, 1988]. Dort regt es als Kofaktor im
+Wechselspiel mit den Stromazellen pro-B- und prä-B-Zellen zur Proliferation und
+zur Differenzierung in IgM+-B-Zellen an [MORISSEY, 1991, TAKEDA, 1989]. Durch
+IL-7 kann, insbesondere die Proliferation unreifer Thymozyten (T-Vorläuferzellen)
+stimuliert werden. Die Vorläuferzellen entwickeln sich bevorzugt zu CD4+-T-
+
+1 EINLEITUNG
+
+17
+
+Lymphozyten, aber nach entsprechender Antigenstimulation können auch CD8+-TLymphozyten mit zytotoxischer Aktivität entstehen [BERTAGNOLLI, 1990].
+1.3.5
+
+Interleukin 8
+
+Das Chemokin IL-8 wird von Epithel-, Endothel- und dentritischen Zellen,
+Lymphozyten, Monozyten und Fibroblasten sezerniert [STRIETER, 1989, KUNKEL,
+1991, BURMESTER, 1998]. Das aus 72 oder 77 Aminosäuren bestehende Protein
+wirkt chemotaktisch v.a. auf neutrophile Granulozyten. [MATSUSHIMA, 1989,
+LARSEN, 1989] vermuten dies auch für basophile Granulozyten und TLymphozyten.
+
+1.3.6
+
+Interleukin 10
+
+Interleukin 10 ist ein 18kDa Polypeptid, welches ursprünglich als „Cytokines
+Synthesis Inhibitor“ als Produkt von TH-2 Zellen beschrieben wurde und besitzt
+vielfältige antiinflammatorische Effekte, die für die Regulation der Immunantwort bei
+Entzündungen von Bedeutung sind. IL-10 wird neben Th-2 Zellen von CD8+ TZellen, Monozyten, Makrophagen und aktivierten B-Zellen exprimiert und
+freigesetzt
+
+[FIORENTINO,
+
+1991].
+
+IL-10
+
+vermittelt
+
+als
+
+Zytokin
+
+Signaltransduktionsmechanismen vor allem zwischen Lymphozyten aber auch
+zwischen Monozyten und Makrophagen. Die Funktion von IL-10 liegt in der
+Inhibition der Funktion von Monozyten und Makrophagen, T-Zellen und natürlichen
+Killerzellen (NK) [DE WAAL MALEFYT, 1991, WANG, 1994, BERKMANN, 1995].
+Im
+
+Monzozyten/Makrophagen-System
+
+inhibiert
+
+IL-10
+
+die
+
+Expression
+
+von
+
+Adhäsionsmolekülen (HLA-DR, CD16, CD32, CD64). Des weiteren hemmt IL-10
+auf transkriptioneller Ebene die Produktion von Zytokinen wie IL-1, IL-5, IL-6, IL-8,
+TNFα, und GM-CSF [ARMSTRONG, 1996, BORISH, 1996]. Durch die späte
+Expression (24h nach Stimulation) und die Fähigkeit zur Autoregulation spielt IL-10
+eine
+
+Schlüsselrolle
+
+in
+
+der
+
+Regulation
+
+der
+
+Entzündungsantwort
+
+Monozyten/Makrophagen-System [DE WAAL MALEFYT, 1991].
+
+im
+
+1 EINLEITUNG
+1.3.7
+
+18
+
+Interleukin 12
+
+Interleukin 12 (IL-12) wurde von vier Arbeitsgruppen unter dem Namen „Cytotoxic
+lymphocyte maturation factor“ [GATELY, 1991], natural killer cell stimulatory factor
+[TRINCHIERI, 1995], T-cell stimulating factor [GERMANN, 1993] und IL-2 receptor
+inducing factor [KATO, 1992] beschrieben. Zuerst wurde IL-12 als Produkt von BLymphozyten isoliert. Später zeigte sich, dass die Hauptproduzenten Monozyten,
+Makrophagen und dendritische Zellen sind, daneben wird es in geringen Mengen
+von Langerhans-Zellen, Mikroglia, Astrozyten, Mastzellen und Granulozyten
+produziert. Das 70-75 kDa schwere IL-12 setzt sich aus 2 über eine Disulfid-Brücke
+verbundene Polypeptid-Ketten, IL-12p40 und IL12p35 zusammen. IL-12p40 wird
+von den IL-12 sezernierenden Zellen in grösserem Maße produziert als IL-12p35.
+Ohne IL-12p35 ist IL-12p40, welches als Monomer oder Homodimer sezerniert
+wird, ein schwacher IL-12 Antagonist. IL-12 hat für zwei Zellgruppen besonders
+grosse Bedeutung, NK-Zellen und T-Lymphozyten beeinflusst es in ihrer
+Proliferation, Zytokin-Produktion, vor allem in der Produktion von IFN-γ, zudem
+verstärkt es deren zytotoxische Aktivität. Eine wichtige Funktion von IL-12 ist die
+Induktion einer Differenzierung von naiven Cd4+-T-Lymphozyten zu IFN-γ
+produzierenden Th1-Zellen und eine Hemmung der Differenzierung zu IL-4
+produzierenden
+
+Th2-Zellen.
+
+IL-12,
+
+welches
+
+sehr
+
+früh
+
+nach
+
+Kontakt
+
+mit
+
+Fremdorganismen sezerniert wird, kann so eine Immunantwort in Richtung einer
+Th1-Antwort lenken und ist damit auch ein wichtiges Zytokin für die Verbindung
+vom angeborenen unspezifischem zum erworbenem spezifischem Immunsystem.
+Antagonistisch auf diese Th1-Antwort induzierende Fähigkeit von IL-12 wirken IL-4
+und Il-10, diese hemmen die Produktion von IL-12 und IFN-γ und sind in der Lage,
+die Differenzierung zu Th2-Zellen zu stimulieren [PAUL, 1999].
+
+1.3.8
+
+Interleukin 15
+
+IL-15 ist ein wesentlicher Faktor für Reifung, Erhaltung und Aktivierung von
+natürlichen Killerzellen und natürlichen Killer-T-Zellen, welche während Infektionen
+von Bedeutung für die frühe Produktion von IFN-γ sind. Zudem ist IL-15 aber auch
+wie IL-12 in der Lage eine Reihe von T-Zell-Subpopulationen zu rekrutieren und
+
+1 EINLEITUNG
+
+19
+
+aktivieren und kann aufgrund seiner anti-apoptotischen Eigenschaften für die
+Aufrechterhaltung einer spezifischen zell-vermittelten Immunantwort verantwortlich
+sein. IL-15 ist ein proinflammatorisches, pleiotropisches Zytokin, welches viele
+biologische Eigenschaften besitzt. Es wurde entdeckt aufgrund der Fähigkeit in
+Anlehnung zu IL-2 eine T-Zell-Proliferation anzuregen. Zudem bestehen
+Unterschiede hinsichtlich der spezifischen Expression und der Kontrolle von
+Synthese und Sekretion [DOHERTY, 1996, KRAUSE, 1996, ONU, 1997]. Die
+meisten Gewebe exprimieren IL-15 und IL-15R als Reaktion auf einen
+Entzündungsreiz [MA, 2000, FEHNINGER, 2000], einschliesslich dendritischer
+Zellen [MATTEI, 2001], Makrophagen [DOHERTY, 1996] und Epithelzellen
+[RUCKERT, 2000]. IL-15 hat eine Auswirkung auf die Differenzierung von
+dendritischen Zellen sowie Reifung [MOHAMADZADEH, 2001, SAIKH, 2001] und
+zudem beeinflusst es offensichtlich die Sekretion von proinflammatorischen
+Zytokinen [MATTEI, 2001, OHTEKI, 1997] und erhöht die Expression von
+kostimulierenden Molekülen [AGOSTINI, 1999].
+
+1.3.9
+
+GM-CSF
+
+Humanes GM-CSF wurde 1985 kloniert und sequenziert [CANTRELL, 1985]. Heute
+ist bekannt, dass GM-CSF das Wachstum von Granulozyten und Makrophagen
+beeinflusst, darüber hinaus stimuliert es auch Myeloblasten und Monoblasten und
+ist Auslöser für eine irreversible Differenzierung dieser Zellen. Weiterhin wirkt es
+chemotaktisch auf neutrophile Granulozyten. Es verbessert die antimikrobakterielle
+Aktivität, oxidative Metabolismen und Phagozytose von neutrophilen Granulozyten
+und Makrophagen und deren Zytotoxizität [DEMETRI, 1991, MOORE, 1991]. Das
+humane GM-CSF ist ein Monomer aus 144 AS mit zwei Glykosylierungsstellen
+[GASSON, 1984, WONG, 1985].
+
+1.3.10 IFN
+Heute werden zwei Gruppen der Interferone unterschieden, zu der Gruppe I
+gehören u.a. IFNα (früher bekannt als Leukozyten-IFN), IFNβ (früher bekannt als
+Fibroblasten-IFN) und IFNω, zur Gruppe II nur IFNγ (früher bekannt als ImmunIFN). Interferone stellen einen wichtigen Abwehrmechanismus bei Infektionen dar.
+
+1 EINLEITUNG
+
+20
+
+Die bekannteste Eigenschaft der Interferone der Gruppe I ist ihre antivirale Wirkung
+[ADOLF, 1987]. Sie verfügen darüber hinaus aber auch über immunmodulatorische
+Funktionen, wie Aktivierung und Unterstützung der Aktivität von Lymphozyten, NK,
+DC und Makrophagen [VAN DEN BROEK, 1995, BOEHM, 1997]. Die Aktivitäten
+von IFN-γ sind vielfältig. IFN-γ wirkt antiproliferativ auf Th2 Zellen und somit wird
+auch die Zytokinproduktion von Th2 inhibiert, wie z.B. IL-10. Ferner führt es zur
+Aktivierung von Makrophagen und Zytotoxizität gegen Tumorzellen [RUBIN, 1980].
+Darüber hinaus könnte es auch eine Rolle bei der Differenzierung und Aktivierung
+dendritischer Zellen spielen, die die Immunantwort initiieren [PETERS, 1996].
+
+1.3.11 TGF-beta
+Der TGF beta wurde 1983 von ASSOIAN isoliert. Dieser Wachstumsfaktor wird
+heute TGF-ß1 genannt. Inzwischen sind weitere vier Isoformen bekannt
+[ROBERTS, 1990]. In humanen Geweben konnten die Isoformen TGF-ß1
+[DERYNCK, 1985], TGF-ß2 [DE MARTIN, 1987] und TGF-ß3 [TEN DIJKE,
+1988, DERYNCK, 1988] isoliert werden. Die Wirkungen, die durch TGF-ß
+vermittelt werden, reichen von der Regulation, Proliferation, Differenzierung,
+Adhäsion
+
+und
+
+Migration
+
+Matrixsezernierung
+
+bis
+
+über
+
+zur
+
+die
+
+Modulation
+
+Stimulation
+von
+
+von
+
+vielen
+
+extrazellulärer
+
+entzündlichen
+
+und
+
+immunologischen Reaktionen [ROBERTS, 1990].
+
+1.3.12 TNF
+Das Zytokin TNF spielt eine wichtige Rolle im komplexen Netzwerk von
+Immunreaktionen. Gemeinsam mit den Interleukinen (IL)-1α und -β sowie
+Interferon-γ
+
+(IFN-γ)
+
+ist
+
+TNF
+
+ein
+
+zentraler
+
+Mediator
+
+der
+
+nicht-adaptiven
+
+Immunantwort. Daneben werden TNF eine Vielzahl weiterer immunregulatorischer,
+proinflammatorischer und pathophysiologischer Wirkungen zugeschrieben. TNF
+wurde in Mäusen nach Infektion mit gramnegativen Bakterien als löslicher Faktor,
+der in Mäusen Tumornekrose induzieren kann, ohne normale Zellen zu schädigen,
+isoliert und charakterisiert [CARSWELL, 1975]. Obwohl TNF von vielen
+verschiedenen Zellen gebildet wird, sind aktivierte Makrophagen und Monozyten,
+im besonderen nach Stimulation mit Lipopolysacchariden (LPS), die wichtigsten
+
+1 EINLEITUNG
+
+21
+
+TNF-Produzenten [MÄNNEL, 1980, HIGUCHI, 1990]. Endothelzellen, neutrophile
+Granulozyten, und Lymphozyten sind weitere relevante TNF-Produzenten.
+
+1.3.13 DC-Sign
+DC-Sign gehört zur Familie der Typ C-Lektine und ist ein 44 kDa Peptid, welches
+schnelle und transiente Interaktionen von dendritischen Zellen mit Endothel und mit
+T-Zellen vermitteln kann. Es wird auf submukosalen dendritischen Zellen und auf
+Gewebsmakrophagen exprimiert, wobei die Expression vom Reifungsgrad der
+dendritischen Zellen abhängt. Unreife, gewebeständige DC exprimieren DC-Sign,
+während reife DC dieses weniger durchführen. Entdeckt wurde dieses Lektin auf
+humanen dendritischen Zellen als Bindungspartner von ICAM-3 auf T-Zellen
+[GEIJTENBEEK, 2000].
+
+1.3.14 Dendritische Zellen und Zytokine
+
+1.3.15 Wirkung auf AML-Blasten
+Durch G/GM-CSF-Gabe vor Chemotherapie sollen ruhende AML-Blasten in die
+chemotherapeutika-sensible S-Phase gebracht werden. Dieser Vorgang wird als
+`Priming´ bezeichnet [CANNISTRA, 1989]. Im Rahmen einer Studie der
+Löwenberggruppe mit einem G-CSF Priming und Einsatz von hoch-dosiertem
+Cytarabin zeigte sich eine Verbesserung der Überlebensrate und krankheitsfreie
+Intervalle für bestimmte Subgruppen der AML. Insbesondere war dieses bei
+Patienten mit einem Standard Risiko der AML auffällig, hingegen ergaben sich
+keine Vorteile für günstige oder ungünstige Konstellationen der AML-Subgruppen
+[Löwenberg, 2003].
+
+1.3.16 Wirkung auf die Tumorabwehr
+IL-2 bewirkt eine Stimulation von T-Zellen und NK-Zellen und es erhöht die
+Expression von LFA-1 auf den NK-Zellen, was zu einer Verstärkung des
+antileukämischen Effekts bei der AML führt [OBLAKOWSKI, 1991]. Grundlage für
+neue Therapiekonzepte bilden sog.Tumor-Vakzinierungen,wodurch die körpereigene Immunantwort gegen AML-Zellen gesteigert werden soll. Dazu
+werden in vitro durch Stimulation von AML-Zellen mit IFN-alpha, IFN-gamma, IL-4,GM-CSF und TNF-alpha dendritische Zellen mit hoher Expression
+kostimulatorische Moleküle gezüchtet [BRUSERUD, 1999], die geeignetere
+Stimulatoren für eine tumorspezifische T-Zell-Antwort als die AML-Zellen selbst
+darstellen [GLUCKMAN, 1997, CHOUDHURY, 1998, HARRISON, 2001]. Viele
+weitere Zytokine können in vitro die Adhäsionseigenschaften von AML-Blasten
+verändern. Die klinische Relevanz ist bislang unklar.
+
+1.4
+
+Immuntherapeutische Strategien für die Behandlung der AML
+
+1.4.1
+
+Tumorzellvakzine - Immunologische Grundlagen und Hintergründe
+
+Die Entwicklung und erfolgreiche Anwendung von Tumorvakzinen bei der
+Krebsbehandlung basiert auf mehreren Annahmen:
+1.
+
+Existenz von qualitativen oder quantitativen Unterschieden
+zwischen Tumorzellen und normalen Zellen,
+
+2.
+
+Prinzipielle Fähigkeit der Erkennung solcher Unterschiede durch
+das Immunsystem,
+
+3.
+
+Lernfähigkeit und Stimulierbarkeit des Immunsystems, z.B. durch
+aktive Immunisierung mit Vakzinen, um solche Unterschiede
+besser zu erkennen und effektive Tumorabstoßungsreaktionen zu
+bewerkstelligen [SCHIRMACHER, 1997]
+
+Nach der immunologischen Überwachung von „fremd“ und „eigen“ und der
+Infektionsabwehr ist die Erkennung und Elimination neoplastischer Zellen eine
+primäre Funktion des Immunsystems. Man geht davon aus, dass sich Tumorzellen
+von normalen Zellen unterscheiden und das Immunsystem in der Lage ist,
+neoplastische Zellen zu töten. Selbst die Ausbreitung von Tumorzellen wäre
+demnach auf ein Versagen der Immunüberwachung zurückzuführen. Ein intaktes
+Immunsystem ist für die Bekämpfung von Tumoren von größter Bedeutung.
+
+1 EINLEITUNG
+
+23
+
+1.5
+
+Eigener Ansatz und Fragestellung
+
+Zum
+
+jetzigen
+
+Zeitpunkt
+
+stellen
+
+die
+
+Chemotherapie
+
+und
+
+allogene
+
+Knochenmarkstransplantation (KMT) die Optionen für die Behandlung der akuten
+myeloischen Leukämie dar. Die Ergebnisse dieser AML-Therapien zeigen
+Rezidivraten von über 60% innerhalb von drei bis fünf Jahren, daraus leitet sich die
+dringende Notwendigkeit für neue therapeutische Ansätze bei Patienten mit akuter
+myeloischer Leukämie (AML) ab.
+Daher werden derzeit neue, alternative, respektive ergänzende Therapiestrategien
+in Form von immuntherapeutischen Ansätzen in klinischen Studien erforscht. Eine
+antigenspezifische Immuntherapie unter Verwendung dendritischer Zellen scheint
+sinnvoll zu sein, da diese antigenspezifische Immunantworten initiieren und
+regulieren können. Ihr Einsatz in Vakzinierungsstrategien bei der AML ist aufgrund
+einiger Studien sowie ihrer problemlosen Herstellung in ausreichender Menge
+vielversprechend. Basierend auf Vorversuchen in unserer Arbeitsgruppe, in
+welcher die immunstimulatorischen Eigenschaften von BDDC in vitro untersucht
+wurden und eine Anregung der T-Zellproliferation durch diese Zellen gezeigt
+werden konnte, war jedoch eine spezifische Zytotoxizität gegenüber autologen
+AML-Blasten nicht nachweisbar. Als Hypothese legten wir einerseits einen
+möglichen Immundefekt von BDDC zugrunde, sowie andererseits das Fehlen der
+für die Zytotoxizität notwendigen kostimulatorischen Moleküle. Des weiteren ist es
+möglich, dass BDDC immunsuprimierende Zytokine exprimieren, die daher diese
+fehlende Effektivität verhindern.
+Ziel dieser Arbeit war es daher zunächst, charakteristische Unterschiede in der
+Expression der Zytokine zwischen gesunden, murinen und aus AML-Blasten,
+gewonnenen DC herauszuarbeiten. Daraus ergab sich der Ansatz der Entwicklung
+und Evaluation einer Methode zur Qantfizierung der Zytokinexpression bei
+denditischen Zellen.
+Es ergaben sich folgende spezifische Fragestellungen:
+
+-
+
+Gibt
+
+es
+
+funktionelle
+
+oder
+
+morphologische
+
+Unterschiede
+
+zwischen
+
+dendritischen Zellen, die aus AML-Blasten, aus murinem Knochenmark oder
+aus Monozyten gewonnenen wurden?
+
+1 EINLEITUNG
+-
+
+24
+
+Gibt es signifikante Unterschiede in der Quantität der Zytokinexpression von
+dendritischen Zellen, die aus AML-Blasten, aus murinem Knochenmark oder
+aus Monozyten gewonnenen wurden?
+
+-
+
+Unterscheiden sich dendritische Zellen, die aus AML-Blasten, aus murinem
+Knochenmark oder aus Monozyten gewonnenen wurden, hinsichtlich ihrer
+immunmodulatorischen Eigenschaften?
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+
+25
+
+2
+
+MATERIAL, PATIENTEN, TIERE UND
+METHODEN
+
+2.1
+
+Material
+
+2.1.1
+
+Reagenzien
+
+-
+
+RPMI 1640 mit L-Glutamin, 25 nM Hepes Puffer ohne NaHCO3, Gibco
+BRL, Karlsruhe, Deutschland
+
+-
+
+MEM-α, ohne RNS und DNS, Gibco BRL, Karlsruhe, Deutschland
+
+-
+
+X-Vivo 15, Bio Whittaker, Walkersville, USA
+
+-
+
+Phosphat gepufferte Saline (PBS), Gibco BRL, Karlsruhe, Deutschland
+
+-
+
+Fetales Kälber Serum (FKS), Boehringer, Mannheim, Deutschland
+
+-
+
+Hitzestabiles Antigen (HSA) 20%, Baxter Deutschland GmbH, München,
+Deutschland
+
+-
+
+L-Glutamin, Sigma, San Louis, USA
+
+-
+
+Penicillin/Streptomycin, Sigma Chemie GmbH, Deisenhofen, Deutschland
+
+-
+
+Interleukin-4, R&D System Inc., Minneapolis, USA
+
+-
+
+Granulozyten-Makrophagen-Kolonie-stimulierender
+
+Faktor
+
+Genzyme, Cambridge, USA
+-
+
+Humanes IgG, Sigma, San Louis, USA
+
+-
+
+Lymphocult T, Biotest, Denville, USA
+
+-
+
+Liquemin, Merck, Darmstadt, Deutschland
+
+-
+
+Lymphoprep, Nycomed Pharma AS, Asker, Norwegen
+
+-
+
+Trypanblau, Sigma, San Louis, USA
+
+-
+
+Trizol, Gibco BRL, Karlsruhe, Deutschland
+
+-
+
+Mercaptoethanol, Merck, Darmstadt, Deutschland
+
+-
+
+Nicht essentielle Aminosäuren, Sigma, San Louis, USA
+
+-
+
+75 % ETOH, Merck, Darmstadt, Deutschland
+
+-
+
+70 % ETOH, Merck, Darmstadt, Deutschland
+
+-
+
+Gentamycin, Sigma, San Louis, USA
+
+-
+
+2 Mercaptoethanol, Gibco BRL, Karlsruhe, Deutschland
+
+-
+
+Natriumnitrat (NaN3), Merck, Darmstadt, Deutschland
+
+(GM-CSF)
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+
+26
+
+-
+
+Chloroform, Merck, Darmstadt, Deutschland
+
+-
+
+Propiumjodid 95-98 %, Sigma, San Louis, USA
+
+-
+
+Isopropanol, Merck, Darmstadt, Deutschland
+
+-
+
+Random Primer, Gibco BRL, Karlsruhe, Deutschland
+
+-
+
+Diethylpyrocarbonat (DEPC), Promega, Mannheim, Deutschland
+
+-
+
+RNAseout, Promega, Mannheim, Deutschland
+
+-
+
+Nuclease free water (dNTP), Promega, Mannheim, Deutschland
+
+-
+
+Moloney Murine Leukemia Virus Reverse Transcriptase Reaction Buffer (MMLV-RT Reaction Buffer) , Promega, Mannheim, Deutschland
+
+-
+
+Moloney Murine Leukemia Virus Reverse Transcriptase (M-MLV-RT),
+Promega, Mannheim, Deutschland
+
+-
+
+Glycerin-Aldehyd-Phosphat-Dehydrogenase-Gen (GAPDH), MWG-Biotech
+AG, Ebersberg, Deutschland
+
+-
+
+Glycerin-Aldehyd-Phosphat-Dehydrogenase-fw-Gen (GAPDH-fw), MWGBiotech AG, Ebersberg, Deutschland
+
+-
+
+Glycerin-Aldehyd-Phosphat-Dehydrogenase-rev-Gen (GAPDH-rev), MWGBiotech AG, Ebersberg, Deutschland
+
+-
+
+DC-Sign-rev (5’ –GGA GTT GCA GCA GGG-3’), MWG-Biotech AG,
+Ebersberg, Deutschland
+
+-
+
+DC-Sign-fw (5’ –TCC GAC AGA CTC GAG GAT ACA A-3’), MWG-Biotech
+AG, Ebersberg, Deutschland
+
+-
+
+NH4CL, Merck, Darmstadt, Deutschland
+
+-
+
+Na-EDTA Titriplex III, Merck, Darmstadt, Deutschland
+
+-
+
+KHCO3, Merck Darmstadt, Deutschland
+
+-
+
+Bovines Serumalbumin (BSA), Serva, Heidelberg, Deutschland
+
+-
+
+PCR-Master
+
+Mix
+
+SybrGreen,
+
+PE
+
+Applied
+
+Biosystems,
+
+Weiterstadt,
+
+Deutschland
+2.1.2
+
+Geräte und Gefässe
+
+-
+
+FACS Calibur, Becton Dickinson, San José, USA
+
+-
+
+MicroBeta
+
+Counter
+
+(liquid
+
+scintillation
+
+counter),
+
+Wallac,
+
+Deutschland
+-
+
+Cryofuge M 7000, Sepatech, Heraeus, Hanau, Deutschland
+
+Freiburg,
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+
+27
+
+-
+
+Labofuge M, Sepatech, Heraeus, Hanau, Deutschland
+
+-
+
+Microcellcounter F 300, Sysmex, Norderstedt, Deutschland
+
+-
+
+Auto Dilutor AD 260, Sysmex, Norderstedt, Deutschland
+
+-
+
+Phasenkontrastmikroskop IMT-2, Olympus, Hamburg, Deutschland
+
+-
+
+Phasenkontrastmikroskop IM 35, mit Photoapparat, Zeiss, Deutschland
+
+-
+
+Begasungsbrutschrank B 5060 (5% CO2, 37,5°C), Sepatech, Heraeus,
+Hanau, Deutschland
+
+-
+
+Sterile Werkbank, VFB 1806, Clan Laf, Dänemark
+
+-
+
+Sterile Werkbank, HeraSafe, Sepatech, Heraeus, Hanau, Deutschland
+
+-
+
+Wärmebecken, Kottermann, Uetze/Hänigsen, Deutschland
+
+-
+
+Zählkammer Thoma, Marienfeld laboratory glasware, Lauda-Königshofen,
+Deutschland, Tiefe 0,100 mm, 0,0025 mm2
+
+-
+
+Vortex, Heidolph, Schwabach, Deutschland
+
+-
+
+Pipettierhilfe
+
+Pipettboy,
+
+Tecnomara
+
+Deutschland
+
+GmbH,
+
+Fernwald,
+
+Deutschland
+-
+
+Pipettierhilfe
+
+Pipetus
+
+akku,
+
+Hirschmann
+
+Laborgeräte,
+
+Eberstadt,
+
+Deutschland
+-
+
+Pipetten steril und unsteril, 1 ml, 2 ml, 5 ml, 10 ml, 25 ml, 50 ml, Becton
+Dickinson Labware, San José, USA
+
+-
+
+Pipette, Typ Varipette 4700, 10-100 µl, 100-1000 µl, Eppendorf, Hamburg,
+Deutschland
+
+-
+
+Pipettenspitzen, steril und unsteril, Steriltips, 100 µl, 1000 µl, Eppendorf,
+Hamburg, Deutschland
+
+-
+
+Conical Tubes, Blue Max 2070, steril, 50 ml, Becton Dickinson Labware,
+San José, USA
+
+-
+
+Round Tubes, Falcon 2052, Becton Dickinson Labware, San José, USA
+
+-
+
+Polysterol Tubes, Rundboden, steril, 10 ml, Becton Dickinson Labware, San
+José, USA
+
+-
+
+Nunc Cryo Röhrchen, Nunc GmbH, Wiesbaden, Deutschland
+
+-
+
+Glasgefässe unterschiedlicher Grösse, Schott, Deutschland
+
+-
+
+6-Well-Platte, Nunclon, Multidish, Nunc GmbH, Wiesbaden, Deutschland
+
+-
+
+MicroAmp Optical 96- well reaction plate, PE Applied Biosystems,
+Weiterstadt, Deutschland
+
+-
+
+MicroAmp Optical caps, PE Applied Biosystems, Weiterstadt, Deutschland
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+
+28
+
+-
+
+Bakteriologische Platte, Nunclon, Nunc GmbH, Wiesbaden, Deutschland
+
+-
+
+Bottle Top Filter, Falcon 7105, 0,22 µl, steril, Becton Dickinson Labware,
+San José, USA
+
+-
+
+Falcon-Sieb 100 µm, Becton Dickinson Labware, San José, USA
+
+-
+
+Spritzen 20 ml, 50 ml, Braun Medical AG, Melsungen, Deutschland
+
+-
+
+Kanüle 26, Braun Medical AG, Melsungen, Deutschland
+
+-
+
+ABI PRISM
+
+TM
+
+7700 Sequence Detection Systems, PE Applied Biosystems,
+
+Weiterstadt, Deutschland
+-
+
+FACSvantage SE Systems, Becton Dickinson Labware, San José, USA
+
+-
+
+Zentrifuge 5415 D, Eppendorf, Hamburg, Deutschland
+
+2.1.3
+
+Gebrauchslösungen
+
+Kulturmedium BMDC
+500 ml RPMI 1640
+-
+
+5 ml L-Glutamin
+
+-
+
+Gentamycin 750 µl
+
+-
+
+ME (50 µM) 3,5 µl
+
+-
+
+NEAA 50 µl
+
+-
+
+Streptomycin 10 µg/ml
+
+-
+
+25 ml FCS
+
+L-Glutamin, Penicillin und Streptomycin wurde zu RPMI 1640 hinzugegeben
+und anschliessend mit fetalem Kälberserum versetzt.
+Erythrozyten-Lysispuffer
+500 ml destilliertes Wasser
+-
+
+NH4CL 4,15g
+
+-
+
+KHCO3 0,5 g
+
+-
+
+Na-EDTA 1,85 mg
+
+NH4CL, KHCO3 und Na-EDTA wurden destilliertem Wasser hinzugegeben.
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+
+29
+
+FACS-Stammlösung
+20 ml PBS
+-
+
+4g NaN3
+
+Natriumnitrat wurde PBS hinzugegeben.
+FACS-Waschpuffer
+1000 ml PBS
+-
+
+5 ml HSA (20%)
+
+-
+
+5 ml FACS-Stammlösung
+
+Hitzestabiles Antigen (HSA) und FACS-Stammlösung wurden PBS hinzugefügt.
+2.1.4
+
+Antikörper
+
+-
+
+Mouse IgG1 FITC Isotypenkontrolle, Immunotech, Krefeld, Deutschland
+
+-
+
+Mouse IgG 2b FITC Isotypenkontrolle, Immunotech, Krefeld, Deutschland
+
+-
+
+Mouse IgG 1 PE Isotypenkontrolle, Immunotech, Krefeld, Deutschland
+
+-
+
+Rat-anti-mouse 2b FITC, Immunotech, Krefeld, Deutschland
+
+-
+
+CD 80 FITC, Becton Dickinson Labware, San José, USA
+
+-
+
+CD 86 PE, Becton Dickinson Labware, San José, USA
+
+-
+
+G1 Mouse IgG PE, Becton Dickinson Labware, San José, USA
+
+-
+
+G1 Mouse IgG FITC, Becton Dickinson Labware, San José, USA
+
+2.1.5
+
+Taqman-Primer
+
+-
+
+Human IL-6, PDAR, PE Applied Biosystems, Weiterstadt, Deutschland
+
+-
+
+Human IL-7, PDAR, PE Applied Biosystems, Weiterstadt, Deutschland
+
+-
+
+Human IL-8, PDAR, PE Applied Biosystems, Weiterstadt, Deutschland
+
+-
+
+Human IL-10, PDAR, PE Applied Biosystems, Weiterstadt, Deutschland
+
+-
+
+Human IL-12p35, PDAR, PE Applied Biosystems, Weiterstadt, Deutschland
+
+-
+
+Human IL-12p40, PDAR, PE Applied Biosystems, Weiterstadt, Deutschland
+
+-
+
+Human IL-15, PDAR, PE Applied Biosystems, Weiterstadt, Deutschland
+
+-
+
+Human GM-CSF, PDAR, PE Applied Biosystems, Weiterstadt, Deutschland
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+-
+
+30
+
+Human IFN gamma, PDAR, PE Applied Biosystems, Weiterstadt,
+Deutschland
+
+-
+
+Human TGF beta, PDAR, PE Applied Biosystems, Weiterstadt, Deutschland
+
+-
+
+Human
+
+TNF
+
+alpha,
+
+PDAR,
+
+PE
+
+Applied
+
+Biosystems,
+
+Weiterstadt,
+
+Deutschland
+-
+
+Murine IL-6, PDAR, PE Applied Biosystems, Weiterstadt, Deutschland
+
+-
+
+Murine IL-10, PDAR, PE Applied Biosystems, Weiterstadt, Deutschland
+
+-
+
+Murine IL-12p40, PDAR, PE Applied Biosystems, Weiterstadt, Deutschland
+
+-
+
+Murine
+
+TNF
+
+alpha,
+
+PDAR,
+
+PE
+
+Applied
+
+Biosystems,
+
+Weiterstadt,
+
+Deutschland
+2.1.6
+
+Computer-Programme
+
+-
+
+Wallac für MicroBeta Counter, Freiburg, Deutschland
+
+-
+
+FacsCalibur-Research Software, Cellquest, Becton Dickinson, San José,
+USA
+
+-
+
+Caliburstation, BD applications für FacsCalibur, Becton, Dickinson, San
+José, USA
+
+-
+
+ABI PRISM TM 7700 Sequence Detection Systems Software, PE Applied
+Biosystems, Weiterstadt, Deutschland
+
+2.2
+
+Patienten
+
+2.2.1
+
+Patientenkollektiv
+
+Vor der Entnahme von Knochenmark und Blut wurden die Patienten über die
+wissenschaftliche Verwendung aufgeklärt und gaben hierzu ihr Einverständnis. Die
+Empfehlungen des Weltärzteverbandes, (revidierte Deklaration von Helsinki, 1989
+in Hongkong beschlossene Fassung) wurden eingehalten. Die Ethikkommission
+der Ärztekammer Westfalen/Lippe wurde über das Forschungsvorhaben informiert
+und gab ein positives Votum ab. Das untersuchte Patientenkollektiv umfasste 5
+Patienten mit der Diagnose einer AML, die alle in der Medizinischen Klinik und
+Poliklinik,
+
+Abteilung
+
+Innere
+
+Medizin
+
+A,
+
+Hämatologie
+
+und
+
+Onkologie,
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+
+31
+
+Universitätsklinik Münster behandelt wurden. Die Patientendaten sind anhand
+Tabelle 2.3 dargestellt.
+Patient
+
+Alter
+
+Geschlecht FAB-Typ
+
+Blastenanteil
+zu Beginn %
+
+A
+
+70
+
+m
+
+AML M5
+
+50
+
+B
+
+68
+
+w
+
+AML M4
+
+85
+
+C
+
+67
+
+m
+
+AML M5a
+
+88
+
+D
+
+67
+
+w
+
+AML M4
+
+> 90
+
+E
+
+76
+
+w
+
+AML M5a
+
+80
+
+Tabelle 2.2: AML-Patientendaten
+2.2.2
+
+Materialgewinnung
+
+Das Knochenmark wurde bei den Patienten im Rahmen der Routine-AMLDiagnostik unter sterilen Bedingungen in Lokalanästhesie aus der Spina illiaca
+posterior superior entnommen. Weiterhin wurde sowohl während der AMLErstmanifestation und im Verlauf der Remissionsphase peripheres Blut in
+heparinisierten Spritzen entnommen. Aufgrund von hohen Leukozytenzahlen wurde
+bei einigen Patienten unter therapeutischem Gesichtspunkt eine Leukapherese
+durchgeführt, das gewonnene Material wurde als Leukapheresat asserviert.
+2.2.3
+
+Gewinnung mononukleärer Zellen aus peripherem Blut
+(Ficollseperation) von gesunden Spendern
+
+Die Zellisolierung und Gewinnung peripherer mononukleärer Zellen erfolgte über
+Dichtezentrifugation. Dazu wurde das entnommene Venenblut im Verhältnis 1:1 mit
+im Wasserbad erwärmten PBS verdünnt. In einem Ficoll wurde ein Teil
+Lymphoprep vorgelegt und vorsichtig mit zwei Teilen Blut überschichtet, so dass
+zwei Phasen entstanden. Die Falcon-Tubes wurden über 20 min bei 400 g ohne
+Bremse
+
+zentrifugiert. Es entstand eine spezifische Interphase, die aus
+
+mononukleären Zellen, Blasten, Lymphozyten und Monozyten bestand. Diese
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+
+32
+
+wurde abpipettiert und dreimal mit PBS verdünnt, sowie 10 min bei 400 g
+gewaschen. Zur Zellzahlbestimmung nutzten wir die Thoma Zählkammer und den
+Microcellcounter Sysmex, zur Vitalitätsbestimmung die Anfärbung mit Trypan-BlauLösung.
+2.2.4
+
+Zellkultur
+
+2.2.5
+
+Gewinnung von BDDC
+
+Das bei -80° C eingefrorene Patientenmaterial aus Knochenmark, Leukapherese
+oder peripherer Blutentnahme wurde aufgetaut und in X-Vivo 15 Medium gelöst. In
+6-well-Platten wurden jeweils 5 x 106 Zellen in 3 ml Medium aufgenommen, die
+nicht adhärenten Zellen depletiert und je 1% autologes Plasma, GM-CSF und IL-4
+zugesetzt. Alle 2 Tage wurden Medium, Plasma und Zytokine frisch hinzugegeben.
+Nach 6 Tagen wurden die nicht adhärenten Zellen in autologem konditioniertem
+Medium (auf humanem IgG adhärente Zellen mit Medium) sowie hinzugegebenem
+autologem Plasma und Zytokinen aufgenommen. Es folgte weitere 3 Tage die
+Bebrütung im Inkubator zur Ausreifung der dendritrischen Zellen.
+
+2.3
+
+Tiere
+
+2.3.1
+
+Haltung der Versuchstiere
+
+Alle Versuchstiere Wilhelmsuniversität wurden im zentralen Tierlabor der Westfälischen Münster, in einem geschlossenen Barrierensystem unter
+pathogenfreien Bedingungen gehalten. Alle Geräte und Materialien, die zur
+Versorgung der Tiere erforderlich sind, werden über ein Autoklav-Barrierensystem
+in den Tierstall gegeben. Die Versuche werden an einer Laminar-FlowSterilwerkbank
+durchgeführt.Alle Tierversuche wurden von der Tierschutzkommission des Landes Nordrhein-Westfalen genehmigt und den
+Vorschriften des Tierschutzgesetzes entsprechend durchgeführt. Es wurden Tiere
+im Alter zwischen 8 und 10 Wochen verwendet.
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+2.3.2
+
+33
+
+Gewinnung von Knochenmark der Tiere
+
+Alle Zellkulturarbeiten wurden unter sterilen Bedingungen durchgeführt. Die Tiere
+wurden in einem Äthergefäss getötet. Die Maus wurde auf einer sterilen Unterlage
+mit Kanülen an den Extremitäten festgesteckt. Das zuvor mit 70% Alkohol
+befeuchtete Fell der Maus wurde ausgehend von den Füssen abpräpariert. Die
+unteren Extremitäten wurden von Haut befreit, grosszügig mit Teilen des Beckens
+entfernt und in sterilem PBS auf Eis gelegt. Durch die Technik der Präparation
+sollte vermieden werden, dass die Röhrenknochen schon vorzeitig geöffnet
+wurden. In einer Schale mit 70% Alkohol wurden die Knochen mit Hilfe eines
+Skalpells von den umgebenden Muskeln befreit. Zur Gewinnung von Knochenmark
+wurden die Epiphysen von Femur und Tibia getrennt und die Markhöhle durch
+Spülung mit PBS-Lösung (1% FCS) durch eine 26er Kanüle in eine Petrischale
+entleert. Durch mehrmaliges Herauf- und Herunterspülen erzeugten wir eine aus
+Knochenmarkszellen bestehende Einzelzellsuspension, welche anschliessend 6-7
+min bei 1250 rpm zentrifugiert wurde. Das Pellet wurde in 1,5 ml ErythrozytenLysispuffer 3 min bei RT gelöst. Es folgte die Filtration der Suspension durch ein
+Falconsieb (100 µm) und Nachspülung mit PBS sowie die Zentrifugation 6-7 min
+mit 1250 rpm. Diese erhaltenen Zellen haben wir in BmDC-Medium aufgenommen
+(5 ml pro Maus), 10 ml der Suspension wurde auf Petrischalen verteilt und 2
+Stunden bei 37° C und 5% CO2 inkubiert. Die nicht adhärenten Zellen wurden
+geerntet, bei 1240 rpm 6-7 min zentrifugiert und in BmDC-Medium aufgenommen.
+Die Zellzahlbestimmung erfolgte mit dem Mikrocellcounter Sysmex, pro Maus
+sollten es mindestens 15 000 000 Zellen sein.
+2.3.3
+
+Gewinnung von BmDC
+
+Die zuvor durch Knochenmarkspräparation der Tiere gewonnenen Zellen werden in
+einer Dichte von 3x 106/5 ml auf einer 6-well-Platte ausgesäht, zusätzlich wird noch
+IL-4
+
+und
+
+GM-CSF
+
+hinzugegeben.
+
+Diese
+
+werden
+
+2
+
+Tage
+
+unter
+
+Standardbedingungen inkubiert. Am 4. Tag werden die 6-well-Platten erneuert und
+die Zellen werden in einer Konzentration von 3x 106/9 ml verteilt sowie Zugabe von
+IL-4 und GM-CSF. Erneute Inkubation unter Standardbedingungen für 2 Tage. Am
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+
+34
+
+7. Tag erneuter Wechsel der 6-well-Platten unter Berücksichtigung der
+Zellkonzentration von 2x106/3ml, sowie Zugabe von GM-CSF und IL-4, sowie DCCellgrow-Medium. Nach 9 Tagen werden die nicht-adhärenten Zellen geerntet.
+
+2.4
+
+Molekularbiologische Methoden
+
+2.4.1
+
+RNA-Isolierung mit TRIzol
+
+Homogenization für Zellen in Suspension
+Die Total-RNA-Isolierung aus den Kulturzellen (Dendritische Zellen von Patienten
+mit AML, gesunde Spender sowie gesunde Mäuse), erfolgte mittels der TRIzolMethode modifiziert nach Chomczynski und Sacchi (1987). Die zu untersuchenden
+Zellen wurden bei 3000 rpm 5 min abzentrifugiert. Der Überstand wurde vollständig
+entfernt und das Pellet in TRIzol aufgenommen und mehrmals auf- und abpipettiert. Anschliessend Zellmessung mit dem Sysmexgerät, wobei man für
+2x106 Zellen 300 µl TRIzol ansetzte. Diese Zellsuspension wurde 5 min bei
+Raumtemperatur inkubiert und danach entweder sofort weiterbehandelt oder bei –
+80°C eingefroren.
+Phasenseparation
+Die eingefrorenen homogenisierten Proben wurden nach dem Auftauen 5 min bei
+RT (=Raumtemperatur) inkubiert. Anschliessend wurden pro 1 ml TRIzol 200 µl
+Chloroform hinzugefügt. Nach kräftigem Schütteln in der Hand für 15 sec und
+Inkubation für 2-3 min bei RT wurden die Tubes bei 12000 g 15 min bei 4°C
+zentrifugiert, wobei sich drei Phasen bildeten. Nach der Zentrifugation wurden die
+Proben auf Eis gestellt.
+RNA-Fällung
+Die wässrige, RNA-haltige Oberphase wurde vorsichtig abpipettiert und in ein
+neues Reaktionsgefäss überführt und die Unterphase verworfen. Anschliessend
+erfolgte die Fällung der RNA mit Hinzugabe von 500 µl Isopropanol für 1 ml TRIzol
+und Inkubation für 10 min bei RT. Anschliessend Zentrifugation bei 12000 g und
+4°C für 10 min, wobei die RNA als Pellet sichtbar wurde.
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+
+35
+
+RNA waschen
+Nach der Zentrifugation wurde der Überstand entfernt und das Pellet 2x mit 75%
+Ethanol (1ml pro 1ml TRIzol) gewaschen. Beim ersten Waschen erfolgt keine
+Mischung nur ein „short“ herunterzentrifugieren, beim 2. Waschgang mischen und
+zentrifuguieren bei 7500 g und 4°C für 5 min. Danach wird der Überstand
+verworfen und das Pellet getrocknet und in 20 µL DEPC-behandeltem Wasser
+resuspendiert und im Wasserbad bei 55-60°C 10 min inkubiert.
+2.4.2
+
+Messen der RNA-Konzentration
+
+Die Konzentrationsbestimmung der erhaltenen Gesamt-RNA erfolgte mit einem
+UV-Photospektrometer durch Bestimmung der optischen Dichte bei 260nm (O.D. 1
+= 40µg RNA/mL).
+2 µl + 118 µl Millipore H2O (1:60 verdünnen)
+Leerwert: 120 µl Millipore H2O
+280/260 = Reinheit der RNA
+Konzentration: A 1 x 2400 = µg/ml
+A1 x 2,4 = µg/µl
+2.4.3
+
+Reverse Transkriptase Reaktion
+
+c-DNA-Synthese aus Gesamt-RNA
+Dient mRNA oder Gesamt-RNA als Ausgangsmaterial für die PCR, so muss vor
+der eigentlichen PCR eine Reverse Transkription (RT) durchgeführt werden. Die
+Reaktion wird mit der RNA-abhängigen DNA-Polymerase Reverse Transkriptase
+durchgeführt,
+
+wobei
+
+als
+
+Produkt
+
+eine
+
+zur
+
+eingesetzten
+
+RNA-Matrize
+
+komplementäre Einzelstrang-DNA (complementary DNA = cDNA) gebildet wird.
+Diese cDNA wird dann in der nachfolgenden PCR zur Doppelstrang-DNA ergänzt.
+In
+
+einem
+
+Reaktionsvolumen
+
+von
+
+17,75µl
+
+wurden
+
+1µg
+
+Gesamt-RNA
+
+inkomplementäre DNA (cDNA) umgeschrieben. (Tabelle 2.4)
+Die Reverse Transkription trennt den Vorgang der RT und der PCR voneinander,
+dabei werden zuerst Oligo (dT)-Primer an die Poly (A)-Überhänge der mRNA
+angeheftet, die gesamte cDNA synthetisiert und danach das RNA-Template
+denaturiert. Erst in einer anschliessenden PCR erfolgt die Anlagerung der für den
+gesuchten Genabschnitt spezifischen Primer an die einzelsträngige cDNA. Als
+Reverse Transkriptase wurde M-MLV eingesetzt.Das Pellet wird zur
+Primeranlagerung 5 min bei 70° inkubiert und 5 min auf Eis abgekühlt sowie 10 min
+bei Raumtemperatur. Die Reverse Transkription wird schliesslich für 1 Stunde im
+Wasserbad bei 42°C durchgeführt, gefolgt von einer Inaktivierungsphase von 15
+min bei 70°C. Nach der Reaktion wurden 175 µl nukleasefreies H2O in den Ansatz
+pipettiert, dieser aliquotiert und die Aliquots bis zur Verwendung in einer PCR bei –
+20°C eingefroren.
+
+1µg RNA
++
+
+1 µl RP (Random Primer)
+
++
+
+1 µl Rnase out
+
++
+
+14,75 µl DEPC-H2O
+
+17,75 µl
+
+Master-Mix:
+
+1x
+
+Buffer (5x)
+
+5 µl
+
+M-MLV-RT
+
+1 µl
+
+D´NTP´s
+
+1,25 µl
+7,25 µl
+
+Total Volumen = 25 µl
+
+Tabelle 2.3: Promega Protokoll für Reverse Transkription
+2.4.4
+
+Färbung mit fluoreszensmarkierten Antikörpern
+
+Die DCs wurden mittels direkter 2-Farben-Immunfloureszensmarkierung angefärbt
+(Tabelle 2.6). Jeweils eine Konzentration von 1x106 Zellen wurde in FACS-Tubes
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+
+37
+
+verteilt, dazu wurde 25 µl Mouse IgG hinzugefügt und für 15 min bei
+Raumtemperatur inkubiert. Anschliessend gaben wir für die Iso-Probe jeweils 20 µl
+Flouresceinisothiocyanat
+
+(FITC)
+
+und
+
+Phycoerythrin
+
+(PE)
+
+als
+
+konjugierte
+
+monoklonale Antikörper hinzu und inkubierten diese für 15 min auf Eis im Dunkeln.
+Die jeweiligen Antikörper, CD 80 FITC und CD 86 PE lagen schon in der
+passenden Vorverdünnung vor, so dass wir 120 µl zu den Zellen hinzufügten.
+Diese Zellen mit dem Antikörper wurden auf Eis im Dunkeln für mindestens 15 min
+inkubiert. Nach Beendigung der Inkubationszeit erfolgte ein 2 maliger Waschgang
+mit jeweils 2 ml FACS-Waschpuffer bei 600 g für 4 min. Der Überstand wurde
+abgesaugt und das Pellet wurde in 250 µl FACS-Waschpuffer aufgenommen.
+Analysiert und sortiert wurden die gefärbten Zellen mittels FACS Callibur und
+FACSvantage. (siehe 2.4.5 und 2.4.6)
+
+2.4.5
+
+Durchflusszytometrische Analyse
+
+Der Floureszensaktivierte Zellsorter (flourescence-activated cell sorter = FACS) ist
+ein Gerät, welches mit einem Argon- und Helium-Neon-Laser ausgetattet ist.
+Wir verwendeten als Standardgerät einen FACSCalibur der Firma Becton
+Dickinson. Unter anderem kann es nicht nur Zellen nach Gösse und Granularität
+einordnen, sondern auch zählen und gemäss ihrer Oberflächenmarkierung
+auftrennen und quantifizieren. Monoklonale Antikörper gegen verschiedene
+Oberflächenproteine werden mit Floureszensfarbstoffen gekoppelt, um bestimmte
+Zellen in einer Population detektieren zu können.
+Die Parameter der gemessenen Ereignisse können entweder einzeln im
+Histogramm oder gegeneinander im Dot Plot aufgetragen werden. [TERSTAPPEN,
+1988]. Die Auswertung der Daten erfolgte am MacIntosh mit dem Programm Cell
+Quest.
+2.4.6
+
+Cell-Sorter (FACSvantage SE Systems)
+
+Zum Sortieren der Dendritischen Zellen nach den Merkmalen CD 80 und CD 86
+positiv, verwendeten wir das Gerät FACSvantage SE Systems von der Firma
+Becton Dickinson. Das Sortieren am FACSvantage funktioniert nach dem Prinzip
+des Droplet-Sorting. Dabei wird zunächst der Flüssigkeitsfaden, in dem sich die
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+
+38
+
+Zellen befinden, in hochfrequente Schwingungen versetzt (bis zu 34.000 Hz),
+wodurch sich in einer definierten Entfernung vom Laserschnittpunkt einzelne
+Tröpfchen vom Flüssigkeitsstrahl ablösen. Wenn eine zu sortierende Zelle den
+Laserstrahl soeben passiert hat, wird der Sortier-Elektronik ein Signal gegeben und
+der Flüssigkeitsstrahl wird genau in dem Moment elektrostatisch geladen, an dem
+sich das Tröpfchen mit der zu sortierenden Zelle gerade ablöst. Danach wird die
+Ladung wieder aufgehoben, damit nur dieser eine Tropfen geladen wird. Passiert
+nun der geladene Tropfen die Ablenkungsplatten, zwischen denen eine
+elektrostatische Spannung besteht, wird der Tropfen nach links oder rechts
+abgelenkt, je nach Polarität der Ladung.
+2.4.7
+
+Real-Time-PCR
+
+Die real-time quantitative PCR oder auch quantitative Echtzeit-PCR stellt eine
+Weiterentwicklung der Mitte der achtziger Jahre von K.B. Mullis entwickelten
+Polymerase-Kettenreaktion (polymerase chain reaction, PCR) dar [MULLIS, 1987].
+Die PCR ist eine sehr schnelle und sensitive Methode zur In-vitro-Amplifizierung
+spezifischer DNA-Abschnitte und ermöglicht somit die Detektion kleinster DNAMengen [ERLICH, 1991]. Das Prinzip der PCR-Reaktion basiert auf der
+enzymatischen Vermehrung eines bestimmten DNA-Abschnittes, der zwischen
+zwei Startersequenzen, den sogenannten Primern, liegt. Die Basenabfolge der
+beiden Primer muss komplementär zur amplifizierenden DNA-Sequenz sein. Die
+Grundlage für die heute angewandte real-time quantitative PCR wurde 1992 durch
+HIGUCHI geschaffen [HIGUCHI, 1992].
+TaqMan-PCR Assay
+Der Taqman-PCR Assay ermöglicht die Amplifikation und den Nachweis des PCRProduktes simultan. Die Methode basiert auf der 5´-3´-Exonukleaseaktivität der
+AmpliTaq DNA Polymerase. Zwischen den zwei spezifischen OligonucleotidPrimern liegt ein zusätzliches, fluoreszenzmarkiertes Oligonucleotid, die so
+genannte TaqMan-Probe. TaqMan-Proben sind Sonden, die mit einem ReporterFluoreszenzfarbstoff am 5´-Ende und einem intern eingebauten oder am 3´-Ende
+liegenden Quencher markiert sind. Bei der Neustrangsynthese schneidet die TaqPolymerase durch ihre 5´-, 3´-Exonucleaseaktivität die TaqMan-Probe in kleine
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+
+39
+
+Fragmente, wodurch es zu einer Loslösung des Reporters vom Quencher kommt
+und die Reporterfluoreszenz freigesetzt werden kann. Die Zunahme der
+Reporterfluoreszenz wird nach jedem Zyklus gemessen und ist wiederum
+proportional der Menge des DNA-Templates im Tube. Der Anstieg der Floureszens
+wird mit Hilfe des Abi Prism 7700 Sequence Detektors im geschlossenen
+Reaktionsgefäss
+
+Zyklus
+
+für
+
+Zyklus
+
+erfasst.
+
+Die
+
+Quantifizierung
+
+der
+
+Floureszensänderung erfolgt über die Berechnung einer Standardkurve. Die
+Produktmenge wächst exponentiell, erreicht aber dann ein Plateau. Bei idealen
+Bedingungen ergibt sich für die Anzahl amplifizierter Moleküle (N) folgende
+Gleichung:
+N=N0x2n,
+wobei
+
+N0
+
+die
+
+Anzahl
+
+der
+
+Ausgangsmoleküle
+
+und
+
+n
+
+die
+
+Anzahl
+
+der
+
+Amplifikationszyklen beschreibt. Da die Reaktionseffezienz (E) durch Sequenz und
+Lage der Primer und der zu amplifizierenden Ziel-DNA sowie Verunreinigungen
+und die Prozessivität der Taq Polymerase beeinflusst wird, so muss die Gleichung
+folgendermassen formuliert werden.
+N=N0(1+E)n
+
+Zur Erstellung einer Standardkurve wird diese Gleichung in ihre logarithmierte
+Form umgeschrieben:
+logN=logN0+n log(1+E)
+
+Die Standardkurve muss über >5 Standardstufen verfügen.
+2.4.8
+
+Durchführung des Taqman-PCR-Assays
+
+Für die Taqman-PCR wurden bei einem Reaktionsvolumen von 25 µl die in Tabelle
+2.4 aufgeführten Reagenzien benötigt.
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+
+40
+
+Gene of interest:
+2x Sybr Green Mastermix
+
+12,5 µl
+
+20x Primer und Probe
+
+1,25 µl
+
+H2 O
+
+7,45 µl
+
+CDNA
+
+3,80 µl
+25
+
+µl
+
+Tabelle 2.4: Ansatz für Färbeprotokoll
+Mastermix
+
+12,5 µl
+
+Probe
+
+0,5 µl
+
+Primer forward
+
+0,75 µl
+
+Primer review
+
+0,75 µl
+
+H2 O
+
+6,7 µl
+
+CDNA
+
+3,8 µl
+25 µl
+
+Tabelle 2.5: Ansatz für Taqman-PCR Assay GAPDH
+Diese verschiedenen Reagenzien, sowie die unterschiedlichen OligonukleotidPrimer (s. Tab. 2.5) wurden in eine 96-well Microtiterplatte pipettiert und auf Eis
+gestellt. Nach Mischen des Ansatzes wurde als letztes cDNA hinzugefügt.
+Anschliessend ist die Platte mit optischen Deckeln verschlossen sowie bei 1000
+rpm und 4°C für 1 min zentrifugiert worden. Jedes Gen wurde auf verschiedenen
+Platten jeweils 2x gemessen. Zur Analyse wurde die Microtiterplatte in den
+Thermocycler Abi Prism 7700 Detection System überführt, welcher eine
+Echtzeitanalyse des Amplifikationsverlaufes ermöglicht. Die Auswertung dieser
+Echtzeitanalyse erfolgte durch die Sequence Detections Systems-Software.
+Sämtliche Messdaten wurden auf das „Housekeeping-Gen“ GAPDH bezogen.
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+
+Gen
+
+Oligosequenz: sense
+antisense
+
+41
+
+Lokalisation
+
+Anlageru
+
+Fragmentgrö ngssse
+
+temperat
+ur
+
+GAPDH
+
+5´-CGT-CTT CAC CAC CAT GGA GA-3´ 360-379
+
+(Glycerin-
+
+5´-CGG CCA TCA CGC CAC AGT TT-3´
+
+60°C
+
+640-659
+
+Aldehyd-
+
+300
+
+Phosphat-
+
+paare
+
+Basen-
+
+Dehydrogenas
+e
+DC-Sign
+
+5´-TCC GAC AGA CTC GAG GAT ACA 115-136
+A-3´
+
+60°C
+
+166-183
+
+5´-GGA GTT GCA GCA CCA GGG-3´
+
+Tabelle 2.6: Verwendete humane Oligonukleotid-Primer
+2.4.9
+
+ABI PRISM 7700 Sequence Detection System
+
+Das ABI PRISM 7700 Sequence Detection System verfügt über einen eingebauten
+Thermocycler, bei welchem die Proben 40 mal folgenden Zyklus durchlaufen:
+Start:
+
+2 Minuten 50°C
+10 Minuten 95°C
+
+Zyklus:
+
+15 Sekunden 95°C
+1 Minute 60°C
+
+2.4.10 Analyse der Taqman-PCR
+Die erhaltenen Rohdaten wurden durch die Sequence Detection Software (SDSSoftware) automatisch analysiert. Das Programm erstellt aus den pipettierten
+Standardproben eine Standardkurve und gibt die Werte für die Steigung der Kurve,
+den y-Abschnitt und den Korrelationskoeffizienten der interpolierten Kurve an (Abb.
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+
+42
+
+4) Mit Hilfe dieser Standardkurve war es möglich , die Proben relativ zu den
+eingesetzten Konzentrationen der Standardproben zu quantifizieren. Zusätzlich
+erlaubte die Steigung der Geraden eine Aussage über die Effizienz der PCRReaktion. Um die Proben zu analysieren wurden die Ct-Werte in Excel importiert
+und mit Hilfe der Standardkurve in relative Konzentrationswerte umgerechnet.
+2.4.11 Vergleichende Ct-Methode
+Der Parameter Ct (Threshold Cycle) ist definiert als Zyklusnummer, ab der die
+Fluoreszens
+
+einen
+
+bestimmten
+
+Schwellenwert
+
+oberhalb
+
+der
+
+Basislinie
+
+überschreitet. Nach der vergleichenden Ct-Methode wurden die Ct-Werte für das
+„Housekeeping-Gen“ GAPDH und das zu untersuchende Gen bestimmt. [FINK,
+1998]. Zur Normalisierung ist der Ct-Wert des GAPDH vom Ct-Wert des zu
+untersuchenden
+
+Gens
+
+abgezogen
+
+worden.
+
+Dieser
+
+Ct-Wert
+
+bildete
+
+den
+
+normalisierten Expressionswert des Gens in der untersuchten Probe.
+Zur Berechnung der relativen Mengen der gemessenen cDNA-Spezies der
+verschiedenen DC-Kulturen wurde die komparative ∆∆Ct-Methode (Applied
+Biosystems User Bulletin #2) verwendet. Dabei wurden zuerst die Differenzen (∆Ct)
+zwischen den Ct-Werten und den entsprechenden Ct-Werten für die GAPDH-cDNA
+gebildet.
+∆Ct = Ct (Ziel-cDNA) – Ct (GAPDH)
+Jede cDNA-Probe wurde 2 mal gemessen auf verschiedenen Reaktionsplatten.
+Aus allen ∆Ct-Werten wurden Mittelwerte (∆Ct-) für jedes Gewebe berechnet.
+Um die ∆Ct-Werte untereinander vergleichen zu können, wurde der ∆Ct-Wert für
+Gesunder Spender E der jeweiligen Zytokine als Referenz-Wert ausgewählt und
+von allen Mittel ∆Ct-Wert zur Bildung der sogenannten ∆∆Ct-Werte abgezogen wie
+z.B. bei IL-6:
+∆∆Ct = ∆Ct – 13,19 (Gesunder Spender E bei IL-6)
+Die Menge der zu untersuchenden cDNAs für die verschiedensten Zytokine sowie
+für DC-Sign normiert bezüglich der Menge an GAPDH, wurde dann relativ zu der
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+
+43
+
+Menge eines Kallibrators (Gesunder Spender E für die jeweiligen Zytokine) mit der
+nachstehenden Formel berechnet.
+2-∆∆Ct
+Die Verwendung dieses Terms liegt die Annahme zugrundes, dass die Effizienz der
+PCR-Reaktionen
+
+nahezu
+
+100%
+
+beträgt.
+
+Das
+
+bedeutet,
+
+dass
+
+bei
+
+jedem
+
+Amplifikationszyklus eine Verdopplung der Anzahl der Ausgangsmoleküle
+stattfindet. Die ermittelten Ergebnisse aus oben beschriebenem letztem Term
+logharitmierten wir jeweils noch einmal. Diese wurden dann anschliessend in
+weiteren statistischen Tests einbezogen um quantitative Aussagen über die
+verschiedenen Stichproben zu treffen.
+2.5
+
+Statistische Methoden zum Vergleich der Stichproben
+
+Um signifikante Aussagen über die quantitativen Unterschiede der einzelnen
+Zytokinexpression bei dendritischen Zellen unterschiedlicher Medien treffen zu
+können wurden verschiedene statistische Methoden verwendet Zunächst wurden
+die Rohdaten wie bereits im Kapitel 3.3.2 beschrieben ausgewertet, die jeweils
+daraus erhaltenen Werte der fünf Stichproben kranker und gesunder Spender
+wurden arithmetisch gemittelt und der Median gebildet. In Tabelle 3.14 ist am
+Beispiel des Zytokins IL-6 das Ergebnis exemplarisch dargestellt. Wenn man sich
+diese anschaut, könnte man meinen, dass es Unterschiede zwischen Kranken und
+Gesunden gibt, da es sich bei der gesamten Arbeit jedoch um eine sehr kleine
+Stichprobe handelt können wir keine Normalverteilung annehmen und haben daher
+den U-Test nach Mann und Whitney durchgeführt.
+
+Mittelwert
+
+Median
+
+Gesunde
+
+0,73
+
+1,85
+
+Kranke
+
+1,49
+
+1,53
+
+Tabelle 2.7: Exemplarische Darstellung der Mittelwerte und Median am Beispiel
+des Zytokins IL-6
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+2.5.1
+
+44
+
+U-Test nach Mann-Whitney
+
+Der U-Test nach Mann und Whitney ist der bekannteste und geläufigste Test zum
+nicht
+
+parametrischem
+
+Vergleich
+
+zweier
+
+unabhängiger
+
+Stichporben.
+
+Nichtparametrische (= verteilungsfreie) Tests werden überall dort angewandt, wo
+die Annahme der Normalverteilung nicht aufrechterhalten werden kann. Da bei
+ihnen nicht die Messwerte selbst, sondern deren Rangplätze verarbeitet werden,
+sind sie auch unempfindlicher gegen Ausreisser. Schliesslich können sie auch bei
+ordinalskalierten Skalenniveau angewendet werden. Der U-Test basiert auf einer
+gemeinsamen Rangreihe der Werte beider Stichproben.
+
+Mann-Whitney U-Test
+
+11
+
+Wilcoxon
+
+26
+
+Z
+
+-0,313
+
+Asymp. Sig. (2-tailed)
+
+0,754
+
+Exact. Sig. [2*(1-tailed Sig.)]
+
+0,841
+
+Tabelle 2.8: Exemplarische Darstellung des U-Tests nach Mann und Whitney am
+Beispiel des Zytokins IL-6
+
+Mann-Whitney-U (11) = Testgrösse
+Wilcoxon W (26) = Kleinere der beiden Rangsummen
+Bei weniger als 30 Fällen ist die Irrtumswahrscheinlichkeit p (0,754)
+Bei mehr als 30 Fällen (bei uns nicht der Fall) ist die Prüfgrösse Z (-0,313) und die
+Zugehörige Irrtumswahrscheinlichkeit p (0,841)
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+IL-6
+
+IL-7
+
+IL-8
+
+IL-10 IL-
+
+IL-
+
+IL-15 GM-
+
+12p3 12p4
+
+Mann-
+
+5
+
+0
+
+45
+IFN
+
+TGF
+
+TNF
+
+CSF
+
+11
+
+12
+
+7
+
+10
+
+11
+
+11
+
+9
+
+10
+
+7
+
+12
+
+12
+
+Wilcox 26
+
+27
+
+22
+
+25
+
+26
+
+26
+
+24
+
+25
+
+22
+
+27
+
+27
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Whitne
+y-U
+
+on
+Z
+
+-
+
+0,313 0,105 1,149 0,522 0,313 0,313 0,731 0,522 1,149 0,104 0,104
+As-
+
+0,754 0,917 0,251 0,602 0,754 0,754 0,465 0,602 0,251 0,917 0,917
+
+ymp.
+Sig. (2tailed)
+0,841 1
+
+0,310 0,690 0,841 0,841 0,548 0,690 0,310 1
+
+1
+
+Tabelle 2.9: Zusammenfassung der Ergebnisse des Mann-Whitney-U-Tests bei
+den verschiedenen Zytokinen in unterschiedlichen Kulturen
+Die Nullhypothese prüft auf Unterschiede. Wenn p<0,05 wäre, dann wären
+Unterschiede zu erkennen. Da aber in unserer Auswertung p>0,05 bei allen
+Stichproben und insgesamt bei einer Stichprobe < 30, können wir bei diesem Test
+nur feststellen, dass keine Unterschiede zwischen den Kranken und den Gesunden
+nachweisbar sind.
+2.5.2
+
+F-Test
+
+Mit dem U-Test haben wir nun festgestellt, dass sich die Gesunden und die
+Kranken nicht unterscheiden, daher haben wir zur weiteren Interpretation der
+Ergebnisse die Werte anhand eines F-Test untersucht. Dieser berechnet die
+
+2 MATERIAL, PATIENTEN, TIERE UND METHODEN
+
+46
+
+einseitige Wahrscheinlichkeit, dass sich wie in unserem Fall die Varianzen der
+Gesunden und der Kranken nicht signifikant unterscheiden. Die Nullhypothese prüft
+also, ob die Varianzen gleich (= homogen) sind. Was wir mit diesem Test aussagen
+können ist, welches „Spektrum“ an Messwerten vorhanden ist, das heisst ob die
+Daten gleich nebeneinander oder weit auseinander liegen.
+
+3 ERGEBNISSE
+
+3
+
+ERGEBNISSE
+
+3.1
+
+In vitro Generierung von humanen (AML-Blasten) und
+
+47
+
+murinen dendritischen Zellen
+In Anlehnung an das Romaniprotokoll [ROMANI, 1994], konnte ein Verfahren zur
+Generierung von dendritischen Zellen aus Monozyten oder Blasten bei AMLPatienten etabliert werden. Die durch Dichtezentrifugation und Adhäsion an
+Zellkulturmaterialien gewonnenen Monozyten respektive Makrophagen zeigten
+nach Stimulation mit IL-4 und GM-CSF nach wenigen Tagen morphologisch das
+typische Erscheinungsbild von dendritischen Zellen nach festgelegten Kriterien, wie
+härchenartigen Fortsätzen (= Dendritische Zellen), inhomogenem Zytosol, nicht
+adhärenten Zellen, einzeln oder in kleinen Gruppen aggregierter und im
+mikroskopischem Vergleich grösser als AML-Blasten. Die Kultivierung konnte
+problemlos in autologem Serum sowie in Leukapheresat durchgeführt werden. Aus
+100 ml Venenblut wurden 5-10x107 adhärente Zellen gewonnen. Die Zellzahl nahm
+im Verlauf von Tag 0, Tag 6 bis hin zu Tag 9 ab, jedoch stieg der Anteil der BDDC
+von Tag 0 bis Tag 9 an. Zudem fanden sich in der Zellkultur unveränderte AMLBlasten und adhärente Makrophagen mit sternförmigen Ausläufern, die auf den
+Kulturschalenboden hafteten.
+Die angesetzten Zellkulturen veränderten sich, was unter dem Mikroskop
+nachvollzogen werden konnte. Aus den runden, glatt begrenzten und homogenen
+AML-Blasten wurden gössere, runde, inhomogene Zellen mit härchenartigen
+Fortsetzen, welche nicht adhärent waren, sondern einzeln oder in kleinen Gruppen
+im Medium (Abbildung 3.2) schwammen.
+Bisher konnte kein einzelner Oberflächenmarker dendritische Zellen eindeutig
+charakterisieren, daher wurde zur Analyse der in vitro generierten murinen und
+auch humanen DC´s verschiedene Marker eingesetzt (CD 80 und CD 86). Sowohl
+die humanen als auch die murinen DC-Kulturen sind nicht frei von anderen
+Zellkulturen. Bei aus CD34+ DC-Vorläuferzellen (aus Knochenmark) generierten
+murinen dendritischen Zellen wurden auch Granulozyten- und MakrophagenVorläuferzellen unter Einfluss von GM-CSF zur Proliferation angeregt. Der DCGehalt bei aus humanen Monozyten ausdifferenzierten Zellen beträgt in der Regel
+
+3 ERGEBNISSE
+
+48
+
+etwa 80%, wobei die Umgebungsbedingungen (Temperaturen Jahreszeit bedingt)
+Schwankungen erkennen lassen. Die reifen DC´s erkennt man aufgrund der
+starken Expression von CD 86. Der Erfolg konnte während der Kulturperiode unter
+dem Mikroskop begutachtet werden. Abschliessende durchflusszytometrische
+Analysen bestätigten die Reinheit der erhaltenen Zellkultur. Am Tag 9 erhielt man
+DC-Zellen zwischen 7 und 18%, bezogen auf die Gesamtzellzahl am Tag 0, wobei
+die Ausbeute an dendritischen Zellen bei den an AML erkrankten Patienten sowie
+bei Mäusen auffallend geringer war, im Vergleich zu den gesunden Spendern. Die
+Vitalität, gemessen in der Neubauer Zählkammer, schwankte an Tag 9 zwischen
+80 und 100%. Die Entwicklungen der Zellzahlen der verschiedenen DC-Kulturen ist
+in Tabelle 3.11 dargestellt. In dieser Arbeit konnte aufgrund des Zellverhaltens und
+phänotypisch gezeigt werden, dass sich sowohl aus AML-Blasten, aus murinem
+Knochenmark als auch aus gesunden Monozyten dendritische Zellen gewinnen
+lassen und diese zudem keine morphologischen Unterschiede aufzeigen.
+
+Abbildung 3.2:
+
+Mikroskopische Darstellung Dendritischer Zellen im Medium
+A ) Dargestellt sind dendritische Zellen am Tag 6, typische
+inhomogene Zellen mit teilweise schon härchenartigen
+Zellfortsätzen.
+B) DC am Tag 9, typische Morphologie mit deutlich
+sichtbaren härchenartigen Fortsätzen einzeln, oder in
+Gruppen angeordnet.
+
+3 ERGEBNISSE
+
+3.2
+
+49
+
+Durchflusszytometrische Analyse der dendritischen Zellen
+
+Die nach Zytokinstimulation gewonnenen DC wurden im Durchflusszytometer
+bezüglich ihrer Oberflächenmerkmale , insbesondere auf CD 80 und CD 86
+charakterisiert. Um eine unspezifische Bindung der Antikörper zu verhindern, war
+es notwendig die Fc-Rezeptoren der Zellen zu blockieren, die auf dendritischen
+Zellen nachgewiesen wurden. Eine sichere Blockade war mit Mausserum (IgG) zu
+erreichen. Zur Erhaltung aussagekräftiger Ergebnisse wurden nur Partikel oberhalb
+einer bestimmten Grösse registriert. Es wurde dazu am Durchflusszytometer eine
+Grenze (= treshold) von 200 x e–1 eingestellt, dabei flossen Partikel unterhalb
+dieser Grenze nicht mit in die Auswertung hinein. Ausgewertet wurden die
+erhaltenen Daten mit dem Cellquest Programm und Auftragung im Dotplot.
+Bei der durchflusszytometrischen Analyse der dendritischen Zellen wiesen diese
+eine unterschiedlich starke Expression für Marker wie CD 80 und CD 86,
+sogenannte kostimulierende Faktoren für antigenpräsentierende Zellen,auf.
+In Tabelle 3.11 sind die Ergebnisse der durchflusszytometrischen Analysen der für
+DC charakteristischen Marker CD 80 und CD 86 am Tag 0 und Tag 9 bei den
+verschiedenen DC-Kulturen veranschaulicht. Die Entwicklung dieser ist graphisch
+in den Abbildungen 3.3-3.5 dargestellt.
+Im Verlauf der Kultivierungen zeigten die Oberflächenantigene CD 80 und CD 86
+Veränderungen der Expression. So stieg der Anteil der CD 80 positiven Zellen
+mässig an, wobei zu Anfang in jeder Kultur wenig davon zu finden waren. Im
+Gegensatz dazu waren zu Beginn der Kulturbedingungen schon erheblich mehr
+Anteile an CD 86 positiven Zellen in den DC-Kulturen, welche jedoch auch am Tag
+9
+
+keine
+
+wesentlich stärkere Expression mehr zeigten. Weiterhin waren
+
+Unterschiede bei den verschiedenen Probanden auffällig, die gewonnenen DC´s
+aus AML- Blasten und aus murinem Knochenmark zeigten für diese beiden Marker
+eine weniger starke Expression als die DC, welche aus Monozyten von gesunden
+Spendern gewonnen worden waren.
+
+3 ERGEBNISSE
+
+50
+
+Antigene
+AML-Patient
+
+CD 80
+CD 86
+
+Gesunder
+Spender
+
+CD 80
+
+Maus
+
+CD 80
+
+CD 86
+
+CD 86
+
+Tabelle 3.10:
+
+Tag 0
+
+Tag 6
+
+Tag 9
+
+1,5
+
+2,8
+
+6,8
+
+54,5
+
+14,5
+
+9,8
+
+0,5
+
+16,5
+
+8,5
+
+42,5
+
+34,5
+
+58,5
+
+0,4
+
+5,5
+
+3,5
+
+32,5
+
+8,5
+
+12,5
+
+Durchflusszytometrische Analyse von dendritischen Zellen
+Bei einem AML-Patient, gesundem Spender und einer Maus.
+Exemplarisch sind die für das Antigen positiven Zellen,
+bezogen auf die Gesamtzellzahl aller vitalen Zellen dargestellt.
+
+DC-Kulturen
+
+AML-Blasten
+
+Monozyten (Gesunder
+Spender)
+
+Murines
+Knochenmark
+
+Vitalität an Tag 9
+
+85%
+
+90%
+
+80%
+
+Gesamtzahl Tag 0
+
+2,0E+07
+
+2,7E+07
+
+1,8E+07
+
+DC Tag 6
+
+2,0E+06
+
+2,8E+06
+
+1,5E+06
+
+DC Tag 9
+
+1,8E+06
+
+3,5E+06
+
+1,2E+06
+
+Gesamtzellzahl Tag 9
+
+1,6E+07
+
+3,2E+07
+
+1,8E+05
+
+DC Anteil Tag 9
+
+11,2%
+
+10,9%
+
+12%
+
+DC Ausbeute Tag 9
+
+9%
+
+12,9%
+
+6,6%
+
+Tabelle 3.11:
+
+Entwicklung der DC in den verschiedenen Kulturen (Zellzahl,
+Vitalität, Ausbeute bezogen auf die Ausgangszellmenge an
+Tag 0 und Anteil an der Gesamtzellzahl) von Tag 0 bis 9
+anhand der dafür beschriebenen morphologischen Kriterien
+
+3 ERGEBNISSE
+
+51
+
+FACS-Analyse BDDC (Pat. AML)
+
+60
+%-Anteil positiver Zellen
+
+50
+40
+30
+20
+10
+CD86
+
+0
+Tag 0
+
+CD 80
+Tag 6
+
+Kulturdauer
+
+Abbildung 3.3:
+
+Tag 9
+
+Expression von Oberflächenantigenen der AML-Blasten in
+DC-Kultur.
+Das von einem an AML erkrankten Patienten gewonnene
+Leukapheresat wurde mit X-Vivo 15 wie unter 2.4.3
+beschrieben in Kultur genommen. Zu den oben dargestellten
+Zeitpunkten wurden Zellen entnommen und mit den
+entsprechenden Antikörpern gefärbt. In die Auswertung
+fielen die durchflusszytometrisch ermittelten positiven Zellen
+für
+
+das
+
+jeweilige
+
+Antigen
+
+zu
+
+verschiedenen
+
+Entnahmezeitpunkten, des weiteren kamen nur Zellen in
+Betracht, welche das Kriterium der Vitalität erfüllten.
+
+3 ERGEBNISSE
+
+52
+
+FACS-Analyse (Gesunder Spender)
+
+%-Anteil positiver Zellen
+
+60
+50
+40
+30
+
+CD 80
+CD86
+
+20
+10
+CD86
+
+0
+Tag 0
+
+CD 80
+Tag 6
+
+Tag 9
+
+Kulturdauer
+
+Abbildung 3.4:
+
+Expression
+
+von
+
+Oberflächenantigenen
+
+auf
+
+Monozyten
+
+gesunder Spender in DC-Kultur.
+Aus peripherem Venenblut gesunder Spender gewonnene
+Monozyten
+
+wurden
+
+mit
+
+X-Vivo
+
+15
+
+wie
+
+unter
+
+2.4.3
+
+beschrieben in Kultur genommen. Zu den oben dargestellten
+Zeitpunkten wurden Zellen entnommen und mit den
+entsprechenden Antikörpern gefärbt. In die Auswertung
+fielen die durchflusszytometrisch ermittelten positiven Zellen
+für
+
+das
+
+jeweilige
+
+Antigen
+
+zu
+
+verschiedenen
+
+Entnahmezeitpunkten, des weiteren kamen nur Zellen in
+Betracht, welche das Kriterium der Vitalität erfüllten
+
+3 ERGEBNISSE
+
+53
+
+FACS-Analyse (Maus)
+
+%-Anteil positiver Zelle
+
+35
+30
+25
+20
+15
+
+CD 80
+
+10
+
+CD86
+
+5
+
+CD86
+
+0
+Tag 0
+
+CD 80
+Tag 6
+
+Tag 9
+
+Kulturdauer
+
+Abbildung 3.5:
+
+Expression
+
+von
+
+Oberflächenantigenen
+
+auf
+
+murinem
+
+Knochenmark gesunder Mäuse in DC-Kultur
+Murines Knochenmark wurde mit BmDC-Medium wie unter
+2.4.3 beschrieben in Kultur genommen. Zu den oben
+dargestellten Zeitpunkten wurden Zellen entnommen und mit
+den entsprechenden Antikörpern gefärbt. In die Auswertung
+fielen die durchflusszytometrisch ermittelten positiven Zellen
+für
+
+das
+
+jeweilige
+
+Antigen
+
+zu
+
+verschiedenen
+
+Entnahmezeitpunkten, des weiteren kamen nur Zellen in
+Betracht, welche das Kriterium der Vitalität erfüllten.
+
+3 ERGEBNISSE
+
+3.3
+
+54
+
+Quantifizierung der jeweiligen Zytokinexpression mittels
+Real-Time-PCR bei dendritischen Zellen
+
+Nachdem wir nun die Generierung von dendritischen Zellen der verschiedenen
+Medien
+
+zeigen
+
+konnten,
+
+beschäftigten
+
+wir
+
+uns
+
+anschliessend
+
+mit
+
+der
+
+unterschiedlichen Quantität der jeweiligen Zytokinexpression bei DC´s. Zur
+genaueren Quantifizierung wurde eine real time quantitative PCR durchgeführt.
+3.3.1
+
+Gesamt-cDNA als Template in der real-time quantitativen PCR
+
+Es können nur während der wenigen exponentiellen Zyklen quantitative Aussagen
+gemacht werden. Diese können nach Higuchi et al. [HIGUCHI, 1992] eingeführter
+Floureszensbeobachtung nach jedem Zyklus während einer real-time PCR
+Reaktion erhoben werden. In der vorliegenden Arbeit wurde die real-time PCR
+angewandt um die relativen cDNA-Mengen in den verschiedenen Spezies der
+dendritischen Zellen aus Leukapheresat bei AML-Patienten, aus Monozyten bei
+gesunden Spendern und aus Knochenmark gesunder Mäuse zu quantifizieren. Die
+bei der reversen Transkriptase hergestellte Gesamt-cDNA aus den verschiedenen
+DC-Kulturen ist als Template in die real-time-PCR eingesetzt worden. Die Menge
+der cDNA kann nicht quantifiziert werden, auch die cDNA-Synthese ist so nicht
+reproduzierbar als dass sie als konstant angesehen werden kann. Um die
+Messwerte (Ct-Werte) für jede Ziel-cDNA unterschiedlicher Spezies zu vergleichen
+war es erforderlich diese zu normieren. Daher wurde bei jedem Messvorgang
+parallel zu den untersuchten Genen auch das GAPDH-Gen gemessen. Dieses ist
+ein Gen welches vergleichsweise konstant in allen Geweben exprimiert und häufig
+als Standard zur Quantifizierung von mRNA bzw. cDNA verwendet wird.
+3.3.2
+
+Auswertung der real-time quantitativen PCR
+
+Die Auswertung der Amplifikation erfolgte mittels spezieller Software. Nachdem
+manuell ein Schwellenwert festgelegt wurde bei dem sich alle Amplifikationskurven
+in der logarithmischen Phase befinden, errechnet das Programm für jede Probe
+den sogenannten Ct-Wert, als den PCR-Zyklus in dem die Amplifikationskurve
+
+3 ERGEBNISSE
+
+55
+
+dieser Probe den Schwellenwert erreicht hat. Dabei korreliert der Ct-Wert mit der
+Ausgangsmenge an spezifischer cDNA in dieser Probe. Je geringer die
+Ausgangsmenge an cDNA war, desto später erreichte die Amplifikationskurve den
+Schwellenwert, womit der Ct-Wert dieser Probe umso höher war. Wie in Kapitel
+2.4.11 beschrieben ergaben sich folgende Egebnisse, welche in der Tabelle 3.12
+als Mittelwerte exemplarisch am Beispiel Gesunder Spender für IL-6 dargestellt
+sind.
+
+GAPDH
+
+delta
+
+delta
+
+Ct-Mittelwert Mittelwert
+
+delta
+
+(Mittelwert
+
+(Mittelwert
+
+Mittelwert
+
+Messungen)
+
+Messunge
+
+(Ct
+
+n)
+
+GAPDH )
+
+Gesund A 29,28
+
+28,77
+
+0,51
+
+-12,68
+
+6577,54
+
+Gesund B 33,77
+
+31,91
+
+1,86
+
+-11,34
+
+2589,28
+
+Gesund C 33,18
+
+26,12
+
+7,06
+
+-6,14
+
+70,44
+
+Gesund D 38,02
+
+25,96
+
+12,06
+
+-1,14
+
+2,20
+
+Gesund E 37,23
+
+24,03
+
+13,19
+
+0,00
+
+1,00
+
+Tabelle 3.12:
+
+Ct Ct
+
+Reaktionse
+
+(dCt - dCt ffizienz
+- Gesund E)
+
+X = 2^ddCt
+
+Exemplarische Darstellung der errrechneten Ct-Mittelwerte bei
+gesunden Spendern für das Zytokin IL-6.
+
+3 ERGEBNISSE
+
+3.4
+
+56
+
+Quantitativer Vergleich der Zytokinexpression
+dendritischer Zellen bei AML-Patienten und gesunden
+Spendern
+
+Test
+
+Varianzen
+
+Gesund
+
+Krank
+
+IL-6
+
+unterschiedlich
+
+3,00
+
+1,24
+
+IL-7
+
+unterschiedlich
+
+0,62
+
+0,35
+
+IL-8
+
+unterschiedlich
+
+0,80
+
+2,26
+
+IL-10
+
+unterschiedlich
+
+0,83
+
+1,08
+
+IL-12p35
+
+unterschiedlich
+
+0,60
+
+1,32
+
+IL-12p40
+
+unterschiedlich
+
+0,43
+
+2,38
+
+IL-15
+
+unterschiedlich
+
+0,18
+
+0,67
+
+GM-CSF
+
+unterschiedlich
+
+0,53
+
+0,47
+
+IFN
+
+unterschiedlich
+
+1,20
+
+0,45
+
+TGF
+
+Gleich
+
+0,54
+
+0,07
+
+TNF
+
+Gleich
+
+0,07
+
+0,85
+
+DC-Sign
+
+Gleich
+
+3,35
+
+0,17
+
+Tabelle 3.13:
+
+Statistische Auswertung mit dem F-Test der unterschiedlichen
+Zytokinexpressionen bei dendritischen Zellen im Vergleich mit
+gesunden Spendern, Kranken (AML-Blasten)
+
+Aus der Tabelle 3.13 ist ersichtlich, dass sich ausser bei der Zytokinexpression bei
+dendritischen Zellen von TGF, TNF und DC-Sign, Unterschiede in den Varianzen
+feststellen lassen. Nur bei diesen drei zuletzt genannten Zytokinen finden sich
+signifikant homogene Varianzen. Aufgrund der statistischen Auswertung des FTestes war die Prüfgrösse F grösser als der kritische Wert, somit konnte es keine
+Unterschiede in den Varianzen geben.
+
+3 ERGEBNISSE
+
+57
+
+Desweiteren lässt sich darstellen, dass ausser bei den Ausreissern der
+Zytokinexpression von IL-6 und IFN bei den gesunden Probanden weitestgehend
+eng beieinanderliegende Messwerte auffällig waren, wohingegen bei den Kranken
+eher signifikant breite Verteilungen zu finden waren, welche aber keine Kontinuität
+zeigten.
+
+Zytokinexpression bei murinen DC
+
+0
+-0.2
+
+Varianz
+
+-0.4
+-0.6
+-0.8
+
+Maus
+
+-1
+-1.2
+-1.4
+Il-10
+
+Maus
+IL-12p40
+
+TNF
+
+Zytokine
+
+Abbildung 3.6:
+
+Darstellung
+
+der
+
+Zytokinexpression,
+
+Verteilung
+der
+
+aus
+
+gewonnenen dendritischen Zellen
+
+(Varianz)
+murinen
+
+bei
+
+der
+
+Knochenmark
+
+3 ERGEBNISSE
+
+58
+
+Zytokinexpression bei humanen DC und BDDC
+3.5
+3
+2.5
+2
+1.5
+1
+0.5
+
+Abbildung 3.7:
+
+Gesund
+DC-Sign
+
+Zytokine
+
+TNF
+
+TGF
+
+IFN
+
+GM-CSF
+
+IL-15
+
+IL-12p40
+
+IL-12p35
+
+Gesund
+Krank
+
+IL-10
+
+IL-8
+
+IL-6
+IL-7
+
+0
+
+Darstellung der Verteilung (Varianz) der Zytokinexpression
+bei humanen DC und BDDC im Vergleich
+
+Die gewonnenen Ergebnisse dieser Arbeit zeigten, dass sich keine signifikanten,
+quantitativen Unterschiede in der Zytokinexpression bei aus AML-Blasten, aus
+murinem Knochenmark und aus Monzyten gesunder Spender gewonnenen DC
+darstellen liessen. Es konnten hierbei nur Unterschiede in der Verteilung
+herausgearbeitet werden, welche eine Aussage über die Gruppenunterschiede
+(Krank/Gesund/Tier) erlaubten. Dabei war auffällig, dass sich bei den Gesunden
+eine fast kontinuierliche eng beieinander liegende Verteilung fand, im Gegensatz
+zu den Kranken, wo sich eine diskontinuierliche breite sowie enge Verteilung
+darstellen liess. Eine eher breite Verteilung fand sich vor allem bei IL-8, IL-10 und
+IL-12 im Vergleich zu den gesunden Probanden. Bei der Stichprobe der Mäuse war
+eine annähernde Verteilung eher in Richtung der Gesunden Spender zu erkennen.
+Abschliessend
+
+konnten
+
+in
+
+dieser
+
+Arbeit
+
+keine
+
+wesentlichen
+
+signifikanten
+
+Unterschiede der Zytokinexpression der verschiedenen Medien in Bezug auf
+immunstimulatorische Zytokine (IL 6, 7, 8, IFN, TNF, GM-CSF) sowie
+immunsuppressive Zytokine, dabei vor allem IL-10 und TGF-beta herausgearbeitet
+werden.
+
+4 DISKUSSION
+Dendritische Zellen finden sich in meist sehr kleinen Mengen fast überall im
+menschlichen Körper. Sie können weder als eine einheitliche Zellpopulation noch
+als eine streng durchlaufene Zellreihe von der Stammzelle zur reifen Zelle
+verstanden werden. Sie durchlaufen verschiedene Stadien an unterschiedlichen
+Stellen und bilden ein sich in verschiedene Unterfunktionen differenzierendes
+System von verschiedenen Zellen ohne ein konstantes, spezifisches Merkmal, das
+sie durchgängig beibehalten [BANCHEREAU, 1998]. Dadurch gestaltet es sich
+schwierig, sie zu isolieren und einheitlich eindeutig zu charakterisieren.
+Zusammenfassend haben die Experimente der vorliegenden Arbeit folgendes
+gezeigt:
+
+4.1
+
+Generierung von humanen (AML-Blasten) und murinen
+dendritischen Zellen
+
+Nach heutigem Wissensstand sind dendritische Zellen die Antigen-präsentierenden
+Zellen mit der höchsten Potenz zur Induktion einer zellulären Immunantwort. Da
+dendritische Zellen die zelluläre Immunreaktion durch Stimmulation bzw.
+Suppression von T-Helferzellen und zytotoxischen T-Zellen aktiv regulieren, stehen
+sie im Zentrum aktueller Forschungen zur Therapie bei malignen Erkrankungen.
+Aus Vorversuchen unserer Arbeitsgruppe konnte zwar eine Differenzierung
+dendritischer Zellen aus AML-Blasten gezeigt werden, jedoch fehlte ihnen die
+Fähigkeit zur Stimulation einer effektiven autologen spezifischen Zytotoxizität.
+Daher war das Ziel der vorliegenden Arbeit, als eine der möglichen Ursachen des
+fehlenden „autologen kills“ der DC ein unterschiedliches Zytokinexpressionsmuster
+vor allem im Vergleich zu aus gesunden Monozyten und aus AML-Blasten
+gewonnenen DC, ausszuschliessen oder zu bestätigen.
+Zwei wesentliche Methoden zur Isolation von dendritischen Zellen wurden über die
+letzten Jahre entwickelt, um substantielle Zellzahlen zu erhalten. Die eine geht von
+CD34+ proliferierenden Vorstufen aus dem Knochenmark [REID 1992; EGNER,
+1995] oder Blut [CAUX, 1992] in Kulturen mit GM-CSF und TNF aus. Diese
+Methode ist schwierig bei kleinen Blutmengen zu realisieren, da die Häufigkeit von
+CD34+ Zellen sehr niedrig ist. Sie führt nach langen Kulturschritten zu
+verschiedenen Populationen von CD1a+ dendritischen Zellen und
+Langerhanszellen. Diese Methode hat neben ihrer Zeitaufwendigkeit den Nachteil,
+durch die langen Kulturschritte wenig Aussagen über den Zustand der dendritische
+Zellen in vivo machen zu können. Sie zeigt jedoch mögliche Entwicklungsschritte
+der Zellen auf.
+Ein anderer breit angewendeter Ansatz ist, mit den weniger seltenen CD14+
+Vorstufen im Blut (Monozyten) zu beginnen und sie mit einer Kombination von GMCSF und IL-4 zu kultivieren [SALLUSTO 1994; ROMANI, 1996]. Diese Vorstufen
+sind CD34- nichtproliferierende Zellen [BENDER, 1996]. Im Bereich dieser
+Methode ist das Verwenden von Leukophereseprodukten statt Vollblut ein weiterer
+Fortschritt, um substanzielle Zellmengen von Patienten für die klinische
+Anwendung dendritischer Zellen als zelluläres Vakzin zu gewinnen [THURNER,
+1999].
+Als gängige Methoden für die Isolierung von humanen dendritischen Zellen
+kommen die Protokolle zur Anwendung, welche sich einer Dichtezentrifugation
+bedienen [VREMEC, 1992] sowie solche die die Anzucht aus murinem
+Knochenmark beinhalten [INABA, 1992]. Des weiteren lehnten wir unser Protokoll
+an das etablierte Schema zur DC-Differenzierung bei gesunden Spendern von
+Bender et al, 1996 an. [SCHULER, 1997]. Alle drei Präparationsmethoden
+bedienten
+
+sich
+
+der
+
+Zugabe
+
+von
+
+GM-CSF
+
+und
+
+IL-4
+
+als
+
+notwendige
+
+Wachstumsfaktoren sowie autologes Plasma und Monozyten-konditioniertes
+Medium [REDDY, 1997; BANCHERAU, 1998]. Nach einer Dauer von 8-10 Tagen
+standen reife Zellen für die Experimente zur Verfügung. Eine Kultivierung über
+diesen Zeitraum hinaus führte jedoch zum Absterben der Zellen.
+Charakteristische Oberflächenmarker dendritischer Zellen von T- und BLymphozyten, Monozyten, Makrophagen und hämatopoetischen Stammzellen
+dienten sowohl zur phänotypischen Charakterisierung als auch zum Ausschluss
+von anderen kontaminierenden Zellen des Immunsystems. In FACS-Analysen
+konnten
+
+die
+
+für
+
+dendritische
+
+Zellen
+
+charakteristische
+
+Kombination
+
+der
+
+Oberflächenmarker von CD 80 und CD 86 nachgewiesen werden [GRABBE, 2000,
+ARDAVIN, 2001]. Die nur teilweise vorhandenen DC-assoziierten Marker (50-70%)
+lassen sich am ehesten auf das Nebeneinander von Zellen in verschiedenen
+
+4 DISKUSSION
+
+61
+
+Differenzierungsstadien, ausgehend von der Stammzelle bis zur voll ausgereiften
+dendritischen Zelle zurückführen.
+Des weiteren war es für diese Arbeit wichtig eine Abwesenheit von Makrophagen in
+der Kultur zu schaffen, da diese Zellen Eigenschaften von APC aufweisen und wie
+im Falle der Monozyten gezeigt werden konnte, sich aus den gleichen
+Vorläuferzellen entwickeln können [ALLAVENA, 1998, CELLA, 1997]. Der
+Nachweis der intakten Funktion der dendritischen Zellen in der Kultur ist ein
+wichtiger Aspekt, da er darüber entscheidet, ob diese Zelllinie für weitere
+Experimente in vitro oder in vivo genutzt werden kann. Zu den wichtigsten
+Funktionen von dendritischen Zellen zählen die Aufnahme, die Prozessierung und
+die Präsentation von Antigenen auf MHC-Molekülen. Zudem beeinflusst die
+Expression kostimulierender Moleküle und die Zytokinsekretion die Interaktion mit
+Effektorzellen des Immunsystems [JONULEIT, 2001, MOSER, 2000].
+Ein wichtiges Kriterium für den Nachweis einer adäquaten Funktion der
+dendritischen Zellen waren durchflusszytometrische Analysen der kostimulierenden
+Moleküle wie CD 80 und CD 86. Das Vorhandensein der kostimulierenden
+Moleküle zeigte deutlich, dass die in der Arbeit generierten dendritischen Zellen die
+Fähigkeit besitzen, über die Ligation von B-7 Molekülen und des CD 40 Liganden
+T-Lymphozyten zu aktivieren [INABA, 1992].
+Wir konnten in dieser Arbeit erfolgreich eine direkte Differenzierung von
+dendritischen Zellen bei AML-Patienten aus Leukapheresat sowie von Monozyten
+gesunder Spender und aus gesundem murinem Knochenmark morphologisch und
+immunphänotypisch zeigen, jedoch waren keine Unterschiede in der Morphologie
+und des Zellverhaltens feststellbar. Die kostimulatorischen Moleküle wie CD 86
+wurden im Verlauf der Reifung verstärkt nachweisbar, ebenso CD 80, welches
+weniger stark ausgeprägt in allen 3 Kulturmedien vorhanden war. Eine genaue
+Differenzierung der verschiednen Reifestadien der dendritischen Zellen aus den
+unterschiedlichen Medien wurde in dieser vorliegenden Arbeit nicht explizit
+vorgenommen,
+
+ebenfalls
+
+wurden
+
+keine
+
+Untersuchungen
+
+bezüglich
+
+einer
+
+Unterscheidung in lymphoide oder myeloide dendritische Zellen vorgenommen.
+
+4 DISKUSSION
+
+4.2
+
+62
+
+Zytokinexpressionsmuster bei aus Monozyten, aus AMLBlasten und aus murinem Knochenmark gewonnenen DC
+im Vergleich
+
+4.2.1
+
+Einteilung der dendritischen Zellen in die myeloide oder lymphoide
+Form
+
+Bei den humanen dendritischen Zellen sind zwei unterschiedliche Arten von
+Vorläufern bekannt. Zum einen Zellen, der myeloiden Reihe, welche die Mehrheit
+der dendritischen Zellen des Körpers darstellen [BANCHEREAU, 1998] und zum
+anderen dendritische Zellen der lymphoiden Zellreihe.
+Die Unterscheidung zwischen lymphoiden und myeloiden Zellen ist bisher nicht klar
+definiert und eher eine Summationsentscheidung. Dendritische Zellen des
+peripheren Blutes können sich von CD14- Vorstufen entwickeln, die myeloide
+Oberflächenmarker exprimieren, was sie jedoch noch nicht sicher als myeloide
+dendritische Zellen festlegt. Vorstufen von eindeutig lymphoiden dendritischen
+Zellen exprimieren auch CD13 und CD33, jedoch nur relativ wenig [GROUARD
+1997]. Auf der anderen Seite ist zwar CD4 ein Marker von lymphatischen Zellen,
+jedoch können zum Beispiel CD4+ HLA-DR+ CD1a+ Zellen aus dem Knochenmark
+zu myeloiden dendritischen Zellen differenzieren [REID, 1992].
+Die Aussagekraft der einzelnen Unterscheidungsmerkmale ist also eingeschränkt.
+Die Subpopulation der eher myeloiden CD11c+ dendritischen Zellen im peripheren
+Blut sind CD13+ und CD33+ und nur wenig CD4+, während die mehr lymphoiden
+CD11c- dendritischen Zellen hoch CD4+ und außerdem CD123+ (IL-3 Rezeptor)
+sind [OLWEUS, 1997]. Es bleibt also, neben dem Ergebnis, daß dendritische
+Zellen des peripheren Blutes sicher lymphoider und myeloider Natur sein können,
+offen, ob die Vorstufen dendritischer Zellen im Blut heterogene Populationen sind
+oder eine Population, die sich sowohl in lymphoide als auch myeloide dendritische
+Zellen differenzieren kann und wo die wesentlichen Unterschiede liegen.
+Zu den myeloiden Zellen werden die dendritischen Zellen gezählt, welche aus
+Monozyten des Blutes in Kultur mit GM-CSF und IL-4 [SALLUSTO, 1994] oder
+nach Transmigration durch Endothel und Phagozytose [RANDOLPH, 1998] zu
+myeloiden dendritischen Zellen heranreifen. Die in vitro generierten dendritischen
+
+4 DISKUSSION
+
+63
+
+Zellen aus CD34+ Stammzellen werden ebenfalls zu den myeloiden dendritischen
+Zellen gerechnet. Pluripotente hämatopoetische Stammzellen differenzieren sich
+entweder in Richtung lymphatische Zellen oder myeloische Zellen, die sich dann
+jeweils weiter differenzieren. Myeloide dendritische Zellen können sich bis weit in
+der Ausreifung noch umdifferenzieren. Abhängig von der Zytokinumgebung können
+sowohl dendritische Zellen aus Monozyten [PALUCKA; 1998] als auch aus CD34+
+Stammzellen sich in ihrer Reifung wieder umdifferenzieren in Makrophagen und
+umgekehrt. Ebenso können fast ausgereifte neutrophile Granulozyten in der
+Zytokinkombination von GM-CSF, IL-4 und TNF-α sich zu dendritischen Zellen
+entwickeln [OEHLER, 1998]. Myeloide dendritische Zellen können sich also je nach
+durch die Zytokinzusammensetzung gesteuerten Bedarf aus verschiedenen
+myeloischen Zellen differenzieren und funktionell und phänotypisch ausreifen.
+Die Reihe der lymphoiden dendritischen Zellen ist erst seit kurzem bekannt. Zuerst
+wurden bei der Maus Zellen im Thymus gefunden, die sich zu T-Lymphozyten und
+CD8+ dendritischen Zellen entwickeln können [ARDAVIN, 1993]. Auch bei
+Menschen gibt es Vorstufen, die zu T-Zellen und dendritischen Zellen werden
+können [ARDAVIN, 1993]. Wobei trotzdem eine Zuordnung zur lymphatischen
+Zellreihe möglich ist. Die lymphoiden dendritischen Zellen zeigen, außer der
+minimem
+
+Expression
+
+von
+
+myeloiden
+
+Oberflächenmarkern,
+
+verschiedene
+
+Eigenschaften der lymphatischen Zellreihe. Sie können sich im Gegensatz zu den
+myeloiden dendritischen Zellen in Kultur mit M-CSF und GM-CSF nicht mehr in
+Makrophagen differenzieren [GROUARD, 1996]. Myeloide dendritische Zellen
+haben wie erwähnt als unreife Zellen eine hohe Kapazität an Endozytose, um diese
+dann wieder zugunsten der T-zellstimulierenden Aktivität zu verlieren. Unreife
+lymphoide dendritische Zellen haben nur eine sehr niedrige Kapazität an
+Phagozytose und Makropinozytose von Antigenen in allen Stadien ihrer Ausreifung
+[GROUARD, 1996].
+Damit zeigt sich ein ähnliches Verhältnis der lymphoiden dendritischen Zellen
+innerhalb der lymphatischen Zellen, wie der myeloiden dendritische Zellen
+innerhalb der myeloischen Zellreihe. Jedoch konnten bisher in vivo noch keine
+ausgereiften humanen lymphoiden dendritischen Zellen gefunden werden.
+Lymphoide dendritische Zellen unterscheiden sich auch in ihrem Zytokinmuster.
+Im Gegensatz zu myeloiden dendritischen Zellen produzieren sie nach CD40LAktivierung kaum IL-12 und wenig IL-1α, IL-1ß, IL-6 und IL10, jedoch vergleichbar
+
+4 DISKUSSION
+
+64
+
+viel IL-8. Interleukin-8 ist ein breit wirkendes Chemokin, welches chemotaktisch auf
+neutrophile- und basophile Granulozyten und T-Zellen wirkt. Beide Arten bilden
+weder IL-4 noch IL-13 [KOCH, 1996, RISSOAN, 1999]. Neuere Erkenntnisse
+zeigen, dass myeloide und lymphoide dendritische Zellen mit ihrer jeweiligen
+Zytokinmikroumgebung die T-Helferzelldifferenzierung in TH1- oder TH2-Zellen
+bestimmen.
+4.2.2
+
+Dendritische Zellen und Zytokine
+
+Dendritische Zellen zeigen eine stimulusabhängige Sekretion proinflammatorischer
+(TNFα, IL-6, IL-12) oder anti-inflammatorischer (IL-10) Zytokine. Als Antwort auf
+einen infektiösen Reiz, mit Bakterien oder Viren und dem Vorhandensein von
+Aktivierungssignalen der T-Lymphozyten, (Ligation von CD 40) findet eine
+Sekretion proinflammatorischer Zytokine statt [CELLA, 1996]. Im Gegensatz dazu
+kann die Behandlung mit TGF-ß zur Sekretion von IL-10 führen, welches die
+Aktivierung von T-Lymphozyten supprimiert [MITRA, 1995, KOCH, 1996,
+STEINBRINK, 1997, LIU, 1998 ]. In zahlreichen Studien konnte gezeigt werden,
+dass dendritische Zellen aus dem Knochenmark, aus dem peripheren Blut, aus der
+Milz und die Langerhans´schen Zellen der Haut IL-6 sezernieren können
+[SPARWASSER, 1998, SCHREIBER, 1992]. IL-6 besitzt Bedeutung bei der
+Differenzierung von T-Zellen und Stimulierung von Plasmazellen zur Produktion
+von Antikörpern [AKIRA, 1993, CERUTTI, 1998]. Ausser der Stimulation von
+Effektorzellen scheinen die Zytokine auch einen autokrinen Effekt auszuüben. IL-6
+hat einen Einfluss auf die Proliferation von Vorläufern dendritischer Zellen und
+erhöht die Antigenpräsentation von MHC Klasse II Moleküle [HACEIN-BEY, 2001,
+EPSTEIN, 1991, LYMAN, 1998, BERTHIER, 2000] . Ein weiteres wichtiges Zytokin,
+das von den dendritischen Zellen produziert werden kann ist TNFα [MORELLI,
+2001, ZHOU, 1995, RESCIGNO, 2000]. Es ist ein wichtiges proinflammatorisches
+Zytokin, welches eine Rolle bei der generellen Infektabwehr spielt und eine
+Ausreifung von dendritischen Zellen , Verstärkung der Expression von CD 80 und
+CD 86 und der MHC Klasse II Moleküle bewirkt [YAMAGUCHI, 1997]. Bei Mäusen,
+denen das Gen zur Produktion von TNF-α fehlt, erliegen früh verschiedensten
+Infektionen [LEHNER, 2002, EUGSTER, 1996]. Auffällig und pathologisch dabei ist
+
+4 DISKUSSION
+
+65
+
+das Ausbleiben einer Bildung von B-Follikeln in Lymphknoten und das Fehlen von
+follikulären dendritischen Zellen (FDC), welche für die Generierung einer
+Immunantwort eine übergeordnete Rolle spielen [PASPARAKIS, 1996]. Des
+weiteren ist bekannt, dass nicht voll ausgereifte dendritische Zellen weitaus mehr
+TNF-α produzieren als nach Ausreifung mit LPS oder anti-CD 40 Antikörpern
+[MORELLI, 2001]. Ein weiteres wichtiges von dendritischen Zellen sezerniertes
+Zytokin ist IL-12, welches als Heterodimer aus zwei Ketten Il-12p40 und IL-12p35
+aufgebaut ist. Es aktiviert in seiner bioaktiven Form (IL-12p70) T-Helferzellen und
+fördert darüber hinaus die Entwicklung einer Th1-Reaktion und einer zytotoxischen
+Immunreaktion, die vor allem für die Abwehr viraler und intrazellulär bakterieller
+Infektionen sowie bei der Bekämpfung von Tumoren Bedeutung besitzt [HUANG,
+2001,
+
+SHIMIZU,
+
+2001,
+
+MALDONADO-LOPEZ,
+
+2001,
+
+GRUFMAN,
+
+2000,
+
+TRINCHIERI, 1995, MACATONIA, 1995, HEUFLER, 1996]. IL-12 wird ebenfalls
+nach Stimulation von dendritischen Zellen sezerniert [JAKOB, 1999, MOSER,
+2000]. Einige Arbeitsgruppen haben sich mit der Möglichkeit der Hemmung der
+stimulierenden Eigenschaften der dendritischen Zellen befasst. Es konnte dabei
+beobachtet werden dass das Zytokin IL-10 einen hemmenden Einfluss auf die von
+dendritischen Zellen initiierte Immunreaktion hat. Eine Folge davon sind eine
+geringere Aktivität von Th1-Zellen und zytotoxischen T-Zellen, was sich unter
+anderem in einer Suppression der Immunantwort gegen Tumore oder eine
+schwächere Antwort gegen Infektionserreger zeigt [DE VRIES, 1995]. Es konnte in
+vitro nachgewiesen werden, dass unter IL-10 Einfluss die Funktion zytotoxischer TLymphozyten in der allogenen Leukozytenreaktion gehemmt wird [WANG, 1994].
+Einige Untersuchungen auf Zytokinebene zeigten, dass zum einen das für eine
+Th2-Antwort charakteristische Zytokin IL-4 verstärkt von T-Lymphozyten nach
+Aktivierung durch IL-10 behandelten dendritischen Zellen sezerniert wird [LIU,
+1998],
+
+zum anderen wird von IL-10 vorbehandelten dendritischen Zellen das
+
+Zytokin IL-12 in geringerer Menge produziert [HUANG, 2001, DE SMEDT, 1997].
+Des weiteren wird unter Einfluss von IL-10 die Aggregationsfähigkeit [QUIN, 1997]
+und die Antigenpräsentation gehemmt [FAULKNER, 2000, BEISSERT, 1995] und
+kostimulierende Oberflächenmarker werden vermindert exprimiert [OZAWA, 1996,
+DING, 1993]. Als intrazellulärer Mechanismus der Ligation des IL-10 Rezeptors
+konnte
+
+eine
+
+Erhöhung
+
+[KAMBAYASHI, 2001].
+
+des
+
+zyklischen
+
+AMP-Spiegels
+
+identifiziert
+
+werden
+
+4 DISKUSSION
+
+66
+
+Eine Reihe von Studien konnte zeigen, dass verschiedene Populationen von
+dendritischen Zellen unterschiedlich auf IL-10 reagieren und der immunsuppressive
+Effekt von IL-10 unter bestimmten Bedingungen weniger stark auf die Expression
+von MHC Klasse II Molekülen und CD 86 als auf die Zytokinsekretion wirken kann
+[HART, 1995].
+4.2.3
+
+Unterschiede im Zytokinexpressionsmuster bei den verschiedenen
+AML-Subtypen
+
+In der vorliegenden Arbeit wurden zwei verschiedene Subtypen nach der FABKlassifikation der AML untersucht, wobei es sich dabei um Leukämien vom Typ M4
+und M5 handelte, also ausschliesslich um die Form der monozytären Leukämien.
+Innerhalb
+
+dieser
+
+Subtypen
+
+konnten
+
+keine
+
+Unterschiede
+
+im
+
+Zytokinexpressionsmuster herausgefunden werden. Auffällig war, dass sich
+hinsichtlich der kostimulatorischen Moleküle CD 80 (B7-1) und CD86 (B7-2) eine
+Expression dieser auf dendritischen Zellen der AML-Blasten nachweisen liess,
+wobei sich der höchste Anteil bei B7-2 zeigte, im Verhältnis zu dem
+kostimulatorischem Molekül B7-1. In vorausgehenden zwei Arbeiten wurde die
+Verteilung von B7-2 innerhalb der FAB-Typen untersucht [HIRANO, 1996].In allen
+Arbeiten konnte sowie auch in dieser die häufigste Expression innerhalb der
+monozytären
+
+Leukämien
+
+festgestellt
+
+werden.
+
+Die
+
+bisher
+
+gängigen
+
+Isolationsmethoden von dendritischen Zellen aus Blut verwendeten verschiedene
+Kulturschritte als Teil der Isolation, wodurch der Zustand der dendritischen Zellen
+zum Zeitpunkt der Blutabnahme unbekannt war, da die Kulturschritte die Zellen
+verändern. Die lange Zeit klassische Methode zur Gewinnung von dendritischen
+Zellen war die Depletion von T-Zellen und adhärenten Zellen und folgende
+Dichtezentrifugation [TEDDER, 1997]. Neuere Methoden versuchen trotz der
+erniedrigten Zellzahlen dendritische Zellen direkt aus peripherem Blut zu isolieren
+und die Zwischenschritte in Kultur zu reduzieren. Ihnen ist gemeinsam, dass sie auf
+das Muster der Oberflächenmarker dendritischer Zellen aufbauen [ROMANI, 1996].
+Um welche Art dendritischer Zellen es sich in der vorliegenden Arbeit handelt, ist
+vor allem bei den Proben aus peripherem Blut nicht klar, denn es ist noch nicht
+genau bekannt, welche dendritische Zellen sich im peripheren Blut befinden und in
+
+4 DISKUSSION
+
+67
+
+welchen Stadien. Auch waren in dieser Arbeit die Reifestadien in den anderen
+Kulturmedien (murines Knochenmark und AML-Blasten) nicht näher durch
+Messung von bestimmten Oberflächenmarkern (CD 1a+ = unreife DC und CD83 =
+reife DC) untersucht worden. Die Angaben der Literatur über die Anzahl der
+dendritischen Zellen im zirkulierenden Blut variieren in nicht unerheblichem Maße,
+zumal auch kleine Unterschiede ins Gewicht fallen, da die absoluten Zahlen
+durchweg sehr gering sind. Die Prozentangaben von dendritischen Zellen in
+mononukleären Zellen hängen von unterschiedlichen Voraussetzungen ab. Die
+wichtigsten sind die Reinheit der Populationen und die Selektionskriterien der
+Isolationsmethode, das heißt welche dendritischen Zellen isoliert wurden. In den
+letzten Jahren konnte vor allem die Reinheit der isolierten dendritischen Zellen
+verbessert werden. Konnte man vor 1990 nur von einer Anreicherung von
+dendritischen Zellen sprechen, so konnten Freudenthal und Steinman et al. 1990
+eine Reinheit von 80-90% erzielen. Sie geben eine Häufigkeit von 0,1-1%
+dendritischer Zellen von PBMC an [FREUDENTHAL, 1990]. In der Arbeit von
+O’Doherty et al. werden die HLA-DR+, CD3-, CD14-, CD16-, CD19- Zellen mit
+einer Häufigkeit von 1% angegeben [O’DOHERTY, 1994]. Wird CD4 als
+Selektionsmarker hinzu genommen, so reduziert sich der Anteil auf 0,6% der
+mononukleären Zellen des peripheren Blutes; bei einer Reinheit von 96%
+[FERBAS, 1994].
+Zusammenfassend konnte in der vorliegenden Arbeit eine Differenzierung zu
+dendritischen Zellen aus AML-Blasten, aus murinem Knochenmark und aus
+Monozyten gesunder Spender gezeigt werden. Ein aussagekräftiges Ergebnis
+eines unterschiedlichen Zytokinexpressionsmuster dieser verschiedenen Medien
+konnte hierbei jedoch nicht gewonnen werden, welches Aussagen darüber
+erlauben könnte warum in Vorversuchen unserer Arbeitsgruppe die Fähigkeit zur
+spezifischen Zytotoxizität der dort differenzierten DC aus AML Blasten fehlte.
+Zwar ist die kleine Stichprobengrösse dieser Studie ein zu beachtendes Problem.
+Jedoch
+
+zeigen
+
+die
+
+immunsuppressorischen
+
+Befunde
+bzw.
+
+,
+
+dass
+eine
+
+eine
+
+vermehrte
+
+verminderte
+
+Expression
+Expression
+
+der
+der
+
+immunstimmulatorischen Zytokine wahrscheinlich nicht die Grundlage für die
+funktionelle Insuffizienz der AML-DC darstellt. Weitere Untersuchungen an
+grösseren Patientenkollektiven erscheinen angebracht, insbesondere mit dem Ziel,
+gezielt myeloide DC zu generieren. Gerade myeloide, dendritische Zellen haben
+
+4 DISKUSSION
+
+68
+
+ein hohes Potential für Vakzinierungsverfahren, im Sinne einer Immuntherapie als
+vierte Säule neben Operation, Bestrahlung und Chemotherapie, da sie eine höhere
+Fähigkeit zur Antigenaufnahme-und präsentation besitzen, als lymphoide DC.
+
+5 LITERATURVERZEICHNIS
+
+5
+
+69
+
+LITERATURVERZEICHNIS
+
+Adolf, G. R. (1987). "Antigenic structure of human interferon omega 1 (interferon
+alpha II1): comparison with other human interferons." J Gen Virol 68 ( Pt 6): 166976.
+Agostini, C., R. Zambello, et al. (1999). "CD8 T-cell infiltration in extravascular tissues of patients with human immunodeficiency virus infection. Interleukin-15 upmodulates costimulatory pathways involved in the antigen-presenting cells-T-cell
+interaction." Blood 93(4): 1277-86.
+Akira, S., T. Taga, et al. (1993). "Interleukin-6 in biology and medicine." Adv Immunol 54: 1-78.
+Allavena, P., L. Piemonti, et al. (1998). "IL-10 prevents the differentiation of monocytes to dendritic cells but promotes their maturation to macrophages." Eur J Immunol 28(1): 359-69.
+Ardavin, C., G. Martinez del Hoyo, et al. (2001). "Origin and differentiation of dendritic cells." Trends Immunol 22(12): 691-700.
+Ardavin, C., L. Wu, et al. (1993). "Mouse thymic dendritic cell subpopulations." Immunol Lett 38(1): 19-25.
+Armstrong, L., N. Jordan, et al. (1996). "Interleukin 10 (IL-10) regulation of tumour
+necrosis factor alpha (TNF-alpha) from human alveolar macrophages and peripheral blood monocytes." Thorax 51(2): 143-9.
+Assoian, R. K., A. Komoriya, et al. (1983). "Transforming growth factor-beta in human platelets. Identification of a major storage site, purification, and characterization." J Biol Chem 258(11): 7155-60.
+
+5 LITERATURVERZEICHNIS
+
+70
+
+Banchereau, J., F. Briere, et al. (2000). "Immunobiology of dendritic cells." Annu
+Rev Immunol 18: 767-811.
+Banchereau, J. and R. M. Steinman (1998). "Dendritic cells and the control of immunity." Nature 392(6673): 245-52.
+Beissert, S., J. Hosoi, et al. (1995). "IL-10 inhibits tumor antigen presentation by
+epidermal antigen-presenting cells." J Immunol 154(3): 1280-6.
+Bender, A., M. Sapp, et al. (1996). "Improved methods for the generation of dendritic cells from nonproliferating progenitors in human blood." J Immunol Methods
+196(2): 121-35.
+Berkman, N., M. John, et al. (1995). "Inhibition of macrophage inflammatory protein-1 alpha expression by IL-10. Differential sensitivities in human blood monocytes and alveolar macrophages." J Immunol 155(9): 4412-8.
+Bertagnolli, M. and S. Herrmann (1990). "IL-7 supports the generation of cytotoxic
+T lymphocytes from thymocytes. Multiple lymphokines required for proliferation and
+cytotoxicity." J Immunol 145(6): 1706-12.
+Berthier, R., C. Martinon-Ego, et al. (2000). "A two-step culture method starting with
+early growth factors permits enhanced production of functional dendritic cells from
+murine splenocytes." J Immunol Methods 239(1-2): 95-107.
+Boehm, U., T. Klamp, et al. (1997). "Cellular responses to interferon-gamma." Annu
+Rev Immunol 15: 749-95.
+Borish, L., A. Aarons, et al. (1996). "Interleukin-10 regulation in normal subjects
+and patients with asthma." J Allergy Clin Immunol 97(6): 1288-96.
+Bowers, W. E. and M. R. Berkowitz (1986). "Differentiation of dendritic cells in cultures of rat bone marrow cells." J Exp Med 163(4): 872-83.
+
+5 LITERATURVERZEICHNIS
+
+71
+
+Brown, M., J. Hu-Li, et al. (1988). "IL-4/B cell stimulatory factor 1 stimulates T cell
+growth by an IL-2-independent mechanism." J Immunol 141(2): 504-11.
+Brown, M. A., J. H. Pierce, et al. (1987). "B cell stimulatory factor-1/interleukin-4
+mRNA is expressed by normal and transformed mast cells." Cell 50(5): 809-18.
+Bruserud, O. (1999). "Acute myelogenous leukemia blasts as accessory cells during T lymphocyte activation: possible implications for future therapeutic strategies."
+Leukemia 13(8): 1175-87.
+Burd, P. R., H. W. Rogers, et al. (1989). "Interleukin 3-dependent and -independent
+mast cells stimulated with IgE and antigen express multiple cytokines." J Exp Med
+170(1): 245-57.
+Burmester, G., A. Pezzutto, (1998). Taschenatlas der Immunologie, Verlag Georg
+Thieme, Stuttgart, New York.
+Cannistra, S. A., P. Groshek, et al. (1989). "Granulocyte-macrophage colonystimulating factor enhances the cytotoxic effects of cytosine arabinoside in acute
+myeloblastic leukemia and in the myeloid blast crisis phase of chronic myeloid leukemia." Leukemia 3(5): 328-34.
+Cantrell, M. A., D. Anderson, et al. (1985). "Cloning, sequence, and expression of a
+human granulocyte/macrophage colony-stimulating factor." Proc Natl Acad Sci U S
+A 82(18): 6250-4.
+Carswell, E. A., L. J. Old, et al. (1975). "An endotoxin-induced serum factor that
+causes necrosis of tumors." Proc Natl Acad Sci U S A 72(9): 3666-70.
+Caux, C., C. Dezutter-Dambuyant, et al. (1992). "GM-CSF and TNF-alpha cooperate in the generation of dendritic Langerhans cells." Nature 360(6401): 258-61.
+
+5 LITERATURVERZEICHNIS
+
+72
+
+Cella, M., A. Engering, et al. (1997). "Inflammatory stimuli induce accumulation of
+MHC class II complexes on dendritic cells." Nature 388(6644): 782-7.
+Cella, M., F. Sallusto, et al. (1997). "Origin, maturation and antigen presenting function of dendritic cells." Curr Opin Immunol 9(1): 10-6.
+Cerutti, A., H. Zan, et al. (1998). "CD40 ligand and appropriate cytokines induce
+switching to IgG, IgA, and IgE and coordinated germinal center and plasmacytoid
+phenotypic differentiation in a human monoclonal IgM+IgD+ B cell line." J Immunol
+160(5): 2145-57.
+Cherwinski, H. M., J. H. Schumacher, et al. (1987). "Two types of mouse helper T
+cell clone. III. Further differences in lymphokine synthesis between Th1 and Th2
+clones revealed by RNA hybridization, functionally monospecific bioassays, and
+monoclonal antibodies." J Exp Med 166(5): 1229-44.
+Chomczynski, P. and N. Sacchi (1987). "Single-step method of RNA isolation by
+acid guanidinium thiocyanate-phenol-chloroform extraction." Anal Biochem 162(1):
+156-9.
+Choudhury, A., A. Toubert, et al. (1998). "Human leukemia-derived dendritic cells:
+ex-vivo development of specific antileukemic cytotoxicity." Crit Rev Immunol 18(12): 121-31.
+Cripe, L. D. (1997). "Adult acute leukemia." Curr Probl Cancer 21(1): 1-64.
+de Martin, R., B. Haendler, et al. (1987). "Complementary DNA for human glioblastoma-derived T cell surpressor factor, a novel member of the transforming growth
+factor beta gene family." EMBO J 6: 3673-3677.
+De Smedt, T., M. Van Mechelen, et al. (1997). "Effect of interleukin-10 on dendritic
+cell maturation and function." Eur J Immunol 27(5): 1229-35.
+
+5 LITERATURVERZEICHNIS
+
+73
+
+de Vries, J. E. (1995). "Immunosuppressive and anti-inflammatory properties of
+interleukin 10." Ann Med 27(5): 537-41.
+de Waal Malefyt, R., J. Abrams, et al. (1991). "Interleukin 10(IL-10) inhibits cytokine
+synthesis by human monocytes: an autoregulatory role of IL-10 produced by monocytes." J Exp Med 174(5): 1209-20.
+Demetri, G. D. and J. D. Griffin (1991). "Granulocyte colony-stimulating factor and
+its receptor." Blood 78(11): 2791-808.
+Derynck, R., J. A. Jarrett, et al. (1985). "Human transforming growth factor-beta
+complementary DNA sequence and expression in normal and transformed cells."
+Nature 316(6030): 701-5.
+Derynck, R., P. B. Lindquist, et al. (1988). "A new type of transforming growth factor-beta, TGF-beta 3." Embo J 7(12): 3737-43.
+Ding, L., P. S. Linsley, et al. (1993). "IL-10 inhibits macrophage costimulatory activity by selectively inhibiting the up-regulation of B7 expression." J Immunol 151(3):
+1224-34.
+Doherty, T. M., R. A. Seder, et al. (1996). "Induction and regulation of IL-15 expression in murine macrophages." J Immunol 156(2): 735-41.
+Egner, W. and D. N. Hart (1995). "The phenotype of freshly isolated and cultured
+human bone marrow allostimulatory cells: possible heterogeneity in bone marrow
+dendritic cell populations." Immunology 85(4): 611-20.
+Epstein, S. P., R. L. Baer, et al. (1991). "Effect of triggering epidermal Fc gamma
+receptors on the interleukin-2- and interleukin-6-induced upregulation of Ia antigen
+expression by murine epidermal Langerhans cells: the role of prostaglandins and
+cAMP." J Invest Dermatol 97(3): 461-72.
+
+5 LITERATURVERZEICHNIS
+
+74
+
+Erlich, H. A., D. Gelfand, et al. (1991). "Recent advances in the polymerase chain
+reaction." Science 252(5013): 1643-51.
+Eugster, H. P., M. Muller, et al. (1996). "Multiple immune abnormalities in tumor
+necrosis factor and lymphotoxin-alpha double-deficient mice." Int Immunol 8(1): 2336.
+Faulkner, L., G. Buchan, et al. (2000). "Interleukin-10 does not affect phagocytosis
+of particulate antigen by bone marrow-derived dendritic cells but does impair antigen presentation." Immunology 99(4): 523-31.
+Fehniger, T. A. and M. A. Caligiuri (2001). "Interleukin 15: biology and relevance to
+human disease." Blood 97(1): 14-32.
+Ferbas, J. J., J. F. Toso, et al. (1994). "CD4+ blood dendritic cells are potent producers of IFN-alpha in response to in vitro HIV-1 infection." J Immunol 152(9):
+4649-62.
+
+Fink, L., W. Seeger, et al. (1998). "Real-time quantitative RT-PCR after laserassisted cell picking." Nat Med 4(11): 1329-33.
+
+Fiorentino, D. F., A. Zlotnik, et al. (1991). "IL-10 inhibits cytokine production by activated macrophages." J Immunol 147(11): 3815-22.
+Foa, R. (1993). "Does interleukin-2 have a role in the management of acute leukemia?" J Clin Oncol 11(9): 1817-25.
+Freudenthal, P. S. and R. M. Steinman (1990). "The distinct surface of human
+blood dendritic cells, as observed after an improved isolation method." Proc Natl
+Acad Sci U S A 87(19): 7698-702.
+
+5 LITERATURVERZEICHNIS
+
+75
+
+Gasson, J. C., R. H. Weisbart, et al. (1984). "Purified human granulocytemacrophage colony-stimulating factor: direct action on neutrophils." Science
+226(4680): 1339-42.
+Gately, M. K., B. B. Desai, et al. (1991). "Regulation of human lymphocyte proliferation by a heterodimeric cytokine, IL-12 (cytotoxic lymphocyte maturation factor)." J
+Immunol 147(3): 874-82.
+Geijtenbeek, T. B., R. Torensma, et al. (2000). "Identification of DC-SIGN, a novel
+dendritic cell-specific ICAM-3 receptor that supports primary immune responses."
+Cell 100(5): 575-85.
+Germann, T., M. K. Gately, et al. (1993). "Interleukin-12/T cell stimulating factor, a
+cytokine with multiple effects on T helper type 1 (Th1) but not on Th2 cells." Eur J
+Immunol 23(8): 1762-70.
+Gluckman, J. C., B. Canque, et al. (1997). "In vitro generation of human dendritic
+cells and cell therapy." Cytokines Cell Mol Ther 3(3): 187-96.
+Gordon, S. (1999). "Macrophage-restricted molecules: role in differentiation and
+activation." Immunol Lett 65(1-2): 5-8.
+Grabbe, S., E. Kampgen, et al. (2000). "Dendritic cells: multi-lineal and multifunctional." Immunol Today 21(9): 431-3.
+Grouard, G., I. Durand, et al. (1996). "Dendritic cells capable of stimulating T cells
+in germinal centres." Nature 384(6607): 364-7.
+
+Grouard, G., M. C. Rissoan, et al. (1997). "The enigmatic plasmacytoid T cells develop into dendritic cells with interleukin (IL)-3 and CD40-ligand." J Exp Med
+185(6): 1101-11.
+
+5 LITERATURVERZEICHNIS
+
+76
+
+Grufman, P. and K. Karre (2000). "Innate and adaptive immunity to tumors: IL-12 is
+required for optimal responses." Eur J Immunol 30(4): 1088-93.
+Hacein-Bey, S., F. Gross, et al. (2001). "Optimization of retroviral gene transfer
+protocol to maintain the lymphoid potential of progenitor cells." Hum Gene Ther
+12(3): 291-301.
+Harrison, B. D., J. A. Adams, et al. (2001). "Stimulation of autologous proliferative
+and cytotoxic T-cell responses by "leukemic dendritic cells" derived from blast cells
+in acute myeloid leukemia." Blood 97(9): 2764-71.
+Hart, D. N. (1997). "Dendritic cells: unique leukocyte populations which control the
+primary immune response." Blood 90(9): 3245-87.
+Hart, P. H., M. J. Ahern, et al. (1995). "Comparison of the suppressive effects of
+interleukin-10 and interleukin-4 on synovial fluid macrophages and blood monocytes from patients with inflammatory arthritis." Immunology 84(4): 536-42.
+Haynes, B. F. and L. P. Hale (1999). "Thymic function, aging, and AIDS." Hosp
+Pract (Off Ed) 34(3): 59-60, 63-5, 69-70, passim.
+Heufler, C., F. Koch, et al. (1996). "Interleukin-12 is produced by dendritic cells and
+mediates T helper 1 development as well as interferon-gamma production by T
+helper 1 cells." Eur J Immunol 26(3): 659-68.
+Higuchi, M., N. Higashi, et al. (1990). "Cytolytic mechanisms of activated macrophages. Tumor necrosis factor and L-arginine-dependent mechanisms act synergistically as the major cytolytic mechanisms of activated macrophages." J Immunol
+144(4): 1425-31.
+Higuchi, R., G. Dollinger, et al. (1992). "Simultaneous amplification and detection of
+specific DNA sequences." Biotechnology (N Y) 10(4): 413-7.
+
+5 LITERATURVERZEICHNIS
+
+77
+
+Howard, M., J. Farrar, et al. (1982). "Identification of a T cell-derived b cell growth
+factor distinct from interleukin 2." J Exp Med 155(3): 914-23.
+Huang, L. Y., C. Reis e Sousa, et al. (2001). "IL-12 induction by a TH1-inducing
+adjuvant in vivo: dendritic cell subsets and regulation by IL-10." J Immunol 167(3):
+1423-30.
+Hu-Li, J., E. M. Shevach, et al. (1987). "B cell stimulatory factor 1 (interleukin 4) is a
+potent costimulant for normal resting T lymphocytes." J Exp Med 165(1): 157-72.
+Ibelgaufts, H., (1995). Dictionary of Cytokines. Verlag Chemie, Weinheim.
+Inaba, K., M. Inaba, et al. (1993). "Granulocytes, macrophages, and dendritic cells
+arise from a common major histocompatibility complex class II-negative progenitor
+in mouse bone marrow." Proc Natl Acad Sci U S A 90(7): 3038-42.
+Inaba, K., M. Inaba, et al. (1992). "Generation of large numbers of dendritic cells
+from mouse bone marrow cultures supplemented with granulocyte/macrophage
+colony-stimulating factor." J Exp Med 176(6): 1693-702.
+Inaba, K., R. M. Steinman, et al. (1992). "Identification of proliferating dendritic cell
+precursors in mouse blood." J Exp Med 175(5): 1157-67.
+Jakob, T., P. S. Walker, et al. (1999). "Bacterial DNA and CpG-containing oligodeoxynucleotides activate cutaneous dendritic cells and induce IL-12 production: implications for the augmentation of Th1 responses." Int Arch Allergy Immunol 118(24): 457-61.
+Janeway, C. A., Jr. and R. A. Flavell (1999). "Immunology at Yale." Immunol Res
+19(2-3): 105-6.
+Jonuleit, H., E. Schmitt, et al. (2001). "Dendritic cells as a tool to induce anergic
+and regulatory T cells." Trends Immunol 22(7): 394-400.
+
+5 LITERATURVERZEICHNIS
+
+78
+
+Kambayashi, T., R. P. Wallin, et al. (2001). "cAMP-elevating agents suppress dendritic cell function." J Leukoc Biol 70(6): 903-10.
+Kato, T., T. Inoue, et al. (1992). "Induction of IL-2 receptor expression and proliferation of T cell clones by a novel cytokine(s)." Cell Immunol 142(1): 79-93.
+Kishimoto, T. (1989). "The biology of interleukin-6." Blood 74(1): 1-10.
+Koch, F., U. Stanzl, et al. (1996). "High level IL-12 production by murine dendritic
+cells: upregulation via MHC class II and CD40 molecules and downregulation by IL4 and IL-10." J Exp Med 184(2): 741-6.
+Kolb, H. J. (1998). "Donor leukocyte transfusions for treatment of leukemic relapse
+after bone marrow transplantation. EBMT Immunology and Chronic Leukemia
+Working Parties." Vox Sang 74 Suppl 2: 321-9.
+Komschlies, K. L., T. A. Gregorio, et al. (1994). "Administration of recombinant human IL-7 to mice alters the composition of B-lineage cells and T cell subsets, enhances T cell function, and induces regression of established metastases." J Immunol 152(12): 5776-84.
+Krause, H., B. Jandrig, et al. (1996). "Genomic structure and chromosomal localization of the human interleukin 15 gene (IL-15)." Cytokine 8(9): 667-74.
+Kunkel, S. L., T. Standiford, et al. (1991). "Interleukin-8 (IL-8): the major neutrophil
+chemotactic factor in the lung." Exp Lung Res 17(1): 17-23.
+Larsen, C. G., A. O. Anderson, et al. (1989). "The neutrophil-activating protein
+(NAP-1) is also chemotactic for T lymphocytes." Science 243(4897): 1464-6.
+Lehner, M. D., F. Schwoebel, et al. (2002). "Mitogen-activated protein kinaseactivated protein kinase 2-deficient mice show increased susceptibility to Listeria
+monocytogenes infection." J Immunol 168(9): 4667-73.
+
+5 LITERATURVERZEICHNIS
+
+79
+
+Liu, L., B. E. Rich, et al. (1998). "Induction of Th2 cell differentiation in the primary
+immune response: dendritic cells isolated from adherent cell culture treated with IL10 prime naive CD4+ T cells to secrete IL-4." Int Immunol 10(8): 1017-26.
+Löwenberg, B., JR Downing, et al. (1994). "Acute myeloid leukemia." N. Engl. J.
+Med 341: 1051-1062.
+Löwenberg, B., IP Touw (1993). "Hematopoietic growth factors and their receptors
+in acute leukemia." Blood 81: 281-292.
+Lowenberg, B., J. R. Downing, et al. (1999). "Acute myeloid leukemia." N Engl J
+Med 341(14): 1051-62.
+Lowenthal, J. W., B. E. Castle, et al. (1988). "Expression of high affinity receptors
+for murine interleukin 4 (BSF-1) on hemopoietic and nonhemopoietic cells." J Immunol 140(2): 456-64.
+Lyman, S. D. and S. E. Jacobsen (1998). "c-kit ligand and Flt3 ligand:
+stem/progenitor cell factors with overlapping yet distinct activities." Blood 91(4):
+1101-34.
+Ma, A., D. L. Boone, et al. (2000). "The pleiotropic functions of interleukin 15: not
+so interleukin 2-like after all." J Exp Med 191(5): 753-6.
+Macatonia, S. E., N. A. Hosken, et al. (1995). "Dendritic cells produce IL-12 and
+direct the development of Th1 cells from naive CD4+ T cells." J Immunol 154(10):
+5071-9.
+Männel, D. N.., R. N. Moore, et al. (1990). "Macrophages as a source of tumoricidal
+activity (tumor-necrotizing factor). Infec. Imm.: 30, 523-530.
+
+5 LITERATURVERZEICHNIS
+
+80
+
+Maldonado-Lopez, R., C. Maliszewski, et al. (2001). "Cytokines regulate the capacity of CD8alpha(+) and CD8alpha(-) dendritic cells to prime Th1/Th2 cells in vivo." J
+Immunol 167(8): 4345-50.
+Matsushima, K. and J. J. Oppenheim (1989). "Interleukin 8 and MCAF: novel inflammatory cytokines inducible by IL 1 and TNF." Cytokine 1(1): 2-13.
+Mattei, F., G. Schiavoni, et al. (2001). "IL-15 is expressed by dendritic cells in response to type I IFN, double-stranded RNA, or lipopolysaccharide and promotes
+dendritic cell activation." J Immunol 167(3): 1179-87.
+Mitra, R. S., T. A. Judge, et al. (1995). "Psoriatic skin-derived dendritic cell function
+is inhibited by exogenous IL-10. Differential modulation of B7-1 (CD80) and B7-2
+(CD86) expression." J Immunol 154(6): 2668-77.
+Mohamadzadeh, M., F. Berard, et al. (2001). "Interleukin 15 skews monocyte differentiation into dendritic cells with features of Langerhans cells." J Exp Med
+194(7): 1013-20.
+Morelli, A. E., A. F. Zahorchak, et al. (2001). "Cytokine production by mouse myeloid dendritic cells in relation to differentiation and terminal maturation induced by
+lipopolysaccharide or CD40 ligation." Blood 98(5): 1512-23.
+Morrissey, P. J., P. Conlon, et al. (1991). "Administration of IL-7 to normal mice
+stimulates B-lymphopoiesis and peripheral lymphadenopathy." J Immunol 147(2):
+561-8.
+Moser, M. and K. M. Murphy (2000). "Dendritic cell regulation of TH1-TH2 development." Nat Immunol 1(3): 199-205.
+Mosmann, T. R., H. Cherwinski, et al. (1986). "Two types of murine helper T cell
+clone. I. Definition according to profiles of lymphokine activities and secreted proteins." J Immunol 136(7): 2348-57.
+
+5 LITERATURVERZEICHNIS
+
+81
+
+Mothy, M., D. Jarrossay, et al. (2001). "Circulating blood dendritic cells from myeloid leukemia patients display quantitative and cytogenic abnormalities as well as
+functional impairment." Blood 88: 2450-2457.
+Mullis, K. B. and F. A. Faloona (1987). "Specific synthesis of DNA in vitro via a polymerase-catalyzed chain reaction." Methods Enzymol 155: 335-50.
+Oblakowski, P., C. Bello-Fernandez, et al. (1991). "Possible mechanism of selective killing of myeloid leukemic blast cells by lymphokine-activated killer cells."
+Blood 77(9): 1996-2001.
+O'Doherty, U., M. Peng, et al. (1994). "Human blood contains two subsets of dendritic cells, one immunologically mature and the other immature." Immunology
+82(3): 487-93.
+Oehler, L., O. Majdic, et al. (1998). "Neutrophil granulocyte-committed cells can be
+driven to acquire dendritic cell characteristics." J Exp Med 187(7): 1019-28.
+Ohara, J. and W. E. Paul (1987). "Receptors for B-cell stimulatory factor-1 expressed on cells of haematopoietic lineage." Nature 325(6104): 537-40.
+Ohteki, T., S. Ho, et al. (1997). "Role for IL-15/IL-15 receptor beta-chain in natural
+killer 1.1+ T cell receptor-alpha beta+ cell development." J Immunol 159(12): 59315.
+Olweus, J., A. BitMansour, et al. (1997). "Dendritic cell ontogeny: a human dendritic
+cell lineage of myeloid origin." Proc Natl Acad Sci U S A 94(23): 12551-6.
+Onu, A., T. Pohl, et al. (1997). "Regulation of IL-15 secretion via the leader peptide
+of two IL-15 isoforms." J Immunol 158(1): 255-62.
+
+5 LITERATURVERZEICHNIS
+
+82
+
+Ozawa, H., S. Aiba, et al. (1996). "Interferon-gamma and interleukin-10 inhibit antigen presentation by Langerhans cells for T helper type 1 cells by suppressing their
+CD80 (B7-1) expression." Eur J Immunol 26(3): 648-52.
+Palucka, K. A., N. Taquet, et al. (1998). "Dendritic cells as the terminal stage of
+monocyte differentiation." J Immunol 160(9): 4587-95.
+Pasparakis, M., L. Alexopoulou, et al. (1996). "Immune and inflammatory responses in TNF alpha-deficient mice: a critical requirement for TNF alpha in the
+formation of primary B cell follicles, follicular dendritic cell networks and germinal
+centers, and in the maturation of the humoral immune response." J Exp Med
+184(4): 1397-411.
+Paul W.E., (1999): "Cytokines and interferons and their receptors". Fundamental
+Immunology, 4 ed. Hrsg: Paul W.E., New York: Raven Press Ltd., 751-758
+
+Peters, J. H., R. Gieseler, et al. (1996). "Dendritic cells: from ontogenetic orphans
+to myelomonocytic descendants." Immunol Today 17(6): 273-8.
+Plaut, M., J. H. Pierce, et al. (1989). "Mast cell lines produce lymphokines in response to cross-linkage of Fc epsilon RI or to calcium ionophores." Nature
+339(6219): 64-7.
+Qin, Z., G. Noffz, et al. (1997). "Interleukin-10 prevents dendritic cell accumulation
+and vaccination with granulocyte-macrophage colony-stimulating factor genemodified tumor cells." J Immunol 159(2): 770-6.
+Randolph, G. J., S. Beaulieu, et al. (1998). "A physiologic function for pglycoprotein (MDR-1) during the migration of dendritic cells from skin via afferent
+lymphatic vessels." Proc Natl Acad Sci U S A 95(12): 6924-9.
+
+5 LITERATURVERZEICHNIS
+
+83
+
+Reddy, A., M. Sapp, et al. (1997). "A monocyte conditioned medium is more effective than defined cytokines in mediating the terminal maturation of human dendritic
+cells." Blood 90(9): 3640-6.
+Reid, C. D., A. Stackpoole, et al. (1992). "Interactions of tumor necrosis factor with
+granulocyte-macrophage colony-stimulating factor and other cytokines in the regulation of dendritic cell growth in vitro from early bipotent CD34+ progenitors in human bone marrow." J Immunol 149(8): 2681-8.
+Rescigno, M., V. Piguet, et al. (2000). "Fas engagement induces the maturation of
+dendritic cells (DCs), the release of interleukin (IL)-1beta, and the production of
+interferon gamma in the absence of IL-12 during DC-T cell cognate interaction: a
+new role for Fas ligand in inflammatory responses." J Exp Med 192(11): 1661-8.
+Rissoan, M. C., V. Soumelis, et al. (1999). "Reciprocal control of T helper cell and
+dendritic cell differentiation." Science 283(5405): 1183-6.
+Roitt, I., J. Brostoff, et al. (2001). "Immunology." Mosby-Harcourt Publishers, Sixth
+Edition.
+Roberts, A. B., P. Kondaiah, et al. (1990). "Mesoderm induction in Xenopus laevis
+distinguishes between the various TGF-beta isoforms." Growth Factors 3(4): 27786.
+Romani, N., S. Gruner, et al. (1994). "Proliferating dendritic cell progenitors in
+human blood." J. Exp. Med. 180: 83-91.
+
+Romani, N., D. Reider, et al. (1996). "Generation of mature dendritic cells from human blood. An improved method with special regard to clinical applicability." J Immunol Methods 196(2): 137-51.
+
+5 LITERATURVERZEICHNIS
+
+84
+
+Rubin, B. Y. and S. L. Gupta (1980). "Differential efficacies of human type I and
+type II interferons as antiviral and antiproliferative agents." Proc Natl Acad Sci U S
+A 77(10): 5928-32.
+Ruckert, R., K. Asadullah, et al. (2000). "Inhibition of keratinocyte apoptosis by IL15: a new parameter in the pathogenesis of psoriasis?" J Immunol 165(4): 2240-50.
+Saikh, K. U., A. S. Khan, et al. (2001). "IL-15-induced conversion of monocytes to
+mature dendritic cells." Clin Exp Immunol 126(3): 447-55.
+Sallusto, F. and A. Lanzavecchia (1994). "Efficient presentation of soluble antigen
+by cultured human dendritic cells is maintained by granulocyte/macrophage colonystimulating factor plus interleukin 4 and downregulated by tumor necrosis factor
+alpha." J Exp Med 179(4): 1109-18.
+Scheicher, C., M. Mehlig, et al. (1992). "Dendritic cells from mouse bone marrow: in
+vitro differentiation using low doses of recombinant granulocyte-macrophage colony-stimulating factor." J Immunol Methods 154(2): 253-64.
+Schirmacher, V., (1997). "Tumor vaccines and active specific immunotherapy."
+Internist (Berl) 38(11): 1050-1054
+Schrader, J. W. (1986). "The panspecific hemopoietin of activated T lymphocytes
+(interleukin-3)." Annu Rev Immunol 4: 205-30.
+Schreiber, S., O. Kilgus, et al. (1992). "Cytokine pattern of Langerhans cells isolated from murine epidermal cell cultures." J Immunol 149(11): 3524-34.
+Schuler, G. and R. M. Steinman (1997). "Dendritic cells as adjuvants for immunemediated resistance to tumors." J Exp Med 186(8): 1183-7.
+
+5 LITERATURVERZEICHNIS
+
+85
+
+Shimizu, T., A. Berhanu, et al. (2001). "Interleukin-12 transduced dendritic cells
+induce regression of established murine neuroblastoma." J Pediatr Surg 36(8):
+1285-92.
+Sparwasser, T., E. S. Koch, et al. (1998). "Bacterial DNA and immunostimulatory
+CpG oligonucleotides trigger maturation and activation of murine dendritic cells."
+Eur J Immunol 28(6): 2045-54.
+Steinbrink, K., M. Wolfl, et al. (1997). "Induction of tolerance by IL-10-treated dendritic cells." J Immunol 159(10): 4772-80.
+Steinman, R. M., J. C. Adams, et al. (1975). "Identification of a novel cell type in
+peripheral lymphoid organs of mice. IV. Identification and distribution in mouse
+spleen." J Exp Med 141(4): 804-20.
+Steinman, R. M. and Z. A. Cohn (1973). "Identification of a novel cell type in peripheral lymphoid organs of mice. I. Morphology, quantitation, tissue distribution." J
+Exp Med 137(5): 1142-62.
+Steinman, R. M. and Z. A. Cohn (1974). "Identification of a novel cell type in peripheral lymphoid organs of mice. II. Functional properties in vitro." J Exp Med
+139(2): 380-97.
+Stone, R. M., D. T. Berg, et al. (1995). "Granulocyte-macrophage colonystimulating factor after initial chemotherapy for elderly patients with primary acute
+myelogenous leukemia. Cancer and Leukemia Group B." N Engl J Med 332(25):
+1671-7.
+Strieter, R. M., R. Wiggins, et al. (1989). "Monocyte chemotactic protein gene expression by cytokine-treated human fibroblasts and endothelial cells." Biochem
+Biophys Res Commun 162(2): 694-700.
+
+5 LITERATURVERZEICHNIS
+
+86
+
+Stuart, P. M., A. Zlotnik, et al. (1988). "Induction of class I and class II MHC antigen
+expression on murine bone marrow-derived macrophages by IL-4 (B cell stimulatory factor 1)." J Immunol 140(5): 1542-7.
+Takeda, S., S. Gillis, et al. (1989). "In vitro effects of recombinant interleukin 7 on
+growth and differentiation of bone marrow pro-B- and pro-T-lymphocyte clones and
+fetal thymocyte clones." Proc Natl Acad Sci U S A 86(5): 1634-8.
+Tedder, T. F., J. Tuscano, et al. (1997). "CD22, a B lymphocyte-specific adhesion
+molecule that regulates antigen receptor signaling." Annu Rev Immunol 15: 481504.
+ten Dijke, P., P. Hansen, et al. (1988). "Identification of another member of the
+transforming growth factor type beta gene family." Proc Natl Acad Sci U S A
+85(13): 4715-9.
+Terpstra, W. and B. Lowenberg (1997). "Application of myeloid growth factors in
+the treatment of acute myeloid leukemia." Leukemia 11(3): 315-27.
+Terstappen, L. W. and M. R. Loken (1988). "Five-dimensional flow cytometry as a
+new approach for blood and bone marrow differentials." Cytometry 9(6): 548-56.
+Thurner, B., I. Haendle, et al. (1999). "Vaccination with mage-3A1 peptide-pulsed
+mature, monocyte-derived dendritic cells expands specific cytotoxic T cells and
+induces regression of some metastases in advanced stage IV melanoma." J Exp
+Med 190(11): 1669-78.
+Trenn, G., H. Takayama, et al. (1988). "B cell stimulatory factor 1 (IL-4) enhances
+the development of cytotoxic T cells from Lyt-2+ resting murine T lymphocytes." J
+Immunol 140(4): 1101-6.
+
+5 LITERATURVERZEICHNIS
+
+87
+
+Trinchieri, G. (1995). "Interleukin-12: a proinflammatory cytokine with immunoregulatory functions that bridge innate resistance and antigen-specific adaptive immunity." Annu Rev Immunol 13: 251-76.
+van den Broek, M. F., U. Muller, et al. (1995). "Immune defence in mice lacking
+type I and/or type II interferon receptors." Immunol Rev 148: 5-18.
+Vremec, D., M. Zorbas, et al. (1992). "The surface phenotype of dendritic cells purified from mouse thymus and spleen: investigation of the CD8 expression by a subpopulation of dendritic cells." J Exp Med 176(1): 47-58.
+Wang, P., P. Wu, et al. (1994). "IL-10 inhibits transcription of cytokine genes in human peripheral blood mononuclear cells." J Immunol 153(2): 811-6.
+Widmer, M. B. and K. H. Grabstein (1987). "Regulation of cytolytic T-lymphocyte
+generation by B-cell stimulatory factor." Nature 326(6115): 795-8.
+Wong, G. G., J. S. Witek, et al. (1985). "Human GM-CSF: molecular cloning of the
+complementary DNA and purification of the natural and recombinant proteins." Science 228(4701): 810-5.
+Yamaguchi, Y., H. Tsumura, et al. (1997). "Contrasting effects of TGF-beta 1 and
+TNF-alpha on the development of dendritic cells from progenitors in mouse bone
+marrow." Stem Cells 15(2): 144-53.
+Zhou, L. J. and T. F. Tedder (1995). "A distinct pattern of cytokine gene expression
+by human CD83+ blood dendritic cells." Blood 86(9): 3295-301.

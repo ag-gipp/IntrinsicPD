@@ -1,0 +1,6969 @@
+Aus dem Universitätsklinikum Münster
+Institut für Physiologie I
+-Geschäftsführender Direktor: Univ.-Prof. Dr. Hans-Christian Pape-
+
+Wirkung vom Fieber als Auslöser epileptischer Aktivitäten
+in kombinierten Hirnschnitten von juvenilen Ratten.
+
+INAUGURAL - DISSERTATION
+zur
+Erlangung des doctor medicinae dentium
+der Medizinischen Fakultät
+der Westfälischen Wilhelms-Universität Münster
+
+vorgelegt von Macht, Alexandra
+aus Omsk (Russland)
+2011
+
+Gedruckt mit Genehmigung der Medizinischen Fakultät der
+Westfälischen Wilhelms-Universität Münster
+
+Dekan: Univ. -Prof. Dr. med. Wilhelm Schmitz
+1. Berichterstatter: Prof. Dr. med. Ali Gorji
+2. Berichterstatter: Prof. Dr. med. Christoph Greiner
+Tag der mündlichen Prüfung: 11.04.2011
+
+Aus dem Universitätsklinikum Münster
+Institut für Physiologie I
+-Geschäftsführender Direktor: Univ.-Prof. Dr. Hans-Christian PapeReferent: Prof. Dr. med. Ali Gorji
+Koreferent: Univ.-Prof. Dr. Christoph Greiner
+
+ZUSAMMENFASSUNG
+Wirkung vom Fieber als Auslöser epileptischer Aktivitäten in
+kombinierten Hirnschnitten von juvenilen Ratten.
+Alexandra Macht
+Das Ziel der vorliegenden Arbeit war es zu untersuchen, inwieweit eine künstlich
+herbeigeführte
+
+Hyperthermie,
+
+unterschiedlichen Alter
+
+also
+
+auch
+
+Fieber,
+
+in
+
+juvenilen
+
+Ratten
+
+vom
+
+zu einer Veränderung zellulärer Erregbarkeit führen kann.
+
+Akuter (sofortiger) und chronischer (vier Wochen nach Fieber- Auslösung) Effekt eines
+Fieberkrampfes sollte in Bezug auf die Schwele der Auslösbarkeit der SD und
+epileptiformer
+demonstrierten
+
+Feldpotentiale
+
+beobachtet
+
+werden.
+
+In
+
+unserem
+
+Experiment
+
+Tiere im Alter von 18 bis 24 Tagen eine signifikant höhere
+
+Epilepsiebereitschaft sowohl direkt, als auch vier Wochen nach dem Fieber im
+Vergleich zu den anderen Altersgruppen. Als Zeichen einer leichteren Auslösbarkeit
+von SD nach der Hyperthermiebehandlung fand sich eine Abnahme der Latenz.
+Bezüglich der elektrophysiologischen Charakteristika von SD zeigte sich eine
+signifikante Zunahme der Dauer des negativen Feldpotentials. Die zunehmende Dauer
+von SD und die damit einhergehenden Ionenverschiebungen weisen auf eine
+pathologische Veränderungen hin. Als Zeichen einer neuronalen Störung konnte eine
+Abnahme
+
+der
+
+Feldpotentialamplitude
+
+dargestellten konnte
+
+beobachtet
+
+werden.
+
+Nach
+
+dem
+
+bisher
+
+gezeigt werden, dass die Fähigkeit bzw. Bereitschaft zum
+
+Auslösen epileptischer Aktivität altersabhängig und während der Ontogenese der
+Hirngewebe bei den Ratten hoch ist. Und eine Hyperthermie bzw. Fieber, kann vor
+allem während der Ontogenese zu einer Veränderung zellulärer Erregbarkeit führen.
+Die neuronalen
+
+Veränderungen, die
+
+auch lang anhaltend auftreten, tragen zur
+
+Manifestation einer Temporallappenepilepsie bei.
+
+Tag der mündlichen Prüfung: 11.04.2011
+Die tierexperimentelle Arbeit wurde vom Regierungspräsidenten Münster im
+Schreiben von 19.02.2002 (Aktenzeichen 50.0835.1.0 (G 79/2002)) genehmigt.
+
+In Liebe
+meinem Ehemann und meinen Eltern
+
+Inhaltsverzeichnis
+1.Einleitung..........................................................................................................1
+1.1.Entdeckung der Cortical Speading Depression..........................................1
+1.1.1 Theoretische Aspekte zu Entstehungs- und
+Ausbreitungsmechanismen der Spreading Depression.......................................3
+1.1.2 Allgemeine Eigenschaften der SD.....................................................6
+1.1. 3 Elektrophysiologische Eigenschaften der SD...................................7
+1.1.4 Ionenverteilung während der SD.......................................................9
+1.1.5 Klinische Relevanz von SD..............................................................11
+1.1.6 Interaktion zwischen SD und epileptischen Entladungen................12
+1.1.7 Hyperthermie induziert epileptische Entladungen und SD...............14
+1.2 Fieberkrampf.............................................................................................15
+1.2.1 Definition..........................................................................................15
+1.2.2 Pathogenese....................................................................................16
+1.2.3 Symptomatik....................................................................................18
+1.2.4 Temporallappenepilepsie.................................................................19
+1.2.5 Pathologie der Ammonshornsklerose..............................................20
+1.3 Zielsetzung...............................................................................................22
+
+2. Material und Methoden..................................................................................23
+2.1 Hyperthermiemodell.................................................................................23
+2.2 Präparationsmethode...............................................................................24
+2.3 Versuchsaufbau.......................................................................................26
+
+2.3.1 Interface-Messkammer...................................................................26
+2.3.2 Extrazelluläre Signalableitung.........................................................28
+2.4 Versuchsprotokolle...................................................................................29
+2.4.1 Methode 1.......................................................................................30
+2.4.2 Methode 2.......................................................................................30
+2.4.3 Versuchsreihe 1 (ohne Hyperthermie)............................................31
+2.4.4 Versuchsreihe 2..............................................................................31
+2.4.5 Versuchsreihe 3.......................................................................32
+2.5 Auswertung.............................................................................................34
+
+3. Ergebnisse.....................................................................................................37
+3.1 Kontrollversuche.....................................................................................37
+3.2. Wirkung der akuten und chronischen Hyperthermie auf die Erregbarkeit
+des Hirngewebes von juvenilen Ratten..............................................................46
+3.2.1 Auslösung der SD und EFP durch Superfusion von reduziertem
+NaCl (50%) in ACSF-Lösung............................................................................46
+3.2.1 Auslösung der SD und EFP durch extrazelluläre Tropfenapplikation einer 2mmol/l Kcl-Lösung...............................................59
+3.3 Ausbreitung von SD................................................................................70
+
+4. Diskussion......................................................................................................71
+
+5.Zusammenfassung.........................................................................................79
+
+6.Literaturverzeichnis.........................................................................................81
+
+7.CurriculumVitae...............................................................................................99
+
+8. Anhang......................................................................................................I
+8.1 Abbildungsverzeichnis................................................................................I
+8.2 Tabellenverzeichnis...................................................................................V
+8.3 Abkürzungsverzeichnis............................................................................VI
+
+9. Danksagung..................................................................................................VII
+
+1. Einleitung
+
+1.1 Entdeckung der Cortical Speading Depression
+Das zentrale Nervensystem ist sehr komplex und erfüllt in einem
+Lebewesen verschiedene Aufgaben:- Integration aller sensiblen Reize,
+die ihm von innerhalb oder außerhalb des Organismus zugeleitet werden
+(sogenannten
+
+Afferenzen),
+
+-Koordination
+
+sämtlicher
+
+motorischer
+
+Eigenleistungen des Gesamtorganismus, -Regulation aller dabei parallel
+ablaufenden Abstimmungsvorgänge zwischen den organismeigenen
+Subsystemen oder Organen, die im Körper von großer Notwendigkeit
+sind. Alle komplexeren Lebewesen benötigen ein System mit diesen
+Funktionen. Zugleich gibt es aber auch Phänomene, bei denen man bis
+Heute nicht genau weiß welchen Zweck sie haben. Ein Beispiel für ein
+bekanntes Phänomene ist die Spreading Depression (SD). Nach allen bis
+heute bekannten Fakten ist die SD eine Antwort des Nervensystems auf
+einen
+
+pathologischen
+
+Stimulus.
+
+Die
+
+genaue
+
+Untersuchung
+
+der
+
+Mechanismen der SD-Entstehung kann sehr hilfreich für die Behandlung
+von Patienten mit Epilepsie, Migräne oder nach Schlaganfall sein.
+Im Jahre 1941 beschrieb der amerikanische Neuropsychologe Lashley
+seine eigenen visuellen Migräneaura, welche sich typischerweise vor
+dem Auftreten von Migränekopfschmerzen entwickelten. Die Symptome,
+die er beschrieb begannen im Zentrum des Sehens und breiteten sich
+von dort in die Peripherie seines Gesichtsfeldes aus, innerhalb von einem
+Zeitraum von 10 bis 40 Minuten und mit einer
+
+Ausbreitungs-
+
+geschwindigkeit mit etwa 2-3 mm/min. Er interpretierte dieses Phänomen
+als eine Welle neuronaler Überregungen, gefolgt von neuronaler
+1
+
+Inhibition, die sich mit 3 mm/min über den visuellen Cortex ausbreitet
+(Lashley, 1941).
+Der Begriff der Spreading Depression
+
+wurde erst 1944 durch den
+
+brasilianischen Wissenschaftler Aristides A. P. Leão geprägt. Während
+seiner Experimente, bei denen er die epileptische Aktivität im Kortex des
+Kaninchens untersuchte, beobachtete er nach elektrischer Stimulation
+des Kortex eine
+
+Welle intensiver neuronaler Erregungen, gefolgt von
+
+einer Depression
+
+der elektrokortikographischen Aktivität ( „cortical
+
+spreading depression of electrocorticographik activity“ (CSD)), die sich
+ebenfalls mit 2-5 mm/min vom Ort der Stimulation in alle Richtungen in
+der Hirnrinde des Kaninchens wanderte (Leão, 1944). Es sah so aus, als
+ob simultan alle kortikalen Antworten auf elektrische oder physiologische
+Stimuli verschwinden würden (Grafstein, 1956). Leão zeigte, dass SD ein
+reproduzierbares Phänomen ist und sich unter bestimmten Bedingungen
+gut analysieren lässt.
+
+A
+
+B
+
+Abb. 1-1: A: Aristides Azevedo Pacheco Leão. Journal of Neurophysiologie, 1944
+B: Änderungen physiologischer Parameter während einer Spreading Depression (SD).
+Leão´s originale Illustration einer SD, 1944. Die Spuren zeigen eine räumliche und
+zeitliche aufgelöste elektrokortikographische Ableitung vom Kaninchenkortex nach
+elektrischer Stimulation. Im Schema rechts oben sind die Positionen der Stimulations-
+
+2
+
+(S) und Ableitelektroden eingezeichnet.
+
+1945 brachten Leão und Morison die Klinik der Migräneaura des
+Menschen mit der SD in Experimenten mit den Tieren in Verbindung und
+formulierten
+
+hiermit
+
+die
+
+„Spreading
+
+Depression“
+
+-
+
+Theorie
+
+der
+
+Migräneaura (Leão, 1945). Mittlerweile sind eine Vielzahl weitere
+Erkrankungen mit SD in Zusammenhang gebracht worden, zu denen
+solche Erkrankungen wie das Schädelhirntrauma (Mayevsky, 1996; Oka
+et al.,1977), der ischämische Hirninfarkt (Branston et al., 1977;
+Nedergaard, 1986; Strong et al., 1983), die Hypoglykämie (Astrup and
+Norberg, 1976) und die Epilepsie (Leão, 1944; Avoli et al., 1991) gehören.
+
+1.1.1 Theoretische Aspekte zu Entstehungs- und
+Ausbreitungsmechanismen der Spreading Depression
+Bis heute sind die Mechanismen, die zur Entstehung von SD führen, nicht
+ausreichend aufgeklärt. Der erste Erklärungsversuch
+
+van Harreveld´s
+
+Asphyxie-Hypothese wurde unmittelbar wieder verworfen. Harreveld´s
+Vermutungen waren, dass Spreading Depression durch eine sich
+wellenförmig über den Kortex ausbreitende Vasodilatation verursacht
+wird, die durch Reduktion des Sauerstoffpartialdrucks zum Stillstand der
+kortikalen Aktivität führt (van Harreveld, 1952). Später wurden zwei
+weitere Theorien entwickelt: van Harreveld´s Glutamat-Hypothese und
+Grafstein´s Kalium-Hypothese. Grafstein postulierte basierend auf einer
+Reihe von Experimenten, dass es initial durch starke
+3
+
+Aktivität der
+
+Neuronen
+
+zu
+
+einem
+
+massiven
+
+Anstieg
+
+der
+
+extrazellulären
+
+K+-
+
+Konzentration kommt, welche zu einer weiteren Depolarisation und
+Inaktivierung der Neuronen führt, aus denen K+ freigesetzt wurde.
+Gleichzeitig diffundiert ein Teil des akkumulierten K+ zu benachbarten
+Zellen und bewirkt deren Depolarisation, usw. (Grafstein, 1956). Drei
+Jahre später wurde die Glutamat-Hypothese durch van Harreveld
+aufgestellt (van Harreveld, 1959). Seine Vermutungen waren, dass
+Glutamat als exzitatorische Substanz zur Ausbreitung von SD einen
+Beitrag leistet. Diese Hypothese wird durch Studien gestützt, die zeigen
+konnten, dass es durch SD zu einer Erhöhung der extrazellulären
+Glutamatkonzentration kommt (van Harreveld, 1970) und dass sich SD´s
+durch NMDA- Rezeptorantagonisten blockieren lassen (Lauritzen, 1992;
+Willette et al., 1994). Beide Vorstellungen sind bis heute allgemein
+akzeptiert, ein gemeinsames Wirken ist sehr wahrscheinlich (IHCD,
+2004).
+
+Neuerdings wird ein transzellulärer Ausbreitungsmechanismus
+
+über gap junctions diskutiert (Nedergaard et al., 1995; Martins-Ferreira et
+al., 1995). Basierend auf diesen und neueren Arbeiten (Kunkler et al.,
+1988; Kraig 2002), entwickelte Nedergaard ein Modell, welches die
+Beteiligung von Kalziumwellen an der Initiation und Ausbreitung von SD
+beschreibt (Martins-Ferreira et al. , 2000).
+Die SD ist bereits in verschiedenen Tiermodellen ( u.a. Ratte, Maus,
+Kaninchen, Katze, Hund, Affe ), in unterschiedlichen Hirnregionen ( z.B.
+Kortex, Hippocampus, Amygdala, Hypothalamus ) ausgelöst worden. Im
+humanen Hirngewebe ist die SD in vitro im Hippocampus (Avoli et al.,
+1991) und in vivo im Striatum (Sramka et al., 1977) sowie im Kortex
+(Mayevsky et al., 1996) beobachtet worden.
+Die SD wird im Tierversuch durch elektrische, chemische und
+mechanische Stimuli ausgelöst und kann als relativ stereotype,
+4
+
+pathologische
+
+Reaktion
+
+des
+
+astroglial-neuronalen
+
+Netzwerks
+
+auf
+
+unterschiedliche Noxen angesehen werden (Somjen et al., 1992). Die
+experimentell am häufigsten verbreitete Methode der SD-Auslösung ist
+die
+
+kortikale
+
+Applikation
+
+von
+
+Kaliumchlorid,
+
+wobei
+
+die
+
+Schwellenkonzentration bei subduraler Kaliumapplikation bei etwa 80
+mmol/l (Bures et al.,1974; Dreier et al., 2001) liegt. Bei der intrakortikalen
+Injektion ist eine circa acht mal geringere Kaliumkonzentration von 10-12
+mmol/l ausreichend (Nicholson et al., 1981), während bei der epiduralen
+Applikation
+
+eine
+
+wesentlich
+
+höhere
+
+Konzentration
+
+notwendig
+
+ist.
+
+Alternativ zur Kaliumapplikation gibt es die Möglichkeit, mit einer dünnen
+Nadel in die äußerste Kortexschicht zu stechen, den sogenannten pinprick, als lokale Verletzung von Neuronen mit Ausfluss von K+ und
+Neurotransmittern. Diese Methode ist relativ sicher, hat jedoch den
+Nachteil, nicht beliebig oft wiederholbar zu sein. Eine weitere Möglichkeit
+ist die Implantation von bipolaren Elektroden in den Kortex, die zum
+Auslösen von SD´s bei Experimenten mit nicht-narkotisierten Tieren
+durchgeführt wurde (Duckrow, 1993). Weitere Möglichkeiten, eine SD
+auszulösen, sind die lokale Applikation exzitatorischer Aminosäuren (NMDA) zur Aktivierung glutamaterger Rezeptoren, das Herabsetzen der
+interstitiellen Chloridkonzentration, das Erzeugen einer Hypoglykämie, die
+Hemmung der cerebralen Na+-K+-Pumpen sowie das lokale Kühlen des
+Kortex (Marshall, 1959; Bures et al., 1974; Hansen 1984).
+
+Es gibt
+
+einzelne Berichte über hochfrequente elektrische Stimulation kombiniert
+mit
+
+Verabreichungen
+
+von
+
+SD-auslösenden
+
+pharmakologischen
+
+Substanzen (Smith et al., 2006). Auslöser der SD sind Vorgänge, die die
+neuronal-gliale Homöostase lokal stören und zur Freisetzung von K+
+und/oder Glutamat führen (Bures et al., 1974).
+
+Der Anstieg der extrazellulären K+-Konzentration gilt seit Grafstein
+5
+
+(Grafstein, 1956) als ein wesentlicher Propagator der SD. Aber auch
+verschiedene
+
+spannungsabhängige
+
+Kalziumkanäle
+
+(„voltage-gated
+
+calcium channels“, VG-CCs) sind für die Ausbreitung der SD wichtig. So
+kommt in Tiermodellen zu einer Verschlechterung der SD-Auslösbarkeit
+und Verminderung der SD-Anzahl, wenn der P/Q-Kalziumkanal genetisch
+verändert ist (Ayta et al., 2000) bzw. dieser Kanal spezifisch blockiert
+wird. Auch eine Blockade der NMDA-Rezeptoren durch MK-801 beendet
+die Ausbreitung der Spreading Depression (Marranes et al., 1988).
+
+1.1.2 Allgemeine Eigenschaften der SD
+
+Die Spreading Depression gehört zu der Gruppe von selbst-organisierten
+erregbaren Wellen (Wellen sind räumlich und zeitlich periodische
+Bewegungen, bei denen Energie und Impuls, aber keine Masse von
+einem Ort zu einem anderen übertragen wird (Tipler, 1994)), die in einem
+erregbaren Medium propagieren. SD-Wellen können, wie oben bereits
+erwähnt wurde, durch mechanische, elektrische, chemische und
+thermische Stimuli produziert werden. Zwischen den Bereichen des ZNS
+reduziert sich die Anfälligkeit für SD in folgender Reihenfolge:
+Hippokampus (besonderes CA 1 Region), Neokortex, subkortikale Nuclei,
+graue Substanz des Hirnstamms, Zerebellum (Bures, 1984) und
+Rückenmark (Czeh and Somjen, 1990). SD propagiert mit einer
+6
+
+Geschwindigkeit von 3-5 mm/min durch die graue Substanz. SD
+propagierte auch, wenn Aktionspotentiale durch Tetrodoxin (TTX)
+blockiert wurden (Sugaya et al., 1975). Je höher ein Tier in der
+phylogenetische Skala steht, desto komplexer ist der Kortex und desto
+schwieriger ist es eine SD zu erzeugen. So wurde z.B. in Experimenten
+mit Kaninchen und Ratten beobachtet, dass SD dort leichter zu erzeugen
+war als in Experimenten mit Katzen und Affen [(McLachlan, 1994). Man
+erklärt diese Eigenschaft damit, dass in diesem Fall die Menge der
+myelinisierten Fasern erhöht und die Dichte der neuronalen Membranen
+reduziert ist, weshalb der SD- Prozess blockiert werden kann (Bures et
+al.,1969).
+
+1.1.3 Elektrophysiologische Eigenschaften der SD
+
+Die „cortical spreading depression“ (CSD) ist definiert als ein regelmäßig
+auftretendes neurologisches Phänomen, das durch eine transiente (60120 s) Depolarisation der Nerven- und Gliazellen der Hirnrinde, die sich
+mit 3-5 mm/min über die Kortexhemisphäre ausbreitet und dabei eine
+Verschiebung des kortikalen Gleichspannungspotential um 20-35 mV
+erzeugt. Eine SD breitet sich ähnlich wie eine Wasserwelle über die
+Hirnoberfläche aus. Dieses Phänomen kann mit mehreren, räumlich
+versetzten Elektroden auf der Hirnoberfläche oder im Neokortex
+registriert werden (Abb.1-2).
+
+7
+
+Aufgrund der massiven Depolarisation der Zellen des Hirnparenchyms
+kommt
+
+es
+
+während
+
+der
+
+SD
+
+zu
+
+einer
+
+Negativierung
+
+des
+
+Gleichspannungspotentials (DC) um 5 bis 35 mV (Leão, 1944; Grafstein,
+1956). Dieses kehrt sich nach 1-2 min um (Repolarisation) und geht in
+eine schwache, 3-5 min dauernde Positivierung über. Gelegentlich geht
+der Negativierung eine kleine positive Welle voran (Leão, 1947; Bures et
+al., 1974). Am Anfang der DC-Potentialänderung steht gewöhnlich ein
+Anstieg der neuronalen Aktivität (populations spikes, burst of single unit
+activity), der nur 2-3 s dauert (Grafstein, 1956), gefolgt von 1-2 min
+absoluter „Stille“ (Bures et al., 1974). Damit verbunden tritt eine
+temporäre Depression der spontanen EEG-Aktivität ein, die erst nach
+etwa 5-10 min vollständig wiederhergestellt wird ( Leão, 1944).
+
+I
+
+DC4
+
+II
+
+DC3
+
+III
+
+IV
+DC2
+
+2
+mV
+10 s
+
+V
+DC1
+
+VI
+
+KCl
+
+Abb. 1-2: Darstellung einer DC-Potentialwelle nach Injektion von KCl (3M) am
+menschlichem
+
+Neocortex.
+
+Die
+
+Anordnung
+
+der
+
+Injektions-
+
+Feldpotentialelektroden (DC1-DC4): wie gezeigt (Gorji et al., 2001).
+
+8
+
+und
+
+der
+
+1.1.4 Ionenverteilung während der SD
+Während der SD-Ausbreitung sind Neuronen und Gliazellen in der
+Hirnrinde temporär depolarisiert. Die Depolarisation der Hirnrinde geht
+mit einer drastischen Veränderungen der Ionenverteilung zwischen dem
+Intra- und Extrazellulärraum einher. Für das Auslösen der SD spielt das
+Kalium eine entscheidende Rolle. Die Erhöhung der extrazellulären
+Kaliumkonzentration führt zur Depolarisation von präsynaptischen
+Nervenendigungen, die ausreicht, spannungsabhängige Kanäle zu
+öffnen. Natrium-, Kalzium- und Chlorid-Ionen mit Wasser strömen in die
+Zelle ein, Extrazellulärraum schrumpft dabei transient um bis zu 57%.
+Das
+
+Ergebnis
+
+ist
+
+eine
+
+Zellschwellung.
+
+Mit
+
+einer
+
+extrazellulären
+
+kaliumselektiven Mikroelektrode kann nachgewiesen werden, dass
+parallel
+
+zur
+
+DC-Verschiebung,
+
+Kalium
+
+die
+
+Zellen
+
+verlässt,
+
+und
+
+Konzentrationen von bis zu 60mM/l im Extrazellulärraum erreicht (Kraig
+et al., 1978; Grafstein, 1963; Hansen et al., 1981). Der Natrium- und
+Kalzium-Einwärtsstrom in die Zelle führt zur Freisetzung exzitatorischer
+und inhibitorischer Neurotransmitter. Dabei freigesetztes Glutamat öffnet
+postsynaptische rezeptorgebundene Kationenkanäle an Dendriten der
+Nachbarzellen, wodurch Natrium- und Kalzium-Ionen einströmen, und
+führt somit zu einer Depolarisation der Zellmembran. Die Inhibitorischen
+Transmitter öffnen Anionenkanäle und verursachen dadurch einen
+Einwärtsstrom von Chlorid. Hierbei ist für die Wiedereinstellung des
+Kaliumgleichgewichts im Extrazellulärraum die Pufferkapazität der
+Gliazellen von großer Bedeutung (Nicholson,1981; Paulson,1987).
+Außerdem wird eine extrazelluläre pH-Verschiebung beobachtet. Es
+kommt, beginnend mit der Negativierung des DC-Potenzials, zunächst zu
+einer Alkalisierung des pH-Wertes um 0,3. Diese dauert etwa so lange
+wie die Auslenkung des DC-Potenzials an und geht dann in eine
+Verschiebung des pH-Wertes zu sauren Werten über, die das
+9
+
+Ausgangsniveau um 0,05 – 0,1unterschreitet (Lehmenkühler et al., 1981).
+Für die Rückbildung der Depolarisation und Wiederherstellung des
+Ausgangszustands sind energieabhängige Pumpmechanismen in den
+Zellmembranen
+
+der
+
+Neurone
+
+und
+
+Gliazellen
+
+(Na+/K+-ATPase)
+
+verantwortlich. Die SD ist somit ein energieverbrauchender Vorgang, der
+aber vom mit Blut versorgten gesunden Hirngewebe ohne permanente
+Schädigung bewältigt wird (Somjen et al., 1992). Parallel zur neuronalen
+Depolarisation kommt es zur einer kurz anhaltenden temporären
+Vasodilatation in pialen und kortikalen Blutgefäßen, die einen Anstieg des
+regionalen Blutflusses (>100% Anstieg) bewirkt und in eine anhaltende
+Reduktion des kortikalen Blutflusses bis zur restitutio ad integrum nach
+ca. 30 min mündet. Die zerebrale Hyperperfusion erscheint elementar für
+die Wiederherstellung der Homöostase des Gehirns zu sein. Sofern die
+Hyperperfusion
+
+tierexperimentell
+
+durch
+
+lokal
+
+hohe
+
+Kalium-
+
+Konzentrationen und eine Inhibition der Stickstoffmonoxid generierenden
+Enzyme blockiert wird, kommt es zur Ausbildung einer kortikalen
+zerebralen Ischämie im Rahmen der SD (Dreier et al., 1998). Diese
+Untersuchung unterstreicht eindeutig, dass es sich bei den zerebralen
+SD- assoziierten Blutflussveränderungen (Hyperperfusion) um kein
+unbedeutendes Phänomen, sondern um ein elementares Mechanismus
+zur Aufrechterhaltung bzw. Wiederherstellung der Homöostase des
+Gehirns während und nach der Aura handelt. Die Messung der Änderung
+von Gefäßdurchmessern in der Pia mater bzw. lokaler Änderungen der
+zerebralen Durchblutung gaben außerdem Hinweise auf die Freisetzung
+vasoaktiver Substanzen wie calcitonin gene-related peptide (CGRP) und
+Stickstoffmonoxid, aber auch von Serotonin (Gold et al., 1998) während
+einer SD.
+Es gibt zur Zeit noch keine ausreichende Erklärung für den wandernden
+Mechanismus der SD. Es scheint jedoch, als ob dies mit der Diffusion von
+10
+
+Kaliumionen (Grafstein, 1963; Scheller,1991; Nicholson, 1993) und
+Glutamat
+
+(Avoli,
+
+1991;
+
+Gorelova,
+
+1987;
+
+Lauritzen,
+
+1994)
+
+im
+
+Extrazellulärraum zusammenhängt. Es ist nachgewiesen worden, dass
+sich die extrazelluläre Glutamatkonzentration etwa um den Faktor 20
+erhöht (Scheller, 1991) und über die NMDA-Rezeptoren zur Propagation
+der SD beiträgt. Weiterhin gibt es Beobachtungen, die darauf hinweisen,
+dass Kalziumwellen innerhalb von Gliazellen und Neuronen mit der SD
+assoziiert sind (Basarsky et al., 1998; Kunkler, 1998; Nedergaard, 1994).
+
+1.1.5 Klinische Relevanz von SD
+
+Die Physiologie der SD und ihre Bedeutung für die Funktion des Gehirns
+sind bis heute nicht vollständig aufgeklärt und wird kontrovers diskutiert.
+Es wurde lange vermutet und besonders in den letzten 20 Jahren
+verdichten sich die Erkenntnisse, dass SD mit einer Reihe neurologischer
+Erkrankungen, solche wie der Epilepsie, der Migräne, dem Schädel-HirnTrauma, den zerebrovaskulären Erkrankungen, dem ischemischen Infarkt
+und der transienten globalen Amnesie assoziiert sind. Es bleibt jedoch
+nach wie vor unklar, inwieweit SD zur Pathophysiologie dieser
+Krankheiten beiträgt.
+
+11
+
+1.1.6 Interaktion zwischen SD und epileptiformen Entladungen
+
+Nach den Schlaganfällen gehört Epilepsie zu den zweit- häufigsten
+Erkrankungen des zentralen Nervensystems (Browne, 2001). Die
+Epilepsie zeichnet sich klinisch durch das wiederholte und spontane
+Auftreten von Krämpfen zentralen Ursprungs (Löscher et al., 2002).
+Jeder
+
+Mensch
+
+kann
+
+unter
+
+entsprechenden
+
+Bedingungen
+
+einen
+
+epileptischen Anfall erleiden. Bei 5% der Gesamtbevölkerung tritt ein mal
+im Leben ein unprovozierter epileptischer Anfall auf. Als Auslöser im
+jungen
+
+Erwachsenalter
+
+kommen
+
+zahlreiche
+
+zerebrovaskuläre
+
+Erkrankungen, Tumoren oder Schädel-Hirn-Trauma oder äußere Noxen,
+wie
+
+Schlafentzug oder Alkoholentzug in Betracht. Zu den häufigsten
+
+Ursachen im Kindesalter beginnenden Epilepsien gehören perinatale
+Hirntrauma,
+
+angeborene
+
+Entwicklungsstörungen,
+
+Enzephalitis,
+
+Fieberkrämpfe, genetische und neurometabolische Schädigungen (Wolf
+et al., 2003).
+
+Ein epileptischer Anfall stellt die klinische Manifestation einer abnormen
+und exzessiven Entladungen von Neuronenverbänden im Gehirn dar.
+Epileptische
+
+Anfälle
+
+können
+
+sich
+
+sehr
+
+vielfältig
+
+darstellen,
+
+die
+
+gemeinsame Merkmale sind das plötzliches Auftreten und die zeitliche
+Begrenzung auf Sekunden bis Minuten (Commission on Classification
+and Terminology of the International League Against Epilepsy, 1981). Die
+konventionellen Hypothesen zu den Mechanismen der Entstehung
+epileptischer Aktivität umfassen im wesentlichen zwei Ansätze: Zum
+einem Theorien basierend auf Veränderungen der Eigenschaften
+spannungsabhängiger
+Verschiebung
+
+des
+
+Kanäle,
+
+zum
+
+Gleichgewichtes
+
+12
+
+anderen
+
+Konzepte,
+
+hemmender
+
+und
+
+die
+
+eine
+
+erregender
+
+synaptischer Transmission postulieren (Köhling, 2007). Das Entstehen
+abnormer Entladungsmuster kann durch erworbene pathologische
+Veränderungen oder genetische Faktoren bedingt sein. Im epileptischen
+Anfall können neben Bewusstseinsänderungen sensorische, autonome,
+motorische oder psychische Symptome auftreten.
+Gleichzeitiges Auftreten von SD und epileptischer Aktivität wurde in einer
+Vielzahl von in vitro und in vivo Epilepsie-Modellen beobachtet sowohl in
+unterschiedlichen Tiermodellen (Van Harreveld and Stamm, 1953;
+Koroleva and Bures, 1983 ), als auch in humanen Gehirnschnitten (Avoli
+et al., 1991; Gorji and Speckmann, 2004). SD ist ein bekanntes
+Phänomen im Tiermodell der experimentellen Epilepsie.
+
+Allerdings
+
+bleibt, trotz der Untersuchungen in verschiedenen Studien, das
+Zusammenspiel
+menschlichen
+
+der
+
+SD
+
+neuronalen
+
+mit
+
+epileptiformen
+
+Hirngewebe
+
+Feldpotentialen
+
+weiter
+
+unklar.
+
+im
+
+Vermehrte
+
+hypersynchrone Entladungen können „Spreading Depression“ auslösen
+(Lauritzen, 1994). Ebenso kann die Ausbreitung von SD über einen
+epileptischen Bereich im Gehirn einen epileptischen Anfall bei einigen
+Patienten auslösen (Gorji et al., 2004). Man nimmt an, dass SD die
+Erregbarkeit
+
+des
+
+neuronalen
+
+Gewebes
+
+möglicherweise
+
+durch
+
+Änderungen in der Aktivität des synaptischen Netzwerkes verstärkt
+(Berger et al., 2008; Wernsmann et al., 2006; Dehbandi et al., 2008).
+Epileptiforme
+
+Feldpotentiale und SD können experimentell auf
+
+unterschiedliche Wege ausgelöst werden, z.B. durch:
+-Aktivierung von NMDA-Rezeptoren,
+-Erhöhte extrazelluläre K+-Konzentration,
+-Blockierung der K+-Kanäle; wie z.B. von 4-aminopyridine,
+-Blockierung von Na+-K+-ATPase; z.B. durch Ouabain,
+-Blockierung von Ca2+-Kanäle; z.B. durch NiCl2,
+-Verringerung der extrazellulären Mg2+-Konzentrationen,
+13
+
+-Blockierung der GABA-Rezeptoren (Gamma-aminobutyric acid); z.B.
+durch Picrotoxin (Balestrino et al., 1999; Gorji et al., 2000, 2001; Leão,
+1944; Petsche et al., 1973; Psarropoulou et al., 1992; Traynelis et al.,
+1988).
+SD kann im empfindlichen Bereich durch eine einzelne Entladung eines
+epileptischen Fokus ausgelöst werden (spike triggered SD). In der Regel
+werden epileptiforme Feldpotentiale während der SD unterdrückt und
+erscheinen in wenigen Minuten wieder. Wie experimentelle Studien
+zeigen kann SD epileptische Entladungen nicht nur auslösen sondern
+auch sie blockieren (Van Harreveld and Stamm, 1953; Gorji et al., 2003)
+jedoch kann SD wiederum durch epileptische Aktivität ausgelöst bzw.
+blockiert werden (Van Harreveld and Stamm, 1955; Bures et al., 1974).
+
+1.1.7 Hyperthermie induziert epileptische Entladungen und SD
+
+Wie tierexperimentelle Studien belegen, kann Hyperthermie SD (Wu et
+al., 2000) und epileptische Entladungen (Tancredi et al., 1991; Köhling,
+2008) induzieren. Die
+Aktivität
+
+als auch
+
+Studien zeigten, dass sowohl die epileptiforme
+
+die
+
+SD durch
+
+eine
+
+vorübergehende
+
+Körper-
+
+Temperaturerhöhung induziert werden kann und dass das Alter der Tiere
+eine wichtige Rolle beim Auftreten dieser Phänomene spielt. Demnach
+wurde
+
+keine
+
+epileptische
+
+Aktivität
+14
+
+nach
+
+der
+
+Hyperthermie
+
+in
+
+Schnittpräparaten von Tieren junger als 4 Tage oder älter als 28 Tage
+beobachtet. Allgemein ist für die Auslösung der SD das Hirngewebe von
+juvenilen Tieren wesentlich anfälliger als das von älteren Tieren
+(Luhmann and Kral, 1997).
+
+1.2 Fieberkrampf
+
+1.2.1 Definition
+
+Ein Fieberkrampf ist ein epileptischer Anfall, der im Kindesalter jenseits
+des ersten Lebensmonats, in Verbindung mit einer fieberhaften
+Erkrankung auftritt, die nicht durch eine ZNS-Infektion verursacht ist,
+ohne
+
+vorangegangene
+
+Neugeborenenkrämpfe,
+
+ohne
+
+einen
+
+vorangegangenen afebrilen Anfall und auf den die Kriterien eines anderen
+akuten symptomatischen Anfalls nicht zutreffen
+
+(Commission on
+
+Classification and Terminology of the International League Against
+Epilepsy, ILAE, 1985).
+Als Fieber wird in der Regel eine Körpertemperatur von mindestens 38°C
+angesehen. Es ist unklar, welche Bedeutung, die Höhe des Fiebers, die
+Geschwindigkeit des Fieberanstiegs und die Ursache des Fiebers für die
+Auslösung der Fieberkrämpfe haben (Millichap, 1968; Minichom, 1984).
+In einer Studie wurden Kinder mit Fieberkrämpfen untersucht, so hatten
+15
+
+75% der Kinder eine Körpertemperatur über 39°C, und 25% hatten eine
+Temperatur über 40°C (Langenstein, Stahnke, 1984). Veränderungen der
+Osmolarität und Natriumkonzentration im Blut und im Liquor scheinen bei
+der Entstehung von Fieberkrämpfen mitzuwirken (Rutter, 1978; Kiviranta
+et al., 1996).
+Fieberkrämpfe sind von Epilepsien abzugrenzen, welche durch das
+wiederholte Auftreten afebriler Krampfanfälle gekennzeichnet sind. Die
+ersten epileptischen Anfälle einiger Epilepsien können sich als febrile
+Anfälle manifestieren (Siemes et al. 2001).
+
+1.2.2 Pathogenese
+
+Die genauen pathophysiologischen Mechanismen der Fieberkrämpfe
+bleiben
+
+weiterhin
+
+ungeklärt.
+
+Epileptische
+
+Anfälle
+
+sind
+
+häufige
+
+neurologische Störungen im Kindesalter. Betroffen sind 3 bis 5% der
+überwiegend normal entwickelten Kinder zwischen dem 6. Monat und 5.
+Lebensjahr. (Brazier et al., 1976; French; Lennox-Buchthal, 1973). Der
+Manifestationsgipfel liegt im zweitem Lebensjahr (Aicardi, 1994; Nelson et
+al., 1976). Unkomplizierte Fieberkrämpfe ziehen ein geringes EpilepsieRisiko
+
+von
+
+2,5
+
+-
+
+4
+
+%
+
+nach
+
+sich
+
+und
+
+führen
+
+weder
+
+zu
+
+Entwicklungsstörungen, noch zu bleibenden neurologischen Defiziten der
+betroffenen Kinder (Püst et al. 2000). Die häufigsten auslösenden
+Erkrankungen sind virale (seltener eine bakterielle Infektion) Infekte der
+
+16
+
+oberen
+
+Luftwege,
+
+Dreitagesfieber,
+
+akute
+
+Mittelohrentzündungen,
+
+Harnweginfekte und Fieberreaktionen nach Impfungen. Bei 31% der
+Kinder zwei Jahren verursacht das Human-Herpesvirus vom Typ 6 einen
+Fieberkrampf (Kimberlin, 1998).
+Das Auftreten von Fieberkrämpfen ist per Definition mit den beiden
+ätiologischen Faktoren Fieber und Lebensalter verknüpft. Allerdings ist
+nicht bekannt, warum nicht alle Kinder von Fieberkrämpfen betroffen sind.
+Ebenfalls
+
+noch
+
+unbekannt
+
+sind
+
+die
+
+für
+
+einen
+
+Fieberkrampf
+
+verantwortlichen kindlichen Gehirnstrukturen. Als dritter Faktor spielt die
+genetische Prädisposition eine wichtige Rolle. In den Studien von Aicardi
+und Tsuboi wird es angenommen, dass autosomal dominante Vererbung
+mit reduzierter Penetranz sowie ein polygenetischer Verebungsmodus für
+die Entstehung von Fieberkrämpfen relevant sind (Tsuboi, 1976; Aicardi,
+1994).
+Experimente
+
+an
+
+Tiermodellen
+
+zeigten,
+
+dass
+
+die
+
+altersabhängige
+
+Empfänglichkeit für Fieberkrämpfe in Beziehung zu Neurochemischenund
+
+Neurotransmitterveränderungen
+
+in
+
+Verbindung
+
+mit
+
+genetisch
+
+determinierten Enzymdefiziten im Gehirn stehen. Daraus resultieren
+ionische und metabolische Veränderungen, die zur erhöhten Anfälligkeit
+für Krampfanfälle beitragen (Glaser, 1982).
+
+17
+
+1.2.3 Symptomatik
+
+Der Krampfanfall tritt in der Regel Initial zu Beginn des Infektes im ersten
+Anstieg des Fiebers auf. Häufig ist der Krampfanfall und nicht das Fieber
+das erste Zeichen der Infektion. (Wolf et al., 1977).
+Der Fieberkrampf kann mit einem plötzlichen Bewusstseinsverlust
+beginnen, gefolgt von einem Zusammenziehen der gesamten Muskulatur
+(tonische Versteifungen). Nach 10-30 Sekunden folgen regelmäßige
+(klonische) Zukungen. Die tonische Phase kann fehlen, und es kommen
+auch atonische Anfälle vor, bei denen die Muskulatur ihre Spannung
+verliert und die Kinder vollkommen schlaff sind (Siemes et al., 2001).
+Gelegentlich können postkonvulsive Parese entstehen, die sich in der
+Regel innerhalb weniger Stunden vollständig zurückbilden. Bleibende
+Paresen nach Fieberkrämpfen sind eher selten.
+Gewöhnlich sind die Anfälle kurz und selbstlimitierend. In der Studie von
+Nelson und Ellenberg betrug die Dauer bei 72% unter 5 Minuten. 7,6%
+der Fieberkrämpfe hielten länger als 15 Minuten und 4,3% länger als 30
+Minuten an (Nelson, Ellenberg, 1978). Die Anfälle können sich im Verlauf
+des Infektes mehrfach wiederholen.
+
+18
+
+1.2.4 Temporallappenepilepsie
+
+Die
+
+Temporallappenepilepsie (TLE) repräsentiert die häufigste Form
+
+fokaler Epilepsien mit einem hohen Anteil pharmakoresistenter Patienten.
+Auffallendstes neuropathologisches Merkmal der TLE sind schwere
+neurodegenerative
+
+Veränderungen
+
+im
+
+Bereich
+
+des
+
+Hippokampus
+
+(Ammon’s Horn-Sklerose) und angrenzender Hirnareale (Amygdala,
+entorhinaler Kortex). Untersuchungen in Tiermodellen der TLE und an
+Gewebe, das bei epilepsiechirurgischen Eingriffen von Patienten
+gewonnen wurde, haben in den letzten Jahren
+
+Erkenntnisse zur
+
+Pathophysiologie der TLE erbracht. Der epileptische Hippokampus
+imponiert durch eine Vielzahl neurochemischer und morphologischer
+Veränderungen. Als primäre Ursachen einer TLE werden vor allem das
+Auftreten
+
+starker
+
+frühkindlicher
+
+Fieberkrämpfe
+
+in
+
+den
+
+ersten
+
+Lebensjahren, oder eines Status epilepticus (SE) in einem späteren Alter
+angesehen (Harbord et al., 1987; Maher et al., 1995; Lee et al., 1981).
+Sekundär
+
+kommt
+
+es
+
+vermutlich
+
+zu
+
+direkter
+
+Excitotoxicität
+
+und
+
+hypoxischen Schädigungen im Bereich des Hippokampus. Das klinische
+Bild einer TLE, ausgelöst durch frühkindliche Fieberkrämpfe, wird meist
+erst während oder nach der Pubertät manifest. Der Prozess der
+Entstehung
+
+der
+
+Epileptogenese
+
+Epilepsie
+bezeichnet
+
+während
+und
+
+ist
+
+dieser
+heute
+
+Latenzzeit
+Gegenstand
+
+wird
+
+als
+
+intensiver
+
+Grundlagenforschung. Zusätzlich werden auch genetische Komponenten
+diskutiert, welche etwa die Entstehung von Fieberkrämpfen oder den
+Prozess der Epileptogenese fördern könnten (Ounsted et al.,1966;
+Nelson,1990).
+Therapieresistenten Patienten steht heute die Option einer einseitigen
+Resektion des epileptischen Hippokampus zur Verfügung, welche zu
+19
+
+einer signifikanten Besserung der Erkrankung oder Anfallsfreiheit der
+Patienten führt.
+
+1.2.5 Pathologie der Ammonshornsklerose
+
+Der Hippokampus befindet sich im Temporallappen an der medialen
+Wand des Seitenventrikels und ist eine zentrale Schaltstation des
+limbischen Systems. Der Hippokampus besteht aus dem so genannten
+Ammonshorn (Cornu ammonis), mit den vier zytologischen Zonen C1-C4,
+aus dem durch die hippokampale Fissur davon getrennten Gyrus
+dentatus, und aus dem Subiculum. Diese Elemente sind durch komplexe
+intrinsische Verbindungen miteinander verschaltet.
+Der massive Neuronenverlust im Hippokampus von Patienten mit TLE ist
+schon vor über 100 Jahren beschrieben worden (Sommer, 1880; Bratz,
+1899). Der epileptische Hippokampus imponiert durch eine Vielzahl
+neurochemischer
+
+und
+
+morphologischer
+
+Veränderungen.
+
+Charakteristischerweise sind immer die Pyramidenzellen der CA1-und
+C3-Region (CA, cornu ammonis), Mooszellen und Interneurone im Hilus
+des Gurus dentatus
+
+von Neurodegeneration
+
+Pyramidenzellen der CA2-Region bleiben
+
+betroffen.
+
+Die
+
+dabei relativ verschont
+
+erhalten (Margerison und Corsellis, 1966). In der Körnerzellschicht kommt
+es weiterhin zur Aussprossung von Moosfasern des Gurus dentatus.
+Sommer
+
+bezeichnete
+
+die
+
+typische
+20
+
+Degeneration
+
+hippokampaler
+
+Strukturen als Ammon's Horn Sklerose (AHS). Bei 70% der operierten
+Patienten mit TLE konnte histologische eine AHS nachgewiesen werden
+(Zentner et al., 1995). Etwa 40% der Patienten mit AHS weisen
+außerdem eine Dispersion des Körnerzellbandes auf (Houser et al.,1990;
+Lurton et al., 1997). Dieses weitet sich von ursprünglich 50 μm auf bis zu
+200 μm, so dass ein Verlust der kompakten Schichtung der Körnerzellen
+und Verlust einer klaren Grenze zwischen Körnerzellschicht und
+Molekularschicht entsteht (Lurton et al., 1997).
+
+Außerhalb des
+
+Hippokampus sind oft Teile der der Amygdala und des entorhinalen
+Kortex (insbesondere Pyramidenzellen der Schicht III) betroffen.
+Der Hippokampus spielt eine wesentliche Rolle bei der Verarbeitung von
+Kontexinformationen (Maren, 1997) und von komplexen Informationen
+(Jeffrey, 1993). Die Rolle des Hippokampus ist besonders eingehend bei
+Nagetieren untersucht worden. Die hippokampalen Läsionen führen zu
+einer Beeinträchtigung des räumlichen Lernens, wobei die Ausmaß der
+Läsion mit dem Grad der Beeinträchtigung korreliert (Altemus, 1997). So
+führen teilweise oder vollständige Hippokampusläsionen, die z. B. bei
+einer TLE entstanden sind, zu Beeinträchtigung im Erlernen neuer
+Gedächtnisinhalten, während das Abrufen von Gedächtnisinhalten aus
+dem Langzeitspeicher weitestgehend unbeeinträchtigt bleibt (Miller et al.,
+1993).
+
+21
+
+1.3 Zielsetzung
+Fieberkrämpfe werden schon seit einiger Zeit in Tiermodell untersucht.
+Dazu werden Ratten in den ersten Tagen nach der Geburt in eine sehr
+warme Umgebung gebracht, so dass sich ihre Körpertemperatur, ähnlich
+wie bei menschlichem Fieber, erhöht und ein Krampf ausgelöst wird. Die
+Folgen von Fieberkrämpfen wurden an Ratten schon eingehend
+untersucht,
+
+jedoch
+
+bleiben
+
+die
+
+genauen
+
+pathophysiologischen
+
+Mechanismen der Fieberkrämpfe weiterhin ungeklärt. Darüber, warum
+gerade junge Ratten zu Fieberkrämpfen neigen, konnte nur spekuliert
+werden.
+Das Ziel der vorliegenden Arbeit ist es zu untersuchen, inwieweit ein
+künstlich herbeigeführtes Fieber in juvenilen Ratten zu einer Veränderung
+zellulärer Erregbarkeit führen kann. Im Fokus sind
+
+zwei in enger
+
+Verwandtschaft stehende Phänomene Cortical Spreading Depression und
+epileptische Entladungen, die in dieser Arbeit beobachtet und untersucht
+wurden. Der akute (sofortiger) und chronische (vier Wochen nach FieberAuslösung) Effekt eines Fieberkrampfes sollte in Bezug auf die Schwele
+der Auslösbarkeit der SD und epileptiformer Feldpotentiale beobachtet
+werden. Interessant war ob eine Hyperthermie – also auch Fieber- vor
+allem in juvenilen Stadien zur Veränderungen zellulärer Erregbarkeit
+führen kann und ob die Veränderungen auch lang anhaltend auftreten,
+die zur Manifestation einer Temporallappenepilepsie führen.
+
+22
+
+2. Material und Methoden
+2.1 Hyperthermiemodell
+Alle Tierversuche wurden nach der Genehmigung der Bezirksregierung
+Münster durchgeführt (Schreiben vom 19.12.2002; AZ: 50.0835.1.0 (G
+79/2002).
+Zur Untersuchung der Temporallappenepilepsie wurden zwei Modelltypen
+gebildet. Ein akutes Anfallsmodell, bei dem durch thermische Induktion
+ein epileptischer Anfall ausgelöst wurde. Und ein chronisches EpilepsieModell bei dem die Tiere durch einen primären Fieberkrampf, der eben
+so thermisch
+
+ausgelöst wurde, nach einer
+
+Latenzzeit
+
+durch einen
+
+unphysiologischen Reiz neuronale Aktivitäten zeigten. Diese Tiere sind
+chronisch krank bzw. epileptisch geworden. Der Vorteil letzteres
+Epilepsiemodells ist, dass sie die Situation simulieren, die beim
+Menschen
+
+durch
+
+ein
+
+Fieberkrampf
+
+Temporallappenepilepsie gegeben ist. Diese
+
+mit
+
+anschließender
+
+chronischen Epilepsie-
+
+Modelle bieten die Möglichkeit, den Prozess zu untersuchen, der zur
+Manifestation der Epilepsie führt.
+Für die Untersuchungen im Rahmen der vorliegenden Arbeit spielen
+sowohl akute Anfallsmodelle als auch chronische Epilepsie-Modelle eine
+Rolle.
+Als Versuchstiere dienten junge Wistar-Ratten im Alter von 7 bis 24
+Tagen und 35-52 Tagen. Das Körpergewicht der Tiere betrug im ersten
+Fall 10g bis 57g und 90 bis 220g im zweiten.
+In vivo wurde Temperaturanstieg künstlich bei juvenilen Ratten
+herbeigeführt, da der akute Effekt eines Fieberkrampfes vor allem bei
+jungen Tieren besonders ausgeprägt ist.
+Zur besseren Beurteilung der Effekte der Hyperthermie wurden
+Experimente unter Kontrollbedingungen, das heißt ohne Hyperthermie,
+23
+
+durchgeführt. In der Kontrollversuchsreihe kamen alle Altersgruppen vor.
+Die Ratten wurden entsprechend ihres Alters in drei Gruppen unterteilt:
+Gruppe I (p 7-13), Gruppe II (p 14-19) und Gruppe III (p 20-24).
+Neben
+
+schon
+
+oben
+
+erwähnten
+
+Gruppen
+
+erfolgte
+
+weitere
+
+Gruppenunterteilung wie folgt : Gruppe Ic (p 35-41), Gruppe IIc (p 42-47)
+und Gruppe IIIc (48-52). Das Alter entsprach dann dem Alter des
+chronischen Tiermodells. An den Tiermodellen der chronischen Form
+erfolgten Versuche im Gegensatz zu den Tieren der akuten Form, die
+direkt nach dem Fieberkrampf in vitro untersucht wurden, erst in vier
+Wochen nach der Hyperthermie.
+
+2.2 Präparationsmethode
+
+In vivo-Experimenten wurde bei Ratten drei verschiedener Altersgruppen
+ein Fieberkrampf ausgelöst. Hierbei wurden Ratten durch intraperitoneale
+Applikation von Narcoren® (Pentobarbital; 50mg/kg KG) anästhesiert
+und in eine Wärmekammer gebracht. Dabei wurde die Körpertemperatur
+neugeborener
+
+oder
+
+Wärmequelle
+
+in
+
+sehr
+der
+
+junger
+
+Ratten
+
+Wärmekammer
+
+Kammertemperatur betrug ca. 50°C.
+
+durch
+bis
+
+Anwendung
+
+41°C
+
+erhöht.
+
+von
+Die
+
+Die Körpertemperaturerhöhung
+
+konnte man mit Hilfe von einer rektalen Messelektrode erfassen. Bei den
+Tieren der akuten Form erfolgte unmittelbar nach der Hyperthermie das
+sofortige Gehirnentnahme, die von chronischer Form
+24
+
+wurden an dem
+
+selben Tag nach der Erholung zurück zur Amme gebracht und erst in
+vier
+
+Wochen
+
+zu
+
+weiteren
+
+experimentellen
+
+Untersuchungen
+
+herangezogen. Da die Tiere während der Hyperthermie viel Flüssigkeit
+verlieren,
+
+bekamen die
+
+Ratten während der Erholungsphase eine
+
+intraperitoneale Injektion mit Standartringerlösung. Ringer-Lösung wird
+bei
+
+Dehydration
+
+(Austrocknung)
+
+als
+
+Flüssigkeitsersatz
+
+bei
+
+extrazellulärem Flüssigkeitsverlust und zum Auflösen von Medikamenten
+(Anästhetika) verwendet.
+Zusammensetzung:
+Die Ringer-Standard-Infusionslösung enthält auf 1000 ml Aqua destillata:
+• Natriumchlorid: 8,6 g
+• Kaliumchlorid: 0,3 g
+• Calciumchlorid: 0,33 g
+
+Die in vitro-Experimente wurden sofort oder vier Wochen nach der
+Hyperthermie durchgeführt. Zur Anfertigung der in vitro-Präparate wurden
+die Versuchstiere in tiefe Narkose versetzt, das galt für die Ratten der
+Kontrolle und des chronischen Modells. Die Betäubung der Tiere erfolgte
+durch eine Inhalationsanästhesie im Exsikkator mit ca. 0,1ml Isofluran
+(Wirkstoff: 1-chloro-2, 2,2-trifluoroethyl-difluoromethylether). Das betäubte
+Tier wurde dann mit Hilfe einer Guillotine decapitiert und das Gehirn
+zugig freipräpariert. Nach der Präparation wurde das Gehirn in
+eisgekühlte mit Carbogen (Gasgemisch aus 5% CO2 und 95% O2)
+begaste Präinkubationslösung (Lsg.1, Tab. 2-1) überführt. Auf einer
+eisgekühlten und
+Metallplatte
+
+wurde
+
+mit Lösung (Lsg.1, Tab. 2-1) angefeuchteten
+das
+
+Gehirn
+
+mit
+
+einem
+
+Skalpell
+
+für
+
+den
+
+Schneidevorgang getrimmt. Dazu wurde von dem mit der ventralen Seite
+25
+
+nach unten liegenden Gehirn jeweils mit einem senkrechten Schnitt das
+Vorderhirn und das Kleinhirn abgetrennt. Mit der kaudalen Hirnfläche
+nach unten wurde das Präparat mit Sekundenkleber (Loctite 454) auf
+einen Metallblock festgeklebt. Mit einem Vibratom (Integraslice 7550
+PSDS der Fa. Campden) )wurden 500 µm dicke koronale Hirnschnitte
+hergestellt und in ein Präinkubationsbad mit einer 28°C warmen und mit
+Carbogen begasten Lösung (Lsg.1, Tab.2-1) übertragen. Zur Erholung
+nach der Präparation bleiben die Schnitte mindestens eine Stunde im
+Bad. Nach 30 Minuten wurde die Calciumkonzentration der Lösung,
+durch die Zugabe von 0.8 ml Calciumchloridlösung, von 1 auf 2 mmol/l
+erhöht.
+Die
+
+vorliegenden
+
+Versuche
+
+wurden
+
+an
+
+horizontalen
+
+Kombinationsschnitten der Ratte durchgeführt. Diese Schnitte enthielten
+die Strukturen des Hippokampus, der Amygdala, der sensorischen
+temporalen Neocortex und entorhinalen Neocortex.
+
+2.3 Versuchsaufbau
+
+2.3.1 Interface-Messkammer
+
+Die Durchführung der Experimente erfolgte unter Interfacebedingungen.
+Um den Hirnschnitt während des gesamten Versuches am Leben zu
+halten und eine stabile Umgebung für die Messungen zu schaffen, wurde
+eine spezielle Perfusionskammer entwickelt, die sog. Interfacekammer.
+26
+
+Die Interface-Meßkammer bestand aus Acrylglas und setzte sich aus
+zwei Hauptkomponenten zusammen: Heiz- und Begasungskammer
+(unterer Teil) und Schnittträger (oberer Teil). Die Kammer enthielt im
+unteren Teil destilliertes Wasser, das über eine Heizspirale unten erwärmt
+wurde. In das erwärmte Wasserbad wurde über einen mehrfach
+perforierten Polyacrylschlauch Carbogengas eingeleitet. Über dem
+Wasserbad stellte sich so eine mit Wasserdampf und Carbogengas
+gesättigte Phase ein, die über vorderen Belüftungsschlitz mit den oberen
+Perfusionskammer in Verbindung stand. Die Temperatur der Badlösung
+wurde durchgehend unter Kontrolle eines Temperaturfühlers gemessen
+und auf
+
+30,4°C eingestellt. Die untere Schnittfläche wurde in den
+
+Kammern auf mehreren Lagen KODAK-Linsenpapier gelagert, die eine
+große Diffusionsoberfläche für die zwischen den Fasern entlang laufende
+Lösung
+
+bildete,
+
+und
+
+kontinuierlich
+
+mit
+
+Lösung
+
+in
+
+einer
+
+Fließgeschwindigkeit der Badlösung von 2 ml/min umspült, das entsprach
+der Einstellung Speed 13 der Ismatec Rollerpumpe. Der pH-Wert wurde
+in regelmäßigen Abständen in der Kammer gemessen und durch
+Regulierung des Carbogen-Volumenstroms im Bereich von 7,35 – 7,45
+gehalten. Die Versuchslösung gelang über Silikonschläuche aus dem
+Vorratsgefäß durch die Heizkammer in die obere Versuchseinheit. Hierbei
+wurden die Schnitte in den Perfusionskammern an der Grenze zwischen
+gasförmiger und flüssiger Phase des Nährmediums platziert. Die flüssige
+Phase bestand aus Yamamoto II-Lösung (Lsg. 2, Tab. 2-1), somit konnte
+erreicht
+
+werden,
+
+dass
+
+die
+
+Schnitte
+
+in
+
+den
+
+Perfusionskammern
+
+kontinuierlich mit einer künstlichen Nährlösung versorgt wurden, die in
+ihrer Zusammensetzung mit dem Hirn-Liquor der Ratte weitestgehend
+übereinstimmte. Sollte eine Testsubstanz eingewaschen werden, wurde
+der zuführende Schlauch in ein anderes Glas mit der in einer
+gewünschten Konzentration gelösten Substanz umgehängt. Während
+der Messungen wurden die Schnitte mit einer Plastikplatte abdeckt, um
+27
+
+die Gasphase über der oberen Schnittfläche gesättigt zu halten und ein
+Austrocknen der Schnittoberfläche zu verhindern. Extrazellulärelektroden,
+die ein Ableiten von extrazellulären Feldpotentialen ermöglichen, wurde
+unter mikroskopischer Sichtkontrolle im Schnitt positioniert.
+
+2.3.2 Extrazelluläre Signalableitung
+
+Für die Feld- und DC-Potentialaufzeichnung wurden Mikroelektroden
+verwendet,
+
+die
+
+aus
+
+Borosilikatglaskapillaren
+
+mit
+
+einem
+
+Außendurchmesser von 1,5mm und einem Innendurchmesser von
+0,87mm mit Hilfe eines Elektrodenziehgeräts (DMZ-Universal-Puller, Fa.
+Zeitz-Instrumente) unter starkem Erwärmen zu einer Spitze von etwa
+0,2µm ausgezogen wurden. Vor Versuchsbeginn wurde die Glaselektrode
+mittels einer Spritze blasenfrei mit Inkubationslösung (Lsg. 2, Tab. 2-1)
+gefüllt und war über eine KCl-Brücke, die mit 2mmol/l KCl gefüllt wurde
+und
+
+einen
+
+Ag/AgCl-Draht
+
+besaß,
+
+mit
+
+einem
+
+konventionellen
+
+Feldpotentialverstärker verbunden.
+Unter
+
+mikroskopische
+
+Kontrolle
+
+wurde
+
+jede
+
+zu
+
+verwendende
+
+Glaselektrode mit einer Pinzette manuell so weit zurück gebrochen, dass
+der Elektrodenwiderstand etwa 0,5 bis 2 MΩ betrug. Anschließend
+wurden Messelektroden durch einen Miro-Manipulator in gute Position
+zum Hirnschnitt gebracht und unter mikroskopische Sichtkontrolle in die
+entsprechenden Regionen platziert.
+
+28
+
+Als Referenzelektrode diente ein in die Kammer
+
+eingebautes mit 2
+
+mmol/l KCl gefülltes Glasröhrchen, das durch ein Magnesia-Diafragma
+Kontakt zur Badlösung hatte. Die Erdung des Bades erfolgte über ein in
+das
+
+Röhrchen
+
+eingeführter
+
+Silberdraht.
+
+Mittels
+
+eines
+
+Feldpotentialverstärkes wurden DC-Registrierungen (GleichspannungsRegistrierung) mit einer Grenzfrequenz von 1000 Hz durchgeführt. Die
+Feldpotenziale wurden oszilloskopisch aufgezeichnet.
+Die Ableitung der extrazellulären Feldpotentiale erfolgte aus vier
+Hirnregionen:
+1. Temporalcortex Schicht 3
+2. Entorhinalcortex Schicht 3
+3. Laterale Amygdala
+4. Hippocampus Stratum radiatum der CA1-Region
+
+2.4 Versuchsprotokolle
+
+Es wurden zwei Methoden verwendet um SD und epileptische
+Entladungen auszulösen und in drei
+Versuchsreihen durchgeführt.
+
+29
+
+verschiedenen experimentellen
+
+2.4.1 Methode 1
+In Experimenten wurde das Niedrig NaCl- Modell (hypoosmotisches
+Medium) benutzt. Um die Erregbarkeit des neuronalen Gewebes zu
+steigern wurde 50% NaCl in ACSF-Lösung reduziert (Lsg. 3, Tab.2-2)
+während andere Bedingungen unverändert blieben (Chebabo et al.,
+1995). In dieser Periode wurden die Gewebeschnitte 60 min mit der
+Lösung überspült. Es sollte geprüft werden, ob die Reduktion von NaCl in
+der Kontrolllösung (ACSF) für sich eine Wirkung auf die Induktion von SD
+und
+
+epileptiforme
+
+Aktivitäten
+
+hatte
+
+und
+
+in
+
+welchem
+
+Alter
+
+die
+
+Epilepsiebereitschaft am größten war.
+
+2.4.2 Methode 2
+
+Induktion der SD wurde durch
+
+eine extrazelluläre Tropfenapplikation
+
+einer 2 mmol/l KCl-Lösung aus einer Injektionsnadel lateral von der die
+DC-Potentialänderung aufzeichnenden Messelektroden vorgenommen
+und führte zur reproduzierbaren Auslösung einer typischen Spreading
+Depression. Die Negativierung des DC-Potential erfolgte abrupt und ohne
+Latenzzeit. Die daraufhin ausgelöste SD und epileptiforme Aktivitäten
+wurde in Bezug auf Wiederholungsratten, Dauer und Amplitude
+ausgewertet. Hirnschnitte, die in der ersten Kontrollperiode ( 15 minütige
+Superfusion mit ACSF) spontane epileptische Aktivität bzw. spontane SD
+zeigten, wurden von der weiteren Untersuchungen ausgeschlossen.
+
+30
+
+2.4.3 Versuchsreihe 1 (ohne Hyperthermie)
+
+Zur besseren Beurteilung der Effekte der Hyperthermie wurden in der
+ersten Versuchsreihe die Experimente unter Kontrollbedingungen, das
+heißt ohne Hyperthermie, durchgeführt. Die Versuchsreihe bestand aus
+drei Perioden: Vorlaufphase, in der Hirnpräparate 15 min. in der
+Versuchskammer mit ASCF-Lösung ( Lsg. 2, Tab. 2-1) superfundiertert
+wurden, um die spontane neuronale Aktivität auszuschließen.
+In der zweiten Periode wurde ACSF-Lösung durch Niedrig NaCl-Lösung
+(Lsg. 3, Tab. 2-1) ausgetauscht. Während des anschließenden 60 min.
+dauernden Beobachtungszeitraumes wurden reizinduzierte schnelle
+extrazelluläre
+
+Feldpotentiale
+
+sowie
+
+die
+
+spontanen
+
+Feldpotentiale
+
+kontinuierlich aufgezeichnet.
+Die dritte Periode diente als Erholungsphase wieder zur Kontrolle der
+spontan auftretenden neuronalen Aktivitäten. In der 15 -minütigen letzten
+Phase wurde die hypoosmotische Lösung aus dem Hirnschnitt durch
+ACSF ausgewaschen und auf spontane neuronale Ereignisse untersucht.
+
+2.4.4 Versuchsreihe 2
+
+In der zweiten Versuchsreihe wurden Experimente in vitro erst unmittelbar
+nach Erzeugung einer Hyperthermie bzw. 4 Wochen später durchgeführt.
+Sie gliederte sich wie oben beschriebene Kontrollversuchsreihe in drei
+Perioden. Nach einer 15 -minütigen Vorlaufphase (Lsg. 2, Tab. 2-1)
+wurden durch das Umstellen der Badlösung durch Niedrig NaCL-Lösung
+31
+
+für weitere 60 min. unphysiologische Bedingungen geschaffen, die zur
+Auslösung von SD und epileptiforme Aktivitäten führten.
+Darauf folgte eine Auswaschphase, in der die Schnitte mit ACSF (Lsg.2,
+Tab. 2-1) 15 min. superfundiert wurden.
+
+2.4.5 Versuchsreihe 3
+
+Die dritte Versuchsreihe bestand aus zwei Perioden. Die experimentellen
+Untersuchungen wurden sofort oder vier Wochen nach der Hyperthermie
+durchgeführt.
+
+Wie
+
+bei
+
+den
+
+anderen
+
+Versuchsreihen
+
+wurden
+
+Schnittpräparate nach vorausgehender 15 -minütiger Kontrollphase mit
+ACSF (Lsg. 2, Tab. 2-1) perfundiert und wenn keine spontane Ereignisse
+aufgetreten waren, wurde
+
+zur nun folgenden Auslösung der Spreading
+
+Depression Tropfenapplikation angewandt. Dabei wurde ein kleines
+Tropfen der KCl-Lösung aus der Injektionspritze peripher am Neucortex
+angebrachten Messelektroden direkt auf die Hirnschnittoberfläche
+appliziert. Bei den Versuchen dieser Reihe wurde stets darauf geachtet,
+dass die Schnitte so positioniert waren, dass die lokale KCl-Applikation
+gegen die Flussrichtung der Badlösung erfolgte. Darauf folgten 60
+Minuten Erholungsphase unter Kontrollbedingung (ACSF).
+
+32
+
+Name
+1
+
+NaCl
+
+KCl
+
+NaH2PO4 MgSO4
+
+NaHCO3
+
+CaCl2
+
+Glucose
+
+(mmol/l)
+
+(mmol/l)
+
+(mmol/l)
+
+(mmol/l)
+
+(mmol/l)
+
+(mmol/l)
+
+(mmol/l)
+
+4
+
+1,24
+
+1,3
+
+26
+
+1
+
+10
+
+124
+
+4
+
+1,24
+
+1,3
+
+26
+
+2
+
+10
+
+62
+
+4
+
+1,24
+
+1,3
+
+26
+
+2
+
+10
+
+Präinkubations- 124
+Lösung (Y I)
+
+2
+
+InkubationsLösung (Y II)
+
+3
+
+Badlösung
+(Low NaCl)
+
+Tab. 2-1: Zusammensetzung der verwendeten Lösungen (Y I: Yamamoto
+I; Y II: Yamamoto II, Yamamoto, 1972; Niedrig- NaCl-Lösung).
+
+33
+
+2.5 Auswertung
+
+Alle Signale wurden unter Zuhilfenahme eines Personalcomputers bei
+Verwendung eines Datenerfassungsprogramm AxoScope registriert und
+aufgezeichnet (Version10.1, Axon Instruments). Die aufgenommenen
+Feldpotentialantworten wurden einzeln mittels Cursors (AxoScope)
+vermessen. Die statistische Auswertung erfolgte mittels eines
+Computerprogramm Sigma Plot8.0. Die statistische Angaben werden in
+der Form: Mittelwert +/- Standartabweichung des Mittelwertes (S.E.M.)
+angegeben.
+Für die Auswertung wurden nur die Versuche genommen, die keine
+spontane neuronale Aktivität in 15 min. der Vorlaufphase zeigten.
+Die SD wurde auf folgende Parametern untersucht:
+1. Latenz: Die Zeit vom Beginn der Einwaschphase mit Low NaClLösung bis zum ersten Auftreten einer SD in der zweiten Periode.
+2. Frequenz: Die Anzahl der SD während der Einwaschphase.
+3. Amplitude: Elektrophysiologische Messungen wurden nur
+in Hirnschnitten ausgeführt, deren Feldpotentialantwort, die durch Low
+NaCl- btw. KCl-Lösung ausgelöst wurden, mindestens 5 mV betrug, das
+bedeutet ein Betrag der Differenz von positivster und negativster
+Potentialspitze P1 und P2 („peak-to peak“).
+4. Dauer: Der Zeitraum, über dem sich der DC-Fluktuation erstreckte. Zur
+Bestimmung der Dauer der SD-Welle wurde Anfang und Ende der DCPotentialnegativierung gemessen.
+
+34
+
+Die epileptischen Entladungen in den Schnitten wurden nach folgenden
+Auswertungskriterien ebenso charakterisiert:
+1. Latenz: Die Zeit vom Beginn der Einwaschphase mit Low NaClLösung bis zum ersten Auftreten epileptischer Aktivität.
+2. Frequenz: Die Anzahl der EFP, die durch Lösungen induziert wurden,
+in 5 minutenlangen Abständen.
+3. Amplitude: Peak1 to Peak2 -Abstand (Spitze-Spitze-Abstand)
+als Maxima der Kurve in positiver und negativer Richtung. Zur
+Auswertung wurden nur die epileptische Aktivität genommen, deren
+Amplitude mindestens 0,2 mV betrug.
+4. Dauer: Der Zeitraum, über dem sich eine epileptiforme Aktivität
+erstreckte. Die EFP wurde zwischen Anfang (t1) und Ende (t2) einer EFP
+pro 5 min der zweiten Periode ausgemessen.
+Eine Übersicht der analysierten Parametern gibt Abb. 2-1 und 2-2.
+
+35
+
+KCl
+
+Abb. 2-1: Typischer Verlauf einer KCl-induzierten SD. Nach 1 bis 2 s erfolgte der
+abrupte Beginn der DC-Potentialnegativierung einer SD. Die Pfeilen zeigen auf die
+analysierten SD-Parameter: Amplitude zwischen maximal positiven Peak1 und
+maximal negativen Peak2 (als Spitze-Spitze-Abstand der Kurve) in mV und Dauer der
+DC-Fluktuation in Minuten.
+
+Abb. 2-2: Beispiel für epileptische Entladungen. Ableitung aus der CA1 Region
+hippocampaler Gewebeschnitten zeigte, dass sich kurz nach Induktion von Low NaClLösung epileptifsche Entladungen ausbilden. Die Pfeile weisen auf die analysierten
+EFP-Parameter: Amplitude zwischen Peak1 und Peak2 (maximaler Abstand) in mV
+und Dauer zwischen t1 und t2 einer epileptischen Entladung in Sekunden.
+
+36
+
+3. Ergebnisse
+Im nachfolgenden Kapitel werden
+
+Ergebnisse aller
+
+ausgewerteten
+
+Versuche dargestellt. Es galt zu untersuchen in welcher Weise Einfluss
+des
+
+akuten und chronischen (vier Wochen nach Fieber- Auslösung)
+
+Effekts eines Fieberkrampfes in Bezug auf die Schwele der Auslösbarkeit
+der SD und epileptiformen Feldpotentiale im Hippokampus, Cortex und in
+der Amygdala nimmt. Die vier Hirnareale: Hippokampus, Amygdala,
+Temporal und Entorhinalcortex sind zusammengefasst, um einen
+Gesamteindruck graphisch darstellen zu können. Die Ergebnisse der
+Registrierungen wurden nach den Altersgruppen untersucht.
+
+3.1 Kontrollversuche
+Zur besseren Beurteilung der Effekte der Hyperthermie wurden in der
+ersten Versuchsreihe die Experimente unter Kontrollbedingungen an den
+gesunden Wistar-Ratten, das heißt ohne herbeigeführte Hyperthermie,
+durchgeführt. Es erfolgte parallele Aufnahme von der DC-Negativierung in
+allen vier zu untersuchenden Regionen. Um die Erregbarkeit des
+neuronalen Gewebes zu steigern wurde NaCl auf 50% in ACSF-Lösung
+reduziert.
+Insgesamt konnte in 46 Präparaten von 61 epileptische Aktivität durch
+Reduzierung der NaCl in ACSF induziert werden. Bei den 20 Schnitten
+wurde gleichzeitig SD und EFP registriert, bei 7 lediglich nur SD und bei 9
+
+37
+
+ausschließlich EFP. In 63,6% -Schnitten der Gruppe I wurde 29 SD
+beobachtet (4,5 ± 0,7 pro 1 Schnitt). Bei den 75% Präparaten wurde in
+der Gruppe II das Auftreten von SD registriert, dabei lag die mittlere
+Anzahl von SD (n = 43) pro 1 Schnitt bei 5,7 ± 1,1. In der Gruppe III
+ergaben sich 52 SD (5,9 ± 0,2 SD pro 1 Schnitt) aus 80% Hirnschnitten.
+Bei den Ratten der Gruppe Ic wurden in 77,7% Gewebepräparaten 27
+SD ( 4,5 ± 1,0 pro 1 Schnitt) beobachtet. In 40% Präparaten der Gruppe
+IIc stellten wir insgesamt 14 SD (4,3 ± 0,8 pro 1 Schnitt) fest und in der
+IIIc war die Anzahl der SD insgesamt 4 (3,5 ± 0,5 pro Schnitt) in
+22,2% Schnitten. Demnach nahm die Bereitschaft zum Auslösen von
+epileptiformer Aktivität mit dem Alter ab (Abb. 3-10).
+Bei den ausgewerteten SD-Wellen veränderten sich die Amplituden in der
+Gruppe III signifikant (P = 0,02) im Vergleich zur Gruppe I (Abb.3-9). Die
+Latenz bis zum erscheinen der ersten SD war in der Gruppe Ic
+gegenüber der IIc und IIIc signifikant niedriger (P = 0,022).
+Der Vergleich der EFP- Ergebnisse in allen Gruppen zeigte einen
+statistisch signifikanten Unterschied der mittleren Frequenz. Die mittlere
+Frequenz pro 5 min war in der Gruppe II höher (P = 0,001) als in der
+Gruppe I. Signifikanter Unterschied war für die Dauer der EFP bei der
+Gruppe 3 (P = 0,002) festzustellen (Abb. 3-3).
+
+Der signifikante
+
+Unterschied der mittleren Frequenz wurde ebenso in der Gruppe IIc und
+IIIc festgestellt. Die Frequenz lag deutlich höher (P < 0,001) als in der
+Gruppe Ic. Die Dauer der EFP zeigte in der Gruppe IIc die höchsten
+Werte (P < 0,001) zwischen den 3 Gruppen (Abb. 3-4).
+Bei dem Vergleich CTRL- und CTRLc-Gruppen mit einander ergab sich
+eine signifikante Verkürzung der SD-Dauer (P = 0,001), demnach war die
+Dauer in der II und III Gruppe länger als in der IIc und IIIc (Abb. 3-9).
+Tab. 3-1 – 3-2 zeigen alle gemessenen SD- und EFP-Parameter von
+allen Altersgruppen dieses Versuches kompakt.
+38
+
+Gr.I
+
+Gr.II
+
+Gr.III
+
+Gr.Ic
+
+Gr.IIc
+
+Gr.IIIc
+
+Schnitt7
+Anzahl pro
+Gruppe
+
+9
+
+8
+
+7
+
+4
+
+2
+
+SD-Anzahl 29
+pro
+Gruppe
+
+43
+
+52
+
+27
+
+14
+
+4
+
+SDAmplitude
+in mV
+
+12,7 ± 0,7
+
+15,8 ± 0,6
+
+16,4 ± 1,0
+
+17,8 ± 0,8
+
+17,4 ± 2,1
+
+15,8 ± 3,0
+
+SD-Dauer
+in min
+
+3,6 ± 0,3 4,6 ± 0,3
+
+4,5 ± 0,3
+
+3,3 ± 0,2
+
+3,2 ± 0,2 2,7 ± 0,4
+
+9,7 ± 0,4
+
+18,3 ± 0,7
+
+19,3 ± 2,1
+
+SD-Beginn 5,1 ± 0,4
+in min
+
+Tab.
+
+3-1:
+
+8,6 ± 0,4
+
+Auswertung
+
+der
+
+Kombi-Präparaten
+
+20,2 ± 0,2
+
+(Hippokampus,
+
+Laterale
+
+Amygdala, Neocortex) von der Kontrollversuchsreihe in allen Altersgruppen:
+
+Gruppe I (p 7-13), Gruppe II (p 14-19), Gruppe III (p 20-24), Gruppe Ic (p
+35-41), Gruppe IIc (p 42-47) und Gruppe IIIc (48-52).
+Folgende SD-Parameter wurden in der Tabelle dargestellt: Anzahl der
+Hirnschnitten pro Gruppe, SD-Anzahl pro Gruppe, Amplitude in mV, Dauer in
+Minuten, Beginn in Minuten.
+
+39
+
+SchnittAnzahl pro
+Gruppe
+
+Gr.I
+
+Gr.II
+
+Gr.III
+
+Gr.Ic
+
+Gr.IIc
+
+Gr.IIIc
+
+6
+
+9
+
+10
+
+7
+
+3
+
+2
+
+EFP12,1 ± 2,3 40,5 ± 5,8 39,9 ± 4,7 71,9 ± 12,1 48,9 ± 4,4 48,5 ± 6,8
+Frequenz pro
+5 min
+EFP-Latenz
+in min
+
+7,3 ± 0,9
+
+11,2 ± 2,6
+
+12,2 ± 3,2 10,2 ± 2,9
+
+EFPAmplitude in
+mV
+
+0,3 ± 0,02 0,3 ± 0,01 0,3 ± 0,05 0,3 ± 0,03
+
+0,3 ± 0,03 0,3 ± 0,02
+
+EFP-Dauer in 0,8 ± 0,2
+sec
+
+7,6 ± 0,6
+
+0,6 ± 0,1
+
+8,9 ± 2,6
+
+1,2 ± 0,3
+
+0,6 ± 0,2
+
+0,8 ± 0,2
+
+0,5 ± 0,1
+
+Tab. 3-2: Auswertung der Kombi-Präparaten (Hippokampus, Laterale
+Amygdala, Neocortex) von der Kontrollversuchsreihe in allen Altersgruppen:
+
+Gruppe I (p 7-13), Gruppe II (p 14-19), Gruppe III (p 20-24), Gruppe Ic (p
+35-41), Gruppe IIc (p 42-47) und Gruppe IIIc (48-52) Folgende EFPParameter wurden in der Tabelle dargestellt: Anzahl der Hirnschnitten pro
+Gruppe, EFP-Frequenz pro 5 min, Latenzzeit in Minuten, Amplitude in mV,
+Dauer in Sekunden.
+
+40
+
+Gruppe I
+
+Gruppe II
+
+Grupper III
+
+Abb. 3-1: Wirkung von Low NaCl-Lösung auf SD in Amygdala-HippokampusNeucortex-Schnittpräparaten, Ratte (Kontrollversuch).
+A: Simultane Originalaufzeichnung von DC-Verschiebungen in 3 Gruppen:
+Gruppe I (p 7-13), Gruppe II (p 14-19), Gruppe III (p 20-24).
+FP 1 = Entorhinalcortex, FP 2 = Hippocampus, FP 3 = Amygdala,
+FP 4 = Temporalcortex.
+B: Die Propagation von SD ist am unterschiedlichen Beginn der SD-Auslenkung zu
+erkennen. Die gepunktete Linie zeigt den Unterschied zwischen
+
+vier SD-
+
+Anfangspunkten. Die häufigste SD-Propagation erfolgte in folgender Reihe :
+Gruppe I : Entorhinalcortex->Temporalkortex (n = 3)
+Gruppe II : Entorhinalcortex->Hippocampus->Amygdala->Temporalcortex (n = 3)
+Gruppe III : Amygdala->Hippocampus-> Entorhinalcortex->Temporalcortex (n = 3)
+
+41
+
+Gruppe Ic
+
+Gruppe IIc
+
+Gruppe IIIc
+
+Abb. 3-2: Wirkung von Low NaCl-Lösung auf SD in Amygdala-HippokampusNeucortex-Schnittpräparaten,
+
+Ratte
+
+(Kontrollversuch).
+
+A:
+
+Simultane
+
+Originalaufzeichnung von DC-Verschiebungen in 3 Kontroll-Gruppen:
+Gruppe Ic (p 35-41), Gruppe IIc (p 42-47) und Gruppe IIIc (p 48-52).
+FP 1 = Entorhinalcortex, FP 2 = Hippocampus, FP 3 = Amygdala,
+FP 4 = Temporalcortex.
+B: Die Propagation von SD ist am unterschiedlichen Beginn der SD-Auslenkung zu
+erkennen. Die gepunktete Linie zeigt den Unterschied zwischen
+Anfangspunkten. Die häufigste SD-Propagation erfolgte in folgender Reihe
+Gruppe Ic : Entorhinalcortex-> Hippocampus->Temporalcortex(n = 3)
+Gruppe IIc : Entorhinalcortex->Amygdala (n = 2)
+Gruppe IIIc: Temporalcortex->Amygdala->Hippocampus (n = 2)
+
+42
+
+vier SD-
+
+Gruppe I
+
+Gruppe II
+
+Gruppe III
+
+120
+
+100
+
+100
+
+80
+60
+40
+
+60
+40
+20
+
+0
+
+0
+10
+
+20
+
+30
+
+40
+
+50
+
+120
+100
+
+80
+
+20
+0
+
+*
+EF P / 5 min
+
+120
+
+EF P / 5 min
+
+EFP / 5 min
+
+B:
+
+60
+
+10
+
+20
+
+30
+
+60
+
+0
+
+0,8
+0,6
+0,4
+
+0,6
+0,4
+0,2
+
+0,0
+
+0,0
+
+40
+
+50
+
+60
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+0,0
+
+60
+
+1,0
+
+1,0
+
+1,0
+
+0,8
+0,6
+0,4
+0,2
+
+0,0
+
+0,0
+20
+
+30
+
+40
+
+Zeit (min)
+
+50
+
+60
+
+Dauer (sec)
+
+1,2
+
+Dauer (sec)
+
+1,4
+
+10
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+Zeit (min)
+
+1,2
+
+0,2
+
+60
+
+0,2
+
+1,4
+
+0,4
+
+50
+
+0,4
+
+1,2
+
+0,6
+
+40
+
+0,6
+
+Zeit (min)
+
+0,8
+
+30
+
+0,8
+
+1,4
+
+0
+
+20
+
+1,0
+
+0,8
+
+0,2
+
+30
+
+10
+
+Zeit (min)
+
+Amplitude ( mV)
+
+Amplitude (mV)
+
+Amplitude (mV)
+
+50
+
+Zeit (min)
+
+Zeit (min)
+
+Dauer (sec)
+
+40
+
+1,0
+
+20
+
+40
+
+0
+0
+
+1,0
+
+10
+
+60
+
+20
+
+Zeit(min)
+
+0
+
+80
+
+*
+
+0,8
+0,6
+0,4
+0,2
+0,0
+
+0
+
+10
+
+20
+
+30
+
+40
+
+Zeit (min)
+
+Abb. 3-3: (Legende siehe nächste Seite)
+
+43
+
+50
+
+60
+
+0
+
+10
+
+20
+
+30
+
+40
+
+Zeit (min)
+
+50
+
+60
+
+Abb. 3-3: Wirkung von Niedrig-NaCl-Lösung auf epileptiforme Feldpotentiale
+(EFP) in Amygdala-Hippokampus-Neucortex-Schnitt-präparaten, Ratten den
+Kontroll-Gruppen I-III (CTRL, ohne Hyperthermiebehandlung):
+Gruppe I (p 7-13), Gruppe II (p 14-19), Gruppe III (p 20-24).
+A: Originalaufzeichnung: Auslösung der EFP durch Superfusion von Low NaClLösung.
+B: Graphische Darstellung der EFP-Parameter: Frequenz von EFP, Amplitude
+in mV und Dauer in Sekunden in 5 minütigen Zeitintervall.
+Die mittlere Frequenz war in der Gruppe II (P = 0,001) signifikant höher als in
+der Gruppe I. Für die Dauer der EFP
+
+in der Gruppe III ergab sich einen
+
+signifikanten Unterschied (P = 0,002) im Vergleich zur Gruppe II.
+
+44
+
+Gruppe Ic
+
+Gruppe IIc
+
+Gruppe IIIc
+
+B:
+*
+
+100
+
+60
+
+80
+60
+
+40
+
+40
+
+20
+
+20
+
+0
+
+0
+10
+
+20
+
+30
+
+40
+
+Zeit (min)
+
+50
+
+1,0
+
+0,8
+
+0,8
+
+0,4
+0,2
+
+40
+
+50
+
+10
+
+20
+
+30
+
+40
+
+50
+
+Dauer (sec)
+
+1,0
+0,8
+0,6
+0,4
+
+0,4
+
+10
+
+20
+
+30
+
+40
+
+Zeit (min)
+
+50
+
+60
+
+20
+
+30
+
+40
+
+50
+
+60
+
+50
+
+60
+
+50
+
+60
+
+0,8
+0,6
+0,4
+
+10
+
+20
+
+30
+
+40
+
+Zeit (min)
+
+50
+
+0,0
+0
+
+60
+
+10
+
+20
+
+30
+
+40
+
+Zeit (min)
+
+1,4
+
+1,4
+
+1,2
+
+1,2
+
+1,0
+
+1,0
+
+0,8
+0,6
+0,4
+
+0,0
+
+10
+
+0,2
+
+0,8
+0,6
+0,4
+0,2
+
+0,2
+
+0,2
+
+40
+
+1,0
+
+0
+
+1,2
+
+60
+
+Zeit (min)
+
+0,0
+
+60
+
+80
+
+0
+0
+
+60
+
+0,2
+
+1,4
+
+Dauer (sec)
+
+30
+
+0,6
+
+Zeit (min)
+
+0,0
+0
+
+20
+
+Dauer (sec)
+
+0,0
+0
+
+10
+
+Zeit (min)
+
+1,0
+
+100
+
+20
+0
+
+60
+
+0,6
+
+120
+
+Amplitude (mV)
+
+80
+
+140
+
+EF P / 5 min
+
+100
+
+EFP / 5 min
+
+120
+
+0
+
+Amplitude (mV)
+
+140
+
+120
+
+Am plitude ( mV)
+
+EFP / 5 min
+
+140
+
+0,0
+0
+
+10
+
+20
+
+30
+
+40
+
+Zeit (min)
+
+Abb. 3-4: (Legende siehe nächste Seite)
+45
+
+50
+
+60
+
+0
+
+10
+
+20
+
+30
+
+40
+
+Zeit (min)
+
+Abb. 3-4: Wirkung von Niedrig NaCl-Lösung auf epileptiforme Feldpotentiale
+(EFP) in Amygdala-Hippokampus-Neucortex-Schnitt-präparaten, Ratten der
+Kontroll-Gruppen Ic-IIIc (CTRLc, ohne Hyperthermiebehandlung, entsprechen
+dem Alter von Ratten der chronischen Hyperthermie):
+Gruppe Ic (p 35-41), Gruppe IIc (p 42-47) und Gruppe IIIc (p 48-52).
+A: Originalaufzeichnung: Auslösung der EFP durch Superfusion von Low NaClLösung.
+B: Graphische Darstellung der EFP-Parameter: Frequenz von EFP, Amplitude
+in mV und Dauer in Sekunden pro 5 Minuten.
+Die mittlere Frequenz war in der Gruppe Ic (P < 0,001) signifikant höher als in
+der Gruppe IIc und IIIc.
+
+46
+
+3.2.
+
+Wirkung der akuten und chronischen Hyperthermie auf
+
+die Erregbarkeit des Hirngewebes von juvenilen Ratten
+
+In Vitro-Experimenten wurden zwei Modelltypen verwendet. Ein akutes
+Anfallsmodell, bei dem durch thermische Induktion ein epileptischer Anfall
+ausgelöst wurde. Und ein chronisches Epilepsie-Modell, bei dem die
+Tiere durch einen primären Fieberkrampf, der eben so thermisch
+ausgelöst wurde, nach einer
+
+Latenzzeit (vier Wochen)
+
+durch einen
+
+unphysiologischen Reiz hypersensible neuronale Aktivitäten zeigten, in
+Form von SD und epileptischen Entladungen.
+
+3.2.1 Auslösung der SD und EFP durch Superfusion von
+reduziertem NaCl (50%) in ACSF-Lösung
+
+Als pathologischer Reiz diente in diesem Versuch, wie auch bei den
+Kontrollversuchen, die niedrigdosierte NaCl-ACSF-Lösung.
+Insgesamt konnte in 47 Präparaten von 63 epileptische Aktivität durch
+Reduzierung der NaCl in ACSF induziert werden. Bei den 24 Schnitten
+wurde gleichzeitig SD und EFP registriert, bei 6 lediglich nur SD und bei
+17 ausschließlich EFP.
+In 21,6% -Schnitten der Gruppe I wurde 10 SD beobachtet (3,0 ± 0,6 pro
+1 Schnitt).
+
+Bei den 19,9% Präparaten wurde in der Gruppe II das
+
+Auftreten von SD registriert, dabei lag die mittlere Anzahl von SD (n = 19)
+pro 1 Schnitt bei 4,0 ± 1,5. In der Gruppe III ergaben sich 19 SD (5,6 ±
+47
+
+1,2 SD pro 1 Schnitt) aus 40% Hirnschnitten. Insgesamt nahm die
+Sensibilität zum Auslösen der neuronalen Aktivitäten nach dem akuten
+Fieberkrampf im Vergleich zu den Kontroll-Gruppen ab, wobei die älteren
+Ratten eine höhere Sensibilität gegen sehr jungen Ratten zeigten (Abb.
+3-10).
+Bei den Ratten der Gruppe Ic wurden in 27,3% Gewebepräparaten 14
+SD (3,6 ± 0,7
+
+pro 1 Schnitt) beobachtet. In 63,6% Präparaten der
+
+Gruppe IIc stellten wir insgesamt 21 SD (3,6 ± 0,4 pro 1 Schnitt) fest und
+in der IIIc die Anzahl der SD war insgesamt 34 (5,5 ± 0,6 pro Schnitt) in
+100 % Schnitten. Verglichen der IIIc mit der Kontollgruppen III (22,2%)
+dieses Alters war die Bereitschaft epileptiforme Aktivität auszulösen um
+4,5 mal höher (Abb. 3-10).
+Es besteht einen signifikanten Unterschied für die Frequenz von EFP der
+akuten und chronischen Hyperthermie-Gruppen: die mittlere Frequenz
+der Gruppe III lag deutlich höher (P < 0,001) als bei der Gruppe I und II
+der akuthyperthermierten Tieren und die Frequenz der Gruppe IIIc lag
+deutlich höher (P = 0,001) als bei der Gruppe Ic der vier Wochen nach
+dem Fieber Ratten. Die Dauer der epileptiformen Aktivität zeigte eben so
+den statistisch signifikanten Unterschied. Demnach hat die Dauer in der
+Gruppe II
+
+die höchsten Werte (P = 0,002) zwischen allen Gruppen des
+
+akuten Hyperthermiemodells (Abb. 3-7 - 3-8).
+Bei der Auswertung von SD-Parameter waren signifikante Unterschiede
+für die mittlere Amplitude und
+
+Dauer in der chronischen Form der
+
+Hyperthermie auszumachen. Die SD von der Gruppe IIIc zeigte eine
+Amplitude, die deutlich niedriger
+
+war (P = 0,003) als in restlichen
+
+Gruppen. Die Dauer der SD in der Gruppe IIIc war länger (P = 0,02) im
+Vergleich zu der Gruppe Ic (Abb. 3-9). Die Latenz bis zum erscheinen der
+ersten SD war in der Gruppe III (6,1 ± 07 min) gegenüber der Gruppe I
+(9,1 ± 1,2 min) signifikant erniedrigt (P = 0,002) und vier Wochen nach
+der Hyperthermiebehandlung fand sich die Latenz bis zum erscheinen
+48
+
+der ersten SD
+
+in der Gruppe Ic gegenüber der Gruppe IIc und IIIc
+
+signifikant höher (P = 0,022).
+
+Tab. 3-3 – 3-4 zeigen alle gemessenen SD- und EFP-Parameter von allen
+Altersgruppen dieses Versuches kompakt.
+Gr.I
+
+Gr.II
+
+Gr.III
+
+Gr.Ic
+
+Gr.IIc
+
+Gr.IIIc
+
+SchnittAnzahl
+pro
+Gruppe
+
+4
+
+3
+
+4
+
+4
+
+7
+
+9
+
+SDAnzahl
+pro
+Gruppe
+
+10
+
+16
+
+19
+
+14
+
+21
+
+34
+
+14,0 ± 2,1 15,1 ± 1,8 17,3 ± 1,2 18,1 ± 2,0 17,4 ± 1,2 13,7 ± 1,0
+SDAmplitude
+in mV
+
+SD-Dauer 3,6 ± 0,6
+in min
+
+4,6 ± 0,3
+
+4,5 ± 0,4
+
+3,6 ± 0,3
+
+4,8 ± 0,3
+
+5,2 ± 0,4
+
+9,1 ± 1,2
+SDBeginn in
+min
+
+6,8 ± 0,9
+
+6,1 ± 07
+
+19,1 ± 2,5
+
+14,0 ± 1,8
+
+12,5 ± 0,8
+
+Tab.
+
+3-3:
+
+Amygdala,
+
+Auswertung
+Neocortex)
+
+der
+
+Kombi-Präparaten
+von
+
+der
+
+(Hippokampus,
+
+akuten
+
+und
+
+Laterale
+
+chronischen
+
+Hyperthermieversuchsreihe in allen Altersgruppen: Gruppe I (p 7-13), Gruppe II
+(p 14-19), Gruppe III (p 20-24), Gruppe Ic (p 35-41), Gruppe IIc (p 42-47) und
+Gruppe IIIc (p 48-52). Folgende SD-Parameter wurden in der Tabelle
+dargestellt: Anzahl der Hirnschnitten pro Gruppe, SD-Anzahl pro Gruppe,
+Amplitude in mV, Dauer in Minuten, Beginn in Minuten.
+
+49
+
+Gr.I
+
+Gr.II
+
+Gr.III
+
+Gr.Ic
+
+Gr.IIc
+
+Gr.IIIc
+
+5
+
+4
+
+4
+
+4
+
+5
+
+9
+
+EFP9,3 ± 1,8
+Frequenz
+pro 5 min
+
+9,9 ± 3,5
+
+26,5 ± 5,5 25,4 ± 7,4 61,6 ± 6,5 76,8 ± 6,7
+
+EFP9,2 ± 1,5
+Latenz in
+min
+
+7,2 ± 1,6
+
+5,4 ± 0,9
+
+SchnittAnzahl
+pro
+Gruppe
+
+10,1 ± 5,8 6,7 ± 2,4
+
+5,8 ± 1,2
+
+EFP0,45±0,07 0,35±0,03 0,4 ± 0,02 0,45±0,08 0,45±0,03 0,4 ± 0,09
+Amplitude
+in mV
+EFPDauer in
+sec
+Tab.
+
+3-4:
+
+Amygdala,
+
+0,6 ± 0,1
+
+0,9 ± 0,1
+
+Auswertung
+Neocortex)
+
+der
+
+0,8 ± 0,1
+
+0,45 ± 0,2 0,5 ± 0,3
+
+Kombi-Präparaten
+von
+
+der
+
+0,7 ± 0,4
+
+(Hippokampus,
+
+akuten
+
+und
+
+Laterale
+
+chronischen
+
+Hyperthermieversuchsreihe in allen Altersgruppen: Gruppe I (p 7-13), Gruppe II
+(p 14-19), Gruppe III (p 20-24), Gruppe Ic (p 35-41), Gruppe IIc (p 42-47) und
+Gruppe IIIc (p 48-52). Folgende EFP-Parameter wurden in der Tabelle
+dargestellt: Anzahl der Hirnschnitten pro Gruppe, EFP-Frequenz pro 5 min,
+Latenzzeit in Minuten, Amplitude in mV, Dauer in Sekunden.
+
+50
+
+Gruppe I
+
+Gruppe II
+
+Gruppe III
+
+Abb. 3-5: Wirkung von Low NaCl-Lösung auf SD in Amygdala-HippokampusNeucortex-Schnittpräparaten, Ratte nach der akuten Hyperthermie.
+A: Simultane Originalaufzeichnung von DC-Verschiebungen in 3 Gruppen:
+Gruppe I (p 7-13), Gruppe II (p 14-19), Gruppe III (p 20-24).
+FP 1 = Entorhinalcortex, FP 2 = Hippocampus, FP 3 = Amygdala,
+FP 4 = Temporalcortex.
+B: Die Propagation von SD ist am unterschiedlichen Beginn der SD-Auslenkung
+zu erkennen. Die gepunktete Linie zeigt den Unterschied zwischen vier SDAnfangspunkten. Die häufigste SD-Propagation erfolgte in folgender Reihe :
+Gruppe I :Temporalcortex->Amygdala->Entorhinalcortex(n = 2)
+Gruppe II : Entorhinalcortex-> Temporalcortex->Amygdala(n = 2)
+Gruppe III : Entorhinalcortex-> Temporalcortex->Amygdal->Hippocampus(n = 2)
+
+51
+
+Gruppe Ic
+
+Gruppe IIc
+
+Gruppe IIIc
+
+Abb. 3-6: Wirkung von Low NaCl-Lösung auf SD in Amygdala-HippokampusNeucortex-Schnittpräparaten, Ratte nach der chronischen Hyperthermie.
+A: Simultane Originalaufzeichnung von DC-Verschiebungen in 3 Gruppen:
+Gruppe Ic (p 35-41), Gruppe IIc (p 42-47) und Gruppe IIIc (p 48-52).
+FP 1 = Entorhinalcortex, FP 2 = Hippocampus, FP 3 = Amygdala,
+FP 4 = Temporalcortex.
+B: Die Propagation von SD ist am unterschiedlichen Beginn der SD-Auslenkung zu
+erkennen. Die gepunktete Linie zeigt den Unterschied zwischen
+Anfangspunkten. Die häufigste SD-Propagation erfolgte in folgender Reihe :
+Gruppe I : Entorhinalcortex->Temporalcortex->Amygdala (n = 2)
+Gruppe II : Temporalcortex->Amygdala->Entorhinalcortex (n = 2)
+Gruppe III : Entorhinalcortex ->Temporalcortex->Amygdala-(n = 4)
+
+52
+
+vier SD-
+
+Gruppe I
+
+Gruppe II
+
+Gruppe III
+
+120
+
+120
+
+100
+
+100
+
+100
+
+80
+60
+40
+
+80
+60
+40
+
+20
+
+20
+
+0
+
+0
+0
+
+10
+
+20
+
+30 40
+Zeit (min)
+
+50
+
+60
+
+0,6
+0,4
+0,2
+0,0
+
+10
+
+20
+
+30 40
+Zeit (min)
+
+50
+
+10
+
+20
+
+30 40
+Zeit (min)
+
+50
+
+40
+
+0,6
+0,4
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+*
+
+1,0
+
+Dauer (sec)
+
+1,0
+0,8
+0,6
+0,4
+
+10
+
+20
+
+0,0
+50
+
+60
+
+0
+
+10
+
+20
+
+30 40
+Zeit (min)
+
+50
+
+60
+
+50
+
+60
+
+0,8
+0,6
+0,4
+0,2
+
+0,2
+0,0
+30 40
+Zeit (min)
+
+0
+
+1,4
+
+1,0
+
+0,2
+
+60
+
+0,0
+0
+
+1,2
+
+0,4
+
+50
+
+0,2
+
+1,2
+
+0,6
+
+40
+
+0,4
+
+Zeit (min)
+
+0,8
+
+30
+
+0,6
+
+1,4
+
+20
+
+20
+
+0,8
+
+1,2
+
+10
+
+10
+
+1,0
+
+1,4
+
+0
+
+0
+
+Zeit (min)
+
+0,8
+
+0,0
+
+60
+
+60
+
+60
+
+0,2
+0
+
+80
+
+0
+0
+
+Amplitude (mV)
+
+Amplitude (mV)
+
+0,8
+
+*
+
+20
+
+1,0
+
+Dauer (sec)
+
+Amplitude (mV)
+
+1,0
+
+Dauer (sec)
+
+EFP / 5 min
+
+120
+
+EFP / 5 min
+
+EFP / 5 min
+
+B:
+
+0,0
+0
+
+10
+
+20
+
+30 40
+Zeit (min)
+
+Abb. 3-7: (Legende siehe nächste Seite)
+53
+
+50
+
+60
+
+30
+
+40
+
+Zeit (min)
+
+Abb. 3-7: Wirkung von Niedrig-NaCl-Lösung auf epileptiforme Feldpotentiale
+(EFP) in Amygdala-Hippokampus-Neucortex-Schnitt-präparaten, Ratten nach
+der akuten Hyperthermie, Gruppen I-III: Gruppe I (p 7-13), Gruppe II (p 14-19),
+Gruppe III (p 20-24).
+A: Originalaufzeichnung: Auslösung der EFP durch Superfusion von Low NaClLösung.
+B: Graphische Darstellung der EFP-Parameter: Frequenz von EFP , Amplitude
+in mV und Dauer in sec pro 5 min.
+Die mittlere Frequenz war in der Gruppe III (P < 0,001) signifikant höher als in
+der Gruppe I und II. Für die Dauer der EFP ergab sich in der Gruppe II einen
+signifikanten Unterschied (P = 0,002) im Vergleich zur Gruppe I.
+
+54
+
+Gruppe Ic
+
+Gruppe IIc
+
+Gruppe IIIc
+
+B:
+
+120
+
+120
+
+100
+
+100
+
+80
+
+80
+
+EFP / 5 min
+
+60
+40
+20
+0
+
+10
+
+20
+30
+40
+Zeit (min)
+
+50
+
+60
+
+60
+40
+
+0
+0
+
+10
+
+20
+
+30
+40
+Zeit (min)
+
+50
+
+60
+
+0
+
+1,0
+
+1,0
+
+0,8
+
+0,8
+
+0,8
+
+0,4
+0,2
+0,0
+
+Amplitude (mV)
+
+1,0
+
+0,6
+
+0,6
+0,4
+0,2
+0,0
+
+0
+
+10
+
+20
+
+30
+40
+Zeit (min)
+
+50
+
+60
+
+*
+
+20
+
+0
+
+Amplitude (mV)
+
+Amplitude (mV)
+
+40
+20
+
+0
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+0
+
+1,2
+
+1,0
+
+1,0
+
+0,4
+
+0,8
+0,6
+0,4
+
+0,2
+
+0,0
+
+0,0
+
+50
+
+60
+
+20
+
+30
+40
+Zeit (min)
+
+50
+
+60
+
+0,4
+
+0,0
+40
+
+30
+40
+Zeit (min)
+
+0,6
+
+0,2
+30
+
+20
+
+0,8
+
+0,2
+
+Zeit (min)
+
+10
+
+1,4
+
+1,0
+
+0,6
+
+60
+
+0,0
+
+60
+
+1,2
+
+0,8
+
+50
+
+0,2
+
+1,4
+
+20
+
+30
+40
+Zeit (min)
+
+0,4
+
+1,2
+
+10
+
+20
+
+0,6
+
+1,4
+
+0
+
+10
+
+Zeit (min)
+
+Dauer (sec)
+
+Dauer (sec)
+
+60
+
+D auer (se c)
+
+EF P / 5 min
+
+80
+
+EFP / 5 min
+
+120
+100
+
+0
+
+10
+
+20
+
+30
+
+40
+
+Zeit (min)
+
+Abb. 3-8: (Legende siehe nächste Seite)
+
+55
+
+50
+
+60
+
+0
+
+10
+
+50
+
+60
+
+Abb. 3-8: Wirkung von Niedrig-NaCl-Lösung auf epileptiforme Feldpotentiale
+(EFP) in Amygdala-Hippokampus-Neucortex-Schnitt-präparaten, Ratten nach
+der chronischen Hyperthermie, Gruppen Ic-IIIc:
+Gruppe Ic (p 35-41), Gruppe IIc (p 42-47) und Gruppe IIIc (p 48-52).
+A: Originalaufzeichnung: Auslösung der EFP durch Superfusion von Low NaClLösung.
+B: Graphische Darstellung der EFP-Parameter: Frequenz von EFP, Amplitude
+in mV und Dauer in Sekunden pro 5 Minuten. Die mittlere Frequenz war in der
+Gruppe IIIc (P < 0,001) signifikant höher als in der Ic.
+
+56
+
+A: mittelwertige Dauer einer SD
+8
+
+*
+Dauer (min)
+
+6
+
+4
+
+2
+
+0
+CTRL
+Gr.I-III
+
+akute HT
+Gr.I-III
+
+chronische HT
+Gr.Ic-IIIc
+
+CTRL
+Gr.Ic-IIIc
+
+B: mittelwertige Amplitude einer SD
+25
+
+20
+
+Amplitude (mV)
+
+*
+15
+
+10
+
+5
+
+0
+CTRL
+Gr.I-III
+
+akute HT
+Gr.I-III
+
+chronische HT
+Gr.Ic-IIIc
+
+CTRL
+Gr.Ic-IIIc
+
+Gruppe I
+Gruppe II
+Gruppe III
+
+Abb. 3-9: (Legende siehe nächste Seite)
+
+57
+
+Abb. 3-9: Graphische Darstellung der SD-Parameter: die Mittelwerte der Dauer
+in Minuten und Amplitude in mV nach der Superfusion von Low NaCl-Lösung in
+Amygdala-Hippokampus-Neucortex-Schnittpräparaten,
+
+Ratten.
+
+Kontrolle
+
+(CTRL), akute Hyperthermie und chronische Hyperthermie, Kontrolle (CTRLc
+entspricht dem Alter von Tieren der chronischen Hyperthermie). Gruppe I (p 713), Gruppe II (p 14-19), Gruppe III (p 20-24), Gruppe Ic (p 35-41), Gruppe IIc
+(p 42-47) und Gruppe IIIc (p 48-52).
+A: Die Dauer der DC-Negativierung zeigte einen signifikanten Unterschied
+
+in
+
+der Gruppe IIIc nach der chronischen Hyperthermie (P = 0,003) im Vergleich
+zur Gruppe Ic und IIc vom gleichen Versuch. Die mittlere SD-Dauer nach der
+chronischen Hyperthermie verlängerte sich signifikant in der Gruppen IIc
+(P = 0,001) und IIIc (P < 0,001) im Vergleich zur Kontrolle von Ratten des
+gleichen Alters.
+B: Der Mittelwert der Amplituden war signifikant höher bei der Gruppe IIIc
+nach der chronischen Hyperthermie (P = 0,02) als bei der Gruppe Ic und IIc
+vom gleichen Versuch. Vier Wochen nach der Hyperthermie ergab sich in der
+Gruppe IIIc Feldpotentialabfall mit 13,7 ± 1,0 mV ein im Vergleich zur Kontrolle
+15,8 ± 2,2 signifikant (P = 0,04) niedriger Wert.
+
+58
+
+A: prozentuales Verhältnis von Hirnschnittpräparaten, bei denen SD
+registriert wurden, zu den gesamten Schnitten pro Gruppe in %.
+
+100
+
+80
+
+%
+
+60
+
+40
+
+20
+
+0
+Gr.I-III
+
+Gr.I-III
+
+Gr.Ic-IIIc
+
+CTRL
+
+akute HT
+
+chronische HT
+
+Gr.Ic-IIIc
+CTRL
+
+B: mittelwertige SD-Anzahl pro 1 Schnittpräparat
+10
+
+*
+
+SD-Anzahl
+
+8
+
+*
+
+*
+*
+
+6
+
+4
+
+2
+
+0
+Gr.I-III
+CTRL
+
+Gr.I-III
+Gr.Ic-IIIc
+akute HT chronische HT
+
+Gr.Ic-IIIc
+CTRL
+
+Gruppe I
+Gruppe II
+Gruppe III
+
+Abb. 3-10: (Legende siehe nächste Seite)
+
+59
+
+Abb. 3-10: Wirkung von Low NaCl-Lösung auf SD in Amygdala-HippokampusNeucortex-Schnittpräparaten, Ratten. Gruppen I-III: Kontrolle
+
+(CTRL), akute
+
+Hyperthermie und chronische Hyperthermie, Kontrolle (CTRLc entspricht dem
+Alter von Tieren der chronischen Hyperthermie): Gruppe I (p 7-13), Gruppe II
+(p 14-19), Gruppe III (p 20-24), Gruppe Ic (p 35-41), Gruppe IIc (p 42-47) und
+Gruppe IIIc (p 48-52).
+A: Prozentuales Verhältnis von Hirnschnittpräparaten, bei denen SD registriert
+wurden, zu den gesamten Schnitten pro Gruppe in %.
+B: Durchschnittliche SD-Anzahl pro 1 Schnittpräparat. Signifikanter Unterschied
+war in der folgenden Gruppen auszumachen: (P = 0,03) in der Kontroll-Gruppe
+III ( 5,9 ± 0,2) im Vergleich zur Kontroll-Gruppe I (4,5 ± 0,7); (P = 0,04) bei der
+Kontroll-Gruppe Ic (4,5 ± 1,0) im Vergleich zur Kontroll-Gruppe IIIc (2,5 ± 0,5);
+(P = 0,03) in der Gruppe III des akuten Hyperthermiemodells (5,6 ± 1,2) im
+Vergleich zur Gruppe I (3,0 ± 0,6);
+
+(P = 0,01) bei der Gruppe IIIc des
+
+chronischen Hyperthermiemodells (5,5 ± 0,6) im Vergleich zur (3,6 ± 0,7)
+Gruppe Ic und IIc (3,6 ± 0,4).
+
+60
+
+3.2.2 Auslösung
+
+der
+
+SD
+
+und
+
+EFP
+
+durch
+
+extrazelluläre
+
+Tropfenapplikation einer 2mmol/l KCl-Lösung
+Die experimentell am häufigsten verbreitete Methode SD auszulösen ist
+die
+
+kortikale
+
+Applikation
+
+von
+
+Kaliumchlorid.
+
+Die
+
+extrazelluläre
+
+physiologische Kaliumkonzentration beträgt im Gehirn 3mM und kann
+sich während neuronaler Aktivität auf 12 mM erhöhen (Somjen, 1975).
+Während einer SD können die Werte auf 40 bis 60 mM ansteigen
+(Lauritzen, Hansen, 1992). Um SD reproduzierbar auszulösen wurde in
+dieser Versuchsreihe diese Sequenz mit einer Tropfenapplikation einer
+2 M KCl-Lösung aus einer Injektionsspritze lateral der Messelektroden
+vorgenommen. Die Negativierung des DC-Potential erfolgte abrupt und
+ohne jegliche Latenzzeit.
+Es wurden 67 Versuche durchgeführt, bei denen 13 Gewebepräparate
+nicht auf die KCl-Lösung reagiert haben. In den 36 Schnitten wurden
+gleichzeitig SD und EFP registriert, bei 14 lediglich nur SD und bei 4
+ausschließlich EFP.
+In 50,6% -Schnitten der Gruppe I wurden 5 SD beobachtet (1,8 ± 0,3 pro
+1 Schnitt). Bei den 45,4% Präparaten wurde in der Gruppe II das
+Auftreten von SD registriert, dabei lag die mittlere Anzahl von SD (n = 17)
+pro 1 Schnitt bei 3,1±0,3. In der Gruppe III ergaben sich 22 SD (3,3 ± 0,4
+SD pro 1 Schnitt) aus 77,7% Hirnschnitten.
+Bei den Ratten der Gruppe Ic wurden in 75,3% Gewebepräparaten 25
+SD (2,1 ± 0,3
+
+pro 1 Schnitt) beobachtet. In 66,6% Präparaten der
+
+Gruppe IIc stellten wir insgesamt 12 SD (2,8 ± 0,5 pro 1 Schnitt) fest und
+in der IIIc die Anzahl der SD war insgesamt 38 (3,1± 0,4 pro Schnitt) in
+100 % Schnitten (Abb. 3-16).
+Die Parameter der EFP: die Frequenz (P < 0,001) und die Dauer (P =
+0,04) zeigten signifikante Differenz zwischen 3 Gruppen vom akuten
+
+61
+
+Anfallsmodell. Wie man auch aus der graphischen Darstellung (Abb.3-13)
+erkennen kann besitzt die Gruppe III die höchsten Werte. Im chronischen
+Epilepsie-Modell ergab sich die gleiche Tendenz bezüglich des
+Unterschiedes
+
+von
+
+EFP-Parameter
+
+zwischen
+
+allen
+
+Gruppen.
+
+Im
+
+Gegensatz zu der Ic und IIc war die Frequenz (P = 0,007), die Amplitude
+(P = 0,003) und die Dauer (P = 0,011) der Gruppe IIIc ebenso signifikant
+höher (Abb.3-14).
+Ein signifikanter Effekt nach der KCl-Applikation zeigte sich auch bei SDInduktion zwischen 3 Gruppen sowohl bei den Schnitten der akuten
+Hyperthermieform
+
+als
+
+auch
+
+bei
+
+den
+
+Schnitten
+
+der
+
+chronischen
+
+Hyperthermie. Dabei lagen die Ergebniswerte der Gruppe III vom akuten
+Typ im Vergleich zu den restlichen höher (die Amplitude (P = 0,03)). Im
+chronischen Modell zeigte die Gruppe IIIc signifikanten Unterschied für
+die mittlere Amplitude (P = 0,01) im Vergleich zur Gruppe Ic. Vier Wochen
+nach der Hyperthermie ergab sich in der Gruppe IIIc für mittlere SDDauer ein im Vergleich zur
+
+Gruppe Ic signifikant (P = 0,001) höheren
+
+Wert (Abb. 3-15).
+Tab. 3-5 – 3-6 zeigen die gemessenen SD- und EFP- Parameter von
+allen Altersgruppen dieses Versuches kompakt.
+
+62
+
+Gr.I
+
+Gr.II
+
+Gr.III
+
+Gr.Ic
+
+Gr.IIc
+
+Gr.IIIc
+
+SchnittAnzahl
+pro
+Gruppe
+
+8
+
+5
+
+7
+
+9
+
+6
+
+12
+
+SDAnzahl
+pro
+Gruppe
+
+17
+
+14
+
+22
+
+25
+
+12
+
+38
+
+6,4 ± 1,2
+SDAmplitude
+in mV
+
+18,7 ± 2,0
+
+21,1 ± 1,1
+
+17,5 ± 1,7
+
+13,4 ± 3,8
+
+13,4 ±0,9
+
+SD-Dauer 6,2 ± 0,5
+in min
+
+6,1 ± 0,5
+
+6,2 ± 0,3
+
+4,8 ± 0,5
+
+6,9 ± 0,7 7,9 ± 0,7
+
+Tab.
+
+3-5:
+
+Amygdala,
+
+Auswertung
+Neocortex)
+
+der
+
+Kombi-Präparaten
+von
+
+der
+
+(Hippokampus,
+
+akuten
+
+und
+
+Laterale
+
+chronischen
+
+Hyperthermieversuchsreihe in allen Altersgruppen: Gruppe I (p 7-13), Gruppe II
+(p 14-19), Gruppe III (p 20-24), Gruppe Ic (p 35-41), Gruppe IIc (p 42-47) und
+Gruppe IIIc (p 48-52). Folgende SD-Parameter wurden in der Tabelle
+dargestellt: Anzahl der Hirnschnitten pro Gruppe, Gesamt-SD-Anzahl pro
+Gruppe, Amplitude in mV, Dauer in Minuten, Beginn in Minuten.
+
+63
+
+SchnittAnzahl
+pro
+Gruppe
+
+Gr.I
+
+Gr.II
+
+Gr.III
+
+Gr.Ic
+
+Gr.IIc
+
+Gr.IIIc
+
+7
+
+3
+
+7
+
+9
+
+7
+
+8
+
+EFP15,9 ± 6,8 11,9 ± 2,5 38,5 ± 4,7 28,9 ± 3,8 30,7 ± 3,5 59,4 ± 9,3
+Frequenz
+pro 5 min
+EFP0,33±0,02 0,33±0,02 0,35±0,02 0,25±0,02 0,3 ± 0,05 0,35±0,01
+Amplitude
+in mV
+EFPDauer in
+sec
+Tab.
+
+3-6:
+
+Amygdala,
+
+0,7 ± 0,1
+
+1,0 ± 0,2
+
+Auswertung
+Neocortex)
+
+der
+
+1,1 ± 0,4
+
+0,45 ± 0,1 0,65 ± 0,1 0,9 ± 0,1
+
+Kombi-Präparaten
+von
+
+der
+
+(Hippokampus,
+
+akuten
+
+und
+
+Laterale
+
+chronischen
+
+Hyperthermieversuchsreihe in allen Altersgruppen: Gruppe I (p 7-13), Gruppe II
+(p 14-19), Gruppe III (p 20-24), Gruppe Ic (p 35-41), Gruppe IIc (p 42-47) und
+Gruppe IIIc (p 48-52). Folgende EFP-Parameter wurden in der Tabelle
+dargestellt: Anzahl der Hirnschnitten pro Gruppe, EFP-Frequenz pro 5 min,
+Latenzzeit in Minuten, Amplitude in mV, Dauer in Sekunden
+
+64
+
+Gruppe I
+
+Gruppe II
+
+Gruppe III
+
+Abb. 3-11: Wirkung von KCl-Lösung auf SD in Amygdala-Hippokampus-NeucortexSchnittpräparaten,
+
+Ratte
+
+nach
+
+der
+
+akuten
+
+Hyperthermie.
+
+A:
+
+Simultane
+
+Originalaufzeichnung von DC-Verschiebungen in 3 Gruppen:
+Gruppe I (p 7-13), Gruppe II (p 14-19), Gruppe III (p 20-24).
+FP 1 = Entorhinalcortex, FP 2 = Hippocampus, FP 3 = Amygdala,
+FP 4 = Temporalcortex.
+B: Die Propagation von SD ist am unterschiedlichen Beginn der SD-Auslenkung zu
+erkennen. Die gepunktete Linie zeigt den Unterschied zwischen vier Anfangspunkten.
+Die häufigste SD-Propagation erfolgte in folgender Reihe :
+Gruppe I : Entorhinalcortex->Amygdala->Hippocampus (n = 3)
+Gruppe II : Entorhinalcortex->Amygdala->Temporalcortex (n = 2)
+Gruppe III : Entorhinalcortex >Amygdala->Hippocampus->Temporalcortex (n = 5)
+
+65
+
+Gruppe Ic
+
+Gruppe IIc
+
+Gruppe IIIc
+
+Abb. 3-12: Wirkung von KCl-Lösung auf SD in Amygdala-Hippokampus-NeucortexSchnittpräparaten, Ratte nach der chronischen Hyperthermie.
+A: Simultane Originalaufzeichnung von DC-Verschiebungen in 3 Gruppen:
+Gruppe Ic (p 35-41), Gruppe IIc (p 42-47) und Gruppe IIIc (p 48-52).
+FP 1 = Entorhinalcortex, FP 2 = Hippocampus, FP 3 = Amygdala,
+FP 4 = Temporalcortex.
+B: Die Propagation von SD ist an den unterschiedlichen Gipfeln der SD-Auslenkung zu
+erkennen. Die gepunktete Linie zeigt den Unterschied zwischen
+häufigste SD-Propagation erfolgte in folgender Reihe :
+Gruppe I : Entorhinalcortex->Amygdala->Temporalcortex (n = 3)
+Gruppe II : Entorhinalcortex->Hippocampus-> Temporalcortex (n = 2)
+Gruppe III : Entorhinalcortex-> Amygdala->Hippocampus (n = 4)
+
+66
+
+vier Gipfeln. Die
+
+Gruppe I
+
+Gruppe II
+
+Gruppe III
+
+120
+
+100
+
+100
+
+100
+
+80
+60
+40
+
+60
+40
+20
+
+0
+
+0
+20
+
+30
+40
+Zeit (min)
+
+50
+
+60
+
+80
+60
+40
+20
+
+0
+
+10
+
+20
+
+30
+40
+Zeit (min)
+
+50
+
+0
+
+60
+
+0
+
+1,0
+
+1,0
+
+0,8
+
+0,8
+
+0,8
+
+0,6
+0,4
+0,2
+
+A mplitude (mV)
+
+1,0
+
+Am plitude (mV)
+
+0,6
+0,4
+0,2
+0,0
+
+0,0
+0
+
+10
+
+20
+
+30
+40
+50
+Zeit (min)
+
+60
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+0
+
+1,2
+
+1,2
+
+1,0
+
+1,0
+
+1,0
+
+0,8
+
+0,8
+
+0,8
+
+D auer (sec)
+
+1,2
+
+0,6
+0,4
+
+0,2
+
+0,2
+
+0,0
+0
+
+0,0
+0
+
+30
+40
+Zeit (min)
+
+50
+
+60
+
+60
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+50
+
+60
+
+Zeit (min)
+
+1,4
+
+0,4
+
+50
+
+0,2
+
+Zeit (min)
+
+0,6
+
+30
+40
+Zeit (min)
+
+0,4
+
+1,4
+
+20
+
+20
+
+0,6
+
+1,4
+
+10
+
+10
+
+0,0
+0
+
+Dauer (sec)
+
+Amplitude (mV)
+
+80
+
+20
+10
+
+EFP / 5 min
+
+120
+
+0
+
+Dauer (sec)
+
+*
+
+120
+
+EF P / 5 min
+
+EFP / 5 min
+
+B:
+
+*
+
+0,6
+0,4
+0,2
+
+10
+
+20
+
+30
+40
+Zeit (min)
+
+Abb. 3-13: (Legende siehe nächste Seite)
+
+67
+
+50
+
+60
+
+0,0
+0
+
+10
+
+20
+
+30
+40
+Zeit (min)
+
+Abb. 3-13: Wirkung von 2 M KCl-Lösung auf epileptiforme Feldpotentiale (EFP)
+in Amygdala-Hippokampus-Neucortex-Schnittpräparaten, Ratten nach der
+akuten Hyperthermie, Gruppen I-III:
+Gruppe I (p 7-13), Gruppe II (p 14-19), Gruppe III (p 20-24).
+A: Originalaufzeichnung: Auslösung der EFP durch Applikation von KCl-Lösung.
+B: Graphische Darstellung der EFP-Parameter: Frequenz von EFP, Amplitude
+in mV und Dauer in Sekunden pro 5 Minuten.
+Die mittlere Frequenz war in der Gruppe III (P = 0,007) signifikant höher als in
+der Gruppe I und II. Für die Dauer der EFP ergab sich in der Gruppe III einen
+signifikanten Unterschied (P = 0,04) im Vergleich zur Gruppe I.
+
+68
+
+Gruppe Ic
+
+Gruppe IIc
+
+Gruppe IIIc
+
+140
+
+140
+
+120
+
+120
+
+120
+
+100
+80
+60
+
+60
+
+20
+
+20
+
+0
+
+0
+10
+
+20
+
+30
+40
+Zeit (min)
+
+50
+
+60
+
+*
+
+100
+80
+60
+40
+20
+0
+
+0
+
+10
+
+20
+
+30
+40
+Zeit (min)
+
+50
+
+0
+
+60
+
+1,4
+
+1,4
+
+1,2
+
+1,2
+
+1,2
+
+1,0
+
+1,0
+
+1,0
+
+0,8
+0,6
+0,4
+
+Ampl itude (mV)
+
+1,4
+
+Amplitude (mV)
+
+0,8
+0,6
+0,4
+0,2
+
+0,0
+0
+
+10
+
+20
+
+30
+40
+Zeit (min)
+
+50
+
+0
+
+10
+
+20
+
+30
+40
+Zeit (min)
+
+50
+
+1,0
+
+1,0
+
+1,0
+
+0,8
+
+0,8
+
+0,8
+
+Dauer (sec)
+
+1,2
+
+0,6
+0,4
+
+0,0
+0
+
+10
+
+20
+
+30
+40
+Zeit (min)
+
+50
+
+60
+
+*
+
+0
+
+1,4
+
+0,0
+
+60
+
+0,0
+
+60
+
+1,2
+
+0,2
+
+50
+
+0,4
+
+1,4
+
+0,2
+
+30
+40
+Zeit (min)
+
+0,6
+
+1,2
+
+0,4
+
+20
+
+0,8
+
+1,4
+
+0,6
+
+10
+
+0,2
+
+0,0
+
+60
+
+Dauer (sec)
+
+Amplitude (mV)
+
+80
+
+40
+
+0,2
+
+Dauer (sec)
+
+100
+
+40
+
+0
+
+EFP / 5 min
+
+140
+
+EFP / 5 min
+
+EFP / 5min
+
+B:
+
+10
+
+20
+
+30
+40
+Zeit (min)
+
+50
+
+30
+40
+Zeit (min)
+
+50
+
+60
+
+*
+
+0,6
+0,4
+0,2
+
+0
+
+10
+
+20
+
+30
+40
+Zeit (min)
+
+Abb.3-14 (Legende siehe nächste Seite)
+
+69
+
+50
+
+60
+
+0,0
+0
+
+10
+
+20
+
+60
+
+Abb. 3-14: Wirkung von 2 M KCl-Lösung auf epileptiforme Feldpotentiale (EFP)
+in Amygdala-Hippokampus-Neucortex-Schnittpräparaten, Ratten nach der
+chronischen Hyperthermie, Gruppen Ic-IIIc:
+Gruppe Ic (p 35-41), Gruppe IIc (p 42-47) und Gruppe IIIc (p 48-52).
+A: Originalaufzeichnung: Auslösung der EFP durch Applikation von KCl-Lösung.
+B: Graphische Darstellung der EFP-Parameter: Frequenz von EFP, Amplitude
+in mV und Dauer in Sekunden pro 5 Minuten.
+Die mittlere Frequenz war in der Gruppe IIIc (P < 0,001) signifikant höher als in
+der Gruppe Ic und IIc. Die Amplitude war ebenso signifikant höher (P = 0,003)
+bei der Gruppe IIIc im Vergleich zur Ic. Für die Dauer der EFP ergab sich für
+die Gruppe IIIc einen signifikanten Unterschied (P = 0,011) im Vergleich zu
+restlichen Gruppen.
+
+70
+
+A: mittelwertige Dauer einer SD
+12
+
+10
+
+*
+
+Dauer ( min)
+
+8
+
+6
+
+4
+
+2
+
+0
+akute HT
+Gr.I-III
+
+chronische HT
+Gr.Ic-IIIc
+
+B: mittelwertige Amplitude einer SD
+
+25
+
+Amplitude (mV)
+
+20
+
+*
+
+15
+
+10
+
+5
+
+0
+akute HT
+Gr.I-III
+
+chronisc he HT
+Gr.Ic-IIIc
+
+Gruppe I
+Gruppe II
+Gruppe III
+
+Abb. 3-15: (Legende siehe nächste Seite)
+
+71
+
+Abb. 3-15: Graphische Darstellung der SD-Parameter: Die Mittelwerte der
+Dauer in Minuten und Amplitude in mV nach kortikaler Applikation von 2M KClLösung an
+
+Amygdala-Hippokampus-Neucortex-Schnittpräparaten nach der
+
+akuten und chronischen Hyperthermie, Ratten: Gruppe I (p 7-13), Gruppe II (p
+14-19), Gruppe III (p 20-24), Gruppe Ic (p 35-41), Gruppe IIc (p 42-47) und
+Gruppe IIIc (p 48-52).
+A: Die Dauer der SD zeigte einen signifikanten Unterschied in der Gruppe IIIc
+(7,8 ± 0,7 min) vom chronischen Typ (P = 0,001) im Vergleich zur Ic (4,8 ± 0,5
+min) vom gleichen Typ. B: Die mittlere Amplitude war signifikant höher bei der
+Gruppe III vom akuten Typ (P = 0,03) als in der Gruppe I und II vom gleichen
+Versuch; Vier Wochen nach der Hyperthermie ergab sich in der Gruppe IIIc für
+DC-Negativierung mit 13,4 ± 0,9 Mv ein im Vergleich zur Ic
+signifikant ( P = 0,01) niedriger Wert.
+
+72
+
+17,5 ± 1,7
+
+A: mittelwertige SD-Anzahl pro 1 Schnitt
+
+5
+
+*
+
+*
+
+4
+
+SD-Anzahl
+
+3
+
+2
+
+1
+
+0
+Gr.Ic-IIIc
+chronische HT
+
+Gr.I-III
+akute HT
+
+B: Verhältnis von Hirnschnittpräparaten, bei denen SD registriert wurden,
+zu den gesamten Schnitten pro Gruppe in %
+
+100
+
+%
+
+80
+
+60
+
+40
+
+20
+
+0
+
+Gr.I-III
+akute HT
+
+Gr.I-III
+chronische HT
+
+Gruppe I
+Gruppe II
+Gruppe III
+
+Abb. 3-16: (Legende siehe nächste Seite)
+73
+
+Abb. 3-16: Wirkung von KCl-Lösung nach der akuten und chronischen
+Hyperthermie auf SD in Amygdala-Hippokampus-Neucortex-Schnittpräparaten,
+Ratten: Gruppe I (p 7-13), Gruppe II (p 14-19), Gruppe III (p 20-24), Gruppe Ic
+(p 35-41), Gruppe IIc (p 42-47) und Gruppe IIIc (p 48-52).
+A: Verhältnis von Hirnschnittpräparaten, bei denen SD registriert wurden, zu
+den gesamten Schnitten pro Gruppe in %.
+B: Durchschnittliche SD-Anzahl pro 1 Schnittpräparat. Signifikanter Unterschied
+war in der folgenden Gruppen auszumachen: (P = 0,006) in der Gruppe III des
+akuten Hyperthermiemodells (3,3 ± 0,4) im Vergleich zur Gruppe I (1,8 ± 0,3);
+(P = 0,036); bei der Gruppe IIIc des chronischen Hyperthermiemodells (3,1 ±
+0,4) im Vergleich zur Ic (2,1 ± 0,3).
+
+74
+
+3.3 Ausbreitung von SD
+Für die Bestimmung des Ursprungsortes der SD-Ausbreitung wurde die
+anatomische Region bestimmt, in der die ersten Feldpotentialänderungen
+registriert werden konnten.
+Für
+
+die
+
+Hirnschnitte
+
+der
+
+Kontrollen
+
+ergab
+
+sich
+
+bezüglich
+
+des
+
+Ursprungsortes folgende prozentuale Verteilung auf die anatomischen
+Strukturen: Gruppe I-III: 78% im EC, 12,5 % in LA und 9,5% im TE;
+Gruppe Ic- IIc : 80% im EC, 17,5 im TE und 2,5% in LA; Gruppe I-III nach
+akuter Hyperthermie: 79% im EC, 11% im TE und 10% in LA; Gruppe IcIIIc nach chronischer Hyperthermie: 85% im EC, 12% im TC und 3% in
+LA. Die lokale Applikation von KCl-Lösung führte zu folgender Verteilung
+der Ursprungsregionen: Gruppe I-III nach akuter Hyperthermie: 89,5% im
+EC und 9,5% im TC; Gruppe Ic-IIIc nach chronischer Hyperthermie: 99%
+im EC und 1% im TC. Ausgehend vom Ursprungsort wurde analysiert,
+wie sich die SD über das Hirnschnittpräparat
+Propagation der SD erreichte nicht
+untersuchenden
+Propagation
+
+Regionen.
+
+in
+
+allen
+
+In
+
+vier
+
+den
+
+ausbreitete. Die
+
+in allen Hirnschnitten
+folgenden
+
+anatomischen
+
+Fällen
+Orten
+
+vier
+
+wurde
+
+die
+
+beobachtet:
+
+Kontrollgruppen: Gruppe I: 50%; Gruppe II: 55,5%; Gruppe III: 70%;
+Gruppe Ic: 28%; Gruppe IIc: 33%; Versuchsgruppe III der akuten HTForm
+
+nach
+
+der
+
+Superfusion
+
+von
+
+Low
+
+NaCl-Lösung:
+
+55,5%;
+
+Versuchsgruppen der akuten HT-Form nach der Applikation von KCl:
+Gruppe II: 40%; Gruppe III: 71,4%; Versuchsgruppen der chronischen
+HT-Form: Gruppe II: 33,3%; Gruppe III: 33,3%.
+
+75
+
+4. Diskussion
+In der vorliegenden Arbeit wurden zwei Modelltypen verwendet. Ein
+akutes
+
+Anfallsmodell, bei dem durch thermische Induktion ein
+
+epileptischer
+
+Anfall
+
+ausgelöst
+
+wurde.
+
+Und
+
+ein
+
+chronisches
+
+Epilepsiemodell, bei dem die Tiere durch einen primären Fieberkrampf,
+der eben so thermisch ausgelöst wurde, nach einer Latenzzeit von vier
+Wochen durch einen unphysiologischen Reiz hypersensible neuronale
+Aktivitäten zeigten, in Form von SD und epileptischen Entladungen. Die
+in der vorliegenden Arbeit gewählten Modelle konzentrieren sich nicht
+ohne Grund auf den Temporallappen bzw. Hippocampus. In dieser
+Hirnregion ist die Schwelle für die Entstehung epileptischer Aktivität
+besonders niedrig, was eine mögliche Erklärung dafür ist, dass sich etwa
+zwei Drittel aller lokalisationsbezogenen Epilepsien dieser Region
+zuordnen lassen (Siemes und Bourgeois, 2001). In den kombinierten
+Hirnschnittpräparaten der vorbehandelten Tiere wurden
+
+SD und
+
+epileptiforme Feldpotentiale durch eine Verminderung der extrazellulären
+Natriumchloridkonzentration und eine kortikale Tropfenapplikation einer 2
+M KCl-Lösung ausgelöst. Es fanden sich bezüglich des Verhaltens
+epileptischer Aktivität in beiden Modellen signifikante Unterschiede im
+Vergleich zu untereinander und zu Kontrollgruppen. Hinsichtlich der
+Epilepsiebereitschaft wurde beobachtet, dass bei Hirnschnitten der
+Ratten, die älter als 18 Tage waren und bei denen Fieberkrampf induziert
+worden war, im Vergleich zu den Kontroll-Gruppen und zu den Gruppen
+des gleichen Versuches die Schwelle zur Auslösung der epileptiformen
+Aktivität erniedrigt war sowohl direkt nach der Hyperthermie als auch 4
+Wochen danach. Besonders bei den Ratten der Gruppe III stellten wir
+fest, dass alle zu untersuchenden Gewebe nach dem
+
+akuten
+
+Fieberkrampf eine erhöhte Sensibilität bei der Entstehung von neuronaler
+Aktivität demonstrierten. Viel interessanter war zu beobachten, dass auch
+76
+
+lang anhaltende Veränderungen bei Tieren dieser Gruppe auftraten (4
+Wochen nach der Hyperthermie). Erhöhte Körpertemperatur führte im
+Alter von 18 bis 24 Tagen zu einer Abnahme der Latenz und einer
+Abnahme der Amplitude sowie
+
+eine Steigerung der Dauer von DC-
+
+Negativierung. Ebenso lag die mittlere Anzahl der induzierten SD pro 1
+Schnitt signifikant höher, als bei den jüngeren Ratten.
+Die Applikation von KCl-Lösung in einer Konzentration von 2 µmol/l
+führte in den Hirnschnitten von juvenilen Ratten der Gruppe III, sowohl
+direkt nach der Hyperthermiebehandlung, als auch vier Wochen danach
+zu einer signifikanten Erhöhung der Frequenz der EFP und einer
+Zunahme der EFP-Dauer im Vergleich zu den anderen Gruppen. Durch
+Superfusion der Low NaCl-ACSF traten bei Tieren der Gruppe III von
+beiden Hyperthermiemodellen ebenfalls die EFP mit einer Frequenz auf,
+die deutlich höher war, als in der Gruppe von sehr kleinen Ratten.
+Bei der Bestimmung des Ursprungsortes der SD-Ausbreitung fiel auf,
+dass in den meisten Schnitten die Mehrheit der SD im entorhinalen
+Kortex Ihr Ursprung hatten. Dieses Ergebnis wurde auch in dem Niedrig
+-Mg-Modell vorangegangener Studien beobachtet ( Holtkam et al, 2003).
+Für die Bevorzugung dieser Region als Ursprungsort konnten Neurone im
+EC verantwortlich sein, die in einem ständigen Erregungszustand
+befinden (Berretta and Jones, 1996). Die Ergebnisse dieser Studie
+belegen,
+
+dass
+
+dieser
+
+Erregungszustand
+
+auf
+
+das
+
+Vorhandensein
+
+präsynaptischer NMDA-Rezeptoren in diesem Ort zurückzuführen ist. Die
+Aktivierung von NMDA-Receptoren bewirkt kontinuierliche Ausschüttung
+des exzitatorischen Neurotransmitter Glutamat. Glutamat ist wesentlich
+an der Ausbreitung von SD beteiligt. Der Ursprungsort epileptiformer
+Aktivität entspricht der Lokalisation der Neuronenpopulation, die zu
+Beginn zugleich depolarisiert. Ausgehend von dieser Region werden
+77
+
+umliegende Nervenzellen einbezogen. Für die Ausbreitung neuronaler
+Aktivität sind verschiedene Mechanismen der Erregungsfortleitung von
+Bedeutung.
+
+Die
+
+synaptische
+
+Übertragung
+
+stellt
+
+unter
+
+Normalbedingungen den entscheidenden Kommunikationsmechanismus
+der Nervenzellen dar. Hierbei setzt das präsynaptische Neuron
+Transmitter frei, die postsynaptisch an Rezeptoren binden und so den
+Erregungszustand des nachgeschalteten Neurons beeinflussen. Es hängt
+vom freigesetzten Transmitter ab, ob es zu einer exzitatorischen
+(vorwiegend Glutamat) oder inhibitorischen (vorwiegend GABA) Wirkung
+kommt.
+
+Während
+
+Inhibitore
+
+eine
+
+Hyperpolarisation
+
+des
+
+Membranpotentials bewirken, führen exzitatorische Neurotransmitter zur
+Depolarisation und ggf. zur Entstehung
+
+eines Aktionspotentials. Der
+
+Nervenleitgeschwindigkeit
+
+die
+
+entsprechend,
+
+in
+
+erster
+
+Linie
+
+vom
+
+Myelinisierungsgrad des Neurons abhängt, wird das Aktionspotential
+axonal fortgeleitet.
+Wie beim Kleinkind und Kind verlaufen epileptische Anfälle auch bei
+Tieren während der Ontogenese anders als bei Erwachsenen. Bei jungen
+Tieren
+
+hängt
+
+epileptische
+
+Aktivität
+
+von
+
+den
+
+bereits
+
+etablierten
+
+synaptischen Verbindungen im Nervensystem, von der Expression der
+Ionenkanälen
+
+und
+
+Bindungsstellen
+
+für
+
+Botenstoffe
+
+(Transmitter,
+
+Neuromodulatoren, Neurohormone) und von den Mechanismen der
+Elektrolyt-Regulation ab. Während der Entwicklung des ZNS werden
+sowohl erregende wie auch hemmende Verbindungen in Überzahl
+angelegt.
+
+Zur
+
+physiologischen
+
+Hirnreifung
+
+gehört
+
+eine
+
+selektive
+
+Degeneration dieser überzählig angelegten Nervenzellen (E.Kandel and
+J.Schwarz, 1985). Aufgrund der vermehrt angelegten synaptischen
+Verbindungen ist es zu erwarten, dass die Epilepsiebereitschaft
+neugeborenen Tieren größer
+
+bei
+
+ist. Dies ist allerdings nicht unmittelbar
+
+nach der Geburt der Fall. In der Tat zeigte sich, dass an den
+78
+
+neokortikalen Hirnschnitten der gesunden Ratten zwischen Tag 15 und
+Tag 24 postnatal die Fähigkeit zur Ausbildung von epileptiformer Aktivität
+sehr hoch war und dann bald wieder sich zurück bildete. Wie unsere
+Experimente demonstrierten wurde
+
+dann
+
+die Epilepsiebereitschaft im
+
+Alter von über 40 Tagen immer weniger.
+Diese erhöhte Epilepsiebereitschaft im juvenilen Alter rührt u.a. von der
+verstärkten erregenden synaptischen Kopplung her. Spezifisch ist die
+NMDA-Rezeptoren-Expression. Während bei neugeborenen Ratten die
+NMDA-Rezeptoren noch weitgehend auf die Zellsomata beschränkt sind,
+werden sie im Laufe der Ontogenese auch im Dendritenbaum exprimiert
+und erreichen zwischen Tag 12 und 20 das Maximum. Die Zahl der
+aktivierbaren NMDA-Rezeptoren nimmt dann im Laufe der weiteren
+Hirnentwicklung ab. Dieser Anhaltspunkt einer vermehrten NMDARezeptoren-Exprimierung ist
+
+an erhöhter Krampfbereitschaft von
+
+juvenilen Ratten beteiligt (B.Hamon, U.Heinemann; 1987).
+Ursache
+
+der
+
+Epilepsie
+
+ist
+
+einerseits
+
+ein
+
+Ungleichgewicht
+
+von
+
+exzitatorischen und inhibitorischen Einflüssen, die zur Hypererregbarkeit
+führen und andererseits eine abnorme synchronisierte Aktivität größerer
+neuronaler Verbände. Als Resultat kommt es in den betroffenen
+neuronalen Netzwerken zu Krampfanfällen, einer zufälligen synchronen
+unkontrollierten Entladung einer Nervenzellgruppe. Vermehrte synchrone
+Entladungen können Spreading Depression auslösen (M.Lauritzen,1994),
+ein Phänomen, das erstmals bei Untersuchungen an Tiermodellen zur
+Epilepsie beobachtet wurde. Bei der Spreading Depression handelt es
+sich um eine sehr starke vorübergehende Depolarisation der Nervenund Gliazellen der Hirnrinde, die sich mit 3-5 mm/min über die
+Kortexhemisphäre
+
+ausbreitet. Während der SD kommt es zu großen
+
+Umverteilungen von Ionen zwischen dem Extra- und Intrazellulärraum
+sowie
+
+einem
+
+Wassereinstrom
+
+in
+
+die
+
+Zellen.
+
+Die
+
+extrazelluläre
+
+Kaliumkonzentration steigt bis 60 mM an und Natrium, Chlorid- und
+79
+
+Kalziumkonzentrationen werden stark vermindert. Gleichzeitig entwickelt
+sich ein sehr großes negatives Feldpotential (20-35 mV). Kaliumionen
+und der exzitatorische Glutamat sind wesentlich an der Propagation der
+SD beteiligt. In der vorliegenden Arbeit wurde SD u.a. durch Applikation
+von Kalium hervorgerufen. Trotz sehr starker Kaliumakkumulation kam es
+bei sehr jungen Ratten (p<11) auch nach der direkten Hyperthermie nicht
+zur Auslösung der SD. Erst wenn die jungen Ratten älter waren gelang es
+die reproduzierbaren SD auszulösen. Dass SD bei sehr jungen Ratten
+schwer auslösbar ist, könnte auf einen Schutzmechanismus hindeuten,
+da das neugeborene Tier und der Säugling einem stärkeren Risiko
+anoxischer Situationen ausgesetzt ist. Spreading Depression ist u.a. der
+initiale Vorgang bei hypoxischen Zuständen. Die Rolle von SD während
+der Ontogenese ist daher
+
+wichtig. Das Auftreten von SD bei Tieren
+
+während der Reifung des Nervensystems versetzt das Gewebe in die
+Lage selektiv degenerative Prozesse in die Wege zu leiten um überzählig
+angelegten
+
+Nervenzellen
+
+und
+
+Verknüpfungen
+
+zu
+
+eliminieren.
+
+(U.Heinemann et al; 1987). Durch die Verminderung der erregenden
+Verbindungen
+
+im
+
+neokortikalen
+
+Gewebe
+
+nimmt
+
+auch
+
+die
+
+Krampfbereitschaft ab.
+Eine der möglichen Ursachen von Entstehung der Epilepsiekrämpfen im
+Kindesalter ist das Fieber. Fieberkrämpfe gehören zu den häufigsten
+pathologischen Aktivitäten des Gehirns bei Kindern. Zur Auslösung von
+temperaturinduzierten epileptischen Anfällen wurde vor 30 Jahren das
+Tiermodell der Hyperthermie entwickelt (D.Holtzman et al, 1981). Auch in
+unseren Untersuchungen wurde die Auslösung von epileptiformen
+Anfällen durch Hyperthermie in vivo tierexperimentelles Modell für den
+Fieberkrampf eingesetzt. Dabei hat sich gezeigt, dass Fieberkrampf in
+praktisch
+
+allen
+
+sehr
+
+jungen
+
+Ratten
+
+durch
+
+eine
+
+Erhöhung
+
+von
+
+Körpertemperatur ausgelöst werden kann. Das Modell legt daher nahe,
+80
+
+dass einer mit Fieber verbundene Temperaturerhöhung, auch beim
+Menschen ein entscheidender Faktor in der Induktion von Fieberkrampf
+ist. In dieser Arbeit werden Fieberkrämpfe als mögliche Ursache von
+Epilepsie diskutiert. Es setzt voraus, dass es durch die Fieberkrämpfe zu
+Änderungen der Strukturen und Funktionen des Gehirns kommt, die die
+Hyperthermieanfälle überdauern. Dass durch Körpertemperaturerhöhung
+spontane epileptiforme Entladungen in juvenilen Ratten auslösbar sind
+belegen mehrere Studien. Während des Fiebers steigt die extrazelluläre
+Kaliumkonzentration vorübergehend aus dem normalen 5mM bis zur 40
+mM und es kommt zur charakteristischen Hyperthermie-Antwort in Form
+von SD. Bei langanhaltender Temperaturerhöhung kommt es
+Regel zu mehrmals wiederholten Spreading Depression
+
+in der
+
+(J.Wu et al;
+
+2000). Der Effekt von repetitiver SD auf Neurodegeneration bei juvenilen
+Ratten wurde kürzlich untersucht (Pomper et al, 2006; M. Jafarian et al;
+2010). Dabei wurde belegt, dass in den kleinen Tieren, bei denen die
+repetitiven SD ausgelöst wurden, nach der Latenzzeit von 4 Wochen eine
+signifikant höhere Dichte von sogenannten „Dark cells“ im Vergleich zur
+Kontrolle resultierte. Der Zunahme der Dark Neuronen lässt auf einen
+Vermehrten
+
+Zelluntergang
+
+schließen.
+
+Die
+
+Mechanismen
+
+von
+
+der
+
+Entstehung von Dark Neuronen durch SD sind nicht weitgehend geklärt.
+SD ist stetig mit der massiven Umverteilung der Ionen und des Wassers
+zwischen intra- und extrazellulärem Raum begleitet. Dramatische
+Änderung der Größe der Neuronen durch Umverteilung des Wassers
+kann der physikalische Mechanismus zur Bildung der Dark Neuronen
+sein. Der inhibierende Neurotransmitter Glutamat trägt essentiell zur
+Entstehung und Ausbreitung von SD bei (Kager et al, 2000; Smith et al,
+2006). Cortical Spreading Depression reguliert die Bindungsstellen von
+Glutamat NMDA-, AMPA,-und Kainaterezeptoren im Neucortex der
+Ratten (Haghir et al, 2009; Menniti et al, 2000). Infusion von NMDA
+produziert Dark Neuronen im Neuronalgewebe (Dietrich et al, 1992).
+81
+
+Wie es auch aus der Studie, die im Institut für Physiologie I der WWU
+Münster kürzlich absolviert wurde, hervorgeht, dass im Tiermodell der
+Hyperthermie
+
+morphologische
+
+Veränderungen,
+
+im
+
+Sinne
+
+einer
+
+Neurodegeneration festgestellt wurden. Und darüber hinaus ließ es in
+dieser Studie eine erhöhte Expression der NMDA-Rezeptoren in
+Hirnschnitten der kleinen Ratten
+
+4 Wochen nach dem
+
+akuten
+
+Fieberkrampf feststellen. Die Mechanismen, die zum komplexen Bild der
+fieberkrampfinduzierten
+
+Hirnschädigungen führen, sind vielfältig und
+
+nicht ausreichend aufgeklärt. Im Vordergrund stehen NMDA-Rezeptor
+vermittelte
+
+Zellschädigungen,
+
+Glutamatfreisetzung
+
+in
+
+den
+
+die
+
+durch
+
+glutamatergen
+
+eine
+
+vermehrte
+
+Schaltkreisen
+
+des
+
+Hippokampus, des Entorhinalkortex und in der Amygdala als Folge der
+epileptischen Anfällen induziert werden. Im Gegensatz dazu führten
+wiederholte SD im gesunden Hippokampus von adulten Tieren nicht zu
+Zellschäden (Nedergaard and Hansen, 1988). Diese sind für adulte Tiere
+ausschließlich im vorgeschädigten, z.B. hypoxischen Hippokampus
+beschrieben (Bush et al., 1996).
+Das Auftreten starker frühkindlicher Fieberkrämpfe ist eine primäre
+Ursache zur späteren Entwicklung einer Temporallappenepilepsie.
+Pathologisches Merkmal der TLE sind schwere neurodegenerative
+Veränderungen im Bereich des Hippokampus (Ammon's Horn-Sklerose)
+und angrenzender Hirnareale (Amygdala, entorhinaler Kortex). Zelluläre
+Veränderungen
+
+im
+
+Hippokampus
+
+führen
+
+zum
+
+Untergang
+
+von
+
+Pyramidenzellen in den Regionen CA1, 3 und 4, während Interneurone
+und Gliazellen erhalten bleiben. Dabei kommt es zur Ausbildung neuer,
+synaptischer Verbindungen durch die Neurone der überlebenden
+Nervenzellen sowie zur Bildung von Narben. Die Folge sind veränderte
+Netzwerkeigenschaften, die als Grundlage epileptogener Mechanismen
+sind. Es könnte also vermutet werden, dass
+82
+
+Fieberkrämpfe in sehr
+
+jungem Alter das normale Reifungsprogramm des menschlichen
+Hippokampus stören und nachfolgend zu einer erhöhten Bereitschaft
+desselben für das Auftreten unprovozierter Anfälle führen.
+
+83
+
+5. Zusammenfassung
+Auch aus der anderen Studien geht hervor, dass Hirngewebe von jungen
+Tieren anfälliger für SD-Induktion ist, als das Gewebe von älteren
+(Luhmann and Kral, 1997) und dass das Alter
+
+dem Alter von
+
+Fieberkrämpfen der 11 bis 12 Tage ähnlich ist (Baram et al., 1998). SD
+kann
+
+im
+
+erwachsenen
+
+Alter
+
+auftreten,
+
+aber
+
+dabei
+
+sinkt
+
+die
+
+Ausbreitungsgeschwindigkeit (Guedes et al., 1996). Bei Ratten im Alter
+von 18-22 Tagen sind SD in hippokampalen Schnitten leichter zu
+produzieren, als in denen von 10-15 oder 28-32 Tagen nach der Geburt
+(Kreismann and Smith, 1993). SD als Fieberantwort war besser in
+Hirnpräparaten bei Ratten im Alter von 17-60 Tagen reproduzierbar, als
+in denen von 8-16 oder älter als 60 Tage (Wu et al., 2000).
+In unserem Experiment demonstrierten Tiere im Alter von 18 bis 24
+Tagen eine signifikant höhere Epilepsiebereitschaft sowohl direkt, als
+auch vier Wochen nach dem Fieber. Als Zeichen einer leichteren
+Auslösbarkeit von SD nach der Hyperthermiebehandlung fand sich eine
+Abnahme
+
+der
+
+Latenz.
+
+Bezüglich
+
+der
+
+elektrophysiologischen
+
+Charakteristika von SD zeigte sich eine signifikante Zunahme der Dauer
+des negativen Feldpotentials. Die zunehmende Dauer von SD und die
+damit
+
+einhergehenden
+
+pathologische
+
+Ionenverschiebungen
+
+Veränderung
+
+bzw.
+
+weisen
+
+auf
+
+Einschränkung
+
+eine
+der
+
+Kompensationsmechanismen von Nerven- und Gliazellen hin (Pomper et
+al., 2006). Als Zeichen einer neuronalen Störung konnte eine Abnahme
+der Feldpotentialamplitude beobachtet werden. Nach dem bisher
+dargestellten konnte
+
+gezeigt werden, dass die Fähigkeit bzw.
+
+Bereitschaft zum Auslösen epileptischer Aktivität altersabhängig und
+während der Ontogenese der Hirngewebe bei der Ratte hoch ist. Und
+eine Hyperthermie, also auch Fieber, kann vor allem während der
+84
+
+Ontogenese zu einer andauernden Veränderung zellulärer Erregbarkeit
+führen. Folgende Interpretation der Ergebnisse ist denkbar: Das unreife
+Hirngewebe ist
+
+anfälliger für
+
+Zellschäden.
+
+enge
+
+Die
+
+SD und dadurch resultierenden
+
+Verwandtschaft
+
+zwischen
+
+der
+
+Spreading
+
+Depression und dem Fieber zeigte bei zahlreichen Untersuchungen eine
+Beziehung dieser beiden Phänomene.
+Fieberkrämpfe
+
+Dementsprechend können
+
+in jungem Alter das normale Reifungsprogramm vom
+
+kortikalen Gewebe stören und nachfolgend zu einer erhöhten Bereitschaft
+desselben für das Auftreten epileptischer Anfälle führen.
+Unsere Ergebnisse geben nicht an auf welche Mechanismen erhöhte
+epileptische Aktivität direkt und 4 Wochen nach der Hyperthermie
+zurückzuführen ist, deuten jedoch darauf hin, dass die klinischen
+Fieberkrämpfe einen akuten und chronischen Effekt auf die neuronale
+Erregbarkeit in den kleinen Ratten besitzen.
+Ein besseres Verständnis der zugrunde liegenden Mechanismen von
+Fieberkrämpfen könnte dazu führen neue Strategien in der Prävention
+und Behandlung von Fieberkrämpfen zu entwickeln.
+
+85
+
+6. Literaturverzeichnis
+
+1. Aicardi J (1994) Syndromic classification in the manegment of
+childhood
+epilepsy. J Child Neurol. 9 Suppl. 2: 14-18
+2. Altemus KL, Almli CR(1997) Neonatal hippokampal damage in rats:
+long term spatial Memory deficits and associations with magnitude
+of hippokampal damage. Hippokampus7: 403-415
+3. Astrup J, Norberg K (1976) Potassium activity in cerebral cortex in
+rats during pro gressive severe hypoglycemia. Brain Res. 103: 418423
+4. Avoli M, Drapeau C, Louvel J, Pumain R, Olivier A, Villemure JG
+(1991) Epileptiform activity induced by low extracellular magnesium
+in the human cortex maintained in vitro. Ann Neurol. 30: 589-96
+5. Ayata C, Shimizu-Sasamata M, Lo EH et al. (2000) Impaired neurotransmitter release and elevated threshold for cortical spreading
+depression in mice with mutations in the alpha 1A subunit of P/Q
+type calcium channels. Neuroscience 95: 639-645
+6. Balestrino M, Young J, Aitken P (1999) Block of (Na+,K+) ATPase
+with ouabain induces spreading depression-like depolarization in
+hippocampal slices. Brain Res 838: 37–44
+
+86
+
+7. Baram TZ, Gerth A,
+
+Schultz L (1997) Febrile seizures: an
+
+appropriate-aged model suitable for long-term studies. Dev Brain
+Res 98: 265–270
+8. Basarsky TA, Duffy SN, Andrew RD, MacVicar BA (1998) Imaging
+spreading depression and associated intracellular calcium waves in
+brain slices. J Neurosci. 18: 7189-7199
+9. Berger M, Speckmann EJ, Pape HC, Gorji A (2008) Spreading
+depression
+
+enhances
+
+human
+
+neocortical
+
+excitability
+
+in
+
+vitro.Cephalalgia 28: 558–562
+10. Berretta N, Jones RS (1996) Tonic facilitation of glutamaterelease
+by presynaptic N-methyl-D-aspartate autoreceptors in theentorhinal
+cortex. Neuroscience 75:339-344
+11. Branston NM, Strong AJ ,Symon L (1977) Extracellular potassium
+activity, evoked potentialand tissue blood flow. Relationships during
+progressive ischaemia in baboon cerebral cortex. J Neurol Sci. 32:
+305-321
+12. Bratz E (1899) Ammonshornbefunde bei Epileptikern. Arch
+Psychiatr Nervenkr 32:820-835.
+13. Browne AT, Holmes GL (2001) Epilepsy. N.Engl.J.Med. 344: 11451151
+14. Brazier MAB,
+
+Coceani F (1976) BrainDysfunction in Infantile
+
+Febrile Convulsions. Raven, New York
+
+87
+
+15. Bures J, Buresova O, Krivanek J (1974) The Mechanisms and
+Applications
+
+of
+
+Leao’s
+
+Spreading
+
+Depression
+
+of
+
+Electroencephalographic Activity.Academic Press New York
+16. Bures J, Buresova O, Krivanek J (1984) The meaning and
+significance of Leao's spreading depression. An.Acad. Brasil. Cienc
+56: 386-400
+17. Busch E, Gyngell ML, Eis M Hoehn-Berlage M Hossmann K A
+(1996) Potassium-induced cortical spreading depressions during
+focal cerebral ischemia in rats: contribution to lesion growth
+assessed by diffusion-weighted NMR and biochemical imaging, J
+Cereb Blood Flow Metab 16: 1090-1099
+18. Chebabo SR, Hester MA, Aitken PG, Somjen GG (1995) Hypotonic
+exposure enhances synaptic transmission and triggers spreading
+depression in rat hippocampal tissue slices. Brain Res. 695: 203-16
+19. Commission on Classification and Terminology of the International
+League Against Epilepsy.(1985) ILAE
+20. Commission on Classification and Terminology of the International
+Leagueagainst Epilepsy Proposal for revised Classification of
+epilepsies an epilepticsyndromes (1989) Epilepsia 30: 389
+21. Czeh G, Somjen GG (1990) Hypoxic failure of synaptic
+transmission in the isolated spinal cord, and the efects of divalent
+cations.
+Brain Res.527: 224-233
+88
+
+22. Dehbandi S, Speckmann EJ, Pape HC, Gorji A (2008) Cortical
+spreading depression modulates synaptic transmission of the rat
+lateral amygdala. Eur J Neurosc. 27: 2057-2065
+23. Dietrich WD, Halley M, Alonso O, Globus MY, Busto R (1992)
+
+Intraventricular infusion of N-methyl-D-aspartat. 2. Acute neuronal
+consequences. Acta Neuropathol. 84: 630-637
+24. Dreier JP, Korner K, Ebert N, Gorner A, Rubin I, Back T, Lindauer
+U, Wolf T, Villringer A, Einhaupl K.M, Lauritzen M, Dirnagl U (1998)
+Nitric oxide scavenging by hemoglobin or nitric oxide synthase
+inhibition by N-nitro-Larginine induces cortical spreading ischemia
+when K+ is increased in the subarachnoid space.
+J Cereb Blood Flow Metab 18: 978-990
+25. Dreier JP, Sakowitz OW, Unterberg AW, Benndorf G, Einhaupl KM,
+Valdueza JM (2001) Migrainous aura starting several minutes after
+the onset of subarachnoid hemorrhage. Neurology 57: 1344-1350
+26. Duckrow RB (1993) A brief hypoperfusion precedes spreading
+depression if nitric oxide synthesis is inhibited.
+Brain Res. 618: 190-195
+27. Elger CE, Wiestler OD, Schramm J (1995) Surgical treatment of
+temporal lobe epilepsy: clinical, radiological, and histopathological
+findings in 178 patients. J Neurol Neurosurg Psychiatry 58: 666-73
+
+89
+
+28. Glaser G (1982) Critical periods in brain development related to
+behaviour: the developing neurophysiology of self. In One child ed.
+J. Apley, C. Ounsted Spastics International Medical Publications.
+William
+
+Heinemann
+
+Medical
+
+Books:
+
+London.
+
+Clinics
+
+in
+
+Developmental Medicine 80: 54-74
+29. Gold L, Back T, Arnold G, Dreier J, Einhaupl KM, Reuter U,
+Dirnagl
+
+U
+
+(1998)
+
+Cortical
+
+spreading
+
+depression-associated
+
+hyperemia in rats: involvement of serotonin.
+Brain Res 783: 188–193
+30. Gorelova NA, Koroleva VI, Amemori T, Pavlik V Bures J (1987)
+Ketamine blockade of cortical spreading depression in rats,
+Electroencephalogr. Clin.Neurophysiol. 66: 440-447
+31. Gorji A, Lauritzen M (1994) Pathophysiology of the migraine aura.
+The spreading depression theory. Brain 117:199-210
+32. Gorji A, Scheller D, Tegtmeier F, Straub H, Köhling R,
+Speckmann E (2000) NiCl2 and amiloride induce spreading
+depression in guinea pig slices. Cephalalgia 20: 740–747
+33. Gorji A. (2001)
+Spreading depression: a review of the clinical relevance.
+Brain Res Brain Res Rev: 33-60
+
+90
+
+34. Gorji A, Scheller D, Straub H, Tegtmeier F, Ebnen A, Wolf P,
+Panneck HW, Oppel F, Speckmann EJ, Köhling R, Hohling J,
+Tuxhorn I (2001)
+Spreading depression in neocortical human slices.
+Brain Res 906: 74–83
+35. Gorji A, Moddel G, Speckmann EJ (2003) Background potassium
+concentrations and epileptiform discharges. II. Involvement of
+calcium channels. Brain Res. 959: 149 -159
+36. Gorji A, Speckmann EJ (2004) Spreading depression enhances
+the spontaneous epileptiform activity in human neocortical tissues.
+Eur J Neurosci., 19, 3371-4
+37. Gorji A, Zahn P, Pogatzki E, Speckmann EJ (2004) Spinal and
+cortical spreading depression enhance spinal cord activity.
+Neurobiol. Dis., 15: 70- 79
+38. Grafstein B (1956) Mechanism of spreading cortical depression.
+J Neurophysiol 19: 154-71
+39. Grafstein B (1963) Neuronal release of potassium during
+spreading depression. M.A.B. Brazier, Editor, Brain Function Vol 1:
+87–124
+40. Guedes RC, Amorim LF, Teodosio NR (1996) Effect of aging on
+cortical spreading depression. Braz J Med Biol Res 29: 1407–1412
+
+91
+
+41. Haghir H, Kovac S, Speckmann EJ, Zilles K, Gorji A (2009)
+
+Patterns of neurotransmitter receptor distributions following cortical
+spreading depression. Neuroscience 163: 1340-1352
+42. Hamon B, Heinemann U (1987) An NMDA-receptor-independent
+excitatory action of partial reduction of extracellular (Mg+) in CA1region of rat hippocampal slices. Neuroscience Letters 75: 240-245
+43. Hansen AJ, Zeuthen T (1981) Extracellular ion concentrations
+during spreading Depression and ischemia in the rat brain cortex.
+Acta Physiol Scand 113: 437–445
+44. Hansen AJ, Lauritzen M (1984) The role of spreading depression
+in acute brain disorders. An.Acad.Bras.Cienc. 56: 457-479
+45. Hauser WA, Rich SS, Annegers JF, Anderson VE (1990) Status
+epilepticus:
+epidemiologic considerations. Neurology 40: 9 – 13
+46. Heinemann U, Albrecht D, Hablitz JJ, Hamon B, Stanton PK (1987)
+Tierexperimentelle
+
+Befunde
+
+zur
+
+Epilepsiebildung
+
+in
+
+der
+
+die
+
+Initialen
+
+Ontogenese. Epilepsie 87: 71-75
+47. Herlitz
+
+G
+
+(1941)
+
+Studien
+
+über
+
+sogenannten
+
+Fieberkrämpfe bei Kindern. Acta Paediatr 29: 110-113
+48. Herreras O, Somjen GG (1993) Analysis of potential shifts
+associated with recurrent spreading depression and prolonged
+unstable spreading depression induced by microdialysis of elevated
+K+ in hippocampus of anesthetized rats. Brain Res 610: 283-9
+92
+
+49. Holtkamp M, Buchheim K, Siegmund H, Meierkord H (2003)
+Optical imaging reveals reduced seizure spread and propagation
+velocities in aged rat brain in vitro. Neurobiol. Aging 24 :345-353
+50. Holtzman D, Obana K, Olson J (1981) Hyperthermie-induced
+seizures in the rat pup: a model for febrille convulsions in children.
+Science 213:1034-1036
+51. IHCD,2004 The internationalClassification of Headache Disorders,
+2nd edn. Cephalalgie 24: 1-160
+52. Jafaria M, Rahimi S, Behnam F, Hosseine M, Haghir H, Garji A
+
+(2010) The effect of repetitive spreading depression on neuronal
+damage in juvenile rat brrain. Neuroscience 2010.04.062
+53. Jefferey KJ, Morris R (1993) Cumulative long-term potentiation in
+
+the rat dentate gyrus correlates with, but does not modify,
+performance in the water maze. Hippokampus 3:133-140
+54. Kager HW, Wadmann WJ, Somjen GG (2000) Simulated siezures
+
+and spreading depression in a neuron model incorporating
+intersitial space and ion concentrationc. J Neurophysiol 84: 495512
+55. Kandel ER , Schwarz JH (1985) Synapse formatio, trophic
+
+interactions between neurons, and the development of behavior.
+Elsevier, Amsterdam 743-770
+
+93
+
+56. Kang JQ (2006) Why does fever trigger febrile seizures? GABA-A
+
+receptor gamma2 subunit mutationis associated with idiopathic
+generalized
+
+epilepsies
+
+have
+
+temperature-dependent
+
+traffickingdeficiencies. J Neurosience 26: 2590-2597
+57. Kimberlin DW (1998) Human herpesvirus 6 and 7: identification of
+
+newly recognized viral pathogens and their association with human
+disease. Pediatr Infect Dis J 17: 59-68
+58. Kiviranta T,Tuomisto L, Airaksinen EM (1996) Osmolality and
+
+electrolytes in cerebro-spinal fluid and serum of febrile children.
+Eur-J-Pediatr 155:120-125
+59. Koroleva VI Bures J (1983) Cortical penicillin focus as a generator
+of repetitive spike triggered waves of spreading depression in rats.
+Exp Brain Res.51: 291-7
+60. Köhling R (2007). Pathomechanismen der Epilepsie.
+
+Z.Epileptol 20: 1-14
+61. Köhling
+
+R
+
+(2008)
+
+Entstehungsmechanismen
+
+der
+
+Epilepsie
+
+unkonventionelle Hypothesen. Z Epileptol 21: 171-179
+62. Kraig RP, Nicholson C (1978) Extracellular ionic variations during
+spreading depression. Neuroscience 3: 1045–1059
+63. Kraig RP, Kunkler PE (2002) Spreading depression: a teleological
+means for self-protection from brain ischemia. Cerebrovascular
+Disease, 22nd Princeton Conference, 2002: 142-157
+
+94
+
+64. Kreisman ND, Smith ML (1993) Potassium-induced changes in
+excitability in the hippocampal CA1 region of immature and adult
+rats. Dev Brain Res 76: 67–73
+65. Kunkler
+
+PE,
+
+Kraig
+
+electrophysiological
+
+RP
+
+(1998)
+
+changes
+
+of
+
+Calcium
+
+waves
+
+spreading
+
+precede
+
+depression
+
+in
+
+hippocampal organ cultures. J Neurosci 18: 3416-25
+66. Langenstein J, Stahnke N (1984) Epilepsien nach Fieberkrämpfen.
+Nervenarzt 55:173-178
+67. Lashley KS (1941) Patterns of cerebral integration indicated by the
+scotomas of migrane. Arch Neurol Psychiatry 46: 331-339
+68. Lauritzen M, Rice ME, Okada Y, Nicholson C (1988) Quisqualate,
+kainate and NMDA can initiate spreading depression in the turtle
+cerebellum, Brain Res. 475: 317-327
+69. Lauritzen M, Hansen AJ (1992) The effect of glutamate receptor
+blockade
+
+on
+
+anoxic
+
+depolarization
+
+and
+
+cortical
+
+spreading
+
+depression. J Cereb Blood Flow Metab 12: 223-9
+70. Lauritzen M (1994) Pathophysiology of the igraine aura. The
+spreading depression theory. Brain 118:119-210
+71. Leao AAP (1944) Spreading depression of activity in the cerebral
+cortex. J Neurophysiol. 7: 359-390
+72. Leao AA, Morison RS (1945) Propagation of spreading cortical
+depression, J Neurophysiol 8:33-45
+
+95
+
+73. Leao AAP (1947) Further observations on the spreading
+depression of activity in the cerebral cortex. J Neurophysiol 10:
+409–414
+74. Lehmenkühler A, Zidek W, Staschen M, Caspers H (1981)
+Cortical pH and pCa in relation to DC potential shifts during
+spreading depression and asphyxiation. In: Sykova E., Hnik P.,
+Vyklicky L. (eds) Ion-selective microelectrodes and their use in
+excitable tissues. Plenum Press New York 225–229
+75. Lennox-Buchthal MA (1973) Electroencephalogr.
+Clin. Neurophysiol. 32: 327
+76. Löscher W, Ungemach FR, Kroker R. (2002) Pharmakotherapie
+bei Haus- und Nutztieren 5.Auflage. Parey Buchverlag, Berlin
+77. Luhmann HJ, Kral T (1997) Hypoxia-induced dysfunction in
+developing rat neocortex. J Neurophysiol 78: 1212-1221
+78. Lurton D, Sundstrom L, Brana C, Bloch B, Rougier A (1997)
+Possible mechanismes inducing granule cell dispersion in humans
+with temporal lobe epilepsy. Epilepsy Res 26:351-361
+79. Maren S, Fanselow MS (1997) Electrolytic lesions of the
+fimbria/fornix,
+
+dorsal
+
+Hippokampus,or
+
+entorhinal
+
+produce
+
+anterograde deficits in contextual fear conditions in rats. Neurobiol
+Learn Mem 67: 142-149
+
+96
+
+80. Margerison JH, Corsellis JA (1966) Epilepsy and the temporal
+lobes. A clinical, electroencephalographic and neuropathological
+study of the brain in epilepsy, with particular reference to the
+temporal lobes.
+Brain 89: 499-530
+81. Marranes R, Willems R, De Prins E, Wauquier A (1988) Evidence
+for a role of the N-Methyl-D-aspartate (NMDA) receptor in cortical
+spreading depression in the rat. Brain Res 457: 226-240
+82. Marshall WH (1959) Spreading cortical depression of Leao.
+Physiol Rev 39: 239-279
+83. Martins-Ferreira H, Ribeiro LJ (1995) Biphasic effects of gap
+junctional uncoupling agents on the propagation of retinal
+spreading depression. Braz J Med Biol Res 28: 991-995
+84. Martins-Ferreira
+
+H,
+
+Nedergaard
+
+M,
+
+Nicholson
+
+C
+
+(2000)
+
+Perspectives on spreading depression. Brain Res Brain Res Rev
+32: 215-34
+85. Mayevsky A, Doron A, Manor T, Meilin S, Zarchin N, Ouaknine GE
+(1996) Cortical spreading depression recorded from the human
+brain using a multiparametric monitoring system, Brain Res. 740:
+268-274
+86. McLachlan RS Girvin JP (1994) Spreading depression of le~ao in
+rodent and human cortex. Brain Res 666: 133-136
+
+97
+
+87. Miller LA, Munoz DG, Finmore M (1993) Hippokampal sclerosis
+and human memory. Arch Neurol 50: 391-394
+88. Millichap JG (1968) Febrile convulsion.
+Macmillian, New York 1968
+89. Minichom
+
+PE,
+
+Wallace
+
+SJ
+
+(1984)
+
+Febrile
+
+convulsions:
+
+electroencephalographic changes related to rectal temperature.
+Arch Dis Child 6: 147-152
+90. Nedergaard M, Astrup J (1986) Infarct rim: effect of hyperglycemia
+on
+
+direct
+
+current
+
+potential
+
+and
+
+[14C]2-deoxyglucose
+
+phosphorylation, J Cereb.Blood Flow Metab 6 : 607-615
+91. Nedergaard M Hansen AJ (1988) Spreading depression is not
+associated with neuronal injury in the normal brain. Brain Res 449:
+395-398
+92. Nedergaard M (1994) Direct signaling from astrocytes to neurons
+in cultures of mammalian brain cells, Science 263 : 1768-1771
+93. Nedergaard M, Cooper AJ, Goldman SA (1995) Gap junctions are
+required for the propagation of spreading depression. J Neurobiol
+28: 433-44
+94. Nellson KB, Ellenberg JN (1976) Predictors of epilepsy in children
+who have experienced febrile seizures.
+N-Engl-J-Med 295: 1029-1033
+
+98
+
+95. Nellson KB, Ellenberg JN (1978) Prognosis of children with febrile
+seizures. Pediatrics 61: 720-27
+96. Nicholson C, Kraig R P (1981) The behavior of extracellular ions
+during spraeding depression. Zeuthen T, The application of ionselective microelectrodes.
+
+Elsevier/North-Holland Biomedical Pr.
+
+Amsterdam
+97. Nicholson C (1993) Volume transmission and propagation of
+spreading depression, Lehmkühler A, Grotemeyer KH, Tegtmeier F.
+Migraine:
+
+basic
+
+machanisms
+
+and
+
+treatment.
+
+Urban
+
+und
+
+Schwarzenberg, München 293-308
+98. Obrenovitch TP, Zilkha E, (1995) High extracellular potassium, and
+not extracellular glutamate, is required for the propagation of
+spreading depression. J Neurophysiol 73: 2107-2121
+99. Oka H, Kako M, Matsushima M, Ando K. (1977) Traumatic
+spreading depression syndrome. Review of a particular type of
+head injury in 37 patients, Brain 100: 287-298
+100. Paulson OB, Newman EA (1987) Does the release of potassium
+from astrocyte endfeet regulate cerebral blood flow?, Science 237:
+896-898
+101. Petsche H, Rappelsberger P, Frey Z, Suchatzki BU (1973) The
+epileptogenic effect of ouabain (g-strophanthin). Its action on the
+EEG and cortical morphology Epilepsia 14: 243–260
+
+99
+
+102. Pomper JK, Haack S, Petzold GC, Buchheim K, Gabriel S,
+Hoffmann
+
+U,
+
+depression-like
+
+Heinemann
+events
+
+U
+
+result
+
+(2006)
+in
+
+cell
+
+Repetitive
+damage
+
+spreading
+in
+
+juvenile
+
+hippocampal slice cultures maintained in normoxia,
+J Neurophysiologie 95: 355-68
+103. Psarropoulou C, Avoli M (1992) CPP, an NMDA-receptor
+antagon ist, blocks 4 aminopyridine-induced spreading depression
+episodes but not epileptiform activity in immature rat hippocampal
+slices Neurosci Lett 135: 139–143
+104. Püst B, Aksu F (2000) Fieberkrämpfe, Harmloses Symptom oder
+ernsthafte Komplikation? Pädiatrie hautnah 12: 507-512
+105. Rutter N, O`Callaghan MJ (1978) Hyponatremia in children with
+febrile convulsions. Arch Dis Child 53: 85-87
+106. Scheller D, Heister U, Dengler K, Tegtmeier F (1991) Extracellular
+changes of aspertat and glutamate during generation and
+propagation of cortical spreading depression in rats, Olesen J,
+Cerebral blood flow in migraine, tension-type headache and cluster
+headache. Raven Press. New York
+107. Siemes H, Bourgeois, Blaise FD (2001) Anfälle und Epilepsien
+bei Kindern und Jugendlichen. Thieme Verlag Stuttgart, New York
+108. Siemes H, Bourgeois FBD (2001) Anfälle und Epilepsien bei
+Kindern und Jugendlichen. Thieme, Stuttgart-New York , ISBN 313-12703-4
+
+100
+
+109. Smith BN, Dudek FE (1996) Amino acid-mediated regulation of
+spontaneous synaptic activity patterns in the rat basolateral
+amygdala. J Neurophysiol 76: 1958–1967
+110. Smith JM, Bradley DP, James MF, Huang CL-H (2006)
+Physiological studies of cortical spreading depression. Biol Rev
+Camb Philos Soc 81: 457-481
+111. Somjen GG, Aitken PG, Czeh GL, Herreras O, Jing J, Young JN
+(1992) Mechanism of spreading depression: a review of recent
+findings and ahypothesis. Can J Physio Pharmacol 70: 248–254
+112. Sommer
+
+W
+
+(1880)
+
+Erkrankung
+
+des
+
+Ammonshorns
+
+als
+
+aetiologisches Moment der Epilepsie. Arch Psychiatr Nervenkr 10:
+631-675
+113. Sramka M, Brozek G, Bures J, Nadvornik P (1977) Functional
+ablation by spreading depression: possible use in human
+stereotactic neurosurgery. Appl.Neurophysiol 40: 48-61
+114. Strong AJ, Venables GS, Gibson G (1983) The cortical ischaemic
+penumbra associated with occlusion of the middle cerebral artery in
+the cat: 1. Topography of changes in blood flow, potassium ion
+activity, and EEG.
+J Cereb.Blood Flow Metab 3: 86-96
+115. Sugaya E, Tokato M, Noda Y (1975) Neuronal and glial activity
+during spreading depression in cerebral cortex of cat.
+J Neurophysiol 38: 822-841
+
+101
+
+116. Tancredi V, Arcangelo GD, Zona C, Siniscalchi A, Avoli M (1992)
+Induction of epileptiform aktivity by temperature elevation in
+hippocampal slices from young rats: An in vitro model for febrile
+seizures? Epilepsia 33: 228-234
+117. Tobiasz C, Nicholson C (1982) Tetrodotoxin resistant propagation
+and extracellular sodium changes during spreading depression in
+rat cerebellum. Brain Res 24: 329-33
+118. Traynelis
+
+SF,
+
+Dingledine
+
+R
+
+(1988)
+
+Potassium-induced
+
+spontaneous electrographic seizures in the rat hippocampal slice.
+J Neurophysiol 59: 259–276
+119. Tsuboi T (1976) Polygenetic inheritance of epilepsy and febrile
+convulsions: analysis based on a computational model. Br-JPsychiatry. 129:239-242
+120. Van Harreveld A
+
+Stamm JS (1952) Vascular concomitants of
+
+spreading cortical depression. J Neurophysiol 1952. 15: 487-496
+121. Van
+
+Harreveld A,
+
+Stamm
+
+JS
+
+(1953)
+
+Spreading
+
+cortical
+
+convulsions and depressions. J Neurophysiol 16: 352- 366
+122. Van Harreveld A, Stamm JS (1955) Cortical responses to
+Metratzol and sensory stimulation in the rabbit. EEG Clin
+Neurophysiol 7: 363 -370
+123. Van Harreveld A (1959) Compounds in brain extracts causing
+spreading depression of cerebral cortical activity and contraction of
+crustacean muscle. J Neurochem 3: 300-315
+102
+
+124. Van Harreveld A, Fifkova E (1970) Glutamate release from the
+retina during spreading depression. J Neurobiol 13-29
+125. Wernsmann B, Pape HC, Speckmann EJ, Gorji A (2006) Effect of
+cortical
+
+spreading
+
+depression
+
+on
+
+synaptic
+
+transmission
+
+of
+
+rathippocampal tissues. Eu J Neurosci 23: 1103–1110
+126. Willette RN, Lysko PG, Sauermelch CF A (1994) comparison of
+(+)SK&F 10047 and MK-801 on cortical spreading depression.
+Brain Res 648: 347-51
+127. Wolf P, Mayer Th, Specht U, Thorbecke R, Pfäffin M, Boenigk HE
+(Hrsg). Praxisbuch Epilepsien. Kohlhammer Verlag Stuttgart, 2
+128. Wolf SM, Carr A, Davis DC (1977) The value of phenobarbital in
+the child who has had a single febrile seizure. Pediatrics 59: 378385
+129. Wu J, Fisher RS (2000) Hyperthermic Spreading Depression in
+the Immature Rat Hipppocampal Slice. JNeurophysiol 84: 13551360
+
+103
+
+7. Curriculum Vitae
+
+104
+
+8. Anhang
+8.1 Abbildungsverzeichnis
+Abb.
+
+1-1:
+
+A:
+
+Aristides
+
+Azevedo
+
+Pacheco
+
+Leão.
+
+Journal
+
+of
+
+Nourophysiology, 1944, B: Änderungen physiologischer Parameter
+während einer SD.
+Leao´s originale Illustration einer SD von 1944.
+Abb. 1-2: Darstellung einer DC-Potentialwelle nach Injektion von KCl
+(3M) am menschlichem Neocortex.
+Abb. 2-1: Darstellung der Messmethode für eine SD.
+Abb. 2-2: Darstellung der Messmethode für eine EFP.
+Abb. 3-1: Wirkung von Low NaCl-Lösung auf SD in AmygdalaHippocampus-Neucortex-Schnittpräparaten, Ratte (Kontrollversuch). A:
+Simultane Originalaufzeich- nung von DC-Verschiebungen in 3 Gruppen.
+B: Propagation von SD.
+Abb. 3-2: Wirkung von Low NaCl-Lösung auf SD in AmygdalaHippocampus-Neucortex-Schnittpräparaten, Ratte (Kontrollversuch vom
+chronischen
+
+Typ).
+
+A:
+
+Simultane
+
+Originalaufzeichnung
+
+von
+
+DC-
+
+Verschiebungen in 3 Kontroll-Gruppen. FP 1 = Entorhinalcortex, FP 2 =
+Hippocampus, FP 3 = Amygdala, FP 4 = Temporalcortex. B: Propagation
+von SD.
+Abb. 3-3:
+
+Wirkung von Niedrig-NaCl-Lösung
+
+Feldpotentiale
+
+(EFP)
+
+in
+
+auf epileptiforme
+
+Amygdala-Hippocampus-Neucortex-
+
+Schnittpräparaten, Ratten der Kontroll-Gruppen I-III (CTRL, ohne
+Hyperthermiebehandlung). A: Originalaufzeichnung: Auslösung der EFP
+durch Superfusion von Low NaCl-Lösung. B: Graphische Darstellung der
+EFP-Parameter: Repetitionsrate, Amplitude in mV und Dauer in sec pro
+5 min.
+
+I
+
+Abb. 3-4:
+
+Wirkung von Niedrig-NaCl-Lösung
+
+Feldpotentiale
+
+(EFP)
+
+in
+
+auf epileptiforme
+
+Amygdala-Hippocampus-Neucortex-
+
+Schnittpräparaten, Ratten der Kontroll-Gruppen Ic-IIIc (CTRLc, ohne
+Hyperthermiebehandlung, entsprechen dem Alter von Ratten der
+chronischen Hyperthermie). A: Originalaufzeichnung: Auslösung der EFP
+durch Superfusion von Low NaCl-Lösung. B: Graphische Darstellung der
+EFP-Parameter: Repetitionsrate, Amplitude in mV und Dauer in sec pro
+5 min.
+Abb. 3-5: Wirkung von Low NaCl-Lösung auf SD in AmygdalaHippocampus-Neucortex-Schnittpräparaten,
+Hyperthermie.
+
+A:
+
+Simultane
+
+Ratte
+
+nach
+
+Originalaufzeich-
+
+der
+
+nung
+
+von
+
+akuten
+DC-
+
+Verschiebungen in 3 Gruppen. FP 1 = Entorhinalcortex, FP 2 = Hippocampus, FP 3 = Amygdala, FP 4 = Temporalcortex. B: Propagation von
+SD.
+Abb. 3-6: Wirkung von Low NaCl-Lösung auf SD in AmygdalaHippocampus-Neucortex-Schnittpräparaten, Ratte nach der chronischen
+Hyperthermie. A: Simultane Originalauf- zeichnung von DCVerschiebungen in 3 Gruppen. FP 1 = Entorhinalcortex, FP 2 = Hippocampus, FP 3 = Amygdala, FP 4 = Temporalcortex. B: Propagation von
+SD.
+Abb.
+
+3-7:
+
+Wirkung
+
+Feldpotentiale
+
+von
+
+(EFP)
+
+Niedrig-NaCl-Lösung
+in
+
+auf
+
+epileptiforme
+
+Amygdala-Hippocampus-Neucortex-
+
+Schnittpräparaten, Ratten nach der akuten Hyperthermie, Gruppen I-III.
+A: Originalaufzeichnung: Auslösung der EFP durch Superfusion von Low
+NaCl-Lösung.
+
+B:
+
+Graphische
+
+Darstellung
+
+der
+
+EFP-Parameter:
+
+Repetitionsrate, Amplitude in mV und Dauer in sec pro 5 min.
+
+II
+
+Abb.
+
+3-8:
+
+Wirkung
+
+Feldpotentiale
+
+von
+
+(EFP)
+
+Niedrig-NaCl-Lösung
+in
+
+auf
+
+epileptiforme
+
+Amygdala-Hippocampus-Neucortex-
+
+Schnittpräparaten, Ratten nach der chronischen Hyperthermie, Gruppen
+Ic-IIIc. A: Originalaufzeichnung: Auslösung der EFP durch Superfusion
+von Low NaCl-Lösung. B: Graphische Darstellung der EFP-Parameter:
+Repetitionsrate, Amplitude ( in mV und Dauer in sec pro 5 min.
+Abb. 3-9: Graphische Darstellung der SD-Parameter: die Mittelwerte der
+Dauer und Amplitude nach der Superfusion von Low NaCl-Lösung in
+Amygdala-Hippocampus-Neucortex-Schnittpräparaten, Ratten. Gruppen
+I-III: Kontrolle (CTRL), akute Hyperthermie und chronische Hyperthermie,
+Kontrolle (CTRLc entspricht dem Alter von Tieren der chronischen
+Hyperthermie).
+Abb. 3-10:
+
+Wirkung von Low NaCl-Lösung auf SD in Amygdala-
+
+Hippocampus-Neucortex-Schnittpräparaten,
+Kontrolle
+
+Ratten.
+
+Gruppen
+
+I-III:
+
+(CTRL), akute Hyperthermie und chronische Hyperthermie,
+
+Kontrolle (CTRLc entspricht dem Alter von Tieren der chronischen
+Hyperthermie). A: Verhältnis von Hirnschnittpräparaten, bei denen SD
+registriert wurden, zu den gesamten Schnitten pro Gruppe in %. B:
+Durchschnittliche SD-Anzahl pro 1 Schnittpräparat.
+Abb. 3-11: Wirkung von KCl-Lösung auf SD in Amygdala-HippocampusNeucortex-Schnittpräparaten, Ratte nach der akuten Hyperthermie. A:
+Simultane Original- aufzeichnung von DC-Verschiebungen in 3 Gruppen.
+FP 1 = Entorhinalcortex, FP 2 = Hippocampus, FP 3 = Amygdala, FP 4 =
+Temporalcortex. B: Propagation von SD.
+Abb. 3-12: Wirkung von KCl-Lösung auf SD in Amygdala-HippocampusNeucortex-Schnittpräparaten, Ratte nach der chronischen Hyperthermie.
+A:
+
+Simultane
+
+Originalaufzeichnung
+
+von
+
+DS-Verschiebungen
+
+in
+
+3
+
+Gruppen. FP 1 = Entorhinalcortex, FP 2 = Hippocampus, FP 3 =
+Amygdala, FP 4 = Temporalcortex. B: Propagation von SD.
+III
+
+Abb. 3-13: Wirkung von 2 M KCl-Lösung auf epileptiforme Feldpotentiale
+(EFP) in Amygdala-Hippocampus-Neucortex-Schnittpräparaten, Ratten
+nach der akuten Hyperthermie, Gruppen I-III. A: Originalaufzeichnung:
+Auslösung der EFP durch Applikation von KCl-Lösung. B: Graphische
+Darstellung der EFP-Parameter: Frequenz, Amplitude in mV und Dauer
+in sec pro 5 min.
+Abb. 3-14: Wirkung von 2 M KCl-Lösung auf epileptiforme Feldpotentiale
+(EFP) in Amygdala-Hippocampus-Neucortex-Schnittpräparaten, Ratten
+nach
+
+der
+
+chronischen
+
+Hyperthermie,
+
+Gruppen
+
+I-III.
+
+A:
+
+Originalaufzeichnung: Auslösung der EFP durch Applikation von KClLösung. B: Graphische Darstellung der EFP-Parameter: Repetitionsrate,
+Amplitude in mV und Dauer in sec pro 5 min.
+Abb. 3-15: Graphische Darstellung der SD-Parameter: Die Mittelwerte
+der Dauer und Amplitude nach der lokalen Applikation von 2M KClLösung
+
+an
+
+Amygdala-Hippocampus-Neucortex-Schnittpräparaten,
+
+Ratten. Gruppen I-III: akute Hyperthermie und chronische Hyperthermie.
+Abb. 3-16: Wirkung von KCl-Lösung auf SD in Amygdala-HippocampusNeucortex-Schnittpräparaten, Ratten. Gruppen I-III: akute Hyperthermie
+und chronische Hyperthermie. A: Verhältnis von Hirnschnittpräparaten,
+bei denen SD registriert wurden, zu den gesamten Schnitten pro Gruppe
+in %. B: Durchschnittliche SD-Anzahl pro 1 Schnittpräparat.
+
+IV
+
+8.2 Tabellenverzeichnis
+Tab. 2-1: Zusammensetzung der verwendeten Lösungen.
+Tab. 3-1: Auswertung der Kombi-Präparaten (Hippocampus,
+
+Amygdala,
+
+Neocortex) von der Kontrollversuchsreihe in allen Altersgruppen. Folgende SDParameter wurden in der Tabelle dargestellt: Anzahl der Hirnschnitte, SDAnzahl, Amplitude in mV, Dauer in minuten, Beginn in minuten.
+Tab. 3-2: Auswertung der Kombi-Präparaten (Hippocampus,
+
+Amygdala,
+
+Neocortex) von der Kontrollversuchsreihe in allen Altersgruppen. Folgende
+EFP-Parameter wurden in der Tabelle dargestellt: Anzahl der Hirnschnitten,
+EFP-Frequenz pro 5 min, Latenzzeit in minuten, Amplitude in mV, Dauer in
+Sekunden.
+Tab.
+
+3-3:
+
+Amygdala,
+
+Auswertung
+
+der
+
+Neocortex)
+
+Kombi-Präparaten
+von
+
+der
+
+(Hippocampus,
+
+akuten
+
+und
+
+Laterale
+
+chronischen
+
+Hyperthermieversuchsreihe in allen Altersgruppen. Folgende SD-Parameter
+wurden in der Tabelle dargestellt: Anzahl der Hirnschnitten, SD-Anzahl,
+Amplitude in mV, Dauer in Minuten, Beginn in Minuten.
+Tab.
+
+3-4:
+
+Amygdala,
+
+Auswertung
+
+der
+
+Neocortex)
+
+Kombi-Präparaten
+von
+
+der
+
+(Hippocampus,
+
+akuten
+
+und
+
+Laterale
+
+chronischen
+
+Hyperthermieversuchsreihe in allen Altersgruppen. Folgende EFP-Parameter
+wurden in der Tabelle dargestellt: Anzahl der Hirnschnitten, EFP-Frequenz pro 5
+min, Latenzzeit in minuten, Amplitude in mV, Dauer in Sekunden.
+Tab.
+
+3-5:
+
+Amygdala,
+
+Auswertung
+
+der
+
+Neocortex)
+
+Kombi-Präparaten
+von
+
+der
+
+(Hippocampus,
+
+akuten
+
+und
+
+Laterale
+
+chronischen
+
+Hyperthermieversuchsreihe in allen Altersgruppen. Folgende SD-Parameter
+wurden in der Tabelle dargestellt: Anzahl der Hirnschnitten, Gesamt-SD-Anzahl,
+Amplitude in mV, Dauer in Minuten, Beginn in Minuten.
+Tab.
+
+3-6:
+
+Amygdala,
+
+Auswertung
+Neocortex)
+
+der
+
+Kombi-Präparaten
+von
+
+der
+
+(Hippocampus,
+
+akuten
+
+und
+
+Laterale
+
+chronischen
+
+Hyperthermieversuchsreihe in allen Altersgruppen. Folgende EFP-Parameter
+wurden in der Tabelle dargestellt: Anzahl der Hirnschnitten, EFP-Frequenz pro 5
+min, Latenzzeit in minuten, Amplitude in mV, Dauer in Sekunden.
+V
+
+8.3 Abkürzungsverzeichnis
+
+Abb.: Abbildung
+AMPA: α-Amino-3-hydroxy-5-methyl-4-isoxazol-Propionsäure
+AS: Aminosäure
+ATPase: Adenosintriphosphatase
+Bzw: beziehungsweise
+CGRP: calcitonin gene-related peptide
+CSD: Corticale Spreading Depression
+CTRL: Kontrollversuche
+DC: Direct current
+EC: entorhinaler Cortex
+EEG: Elektroenzephalografie
+EFP: Epileptiforme Felfpotentiale
+FP: Feldpotential
+GABA: Gamma-aminobutyric acid
+HT: Hyperthermie
+l: Liter
+LA: laterale Amygdala
+Lsg: Lösung
+min: Minute
+ml: Milliliter
+mmol: Millimol
+mV: Millivolt
+NMDA: N-Methyl-D-Aspartat
+p: Tag
+SD: Spreading Depression
+SEM: mittlerer Fehler des Mittelwertes
+Tab.: Tabelle
+TC: temporaler Cortex
+Y: Yamamoto
+μm: Mikrometer
+u.a.: unter anderem
+
+VI
+
+9. Danksagung
+An erster Stelle bedanke ich mich ganz herzlich bei meinem
+Doktorvater Herrn Professor Dr. med. Ali Gorji für die Überlassung
+des
+
+Dissertationsthemas,
+
+und
+
+hervorragende
+
+und
+
+herzliche
+
+Betreuung der vorliegenden Arbeit. Durch sein Engagement bei der
+Einführung in wissenschaftliches Arbeiten hat er wesentlich zum
+Gelingen der Arbeit beigetragen.
+Ein großer Dank auch an das gesamte Institut für Physiologie I für
+das angenehme Arbeitsklima. Mein Dank gilt den Mitarbeitern der
+elektrischen und feinmechanischen Werkstätten des Institutes, die
+mir bei technischen Problemen immer zur Seite standen.
+Ganz herzlich danke ich Frau Herrenpoth für ihr außerordentliches
+Engagement bei der Einweisung in den Versuchsplatz sowie die
+qualifizierte technische Unterstützung bei der Vorbereitung und
+Durchführung der Experimente und die ständige Hilfsbereitschaft in
+allen Phasen der Arbeit. Des weiteren danke ich Frau Winkelhüs für
+die Unterstützung in allen Fragen der Computerprogrammen.
+An dieser Stelle möchte ich meinem lieben Mann, meinen Eltern,
+meiner Schwester meinen Dank für ihre familiäre Rückhalt, für ihre
+bedingungslose Unterstützung zur jeder Zeit, durch welche die
+Fertigstellung dieser Arbeit erst möglich wurde, aussprechen.
+
+VII
+
+

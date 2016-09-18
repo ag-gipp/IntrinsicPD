@@ -1,0 +1,4131 @@
+Aus dem Institut für Nephrologie und Klinische Pharmakologie
+der Medizinischen Fakultät Charité – Universitätsmedizin Berlin
+
+DISSERTATION
+
+Bedeutung des IGF-Systems als Regulationsfaktor der
+Nephrogenese im Modell der hypertensiven Munich-WistarFrömter Ratte mit angeborenem Nephronmangel
+
+zur Erlangung des akademischen Grades
+Doctor medicinae (Dr. med.)
+
+vorgelegt der Medizinischen Fakultät
+Charité – Universitätsmedizin Berlin
+
+von
+Florian Freese
+aus Freiburg
+
+1 Einleitung
+Der
+
+arterielle
+
+Hypertonus
+
+(HT)
+
+ist
+
+einer
+
+der
+
+wesentlichen
+
+Risikofaktoren
+
+kardiovaskulärer Morbidität und Mortalität. Darüber hinaus ist der HT nicht nur
+Ursache
+
+und
+
+Folge
+
+einer
+
+chronischen
+
+Niereninsuffizienz,
+
+sondern
+
+der
+
+Hauptprogressionsfaktor der chronischen Nierenerkrankung [63]. Die klinische
+Erfahrung
+
+zeigt,
+
+dass
+
+sich
+
+bei
+
+bis
+
+zu
+
+95%
+
+aller
+
+Hypertoniker
+
+keine
+
+pathophysiologische Ursache des arteriellen Bluthochdrucks diagnostizieren lässt
+[59]. Die Pathogenese der „essentiellen“ Hypertonie ist trotz zahlreicher Hypothesen
+weiterhin ungeklärt. Das Spektrum der möglichen Pathomechanismen umfasst
+sowohl
+
+extrarenale
+
+Faktoren
+
+wie
+
+eine
+
+Überaktivität
+
+des
+
+Sympathischen
+
+Nervensystems [58], zirkulierende Na+/K+-ATPase Hemmstoffe [9] und einen Mangel
+an zirkulierenden Vasodepressoren als auch renale Faktoren wie die intrarenale
+Ischämie [19], die verminderte Drucknatriurese [38], die heterogene Aktivierung des
+Renin-Angiotensin
+
+Systems
+
+(RAS)
+
+[107],
+
+einen
+
+genetischen
+
+Defekt
+
+der
+
+Natriumexkretion [77], eine gesteigerte glomerulotubuläre Balance [69] und eine
+genetische oder erworbene verminderte Anzahl von Nephronen [14, 84].
+Der
+
+Zusammenhang
+
+zwischen
+
+einer
+
+angeborenen
+
+oder
+
+einer
+
+erworbenen
+
+verminderten Gesamtanzahl an Nephronen in den Nieren des Menschen und dem
+späteren Auftreten eines arteriellen Hypertonus kann genetisch determiniert oder
+durch exogene Faktoren ausgelöst sein. Die Oligonephronie ist durch verschiedene
+aktuelle Studien (epidemiologisch, human- und tierexperimentell) als möglicher
+Pathomechanismus des essentiellen Hypertonus in den Vordergrund der Diskussion
+gerückt. Welche spezifischen Regulationsstörungen der fetalen Nephrogenese zu
+einer angeborenen Reduktion von Nephronen und mit zunehmendem Alter zu einem
+HT und schließlich zu einer progredienten Niereninsuffizienz führen können, ist
+bisher nicht bekannt.
+
+1.1 Nephrogenese
+Die meisten parenchymal-epithelialen
+
+Organe
+
+entwickeln
+
+sich
+
+nach
+
+einem
+
+gemeinsamen Schema. Ein epitheliales Blatt oder ein epithelialer Tubus, die einem
+spezifischen Ursprungsgewebe entstammen, treten in den Prozess der Knospung
+und induzieren die Differenzierung in den Nachbargeweben.
+
+6
+
+Die Entwicklung der Nieren vollzieht sich bei höheren Wirbeltieren aus drei fetalen
+Strukturen. Zuerst wird die Vorniere, Pronephros, angelegt. Es folgt die Urniere,
+Mesonephros. Als Letztes wird die Nachniere, Metanephros (Abb. 1), gebildet. Alle
+drei Nierenanlagen gehen aus dem intermediären Mesoderm hervor, das die
+Nephrotome bildet. Pronephros und Mesonephros sind nur vorübergehende
+Bildungen, die für die Harnbildung bei höheren Wirbeltieren funktionell keine
+Bedeutung haben. Die Nachniere oder Metanephros entwickelt sich zur bleibenden
+Niere.
+Die Metanephrogenese (im Text als Nephrogenese bezeichnet) beginnt beim
+Menschen im Gestationsalter von etwa 5 Wochen und wird in utero um die 36.
+Woche abgeschlossen (Tabelle 1). Bei Ratten beginnt die Nephrogenese am 12.
+Embryonaltag (E12) und wird am 7.-13. Tag post partum vollendet (D7-D13) [61]
+(Tabelle 1).
+
+Tabelle 1: Gestationsdauer und Dauer der Nephrogenese in verschiedenen Spezies
+Spezies
+
+Gestationsdauer
+
+Dauer der Nephrogenese
+
+Maus
+
+20 Tage
+
+E11 bis D 5-7
+
+Ratte
+
+21 Tage
+
+E12 bis D7-13
+
+Schwein
+
+16 Wochen
+
+E20 bis D21-28
+
+Mensch
+
+38 Wochen
+
+5 SSW bis 35-36 SSW
+
+Abkürzungen: E, Embryonaltag; D, postnataler Tag; SSW, Schwangerschaftswoche
+(Tabelle modifiziert nach Guron [53])
+
+Die Nachniere, Metanephros, entsteht, im Gegensatz zu anderen parenchymalepithelialen
+
+Organen,
+
+aus
+
+zwei
+
+verschiedenen
+
+Ursprungsgeweben,
+
+dem
+
+metanephrogenen mesenchymalen Blastem (MM) und dem Urnierengang (WolffGang, mesonephritischer Gang; Abb. 1). Aus dem MM Blastem entwickeln sich das
+Glomerulum, der proximale und der distale Tubulus und aus dem Urnierengang das
+Sammelrohrsystem, das Nierenbecken und der Ureter.
+7
+
+Urogenitalleiste
+Aorta
+Pronephros
+Wolff-Gang
+Mesonephros
+Müller-Gang
+Metanephros
+
+Abbildung 1: Nephrogenese-Übersicht
+Pronephros, Vorniere; Mesonephros, Urniere; Metanephros, Nachniere.
+Die renale Vaskularisierung erfolgt parallel zur Nephrogenese über das Einwachsen
+prä-existenter extrarenaler Gefäße (Angiogenese) in die Bowman-Kapsel (Abb. 2)
+und durch die in-situ Bildung neuer Gefäße aus endothelialen Vorläuferzellen im
+metanephritischen Mesenchym (Vaskulogenese) [12]. Wachstum und Reifung der
+Niere setzen sich auch nach Abschluss der Nephrogenese postnatal fort. So wird die
+Fähigkeit zur Konzentrierung des Urins bei der Ratte erst im Alter von 6 Wochen und
+beim Menschen im Alter von 18 Monaten vollständig erreicht.
+Die
+
+Organogenese
+
+Zusammenspiels
+
+aus
+
+ist
+
+das
+
+zellulärer
+
+Ergebnis
+
+eines
+
+Proliferation,
+
+komplexen
+
+Kommunikation,
+
+temporospatialen
+Induktion
+
+und
+
+Bewegung. Zellveränderungen werden von Änderungen der Gen-Expression
+begleitet, und der Grad der Zelldifferenzierung nimmt dabei ständig zu, oft als
+Reaktion auf spezifische induktive Signale benachbarter Zellen.
+
+1.2 Arterieller Hypertonus und Anzahl der Nephrone
+Die Oligonephronie kann sowohl genetisch determiniert als auch durch exogene
+Faktoren verursacht sein. Sie ist durch verschiedene aktuelle Studien als mögliche
+patho-anatomische und damit funktionelle Ursache eines Teils des essentiellen
+Hypertonus in den Vordergrund gerückt. Bisher ist nur in Ansätzen bekannt, welche
+spezifischen Regulationsstörungen der fetalen Nephrogenese zu einer angeborenen,
+
+8
+
+reduzierten Anzahl an Nephronen und daran anschließend, mit zunehmendem Alter
+zu einem Hypertonus (HT) mit progredienter Nephropathie führen können.
+
+Metanephritisches
+Blastem
+
+Ureterknospe
+
+Induktion, Kondensation und Komma-Stadium
+
+S-Stadium
+
+Differenzierung der
+Nephronsegmente
+
+Abbildung 2: mesenchymal-epithelialer Übergang
+Erstmalig wurde 1988 von Brenner die Hypothese formuliert, dass eine umgekehrt
+proportionale Abhängigkeit zwischen der Anzahl der Nephrone und dem Risiko der
+Manifestation eines HT besteht [14]. Danach kann ein Mangel an Nephronen zum
+Zeitpunkt der Geburt das spätere Auftreten eines HT verursachen. Die kongenitale
+Oligonephronie ist somit möglicherweise bereits pathognomonisch für eine im
+Erwachsenenalter folgende essentielle Hypertonie.
+Die These, dass das spätere Auftreten eines Hypertonus eine pathophysiologische
+Eigenschaft der Niere sein kann, wird durch den tierexperimentellen Befund
+unterstützt, dass bei Überkreuztransplantationen von Nieren zwischen normotonen
+und hypertensiven Rattenstämmen der HT von der Spenderniere und nicht vom
+Empfängerorganismus abhängt [8] [22]. Interessant ist dabei, dass die Nieren einiger
+der hypertensiven Rattenstämme eine angeborene reduzierte Nephronenanzahl
+aufweisen. Analoge Befunde wurden auch an nierentransplantierten Patienten
+erhoben [20].
+
+9
+
+Nach dem Guyton’schen-Modell der renalen Volumen-Druck Balance [38] folgt aus
+Brenners Hypothese, dass ein Mangel an Nephronen über eine Abnahme der
+natriuretischen und diuretischen Kapazität zu einem langfristig erhöhten HT führt, um
+eine ausgeglichene Natrium- und Wasserbilanz zu ermöglichen. Eine experimentelle
+Reduktion des Nierengewebes erhöht über den systemischen Blutdruckanstieg den
+glomerulären Kapillardruck, der zu einem Anstieg der glomerulären Filtrationsrate
+und damit zu einem Ausgleich der Natrium- und Volumenbilanz führt [13]. Anhaltend
+hohe glomeruläre Kapillardrücke fördern das Auftreten einer fokal-segmentalen
+Glomerulosklerose, und es kommt zum Untergang von Nephronen [51] und damit
+zum weiteren Anstieg des Hypertonus. Ein circulus vitiosus entsteht. Dieser
+Mechanismus, einhergehend mit Proteinurie und Glomerulosklerose, findet sich auch
+bei Patienten nach ausgedehnter Nierenresektion im Rahmen der Tumor- und
+Traumachirurgie
+
+[92].
+
+Ebenso
+
+wird
+
+eine
+
+erhöhte
+
+Inzidenz
+
+des
+
+HT
+
+bei
+
+Nierenlebendspendern berichtet [41, 113, 122].
+Im Gegensatz zu anderen Spezies (Tabelle 1) ist die Bildung der Nephrone beim
+Menschen zum Zeitpunkt der Geburt abgeschlossen [43]. Interessant ist, dass die
+Anzahl der Nephrone in der Normalpopulation bei sonst unauffälligen Individuen
+erhebliche Unterschiede aufweist. So werden in der Literatur zwischen 300.000 und
+über 1.100.000 Nephrone, im Mittel 600.000 Nephrone, angegeben [93]. Dies ist eine
+ungewöhnlich
+
+hohe
+
+Varianz
+
+im
+
+Vergleich
+
+zu
+
+anderen
+
+anthropometrischen
+
+Parametern einer Normalpopulation.
+Nach Brenners Hypothese haben Individuen, deren Nephronenzahlen sich am
+unteren Ende dieser Normalverteilung befinden, ein besonders hohes Risiko, einen
+essentiellen HT zu entwickeln, wohingegen die Individuen mit Nephronenzahlen am
+oberen Ende der Verteilung eine gewisse Resistenz gegen das Auftreten eines HT
+und einer progredienten Nierenschädigung aufweisen [15].
+Da es bisher noch keine nicht-invasive Methode zur spezifischen und sensitiven
+Bestimmung der Anzahl der Nephrone im lebenden Organismus gibt, kann Brenners
+Hypothese am Menschen noch nicht direkt überprüft werden.
+Insofern ist bemerkenswert, dass kürzlich die Verbindung zwischen einer niedrigen
+Anzahl an Nephronen und dem menschlichen primären Hypertonus bestätigt werden
+konnte. In einer Studie besaßen Patienten mit primärem Hypertonus 46% weniger
+
+10
+
+Glomerula pro Niere als die Mitglieder der normotensiven Kontrollgruppe [61]. Diese
+Befunde wurden 2007 von Hoy bestätigt und ergänzt [54].
+Die Nephrogenese ist beim Menschen mit den Wochen 32-34 abgeschlossen, und
+ein in der Nephrogenese begründetes glomeruläres Defizit persistiert ein Leben lang.
+Somit könnte eine erniedrigte Nephronenanzahl die pathoanatomische und
+pathophysiologische Ursache für das Auftreten des primären Hypertonus bei einem
+Teil
+
+der
+
+betroffenen
+
+Bevölkerung
+
+sein.
+
+Brenners
+
+Hypothese
+
+wird
+
+durch
+
+Beobachtungen Barkers unterstützt [6]. Ein niedriges Geburtsgewicht korreliert mit
+dem späteren Auftreten eines hohen diastolischen Blutdrucks und in der Folge mit
+dem Auftreten von kardiovaskulären Krankheiten und der durch diese Krankheiten
+hervorgerufenen Sterberate. Dieses Phänomen wird
+
+als Fetale Programmierung
+
+bezeichnet.
+
+Geburtsgewicht
+
+Beim
+
+Menschen
+
+korrelieren
+
+das
+
+und
+
+die
+
+Nephronenanzahl direkt, das glomeruläre Volumen und der Bluthochdruck indirekt
+[55] [85] [54].
+Die bei Geburt vorhandene Anzahl an Nephronen scheint sowohl durch genetische
+Faktoren als auch durch externe intrauterine Bedingungen bestimmt zu werden. So
+geht ein niedriges Geburtsgewicht, bedingt durch eine intrauterine Reifungsstörung,
+mit einer Verminderung der Nephronenanzahl einher, auch dann, wenn das Kind
+zum Termin geboren wird [85, 123]. Ein niedriges Geburtsgewicht ist mit einem HT
+im Erwachsenenalter assoziiert [6], möglicherweise auch im Kindesalter [75]. Ein
+direkter Zusammenhang zwischen niedrigem Geburtsgewicht und dem salzsensitiven HT ist jedoch noch nicht belegt.
+
+1.3 Faktoren der Fetalen Programmierung der Oligonephronie
+Wintour postulierte 2003, dass Konzepte wie „life before birth“ oder „first
+environment“ wichtig bei der Determinierung des fortschreitenden Risikos für die
+Entwicklung kardiovaskulärer und metabolischer Krankheiten seien. Alle Faktoren,
+die die Nephrogenese während ihrer aktiven Phase unterbrechen oder moderieren
+und die Nephronenanzahl vermindern, führen zu maladaptiven Veränderungen im
+späteren Leben, die sowohl den Beginn des adulten Hypertonus (HT) als auch die
+Nierenfunktion beeinflussen können [124].
+
+11
+
+1.3.1 Proteinmangel in der Schwangerschaft
+Mehrere Autoren haben beschrieben, dass der Nachwuchs von Muttertieren, die
+während der Schwangerschaft
+
+einer Proteinmangeldiät ausgesetzt waren, relativ
+
+klein ist und mit hoher Wahrscheinlichkeit im Erwachsenenalter einen HT entwickelt.
+Ungeachtet postpartaler Einflüsse und Faktoren persistiert der Bluthochdruck ein
+Leben lang [88] [70] [98] [126]. Umgekehrt verfügt der Nachwuchs proteinreich
+ernährter oder von vor der Gestation einseitig nephrektomierten Muttertieren über
+eine erhöhte Anzahl von Nephronen und eine relative Resistenz gegen das Auftreten
+einer Hypertonie mit progressiver Niereninsuffizienz im Erwachsenenalter.
+1.3.2 Chirurgische Reduktion der Nephronenanzahl
+Dieser Befund wird auch durch die Beobachtung, dass es nach der chirurgischen,
+postpartalen Reduktion der Nephronenanzahl im weiteren Verlauf zu einem
+Hypertonus kommt [14] [83] [84], gestützt.
+1.3.3 Tierexperimentelle Hinweise
+Experimentell lässt sich durch die Induktion einer uterinen Ischämie nach Gabe von
+Aminoglykosiden eine Abnahme der Nephronenanzahl erzeugen, die schon in
+geringem Maße zur Glomerulosklerose im adulten Tier führt [34].
+Desweiteren
+
+konnte
+
+am
+
+Tiermodell
+
+gezeigt
+
+werden,
+
+dass
+
+sowohl
+
+hohe
+
+Konzentrationen synthetischer und natürlicher Glukokortikoide, als auch zu hohe
+Blutzuckerwertewährend kritischer Perioden der embryonalen Nephrogenese zu
+einer Reduktion der Nephronenanzahl führten [26] [124].
+
+1.4 Genetische determinierte Faktoren
+Mit hoher Wahrscheinlichkeit haben genetische Faktoren einen direkten Einfluss auf
+die Anzahl der Nephrone und die Nierengröße zum Zeitpunkt der Geburt. Darüber
+hinaus sind sowohl der Hypertonus (HT) als auch eine verstärkte Retention von
+Natrium nach akuter Salzbelastung genetisch determiniert [54] [25] [35] [55] [128].
+Bereits vor mehreren Jahrzehnten ergaben sich erste Hinweise darauf, dass die Zahl
+der funktionstüchtigen Nephrone für das spätere Auftreten einer Hypertonie von
+entscheidender Bedeutung ist. Epidemiologische Untersuchungen zeigten, dass
+einige ethnische Gruppen mit erhöhter Inzidenz für das Auftreten eines HT weniger
+
+12
+
+Nephrone bzw. ein geringeres Nierengewicht im Verhältnis zum Körpergewicht
+aufweisen. So findet man bei Japanern, mit hoher Inzidenz für einen HT, im
+Durchschnitt kleinere Nieren als in anderen Populationen. Auch bei Afro-Amerikanern
+sind die Nieren durchschnittlich kleiner und es tritt häufiger ein salzsensitiver HT [54]
+[55] [52] [81] auf als bei Kaukasiern.
+Ebenso sind verschiedene Rattenmodelle mit genetisch determiniertem HT und
+chronisch progredientem Nierenversagen durch eine angeborene verminderte
+Anzahl an Nephronen charakterisiert [14] (Tabelle 5). Genaue pathologische
+Regulationsmechanismen, die während der Nephrogenese zu einer Oligonephronie
+führen, sind noch wenig erforscht.
+Es gibt Hinweise einer Vielzahl von Autoren und aus Ergebnissen der eigenen
+Arbeitsgruppe,
+
+dass
+
+während
+
+der
+
+Nephrogenese
+
+das
+
+insulin-ähnliche
+
+Wachstumsfaktor-System (IGF-System) eine wichtige Rolle im physiologischen
+Ablauf einer ungestörten Nephrogenese spielen könnte.
+In der vorliegenden Arbeit wird aus diesem Grund ein Teil des IGF-Systems an zwei
+genetisch
+
+eng
+
+verwandten
+
+Rattenstämmen
+
+untersucht,
+
+die
+
+während
+
+der
+
+Nephrogenese unterschiedliche Nephronenanzahlen entwickeln und klinisch normobzw. hypertensiv sind.
+
+1.5 Regulationsmechanismen der Nephrogenese
+1.5.1 Genregulation
+Verschiedene Regulationsgene der Nephrogenese sind bereits identifiziert. Viele
+dieser Transkriptionsfaktoren sind physiologisch während der Organogenese aktiviert
+und haben pathophysiologisch als Onkogene bei der Tumorentstehung im reifen
+Organismus eine wichtige Bedeutung.
+Das Wilms Tumor Supressor Gen (WT-1) wurde als ein zentraler Transkriptionsfaktor
+der frühen Nephrogenese identifiziert. WT-1 interagiert und steuert zu einem großen
+Teil die komplexen Interaktionen des mesenchymal-epithelialien Übergangs
+(mesenchymal-epithelial transformation (MET)) [50] und kontrolliert die Expression
+verschiedener anderer Gene und Wachstumsfaktoren sowie deren Rezeptoren [106,
+121]. In homozygoten WT-1 Knockout-Mäusen kommt es zu keiner Ausknospung
+des Ureters, es fehlt dadurch die Induktion des Mesenchyms, und eine renale
+13
+
+Agenese ist die Folge [66]. WT-1 unterdrückt die Expression des Protoonkogens bcl2, das eine zentrale Bedeutung für die Apoptose hat und kontrolliert über die
+transkriptionelle Regulation von c-myc multiple Proliferationsprozesse [47]. WT-1
+steuert im metanephritischen Blastem die Expression des insulin-ähnlichen
+Wachstumsfaktors (IGF) und dessen Rezeptors (IGF-R) [57].
+Das Bf-2 Gen wird in mesenchymalen Zellen exprimiert. Nach der Induktion wird Bf-2
+in Stammzellen der Medulla und des äußeren Kortex exprimiert. Bf-2-Knockout führt
+zu Nieren mit großen mesenchymalen Kondensaten, ohne dass eine weitere
+Differenzierung stattfindet [42].
+Die Homeobox (Hox) Genfamilie spielt für die Regulation verschiedener Stadien der
+Nephrogenese
+
+vom
+
+frühen
+
+intermediären
+
+Mesoderm
+
+bis
+
+zur
+
+terminalen
+
+Differenzierung der glomerulären und tubulären Epithelien eine Rolle [97]. Es haben
+aber
+
+nur
+
+wenige
+
+der
+
+gezielten
+
+Mutationen
+
+in
+
+der
+
+Hox-Genfamilie
+
+zu
+
+Entwicklungsdefekten der Niere geführt [68]
+Die Hepatozytenkernfaktoren (hepatocyte-nuklear factors) Faktoren HNF-1α und
+HNF-1β werden während der Organogenese der Nieren unterschiedlich exprimiert.
+Über die funktionelle Bedeutung der HNF ist wenig bekannt [71].
+Auch die Protoonkogene der myc Familie spielen in der Nephrogenese eine Rolle.
+Das N-myc Gen wird generell in Epithelien exprimiert, in denen auch eine Induktion
+stattfindet,
+
+und
+
+steuert
+
+somit
+
+die
+
+Proliferation,
+
+Ausknospung
+
+und
+
+weitere
+
+Differenzierung [48]. Die Transkription des C-myc Gens findet bereits in nicht
+induzierten Mesenchymalzellen und in frühen Differenzierungsstadien statt, nicht
+aber in reifem Epithel [90]. Das Mesonephros N-myc-transgener Mäuse ist durch
+eine mesenchymale Hypoplasie sowie weniger und kleinere Tubuli charakterisiert
+[110].
+Die Protoonkogene C-met, C-res und C-ros kodieren jeweils unterschiedliche
+Rezeptor-Tyrosin-Kinasen, die durch Wachstumsfaktoren aktiviert werden und
+spezifische Expressionsmuster während der Nephrogenese aufweisen.
+Das „circadian clock gene Timeless“ (Tim) hat die Funktion eines zirkadianen
+Zeitgebers in Drosophila melanogaster Fliegen. Das homologe Gen in Säugetieren,
+„mTimeless“
+
+(mammalian timeless, mTim), scheint keine Zeitgeberfunktion zu
+
+haben, ist aber bei der embryonalen Entwicklung verschiedener Organsysteme
+
+14
+
+aktiviert. Während der Knospung wird mTim in den Zellen der Ureterknospe (UB)
+exprimiert. Eine Hemmung der mTim mRNA Expression in kultivierten embryonalen
+Nierenexplantaten durch antisense Oligonukleotide stört das Ausknospen der
+Sammelrohre und führt zu einer Wachstumshemmung der Nieren [76]. Ob eine
+veränderte Wirkung von Transkriptionsfaktoren und Regulator-Genen zu einer
+kongenitalen Oligonephronie führt, ist nicht bekannt.
+1.5.2 Wachstumsfaktoren und extrazelluläre Matrix
+Neben den Transkriptionsfaktoren haben Wachstumsfaktoren (Growth Factors (GF))
+eine zentrale Bedeutung in der Nephrogenese. Sie vermitteln eine Stimulation der
+Mitose,
+
+Migration,
+
+Induktion,
+
+Differenzierung,
+
+Polarisation,
+
+Proliferation
+
+und
+
+Apoptose. Die Interaktion der verschiedenen GF und ihrer Rezeptoren bei der
+Regulation der Organogenese wird in ihrer großen Komplexität bei weitem noch nicht
+verstanden. Die am besten untersuchten GF der Nephrogenese sind die Insulinähnlichen Wachstumsfaktoren (IGF)-I und -II, der Hepatozytenwachstumsfaktor
+(hepatocyte GF (HGF)), der transformierende Wachstumsfaktor beta (transforming
+GF (TGF-β) und Fibroblastenwachstumsfaktor (basic fibro-blast GF (bFGF)). Neben
+diesen beeinflussen auch andere Wachstumsfaktoren die Organogenese der Niere.
+In Zellkultur-Experimenten reagieren epitheliale embryonale Nierenzellen sehr
+unterschiedlich auf spezifische Wachstumsfaktoren und synergistische Effekte
+zwischen verschiedenen Wachstumsfaktorfamilien scheinen eine große Bedeutung
+zu spielen [50]. Noch nicht induziertes metanephritisches Mesenchym reagiert auf
+keinen der o.g. Wachstumsfaktoren mit einer Tubulogenese [123]. Das hat zu dem
+Schluss geführt, dass nicht nur Interaktionen der verschiedenen Wachstumsfaktoren,
+sondern auch Signale von extrazellulären Matrix (ECM) Proteinen eine regulatorische
+Funktion in der Nephrogenese haben.
+Unter den ECM Proteinen ist die Laminin- und Integrin-Familie in ihren Interaktionen
+mit Wachstumsfaktoren am besten untersucht [50]. Mit der Induktion und dem Beginn
+des mesemchymal-epithelialen Übergangs (MET) setzt eine tiefgreifende Änderung
+des epithelialen Phänotyps ein. Wird die Laminin- oder Integrin-Expression
+experimentell blockiert, so bleibt eine weitere Zelldifferenzierung aus [29].
+Osteopontin (OPN) ist ein bekannter Mediator entzündlicher Prozesse der renalen
+ECM. Es enthält die Peptid Sequenz „RGD“, die verschiedenen Integrinen als
+Bindungsstelle dient. OPN wird im Metanephros der Ratte exprimiert und eine OPN15
+
+Integrin Interaktion scheint für die Tubulogenese wichtig zu sein. Darüber hinaus hat
+OPN eine anti-apoptotische Wirkung während der Kondensationsphase im
+metanephritischen Blastem [102]. Es ist bisher nicht untersucht, welche Bedeutung
+die Expression von ECM Proteinen auf die Anzahl der sich bildenden Nephronen hat.
+1.5.3 Prostaglandine und Renin-Angiotensin-System
+Behandlung mit nichtsteroidalen Antiphlogistika während der Schwangerschaft kann
+im
+
+Neugeborenen
+
+zur
+
+renalen
+
+Dysgenesie
+
+führen
+
+[115,
+
+119].
+
+In
+
+Zellkulturexperimenten ist Prostaglandin E1 (PGE1) ein essentieller Faktor für das
+Wachstum
+
+und
+
+die
+
+Differenzierung
+
+der
+
+Metanephroi
+
+[2].
+
+Während
+
+der
+
+Gestationsperiode führt bei Mäusen und Ratten die Behandlung mit einem selektiven
+Hemmstoff der Cyklooxygenase-2 (Cox-2), nicht jedoch der Cyklooxygenase-1 (Cox1), zu einer gestörten Bildung der Nierenrinde sowie zu kleineren Glomerula bei den
+Nachkommen [65].
+Alle Komponenten des Renin-Angiotensin System (RAS) werden organständig
+während der Nephrogenese stark exprimiert. Eine ACE-Hemmung oder AT1Rezeptor
+
+Blockade
+
+während
+
+der
+
+Nephrogenese
+
+führt
+
+zu
+
+ausgeprägten
+
+morphologischen Veränderungen der Nieren, die auch nach Beendigung der
+Behandlung fortbestehen [37]. Es kommt dabei zur Atrophie der Papillen, der
+Erweiterung des Nierenbeckens, der tubulären Atrophie und zur deren Dilatation. Die
+Glomerula erscheinen histologisch unauffällig. Welche Relevanz die Aktivität des
+RAS und des Prostaglandin Systems für die kongenitale Oligonephronie hat ist
+ebenfalls nicht bekannt.
+1.5.4 Retinoide
+Von den bekannten Regulationsfaktoren der Nephrogenese ist für die Retinoide ein
+Einfluss auf die Anzahl gebildeter Nephrone nachgewiesen. In Organkulturversuchen
+konnte gezeigt werden, dass durch Gabe von Retinoiden das Wachstum und die
+Differenzierung
+
+von
+
+Metanephroi
+
+stimuliert
+
+wird.
+
+Dabei
+
+wird
+
+sowohl
+
+die
+
+Induktionsphase als auch die Ausknospung der Ureteranlage stimuliert. Dieser Effekt
+schien um so ausgeprägter zu sein, je früher in der Nephrogenese eine RetinoidApplikation erfolgte [118]. Zu einem großen Teil wird die Wirkung der Retinoide
+dosisabhängig über das Protoonkogen c-ret vermittelt [89]. Interessanterweise führt
+sogar eine milde fetale Vitamin A Mangelversorgung im Rattenmodell zu einer
+kongenitalen Oligonephronie [73]. Dies könnte eine zentrale Bedeutung der Vitamin16
+
+A Spiegel für die intrauterine Programmierung der arteriellen Hypertension und der
+chronisch progressiven Niereninsuffizienz nahelegen. Es ist bisher aber noch nicht
+nachgewiesen, dass eine kongenitale Oligonephronie durch Gabe von Retinoiden
+während der Nephrogenese in vivo moduliert werden kann.
+1.5.5 Insulin-ähnliche Wachstums Faktoren (IGFs), IGF-Rezeptoren (IGF-R) und
+IGF-Bindungsproteine (IGF-BPs)
+Die IGFs, ihre Bindungsproteine und Rezeptoren sind wichtige Regulationsfaktoren
+des fetalen Wachstums in Säugetieren. Zwei IGF Peptide (IGF-I und IGF-II) und ihre
+Rezeptoren (IGF-I-R und IGF-II-R) sowie sieben Bindungsproteine (IGF-BP 1-7) sind
+bekannt [49].
+Die Insulin-ähnlichen Wachstumsfaktoren I und II sind Polypetide, die anabol wirken
+und deren Transkription über Wachstumshormone (GH) stimuliert wird. Die Insulinähnlichen Wachstumsfaktoren wirken über eine Bindung an spezifische Rezeptoren
+(IGF-I-Rezeptor und IGF-II-Rezeptor) [46, 74]. Mehr als 99% des IGF liegt im Serum
+gebunden an spezifische Bindungsproteine (IGF-BP 1-7) [5, 95, 108] vor. Der
+Hauptsyntheseort des IGF-I und –II, sowie des IGF-BP3 ist die Leber. Aber auch in
+der Niere und in anderen Organen findet sich deren Synthese [10, 21].
+1.5.5.1 Insulin-ähnlicher Wachstumsfaktor I (IGF-I)
+IGF-I ist auch als Somatomedin C [10, 64] bekannt, ein basisches Polypeptid, das
+beim Menschen auf Chromosom 12 lokalisiert ist. Es besteht aus 70 Aminosäuren
+und hat ein Molkulargewicht von 7,649 kDa [101]. Es ist in seiner Struktur dem
+Proinsulin sehr ähnlich. Die Wirkung von IGF ist anabol und ähnelt der des Insulins.
+IGF-I stimuliert die Glykogen-, Glykosaminoglykan- und Proteinbiosynthese. Ebenso
+werden sekundäre Wachstumseigenschaften bei Heranwachsenden beeinflusst. Man
+vermutet, dass die anabole Wirkung des Wachstumshormons (GH) über erhöhte
+Serumkonzentrationen von IGF-I vermittelt wird. IGF-I ist vom Tag E13 der
+Embryogenese in der Ratte nachweisbar [103].
+1.5.5.2 Insulin-ähnlicher Wachstumsfaktor II (IGF-II)
+IGF-II, auch als Somatomedin A bekannt (67 Aminosäuren, 7,5 kDa), scheint bisher
+nur in frühen Stadien der embryonalen Entwicklung aktiv zu sein. Die Rolle von IGF-II
+im Prozess der Alterung ist bisher ungeklärt und leitet sich bisher hauptsächlich von
+seiner Verbindung zu IGF-I und der IGF-I / GH Achse bei der Regulierung des
+
+17
+
+Alterungsprozesses ab. Ein Polymorphismus auf dem menschlichen IGF-II Gen
+wurde mit dem BodyMass Index in Verbindung gebracht[32].
+Ihre Bedeutung für die Nephrogenese wurde über IGF blockierende Antikörper an
+Organkulturen in vitro nachgewiesen. Darüber hinaus zeigen knockout Tiermodelle
+für IGF-I, IGF-II und den IGF-I-Rezeptor schwere fetale Fehlbildungen [4, 24].
+1.5.5.3 IGF–Rezeptor I und II
+Die IGF-Rezeptoren (I und II) sind dem Insulinrezeptor nahe verwandt. Sie gehören
+zu der Familie der Tyrosinkinaserezeptoren, sind heterotetramere Glykoproteine, die
+aus einer extrazellulären, hormonbindenden (IGF-I und IGF-II) α –Untereinheit und
+zwei transmembranären β – Untereinheiten, welche die Kinase Domäne enthalten,
+bestehen. Nach Triggerung der β-Untereinheit erfolgt deren Kreuzphosphorylierung
+und damit die Triggerung nachgeschalteter Signalkaskaden wie der Ras-Rafmitogen-aktivierten Proteinkinase (Ras-Raf-MAPK) oder der Phosphatidylinositol-3Kinase (PI3-K). Sie werden in allen Zelltypen und Geweben exprimiert und durch
+unterschiedliches Splicing in zwei Expressionsformen (I und II) unterteilt.
+1.5.5.4 Insulin-ähnliche Wachstumsfaktor-Bindungsproteine (IGF-BP 1-7)
+Bisher sind sieben verschiedene Bindungsproteine bekannt [95, 108]. Diese binden
+etwa 99% [46] des IGF und schützen ihn auf diese Weise vor einem raschen,
+enzymatischen Abbau und verlängern so die Wirkungsdauer des IGF. Als Beispiel
+sei hier das IGF-BP3 näher beschrieben. Es ist ein aus zwei Komponenten
+bestehendes Glykoprotein. Eine Untereinheit ist säurelabil und hat ein Gewicht von
+85kD, die andere Untereinheit ist säurestabil und hat ein Molekulargewicht von ca.
+50kD. Das IGF-BP3 bestimmt nach der Geburt maßgeblich die Konzentration des
+freien IGF-I und –II im Serum [10]
+1.5.5.5 Stand der Wissenschaft zum IGF-System
+Die vorher beschriebenen toxischen Effekte der ACE Hemmung auf die
+Nephrogenese werden zumindest teilweise über IGF vermittelt, da eine exogene
+Gabe von IGF-I bei gleichzeitiger neonataler ACE-Hemmung zu komplett
+funktionstüchtigen und morphologisch unauffälligen Nieren in ausgewachsenen
+Ratten führt [91].
+Im
+
+Kontext
+
+der
+
+kongenitalen
+
+Oligonephronie
+
+(insbesondere
+
+bei
+
+niedrigem
+
+Geburtsgewicht) und der Genese des essentiellen HT könnten die IGF eine
+18
+
+herausragende Bedeutung haben. Niedrige Serumkonzentrationen von IGF-I und
+hohe Konzentrationen von IGFBP-1 finden sich im dritten Trimester bei Schwangeren
+mit Frühgeburten im Vergleich zu Schwangeren mit termingerechter Geburt (geringes
+Angebot an freiem IGF-I) [7, 94, 120]. Es wurden positive Korrelationen zwischen
+dem Serumspiegel von IGF-I und Geburtsgewicht gefunden [94]. Darüber hinaus
+sind,
+
+mit
+
+hoher
+
+Signifikanz,
+
+Fruchtwasserkonzentration
+
+die
+
+von
+
+mütterliche
+
+IGFBP-1
+
+Serumkonzentration
+
+umgekehrt
+
+proportional
+
+und
+
+die
+
+mit
+
+dem
+
+Geburtsgewicht korreliert [18, 120].
+Im Tiermodell sind nach Mangelernährung die Serumkonzentrationen von IGF-I und
+–II sowohl im mütterlichen als auch im fetalen Kreislauf signifikant erniedrigt [72].
+In einer Arbeit über Feten diabetischer Mütter wurde bereits beschrieben, dass der
+IGF-II-Rezeptor in der Pathogenese der gestörten Nephrogenese eine wichtige Rolle
+spielt.[28]
+Da
+
+Mangelernährung,
+
+erniedrigten
+
+Frühgeburt
+
+Nephronenanzahl,
+
+und
+
+einem
+
+niedriges
+
+Geburtsgewicht
+
+essentiellen
+
+HT
+
+und
+
+mit
+
+einer
+
+progredientem
+
+Nierenversagen im Erwachsenenalter assoziiert sind, ist ein Zusammenhang
+zwischen IGF und der Anzahl der gebildeten Nephrone sehr wahrscheinlich. Ein
+transgenes Mausmodell mit Überexpression des humanen IGFBP-1 (niedrige freie
+IGF-I Konzentrationen) ist durch eine progrediente Glomerulosklerose in den adulten
+Tieren charakterisiert [27]. Tatsächlich ist in diesem Modell die Nephronenanzahl
+sogar von nicht-transgenen Nachkommen heterozygoter Mütter erniedrigt [27].
+Auch ist IGF-I an Differenzierung, Proliferation und Matrixformation in Osteoblasten
+beteiligt. IGFBP-5 bindet an die extrazelluläre Matrix (ECM) und kann die Wirkung
+von IGF-I potenzieren.[62]
+Während IGF-I und IGFBP-5 zusammen signifikant das Zellwachstum erhöhten,
+wurde gleichzeitig die Synthese der extrazellulären Proteine Osteopontin (OPN) und
+Thrombospondin
+
+(TSP-1),
+
+die
+
+auf
+
+Zelloberflächen
+
+an
+
+den
+
+alpha5beta3-
+
+Integrinrezeptor(IR) binden, erhöht. Der stimulatorische Effekt des IGFBP-5 wurde
+über die Aktivierung der extrazellulären signalregulierten Kinase 1 und 2 (ERK1/2) in
+die Wege geleitet. Das Besetzen des alpha5beta3-IR mit seinen Liganden OPN und
+TSP-1 induzierte die IGF-I stimulierte Phosphorylierung des IGF-I-R als Zeichen
+seiner Aktivierung.[62]
+
+19
+
+Fasst man die bestehenden Befunde zusammen, so scheinen die IGF unter den
+Regulationsfaktoren der Nephrogenese eine herausragende Bedeutung für die
+kongenitale Oligonephronie zu haben. Der direkte Nachweis eines Zusammenhangs
+zwischen der Anzahl der in der Nephrogenese gebildeten Nephrone und der Wirkung
+von IGF steht jedoch noch aus.
+
+20
+
+2 Aufgabenstellung
+
+Es ist das Ziel dieser Arbeit ontogenetische Regulationsmechanismen der
+Nephrogenese zu identifizieren, die zur kongenitalen Oligonephronie mit arterieller
+Hypertonie, Albuminurie und progredienter Niereninsuffizienz im Erwachsenenalter
+führen. Dazu führten wir eine vergleichende Untersuchung der Nephrogenese in
+einem Tiermodell mit verminderter Anzahl von Nephronen, spontanem salzsensitiven Hypertonus, Proteinurie und chronisch progredientem Nierenversagen mit
+einem gesunden Kontrolltiermodell durch.
+Da es keine Daten zum Verlauf der Regulationen des IGF Systems während der
+Nephrogenese der Ratte gibt, wurden in dieser Arbeit die Expressionen
+verschiedender Komponeneten des IGF Systems an dem embryonalen Entwicklungs
+Tag E19 sowie am postpartalen Tag D7 untersucht.
+
+21
+
+3 Material und Methoden
+
+3.1 Material
+3.1.1 Geräte
+Homogenisator Ultra Turrax T25, Jahnke und Kunkel, Deutschland
+Kühlzentrifuge Eppendorf 5417 R, Eppendorf AG, Hamburg, Deutschland
+Photometer, Shimadzu, Duisburg, Deutschland
+Gelkammer (90 Volt) Biorad, München, Deutschland
+Fotogerät und -drucker für Gele, SONY
+ThermoCycler PTC-200 und PTC-100, MJ Research Peltier
+Taqman-Apparat ABI-Prism 7000 STS, Applied Biosystems, Darmstadt
+Pipette Reference 10-100 µl, 100-1000 µl, Eppendorf AG, Hamburg, Deutschland
+Mikrozentrifuge II, The Griffin Group, Inc. OHIO, USA
+Eppendorf Tischzentrifuge 5402, Hamburg, Deutschland
+Präzisionswaage, Satorius Laboratory, Göttingen, Deutschland
+Glasgefäße
+
+mit
+
+Schraubverschluss
+
+20ml,
+
+Packard,
+
+Econoglass,
+
+Göttingen,
+
+Deutschland
+Messzylinder, Brand Duran, USA
+Szintillationsgefäße aus Glas 20 ml, Packard, Göttingen, Deutschland
+Stoffwechselkäfige für Ratten, Ehret, Emmendingen, Deutschland
+3.1.2 Instrumente
+Pinzette anatomisch, Aesculap Standard BD 47/ BD 35, Melsungen, Deutschland
+Pinzette chirurgisch, Aesculap Standard BD 557, Melsungen, Deutschland
+Schere chirurgische, Aesculap Standard-Modell BC 320, Melsungen, Deutschland
+Präparierschere fein , Aesculap BC 2, Melsungen, Deutschland
+Micro-Pinzette Uhrmacher Modell, Aesculap BD 329, Melsungen, Deutschland
+Wundspreizer, Aesculap Mellinger OA 241, Melsungen, Deutschland
+22
+
+Haken, Werkstatt Lorenz
+Kanülen Gr.1, Gr. 12, Gr. 26; Braun, Sterican, Melsungen, Deutschland
+Sterile Einwegspritzen 2ml, 5ml, 10ml; Sterican, Braun, Melsungen, Deutschland
+Sterile Einwegspritzen 1ml; Plastipak, Becton Dickinson, Heidelberg, Deutschland
+3.1.3 Futtermittel
+Standardhaltungsfutter für Ratten, Altromin, Laage, Deutschland
+3.1.4 Medikamente und Arzneimittel
+Desinfektionsmittel für Instrumente, Braun, Melsungen, Deutschland
+Xylazin 2% (0,065mg/100g KG), Intervet, Schweiz
+S - Ketaminhydrochlorid 43mg / kg KG, Ketanest, S 25mg/ml, Parke-Davis, Berlin,
+Deutschland
+Isotone Natriumchloridlösung 0,9 %, Braun, Melsungen, Deutschland
+3.1.5 Verbrauchsmaterial
+Eppendorf-Gefäße Safe Lock, 1,5 ml, 0,5 ml Eppendorf AG, Hamburg, Deutschland
+Eppendorfpipetten Standardtips 1000μl, 500μl, 50μl, 20μl, 10μl, Eppendorf AG,
+Hamburg, Deutschland
+Falcon Gefäße gross, mittel, klein, Sarstedt, Deutschland
+96-Well-Platten für Taqman-apparat, Applied Biosystems, Darmstadt, Deutschland
+Reaktionsgefäße Safe-Lock 1,5 ml, 2 ml, Eppendorf AG, Hamburg, Deutschland
+Standardtips 20 µl, 100 µl, 1000 µl, Fa. Eppendorf, Hamburg, Deutschland
+Sterile Mullkompressen 5x5 mm, GAZIN, Lohmann Rauscher Inter. GmbH & Co.KG,
+Neuwied, Deutschland
+Untersuchungshandschuhe M, Kimberly-Clark, Safeskin PFE
+Verpackungsfolie, Saran, The Dow Chemical Company, Edegem, Belgien
+Wattestäbchen 15 cm, Lohmann Rauscher Inter. GmbH & Co.KG
+3.1.6 Reagenzien
+Flüssiger Stickstoff
+
+23
+
+TrizolReagenz, Gibco Life Technologies, Mannheim, Deutschland
+Chloroform
+Ethanol 75%, Braun, Melsungen, Deutschland
+DEPC (Diethylpyropcarbonat)-Lösung 0.01%(RNAse-frei)
+2 - Propanol 70%, Braun, Melsungen, Deutschland
+Agarosegel 2% Biozym, Oldendorf, Deutschland
+TAE-Puffer (Trisacetat + EDTA)
+Ethidiumbromid, Sigma, Steinheim, Deutschland
+Ficoll, Firma Fluka, Taufkirchen, Deutschland
+Master Mix für Taqman, Applied Biosystems, Darmstadt, Deutschland
+Aqua dest.
+3.1.7 Kits
+Rneasy mini Kit, Qiagen, Hilden, Deutschland
+First Strand cDNA Synthesis Kit, MBI Fermentas, St Leon-Rot, Deutschland
+QIAquick PCR Purification Kit, Qiagen, Hilden, Deutschland
+
+24
+
+3.1.8 Oligonukleotide
+
+Tabelle 2: Primer für die quantitative real time PCR und Taqmansonden
+Gene
+
+IGF-I
+
+IGF-II
+
+IGF-I receptor
+
+Name
+
+Sequence
+
+IGF-I-F
+
+CAACCTTGTCAAGCACCTAATTGT
+
+IGF-I-R
+
+TCACTCCTGTAAGGTGGATGGA
+
+IGF-I probe
+
+CCATCCGTGCGATGCCAGCC
+
+IGF-II-F
+
+TCCTGCGCATAACATCGATATC
+
+IGF-II-R
+
+GTGTCCGGTGCGTGTTTG
+
+IGF-II probe
+
+TCACTTCTCCTACGGTGTCCCAGCG
+
+IGF-I-rec-F
+
+CTGTGTGGACCGGGATTTCT
+
+IGF-I-rec-R
+
+ACTCGCCATCGTGGATGAC
+
+IGF-I-rec probe
+
+ATCCCCAACGCCGAGAGCAGTGA
+
+IGF-II receptor IGF-II-rec-F
+
+IGFBP-1
+
+IGFBP-3
+
+PBGD
+
+GAATGCACCGTGCGGAAT
+
+IGF-II-rec-R
+
+GTGTCGTCCTCACTCTCATCGTAT
+
+IGF-II-rec probe
+
+CTCATCCACCGCACTGGTGGTTATGA
+
+IGFBP-1-F
+
+TGCTGGATAGCTTCCACCTCAT
+
+IGFBP-1-R
+
+TGCTGTAGGTGCTAATGGCATT
+
+IGFBP-1 probe
+
+CCCATCCCGTGAGGACCAGCC
+
+IGFBP-3-F
+
+TGCTGGGAGTGTGGAAAGC
+
+IGFBP-3-R
+
+TGGAGTGGATGGAACTTGGAA
+
+IGFBP-3 probe
+
+CCCAGCACACATCGCGTGACTGA
+
+PBGD-F
+
+TGAAAACCTTGTACCCTGGCATA
+
+PBGD-R
+
+TCCAATCTTAGAGAGTGCAGTATCAAGA
+
+PBGD probe
+
+TTGAAATCATTGCTATGTCCACCACAGG
+
+Forward (F) und Reverse (R) für die Polymerase Kettenreaktion Amplifikation und die floureszierenden
+Proben für die Analyse des Insulin-ähnlichen Wachstumsfaktors I (IGF-I), des Insulin-ähnlichen
+Wachstumsfaktors II (IGF-II), des Insulin-ähnlichen Wachstumsfaktor I Rezeptors (IGF-I R), des
+Insulin-ähnlichen Wachstumsfaktor II Rezeptors (IGF-II rec), des Insulin-ähnlichen Wachstumsfaktor
+Bindungsproteins I (IGFBP-1), des Insulin-ähnlichen Wachstumsfaktor Bindungsproteins 3 (IGFBP-3)
+und der Porphobilinogen Desaminase (PBGD). Alle Proben wurden mit 6FAM an ihrem 5‘- und
+TAMRA an ihrem 3‘-Ende markiert.
+
+25
+
+3.1.9 Tierstämme
+Für das Projekt wurden als Versuchstiere sowohl Munich-Wistar-Frömter Ratten
+(MWF) aus der MWF/FUB Züchtung der Charité-Campus Benjamin Franklin, Berlin,
+Deutschland, als auch Wistar–Ratten, ursprünglich aus der Harlan und Winkelmann
+GmbH, Borchen, Deutschland, verwendet. Die Tierversuche wurden entsprechend
+den institutionellen Richtlinien der Charité durchgeführt. Zu der Auswahl dieser
+Rattenstämme leiteten die für diese Arbeit notwendigen Bedingungen. Das MWFRattenmodell zeigte sich aufgrund seiner genetisch bedingten Oligonephronie als
+geeignet, Ursachen der genetischen Oligonephronie molekularbiologisch zu
+erforschen. Das genetisch gesunde Wistar-Rattenmodell eignete sich für die
+Vergleichsuntersuchungen als Kontrollgruppe. Beide Stämme sollten morphologisch
+und funktionell ausreichend charakterisiert sein.
+Die genauen Eigenschaften der augewählten Tiermodelle stellen sich wie folgt dar:
+Die Munich-Wistar-Frömter-Ratte, kurz MWF-Ratte, ist ein Rattenmodell mit
+ausgeprägter
+
+kongenitaler
+
+Oligonephronie,
+
+deren
+
+Nephronenanzahl
+
+nach
+
+unveröffentlichten Daten unserer Arbeitsgruppe um 51% verringert ist (Tabelle 5). Es
+vereint in sich die klinisch bedeutsamen Risikofaktoren der Progression der
+chronischen
+
+Niereninsuffizienz:
+
+die
+
+Entwicklung
+
+eines
+
+spontanen
+
+arteriellen
+
+Hypertonus sowie einer Proteinurie (Tabellen 5 und 6). Das Tiermodell eignet sich
+daher hervorragend zur Identifizierung genetischer Faktoren, die an der Entwicklung
+einer kongenitalen Oligonephronie beteiligt sind. Der Stamm wurde 1996 am UKBF,
+FU-Berlin, durch Inzucht etabliert. Die Tiere stammten aus der ursprünglichen
+Kolonie des MWF/Ztm- Stammes des zentralen Tierlaboratoriums der Medizinischen
+Hochschule Hannover.
+Die Wistar-Ratte ist ein gesundes Rattenmodell, das sich im Alter von 12-14 Wochen
+bei gesunder Niere normoton und ohne Proteinurie darstellt und regelmäßig als
+Referenzstamm bei Untersuchungen an MWF-Tieren genutzt wird. Die Wistar-Ratten
+liegen genetisch sehr nahe am Ursprungsstamm der MWF-Ratte, wodurch
+genetische Unterschiede - von der Nephronenanzahl abgesehen – minimiert werden
+[105].
+Die Wistar-Ratten wurden von Charles River, Sulzfeld, Deutschland, bezogen.
+
+26
+
+Für unsere Untersuchungen wurden insgesamt 12 MWF-Ratten und 12 WistarRatten verwendet.
+
+27
+
+3.2 Methoden
+3.2.1 Tierexperimentelle Untersuchungen
+Die tierexperimentellen Untersuchungen wurden über einen Zeitraum von einem Jahr
+durchgeführt.
+
+Die
+
+Eingriffe
+
+erfolgten
+
+unter
+
+Einhaltung
+
+des
+
+deutschen
+
+Tierschutzgesetzes und standen im Einklang mit den Richtlinien für Tierversuche des
+Instituts für Klinische Pharmakologie, Campus Benjamin Franklin, Charité. Unter der
+Genehmigungsnummer T 0273-01 wurden die beschriebenen Versuche durch das
+Landesamt für Arbeitsschutz, Gesundheitsschutz und technische Sicherheit Berlin
+genehmigt. Die Eingriffe erfolgten sämtlich nach dem in den Richtlinien festgelegten
+methodischen Vorgehen.
+3.2.1.1 Haltung der Tiere
+Die Haltung der Ratten erfolgte in den Räumen der Forschungsanstalt für
+Experimentelle Medizin (FEM) der Freien Universität Berlin. Bei freiem Zugang zu
+Wasser und Standard-Rattenfutter (20% Proteinanteil) lebten maximal sechs Ratten
+in einem Makrolon-Gemeinschaftskäfig (Typ 4). Die Temperatur in den Haltungs- und
+Versuchsräumen des FEM betrug durchgehend 20 °C, die Luftfeuchtigkeit lag bei
+50%. Ein natürlicher, zwölfstündiger Tag-Nacht-Rhythmus wurde durch eine
+automatisierte Beleuchtung gewährleistet.
+3.2.1.2 Organentnahme
+Für die Organentnahme der embryonalen Nieren am Embryonaltag 19 wurden die
+schwangeren Ratten mit Ketanest S25 (01,175mg / 100g KG) plus Xylazin (0,065mg
+/ 100g KG) intraabdominell narkotisiert und in Rückenlage gelagert. Bei
+unzureichender Narkosetiefe wurde jeweils die Hälfte der Initialdosis nachappliziert,
+bis eine ausreichende Narkosetiefe erreicht war. Nach jeweils medianer Laparotomie
+wurde der Uterus entnommen und die Muttertiere wurden durch Entfernung des
+Herzens getötet. Die Embryonen wurden durch Dekapitation getötet. Es folgte die
+Präparation der jeweils vorhandenen Embryonen zur Entnahme der Nieren. Der
+Zugang zur Freilegung der retroperitonealen Nieren erfolgte ebenfalls mittels
+medianer Laparotomie.
+Die Organentnahme bei den Jungtieren am postpartalen Tag D7 erfolgte ebenfalls
+nach intraabdomineller Narkotisierung mittels Ketanest und anschließender Tötung
+
+28
+
+durch Dekapitation. Nach medianer Laparotomie wurden die Nieren retroperitoneal
+freipräpariert und entnommen.
+Vor den jeweiligen Organentnahmen wurden die Körper- und Plazentagewichte
+ermittelt. Die freipräparierten Nieren der Embryos und Jungtiere wurden nach dem
+Wiegen einzeln in 2 ml-Eppendorfgefäßen in flüssigem Stickstoff schockgefroren und
+bei -80°C bis zur Aufarbeitung in den Räumen der Klinischen Pharmakologie der
+Charité-Universitätsmedizin Berlin, Campus Benjamin Franklin, gelagert. Die
+Rattenkadaver wurden separat gesammelt und durch die Tierkörperbeseitigung des
+Hauses entsorgt.
+3.2.2 Molekularbiologische Untersuchungen
+3.2.2.1 Expressionsanalyse des Insulin-ähnlichen Wachstumsfaktor Systems
+Aus Leber- und Nierengewebe wurde RNA isoliert und die Reverse Transkription von
+1µg RNA durchgeführt. Um die Expressionskonzentrationen zu quantifizieren wurde
+eine Echtzeit Polymerase Kettenreaktionsmethode („real-time polymerase chain
+reaction“, rt-PCR) verwendet. Dazu stand ein ABI PRISM 7000 SDS Instrument in
+Verbindung mit dem ABI TaqMan Universal Master Mix (Applied Biosystems,
+Darmstadt, Deutschland) zur Verfügung. Das Reaktionsvolumen hatte 25µl mit einer
+endgültigen Konzentration von 200nmol für die Primer wie auch die Proben. Die PCR
+wurde nach den Richtlinien des Herstellers durchgeführt. Passende Primer und
+floureszente Proben wurden mit Hilfe der Primer Express Software (Applied
+Biosystems, Foster City, CA, USA) entworfen (Tabelle 4). TIB Molbiol (Berlin,
+Deutschland) synthetisierte die floureszenten Proben, die Primer wurden von Proligo
+(Paris, Frankreich) synthetisiert. Die Relative Quantifizierung wurde mittels der
+Methode der Standard Kurve ermittelt. Für jedes Gen wurde ein PCR Fragment
+kreiert, welches die Sequenz des Taqman Systems enthielt. Sieben Serien von 1:10
+Verdünnungen dieses Fragments dienten als Standard Kurve, die zusammen mit den
+korrespondierenden unbekannten Proben auf jeder Platte untersucht wurden. Jede
+Probe wurde im Triplett gemessen. Um die Expressionsdaten zu normalisieren
+nutzten wir die Porphobilinogendesaminase (PBGD) als „housekeeping“ Gen. Die
+DANN-Sequenzen der Oligonukleotide, welche für IGF-I, IGF-II, IGF-I receptor, IGF-II
+receptor, IGFBP-1, IGFBP-3, and PBGD verwendet wurden sind in Tabelle 2
+angeführt.
+
+29
+
+3.2.2.2 RNA-Isolierung
+Die RNA-Isolierung aus dem bei -80°C tiefgefrorenen Nierengewebe erfolgte über
+die Trizol-Methode. Dazu wurden 100 mg Gewebe in 1 ml eisgekühltem Trizol ca. 2x
+30 sec mit dem Sono-Stab Polytron auf Eis homogenisiert und bei 5.000 Upm für 10
+min bei 4°C zur Entfernung grober Partikel zentrifugiert. (Alle Zentrifugationsschritte
+erfolgten mit der Eppendorf Tischzentrifuge 5402, Hamburg, Deutschland). Der
+abpipettierte Überstand wurde zur kompletten Dissoziation der NukleoproteinKomplexe für ca. 1h bei Raumtemperatur gelagert und zur Phasenseparation mit 200
+μl Chloroform/1 ml Trizol vermischt, für 2-3 min bei RT inkubiert und bei 12.000 Upm
+für 15 min bei 4°C zentrifugiert. Die RNA, die sich in der oberen durchsichtigen
+Phase befand, wurde mit 500 μl Isopropanol/1 ml Trizol präzipitiert und für 10 min bei
+RT gelagert. Anschließend wurde die RNA bei 12.000 Upm für 10 min bei 4° C
+zentrifugiert und der Überstand verworfen. Das Pellet wurde in 1 ml 75%igem, -20°C
+kaltem Ethanol/1 ml Trizol gewaschen und bei 4.900 Upm für 10 min bei 4°C
+zentrifugiert. Nach dem Dekantieren des Überstandes wurde das Pellet 5 min
+luftgetrocknet und in 50 μl DEPC-H2O bei 60° C in 5 min gelöst. Die Bestimmung der
+Konzentration erfolgte über eine 1:200-Verdünnung mit DEPC-H2O im Photometer
+bei 260-280 nm. Zur Überprüfung der Integrität der RNA wurden 1 μl (ca. 500 ng) der
+RNA und 0,5 μl Laufpuffer in einem Gesamtvolumen von 6 ml auf ein 1%iges
+Agarose/Ethidiumbromid-Gel, bestehend aus 30 ml 1x TAE und 3 μl Ethidiumbromid
+(10 mg/ml), aufgetragen. Der Gellauf erfolgte bei einer Spannung von ca. 5 V/cm
+Elektrodenabstand und einer Stromstärke von ca. 200 mA über ungefähr 35 min. Die
+extrahierte RNA wurde anschliessend bei -80° C gelagert.
+
+30
+
+3.2.2.3 Gelelektrophorese und optische Konzentrationsmessung (Photometrie)
+Zur Kontrolle der Qualität der Proben und der Ermittlung des RNA-Gehalts und der
+Reinheit wurden diese in einer Gelelektrophorese bei 90 Volt aufgetragen und
+fotografiert. RNA lässt sich deutlich an zwei spezifischen Banden der ribosomalen
+28S- und der 18S-RNA (rRNA) erkennen und von Verunreinigungen unterscheiden.
+
+Abbildung 3: Nachweis der extrahierten RNA mittels Gelelektrophorese.
+
+Abb. 3: Elektrophorese mit den rRNA-spezifischen Banden der 28S und der 18S-Untereinheit.
+
+Waren die Banden in allen Proben gut zu identifizieren, wurde anschließend die
+genaue RNA-Konzentration mit dem Photometer bestimmt. Dazu wurden 4μl der
+RNA mit 96μl DEPC versetzt und nach vorheriger Leerkontrolle wurde die Dichte der
+Probe bei 260 (A1) und bei 280 (A2) nm Wellenlänge gemessen. Zur optimalen
+Qualität der Probe sollte der Quotient A1/A2 zwischen 1,5 und 2 liegen, da sonst von
+einer Proteinverunreinigung oder einer Degradation der RNA ausgegangen werden
+musste. Die Konzentration wurde nach dem Lambert-Beerschen Gesetz berechnet.
+RNA( µg / µl ) 
+
+OD 260  40  Verdünnung sfaktor
+1000
+
+Die errechnete Konzentration stellte die Grundlage für die weiteren quantitativen
+Analysen mittels Taqman-PCR dar.
+31
+
+3.2.2.4 Reverse Transkription
+Die
+
+mRNA
+
+ist
+
+ein
+
+empfindliches
+
+polymeres
+
+Molekül,
+
+das
+
+durch
+
+Temperaturschwankungen und Ribonukleasen ständig von Zerstörung bedroht ist.
+Für die weitere molekularbiologische Analyse musste daher die extrahierte RNA in
+die stabilere cDNA umgeschrieben werden. Diese Reaktion wurde mit Hilfe des First
+Strand cDNA Synthesis Kit, MBI Fermentas, St Leon-Rot, Deutschland, nach
+Herstellerangaben in zwei Schritten durchgeführt:
+1. Annealing der random hexamer primer
+In einem ersten Schritt wurde ein random hexamer primer gebildet: Dieser entsteht
+aus einem Nukleotidmix, der sich an der zu vervielfältigenden Stelle zu einem
+passenden Primer zusammenfindet, um die gewünschte Sequenz umschreiben zu
+können. Hierfür wurden zu jeweils 2μg RNA (die Berechung des entsprechenden
+Volumens
+
+erfolgte
+
+anhand
+
+der
+
+zuvor
+
+photometrisch
+
+errechneten
+
+RNA-
+
+Konzentrationen) 1μl des Random Hexamer Primers gegeben. Diese Mischung
+wurde auf 11μl Gesamtvolumen mit DEPC-Wasser aufgefüllt. Mit diesem Ansatz
+konnte die PCR erfolgen (für 5 Min bei 70°, dann für weitere 5 Min bei 4°C).
+2. Reverse Transkription
+Dem aus der ersten PCR entstandenen Ansatz wurden jeweils 4μl Puffer, 1μl
+RNAse-Inhibitor, 2μl dNTP-Mix sowie 2μl reverse Transkriptase-Enzym hinzugefügt,
+so dass weitere PCR erfolgen konnten (10 Min bei 25°, 60 Min bei 37°, 10 Min bei
+70° und 10 Min bei 4°C). Das Produkt dieser Reaktion diente als Basis für alle
+folgenden Untersuchungen mittels Taqman-PCR.
+3.2.2.5 Polymerasekettenreaktion
+Die Polymerasekettenreaktion (PCR) ist eine schnelle und sensitive Methode der
+DNA-Analytik. Sie ist eine primerdefinierte, enzymatische Replikation, mit deren Hilfe
+man eine annähern exponentielle Amplifikation einer bestimmten Zielsequenz
+erreicht. Zur weiteren Quantifizierung der mRNA waren bisher Methoden wie
+Northern Blot oder dot blot notwendig, die viel Zeit sowie große Mengen an RNA
+erforderten. Mittels der PCR lassen sich definierte Abschnitte der DNA vervielfältigen.
+Die Probenansätze durchlaufen dabei die Phasen der Denaturierung, der
+spezifischen Anlagerung durch Hybridisierung („Annealing“) und der Elongation.
+Durch Temperaturerhöhung auf 95°C werden in der Denaturierungsphase die
+32
+
+Wasserstoffbrückenbindungen zwischen den Basenpaaren gelöst, so dass sich in
+der anschließenden Hybridisierungsphase bei 55°C, (Schmelztemperatur der Primer
+(Tm)) die sequenzspezifischen Oligonukleotide vorwärts („forward“) und rückwärts
+(„reverse“) an ihre Komplementärsequenz anlagern können. Anschließend wird in der
+Elongationsphase die von den Primern markierte Sequenz amplifiziert.
+3.2.2.5.1 Quantitative real-time Polymerasekettenreaktion
+Die quantitative real-time Polymerasekettenreaktion (rt-PCR), wie z.B. die Taq-man
+PCR, ist eine Methode, die es ermöglicht, während der PCR die Bildung des
+Produktes direkt zu verfolgen. Der Verlauf der Akkumulation des PCR Produktes
+über die Zeit lässt Rückschlüsse auf die Menge der enthaltenen Probe (templates)
+zu. Die quantitative rt-PCR basiert auf der kontinuierlichen Messung der Fluoreszenz,
+welche proportional zu der Quantität der amplifizierten DNA zunimmt. Eine
+quantitative Aussage der während der PCR gebildeten DNA wird somit möglich. In
+der vorgelegten Arbeit wurden die Technik der Taq-Man PCR verwendet, die
+nachfolgend genauer beschrieben wird.
+3.2.2.5.2 Die Taq-Man-Polymerasekettenreaktion
+Eine Form der real-time Polymerasekettenreaktion (rt-PCR) ist die Taq-Man PCR.
+Diese arbeitet mithilfe eines Taq-Man Systems, bestehend aus einer TaqMan-Sonde
+und einem diese Sonde umgebenden TaqMan forward- und reverse-primer-Paar.
+Die Taq-Man-rt-PCR ist eine robuste Technik, die ein akkumulierendes PCR- Produkt
+in „Echtzeit“ über den Gebrauch einer zweifach TaqMan fluorogen markierten cDNA
+Sequenz (reporter und quencher fluorophore) misst. Der fluorogene 5‘-Nuklease
+Ansatz macht sich die endogene 5‘-3‘-Nuklease-Aktivität der Taq-Polymerase
+zunutze, um die TaqMan Sequenz abzubauen, die während der PCR an die Ziel
+cDNA-Sequenz hybridisiert. Ist die Taq-Man-Sequenz intakt, so wird das fluorophore
+Signal des Taq-Man-Reporters durch die fluorophore Emission des Taq-ManQuenchers unterdrückt („quenched“)..
+Während der PCR lagert sich die TaqMan-Sequenz am Ziel-cDNA-Strang an und die
+5‘-3’Nuklease-Aktivität der Taq-Polymerase trennt das fluorophore Reportersignal
+vom fluorophoren Quenchersignal ab. Der Wegfall des Quenchers führt dem
+entsprechend zum Anstieg der Reporter Fluoreszenz. Die verbleibende Taq-ManSequenz dissoziiert von der Ziel-Sequenz, so dass sich die PCR ungehindert
+
+33
+
+fortsetzen kann. Die Intensität der Fluoreszenz ist direkt proportional zur Menge der
+eingesetzten Ziel-cDNA.
+Das Fluoreszenz-Signal wird durch ein ABI Prism 7000 sequence detection System,
+PE Applied Biosystems, Foster City, USA, das eine schnelle Analyse von vielen
+Transkripten aus einem Gewebeprobenpool im 96-well Format erlaubt, gemessen.
+Die Sonde sollte dabei Exon-Exon-Grenzen überschreiten, um die Hybridisierung
+genomischer
+
+DNA
+
+5´3´Exonukleaseaktivität
+
+zu
+
+verhindern.
+der
+
+Fluoreszensresonanzenergietransfer
+
+Die
+
+TaqMan
+
+TaqPolymerase
+
+Sonde
+und
+
+nutzt
+
+die
+den
+
+(„fluorescence resonance energy transfer“
+
+(FRET)) aus.
+FRET ist ein physikalischer Prozess, bei dem Energie eines angeregten
+Fluoreszenzfarbstoffes (Donor) auf einen zweiten Fluoreszenzfarbstoff (Akzeptor)
+übertragen wird, sollte sich dieser in ausreichender Nähe befinden und sich das
+Emissionsspektrum des Donors mit dem Absorptionsspektrum des Empfängers
+überlagert. An beiden Enden ist die TaqMan-Sonde selbst mit Donor- und
+Akzeptorfluorchrom versehen und muss der PCR zugegeben werden. Bei der
+TaqMan PCR spricht man anstelle von Donor und Akzeptor auch von reporter und
+quencher, da nur Licht der Wellenlänge eines der beiden Fluorchrome, nämlich des
+Donors (reporters), gemessen wird. Die Sonde hybridisiert an die Zielsequenz und
+wird während der Elongationsphase von der TaqPolymerase abgebaut. Dabei
+trennen sich durch Diffusion die abgespaltenen Basen voneinander. Durch den sich
+dadurch vergrößernden Abstand zwischen reporter und quencher wird somit die
+ausgesendete Fluoreszenz des reporters durch den quencher nicht mehr absorbiert
+bzw. unterdrückt. Für jeden denaturierten Doppelstrang wird folglich im folgenden
+Zyklus ein weiteres Fluoreszenzsignal freigesetzt, so dass das Fluoreszenzsignal
+proportional zu der amplifizierten Menge an DNA wächst.
+Die Taqman-PCR ist eine PCR-Methode, bei der gleichzeitig die Amplifikation der
+Zielsequenz und seine Quantifizierung in einem Reaktionsgefäß ermöglicht werden.
+Dies gelingt auch dann, wenn nur geringe Mengen an RNA in der Probe vorhanden
+ist. Die Reduzierung der Arbeitsschritte und der im Vergleich geringe Zeitaufwand
+tragen dabei zur Minimierung von Fehlerquellen bei.
+Es wird bei der Taq-Man-PCR zunächst eine für die zu amplifizierende Sequenz
+spezifische Sonde angefertigt. Dieses Oligonukleotid ist am 5'-Ende mit einem
+34
+
+fluoreszierenden reporter-Farbstoff (Fluoreszein-Derivat=FAM) markiert, das 3'-Ende
+trägt einen quencher-Farbstoff (Rhodamin-Derivat=TAMRA). Die Wahl der Sonde
+erfolgt mit dem Programm Primer Express, (Applied Biosystems, Foster City, USA)
+das speziell für das Design der Taq-Mansonden sowie Taq-Manprimer geeignet ist.
+Die Sonde ist hochspezifisch für das zu amplifizierende Produkt.
+Nach dem primären Anlagern der Sonde an den cDNA-Strang unterdrückt der
+quencher
+
+zunächst
+
+Fluoreszenssignal.
+
+durch
+Während
+
+seine
+der
+
+räumliche
+PCR
+
+Nähe
+
+wird
+
+zum
+
+diese
+
+reporter
+
+Sonde
+
+dessen
+
+durch
+
+die
+
+Exonukleaseaktivität der Taq-Polymerase Nukleotid für Nukleotid abgebaut. Dadurch
+wird der reporter-Farbstoff vom quencher getrennt und die Fluoreszenz nicht länger
+unterdrückt. Entsprechend der Akkumulation des PCR-Produktes steigt die
+Fluoreszenz mit jedem weiteren Zyklus an. Das Signal kann nun im Zeitverlauf durch
+die Anregung zur Fluoreszenz bei 488 nm gemessen werden. Es ist dabei strikt
+sequenzspezifisch, da nicht perfekt passende Sondenmoleküle vor Beginn der
+Reaktion verdrängt werden.
+
+Funktionsweise der Taq-Man-rt- PCR
+
+1. Bindung von
+Sonde und Primern
+an die cDNA
+
+3. Abdissoziieren der
+Sonde
+
+2. Hydrolyse der
+Sonde durch die TaqPolymerase
+
+4. Aktivierung der
+Fluoreszenz
+
+Abbildung 4: schematische Darstellung der Reaktionsabläufe bei der Methode
+der Taq-Man-PCR (modifiziert nach der Taq-Man-Arbeitsanleitung von Applied Biosystems).
+35
+
+3.2.2.5.2.1 Primer- und Sondendesign
+Um aus der extrahierten RNA die gewünschten Abschnitte amplifizieren zu können,
+müssen zunächst die für die Sequenz spezifische Sonde und die dazu passenden
+Primerpaare für die jeweilige Sequenz entworfen werden. Die Sequenz wird dazu
+zunächst einem sogenannten alignment unterzogen, d.h., mit allen bekannten
+Sequenzen des Genoms verglichen. Erst wenn sich keine Überschneidungen zeigen,
+kann sicher mit der ausgesuchten Sequenz gearbeitet werden. Es werden für die
+Methode der Taq-Man-PCR die Sonde sowie jeweils zwei Primerpaare benötigt: ein
+internes, nah an der Sequenz liegendes Paar, und ein externes, weiter entfernt
+liegendes Paar. Da diese Primer für die Methode spezifische Voraussetzungen
+erfüllen müssen, wird ein Softwareprogramm, Primer Express® (Tutorial for Real
+Time Quantitative PCR Primer and Probe Design, Applied Biosystems Real Time
+Quantitative PCR systems (7700, 5700), Foster City, USA), zum Design dieser
+Primer genutzt.
+Zur Herstellung von TaqMan-Sonden sollten folgende Regeln beachtet werden:
+Der G-C–Gehalt sollte zwischen 30-80% betragen. Aneinanderreihungen identischer
+Nukleotide sollten vermieden werden. Dies gilt besonders für vier und mehr Guanin.
+Aneinanderreihungen. Des Weiteren sollte kein Guanin am 5´-Ende erscheinen.
+Schließlich sollte der Strang mit einem höheren Cytosin als Guanin Anteil als Sonde
+ausgewählt werden.
+Für Einzelsondenansätze bei Einsatz des Primer Express®-Programms sollte die
+Schmelztemperatur (Tm) mit 68°-70° gewählt werden.
+Ähnlich erfolgt die Herstellung von Taq-Man-Primern
+Die Primer werden nach der Sonde ausgewählt. Man wählt die Primer in
+größtmöglicher Nähe zu der Sonde, ohne diese zu überlappen. Der G-C-Gehalt sollte
+ebenfalls zwischen 30-80% liegen. Aneinanderreihungen identischer Nukleotide sind
+zu vermeiden. Das Auftreten von mehr als vier Guaninnukleotiden sollte ebenfalls
+vermieden werden. Beim Anwenden der Primer Express®-Software sollte die
+Temperatur auf 58°C-60°C gelegt werden. Die fünf Nukleotide am 3´-Ende sollten
+nicht mehr als zwei Guanin- und/oder Cytosin-Basen enthalten.
+
+36
+
+3.2.2.5.2.2 Auswertung der PCR-Ergebnisse – Quantifizierungsstrategie
+Zur Auswertung des TaqMan-assay wird die Strategie der relativen Quantifizierung
+mit Standardkurven verfolgt. Dabei wird das Expressionsniveau des untersuchten
+Gens auf die Expression eines housekeeping-Gens normiert. Ein housekeeping-Gen
+ist ein Gen, welches idealerweise ungeachtet experimenteller Bedingungen in vitro
+oder bei Krankheiten in vivo im untersuchten Gewebe konstant in der gleichen
+Menge exprimiert wird. Bekannte und häufig eingesetzte Vertreter dieser Klasse sind
+z.B. ß-Actin, GAPDH, Cyclophilin, 18S-rRNA, PBGD (Porphobilinogendeaminase)
+und andere. PBGD wurde in der vorliegenden Arbeit als housekeeping-Gen benutzt.
+Eine Normierung auf diesen endogenen Standard hat den Vorteil, dass z.B.
+verschiedene reverse Transkriptions Ansätze mit unterschiedlichen Effizienzen direkt
+miteinander verglichen werden und bei der Dosierung der RNA Pipettierfehler
+ausgeglichen werden können. Das Expressionslevel der zu bestimmenden mRNASequenz
+
+und
+
+der
+
+Sequenz
+
+des
+
+housekeeping-Gens
+
+wird
+
+mit
+
+Hilfe
+
+von
+
+Standardkurven bestimmt. Dazu werden PCR-Fragmente benutzt, die die beim
+TaqMan- Ansatz amplifizierten Sequenzen enthalten. Hierzu werden sieben serielle
+1:10 Verdünnungen hergestellt, die auf jedem Ansatz des jeweiligen Gens als
+Standards bekannter Konzentrationen mitbestimmt werden. Die Zuordnung der
+Konzentrationen
+
+der
+
+Standards
+
+kann
+
+zwar
+
+absolut
+
+durch
+
+die
+
+enthaltene
+
+Kopienanzahl erfolgen, im Falle der hier gewünschten Analyse, nämlich eines
+relativen Vergleiches verschiedener Behandlungsgruppen miteinander, können
+vereinfachend arbiträre Einheiten korrespondierend zum Verdünnungsgrad gewählt
+werden. Dem ersten Standard wird dementsprechend die Konzentration 1
+zugeordnet, dem zweiten Standard die Konzentration 0,1 usw.
+Trägt man die erhaltenen Ct Werte der Standards über den Logarithmus ihrer
+Konzentrationen auf, so erhält man eine Kalibriergerade, welche die Konzentrationsbzw. Expressionsbestimmung (E) der unbekannten Proben ermöglicht.
+Mittels der Formel
+
+rE (Gen) 
+
+E (Gen)
+E ( housekeeper )
+
+berechnet man die relative Expression (rE) des untersuchten Gens.
+Die erhaltenen Quotienten sind einheitenlos und haben keine reale Entsprechung.
+Die Werte eignen sich jedoch gut zum relativen Vergleich verschiedener Gruppen
+untereinander. Die Auswertung erfolgt, indem der Mittelwert der rE einer
+37
+
+Kontrollgruppe als 100% definiert wird und die Mittelwerte der anderen Gruppen als
+Prozent der Kontrolle angegeben werden.
+Die PCR-Reaktion ist in ihrer frühen exponentiellen Phase reproduzierbarer als an
+ihrem Endpunkt. Betrachtet man Amplifikationsplots von Wiederholungen derselben
+Probe, so erkennt man, dass die Kurven mit zunehmender Zyklenzahl im Bereich
+ihrer Sättigung immer mehr divergieren, während sie anfänglich praktisch perfekt
+übereinander liegen. Dies liegt an der exponentiellen Natur der PCR, durch die kleine
+Schwankungen zu Beginn der Reaktion einen immer größer werdenden Effekt haben
+können. Je früher eine Auswertung der Amplifikationskurve erfolgt, desto präziser ist
+daher das Ergebnis.
+
+Abbildung 5: Typische Fluoreszenzkurven eines Taqman-PCR-Laufs mit 45 Zyklen.
+
+Die horizontale grüne Linie zeigt den Ct-Wert (cycle threshold, Zyklusschwellenwert). Deutlich sichtbar
+ist der Verlauf der sieben Standardverdünnungen sowie die Leerkontrolle (mit einem Ausreißer) rechts
+im Bild.
+
+38
+
+3.2.2.6 Statistische Analyse
+Die Auswertung der experimentell erhobenen Daten erfolgte mit SPSS 11.0 für
+Windows, der Firma SPSS, München, Deutschland. Alle Werte werden als Mittelwert
+(m) plus minus Standardfehler des Mittelwerts ( SEM ) angegeben. Die statistische
+Analyse
+
+erfolgte
+
+durch
+
+den
+
+nicht-parametrischen
+
+Mann-Whitney-U-Test.
+
+Unterschiede wurden bei einem p < 0,05 als signifikant angenommen. Für die
+grafische Darstellung der Ergebnisse wurde das Programm Sigmaplot 11.0 für
+Windows, der Firma Systat Software, Erkrath, Deutschland, verwendet.
+
+39
+
+4 Ergebnisse
+4.1 Plazentagewicht-, relative Nieren- und Körpergewichte
+
+4.1.1 relatives Plazentagewicht
+Das Verhältnis des Körpergewichts zum Plazentagewicht war an Tag E19 bei den
+MWF-Tieren im Vergleich zu den Wistar-Tieren um 18 Prozent erniedrigt (p<0.05).
+(Abb. 6a)
+
+(% von Wistar)
+
+Verhältnis Körper- / Plazentagewicht
+
+Abbildung 6a: Verhältnis von Körper-/ Plazentagewicht
+
+120
+
+*
+80
+
+40
+
+0
+MWF
+E19
+
+Wistar
+E19
+
+_________________________________________________________________________________
+Abb. 6a: Verhältnis von Körpergewicht und Plazentagewicht an Embryonaltag E19 (E19) und den
+Postnataltagen D1, D7 und D12 in Prozent des Gewichtsverhältnisses bei Wistar, n = 18-20, *p<0.05
+vs. Wistar.
+
+4.1.2 relative Nierengewichte
+Die Messung der perinatalen Nierengewichte der MWF-Tiere zeigt zu allen
+Untersuchungszeitpunkten signifikant erniedrigte Werte (p<0,05) im Vergleich zu den
+perinatalen relativen Nierengewichten der Wistar-Ratten-Kontrollgruppe (Abbildung
+6b).
+
+40
+
+*
+
+*
+
+-1
+
+Relatives Nierengewicht (mg g )
+
+Abbildung 6b: Relative Nierengewichte
+
+12
+
+*
+Wistar
+
+*
+
+MWF
+
+9
+
+6
+
+E15
+
+E19
+
+D1
+
+Tag
+
+D7
+
+D12
+
+_________________________________________________________________________________
+Abb. 6b: Perinatale Nierengewichte bezogen auf das Körpergewicht an Embryonaltag E19 (E19) und
+an den Postnataltagen 1, 7, und 12 (D1, D7, and D12). Die gepunktete Linie zeigt Embryonaltag E21
+an, den Geburtstag, n = 18-54, *p<0.05 vs. Wistar.
+
+4.1.3 Körpergewichte
+Die Körpergewichte der MWF-Tiere waren im Vergleich zu den Wistar-Kontrolltieren
+an den Embryonaltagen E15, E 17, E19 und an den postnatalen Tagen D1, D7, D12
+und D100 reduziert (P < 0.05) (Tabelle 3).
+Tabelle 3: Körpergewichte
+KG (g) Wistar
+
+KG (g) MWF
+
+E15
+
+0.312  0.004
+
+0.236  0.004 *
+
+E17
+
+0.868  0.013
+
+0.619  0.014 *
+
+E19
+
+2.26  0.03
+
+2.03  0.05 *
+
+D1
+
+6.58  0.16
+
+6.12  0.80 *
+
+D7
+
+14.3  0.2
+
+13.4  0.2 *
+
+D12
+
+22.8  0.4
+
+21.6  0.6 *
+
+D100
+
+376  8
+
+334  6 *
+
+_________________________________________________________________________________
+E (Embryonaltag) 15, E17, E19; D (Postnataltag) 1, D7, D12, D100; KG (Körpergewichte) in Gramm
+(g); * p< 0.05 vs. Wistar - Stamm, n = 15-30.
+
+41
+
+4.2 Blutdruck, linksventrikuläres Gewicht, Urinvolumen, Kreatininclearance
+und Albuminurie
+Die relativen Nierengewichte waren an E19, D1, D7 und D12 bei den MWF–Tieren,
+verglichen mit den Wistar-Tieren, geringer (P < 0.05). (Abb. 6b)
+Im Gegensatz dazu war das relative Nierengewicht bei den adulten MWF-Tieren an
+D100, verglichen mit den Wistar-Kontrolltieren, erhöht (P < 0.05) (Tab. 6).
+Der systolische Blutdruck und das Verhältnis des normalisierten linksventrikuklären
+Gewichts des linken Ventrikels zum Körpergewicht war bei den MWF-Tieren im
+Vergleich zu den Wistar-Tieren an D 100 erhöht (P < 0.05) (Tab. 4).
+Das Urinvolumen und die Kreatininclearance waren bei den MWF-Tieren im
+Vergleich zu den Wistar-Kontrolltieren an D100 nicht verändert, jedoch zeigte sich an
+D100
+
+bei
+
+den
+
+MWF-Tieren
+
+im
+
+Vergleich
+
+eine
+
+starke
+
+Zunahme
+
+der
+
+Urinalbuminexkretion (P< 0.05) (Tab. 4).
+
+Tabelle 4:
+Wistar D100
+
+MWF D100
+
+SBD (mmHg)
+
+138  8
+
+159  6 *
+
+LV/KG (mg g-1)
+
+1.67  0.04
+
+1.91  0.02 *
+
+NG/KG (mg g-1)
+
+5.7  0.2
+
+6.2  0.1 *
+
+UV (ml 24h-1)
+
+12.8  1.0
+
+11.3  1.1
+
+ClKrea (ml min-1)
+
+2.76  0.17
+
+2.36  0.14
+
+UAE (mg 24h-1)
+
+0.2  0.02
+
+58.1  5.8 *
+
+GF (10-3 mm2)
+
+6.1  0.2
+
+8.2  0.2 *
+
+_________________________________________________________________________________
+Systolischer Blutdruck (SBD), Gewicht des linken Ventrikels bezogen auf das Körpergewicht (LV/KG),
+Nierengewicht bezogen auf das Körpergewicht (NG/KG), Urinvolumen (UV), Kreatininclearance
+(ClKrea), Urinalbuminexkretion (UAE) und Glomeruläre Fläche (GF) an Postnataltag 100 (D100) n = 816, * p<0.05 gegenüber Wistar.
+
+42
+
+4.3 Expression des Insulin-ähnlichen Wachstums Faktor Systems
+
+4.3.1 Die hepatische mRNA Expression des IGF-Systems
+
+4.3.1.1 Insulin-ähnlicher Wachstumsfaktor I (IGF-I) mRNA Expression
+Die hepatische Expression der IGF-1 mRNA war an Tag E19 (-48%) sowie an Tag
+D7 (-54%) der MWF Ratten im Vergleich zu den Wistar Ratten erniedrigt. (P<0,05,
+Abb. 7).
+
+hepatische IGF-1 mRNA Expression / PBGD
+
+0,0004
+
+*
+
+0,0003
+
+0,0002
+
+0,0001
+
+rel. hepatische IGF-I mRNA-Expression
+(% der Kontrolle)
+
+120
+0,0005
+
+100
+
+80
+
+*
+
+*
+
+60
+
+40
+
+20
+
+0
+
+0,0000
+Wistar
+
+Wistar E19
+
+MWF
+
+MWF E19
+
+N.a.N.
+
+Wistar D7
+
+MWF D7
+
+_________________________________________________________________________________
+Abb. 7 (a+b) Die hepatische mRNA-Expression des Insulin-ähnlichen Wachstumsfaktors I (IGF-I) am
+Tag 19 der Fetogenese (E19) und an Tag 7 postpartum (D7), n=6, *P<0,05 verglichen zum Wistar
+Kontrollstamm. Die IGF-I mRNA-Expression wurde links absolut als Quotient (E19 Abb. 7a) der
+Expression des „Housekeeping“ Gens Porphobilinogen Deaminase (PBGD) und rechts relativ in % der
+Wistarkontrolle (E19 und D7 Abb. 7b) dargestellt.
+
+43
+
+Desweiteren war die hepatische Proteinexpression an Tag E19 bei den MWF Ratten
+im Vergleich zu Wistarratten erniedrigt (P<0,05 Abb. 8).
+
+hepatische IGF-I Proteinexpression
+(% der Kontrolle)
+
+120
+
+100
+
+*
+
+80
+
+20
+0
+Wistar E19
+
+MWF E19
+
+_________________________________________________________________________________
+Abb. 8: Die hepatische Proteinexpression von IGF-I an E19, n=14, *P<0,05 im Vergleich von MWF- zu
+Wistarratten.
+
+4.3.1.2 Insulin-ähnlicher Wachstumsfaktor I Rezeptor (IGF-I-R) mRNA-Expression
+Die hepatische Expression der IGF-1 Rezeptor mRNA am Tag E19 der MWF Ratten
+
+rel. hepatische IGF-1 Rezeptor mRNA-Expression
+(% der Kontrolle)
+
+hep. IGF-1 Rezeptor mRNA-Expression / PBGD
+(ratio)
+
+im Vergleich zu den Wistar Ratten. (Abb. 9).
+
+0,0012
+
+0,0010
+
+0,0008
+
+0,0006
+
+0,0004
+
+0,0002
+
+0,0000
+Wistar
+
+160
+140
+120
+100
+80
+60
+40
+20
+0
+Wistar
+
+MWF
+
+MWF
+
+_________________________________________________________________________________
+Abb. 9: Die hepatische mRNA-Expression des Insulin-ähnlichen Wachstumsfaktor I Rezeptors (IGF-IR) am Tag 19 der Fetogenese (E19), n=6, im Vergleich von MWF- zu Wistarratten. Die IGF-I-R
+mRNA-Expression wird links absolut als Quotient der Expression des „Housekeeping“ Gens
+Porphobilinogen Deaminase (PBGD) und rechts relativ in % der Wistarkontrolle dargestellt.
+
+44
+
+4.3.1.3 Insulin-ähnlicher Wachstumsfaktor II (IGF-II) mRNA-Expression
+Die hepatische Expression der IGF-II mRNA am Tag E19 der MWF Ratten im
+Vergleich zu den Wistar Ratten. (Abb. 10).
+
+160
+
+rel. hepatische IGF-2 mRNA-Expression
+(% der Kontrolle)
+
+hep. IGF-2 mRNA Expression / PBGD
+(ratio)
+
+1,6
+1,4
+1,2
+1,0
+0,8
+0,6
+0,4
+0,2
+
+140
+120
+100
+80
+60
+40
+20
+0
+
+0,0
+Wistar
+
+Wistar
+
+MWF
+
+MWF
+
+_________________________________________________________________________________
+Abb. 10 Die hepatische mRNA-Expression des Insulin-ähnlichen Wachstumsfaktors II (IGF-II) am Tag
+19 der Fetogenese (E19) im Vergleich von MWF- zu Wistarratten. Die IGF-II mRNA-Expression wird
+links absolut als Quotient der Expression des „Housekeeping“ Gens Porphobilinogen Deaminase
+(PBGD) und rechts relativ in % der Wistarkontrolle dargestellt.
+
+4.3.1.4 Insulin-ähnlicher Wachstumsfaktor I Rezeptor (IGF-II-R) mRNA-Expression
+Die hepatische Expression der IGF-II Rezeptor mRNA am Tag E19 der MWF Ratten
+im Vergleich zu den Wistar Ratten (Abb. 11).
+
+140
+
+rel. hepatische IGF2-Rez. mRNA Expression
+(% der Kontrolle)
+
+hepatische IGF2-Rez. mRNA-Expression
+(ratio)
+
+0,06
+
+0,05
+
+0,04
+
+0,03
+
+0,02
+
+0,01
+
+0,00
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+Wistar
+
+MWF
+
+Wistar
+
+MWF
+
+_________________________________________________________________________________
+Abb.11 Die hepatische mRNA-Expression des Insulin-ähnlichen Wachstumsfaktor II Rezeptors (IGFII-R) am Tag 19 der Fetogenese (E19) im Vergleich von MWF- zu Wistarratten. Die IGF-II-R mRNAExpression wird links absolut als Quotient der Expression des „Housekeeping“ Gens Porphobilinogen
+Deaminase (PBGD) und rechts relativ in % der Wistarkontrolle dargestellt.
+
+45
+
+4.3.1.5 Insulin-ähnlicher Wachstumsfaktor Bindungsprotein 1 (IGF-BP1) mRNAExpression
+Die hepatische Expression der IGF-BP1 mRNA am Tag E19 der MWF Ratten im
+
+350
+
+1,2
+
+rel. hepatische IGF-BP1 mRNA Expression
+(% der Kontrolle)
+
+hepatische IGF-BP1 mRNA-Expression / PBGD
+(ratio)
+
+Vergleich zu den Wistar Ratten. (Abb. 12).
+
+1,0
+
+0,8
+
+0,6
+
+0,4
+
+0,2
+
+0,0
+Wistar
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+MWF
+
+Wistar
+
+MWF
+
+_________________________________________________________________________________
+Abb. 12. Die hepatische mRNA-Expression des Insulin-ähnlichen Wachstumsfaktor Bindungsproteins
+1 (IGF-BP1) am Tag 19 der Fetogenese (E19) im Vergleich von MWF- zu Wistarratten. Die IGF-BP1
+mRNA-Expression wird links absolut als Quotient der Expression des „Housekeeping“ Gens
+Porphobilinogen Deaminase (PBGD) und rechts relativ in % der Wistarkontrolle dargestellt.
+
+4.3.1.6 Insulin-ähnlicher Wachstumsfaktor Bindungsprotein 3 (IGF-BP3) mRNAExpression
+Die hepatische Expression der IGF-BP3 mRNA am Tag E19 der MWF Ratten im
+
+0,010
+
+140
+
+rel. hepatische IGF-BP3 mRNA Expression
+(% der Kontrolle)
+
+rel. hepatische IGF-BP3 mRNA-Expression / PBGD
+(ratio)
+
+Vergleich zu den Wistar Ratten. (Abb. 13).
+
+0,008
+
+0,006
+
+0,004
+
+0,002
+
+0,000
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+Wistar
+
+MWF
+
+Wistar
+
+MWF
+
+_________________________________________________________________________________
+Abb. 13. Die hepatische mRNA-Expression des Insulin-ähnlichen Wachstumsfaktor Bindungsproteins
+3 (IGF-BP3) am Tag 19 der Fetogenese (E19) im Vergleich von MWF- zu Wistarratten. Die IGF-BP3
+
+46
+
+mRNA-Expression wird links absolut als Quotient der Expression des „Housekeeping“ Gens
+Porphobilinogen Deaminase (PBGD) und rechts relativ in % der Wistarkontrolle dargestellt).
+
+Zusammengefaßt zeigten sich bei der Untersuchung der hepatischen mRNA
+Expression von IGF-II, IGF-I Rezeptor, IGF-II Rezeptor, IGFBP-1 und IGFBP-3 an
+Tag E19 keine signifikanten Unterschiede zwischen MWF- und Wistarratten.
+
+47
+
+4.3.2 Die renale mRNA Expression des IGF-Systems
+4.3.2.1 Insulin-ähnlicher Wachstumsfaktor I (IGF-I) mRNA Expression
+Die renale mRNA Expression von IGF-I am Tag E19 bei den MWF Ratten im
+Vergleich zu den Wistar Kontrollratten (Abb. 14).
+180
+
+rel. renale IGF-1 mRNA-Expression
+(% zur Kontrolle)
+
+renale IGF-1 mRNA Expression zu PBGD
+
+0,0025
+
+0,0020
+
+0,0015
+
+0,0010
+
+0,0005
+
+160
+140
+120
+100
+80
+60
+40
+20
+0
+
+0,0000
+Wistar
+
+Wistar
+
+MWF
+
+MWF
+
+_________________________________________________________________________________
+Abb. 14. Die renale mRNA-Expression des Insulin-ähnlichen Wachstumsfaktor I (IGF-I) am Tag 19 der
+Fetogenese (E19) im Vergleich von MWF- zu Wistarratten. Die IGF-I mRNA-Expression wird links
+absolut als Quotient der Expression des „Housekeeping“ Gens Porphobilinogen Deaminase (PBGD)
+und rechts relativ in % der Wistarkontrolle dargestellt.
+
+4.3.2.2 Insulin-ähnlicher Wachstumsfaktor I Rezeptor (IGF-I-R) mRNA-Expression
+Die renale mRNA Expression des IGF-I Rezeptors am Tag E19 bei den MWF Ratten
+im Vergleich zu den Wistar Kontrollratten (Abb. 15).
+160
+
+renale IGF1-Rez mRNA-Expression
+(% zur Kontrolle)
+
+renale IGF-1 Rez mRNA-Expression
+(ratio)
+
+0,08
+
+0,06
+
+0,04
+
+0,02
+
+140
+120
+100
+80
+60
+40
+20
+0
+
+0,00
+Wistar
+
+Wistar
+
+MWF
+
+MWF
+
+_________________________________________________________________________________
+Abb. 15 Die renale mRNA-Expression des Insulin-ähnlichen Wachstumsfaktor I Rezeptor (IGF-I-R) am
+Tag 19 der Fetogenese (E19) im Vergleich von MWF- zu Wistarratten Die IGF-I-R mRNA-Expression
+
+48
+
+wird links absolut als Quotient der Expression des „Housekeeping“ Gens Porphobilinogen Deaminase
+(PBGD) und rechts relativ in % der Wistarkontrolle dargestellt).
+
+4.3.2.3 Insulin-ähnlicher Wachstumsfaktor II (IGF-II) mRNA-Expression
+Die renale mRNA Expression von IGF-II am Tag E19 bei den MWF Ratten im
+Vergleich zu den Wistar Kontrollratten (Abb. 16).
+120
+
+rel. renale IGF-II mRNA-Expression
+(% zur Kontrolle)
+
+renale IGF-II mRNA Expression/PBGD
+(ratio)
+
+1,0
+
+0,8
+
+0,6
+
+0,4
+
+0,2
+
+0,0
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+Wistar
+
+MWF
+
+Wistar
+
+MWF
+
+_________________________________________________________________________________
+Abb. 16 Die renale mRNA-Expression des Insulin-ähnlichen Wachstumsfaktor II (IGF-II) am Tag 19
+der Fetogenese (E19) im Vergleich von MWF- zu Wistarratten. Die IGF-II mRNA-Expression wird links
+absolut als Quotient der Expression des „Housekeeping“ Gens Porphobilinogen Deaminase (PBGD)
+und rechts relativ in % der Wistarkontrolle dargestellt.
+
+49
+
+4.3.2.4 Insulin-ähnlicher Wachstumsfaktor II Rezeptor (IGF-II-R) mRNA-Expression
+Am Tag E19 war die renale mRNA Expression des IGF-II Rezeptors bei MWF- im
+Vergleich zu Wistarratten um 52% erhöht (*P<0,05, Abb. 17 a). Im Gegensatz zum
+pränatalen Tag E19 (+52%) gab es am postnatalen Tag D7 (+33%, P>0,05) keine
+signifikanten Unterschiede in der renalen mRNA Expression des IGF-II Rezeptors
+zwischen den MWF- und Wistarratten (Abb. 17 b).
+
+renale IGF-2 Rez mRNA-Epression/PBGD
+(ratio)
+
+0,8
+
+0,6
+
+0,4
+
+0,2
+
+rel. renale IGF-II Rezeptor mRNA Expression
+(%zur Kontrolle)
+
+180
+
+*
+
+1,0
+
+*
+
+160
+
+140
+
+120
+
+100
+
+80
+
+20
+0
+
+0,0
+Wistar
+
+Wistar E19
+
+MWF
+
+MWF E19
+
+N.a.N.
+
+Wistar D7
+
+MWF D7
+
+_________________________________________________________________________________
+Abb. 17 (a) Die renale mRNA-Expression des Insulin-ähnlichen Wachstumsfaktor II Rezeptors (IGF-IIR) am Tag 19 der Fetogenese (E19) ,n=6, *P<0,05 als Quotient der Expression des „Housekeeping“
+Gens Porphobilinogen Deaminase (PBGD) im Vergleich von MWF- zu Wistarratten.
+Abb. 17 (b) Die renale mRNA-Expression des Insulin-ähnlichen Wachstumsfaktor II Rezeptors (IGFII-R) von MWF- zu Wistarratten an den Tagen E19 und D7. Die IGF-II-R mRNA-Expression wird relativ
+in % der Wistarkontrolle dargestellt
+
+Eine Western Blot Analyse bestätigte die erhöhte renale IGF-II Rezeptor ProteinExpression (Abb. 17c).
+
+_________________________________________________________________________________
+(c) Western blot Analyse der renalen IGF-II Rezeptor Proteinexpression am Tag E19. MWF- im
+Vergleich zu Wistarratten.
+
+50
+
+4.3.2.5 Insulin-ähnlicher Wachstumsfaktor Bindungsprotein 1 (IGF-BP1) mRNAExpression
+Die renale mRNA Expression des IGF-Bindungsproteins am Tag E19 bei den MWF
+Ratten im Vergleich zu den Wistar Kontrollratten (Abb 18).
+
+300
+
+rel. renale IGF-BP1 mRNA-Expression
+(% der Kontrolle)
+
+renale IGF BP-1 mRNA Expression / PBGD
+(ratio)
+
+0,35
+
+0,30
+
+0,25
+
+0,20
+
+0,15
+
+0,10
+
+0,05
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+0,00
+
+Wistar
+Wistar
+
+MWF
+
+MWF
+
+_________________________________________________________________________________
+Abb. 18 Die renale mRNA-Expression des Insulin-ähnlichen Wachstumsfaktor Bindungsproteins 1
+(IGF-BP1) am Tag 19 der Fetogenese (E19) im Vergleich von MWF- zu Wistarratten. Die IGF-BP1
+mRNA-Expression wird links absolut als Quotient der Expression des „Housekeeping“ Gens
+Porphobilinogen Deaminase (PBGD) und rechts relativ in % der Wistarkontrolle dargestellt.
+
+51
+
+4.3.2.6 Insulin-ähnlicher Wachstumsfaktor Bindungsprotein 3 (IGF-BP3) mRNAExpression
+Am Tag E19 war die renale mRNA Expression des IGFBP-3 bei den MWF Ratten im
+Vergleich zu den Wistar Kontrollratten um 113% erhöht (*P<0,05). Im Gegensatz
+zum pränatalen Tag E19 gab es am postnatalen Tag D7 (+2%) keinen signifikanten
+Unterschied in der renalen mRNA Expression des IGF BP-3 zwischen den MWF- und
+Wistarratten (P>0,05, Abb. 19).
+
+*
+
+renale IGF-BP3 mRNA-Expression zu PBGD
+(ratio)
+
+0,20
+
+0,15
+
+0,10
+
+0,05
+
+rel. renale IGF-BP3 mRNA Expression
+(% der Kontrolle)
+
+*
+0,25
+
+250
+
+200
+
+150
+
+100
+
+0
+
+0,00
+Wistar
+
+Wistar E19
+
+MWF
+
+MWF E19
+
+N.a.N.
+
+Wistar D7
+
+MWF D7
+
+_________________________________________________________________________________
+Abb. 19 (a) Die renale mRNA-Expression des Insulin-ähnlichen Wachstumsfaktor Bindungsproteins 3
+(IGF-BP3) am Tag 19 der Fetogenese (E19) als Quotient der Expression des „Housekeeping“ Gens
+Porphobilinogen Deaminase (PBGD) im Vergleich von MWF- zu Wistarratten.
+Abb. 19 (b) Die renale mRNA-Expression des Insulin-ähnlichen Wachstumsfaktor Bindungsproteins 3
+(IGF-BP3) an E19 und D7 (n=6, *P<0,05) im Vergleich von MWF- zu Wistarratten. Die IGF-BP3
+mRNA-Expression wird relativ in % der Wistarkontrolle dargestellt.
+
+Zusammengefaßt war die renale mRNA-Expression von IGF-I, IGF-I Rezeptor, IGF-II
+sowie dem IGF-BP1 am Tag E19 dem Tag D7 sehr ähnlich und zeigte keine
+signifikanten Unterschiede.
+
+52
+
+5 Diskussion
+
+5.1 Die Oligonephronie – Bedeutung für die Pathogenese der Hypertonie
+Verschiedene Arbeiten unterstützen die Hypothese dass eine reduzierte Anzahl an
+funktionstüchtigen Nephronen eine Schlüsselrolle im Pathomechanismus der
+Entwicklung einer Hypertonie spielen kann. So zeigte Keller an einer Gruppe von
+zehn verunfallten weißen Menschen mittleren Alters, bei denen eine Hypertonie
+anamnestisch bekannt war, eine um 46% verringerte Anzahl an Nephronen zu einer
+gesunden Kontrollgruppe [61]. In Übereinstimmung dazu zeigt eine Studie von Hoy
+eine umgekehrte Proportionalität von der Anzahl der Glomerula zu ihrem
+korpuskulären Volumen. Je geringer die Anzahl der Nephrone war, umso größer war
+ihr korpuskuläres Volumen und damit die Perfusion des einzelnen Nephrons. Dies
+prädisponiert mit hoher Wahrscheinlichkeit für ein späteres Auftreten einer
+Glomerulosklerose [53]. Diese Auffassung wird von Arbeiten unterstützt, die zeigen,
+dass sich in Rattenstämmen, bei denen auf Grund einer Erbanlage die Anzahl an
+Nephronen bei der Geburt reduziert ist, im späteren Leben ein Hypertonus entwickelt
+[109].
+
+20
+
+*
+
+*
+
+-3
+
+(n * mm )
+
+Glomeruläre Dichte
+
+15
+
+10
+
+*
+
+5
+
+0
+Wistar
+E19
+
+MWF
+E19
+
+Wistar
+D7
+
+MWF
+D7
+
+Wistar
+D100
+
+MWF
+D100
+
+_________________________________________________________________________________
+Abb. 20 Glomeruläre Dichte an Tag 19 der Fetogenese (E19), an Tag 7 postpartum (D7) und an Tag
+100 (D100), n=8, *p<0,05 verglichen zur Wistar Kontrollratte. MWF, Munich-Wistar-Frömter Ratten.
+Reproduziert mit der freundlichen Genehmigung der AG PD. Dr. L. Rothermund
+
+53
+
+In Vorarbeiten zu der vorgelegten Arbeit hat sich bestätigt, dass diese reduzierte
+Anzahl an Nephronen schon am fetalen Tag E19 (Abb. 20) vorhanden ist und wird
+mit einer in der Folge ansteigenden glomerulären Fläche am Tag 100 (D100) in
+Verbindung gebracht (Tab. 4). Diese anatomischen Charakteristika werden mit
+diversen funktionellen Störungen in Zusammenhang gebracht [31]. Ebenso wurde
+über eine Erhöhung der Filtrationsrate eines einzelnen Nephrons bei der MWF Ratte
+berichtet [31]. In Übereinstimmung mit dem Konzept der „Volumen-Druck Balance“
+von Guyton [38] kommt es nach Salzbelastung zu einem Ansteigen des systolischen
+Blutdrucks beim MWF Rattenmodell [67]. Der spontane Hypertonus bei einem
+genetischen determiniertem Mangel an Nephronen führt bei MWF Ratten zu einer
+Albuminurie und einer progredienten renalen Schädigung [31, 67].
+Pathomechanismen, die während der embryofetalen Nierenentwicklung zu einem
+genetisch determinierten Nephronenmangel führen sind bisher unbekannt. Deshalb
+wurde in dieser vorgelegten Arbeit die Expression von Schlüsselmolekülen des IGF
+Signal Systems während der Nephrogenese bei der MWF Ratte untersucht.
+
+5.2 Auswahl des Tiermodells
+Um die Genexpression in der Niere während der intrauterinen Entwicklung und post
+partum zu untersuchen, wurde ein Tiermodell gewählt, welches durch eine
+angeborene verminderte Anzahl von Nephronen mit spontanem salzsensitiven
+arteriellen Hypertonus, Albuminurie und chronisch progredientem Nierenversagen im
+Erwachsenenalter charakterisiert ist. Tabelle 5 gibt einen Überblick über die
+Charakteristika entsprechender Tiermodelle.
+In Tabelle 5 wird gezeigt, dass bereits auch einige andere Rattenmodelle mit einem
+angeborenen Hypertonus eine geringere Anzahl an Nephronen aufweisen [14, 109].
+Die salzsensitive Dahl-Ratte weist eine Reduktion von 15% auf, die Milan
+Bluthochdruckratte eine Reduktion von 17% und die spontan-hypertensive Ratte ein
+Reduktion
+
+von
+
+14%.
+
+Im
+
+salzsensitiven
+
+Dahl
+
+Rattenmodell
+
+wurden
+
+sich
+
+widersprechende Befunde hinsichtlich der Anzahl der Nephrone erhoben. Azar und
+Mitarbeiter berichten eine 15%ige Reduktion der Nephrone im salzsensitiven im
+Vergleich zum salzresistenten Dahl-Rattenstamm [3]. Eine longitudinale Studie von
+Sterzel und Kollegen zeigt aber, dass eine Albuminurie schon vor Salzbelastung,
+also im prähypertensiven Stadium, ohne erhöhten glomerulären Druck und mit
+54
+
+unveränderter Nephronenzahl zu beobachten ist [111]. Die progressive renale
+Schädigung beschleunigt sich nach Manifestation des HT. Eine salzarme Diät
+verzögert,
+
+verhindert
+
+jedoch
+
+nicht
+
+die
+
+fortschreitende
+
+Nierenschädigung
+
+in
+
+salzsensitiven Dahl-Ratten [22].
+Für unsere Versuche haben wir die MWF-Ratte gewählt, weil sie im Vergleich zu den
+o.g. Ratten mit einem Defizit von 50% eine sehr viel stärkere Reduktion der
+Nephrone aufweist (Abb. 20). Diese Reduktion der Nephronenanzahl ist bereits ab
+dem Embryonaltag E19 nachweisbar. [31].
+Tabelle 5: Nephronenanzahl, arterieller Hypertonus und progredientes Nierenversagen in verschieden hypertensiven Rattenstämmen
+Hochdruck-
+
+Kontroll-
+
+% Nephrone Kommentar
+
+Rattenstamm
+
+Rattenstamm
+
+vs. Kontrolle
+
+Munich-Wistar- Wistar
+Frömter
+
+51%
+
+spontaner HT und
+HT nach
+Salzbelastung,
+
+Referenz
+
+[31, 56]
+
+FSGS
+Dahl
+salzsensitiv
+
+Dahl
+salzresistent
+
+85% -100%
+
+HT nach
+Salzbelastung;
+
+[96, 111]
+
+FSGS
+Milanhypertensiv
+
+Milannormotensiv
+
+83%
+
+HT und keine FSGS
+
+[11]
+
+Praghypertensiv
+
+Pragnormotensiv
+
+81%
+
+spontaner HT; keine
+Daten zu FSGS
+
+[45]
+
+Fawn Hooded
+
+Wistar
+
+100%
+
+Nephronenanzahl
+nicht in Subgruppen
+mit höchstem HT
+und FSGS
+quantifiziert
+
+[23]
+
+PVG/c
+
+Wistar
+
+122%
+
+Hypotonie und
+Resistenz gegen
+FSGS
+
+[36]
+
+Abkürzungen: HT, arterieller Hypertonus; FSGS, fokal-segmentale Glomerulosklerose. Tabelle
+erweitert und modifiziert nach Brenner [14]
+
+Tabelle 6 gibt einen Überblick über morphologische und funktionelle Befunde bei
+MWF-Ratten.
+55
+
+Tabelle 6: Morphologische und funktionelle Befunde bei MWF-Ratten
+Parameter
+
+MWF
+
+Referenzstamm
+
+Interpretation
+
+Geschlecht/
+
+Wistar
+
+erniedrigt Faktor 12-14 Wo
+0,5
+
+Alter in Wo
+
+Anzahl der
+Glomerula pro
+Niere
+
+m 13,71,4 103
+
+Systolischer
+Blutdruck
+
+184  17
+
+ACEI MWF erhöht ca.
+40mmHg
+
+m/34 Wo
+
+m 165  2
+
+Lewis
+
+14 Wo
+
+w 13,01,8 103
+
+Referenz
+
+[30]
+
+[100]
+
+(mmHg)
+Systolischer
+Blutdruck
+(mmHg)
+Systolischer
+Blutdruck unter
+8% NaCL
+(mmHg)
+
+m +30mmHg
+w +20mmHg
+
+w 156  3
+m 220  8
+w192  9
+
+Proteinurie(mg/d) 295  64
+
+14 Wo
+
+[67]
+
+deutlich erhöht,
+ca. Faktor 10
+
+m/34 Wo
+
+[100]
+
+MWF
+Normaldiät
+
+m +55mmHg
+
+MWF im
+Alter von
+10 Wo
+
+w +36mmHg
+
+Albuminurie
+(mg/d)
+
+23 8
+
+Lewis
+
+deutlich erhöht,
+ca. Faktor 60
+
+m/14 Wo
+
+Albuminurie
+(mg/d) unter 8%
+NaCl
+
+87 20
+
+MWF
+Normaldiät
+
+deutlich erhöht,
+ca. Faktor 4
+
+m/14 Wo
+
+Glomerulärer
+Druck PGC
+(mmHg)
+
+51  1
+
+ACEI MWF Normal
+
+m/18 Wo
+
+Proximal
+tubulärer Druck
+PT (mmHg)
+
+13  1
+
+ACEI
+
+Normal
+
+m/18 Wo
+
+[100]
+
+Transglomerulärer Druck
+
+38  2
+
+ACEI MWF Normal
+
+m/18 Wo
+
+[100]
+
+Einzelnephron
+GFR
+
+102  19
+
+Wistar
+
+m/12-14 Wo
+
+[30]
+
+m/12-14 Wo
+
+[30]
+
+[67]
+
+MWF
+
+erhöht
+ca. Faktor 2
+
+SNGFR (nl/min)
+Glomerulärer
+Plasmafluss QA
+(nl/min)
+
+367  114
+
+Wistar
+
+erhöht
+ca. Faktor 2
+
+MWF: Munich Wistar Frömter Ratte; m: männlich; w: weiblich; ACEI: ACE Hemmung
+
+56
+
+Diese
+
+anatomischen
+
+Gegebenheiten
+
+werden
+
+von
+
+einer
+
+Reihe
+
+funktioneller
+
+Änderungen begleitet. So ist z.B. eine Zunahme der Einzelnephronfiltrationsrate bei
+männlichen,
+
+ausgewachsenen
+
+MWF-Ratten
+
+dokumentiert.
+
+Der
+
+durch
+
+ein
+
+Nephronendefizit verursachte spontane Hypertonus wird von einer Albuminurie und
+progressiven, renalen Schäden wie Glomerulosklerose und interstitieller Fibrose
+beim ausgewachsenen MWF-Tier begleitet. [31]
+Das
+
+Munich-Wistar-Frömter
+
+morphologisch
+ausgeprägter
+
+und
+
+(MWF)-Rattenmodell
+
+funktionell
+
+kongenitaler
+
+ausreichend
+
+Oligonephronie.
+
+Es
+
+ist
+
+das
+
+einzige
+
+charakterisierte
+vereint
+
+in
+
+bisher
+
+Tiermodell
+
+sich
+
+die
+
+mit
+
+klinisch
+
+bedeutsamen Risikofaktoren der Progression der chronischen Niereninsuffizienz:
+spontaner salzsensitiver arterieller Hypertonus und Proteinurie (Tabelle 5 und
+Tabelle 6). Deshalb ist die MWF-Ratte das momentan beste Modell zur Identifikation
+ontogenetischer Faktoren, die zur Oligonephronie und anschließender arterieller
+Hypertonie, Albuminurie und progredienter Niereninsuffizienz führen.
+Der MWF-Tierstamm entstammt einer Sublinie der Ivanovas-Wistar-Ratten und
+wurde ursprünglich von Professor Frömter, Frankfurt/Main, selektiert und dann ab
+1978 im Tierlaboratorium der Medizinischen Hochschule Hannover als MWF/ZtmTierstamm
+
+über
+
+fünf
+
+Generationen
+
+auf
+
+subkapsulär
+
+gelegene
+
+Glomerula
+
+weiterselektiert [40].
+Dieser Stamm weist über 50 kapselberührende Nierenkörperchen pro Niere auf [60].
+Weil man aus diesen durch Mikropunktion der Bowman-Kapsel direkt Ultrafiltrat
+gewinnen kann, erschien die MWF für experimentelle Untersuchungen interessant.
+In nachfolgenden Untersuchungen wurden dann weitere phänotypische Befunde
+erhoben. Ausgehend von einer zunächst verringerten Glomeruladichte konnte dann
+bei den MWF/Ztm-Ratten eine erniedrigte Glomerulaanzahl nachgewiesen werden.
+Im Vergleich zur Wistar-cryptorchic-(WC/Ztm-) Ratte war die Glomerulazahl bei
+MWF/Ztm-Tieren um 27% reduziert [60].
+Weiterhin wurde beobachtet, dass männliche Tiere relativ früh eine arterielle
+Hypertonie und Proteinurie entwickeln, während diese klinisch-pathologischen
+Befunde bei weiblichen Tieren verzögert und abgeschwächt auftraten.
+In den letzten Jahren hat die Arbeitsgruppe der Dres. Guiseppe und Andrea
+Remuzzi, Bergamo, wesentliche Untersuchungen bei MWF-Ratten durchgeführt [39,
+
+57
+
+116, 117, 123, 124, 126-129]. Die Untersucher haben in einer gemeinsamen Arbeit
+mit der Arbeitsgruppe von Dr. Barry M. Brenner, Boston, auf die Bedeutung der
+MWF-Ratte zum Studium der Pathogenese des arteriellen Hypertonus und der
+progredienten chronischen Niereninsuffizienz hingewiesen [31]. In dieser Arbeit
+konnten die Autoren nachweisen, dass männliche MWF- Ratten im Alter zwischen 12
+und 14 Wochen eine Proteinurie entwickeln, wohingegen weibliche MWF-Ratten zu
+diesem Zeitpunkt noch eine normale Proteinausscheidung im Urin aufweisen [31].
+Die Anzahl der Glomerula war sowohl in männlichen (-51%) als auch weiblichen (47%) MWF-Ratten im Vergleich zu Wistar-Kontrollratten signifikant niedriger. Im
+Verhältnis zum Körpergewicht war sowohl in den männlichen MWF-Ratten als auch
+in den männlichen Wistar-Ratten die Anzahl der Nephrone um 63% gegenüber den
+weiblichen MWF- und Wistar-Tieren reduziert [31]. In männlichen MWF-Ratten waren
+die Einzelnephron-GFR (SNGFR) und der renale Plasmafluß (RPF) im Vergleich zu
+den anderen drei Gruppen verringert.
+Salzbelastung, bei verminderter Nephronenzahl der MWF-Ratten, sowohl bei
+weiblichen als auch bei männlichen Tieren, führt zu einer ausgeprägten Hypertonie
+und einem Anstieg der Albuminurie [67]. Basierend auf den bislang durchgeführten
+Untersuchungen kann man zusammenfassend feststellen, dass männliche MWFRatten
+
+eine
+
+verminderte
+
+Glomerulazahl
+
+(Nephronenanzahl),
+
+eine
+
+spontane
+
+salzsensitive Hypertonie und Proteinurie entwickeln, wobei der intraglomeruläre
+Druck (PGC) normal ist und die nachgewiesene Erhöhung der SNGFR auf einen
+erhöhten Ultrafiltrationskoeffizienten (Kf) zurückgeführt werden kann. Bisherige
+Befunde zeigen, dass der erhöhte Kf sowohl durch eine Vergrößerung der
+Filtrationsfläche
+
+wie
+
+auch
+
+durch
+
+eine
+
+Erhöhung
+
+des
+
+druckabhängigen
+
+Filtrationsfaktors bei MWF-Tieren hervorgerufen werden kann. Inwieweit die drei
+Parameter erniedrigte Nephronenzahl, arterielle Hypertonie und Proteinurie kausal
+zusammenhängen ist momentan noch nicht abschließend geklärt . Die bisherigen
+Untersuchungen deuten darauf hin, dass funktionelle Veränderungen an der
+glomerulären
+
+Basalmembran
+
+(GBM)
+
+für
+
+die
+
+Manifestation
+
+der
+
+Proteinurie
+
+mitverantwortlich sind [57, 99]. Hierfür sprechen die Befunde, daß eine Therapie des
+spontanen Hypertonus mit Hemmstoffen des ACE die Proteinurie reduzieren, jedoch
+nicht normalisieren kann, obwohl keine strukturellen oder ultrastrukturellen
+Veränderungen nach ACE-Hemmung nachweisbar waren. Eine Behandlung des
+spontanen Hypertonus mit dem Dihydropyridin-Calciumantagonisten Nitrendipin blieb
+58
+
+hingegen trotz gleicher Senkung des arteriellen Blutdrucks ohne Einfluss auf die
+Proteinurie. Im Gegensatz zur Nitrendipinbehandlung war der ACE-Hemmer jedoch
+in der Lage den normalen glomerulären Druck um ca. 10 mm Hg (50 vs. 40 mm Hg)
+auf niedrig normale Werte zu senken. Infolgedessen kann postuliert werden, dass bei
+MWF-Ratten ein funktioneller Defekt an der GBM vorliegt, der bereits in Gegenwart
+eines normalen glomerulären Druckes zur Proteinurie führt. Die Bedeutung von
+funktionellen Veränderungen und der Einfluss von geschlechtsspezifischen Faktoren
+wird durch die Tatsache belegt, dass weibliche MWF-Ratten hinsichtlich der
+Reduktion der Glomerulazahl und der Glomerulagröße ähnliche Veränderungen
+aufweisen wie männliche Tiere, obwohl die Entwicklung der Hypertonie und
+Proteinurie deutlich abgeschwächt und verzögert ist. Auf der Basis der bisher
+berichteten
+
+Untersuchungsergebnisse
+
+sind
+
+die
+
+wesentlichen
+
+phänotypischen
+
+Befunde der männlichen MWF-Ratte in Tabelle 6 zusammengefaßt.
+Als Kontrollstamm sollen Wistar-Ratten dienen, da diese genetisch sehr nahe am
+Ursprungstamm der MWF Ratte liegen und damit die genetische Heterogenität ohne
+Beziehung zur bearbeiteten Pathologie minimal ist [105].
+
+5.3 Herabregulation der hepatischen Insulin-ähnlichen Wachstumsfaktor I
+Expression
+Ein wesentliches Ergebnis dieser Arbeit ist die signifikante Reduktion der
+hepatischen IGF-I Expression in der MWF Ratte mit genetischer Oligonephropathie
+im Zeitfenster der Nephrogenese (Abb. 7 und 8). Diese Reduktion der hepatischen
+IGF-I Expression trat sowohl während der fetalen Entwicklung an Tag E19, als auch
+am postpartalen Tag 7 (D7) auf.
+Da man noch nicht die zirkulierenden IGF-I Konzentrationen im Fetus der Ratte
+messen kann, muss an dieser Stelle auf die eingeschränkte Interpretierbarkeit der
+untersuchten hepatischen IGF-I mRNA Expression hingewiesen werden, die jedoch
+die Hauptquelle des zirkulierenden IGF-I ist [112]. Nichtsdestotrotz ist ein
+übereinstimmendes Ansteigen des Serum IGF-I und der hepatischen IGF-I
+Expression gut dokumentiert [16]. Als Folge mütterlicher Mangelernährung, war die
+IGF-I Konzentration sowohl in der mütterlichen als auch in der fetalen Zirkulation
+
+59
+
+herabgesetzt, begleitet von einer herabgesetzten fetalen hepatischen IGF-I mRNA
+Expression im Schafsfeten [72].
+Überdies zeigt die hepatische IGF-I Expression bei weitem die stärkste Antwort auf
+Manipulationen an Wachstumshormonkonzentrationen (GH), was darauf hindeutet,
+dass das der Leber entstammende IGF-I im „GH-abhängigen“ Wachstum eine
+zentrale Rolle spielt [16]. Demzufolge könnte der beobachtete Mangel an
+intrahepatischer IGF-I mRNA und Proteinexpression eine Folge hypophysärer
+Mindersekretion von Wachstumshormonen sein. Durch Lumbers wurde bereits die
+Hypothese einer Interaktion zwischen der sich entwickelnden Niere und dem
+Zentralen Nervensystem aufgestellt [82]. Das „brain sparing“ ist ein Merkmal der
+intrauterinen Wachstumsretardierung. Körper- und Nierenentwicklung werden bei
+intrauteriner Mangelversorgung über zentralnervöse Mechanismen gebremst, um die
+Hirnentwicklung zu schützen bzw. eine ausreichende Entwicklung des ZNS zu
+gewährleisten [82].
+IGF-I
+
+Rezeptoren
+
+Zellmembranen
+
+finden
+
+der
+
+sich
+
+im
+
+Ureterknospe
+
+nephrogenen
+[87].
+
+Die
+
+Mesenchym
+Aufnahme
+
+und
+
+von
+
+in
+
+den
+
+Antisense
+
+Oligonukleotiden gegen den IGF-I Rezeptor der embryonalen Niere, welcher die
+meisten IGF-I Wirkungen vermittelt, haben gezeigt, dass dieses Signalsystem
+wahrscheinlich eine Rolle in der Sprossungsmorphogenese der Sammelrohre spielt
+[80]. Anti- IGF-I Antikörper hemmen in vitro die Entwicklung der embryonalen Niere
+[104].
+IGF-I ist, zumindest in vitro, für die Tubulogenese von besonderer Bedeutung [33].
+Durch das hinzufügen von Antisense Oligonukleotiden zu dem IGF-I Rezeptor an
+Mäuseorgankulturen, konnte das weitere Wachstum von bereits induzierten
+Kondensationen unterbunden werden und somit die Ureterknospung verhindert
+werden [80]. Trotz all dieser Beweise von in vitro Studien, zeigen Experimente der
+Gendeletion von IGF-I und IGF-I Rezeptor, dass diese Gene nicht essentiell für die
+renale Morphogenese sind. Sie könnten für die endgültige Organgröße von
+Bedeutung sein [79]. Im Kontrast zu diesen Ergebnissen bei IGF-I knockout
+Versuchen, zeigt eine frühere Studie an Mäusen, dass eine verminderte
+Bioverfügbarkeit von IGF-I, die durch eine transgene Überexpression an humanem
+IGFBP-1 erreicht wurde, zu intrauteriner Wachstumsretardierung und einer
+reduzierten Nephronenanzahl in erwachsenen Mäusen führte [27].
+60
+
+Es existieren Daten die IGF-I eine Rolle in der fetalen Entwicklung des Menschen
+zuschreiben. Ein Fallbericht beschreibt einen Patienten mit einer homozygoten
+partiellen Deletion des IGF-I codierenden Gens, bei dem schwere intrauterine
+Wachstumsretardierung und postnatale Wachstumsstörungen aufgetreten sind [125].
+Desweiteren führt ein bekannter Polymorphismus in der Promotorregion des für IGF-I
+kodierenden Gens zu erniedrigten Serum IGF-I Konzentrationen, welches mit einem
+signifikant erniedrigten Geburtsgewicht einhergeht [114]. Diese Daten stehen im
+Einklang mit Beobachtungen über die Korrelation der IGF-I Konzentration im
+Nabelschnurblut
+
+mit
+
+dem
+
+Geburtsgewicht
+
+[94].
+
+Darüber
+
+hinaus
+
+verringert
+
+Mangelernährung die Expression von IGF I [44, 72]. Das könnte dafür sprechen,
+dass
+
+das
+
+IGF
+
+Signalsystem
+
+die
+
+Effekte
+
+der
+
+Mangelernährung
+
+an
+
+die
+
+Nierenentwicklung vermitteln könnte.
+Zusammengenommen könnte die verminderte hepatische IGF-I Expression in der
+vorliegenden Arbeit eine zentrale Rolle bei der beobachteten Reduktion des
+Körpergewichts, des relativen Nierengewichts und der glomerulären Dichte in der
+Gestations- und postpartalen Periode spielen und damit an der Entwicklung des
+genetischen Hypertonus und der kardiovaskulären Schädigung bei erwachsenen
+MWF Tieren am Tag D100 (Tabelle 3, Abb. 6a und b, Abb.20) beteiligt sein.
+
+5.4 Reduzierte Bioverfügbarkeit der Insulin-ähnlichen Wachstumsfaktoren I
+und II
+Über die starke Verringerung der hepatischen IGF-I Expression hinaus, waren die
+renale mRNA Expression des IGF-II Rezeptors und die Expression des IGFBP-3 am
+Tag E19 der fetalen Entwicklung erhöht, nicht aber an D7 post partum (Abb. 17a-c
+und Abb. 19). Ein hoher Spiegel der Konzentration des Bindungsproteins reduziert
+die Konzentration des freien, nicht gebundenen IGF-I und –II. Damit weisen unsere
+Ergebnisse auf einen Mangel der renalen Bioverfügbarkeit von freiem (effektivem)
+IGF-I und IGF-II während der pränatalen Entwicklung der Niere im MWF Stamm hin.
+Neben den bekannten Effekten des zirkulierenden IGF-I auf das fetale Wachstum,
+spielen auch IGF-II und seine Bindungsstrukturen eine entscheidende Rolle in der
+Entwicklung der Säugetiere [35].
+
+61
+
+Mehrere Studien haben über die Rolle von IGF-II während der fetalen Nephrogenese
+berichtet. Embryonale Epithelien exprimieren IGF-II und IGFBPs [79, 80, 87, 104].
+IGF-II mRNA ist bei der sich entwickelnden Niere in Ratten, Mäusen und beim
+Menschen reichlich vorhanden und wird hauptsächlich von den mesenchymalen
+Zellen exprimiert [1, 78, 86]. Das von der embryonalen Niere produzierte IGF-II wirkt
+über Bindung an extrazelluläre IGF Bindungsproteine und in vitro kann die
+Entwicklung des Metanephros durch zum Kulturmedium hinzugegebene IGF-IIAntikörper unterbunden werden [104]. In metanephrischen Organkulturen konnte
+gezeigt werden, das IGF-II sowohl das Wachstum der Metanephros stimuliert, als
+auch die Zahl der gebildeten Nephrone. IGF-I wirkt demgegenüber nur auf das
+Wachstum des Metanephros stimulierend [33]. Unlängst konnte gezeigt werden,
+dass exogen zugeführtes IGF-I nicht die Anzahl an Nephronen erhöhen konnte, die
+vor dem Ende der Nephrogenese bei neonatalen Ratten mit unilateraler
+Ureterobstruktion bereits reduziert waren [17]. Während der Nephrogenese ist der
+IGF-II Rezeptor in der nephrogenen Zone lokalisiert, insbesondere in noch
+undifferenzierten, mesenchymalen Zellen [1]. Ein Vorhandensein von IGF-II Rezeptor
+zusammen mit IGF-II und eine Erhöhung der Expression des IGF-II Rezeptorproteins
+wurde in Nieren von Feten diabetischer Mütter mit einer reduzierten Anzahl an
+Nephronen beobachtet [1].
+Eine verminderte IGF-II Bioverfügbarkeit während der Nephrogenese könnte als
+Pathomechanismus die Manifestation der genetischen Oligonephronie im MWF
+Stamm begünstigen.
+
+Auch wenn wir die Möglichkeit nicht ausschließen können, dass die beobachteten
+Störungen im IGF System des MWF Stammes in Beziehung zu einem anderen
+genetischen Unterschied des Stammes stehen, der keine Auswirkung auf die Anzahl
+der Nephronen hätte, unterstützt unsere Studie das Konzept, das eine reduzierte
+Bioverfügbarkeit des IGF während der Nephrogenese mit einer genetischen
+Oligonephronie im MWF in Zusammenhang stehen kann.
+Abschließend konnte zum ersten Male gezeigt werden, das unabhängig von
+Umgebungsfaktoren der genetisch bedingte Nephronenmangel schon vor der Geburt
+am embryonalen Tag E19 während der Entwicklung der Niere der MWF Ratte
+vorhanden ist. Desweiteren zeigt diese Studie am genetischen Modell als erste, dass
+62
+
+eine Kombination von Veränderungen während der fetalen Expression von wichtigen
+Elementen des IGF-Signal Systems zu Störungen der IGF Bioverfügbarkeit in der
+fetalen Niere führen kann. Unsere Daten unterstützen die Hypothese, dass eine
+Herabregulation der Expression der fetalen hepatischen IGF-I mRNA in Kombination
+mit einer erhöhten Expression von fetalen renalen IGF-Bindungsproteinmolekülen
+(IGF-II Rezeptor und IGF BP-3) in Zusammenhang mit einem genetischen
+Nephronendefizit und einer folgenden Hypertonie im erwachsenen Organismus
+stehen könnte. Nichtsdestoweniger wird man Interventionsstudien mit der exogenen
+Zufuhr von IGF-I während der kritischen Phase der Entwicklung der Niere benötigen,
+um dieses Konzept am MWF Rattenstamm zu beweisen.
+
+5.5 Zusammenfassung und Perspektive
+Zusammengefasst hat die hier vorgelegte Arbeit als erste Studie während der
+Nephrogenese
+
+vorhandene
+
+Genexpressionsmuster
+
+und
+
+morphologische
+
+Veränderungen bei kongenitaler Oligonephronie im Vergleich zu einem gesunden
+Kontrollmodell gezeigt. In Zukunft sollte an einem Tiermodell mit kongenitaler
+Oligonephronie der Versuch unternommen werden, durch pharmakologische
+Intervention während der Gestations- und Neonatalperiode, eine gesteigerte Bildung
+von Nephronen zu induzieren, um damit das Auftreten eines arteriellen Hypertonus
+und einer progredienten Niereninsuffizienz im Erwachsenenalter zu verhindern.
+
+63
+
+6 Literaturverzeichnis
+1. Amri K, Freund N, Van Huyen JP, Merlet-Benichou C, Lelievre-Pegorier M. Altered
+nephrogenesis due to maternal diabetes is associated with increased
+expression of IGF-II/mannose-6-phosphate receptor in the fetal kidney.
+Diabetes 2001; 50(5):1069-1075.
+2. Avner ED, Sweeney WE, Jr., Piesco NP, Ellis D. Growth factor requirements of
+organogenesis in serum-free metanephric organ culture. In Vitro Cell Dev Biol
+1985; 21(5):297-304.
+3. Azar S, Johnson MA, Hertel B, Tobian L. Single-nephron pressures, flows, and
+resistances in hypertensive kidneys with nephrosclerosis. Kidney Int 1977;
+12(1):28-40.
+4. Baker J, Liu JP, Robertson EJ, Efstratiadis A. Role of insulin-like growth factors in
+embryonic and postnatal growth. Cell 1993; 75(1):73-82.
+5. Ballard J, Baxter R, Binoux M, Clemmons D, Drop S, Hall K, et al. On the
+nomenclature of the IGF binding proteins. Acta Endocrinol (Copenh) 1989;
+121(5):751-752.
+6. Barker DJ, Winter PD, Osmond C, Margetts B, Simmonds SJ. Weight in infancy and
+death from ischaemic heart disease. Lancet 1989; 2(8663):577-580.
+7. Baxter RC. Insulin-like growth factor binding proteins as glucoregulators. Metabolism
+1995; 44(10 Suppl 4):12-17.
+8. Bianchi G, Fox U, Di Francesco GF, Giovanetti AM, Pagetti D. Blood pressure
+changes produced by kidney cross-transplantation between spontaneously
+hypertensive rats and normotensive rats. Clin Sci Mol Med 1974; 47(5):435448.
+9. Blaustein MP, Hamlyn JM. Pathogenesis of essential hypertension. A link between
+dietary salt and high blood pressure. Hypertension 1991; 18(5 Suppl):III184III195.
+10. Blum WF, Hall K, Ranke MB, Wilton P. Growth hormone insensitivity syndromes: a
+preliminary report on changes in insulin-like growth factors and their binding
+proteins during treatment with recombinant insulin-like growth factor I. Kabi
+Pharmacia Study Group on Insulin-like Growth Factor I Treatment in Growth
+Hormone Insensitivity Syndromes. Acta Paediatr Suppl 1993; 82 Suppl
+391:15-19.
+11. Brandis A, Bianchi G, Reale E, Helmchen U, Kuhn K. Age-dependent
+glomerulosclerosis and proteinuria occurring in rats of the Milan normotensive
+strain and not in rats of the Milan hypertensive strain. Lab Invest 1986;
+55(2):234-243.
+12. Brassard P, Amiri F, Thibault G, Schiffrin EL. Role of angiotensin type-1 and
+angiotensin type-2 receptors in the expression of vascular integrins in
+angiotensin II-infused rats. Hypertension 2006; 47(1):122-127.
+13. Brenner BM. Nephron adaptation to renal injury or ablation. Am J Physiol 1985; 249(3
+Pt 2):F324-F337.
+
+64
+
+14. Brenner BM, Garcia DL, Anderson S. Glomeruli and blood pressure. Less of one,
+more the other? Am J Hypertens 1988; 1(4 Pt 1):335-347.
+15. Brenner BM, Mackenzie HS. Nephron mass as a risk factor for progression of renal
+disease. Kidney Int Suppl 1997; 63:S124-S127.
+16. Butler AA, LeRoith D. Minireview: tissue-specific versus generalized gene targeting of
+the igf1 and igf1r genes and their roles in insulin-like growth factor physiology.
+Endocrinology 2001; 142(5):1685-1688.
+17. Chevalier RL, Goyal S, Kim A, Chang AY, Landau D, LeRoith D. Renal
+tubulointerstitial injury from ureteral obstruction in the neonatal rat is
+attenuated by IGF-1. Kidney Int 2000; 57(3):882-890.
+18. Chevallier B, Lagarde A, Degrelle H, Belaisch-Allart J, Giraudet P, Gallet JP. Insulinlike growth factor binding protein 1 level in amniotic fluid: correlation with birth
+weight. Biol Neonate 1998; 73(6):404-406.
+19. Cowley AW, Jr., Mattson DL, Lu S, Roman RJ. The renal medulla and hypertension.
+Hypertension 1995; 25(4 Pt 2):663-673.
+20. Curtis JJ, Luke RG, Dustan HP, Kashgarian M, Whelchel JD, Jones P, et al.
+Remission of essential hypertension after renal transplantation. 1983. J Am
+Soc Nephrol 2000; 11(12):2404-2412.
+21. D'Ercole AJ, Stiles AD, Underwood LE. Tissue concentrations of somatomedin C:
+further evidence for multiple sites of synthesis and paracrine or autocrine
+mechanisms of action. Proc Natl Acad Sci U S A 1984; 81(3):935-939.
+22. Dahl LK, Heine M, Thompson K. Genetic influence of the kidneys on blood pressure.
+Evidence from chronic renal homografts in rats with opposite predispositions
+to hypertension. Circ Res 1974; 40(4):94-101.
+23. de Keijzer MH, Provoost AP, Molenaar JC. Glomerular hyperfiltration in hypertensive
+fawn-hooded rats. Ren Physiol Biochem 1988; 11(1-2):103-108.
+24. DeChiara TM, Efstratiadis A, Robertson EJ. A growth-deficiency phenotype in
+heterozygous mice carrying an insulin-like growth factor II gene disrupted by
+targeting. Nature 1990; 345(6270):78-80.
+25. Deutscher S, Epstein FH, Kjelsberg MO. Familial aggregation of factors associated
+with coronary heart disease. Circulation 1966; 33(6):911-924.
+26. Dodic M, Moritz K, Koukoulas I, Wintour EM. Programmed hypertension: kidney,
+brain or both? Trends Endocrinol Metab 2002; 13(9):403-408.
+27. Doublier S, Amri K, Seurin D, Moreau E, Merlet-Benichou C, Striker GE, et al.
+Overexpression of human insulin-like growth factor binding protein-1 in the
+mouse leads to nephron deficit. Pediatr Res 2001; 49(5):660-666.
+28. Duong Van Huyen JP, Amri K, Belair MF, Vilar J, Merlet-Benichou C, Bruneval P, et
+al. Spatiotemporal distribution of insulin-like growth factor receptors during
+nephrogenesis in fetuses from normal and diabetic rats. Cell Tissue Res 2003;
+314(3):367-379.
+
+65
+
+29. Ekblom M, Klein G, Mugrauer G, Fecker L, Deutzmann R, Timpl R, et al. Transient
+and locally restricted expression of laminin A chain mRNA by developing
+epithelial cells during kidney organogenesis. Cell 1990; 60(2):337-346.
+30. Fassi A, Sangalli F, Colombi F, Perico N, Remuzzi G, Remuzzi A. Beneficial effects of
+calcium channel blockade on acute glomerular hemodynamic changes
+induced by cyclosporine 84. Am J Kidney Dis 1999; 33(2):267-275.
+31. Fassi A, Sangalli F, Maffi R, Colombi F, Mohamed EI, Brenner BM, et al. Progressive
+glomerular injury in the MWF rat is predicted by inborn nephron deficit. J Am
+Soc Nephrol 1998; 9(8):1399-1406.
+32. Gaunt TR, Cooper JA, Miller GJ, Day IN, O'Dell SD. Positive associations between
+single nucleotide polymorphisms in the IGF2 gene region and body mass
+index in adult males. Hum Mol Genet 2001; 10(14):1491-1501.
+33. Gilbert T, Amri K L-PMMMRBVJeal. Insulin-like growth factor II (IGF-II) but not IGF-I
+stimulates in vitro nephron formation. J Am Soc Nephrol, 9:361A (abstract).
+1998. Ref Type: Generic
+34. Gilbert T, Lelievre-Pegorier M, Merlet-Benichou C. Immediate and long-term renal
+effects of fetal exposure to gentamicin. Pediatr Nephrol 1990; 4(4):445-450.
+35. Grim CE, Luft FC, Miller JZ, Brown PL, Gannon MA, Weinberger MH. Effects of
+sodium loading and depletion in normotensive first-degree relatives of
+essential hypertensives. J Lab Clin Med 1979; 94(5):764-771.
+36. Grond J, Beukers JY, Schilthuis MS, Weening JJ, Elema JD. Analysis of renal
+structural and functional features in two rat strains with a different
+susceptibility to glomerular sclerosis 80. Lab Invest 1986; 54(1):77-83.
+37. Guron G, Marcussen N, Nilsson A, Sundelin B, Friberg P. Postnatal time frame for
+renal vulnerability to enalapril in rats. J Am Soc Nephrol 1999; 10(7):15501560.
+38. Guyton AC, Coleman TG, Cowley AV, Jr., Scheel KW, Manning RD, Jr., Norman RA,
+Jr. Arterial pressure regulation. Overriding dominance of the kidneys in longterm regulation and in hypertension. Am J Med 1972; 52(5):584-594.
+39. Guyton AC, Coleman TG, Cowley AW, Jr., Liard JF, Norman RA, Jr., Manning RD, Jr.
+Systems analysis of arterial pressure regulation and hypertension 11. Ann
+Biomed Eng 1972; 1(2):254-281.
+40. Hackbarth H, Buttner D, Jarck D, Pothmann M, Messow C, Gartner K. Distribution of
+glomeruli in the renal cortex of Munich Wistar Fromter (MWF) rats 211. Ren
+Physiol 1983; 6(2):63-71.
+41. Hakim RM, Goldszer RC, Brenner BM. Hypertension and proteinuria: long-term
+sequelae of uninephrectomy in humans. Kidney Int 1984; 25(6):930-936.
+42. Hatini V, Huh SO, Herzlinger D, Soares VC, Lai E. Essential role of stromal
+mesenchyme in kidney morphogenesis revealed by targeted disruption of
+Winged Helix transcription factor BF-2. Genes Dev 1996; 10(12):1467-1478.
+43. Haycock GB. Development of glomerular filtration and tubular sodium reabsorption in
+the human fetus and newborn. Br J Urol 1998; 81 Suppl 2:33-38.
+66
+
+44. Hayden JM, Marten NW, Burke EJ, Straus DS. The effect of fasting on insulin-like
+growth factor-I nuclear transcript abundance in rat liver. Endocrinology 1994;
+134(2):760-768.
+45. Hellmann H, Davis JM, Thurau K. Glomerulus number and blood pressure in the
+Prague hypertensive rat 78. Kidney Int Suppl 1998; 67:S211-S212.
+46. Herington AC. Insulin-like growth factors: biochemistry and physiology. Baillieres Clin
+Endocrinol Metab 1991; 5(4):531-551.
+47. Hewitt SM, Hamada S, McDonnell TJ, Rauscher FJ, III, Saunders GF. Regulation of
+the proto-oncogenes bcl-2 and c-myc by the Wilms' tumor suppressor gene
+WT1. Cancer Res 1995; 55(22):5386-5389.
+48. Hirning U, Schmid P, Schulz WA, Rettenberger G, Hameister H. A comparative
+analysis of N-myc and c-myc expression and cellular proliferation in mouse
+organogenesis. Mech Dev 1991; 33(2):119-125.
+49. Hirschberg R, Adler S. Insulin-like growth factor system and the kidney: physiology,
+pathophysiology, and therapeutic implications. Am J Kidney Dis 1998;
+31(6):901-919.
+50. Horster MF, Braun GS, Huber SM. Embryonic renal epithelia: induction,
+nephrogenesis, and cell differentiation 167. Physiol Rev 1999; 79(4):11571191.
+51. Hostetter TH, Rennke HG, Brenner BM. The case for intrarenal hypertension in the
+initiation and progression of diabetic and other glomerulopathies. Am J Med
+1982; 72(3):375-380.
+52. Hoy WE, Bertram JF, Denton RD, Zimanyi M, Samuel T, Hughson MD. Nephron
+number, glomerular volume, renal disease and hypertension. Curr Opin
+Nephrol Hypertens 2008; 17(3):258-265.
+53. Hoy WE, Douglas-Denton RN, Hughson MD, Cass A, Johnson K, Bertram JF. A
+stereological study of glomerular number and volume: preliminary findings in a
+multiracial study of kidneys at autopsy. Kidney Int Suppl 2003; (83):S31-S37.
+54. Hoy WE, Kondalsamy-Chennakesavan S, Wang Z, Briganti E, Shaw J, Polkinghorne
+K, et al. Quantifying the excess risk for proteinuria, hypertension and diabetes
+in Australian Aborigines: comparison of profiles in three remote communities
+in the Northern Territory with those in the AusDiab study. Aust N Z J Public
+Health 2007; 31(2):177-183.
+55. Hughson M, Farris AB, III, Douglas-Denton R, Hoy WE, Bertram JF. Glomerular
+number and size in autopsy kidneys: the relationship to birth weight. Kidney
+Int 2003; 63(6):2113-2122.
+56. Hyink DP, Abrahamson DR. Origin of the glomerular vasculature in the developing
+kidney 2. Semin Nephrol 1995; 15(4):300-314.
+57. Iordache BE, Imberti O, Foglieni C, Remuzzi G, Bertani T, Remuzzi A. Effects of
+angiotensin-converting enzyme inhibition on glomerular capillary wall
+ultrastructure in MWF/Ztm rats 97. J Am Soc Nephrol 1994; 5(6):1378-1384.
+58. Julius S, Schork MA. Predictors of hypertension. Ann N Y Acad Sci 1978; 304:38-58.
+67
+
+59. Kaplan NM. Clinical Hypertension. Wiliams & Wilkins, Baltimore, USA, 5th Edition,
+1994 . 1994.
+60. Kaufmann K. Quantitative vergleichende Untersuchungen zur Bestimmung der
+Nierenkörperchenanzahl bei der Munich-Wistar-Frömter-Ratte und der WistarCryptorchic-Ratte. Hackbarth H. [Dtsch Tierärztl Wschr 1990;97:265-304],
+97:265-304. 1990.
+61. Keller G, Zimmer G, Mall G, Ritz E, Amann K. Nephron number in patients with
+primary hypertension. N Engl J Med 2003; 348(2):101-108.
+62. Kim SK, Kwon JY, Nam TJ. Involvement of ligand occupancy in Insulin-like growth
+factor-I (IGF-I) induced cell growth in osteoblast like MC3T3-E1 cells 328.
+Biofactors 2007; 29(4):187-202.
+63. Klag MJ, Whelton PK, Randall BL, Neaton JD, Brancati FL, Ford CE, et al. Blood
+pressure and end-stage renal disease in men. N Engl J Med 1996; 334(1):1318.
+64. Klapper DG, Svoboda ME, Van Wyk JJ. Sequence analysis of somatomedin-C:
+confirmation of identity with insulin-like growth factor I. Endocrinology 1983;
+112(6):2215-2217.
+65. Komhoff M, Wang JL, Cheng HF, Langenbach R, McKanna JA, Harris RC, et al.
+Cyclooxygenase-2-selective inhibitors impair glomerulogenesis and renal
+cortical development. Kidney Int 2000; 57(2):414-422.
+66. Kreidberg JA, Sariola H, Loring JM, Maeda M, Pelletier J, Housman D, et al. WT-1 is
+required for early kidney development. Cell 1993; 74(4):679-691.
+67. Kreutz R, Kovacevic L, Schulz A, Rothermund L, Ketteler M, Paul M. Effect of high
+NaCl diet on spontaneous hypertension in a genetic rat model with reduced
+nephron number. J Hypertens 2000; 18(6):777-782.
+68. Krumlauf R. Hox genes in vertebrate development. Cell 1994; 78(2):191-201.
+69. Kurokawa K. Kidney, salt, and hypertension: how and why. Kidney Int Suppl 1996;
+55:S46-S51.
+70. Langley SC, Jackson AA. Increased systolic blood pressure in adult rats induced by
+fetal exposure to maternal low protein diets. Clin Sci (Lond) 1994; 86(2):217222.
+71. Lazzaro D, De S, V, De ML, Lehtonen E, Cortese R. LFB1 and LFB3 homeoproteins
+are sequentially expressed during kidney development. Development 1992;
+114(2):469-479.
+72. Lee WH, Gaylord TD, Bowsher RR, Hlaing M, Moorehead H, Liechty EA. Nutritional
+regulation of circulating insulin-like growth factors (IGFs) and their binding
+proteins in the ovine fetus. Endocr J 1997; 44(1):163-173.
+73. Lelievre-Pegorier M, Vilar J, Ferrier ML, Moreau E, Freund N, Gilbert T, et al. Mild
+vitamin A deficiency leads to inborn nephron deficit in the rat. Kidney Int 1998;
+54(5):1455-1462.
+
+68
+
+74. LeRoith D, Clemmons D, Nissley P, Rechler MM. NIH conference. Insulin-like growth
+factors in health and disease. Ann Intern Med 1992; 116(10):854-862.
+75. Levine RS, Hennekens CH, Jesse MJ. Blood pressure in prospective population
+based cohort of newborn and infant twins. BMJ 1994; 308(6924):298-302.
+76. Li Z, Stuart RO, Qiao J, Pavlova A, Bush KT, Pohl M, et al. A role for Timeless in
+epithelial morphogenesis during kidney development. Proc Natl Acad Sci U S
+A 2000; 97(18):10038-10043.
+77. Lifton RP. Molecular genetics of human blood pressure variation. Science 1996;
+272(5262):676-680.
+78. Lindenbergh-Kortleve DJ, Rosato RR, van Neck JW, Nauta J, van KM, Groffen C, et
+al. Gene expression of the insulin-like growth factor system during mouse
+kidney development. Mol Cell Endocrinol 1997; 132(1-2):81-91.
+79. Liu JP, Baker J, Perkins AS, Robertson EJ, Efstratiadis A. Mice carrying null
+mutations of the genes encoding insulin-like growth factor I (Igf-1) and type 1
+IGF receptor (Igf1r). Cell 1993; 75(1):59-72.
+80. Liu ZZ, Wada J, Alvares K, Kumar A, Wallner EI, Kanwar YS. Distribution and
+relevance of insulin-like growth factor-I receptor in metanephric development.
+Kidney Int 1993; 44(6):1242-1250.
+81. Luft FC. Hypertensive nephrosclerosis: update. Curr Opin Nephrol Hypertens 2004;
+13(2):147-154.
+82. Lumbers ER, Yu ZY, Gibson KJ. The selfish brain and the barker hypothesis. Clin
+Exp Pharmacol Physiol 2001; 28(11):942-947.
+83. Mackenzie HS, Brenner BM. Fewer nephrons at birth: a missing link in the etiology of
+essential hypertension? Am J Kidney Dis 1995; 26(1):91-98.
+84. Mackenzie HS, Lawler EV, Brenner BM. Congenital oligonephropathy: The fetal flaw
+in essential hypertension? 17. Kidney Int Suppl 1996; 55:S30-S34.
+85. Manalich R, Reyes L, Herrera M, Melendi C, Fundora I. Relationship between weight
+at birth and the number and size of renal glomeruli in humans: a
+histomorphometric study. Kidney Int 2000; 58(2):770-773.
+86. Matsell DG, Bennett T. Evaluation of metanephric maturation in a human fetal kidney
+explant model. In Vitro Cell Dev Biol Anim 1998; 34(2):138-148.
+87. Matsell DG, Delhanty PJ, Stepaniuk O, Goodyear C, Han VK. Expression of insulinlike growth factor and binding protein genes during nephrogenesis. Kidney Int
+1994; 46(4):1031-1042.
+88. Merlet-Benichou C, Gilbert T, Muffat-Joly M, Lelievre-Pegorier M, Leroy B.
+Intrauterine growth retardation leads to a permanent nephron deficit in the rat.
+Pediatr Nephrol 1994; 8(2):175-180.
+89. Moreau E, Vilar J, Lelievre-Pegorier M, Merlet-Benichou C, Gilbert T. Regulation of cret expression by retinoic acid in rat metanephros: implication in nephron
+mass control. Am J Physiol 1998; 275(6 Pt 2):F938-F945.
+
+69
+
+90. Mugrauer G, Ekblom P. Contrasting expression patterns of three members of the myc
+family of protooncogenes in the developing and adult mouse kidney. J Cell
+Biol 1991; 112(1):13-25.
+91. Nilsson AB, Nitescu N, Chen Y, Guron GS, Marcussen N, Matejka GL, et al. IGF-I
+treatment attenuates renal abnormalities induced by neonatal ACE inhibition.
+Am J Physiol Regul Integr Comp Physiol 2000; 279(3):R1050-R1060.
+92. Novick AC, Gephardt G, Guz B, Steinmuller D, Tubbs RR. Long-term follow-up after
+partial removal of a solitary kidney. N Engl J Med 1991; 325(15):1058-1062.
+93. Nyengaard JR, Bendtsen TF. Glomerular number and size in relation to age, kidney
+weight, and body surface in normal man. Anat Rec 1992; 232(2):194-201.
+94. Ong K, Kratzsch J, Kiess W, Costello M, Scott C, Dunger D. Size at birth and cord
+blood levels of insulin, insulin-like growth factor I (IGF-I), IGF-II, IGF-binding
+protein-1 (IGFBP-1), IGFBP-3, and the soluble IGF-II/mannose-6-phosphate
+receptor in term human infants. The ALSPAC Study Team. Avon Longitudinal
+Study of Pregnancy and Childhood. J Clin Endocrinol Metab 2000;
+85(11):4266-4269.
+95. Ooi GT. Insulin-like growth factor-binding proteins (IGFBPs): more than just 1, 2, 3.
+Mol Cell Endocrinol 1990; 71(2):C39-C43.
+96. Raij L, Azar S, Keane WF. Role of hypertension in progressive glomerular immune
+injury 73. Hypertension 1985; 7(3 Pt 1):398-404.
+97. Rauchman M. The role of homeobox genes in kidney development. Curr Opin
+Nephrol Hypertens 2000; 9(1):37-42.
+98. Rees WD, Hay SM, Buchan V, Antipatis C, Palmer RM. The effects of maternal
+protein restriction on the growth of the rat fetus and its amino acid supply. Br J
+Nutr 1999; 81(3):243-250.
+99. Remuzzi A, Puntorieri S, Alfano M, Macconi D, Abbate M, Bertani T, et al.
+Pathophysiologic implications of proteinuria in a rat model of progressive
+glomerular injur 90. Lab Invest 1992; 67(5):572-579.
+100. Remuzzi A, Puntorieri S, Battaglia C, Bertani T, Remuzzi G. Angiotensin converting
+enzyme inhibition ameliorates glomerular filtration of macromolecules and
+water and lessens glomerular injury in the rat 208. J Clin Invest 1990;
+85(2):541-549.
+101. Rinderknecht E, Humbel RE. The amino acid sequence of human insulin-like growth
+factor I and its structural homology with proinsulin. J Biol Chem 1978;
+253(8):2769-2776.
+102. Rogers SA, Padanilam BJ, Hruska KA, Giachelli CM, Hammerman MR. Metanephric
+osteopontin regulates nephrogenesis in vitro 318. Am J Physiol 1997; 272(4
+Pt 2):F469-F476.
+103. Rogers SA, Powell-Braxton L, Hammerman MR. Insulin-like growth factor I regulates
+renal development in rodents. Dev Genet 1999; 24(3-4):293-298.
+
+70
+
+104. Rogers SA, Ryan G, Hammerman MR. Insulin-like growth factors I and II are
+produced in the metanephros and are required for growth and development in
+vitro. J Cell Biol 1991; 113(6):1447-1453.
+105. Rovira-Halbach G, Alt JM, Brunkhorst R, Frei U, Kuhn K, Stolte H. Single nephron
+hyperfiltration and proteinuria in a newly selected rat strain with superficial
+glomeruli 68. Ren Physiol 1986; 9(6):317-325.
+106. Ryan G, Steele-Perkins V, Morris JF, Rauscher FJ, III, Dressler GR. Repression of
+Pax-2 by WT1 during normal kidney development. Development 1995;
+121(3):867-875.
+107. Sealey JE, Blumenfeld JD, Bell GM, Pecker MS, Sommers SC, Laragh JH. On the
+renal basis for essential hypertension: nephron heterogeneity with discordant
+renin secretion and sodium excretion causing a hypertensive vasoconstrictionvolume relationship. J Hypertens 1988; 6(10):763-777.
+108. Shimasaki S, Shimonaka M, Zhang HP, Ling N. Identification of five different insulinlike growth factor binding proteins (IGFBPs) from adult rat serum and
+molecular cloning of a novel IGFBP-5 in rat and human. J Biol Chem 1991;
+266(16):10646-10653.
+109. Skov K, Nyengaard JR, Korsgaard N, Mulvany MJ. Number and size of renal
+glomeruli in spontaneously hypertensive rats. J Hypertens 1994; 12(12):13731376.
+110. Stanton BR, Perkins AS, Tessarollo L, Sassoon DA, Parada LF. Loss of N-myc
+function results in embryonic lethality and failure of the epithelial component of
+the embryo to develop. Genes Dev 1992; 6(12A):2235-2247.
+111. Sterzel RB, Luft FC, Gao Y, Schnermann J, Briggs JP, Ganten D, et al. Renal
+disease and the development of hypertension in salt-sensitive Dahl rats 195.
+Kidney Int 1988; 33(6):1119-1129.
+112. Stewart CE, Rotwein P. Growth, differentiation, and survival: multiple physiological
+functions for insulin-like growth factors. Physiol Rev 1996; 76(4):1005-1026.
+113. Torres VE, Offord KP, Anderson CF, Velosa JA, Frohnert PP, Donadio JV, Jr., et al.
+Blood pressure determinants in living-related renal allograft donors and their
+recipients. Kidney Int 1987; 31(6):1383-1390.
+114. Vaessen N, Janssen JA, Heutink P, Hofman A, Lamberts SW, Oostra BA, et al.
+Association between genetic variation in the gene for insulin-like growth
+factor-I and low birthweight. Lancet 2002; 359(9311):1036-1037.
+115. Veersema D, de Jong PA, van Wijck JA. Indomethacin and the fetal renal nonfunction
+syndrome. Eur J Obstet Gynecol Reprod Biol 1983; 16(2):113-121.
+116. Vehaskari VM, Aviles DH, Manning J. Prenatal programming of adult hypertension in
+the rat 133. Kidney Int 2001; 59(1):238-245.
+117. Verhulst A, Asselman M, Persy VP, Schepers MS, Helbert MF, Verkoelen CF, et al.
+Crystal retention capacity of cells in the human nephron: involvement of CD44
+and its ligands hyaluronic acid and osteopontin in the transition of a crystal
+binding- into a nonadherent epithelium146. J Am Soc Nephrol 2003;
+14(1):107-115.
+71
+
+118. Vilar J, Gilbert T, Moreau E, Merlet-Benichou C. Metanephros organogenesis is
+highly stimulated by vitamin A derivatives in organ culture. Kidney Int 1996;
+49(5):1478-1487.
+119. Voyer LE, Drut R, Mendez JH. Fetal renal maldevelopment with oligohydramnios
+following maternal use of piroxicam. Pediatr Nephrol 1994; 8(5):592-594.
+120. Wang HS, Lee CL, Chard T. Levels of insulin-like growth factor-I and insulin-like
+growth factor-binding protein-1 in pregnancy with preterm delivery. Br J Obstet
+Gynaecol 1993; 100(5):472-475.
+121. Wang ZY, Madden SL, Deuel TF, Rauscher FJ, III. The Wilms' tumor gene product,
+WT1, represses transcription of the platelet-derived growth factor A-chain
+gene. J Biol Chem 1992; 267(31):21999-22002.
+122. Watnick TJ, Jenkins RR, Rackoff P, Baumgarten A, Bia MJ. Microalbuminuria and
+hypertension in long-term renal donors. Transplantation 1988; 45(1):59-65.
+123. Weller A, Sorokin L, Illgen EM, Ekblom P. Development and growth of mouse
+embryonic kidney in organ culture and modulation of development by soluble
+growth factor144. Dev Biol 1991; 144(2):248-261.
+124. Wintour EM, Johnson K, Koukoulas I, Moritz K, Tersteeg M, Dodic M. Programming
+the cardiovascular system, kidney and the brain--a review. Placenta 2003; 24
+Suppl A:S65-S71.
+125. Woods KA, Camacho-Hubner C, Savage MO, Clark AJ. Intrauterine growth
+retardation and postnatal growth failure associated with deletion of the insulinlike growth factor I gene. N Engl J Med 1996; 335(18):1363-1367.
+126. Woods LL, Ingelfinger JR, Nyengaard JR, Rasch R. Maternal protein restriction
+suppresses the newborn renin-angiotensin system and programs adult
+hypertension in rats. Pediatr Res 2001; 49(4):460-467.
+127. Xie Z, Singh M, Singh K. ERK1/2 and JNKs, but not p38 kinase, are involved in
+reactive oxygen species-mediated induction of osteopontin gene expression
+by angiotensin II and interleukin-1beta in adult rat cardiac fibroblasts 145. J
+Cell Physiol 2004; 198(3):399-407.
+128. Young RJ, Hoy WE, Kincaid-Smith P, Seymour AE, Bertram JF. Glomerular size and
+glomerulosclerosis in Australian aborigines. Am J Kidney Dis 2000; 36(3):481489.
+129. Zent R, Bush KT, Pohl ML, Quaranta V, Koshikawa N, Wang Z, et al. Involvement of
+laminin binding integrins and laminin-5 in branching morphogenesis of the
+ureteric bud during kidney development 321. Dev Biol 2001; 238(2):289-302.
+
+72
+
+7 Abkürzungsverzeichnis
+Abb.
+
+Abbildung
+
+ACE
+
+Angiotensin-Konversionsenzyms
+
+AngII
+
+Angiotensin II
+
+Agt
+
+Angiotensinogen
+
+AT1
+
+Angiotensin II-Rezeptor Typ 1
+
+Bcl-2
+
+Bcl-2 Protoonkogen
+
+CAM
+
+Cell adhesion molecule
+
+CD44
+
+CD44-Rezeptor
+
+Ct-Wert
+
+Cycle threshold, Zyklusschwellenwert
+
+D(x)
+
+Postnataler Tag x
+
+E(x)
+
+Embryonaltag x
+
+ECM
+
+Extrazelluläre Matrix
+
+FAM
+
+Reporter-Farbstoff (Fluoreszein-Derivat)
+
+FGF
+
+Basic fibro-blast growth factor
+
+FRET
+
+Fluorescence resonance energy transfer
+
+GBM
+
+Glomeruläre Basalmembran
+
+GF
+
+Growth factor
+
+GFR
+
+Glomeruläre Filtrationsrate
+
+HGF
+
+Hepatocyte growth factor
+
+HT
+
+Hypertonus
+
+IGF-I, -II
+
+Insulin-like growth factor-I, -II
+
+IGF-I-R, -II-R
+
+Insulin-like growth factor receptor –I, -II
+
+IGFBP-1, -3
+
+Insulin-like growth factor binding protein -1, -3
+
+IGF-System
+
+Insulin-like growth factor-System
+
+Kf
+
+Ultrafiltrationskoeffizient
+
+MET
+
+Mesenchymal-epithelialer Übergang
+
+MM
+
+Metanephrogenes mesenchymales Blastem/
+Metanephritisches Mesenchym/ Blastem
+
+OPN
+
+Osteopontin
+
+PCR
+
+Polymerasekettenreaktion
+
+PGC
+
+Intraglomerulärer Druck
+
+RGD Sequenz
+
+Peptidsequenz (Arginin-Glycin-Aspartate)
+
+RAS
+
+Renin-Angiotensin-System
+73
+
+RAT PCR
+
+Quantitative
+
+real-time
+
+Polymeraseketten-
+
+reaktion
+RPF
+
+Renaler Plasmafluß
+
+SN GFR
+
+Einzelnephron-GFR
+
+SSW
+
+Schwangerschaftswoche
+
+TAMRA
+
+Quencher-Farbstoff (Rhodamin-Derivat)
+
+TGF-β
+
+Transforming growth factor-β
+
+UB
+
+Ureterknospe (UB)
+
+74
+
+8 Eidestattliche Erklärung
+Hiermit erkläre ich an Eides Statt, dass die Dissertation von mir selbst und ohne die
+unzulässige Hilfe Dritter verfasst wurde. Auch in Teilen stellt sie keine Kopie anderer
+Arbeiten dar und die benutzten Hilfsmittel sowie die Literatur sind vollständig
+angegeben.
+Berlin, 30.09.2010
+Florian Freese
+
+75
+
+9 Danksagung
+Für die Überlassung dieses Themas, für die hervorragende und langjährige
+Betreuung und Unterstützung, für den immer vorhandenen Optimismus möchte ich
+meinem Doktorvater Lars Rothermund an dieser Stelle ganz herzlich danken. In allen
+Phasen dieser Arbeit stand er mir mit gutem Rat zur Seite und auch nach
+geographischer Trennung hat er seinen Doktoranden nicht aus dem Auge verloren.
+Danke.
+Mein Dank gilt Prof. Dr. Reinhold Kreutz und den Mitarbeitern der Abteilung für
+klinische Pharmakologie für die Unterstützung bei der Lösung wissenschaftlicher
+Fragen und Probleme und die Überlassung von Geräten und Räumlichkeiten.
+Olaf Fialkowski und Dr. Markus Wehland – von Tebra möchte ich für die geduldige
+und exzellente Betreuung im Erlernen diverser Methoden und bei der Beantwortung
+molekularbiologischer Fragen herzlichst danken.
+Den Doktoranden in meiner Arbeitsgruppe und mittlerweile Kollegen Susanne
+Mieschel, Ricarda Ibscher, Anne Schnieber und Jan Ebersohn möchte ich ebenfalls
+meinen Dank aussprechen.
+Meinen Eltern und meiner Schwester schulde ich den größten Dank. Sie standen mir
+überall und zu jeder Zeit zur Seite.
+Nicht zuletzt gilt mein besonderer Dank Friederike und Ihren Eltern, die mir in der
+letzten Phase dieser Arbeit zur Seite gestanden haben.

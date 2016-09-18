@@ -1,0 +1,3644 @@
+Aus dem Universitätsklinikum Münster
+Klinik und Poliklinik für Mund – und Kiefer – Gesichtschirurgie
+Direktor: Prof. Dr. Dr. Dr. Ulrich Joos
+
+EGFR und HER2/neu Expression im
+oralen Plattenepithelkarzinom
+
+INAUGURAL - DISSERTATION
+zur
+Erlangung des doctor medicinae dentium
+der Medizinischen Fakultät
+der Westfälischen Wilhelms-Universität Münster
+
+vorgelegt von
+Nils Grunert geb.Masuch
+aus Bielefeld
+2010
+
+Gedruckt mit Genehmigung der
+Medizinischen Fakultät der Westfälischen Wilhelms-Universität Münster
+
+Dekan: Univ.-Prof. Dr. med. W. Schmitz
+1. Berichterstatter: Univ.-Prof. Dr. med. A. Bankfalvi
+2. Berichterstatter: Univ.-Prof. Dr. med. Dr. med. dent. Dr.h.c. U. K. Joos
+Tag der mündlichen Prüfung: 09.07.2010
+
+Aus dem Universitätsklinikum Münster
+Klinik und Poliklinik für Mund – und Kiefer – Gesichtschirurgie
+Direktor: Univ.-Prof. Dr. Dr. Dr. Ulrich Joos
+Referent: Univ.- Prof. Dr. Agnes Bankfalvi
+Koreferent: Univ.-Prof. Dr. Dr. Dr. Ulrich Joos
+
+Zusammenfassung
+EGFR und HER2/neu Expression im Oralen Plattenepithelkarzinom
+Nils Grunert
+
+In der vorliegenden Studie wurde der Frage nachgegangen, in welchem quantitativen Ausmaß bei oralen Plattenepithelkarzinomen eine EGFR–Überexpression
+und
+
+speziell
+
+eine
+
+HER2/neu-Überexpression
+
+sowie
+
+eine
+
+HER2/neu-
+
+Genamplifikation vorkommt. Darüber hinaus wurde überprüft, ob die HER2/neuÜberexpression bzw. -Genamplifikation einen Einfluss auf die Prognose der betroffenen Patienten besitzt. Ferner wurde die Auswirkungen der EGFR–
+Überexpression auf das Überleben der Patienten hin untersucht. Übergeordnetes
+Ziel war es, die prognostische Signifikanz der HER2/neu-Überproduktion bei
+Oralkarzinomen zu analysieren, um das Protein als mögliches Zielmolekül zu
+identifizieren. MATERIAL UND METHODE: In der vorliegenden Arbeit wurden
+153 orale Plattenepithelkazinome, sowie 19 Metastasen in Form von Tissue Mikroarrays mittels Immunohistochemie und Fluoreszenz-in-situ-Hybridisierung
+(FISH) untersucht. ERGEBNISSE: Immunhistochemisch wurde eine HER2/neuÜberexpression von 28,1%: stark (3+) 3,3% / moderat ( 2+) 24,8% und eine
+EGFR-Überexpession in 33%: stark ( 3+) 7,2 % / moderat (2+) 26,1% der Tumoren nachgewiesen. Mittel FISH-Analyse konnte bei keinem der Tumoren eine
+starke Genamplifikation des HER2/neu-Gens detektiert werden. Es konnte keine
+signifikante Korrelation zwischen HER2/neu Expression und dem Überleben der
+Patienten nachgewiesen werden. Ferner konnten auch keine signifikanten Unterschiede zwischen den Geschlechtern und anderen tumorspezifischen Charakteristika festgestellt werden. SCHLUSSFOLGERUNG: Angesichts des geringen
+Anteils
+
+oraler
+
+Plattenepithelkarzinomen
+
+die
+
+eine
+
+starke
+
+HER2/neu-
+
+Überexpression aufwiesen, erscheint diese Krebsart für eine Herceptin® Behandlung nicht geeignet. Erfolgsversprechender erscheint hier jedoch eine
+Therapie mit Erbitux®, da dieses über den EGF-Rezeptor ansetzt, der bei unseren Untersuchungen in 33% der Tumoren überexprimiert war.
+Tag der mündlichen Prüfung: 09.07.2010
+
+Meiner Familie gewidmet
+
+Inhalt
+1
+
+Einleitung .......................................................................................... 1
+
+1.1
+
+Definition des oralen Plattenepithelkarzinoms................................... 1
+
+1.2
+
+Epidemiologie.................................................................................... 2
+
+1.3
+
+Ätiologie ............................................................................................ 3
+
+1.5
+
+Makroskopische Morphologie............................................................ 5
+
+1.6
+
+Tumorausbreitung und Metastasierung............................................. 6
+
+2
+
+Prognose und Therapie..................................................................... 7
+
+2.1
+
+Prognose........................................................................................... 7
+
+2.1.1 Anatomische Prognoseparameter Lokalisation des Primärtumors... 7
+2.1.2 Klassische klinische Prognoseparameter Staging............................ 8
+2.1.3 Tumor-Node-Metastasis [TNM-System] ............................................ 8
+2.1.4 WHO ................................................................................................ 9
+2.1.5 Therapieabhängiger Prognoseindex (TPI) ..................................... 10
+2.1.
+
+Invasionsfrontgrading nach Bryne................................................. 10
+
+2.1.7 Die EGF-Rezeptor Familie ............................................................ 12
+2.1.7 EGFR und HER2/neu in der Tumorentstehung............................. 14
+2.1.8 HER2/neu als potenzieller neuer Prognosefaktor ......................... 14
+2.2
+
+Therapie ........................................................................................ 15
+
+3
+
+Material und Methode ................................................................... 17
+
+3.1
+
+Patientenkollektiv .......................................................................... 17
+
+3.2
+
+Präparation der Gewebeschnitte................................................... 17
+
+3.3
+
+Immunhistochemische Untersuchungsmethoden.......................... 21
+
+3.3.1 Halb automatische immunhistochemische Färbemethode ............ 21
+3.3.2 Vollautomatische immunhistochemische Färbemethode .............. 22
+3.4
+
+FISH-Analyse.................................................................................24
+
+3.5
+
+Statistische Auswertung .................................................................. 26
+
+4
+
+Ergebnisse ...................................................................................... 27
+
+4.1
+
+Expressionsmuster der Rezeptoren ................................................ 27
+
+4.2
+
+Ausschlusskriterien ......................................................................... 27
+
+4.3
+
+Immunhistochemische EGFR-Färbeergebnisse.............................. 28
+
+4.4
+
+FISH Darstellungen des HER2/neu Genstatus. .............................. 29
+
+4.5
+
+Alters- und Geschlechtsverteilung................................................... 29
+
+4.5.1 Einfluss des Geschlechtes auf die Überlebenszeit.......................... 32
+4.5.2 Verhältnis Tumor – Differenzierungsgrad nach WHO zur
+Überlebenszeit. ........................................................................................ 33
+4.5.3 HER2/neu Expression im halbautomatischen Verfahren (AK
+A0485)...................................................................................................... 35
+4.5.4 HER2/neu Expression im vollautomatischen Verfahren (AK CB11) 36
+4.5.5 Kaplan-Meier Überlebensanalyse-/-Anfärbbarkeit von HER2/neu
+Rezeptoren mit der voll-automatischen Methode ..................................... 37
+4.5.6 Immunhistochemische Expression der EGF- Rezeptoren............... 38
+4.5.7 Überlebenszeit in Abhängigkeit von der EGFR- Expression. .......... 40
+4.6
+
+Metastasen...................................................................................... 41
+
+4.6.1 HER2/neu Expression in den Metastasen beim halbautomatischen
+Verfahren ( AK A0485)............................................................................. 41
+4.6.2 HER2/neu Expression in den Metastasen beim vollautomatischen
+Verfahren (AK CB 11) .............................................................................. 41
+4.6.3 EGFR – Expression in den Metastasen .......................................... 42
+5
+
+Diskussion....................................................................................... 43
+
+5.1
+
+Patienten- und Tumorcharakteristika .............................................. 43
+
+5.2
+
+Die Rolle des HER2/neu Rezeptors in malignen Tumoren.............. 45
+
+5.2.1 Nachweismethoden von HER2/neu Rezeptoren im oralen
+Plattenepithelkarzinom............................................................................. 45
+5.3
+
+Immunhistochemie .......................................................................... 46
+
+5.3.1 Darstellbarkeit des HER-2/neu-Status mit immunhistochemischen
+Untersuchungsmethoden ......................................................................... 46
+5.3.2 Bewertung der Immunhistochemie zur Darstellbarkeit von HER2/neu
+....................................................................................................47
+5.4
+
+Fluoreszenz-in-situ-Hybridisierung (FISH) ...................................... 48
+
+5.4.1 FISH zur Bestimmung des HER-2/neu-Status ................................ 48
+5.4.2 Bewertung der FISH zur Darstellbarkeit von HER2/neu.................. 49
+5.5
+
+Vergleich von IHC und FISH ........................................................... 50
+
+5.6
+
+Wertigkeit von IHC und FISH .......................................................... 51
+
+5.7
+
+Die Rolle des EGFR........................................................................ 51
+
+5.7.1 EGFR als Prognosefaktor ............................................................... 52
+5.8
+
+Therapeutische Möglichkeiten......................................................... 53
+
+6
+
+Zusammenfassung ......................................................................... 55
+
+7
+
+Literaturverzeichnis ......................................................................... 57
+
+8
+
+Anhang............................................................................................ 70
+
+8.2
+
+Tabellenverzeichnis ........................................................................ 72
+
+8.3
+
+Danksagung.....................................................................................73
+
+7.3
+
+Lebenslauf ( entfernt) ...................................................................... 74
+
+Einleitung
+1
+
+1
+
+Einleitung
+
+In Deutschland erkranken jährlich 300.000 Menschen neu an Krebs, bei ca.
+80.000 verläuft diese Neuerkrankung tödlich. Weltweit entstehen über 500.000
+Neoplasien allein im Kopf-Halsbereich, hierbei hat das Plattenepithelkarzinom
+mit bis zu 90% (Neville und Day 2002; Weinberg 2002) die bedeutendste Rolle.
+Laut WHO beträgt die Mortalität bis zu 60%. Der Leidensdruck aller Erkrankten
+ist als sehr hoch einzustufen (Aarstad et al. 2005; Gouin et al. 2007), da begleitend zur Diagnose eine große therapiebedingte Belastung sowie lebenslange
+Nachuntersuchungen auf die Patienten zukommen. In den letzten Jahren ließ
+sich im Bereich der Diagnostik und Therapie neben den klassischen Einteilungen in Größe, Gewebeart oder Ausdehnung ein Trend zu individuelleren Prognose und Therapiewegen erkennen. So nehmen spezielle Biomarker hier einen
+an Bedeutung wachsenden Raum ein. Im Bereich der Mammakarzinomforschung zeigt die Verbesserung diagnostischer Marker und therapeutisch verwendbarer Antikörper große Erfolge. Ziel dieser Arbeit war es, abzuklären, ob
+die erfolgreichen Therapieansätze der Mammakarzinomforschung auf die Therapie des Plattenepithelkarzinom übertragbar sind, speziell unter Berücksichtigung der Rolle der EGF-Rezeptoren und hier besonders des HER2/neuRezeptors. Grundlage hierfür ist der Nachweis von der Expression bzw. einer
+Überexpression der Rezeptoren.
+
+1.1
+
+Definition des oralen Plattenepithelkarzinoms
+
+Das orale Plattenepithelkarzinom ist ein maligner Tumor, der als bösartige epitheliale Geschwulst definiert ist, die vom Plattenepithel der Mundhöhlen- und
+Zungenschleimhaut ausgeht und die Fähigkeit zur lymphogenen Metastasierung besitzt. Es entsteht meist auf unveränderter Mukosa oder seltener auf dem
+Boden vorbestehender Dysplasien, wie z. B. Leukoplakien (Noltenius et al.
+1987). Klinisch zeigt sich eine maligne Geschwulst insbesondere in einer raschen und zunächst schmerzfreien Gewebszunahme. Die Zellen wachsen invasiv in die Umgebung. Die überwiegende Anzahl aller oralen Plattenepithelkarzi-
+
+Einleitung
+
+2
+
+nome sind mittelgradig bis gut differenziert. Die zwiebelschalenartig aufgebauten, zentral verhornten Stachelzellen treten histologisch in unterschiedlich großen Verbänden auf. Es lassen sich Unterschiede in den atypischen Mitoseraten
+sowie in den hyperchromatischen Zellkernen finden (Grundmann 1994).
+
+1.2
+
+Epidemiologie
+
+Sechs Prozent aller Krebserkrankungen sind Mundhöhlenkarzinome (Neville
+und Day 2002). In Westeuropa und Deutschland ist bei der Inzidenz und Mortalität der Mundhöhlenkarzinome seit den siebziger Jahren des letzten Jahrhunderts ein deutlicher Anstieg zu beobachten (Batzler et al. 2002). Die Häufigkeitsverteilung von Mundhöhlenkarzinomen zeigt ausgeprägte geographische
+Variationen. Die Mehrheit aller Neoplasien der Mundhöhle treten in Indien auf.
+Ferner lassen sich auch innerhalb von Europa eindeutige Unterschiede erkennen. So sind die Inzidenzraten oraler Neoplasien in der Schweiz im Vergleich
+zu Deutschland doppelt so hoch und in Frankreich oder Irland viermal höher als
+in der Bundesrepublik oder im dänischen Königreich (Muir et al. 1997). Im Vergleich mit den Erkrankungsraten anderer EU-Länder liegt die Inzidenz in
+Deutschland für Männer und für Frauen im mittleren Bereich. Sie wird insbesondere bei den Männern von den Raten in Frankreich, Spanien, Portugal und
+Luxemburg übertroffen, bei den Frauen von denen in Luxemburg, Dänemark,
+den Niederlanden, Österreich und Frankreich. Die niedrigste Inzidenz in den
+EU-Ländern wird sowohl für Männer als auch für Frauen in Griechenland ermittelt. Auch in anderen europäischen Ländern erkranken Männer deutlich häufiger
+an Mundhöhlen- und Rachenkrebs als Frauen. Das mittlere Erkrankungsalter
+liegt für Männer bei vergleichsweise niedrigen 59, für Frauen bei 63 Jahren. Die
+höchste Erkrankungsrate für 55- bis 59-jährige Männer ist mehr als viermal höher als die entsprechende Erkrankungsrate der Frauen. Die geschätzte Zahl der
+jährlichen Neuerkrankungen in Deutschland ist bei Männern mit etwa 7.650
+mehr als doppelt so hoch wie bei Frauen mit 2.950 (Batzler et al 2002). Damit
+stehen Krebserkrankungen der Mundhöhle und des Rachens hinsichtlich der
+Erkrankungshäufigkeit bei Männern an siebter Stelle. Ihr Anteil an den durch
+Krebs bedingten Sterbefällen beträgt 3,3%.
+
+Einleitung
+1.3
+
+3
+
+Ätiologie
+
+Dass es einen signifikanten Zusammenhang zwischen dem Auftreten des Oralkarzinoms und dem Alkohol- und insbesondere dem Tabakkonsum besteht, ist
+seit langer Zeit bekannt (Miller 1974; Wynder und Stellmann 1977). Allein diesen beiden Noxen sind geschätzte 80% aller Oralkarzinome zuzuordnen (La
+Vecchia et al. 1997). Bezugnehmend auf den Tabakkonsum ist es der Gruppe
+um Blot et al. (1988) gelungen anhand der Anamnesedaten der Patienten eine
+Dosis-Wirkungsbeziehung zu erstellen. Die Wahrscheinlichkeit eines starken
+Rauchers (über 20 Zigaretten pro Tag), ein Oralkarzinom zu entwickeln ist fünf
+Mal so hoch wie die eines Nichtrauchers (Martinez 1996). Die kanzerogene
+Wirkung des Alkohols ist ungleich schwerer zu beurteilen. Laut Zöller (1995)
+sollte Alkohol eher als „Kokarzinogen“ Beachtung finden, da 90% aller stark
+trinkenden Personen auch Raucher sind oder waren. Eine epidemiologische
+Studie weist ein bis zu zehnfach höheres Risiko für den starken Trinker aus
+(Wynder et al. 1957). Eine andere Studie hat herausgefunden, dass Alkohol in
+Form von Wein sogar das Oralkarzinomrisiko senken kann (La Vecchia et al.
+1997). Aus derselben Studie geht hervor, dass Alkohol und Tabak zusammen
+eingenommen eine Multiplikation des hundertvierzigfachen des ursprünglichen
+Risikos bewirken können (La Vecchia et al. 1997). Obwohl Tabak- und Alkoholkonsum die beiden Hauptrisikofaktoren sind und deren schädliche Wirkungen
+sich zudem potenzieren, entwickelt nur eine Minderheit aller Menschen, die
+beiden Wirkstoffen ausgesetzt sind, ein Karzinom. Dies erlaubt die Unterstützung des Konzeptes, dass zwischen einzelnen Individuen große Unterschiede
+in der genetischen Vulnerabilität gegenüber Karzinogenen bestehen.
+Bemerkenswert ist, dass Frankreich und Griechenland ein etwa gleiches Konsumverhalten beim Alkohol und Tabak aufweisen, Frankreich aber die europäische Spitze der Inzidenz bildet, während Griechenland den letzten Platz besetzt. Es müssen also noch andere ätiologische Faktoren wirksam werden. Hier
+seien physikalische Faktoren wie UV-Lichtexpositionen, chronische Infekte oder
+mechanische Faktoren wie Prothesen, kariöse Zähne oder Wangen, Lippen und
+Zungenbeißen erwähnt (Riede und Schäfer 1993; Grimm 1990). Dem Olivenöl
+werden häufig karzinompräventive Eigenschaften unterstellt. Dies könnte eine
+
+Einleitung
+
+4
+
+Erklärung dafür sein, dass Griechenland am Ende der Negativliste rangiert. In
+Indien kommt das Kauen von Betelnüssen als weiterer Risikofaktor hinzu (Parkin et al.1984). Ein weiterer diskutierter Risikofaktor für die Entstehung eines
+oralen Plattenepithelkarzinoms liegt in einer Infektion mit dem Humanen Papilloma Virus (HPV) (Lind et al. 1986). Die exakten Zusammenhänge zwischen
+dem Plattenepithelkarzinom der Mundhöhle und dem Auftreten von HPV konnten trotz zahlreicher Studien (Miller und Johnstone 2001; Syrjanen 2002; Giovanelli et al. 2002; Ringstrom et al. 2002) nicht eindeutig aufgezeigt werden.
+Allerdings sind die Tumoren der HPV-Patienten strahlensensibler und prognostisch besser als das klassische Klientel (Sisk et al. 2000; Chen et al. 2002). Zur
+Diskussion stehen des Weiteren berufliche Expositionen gegenüber Schadstoffen wie z. B. Farben, Lacke, Lösungsmittel, Asbest und weiteren Stäuben sowie
+auch eine lang dauernde Verunreinigung der Wohnraumluft mit karzinogenen
+Substanzen. Begünstigend wirkt sich zusätzlich ein vergleichsweise geringer
+Genuss von Obst, Salat und Milchprodukten für die Entstehung von malignen
+Tumoren der Mundhöhle aus (Maier und Sennewald 1994).
+
+1.4 Vorstufen des Plattenepithelkarzinoms und der präkanzerösen Konditionen
+
+Zu den Präkanzerosen gehören die sideropenische Dysphagie (PlummerVinson-Syndrom), verschiedene Formen des Lichens oder die Syphilis (Seifert
+et al. 2000). Präkanzeröse Läsionen sind histologisch definierte Veränderungen. Folgende histologische Veränderungen können zur Diagnose einer
+Dysplasie beitragen:
+• Veränderte Kern-Plasma-Relation
+• Vermehrte Anzahl von Mitosen,
+• Verlust der Polarität der Basalzellen
+• Atypische Mitosen
+• Auftreten von Mitosen in der oberen Hälfte des Epithels
+• Zelluläre und nukleäre Pleomorphie
+• Auflösung von Zelladhäsionen
+
+Einleitung
+
+5
+
+Kommen vermehrt Atypien und atypische Mitosen hinzu, wird ein Carcinoma in
+situ diagnostiziert (Seifert et al. 2000). Dabei ist die Basalmembran noch intakt.
+Zu den präkanzerösen Konditionen gehören Zustände oder Krankheiten, die ein
+erhöhtes Krebsrisiko in sich bergen. Von der WHO werden sieben Erkrankungen aufgeführt, die mit einem erhöhten Risiko der Entwicklung oraler Plattenepithelkarzinome vergesellschaftet sind.
+Das klinische Bild einer präkanzerösen Läsion erlaubt eine Beurteilung der
+Dignität nur in einem sehr begrenzten Umfang. In jedem Fall ist eine histologische Untersuchung mit Beurteilung des Dysplasiegrades notwendig (Bankfalvi
+2006).
+
+1.5 Makroskopische Morphologie
+
+Grundsätzlich kommt das orale Plattenepithelkarzinom in zwei sich morphologisch und prognostisch unterscheidenden Varianten vor (Grimm 1990; Riedel
+und Schäfer ; Mittermayer 1993):
+1 ulzeröse Form,
+2 verruköse oder papillomatöse Form.
+Mit 99% ist die ulzeröse Form weitaus häufiger, ihr Wachstum ist endophytisch
+– der Tumor dringt infiltrierend in das Gewebsbett ein. Ein geschwüriger Zerfallskrater ist typisch für die frühzeitige Gewebevermehrung, welche durch die
+Gewebszerstörung abgelöst wird. Die allgemein schlechte Prognose dieser
+Tumorart ist zudem stark von seiner Lokalisation abhängig.
+Die vergleichsweise wenig aggressive verruköse oder papillomatöse Form weist
+ein exophytisches Wachstum auf, welches deutlich später zur Metastasierung
+neigt.
+
+Einleitung
+
+6
+
+1.6 Tumorausbreitung und Metastasierung
+
+Im Allgemeinen zeigt das Plattenepithelkarzinom der Mundhöhle einen progressiven Verlauf, so dass, je nach Lokalisation früher oder später, die Kieferknochen infiltriert werden. Die primäre Metastasierung wird durch die gut verzweigten Lymphabflussnetze im Bereich des Mundhöhlenbodens sowie der Halsregion und der Mundhöhlenwandungen zusätzlich begünstigt (Schwenzer 1994).
+Über 50% metastasieren in die regionären Lymphknoten, hierbei zunächst in
+die submandibulären und submentalen, später dann in die Lymphknoten entlang der Vena jugularis. Der Weg zur hämatogenen Metastasierung entsteht
+entweder über einen direkten Tumoreinbruch in meist kleinere Gefäße (überwiegend Venen) oder über den Ductus thoracicus in das Venensystem und somit zur Lunge (Bartsch et al. 1996). Die 5-Jahres-Überlebenszeit beläuft sich
+durchschnittlich nur auf 40-50 %. Hierdurch wird die zur Prognose eminente
+Bedeutung einer guten Früherkennung deutlich (Howaldt et al. 1991).
+
+Prognose und Therapie
+
+7
+
+2
+
+Prognose und Therapie
+
+2.1
+
+Prognose
+
+2.1.1 Anatomische Prognoseparameter Lokalisation des Primärtumors
+
+Die Mundhöhlenkarzinomen lassen sich unter topographischen Gesichtspunkten in
+sechs anatomische Bezirke gliedern (Angaben entsprechen der UICC (Union Internationale Contra le Cancer, Speissl et al.1992)):
+
+I. Mundschleimhaut
+
+1) Schleimhaut der Ober- und Unterlippe
+2) Wangenschleimhaut
+3) Retromolargegend
+4) Sulcus buccomandibularis und maxillaris
+
+II. Oberer Alveolarfortsatz und Gingiva
+III. Unterer Alveolarfortsatz und Gingiva
+IV. Harter Gaumen
+VI. Zunge
+VII. Mundboden
+
+Die günstigste Prognose hat hierbei das Wangenkarzinom, die schlechteste das
+Gaumenkarzinom (Jones et al. 1995). Generell gilt, dass je weiter ein Tumor dorsal
+und kaudal lokalisiert ist, desto schlechter ist seine Prognose (Krüger, 1988; Grimm
+1990).
+
+Prognose und Therapie
+
+8
+
+2.1.2 Klassische klinische Prognoseparameter Staging
+
+Die klinische Einteilung der Neoplasien basiert auf der anatomischen Ausdehnung
+des Primärtumors, sowie auf seiner lymphogenen und hämatogenen Ausbreitung.
+Durchgesetzt hat sich das System der Union International Contre le Cancer (UICC),
+welches die Tumor-Ausbreitung nach den Kriterien T[Tumor], N [Node] und M [Metastase] klassifiziert (Hermanek und Sobin 1987).
+
+2.1.3 Tumor-Node-Metastasis [TNM-System]
+
+T
+
+Primärtumor
+
+TX
+
+Beurteilung des Primärtumors unmöglich
+
+T0
+
+Kein Anhalt für einen Primärtumor
+
+Tis
+
+Carcinoma in situ
+
+T1
+
+Tumor bis 2 cm Durchmesser
+
+T2
+
+Tumor von 2-4 cm Durchmesser
+
+T3
+
+Tumor größer als 4 cm Durchmesser
+
+T4
+
+Tumor infiltriert Nachbarstrukturen wie kortikale Knochen, Kieferhöhle, Haut oder
+Muskulatur
+
+N
+
+Regionale Lymphknoten
+
+NX
+
+Beurteilung der regionalen Lymphknoten unmöglich
+
+N0
+
+Keine regionalen Lymphknotenmetastasen
+
+N1
+
+Ipsilateraler Befall eines Lymphknotens kleiner als 3 cm
+
+N2a
+
+Ipsilateraler Befall eines Lymphknotens von 3 bis 6 cm
+
+N2b
+
+Ipsilateraler Befall mehrere Lymphknoten bis 6 cm
+
+N2c
+
+Bilateraler oder kontralateraler Lymphknotenbefall bis 6 cm Durchmesser
+
+N3
+
+Lymphknotenbefall größer als 6 cm Durchmesser
+
+M
+
+Fernmetastasen
+
+MX
+
+Das Vorliegen einer Fernmetastase ist nicht ersichtlich
+
+M0
+
+Keine Fernmetastasen vorhanden
+
+M1
+
+Fernmetastasen vorhanden
+
+Tabelle 1:
+
+TNM-System
+
+Prognose und Therapie
+
+9
+
+Neben dem klinischen (prätherapeutischen) TNM-System existiert noch die postoperative, pathologische Klassifikation, abgekürzt mit pTNM.
+
+2.1.4 WHO
+
+Um in vergleichenden Krebsstudien international gültige Kriterien zur Klassifizierung
+von oralen und oropharyngealen Tumoren zu benutzen, wurde 1971 durch die Weltgesundheitsorganisation ein Grading-System veröffentlicht (Wahi et al. 1971), welches zur Erfassung des Malignitätsgrades eines Tumors drei Differenzierungsgrade
+unterscheidet:
+Differenzierungsgrad des Plattenepithelkarzinoms der Mundhöhle nach der WHOKlassifikation aus dem Jahre 1971:
+
+Grad I
+
+Zahlreiche Epithelperlen, erhebliche Keratinisierung der Zellen mit Interzellularbrücken, weniger als zwei Mitosen pro Gesichtsfeld bei starker Vergrößerung, selten atypische Mitosen und vielkernige Riesenzellen minimale Zellund Kernpleomorphie
+
+Grad II
+
+Epithelperlen selten oder fehlend, weder Keratinisierung von Einzelzellen
+noch Vorkommen von Interzellularbrücken, zwei bis vier Mitosen pro Gesichtsfeld bei starker Vergrößerung mit gelegentlichen atypischen Mitosen,
+mäßige Zell- und Kernpleomorphie, selten vielkernige Riesenzellen
+
+Grad III
+
+Selten Epithelperlen, so gut wie keine Keratinisierung der Zellen und keine
+Interzellularbrücken, mehr als vier Mitosen pro Gesichtsfeld bei starker Vergrößerung mit zahlreichen atypischen Mitosen, deutliche zell- und Kernpleomorphie, zahlreiche vielkernige Riesenzellen
+
+Tabelle 2:
+
+WHO-Klassifikation
+
+In der Publikation von Wahi et al. (1971) wird darauf hingewiesen, dass die Einschätzung der Prognose nicht allein durch das Grading eines Tumors gelingen kann, sondern in Beziehung zu anderen Parametern wie Tumorsitz und Staging gesetzt werden muss. Hier wird deutlich, dass eine exakte prognostische Klassifizierung von Malignomen durch das TNM-System oder WHO-Grading allein nicht erfolgen kann.
+Dass zur prognostischen Klassifizierung verwendete rein metrische TNM-System
+wurde von Platz et al. (1983) insoweit bemängelt, dass es eine zu grobe Vereinfachung der komplexen Wirkungszusammenhänge von Krebserkrankungen darstellt.
+
+Prognose und Therapie
+
+10
+
+Die Grenzen der TMN-Klassifikation bestehen darin, dass ausschließlich die anatomische Ausdehnung des Tumors beurteilt wird ohne histomorphologische Faktoren,
+proliferationsassoziierte Parameter oder das Patientenalter in die Prognoseeinschätzung einzubeziehen. Hermanek und Sobin (1987) wiesen darauf hin, dass eine möglichst exakte Einschätzung der multifaktoriell bedingten Prognosen und zuverlässige
+Vergleiche von Therapieresultaten nur möglich seien, wenn andere wesentliche
+histomorphologische Parameter wie Tumor- und Wirtfaktoren sowie die Behandlung
+berücksichtigt werden. Aus diesen Gründen ist die Tumorpathologie bestrebt, weitere
+prognoserelevante Indizes heranzuziehen und neue Prognosescores zu entwickeln.
+
+2.1.5 Therapieabhängiger Prognoseindex (TPI)
+
+Der Deutsch-Österreichisch-Schweizerischer Arbeitskreis (DÖSAK) für Tumoren im
+Kiefer- und Gesichtsbereich hat als Resultat einer jahrzehntelangen retrospektiven
+Studie einen therapieabhängigen Prognoseindex (TPI) für Plattenepithelkarzinome
+der Lippe, des Oropharynx und der Mundhöhle vorgelegt (Platz et al.1983). Im Vergleich zum TNM-Klassifizierungssystem finden im TPI sehr viel mehr prognostisch
+relevante Faktoren Berücksichtigung. Befunde der Erstaufnahme (Tumorgröße, Tumorinfiltration, regionäre und Fernmetastasierung und das Patientenalter), die Art der
+eingesetzten Therapie und der primäre Therapieerfolg bestimmen nach einem mathematischen Modell die Prognose des Patienten. Um die Validität des TPI zu untersuchen, wurde vom DÖSAK eine prospektive Studie über orale Plattenepithelkarzinome durchgeführt (Platz et al. 1983). Hierbei stellte sich heraus, dass der TPI in
+vielen Gruppen eine zuverlässige Prognoseeinschätzung ermöglicht. In anderen
+Gruppen aber differierte die tatsächliche Überlebensrate deutlich von der mittels TPI
+errechneten Überlebenszeit. Die Autoren sehen dieses als Hinweis auf im TPI nicht
+erfasste prognostische Faktoren.
+
+2.1.6 Invasionsfrontgrading nach Bryne
+
+Die meisten der menschlichen Neoplasien bestehen aus heterogenen Zellpopulationen mit unterschiedlichem biologischen Verhalten (Nicolson 1987). Tumorzellen an
+
+Prognose und Therapie
+
+11
+
+der Invasionsfront zeigen in oralen Plattenepithelkarzinomen und anderen Malignomen Charakteristika, die sich von den zentralen Tumoranteilen deutlich unterscheiden (Bryne et al. 1989). Das orale Plattenepithelkarzinom ist an der Invasionsfront
+oftmals schlechter differenziert als in anderen Arealen. Das eingeführte multifaktorielle Grading-System ausschließlich der Invasionsfront der Tumoren (Bryne et al. 1989)
+ist angelehnt an eine modifizierte Version des Gradings nach Jacobsson. Es werden
+die histologischen Parameter Verhornungsgrad, Kernatypiegrad, Mitoserate, Invasionsmuster und die lymphoplasmazelluläre Infiltration beurteilt.
+
+Parameter/Score
+
+1
+
+2
+
+3
+
+4
+
+Keratinisierungsgrad
+
+>50% der Zellen
+keratinisiert
+
+20-50% der
+Zellen keratinisiert
+
+5-20% der Zellen
+keratinisiert
+
+keine Keratinisierung
+
+Kernpolymorphismus
+
+geringer Kernpolymorphismus
+
+mäßiger
+reichlicher KernKernpolymorpolymor-phismus
+phismus
+
+extremer Kernpolymor-phismus
+
+Mitoserate
+
+0-1
+
+2-3
+
+Invasionsmuster
+
+Gut abgrenzbare
+Infiltrationsgrenzen
+
+Infiltrierende
+solide Stränge, Bande
+und/ oder
+Strähnen
+
+lymphozytäre
+Infiltration
+
+reichlich
+
+mäßig
+
+Tabelle 3:
+
+4-5
+
+>5
+
+Kleine Gruppen
+oder Stränge
+infiltrierender
+Zellen
+
+Reichlich ausgedehnte zelluläre
+Dissoziation kleiner Gruppen oder
+Einzelzellen
+
+wenig
+
+Keine
+
+Invasionsfrontgrading nach Bryne et al. (1989)
+
+Die Parameter werden jeweils mit Punkten von eins bis vier bewertet. Der daraus
+resultierende Malignitätsscore von 4-16 möglichen Punkten wird in drei prognostische Gruppen eingeteilt:
+4 - 8 Punkte
+
+gute Prognose
+
+9 – 12 Punkte
+
+mäßige Prognose
+
+13- 16 Punkte
+
+schlechte Prognose
+
+Prognose und Therapie
+
+12
+
+Das Invasionsfrontgrading wurde auch in Studien von Piffko und Mitarbeiter mehrfach über seine unabhängige Prognoserelevanz beim Mundhöhlenkarzinom bestätigt ( Piffko et al. 1997).
+
+2.1.7 Die EGF-Rezeptor Familie
+
+Die ErbB-Proteine bilden die Klasse I der Rezeptor-Tyrosin-Kinasen. Die ErbBFamilie entwickelte sich im Laufe der Evolution aus einer einzigen Ligand-RezeptorKombination beim Nematoden Caenorhabdites elegans (Lin3 / Let23, (Aroian, et al.
+1990). Die Fruchtfliege Drosophila verfügt über einen Rezeptor (DER) mit vier Liganden (Wasserman und Freeman 2000). Bei Säugetieren schließlich besteht ein System aus vier Rezeptoren und mehreren Liganden. Die vier Rezeptoren sind: der epidermale
+
+Wachstumsfaktor-Rezeptor
+
+(EGFR,
+
+auch
+
+ErbB1
+
+oder
+
+HER
+
+1),
+
+ErbB2/neu/Her2, ErbB3/Her3 und ErbB4/Her4. Allen gemeinsam ist der Aufbau aus
+einer extrazellulären Ligandenbindungsdomäne, einer transmembranären Domäne
+und einer zytoplasmatischen Domäne mit Tyrosin-Kinase-Aktivität. Aufgrund einer
+Mutation der zytoplasmatischen Domäne besitzt der ErbB3-Rezeptor allerdings keine
+Tyrosin-Kinase-Aktivität (Guy et al.1994).
+Bei den Liganden der vier Rezeptoren handelt es sich um Peptide, die dem Epidermalen Wachstumsfaktor (EGF) verwandt sind. Sie lassen sich aufgrund ihres spezifischen Bindungsverhaltens in vier Gruppen einteilen.
+Die erste Gruppe bindet nur an EGFR, die zweite Gruppe an EGFR und ErbB4, die
+dritte Gruppe an ErbB3 und ErbB4 und die vierte Gruppe nur an ErbB4 (Olayioye et
+al. 2000). Bisher ist kein Ligand bekannt, der direkt an ErbB2 bindet (Klapper et
+al.1999). Die Bindung eines Liganden an einen passenden Rezeptor führt zur Bildung von Rezeptordimeren. Es kommt dabei sowohl zur Formation von Homodimeren (z. B. EGFR+EGFR) als auch von Heterodimeren (z. B. EGFR+ErbB3). Die Dimerisierung der Rezeptoren stimuliert deren Tyrosin-Kinase-Aktivität und es kommt
+zur Autophosphorylierung der Rezeptoren im Bereich der zytoplasmatischen Domänen. Dadurch wird der intrazelluläre Signalweg aktiviert.
+Die extrazelluläre Domäne der ErbB-Rezeptoren besteht aus zwei cysteinreichen
+Domänen (S1, S2) und zwei Ligandenbindungsdomänen (L1, L2). Von den Liganden
+
+Prognose und Therapie
+
+13
+
+NRG1 und EGF ist bekannt, dass sie über zwei Rezeptor-Bindungsstellen verfügen
+mit denen sie an L1 und L2 binden: eine hochaffine und spezifische Bindungsstelle
+und eine weniger affine und weniger spezifische Bindungsstelle (Tzahar et al. 1997;
+Summerfield et al. 1996). Durch die Ligandenbindung kommt es zu einer Konformationsänderung des Rezeptors, in deren Verlauf S1 einen „dimerization loop“ genannten Fortsatz bildet. Dieser befähigt den Rezeptor zur Dimerisierung. Beim ErbB2Rezeptor liegt eine Interaktion zwischen L1 und L2 vor, dadurch besteht die „dimerization loop“ auch ohne Ligandenbindung (Citri et al. 2003). Dies steht im Gegensatz
+zu älteren Modellen, nach denen die Bildung der Dimere nicht durch eine Konformationsänderung der Rezeptoren vermittelt wird, sondern durch Bindung der Liganden
+an Hauptrezeptor (affine Bindungsstelle) und Dimerisierungspartner (weniger affine
+Bindungsstelle) (Tzahar et al. 1998).
+Durch die Kombination aus mehreren Liganden und vier Rezeptoren und durch die
+Dimerisierung der Rezeptoren nach der Ligandenbindung ergibt sich eine Vielzahl
+möglicher Signalwege. Das resultierende Signal hängt davon ab, welcher Ligand
+vorhanden ist, an welchen Rezeptor der Ligand bindet und welcher zweite Rezeptor
+zur Dimerisierung zur Verfügung steht.
+Es sind vier verschiedene Homodimere und sechs verschiedene Heterodimere möglich. Die Identität des entstandenen Dimers entscheidet darüber, welche zytoplasmatischen Signalmoleküle sich anlagern können und welcher weitere Signalweg in
+Gang gesetzt wird. Bemerkenswert ist allerdings, dass der ligandenlose ErbB2Rezeptor der bevorzugte Dimerisierungspartner der anderen Rezeptoren ist und
+ErbB2-Heterodimere eine erhöhte Ligandenaffinität und eine längere Rezeptoraktivierung aufweisen als Homodimere der anderen Rezeptoren (Graus-Porta et al.
+1997; Karunagaran et al. 1996; Graus-Porta et al 1995). ErbB3-Homodimere können
+aufgrund der fehlenden Kinaseaktivität keine Signalwege starten. ErbB3 ist deswegen auf einen anderen ErbB-Rezeptor als Dimerisierungspartner angewiesen. Auch
+ein Dimer aus dem ligandenlosen ErbB2 und dem kinasedefizienten ErbB3 führt zu
+einer erfolgreichen Signaltransduktion (Olayioye et al. 2000). ErbB3 ist der bevorzugte Dimerisierungspartner von ErbB2 und das ErbB2-ErbB3-Heterodimer ist ein besonders potenter Signalgeber für Zellwachstum und Transformation (Citri et al.
+2003).
+
+Prognose und Therapie
+
+14
+
+2.1.7 EGFR und HER2/neu in der Tumorentstehung
+
+Der EGF-Rezeptor ist in einer Vielzahl menschlicher Tumoren amplifiziert, überexprimiert oder mutiert. In Glioblastomen, Lungenkarzinomen, Mamma- und Ovarialkarzinomen, Kopf und Halstumoren, Tumoren des Gastrointestinaltraktes und in
+Nieren-, Blasen- und Prostatakarzinomen wird vermehrt EGFR exprimiert (Salomon
+et al. 1995). Ein Zusammenhang zwischen EGFR Expression und schlechter Prognose konnte bei einigen Karzinomen gezeigt werden (Harris et al. 1992; Selvaggi et
+al. 2004).
+Aus In- vitro- Studien und Tierexperimenten ist bekannt, dass die Überexpression
+des ErbB2-Rezeptors eine wichtige Rolle in der malignen Transformation und Tumorentstehung spielt. Die Transfektion des ErbB2-Gens in humane Tumorzelllinien
+(Mamma- und Ovarzelllinien) hat ein aggressiveres Wachstumsverhalten in vitro und
+eine größere Tumorigenität sowie ein erhöhtes metastatisches Potential in Mäusen
+zur Folge (Benz et al. 1993).
+
+2.1.8 HER2/neu als potenzieller neuer Prognosefaktor
+
+Beim Mammakarzinom wurde in den letzten 15 Jahren die Expression des
+HER2/neu-Wachstumsfaktorrezeptors intensiv erforscht und auch als prognostischer
+Indikator beschrieben. Das HER2/neu-Protein wird durch das auf dem Chromosom
+17 lokalisierte HER2/neu-Onkogen (auch c-erbB2-Onkogen genannt) kodiert und
+stellt ein 185 kDa großes Glykoprotein dar, das als transmembranöser Tyrosinkinaserezeptor vom Typ des Epidermal-growth-factor-Rezeptors (EGFR) fungiert
+(Wiethege et al. 2000). Eine durch Liganden-Rezeptor-Bindung aktivierte Tyrosinkinase setzt intrazelluläre Signalübertragungen in Gang, welche Einfluss auf das
+Wachstum, Differenzierung und Überleben der Zelle nehmen.
+Die bisher publizierten Ergebnisse über die HER2/neu-Expression beim Plattenepithelkarzinom sind recht uneinheitlich, was vor allem auf unterschiedliche Testmethoden zurückzuführen sein dürfte. Inzwischen sind für die HER2/neu-Analyse beim
+Mammakarzinom mehrere standardisierte Tests erhältlich, um reproduzierbare Ergebnisse liefern zu können. Der von der amerikanischen Food and Drug Administra-
+
+Prognose und Therapie
+
+15
+
+tion (FDA) zugelassene HercepTest® (DAKO, Glostrup, Dänemark) ist in Mitteleuropa einer der am meisten verbreiteten Test. Ein standardisierter und ebenfalls von der
+FDA zugelassener Test zum Nachweis von Amplifikationen des HER2/neu-Gens,
+mittels Fluoreszenz-in-situ-Hybridisierung (FISH) (PathVysion®) wird von der Firma
+Abbott-Vysis (Wiesbaden) vertrieben.
+
+2.2
+
+Therapie
+
+Ein übergreifender, multidisziplinärer Einsatz ist für die Behandlung von Karzinomen
+im Kopf-Hals-Bereich essentiell für die optimale Behandlung. Es besteht Einigkeit
+darüber, dass die radikale Operation, mit regionaler/funktioneller Neck-Dissection,
+die Therapie der Wahl ist. Die chirurgische Alleinbehandlung ist bei fortgeschrittenen
+Tumorstadium allerdings unzureichend, so dass in den meisten Fällen eine Kombination von Chirurgie und adjuvanten Maßnahmen beschrieben werden (Munro et
+al.1995). Die Überlebensraten haben sich in den letzten 30 Jahren trotz der Fortschritte in chirurgischer Rekonstruktion, Entwicklung neuer chemotherapeutischer
+Wirkstoffe und Einführung verbesserter radiotherapeutischer Protokolle nicht signifikant steigern lassen. Der bedeutendste prognostische Faktor in der chirurgischen
+Therapie des Plattenepithelkarzinoms des Kopf-Hals-Bereiches ist die Frage der
+kompletten chirurgischen Entfernbarkeit des Tumors (Wennerberg 1996). Therapieversagen resultiert überwiegend aus der Entwicklung von Lokalrezidiven nach Primärtherapie oder aus der Entwicklung von Fernmetastasen und Zweittumoren (Ganly
+et al. 2000).
+Zwei Drittel aller Patienten mit Kopf-Hals-Tumoren befinden sich bei Erstdiagnose in
+den klinischen Stadien III und IV, Lokalrezidive treten hierbei in 50-60% auf, Fernmetastasen in 25% aller Fälle (Stupp et al. 1994). Die Angaben in der Literatur zur Häufigkeit von Zweittumoren differieren, Werte zwischen 10-40% werden gefunden. Lokoregionäre Rezidive, die am häufigsten infolge inkompletter chirurgischer Resektion
+und nach primärer Radiotherapie entstehen (Snow et al. 1989), werden üblicherweise mit erneuter Operation oder Bestrahlung behandelt. Sollten die Risiken einer erneuten Operation zu groß sein, kommt eine Radiotherapie in Frage (Zieske 1986).
+Eine Therapie der Fernmetastasen wird derzeit häufig mit Chemotherapie versucht.
+Sowohl bei Lokalrezidiven als auch bei Fernmetastasen zeigen nur ca. 35% der Pati-
+
+Prognose und Therapie
+
+16
+
+enten ein Ansprechen auf die Therapie, welches mit 6 bis 9 Monaten nur von kurzer
+Dauer ist (Forastiere 1994). Dieses schlechte Ansprechen auf die Therapie lenkt das
+Interesse vermehrt auf die (Weiter-) Entwicklung neuerer Therapieformen, von denen
+unter anderem die Gentherapie, Antiköper-basierte Therapie und photodynamische
+Therapie Aufmerksamkeit auf sich ziehen. Derartige Behandlungen haben das Potential, den Tumor selektiv zu bekämpfen.
+Bei Erbitux® handelt es sich um eine zielgerichtete Krebstherapie. Erbitux® ist ein
+IgG1 monoklonaler Antikörper, der selektiv den Epidermal-growth-factor-receptor
+(EGFR), angreift. Durch die Blockierung des EGFR wird sowohl das Eindringen von
+Tumorzellen in das gesunde Gewebe wie auch die Bildung von Metastasen vermindert. Die Rezeptorblockade mindert die Fähigkeit der Tumorzellen, die Schädigungen
+durch Chemo- und Strahlentherapie zu reparieren sowie die Ausbildung von Angiogenesen. Die Folge ist eine generelle Hemmung des Tumorwachstums.
+
+Ergebnisse
+3
+
+Material und Methode
+
+3.1
+
+Patientenkollektiv
+
+17
+
+Die insgesamt 172 Gewebeproben aus dem Archiv des Gerhard-Domagk-Institutes
+für Pathologie der Universität Münster stammen von 23 Frauen und 130 Männern
+zwischen 33 und 87 Jahren (mittleres Alter = 57,87 Jahren). Bei ihnen wurde ein
+Plattenepithelkarzinom in der Mundhöhle diagnostiziert und in der Zahn-, Mund- und
+Kieferchirurgie der Universität Münster zwischen 1983 und 1997 operativ entfernt.
+Es wurden 153 Primärtumoren sowie 19 Lymphknotenmetastasen untersucht. In der
+vorliegenden Arbeit wurde sowohl die halb- als auch die vollautomatische immunhistochemische Färbemethode, sowie die Fluoreszenz-in-situ-Hybridisierung (FISH)
+angewandt.
+
+3.2
+
+Präparation der Gewebeschnitte
+
+Aus routinemäßig formalinfixierten und in Paraffin eingebetteten Geweben wurden
+Tissue Mikroarrays (TMA) hergestellt (Abbildung 1), ein im Durchmesser 0,5 mm
+großer und 0,8 mm langer Stanzzylinder (Abbildung 2) definierten die Größe der Gewebeproben.
+
+Abbildung 1 (links): Tissue Mikroarrays (TMA)
+Abbildung 2 (rechts): Stanzzylinder
+
+Ergebnisse
+
+18
+
+Die zu untersuchenden Blöcke entstanden aus einem festgelegten Areal, das dem in
+gepuffertem Formalin fixierten, paraffineingebetteten Tumorgewebeblock (Abbildung
+3) entnommen und unter der Hilfe des „Tissue chip micro-arrayers“ (Beecher Instruments, Silver Spring, USA (Abbildung 4 ) in einen zweiten zunächst leeren, Parafinblock übertragen wurde.
+
+Abbildung 3 (rechts): In Parafin eingebettetes Tumorgewebe
+Abbildung 4 (links): Tissue chip micro-arrayer.
+
+Die Entnahmestellen wurden zuvor unter Zuhilfenahme eines konventionellen HESchnittes des Tumorgewebeblockes (Abbildung 5) ausgewählt. Es wurden aus jedem
+Gewebeblock sechs Stanzen entnommen. Jeweils drei Stanzen wurden auf zwei
+neue Blöcke verteilt.
+
+Abbildung 5 (links): HE-Schnitt des Tumorgewebes
+Abbildung 6 (rechts): Digitale Mikrometerschraube.
+
+Ergebnisse
+
+19
+
+Hierbei wurde eine für diesen Tumor repräsentative Stelle ausgesucht und unter mikroskopischer Kontrolle auf dem Objektträger markiert (Abbildung 5). Die Stanzbiopsie
+erfolgte unter visueller Kontrolle, so dass die exakte Übernahme der markierten Position gewährleistet war. Anhand zweier digitaler Mikrometerschrauben (Abbildung 6)
+wurden die Einstanzpositionen im aufnehmenden Block definiert, so dass die Abstände konstant (1000 µm) blieben. Zur leichteren Orientierung und um später Verwechselungen aufzuschließen, wurde jeder Tissue Mikroarray (TMA) Block an einer
+definiten Stelle mit Fremdgewebe (Niere) markiert. Der gewählte Abstand von
+1000 µm zwischen den definierten Stanzen (sowohl in horizontaler als auch in vertikaler Richtung) basiert nicht auf verfahrenstechnischen Notwendigkeiten, sondern
+auf dem Einhalten eines Sicherheitsabstandes. Wird dieser unterschritten, steigt die
+Bruchgefahr des Paraffinblockes und man riskiert den unwiederbringlichen Verlust
+von ausgestanztem Gewebe.
+Die Herstellung der Tissue Mikroarrays (TMA) im Einzelnen:
+
+Abbildung 7 (links): Fixationshilfe
+Abbildung 8 (rechts): Selbst konstruierte Fixationshilfe
+
+Ergebnisse
+
+20
+
+Unter Zuhilfenahme der vom Fabrikanten mitgelieferten magnetischen Fixationshilfe
+(Abbildung 7) war es uns in den meisten Fällen möglich, unsere Gewebeblöckchen
+so zu justieren, dass wir problemlos die Gewebestanzen entnehmen konnten.
+Einige Blöcke waren leider so dimensioniert, dass wir gezwungen waren, uns selbst
+eine Fixationshilfe zu konstruieren (Abbildung 8).
+
+Abbildung 9 (links): Tumorgewebsentnahme
+Abbildung 10 (rechts): Stanzen eines Loches
+
+Die Entnahmestellen wurden zuvor unter Zuhilfenahme eines konventionellen HESchnittes des Tumorgewebeblockes (Abbildung 5) ausgewählt. Mit dem Stanzzylinder A, der einen Durchmesser von 0,5 mm hat, wurde nun zuerst ein Stück markiertes Tumorgewebe entnommen (Abbildung 9), dann wurde die Fixationshilfe mit dem
+Tumor gegen die mit dem Paraffinblock ausgetauscht. In dem Paraffinblock wurde
+mit Hilfe des Stanzzylinders B ein Loch gestanzt (Abbildung 10), welches einen um
+wenige Mikrometer geringeren Durchmesser aufweist als die eigentliche Probe
+selbst. Um so einen möglichst guten Kompromiss zwischen dem Erhalten der Gewebsstruktur und der Friktion zu erzielen.
+
+Ergebnisse
+
+21
+
+Abbildung 11: Gewebeprobe versenken
+
+Im Anschluss wurde dann die Gewebeprobe in das vorgestanzte, Loch versenkt.
+Dieser Vorgang wurde nun viele hundert Mal wiederholt, um eine möglichst große
+Anzahl an Tumorstanzen auf einem Block zu bekommen.
+Aus den so fertig gestellten Paraffinblöckchen wurden 4 µm dicke Schnitte angefertigt, die nun im Rahmen der immunhistochemische Färbemethodik / FISH- Analyse
+wie folgt weiter präpariert wurden.
+3.3.
+
+Immunhistochemische Untersuchungsmethoden
+
+In der vorliegenden Arbeit wurden immunhistochemische Färbemethoden verwendet:
+3.3.1 Halb automatische immunhistochemische Färbemethode
+Die immunhistochemische Färbung erfolgte mit dem polyklonalen KaninchenPrimärantikörper A0485 in einer Verdünnung von 1:100. Der weitere immunhistochemische Prozess zum Nachweis des HER2/neu Proteins erfolgte nach einem
+standardisierten Meerrettichperoxidase-Verfahrens unter Verwendung von Diaminobenzidin (DAB) als Farbstoff. Der zweite und dritte Schritt der Reaktion wurde in dem
+Ventana Automated Slide Stainer durchgeführt. Dabei war die Meerrettichperoxidase
+an einen sekundären Antikörper gekoppelt, welcher an den zuvor aufgebrachten primären Antikörper bindet. Das Enzym Meerrettichperoxidase bildete im nächsten
+Schritt einen Komplex mit seinem Substrat Wasserstoffperoxid. Dieser Komplex reagierte mit DAB, welches durch Oxidation polymerisiert wurde. An der Stelle des Zielantigens, dem HER2/neu Transmembranprotein, bildete sich ein unlösliches, braunes Polymer, welches schon makroskopisch sichtbar war.
+
+Ergebnisse
+
+22
+
+3.2.1 Vollautomatische immunhistochemische Färbemethode
+
+Die Immunfärbung mit dem vorverdünnten CB11-Antikörper erfolgte auf einem identischen Wege, wie er schon für die halbautomatisierte Färbung beschrieben wurde,
+die - nach einer 2 x 15 Minuten Mikrowellen- Vorbehandlung bei 240 Watt unter Verwendung des monoklonalen CB11 Antikörpers in einem Ventana Automated Slide
+Stainer in Kombination mit dem Ventana Medical Systems Detection Kit erfolgte. Bei
+jeder Färbung wurden Positivkontrollen, die dem HercepTest® beilagen, mitgeführt.
+Diese bestanden aus Objektträgern, auf die per Zytospin-Verfahren drei verschiedene humane Mammakarzinomzelllinien mit unterschiedlichem HER2/neu-Status (Scores 3+, 1+ und 0) aufgebracht worden waren. Ferner wurde bei jeder Färbung eine
+Negativkontrolle mitgeführt, indem auf einem Objektträger anstelle des HER2/neuAntikörpers ein ebenfalls im Hercep Test® enthaltenes „Negativkontroll-Reagens“
+aufgebracht wurde. Alle immunhistochemisch gefärbten Schnitte wurden an einem
+Lichtmikroskop bei 400-facher Vergrößerung ausgewertet.
+Die Evaluation der HER2/neu-Proteinexpression erfolgte gemäß den Richtlinien des
+Herstellers des HercepTests®. Demnach war die Einteilung in die Scores 3+ bis 0
+durch folgende Kriterien definiert:
+
+Score
+
+Membranfärbung
+
+HER2/neu- Status
+
+0
+
+Weniger als 10 % der Tumorzellen
+zeigen eine Membranfärbung
+
+negativ
+
+1+
+
+Unvollständige Färbung der Membran bei mehr als 10% der Tumorzellen
+
+negativ
+
+2+
+
+Leichte bis mäßige, komplette Färbung der Membran bei mehr als
+10% der Tumorzellen
+
+Schwache HER2/neubzw. EGFR Überexpression
+
+3+
+
+Starke und komplette Färbung bei
+mehr als 10% der Tumorzellen
+
+Starke HER2/neu-bzw.
+EGFR Überexpression
+
+Tabelle 4:
+
+Kriterien der Scoreeinteilung bei der Auswertung der immunhistochemi-
+
+schen HER2/neu- bzw. EGFR –Färbung
+
+Ergebnisse
+
+23
+
+Beispiele für den lichtmikroskopischen Aspekt der vier unterschiedlichen Färbescores
+sind in der nachstehenden
+
+Abbildung 12 illustriert.
+
+Abbildung 12: Immunhistochemische HER2/neu -Färbeergebnisse bei vier verschiedenen Plattenepithelkarzinomen: Norm (oben links); 1+ (oben rechts); 2+ (unten links);
+3+ (unten rechts)
+
+Ergebnisse
+
+24
+
+Laut Herstellerangaben sind die HER2/neu Scores 2+ und 3+ als „positiv“ zu werten.
+In der vorliegenden Studie wurde den Plattenepithelkarzinomen, die mit einem Score
+von 3+ bewertet wurden, besonderes Augenmerk geschenkt, da – nach den Erfahrungen am Mammakarzinom – diese Tumoren generell als für eine Herceptin®Therapie geeignet gelten. Zur Vereinfachung des Sprachgebrauchs werden daher in
+dieser Studie Tumoren mit einem Score von 3+ als „HER2/neu überexprimierend“
+anstelle von „stark HER2/neu überexprimierend“ bezeichnet.
+
+FISH-Analyse
+
+Um quantitative Nachweise eines Gens in Zellkernen durchführen zu können, hat
+sich die Fluoreszenz-in-situ-Hybridisierung (FISH) als geeignetes Verfahren erwiesen. Als In-situ-Hybridisierung bezeichnet man Verfahren, die den In-situ-Nachweis
+von DNA-Sequenzen auf einem Chromosomenpräparat erlauben. Hierbei müssen
+die auf einem Objektträger fixierten Zellen zuerst denaturiert werden, um die doppelsträngige DNA in Einzelstrang-DNA zu überführen. Anschließend erfolgt die eigentliche Hybridisierung mit der komplementären DAN-Sequenz auf dem Metaphasepräparat. Diese Sonden können entweder durch weitere Antikörperbindungen in
+einem weiteren Schritt sichtbar gemacht werden oder, wie in unserem Fall, direkt
+eine Fluorochrommarkierung tragen. Die fluoreszenzmarkierten Sonden sind unter
+einem Fluoreszenzmikroskop sichtbar, welches die Signale verstärkt.
+In der vorliegenden Arbeit wurde die qualitative Präsenz der ERBB2/HER-2Amplifikation mittels FISH an 4 µm dicken Paraffinschnitten, unter Verwendung des
+INFORM-HER-2/neu Gene Detection System (Oncor), untersucht. Durchführung und
+Auszählung erfolgten streng nach dem entsprechenden „Procedure and Interpretation Guide“. Drei Tumore wurden als positive Kontrolle verwendet, die in der PCRUntersuchung eine starke HER 2 /neu Amplifikation gezeigt haben.
+Die Schnitte wurden auf Super-Frost-Plus-Objektträgern aufgezogen und über Nacht
+bei 37°C getrocknet, dann folgte das „Backen“ über 2 Stunden bei 60°C. Anschließend wurden die Schnitte 2 x 15 Minuten in 30 %-iger Natriumdisulfit- Lösung bei
+45°C in einer feuchten Kammer mit anschließendem Sp ülen in 2 x SSC bei Raum-
+
+Ergebnisse
+
+25
+
+temperatur für 10 Sekunden. Der routinemäßigen Entparaffinisierung entsprechend,
+wurden die Schnitte nur mit 0,25 mg/ml Proteinase K bei 45°C für 45 Minuten angedaut, in 2 x SSC bei Raumtemperatur für 10 Sekunden und dann für je 2 Minuten in
+70%-, 90%- und 100%-igem Alkohol gespült. Das Trocknen erfolgte wiederum an der
+Luft.
+Die HER-2/neu- Probe wurde gemäß der Herstellerspezifikation (Oncor Appligene)
+behandelt. Nach über Nacht erfolgter Hybridisation bei 37°C wurden die Schnitte mit
+einer Stringenz von 0,25 x SSC für 5 Minuten bei 72°C gewaschen. Die Probendetektion wurde folgendermaßen ausgeführt: Nach einer 45-minütigen Inkubation der
+Schnitte bei 37°C in einer feuchten Kammer mit Mous e Anti-Digoxigenin Antikörper
+(Sigma D8156; 1500) und anschließendem Spülen mit 4 x SSC für 3 x 5 Minuten bei
+45°C, folgte eine 45-minütige Inkubation (im Dunkel n) und ein kurzes Spülen mit 2 x
+SSC bei Raumtemperatur mit anschließendem kurzen Antrocknen. Die Schnitte wurden dann mit Vectashield (Vector über Camon H-1000) eingedeckt und im Kühlschrank bei 4°C aufbewahrt.
+
+Die Aufzählung der Amplifikation erfolgte durch Feststellung der Anzahl aller Fluoreszenzsignale. Benutzt wurden dabei ein DAPI/Cy3-Filterset und ein 100x Ölobjektiv
+eines Zeiss Axioskop 100 Fluoreszenz-Mikroskop (Zeiss, Jena, Deutschland).
+
+Die Signalauswertung erfolgte an einem Fluoreszenzmikroskop AXIOPLAN der Firma
+Zeiss, das mit einem geeigneten Rot- und Grün-Multi-Bandpass-Filterset ausgestattet
+war. Bei jedem Präparat wurden Tumorzellkerne bei 650-facher Vergrößerung (in
+Ölimmersion) evaluiert, indem in jedem Zellkern die Anzahl grüner Signale gezählt
+wurde.
+
+Ein
+
+Beispiel
+
+für
+
+ein
+
+Plattenepithelkarzinom
+
+Genamplifikation ist in der nachstehenden
+
+Abbildung 13 illustriert.
+
+mit
+
+positiver
+
+HER2/neu-
+
+Ergebnisse
+
+26
+
+Abbildung 13: Plattenepithelkarzinomzellkern mit per FISH-Technik nachweisbarer
+HER2/neu-Genamplifikation. Die HER2/neu-Genkopien sind als grüne Signale abgebildet. Die zahlreichen, teilweise in Clustern gelegenen hellen Signale deuten eine
+HER2/neu-Genamplifikation an. (Originalvergößerung: 650x).
+
+3.3
+
+Statistische Auswertung
+
+Alle statistischen Berechnungen erfolgten mit Hilfe des SPSS®-Statistikprogramms
+(SPSS, München). Das Signifikanzniveau (p) betrug jeweils <0,05. Die Zusammenhänge zwischen den immunhistochemischen Ergebnissen und anderen klinischpathologischen Parametern wurden in Kreuztabellen unter Verwendung des Pearson-χ2-Tests auf statistische Signifikanz geprüft. Nach Anfertigung von KaplanMeier-Überlebenskurven wurden Gruppenvergleiche unter Verwendung des log-rank
+Testes vorgenommen. In die Multivariat-Analyse wurden nur diejenigen Parameter
+eingeschleust, die in der Univariat-Analyse einen p-Wert von <0,10 erzielt hatten.
+
+Ergebnisse
+
+27
+
+4
+
+Ergebnisse
+
+4.1
+
+Expressionsmuster der Rezeptoren
+
+Die vorliegende Tabelle gibt einen Überblick über die Expression (Grading) der unterschiedlichen Rezeptoren (EGFR u. HER2/neu), sowie über die Unterschiede der
+einzelne Färbemethoden, die von uns untersucht und angewendet wurden.
+
+NEGATIV
+(0)
+
+SCHWACH
+POSITIV
+(1+)
+
+MITTEL
+POSITIV
+(2+)
+
+STARK
+POSITIV
+(3+)
+
+EGFR
+
+72
+
+30
+
+40
+
+11
+
+153
+
+HER2/neu
+halbautomatisch (Ak
+A0485)
+
+137
+
+16
+
+0
+
+0
+
+153
+
+HER2/neu
+vollautomatisch (Ak
+CB11)
+
+54
+
+56
+
+38
+
+5
+
+153
+
+18
+10
+
+1
+4
+
+0
+4
+
+0
+1
+
+19
+19
+
+Metastasen
+HER2/neu
+EGFR
+
+GESAMT
+
+Tabelle 5: Immunhistochemische Expression von EGFR und HER2/neu in den Primärtumoren und Metastasen
+
+4.2
+
+Ausschlusskriterien
+
+Um eine Optimale Vergleichsmöglichkeit und somit eine hohe Aussagekraft gewährleisten zu können haben wir nur Daten von Patienten ausgewertet, bei denen in allen
+untersuchten Kategorien Ergebnisse vorlagen.
+
+Ergebnisse
+4.3
+
+28
+
+Immunhistochemische EGFR-Färbeergebniss
+
+Hier Beispiele für die Immunhistochemische EGFR-Färbeergebnisse bei vier
+verschiedenen oralen Plattenepithelkarzinomen mit den Scores 0 (links oben),
+1+ (rechts oben), 2+ (links Mitte) und 3+ (rechts Mitte); unten links ist eine Metastase dargestellt (Originalvergrößerung: jeweils 600x).
+
+Abbildung 14: Immunhistochemische EGFR-Färbeergebnisse bei vier verschiedenen
+oralen Plattenepithelkarzinomen mit den Scores 0 (links oben), 1+ (rechts oben), 2+
+(links Mitte) und 3+ (rechts Mitte); unten links ist eine Metastase dargestellt (Originalvergrößerung: jeweils 600x)
+
+Ergebnisse
+4.4
+
+29
+
+FISH Darstellungen des HER2/neu Genstatus.
+
+Abbildung 15: Normales Epithel mit je 2 Genkopien pro Kern (oben links); FISH Tumorgewebe ohne HER2/neu Amplifikation (1-2 Signale pro Kern; oben rechts); FISH
+Tumorgewebe ohne HER2/neu Amplifikation (1-2 Signale pro Kern; unten links); FISH
+Tumorgewebe ohne HER2/neu Amplifikation (2-3 Signale pro Kern)
+
+Keiner der untersuchten Tumoren zeigte eine starke-Amplifikation.
+4.5 Alters- und Geschlechtsverteilung
+Insgesamt haben wir Tumorgewebe von 153 Patienten untersucht. Die Altersspanne
+reichte von 33 bis 87 Jahren. Das Durchschnittsalter bei der Diagnose betrug 58,49
+Jahre(Abb16). Von den 153 Patienten waren 130 männlichen und 23 weiblichen Geschlechts (Abb17).
+
+Ergebnisse
+
+30
+
+30
+
+25
+
+Häufigkeit
+
+20
+
+15
+
+10
+
+5
+
+0
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+Alter bei Diagnose (Jahre)
+
+Abbildung 16: Altersverteilung in der untersuchten Stichprobe
+
+Frauen; 15%
+
+Männer; 85%
+
+Abbildung 17: Anteil von Frauen und Männern in der untersuchten Stichprobe
+
+Von den 153 Patienten haben 66 die 5 Jahre nach dem Entfernen des Tumors überlebt und gelten somit als geheilt. 87 Patienten sind an den Folgen ihren Krebsleiden
+verstorben. Bei 67 Patienten war es möglich, die genaue Überlebenszeit in Monaten
+zu erfassen. Die durchschnittliche Überlebenszeit der Verstorbenen betrug 37,48
+Monate und entspricht somit der durchschnittlichen Überlebenszeit vergleichbarer
+Studien.
+
+Ergebnisse
+
+31
+
+Anzahl (N = 153)
+
+Anzahl (n)
+
+Alter
+Median
+Spannweite
+
+57,87 Jahre
+33 – 87 Jahre
+
+Geschlecht
+Frauen
+Männer
+
+23
+130
+
+15,03
+84.97
+
+Lokalisation
+Zunge
+Mundboden
+Lippe
+Wange
+
+30
+109
+7
+7
+
+19,61
+71,24
+4,58
+4,58
+
+Tabelle 6:
+
+Anteil (%)
+
+Durchschnittsalter, Geschlecht und Lokalisation
+
+30
+
+25
+
+Häufigkeit
+
+20
+
+15
+
+10
+
+5
+
+0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Überlebenszeit (Monate)
+
+Abbildung 18: Häufigkeitsverteilung der Überlebenszeiten
+
+120
+
+Ergebnisse
+
+32
+
+Überlebt; 43%
+
+Verstorben; 57%
+
+Abbildung 19: Anteil verstorbener / überlebender Patienten
+
+4.4.1 Einfluss des Geschlechtes auf die Überlebenszeit
+
+Kum. Überleben
+
+Überlebensfunktionen
+Geschlecht
+1
+
+1,0
+
+2
+1-zensiert
+2-zensiert
+0,8
+
+0,6
+
+0,4
+
+0,2
+
+0,0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+Überlebenszeit in Monaten
+
+Abbildung 20: Kaplan-Meier-Überlebensanalyse aufgetragen nach dem Geschlecht (1=
+männlich / 2= weiblich).
+
+Ergebnisse
+
+33
+
+Aus der Darstellung Überlebenszeit-/-Geschlecht ist abzulesen, dass das Geschlecht
+keinen Einfluss auf die Überlebenszeit hat.
+
+4.4.2 Verhältnis Tumor – Differenzierungsgrad nach WHO zur Überlebenszeit.
+
+Durch die Abbildung (Abb.21) wird deutlich, dass je niedriger der Differenzierungsgrad ist (-Grad 2,5)-, desto kürzer ist die Gesamtüberlebenszeit nach der Erstdiagnose. Vergleicht man die Überlebenszeit mit den positiven (1)-/-negativen (0) Darstellungen der Anfärbbarkeit der HER2neu Rezeptoren nach dem halb automatischen
+Verfahren (Tabelle 7)-, so kann man eine Tendenz erkennen, nach der die Tumoren
+mit HER2/neu Rezeptorüberexpression eine etwas kürzere Überlebenszeit haben.
+Diese Tendenz ist jedoch unter dem Chi-Quadrat Test nach Pearson nicht signifikant.
+Ferner muss darauf hingewiesen werden, dass die Anzahl der Patienten, die positiv
+anfärbbare HER2neu-Rezeptoren hatten, recht gering war und die Ausprägung der
+Anfärbung nicht sehr stark, so dass dieses Verfahren für die Diagnostik bzw. Therapie ohne Bedeutung ist.
+
+Ergebnisse
+
+34
+
+Überlebensfunktionen
+Kum. Überleben
+
+WHOGrad
+
+1,0
+
+1
+2
+3
+1-zensiert
+
+0,8
+
+2-zensiert
+
+0,6
+
+0,4
+
+0,2
+
+0,0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+Überlebenszeit in Monaten
+
+Abbildung 21: Kaplan-Meier-Darstellung der Überlebenszeit im Verhältnis zum WHODifferenzierungsgrad der Tumoren.
+
+Ergebnisse
+
+35
+
+4.4.3 HER2/neu Expression im halbautomatischen Verfahren (AK A0485)
+
+Negativ (0)
+
+schwach
+Positiv (1+)
+
+Gesamt
+(N = 153)
+
+Chi-Quadrat
+Test nach
+Pearson
+
+Geschlecht
+Frauen
+Männer
+Gesamt
+
+19
+118
+137
+
+4
+12
+16
+
+23
+130
+153
+
+nicht signifikant
+(0,238)
+
+T- Stadium
+1
+2
+3
+4
+Gesamt
+
+32
+67
+21
+17
+137
+
+8
+7
+1
+0
+16
+
+40
+74
+22
+17
+153
+
+Lokalisation
+Zunge
+Mundboden
+Lippe
+Wange
+Gesamt
+
+28
+97
+6
+5
+136
+
+2
+12
+1
+2
+17
+
+30
+109
+7
+7
+153
+
+WHO Grad
+1
+2
+3
+Gesamt
+
+31
+91
+15
+137
+
+4
+8
+4
+16
+
+35
+99
+19
+153
+
+Überleben
+Verstorben
+Überlebt
+Gesamt
+
+59
+47
+106
+
+28
+19
+47
+
+87
+66
+153
+
+nicht signifikant
+(0,066)
+
+nicht signifikant
+(0,243)
+
+nicht signifikant
+(0,233)
+
+nicht signifikant
+(0,238)
+
+Tabelle 7: HER2/neu- Expression mit der halbautomatischen Methode
+
+Ergebnisse
+
+36
+
+4.4.4 HER2/neu Expression im vollautomatischen Verfahren (AK CB11)
+
+Negativ
+(0)
+
+schwach
+Positiv
+1+
+
+mittel
+Positiv
+2+
+
+stark
+Positiv
+3+
+
+Gesamt
+
+7
+47
+54
+
+10
+46
+56
+
+6
+32
+38
+
+0
+5
+5
+
+23
+130
+153
+
+15
+33
+6
+54
+
+12
+37
+7
+56
+
+8
+26
+4
+38
+
+0
+3
+2
+5
+
+35
+99
+19
+153
+
+T- Stadium
+1
+2
+3
+4
+Gesamt
+
+14
+26
+5
+9
+54
+
+13
+29
+7
+7
+56
+
+12
+17
+8
+1
+38
+
+0
+3
+2
+0
+5
+
+39
+75
+22
+17
+153
+
+Lokalisation
+Zunge
+Mundboden
+Lippe
+Wange
+Gesamt
+
+9
+36
+2
+2
+49
+
+11
+38
+2
+3
+54
+
+9
+24
+2
+1
+36
+
+1
+3
+0
+1
+5
+
+30
+109
+7
+7
+153
+
+Überleben
+Verstorben
+Überlebt
+Gesamt
+
+31
+23
+54
+
+30
+26
+56
+
+22
+16
+38
+
+3
+2
+5
+
+86
+67
+153
+
+Geschlecht
+Frauen
+Männer
+Gesamt
+WHO Grading
+1
+2
+3
+Gesamt
+
+Tabelle 8: HER2/neu-Expression mit der vollautomatischen Methode
+
+Chi- Quadrat
+Test
+
+nicht signifikant
+(0,698)
+
+nicht signifikant
+(0,474)
+
+nicht signifikant
+(0,122)
+
+nicht signifikant
+(0,243)
+
+nicht signifikant
+(0,285)
+
+Ergebnisse
+
+37
+
+4.4.5 Kaplan-Meier Überlebensanalyse-/-Anfärbbarkeit von HER2/neu Rezeptoren mit der voll-automatischen Methode
+
+Kum. Überleben
+HER2neu.auto
+
+1,0
+
+0
+1
+2
+3
+0-zensiert
+1-zensiert
+2-zensiert
+
+0,8
+
+0,6
+
+0,4
+
+0,2
+
+0,0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+Überlebenszeit in Monaten
+
+Abbildung 22: Überlebenszeit in Bezug auf HER2/neu-Überexpression (Log-Rang =
+0,5872 nicht signifikant)
+
+stark positiv (+3); 3%
+
+mittel
+positiv (+2); 25%
+
+negativ (0); 35%
+
+leicht positiv (+1); 37%
+
+Abbildung 23: Häufigkeitsverteilung von HER2/neu-Fällen
+
+Ergebnisse
+
+38
+
+Die Abbildung (Abb.23) stellt die Häufigkeitsverteilung von HER2/neu positiven Fällen (n=
+153) im vollautomatischen Verfahren dar. Positiv ist bei dem vollautomatischen Verfahren,
+dass die Rezeptoren sich besser anfärben ließen und das Spektrum hier weiter differenzierbar war als beim halbautomatischen -System. Die Ergebnisse der unterschiedlichen Färbemethoden, zusammengefasst sind (Seite 35-36), stellen alle keine Signifikanzen unter dem
+Chi-Quadrat Test nach Pearson dar.
+
+4.4.6 Immunhistochemische Expression der EGF- Rezeptoren
+
+Geschlecht
+Frauen
+Männer
+Gesamt
+WHO Grading
+1
+2
+3
+Gesamt
+
+Negativ
+(0)
+
+schwach
+Positiv
+1+
+
+mittel
+Positiv
+2+
+
+stark
+Positiv
+3+
+
+Gesamt
+(N= 153)
+
+7
+65
+72
+
+9
+21
+30
+
+4
+38
+40
+
+3
+8
+11
+
+23
+130
+153
+
+18
+46
+8
+72
+
+8
+20
+2
+30
+
+5
+27
+8
+40
+
+4
+6
+1
+11
+
+35
+99
+19
+153
+
+HER2/neu –
+halbauto0
+1
+Gesamt
+
+67
+5
+72
+
+25
+5
+30
+
+34
+6
+40
+
+11
+0
+11
+
+137
+16
+153
+
+HER2/ neu-vollauto0
+1
+2
+3
+Gesamt
+
+21
+31
+17
+3
+72
+
+8
+11
+11
+0
+30
+
+20
+11
+8
+1
+40
+
+5
+3
+2
+1
+11
+
+54
+56
+38
+5
+153
+
+T- Stadium
+1
+2
+3
+4
+Gesamt
+
+16
+31
+17
+3
+72
+
+5
+11
+11
+0
+30
+
+14
+11
+8
+1
+40
+
+4
+5
+2
+1
+11
+
+39
+75
+22
+17
+153
+
+ChiQuadrat
+
+nicht
+signifikant
+(0,698)
+
+nicht
+signifikant
+(0,403)
+
+nicht
+signifikant
+(0,226)
+nicht
+signifikant
+(0,287)
+
+nicht
+signifikant
+(0,287)
+
+Ergebnisse
+
+Tabelle 9:
+
+39
+
+Korrelation der EGFR–Expression aufgetragen gegenüber dem Ge-
+
+schlecht, dem WHO Grading, der HER2/neu Verteilung sowie dem Tumorstadium.
+
+stark positiv (+3); 7%
+
+mittel
+positiv (+2); 26%
+negativ (0); 47%
+
+leicht positiv (+1); 20%
+
+Abbildung 24: Häufigkeitsverteilung der EGFR-Rezeptorexpression in den Primärtumoren
+
+Bei der Analyse der EGFR–Rezeptorexpression gegenüber Geschlecht, WHO-Grading, der
+HER2/neu Verteilung sowie den TNM Stadien konnte keine statistische signifikante Korrelation nachgewiesen werden.
+
+Ergebnisse
+
+40
+
+4.4.7 Überlebenszeit in Abhängigkeit von der EGFR- Expression.
+
+Kaplan-Meier-Überlebenszeitanalyse in Abhängigkeit von EGFR- Expression
+
+Kum. Überleben
+
+EGFR_H
+
+1,0
+
+0
+1
+2
+3
+0-zensiert
+1-zensiert
+2-zensiert
+
+0,8
+
+0,6
+
+0,4
+
+0,2
+
+0,0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+Überlebenszeit in Monaten
+
+Abbildung 25: Überlebenszeit bei unterschiedlich starkem Grad der EGFR- Expression.
+
+Bei der Ermittlung der Überlebenszeit in Abhängigkeit zu den unterschiedlichen Expressionsgraden (0 – 3+) des EGF–Reptors lässt sich ein Trend, ähnlich der Tendenz der HER2/neu-Rezeptorexpression erkennen. Je ausgeprägter die Expression,
+desto geringer die Überlebenszeit. Eine statistische Signifikanz war allerdings nicht
+nachzuweisen.
+
+Ergebnisse
+4.5
+
+41
+
+Metastasen
+
+Es wurden 19 Metastasen untersucht. Die Proben von den gleichen Tumoren wurden
+auf EGFR und HER2/neu Status hin untersucht. Mit dem Ergebnis, dass EGFR häufiger positiv ausgeprägt war (6), bei HER2/neu im halbautomatischen Verfahren war
+lediglich eine Probe schwach positiv. Beim vollautomatischen Verfahren waren 4
+Proben moderat bis stark positiv.
+
+4.5.1 HER2/neu Expression in den Metastasen beim halbautomatischen Verfahren ( AK A0485)
+
+Häufigkeit
+
+Gültige
+Prozente
+
+Negativ
+
+18
+
+94,7
+
+Schwach Positiv
+
+1
+
+5,3
+
+Gesamt
+
+19
+
+100
+
+Tabelle 10: Häufigkeitsverteilung von HER2/neu-Expression in den 19 untersuchten
+Metastasen mit der halbautomatischen Methode
+
+4.5.2 HER2/neu Expression in den Metastasen beim vollautomatischen Verfahren (AK CB 11)
+
+Häufigkeit
+
+Gültige
+Prozente
+
+Negativ
+
+8
+
+42,4
+
+Schwach
+
+7
+
+37,1
+
+Moderat
+
+3
+
+15,9
+
+Stark
+
+1
+
+5,3
+
+Gesamt
+
+19
+
+100
+
+Tabelle 11: Häufigkeitsverteilung von HER2/neu Expression in den der 19 untersuchten Metastasen mit der vollautomatischen Methode
+
+Ergebnisse
+
+42
+
+4.5.3 EGFR – Expression in den Metastasen
+
+Negativ
+(0)
+
+schwac
+h positiv
+1+
+
+mittel
+positiv
+2+
+
+stark
+positiv
+3+
+
+Gesamt
+(N= 19)
+
+Geschlecht
+Frauen
+Männer
+Gesamt
+
+2
+7
+9
+
+0
+4
+4
+
+0
+5
+5
+
+0
+1
+1
+
+2
+17
+19
+
+WHO Grading
+1
+2
+3
+Gesamt
+
+1
+6
+3
+9
+
+0
+4
+0
+4
+
+0
+4
+1
+5
+
+0
+1
+0
+1
+
+1
+15
+3
+19
+
+Überleben
+Verstorben
+Überlebt
+Gesamt
+
+5
+3
+8
+
+4
+1
+5
+
+3
+2
+5
+
+0
+1
+1
+
+12
+7
+19
+
+T- Stadium
+1
+2
+3
+4
+Gesamt
+
+1
+5
+1
+2
+9
+
+1
+3
+0
+0
+4
+
+0
+3
+0
+2
+5
+
+0
+1
+0
+0
+1
+
+2
+12
+1
+4
+19
+
+Tabelle 12: EGFR–Expression in den Metastasen
+
+Diskussion
+5
+
+43
+
+Diskussion
+
+Das Plattenepithelkarzinom gehört zu den häufigsten Tumoren der Mundhöhle. Aufgrund der großen medizinischen Bedeutung dieser Neoplasie sind wir der Fragestellung nachgegangen, wie groß die Expression bzw. die Überexpression von EGFR
+und HER2/neu-Rezeptoren im Plattenepithelkarzinom ist und welche Konsequenzen
+sich aus der Expression ergeben bezugnehmend auf Überleben und Therapie. Hierfür untersuchten wir 153 orale Plattenepithelkarzinome sowie 19 Metastasen. Es
+wurden zwei unterschiedliche immunhistochemische Verfahren angewandt und zusätzlich Untersuchungen mit der Fluoreszenz–in-situ – Hybridisierung (FISH) durchgeführt.
+
+5.1
+
+Patienten- und Tumorcharakteristika
+
+Sowohl die Alters- wie auch Geschlechterverteilung in der Patientengruppe und den
+nach der Tumorlokalisation aufgestellten Untergruppen entsprachen denen vergleichbarer epidemiologischer Studien (Elwood et al. 1984; Brugere et al. 1986; Blot
+et al. 1988). Die ausgeprägten Rauch- und Trinkgewohnheiten, die in dem Studien
+von Elwood et al. 1984; Brugere et al. 1986; Blot et al.1988 mit einflossen, sind bei
+dem Patientenkollektiv dieser Arbeit nicht berücksichtigt. Allein die Auswahl der Kontrollpersonen würde große Schwierigkeiten mit sich bringen, da Personen im Alter
+von 50-70 Jahren, die mehr als 50 g Alkohol täglich zu sich nehmen und mindestens
+10 bis 20 Packungsjahre an Zigarettenkonsum aufweisen, dabei aber gesund sind,
+nur äußerst schwer rekrutiert werden könnten. Aus den epidemiologischen Studien
+geht hervor, dass Männer signifikant mehr rauchten und Alkohol tranken und zum
+Zeitpunkt der Diagnosestellung häufiger fortgeschrittene Tumorstadien aufwiesen als
+Frauen. Geschlechtsunabhängig wird durch starken Alkoholkonsum die Tumorlokalisation (Mundhöhlen-/-Pharynxtumoren), die Größe (T3-T4 Tumoren) sowie der
+Lymphknotenbefall signifikant beeinflusst.
+Die Primärtumor-Lokalisation zeigt keine statistisch signifikante Assoziation mit dem
+Tumorstadium zum Zeitpunkt der Diagnose sowie dem histologischen Differenzierungsgrad des Tumors. Der histologische Differenzierungsgrad war signifikant asso-
+
+Diskussion
+ziiert mit der
+
+44
+Tumorgröße und dem Auftreten von Halslymphknoten-Metastasen.
+
+Diese Zusammenhänge sind vielfach von anderen Autoren beschrieben worden (Elwood et al. 1984; Brugere et al. 1986; Blot et al. 1988; Jahnke et al. 1995; Evans et
+al. 1997; Robin et al. 1997). Bei der in dieser Arbeit untersuchten Studiengruppe
+zeigte eine große Divergenz im Bezug auf die Geschlechter Verteilung - 130 Männer/-23 Frauen oder das Durchschnittsalter (33-87 Jahre). Durch die hier nachgewiesene Verflechtung der einzelnen Patientencharakteristika mit Tumoreigenschaften
+konnte gezeigt werden, dass es sich bei den untersuchten Studiengruppen um ein
+weitgehend repräsentatives Kollektiv von Patienten mit oralen Plattenepithelkarzinomen handelt.
+In der vorliegenden Arbeit sollte nicht auf Einzelheiten der Tumorbehandlung eingegangen werden. Da die Gruppe der Kopf-Hals-Tumoren ein sehr inhomogenes
+Krankheitsbild darstellt, mussten verschiedene Patienten- und Tumoreigenschaften
+berücksichtigt werden. Der Zeitpunkt der Diagnose unterschied sich sehr stark. Auch
+variiert die Häufigkeit des Lymphknotenbefalls bei Diagnosestellung zwischen benachbarten anatomischen Lokalisationen erheblich. Damit stehen wir im Einklang mit
+zahlreichen Studien (Jahnke et al. 1995; Muir und Weiland 1995; Evans et al. 1997).
+Einige Autoren konnten allein in der Mundhöhle zusätzlich 7 anatomische Untergruppen herausstellen, die sich in der Metastasierungshäufigkeit und dem Tumorverhalten signifikant unterschieden (Evans et al. 1997). Die Lokalisation und das Stadium
+der Tumoren ist für die Prognose dieser Erkrankung sicherlich von größerer Bedeutung als das histologische Grading oder genetische Wirtsfaktoren (Muir et al. 1995),
+Evans et al. 1997). Beispielsweise sinkt mit der Diagnose von befallenen Halslymphknoten das 5-Jahresüberleben von Patienten mit Kopf-Hals-Tumoren um 50%. Der
+prognostische Einfluss von einem Tumorrezidiv oder Zweittumor ist noch deutlich
+ausgeprägter (Evans et al. 1997). Besondere Bedeutung scheint einem Verfahren für
+das histopathologische Malignitätsgrading der invasiven Tumorfront bei oralen und
+laryngealen Plattenepithelkarzinomen zuzukommen. Hochsignifikante und unabhängige prognostische Informationen liefert innerhalb derselben TNM Stadien die Untersuchungen nach Bryne (Bryne et al. 1989). Dieses neue multifaktorielle Grading System ist zur Beurteilung der Prognose sehr gut geeignet und seine prognostische
+Aussage ist den Gradings nach Broder weit überlegen (Bankfalvi et al. 2002).
+
+Diskussion
+5.2
+
+45
+
+Die Rolle des HER2/neu Rezeptors in malignen Tumoren
+
+Seit Mitte der 1990er Jahre ist bekannt, dass die Expression von HER2/neu beim
+Mammakarzinom ein unabhängiges prognostisches Kriterium darstellt (Slamon et al.
+1989; Fisher et al. 1993; Lonn et al. 1995). Dies konnte inzwischen auch für andere
+maligne Tumoren, wie beispielsweise Karzinome der Zervix uteri (Niibe et al. 2003),
+des Corpus uteri (Rolitsky et al.1999), des Ovars (Slamon et al. 1989), der Prostata
+(Ross et al. 1997; Fossa et al. 2002), der Lunge (Micke et al. 2001; Cox et al 2001),
+der Speicheldrüsen (Muller et al. 1994; Press et al. 1994a), des Magens (Yonemura
+et al. 1998) oder des Kolons (Osako et al. 1998) gezeigt werden.
+Überexpression von HER2/neu ist assoziiert mit einer erhöhten Proliferationsrate der
+Zellen, einem erhöhten angiogenetischen Potential und verminderter Zelladhäsion.
+Beim Mammakarzinom konnte gezeigt werden, dass in ungefähr 30% der Fälle eine
+Überexpression des HER2/neu-Gens vorliegt, welche auch mit einem schlechteren
+klinischen Verlauf korreliert (Tzahar et al. 1996). Daher wird die Überexpression von
+HER2/neu als wichtiger prognostischer Faktor insbesondere bei Patientinnen, die
+bereits Lymphknotenmetastasen entwickelt haben, angesehen (Toikkanen et al.
+1992). Weiterhin konnte am Mammakarzinom die Wirksamkeit einer Kombinationstherapie
+
+mit
+
+dem
+
+monoklonalen
+
+Antikörper
+
+Transtuzumab
+
+(Herceptin®
+
+bei
+
+HER2/neu-überexprimierenden Tumoren gezeigt werden (Slamon et al. 2001a; Ranson und Sliwkowski, 2002). Auch am Plattenepithelkarzinom wurde in zahlreichen
+Studien der immunhistochemische HER2/neu-Status untersucht. Die dabei publizierten Ergebnisse sind recht uneinheitlich: So schwankt der Anteil der als HER2/neuüberexprimierend beschriebenen Plattenepithelkarzinome zwischen 11 % und 53 %
+(Scheer et al. 2003).
+
+5.2.1 Nachweismethoden von HER2/neu Rezeptoren im oralen Plattenepithelkarzinom
+
+Voraussetzung für eine gelungene Selektion der Patienten zugunsten einer Therapieformen ist ein gut standardisierter, reliabler und valider Nachweis von HER2/neu. Im
+Allgemeinen wird HER-2/neu entweder als membrangebundenes Protein durch die
+
+Diskussion
+
+46
+
+Immunhistochemie (IHC) oder durch die Markierung des überamplifizierten Gens
+über die Fluoreszenz-in-situ-Hybridisierung (FISH) nachgewiesen.
+Ausgangspunkt für inhaltlich valide Aussagen zur prognostischen und prädiktiven
+Bedeutung von HER-2/neu und EGFR ist eine Abgrenzung sowie ein Grenzwert für
+ein eindeutiges Unterteilen in verschiedene (0-3+) Anfärbbarkeitsstufen. Inzwischen
+sind für die HER2/neu-Analysen mehrere standardisierte Tests erhältlich, um reproduzierbare Ergebnisse liefern zu können.
+
+5.3
+
+Immunhistochemie
+
+5.3.1 Darstellbarkeit des HER-2/neu-Status mit immunhistochemischen Untersuchungsmethoden
+
+Die Expression des HER-2/neu-Rezeptorproteins wurde in der vorliegenden Arbeit
+nach den Kriterien des HercepTest-Scores bewertet. Dieser Score umfasst vier Einteilungen von 0 bis 3+.
+Theoretisch sind die einzelnen Gruppen klar voneinander getrennt. In der Praxis ist
+eine Unterscheidung zwischen schwach und mäßig jedoch bisweilen sehr schwer zu
+treffen. Auch kann die Differenzierung zwischen einer inkompletten und einer kompletten Zellmembrananfärbung und damit zwischen einem Score von 1+ und 2+
+Probleme aufwerfen. So wäre z. B. beim Mammakarzinom bei einem Score von 2+
+eine etwaige Herceptin®-Therapie zu überdenken, bei einem Score von 1+ wird
+nicht therapiert.
+Die Bestimmung des semiquantitativen Hercep- Test-Scores durch den Pathologen
+war unter anderem von der Wahl des Objektives (verschiedene Vergrößerungen),
+von der Wahl der Lichtstärke im Mikroskop und vom ständigen Durchfokussieren des
+Präparates während der Auswertung abhängig. Ohne Beurteilung der Zellmembran
+auf mehreren Fokusebenen konnte beispielsweise die Vollständigkeit einer Membrananfärbung übersehen werden. Bei Verwendung eines höheren Objektives und
+
+Diskussion
+
+47
+
+einer größeren Lichtstärke erschien die Färbung intensiver. Ferner resultierte aus
+einem dünneren Gewebeschnitt eine geringere Signalintensität, da das lichtmikroskopisch sichtbare Signal der immunhistochemischen Färbung durch eine Aufsummierung von Einzelsignalen entsteht. Die Problematik bei der Beurteilung des HercepTest-Scores, speziell bei einer Differenzierung zwischen 1+ und 2+ beziehungsweise 2+ und 3+, ist ein häufig diskutiertes Thema in der Literatur.
+
+5.3.2 Bewertung der Immunhistochemie zur Darstellbarkeit von HER2/neu
+
+Der Nachweis einer Überexpression des HER-2/neu- Rezeptorproteins ist durch die
+IHC möglich. Die ICH ist ein kostengünstiges und zugleich zügiges Verfahren. Die
+Technik erfordert einen geringeren methodischen Aufwand als die FISH und ist im
+Allgemeinen in pathologischen Instituten etabliert (Hoang et al. 2000; Pauletti et al.
+2000; Wang et al. 2000; Perez et al. 2002). Ferner kann mittels IHC auch in den seltenen Fällen (3-10%) eine HER-2/neu- Proteinüberexpression nachgewiesen werden, in denen eine Genamplifikation fehlt (Slamon et al. 1989b, Pauletti et al. 1996,
+Persons et al. 1997, Jacobs et al. 1999, Jimenez et al 2002, Lebeau et al. 2001). Zur
+Bestimmung der HER-2/neu- Proteinexpression stehen viele verschiedene Anti-HER2/neu-Antikörper mit einer hohen Variabilität bezüglich der Sensitivität und der Spezifität zur Verfügung (Busmanis et al. 1994, Press et al. 1994). Außer von der Wahl der
+Antikörper sind die Ergebnisse der immunhistochemischen Färbung vom präparativen Vorgehen, der Antigendemaskierung sowie Unterschieden in der Gewebefixierung und der Gewebeverarbeitung abhängig (Wang et al. 2000, Bartlett et al. 2001,
+Hanna et al. 2001). So zeigen beispielsweise verschiedene Antikörper je nach Fixierung verschiedene Färbeintensitäten (Penault-Llorca et al. 1995). Unterschiedliche
+Auswertungsschemata (Press et al. 1993, Press et al. 1994b, Allred et al. 1998,
+Hanna 2001) und eine subjektive Bewertung der HER-2/neu- Proteinüberexpression
+(Hoang et al. 2000, Bartlett et al. 2001) erschweren einen Vergleich verschiedener
+Ergebnisse.
+Da bei der vorliegenden Studie formalinfixiertes Archivmaterial Verwendung fand,
+musste vor Anwendung des Primärantikörpers noch eine Demaskierung des
+HER2/neu erfolgen. Vergleichende Untersuchungen von Press et al. konnten bei
+durchgeführten Biopsien, in Abhängigkeit von der verwendeten Technik zum „antigen
+
+Diskussion
+
+48
+
+retrieval“, bei Mammakarzinomen unterschiedliche Sensitivitäten nachweißen. In der
+selben Studie konnten Press und Mitarbeiter zeigen, dass Frischmaterial deutlich
+höhere Positivitätsraten bei der HER2/neu–Überexpression aufweist als formalinfixiertes Gewebe vom selben Tumor. Dies könnte eine Erklärung für unsere relativ
+geringe Anzahl an Überexpression sein. Abgesehen von der Vorbehandlung der Gewebe, hat es den Anschein, dass die Spezifität und auch die Sensitivität verschiedener kommerziell erhältlicher HER2/neu – Antikörper ein Grund für die variierende
+Überexpressionsrate sein könnte (Mitchell et al. 2003).
+Auch ist die Bewertung immunhistochemischer Schnitte subjektiven Einflüssen unterlegen, die durch eine Heterogenität im Tumor zusätzlich die Einordnung erschweren.
+Zur Ergänzung der Immunhistochemie wird seit einiger Zeit auch die Durchführung
+der Fluoreszenz-in-situ-Hybridisierung (FISH) favorisiert. Khan und Mitarbeiter waren
+die ersten, die bei Kopf-Hals-Karzinomen eine Studie der Immunhistochemie mit einer FISH-Analyse ergänzend durchgeführt haben. Hier wurden in 4 von 19 Fällen
+eine Amplifikation mittels FISH-Untersuchung nachgewiesen.
+
+5.4
+
+Fluoreszenz-in-situ-Hybridisierung (FISH)
+
+Um eine hohe Qualität mit der gewünschten Methode erreichen zu können, muss
+geeignetes Material verfügbar sein. Für die FISH sollte das Material als dünne
+Schicht vorliegen, optimal ist eine Einzellage der Zellen. Außerdem sollte möglichst
+wenig Hintergrund vorhanden sein, der durch Eigenfluoreszenz die Signalintensität
+beeinflussen kann.
+
+5.4.1 FISH zur Bestimmung des HER-2/neu-Status
+
+In der Studie von Scheer et al. wurden an 42 Patienten eine FISH- Untersuchung
+angewandt, von denen 14 eine Amplifikation aufwiesen. Bezug nehmend auf die
+Übereinstimmung zwischen FISH und Immunhistochemie geht aus der Studie hervor,
+dass in 8 Fällen eine Amplifikation in der FISH nachzuweisen war, ohne dass in der
+Immunhistochemie eine Überexpression darzustellen war.
+
+Diskussion
+
+49
+
+In dieser Arbeit wurden an drei Fällen, die bei der Immunhistochemie unter Anwendung des vollautomatischen Verfahrens stark Positiv (3+) sich darstellten, eine FISHUntersuchung durchgeführt. Alle FISH-Untersuchungen waren negativ, es ließen sich
+keine Amplifikationen nachweisen.
+Erklärung hierfür könnte zum eine sein, dass eine Vermehrung der Genkopien nicht
+zwingend mit einer Überexpression an der Zelloberfläche einhergehen muss, da
+posttranskriptionale und posttranslationale Vorgänge in einer Zelle zu Veränderungen des Proteinprodukts führen können und zum anderen längere Fixierungszeiten in
+ungepuffertem Formalin, die eine Quervernetzung der HER2/neu –Rezeptoren zur
+Folge haben könnten. Ferner ist auch eine Erhöhung der Temperatur bei der Paraffineinbettung ein möglicher Grund, wieso es zu einem Verlust der HER2/neuAntigenität kommt.
+Bei Untersuchungen an Mammakarzinomen, welche in großem Umfang stattfanden
+(Schandelmaier 2002), zeigte sich eine 90%ige Übereinstimmungsrate zwischen
+Immunhistochemie und FISH. Bei Mundhöhlenkarzinomen konnte jedoch weder bei
+einem Vergleich mit klinisch- pathologischen Daten noch mit dem Überleben eine
+Korrelation zum HER2/neu Status aufgezeigt werden (Scheer et al.2003). Andere
+Arbeitsgruppen (Baulida et al. 1996, Benz et al.1993, Bieche et al. 1999, Bue et al.
+1998) zeigten, mit unseren Untersuchungen im Einklang stehenden Ergebnisse. Es
+bleibt jedoch zu erwähnen, dass alle Studien, die sich mit oralen Plattenepithelkarzinomen befassen, eine im Vergleich zu den Untersuchungen beim Mammakarzinom
+sehr geringe Fallzahl aufweisen. Verschiedentlich wurde in Untersuchungen eine
+Korrelation zwischen dem rezidivfreiem Überleben, respektive dem Gesamtüberleben und einer Amplifikation bzw. Überexpression von HER2/neu beobachtet (Charoenrat et al. 2002).
+
+5.4.2 Bewertung der FISH zur Darstellbarkeit von HER2/neu
+
+Der Nachweis einer Amplifikation des HER-2/neu-Gens wird durch FISH – Methode
+erbracht.
+Die FISH- Methode besitzt, gemessen an der Immunhistochemie eine eindeutig höhere Spezifität und Sensitivität (Pauletti et al. 1996, Press et al. 1997, Ross und Flet-
+
+Diskussion
+
+50
+
+cher 1999) ferner besitzt die FISH-Methode eine höhere Reproduzierbarkeit (Jacobs
+et al. 2000, Persons et al. 2000).
+Ein weiter Vorteil der FISH-Methode liegt in der höheren Stabilität der DNA. Sie erweist sich in der Gewebsverarbeitung und vor allem in der Gewebefixierung als deutlich robuster als die Immunhistochemie (Greer et al. 1991, Wang et al. 2000). Kritisch
+zu bewerten ist, dass der Zeit- und Kostenaufwand der Immunhistochemie deutlich
+geringer ist, ferner setzt die Auswertung der FISH–Technik eine speziellere Ausstattung auf der Laborseite voraus. (Jacobs et al. 1999, Tanner et al. 2000, Wang et al.
+2000, Hanna 2001, Lebeau et al. 2001, Perez et al. 2002).
+
+5.5
+
+Vergleich von IHC und FISH
+
+In der vorliegenden Arbeit zeigten 110 (71,9%) der 153 untersuchten Plattenepithelkarzinome einen HercepTest-Score von 0 oder 1+. Eine Überexpression des HER2/neu-Rezeptorproteins fand sich in 43 (28,1%) der Fälle, wobei der HercepTestScore in 38 (24,8%) Fällen mit 2+ und in 5 (3,3%) Fällen mit 3+ bewertet wurde. Am
+Plattenepithelkarzinom wurden zahlreichen Studien des immunhistochemische
+HER2/neu-Status untersucht. Die dabei publizierten Ergebnisse sind uneinheitlich:
+So schwankt der Anteil der als HER2/neu-überexprimierend beschriebenen Plattenepithelkarzinom zwischen 11-% und 53-% (Scheer et al.2003). Diese großen Schwankungen sind in erster Linie durch Unterschiede im Studiendesign, in der immunhistochemischen Färbetechnik und in der Auswertungsmethodik (Lebeau et al. 2001),
+verschiedene Auswertungsschemata (Press et al. 1993, Press et al. 1994b, Allred et
+al. 1998, Hanna 2001), verschiedene Gewebefixierungen und Gewebeverarbeitungen (Wang et al. 2000, Hanna 2001, Lebeau et al. 2001) sowie in der Auswertung
+unterschiedlicher Tumorarten begründet.
+Die Entstehungsmechanismen einer HER-2/neu-Proteinüberexpression in nichtamplifizierten Tumoren sind nicht vollständig geklärt. Diskutiert werden verschiedene
+molekulare Ereignisse wie beispielsweise eine Aktivierung auf Transkriptions- oder
+Posttranskriptionsebene, die zu einer gesteigerten Rezeptorexpression auf der Zelloberfläche führt (Slamon et al. 1987, Earp et al. 1995). Ferner besteht die Möglichkeit
+von falsch-positiven Ergebnissen der Immunhistochemischen Färbung (Tsuda et al.
+
+Diskussion
+
+51
+
+2001). Auch die Auswirkung einer Chromosom 17-Polyploidie auf die HER-2/neuProteinexpression ist nicht sicher geklärt; sie scheint jedoch bis auf wenige Ausnahmen keine signifikante Rolle zu spielen (Wang et al. 2002). Eine Genamplifikation
+ohne erfassbare Proteinüberexpression wird in der Literatur in 2-9% der Fälle berichtet (Slamon et al. 1989a, Ciocca et al. 1992, Jacobs et al. 1999, Hoang et al. 2000,
+Lebeau et al. 2001, McCormick et al. 2002). Gründe hierfür könnten in einer abnormen oder herunter regulierten Transkription oder Translation mit konsekutiv abnormer Proteinproduktion beziehungsweise geringerer Proteinexpression liegen (Lebeau
+et al. 2001). Zudem besteht die Möglichkeit, dass die Behandlung des Tumorgewebes durch Formalinfixierung und Paraffineinbettung zu einem Antigenitätsverlust der
+HER-2/neu-Rezeptoren führt (Khan et al. 2002).
+
+5.6
+
+Wertigkeit von IHC und FISH
+
+Sowohl die FISH als auch die IHC sind aufgrund ihrer Durchführbarkeit und Auswertung zur Bestimmung des HER-2/neu-Status von Mammakarzinomzellen geeignet.
+Die Frage, die sich uns stellt, ist die, in wie weit dies auch auf das orale Plattenepithel zutrifft. Unter der Voraussetzung, dass für eine Therapie mit dem monoklonalen Anti-HER-2/neu-Antikörper Herceptin® eine Amplifikation vorliegen muss, wäre
+der FISH-Test alleine zur Bestimmung des HER-2/neu-Status ausreichend. Ferner ist
+der Materialwert eines FISH-Tests mit etwa 60 Euro pro Fall erheblich höher im Verhältnis zur IHC mit etwa 5-10 Euro pro Fall. Weitere Vorteile des immunhistochemischen Tests bestehen im geringeren methodischen Aufwand und einer schnelleren
+Auswertung ohne spezielle Auswertungstabellen. Die Aussagekraft beider Methoden
+ist jedoch bezugnehmend auf das Plattenepithel kritisch zu bewerten, da zumindest
+in unseren Untersuchungen kein Ergebnis eine signifikante Aussage darstellte.
+
+5.7
+
+Die Rolle des EGFR
+
+Es ist offensichtlich so, dass dem EGFR eine besondere Bedeutung bei der oralen
+Kanzerogenese beizumessen ist, da hier gehäuft eine Co-Amplifikation der beiden
+
+Diskussion
+
+52
+
+Homologen aus der Familie der epidermalen Wachstumsfaktoren anzutreffen ist
+(Charonenrat et al. 2002).
+Charonenrat konnte auch eine Korrelation zwischen HER2/neu und der EGFRAmplifikation, sowie der Intensität und dem Lymphknotenbefall herstellen. Er stellte
+fest, dass nur eine erhöhter EGFR und nicht ein erhöhter HER2/neu Level mit einer
+gering verkürzten Überlebenszeit assoziiert ist (Charonenrat et al. 2002).
+
+5.7.1 EGFR als Prognosefaktor
+
+Die häufigsten Mechanismen, die einer Überexpression eines Onkogens auf molekulare Ebene zugrunde liegen, sind Genamplifikation, Punktmutation, Translokation
+oder transkriptionelle Hochregulation. Im normalen Plattenepithel fand sich bei den
+durchgeführten Untersuchungen vor allem in den basalen und parabasalen Schichten eine kräftige EGFR-Färbung, die zu den oberen, weiter differenzierten Schichten
+hin abnahm bzw. ganz verschwand, was mit den Ergebnissen von Goeppinger et al.
+(1989) und Berchuck et al.(1990) übereinstimmt. Dies ließ Maruo et al. (1992) eine
+Rolle des Rezeptors bei der Proliferation des Plattenepithels vermuten, wohingegen
+er bei der Differenzierung des Epithels offensichtlich an Einfluss verliert, ähnlich wie
+HER2.
+Auch in unserer Studie waren die Färbungen überwiegend membranständig mit einer
+schwachen bis mäßigen zytoplasmatischen Färbung. Dies entspricht der Lokalisation
+des membranständigen Rezeptors, der im Zuge der Internalisation und des Recycling-Mechanismus zu bestimmten Zeitpunkten auch im Zytosol nachweisbar ist. Insgesamt war das Färbemuster homogen. Eine starke Expression fanden wir in 33,3
+Prozent der Fälle. Eine recht ähnliche Anzahl an Überexpressionen finden sich auch
+bei Krister et al. (1996) der Plattenepithelkarzinome in der der Mundschleimhaut
+recht ähnlichen Zervixschleimhaut untersuchte. Er stellte bei 28,5 Prozent von 132
+Plattenepithelkarzinomen der Zervix eine Expression, die als Überexpression beschrieben wurde, fest.
+Da der Rezeptor im normalen Plattenepithel deutlich exprimiert wird, kann im Vergleich zu den invasiven Karzinomen kaum von einer Überexpression des EGFRezeptors gesprochen werden wie dies Ozanne et al. (1986) taten. Es hatte bei un-
+
+Diskussion
+
+53
+
+seren Ergebnissen im Gegenteil eher den Anschein, als wäre in den invasiven Karzinomen die Färbung teilweise schwächer, so als würde der Rezeptor im Vergleich
+zum Normalepithel herunter reguliert werden. Dies stimmt mit den Ergebnissen von
+Kimmig et al. (1997) und Pfeiffer et al. (1998) überein, wo dieses nur für Plattenepithelkarzinome postuliert wurde. Dies lässt vermuten, dass eine Entdifferenzierung
+der Zellen im Laufe der malignen Transformation zu einer Reduktion von EGFR führen kann. Es gibt Studien, die besagen, dass HPV-immortalisierte Keratinozyten nicht
+länger eines EGF-Stimulus als Wachstumsreiz bedürfen, was bedeuten würde, dass
+eine EGFR-Aktivierung in der Mundschleimhaut als Proliferationsreiz nicht mehr essentiell ist und damit eine reduzierte EGFR-Expression erklärt werden könnte. Teilweise war das Färbemuster in den invasiven Karzinomen bei unserer Auswertung
+wie bei Berchuck et al. (1990) homogen über das gesamte Epithel verteilt und nicht
+wie im gesunden Epithel auf die basalen Schichten beschränkt. Es kam in unseren
+Präparaten jedoch auch vor, dass in den Tumorzellnestern das gleiche Muster wie im
+gesunden Epithel gefunden wurde mit einer stärkeren Färbung der basalen Zellen
+und einer schwächeren Färbung der Zellen in der Mitte der Nester. Dies lässt ein der
+ursprünglichen Funktion des Epithels nahe liegendes Verhalten des Tumors vermuten, was gegen eine starke Entdifferenzierung spricht. Ein ähnliches Färbemuster
+wurde auch von Kersemakers et al. (1999) beschrieben.
+
+5.8
+
+Therapeutische Möglichkeiten
+
+Seit einigen Jahren ist beim Mammakarzinom bekannt, dass im fortgeschrittenen
+(metastasierten) Status die Kombinationsbehandlung von Trastuzumab (Herceptin®)
+und einem Chemotherapeutikum den betroffenen Patientinnen einen Überlebensvorteil verschafft (Slamon et al. 2001; Ranson und Sliwkowski, 2002). Die Therapie mit
+Herceptin® ist an verschiedene Voraussetzungen gebunden. In den aktuellen Behandlungsrichtlinien (Piccart 2001) wird eine solche Behandlung nur dann empfohlen, wenn immunhistochemisch ein HER2/neu-Score von 3+ oder mittels FISHTechnik bei Fällen mit einem immunhistochemischen Score 2+ eine HER2/neuGenamplifikation nachgewiesen werden kann. Wie im vorangegangenen Abschnitt
+dargelegt wurde, bestehen hinsichtlich der Frequenz der HER2/neu-Genamplifikation
+zwischen Mamma- und Plattenepithelkarzinom erhebliche Unterschiede.
+
+Diskussion
+
+54
+
+Daher erscheint es zweifelhaft, ob die für das Mammakarzinom geltenden Herceptin® Behandlungsrichtlinien ohne weiteres auch auf das Plattenepithelkarzinom der
+Mundschleimhaut übertragbar sind.
+
+Zusammenfassung
+6
+
+55
+
+Zusammenfassung
+
+Die Tyrosin-Kinase-Rezeptoren EGFR und HER2/neu sind Proto-Onkogene, die
+durch Genamplifikation oder Überexpression der Genprodukte aktiviert werden können. In der vorliegenden Arbeit wurden 153 Orale Plattenepithelkarzinome aus der
+Klinik und Poliklinik für Mund-, Kiefer-Gesichtschirurgie Westfälischen-WilhelmsUniversität Münster untersucht.
+Zu diesem Zweck stellten wir Mikroarrays der Tumorgewebe zusammen. Die EGFRund HER2/neu-Proteinexpressionen wurden mittels Immunhistochemie (IHC) bestimmt. In der vorliegenden Studie folgten wir der Frage , in welchem quantitativen
+Ausmaß bei oralen Plattenepithelkarzinomen eine HER2/neu-Überexpression und
+eine HER2/neu-Genamplifikation vorkommt. Es wurde auf einen Zusammenhang
+zwischen HER2/neu-Überexpression und HER2/neu-Genamplifikation hin untersucht.
+Weiterhin Prüften wir, ob die HER2/neu-Überexpression bzw. -Genamplifikation einen Einfluss auf die Prognose der betroffenen Patienten besitzt. Ferner wurde auf
+eine EGFR-Überexpression hin untersucht und dessen Auswirkungen auf das Überleben der Patienten.
+Die immunhistochemische Analyse wurde an insgesamt 207 Gewebeproben die aus
+dem Gerhard-Domagk-Institutes für Pathologie der Westfälischen Wilhelms- Universität Münster von 32 Frauen und 175 Männern im Alter von 33- bis 87 Jahren stammen durchgeführt. Das Duchschnittsalter betrug 57.87 Jahre. Bei ihnen wurde ein
+Plattenepithelkarzinom in der Mundhöhle diagnostiziert und in der Zahn-, Mund- und
+Kieferchirurgie der Universität Münster zwischen 1983 und 1997 operativ entfernt.
+Um eine Optimale Vergleichsmöglichkeit und somit eine hohe Aussagekraft gewährleisten zu können haben wir nur die Patienten miteinander in Beziehung gebracht,
+bei denen in allen untersuchten Kategorien Ergebnisse vorlagen.
+Es blieben153 Patienten , im Alter von 33 bis 87 Jahren übrig, wovon 130 männlich
+und 23 weiblich waren. Das Durchschnittsalter bei der Diagnose betrug 58,49 Jahre.
+Von den 153 Patienten haben 66 die 5 Jahre nach dem entfernen des Tumors überlebt und gelten somit als geheilt. 87 Patienten sind an den Folgen ihren Krebsleiden
+verstorben. Bei 67 Patienten war es möglich, die genaue Überlebenszeit in Monaten
+zu erfassen. Die durchschnittliche Überlebenszeit der Verstorbenen betrug 37.48
+
+Zusammenfassung
+
+56
+
+Monate. In der vorliegenden Arbeit haben wir zwei verschiedene immunhistochemische Färbemethoden (AK A0485 / AK CB11 ) angewandt.
+Es zeigte sich unter den Tumoren, die mit dem vollautomatischen Verfahren (AK
+CB11) untersucht wurden eine HER2/neu-Überexpression von 28%: stark (3+) 3,3%
+/ moderat ( 2+) 24,8%. Das halbautomatische Verfahren (AK A0485) stellte sich als
+wenig aussagestark da, bei diesem Verfahren waren alle Proben negativ. Es ließ
+sich zwar die Tendenz feststellen, dass je ausgeprägter die Überexpression, desto
+kürzer die Überlebenszeit war, jedoch ist diese Aussage nicht signifikant. Ferner
+stellten wir auch keine signifikanten Unterschiede zwischen den Geschlechtern fest,
+was allerdings auch durch den geringen Frauenanteil relativiert wird. Mittels FISHAnalyse konnten wir keine starke Genamplifikation in den untersuchten Karzinomen
+nachweisen.
+Angesichts der hier beschriebenen Ergebnisse, dass beim oralen Plattenepithelkarzinom ein relativ geringer Anteil von 3,3 % eine starke HER2/neu-Überexpression
+aufweist, erscheint diese Krebsart für eine Herceptin®-Behandlung nicht geeignet.
+Erfolgsversprechender erscheint hier eher ein Ansatz über den EGF-Rezeptor, der
+zumindest mit 33%: stark ( 3+) 7,2 % / moderat (2+) 26,1%
+
+überexprimiert ist und
+
+dessen Bestimmung durch Immunhistochemie auch in der täglichen Routinediagnostik problemlos durchführbar ist.
+
+Literaturverzeichnis
+
+57
+
+7
+
+Literaturverzeichnis
+
+1.
+
+Aarstad HJ, Aarstad AK, Heimdal JH, Olofsson J (2005): Mood, anxiety and
+sense of humor in head and neck cancer patients in relation to disease stage,
+prognosis and quality of life. Acta Otolaryngol, 125(5), 557-565
+
+2.
+
+Allred DC, Harvey JM, Berardo M, Clark GM (1998): Prognostic and predictive
+factors in breast cancer by immunohistochemical analyses, Mod Pathol, 11:
+155-168
+
+3.
+
+Aroian RV, Koga M, Mendel JE, Ohshima Y, Sternberg PW (1990): The let-23
+gene necessary for Caenorhabditis elegans vulval induction encodes a
+tyrosine kinase of the EGF receptor family. Nature, 348, 693-699
+
+4.
+
+Bankfalvi A, Kraßort M, Vegh A, Felszeghy E, Piffko J (2002): Deranged
+expression of the E-cadherin/beta-catenin complex and the epidermal growth
+factor receptor in the clinical evolution and progression of oral squamous cell
+carcinomas, J Oral Pathol Med, 31: 450-7
+
+5.
+
+Bartlett JMS, Going JJ, Mallon EA, Watters AD, Reeves JR, Stanton P,
+Richmond J, Donald B, Ferrier R, Cooke TG (2001): Evaluating HER2
+amplification and overexpression in breast cancer J Pathol, 195: 422-428
+
+6.
+
+Bartsch JK (1996): Zahn-, Mund- und Kiefererkrankungen. Ferdinand Enke
+Verlag Stuttgart, 2 Aufl., S 61-64.
+
+7.
+
+Batzler WU, Bertz J, Eisinger B, Hentschel S, Husmann G, KieschkeJ, Lehnert
+M, Oberhausen R, Schmidtmann I und Schneider D (2002): Weibliche
+Brustdr¨use.In: Arbeitsgemeinschaft Bev¨olkerungsbezogener Krebsregister in
+Deutschland (Hrsg.):Krebs in Deutschland - Häufigkeiten und Trends. Saarbrücken, 3. erweiterte, aktualisierte Ausgabe, S. 9-51.
+
+8.
+
+Baulida J, Kraus MH, Alimandi M, Di Fiore PP, Carpenter G (1996): All ErbB
+receptors other than the epidermal growth factor receptor are endocytosis
+impaired. J Biol Chem. 271(9):5251-7
+
+9.
+
+Berchuck A., Rodriguez G., Kamel A., Soper J.T., Clarke-Pearson D.L., Bast
+R.C.Expression of Epidermal Growth Factor Receptor and HER-2/Neu in
+Normal and NeoplasticCervix, Vulva, and Vagina.Obstet Gynecol 76, 381-387
+(1990)
+
+Literaturverzeichnis
+
+58
+
+10.
+
+Benz CC, Scott GK, Sarup JC, Johnson RM, Tripathy D, Coronado E, Shepard
+HM, Osborne CK (1993): Estrogen-dependent, tamoxifen resistant tumorigenic
+growth of MCF-7 cells transfected with HER2/neu. Breast Cancer Res Treat.
+24(2):85-95
+
+11.
+
+Bieche I, Onody P, Laurendeau I, Olivi M, Vidaud D, Lidereau R, Vidaud M
+(1999): Real-time reverse transcription-PCR assay for future management of
+ERBB2-based clinical applications. Clin Chem. 45(8 Pt 1):1148-56
+
+12.
+
+Blot WJ, McLaughlin JK, Winn DM (1988): Smoking and drinking in relation to
+oral and and pharyngeal cancer Cancer Res, 48: 3282-87
+
+13.
+
+Brugere J, Guenel P, Leclerc A, Rodriguez J (1986): Differentia effects of
+tobacco and alcohol in cancer of the larynx, pharynx and mouth, Cancer, 57:
+391-5
+
+14.
+
+Bryne M, Koppang HS, Lilleng R, Stene T, Bang G, Dabelsteen E (1989): New
+malignancy grading is a better prognostic indicator than Broder´s grading in
+oral squamous cell carcinomas J Oral Pathol Med, 18: 432-7
+
+15.
+
+Bue P, Wester K, Sjostrom A, Holmberg A, Nilsson S, Carlsson J, Westlin JE,
+Busch C, Malmstrom PU (1998): Expression of epidermal growth factor
+receptor in urinary bladder cancer metastases. IntCancer.76(2): 189-93
+
+16.
+
+Busmanis I, Feleppa F, Jones A, McGrath KM, Reed R, Collins J, Russell I,
+Begley CG (1994): Analysis of cerbB2 expression using a panel of six
+commercially available antibodies Pathology, 26: 261-267
+
+17.
+
+Charoenrat P, Rhys-Evans PH, Archer DJ (2002): C-erbB receptors in
+squamous cell carcinoma of the head and neck: clinical significance and
+correlation with matrix metalloproteinases and vascular endothelial growth
+factors. Oral Oncol. 38:73–80
+
+18.
+
+Chen PC, Kuo C, Pan CC, Chou MY (2002): Risk of oral cancer associated
+with human papillomavirus infection, betel quid chewing and cigarette smoking
+in Taiwan - an integrated molecular and epidemiologicalstudy of 58 cases J
+Oral Pathol Med, 31: 317-22
+
+19.
+
+Ciocca DR, Fujimura FK, Tandon AK, Clark GM, Mark C, Lee-Chen GJ,
+Pounds GW, Vendely P, Owens MA, Pandian MR (1992): Correlation of HER2/neu amplification with expression and with other prognostic factors in 1103
+breast cancers J Natl Cancer Inst, 84: 1279-1282
+
+Literaturverzeichnis
+
+59
+
+20.
+
+Citri A, Skaria KB, Yarden Y (2003): The deaf and the dumb: the biology of
+ErbB-2 and ErbB-3. Exp Cell Res. 284(1):54-65
+
+21.
+
+Cox G, Vyberg M, Melgaard B, Askaa J, Oster A, O´Brien KJ (2001)
+HercepTest: HER2expression and gene amplification in non-small cell lung
+cancer. Int J Cancer 92: 480-483.
+
+22.
+
+Earp HS, Dawson TL, Li X, Yu H (1995): Heterodimerization and functional
+interaction between EGF receptor family members: A new signaling paradigm
+with implications for breast cancer research Breast Cancer Res Treat, 35: 115132
+
+23.
+
+Elwood JM, Pearson JCG, Skippen DH, Jackson SM (1984): Alcohol,
+smoking, social and occupational factors in the etiology of cancer of the oral
+cavity, pharynx and larynx. Int. J. Cancer 34: 603-612
+
+24.
+
+Evans PR (1997): Tumors of the oropharynx and lymphomas of the head and
+neck. In: Hibbert, J.(Hrsg.) Scott-Brown´s Otolaryngology (Bd 5) Laryngology
+and head and neck surgery. (6. Aufl.) Oxford, Boston, Johannesburg,
+Melbourne New Dehi Singapore, Butterworth-Heinemann: 14.1-14.18
+
+25.
+
+Fisher ER, Costantino J, Fisher B, Redmond C (1993): Pathologic findings
+from the National Surgical Adjuvant Breast Project (Protocol 4). Discriminants
+for 15-year survival. National Surgical Adjuvant Breast and Bowel Project
+Investigators. Cancer. 1993 Mar 15;71(6 Suppl): 2141-50
+
+26.
+
+Forastiere A (1994): Overview of platinum chemotherapy in head and neck
+cancer. Semin Oncol. 21: p. 20-27.
+
+27.
+
+Fossa S (2002):Extragonadal germ cell tumors of the mediastinum and
+retroperitoneum Journal of Clinical Oncology, Vol 20, Issue 7 (April), 18641873 American Society for Clinical Oncology
+
+28.
+
+Ganly I, Soutar D, Kaye S (2000) Current role of gene therapy in head and
+neck cancer. Eur J Surg Oncol. 26(4): p. 338-43
+
+29.
+
+Giovanelli L, Campisi G, Lama A, Giambalvo O, Osborn J, Margiotta V,
+Ammatuna P (2002): Human papillomavirus DNA in oralmucosal lesions J
+Infect Dis, 185: 833-6
+
+30.
+
+Goeppinger A, Wittmaack FM, Wintzer HO, Ikenberg H, Bauknecht T (1989):
+Localization of human epidermal growth factor receptor in cervical
+intraepithelial neoplasias. J Cancer Res Clin Oncol; 115: 259-263
+
+Literaturverzeichnis
+
+60
+
+31.
+
+Gouin G (2007): Serum Protein Profile Analysis Following Definitive Treatment
+in Patients With Head and Neck Squamous Cell Carcinoma Arch Otolaryngol
+Head Neck Surg;133:1125-1130
+
+32.
+
+Graus-Porta D, Beerli RR, Daly JM, Hynes NE (1997): ErbB-2, the preferred
+heterodimerization partner of all ErbB receptors, is a mediator of lateral
+signaling. EMBO J. 16(7):1647-55
+
+33.
+
+Graus-Porta D, Beerli RR, Hynes NE (1995): Single-chain antibody-mediated
+intracellular retention of ErbB-2 impairs Neu differentiation factor and
+epidermal growth factor signaling. Mol Cell Biol. 15(3):1182-91
+
+34.
+
+Grimm G (1990): Geschülste im Mund- und Kieferbereich, in Zahn-Mund-und
+Kieferheilkunde, Band 2, N. Schwenzer, Editor. 1990, Grimm, G: StuttgartNew York. p. 253-357
+
+35.
+
+Grundmann E (1994): Einführung in die allgemeine Pathologie 9. Auflage,
+Gustav Fischer Verlag, Stuttgart.
+
+36.
+
+Guy PM, Platko JV, Cantley LC, Cerione RA, Carraway KL 3rd. (1994): Insect
+cell-expressed p180erbB3 possesses an impaired tyrosine kinase activity.
+Proc Natl Acad Sci U S A. 91(17):8132-6
+
+37.
+
+Hanna W (2001): Testing of HER2 status Oncology, 61 (suppl 2): 22-30
+
+38.
+
+Harris AL, Nicholson S, Sainsbury R, Wright C, Farndon J (1992): Epidermal
+growth factor receptor and other oncogenes as prognostic markers. J Natl
+Cancer Inst Monogr. (11):181-7
+
+39.
+
+Hermanek P, Sobin LH (1987): Union Internationale contre le Cancer - UICC.
+TNM-Klassifikation maligner Tumoren 4. Auflage, Springer-Verlag, Berlin Heidelberg - New York - Tokio
+
+40.
+
+Hoang MP, Sahin AA, Ordonez NG, Sneige N (2000): HER-2/neu gene
+amplification
+compared
+with
+HER-2/neu
+protein
+overexpression
+andinterobserver reproducibility in invasive breast carcinoma Am J Clin Pathol,
+113: 852-859
+
+41.
+
+Howaldt HH, Pitz, Frenz M (1991):Verbesserte TMN Klassifikation Fortschritte
+der Kiefer- und Gesichtschirurgie 39: 167-9
+
+42.
+
+Jacobs TW, Gown AM, Yaziji H, Barnes MJ, Schnitt SJ (1999): Comparison of
+fluorescence in situ hybridization and immunohistochemistry for the evaluation
+of HER-2/neu in breast cancer. J Clin Oncol; 17 (7): 1974-82
+
+Literaturverzeichnis
+
+61
+
+43.
+
+Jacobs TW, Gown AM, Yaziji H, Barnes MJ, Schnitt SJ (2000): HER-2/neu
+protein expression in breast cancer evaluated by immunohistochemistry: A
+study of interlaboratory agreement Am J Clin Pathol, 113: 251-258
+
+44.
+
+Jahnke V (1995): Bösartige Tumoren des Larynx. In: Naumann HH, Helms J,
+Herberhold C, Kastenbauer E (Hrsg.): Oto-Rhino-Laryngologie in Klinik und
+Praxis, Band 3, Hals, Stuttgart, New York, Georg Thieme Verlag: 388-421
+
+45.
+
+Jiminez RE, Hussain M, Bianco FJ, Vaishampayan U, Tabazcka P, Sakr WA,
+Pontes JE,Wood DP, Grignon DJ (2001) HER-2/neu Overexpression in Muscle-invasive Urothelial Carcinoma of the Bladder: Prognostic Significance and
+Comperative Analysis in Primary and Metastatic Tumors. Clin Cancer Res 7:
+2440-2447.
+
+46.
+
+Karunagaran D, Tzahar E, Beerli RR, Chen X, Graus-Porta D, Ratzkin BJ Seger R, Hynes NE, Yarden Y (1996): ErbB-2 is a common auxiliary subunit of
+NDF and EGF receptors: implications for breast cancer. EMBO J. 15(2):25464
+
+47.
+
+Kersemakers AM, Fleuren GJ, Kenter GG, Van den Broek LJ, Uljee SM,
+Hermans J, Van den Vijver MJ (1999): Oncogene alterations in carcinomas of
+the uterine cervix: overexpression of the epidermal growth factor is associated
+with poor prognosis. Clin Cancer Res 1999 Mar; 5(3): 577-86
+
+48.
+
+Khan AJ, King BL, Smith BD, Smith GL, DiGiovanna MP, Carter D, Haffty BG
+(2002): Characterization of the HER-2/neu oncogene by immunohistochemical
+and fluorescence in situ hybridization analysis in oral and oropharyngeal
+squamous cell carcinoma Clin Cancer Res, 8: 540-548
+
+49.
+
+Kimmig R, Pfeiffer D, Landsmann H, Hepp H (1997): Quantitative
+determination of the epidermal growth factor receptor in cervical cancer and
+normal cervical epithelium by 2-color flow cytometry: evidence for
+downregulation in cervical cancer: Int J Cancer; 74: 365-373
+
+50.
+
+Klapper LN, Glathe S, Vaisman N, Hynes NE, Andrews GC, Sela M, Yarden Y
+(1999): The ErbB-2/HER2 oncoprotein of human carcinomas may function
+solely as a shared coreceptor for multiple stroma-derived growth factors. Proc
+Natl Acad Sci U S A. 96(9):4995-5000
+
+51.
+
+Krüger E (1988): Hyperplasien und Geschwülste des Mundes, der Kiefer Und
+des Gesichtes, in Lehrbuch der chirurgischen Zahn-, Mund- und Kieferheilkunde Band 2, E. Krüger, Editor, Die Quintessenz: Berlin, Chicago, Rio de Janeiro, Tokio. p. 305-478.
+
+Literaturverzeichnis
+
+62
+
+52.
+
+La Vecchia C, Travani A, Franceschi S, Levi F, Corrao G, Negri E (1997): Epidemiology and Prevention of oral cancer Oral Oncol, 33: 302-12
+
+53.
+
+Lebeau A, Deimling D, Kaltz C, Sendelhofert A, Iff A, Luthardt B, Untch M,
+Löhrs U (2001): HER-2/neu analysis in archival tissue samples of human
+breast cancer: Comparison of immunohistochemistry and fluorescence in situ
+hybridization J Clin Oncol, 19: 354-363
+
+54.
+
+Lind PO, Syrjanen SM, Syrjanen KJ, Koppang HS (1986); Aas, Local
+immunoreactivity and human papillomavirus (HPV) in oral precancer and
+cancer lesions Scand J Dent Res, 94: 419-26
+
+55.
+
+Lonn U, Lonn S, Nilsson B, Stenkvist B (1995): Prognostic value of erb-B2 and
+myc amplification in breast cancer imprints. Cancer 75: 3681-3687
+
+56.
+
+Maier H, Sennewald E (1994): Ergebnisse der Heidelberger Fallkontroll studien., in Plattenepithelkarzinome – Risikofaktoren für Plattenepithelkarzinome
+im Kopf-Hals-Bereich., H. Maier and E. Sennewald, Editors, HVBG: Sankt Augustin. p. 102-115
+
+57.
+
+Martinez I (1999): Factors associated with cancer of the esophagus, mouth
+and pharynx J Natl Cancer Inst, 42: 1069-94
+
+58.
+
+Maruo N, Morita I, Shirao M, Murota S (1992): IL-6 increases endothelial
+permeability in vitro Endocrinology, Vol 131, 710-714
+
+59.
+
+McCormick SR, Lillemoe TJ, Beneke J, Schrauth J, Reinartz J (2002): HER2
+assessment by immunohistochemical assays and fluorescence in situ
+hybridization Am J Clin Pathol, 117: 935-943
+
+60.
+
+Micke P, Hengstler JG, Ros R, Bittinger F, Metz T, Gebhard S, Beeh KM,
+Oeasch F, Buhl R (2001) C-erbB-2 expression in small-cell lung cancer is
+associated with poor prognosis. Int J Cancer 92: 474-479.
+
+61.
+
+Miller AB (1974): The epidemiology of oral cancer J Can Dent Assoc, 40: 211217
+
+62.
+
+Miller CS, Johnstone BM (2001): Human papillomavirus as a risk factor for oral
+squamous cell carcinoma: a meta-analysis, 1982-1997 Oral Surg Oral Med
+Oral Pathol Oral Radiol Endod, 91: 622-35
+
+63.
+
+Mitchell AL, Divoli A, Kim JH, Hilario M, Selimas I , Attwood TK( 2005):Multple
+extraction techniques for informative sentences.Bioinformation Advance
+Access 2005 21(22) 4196-4197.
+
+Literaturverzeichnis
+
+63
+
+64.
+
+Mittermayer C (1993): Oralpathologie. Erkrankungen der Mundregion. Schattauer Verlag, 3. Aufl, S 69-126
+
+65.
+
+Munro AJ, Biruls R, Griffin AV, Thomas H, Vallis KA (1989) Distress
+associated with radiotherapy for malignant disease: a quantitative analysis
+based on patients perceptiens. Br J Cancer; 60:370-4.
+
+66.
+
+Muir C, Waterhouse J, Mack T, Powell J, Whelan S (1997): Cancer incidence
+in five continents. IARC Scientific Publications, Vol 5, No. 88, Lyon
+
+67.
+
+Muir, C. and L. Weiland (1995). "Upper aerodigestive tract cancers." Cancer
+75(1 Suppl): 147-53.
+
+68.
+
+Muller S, Vigneswaran N, Gansler T, Gramlich T, De Rose PB, Cohen C
+(1994): C-erbB-2 oncoprotein expression and amplification in pleomorphic
+adenoma and carcinoma ex pleomorphic adenoma: relationship to prognosis.
+Mod Pathol 7: 628-632
+
+69.
+
+Neville BW, Day TA (2002): Oral cancer and precancerous lesions CA Cancer
+J Clin, 52: 195-215
+
+70.
+
+Nicolson GL (1987): Tumor cell instability, diversification, and progression to
+the metastatic phenotyp: from oncogene to oncofetal expression. Cancer Res
+47: 1473-1487
+
+71.
+
+Niibe Y, Nakano T, Ohno T, Suzuki Y, Oka K, Tsujii H (2003): Prognostic
+significance of cerbB-2/HER2 expression in advanced uterine cervical
+carcinoma with para-aortic lymph-node metastasis treated with radiation
+therapy. Int J Gynecol Cancer 13: 849-855
+
+72.
+
+Nolteenius H (1987): Tumor- Handbuch. Pathologie und Klinik der menschlichen Tumoren. Urban und Schwarzenberg, München, Wien, Baltimore, Bd2,2.
+Aufl, S 473-489
+
+73.
+
+Olayioye MA, Beuvink I, Horsch K, Daly JM, Hynes NE (1999): ErbB receptorinduced activation of stat transcription factors is mediated by Src tyrosine
+kinases. J Biol Chem. 274(24):17209-18
+
+74.
+
+Olayioye MA, Neve RM, Lane HA, Hynes NE (2000): The ErbB signaling
+network: receptor heterodimerization in develoment and cancer. The EMBO
+Journal Vol 19 No.13 pp 3159-3167
+
+Literaturverzeichnis
+
+64
+
+75.
+
+Osako T, Miyahara M, Uchino S, Inomata M, Kitano S, Kobayashi M (1998):
+Immunohistochemical study of c-erbB-2 protein in colorectal cancer and the
+correlation with patient survival. Oncology 55: 548-555
+
+76.
+
+Ozanne B, Richards CS, Hendler F, Burns D, Gusterson B (1986): Overexpression of the EGF receptor is a hallmark of squamous cell carcinomas. J
+Pathol 149: 9-14
+
+77.
+
+Parkin D, Muir C, Laara E (1984): Global burden of cancer, in World Health
+Organization and International Agency for Research on Cancer. International
+Agency for Research on Cancer: Lyon. p. 11
+
+78.
+
+Pauletti G, Dandekar S, Rong HM, Ramos L, Peng HJ, Seshadri R, Slamon
+DJ (2000): Assessment of methods for tissue-based detection of the HER2/neu alteration in human breast cancer: A direct comparison of fluorescence
+in situ hybridization and immunohistochemistry J Clin Oncol, 18: 3651-3664
+
+79.
+
+Pauletti G, Godolphin W, Press MF, Slamon DJ (1996): Detection and
+quantitation of HER-2/neu gene amplification in human breast cancer archival
+material using fluorescence in situ hybridization Oncogene, 13: 63-72
+
+80.
+
+Penault-Llorca F, Adelaide J, Houvenaeghel G, Hassoun J, Birnbaum D,
+Jacquemier J (1995): Optimization of immunohistochemical detection of
+ERBB2 in human breast cancer: Impact of fixation J Pathol, 173: 65-75
+
+81.
+
+Perez EA, Roche PC, Jenkins RB, Reynolds CA, Halling KC, Ingle JN, Wold
+LE (2002): HER2 testing in patients with breast cancer: Poor correlation with
+weak positivity by immunohistochemistry and gene amplification by
+fluorescence in situ hybridization Mayo Clin Proc, 77: 148-154
+
+82.
+
+Persons DL, Borelli KA, Hsu PH (1997): Quantitation of HER-2/neu and c-myc
+gene amplification in human breast cancer archival material using
+fluorescence in situ hybridization Mod Pathol, 10: 720-727
+
+83.
+
+Persons DL, Bui MM, Lowery MC, Mark HF, Yung JF, Birkmeier JM, Wong
+EY, Yang SJ, Masood S (2000): Fluorescence in situ hybridization (FISH) for
+detection HER2-neu amplification in breast cancer: A multicenter portability
+study Ann Clin Lab Sci, 30: 41-48
+
+84.
+
+Pfeiffer D, Kimmig R, Herrmann J, Ruge M, Fisseler-Eckhoff A, Scheidel P,
+Jensen A, Schatz H and Pfeiffer A (1998): Epidermal growth factor receptor
+correlates negatively with cell density in cervical squamous epithelium and is
+down-regulated in cancers of the uterus. Int. J. Cancer 79: 49-55
+
+Literaturverzeichnis
+
+65
+
+85.
+
+Piccart M (2001): Closing remarksx and treatment guidelines. Eur J Cancer
+37: 30-33
+
+86.
+
+Piffko J, Bankfalvi A, Ofner D, Bryne M, Rasch D, Joos U, Böcker W, Schmid
+KW ( 1997): Prognostic value of histobiological factors ( malignancy grading
+and AgNOR content) assessed at the invasive tumor front of oral squamous
+cell carcinomas. Br J Cancer 75 (10):1543-6.
+
+87.
+
+Platz H, Fries R, Hudec M (1983): Retrospektive DÖSAK-Studie über Karzinome der Mundhöhle. Therapieabhängiger Prognoseindex TPI. Dtsch. Z.
+Mund-Kiefer-Gesichts-Chir. 7: p. 287-296
+
+88.
+
+Press MF, Bernstein L, Thomas PA, Meisner LF, Zhou JY, Ma Y, Hung G, Robinson RA, Harris C, El-Naggar A, Slamon DJ, Phillips RN, Ross JS, Wolman
+SR, Flom KJ (1997): HER-2/neu gene amplification characterized by fluorescence in situ hybridization: Poor prognosis in node-negative breast carcinomas J Clin Oncol, 15: 2894-2904
+
+89.
+
+Press MF, Hung G, Godolphin W, Slamon DJ (1994b): Sensitivity of HER2/neu antibodies in archival tissue samples: Potential source of error in the
+immunohistochemical studies of oncogene expression Cancer Res, 54: 27712777
+
+90.
+
+Press MF, Pike MC, Chazin VR, Hung G, Udove JA, Markowicz M., Danyluk J,
+Godolphin W, Sliwkowski M, Akita R, Paterson MC, Slamon DJ (1993): HER2/neu expression in node-negative breast cancer: Direct tissue quantitation by
+computerized image analysis and association of overexpression with
+increased risk of recurrent disease Cancer Res, 53: 4960-4970
+
+91.
+
+Press MF, Pike MC, Hung G, Zhou JY, Ma Y, George J, Dietz-Band J, James
+W, Slamon DJ (1994a): Amplification and overexpression of HER-2/neu in
+carcinomas of the salivary gland: Correlation with poor prognosis Cancer Res,
+4: 5675-5682
+
+92.
+
+Ranson M, Sliwkowski M (2002): Perspectives on anti-HER monoclonal
+antibodies. Oncology 63: 17-24
+
+93.
+
+Riede U-N, Schaefer H-E(1995):Tumoren des weiblichen Genitale. In: Allg. u.
+spez. Pathologie. 4. Aufl. Thieme, Stuttgart, New York: 850-85
+
+94.
+
+Ringstrom E, Peters E, Hasegawa M, Posner M, Liu M, Kelsey KT (2002):
+Human papillomavirus type 16 and squamous cell carcinoma of the head and
+neck Clin Cancer Res, 8: 3187-92
+
+Literaturverzeichnis
+
+66
+
+95.
+
+Rolitsky CD, Theil KS, McGaughy VR, Copeland LJ, Niemann TH (1999):
+HER2 amplifikation and overexpression in endometrial carcinoma Int J
+Gynecol Pathol 18: 138-143.
+
+96.
+
+Ross JS, Fletcher JA (1999): HER-2/neu (c-erb-B2) gene and protein in breast
+cancer Am J Clin Pathol, 112 (suppl 1): S53-S67
+
+97.
+
+Salomon DS, Brandt R, Ciardiello F, Normanno N (1995): Epidermal growth
+factor-related peptides and their receptors in human malignancies. Crit Rev
+Oncol Hematol. 19(3):183-232
+
+98.
+
+Schandelmaier K (2002) Charakterisierung von Schlüsselproteinen der
+Signaltransduktion (EGF-R, c-erbB2, HSP90) in humaneTumorxenografts mittels Gewebemikroarray
+
+99.
+
+Scheer M ,Prange W, Petmecky K, Schirmacher P. Zöller J.E., Kübler C.
+(2003) Überexpression/ Amplifikation des HER-2/neu- Protoonkogens in oralen Plattenepithelkarzinomen Mund Kiefer Gesichtschirurgie 138-145.
+
+100. Schwenzer N (1994): Geschwülste im Mund-Kiefer-Gesichtsbereich in „Zahn-,
+Mund- und Kieferkrankheiten für Mediziner“ 1. Auflage, Georg Thieme Verlag,
+Stuttgart - New York, 8-38
+101. Seifert H, Dietrich C, Schmitt T, Caspary W, Wehrmann T (2000): Endoscopic
+ultrasound-guide one-step transmural drainage of cystic abdominal lesions
+with a large-channel endoscope.Endoscopy; 32:255-9
+102. Selvaggi G, Novello S, Torri V, Leonardo E, De Giuli P, Borasio P, Mossetti C,
+Ardissone F, Lausi P, Scagliotti GV (2004): Epidermal growth factor receptor
+overexpression correlates with a poor prognosis in completely resected nonsmall-cell lung cancer. Ann Oncol15(1):28-32
+103. Sisk EA, Bradford CR, Jacob A, Yian CH, Staton KM, Tang G, Harris MO,
+Carey TE, Lancaster WD, Gregoire L (2000): Human.papillomavirus infection
+in "young" versus "old" patients with squamous cell carcinoma of the head and
+neck Head Neck, 22: 649-57
+104. Slamon DJ, Clark GM, Wong SG, Levin WJ, Ullrich A, McGuire WL (1987):
+Human breast cancer: correlation of relapse and survival with amplification of
+the HER-2/neu oncogene. Science. 235(4785):17 82. 96
+
+Literaturverzeichnis
+
+67
+
+105. Slamon DJ, Godolphin W, Jones LA, Holt JA, Wong SG, Keith DE, Levin WJ,
+Stuart SG, Udove J, Ullrich A, Press M (1989b): Studies of the HER-2/neu
+proto-oncogene in human breast and ovarian cancer Science, 244: 707-712
+106. Slamon DJ, Leyland-Jones B, Shak S, Fuchs H, Paton V, Bajamonde A,
+Fleming T, Eiermann W, Wolter J, Pegram M, Baselga J, Norton L (2001a):
+Use of chemotherapy plus a monoclonal antibody against HER2 for metastatic
+breast cancer that overexpress HER2 N Engl J Med, 344: 783-792
+107. Slamon DJ, Pegram MD (2001b): Rationale for trastuzumab (Herceptin) in
+adjuvant breast cancer trials Semin Oncol, 28 (suppl 3): 13-19
+108. Slamon DJ, Press MF, Godolphin W, Jones LA, Holt JA, Stuart SG, Ullrich A
+(1989a): The HER-2/neu proto-oncogene in human breast cancer Cancer
+Cells, 7: 371-380
+109. Speissl B, De Kok J, Schalken JA, Aalders T, Ruers TJM (1992): Quantiative
+measurements of telomerase reverse transcriptase in urothelial cell
+carcinomas. Int.J. of Cancer vol 87 217-220
+110. Stupp R, Weichselbaumm R, Vokes E (1994): Combined modality therapy of
+head and neck cancer. Semin Oncol. 21: p. 349-58.
+111. Summerfield AE, Hudnall AK, Lukas TJ, Guyer CA, Staros JV (1996):
+Identification of residues of the epidermal growth factor receptor proximal to
+residue 45 of bound epidermal growth factor. J Biol Chem.16;271(33):19656-9
+112. Syrjanen KJ (2002): HPV infections and oesophageal cancer J Clin Pathol, 55:
+721-8
+113. Tanner M, Gancberg D, DiLeo A, Larsimont D, Rouas G, Piccart MJ, Isola J
+(2000): Chromogenic in situ hybridization: A practical alternative for
+fluorescence in situ hybridization to detect HER-2/neu oncogene amplification
+in archival breast cancer samples Am J Pathol, 157: 1467-1472
+114. Toikkanen S, Helin H, Isola J, Joensuu H (1992): Prognostic significance of
+HER-2 oncoprotein expression in breast cancer: a 30-year follow-up. J Clin
+Oncol 10: 1044-1048
+115. Tsuda H, Akiyama F, Terasaki H, Hasegawa T, Kurosumi M, Shimadzu M,
+Yamamori S, Sakamoto G (2001): Detection of HER-2/neu (c-erbB-2) DNA
+amplification in primary breast carcinoma Cancer, 92: 2965-2974
+
+Literaturverzeichnis
+
+68
+
+116. Tzahar E, Pinkas-Kramarski R, Moyer JD, Klapper LN, Alroy I, Levkowitz G,
+Shelly M, Henis S, Eisenstein M, Ratzkin BJ, Sela M, Andrews GC, Yarden Y
+(1997): Bivalence of EGF-like ligands drives the ErbB signaling network.
+EMBO J. 16(16):4938-50
+117. Tzahar E, Waterman H, Chen X, Levkowitz G, Karunagaran D, Lavi S, Ratzkin
+BJ, Yarden Y (1996): A hierarchical network of interreceptor interactions
+determines signal transduction by Neu differantiation factor/neuregulin and
+epidermal growth factor. Mol Cell Biol 16: 5276-5287
+118. Tzahar E, Yarden Y (1998): The ErbB-2/HER2 oncogenic receptor of
+adenocarcinomas: from orphanhood to multiple stromal ligands. Biochim
+Biophys Acta. 1377(1):M25-37
+119. Wahi PN, Cohen B, Luthra UK, Torloni H (1971): Histological typing of oral
+and oropharyngeal tumours. Geneva, World Health Organisation, S17-18
+120. Wang S, Saboorian MH, Frenkel E, Hynan L, Gokaslan ST, Ashfaq R (2000):
+Laboratory assessment of the status of Her-2/neu protein and oncogene in
+breast cancer specimes: Comparison of immunohistochemistry assay with
+fluorescence in situ hybridization assays J Clin Pathol, 53: 374-381
+121. Wang S, Saboorian MH, Frenkel EP, Haley BB, Siddiqui MT, Gokaslan S,
+Hynan L, Ashfaq R (2002): Aneusomy 17 in breast cancer: Its role in HER2/neu protein expression and implication for clinical assessment of HER-2/neu
+status Mod Pathol, 15: 137-145
+122. Wasserman JD, Freeman M (2000): Control of EGF-receptor activation in
+Drosophila Trends Cell Biol., 7, 431-436
+123. Weinberg MA, Estefan DJ (2002): Assessing oral malignancies Am Fam
+Physician, 65: 1379-84
+124. Wennerberg J (1996): Predicting response to therapy of squamous celll
+carcinoma of the head and the neck (review). Anticancer Res. 16: p.23892396.
+125. Wiethege T, Junker K, Johnen G, Krismann M, Müller K-M (2000): Pathologie
+und Molekularbiologie bösartiger pulmonaler Tumoren. Der Pathologe 21:404423.
+126. Wynder EL, Bross JI, Feldmann RM (1957): A study of the etiological factors in
+cancer of the mouth Cancer, 10: 1300-7
+
+Literaturverzeichnis
+
+69
+
+127. Wynder EL, Stellmann SD (1977): Comparative epidemiology of tobaccorelated cancers Cancer Res, 37: 4608-22
+128. Yonemura S, Hirao M, Doi Y, Takahashi N, Kondo T, Tsukita S (1998): Ezrin/radixin/moesin (ERM) proteins bind to a positively charged amino acid
+cluster in the juxta-membrane cytoplasmic domain of CD44, CD43, and ICAM2. J. Cell Biol. 140, 885-895
+129. Zieske L (1986): Squamous cell carcinoma with positive margins: Surgery and
+postoperative irradiation. Arch Otolaryngol Head and Neck Surg. 112: p. 8636.
+130. Zöller JE (1995): Zur malignen Transformation des Epithels der Mundschleimhaut unter Chemotherapie und Chemoprävention. Untersuchungen zur multizentrischen Karzinogenese. 1. Auflage, Quintessenz Verlag, Berlin.
+
+Anhang
+
+70
+
+Anhang
+
+1.24 Abbildungsverzeichnis
+ABBILDUNG 1 (LINKS): TISSUE MIKROARRAYS (TMA) ................................................................... 17
+ABBILDUNG 2 (RECHTS): STANZZYLINDER..................................................................................... 17
+ABBILDUNG 3 (RECHTS): IN PARAFIN EINGEBETTETES TUMORGEWEBE ................................. 18
+ABBILDUNG 4 (LINKS): TISSUE CHIP MICRO-ARRAYER. ............................................................... 18
+ABBILDUNG 5 (LINKS): HE-SCHNITT DES TUMORGEWEBES ........................................................ 18
+ABBILDUNG 6 (RECHTS): DIGITALE MIKROMETERSCHRAUBE. ................................................... 18
+ABBILDUNG 7 (LINKS): FIXATIONSHILFE.......................................................................................... 19
+ABBILDUNG 8 (RECHTS): SELBST KONSTRUIERTE FIXATIONSHILFE ......................................... 19
+ABBILDUNG 9 (LINKS): TUMORGEWEBSENTNAHME ..................................................................... 20
+ABBILDUNG 10 (RECHTS): STANZEN EINES LOCHES.................................................................... 20
+ABBILDUNG 11: GEWEBEPROBE VERSENKEN ............................................................................... 21
+ABBILDUNG 12: IMMUNHISTOCHEMISCHE HER2/NEU -FÄRBEERGEBNISSE BEI VIER
+VERSCHIEDENEN PLATTENEPITHELKARZINOMEN: NORM (OBEN LINKS); 1+ (OBEN
+RECHTS); 2+ (UNTEN LINKS); 3+ (UNTEN RECHTS)............................................................... 23
+ABBILDUNG 13: PLATTENEPITHELKARZINOMZELLKERN MIT PER FISH-TECHNIK
+NACHWEISBARER HER2/NEU-GENAMPLIFIKATION. DIE HER2/NEU-GENKOPIEN SIND ALS
+GRÜNE SIGNALE ABGEBILDET. DIE ZAHLREICHEN, TEILWEISE IN CLUSTERN
+GELEGENEN HELLEN SIGNALE DEUTEN EINE HER2/NEU-GENAMPLIFIKATION AN.
+(ORIGINALVERGÖßERUNG: 650X)............................................................................................ 26
+ABBILDUNG 14: IMMUNHISTOCHEMISCHE EGFR-FÄRBEERGEBNISSE BEI VIER
+VERSCHIEDENEN ORALEN PLATTENEPITHELKARZINOMEN MIT DEN SCORES 0 (LINKS
+OBEN), 1+ (RECHTS OBEN), 2+ (LINKS MITTE) UND 3+ (RECHTS MITTE); UNTEN LINKS
+IST EINE METASTASE DARGESTELLT (ORIGINALVERGRÖßERUNG: JEWEILS 600X) ...... 28
+ABBILDUNG 15: NORMALES EPITHEL MIT JE 2 GENKOPIEN PRO KERN (OBEN LINKS); FISH
+TUMORGEWEBE OHNE HER2/NEU AMPLIFIKATION (1-2 SIGNALE PRO KERN; OBEN
+RECHTS); FISH TUMORGEWEBE OHNE HER2/NEU AMPLIFIKATION (1-2 SIGNALE PRO
+KERN; UNTEN LINKS); FISH TUMORGEWEBE OHNE HER2/NEU AMPLIFIKATION (2-3
+SIGNALE PRO KERN) ................................................................................................................. 29
+ABBILDUNG 16: ALTERSVERTEILUNG IN DER UNTERSUCHTEN STICHPROBE......................... 30
+ABBILDUNG 17: ANTEIL VON FRAUEN UND MÄNNERN IN DER UNTERSUCHTEN STICHPROBE
+...................................................................................................................................................... 30
+ABBILDUNG 18: HÄUFIGKEITSVERTEILUNG DER ÜBERLEBENSZEITEN..................................... 31
+ABBILDUNG 19: ANTEIL VERSTORBENER / ÜBERLEBENDER PATIENTEN ................................. 32
+ABBILDUNG 20: KAPLAN-MEIER-ÜBERLEBENSANALYSE AUFGETRAGEN NACH DEM
+GESCHLECHT (1= MÄNNLICH / 2= WEIBLICH). ....................................................................... 32
+
+Anhang
+
+71
+
+ABBILDUNG 21: KAPLAN-MEIER-DARSTELLUNG DER ÜBERLEBENSZEIT IM VERHÄLTNIS ZUM
+WHO-DIFFERENZIERUNGSGRAD DER TUMOREN................................................................. 34
+ABBILDUNG 22: ÜBERLEBENSZEIT IN BEZUG AUF HER2/NEU-ÜBEREXPRESSION (LOG-RANG
+= 0,5872 NICHT SIGNIFIKANT) ................................................................................................... 37
+ABBILDUNG 23: HÄUFIGKEITSVERTEILUNG VON HER2/NEU-FÄLLEN ........................................ 37
+ABBILDUNG 24: HÄUFIGKEITSVERTEILUNG DER EGFR-REZEPTOREXPRESSION IN DEN
+PRIMÄR-TUMOREN..................................................................................................................... 39
+ABBILDUNG 25: ÜBERLEBENSZEIT BEI UNTERSCHIEDLICH STARKEM GRAD DER EGFREXPRESSION............................................................................................................................... 40
+
+Anhang
+
+7.1
+
+72
+
+Tabellenverzeichnis
+
+TABELLE 1:
+
+TNM-SYSTEM............................................................................................................... 8
+
+TABELLE 2:
+
+WHO-KLASSIFIKATION ............................................................................................... 9
+
+TABELLE 3:
+
+INVASIONSFRONTGRADING NACH BRYNE ET AL. (1989) ................................... 11
+
+TABELLE 4:
+
+KRITERIEN DER SCOREEINTEILUNG BEI DER AUSWERTUNG DER
+
+IMMUNHISTOCHEMISCHEN HER2/NEU- BZW. EGFR –FÄRBUNG ........................................ 22
+TABELLE 5: IMMUNHISTOCHEMISCHE EXPRESSION VON EGFR UND HER2/NEU IN DEN
+PRIMÄRTUMOREN UND METASTASEN ................................................................................... 27
+TABELLE 6:
+
+DURCHSCHNITTSALTER, GESCHLECHT UND LOKALISATION ........................... 31
+
+TABELLE 7: HER2/NEU- EXPRESSION MIT DER HALBAUTOMATISCHEN METHODE ................. 35
+TABELLE 8: HER2/NEU-EXPRESSION MIT DER VOLLAUTOMATISCHEN METHODE .................. 36
+TABELLE 9:
+
+KORRELATION DER EGFR–EXPRESSION AUFGETRAGEN GEGENÜBER DEM
+
+GESCHLECHT, DEM WHO GRADING, DER HER2/NEU VERTEILUNG SOWIE DEM
+TUMORSTADIUM......................................................................................................................... 39
+TABELLE 10: HÄUFIGKEITSVERTEILUNG VON HER2/NEU-EXPRESSION IN DEN 19
+UNTERSUCHTEN METASTASEN MIT DER HALBAUTOMATISCHEN METHODE.................. 41
+TABELLE 11: HÄUFIGKEITSVERTEILUNG VON HER2/NEU EXPRESSION IN DEN DER 19
+UNTERSUCHTEN METASTASEN MIT DER VOLLAUTOMATISCHEN METHODE .................. 41
+TABELLE 12: EGFR–EXPRESSION IN DEN METASTASEN ............................................................. 42
+
+Anhang
+
+8.3
+
+73
+
+Danksagung
+
+Hiermit möchte ich mich bei den Menschen bedanken, die mir bei der Erstellung dieser Arbeit geholfen haben.
+So gilt mein besonderer Dank Frau Univ.-Prof. Dr. Agnes Bankfalvi, die mich mit unendlicher Geduld über diese Zeit hinweg fachlich und menschlich perfekt betreut hat.
+Meinen Partner Dr. Schneider für die großartige Unterstützung im Umgang mit dem
+Personalcomputer und allen technischen Belangen.
+Sowie und nicht zuletzt bei meiner Familie , bei meinen Eltern und Schwiegereltern,
+die mich durch beharrliches Nachfragen von allzu langen Pausen abhielten. Bei meiner Frau für die kompetenten und liebevollen Ratschläge.
+Zu letzt möchte ich mich bei meinen wundervollen Kindern dafür entschuldigen, dass
+ich soviel Zeit in der Pathologie, in Archiven und am Computer verbracht habe - anstatt mit ihnen auf dem Spielplatz zu gehen um Burgen zu bauen. - Wir werden dies
+nachholen.
+
+Anhang
+7.3
+
+Lebenslauf ( entfernt)
+
+74
+
+

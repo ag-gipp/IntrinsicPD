@@ -1,0 +1,4130 @@
+Aus der Klinik und Poliklinik für
+Diagnostische und Interventionelle Radiologie
+des Radiologischen Zentrums
+des Universitätsklinikum Hamburg-Eppendorf
+Direktor: Prof. Dr. med. G. Adam
+
+MRT-Untersuchung des Prostatakarzinoms:
+Vergleich diffusionsgewichteter MRT-Bildgebung mit der
+Histologie
+
+Dissertation
+zur Erlangung des Grades eines Doktors der Medizin
+der medizinischen Fakultät der Universität Hamburg
+
+vorgelegt von
+
+Arne Hohenstein
+aus Haltern
+
+Hamburg 2012
+
+Angenommen von der Medizinischen Fakultät
+der Universität Hamburg am: 24.10.2012
+
+Veröffentlicht mit Genehmigung der Medizinischen
+Fakultät der Universität Hamburg
+
+Prüfungsausschuss, der/die Vorsitzende: Prof. Dr. U. Wedegärtner
+
+Prüfungsausschuss: 2. Gutachter/in: PD Dr. G. Salomon
+
+Prüfungsausschuss: 3. Gutachter/in:
+
+Für meine Mutter
+und
+meinen verstorbenen Vater
+
+INHALTSVERZEICHNIS
+ABKÜRZUNGSVERZEICHNIS...................................................................................6
+1
+
+ARBEITSHYPOTHESE UND FRAGESTELLUNG ..............................................7
+
+2
+
+EINLEITUNG .....................................................................................................10
+
+2.1
+Das Prostatakarzinom............................................................................................................ 10
+2.1.1 Epidemiologie....................................................................................................................... 10
+2.1.2 Ätiologie ............................................................................................................................... 11
+2.1.3 Morphologie / Histologische Klassifikation........................................................................... 13
+2.2
+Diagnosestellung ................................................................................................................... 15
+2.2.1 Diagnoseverfahren............................................................................................................... 15
+2.2.2 Histologisches Grading ........................................................................................................ 17
+2.2.3 TNM-Klassifikation ............................................................................................................... 19
+2.3
+
+Therapieoptionen ................................................................................................................... 20
+
+2.4
+Anatomie und Physiologie der Prostata .............................................................................. 21
+2.4.1 Makroskopische Anatomie................................................................................................... 21
+2.4.2 Mikroskopische Anatomie und Physiologie ......................................................................... 27
+2.4.3 Vaskuläre Anatomie............................................................................................................. 30
+2.4.4 Neuroanatomie..................................................................................................................... 31
+2.4.5 Kernspintomographische Anatomie ..................................................................................... 32
+2.5
+Die Magnetresonanztomographie (MRT) ............................................................................. 34
+2.5.1 Geschichte und technische Grundlagen.............................................................................. 34
+2.5.2 Prinzip der Magnetresonanz ................................................................................................ 34
+2.5.3 T1- und T2-Relaxationszeiten.............................................................................................. 36
+2.5.4 Diffusionsbildgebung............................................................................................................ 37
+2.5.5 Grundlagen der diffusionsgewichteten MRT-Bildgebung .................................................... 38
+2.5.6 Kontrastmittel ....................................................................................................................... 40
+2.5.7 1H-MR-Spektroskopie.......................................................................................................... 41
+2.5.8 MRT-Bildgebung der Prostata ............................................................................................. 43
+2.5.9 Multimodale MRT-Bildgebung der Prostata......................................................................... 46
+
+3
+3.1
+
+MATERIAL UND METHODEN ..........................................................................48
+Studienkollektiv ...................................................................................................................... 48
+
+3.2
+Studiendurchführung............................................................................................................. 48
+3.2.1 MRT Protokoll ...................................................................................................................... 48
+3.2.2 Diffusionsgewichtete Bildgebung ......................................................................................... 49
+3.2.3 MR-Image Analyse .............................................................................................................. 50
+3.2.4 TRUS-gesteuerte Biopsien und histopathologische Analysen ............................................ 51
+3.2.5 Statistische Auswertung....................................................................................................... 51
+
+4
+
+ERGEBNISSE....................................................................................................53
+
+4.1
+
+PSA-Werte ............................................................................................................................... 53
+
+3.2
+
+Histopathologie ...................................................................................................................... 53
+
+4
+
+4.3
+
+5
+
+ADC (Apparent Diffusion Coefficient) .................................................................................. 54
+
+DISKUSSION.....................................................................................................57
+
+5.1
+Diskussion der Ergebnisse ................................................................................................... 58
+5.1.1 ADC-Werte........................................................................................................................... 58
+5.1.2 Korrelation zwischen ADC-Wert und Gleason-Score .......................................................... 60
+5.1.3 Sensitivität der diffusionsgewichteten MRT-Bildgebung...................................................... 60
+5.2
+
+Schlussbetrachtungen und Ausblick ................................................................................... 61
+
+6
+
+ZUSAMMENFASSUNG .....................................................................................63
+
+7
+
+LITERATURVERZEICHNIS...............................................................................65
+
+8
+
+ANHANG ...........................................................................................................82
+
+5
+
+Abkürzungsverzeichnis
+ADC
+
+Apparent Diffusion Coefficient
+
+AHH
+
+atypische adenomatöse Hyperplasie
+
+BPH
+
+benigne Prostatahyperplasie
+
+CT
+
+Computertomographie
+
+DHT
+
+Dihydrotestosteron
+
+DRE
+
+digital rectal examination
+
+DW
+
+diffusion weighted, diffusionsgewichtet
+
+DWI
+
+diffusion weighted imaging
+
+EPI
+
+Echo-Planar-Imaging
+
+FID
+
+free induction decay
+
+FOV
+
+Field of View
+
+FSE
+
+fast spin echo
+
+IGF
+
+Insulin-like growth factor
+
+MR
+
+Magnetic Resonance
+
+MRT
+
+Magnetresonanztomographie
+
+n
+
+Anzahl
+
+NMR
+
+nuclear magnetic resonance
+
+PAP
+
+prostataspezifische saure Phosphatase = prostatic acid phosphatase
+
+PIN
+
+prostatische intraepitheliale Neoplasie
+
+PSA
+
+prostataspezifisches Antigen
+
+PCA
+
+Prostatakarzinom
+
+ROC
+
+reveiver operator characteristic
+
+ROI
+
+Region of Interest
+
+S
+
+Slice-Raumrichtung
+
+S(b)
+
+Signaldämpfung, abhängig vom b-Wert
+
+SD
+
+Standardabweichung (standard deviation)
+
+SE
+
+Spinecho
+
+SI
+
+Signalintensität
+
+SP
+
+Slice Position
+
+TPA
+
+tissue plasminogen activator
+
+TRUS
+
+Transrektale Ultrasonographie
+
+WHO
+
+World Health Organisation
+
+1
+
+Arbeitshypothese und Fragestellung
+
+Das Prostatakarzinom ist die am häufigsten auftretende Entartung (WHO, 2004)
+und der vierthäufigste Krebs des Mannes weltweit (Parkin et al 1999), in den
+entwickelten
+
+Ländern
+
+der
+
+Welt
+
+nach
+
+dem
+
+Lungenkarzinom
+
+und
+
+dem
+
+Kolorektalkarzinom der dritthäufigste Krebs (Levi et al., 2000). Nach Angaben der
+Amerikanischen Krebsgesellschaft ist das Prostatakarzinom die dritthäufigste
+Ursache für einen krebsassoziierten Tod des Mannes (Hayat et al., 2007).
+In Europa liegt die Inzidenz des Prostatakarzinoms bei 157,9 Erkrankungen pro
+100.000 Personen (Parkin et al., 1999). 2008 wurden in Deutschland 63.440
+Neuerkrankungen registriert und für 2012 wird nach Schätzungen des RobertKoch-Instituts erwartet, dass bundesweit 67.700 neue Fälle diagnostiziert werden.
+Damit ist das Prostatakarzinom nach wie vor das häufigste Karzinom des Mannes
+in Deutschland. Besonders in dem Altersbereich zwischen 50 und 69 Jahren ist
+die
+
+Erkrankungsrate
+
+gestiegen,
+
+sodass
+
+heute
+
+von
+
+einem
+
+mittleren
+
+Erkrankungsalter von 70 Jahren ausgegangen wird (Robert Koch-Institut, 2012).
+Die relative 5-Jahres-Überlebensrate für das Prostatakrebs hat sich mit 92 % in
+den vergangenen Jahren deutlich gebessert, da verschiedene diagnostische
+Methoden angewandt wurden, um maligne Veränderungen der Prostata frühzeitig
+zu
+
+diagnostizieren.
+
+Neben
+
+dem
+
+laboratorischen
+
+Modus
+
+operandi
+
+durch
+
+Bestimmung des prostataspezifischen Antigens (PSA) werden verschiedene
+bildgebende
+
+Verfahren
+
+eingesetzt,
+
+um
+
+der
+
+Diagnosestellung
+
+eines
+
+Prostatakarzinoms im fortgeschrittenen Stadium entgegenzuwirken, die noch bei
+ca. 50 % liegt (Allgäuer et al., 2003).
+Der transrektale Ultraschall (TRUS) der Prostata ist der Goldstandard weltweit.
+Der transrektale Ultraschall wird nicht nur dazu benutzt, um einen ersten Eindruck
+des Organs zu bekommen, sondern auch, um gegebenenfalls Prostatabiopsien
+durchzuführen (Purohit et al., 2003). Eine andere Methode ist die MRT-Aufnahme
+mit einer endorektalen Spule und einer Becken phased-array Spule. Im MRT
+zeigen sich die malignen Veränderungen im Vergleich zu der hyperintensen
+peripheren Zone meist in Form von hypointensen Signalen (Ikonen et al., 2001a).
+Im Gegensatz zur TRUS müssen Patienten im MRT zeitlich zwar längere
+Untersuchungen
+
+erdulden
+
+(30-45
+
+min.),
+
+aber
+
+sowohl
+
+die
+
+lokale
+
+7
+
+Entwicklungsphase, die Einschätzung des umgebenden Gewebes als auch des
+Organs zeigen eine höhere Sensitivität bei MRT-Untersuchungen (SanchezChapado et al., 1997). Neuere Studien haben zudem gezeigt, dass MRT-gelenkte
+Biopsien der Prostata möglich sind, die die gleiche histopathologische Qualität
+aufweisen wie Proben, die durch TRUS-gelenkten Biopsien entnommen wurden
+(Beyersdorff et al., 2002; Franiel et al., 2006).
+In den letzten Jahren wurden andere MRT-Verfahren entwickelt, um die
+diagnostische Genauigkeit zu verbessern. Eine Reihe von Studien hat gezeigt,
+dass die dreidimensionale H1-Spektroskopie der Prostata die anatomische
+Situation, die morphologische Situation und die metabolische Charakterisierung
+der Prostata verbessern kann (Kurhanewicz et al., 1996; Müller-Lisse et al., 2001;
+Mazaheri et al., 2008). Die diffusionsgewichtete MRT-Bildgebung ist eine Technik
+zur Auswertung von molekularer Diffusion, basierend auf der Brownschen
+Bewegung des Spins in biologischem Gewebe (Le Moyec et al., 1988). DWI
+(diffusion
+
+weighted
+
+imaging)
+
+ermöglicht
+
+es,
+
+das
+
+Perfusions-
+
+und
+
+Diffusionsverhalten in jedem Organ an ausgewählter Stelle darzustellen, um
+anormale Veränderungen zu beschreiben. Diese Methode wird bereits z. B. zur
+Diagnostik eines Schlaganfalls eingesetzt. In aktuellen Studien werden immer
+mehr Organe wie die Glandula Parotis oder Nieren mit dieser Technik untersucht
+und bestimmte, damit korrelierende Werte wie der ADC–Wert (apparent diffusion
+coefficient) gemessen (Sumi et al., 2002; Taouli et al., 2003; Matoba et al., 2007).
+Diese Methode kann als Alternative zur T2-gewichteten MRT-Bildgebung
+betrachtet werden, da die diffusionsgewichtete MRT-Bildgebung Bildkontrast
+durch die sichtbare Diffusion entwickelt. Die MRT-Diffusionsgewichtung zeigt
+Potenzial für die sichere und frühere Diagnosestellung von Prostatakrebs (Issa,
+2002; Hosseinzadeh und Schwarz, 2004; Shimofusa et al., 2005). Durch das
+Addieren von DWI und konventionellen T2-gewichteten MRT-Aufnahmen wurde
+die Diagnostik von Prostatakrebs verbessert (Shimofusa et al., 2005).
+
+In dieser Studie wurden diffusionsgewichtete MRT- Untersuchungen der Prostata
+bei Patienten mit V. a. ein Prostatakarzinom angefertigt und ausgewertet. Die
+Ergebnisse der Diffusionswichtung wurden mit den histologischen Befunden der
+entnommenen Biopsien verglichen.
+
+8
+
+Ziel der Studie war es, mit Hilfe der MRT-Diffusionsgewichtung (ADC-Werte) eine
+Differenzierung zwischen benignem und malignem Prostatagewebe zu erreichen.
+Dies könnte eine neue Option zur frühen und sicheren Diagnostik eines
+Prostatakarzinoms schaffen. Die Ergebnisse dieser Arbeit wurden bereits in der
+Zeitschrift Journal of Computer Assisted Tomography publiziert.
+Comput Assist Tomogr. 2011 Mar-Apr;35(2):223-8. Yamamura J, Salomon G,
+Buchert R, Hohenstein A, Graessner J, Huland H, Graefen M, Adam G,
+Wedegaertner U. Departments of Diagnostic and Interventional Radiology,
+University Medical Center Hamburg-Eppendorf, Germany.
+Magnetic resonance imaging of prostate cancer: diffusion-weighted imaging in
+comparision with sextant biopsy.
+
+9
+
+2
+
+Einleitung
+
+2.1
+
+Das Prostatakarzinom
+
+Das Prostatakarzinom (PCA) stellt das häufigste Krebsleiden der Männer in
+Deutschland dar. In den letzten Jahrzehnten ließ sich, unter anderem bedingt
+durch
+
+verbesserte
+
+Untersuchungsmethoden,
+
+ein
+
+vermehrter
+
+Anstieg
+
+der
+
+Erkrankungsrate im Altersbereich von 50 bis 69 Jahren sowie eine Senkung des
+mittleren Patientenalters auf 70 Jahre (Stand 2008) bei der Detektion des
+Karzinoms
+
+erkennen
+
+(Robert
+
+Koch-Institut,
+
+2012).
+
+Dadurch
+
+erlangt
+
+das
+
+Krankheitsbild der bösartigen Prostataentartung zunehmendes wissenschaftliches
+und therapeutisches Interesse.
+
+2.1.1
+
+Epidemiologie
+
+In Europa wie in den USA ist das Prostatakarzinom eine häufige maligne
+Erkrankung des Mannes. Weltweit variiert die Inzidenz aufgrund von Methoden zur
+Früherkennung, Behandlung, Lebensweise und genetischen Faktoren erheblich
+mit den höchsten Zahlen in den USA und Kanada (Quinn und Babb, 2002;
+Grönberg, 2003) und den niedrigsten Zahlen in Asien, besonders in Tianjin, China
+(Grönberg, 2003). So liegen die Inzidenzraten bei schwarzen Amerikanern 30-mal
+höher als bei Japanern (Allgäuer et al., 2003).
+Nach Angaben der Amerikanischen Krebsgesellschaft ist es die zweithäufigste
+Ursache für einen krebsassoziierten Tod des Mannes. Nur an einem
+Lungenkarzinom sterben in den USA noch mehr Menschen. Die American Cancer
+Society erwartet für das Jahr 2012, dass in den USA 241.740 neue Fälle
+diagnostiziert werden und 28.170 Personen an dieser Erkrankung sterben werden.
+Statistisch wird einer von 36 Männern an einem Prostatakarzinom sterben (Siegel
+et al., 2012).
+In Europa beträgt die Inzidenz von Prostatakrebs ca. 110 Neuerkrankungen pro
+100.000 Männer und ist damit die dritthäufigste krebsassoziierte Todesursache
+nach Lungen- und Kolonkrebs (Robert Koch-Institut, 2012). Das Prostatakarzinom
+
+10
+
+hat sich damit in der männlichen Bevölkerung der westlichen Welt zu einem
+Hauptgesundheitsproblem entwickelt.
+Mit etwa 63.440 Neuerkrankungen pro Jahr (2008) ist das Prostatakarzinom
+inzwischen in Deutschland die häufigste Krebserkrankung bei Männern und macht
+bei diesen etwa ein Viertel aller Krebsneuerkrankungen aus. Seit Anfang der
+1980er Jahre (17.000 Fälle) ist die Zahl der Neuerkrankungen stetig angestiegen
+und hat sich seit 1999 (29.000) noch verdoppelt. Das mittlere Erkrankungsalter
+sank dabei von 73 Jahren (1980) auf 69 Jahre (Allgäuer et al., 2003).
+Krebserkrankungen der Prostata verursachten 2008 12.134 Todesfälle, was einer
+Sterberate von 20,9 Fällen pro 100.000 Personen entspricht und etwa 10 % aller
+auf Krebs zurückzuführenden Todesfälle bei Männern ausmacht (Robert KochInstitut, 2012).
+Die Überlebensaussichten für Prostatakrebspatienten haben sich seit 1980
+erheblich verbessert. Für Männer mit Prostatakrebs, der in den Jahren zwischen
+2000 und 2008 diagnostiziert worden ist, ergaben sich relative 5-JahresÜberlebensraten von 92 % im Vergleich zu etwa 70 % Anfang der 1980er Jahre
+(Robert Koch-Institut, 2012). Im Jahr 2008 lebten in Deutschland 251.700 Männer,
+bei denen in den vorangegangenen fünf Jahren Prostatakrebs festgestellt wurde,
+bei etwa 326.000 Patienten lag die Diagnose bis zu zehn Jahre zurück. Die
+Zunahme
+
+der
+
+Erkrankungsraten
+
+hat
+
+zusammen
+
+mit
+
+demografischen
+
+Veränderungen und verbesserten Überlebenschancen seit 1990 zu einem Anstieg
+der Prävalenz um etwa 150 % geführt (Robert Koch-Institut, 2012).
+
+2.1.2
+
+Ätiologie
+
+Die Ätiologie des Prostatakarzinoms ist nur teilweise geklärt. Die Ergebnisse
+ätiopathogenetischer Untersuchungen sprechen für eine multifaktorielle Genese.
+Als Risikoparameter konnten bisher u. a. genetische Faktoren, Alter, ethnischer
+Ursprung, Ernährung und Lebensweise identifiziert werden (Allgäuer et al., 2003).
+In der Literatur werden als ein entscheidender Risikofaktor bei der Entstehung
+eines Prostatakarzinoms genetische Prädispositionsfaktoren genannt. Dieses geht
+aus den Ergebnissen mehrerer Zwillings- und Verwandtschaftsstudien hervor
+
+11
+
+(Steinberg et al., 1990; Page et al, 1997; Lichtenstein et al., 2000). Eine familiäre
+Häufung
+
+an
+
+Prostatakarzinomerkrankungen
+
+wurde
+
+beschrieben
+
+und
+
+eine
+
+genetische Prädisposition ist wahrscheinlich (Lynch et al., 1966). Bei Verwandten
+eines an Prostatakarzinom erkrankten Patienten bestand ein dreifach höheres
+Risiko, ein Prostatakarzinom zu entwickeln (Woolf, 1960). Steinberg und Kollegen
+(1990) beobachteten, dass das Risiko eines Verwandten ersten Grades an
+Prostatakrebs zu erkranken deutlich erhöht war, wenn bereits ein oder mehrere
+Familienangehörige daran erkrankt waren. Eine große Studie mit 45.000
+skandinavischen Zwillingspaaren kam zu dem Ergebnis, dass bei Prostatakrebs
+ein 42 %-iger vererblicher Faktor vorliegt (Lichtenstein et al., 2000).
+Bei der Suche nach sog. „susceptibility“-Genen (Kandidatengenen) konnten
+bislang insgesamt sieben Genorte identifiziert werden (Nelson et al., 2003).
+
+Die Inzidenz des Prostatakarzinoms variiert zum Teil sehr stark zwischen
+verschiedenen ethnischen Gruppen: Die niedrigste Rate ist in Asien, die höchste
+in Skandinavien und bei Afroamerikanern in Nordamerika zu beobachten
+(Grönberg, 2003). Einige Studien untersuchten den Zusammenhang zwischen der
+Nahrungszusammensetzung
+
+und
+
+der
+
+Tumorentstehung.
+
+So
+
+fanden
+
+epidemiologische Studien einen Einfluss von fettreicher, faserarmer Nahrung auf
+die Inzidenz des Prostatakarzinoms (Altwein, 2001). Ein männlicher Amerikaner
+bezieht pro Tag zirka 36 % seiner täglich aufgenommenen Kalorien aus
+ungesättigten oder einfach gesättigten Fettsäuren (Stephen und Wald, 1990). Eine
+westliche Diät, charakterisiert durch einen hohen Anteil an gesättigten Fettsäuren
+und den Konsum von Tierfett und rotem Fleisch ist mit einem erhöhten Risiko
+assoziiert (Giovannucci et al., 1993; Gann et al., 1994). Eine asiatische
+Ernährung, die reich an Phytoöstrogenen ist, die v. a. in Sojabohnen vorhanden
+sind, konnte einen protektiven Effekt bei der Entstehung des Prostatakarzinoms
+nachweisen (Strom et al., 1999). Diphenolische Verbindungen, pflanzliche Lignane
+und Isoflavonide (Getreide, Soja, Gemüse etc.) werden von den Darmbakterien zu
+schwachen Östrogenen abgebaut, was möglicherweise die niedrige Inzidenz bei
+Ostasiaten erklärt (Griffiths und Khoury, 1994).
+
+12
+
+Chronische oder rezidivierende Entzündungen der Prostata, z. B. im Rahmen
+sexuell übertragbarer Erkrankungen, scheinen ebenso zur Entstehung des
+Prostatakarzinoms beizutragen (Hayes et al., 2000; Dennis und Dawson, 2002).
+
+Erhöhte
+
+Testosteronspiegel
+
+konnten
+
+mit
+
+einem
+
+erhöhten
+
+Auftreten
+
+des
+
+Prostatakarzinoms in Verbindung gebracht werden. Die Männer mit einem
+Hormonspiegel im höchsten Quartil hatten ein 2,34-fach höheres Risiko im
+Vergleich zu den Männern im niedrigsten Quartil. Ebenso scheint der IGF-1
+Spiegel (Insulin like growth factor-1) eine Rolle zu spielen (Shaneyfelt et al., 2000).
+Bei weiteren möglichen pathogenetischen Faktoren, beispielsweise bei operativer
+Unterbindung der ableitenden Samenwege (Vasektomie), konnte kein erhöhtes
+Risiko für Prostatakarzinom festgestellt werden (Rosenberg et al., 1994).
+
+In
+
+einer
+
+Vielzahl
+
+von
+
+Studien
+
+wurde
+
+untersucht,
+
+ob
+
+Vitamine
+
+und
+
+Nahrungsergänzungen eine protektive Wirkung gegenüber Prostatakrebs zeigen.
+Meist ließ sich ein geringer Rückgang der Inzidenz erkennen, teilweise waren die
+Ergebnisse je nach Studie unterschiedlich. So schienen entsprechend den
+Studienergebnissen die folgenden Wirkstoffe eine präventive Wirkung zu haben:
+Selen, Zink, Soja (über Phytoöstrogene), Vitamin E und evtl. Vitamin D (DuffieldLillico et al., 2003; Leitzmann et al., 2003; Huang et al., 2003; Tuohimaa et al.,
+2004; Yan und Spitznagel, 2005).
+
+2.1.3
+
+Morphologie / Histologische Klassifikation
+
+Im Anfangsstadium ist das Prostatakarzinom häufig symptomlos. Beschwerden
+treten oft erst bei weit fortgeschrittenem Tumorwachstum bzw. Metastasierung
+auf. So weisen ca. 50 % der Patienten bei Diagnosestellung bereits ein
+fortgeschrittenes Tumorstadium auf, was eine frühzeitige Diagnosestellung umso
+wichtiger macht (Allgäuer et al., 2003).
+Das gewöhnliche Prostatakarzinom findet sich fast ausschließlich in den
+peripheren Feldern der Drüse und wächst erst sekundär in das Zentrum vor.
+Gleichzeitig kommt es zu einer Infiltration der Kapsel mit Ausbreitung in die
+
+13
+
+perivaskulären Lymphspalten. Das Karzinom penetriert die Kapsel in der Regel an
+den perineuralen Durchtrittsstellen im Bereich des Apex und an der Basis (Helpap
+und Rübben, 1998).
+Eine besondere Form des PCA stellt das inzidentielle Karzinom dar. Dieses ist
+klinisch unbekannt und wird zufällig durch den Pathologen im Rahmen der
+histologischen
+
+Aufarbeitung
+
+des
+
+transurethralen
+
+Resektat-
+
+oder
+
+Ektomiepräparates während der operativen Therapie einer Prostatahyperplasie
+festgestellt (Breul et al., 2003).
+
+Die histologische Klassifizierung des Prostatakarzinoms erfolgt entsprechend der
+Tumorarchitektur.
+
+Zytologische
+
+Veränderungen,
+
+besonders
+
+der
+
+Grad
+
+der
+
+Kernanaplasie, bleiben hierbei unberücksichtigt. In einer Konsensuskonferenz
+haben die teilnehmenden Pathologen eine modifizierte WHO-Klassifikation
+vorgeschlagen (Denis et al., 1995):
+•
+
+Azinäres Adenokarzinom
+
+•
+
+Duktales Adenokarzinom
+
+•
+
+Muzinöses Adenokarzinom
+
+•
+
+Transitionalzellkarzinom
+
+•
+
+Plattenepithelkarzinom
+
+•
+
+Neuroendokriner Tumor
+
+•
+
+Kleinzelliges anaplastisches Karzinom
+
+•
+
+Undifferenziertes Karzinom
+
+Mehr als 95 % aller Prostatakarzinome gehören zum Typus des Adenokarzinoms,
+das vom Epithel der Azini und den terminalen Drüsenausführungsgängen ausgeht.
+In den Adenokarzinomen kommen hauptsächlich drei Zelltypen vor, die gemischt
+helle (klare) Zellen, dunkle Zellen und eosinophile Zellen enthalten. Als
+Teilkomponente können sich auch neuroendokrine Zellen finden; sie erklären die
+gelegentlichen paraneoplastischen Syndrome und zeigen eine schlechtere
+Prognose an (Cohen et al., 1993).
+Die hauptsächlich vorkommenden azinären Adenokarzinome zeigen große
+Unterschiede in Struktur sowie Zytologie und dementsprechend auch ein
+unterschiedliches biologisches Verhalten.
+
+14
+
+Benigne und potenziell präkanzeröse Veränderungen:
+Die prostatische intraepitheliale Neoplasie (PIN) und die atypische adenomatöse
+Hyperplasie (AHH) werden zu den potenziell präkanzerösen Veränderungen der
+Prostata gezählt. Für beide Formen ist jedoch nicht geklärt, ob es sich um obligate
+Präkanzerosen handelt oder ob sie nur gehäuft im Zusammenhang mit einem
+PCA diagnostiziert werden (Breul et al., 2003).
+Die
+
+prostatische
+
+intraepitheliale
+
+Neoplasie
+
+tritt
+
+typischerweise
+
+in
+
+der
+
+dorsoperipheren Zone auf und wird nach der American Cancer Society in zwei
+Grade – Low-grade- PIN und High-grade-PIN – eingeteilt (Drago et al., 1987). Die
+Low-grade-PIN gilt als harmloser Befund. Im Gegensatz dazu besteht bei der
+High-grade-PIN eine gehäufte Koinzidenz zum PCA (Epstein et al., 1995).
+Die atypische adenomatöse Hyperplasie geht von der Transitionalzellzone aus.
+Für sie konnte noch kein eindeutiger Zusammenhang mit dem Prostatakarzinom
+nachgewiesen werden. Vom histologischen Aspekt her betrachtet ist sie als eine
+Zwischenstufe der Prostatahyperplasie und einem hochdifferenzierten Karzinom
+anzusehen, sodass sie als Vorstufe des Transitionalzellkarzinoms diskutiert wird.
+Aus der Diagnose der AHH ergibt sich derzeit noch keine zwingende
+diagnostische oder therapeutische Konsequenz, wohingegen der Nachweis einer
+High-grade-PIN
+
+zwingend
+
+eine
+
+Aufarbeitung
+
+des
+
+Untersuchungsmaterials
+
+erfordert. Bei einem unauffälligen Befund sollten engmaschige Kontrollen bzw.
+Rebiopsien erfolgen. Therapeutische Konsequenzen sind aus der Diagnose einer
+High-grade-PIN zum momentanen Zeitpunkt nicht abzuleiten (Breul et al., 2003).
+
+2.2
+
+Diagnosestellung
+
+2.2.1
+
+Diagnoseverfahren
+
+Zum
+
+Nachweis
+
+und
+
+Staging
+
+des
+
+Prostatakarzinoms
+
+werden
+
+folgende
+
+diagnostische Maßnahmen angewandt (Breul et al., 2003):
+
+15
+
+•
+
+Digitale rektale Palpation (DRE = digital rectal examination)
+
+•
+
+Tumormarker (PSA= prostataspezifisches Antigen)
+
+•
+
+Transrektale Ultrasonographie (TRUS)
+
+•
+
+Ultraschallgesteuerte transrektale Prostatabiopsie
+
+•
+
+Flowcytometrie
+
+•
+
+Bildgebende Untersuchungsverfahren (MRT, CT, US – Elastographie u.ä.)
+
+•
+
+Zystoskopie
+
+•
+
+Lymphadenektomie
+
+Digitale rektale Palpation:
+Das einfachste, schonendste und kostengünstigste Untersuchungsverfahren ist
+die digitale rektale Palpation, mit der etwa 70 % der Prostatakarzinome der
+peripheren Zone festgestellt werden können, nicht jedoch Karzinome der
+Transitionalzone. Somit ist die DRE zwar das sensitivste Verfahren zur
+Verdachtsdiagnose „Prostatakarzinom“, aber sie ist leider auch sehr unspezifisch
+(Guinan et al., 1980).
+
+Tumormarker (PSA):
+Die Diagnosestellung in einem frühen Stadium ist durch die Einführung von
+Vorsorgemaßnahmen wie der digital-rektalen Untersuchung und v. a. durch die
+Bestimmung des sog. PSA-Wertes (prostataspezifisches Antigen) ermöglicht
+worden. 1979 berichtete erstmals die Arbeitsgruppe um Wang von der
+Immunpräzipitation eines Antigens aus einem Pool von normalem, hypertrophem
+und malignem Prostatagewebe und sie konnte zeigen, dass dieses offenbar
+prostataspezifisch, d. h. in Knochen, Niere, Interstitium, Leber oder Milz nicht
+nachweisbar ist. Gezeigt wurde auch, dass sich das PSA immunologisch und
+chemisch
+
+von
+
+der
+
+seit
+
+1938
+
+zur
+
+Prostatakarzinomdiagnostik
+
+benutzten
+
+prostataspezifischen sauren Phosphatase (PAP) unterscheidet (Wang et al.,
+1979).
+Das prostataspezifische Antigen ist eine Glykoprotein-Serinprotease mit einem
+Molekulargewicht von 34.000 Da, die für die Verflüssigung des Ejakulates
+verantwortlich ist. Ein erhöhter Wert im Blut lässt sich bei Adenokarzinomen der
+Prostata aber auch bei Prostatahyperplasie und Infektionen bzw. Manipulationen
+
+16
+
+im Urogenitalbereich messen. Die Verwendung dieses Tests als ScreeningMaßnahme ist jedoch zuletzt wieder kontrovers diskutiert worden (Frankel et al.,
+2003; Hoffmann, 2003; Stamey et al., 2004). Bei nur etwa 16 % der durch den
+PSA-Wert entdeckten PCA hat dies einen relevanten Einfluss auf die
+Lebenserwartung des Patienten. Im Umkehrschluss wird eine Vielzahl von
+Männern aber durch die Diagnosestellung eines malignen Tumorleidens unnötigen
+Behandlungsrisiken ausgesetzt (McGregor et al., 1998). Zudem konnte bisher kein
+Überlebensvorteil durch ein PSA-Screening dokumentiert werden (Concato et al.,
+2006).
+
+Bildgebende Verfahren:
+Die bildgebenden Verfahren gewannen in den letzten Jahren immer mehr an
+Bedeutung, wobei momentan ihr Haupteinsatzgebiet das präoperative Staging mit
+der Beurteilung, ob eventuell schon ein lokal fortgeschrittener Tumor bzw.
+Lymphknotenbefall und/oder Knochenmetastasen vorliegen, ist. In einigen Fällen
+wird die MRT auch für das Screening verwendet. Das Hauptziel der bildgebenden
+Verfahren für das Prostatakarzinom wird in den nächsten Jahren die genauere
+Charakterisierung durch ein Zusammenfügen von anatomischer, funktioneller und
+molekularer Information sein. Die Ultraschallsonographie wird hauptsächlich zur
+Steuerung der Biopsie und Brachytherapie verwendet.
+Die MR-Bildgebung gegebenenfalls mit einer endorektalen Spule, die die
+Auflösung im Bereich der Prostata erhöht, ist hilfreich für die Auswertung von
+lokalem Tumorwachstum und Samenblasenbefall. Die MR-Spektroskopie kann
+diese Auswertung mit zusätzlichen Informationen über die Tumoraggressivität
+komplementieren (Hricak et al. 1994).
+Die CT-Untersuchung ist gut geeignet für die genaue Evaluation einer
+fortgeschrittenen Erkrankung (Hricak et al., 2007). Eine Knochenszintigraphie ist
+das Standardverfahren zur Detektion von Fernmetastasen, hat aber eine nur
+geringe Spezifität bei solitären Herden (Allgäuer et al., 2003).
+
+2.2.2
+
+Histologisches Grading
+
+17
+
+Gemäß der organspezifischen Tumordokumentation der Arbeitsgemeinschaft
+Deutscher Tumorzentren können wahlweise das Grading-System der WHO, das
+des Pathologisch-Urologischen Arbeitskreises Prostatakarzinom oder das in den
+USA am weitesten verbreitete Gleason-System verwendet werden. Die WHO teilt
+die Karzinome gemäß ihrer Differenzierung in Grad 1, 2 und 3 (gering-, mäßig-,
+hochdifferenziertes Karzinom) ein (Mostofi et al., 1976).
+Die Graduierung gemäß den Empfehlungen des Pathologisch-Urologischen
+Arbeitskreises (AK) Prostatakarzinom berücksichtigt in einer Punkteskala sowohl
+strukturelle Gesichtspunkte (drüsige, kribriforme bzw. solide Karzinomanteile) als
+auch
+
+zytologische
+
+Kriterien
+
+(Kernformen,
+
+Kern-Plasma-Relationen,
+
+Kerngrößenklassen, Zahl der Nukleolen und Hyperchromasiegrade) (Helpap et al.,
+1985).
+Die Einteilung nach Gleason basiert einzig auf der Bewertung des strukturellen
+Karzinommusters
+
+und
+
+der
+
+unterschiedlichen
+
+Entdifferenzierung
+
+ohne
+
+Berücksichtigung zytologischer Malignitätskriterien (Gleason, 1966). Entsprechend
+dem Entdifferenzierungsgrad wird nach einer Skala von 1 bis 5 (5 =
+entdifferenziert)
+
+eingeteilt.
+
+Da
+
+in
+
+Prostatakarzinomen
+
+häufig
+
+mehrere
+
+unterschiedliche Wachstumsmuster vorliegen, ist das Grading-System nach
+Gleason in ein primäres (vorherrschendes) und sekundäres (weiteres) Muster
+unterteilt worden. Aus der Summe der beiden Punktwerte (z. B. 4 + 3 = 7) ergibt
+sich dann der Gleason-Score. Die Äquivalenzen zwischen den verschieden
+Grading-Systemen hinsichtlich der Prognose sind in Tab. 1 dargestellt.
+
+Tab. 1: Äquivalenz zwischen den Grading-Systemen (nach Helpap u. Rübben,
+1998)
+Gleason-Score
+
+Pathol.-Urol. AK
+
+WHO
+
+Prognose
+
+2
+
+G Ia
+
+Grad 1
+
+Günstig
+
+3, 4
+
+G Ib
+
+Grad 1
+
+Günstig
+
+5, 6
+
+G IIa
+
+Grad 2
+
+Günstig
+
+7
+
+G IIb
+
+Grad 3
+
+Ungünstig
+
+8, 9
+
+G IIIa
+
+Grad 3
+
+Ungünstig
+
+10
+
+G IIIb
+
+Grad 3
+
+Ungünstig
+
+18
+
+2.2.3
+
+TNM-Klassifikation
+
+Das international am weitesten verbreitete Verfahren zur einheitlichen Einstufung
+der verschiedenen Tumorstadien ist die TNM-Klassifikation. Das Tumorwachstum
+und seine Ausbreitung werden anhand der Ausdehnung des Primärtumors (T),
+dem Befall regionärer Lymphknoten (N) und dem Auftreten von Fernmetastasen
+(M) klassifiziert und bestimmten Tumorstadien zugeordnet. In den 50er Jahren
+legte die UICC (Union Internationale contre le Cancer, Union for International
+Cancer Control) die Kriterien für diese Einteilung fest (Sobin und Wittekind, 2002).
+Die Tumorstadien T1 und T2 beschreiben ein organbegrenztes Karzinom ohne
+Anhalt für eine Kapselüberschreitung. Das Tumorstadium T3 wird zwar bei
+negativem Lymphknotenstatus und Fehlen von Fernmetastasen als lokoregionär
+begrenzt bezeichnet, hat jedoch durch die extrakapsuläre Ausbreitung bereits die
+Organgrenzen überschritten.
+Die aktuelle TNM-Klassifikation (Wittekind und Meyer, 2010) ist in Tab. 2
+aufgeführt.
+
+Tab. 2: TNM-Stadien des Prostatakarzinoms (nach Wittekind u. Meyer, 2010)
+T – Primärtumor
+Tx
+
+Primärtumor kann nicht beurteilt werden
+
+T0
+
+Kein Anhalt für Primärtumor
+
+T1
+
+Klinisch inapparenter Tumor, der weder tastbar noch in
+bildgebenden Verfahren sichtbar ist (Inzidentaltumor)
+Zufälliger
+histologischer
+Befund
+(„incidental
+carcinoma“) in 5 % oder weniger des resezierten
+Gewebes
+Zufälliger
+histologischer
+Befund
+(„incidental
+
+T1a
+
+T1b
+
+carcinoma“) in mehr als 5 % des resezierten Gewebes
+
+T2
+
+Tumor mittels Nadelbiopsie diagnostiziert (z. B. wegen
+erhöhter PSA-Werte)
+Tumor begrenzt auf Prostata
+
+T2a
+
+Tumor erfasst einen Seitenlappen mit weniger als 50 %
+
+T2b
+
+Tumor erfasst einen Seitenlappen mit mehr als 50 %
+
+T1c
+
+19
+
+T2c
+
+Tumor erfasst beide Seitenlappen
+
+T3
+
+Tumor breitet sich durch die Prostatakapsel in
+extrakapsuläres Gewebe aus
+extrakapsuläre
+Ausbreitung
+ohne
+Befall
+der
+Samenblase
+Tumor infiltriert Samenblase(n)
+
+T3a
+T3b
+
+Tumor ist fixiert oder infiltriert andere benachbarte
+Strukturen als Samenblasen
+
+T4
+N – Regionäre Lymphknoten
+Nx
+
+Regionäre Lymphknoten können nicht beurteilt werden
+
+N0
+
+Keine regionären Lymphknotenmestastasen
+
+N1
+
+Regionärer Lymphknotenbefall
+
+M – Fernmetastasen
+Mx
+
+Metastasen nicht beurteilbar
+
+M0
+
+Keine Metastasen nachweisbar
+
+M1
+
+Tumor hat Fernmetastasen gebildet
+
+M1a
+
+Metastasen in extraregionären Lymphknoten
+
+M1b
+
+Knochenmetastasen
+
+M1c
+
+Metastasen mit anderer Manifestation
+
+2.3
+
+Therapieoptionen
+
+Zur Behandlung des frühen, lokal begrenzten Prostatakarzinoms stehen zurzeit
+vier Therapieoptionen zur Auswahl: die radikale Prostatektomie, die Radiatio
+(perkutan oder in situ durch Bradytherapie), seltener die Hormontherapie oder ein
+abwartendes Verhalten („wait and see“ oder „watchful waiting“), was aber kaum
+noch empfohlen wird. Bei geringem Progressionsrisiko des Tumors wird nach
+aktuellen Leitlinien das aktive Beobachten („active surveillance“) empfohlen, wo
+unter regelmäßigen Verlaufskontrollen bei Progress der Erkrankung kurative
+Schritte eingeleitet werden können. Unter dieser Therapieoption sollen die
+tumorspezifischen Überlebensraten auf nahezu 100 % angestiegen sein
+(Weissbach und Altwein, 2009). Bei der Auswahl eines therapeutischen
+Vorgehens
+
+spielen
+
+Lebenserwartung
+
+unterschiedliche
+des
+
+Patienten,
+
+Gesichtspunkte
+
+wie
+
+Komorbiditäten,
+
+Alter
+
+und
+
+persönliche
+
+20
+
+Therapiepräferenzen, Grading, zu erwartende Nebenwirkungen etc. eine Rolle
+(Jani und Hellmann, 2003). Dabei beträgt die 10-Jahres-Überlebensrate im frühen
+Stadium 75-90 % (Brill et al., 2001).
+
+2.4
+
+Anatomie und Physiologie der Prostata
+
+2.4.1
+
+Makroskopische Anatomie
+
+Die Prostata oder Vorsteherdrüse (griech. Prostátes = Vorsteher) gehört wie die
+paarige Vesicula seminalis (Samenblase oder Bläschendrüse) und die ebenfalls
+paarig
+
+angelegte
+
+Glandula
+
+bulbourethralis
+
+(Cowpersche
+
+Drüse)
+
+zu
+
+den
+
+akzessorischen Geschlechtsdrüsen und ist mit einem Gewicht von ca. 20 g deren
+Größte (Benninghoff, 1994). Sie ist eine rein exokrine Drüse, hat etwa die Größe
+einer Kastanie und die Form einer auf der Spitze stehenden Pyramide; sie liegt
+posterior der Symphysis pubica kaudal der Blase, mit deren Boden sie an ihrer
+Basis verwachsen ist (Abb. 1). Sie wird von einer Faszie eingefasst, die aus
+Kollagen, Elastin und glatter Muskulatur besteht. Diese Faszie hat posterior und
+lateral eine Dicke von etwa 0,5 mm. Die Facies anterior der Prostata ist durch das
+Ligamentum puboprostaticum am Schambein fixiert, die Facies posterior liegt der
+Ampulla recti an, von der sie durch ein rektovesikales Septum getrennt wird. Die
+Urethra wird zu Beginn ihres Verlaufs durch das Becken zwischen Blasenhals und
+Diaphragma urogenitale von der Prostata eingefasst und deswegen in diesem
+Bereich als Urethra prostatica bezeichnet. Die kraniokaudale Ausdehnung des
+Organs beträgt etwa 3 cm, wobei der größte Transversaldurchmesser von ca. 2 x
+4 cm oberhalb der Organmitte besteht, was für die Einteilung des Organs in die
+Bereiche Basis, Mitteldrüse und Apex wichtig ist. Nach kaudal verjüngt sich die
+Prostata, um mit ihrer Apex mit dem Diaphragma urogenitale in Kontakt zu treten.
+Ventral zwischen Symphyse und Prostata finden sich die periprostatische Faszie,
+Fettgewebe und der Santorinsche Plexus, der vordere Anteil des periprostatischen
+Venenplexus (Banson, 1996). Dorsal zwischen Prostata und Rektum ist die
+Denonvillierssche Faszie lokalisiert, die diese beiden Strukturen voneinander
+trennt (Rifkin, 1990; Maio und Rifkin, 1995).
+
+21
+
+Abb. 1: Sagittalschnitt durch die membranöse Urethra mit Darstellung der
+Strukturen des Beckens in der Mittellinie (aus Hinman, 1993)
+
+Die lateralen Begrenzungen sind kranial der Musculus obturator internus und
+kaudal der Musculus levator ani. Posterolateral sind bei etwa fünf und sieben Uhr
+bei Ansicht in Steinschnittlage die neurovaskulären Bündel zu finden, Verbände
+von Blutgefäßen, Lymphgefäßen und Nervenbahnen, die die Prostatakapsel
+penetrieren und Nerven enthalten, die sowohl für die erektile Funktion als auch die
+Kontinenz durch Innervation des Musculus sphincter urethrae externus von
+entscheidender Bedeutung sind (Huch et al., 1995). Die Pars prostatica urethrae
+verläuft zentral durch die Prostata und bildet zusammen mit den Ductus
+ejaculatorius in der Mitte der Drüse das Verumontanum, den Samenhügel
+(Colliculus seminalis).
+
+Die Prostata weist eine zonale anatomische Gliederung auf, die von McNeal
+beschrieben wurde (McNeal, 1981a, b). So lassen sich die drei Anteile periphere,
+
+22
+
+zentrale und Übergangszone unterscheiden (s. Abb. 2). Die ventrale Portion
+besteht aus dem anterioren fibromuskulären Stroma, das im vorderen Bereich
+stark ausgeprägt ist und sich nach lateral verdünnt, um hier die Prostatakapsel zu
+bilden. Das anteriore fibromuskuläre Stroma enthält kein Drüsengewebe sondern
+Bindegewebe und glatte Muskulatur (Benninghoff, 1994; Banson, 1996). Die
+glandulären Anteile der Prostata lassen sich in einen äußeren und einen inneren
+Bereich unterteilen. Die zentrale Drüse besteht aus der Urethra anliegender glatter
+Muskulatur,
+
+dem
+
+sogenannten
+
+präprostatischen
+
+Sphinkter,
+
+periurethralem
+
+Drüsengewebe und der Übergangszone (Coakley und Hricak, 2000). Die äußere
+oder periphere Drüse weist die Untereinheiten zentrale Zone und periphere Zone
+auf. Die Zonen können aufgrund ihrer Lagebeziehungen zu den Ductuli ejaculatorii
+und der Urethra identifiziert werden, weisen aber darüber hinaus histologische,
+embryologische und klinisch-pathologische Unterschiede auf. Die zentrale Zone ist
+an der Basis bzw. der kranialen Portion der Prostata lokalisiert und umgibt die
+Ejakulationsgänge. Sie hat die Form eines Trichters und macht den größten Teil
+der Basis aus. Nach kaudal hin verjüngt sie sich und erreicht mit ihrer Spitze die
+Ebene des Verumontanums. Distal dieser Struktur wird die Urethra von der
+peripheren Zone eingeschlossen, die den Großteil der Apex ausmacht und nach
+kranial der zentralen Zone anliegt, wodurch sie die laterodorsale Zirkumferenz des
+Organs stellt. Die Übergangszone, ein Teil der zentralen Drüse, umgibt den
+proximalen Anteil der Urethra oberhalb des Verumontanums und ist in der
+Mitteldrüse anterior lokalisiert. Für das Verständnis der zonalen Anatomie der
+Prostata ist der Verlauf der Urethra prostatica von entscheidender Wichtigkeit.
+Diese wird durch das Verumontanum, das in der Mitte zwischen Blasenhals und
+Apex der Prostata liegt, in einen proximalen und einen distalen Abschnitt unterteilt.
+Im Bereich des Verumontanums beschreibt die Urethra einen Knick von etwa 35
+Grad nach anterior (siehe Abb.1). In die Urethra münden die Ausführungsgänge
+des prostatischen Drüsengewebes. Beim jungen Mann macht die periphere Zone
+etwa 70 %, die zentrale Zone rund 25 % und die Übergangszone zusammen mit
+den periurethralen Drüsen nur 5 % des Volumens der Prostata aus (Coakley und
+Hricak, 2000).
+
+23
+
+Abb. 2: Zentrale Anatomie der Prostata im Frontalschnitt (aus Coakley u. Hricak,
+2000)
+
+Zu Samenblasen und Samenleiter hat die Prostata enge topographische und
+funktionelle Beziehungen, die auch für das Verständnis der später dargestellten
+pathologischen Veränderungen von Bedeutung sind. Der Samenleiter, Ductus
+deferens, verbindet den Nebenhoden mit der Harnröhre. Er hat eine Gesamtlänge
+von 35–40 cm und verläuft nach Verlassen des Nebenhodens (Pars epididymica)
+mit dem Samenstrang (Pars funiculi spermatici) zum Leistenkanal, den seine Pars
+inguinalis durchzieht (Benninghoff, 1994). Nach Passieren des Leistenkanals legt
+sich der Ductus deferens mit seiner Pars pelvina im Retroperitonealraum der
+lateralen Beckenwand an, von wo aus er von dorsolateral nach ventromedial über
+das Blasendach zur Prostata zieht. Vor der Einmündung in die Vorsteherdrüse
+erweitert sich der Gang zur Ampulla ductus deferentis, an deren distalem Ende die
+Einmündung des Ausführungsganges der Vesicula seminalis zu finden ist. Die
+beiden Samenblasen oder Bläschendrüsen liegen lateral der Ampulle. Im
+folgenden, etwa 1 cm langen Abschnitt zwischen Prostatarand und Colliculus
+seminalis (Verumontanum) trägt der Gang die Bezeichnung Ductus ejaculatorius.
+Dieser führt also sowohl das Sekret des Hodens und Nebenhodens als auch das
+der Bläschendrüsen. Diese Drüsen werden im internationalen Schrifttum oft
+synonym als Samenblasen bezeichnet, enthalten aber keine Samenzellen,
+sondern vielmehr ein von der Drüse gebildetes Sekret, das der Samenflüssigkeit
+
+24
+
+beigemengt wird. Sie liegen hinter der Harnblase kranial der Prostata lateral der
+Ampulla ductus deferentis und haben eine ovale, abgeflachte Form mit einer
+Länge von ca. 5 cm und einer Dicke und Breite von je 1 cm. Die Vesiculae
+seminales sind am Blasengrund von außen angewachsen und haben nach dorsal
+eine enge Lagebeziehung zum Rektum, von wo aus sie auch palpiert werden
+können. Die Drüsen selbst bestehen aus einem etwa 15 cm langen Gang, der
+stark gewunden und von einer bindegewebigen Kapsel umgeben ist. Seine Wand
+weist wie auch die des Ductus deferens eine kräftige Muskulatur auf. Das
+hochprismatische Epithel gleicht dem der Ampulla ductus deferentis und des
+Ductus ejaculatorius und zeigt eine starke sekretorische Aktivität (Coakley und
+Hricak, 2000). Die Lagebeziehungen von Prostata und Samenblasen zur
+umgebenden Muskulatur und der Blase sind in Abb. 3 dargestellt.
+
+Abb. 3: Frontalschnitt durch das kleine Becken (aus Coakley u. Hricak, 2000)
+
+Fascia pelvina und quergestreifte Muskulatur der Urethra
+Die Prostata wird von zwei separaten Faszienschichten bedeckt (Abb. 4): der
+Denonvilliersschen Faszie und der Fascia pelvina lateralis, die auch als Fascia
+prostatica bezeichnet wird. Die Denonvillierssche Faszie ist eine zarte,
+bindegewebige Struktur, die zwischen der Prostata und dem Rektum lokalisiert ist.
+Diese Bindegewebsschicht erstreckt sich nach kranial bis auf die Höhe der
+Samenblasen, deren posteriorer Wand sie unmittelbar anliegt. Sie ist in der Nähe
+der Prostatabasis am dicksten und verjüngt sich nach kaudal in Richtung des M.
+
+25
+
+sphincter urethrae internus, an dem sie endet. Da sich auch mikroskopisch keine
+anteriore und posteriore Schicht der Faszie diskriminieren lässt, muss sie
+intraoperativ komplett entfernt werden, um einen tumorfreien chirurgischen Rand
+zu erreichen (Coakley und Hricak, 2000).
+
+Abb. 4: Lagebeziehung der Prostata zu den Beckenfaszien und Nervenplexus
+(nach Campbell u. Walsh, 2003)
+
+Neben der Denonvilliersschen Faszie wird die Prostata von einer weiteren
+wichtigen Faszienschicht, der lateralen Beckenfaszie, umhüllt. Diese bedeckt die
+Beckenmuskulatur und wird auch als Fascia prostatica bezeichnet. Im
+anterolateralen Bereich liegt sie der Prostatakapsel unmittelbar an und umfasst
+auch die in ihr verlaufenden Hauptzuflüsse der A. dorsalis penis und des
+Santorinschen Plexus. Da die Prostata bei der radikalen retropubischen
+Prostatektomie von ventral angegangen wird, muss die laterale Beckenfaszie im
+Verlauf der Operation gespalten und der dorsale Venenplexus ligiert werden.
+Kaudal des Apex prostatae befindet sich direkt ventral der Denonvilliersschen
+Faszie der M. sphincter urethrae externus, eine tubuläre Muskelstruktur, deren
+Fasern entgegen früheren Meinungen vorwiegend vertikal verlaufen. Diese
+anatomischen Charakteristika sind wichtig für die Rekonstruktion der Urethra und
+den postoperativen Erhalt der Kontinenz (Walsh et al., 1990).
+
+26
+
+2.4.2
+
+Mikroskopische Anatomie und Physiologie
+
+Mikroskopisch besteht die Vorsteherdrüse aus etwas 30–50 Einzeldrüsen, die in
+fibromuskuläres Stroma eingebettet sind und deren Ausführungsgänge in die
+Urethra prostatica münden. Das Drüsensekret ist farblos, von geringer Viskosität
+und weist einen sauren pH-Wert (etwa 6,4) auf. Es enthält Zitronensäure (4
+mg/ml), Zink (150 µg/ml), Prostaglandine (200 µg/ml), Spermin (3 mg/ml) sowie
+Immunglobuline, Proteasen und saure Phosphatasen (Benninghoff, 1994). Die
+Hauptfunktionen des Prostatasekrets, das zusammen mit dem Sekret der
+Bläschendrüsen (Samenblasen) den Großteil des Gesamtejakulates von etwa 3
+ml ausmacht, sind Gelierung, Koagulation und Befeuchtung des Samens
+(Aumüller und Seitz, 1990). Des Weiteren fördert es die Motilität und verlängert die
+Überlebenszeit der Spermatozoen. Sekretorische Proteine sind an deren
+Uncoating beteiligt und interagieren mit dem Zervikalsekret der Frau. Die
+tubuloalveolären Drüsen der Prostata haben ein zwei- bis mehrreihiges Epithel,
+wobei die Form der Einzelzellen von ihrer sekretorischen Aktivität, der
+hormonellen Stimulation und dem Alter des Mannes abhängt. Die eigentlichen
+Drüsenzellen sind hochprismatisch und enthalten Sekretgranula, die luminalseitig
+sezerniert werden. Das Prostatagewebe regeneriert sich durch Proliferation der
+Basalzellen, die der Basalmembran unmittelbar aufliegen (Hayward Cunha.,
+2000).
+Die zonalen Abschnitte der Prostata sind auch durch eine histologische
+Differenzierung
+
+gekennzeichnet.
+
+In
+
+der
+
+peripheren
+
+Zone
+
+sind
+
+die
+
+Ausführungsgänge schmal und enden an einfach gebauten runden Azini (McNeal,
+1981b; Rifkin, 1997). Die azinären Epithelzellen haben deutliche Grenzen, ein
+helles Zytoplasma und kleine, dunkle, basal lokalisierte Kerne. Das Stroma enthält
+lockere, glatte Muskulatur. In der zentralen Zone sind die Ausführungsgänge
+dagegen von größerem Kaliber und enden in großen, unregelmäßigen Azini mit
+deutlichen Stromaanteilen. Die Epithelzellen der Azini haben unscharfe Grenzen,
+ein granuläres Zytoplasma und große, helle Zellkerne, die innerhalb der Zellen auf
+unterschiedlicher Höhe liegen. Das Stroma enthält viel dicht angeordnete, glatte
+Muskulatur. Diese Kriterien weisen darauf hin, dass die Zonen unterschiedliche
+
+27
+
+Funktion haben, was auch durch die Tatsache unterstrichen wird, dass die Zellen
+der zentralen Zone Pepsinogen II und Gewebsplasminogenaktivator (tPA=tissue
+plasminogen activator) sezernieren, eine Substanz, die nur an dieser Stelle in der
+Prostata zu finden ist. Histologisch ähnelt die Übergangszone der peripheren
+Zone. Die hauptsächliche Bedeutung der zonalen Einteilung liegt in der Zuordnung
+von pathologischen Veränderungen zum Ursprungsgewebe. So geht die benigne
+Prostatahyperplasie in der Mehrzahl der Fälle von der Übergangszone aus,
+während das Karzinom zu 70 % in der peripheren Zone, zu 20 % in der
+Übergangszone und nur zu 10 % in der zentralen Zone entsteht (McNeal, 1981b;
+Massmann et al., 2003).
+
+Die mikroskopische Untersuchung der Ductuli ejaculatorii, der Ampulla ductus
+deferentis und der Samenblasen ergibt ein zweireihiges hochprismatisches
+Epithel, dessen starke sekretorische Aktivität an dem gut entwickelten, rauhen
+endoplasmatischen Retikulum und Golgiapparat zu erkennen ist. Regelmäßig
+kommen in den Epithelzellen auch Lipofuszingranula als Zeichen abgelaufener
+hoher Stoffwechselleistungen vor (Benninghoff, 1994).
+Das Sekret der Bläschendrüsen, das etwa 50–80 % des Ejakulates ausmacht, hat
+eine gelatinöse Konsistenz, ist gelblich gefärbt und besteht vorwiegend aus
+Proteinen. Sein pH-Wert ist mit 7,2-7,6 leicht alkalisch. Es enthält Fruktose, die
+den Spermien als Energielieferant dient, und Prostaglandine, die durch ihre
+Wirkung auf die glatte Muskulatur des weiblichen Genitaltraktes die Wanderung
+der Spermatozoen von der Scheide in den Uterus und die Tuba uterina
+erleichtern. Des Weiteren gehören Seminogelin, Fibronectin und Laktoferrin zu
+den spezifischen Bestandteilen des Sekrets, wobei die beiden ersteren
+Substanzen wesentlich an der postejakulatorischen Koagulation des Samens
+beteiligt sind (Lilja et al., 1984, 1989).
+
+In der Entwicklung und Funktion der Prostata spielen die männlichen
+Sexualhormone eine entscheidende Rolle, allen voran das Testosteron. Die
+Anwesenheit von Androgenen ist für die Entwicklung der Prostata unerlässlich
+(Price
+
+und
+
+Ortiz,
+
+1965),
+
+da
+
+die
+
+Differenzierung
+
+des
+
+urogenitalen
+
+Sinusmesenchyms zu Prostatagewebe nicht durch das genetische Geschlecht des
+
+28
+
+Embryos sondern allein durch die Wirkung von männlichen Geschlechtshormonen
+determiniert wird. Im Tierexperiment ließ sich zeigen, dass der Urogenitalsinus
+sowohl weiblicher als auch männlicher Feten funktionstüchtiges Prostatagewebe
+bildet,
+
+wenn er in der entsprechenden
+
+Entwicklungsphase durch hohe
+
+Androgenspiegel stimuliert wird (Takeda et al., 1986). Die hormonelle Stimulation
+ist für die Bildung von Drüsen und Ausführungsgängen ebenso wichtig wie für die
+Zelldifferenzierung in basale und luminale Epithelzellen (Cunha et al., 1992). Das
+Epithel wiederum steuert die Differenzierung von Zellsubpopulationen zu glatter
+Muskulatur, woraus folgt, dass sich Drüsengewebe und glatte Muskulatur der
+Prostata nur gemeinsam entwickeln können (Hayward et al., 1998).
+Die menschliche Prostata ist in der Kindheit mit einem Gewicht von 2 g klein und
+zeigt in der Pubertät analog zu den steigenden Androgenspiegeln einen
+Wachstumsschub, im Laufe dessen sie ein Endgewicht von etwa 20 g erreicht
+(Hayward und Cunha, 2000). Bis zum Ende der dritten Lebensdekade bleibt das
+Prostatagewicht annähernd konstant, danach steigt es kontinuierlich an (Berry et
+al., 1984). Dieser Anstieg ist eine Folge der Organvergrößerung durch die benigne
+Prostatahyperplasie (BPH) und erfolgt mit sehr geringer Geschwindigkeit. Generell
+ist die Prostata ein sehr langsam wachsendes Organ, das sogar in der Zeit des
+maximalen Organwachstums in der Pubertät im Mittel 2,76 Jahre benötigt, um
+sein Gewicht zu verdoppeln. Die Veränderungen durch BPH führen sogar erst
+nach 4,5 Jahren zu einem Erreichen des doppelten Organgewichts (Coffey et al.,
+1987). Dieses langsame Wachstum wird durch eine sehr geringe Apoptoserate im
+Organ ausgeglichen, sodass die Prostata ein Organ mit geringem Gewebeumsatz
+ist (Isaacs et al., 1994). In der Prostata befindet das biologisch aktive Androgen
+5α-Dihydrotestosteron (DHT), das durch die örtliche Reduktion von in den Hoden
+produziertem Testosteron durch das Enzym α-3-Ketosteroid-5α-Reduktase (5αReduktase) entsteht. Die aktive Form der 5α-Reduktase, von der zwei
+Untergruppen beschrieben wurden (Andersson und Russell, 1990), ist im
+Genitaltrakt die Typ 2-5α-Reduktase, die bei juvenilen und adulten Prostaten
+sowohl im Stroma als auch in den Epithelzellen zu finden ist.
+Die hormonellen Interaktionen zwischen Testes und Prostata sind schon seit
+vielen Jahren bekannt und führten zu therapeutischen Ansätzen, die mittlerweile
+regelmäßig zur Behandlung fortgeschrittener Tumorstadien zum Einsatz kommen.
+
+29
+
+Androgenentzug führt beim Erwachsenen zu einem Verlust der sekretorischen
+Funktion und Größenabnahme der Drüse, was durch Apoptose bewirkt wird, die
+vor allem die distalen Anteile der Drüsengänge betrifft (Sugimura et al., 1986). Da
+in der Prostata sowohl epitheliale als auch stromale Androgenrezeptoren
+vorhanden sind, treten Folgen einer Kastration an beiden Gewebstypen auf, wobei
+unklar ist, ob Apoptosevorgänge im Epithel durch fehlende Androgenwirkung am
+eipthelialen Androgenrezeptor oder durch parakrine Interaktionen mit stromalen
+Rezeptoren hervorgerufen werden. Werden nach Kastration wieder Androgene
+zugeführt, reagiert das Prostatagewebe mit Proliferation und Wiederaufnahme der
+sekretorischen Aktivität (Sugimura et al., 1986).
+
+2.4.3
+
+Vaskuläre Anatomie
+
+Die arterielle Blutversorgung der Prostata erfolgt über die A. vesicalis inferior.
+Diese gibt Äste an die Samenblasen und den basalen Teil der Blase und Prostata
+ab, bevor sie sich in zwei große Gefäßgruppen aufteilt, die urethrale und die
+kapsuläre Gruppe. Die urethralen Äste versorgen den Blasenhals und die
+periurethralen Gebiete der Prostata, die kapsulären sind für die arterielle
+Blutzufuhr der peripheren Prostata verantwortlich. Die letzteren Gefäße werden
+von einem dichten, mikroskopisch nachgewiesenen Netz von Nerven begleitet und
+dienen zusammen mit den sie begleitenden Venen als makroskopischanatomische Leitstruktur bei der Identifikation der mikroskopischen Äste des
+Plexus pelvinus, der die Corpora cavernosa innerviert und damit für die Potenz
+von entscheidender Bedeutung ist (Lepor et al., 1985).
+Die venöse Drainage der Prostata erfolgt durch den Santorinschen Plexus.
+Besonders bei der Präparation der Apex ist eine exakte Kenntnis dieses
+Venengeflechts vonnöten, um exzessive Blutungen zu vermeiden und ein
+möglichst blutarmes Operationsgebiet zu erreichen. Der Santorinsche Plexus
+entsteht aus der sich in drei Äste verzweigenden V. dorsalis penis (Abb. 5).
+
+30
+
+Abb. 5: Anatomie des perioprostatischen Venenplexus (nach Campbell u. Walsh,
+2003)
+
+Der kraniale Ast, der zwischen den puboprostatischen Bändern verläuft, bildet die
+zentrale Vene, die dem Blasenhals und der Prostata aufliegt. Sie liegt im
+Gegensatz zu den beiden lateralen Ästen außerhalb der Fascia endopelvica.
+Diese Äste verlaufen posterolateral der Prostata und stehen in Verbindung mit den
+Plexus vesicalis, pudendus und obturatorius, die sich zur V. vesicalis inferior
+vereinigen, die in die V. iliaca interna mündet. Da diese vaskulären Strukturen
+untereinander kommunizieren und das gesamte kleine Becken drainieren, führt
+eine Verletzung zu beträchtlichen Blutungen (Walsh, 1987).
+
+2.4.4
+
+Neuroanatomie
+
+Die autonome Innervation der Beckenorgane und des äußeren Genitale erfolgt
+durch den Plexus pelvinus (Abb. 4), der durch präganglionäre viszerale Efferenzen
+der sakralen Segmente S2 bis S4 und sympathische Fasern aus den
+thorakolumbaren Segmenten Th1 bis L2 gebildet wird (Lepor et al., 1985; Schlegel
+
+31
+
+und Walsh, 1987; Walsh und Donker, 2002). Der Plexus pelvinus liegt etwa 5–11
+cm
+
+abanal
+
+retroperitoneal
+
+neben
+
+dem
+
+Rektum
+
+und
+
+bildet
+
+ein
+
+sagittal
+
+ausgerichtetes Netzwerk, dessen Zentrum auf Höhe der Samenblasenspitze sitzt.
+Die Prostata versorgenden Äste der A. und V. vesicalis inferior perforieren den
+Plexus, weswegen eine Ligatur des sogenannten lateralen Pedikels nicht nur die
+Gefäßversorgung unterbindet, sondern auch die nervale Versorgung von Prostata,
+Urethra und Corpora cavernosa unterbricht. Der Plexus pelvinus enthält auch
+viszerale Efferenzen, die die Blase, Samenblasen, Prostata, das Rektum, die
+membranöse Urethra und die Corpora cavernosa innervieren. Motorische
+Efferenzen versorgen den M. levator ani, den M. coccygeus und die quergestreifte
+Muskulatur der Urethra.
+Die Äste zu den Corpora cavernosa und der membranösen Urethra verlaufen
+außerhalb der Prostatakapsel dorsolateral in der Fascia pelvina lateralis zwischen
+Prostata und Rektum. Nach Passieren des Diaphragmas urogenitale ziehen sie
+hinter der A. und V. dorsalis penis vorbei, um im weiteren Verlauf in die Corpora
+cavernosa einzutreten. Obwohl diese Nerven von mikroskopischer Größe sind,
+kann ihre anatomische Lage intraoperativ durch die sie begleitenden kapsulären
+Gefäße zuverlässig abgeschätzt werden. Dieser Gefäß-Nerven-Verbund wird in
+der Literatur allgemein als neurovaskuläres Bündel bezeichnet (Walsh, 1987).
+
+2.4.5
+
+Kernspintomographische Anatomie
+
+Wie bereits erwähnt, stellt die MRT das bildgebende Verfahren mit der höchsten
+Ortsauflösung und dem größten Weichteilkontrast für die Untersuchung der
+Prostata dar. Zur genauen Darstellung sind dabei sowohl T1- als auch T2gewichtete Mess-Sequenzen erforderlich, wobei die zonale Gliederung des
+Organs nur im T2-gewichteten Bild zur Darstellung kommt. In der T1-Gewichtung
+zeigt die Prostata hingegen eine homogene mittlere Signalintensität (Schnall und
+Pollack, 1990; Sommer et al., 1993). Im T2-gewichteten Bild weist die normale
+periphere Zone ein gleichmäßig hohes Signal auf, das dem des umgebenden
+Fettgewebes ähnlich ist oder sogar darüber liegt. Die nach kaudal konisch
+zulaufende, zentrale Zone hat ein homogen niedrigeres Signalniveau und ist in
+
+32
+
+allen Wichtungen nicht eindeutig von der Übergangszone zu unterscheiden. Nur
+aufgrund anatomischer Kenntnisse lässt sich die Übergangszone lokalisieren.
+Neben dem Drüsengewebe kommen auch die nicht-drüsigen Anteile, das
+anteriore fibromuskuläre Stroma, die Urethra und die Prostatakapsel, zur
+Darstellung. Das anteriore fibromuskuläre Stroma ist sowohl im T1- als auch im
+T2-gewichteten Bild von geringer Signalintensität (Hricak et al., 1987a). Die distale
+prostatische
+
+Urethra
+
+kann
+
+im
+
+T2-gewichteten
+
+Bild
+
+identifiziert
+
+werden;
+
+charakteristisch ist die Hufeisenform mit der außen liegenden Muscularis, die ein
+niedriges Signal zeigt. Die etwa 1 mm dicke Prostatakapsel besteht ebenso wie
+die chirurgische Pseudokapsel zwischen zentraler und peripherer Drüse aus
+fibromuskulärem Gewebe und kommt deshalb in der T2-Wichtung dunkel, also
+signalarm, zur Darstellung. Bei intravenöser Gabe von Gadolinium zeigt die
+Prostata in der peripheren Zone eine stärkere KM-Aufnahme als in der
+Übergangszone
+
+und
+
+der
+
+zentralen
+
+Zone.
+
+Prostatakarzinome
+
+sind
+
+meist
+
+hypervaskularisiert, was man sich bei kontrastverstärkten Perfusionssequenzen
+zunutze macht (Secaf et al., 1991).
+Die Samenblasen lassen sich am besten in der T2-Wichtung beurteilen, in der sie
+aufgrund des hohen Flüssigkeitsgehalts überwiegend hell erscheinen. Die hellen
+Lumina
+
+sind
+
+von dunklen Wandstrukturen
+
+umgeben,
+
+wodurch
+
+sich
+
+ein
+
+charakteristisches traubenartiges Aussehen ergibt. Normale Samenblasen sollten
+ein annähernd homogenes Signalverhalten demonstrieren und in der T1-Wichtung
+etwa die gleiche Signalintensität wie die benachbarte Beckenmuskulatur
+aufweisen. Die i. v.-Gabe von Gadolinium-DTPA führt in der T1-Wichtung zu einer
+Signalanhebung der Wandstrukturen der Samenblasen bei gleich bleibend
+intermediärem Signal des Lumens und kann somit zur genaueren Beurteilung der
+Wand herangezogen werden (Secaf et al., 1991). Die Samenblasen unterliegen in
+Größe und Flüssigkeitsgehalt hormonabhängigen Schwankungen, wobei die
+größte Ausdehnung bei großer Schwankungsbreite im Mittel in der fünften und
+sechsten Lebensdekade erreicht wird.
+
+33
+
+2.5
+
+Die Magnetresonanztomographie (MRT)
+
+2.5.1
+
+Geschichte und technische Grundlagen
+
+Bereits im Jahre 1946 wurde die kernmagnetische Resonanz von Bloch und
+Purcell unabhängig voneinander entdeckt, wobei jedoch erst im Jahre 1973 durch
+Paul C. Lauterbur (Nobelpreis für Medizin 2003 zusammen mit Sir Peter
+Mansfield) erstmalig der Versuch eines Einsatzes dieser Technik in der
+Bildgebung unternommen wurde. Die ersten Bilder des menschlichen Organismus
+konnten im Jahr 1977 akquiriert werden.
+Beim Kernspinverfahren, im angelsächsischen Schrifttum „Nuclear Magnetic
+Resonance“ (NMR) und später „Magnetic Resonance“ (MR) genannt, werden
+Atomkerne mit einem magnetischen Moment einem sehr starken äußeren
+Magnetfeld B0, das in der klinischen Routine eine Stärke von 1,0 - 3,0 Tesla
+besitzt, ausgesetzt (Reimer et al., 2003).
+
+2.5.2
+
+Prinzip der Magnetresonanz
+
+Spin verhält sich in allen Experimenten wie ein Drehmoment, welches verbunden
+ist mit einem magnetischen Moment. Das Proton besitzt einen solchen Spin, und
+weil das Waserstoffatom als Kern nur ein Proton besitzt, lassen sich diese
+Spineigenschaften durch die Beobachtung des Wasserstoffs studieren. Da
+Wasserstoff ein elementarer Bestandteil von Wasser und Fett ist und da der
+menschliche Körper in erster Linie aus Fett und Wasser besteht, haben wir eine
+potenzielle medizinische Anwendung (Nitz, 2003).
+Der Spin – oder besser sein magnetisches Moment – kann sich parallel oder
+antiparallel zu einem externen Magnetfeld ausrichten, wie in Abb. 6 illustriert.
+
+34
+
+Abb. 6. Makroskopische Magnetisierung (oder „Spin“): Innerhalb eines externen
+magnetischen Feldes gibt es für das magnetische Moment der Spins eine
+bevorzugte Richtung. Die Besetzung der ungünstigeren Position ist mit einer
+Energieaufnahme verbunden. Da die bevorzugte Position einer parallelen
+Orientierung eine höhere Besetzung zeigt, kommt es zu Ausbildung einer
+Magnetisierung Mo.. Nach (aus Reimer et al., 2003)
+Die antiparallele Ausrichtung ist dabei die energetisch ungünstigere Position. Wir
+betrachten nicht ein einzelnes Proton sondern eine große Anzahl ähnlicher
+Protonen, und der geläufige Ausdruck Spin bezeichnet eigentlich eine große
+Anzahl von Spins oder eine Spingruppe. Das Verhalten einer solchen Spingruppe
+ist äquivalent zum quantenmechanischen Mittelwert und kann bequemerweise als
+Magnetisierung behandelt werden (Nitz, 2003). Wie Abb. 7 zeigt, bilden
+Wasserstoffatome
+
+in
+
+einem
+
+externen
+
+Magnetfeld
+
+eine
+
+makroskopische
+
+Magnetisierung, parallel zu der Richtung des statischen Magnetfeldes. Diese
+Richtung wird üblicherweise als die z-Richtung bezeichnet. Die ausgerichtete
+Magnetisierung wird auch longitudinale Magnetisierung genannt. Ein senkrecht
+zum Hauptfeld angelegtes magnetisches Feld verursacht eine Drehung dieser
+makroskopischen Magnetisierung. Ein rotierendes magnetisches Feld lässt sich
+mit Hilfe einer elektromagnetischen Strahlung realisieren. Hat das angelegte
+elektromagnetische Feld die gleiche Frequenz, so rotiert eine magnetische
+Komponente dieses Feldes zusammen mit der makroskopischen Magnetisierung
+(ist in Resonanz) und täuscht für diese ein konstantes magnetisches Feld vor,
+welches auch als B1-Feld bezeichnet wird. So ein Prozess wird als HF(Hochfrequenz) Anregung bezeichnet. (Nitz, 2003)
+
+35
+
+Abb. 7. Phänomen der „Resonanz“. Ein B1- Feld senkrecht zur Hauptrichtung (zRichtung) dreht die makroskopische Magnetisierung in Richtung der x-y-Ebene.
+Jeder Versuch, die makroskopische Magnetisierung aus der Richtung der des
+Hauptfeldes herauszudrehen, verursacht eine Rotation um die z-Achse. Rotiert die
+B1-Komponente
+
+des
+
+elektromagnetischen
+
+Feldes
+
+mit
+
+der
+
+gleichen
+
+Rotationsfrequenz, so dreht das B1-Feld die makroskopische Magnetisierung
+weiter nach (aus Reimer et al., 2003).
+
+2.5.3
+
+T1- und T2-Relaxationszeiten
+
+Die Amplitude des induzierten Signals ist proportional zur Anzahl der Protonen,
+die sich am Anregungsprozess beteiligt haben (Protonendichte). In der Regel sind
+mehrere Anregungsprozesse notwendig, um alle für eine Bildkonstruktion
+notwendigen Informationen zu bekommen. Bei jeder Anregung wird die
+vorliegende longitudinale Magnetisierung in Richtung Transversalebene gedreht.
+Die
+
+vorliegende
+
+longitudinale
+
+gewebespezifischen
+
+Magnetisierung
+
+Relaxationszeit,
+
+eine
+
+Zeit,
+
+ist
+
+eine
+
+die
+
+angibt,
+
+Funktion
+mit
+
+der
+
+welcher
+
+Geschwindigkeit sich eine gedrehte Magnetisierung wieder parallel zum
+Hauptmagnetfeld
+
+ausrichtet.
+
+Diese
+
+Zeit
+
+nennt
+
+man
+
+T1-Relaxationszeit.
+
+Grundsätzlich gilt: Je größer die Beweglichkeit der Wassermoleküle (je höher der
+Gehalt freien Wassers im Gewebe), umso länger wird die gewebsspezifische T1Relaxationszeit. Die Projektion der Magnetisierung auf die Transversalebene
+nennt
+
+man
+
+transversale
+
+Magnetisierung.
+
+Diese
+
+rotierende
+
+transversale
+
+Magnetisierung setzt sich aus einer Vielzahl individueller magnetischer Momente
+
+36
+
+von Wasserstoffkernen zusammen, die alle in die gleiche Richtung zeigen. Die
+Dipol-Dipol-Wechselwirkung zwischen diesen magnetischen Momenten verursacht
+eine „Dephasierung“ der transversalen Magnetisierung. Je mehr Zeit vergeht
+zwischen Anregung und Datenakquisition, umso niedriger ist das induzierte
+Signal. Die Relaxationszeit, die dieses Dephasierungsphänomen beschreibt,
+nennt man T2-Relaxationszeiten (Reimer et al., 2003).
+Derzeitige Akquisitionsschemata benötigen einen Mindestabstand zwischen
+Anregung und Datenaquisition von etwa 1 ms. Ein in seiner Bewegung
+„eingefrorenes“ Wassermolekül ist also nicht beobachtbar. Wassermoleküle in
+direkter Nachbarschaft von Makromolekülen sind in der Regel in ihrer
+Bewegungsfreiheit soweit eingeschränkt, dass sie mit MR nicht beobachtbar sind.
+Solche Wassermoleküle bezeichnet man als „unsichtbares Wasserreservoir“. Die
+Mehrzahl der Wassermoleküle im menschlichen Körper ist ausgesprochen mobil,
+und die taumelnden rotierenden Moleküle führen zu Fledfluktuationen, deren
+Mittelwert zu einer langsameren Dephasierung der transversalen Magnetisierung
+führt. Die Zeit, die diesen gewebespezifischen Dephasierungseffekt beschreibt,
+heißt
+
+T2-Relaxationszeit,
+
+Relaxationszeit.
+
+transversale
+
+Grundsätzlich
+
+gilt:
+
+Je
+
+Relaxationszeit
+größer
+
+die
+
+oder
+
+Spin-Spin-
+
+Beweglichkeit
+
+der
+
+Wassermoleküle (je höher der Gehalt an freiem Wasser im Gewebe), umso länger
+wird die gewebespezifische T2-Relaxationszeit (Reimer et al., 2003).
+
+2.5.4
+
+Diffusionsbildgebung
+
+Die Eigenschaft von Wassermolekülen, sich innerhalb eines Gewebes frei und
+relativ zufällig zu bewegen, wird durch den Diffusionskoeffizienten beschrieben.
+Wird nach der HF-Anregung für eine kurze Zeit ein Magnetfeldgradient
+eingeschaltet, so ändert sich für diese kurze Zeit die Resonanzfrequenz, was zu
+einer Dephasierung der transversalen Magnetfeldgradienten führt. Schaltet man
+den gleichen Magnetfeldgradienten für die gleiche Zeit aber mit umgekehrtem
+Vorzeichen ein, so führt dies zu einer „Rephasierung“ der transversalen
+Magnetisierung für statisches Gewebe, für „statische“ Moleküle. Für Moleküle, die
+in der Zwischenzeit ihre Position gewechselt haben, ist die Rephasierung der
+
+37
+
+transversalen Magnetisierung unvollständig. Gewebe oder Gewebebereiche mit
+einer
+
+erhöhten
+
+Diffusion
+
+erscheinen
+
+als
+
+signalarme
+
+Gebiete
+
+in
+
+der
+
+diffusionsgewichteten Bildgebung.
+Diffusionswichtung beinhaltet die Anwendung großer Feldgradienten, zusätzlich zu
+den Feldgradienten, die für die räumliche Kodierung verwendet werden (Reimer et
+al., 2003).
+
+2.5.5
+
+Grundlagen der diffusionsgewichteten MRT-Bildgebung
+
+Menschliches Gewebe besteht zu einem hohen Prozentsatz aus Wasser. Die
+Wassermoleküle,
+
+die
+
+das
+
+MR-Signal
+
+liefern,
+
+führen
+
+mikroskopische
+
+Zufallsbewegungen (Braunsche Molekularbewegung) aus, deren Geschwindigkeit
+und Richtung sich beim Zusammentreffen zweier Moleküle ändert. Dies gilt auch
+für Moleküle, die einen längeren Weg zurückgelegt haben. Zu nennen sind in
+diesem Zusammenhang aber auch die Perfusion des Mikrogefäßsystems und
+Diffusionsvorgänge an der Zellmembran (Tomczak et al., 2000). Überwiegend
+findet die gemessene Molekülbewegung im Extrazellularraum statt. Hier
+beeinflussen vor allem die Parameter Temperatur, Zusammensetzung des
+Extrazellularraums und die Hydratation des Gewebes die Diffusion (Fiebach und
+Schellinger, 2003). Grundsätzlich stören diese Effekte das MRT-Bild durch
+verringerte Signalintensitäten, jedoch lässt sich die Diffusion auch als wesentlicher
+Bestandteil
+
+zur
+
+Bildgebung
+
+verwenden.
+
+Durch
+
+die
+
+Kombination
+
+diffusionsgewichteter MRT-Aufnahmen mit EPI-Sequenzen (Echo-Planar-Imaging)
+wird erreicht, dass die Aufnahmezeiten gering gehalten werden können (ca. 60
+ms) mit dem Vorteil der geringeren Empfindlichkeit gegenüber Bewegungen aller
+Art (Uhlenbrock, 1996). Durch einen bipolaren Gradientenpuls, der bis zu 100 ms
+dauern kann, wird eine durch Diffusion bedingte Dephasierung ermöglicht
+(Tomczak et al., 2000). Diffusionsgewichtete Sequenzen werden durch die
+Ergänzung von Diffusionsgradienten in Spinecho-Sequenzen erzeugt (Abb. 8).
+Dafür wird zwischen der Hochfrequenzanregung und der Datenauslese ein
+bipolares Gradientenpaar eingefügt. Es entsteht ein niedrigeres Bildsignal, wenn
+sich die Wassermoleküle im Zeitintervall zwischen den Gradientenschaltungen
+bewegen und ihre Spins dephasieren (a). Eine hohe Signalintensität geht
+
+38
+
+hingegen von stationären Molekülen aus, bei denen die Diffusionsgradienten zu
+einer Fokussierung der Spins führen (b) (Fiebach und Schellinger, 2003).
+
+Abb. 8: Entstehung der Diffusionssequenz durch Einfügung zweier Diffusionsgradienten in eine Spinecho–Sequenz (aus Fiebach u. Schellinger, 2003)
+
+Die Diffusionssensitivität (b-Wert) beschreibt die Abschwächung des MR–Signals
+durch eine gegebene Diffusionsgradientenstärke. Sie hat die Einheit sec/mm2 und
+wird mit der folgender Formel errechnet:
+b = γ2 G2 δ2 (_ - δ / 3)
+
+γ = gyromagnetische Verhältnis,
+G = Amplitude der Diffusionsgradienten,
+δ = Länge der Gradientenpulse,
+_ = Länge des Zeitintervalls zwischen den Gradientenpulsen.
+
+39
+
+Der Signalabfall bei einem zugewiesenen b-Wert lässt sich durch nachfolgende
+Gleichung errechnen, dabei ist S die Signalintensität bei festgelegtem b-Wert und
+S0 die Signalintensität ohne Diffusionswichtung (Susumu und Barker, 1999;
+Habermann et al., 2005):
+S / S0 = e - γ2 G2 δ2 (_ - δ / 3) ADC
+= e – b ADC
+
+Durch die Messung der Diffusion mit unterschiedlichen b-Werten bestimmt man
+den apparenten Diffusionskoeffizienten (ADC - apparent diffusion coefficient). Der
+T2-Effekt, welcher in den Diffusionssequenzen miterfasst wurde, wird auf diese
+Weise eliminiert. Der ADC-Wert wird mit der Einheit mm²/s angegeben (Fiebach
+und Schellinger, 2003).
+
+Ein hoher ADC-Wert bedeutet eine hohe Diffusionsgeschwindigkeit mit hohem
+Signalabfall und geringe Signalintensität. Ein niedriger ADC-Wert entspricht
+demzufolge einer niedrigen Diffusionsgeschwindigkeit und niedrigem Signalabfall
+mit hoher Signalintensität.
+
+Mit dem Begriff „Diffusion“ wurde im vorangegangenen Text eine isotrope
+Diffusion angenommen, also eine von der Raumachse unabhängige Bewegung.
+Zu erwähnen ist hingegen auch die anisotrope Diffusion, bei der die
+Wassermoleküle entlang der Längsachse einer Struktur, z. B. eines Axons,
+gerichtet diffundieren. Um klinisch relevante Diffusionsstörungen ausschließen zu
+können,
+
+sollten
+
+Diffusionsgradienten
+
+in
+
+mindestens
+
+drei
+
+Raumrichtungen
+
+eingesetzt werden (Tomczak et al., 2000; Fiebach et al., 2003).
+
+2.5.6
+
+Kontrastmittel
+
+Die Mehrzahl der MR-Kontrastmittel nutzt die paramagnetischen Eigenschaften
+des Gadoliniums aus. Das Gadolinium hat ein starkes magnetisches Moment und
+ist eingebettet in ein stabiles, relativ bewegliches Chelat. Das mit dem Molekül
+
+40
+
+taumelnde
+
+und
+
+rotierende
+
+magnetische
+
+Moment
+
+führt
+
+am
+
+Ort
+
+der
+
+Wasserstoffkerne zu den gewünschten Feldfluktuationen und erlaubt eine
+Beschleunigung des Relaxationsprozesses – mit dem Resultat einer wesentlich
+verkürzten T1-Relaxationszeit (Reimer et al. 2003).
+
+2.5.7
+
+Das
+
+1H-MR-Spektroskopie
+
+Prinzip
+
+der
+
+1H-MR-Spektroskopie
+
+beruht
+
+darauf,
+
+dass
+
+sich
+
+die
+
+Resonanzfrequenzen von Wasserstoffatomen je nach Biomolekül, in das sie
+eingebaut sind, unterscheiden. Durch diese sogenannte chemische Verschiebung
+ist es möglich, unterschiedliche Moleküle zu detektieren. Die für die 1H-MRSpektroskopie der Prostata wichtigen Stoffwechselmoleküle sind Cholin und Citrat.
+Citrat wird in den Drüsen der Prostata produziert, Cholin findet sich als Bestandteil
+von Zellmembranen. Untersuchungen zur MR-Spektroskopie der Prostata konnten
+zeigen, dass es in tumorös veränderten Arealen zu einem Abfall des Citrats bei
+gleichzeitigem Anstieg des Cholins kommt. Um die Metabolitenlevel quantitativ zu
+beurteilen, wird in der Regel das Verhältnis von (Cholin+Kreatin)/Citrat verwendet.
+Dadurch wird der Tatsache Rechnung getragen, dass aufgrund des B1-Profils der
+Empfangsspule (= Endorektalspule) die entfernten Areale der Prostata weniger
+Signal liefern. Das Kreatin ist ubiquitär in der Prostata detektierbar und
+unterscheidet sich in seinen Konzentrationen innerhalb der unterschiedlichen
+Prostataregionen nicht signifikant. Aufgrund einer oft beobachten Überlappung der
+Cholin- und Kreatinresonanzen werden zur Vereinfachung der Quantifizierung
+beide Peaks in das Verhältnis mit eingebracht. Zur Spektroskopie der Prostata
+stehen prinzipiell zwei Verfahren zur Verfügung: 1. die Single-Voxel-Spektroskopie
+(SVS) und 2. die mehrdimensionale Multi-Voxel-Spektroskopie, auch MRSpectroscopic imaging (MRSI) genannt. Heute wird fast ausschließlich das MRSI
+verwendet, da hiermit ein größeres Prostataareal bzw. die ganze Prostata
+untersucht
+
+werden
+
+kann
+
+und
+
+eine
+
+bessere
+
+räumliche
+
+Zuordnung
+
+von
+
+pathologischen Metabolitenkonzentrationen gelingt (Vogl et al., 2011)
+Durch
+
+die
+
+Spektroskopie
+
+kann
+
+die
+
+diagnostische
+
+Aussagefähigkeit
+
+der
+
+endorektalen MRT gesteigert werden. Das gilt insbesondere für weniger erfahrene
+
+41
+
+Untersucher.
+
+Bei
+
+Patienten,
+
+die
+
+ansteigende
+
+PSA-Werte
+
+zeigen,
+
+die
+
+Prostatabiopsie bisher jedoch negativ war, ist die 1H-MR-Spektroskopie eine
+wertvolle Ergänzung zur alleinigen Bildgebung. Allerdings gestaltet sich die
+Auswertung der vielen Spektren oft schwierig und zeitaufwendig, so dass eine
+Integration in den klinischen Alltag nicht unproblematisch ist (Fütterer et al., 2006;
+Mazaheri et al., 2008)
+Zur MR-tomographischen Bildgebung der Prostata werden normalerweise stark
+T2-gewichtete Fast-spin-echo-(FSE) Sequenzen in axialer, koronarer und
+sagittaler Schichtführung verwendet. Im T2-gewichteten Bild stellt sich die
+periphere Zone hyperintens, die zentrale Zone hypointens dar. Ergänzt durch eine
+T1-gewichtete Sequenz können mögliche Blutungsneigungen nach stattgehabter
+Biopsie erkannt werden. Die periphere Zone, die ja meistens den Ursprung des
+Prostatakarzinoms bildet, stellt sich im T2-gewichteten Bild hyperintens dar.
+Frühere Arbeiten zur Kernspintomographie des Prostatakarzinoms haben gezeigt,
+dass sich die überwiegende Anzahl der Prostatakarzinome im Vergleich zur
+peripheren Zone hypointens darstellt und diese somit identifiziert werden können.
+Allerdings gibt es Prostatakarzinome, die sich isointens oder auch hyperintens zur
+peripheren
+
+Zone
+
+abbilden
+
+sowie
+
+zentral
+
+lokalisierte
+
+Prostatakarzinome
+
+(Kurhanewicz et al., 1996; Nicolas et al., 2004).
+Die kernspintomographische Bildgebung beim Prostatakarzinom wird dadurch
+erschwert,
+
+dass
+
+auch
+
+andere
+
+Krankheitsentitäten
+
+wie
+
+die
+
+benigne
+
+Prostatahyperplasie oder die chronische Prostatitis hypointense Läsionen in der
+peripheren Zone verursachen können und somit ein Karzinom vortäuschen
+können (Ikonen et al., 2001b). Ähnlich problematisch ist die Klärung der Frage, ob
+ein bioptisch gesichertes Prostatakarzinom die Kapsel durchbrochen hat oder
+nicht. Es gibt mehrere Arbeitsgruppen, die unterschiedliche bildgebende Kriterien
+für einen Kapseldurchbruch analysiert haben. Als stärkstes Kriterium hat sich bei
+diesen Analysen die Obliteration des rekto-prostatischen Winkels herausgestellt.
+Als weitere Kriterien gelten die Asymmetrie des neurovaskulären Bündels und
+eine irreguläre Kapselverdickung (Vogl et al., 2011).
+
+42
+
+2.5.8
+
+Die
+
+MRT-Bildgebung der Prostata
+
+Kenntnis
+
+der
+
+chirurgischen
+
+Umgebungsstrukturen
+
+erleichtert
+
+Anatomie
+
+dem
+
+der
+
+Radiologen
+
+Prostata
+die
+
+und
+
+ihrer
+
+Beurteilung
+
+einer
+
+magnetresonanztomographischen Untersuchung dieser Region, da sie das
+Verständnis für die topographischen Lagebeziehungen fördert.
+Ergebnisse
+
+von
+
+Untersuchungen
+
+der
+
+Prostata
+
+mit
+
+Hilfe
+
+der
+
+Magnetresonanztomographie wurden erstmals 1987 publiziert (Carrol et al., 1987)
+und daraufhin als neue Staging-Untersuchungsmethode mit den existierenden
+Verfahren CT und klinische Stadieneinteilung verglichen (Hricak et al., 1987b).
+Bereits in diesen frühen Studien wurde z. B. von Hricak und Kollegen (1987b) von
+einer
+
+über
+
+80-prozentigen
+
+Prostatakarzinoms
+
+Treffsicherheit
+
+berichtet.
+
+In
+
+der
+
+Anbetracht
+
+MRT
+der
+
+beim
+
+Staging
+
+des
+
+dass
+
+die
+
+Tatsache,
+
+Untersuchungen auf einem Magneten mit einer Feldstärke von nur 0,35 T ohne
+Endorektalspule und mit Schichtdicken von 7 mm bis 1 cm durchgeführt wurden,
+erscheinen diese Ergebnisse aus heutiger Sicht zu optimistisch.
+Im Jahre 1988 wurde von der Entwicklung einer Endorektalspule für die
+Untersuchung der Prostata berichtet (Martin et al., 1988). Diese Spule wurde im
+Jahre 1991 erstmals zur Untersuchung von Patienten mit der Möglichkeit, die
+Prostata in hervorragender Ortsauflösung darzustellen, eingesetzt (Schnall et al.,
+1989). Ein Jahr später wurde zur Untersuchung der Prostata die Endorektalspule
+mit
+
+einer
+
+phased-array-Oberflächenspule
+
+kombiniert
+
+und
+
+ihre
+
+überlegene
+
+Bildqualität dokumentiert (Schnall et al., 1992), sodass dieses Verfahren ab 1994
+auf größere Patientenkollektive ausgeweitet wurde. Die Ergebnisse dieser Studien
+besagen übereinstimmend, dass sich mit der Kombination von Endorektal- und
+phased-array-Oberflächenspule die höchste Abbildungsqualität und daraus
+resultierend die größte Sensitivität und Spezifität für das Staging des
+Prostatakarzinoms erreichen ließ (Harris et al., 1995; Hricak et al., 1994).
+Dagegen brachte eine zusätzliche intravenöse Kontrastmittelgabe (Gadolinium)
+keinen
+
+wesentlichen
+
+Verbesserung
+
+der
+
+diagnostischen
+Detektion
+
+Vorteil,
+
+obwohl
+
+extrakapsulärer
+
+anfangs
+
+Tumoranteile
+
+von
+
+einer
+
+und
+
+einer
+
+Samenblaseninvasion berichtet wurde (Mirowitz et al., 1993). Aktuelle Studien
+dagegen zeigten, dass dynamische 3D-Sequenzen nach Kontrastmittelgabe
+
+43
+
+geeignet sind, Prostatakarzinome von physiologischem Gewebe der peripheren
+Zone zu differenzieren (Buckley et al., 2004). Hierzu erwiesen sich sowohl der
+mittlere Blutfluss als auch das mittlere interstitielle Verteilungsvolumen als
+nützlich.
+Nach den euphorischen Ergebnissen der ersten fünf Jahre der MRT der Prostata
+wurden diese später zurückhaltender beurteilt, da Treffsicherheiten beim Staging
+von nur knapp über 60 % erreicht worden waren (Tempany et al., 1994).
+Die MR-Spektroskopie kam 1996 in einem größeren Patientenkollektiv zum
+Einsatz und wurde in den folgenden Jahren im Rahmen von Studien eingesetzt
+(Kurhanewicz
+
+et
+
+al.,
+
+1996).
+
+Es
+
+stellte
+
+sich
+
+heraus,
+
+dass
+
+die
+
+Magnetresonanzspektroskopie nicht nur für die Identifikation von tumorbefallenen
+Arealen in der peripheren Zone der Prostata eingesetzt werden kann, sondern
+auch für die Erkennung und Quantifizierung tumortypischer Veränderungen nach
+hormonablativer Therapie bei Patienten mit Prostatakarzinom (Mueller-Lisse et al.,
+2001).
+Die normale Prostata weist im T1-gewichteten Bild eine homogene Signalintensität
+auf, die gering über der des Muskelgewebes liegt. Eine Differenzierung der
+zonalen Anatomie gelingt am besten auf T2-gewichteten Aufnahmen. Die
+periphere Zone zeigt sich in der transversalen Ebene als sichelförmiges Gewebe
+mit homogener, hoher Signalintensität. Die zentralen Drüsenabschnitte, bestehend
+aus der zentralen Zone und der Übergangszone, weisen teils signalarme, teils
+signalreiche Anteile auf. Eine exakte Abgrenzung der Übergangszone gelingt
+nicht. Dies ist zum einen auf den nur geringen Anteil der Übergangszone am
+gesamten prostatischen Drüsengewebe zurückzuführen, zum anderen weist die
+Übergangszone einen der peripheren Zone identischen Aufbau auf (Nicolas et al.,
+2004).
+Die
+
+Signaldifferenz
+
+zwischen
+
+der
+
+peripheren
+
+Zone
+
+und
+
+den
+
+zentralen
+
+Drüsenabschnitten lässt sich durch ihren histologisch unterschiedlichen Aufbau
+erklären. So ist das stromale Gewebe der zentralen Zone aus langen, dicht um die
+Azini gelagerten Fasern glatter Muskulatur aufgebaut. Die Azini der peripheren
+Zone hingegen sind klein und dünnwandig mit nur vereinzelten Muskelfasern im
+umliegenden periazinären Stroma angeordnet. Somit wäre die niedriege
+Signalintensität der zentralen Zone auf den hohen Anteil an glatter Muskulatur
+
+44
+
+zurückzuführen (Sommer et al. 1986). Gleichzeitig legt der unterschiedliche
+histologische Aufbau funktionelle Unterschiede in ihrer Sekretion bzw. ihrem
+Flüssigkeitsgehalt nahe. Das anteriore fibromuskuläre Band weist im T2gewichteten Bild eine muskeläquivalente Signalintensität auf. Mit der endorektalen
+Spule kann die Prostatakapsel als signalarme Begrenzung in den basisnahen und
+mittleren Drüsenabschnitten zur signalreichen peripheren Zone und dem im T2gewichteten
+
+Bild
+
+signalreicherm
+
+Fettgewebe
+
+differenziert
+
+werden.
+
+Das
+
+neurovaskuläre Bündel ist dorsolateral der Prostata als punkt- oder dreieckförmige
+Formation erkennbar. Die Signalintensität der Samenblasen im T1-gewichteten
+Bild entspricht derjenigen der Prostata. Der läppchenförmige, drüsige Aufbau stellt
+sich im T2-gewichteten Bild dar. Die intraluminale, hohe Signalintensität variiert
+mit dem Alter des Patienten und liegt beim Erwachsenen über dem des
+Fettgewebes. Die Begrenzung der Tubuli und die Kapsel der Samenblase weisen
+niedrige Signalintensitäten auf (Nicolas et al., 2004).
+
+Die Magnetresonanztomographie der Prostata verbindet kräftigen Gewebekontrast
+und die Möglichkeit der multiplanaren Darstellung des Organs mit hoher Auflösung
+und volumetrischer Genauigkeit. Zudem ist sie die Untersuchungsmethode mit
+dem größten Weichteilkontrast. Ein weiterer Vorteil der MRT ist das Fehlen von
+ionisierender Strahlung. Außerdem wird kein jodhaltiges Kontrastmittel benötigt.
+Auf der anderen Seite sind die in der MRT zu beobachtenden Signalalterationen in
+der Prostata nicht spezifisch, weswegen die Unterscheidung von entzündlichen
+und neoplastischen Prozessen nach wie vor ein differentialdiagnostisches
+Problem darstellt. Hier spielt die Erfahrung des interpretierenden Radiologen eine
+entscheidende Rolle (Chelsky et al., 1993; Tempany et al., 1994; Yu et al., 1997).
+
+Zur Evaluation der Prostata und der Samenblasen sind sowohl T1- als auch T2gewichtete Sequenzen erforderlich. In der T1-Wichtung hat die Prostata ein
+homogen niedriges Signal, weshalb die Sequenz vor allem der Unterscheidung
+von Flüssigkeiten und Fett sowie der Erkennung von Blutungen dient, die infolge
+vorangegangener Biopsien auftreten. Des Weiteren ist die T1-gewichtete Sequenz
+wichtig für die Beurteilung des Lymphknotenstatus und wird daher in unserer
+Institution mit einem großen Field of View (FOV) von 22 cm von der
+
+45
+
+Aortenbifurkation bis zur Symphysis pubis eingesetzt. Zur Darstellung der zonalen
+Anatomie und der pathologischen Veränderungen der Prostata ist eine T2gewichtete Sequenz erforderlich. Sie zeigt die Gliederung des Organs in periphere
+und zentrale Drüsenanteile sowie fokale Pathologien in diesen beiden Regionen.
+Weiterhin lassen sich die neurovaskulären Bündel in dieser Mess-Sequenz
+abgrenzen, und die exakte Darstellung der Prostatakapsel erlaubt eine
+Unterscheidung der Tumorstadien T2 und T3. Die Samenblasen kommen, ebenso
+wie die periphere Zone, signalreich zur Darstellung (Nicolas et al., 2004).
+Es konnte gezeigt werden, dass weder die Gabe von intravenösem Kontrastmittel
+mit Akquisition statischer Sequenzen (Sommer et al., 1993; Mirowitz et al., 1993)
+noch die Verwendung von fettsupprimierten Sequenzen die diagnostische
+Treffsicherheit der Kernspintomographie beim Staging des Prostatakarzinoms
+erhöht (Mirowitz et al., 1993). Hingegen machen Arbeiten der jüngeren
+Vergangenheit
+
+deutlich,
+
+dass
+
+Magnetresonanzspektroskopie
+
+die
+die
+
+Kombination
+Genauigkeit
+
+der
+beim
+
+MRT
+
+mit
+
+Staging
+
+der
+des
+
+Prostatakarzinoms erhöhen kann und in der Unterscheidung von benignen und
+malignen Veränderungen der peripheren Zone hilfreich ist. Bei mehrfach negativ
+biopsierten Patienten mit steigendem PSA und Karzinomverdacht kann die
+Spektroskopie
+
+zur
+
+Lokalisation
+
+des
+
+vermuteten
+
+Tumors
+
+entscheidende
+
+diagnostische Befunde liefern und eine Planung weiterer Biopsien erleichtern
+(Beyersdorff et al., 2002).
+
+2.5.9
+
+Multimodale MRT-Bildgebung der Prostata
+
+Im Gegensatz zu anderen bildgebenden Verfahren (Computertomographie,
+Ultraschall, Szintigraphie, Positronenemissionstomographie) liefert die MRT
+mehrere voneinander unabhängige Parameter zur Beurteilung der Prostata: T1und T2-Relaxationszeit, Gewebesuszeptibilität, Wasserdiffusion, Gewebeperfusion
+und spektroskopische Informationen über den Metabolismus. Die MRT ist damit
+insbesondere der Sonographie und auch der Elastographie deutlich überlegen
+(Reimer et al., 2003).
+
+46
+
+Die vier Säulen der multimodalen MRT-Diagnostik von Prostatakarzinomen sind:
+Bildgebung, Diffusion, Perfusion und Spektroskopie.
+
+Vorteile der multimodalen MRT-Bildgebung (Reimer et al., 2003):
+ T2w-Bilder zeigen eine gute morphologische Auflösung.
+ T1w-Bilder sind hilfreich bei der Erkennung von Blutungen sowie für die
+Erhebung des Lymphknotenstatus.
+ Suszeptibilitäts-Bilder geben die Möglichkeit für den Nachweis von
+Verkalkungen.
+ Die
+
+1H-Spektroskopie
+
+ermöglicht
+
+die
+
+Analyse
+
+der
+
+chemischen
+
+Zusammensetzung von Prostatagewebe (Citrat, Cholin, Kreatin, und
+andere Metaboliten).
+ Die Diffusions-gewichtete MRT macht die Analyse der Gewebestruktur,
+Zellgröße und -dichte und der Größe des Extrazellularraumes möglich.
+ Die dynamische Kontrastmittel-MRT wird benutzt für die Analyse der
+Gewebedurchblutung, Kapillardichte und –permeabilität und der Größe des
+Extrazellularraumes.
+
+Die Kombination aus den verschiedenen funktionellen Bildgebungsverfahren der
+Prostata
+
+ermöglicht
+
+bessere
+
+Unterscheidungen
+
+zwischen
+
+benignem
+
+Prostatagewebe und Prostatakarzinomen und liefert auch deutlich höhere
+Treffsicherheiten zum Nachweis von Prostatakarzinomen als nur alleinige
+Verfahren (Fütterer et al. 2006; Mazaheri et al., 2008)
+
+47
+
+3
+
+Material und Methoden
+
+3.1
+
+Studienkollektiv
+
+In dieser Studie wurde ein Patientenkollektiv von 50 Patienten mit klinischem
+Verdacht auf ein Prostatakarzinom mit einer kombinierten endorectal-bodyphased-array Spule an einem 1,5 T MRT (Siemens, Erlangen) untersucht. Das
+Durchschnittsalter des untersuchten Patientenkollektivs betrug 61,8 Jahre mit
+einem Altersbereich von 44 bis 78 Jahren.
+Das Studienprotokoll wurde von der lokalen Ethikkommission genehmigt und das
+Einverständnis aller Patienten lag vor.
+Das Blut aller Patienten wurde untersucht und der PSA-Wert bestimmt.
+Einschlusskriterien zur Teilnahme der Patienten an der Studie war die Bedingung,
+sich nach der Befunderhebung einer endorektalen, sonographisch gesteuerten,
+sextanten Biopsie zu unterziehen, sowie die S3 Leitlinien für das Prostatakarzinom
+im Rahmen der Früherkennung. 1) kontrollierter PSA-Wert von ≥ 4 ng/ml bei der
+erstmaligen
+
+Früherkennungskonsultation
+
+unter
+
+Berücksichtigung
+
+von
+
+Einflussfaktoren, 2) karzinomverdächtiges Ergebnis bei der digital-rektalen
+Untersuchung,
+
+3)
+
+auffälliger
+
+PSA-Anstieg
+
+(ohne
+
+Wechsel
+
+des
+
+Bestimmungsverfahrens).
+Patienten mit vorausgehender Bestrahlung, hormoneller oder chirurgischer
+Behandlung sowie früheren Biopsien innerhalb der letzten 12 Wochen vor dem
+Untersuchungszeitpunkt wurden von der Studie ausgeschlossen.
+
+3.2
+
+Studiendurchführung
+
+3.2.1
+
+MRT Protokoll
+
+48
+
+Alle Untersuchungen wurden an einem 1,5 Tesla-Magnetresonanztomographen
+(Symphony, Siemens, Erlangen) in Kombination mit einer endorektalen Spule
+(MRInnervu; Medrad, Indianola, USA) durchgeführt.
+Es wurde kein Kontrastmittel appliziert. Für die morphologische Auswertung der
+Prostata inklusive des Lymphknotenstatus des Beckens wurde eine T1-gewichtete
+Spinecho (SE)-Sequenz genutzt.
+Für die Auswertung der Prostataveränderungen wurde eine T2-gewichtete fastspin- echo (FSE)-Sequenz in transversaler, coronaler und sagittaler Ebene
+durchgeführt.
+
+3.2.2
+
+Diffusionsgewichtete Bildgebung
+
+Basierend auf den T2w-images wurde eine diffusion-weighted (DW) Spinechoecho-planar-sequence erzeugt. Um die gesamte Prostata zu erfassen, wurde die
+Spinecho-echo-planar-sequence in der transveralen Ebene ausgerichtet. Neben
+der o. g. Spule wurden folgende Parameter eingestellt: TR 3100 ms; TE 88ms;
+FOV 180 x 180 mm; Matrix 128 x 128 mm; Slice thickness 4 mm; intersection gap
+0 mm; voxel size 1.8 x 1.5 x 4 mm; b-factors 50, 400, 800 s/mm²; 20 slices.
+Die Dauer für die Untersuchung betrug circa vier bis sechs Minuten. Der ADC wird
+mit der folgenden Gleichung bestimmt (Le Bihan et al., 2006):
+
+S(I) = S(0) e-(bi * ADC)
+
+S(I) ist die Signalintensität, gemessen durch den i th b-factor image.
+bi ist der korrespondierende b-factor.
+S0 kalkuliert die Signalintensität für einen b-factor mit 0/mm², d. h. ohne den Lärm,
+induziert durch die MR-Messung.
+Zu Beginn wurde ein b-Wert von 50 s/mm² verwendet, um vaskuläre Signale in der
+initialen T2-weighted EPI zu unterdrücken. Die Diffusionswichtung wurde mit einer
+trace-weighted sequence type 3 (3 orthogonale Richtungen) durchgeführt.
+
+49
+
+Entsprechend dieser o. g. Gleichung wurden ADC-Abbildungen auf der Grundlage
+der voxelartigen Berechnung generiert. Dafür wurde die zum Scanner gehörende
+Software benutzt. Die Bilder wurden eingefügt in eine 256 x 256 mm Matrix.
+Die Dauer für die gesamte MRI-Untersuchung (inkl. MRI, DWI) sowie der Zeit für
+die Patientenvorbereitung, Spulenplatzierung und Lokalisation der Prostata betrug
+ungefähr 35 Minuten.
+
+3.2.3
+
+MR-Image Analyse
+
+Die morphologische und der mögliche pathologische Aufbau der peripheren Zone
+der Prostata wurde retrospektiv mit der T2-gewichteten Bildgebung untersucht,
+indem die Prostata in Sextanten, d. h. Apex, die Mitte (Mid) und Basis für die
+jeweils rechte und linke Seite, geteilt wurde (Abb. 9).
+
+Abb. 9: Teilung der Prostata in Sextanten
+
+Der Grauwert der Pixel korrespondierte mit dem ADC-Wert (mm²/s x 10 -³), da
+automatisch für jeden Schnitt eine pixel-to-pixel ADC-map errechnet wurde. Der
+Wert selbst wurde mit der oben genannten Formel ausgerechnet. Die Region of
+Interest (ROI) wurde anschließend in jeden Sextanten der peripheren Zone der
+Prostata manuell eingezeichnet. Der Mittelwert der ROI-Größe betrug 0, 8 mm²
+(SD ± 0.56). Abhängig von der Größe der Prostata bestand ein Sextant aus drei
+bis
+
+vier
+
+Schichten.
+
+Wenn
+
+die
+
+Lokalisation
+
+der
+
+Malignität
+
+durch
+
+die
+
+50
+
+histopathologischen Ergebnisse der Biopsie bekannt war, wurde die ROI
+absichtlich in diese hineingelegt. Zum Abschluss der Untersuchung wurde die
+gesamte Prostata untersucht, und der ROI wurde noch einmal in wenigsten einen
+Sextanten gelegt, obwohl das Gewebe gesund war. Insgesamt wurden ROIs in
+alle Sextanten der peripheren Zone beidseits gelegt.
+
+3.2.4
+
+TRUS-gesteuerte Biopsien und histopathologische Analysen
+
+Alle Patienten unterzogen sich einer TRUS-gesteuerten Biopsie (in Sextanten:
+rechte und linke Seite des Apex, des mittleren Teils und der Basis der Prostata; s.
+Abb. 9). Alle Biopsien wurden durch einen Urologen durchgeführt, und die
+Biopsate
+
+wurden
+
+sofort
+
+intraoperativ
+
+beschriftet.
+
+Die
+
+histopathologischen
+
+Beurteilungen erfolgten durch das Institut für Pathologie des Universitätsklinikums
+Hamburg-Eppendorf für alle Biopsien der Prostata mit Festlegung des
+entsprechenden Gleason-Scores.
+
+3.2.5
+
+Statistische Auswertung
+
+Alle statistischen Berechnungen wurden mit SPSS 15.0.1 für MS Windows (SPSS
+Inc., Chicago, USA) durchgeführt.
+In einer eindimensionalen Varianzanalyse wurde der ADC-Wert als unabhängige
+Variable und das Gewebe (normal, tumorös) und die ROI als intraindividuelle
+Faktoren benutzt, um die ADC-Werte zwischen normalem und tumorös entartetem
+Gewebe sowie verschiedenen ROIs zu vergleichen.
+Die Sensitivität und Spezifität des ADC-Werts für die Identifikation von
+Tumorgewebe wurden errechnet für die Größe der Unterscheidungsgrenze, um
+die ROC (receiver operator characteristic) abzuschätzen. Das histologisch
+untersuchte Gewebe diente als Goldstandard. Die Fläche unter der ROC-Kurve
+wurde bestimmt als ein allgemeiner Ergebnismaßstab.
+Mit dem nicht-parametrischen Spearman`s Rho-Test wurden der ADC-Wert und
+der
+
+Gleason-Score
+
+einander
+
+gegenübergestellt,
+
+um
+
+eine
+
+möglicherweise
+
+51
+
+bestehende Korrelation in ihrem Auftreten zu eruieren. Dabei waren die Werte
+signifikant bei einem p-Wert < 0,05. Die Korrelation zwischen den beiden
+Parametern wurde durch den Korrelationskoeffizienten nach Pearson und nach
+Spearman’s Rho berechnet.
+
+52
+
+4
+
+Ergebnisse
+
+4.1
+
+PSA-Werte
+
+Der Mittelwert des aus den Blutproben bestimmten prostataspezifischen Antigens
+(PSA) betrug 7,19 µg/l (SD ± 5,2). Hingegen zeigten die PSA-Werte bei Patienten
+mit Prostatakarzinom einen Mittelwert von 10,41 µg/l (SD ± 5,1) und bei den
+gesunden Probanden 4,1 µg/l (SD ± 4,2). Der PSA-Wert ist sensitiver als die
+rektal-digitale Untersuchung. Das PSA-Screening mit einem Grenzwert von 4.0
+ng/dl ist ein guter Indikator und Hinweis für die Mehrheit der Prostatakarzinome.
+Dennoch werden nur durch den PSA-Wert alleine ca. 10 % - 20 % der Karzinome
+nicht entdeckt. Ein niedriger PSA-Grenzwert würde mehr Hinweise auf ein
+Karzinom geben, aber auch mehr falsch positive Resultate und Biopsien würden
+daraus resultieren (U.S Preventive Services Task Force, 2002).
+
+3.2
+
+Histopathologie
+
+Bei jedem Patienten wurde mindestens eine Biopsie in jedem Sextanten
+entnommen. Die Histopathologie zeigte Tumorgewebe bei 21 von 50 Patienten
+(42 %). Hinsichtlich der Lokalisation hatte Tumorgewebe bei 3 Patienten (14,3 %)
+alle Sextanten durchzogen, bei 4 Patienten (19,0 %) 4 Sextanten, bei 5 Patienten
+(23,8 %) 3 Sextanten. Bei den meisten Patienten, nämlich 6 (28,6 %) waren nur 2
+Sextanten betroffen. Im Biopsiematerial von 3 Patienten (14,3 %) wurde
+Tumorgewebe in nur einem Sextanten diagnostiziert.
+Entsprechend der Histopathologie waren folglich 62 von 300 Gewebeproben (50
+Patienten à 6 Proben) tumorpositiv (20,7 %). Der Anteil der tumorpositiven
+Gewebeproben variierte zwischen 14 % der linken Apex und 28 % der rechten
+Mittelsektion. Diese Variation war allerdings nicht statistisch signifikant (Pearson’s
+portmanteau x ² test, x² = 4.066, df = 5, p = 0,540).
+
+Wie in Kap. 3.2.4 beschrieben, erfolgte neben der Bestimmung der Lokalisation
+des Tumorgewebes in dem Sextanten auch die Einteilung des Biopsats nach dem
+
+53
+
+Gleason-Score. So hatten von den tumorpositiven Gewebeproben nur 3 Biopsate
+einen Gleason-Score von 5 und 16 einen Score von 6. Ein Gleason-Score von 7
+trat am häufigsten auf (n = 22). Ein Gleason-Score von 7-10, der mit einer
+ungünstigeren Prognose korreliert, trat mit 69,4 % (in 43 Proben) deutlich häufiger
+auf als ein niedriger Score von 5 bzw. 6 (n = 19, 30,6 %). Ein Score von 2, 3 oder
+4 war gar nicht ermittelt worden (s. Tab. 3).
+
+Tab. 3: Häufigkeit des Gleason-Score in den Bioptaten
+Gleason-Score
+
+Anzahl
+
+in %
+
+2, 3, 4
+
+-
+
+-
+
+5
+
+3
+
+4,84
+
+6
+
+16
+
+25,81
+
+7
+
+22
+
+35,48
+
+8
+
+6
+
+9,68
+
+9
+
+11
+
+17,74
+
+10
+
+4
+
+6,45
+
+Summe
+
+62
+
+100,00
+
+4.3
+
+ADC (Apparent Diffusion Coefficient)
+
+Alle MR-Untersuchungen wurden erfolgreich durchgeführt, und obwohl einige
+Bilder eine Anfälligkeit für Artefakte wegen der endorektalen Spule aufwiesen,
+konnten alle Bilder für die Auswertungen genutzt werden. Durchschnittlich betrug
+die Dauer der gemessene Untersuchungszeit 29 Minuten. Die Erfassungszeit für
+die T1-SE und die T2-FSE betrug 24 Minuten und für die DWI 5 Minuten.
+
+Abb. 10 stellt das ADC-Bild der Prostata eines 44-jährigen Patienten mit einem
+Karzinom von 2,6 cm Größe und einem PSA-Wert von 7,8 µg/l (freies PSA 18,72
+µg/l) dar. Ein Gleason-Score von 4 + 5 = 9 wurde ermittelt. In der T2-gewichteten
+Abb. 10a zeigte das Bild eine Lokalisation des Prostatakarzinoms in der rechten
+
+54
+
+peripheren Zone. Im korrespondierenden ADC-Bild Abb. 10b zeigte sich das
+Prostatakarzinom in dem hypointensem Bereich.
+Die ADC-Karte zeigte also hyperintense Signale in benignen und hypointense
+Signalintensitäten in dem malignen Gewebe in der peripheren Zone.
+
+a)
+
+b)
+
+Abb. 10: ADC-Bild der Prostata.
+Die eindimensionale Analyse der Variante zeigte eine hoch signifikante Differenz
+der ADC-Werte zwischen normalem Gewebe und Tumorgewebe (F= 224.5, df = 1,
+p = 0.001), aber keine Korrelation zwischen ROIs (F = 0.138, df = 5, p = 0.983)
+(Abb. 11). Es war zudem keine signifikante Wechselbeziehung zwischen der ROILokalisation in der peripheren Zone (Apex, Mittelbereich, Basis) im ADC-Wert (F =
+0.356, df = 5, p = 0.878) zu finden. Der durchschnittliche ADC-Wert für die ROIs
+betrug 1,65 ± 0.32 mm²/s x 10-3 in normalem Gewebe und 0.96 ± 0.24 mm²/s x 103
+
+in Tumorgewebe (MW ± SD).
+
+55
+
+Abb. 11: ADC-Wert zwischen normalem und tumorösem Gewebe
+Der ROC-Kurve des ADC-Werts für die Identifikation von Tumorgewebe ist in Abb.
+12 beschrieben. Die Fläche unter dem ROC-Graphen betrug 0.966. Zum Beispiel
+bei der Anwendung des Unterscheidungsschwellenwertes von 1.21 mm²/s x 10-3
+bietet der ADC-Wert eine Sensitivität von 0,92 und eine Spezifität von 0,93.
+
+Abb. 12: ROC-Kurve des ADC-Wertes
+
+In tumorpositivem Gewebeproben konnte eine hoch signifikante negative
+Korrelation zwischen dem ADC-Wert und dem Gleason-Score gezeigt werden (n =
+
+56
+
+62, Spearman’s Rho = - 0.405, p = 0.001) (Abb. 11). Je niedriger der ADC-Wert
+ausfiel, desto höher und schlechter wurde der Gleason-Score.
+
+Abb. 13: Korrelation zwischen dem ADC-Wert und dem Gleason-Score
+
+5
+
+Diskussion
+
+Die diffusionsgewichtete MR-Tomographie wurde bereits in verschiedenen
+Organen klinisch erprobt. So konnte nicht nur das betroffene Gewebe nach
+Schlaganfällen dargestellt werden, auch eine Unterscheidung verschiedener Arten
+von Gehirntumoren war möglich (Chenevert et al., 1997; Yamasaki et al., 2005).
+Auch Wirbelsäulenmetastasen z. B. beim Prostatakarzinom, konnten dargestellt
+werden (Hacklander et al., 2006).
+In der diffusionsgewichteten MRT (DWI) wird der Bildkontrast durch die zufällige
+mikroskopische
+
+Bewegung,
+
+d.
+
+h.
+
+der
+
+Brownschen
+
+Bewegung,
+
+von
+
+Wasserprotonen bestimmt. Die Diffusion kann aufgrund der hohen Sensitivität der
+MRT für Bewegung in vivo gemessen werden. Diese Sensitivität für Bewegung
+kann
+
+verstärkt
+
+werden
+
+durch
+
+die
+
+Zugabe
+
+eines
+
+starken
+
+magnetischen
+
+Feldgradienten-Impulses zur Pulsfrequenz (Cercignani et al., 2003). Der
+Diffusionskoeffizient von biologischem Gewebe, der in vivo durch das MRT
+gemessen wird, ist immer geringer als der von Wasser (Nicholson et al., 1985).
+
+57
+
+Der b-Wert (sec/mm²) ist abhängig von der Größe des Gradienten, von der Dauer
+des Gradienten und auch von der Zeit zwischen den beiden Gradient-Impulsen
+(Schaefer et al., 1995). Er misst den Grad der Diffusionswichtung. Wenn der bWert hoch gewählt wird, wird sich der Filter aufgrund der hohen Mobilität der
+Moleküle auch erhöhen, sodass dadurch die Differenz zwischen der hohen und
+der niedrigen Bewegung der Wassermenge gemessen werden kann (Niendorf et
+al., 1994).
+
+Shimofusa et al. (2005) hatten als erste die DWI beim Prostatakarzinom mit
+paralleler Bildgebung angewendet. Sie wählten einen hohen b-Wert (b=1000), wie
+schon zuvor Yu und Hricak (2000). In ihrer Studie hatten sie keine endorektale
+Spule verwendet, aber die Sensitivität und Spezifität war höher als in
+vorangegangenen Studien mit endorektaler Spule (Quint et al., 1991; Hricak et al.,
+1994; Ikonen et al., 2001b) oder dynamischen Studien (Jager et al., 1997).
+Seitdem sind einige MRT-Studien durchgeführt worden, um die Nachweisbarkeit
+von kanzerogenem Gewebe zu verbessern. Die Ergebnisse dieser Studien ließen
+vermuten, dass der ADC-Wert Informationen über maligne Veränderung der
+Prostata aufbieten kann (Jager et al., 1997; Sato et al., 2005; Morgan et al., 2007).
+
+5.1
+
+Diskussion der Ergebnisse
+
+5.1.1
+
+ADC-Werte
+
+In der vorliegenden Studie wurden 50 Patienten mit dem klinischen Verdacht auf
+ein Prostatakarzinom mit der DWI-MRI untersucht und danach das Ergebnis mit
+der histopathologischen Beurteilung, insbesondere mit dem Gleason-Score,
+verglichen. In unserer Studie betrug der durchschnittliche ADC-Wert in benignem
+Gewebe 1,65 mm²/s x 10-3 ± 0.32 und in malignem Gewebe 0,96 mm²/s x 10-3 ±
+0.24. Der signifikante (p = 0.001) Unterschied des ADC-Wertes zwischen
+malignem und gesundem Gewebe deutet vielversprechende Ergebnisse in der
+Detektion
+
+von
+
+Krebs
+
+an.
+
+Basierend
+
+auf
+
+der
+
+ROC-Analyse
+
+wurde
+
+ein
+
+Unterscheidungsgrenzwert festgelegt, d. h. ein cut-off-Wert von 1.21 mm²/s 10-3.
+
+58
+
+Damit hatte der ADC-Wert eine Sensitivität von 0.92 und eine Spezifität von 0.93
+geliefert (Abb. 12).
+
+Eine Studie von Tanimoto et al. (2007) verglich die DWI in Kombination mit einer
+dynamischen MRT zum Prostatakrebs-Screening. Diese Studie wurde mit einer
+endorektalen Spule durchgeführt. Der Verlauf des ADC-Wertes wurde von der
+DWI erstellt. Entsprechend diesen Untersuchungen ließ sich ein Mittelwert für den
+ADC für das kanzerogene Gewebe von 0.93 ± 0.11 mm²/s x 10-3 und 1.46 ± 0.16
+mm²/s x 10-3 für nicht neoplastisches Gewebe ermitteln. Bei Miao et al. (2007)
+wurde ein minimalen ADC-Wert des karzinösen Gewebes von 0.72 ± 0.19 mm²/s x
+10-3 gemessen.
+Eine andere Arbeit setzte für die Prostatakarzinomdiagnostik eine DWI mit
+endorektaler Spule unter Verwendung einer single-shot EPI mit einem hohen bFaktor von 1000 s/mm² ein. Dabei lag der Mittelwert der ADC-Werte von malignem
+Gewebe mit 1.27 ± 0.37 mm²/s x 10-3 bzw. benignem Gewebe mit 1.61 ± 0.26
+mm²/s x 10-3 deutlich über den Werten der vorliegenden Studie (Hosseinzadeh
+und Schwarz, 2004). In einer kürzlich veröffentlichen Studie wurde retrospektiv der
+Mittelwert des ADC und der Mittelwert für das metabolische Verhältnis für 3D
+Wasserstoff-MR-Spektroskopie
+
+(MRS)
+
+gemessen,
+
+um
+
+diese
+
+Modalitäten
+
+abzuschätzen. In dieser Studie wurden 38 männliche Patienten mit einem 1.5 TMRT unter Verwendung einer endorektalen Spule vor geplanter Prostatektomie
+untersucht. Auch hier zeigten sich ein Mittelwert für die ADC-Werte von 1.39 ±
+0.23 mm²/s x 10-3 für malignes Gewebe und 1.69 ± 0.24 mm²/s x 10-3 für benignes
+Gewebe. Die Kombination von DWI und MRS führte zu signifikant besserer
+Detektion von malignen Veränderungen in der peripheren Zone der Prostata als in
+der MRS alleine (Tanimoto et al., 2007). Im Vergleich zu diesen Studien waren die
+eigenen Ergebnisse der ADC-Werte für malignes Gewebe niedriger, was damit
+erklärt werden könnte, dass ein etwas geringerer b-Wert (max. 800 s/ mm²) in der
+eigenen Studie verwendet wurde.
+
+Die
+
+Ergebnisse
+
+der
+
+ADC-Werte
+
+decken
+
+sich
+
+weitgehend
+
+mit
+
+denen
+
+vorausgegangener Studien, allerdings wurden z. T. andere b-Werte eingesetzt,
+was möglicherweise die Unterschiede der ADC-Werte erklärt. Morgan et al. (2007)
+
+59
+
+setzte Werte von 0 und 1000 s/mm² ein, Miao et al. (2007) legte die b-Werte bei 0,
+300, 600 s/mm² fest. In unserer Studie lagen die b-Werte von 50, 400, 800 s/mm²
+zwischen den beiden Studien.
+Zusammenfassend kann man in den bis jetzt veröffentlichten Studien klar
+erkennen, dass malignes Gewebe einen signifikant niedrigen ADC-Wert aufweist
+als gesundes Gewebe, wobei die Werte zwischen den Studien stark variierten.
+Diese Abweichung könnte durch die MRTs aufgetreten sein, die in den jeweiligen
+Studien eingesetzt wurden, womit keine standardisierte Vergleichbarkeit gegeben
+ist. Dies sollte in weiteren Studien unter möglichst standardisierten Bedingungen
+(auch in Bezug auf den b-Wert) genauer betrachtet werden.
+
+5.1.2
+
+Korrelation zwischen ADC-Wert und Gleason-Score
+
+In unserer Studie war eine hoch signifikante negative Korrelation (p = 0.001, rho =
+-0,405) zwischen dem ADC-Wert und dem Gleason-Score in den tumorpositiven
+Proben zu finden. Dies deckt sich mit den Ergebnissen von Tamada et. al. (2008),
+die ebenfalls eine signifikante negative Korrelation (p < 0,0001, rho = -0,497)
+zwischen dem ADC-Wert der peripheren Zone und dem Gleason-Score
+beschrieben. Mazaheri et al. (2008) konnten diese signifikante negative
+Korrelation bestätigen. Sowohl deren als auch die eigenen Ergebnisse könnten für
+eine hilfreiche Nutzung des ADC-Werts für die Bewertung der Aggressivität des
+Prostatakarzinoms sprechen.
+5.1.3
+
+Sensitivität der diffusionsgewichteten MRT-Bildgebung
+
+In der ersten DWI der Prostata mit paralleler Bildgebung, durchgeführt ohne
+endorektale Spule und einem hohen b-Wert (b=1000), wurde der ADC-Wert nicht
+errechnet, trotzdem konnte gezeigt werden, dass bei der Auswertung allein von
+den T2-gewichteten Bildern eine niedrigere Sensitivität für die Detektion von
+Prostatakarzinomen (78 %) bestand als die Kombination aus T2-gewichteten
+Bildern und DWI (86 %) (Shimofusa et al., 2005). Eine andere Studie mit DWI an
+einem 3T-MRT ohne endorektale Spule erwähnte ebenfalls keine ADC-Werte oder
+
+60
+
+den Abgrenzungswert, bestätigte aber die Genauigkeit der DWI zum ProstataScreening (Sato et al., 2005).
+Die Kombination von T2-gewichteten Bilden und ADC-Werten mit dem Gebrauch
+einer endorektalen Spule zeigten bei einem erfahrenem Auswerter eine
+Verbesserung in der Sensitivität von 50 % auf 73,2 % und Spezifität von 79,6 %
+auf 80,8 % (Jager et al., 1997). In der eigenen Studie konnte gezeigt werden, dass
+eine diffusionsgewichtete MRT mit endorektaler Spule eine Sensitivität zur von 92
+% und eine Spezifität von 93 % erbrachte.
+
+5.2
+
+Schlussbetrachtungen und Ausblick
+
+Obwohl in der vorliegenden Studie gezeigt werden konnte, dass eine DWI-MRT
+eine hohe Sensitivität und Spezifität für die Diagnostik von Prostatakarzinomen
+aufweist, gibt es dennoch einige Schwierigkeiten und Limitationen für den Einsatz
+der DWI. Es ist bekannt, dass circa 75 % der Prostatakarzinome ihren Ursprung in
+der peripheren Zone finden, 5 – 10 % aus der Übergangszone und circa 10 % der
+Fälle einen nicht bekannten Ort der Entstehung haben. In einer hypertrophierten
+Prostata kann ein Prostatakarzinom in der Übergangszone weder mit dem T2gewichteten MRT Bildern noch mit der DWI detektiert werden, da die komplexe
+Morphologie der Prostata dieses erheblich erschwert. Folglich können maligne
+Entartungen im Gewebe der Übergangszone der Prostata zu diesem Zeitpunkt
+nicht sicher entdeckt werden, weder mit der DWI noch mit dem MRT.
+Ein anderes wichtiges Instrument für die Detektion von Prostatakarzinomen
+könnte in Zukunft die dynamische kontrastverstärkende MRT sein, da erste
+Studien gezeigt haben, dass es eine sichere Methode für die Detektion und
+Quantifizierung intrakapsulärer Veränderung oder peripherer Tumorlokalisationen
+von mehr als 0.2 cm Größe sein könnte (Engelbrecht et al., 2002).
+In den meisten Zentren wird eine parametrische MRT-Bildgebung der Prostata
+favorisiert. Die parametrische Bildgebung umfasst verschiedene MRT Techniken:
+T1-
+
+und
+
+T2-gewichtete
+
+Bilder,
+
+Diffusionswichtung,
+
+dynamische
+
+Kontrastmitteluntersuchungen und die Spektroskopie. Die Ergebnisse dieser
+
+61
+
+Studie zeigen, dass die Diffusionswichtung der Prostata einen wichtigen Baustein
+in dieser multimodalen Bildgebung darstellt.
+
+62
+
+6
+
+Zusammenfassung
+
+Das Prostatakarzinom ist die am häufigsten auftretende Entartung (WHO, 2004)
+und der vierthäufigste Krebs des Mannes weltweit (Parkin et al., 1999), in den
+entwickelten Ländern der Welt nach dem Lungenkarzinom und dem kolorektalen
+Karzinom der dritthäufigste Krebs (Levi et al., 2000).
+In dieser Studie wurden diffusionsgewichtete MRT-Untersuchungen der Prostata
+bei Patienten mit V. a. ein Prostatakarzinom angefertigt. Es wurde der Apparent
+Diffusion Coefficient (ADC) berechnet.
+Ziel der Studie war es, ADC-Werte sowohl für gesundes als auch malignes
+Gewebe
+
+festzulegen,
+
+Prostatahyperplasie
+
+um
+
+von
+
+eine
+einer
+
+Differenzierung
+malignen
+
+zwischen
+
+Entartung
+
+der
+
+benignen
+
+ermöglichen.
+
+Die
+
+diffusionsgewichtete MRT könnte somit eine neue Option zur frühen und sicheren
+Diagnostik eines Prostatakarzinoms werden.
+
+In dieser Studie wurde ein Patientenkollektiv von 50 Patienten mit klinischem
+Verdacht auf ein Prostatakarzinom mit einer kombinierten endorectal-bodyphased-array Spule an einem 1,5 T MRT untersucht. Es wurde kein Kontrastmittel
+appliziert. Für die morphologische Auswertung der Prostata inklusive des
+Lymphknotenstatus des Beckens wurde eine T1-gewichtete Spinecho (SE)Sequenz genutzt. Für die Auswertung der Prostataveränderungen wurde eine T2gewichtete fast-spin-echo
+
+(FSE)-Sequenz in
+
+transversaler, coronaler und
+
+sagittaler Ebene durchgeführt. Basierend auf die T2w-images wurde eine
+diffusionsgewichtete(DW)
+
+Spinecho-echo-planar-sequence
+
+in
+
+transversaler
+
+Orientierung mit folgenden Parametern angefertigt: TR 3100 ms; TE 88ms; FOV
+180 x 180 mm; Matrix 128 x 128 mm; Slice thickness 4 mm; intersection gap 0
+mm; voxel size 1.8 x 1.5 x 4 mm; b-factors 50, 400, 800 s/mm²; 20 slices. Für die
+Auswertung wurde die Prostata in Sextanten, d. h. Apex, Mitte und Basis für die
+jeweils rechte und linke Seite aufgeteilt. Nach der MRT-Untersuchung unterzogen
+sich alle Patienten einer TRUS-gesteuerten Biopsie (in Sextanten). Die
+Ergebnisse der Diffusionswichtung wurden mit den histologischen Befunden der
+entnommenen Biopsien verglichen. Bei jedem Patienten wurde mindestens eine
+Biopsie in jedem Sextanten entnommen.
+
+63
+
+Die Histopathologie zeigte Tumorgewebe bei 21 von 50 Patienten (42 %).
+Hinsichtlich der Lokalisation hatte Tumorgewebe bei 3 Patienten (14,3 %) alle
+Sextanten durchzogen, bei 4 Patienten (19,0 %) 4 Sextanten, bei 5 Patienten
+(23,8 %) 3 Sextanten. Bei den meisten Patienten, nämlich 6 (28,6 %) waren nur 2
+Sextanten betroffen. Im Biopsiematerial von 3 Patienten (14,3 %) wurde
+Tumorgewebe in nur einem Sextanten diagnostiziert.
+Es erfolgte auch die Einteilung des Biopsats nach dem Gleason-Score. So hatten
+von den tumorpositiven Gewebeproben nur 3 Biopsate einen Gleason-Score von 5
+und 16 einen Score von 6. Ein Gleason-Score von 7 trat am häufigsten auf (n =
+22). Ein Gleason-Score von 7-10, der mit einer ungünstigeren Prognose korreliert,
+trat mit 69,4 % (in 43 Proben) deutlich häufiger auf als ein niedriger Score von 5
+bzw. 6 (n = 19, 30,6 %). Ein Score von 2, 3 oder 4 war gar nicht ermittelt worden.
+In unserer Studie betrug der durchschnittliche ADC-Wert in benignem Gewebe
+1,65 mm²/s x 10-3 ± 0.32 und in malignem Gewebe 0,96 mm²/s x 10-3 ± 0.24. Der
+signifikante (p = 0.001) Unterschied des ADC-Wertes zwischen malignem und
+gesundem Gewebe deutet vielversprechende Ergebnisse in der Detektion eines
+Prostatakarzinoms
+
+an.
+
+Basierend
+
+auf
+
+der
+
+ROC-Analyse
+
+wurde
+
+ein
+
+Unterscheidungsgrenzwert festgelegt, d. h. ein cut-off-Wert von 1.21 mm²/s 10-3.
+Damit hatte der ADC-Wert eine Sensitivität von 0.92 und eine Spezifität von 0.93
+geliefert. In unserer Studie war eine hoch signifikante negative Korrelation (p =
+0.001, rho = -0,405) zwischen dem ADC-Wert und dem Gleason-Score in den
+tumorpositiven Proben zu finden.
+
+Die Ergebnisse dieser Studie zeigen, dass die Diffusionsbildgebung der Prostata
+großes Potenzial in der Detektion eines Prostatakarzinoms besitzt. Im Rahmen
+der multimodalen MRT-Bildgebung der Prostata stellt die Diffusionswichtung einen
+wichtigen Baustein dar.
+
+64
+
+7
+
+Literaturverzeichnis
+
+Allgäuer M, Dengler R, Hofstädter F, Prechtl WD, Schreyer D, Stockmann P,
+Wieland WF, Wiesinger H (2003). Prostatakarzinom. Tumorzentrum Regensburg,
+Projektgruppe Prostatakarzinom
+
+Altwein JE (2001). Prostatakarzinom. Epidemiologie und Ätiologie. In: Rübben H
+(Hrsg) Uroonkologie. Springer, Berlin, Heidelberg, New York
+
+Anderson JR (1985). Muir’s textbook of pathology. Edward Arnold, London,
+England
+
+Andersson S, Russell DW (1990). Structural and biochemical properties of cloned
+and expressed human and rat steroid-5-alpha-reductases. Proc Natl Acad Sci
+USA 87:3640-3644
+
+Aumüller G, Seitz J (1990). Protein secretion and secretory processes in male
+accessory sex glands. Int Rev Cytol 121:127-231
+
+Banson ML (1996). Normal MR anatomy and techniques for imaging of the male
+pelvis. Magn Reson Imaging Clin N Am 4:481-496
+
+Benninghoff D (1994). Anatomie. Bd. II: Niere, Reproduktionsorgane, Endokrine
+Drüsen, Nervensystem, Sinnesorgane, Haut:: Akzessorische Geschlechtsdrüsen.
+15. Aufl., Urban & Fischer, München, S. 95-100
+
+Berry SJ, Coffey DS, Walsh PC, Ewing LL (1984). The development of human
+benign prostatic hyperplasia with age. J Urol 132:474-479
+
+Beyersdorff D, Taupitz M, Winkelmann B, Fischer T, Lenk S, Loening SA, Hamm
+B (2002). Patients with a history of elevated prostate-specific antigen levels and
+negative transrectal ultrasound-guided quadrant or sextant biopsy results: value of
+MR imaging. Radiology 224:701-706
+
+65
+
+Boni RA, Hutter BE, Trinkler F, Jochum W, Pestalozzi D, Krestin GP(1996).
+[Preoperative T-staging of prostatic carcinoma: endorectal magnetic resonance
+tomography compared with other imaging and clinical methods]. Rofo 165:152-158
+
+Breul J, Zimmermann F, Dettmar P, Paul R. Prostatakarzinom (2003). In: Liedl B
+(Hrsg) Manual Urogenitale Tumoren. 3. Aufl., Zuckschwerdt, München
+
+Brill
+
+T,
+
+Barba
+
+M,
+
+Breul
+
+J,
+
+Gansbacher
+
+B
+
+(2001).
+
+Gentherapie
+
+des
+
+Prostatakarzinoms. Internist. 2001 42(10):1328-1345
+
+Buckley DL, Roberts C, Parker GJ, Longue JP, Hutchinson CE (2004). Prostate
+cancer: evaluation of vascular characteristics with dynamic contrast-enhanced T1weighted MR imaging—initial experience. Radiology 233:709-715
+
+Campbell MF, Walsh PC (2003). Campbell´s Urology. 8. Aufl., WB Saunders,
+Philadelphia
+
+Carrol CL, Sommer FG, McNeal JE, Starney TA (1987). The abnormal prostate:
+MR imaging at 1.5 T with histopathologic correlation. Radiology 163:521-525
+
+Cercignani M, Horsfield MA, Agosta F, Filippi M (2003). Sensitivity-encoded
+diffusion tensor MR imaging of the cervical cord. Am J Neuroradiol 24:1254-1256
+
+Chelsky MJ, Schnall MD, Seidmon EJ, Pollack HM (1993). Use of endorectal
+surface coil magnetic resonance imaging for local staging of prostate cancer. J
+Urol 150:391-395
+
+Chenevert TL, McKeever PE, Ross BD (1997). Monitoring early response of
+experimental brain tumors to therapy using diffusion magnetic resonance imaging.
+Clin Cancer Res 3:1457-1466
+
+66
+
+Coakley FV, Hricak H (2000). Radiologic anatomy of the prostate gland: a clinical
+approach. Radiol Clin North Am 38:15-30
+
+Coffey DS, Berry SJ, Ewing LL (1987). An overwiew of current concepts in the
+study of benign prostatic hyperplasia 1:1-4
+
+Cohen RJ, Glezerson G, Taylor LF, Grundle HAJ, Naude JH (1993). The
+neuroendocrine cell population of the human prostate gland. J Urol 150:365–368
+
+Concato J, Wells CK, Horwitz RI, Penson D, Fincke G, Berlowitz DR, Froehlich G,
+Blake D, Vickers MA, Gehr GA, Raheb NH, Sullivan G, Peduzzi P (2006). The
+effectiveness of screening for prostate cancer: a nested case-control study. Arch
+Intern Med. 166(1):38-43
+
+Cunha GR, Alarid ET, Turner T, Donjacour AA, Boutin EL, Foster BA (1992).
+Normal and abnormal development of the male urogenital tract. Role of
+androgens, mesenchymal-epithelial interactions, and growth factors. J Androl
+13:465-475
+
+Dennis LK, Dawson DV (2002). Meta-analysis of measures of sexual activity and
+prostate cancer. Epidemiology 13(1):72-79
+
+Denis LJ, Murphy GP, Schröder FH (1995). Report on the consensus workshop on
+screening and global strategy for prostate cancer. Cancer 75:1187–1207
+
+Drago JR, Mostofi FK, Lee F (1987). Introductory remarks and workshop
+summary. Urology 34:2–3
+
+Duffield-Lillico AJ, Dalkin BL, Reid ME, Turnbull BW, Slate EH, Jacobs ET,
+Marshall JR, Clark LC (2003). Nutritional Prevention of Cancer Study Group:
+Selenium supplementation, baseline plasma selenium status and incidence of
+prostate cancer: an analysis of the complete treatment period of the Nutritional
+Prevention of Cancer Trial. BJU Int 91:608-612
+
+67
+
+Epstein JI, Grignon DJ, Humphrey PA, McNeal JE, Sesterhenn IA, Troncoso P,
+Wheeler TM (1995). Interobserver reproducibility in the diagnosis of prostatic
+intraepithelial neoplasia (PIN). Lab Invest 72: 75A
+
+Engelbrecht MR, Jager GJ, Laheij RJ, Verbeek AL, van Lier HJ, Barentsz JO
+(2002). Local staging of prostate cancer using magnetic resonance imaging: a
+meta-analysis. Eur Radiol 12:2294-2302
+
+Fiebach
+
+JB,
+
+Schellinger
+
+PD
+
+(2003).
+
+Moderne
+
+Kernspintechniken
+
+beim
+
+Schlaganfall. Radiologe 43:251-264
+
+Franiel T, Fritzsche F, Staak A, Rost J, Hamm B, Beyersdorff D (2006).
+[Histopathologic quality of prostate core biopsy specimens: comparison of an MRcompatible biopsy needle and a ferromagnetic biopsy needle used for ultrasoundguided prostate biopsy]. Rofo 178:1212-1218
+
+Frankel S, Smith GD, Donovan J, Neal D (2003). Screening for prostate cancer.
+Lancet 361(9363):1122-1128
+
+Fütterer JJ, Heijmink S, Scheenen T, Veltman J (2006) Prostate Cancer
+Localization with Dynamic Contrast-enhanced MR Imaging and Proton MR
+Spectroscopic Imaging. Radiology 241(2):449-458
+
+Gann PH, Hennekens CH, Sacks FM, Grodstein F, Giovannucci EL, Stampfer MJ
+(1994). Prospective study of plasma fatty acids and risk of prostate cancer. J Natl
+Cancer Inst. 86(4):281-286
+
+Giovannucci E, Rimm EB, Colditz GA, Stampfer MJ, Ascherio A, Chute CC, Willett
+WC (1993). A prospective study of dietary fat and risk of prostate cancer. J Natl
+Cancer Inst 85(19):1571-1579
+
+68
+
+Gleason DF (1966). Classification of prostatic carcinomas. Cancer Chemother
+50:125–130
+
+Griffiths K, Khoury S (1994). Primer on molecular control of prostatic growth.
+Jersey: Scientific Communications International
+
+Grönberg H (2003). Prostate cancer epidemiology. Lancet 361:859-864
+Guinan P, Bush I, Ray V, Vieth R, Rao R, Bhatti R (1980). The accuracy of the
+rectal examination in the diagnosis of prostate carcinoma. N Engl J Med
+303(9):499-503
+
+Habermann CR, Gossrau P, Graessner J, Arndt C, Cramer MC, Reitmeier F,
+Jaehne M, Adam G. (2005). Diffusion-weighted echo planar MRI: a valuable tool
+for differentiating primary parotid gland tumors. Fortschr Roentgenstr 177:940-945
+
+Hacklander T, Scharwachter C, Golz R, Mertens H (2006). [Value of diffusionweighted imaging for diagnosing vertebral metastases due to prostate cancer in
+comparison to other primary tumors]. Rofo 178:416-424
+
+Harris RD, Schned AR, Heaney JA (1995). Staging of prostate cancer with
+endorectal MR imaging: lessons from a learning curve. Radiographics 15:813-829
+
+Hayat MJ, Howlader N, Reichman ME, Edwards BK (2007). Cancer statistics,
+trends, and multiple primary cancer analyses from the Surveillance, Epidemiology,
+and End Results (SEER) Program. Oncologist 12:20-37
+
+Hayes RB, Pottern LM, Strickler H, Rabkin C, Pope V, Swanson GM, Greenberg
+RS, Schoenberg JB, Liff J, Schwartz AG, Hoover RN, Fraumeni JF Jr (2000).
+Sexual behaviour, STDs and risks for prostate cancer. Br J Cancer 82(3):718-725
+
+Hayward SW, Cunha GR (2000). The prostate: development and physiology.
+Radiol Clin North Am 38:1-14
+
+69
+
+Hayward SW, Haughney PC, Rosen MA, Greulich KM, Weier HU, Dahiya R,
+Cunha GR (1998). Interactions between adult human prostatic epithelium and rat
+urogenital sinus mesenchyme in a tissue recombination model. Differentiation
+63:131-140
+
+Helpap B, Rübben H (Hrsg) (1998). Prostatakarzinom. Pathologie, Praxis und
+Klinik. Springer, Berlin, Heidelberg, New York
+
+Helpap B, Bocking A, Dhom G, Faul P, Kastendieck H, Leistenschneider W, Muller
+HA (1985). Classification, histological and cytological grading and assessment of
+regression grading in prostatic carcinomas. A recommendation of the PathologicUrological Task Force on Prostatic Carcinoma. Pathologe 6(1):3–7
+
+Hinman F. Jr (1993). Atlas of Urosurgical Anatomy. WB Saunders, Philadelphia, S.
+356
+
+Hoffman RM (2003). An argument against routine prostate cancer screening. Arch
+Intern Med 163(6):663-666
+
+Hosseinzadeh K, Schwarz SD (2004). Endorectal diffusion-weighted imaging in
+prostate cancer to differentiate malignant and benign peripheral zone tissue. J
+Magn Reson Imaging 20:654-661
+
+Hricak H, White S, Vigneron D, Kurhanewicz J, Kosco A, Levin D, Weiss J,
+Narayan P, Carroll PR (1994). Carcinoma of the prostate gland: MR imaging with
+pelvic phased-array coils versus integrated endorectal--pelvic phased-array coils.
+Radiology 193:703-709
+
+Hricak H, Dooms GC, Jeffrey RB, Avallone A, Jacobs D, Benton WK, Narayan P,
+Tanagho EA (1987a). Prostatic carcinoma: staging by clinical assessment, CT,
+and MR imaging. Radiology 162:331-336
+
+70
+
+Hricak H, Dooms GC, McNeal JE, Mark AS, Marotti M, Avallone A, Pelzer M,
+Proctor EC, Tanagho EA. (1987b). MR imaging of the prostate gland: normal
+anatomy. Am J Roentgenol 148:51-58
+
+Hricak H, Choyke P, Eberhardt SC, Leibel SA, Scardino PT (2007). Imaging
+Prostate Cancer: A Multidisciplinary Perspective. Radiology 243:1
+
+Huang HY, Alberg AJ, Norkus EP, Hoffman SC, Comstock GW, Helzlsouer KJ
+(2003). Prospective Study of Antioxidant Micronutrients in the Blood and the Risk
+of Developing Prostate Cancer. Am J Epidemiol 157:335-344
+
+Huch Böni RA, Boner JA, Debatin JF, Trinkler F, Knönagel H, Von Hochstetter A,
+Helfenstein U, Krestin GP (1995). Optimization of prostate carcinoma staging:
+comparison of imaging and clinical methods. Clin Radiol 50:593-600
+
+Ikonen S, Karkkainen P, Kivisaari L, Salo JO, Taari K, Vehmas T, Tervahartiala P,
+Rannikko S (2001a). Endorectal magnetic resonance imaging of prostatic cancer:
+comparison between fat-suppressed T2-weighted fast spin echo and three
+dimensional dual-echo steady-state sequences. Eur Radiol 11:236-241
+
+Ikonen S, Kivisiarri L, Tervahartiala P, Vehemas T, Taari K, Rannikko S (2001b).
+Prostatic MR imaging. Accuracy in differentiation cancer from other prostatic
+disorders. Acta Radiol 42:348-354
+
+Isaacs JT, Furuya Y, Berges R (1994). The role of androgen in the regulation of
+programmed cell death/apoptosis in normal and malignant prostatic tissue. Semin
+Cancer Biol 5:391-400
+
+Issa B (2002). In vivo measurement of the apparent diffusion coefficient in normal
+and malignant prostatic tissues using echo-planar imaging. J Magn Reson Imaging
+16:196-200
+
+71
+
+Jager GJ, Ruijter ET, van de Kaa CA, de la Rosette JJ, Oosterhof GO, Thornbury
+JR, Ruijs Sh, Barentsz JO (1997). Dynamic Turbo FLASH subtraction technique
+for contrast-enhanced MR imaging of the prostate: correlation with histopathologic
+results. Radiology 203:645-652
+
+Jani AB, Hellman S (2003). Early prostate cancer: clinical decision-making. Lancet
+361(9362):1045-1053
+
+Kurhanewicz J, Vigeron DB, Hricak H, Narayan P, Carroll P, Nelson SJ (1996).
+Three-dimensional H-1 MR spectroscopic imaging of the in situ human prostate
+with high (0.24-0.7-cm3) spatial resolution. Radiology 198:795-805
+
+Le Bihan D, Poupon C, Amadon A, Lethimonnier F (2006). Artifacts and pitfalls in
+diffusion MRI. J Magn Reson Imaging 24:478-488
+
+Leitzmann MF, Stampfer MJ, Wu K, Cloditz GA, Willet WC, Giovannucci EL
+(2003). Zinc supplement and risk of prostate cancer. J Natl Cancer Inst 95:10041007
+Le Moyec L, Pellen P, Merdrignac-Le Noan G, Le Lan J, Lancien G, Chenal C, de
+Certaines JD (1988). Proton NMR relaxation times of experimental Lewis lung
+carcinoma after irradiation. Radiother Oncol 13:1-8
+
+Lepor H, Gregerman M, Crosby R, Mostofi FK, Walsh PC (1985). Precise
+localization of the autonomic nerves from the pelvic plexus to the corpora
+cavernosa: a detailed anatomical study of the adult male pelvis. J Urol 133:207212
+
+Levi F, La Vecchia C, Boyle P (2000). The rise and fall of prostate cancer,
+European Journal of Cancer Prevention 9 (6):381-385
+
+Lichtenstein P, Holm NV, Verkasalo PK, Iliadou A, Kaprio J, Koskenvuo M,
+Pukkala E, Skytthe A, Hemminki K (200). Environmental and heritable factors in
+
+72
+
+the causation of cancer--analyses of cohorts of twins from Sweden, Denmark, and
+Finland. N Engl J Med 343(2):78-85
+
+Lilja H, Laurell CB, Jeppsson JO (1984). Characterization of the predominant
+basic protein in human seminal plasma, one cleavage product of the major
+seminal vesicle protein. Scand J Clin Lab Invest 44:439-446
+
+Lilja H, Abrahamsson PA, Lundwall A, (1989). Semenogelin, the predominant
+protein in human semen. Primary structure and identification of closely related
+proteins in the male accessory sex glands and on the spermatozoa. J Biol Chem
+264:1894-1900
+
+Lynch TH, Larsen AL, Magnuson CW, Krush AJ (1966). Prostate carcinoma and
+multiple primary malignancies: Study of a family and 109 consecutive prostate
+cancer patients. Cancer 19(12):1891-1897
+
+Maio A, Rifkin MD (1995). Magnetic resonance imaging of prostate cancer:
+update. Top Magn Reson Imaging 7:54-68
+
+Manenti G, Carlani M, Mancino S, Colangelo V, Di Roma M, Squillaci E, Simonetti
+G (2007). Diffusion tensor magnetic resonance imaging of the prostate cancer.
+Invest Radiol 42:412-419
+
+Matoba M, Tonami H, Kondou T, Yokota H, Higashi K, Toga H, Sakuma T (2007).
+Lung carcinoma: diffusion-weighted mr imaging—preliminary evaluation wth
+apparent diffusion coefficient. Radiology 243:570-577
+
+Martin JF, Hajek P, Baker L, Gylys-Morin V, Fitzmorris-Glass R, Mattrey RR
+(1988). Inflatable surface coil for MR imaging of the prostate. Radiology 167:268270
+
+Massmann J, Funk A, Altwein J, Praetorius M (2003). [Prostate carcinoma (PC)-an organ-related specific pathological neoplasm]. Radiologe 43:423-431
+
+73
+
+Mazaheri Y, Shukla-Dave A, Hricak H, Fine SW, Zhang J, Inurrigarro G,
+Moskowitz CS, Ishill NM, Reuter VE, Touijer K, Zakian KL, Koutcher JA (2008).
+Prostate cancer: identification with combined diffusion-weighted MR imaging and
+3D 1H MR spectroscopic imaging—correlation with pathologic findings. Radiology
+246:480-488
+
+McGregor M, Hanley JA, Boivin JF, McLean RG (1998). Screening for prostate
+cancer: estimating the magnitude of overdetection. CMAJ 159(11):1368-1372
+
+McNeal JE (1981a). Normal and pathologic anatomy of prostate. Urology 17:11-16
+
+McNeal JE (1981b). The zonal anatomy of the prostate. Prostate 2:35-49
+
+Miao H Fukatsu H, Ishigaki T (2007). Prostate cancer detection with 3-T MRI:
+comparison of diffudion-weighted and T2-weighted imaging. Eur J Radiol 61:297302
+
+Mirowitz SA, Brown JJ, Heiken JP (1993). Evaluation of the prostate and prostatic
+carcinoma with gadolinium-enhanced endorectal coil MR imaging. Radiology
+186:153-157
+
+Morgan VA, Kyriazi S, Ashley SE, De Souza NM. Evaluation of the potential of
+diffusion-weighted imaging in prostate cancer detection. Acta Radiol 48:695-703
+
+Mori S, Barker PB (1999). Diffusion Magnetic Resonance Imaging: Its Principle
+and Applications. Anat Rec 257:102-109
+
+Mostofi FK, Sesterhenn IA, Davis CJ Jr (1976). Problems in pathologic diagnosis
+of prostatic carcinoma. Semin Oncol 3:161–169
+
+Mueller-Lisse UG, Vigneron DB, Hricak H, Swanson MG, Carroll PR, Bessette A,
+Scheidler J, Srivastava A, Males RG, Cha I, Kurhanewicz J (2001). Localized
+
+74
+
+prostate cancer: effect of hormone deprivation therapy measured by using
+combined
+
+three-dimensional
+
+1H
+
+MR
+
+spectroscopy
+
+and
+
+MR
+
+imaging:
+
+clinicopathologic case-controlled study. Radiology 221:380-390
+
+Nelson WG, De Marzo AM, Isaacs WB (2003). Prostate cancer. N Engl J Med
+349(4):366-81
+
+Nicholson C (1985). Diffusion from an injected volume of a substance in brain
+tissue with arbitrary volume fraction and trouosity. Brain Res 333:325-329
+
+Nicolas V, Nodus J, Mueller-Lisse UG, Heyer CM (2004). Handbuch diagnostische
+Radiologie. Urogenitaltrakt, Retroperitoneum, Mamma. Springer-Verlag, Berlin,
+Heidelberg, S.168
+
+Niendorf T, Norris DG, Leibfritz D (1994). Detection of apparent restricted diffusion
+in healthy rat brain at short diffusion times. Magn Reson Med 32:672-677
+
+Nitz W (2003): Prinzipien der MR-Bildgebung. In: Reimer P, Parizel PM, Stichnoth
+F-A (Hrsg.): Klinische MR-Bildgebung. Eine praktische Anleitung. 2. Aufl.,
+Springer-Verlag, Berlin, Heidelberg, S. 1-58
+
+Page WF, Braun MM, Partin AW, Caporaso N, Walsh P (1997). Heredity and
+prostate cancer: A study of World War II veteran twins. Prostate 33(4):240-245
+
+Parkin DM, Pisani P, Ferlay J (1999). Estimates of the worldwide incidence of 25
+Major Cancers in 1990. Int J. Cancer 80:827-841
+
+Price D, Ortiz E (1965). The role of fetal androgens in sex differentiation in
+mammals. In: Detlaan, RS, Ursrpung, H (eds). Organogenesis. 2nd ed, Holt,
+Rinehart and Winston, New York, S. 629-652
+
+Purohit RS, Shinohara K, Meng MV, Carroll PR (2003). Imaging clinicically
+localized prostate cancer. Urol Clin North Am 30:279-293
+
+75
+
+Quinn M, Babb P (2002). Pattern and trends in prostate cancer incidence, survival,
+prevalence and mortality. Part 1: international comparisons. BJU International
+90:162-173
+
+Quint LE, Van Erp JS, Bland PH, Del Buono EA, Mandell Sh, Grossmann Hb,
+Gikas PW (1991). Prostate cancer: correlation of MR images with tissue optical
+density at pahtologic examination. Radiology 179:837- 842
+
+Reimer P, Parizel PM, Stichnoth F-A (2003). Klinische MR-Bildgebung 2. Aufl.,
+Springer-Verlag, Berlin, Heidelberg
+
+Rifkin MD (1990). MRI of the prostate. Crit Rev Diagn Imaging 31:223-262
+Rifkin MD (1996). Ultrasound of the Prostate. 2nd ed, Lippincott Williams & Wilkins,
+Philadelphia, S. 3-14
+
+Robert Koch-Institut (2012): Krebs in Deutschland 2007/2008. Häufigkeiten und
+Trends. 8. Aufl., Berlin
+
+Rosenberg L, Palmer J, Zauber A, Warshauer M, Strom B, Harlap S, Shapiro S
+(1994). The Relation of Vasectomy to the Risk of Cancer. Am J Epidemiol
+140:431-438
+
+Sanchez-Chapado M, Angulo JC, Ibarburen C, Aguado F, Ruiz A, Viano J, GarciaSegura JM, Gonzalez-Esteban J, Rodriquez-Vallejo JM (1997). Comparison of
+digital rectal examination, transrectal ultrasonography, and multicoil magnetic
+resonance imaging for preoperative evaluation of prostate cancer. Eur Urol
+32:140-149
+
+Sato C, Naganawa S, Nakamura T, Kumada H, Miura S, Takizawa O, Ishigaki T
+(2005). Differentiation of noncancerous tissue and cancer lesions by apparent
+
+76
+
+diffusion coefficient values in transition and peripheral zones of the prostate. J
+Magn Reson Imaging 21:258-262
+
+Schaefer PW, Ozsunar Y, He J, Hamberg LM, Hunter GJ, Sorensen AG,
+Koroshetz WJ, Gonzalez RG (2003). Assessing tissue viability with MR diffusion
+and perfusion imaging. AJNR Am J Neuroradiol 24:436-443
+
+Schlegel
+
+PN,
+
+Walsh
+
+PC
+
+(1987).
+
+Neuroanatomical
+
+approach
+
+to
+
+radical
+
+cystoprostatectomy with preservation of sexual function. J Urol 138:1402-1406
+
+Schnall MD, Pollack HM (1990). Magnetic resonance imaging of the prostate
+gland. Urol Radiol 12:109-114
+
+Schnall MD, Lenkinski RE, Pollack HM, Imai Y, Kressel HY (1989). Prostate: MR
+imaging with an endorectal surface coil. Radiology 172:570-574
+
+Schnall MD, Connick T, Hayes CE, Lenkinski RE, Kressel HY (1992). MR imaging
+of the pelvis with an endorectalexternal multicoil array. J Magn Reson Imaging
+2:229-232
+
+Secaf E, Nuruddin RN, Hricak H , McClure RD, Demas B (1991). MR imaging of
+the seminal vesicles. Am J Roentgenol 156:989-994
+
+Shaneyfelt T, Husein R, Bubley G, Mantzoros CS (2000). Hormonal predictors of
+prostate cancer: a meta-analysis. J Clin Oncol 18:847-853
+
+Shimofusa R, Fujimoto H, Akamata H, Motoori K, Yamamoto S, Ueda T, Ito H
+(2005). Diffusion-weighted imaging of prostate cancer. J Comput Assist Tomogr
+29:149-153
+
+Siegel R, Naishadham D, Jemal A (2012). Cancer statistics, 2012. CA Cancer J
+Clin 62(1):10-29
+
+77
+
+Sobin LH, Wittekind C (2002). Classification of malignant tumours. 6th ed, John
+Wiley & Sons, New Yersey
+
+Sommer FG, Nghiem HV, Herfkens R , McNeal J (1993). Gadolinium-enhanced
+MRI of the abnormal prostate. Magn Reson Imaging 11:941-948
+
+Sommer FG, McNeal JE, Carrol CL (1986) MR depiction of zonal anatomy of the
+prostate at 1.5 T. J Comput Assist Tomogr 10:983
+
+Stamey TA, Caldwell M, McNeal JE, Nolley R, Hemenez M, Downs J (2004). The
+prostate specific antigen era in the United States is over for prostate cancer: what
+happened in the last 20 years? J Urol 172(4 Pt 1):1297-301
+
+Steinberg GD, Carter BS, Beaty TH, Childs B, Walsh PC (1990). Family history
+and the risk of prostate cancer. Prostate 17(4):337-347
+
+Stephen AM, Wald NJ (1990). Trends in individual consumption of dietary fat in
+the United States, 1920-1984. Am J Clin Nutr 52:457-469
+
+Strom SS, Yamamura Y, Duphorne CM, Spitz MR, Babaian RJ, Pillow PC,
+Hursting SD (1999). Phytoestrogen intake and prostate cancer: a case-control
+study using a new database. Nutr Cancer 33(1):20-25
+Sugimura Y, Cunha GR, Donjacour AA (1986). Morphological and histological
+study of castration-induced degeneration and androgen-induced regeneration in
+the mouse prostate. Biol Reprod 34:973-983
+
+Sumi M, Takagi Y, Uetani M, Morikawa M, Hayashi K, Kabasawa H, Aikawa K,
+Nakamura T (2002). Diffusion-weighted echoplanar MR imaging of the salivary
+glands. AJR Am J Roentgenol 178:959-965
+
+Szafer A, Zhong J, Anderson AW, Gore JC (1995). Diffusion–weighted imaging in
+tissues: theoretical model. NMR Biomed 8:289-296
+
+78
+
+Takeda H, Lasnitzki I, Mizuno T (1986). Analysis of prostatic bud induction by brief
+androgen treatment in the fetal rat urogenital sinus. J Endocrinol 110:467-470
+
+Tamada T, Sone T, Jo Y, Toshimitsu S, Yamahita T, Yamamoto A, Tanimoto D,
+Ito K (2008). Apparent diffusion coefficient values in peripheral and transition
+zones of the prostate: comparison between normal and malignant prostatic tissues
+and correlation with histologic grade. J Magn Reson Imaging 28:720-726
+
+Tanimoto A, Nakahima J, Kohno H, Shinmoto H, Kuribayashi S (2007). Prostate
+cancer screening: the clinical value of diffusion-weighted imaging and dynamic MR
+imaging in combination with T2-weighted imaging. J Magn Reson Imaging 25:146152
+
+Taouli B, Vilgrain V, Dumont E, Daire JL, Fan B, Menu Y (2003). Evaluation of
+liver diffusion isotropy and characterization of focal hepatic lesions with two singleshot echo-planar MR imaging sequences: prospective study in 66 patients.
+Radiology 226:71-78
+
+Tempany CM, Zhou X, Zerhouni EA , Rifkin MD, Quint LE, Piccoli CW, Ellis JH,
+McNeil BJ (1994). Staging of prostate cancer: results of Radiology Diagnostic
+Oncology Group project comparison of three MR imaging techniques. Radiology
+192:47-54
+
+Tomczak R, Krämer S, Fleiter T, Schütz A, Görich J, Brambs HJ (2000). Diffusion
+und Perfusion: Grundlagen und klinische Anwendung. Röntgenpraxis 52(1012):361-370
+
+Tuohimaa P, Tenkanen L, Ahonen M, Lumme S, Jellum E, Hallmans G, Stattin P,
+Harvei S, Hakulinen T, Luostarinen T, Dillner J, Lehtinen M, Hakma M (2004).
+Both high and low levels of blood Vitamin are associated with a higher prostate
+cancer risk: a longitudinal, nested case control study in the Nordic countries. Int J
+Cancer 108:104-108
+
+79
+
+Uhlenbrock D (1996). MRT und MRA des Kopfes, Indikationsstellung - Wahl der
+Untersuchungsparameter - Befundinterpretation. Thieme, Stuttgart, New York, S.
+16-19
+
+U.S. Prevenitve Service Task Force (2002). Screening for Prostate Cancer:
+Recommendation and Rationale. Ann Intern Med 137:915-916
+
+Vogl TJ, Reith W, Rummeny EJ (2011). Diagnostische und Interventionelle
+Radiologie. Springer-Verlag Berlin, Heidelberg, S. 1050-1052
+
+Walsh PC (1987). Radical prostatectomy, preservation of sexual function, cancer
+control. The controversy. Urol Clin North Am 14:663-673
+
+Walsh PC, Donker PJ (2002). Impotence following radical prostatectomy: insight
+into etiology and prevention. 1982. J Urol 167:1005-1010
+
+Walsh PC, Quinlan DM, Morton RA, Steiner MS (1990). Radical retropubic
+prostatectomy. Improved anastomosis and urinary continence. Urol Clin North Am
+17:679-684
+
+Wang MC, Valenzuela LA, Murphy GP, Chu TM (1979). Purification of a prostate
+specific antigen. Invest Urol 17:159–163
+
+Weissbach L, Altwein J (2009). Aktive Überwachung oder aktive Therapie beim
+lokalen Prostatakarzinom? Dtsch Ärztebl Int 106(22):371–376
+
+Wetter A, Ajdukovic AN, Fliessbach K, Lehnert T, Engl T, Jacobi V, Vogl TJ
+(2006). [Staging of prostate cancer: value of the combined information of
+endorectal MRI biopsy Gleason score, and preoperative PSA level]. Rofo 178:385390
+
+World Health Organization (2004). Classification of Tumours of the Urinary System
+and Male Genital Organs. 3:155-353
+
+80
+
+Wittekind C, Meyer HJ (Hrsg) (2010). UICC: TNM Klassifikation maligner
+Tumoren. 7. Aufl., Wiley-VCH Verlag, Weinheim
+
+Woolf CM (1960). An investigation of the familial aspects of carcinoma of the
+prostate. Cancer 13(4):793-743
+
+Yamasaki F, Kurisu K, Satoh K, Arita K, Sugiyama K, Ohtaki M, Takaba J,
+Tominaga A, Hanaya R, Yoshioka H, Hama S, Ito Y, Kajiwara Y, Yahara K, Saito
+T, Thohar MA (2005). Apparent diffusion coefficient of human brain tumors at MR
+imaging. Radiology 235:985-991
+
+Yan L, Spitznagel EL (2005): Meta-analysis of soy food and risk of prostate cancer
+in men. Int J Cancer 117:667-669
+
+Yu KK, Hricak H (2000). Imaging prostate cancer. Radiol Clin North Am 38:59-85
+
+Yu KK, Hricak H, Alagappan R, Chernoff DM, Bacchetti P, Zaloudek CJ (1997).
+Detection of extracapsular extension of prostate carcinoma with endorectal and
+phased-array coil MR imaging: multivariate feature analysis. Radiology 202:697702
+
+81
+
+8
+
+Anhang
+
+Eidesstattliche Versicherung
+Ich versichere ausdrücklich, dass ich die Arbeit selbständig und ohne fremde Hilfe
+verfasst, andere als die von mir angegebenen Quellen und Hilfsmittel nicht benutzt
+und die aus den benutzten Werken wörtlich oder inhaltlich entnommenen Stellen
+einzeln nach Ausgabe (Auflage und Jahr des Erscheinens), Band und Seite des
+benutzten Werkes kenntlich gemacht habe.
+Ferner versichere ich, dass ich die Dissertation bisher nicht einem Fachvertreter
+an
+einer anderen Hochschule zur Überprüfung vorgelegt oder mich anderweitig um
+Zulassung zur Promotion beworben habe.
+
+______________
+Arne Hohenstein
+
+82
+
+Danksagung
+
+Ich danke meinen Betreuern Prof. Dr. U. Wedegärtner und Dr. J. Yamamura.
+
+Ich danke meinem Bruder Jonas Hohenstein und seiner Frau für die Unterkunft in
+der Zeit der Erarbeitung.
+
+Ich danke meiner Mutter für die Unterstützung zum Beginn meiner Arbeit.
+
+Ich danke meinem Vater für das Verständnis in dieser ersten Findungsphase in
+seiner Praxis.
+
+Ich danke Frau Dr. K. Tornquist für die Möglichkeit, diese Arbeit überhaupt zu
+beginnen.
+
+83
+
+

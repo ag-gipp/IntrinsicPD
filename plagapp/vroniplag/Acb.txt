@@ -1,0 +1,4555 @@
+AUS DER KLINIK FÜR IMMUNOLOGIE UND RHEUMATOLOGIE DER
+MEDIZINISCHEN HOCHSCHULE HANNOVER
+
+„Assoziation von Antikörpern gegen
+α-Fodrin mit dem Sicca-Syndrom
+bei HIV-Infizierten“
+Dissertation zur Erlangung des
+Doktorgrades der Medizin
+Dr.med.
+
+Vorgelegt von Astrid Caroline Bornemann
+aus Hannover
+
+Hannover 2009
+
+Angenommen vom Senat der Medizinischen Hochschule Hannover
+am 18.01.2010
+Gedruckt mit Genehmigung der Medizinischen Hochschule Hannover
+Präsident: Prof. Dr. Dieter Bitter-Suermann
+Betreuer: Prof. Dr. med. Torsten Witte
+Referent: Prof. Dr. med. Kirsten de Groot
+Korreferent: PD Dr. med. Ulrich Baumann
+Tag der mündlichen Prüfung: 18.01.2010
+
+Prüfungsausschussmitglieder:
+Prof. Dr. Alexander Kapp
+Prof. Dr. Stefan Kubicka
+PD Dr. Lorenz Grigull
+
+Diese Arbeit widme ich in Liebe meinem Vater
+Herrn Dr. med. Hartmut Bornemann
+
+Inhaltsverzeichnis
+Abkürzungsverzeichnis
+1 Einleitung
+1.1. Das Sjögren-Syndrom
+1.1.1. Beschreibung des Krankheitsbildes
+1.1.2. Ätiopathologie des Sjögren-Syndrom
+1.1.3. Diagnostik des Sjögren-Syndrom
+1.1.4. Therapie des Sjögren-Syndrom
+1.2. Bedeutung der α-Fodrin Antikörper
+1.3. Die Humane Immundefizienz Virus –Erkrankung (HIV)
+1.3.1. HIV-Tests
+1.3.2. Vermehrung des Virus im Körper
+1.3.3. Verlauf der HIV-Infektion
+1.3.4. AIDS
+1.3.5. Therapie der HIV-Infektion
+1.4. Diffus Infiltratives Lymphozytose-Syndrom (DILS)
+1.5 Zielsetzung
+
+2 Material und Methoden
+2.1. Patienten
+2.2. Patienten-Untersuchungen
+2.2.1. Fragebogen
+2.2.2. Der Saxon-Test
+2.2.3. Der Schirmer –Test
+2.3. Labordiagnostik
+2.3.1. Die Bestimmung von IgA- und IgG- Antikörpern gegen α-Fodrin
+im Immunoassay
+2.3.2. Die CD4/CD8-Zellzahl-Bestimmung
+2.3.3. Die Viruslastbestimmung
+2.3.4. Gegenüberstellung der akquirierten Patientendaten mit Hilfe der
+Excelsoftware und Kriterien zur Klassifikation des SiccaSyndroms
+2.3.5. Auswertungen Fragebogenbefunde, Saxon- und Schirmer-Test,
+α- Fodrin Antikörper bei 168 Probanden eines MHHSommerfestes zur Normalwertbestimmung
+2.3.6. Geräte
+2.3.7. Reagenzien
+2.3.8. Software
+2.4. Statistische Analysen
+
+Inhaltsverzeichnis
+
+3 Ergebnisse
+3.1. Fragebogenauswertung mit Ergebnissen
+3.2. Saxon-Schirmer-Test-Ergebnisse
+3.3. Ergebnisse der Bestimmung von IgA- und IgG-Antikörpern gegen αFodrin
+3.4. Prävalenz der Parameter der Klassifikationskriterien des SjögrenSyndroms bei HIV-Infizierten
+3.5. CD4,CD8,CD4/CD8-Ratio
+3.6. Viruslast
+3.7 Ergebnisse der statistischen Auswertungen
+3.7.1 Saxon-Test
+3.7.2 Schirmer-Test
+3.7.3 Anti-α-Fodrin IgA
+3.7.4 Anti-α-Fodrin IgG
+3.7.5 Viruslast
+
+4 Diskussion
+5 Zusammenfassung
+6 Literatur
+7 Anhang
+8 Lebenslauf
+9 Eidesstattliche Erklärung
+10 Danksagung
+
+Inhaltsverzeichnis
+
+Abkürzungsverzeichnis
+AFN
+
+α-Fodrin
+
+AIDS
+
+Acquired Immunodeficiency Syndrome
+
+Ak
+
+Antikörper
+
+ANA
+
+Anti-nukleäre Antikörper
+
+ART
+
+Antiretrovirale Therapie
+
+BAFF
+
+B-Zell aktivierender Faktor
+
+BCL
+
+B-cell-Lymphom
+
+bDNA
+
+branched Desoxyribonukleinsäure
+
+bzw.
+
+beziehungsweise
+
+CCR
+
+Chemokine
+
+CD
+
+Cluster of Differentiation
+
+CDC
+
+Centers for Disease Control
+
+CXCR
+
+Chemokine
+
+DILS
+
+Diffus-infiltratives Lymphozytose-Syndrom
+
+DNA
+
+Desoxyribonukleinsäure
+
+EBV
+
+Epstein-Barr Virus
+
+ELISA
+
+Enzyme-linked Immunosorbent Assay
+
+ESG
+
+European Study Group
+
+HAART
+
+Highly Active Anti-retroviral therapy
+
+HACA
+
+Humane antichimäre Antikörper
+
+HCV
+
+Hepatitis C Virus
+
+HIV
+
+Humanes-Immundefizienz-Virus
+
+HLA
+
+Human Leukocyte Antigen
+
+HTLV
+
+Humane T-Zell lymphotropes Virus
+
+IFN
+
+Interferon
+
+Ig
+
+Immunglobulin
+
+ILT
+
+Immunglobulin-like Transcripts
+
+IL
+
+Interleukin
+
+Abkürzungsverzeichnis
+kDa
+
+Molekülmasse kilo-Dalton
+
+LFS
+
+lymphozytärer Fokusscore
+
+LTNP
+
+long-term-non-progressors
+
+MALT
+
+Mukosa-assoziiertes-lymphatisches System
+
+neg.
+
+negativ
+
+NNH
+
+Nasenebenhöhlen
+
+NNRTI
+
+Nicht-Nukleosid-Reverse-Transkriptase-Inhibitor
+
+NRTI
+
+Nukleosid-Reverse-Transkriptase-Inhibitor
+
+n.b.
+
+nicht bestimmbar
+
+n.s.
+
+nicht signifikant
+
+Op
+
+Operation
+
+PCR
+
+Polymerasekettenreaktion
+
+PEP
+
+Postexpositionelle Prophylaxe
+
+PI
+
+Protease-Inhibitor
+
+pos.
+
+positiv
+
+RA
+
+Rheumatoide Arthritis
+
+RNA
+
+Ribonukleinsäure
+
+RNP
+
+Ribonukleoprotein
+
+RT
+
+Reverse Transkriptase
+
+SGD
+
+Salivary Gland Disease
+
+SIV
+
+Simian Immunodeficiency Virus
+
+SLE
+
+Systemischer Lupus Erythematodes
+
+SLS
+
+Sjögren –like-Syndrome
+
+SS
+
+Sjögren-Syndrom
+
+SSA
+
+Sjögren-Syndrom-Antikörper A (Anti-Ro)
+
+SSB
+
+Sjögren-Syndrom-Antikörper B (Anti-La)
+
+Th
+
+T-Helfer -Zelle
+
+U
+
+Unit-Einheit
+
+USA
+
+United States of America
+
+µl
+
+Mikroliter
+
+ml
+
+Milliliter
+
+z.B.
+
+zum Beispiel
+
+Seite | 7
+
+Einleitung
+
+1. Einleitung
+Bei HIV-Infektionen kommt es im Rahmen der Abtötung von virusinfizierten
+CD4-positiven
+
+Körperzellen
+
+-insbesondere
+
+T-Helferzellen-
+
+zu
+
+einer
+
+Freisetzung zahlreicher Zytokine. Diese stimulieren oder hemmen weitere
+Kompartimente des Immunsystems. Sowohl Immunsuppression als auch
+Autoimmunität werden durch eine HIV-Infektion induziert.
+
+In der Häufigkeitsskala der Autoimmunerkrankungen rangiert das SiccaSyndrom an vorderster Stelle.
+Geier et al. [1] finden bei nahezu jedem 4. ihrer HIV-Patienten eine reduzierte
+Tränenproduktion.
+Deutlich seltener ist bei HIV-Patienten das diffus-infiltrative-LymphozytoseSyndrom (DILS). In seiner klinisch ausgeprägten Form ist es dem SjögrenSyndrom sehr ähnlich.
+Zur Labordiagnostik des Sjögren-Syndroms steht die Bestimmung der neuen
+IgA- und IgG-Antikörper
+
+gegen α-Fodrin als weiterer Labormarker zur
+
+Verfügung.
+Anti-α-Fodrin-Antikörper kommen bei Patienten mit und ohne die klassischen
+Autoantikörper (Ro(SSA) und La(SSB)) genauso häufig vor (jeweils ca. 93%).
+Zusätzlich sind sie überhaupt die ersten Entzündungsmarker des SjögrenSyndroms. Neben einer evtl. Verbesserung der (Früh-)Diagnostik des
+Sjögren-Syndroms bzw. des Sicca-Syndroms bieten sie als Apoptosemarker
+die
+
+Möglichkeit,
+
+Informationen
+
+zur
+
+Entzündungsaktivität
+
+des
+
+Autoimmunprozesses zu gewinnen. Erstmals wird damit ein Monitoring der
+antientzündlichen Therapie möglich.
+Die Aufgabe der vorliegenden Arbeit war es, an einem großen Patientengut
+(n=196) von HIV-Infizierten die Prävalenz des Sicca-Syndroms und dessen
+Assoziation mit Anti-α-Fodrin-Autoantikörpern zu bestimmen.
+
+Seite | 8
+
+Einleitung
+
+1.1. Das Sjögren Syndrom
+
+1.1.1.Beschreibung des Krankheitsbildes
+
+Das Sjögren-Syndrom, 1925 von Gougerot und 1932 von dem schwedischen
+Augenarzt
+
+Henrik
+
+Sjögren
+
+in
+
+seiner
+
+Habilitationsschrift
+
+[2]
+
+erstmals
+
+beschrieben, ist eine chronisch immunoinflammatorische Erkrankung, die
+durch eine verminderte lacrimale und salivatorische Sekretion gekennzeichnet
+ist. Sie manifestiert sich u.a. als Keratokonjunktivitis und Xerostomia sicca
+(trockene Augen und trockener Mund), begleitet von einer histopathologisch
+nachweisbaren, lymphozytären Infiltration der Tränen- und Speicheldrüsen [3]
+und der anderen beteiligten Organe. Insbesondere CD4+ T-Helferzellen
+beherrschen das histopathologische Bild.
+
+Das
+
+Sjögren-Syndrom
+
+wird
+
+in
+
+Verbindung
+
+mit
+
+anderen
+
+Autoimmunerkrankungen, wie z.B. bei der rheumatoiden Arthritis und bei
+Kollagenosen als sekundär angesehen, trifft eine solche Zweiterkrankung
+nicht zu, liegt ein primäres Sjögren-Syndrom vor.
+Extraglanduläre Folgen können in den Lungen, den Nieren, den Blutgefäßen
+und als B-Zellproliferation, Pseudolymphom und Lymphom auftreten.
+Beachtenswert ist das deutlich erhöhte Risiko von Sjögren-Patienten, ein
+Non-Hodgkin-Lymphom zu entwickeln (5%).
+
+Mit einer Prävalenz von 0,1-1% in der Bevölkerung ist das Sjögren- Syndrom
+eine der häufigsten Autoimmunerkrankungen, nach Rheumatoider Arthritis
+und Spondylarthritiden.
+Das
+
+Sjögren-Syndrom
+
+ist
+
+eine
+
+Autoimmunopathie
+
+mit
+
+sehr
+
+hoher
+
+Gynäkotropie (9:1), hat eine weltweite Verbreitung, betrifft alle Rassen und
+tritt bei 10-15% aller Patienten mit rheumatoider Arthritis auf.
+
+Seite | 9
+
+Einleitung
+Die kardinalen klinischen Symptome treten meistens erst im 4. bis 5.
+Lebensjahrzehnt auf, da der Zerstörungsprozess der Drüsen schleichend
+verläuft. Aber auch Kinder können betroffen sein. Da die Xerostomie sich erst
+bei einem Funktionsverlust der Speicheldrüsen von mehr als 50% klinisch
+bemerkbar macht, wird das Krankheitsbild erst im späten Zustand
+diagnostiziert.
+
+Nach Mignogna et al. [4] kann eine verminderte Phosphatkonzentration im
+Speichel zu einer vermehrten Inzidenz von Karies schon in der Frühphase der
+Erkrankung führen. Ebenfalls als Frühsymptom wird die asymptomatische
+bilaterale Speicheldrüsenschwellung ohne Mundtrockenheit angesehen.
+Das mit einer Hepatitis C assoziierte Sjögren-Syndrom wird von RamosCasals [5] als eigenständige Krankheitsentität definiert. Entsprechend wird
+die Durchführung einer HCV-Serologie im Rahmen der Abklärungsdiagnostik
+des Sjögren-Syndroms empfohlen.
+
+1.1.2. Ätiopathologie des Sjögren-Syndroms
+
+Die Ursachen des Sjögren-Syndrom sind noch unklar. Vermutlich liegt eine
+genetisch determinierte Autoimmunerkrankung vor. Familienstudien zeigen,
+dass das Risiko der Erkrankung bei Verwandten von Patienten mit SjögrenSyndrom erhöht ist. Dabei müssen wohl mehrere Risikoerbanlagen
+vorhanden sein.
+Untersuchungen innerhalb von Großfamilien haben einen genetischen
+Zusammenhang gezeigt, sowohl im Bezug auf HLA-assoziierte Gene, als
+auch auf nicht HLA-assoziierte Gene [6]. Zwillingsstudien konnten nicht nur
+das parallele Auftreten des Sjögren-Syndroms aufzeigen, sondern sogar
+nahezu identische klinische Verläufe feststellen [7].
+
+Dass in Familien mit Sjögren-Syndrom insgesamt sehr häufig Angehörige mit
+Autoimmunkrankheiten gefunden werden, spricht für einen Zusammenhang
+mit Genregionen, die Risikogene für mehrere
+
+Autoimmunerkrankungen
+
+tragen [8,9]. Von besonderem Interesse ist dabei die Region 19q13.4 [9,10].
+Seite | 10
+
+Einleitung
+Außerdem gibt es Hinweise darauf, dass der HLA- Genotyp die Schwere des
+Krankheitsverlaufes beeinflusst [11].
+
+Auch chronische Virusinfekte, wie Retroviren, Epstein-Barr-Virus und
+Cytomegalievirus werden als Auslöser des Sjögren-Syndroms diskutiert. Oft
+wird die Erkrankung erst durch weitere Komplikationen diagnostiziert. Dazu
+zählen Infektionsneigung in den oberen Atemwegen, Kariesbefall und
+Keratokunjunktivitis oder Polyneuropathien, die den Symptomen der multiplen
+Sklerose ähneln.
+Demnach können an der Ätiologie des Krankheitsbildes virale Erreger (HTLV1, EBV, HCV, Coxsackie Virus 2B) durch Induktion molekularer MimikryMechanismen mitwirken [12]. Ebenfalls scheint ein Östrogenmangel eine
+Rolle zu spielen, so dass die vermehrte Prävalenz bei postmenopausalen
+Frauen erklärt wäre. Bestimmte Oberflächenmarker der Epithelzellen und der
+infiltrierenden
+
+Lymphozyten
+
+(HLA-DR,
+
+CD40,
+
+BCL-2)
+
+bewirken
+
+im
+
+Zusammenspiel einen Apoptose-Schutz der Lymphozyten. Auf der anderen
+Seite ist die Apoptose von Epithelzellen, als deren Folge es zu einer Induktion
+von Autoantikörpern kommen kann, der entscheidende Schritt in der
+Pathogenese des Sjögren-Syndroms [13].
+
+1.1.3.Diagnostik
+
+Unspezifische Symptome wie häufig rezivierende Infekte der oberen
+Atemwege, Konjunktivitiden oder Parästhesien stehen am Anfang der
+Diagnostik.
+Die Diagnose des Sjögren-Syndrom basiert auf Kriterien, die eine Anzahl von
+subjektiven und objektiven Zeichen und Symptomen enthalten.
+Dazu
+
+wurden
+
+in
+
+den
+
+letzten
+
+drei
+
+Dekaden
+
+verschiedene
+
+Klassifikationskriterien entwickelt [14,15,16,17]. Die Vitali-Kriterien, ein
+Fragenkatalog und Klassifikationskriterien sind im Anhang aufgeführt [Tabelle
+1 und 2].
+Für das primäre Sjögren-Syndrom besteht eine > 90%ige diagnostische
+Sensitivität und Spezifität, wenn 4 der 6 Kriterien zutreffen, wobei der
+Seite | 11
+
+Einleitung
+Autoantikörper- Nachweis auf Anti-SS-A (Ro) und Anti SS-B (La) beschränkt
+wird. Für das sekundäre Sjögren-Syndrom besteht eine > 90%ige
+diagnostische Spezifität im Vergleich zu einer Kollagenose-Gruppe ohne
+Sicca-Syndrom, wenn das 1. oder 2. Kriterium plus 2 der Kriterien 3, 4 und 5
+zutreffen (Kriterium 6 ist obligat positiv). Ausschluss–Kriterien sind hierbei: ein
+vorbestehendes Lymphom, AIDS, Sarkoidose und eine Graft-Versus-HostReaktion.
+
+Im US-amerikanischen Raum wird mehr Gewicht auf das Vorhandensein von
+Anti-SS-A (Ro) und Anti-SS-B (La)
+
+Antikörpern im Serum und auf den
+
+lymphozytären Fokusscore (LFS) sublabialer Drüsen mittels Lippenbiopsie
+gelegt. Die Krankheitsspezifität der Anti-SS-B (La) Antikörper ist jedoch
+begrenzt. Anti- SS-A (Ro) sind in 60-70% und Anti-SS-B (La) in 35 % der
+Seren von Patienten mit Sjögren-Syndrom nachweisbar. Außer beim SjögrenSyndrom werden sie auch bei anderen Erkrankungen des rheumatologischen
+Formenkreises gefunden, so z.B. beim SLE.
+Neben den klassischen Autoantikörper Anti-SS-A (Ro) und Anti-SS-B (La)
+wurden auch weitere Antikörper beschrieben:
+
+
+Anti Muskarin 3-Rezeptor- Antikörper zeigen mit hoher Sensitivität
+extraglanduläre Manifestationen an und hemmen zudem auch die
+Speichelproduktion [18]
+
+
+
+Anti-Zentromer-Antikörper, die sich in gegen verschiedene Proteine
+gerichtete Antikörper (Anti-CENP) unterteilen lassen, lassen eine neue
+Entität des Sjögren-Syndroms abgrenzen, das Anti-SS-A- und Anti-SSB negativ ist.
+
+
+
+Der Nachweis von IgA-Antikörpern gegen α-Fodrin kann dem
+Nachweis
+
+der
+
+klassischen
+
+Marker
+
+Anti-SS-A
+
+und
+
+Anti-SS-B
+
+vorausgehen und spielt somit eine Rolle in der Frühdiagnostik. αFodrin wird bei Apoptosevorgängen gespalten, eines der Spaltprodukte
+ist ein Neoantigen, das die Antikörperbildung induziert.
+Eingehende Beschreibung der Anti-α-Fodrin Autoantikörper siehe unter:
+Einleitung 1.2. Bedeutung der Anti-α-Fodrin-Autoantikörper
+
+Seite | 12
+
+Einleitung
+
+Abbildung 1
+
+Bei Verdacht auf ein Sjögren-Syndrom müssen zunächst objektive Tests zur
+Messung der Mund- und Augentrockenheit erfolgen. Für die Messung der
+Tränenproduktion hat sich der Schirmertest (verminderte Tränensekretion)
+und der Rose-Bengal-Test bewährt, für die Messung der Speichelproduktion
+wird der Saxon-Test angewendet. Bewährte bildgebende Verfahren wie die
+Seite | 13
+
+Einleitung
+Sialographie der Parotis oder die funktionelle Speicheldrüsenszintigraphie
+werden zunehmend ersetzt durch eine nicht strahlenassoziierte Bildgebung.
+So untersuchten Shimizu et al. [19] in einer retrospektiven Studie mit 79
+sonomorphologische Kriterien des Sjögren-Syndroms und kamen zu dem
+Ergebnis,
+
+dass die
+
+Kriterien:
+
+multiple
+
+echoarme
+
+Regionen,
+
+multiple
+
+echoreiche Linien und/oder Spots, multiple echoarme Regionen umgeben von
+multiplen echoreichen Linien und/ oder Spots die beste Aussagekraft
+aufweisen. Morimoto et al. [20] kommen anhand der Untersuchung von fünf
+Sjögren-Patienten und 30 gesunden Freiwilligen zu dem Ergebnis, dass die
+dynamische MRT-Sialographie mit Zitronensäurestimulation hilfreich zum
+Erkrankungsnachweis
+
+ist.
+
+Konkret
+
+wird
+
+die
+
+Fläche
+
+des
+
+Ausführungsgangsystems vor und im zeitlichen Verlauf nach Zitronensäure
+als Quotient bestimmt. Bei Sjögren-Syndrom ist die zeitliche Veränderung
+dieser Fläche geringer als bei gesunder Parotis.
+
+Die Lippenbiopsie wird noch immer als Standardverfahren zur Diagnostik des
+Sjögren-Syndroms eingesetzt. Van Woerkom et al. [21] führen aus, dass
+bislang eine fokale Sialadenitis (> 1 Fokus/4mm²) das akzeptierte Kriterium
+für die Diagnose eines primären Sjögren- Syndroms darstellt, weisen aber
+gleichzeitig darauf hin, dass es sich hier nicht um einen spezifischen Befund
+handelt. Aufgrund des Befundes, dass Plasmazellen bei Sjögren-Syndrom
+sowohl IgA, IgM und IgG produzieren, wurde die Methode der quantitativen
+Immunhistologie erfolgreich eingesetzt (Sensitivität 93%)
+
+Laborergebnisse zeigen eine IgG-, IgM-Erhöhung und ANA-Positivität.
+Fakultativ
+
+sind
+
+Antikörper
+
+gegen
+
+Schleimdrüsen;
+
+Antikörper
+
+gegen
+
+zytoplasmatische Antigene; ggf. Kryoglobulinämie; positiver Rheumafaktor.
+Differentialdiagnostisch sollte ein Mikulicz-Syndrom und das HeerfordtSyndrom ausgeschlossen werden.
+
+1.1.4.Therapie
+
+Eine externe Therapie der jeweiligen Manifestationen erfolgt symptomatisch.
+
+Seite | 14
+
+Einleitung
+Die Symptome der Keratokunjunktivitis sicca werden in erster Linie durch
+Substitution von künstlichen Tränen und hochviskösen Augengelen, die frei
+von Konservierungsstoffen sein sollten, behandelt. Zusätzlich kann Pilokarpin
+oral eingenommen werden.
+Der Patient sollte unter regelmäßiger augenärztlicher Mitbetreuung stehen,
+um Komplikationen wie Hornhautulzera, Bulbusperforationen, Infektionen und
+Schrumpfungen der Konjunktividen zu verhindern.
+Bei extremer Augentrockenheit kann ein Verschluss der Tränenkanäle durch
+einen Ophthalmologen erfolgen.
+
+Eine Xerostomie ist mit künstlichen Speichelpräparaten behandelbar. Das
+Kauen von Kaugummi oder das Spülen der Mundhöhle mit Glycerin- Wasser
+wird ebenfalls empfohlen.
+Perez et al. [22] beschreiben ein Ungleichgewicht der Matrixmetalloproteasen
+3 und 9 einerseits und ihrer Inhibitoren (TIMPs) andererseits als
+pathogenetischer Faktor für die Zerstörung der Drüsenazini. Hier könnten
+noch zu entwickelnde MMP-Antagonisten therapeutisch eingesetzt werden.
+Bave et al. [23] konnten nachweisen, dass die Aktivierung des Typ IInterferon-Systems einen Teufelskreis bei der Autoantikörperproduktion
+unterhält. Auch hier lassen sich zukünftige Therapieansätze ableiten.
+Kurioserweise scheint aber auch die orale Gabe niedriger IFN-α-Dosen die
+Speichelproduktion positiv zu beeinflussen.
+Pijpe et al. [24] berichten über den Einsatz des monoklonalen Antikörpers
+Rituximab bei primärem Sjögren–Syndrom. Rituximab (MabThera®) ist ein
+chimärer Antikörper gegen das B-Lymphozytenantigen CD20.
+8 Patienten mit frühem primären Sjögren-Syndrom und 7 Patienten mit
+Sjögren-assoziiertem MALT-Lymphom wurden insgesamt viermal mit je
+375mg/m² Rituximab behandelt, die Prämedikation erfolgte mit Prednisolon,
+Clemastin und Paracetamol. Bei 3 der Patienten mit frühem Sjögren-Syndrom
+wurde die Therapie wegen unerwünschter Effekte (Serumkrankheit- ähnliche
+Symptome) vorzeitig abgebrochen, während es in der MALT-Gruppe zu
+keinen schweren Nebenwirkungen kam.
+Bei 3 der letztgenannten Patienten kam es zu einer Vollremission, bei 3
+Patienten zu einer stabilen Erkrankung und bei einem Patienten zu einer
+Seite | 15
+
+Einleitung
+Progression. 4 der 15 Patienten (alle mit frühem Sjögren-Syndrom)
+entwickelten Antikörper (HACA), wobei drei hiervon die oben genannten
+Nebenwirkungen entwickelten.
+Devauchelle-Pensec et al. [25] berichteten über den Einsatz von low-doseRituximab-Infusionen bei 16 Patienten mit primärem Sjögren-Syndrom mit
+reduzierten Nebenwirkungen und guter subjektiver Wirksamkeit.
+In einem aktuellen Editorial [26] werden weitere Berichte über die RituximabTherapie bei Sjögren-Syndrom zusammengefasst. Demnach ist die Therapie
+mit Rituximab insbesondere bei Patienten mit primärem Sjögren-Syndrom mit
+extraglandulären Manifestationen als aussichtsreiche neue Therapieoption
+anzusehen. Zusätzlich scheint eine anti-BAFF-Therapie. (B-Zell-aktivierender
+Faktor) nützlich zu sein.
+Der monoklonale Antikörper Rituximab hatte vor einiger Zeit die Therapie der
+Non Hodgkin-Lymphome revolutioniert und wurde auch erfolgreich bei der
+Behandlung der rheumatoiden Arthritis sowie anderen Autoimmunopathien
+eingesetzt. Der Einsatz beim Sjögren-assoziierten (generalisierten) MALTLymphom ist eine logische Fortentwicklung der Indikationsstellung. Rituximab
+scheint aber auch beim primären Sjögren-Syndrom in der Frühphase den
+Krankeitsverlauf positiv zu beeinflussen. Bereits 2001 wurde über den Einsatz
+des ebenfalls chimären Antikörpers Infliximab (Remicade®) bei SjögrenSyndrom berichtet, ohne dass es zu schweren Nebenwirkungen gekommen
+wäre.
+1.2. Bedeutung der Antikörper gegen α-Fodrin
+
+Von den eingangs erwähnten Autoantikörpern, die mit dem Sjögren-Syndrom
+assoziiert sind (siehe Abb.1) erlangten in letzter Zeit anti-α-Fodrin
+Autoantikörper eine besondere Bedeutung.
+Hanji und Mitarbeiter [27] identifizierten 1997 ein Spaltprodukt das 120-kDa αFodrin (ein Zytoskelettprotein) als Autoantigen des Sjögren-Syndroms. Sie
+postulierten, dass das Vorhandensein der Anti-α-Fodrin-Antikörper (IgA und
+IgG) für die Diagnose des Sjögren-Syndrom sehr spezifisch und sehr sensitiv
+(96%) ist.
+
+Seite | 16
+
+Einleitung
+Watanabe et al. [28] bestätigten den Nachweis dieser Antikörper auch in
+einigen Seren Ihrer Patienten mit Sjögren-Syndrom. Ihre Resultate ermutigten
+zu der Annahme, dass sich die α-Fodrin-Antikörper als neue serologische
+Marker zur Diagnostik des Sjögren-Syndroms neben den klassischen AntiSS-A (Ro)- und Anti-SS-A (La)-Antikörpern anbieten.
+Später wurde ein ELISA für die Detektion der α-Fodrin Antikörper etabliert.
+IgA-Antikörper gegen α-Fodrin konnten bei 64% und IgG-Antikörper gegen
+α-Fodrin bei 55% der Patienten mit primärem SS festgestellt werden. Im
+Gegensatz dazu wurden bei den Kontrollen nur einer bzw. drei von 160
+Blutspendern mit Antikörpern gegen α-Fodrin gefunden. Ähnlich verhielt es
+sich mit dem sekundären SS. Hier wurden Patienten untersucht, bei denen
+SLE oder Rheumatoide Arthritis (RA)
+
+als Grundkrankheit vorlagen. Bei
+
+diesen Patienten wurden signifikant mehr IgA- und IgG-Antikörper gegen αFodrin gefunden, als bei denen mit SLE oder RA ohne Sicca -Symptomatik
+[29]. Als sensitiven Marker hat auch die Gruppe um Lawind Antikörper gegen
+α -Fodrin beschrieben. In diesen Studien fanden sich sowohl bei Jugendlichen
+mit SS als auch bei Erwachsenen erhöhte Prävalenzen der α-FodrinAntikörper (45% bis 81%) [30].
+
+Alpha-Fodrin ist ein an das Zytoskelett assoziiertes Protein, welches im Test
+in humaner, rekombinant hergestellter Form eingesetzt wird. Alpha-Fodrin ist
+ein 240-kDa Protein, das mit β-Spektrinen Komplexe bildet [31]. Ursprünglich
+wurde es in Nervenzellen identifiziert [32], es kommt aber in fast allen
+Körperzellen vor. Durch Apoptose kann die Proteolyse von α-Fodrin induziert
+werden [33], wobei es von der Caspase 3 in zwei Fragmente von 150 und 120
+kDa gespalten wird [34]. Auch im Mausmodell des Sjögren-Syndroms konnten
+Antikörper gegen Fodrin-Spaltprodukte nachgewiesen werden. Außerdem
+führte eine Injektion von Fodrin-Spaltprodukten bei gesunden Mäusen binnen
+kurzer Zeit zu einem Sjögren-Syndrom. Somit scheint die Spaltung von
+α-Fodrin durch Apoptose ein Hauptstimulus bei der Induktion des SjögrenSyndroms zu sein [35].
+
+Seite | 17
+
+Einleitung
+Studienergebnisse weisen darauf hin, dass die nachweisbare Konzentration
+von Fodrin-Antikörpern ein Maß der entzündlichen Aktivität des SjögrenSyndroms
+
+sein
+
+könnte,
+
+da
+
+nach
+
+Glukokortikoidbehandlung
+
+deutlich
+
+rückläufige Werte beobachtet werden konnten.
+Die in vivo-Rolle des α-Fodrin (AFN) bei primärem Sjögren-Syndrom wurde
+von Miyazaki et al. [36] beleuchtet. Demnach wirkt AFN proliferativ auf Th-1Zellen.
+
+Im Zusammenhang mit Antikörpern gegen -α-Fodrin als Diagnoseparameter
+wurde 2004 die Prävalenz von anti-α-Fodrin bei Patienten, die nach
+verschiedenen Kriterien klassifiziert worden waren, untersucht.
+Im Serum von Patienten, die nach den europäischen ESG-Kriterien
+diagnostiziert wurden, findet man zu 73 % IgA- und/oder IgG-Antikörper
+gegen α-Fodrin. Dagegen wurden sogar bei 93 % der Patienten, die nach den
+spezifischeren San Diego-Kriterien klassifiziert worden waren, Antikörper
+nachgewiesen [36].
+Außerdem werden α-Fodrin-Antikörper bei Patienten mit Sjögren-Syndrom
+und neurologischer Symptomatik deutlich häufiger nachgewiesen als SSA(Anti-Ro)/SSB- (Anti-La) Antikörper, die meistens zur Diagnostik des SS
+verwendet werden [37].
+In anderen Studien wird allerdings sowohl die Spezifität als auch die
+Sensitivität von α-Fodrin-Antikörpern in Frage gestellt [38,39,40,41].
+
+1.3 Das Humane Immundefizienz Virus
+
+Im Jahre 1981 erschienen die ersten Berichte über eine ungewöhnliche
+Häufung seltener und tödlich verlaufender Erkrankungen bei zuvor gesunden
+homosexuellen Männern (Centers for Disease Control ) [CDC] 1981a, 1981b,
+1981c). In den darauf folgenden Monaten wurde als Ursache eine erworbene
+Immunschwäche erkannt.
+Der älteste, anhand von Blutproben gesicherte Nachweis einer HIV-Infektion
+stammt aus Zaire aus dem Jahr 1959 [42].
+1983 isolierten die Gruppen um Gallo [43] und Montagnier [44] ein Virus als
+ätiologisches Agens für das Acquired Immunodeficiency Syndrome (AIDS).
+Seite | 18
+
+Einleitung
+Kurz darauf wurde die kausale Beziehung zwischen dem neuen Virus und
+AIDS aufgedeckt. Weitere 2 Jahre später war der erste ELISA-Test zum
+Nachweis des HI-Virus erhältlich (CDC 1984a).
+
+Die Verbreitung von HIV hat sich in den letzten 25 Jahren zu einer Pandemie
+entwickelt, an der nach Schätzung der Organisation UNAIDS bisher etwa 25
+Millionen Menschen gestorben sind. Weltweit sind ca. 40 Millionen Menschen
+infiziert und 2006 gab es über 4 Millionen Neudiagnosen [45,46].
+In Deutschland lebten 2006 rund 56.000 Menschen mit HIV, darunter etwa
+47.000 Männer, rund 8500 Frauen und rund 400 Kinder. Bei 8700 Personen
+war AIDS bereits ausgebrochen [47].
+
+Im Mai 2005 gelang einem internationalen Forscherteam erstmals der
+Nachweis, dass der Ursprung von HIV beim Affen liegt. Das Forscherteam
+nahm dazu in der Wildnis des zentralafrikanischen Kamerun 446 Kotproben
+freilebender Schimpansen. Etliche Proben wiesen Antikörper gegen SIV
+(Simian Immunodeficiency Virus) auf, die Schimpansenversion des HI-Virus.
+Zwölf Proben waren fast identisch mit dem HIV-1 bei Menschen.
+
+Die
+
+ursprüngliche Quelle des HI-Virus sind die Schimpansen jedoch nicht. Sie
+sollen sich im westlichen Zentralafrika mit SIV oder einem Vorläufer des
+Viruses bei anderen Affenarten infiziert haben. Etwa in der Mitte des 20.
+Jahrhundert
+
+infizierten
+
+sich
+
+erstmals
+
+Menschen
+
+mit
+
+dem
+
+SIV,
+
+der
+
+anschließend in ihnen zum AIDS verursachenden HIV mutierte. Damit hat der
+AIDS-Erreger bereits mindestens zweimal die Artengrenze übersprungen,
+nämlich vom Affen zum Menschenaffen und anschließend zum Menschen.
+Wie das Virus auf den Menschen übertragen wurde, ist unklar. Man geht
+davon aus, dass Jäger, die Affen gejagt und verspeist haben, mit dem Virus
+erstmals infiziert wurden.
+Eine andere These lautet, dass der Impfstoff für eine Polioimpfung im Jahre
+1959 durch Affen, die das Virus trugen, verunreinigt wurde. Danach wurden
+im ehemaligen Belgischen-Kongo Schimpansennieren zur Vermehrung des
+Impfstoffes verwendet und anschließend hunderttausende Menschen durch
+eine Schluckimpfung geimpft, wodurch SIV auf den Menschen übertragen
+wurde und zum HIV mutierte [48].
+Seite | 19
+
+Einleitung
+Allerdings zeigte eine Analyse der Mutationen, dass mit 95-prozentiger
+Wahrscheinlichkeit der Ursprung des Stammes HIV-1 vor dem Jahr 1930 zu
+datieren ist [49]. Im Februar 2000 wurde eine Probe der verteilten
+Schluckimpfungen gefunden und untersucht. Dabei zeigten sich weder
+Spuren von HIV noch von SIV [50].
+
+Das Humane Immundefizienz-Virus ist ein Virus, das zu der Familie der
+Retroviren und zur Gattung der Lentiviren gehört. HIV gehört zu den
+komplexeren Retroviren, die neben den kanionischen retroviralen Genen gag,
+und env weitere regulatorische und akzessorische Leseraster besitzen,
+namentlich bei HIV-1 tat, rev, vif, vpu, vpr und nef. Das Viruspartikel hat einen
+Durchmesser von etwa 100-120 nm und ist von einer Lipoproteinhülle
+umgeben. Eingebettet in diese Hülle sind 72 etwa 10 nm große envGlykoproteinkomplexe,
+
+die
+
+aus einem
+
+Transmembranprotein
+
+(gp
+
+41)
+
+bestehen [51]. Gp 120 ist für die Bindung des Virus an die CD4-Rezeptoren
+der Zielzellen von entscheidender Bedeutung.
+Da die Hülle des HI-Virus aus der Membran der Wirtszelle entsteht, befinden
+sich in ihr ebenfalls verschiedene Proteine der Wirtszelle, zum Beispiel HLA
+Klasse I- und II-Moleküle.
+Mit der Innenseite der Membran sind die durch gag kodierten Matrixproteine
+assoziiert. Im Inneren des Virions ist das Viruskapsid (oder core) lokalisiert,
+dieses ist aus gag kodierten Kapsidproteinen aufgebaut. Im Kapsid findet sich
+das virale Genom (9,2 kb) in Form zweier Kopien einzelsträngiger RNA in
+Plusstrangorientierung. Ebenso sind im Kapsid die Enzyme Reverse
+Transkriptase (RT), Integrase und Protease sowie einige der akzessorischen
+Proteine angeordnet.
+
+Es sind bisher zwei verschiedene Arten von HI-Viren bekannt, die als HIV-1
+und HIV-2 bezeichnet werden. Die Homologie zwischen HIV-1 und HIV-2
+beträgt auf Aminosäuresequenzebene 45-50%. Sie können in Subtypen
+unterteilt
+
+werden,
+
+die
+
+teilweise
+
+in
+
+unterschiedlicher
+
+Häufigkeit
+
+in
+
+verschiedenen Regionen der Welt auftreten. In Mitteleuropa ist zum Beispiel
+HIV-1B
+
+am
+
+häufigsten,
+
+besonders
+
+unter
+
+Homosexuellen
+
+und
+
+Drogenabhängigen. HIV-1, das insgesamt häufiger ist, und HIV- 2 ähneln sich
+Seite | 20
+
+Einleitung
+prinzipiell hinsichtlich des klinischen Infektionslauf und der krankmachenden
+Eigenschaften, auch wenn die Infektion mit HIV-2 wohl insgesamt langsamer
+verläuft. Die beiden Stämme sehen unter dem Elektronenmikroskop gleich
+aus, unterscheiden sich jedoch in der molaren Masse der Proteine und in der
+Anordnung und Nukleotidsequenz der Gene. HIV-1 und HIV-2 entstanden
+aus unterschiedlichen Typen der bei bestimmten Affenarten vorkommenden
+SI-Viren. Von HIV-1 gibt es drei Untergruppen, die mit M, O und N bezeichnet
+werden. M steht für "major group" und ist am häufigsten, die O-Gruppe wurde
+nach "outlier" ( Sonderfall ) benannt und das N der N-Gruppe steht für new. In
+die Gruppe M von HIV-1 fallen mehr als 90% aller HIV-Infektionen, und diese
+Gruppe wird wiederum in Subtypen unterteilt, die mit A-K bezeichnet werden.
+Die häufigsten sind die Subtypen B (in Nordamerika und Europa), A und D (in
+Afrika) und C (hauptsächlich in Afrika und Asien). Eine Koinfektion mit
+verschiedenen Subtypen kann dazu führen, dass rekombinante Formen
+entstehen, die "circulating recombinant forms" genannt werden.
+Die Klassifikation der HIV-Stämme ist entsprechend komplex und nicht
+abgeschlossen.
+
+Das HI-Virus wird durch Kontakt mit den Körperflüssigkeiten Blut, Sperma
+(auch
+
+Präejakulat),
+
+Vaginalsekret,
+
+sowie
+
+Liquor
+
+cerebrospinalis
+
+und
+
+Muttermilch übertragen. Potentielle Eintrittspforten sind frische, noch blutende
+Wunden und Schleimhäute (Bindehaut, Mund-, Nasen-, Vaginal- und
+Analschleimhaut) bzw. nicht ausreichend verhornte, leicht verletzliche Stellen
+der Außenhaut (Eichel, Innenseite der Vorhaut, Anus). Die häufigsten
+Infektionswege sind der Vaginalverkehr oder Analverkehr ohne Verwendung
+von Kondomen und die Benutzung unsteriler Spritzen beim intravenösen
+Drogenkonsum. Oralverkehr gilt nach jüngsten Studien als weniger infektiös.
+Die Ausprägung des Risikos beim Geschlechtsverkehr hängt vor allem von
+der Viruskonzentration in der Samenflüssigkeit, im Scheidensekret und der
+Viruslast im Blut ab. Diese ist unmittelbar nach der Infektion, bevor sich
+ausreichend Antikörper gebildet haben, besonders hoch, nimmt dann aber
+zunächst ab und steigt in späten Stadien der Erkrankung wieder an [52].
+Bluttransfusionen sind ebenfalls eine mögliche Infektionsquelle, die allerdings
+heute in Deutschland durch die 1985 eingeführte Routineuntersuchung der
+Seite | 21
+
+Einleitung
+Blutspender kaum noch eine Bedeutung hat. Da zwischen der Ansteckung
+des Spenders und der Nachweisbarkeit von Antikörpern gegen HIV im HIVTest bis zu drei Monate verstreichen können, werden alle Blutspenden auf die
+Anwesenheit des HI-Virus mittels PCR getestet, um diese diagnostische
+Lücke zu schließen.
+Das Risiko einer Infektion eines Kindes durch eine HIV-infizierte Mutter
+während der Schwangerschaft oder während der Geburt wird ohne
+Behandlung auf 15-30% geschätzt. Bei bekannter HIV-Infektion der Mutter
+kann das Risiko durch die Gabe antiretroviraler Medikamente und die Geburt
+durch Kaiserschnitt auf etwa zwei Prozent vermindert werden. Eine
+Übertragung des Virus beim Stillen ist ebenfalls möglich.
+Das Risiko, sich durch Küsse anzustecken, kann ausgeschlossen werden,
+sofern keine blutenden Wunden, so beispielswiese Verletzungen des
+Zahnfleisches, im Mund vorhanden sind. Die HIV-Konzentration in Tränen,
+Schweiß
+
+und
+
+Speichel
+
+reicht
+
+für
+
+eine
+
+Ansteckung
+
+nach
+
+heutigem
+
+Erkenntnisstand ebenfalls nicht aus. Außerdem lässt die AIDS-Epidemiologie
+eine Infektion durch Insektenstiche äußerst unwahrscheinlich erscheinen.
+An Menschen, die einer akuten Ansteckungsgefahr ausgesetzt waren, kann
+gegebenenfalls eine postexpositionelle Prophylaxe (PEP) durchgeführt
+werden. Nach Ablauf von 48 bzw. 72 Stunden wird eine PEP nicht mehr als
+sinnvoll erachtet.
+
+1.3.1. HIV-Tests
+
+Ein HIV-Test darf nur mit ausdrücklicher Zustimmung des Betroffenen
+durchgeführt werden, eine Testung ohne das Wissen des Patienten ist
+rechtlich unzulässig und kann dementsprechend geahndet werden. In
+Deutschland muss ein positiver HIV-Test gemäß Infektionsschutzgesetz in
+anonymisierter Form an das Robert-Koch Institut in Berlin gemeldet werden.
+HIV-Tests
+
+unterscheiden
+
+sich
+
+in
+
+Suchtests
+
+(z.B.
+
+ELISA)
+
+und
+
+Bestätigungstests (Western-Blot). Wird eine Person im Suchtest positiv
+getestet, so ist in vielen Ländern (Deutschland, USA) ein Bestätigungstest
+vorgeschrieben.
+
+Seite | 22
+
+Einleitung
+Der Enzyme-linked Immunosorbent Assay (ELISA) ist das gängigste
+Nachweisverfahren für HIV im menschlichen Blut. Er besitzt eine Sensitivität
+von nahezu 100% und eine Spezifität von mindestens 99,5%.
+Der klassische ELISA weist nicht das Virus selbst, sondern Antikörper gegen
+HIV-1 und HIV-2 nach, die der Körper im Rahmen einer Immunantwort gegen
+das Virus produziert. Seit 1999 können neuere ELISA-Tests noch zusätzlich
+einen Bestandteil der Virushülle von HIV-1 nachweisen, das p24-Antigen.
+
+Der Western-Blot weist ausschließlich Antikörper im Blut nach. Im Gegensatz
+zum ELISA werden hier jedoch mehrere Arten von Antikörpern nachgewiesen,
+die speziell gegen einzelne Proteinbestandteile des Virus gerichtet sind.
+Der Test mittels Polymerasekettenreaktion (PCR) hat von allen Testverfahren
+die kürzeste diagnostische Lücke von nur 10-15 Tagen. Hier werden Teile des
+Virus selbst über dessen Erbgut in Form von Bruchstücken der RNA
+nachgewiesen.
+2002 wurde der erste HIV-Schnelltest von der Food and Drug Administration
+in den USA zugelassen [53]. In der Regel messen sie Antikörper gegen HIV-1
+und HIV-2 aus dem Blut einer Testperson und besitzen daher eine
+diagnostische Lücke von bis zu zwölf Wochen.
+
+Mittlerweile ist es außerdem möglich, mit der genotypischen- und der
+phänotypischen- Resistenzbestimmung zu testen, ob HI-Virus im Blut von
+Patienten bereits Resistenzen gegen antiretrovirale Medikamente entwickelt
+hat [54].
+
+1.3.2.Vermehrung des Virus im Körper
+
+Zur Vermehrung benötigt das Virus Wirtszellen, die den CD4-Rezeptor auf
+der Oberfläche tragen. Hierzu zählen vor allem die CD4-positiven
+T-Helferzellen, die eine wichtige Rolle sowohl in der zellulären als auch in der
+humoralen Immunabwehr spielen und unter anderem die Antikörperbildung
+unterstützen. Neben den CD4-Rezeptoren sind weiter Co-Rezeptoren für die
+Bindung des HI-Virus an der Zelle verantwortlich [55]. Der ChemokinRezeptor CCR5 auf monozytären Zellen und CXCR4-Rezeptoren auf T-Zellen
+Seite | 23
+
+Einleitung
+sind an der Bindung beteiligt [56,57]. Die unterschiedliche Ausprägung dieser
+Rezeptoren
+
+beeinflusst
+
+den
+
+Verlauf
+
+der
+
+HIV-Infektion
+
+und
+
+die
+
+Ansteckungswahrscheinlichkeit [58].
+
+Das HI-Virus baut zur Vermehrung ein RNA-Genom nach der reversen
+Transkription in doppelsträngige DNA in das Genom der Wirtszelle ein.
+Nach reverser Transkription und Transport in den Zellkern schließt sich die
+Integration des Virus-Genoms in das menschliche Erbgut durch ein weiteres
+virales Enzym, die Integrase, an. In neueren Arbeiten wurde gezeigt, dass die
+virale DNA schon vor der Integration abgelesen wird und virale Proteine
+gebildet werden. Demnach liegt die HIV-DNA als integrierte und nichtintegrierte Form vor. Auch existieren zirkuläre Formen von HIV-DNA.
+Im weiteren Verlauf folgt die Morphogenese, das heißt, über verschiedene
+Interaktionen finden die viralen Bestandteile sowie die RNA zusammen und
+formen sich zunächst zu unreifen Virionen, die sich von der Plasmamembran
+abschnüren. Durch weitere Reifungsprozesse entsteht das reife Viruspartikel,
+bereit für die Infektion der nächsten Zelle. Das Virus in infizierten und
+ruhenden CD4-positiven T-Zellen entzieht sich dem Angriff seitens antiviraler
+Medikamente
+
+und
+
+des
+
+Immunsystems.
+
+Zu
+
+einer
+
+Aktivierung
+
+dieser
+
+Immunzellen kommt es nach Antigenkontakt, zum Beispiel im Rahmen
+gewöhnlicher oder opportunistischer Infektionen. Während die Zelle gegen
+einen anderen Krankheitserreger vorgehen will, beginnt sie, Virusproteine zu
+produzieren und neue Viren freizusetzen. Diese infizieren dann wiederum
+andere Zellen.
+
+1.3.3. Verlauf der HIV-Infektion
+
+Eine unbehandelte HIV-Infektion verläuft in der Regel in mehreren Stadien
+(siehe Abbildung 2). Drei bis sechs Wochen nach der Ansteckung kommt es
+meist zu Symptomen einer akuten Infektion [59]. Diese ist meist durch Fieber,
+Hautausschläge, orale Ulzerationen und Arthralgien gekennzeichnet. Wegen
+der Ähnlichkeit mit grippalen Infektionen bleibt die akute HIV-Infektion meist
+unerkannt. Eine frühe Diagnose ist jedoch wichtig. Durch sie können weitere
+Infektionen von Sexualpartnern verhindert werden. Erste Studien an Patienten,
+Seite | 24
+
+Einleitung
+die während der akuten HIV-Infektion antiviral behandelt wurden und nach
+einiger Zeit die Therapie absetzten, zeigten, dass die HIV-spezifische
+Immunantwort gestärkt wurde [60].
+In der folgenden mehrjährigen Latenzphase treten keine gravierenden
+körperlichen Symptome auf. Veränderte Blutwerte und eine schleichende
+Lipodystrophie bleiben von HIV-Infizierten oftmals unbemerkt. Danach kommt
+es vielfach zu ersten Erkrankungen, die auf ein mittelschwer geschwächtes
+Immunsystem zurückzuführen sind, jedoch noch nicht als AIDS-definierend
+gelten.
+Im Verlauf einer HIV-Infektion werden unter anderem die CD4+-T-Helferzellen
+kontinuierlich zerstört, was zu einer Schwächung des Immunsystems führt.
+Die Zellzerstörung geschieht auf verschiedenen Wegen. Zum einen können
+infizierte Wirtszellen auf direktem Wege zerstört werden. Dies geschieht
+entweder durch auftretende Membranschäden an der Zelle, die durch
+Ein-/Austritte der Viren verursacht werden, oder durch gesunde Zellen des
+Immunsystems als gefährlich erkannt und von ihnen zerstört werden. Im
+Anschluss an eine akute HIV-Infektion, nach erfolgter virusspezifischer
+Immunantwort, ist der Körper in der Regel in der Lage, über einige Jahre die
+Menge der zerstörten Zellen durch Produktion neuer Zellen zum größten Teil
+zu ersetzen.
+Im Median acht bis zehn Jahre nach der Erstinfektion kommt es zu einem
+schweren Immundefekt (< 200 CD4-Zellen/Mikroliter). Dieser führt in der
+Regel
+
+zu
+
+AIDS-definierenden
+
+Erkrankungen.
+
+Zu
+
+diesen
+
+zählen
+
+opportunistische Infektionen, die durch Viren, Bakterien, Pilze oder Parasiten
+bedingt sind, sowie andere Erkrankungen, wie Kaposi-Sarkom, malignes
+Lymphom, HIV-Enzephalopathie und das Wasting-Syndrom.
+
+Seite | 25
+
+Einleitung
+
+(Abbildung 2) Verlauf einer HIV-Infektion/AIDS (Lymphozytenzahl, Viruslast)
+
+1.3.4. AIDS
+
+Das AIDS (Acquired immune Deficiency Syndrome) bezeichnet eine
+Kombination von Symptomen, die beim Menschen in Folge der durch
+Infektion mit dem HI-Virus induzierten Zerstörung des Immunsystems
+auftreten [61].
+Diese Symptome bestehen aus Sekundärinfektionen und Tumoren. HIVErkrankungen werden nach der CDC-Klassifikation eingeteilt, die von den USamerikanischen Centers for Disease Control and Prevention erstellt und
+zuletzt 1993 überarbeitet wurden.
+Die Einteilung basiert auf drei verschiedenen Kategorien, die sich aus dem
+klinischen Bild ergeben (A-C) und der Einteilung des CD4-T-Helferzellstatus
+(1-3) [62].
+Kategorie A bezeichnet eine asymptomatische HIV-Infektion. Unter Kategorie
+B werden Krankheiten zusammengefasst, die nicht als AIDS definierend
+gelten, aber im Zusammenhang mit einem Immundefizit zu stehen scheinen.
+Kategorie C umfasst die AIDS-definierenden Erkrankungen. Es handelt sich
+meist um opportunistische oder maligne Erkrankungen, die bei einem
+gesunden Immunsystem nicht oder nicht in der beschriebenen Weise
+auftreten.
+
+Seite | 26
+
+Einleitung
+Die CDC-Klassifikation der Laborkriterien beschreibt die noch vorhandene
+Anzahl von CD4-Zellen. Kategorie 1 entspricht mindestens 500 CD4 -Zellen/µl,
+Kategorie 2 200-499 und Kategorie 3 unter 200 CD4- Zellen/µl.
+
+1.3.5.Therapie der HIV-Infektion
+
+Durch eine antiretrovirale Therapie (ART), das heißt, die Einnahme von HIVunterdrückenden Medikamenten, und Behandlung von Sekundärinfektionen
+kann der Krankheitsverlauf verlangsamt werden. Da das Virus schnell
+Resistenzen gegenüber einzelnen Medikamenten entwickelt, hat sich die
+Therapie durch gleichzeitige Einnahme mehrerer Medikamente durchgesetzt,
+die so genannte „ Highly Active Antiretroviral Treatment“ (HAART)
+Die antiretrovirale Therapie kann die Lebenserwartung HIV-Infizierter deutlich
+verlängern, jedoch keine vollständige Eradikation des Virus und damit keine
+Heilung
+
+bewirken.
+
+Zudem
+
+können
+
+schwerwiegende
+
+Nebenwirkungen
+
+auftreten.
+Eine einmal begonne ART sollte nicht mehr abgesetzt werden, um
+Resistenzbildung zu verhindern. Aus demselben Grund ist eine regelmäßige
+Tabletteneinnahme unumgänglich.
+Zum besten Startzeitpunkt einer HAART gibt es keinen Konsens, da die
+Gefahr an AIDS zu erkranken, gegen die Risiken einer Langzeittoxizität und
+Resistenzbildung abgewägt werden müssen. Die Deutsch-Österreichische
+Empfehlung zum Therapiebeginn berücksichtig drei Faktoren: das klinische
+Bild des Patienten, seinen CD4-Wert und die Viruslast.
+Als virologischer Therapierfolg gilt gemeinhin eine Viruslast unter der
+Nachweisgrenze von 50 Kopien/ml. Dem liegt die Erfahrung zugrunde, dass
+eine Therapie umso dauerhafter wirkt, je schneller und vor allem je tiefer die
+Viruslast abfällt (Kempf 1998, Powderly 1999).
+
+Zurzeit
+
+werden
+
+Nukleotidanaloga
+Inhibitoren
+
+drei
+
+Wirkstoffklassen
+
+(NRTI),
+
+(NNRTI)
+
+und
+
+angewandt:
+
+Nichtnukleosidische
+Protease-Inhibitoren
+
+Nukleosid-
+
+und
+
+Reverse-Transkriptase(PI).
+
+Eine
+
+weitere
+
+Wirkstoffklasse stellen Fusionsinhibitoren wie die Substanz T-20 dar. Um mit
+Seite | 27
+
+Einleitung
+der Zellmembran der Wirtszelle verschmelzen zu können, binden die
+Oberflächenproteine gp120 an die CD4-Rezeptoren. Durch die Bindung
+kommt es zu einer Konformationsänderung im Transmembranprotein gp41.
+Der
+
+neu
+
+entwickelte
+
+Wirkstoff
+
+T-20
+
+ist
+
+ein
+
+Peptid,
+
+das
+
+die
+
+Konformationsänderung blockiert und somit die Anheftung des Virus
+erschwert.
+Seine außergewöhnliche Überlebensfähigkeit verdankt das HI-Virus seiner
+Wandlungsfähigkeit bzw. seiner schnellen Evolutionsrate. Von den InfluenzaViren zum Beispiel entwickeln sich in derselben Zeit auf der ganzen Welt nicht
+einmal halb so viele neue Unterarten wie vom HI-Virus in einem einzelnen
+infizierten Menschen. Die lange Inkubationszeit ist ein Problem, da viel
+Infizierte unter Umständen noch jahrelang andere Personen infizieren, bevor
+ihre Infektion erkannt und von ihnen selbst bemerkt wird.
+
+1.4. Das Diffus-Infiltrative-Lymphozytose-Syndrom (DILS)
+
+DILS ist ein seltenes, dem Sjögren-Syndrom ähnliches Krankheitsbild bei
+HIV-infizierten Kindern und Erwachsenen, das in jedem Stadium der HIVErkrankung auftreten
+
+kann (unabhängig von der CD4-Zellzahl). Die
+
+tatsächliche Häufigkeit von DILS ist nicht sicher bekannt.
+
+Eine ausgeprägte Infiltration mit lymphozytären Zellen der exokrinen Drüsen
+führt
+
+zu
+
+einer
+
+Xerophthalmie,
+
+Xerostomie
+
+mit
+
+möglichen
+
+massiven
+
+Schwellungen der Speicheldrüsen (Parotiden).
+Extraglanduläre Beteiligung bei DILS sind die
+
+lymphozytäre interstitielle
+
+Pneumonie, lymphozytäre Hepatitis, Gastritis, Nephritis, Splenomegalie,
+Lymphadenopathie und symmetrische Polyneuropathie [63].
+
+DILS-Neuropathien repräsentieren eine gesonderte Gruppe der HIVassoziierten Neuropathien. Das Krankheitsbild darf nicht mit einem T-ZellLymphom am peripheren Nerv verwechselt werden. Selten erfolgt eine diffuse
+Infiltration der Haut unter dem Bild eines Sezary-Syndroms [64].
+
+Seite | 28
+
+Einleitung
+Die Prävalenz des DILS liegt bei HIV-Infizierten in der westafrikanischen
+Bevölkerung höher als in der weißen amerikanischen, europäischen und afroamerikanischen Bevölkerung.
+Diese Diskrepanz mag auf den Einfluss unterschiedlicher Selektionskriterien
+bei der Patientenauswahl, durch Medikamente und durch Parasiten, die die
+Speicheldrüsen befallen, zurückzuführen zu sein [65].
+Das Sjögren-Syndrom bei HIV-Infizierten oder DILS unterscheidet sich von
+der idiopathischen Form in folgenden Kriterien:
+
+
+männliches Geschlecht bevorzugt (wahrscheinlich durch Vorherrschaft
+der HIV-Infektion bei Männern in den USA)
+
+
+
+massive Schwellung der Parotiden
+
+
+
+keine Arthritiden
+
+
+
+weniger
+
+Xerophthalmie
+
+und
+
+vermehrte
+
+extrasalivatorische
+
+Lymphinfiltration insbesondere der Lunge, des Magen-Darm-Traktes,
+des Nervensystems und der retikuloendothelialen Organe
+
+
+Ergebnisse serologischer Untersuchungen negativ (zytoplasmatische
+Antikörper und Ro- und La-Antikörper)
+
+
+
+erhöhte Zahl der CD8+ T-Zellen im Blut und Gewebe
+
+
+
+keine Assoziation mit HLA-DR2- oder –DR3
+
+Ätiologisch scheinen bei afro-amerikanischen Patienten HLA-DR5 [66] und
+bei Erkrankten aus dem kaukasischen Raum HLA-DR6 und HLA-DR7 [67] für
+ein DILS zu prädisponieren.
+
+Auf zellulärer Ebene unterscheidet sich DILS von dem klassischen SjögrenSyndrom durch die Infiltration von CD8+ Lymphozyten intra- und besonders
+auch extraglandulär. Das Ausmaß der CD8+ Zellinfiltration in der Lunge und
+in der Parotis korreliert mit der zirkulierenden CD8+ Zellzahl.
+CD8+ und CD29+ Lymphozyten hemmen in vitro die Replikation des Simian
+Immunodefiziens Virus (SIV) [68,69].
+Wahrscheinlich unterdrücken deshalb bei DILS-Patienten zirkulierende CD8+
+Zellen die Replikation des HIV [70].
+
+Seite | 29
+
+Einleitung
+Die Therapie unterscheidet sich nicht grundsätzlich von HIV-Erkrankten ohne
+DILS, es werden auch die gleichen symptomatischen Therapieregime wie
+beim nicht HIV-assoziiertem Sjögren-Syndrom angewandt.
+
+1.5. Zielsetzung
+
+Die Zielsetzung der vorliegenden Arbeit ist:
+1. bei HIV-Patienten die Prävalenz des Sicca-Syndroms bzw. DILS
+
+zu
+
+bestimmen,
+2. die Assoziation diagnostischer Marker, insbesondere der Antikörper gegen
+α-Fodrin, mit dem Sicca-Syndrom bei HIV-Patienten zu untersuchen.
+
+Seite | 30
+
+Material und Methoden
+
+2 Material und Methoden
+2.1. Patienten
+Untersucht wurden 196 Patienten aus der HIV-Ambulanz der Medizinischen
+Hochschule Hannover, Klinik für Immunologie und Rheumatologie (Leitung:
+Prof. Dr. Reinhold E. Schmidt). Die Studie war von der Ethikkommission der
+MHH bewilligt worden (Ethik-Nr. 3942). Alle Patienten gaben ihr schriftliches
+Einverständnis zur Studienteilnahme.
+Das Kollektiv bestand aus Patienten mit einer eindeutigen Diagnose der HIVInfektion in unterschiedlichen Stadien der Erkrankung (Center of Disease
+Control, CDC-Stadien: siehe Abbildung 3).
+
+C2; 5 B1; 2
+A1; 12
+C3; 54
+
+B2; 16
+A3; 17
+
+B3; 20
+A2; 31
+
+Abbildung 3
+157 Patienten ließen sich nach CDC-Kriterien klassifizieren (Auswertung der
+Krankenakten).
+Auflistung nach Häufigkeit: C3= 54 Patienten, A2= 31 Patienten, B3= 20
+Patienten, A3= 17 Patienten, B2= 16 Patienten; A1= 12 Patienten, C2= 5
+Patienten; B1= 2 Patienten
+
+Seite | 31
+
+Material und Methoden
+142 Patienten wurden mit einer HAART behandelt, das entspricht 72,4%.
+Die Altersspanne der 33 weiblichen und 163 männlichen Personen lag
+zwischen 24-73 Jahren. Das Durchschnittsalter betrug 44 Jahre.
+Keiner
+
+der
+
+Patienten
+
+erhielt
+
+zum
+
+Untersuchungszeitpunkt
+
+eine
+
+Glukokortikoidtherapie. Ein Sjögren-Syndrom bzw. ein diffus-infiltrativesLymphozytose-Syndrom (DILS) war bei keinem Patienten zum Studienbeginn
+bekannt.
+
+2.2. Patienten-Untersuchungen
+
+2.2.1 Fragebogen
+
+Jeder Proband beantwortete nach ausführlicher Erläuterung der Studie einen
+Fragebogen. Dieser bestand aus 14 Fragen zur Assoziation des SiccaSyndroms (Mund- und Augentrockenheit) mit Atemwegsinfekten.
+
+Patientenbefragung
+Der Abteilung Immunologie der Medizinischen Hochschule Hannover
+Assoziation
+
+des
+
+Sicca-Syndroms
+
+(Mund–
+
+und
+
+Augentrockenheit)
+
+mit
+
+Atemwegsinfekten und Antikörpern gegen α-Fodrin
+1. Initialen
+
+2. Alter
+
+3. Geschlecht
+
+4. Bemerken Sie seit mindestens 3 Monaten ein ständiges Augenbrennen?
+
+5. Haben sie seit mindestens 3 Monaten ein ständiges Durstgefühl?
+
+6. Hatten Sie im letzten Jahr eine Bindehautentzündung?
+
+Seite | 32
+
+Material und Methoden
+7. Wieviele Infekte der Atemwege mit Temperatur über 38,5°C sind bei Ihnen in den letzten
+zwei Jahren aufgetreten?
+o
+
+keine
+
+o
+
+weniger als 2
+
+o
+
+2
+
+o
+
+2-4
+
+o
+
+mehr als 4
+
+8. Wieviele
+
+Atemwegsinfekte
+
+ohne
+
+Fieber
+
+(z.
+
+B
+
+Schnupfen,
+
+Bronchitis,
+
+Nasennebenhöhlenentzündungen) sind bei Ihnen in den letzten zwei Jahren pro Jahr
+aufgetreten?
+o
+
+keine
+
+o
+
+weniger als 2
+
+o
+
+2
+
+o
+
+2-4
+
+o
+
+mehr als 4
+
+9. Wieviele
+
+Antibiotikatherapien
+
+wurden
+
+bei
+
+Ihnen
+
+in
+
+den
+
+letzten
+
+zwei
+
+Jahren
+
+durchschnittlich pro Jahr durchgeführt?
+o
+
+keine
+
+o
+
+weniger als 2
+
+o
+
+2
+
+o
+
+2-4
+
+o
+
+mehr als 4
+
+10. Wie viele Tage konnten Sie in den letzten zwei Jahren durchschnittlich pro Jahr aufgrund
+von Atemwegsinfekten nicht arbeiten? ____ Tage pro Jahr
+
+11. Haben Sie oder Ihr Zahnarzt festgestellt, dass ihre Zähne sehr durch Karies belastet
+sind?
+Karies ist
+o
+
+nicht
+
+o
+
+kaum
+
+o
+
+mäßig
+
+o
+
+stark
+
+o
+
+sehr stark
+
+o ausgeprägt.
+
+Seite | 33
+
+Material und Methoden
+12. Wieviele Kronen, Füllungen und Zahnwurzelbehandlungen sind bei Ihnen innerhalb der
+letzten 2 Jahre durchgeführt worden?
+o
+
+keine
+
+o
+
+weniger als 2
+
+o
+
+2
+
+o
+
+2-4
+
+o
+
+mehr als 4
+
+13. Sind Sie jemals an den Nasennebenhöhlen operiert worden?
+o
+
+ja
+
+o
+
+nein
+Wenn ja: a) Wann war das? Jahr_____
+b) Hat es eine Besserung gebracht?
+
+o
+
+o
+
+Ja, ich leide nur noch unter
+
+o
+
+weniger als 2
+
+o
+
+2
+
+o
+
+2-4 schwere Infekte pro Jahr
+
+nein
+
+14. Verspüren Sie ein ständiges Kribbeln oder Taubheitsgefühl in Armen oder Beinen?
+o
+
+ja
+
+o
+
+nein
+
+Allen Patienten wurde Blut aus einer Armvene entnommen und sofort zur
+Bestimmung von IgA- und IgG-Antikörpern gegen α-Fodrin, der CD4/CD8Zell-Messung und zur Viruslastbestimmung weiterverarbeitet.
+Anschließend erfolgte bei allen Patienten ein Schirmer- und ein Saxon- Test.
+2.2.2. Der Saxon-Test
+Der Saxon-Test ist ein einfacher, kostengünstiger Test zur Quantifizierung der
+Speichelproduktion.
+Die zu untersuchende Person wird gebeten, auf einer sterilen Kompresse (7,5
+x 7,5 cm) für 2 Minuten zu kauen. Diese wird vor und nach dem Test
+gewogen. Normale Testpersonen produzieren 3,5 g oder mehr Speichel in 2
+min.
+Seite | 34
+
+Material und Methoden
+
+2.2.3. Der Schirmer-Test
+Der Schirmer-Test dient der objektiven Messung der quantitativen
+Tränenflüssigkeitsproduktion bei Sicca-Symptomatik.
+Es wird ein 5 mm breiter und 35 mm langer Filterpapierstreifen in den
+äußeren Lidwinkel in den Bindehautsack eingehängt. Nach 5 min wird die
+Strecke abgemessen, die die Tränenflüssigkeit im Papierstreifen zurückgelegt
+hat.
+Der Schirmer-Test ergibt eine quantitative Aussage zur Tränenproduktion.
+Mehr als 5 mm sind der Normalbefund, während weniger oder genau 5 mm
+als pathologisch gelten (Schirmer–Test positiv).
+
+2.3. Labordiagnostik
+2.3.1 Die Bestimmung von IgA- und IgG- Antikörpern gegen α-Fodrin im
+Immunoassay
+IgA- und IgG-Antikörper gegen α-Fodrin wurden im Standardverfahren
+(AESKULISA®) bei einem cut-off von 15 U/ml bestimmt. AESKULISA® ist ein
+Festphasenimmunoassay
+
+mit
+
+rekombinantem
+
+humanen
+
+α-Fodrin
+
+zur
+
+quantitativen und qualitativen Bestimmung von IgA- bzw. IgG-Antikörpern
+gegen α-Fodrin.
+Die 1:101 verdünnten Serumproben werden in den Kavitäten, die mit dem
+spezifischen Antigen beschichtet sind, inkubiert. Hierbei binden spezifische
+Antikörper aus dem Patientenserum- falls vorhanden- an das Antigen auf der
+Platte. Ein folgender Waschschritt entfernt ungebundene Serumkomponenten.
+Der
+
+nächste
+
+Analyseschritt
+
+beinhaltet
+
+die
+
+Zugabe
+
+von
+
+anti-human
+
+Immunglobulin, das mit Meerrettich-Peroxidase markiert ist (Konjugat). In der
+folgenden Inkubationszeit bindet dieses an den zuvor gebildeten AntigenAntikörper-Komplex, nicht gebundene Immunglobuline entfernt der nächste
+Waschschritt. Der Nachweis gebundener Antikörper erfolgt mit einer
+enzymatischen Farbreaktion ( blau ) des Substrates, die mit verdünnter Säure
+abgestoppt
+
+wird
+
+(Farbumschlag
+
+nach
+
+gelb).
+
+Die
+
+Messung
+
+erfolgt
+
+photometrisch. Die Farbentwicklung des Chromogens ist abhängig von der an
+Seite | 35
+
+Material und Methoden
+den Antigen-Antikörper-Komplex gebundenen Konjugatmenge und somit
+direkt proportional zur Antikörperserumkonzentration.
+
+2.3.2. Die CD4- und CD8-Zellzahl-Bestimmung
+Die Zahl der CD4- und CD8-Zellen wird mittels der Durchflusszytometrie
+direkt aus einer Blutprobe bestimmt. Dazu werden die CD4- und CD8-Zellen
+mit Hilfe von monoklonalen Antikörpern mit besonderen FluoreszenzFarbstoffen markiert. Dadurch kann ein Detektor die Zellen erkennen und
+zählen, während die Blutprobe an ihm vorbeiströmt.
+
+2.3.3. Die Viruslastbestimmung
+Unter der Viruslastbestimmung versteht man die direkte Messung der
+Konzentration der Genomäquivalente pro Milliliter Blutplasma. Die hierfür
+angewendeten
+
+Methoden
+
+Nukleinsäurenamplifikation
+Vervielfältigung
+
+der
+
+beruhen
+(d.h.
+
+RNA-Kopien
+
+entweder
+der
+in
+
+auf
+
+starken,
+der
+
+Probe),
+
+dem
+genau
+meist
+
+Prinzip
+
+der
+
+definierten
+durch
+
+PCR
+
+(Polymerase-Chain-Reaction), oder auf einer hohen Verstärkung des
+messbaren Signals (branched DNA-Methode (bDNA)). Abhängig von der
+verwendeten Methode beträgt die untere Messgrenze derzeit 5 bis 20
+Kopien/ml. Die obere Messgrenze liegt bei ca. 10 Millionen Kopien pro ml Blut.
+
+2.3.4 Gegenüberstellung der akquirierten Patientendaten mit Hilfe der
+Excelsoftware und Klassifikationskriterien zur Diagnostik des SiccaSyndroms
+In
+
+einer
+
+Exceltabelle
+
+wurden
+
+folgende
+
+patientenbezogene
+
+Untersuchungsdaten zur Auswertung aufgelistet: Name, Vorname, Alter,
+Geschlecht,
+
+Sicca-bezogene
+
+Symptome
+
+(Augenbrennen,
+
+Durstgefühl,
+
+Bindehautentzündung) - und Allgemeinsymptome (Infekte, mit und ohne
+Fieber,
+
+antibiotische
+
+Therapien,
+
+NNH-Operation
+
+in
+
+der
+
+Anamnese,
+
+Arbeitsunfähigkeit wegen Atemwegsinfekten, Karieserkrankung), Ergebnis
+des Saxon- und Schirmer-Tests, IgA- und IgG-Antikörper gegen α-Fodrin,
+CDC-Label, Zahl der CD4+-T-Helferzellen und der CD8+-Zellen, CD4/CD8Ratio, Viruslast und HAART-Therapie-Regime.
+
+Seite | 36
+
+Material und Methoden
+Zur
+
+Diagnostik
+
+des
+
+Sicca-Syndroms
+
+wurden
+
+die
+
+Daten
+
+aus
+
+der
+
+Excelergebnistabelle nach folgenden Kriterien herangezogen:
+1. okuläre Symptome ( Augenbrennen)
+2. orale Symptome ( Durst, massive Karies, Zahnprothesen)
+3. allgemeine Symptome ergänzend zu 1. und 2. ( mehr als 4
+rezidivierende Infekte pro Jahr, mehr als 4 antibiotische Therapien pro
+Jahr, NNH-Operation, Parästhesien)
+4. okuläre Befunde (Schirmer-Test, Bindehautentzündung)
+5. Speicheldrüsen-Befund ( Saxon-Test )
+6. Autoantikörper ( Anti-α-Fodrin IgA/IgG)
+
+2.3.5. Auswertungen Fragebogenbefunde, Saxon- und Schirmer-Test, αFodrin Antikörper bei 168 Probanden eines MHH-Sommerfestes zur
+Normalwertbestimmung [71]
+
+Die folgende Daten aus der Studie [71] wurden zur Normalwertermittlung
+verwendet: Ergebnisse des Patientenfragebogens, des Saxon- und SchirmerTests, der IgA- und IgG-Antikörper gegen α-Fodrin. Die Daten wurden
+vergleichend mit denen der HIV-Patienten graphisch dargestellt.
+
+2.3.6. Geräte
+AESKULISA® α-Fodrin-A ( Enzyme Immunoassay)
+
+AESKU.DIAGNOSTICS,Wendelsheim
+
+REF7162
+
+Germany
+
+AESKULISA® α-Fodrin-G (Enzyme Immunoassay )
+
+AESKU.DIAGNOSTICS,Wendelsheim
+
+REF 3163
+
+Germany
+
+Tecan ELISA-Washer Columbus Plus 8C64
+
+Labsystems Multiscan Plus ELISA Reader Typ 314
+
+ELISA-Medizintechnik, Copyright E.Kulovic
+
+D-79111 Freiburg
+
+Mikrotiter-Platten-Photometer
+
+Seite | 37
+
+Material und Methoden
+
+Feinwaage
+
+Sartorius, Göttingen
+
+Schirmer Tear Test
+
+HAAG-STREIT, UK
+
+ES Kompressen steril
+
+Hartmann, Germany
+
+Glaswaren
+
+Gefäße für Verdünnungen
+
+Wirbelmischer
+
+Mikropipetten 10, 100,200,500,1000 µl
+
+Multipipette
+
+2.3.7. Reagenzien
+Probenpuffer: Tris NaCl, BSA, Natriumazid < 0.1% und Thimerosal
+
+Waschpuffer: Tris, NaCL, Tween, Natriumazid < 0.1%
+
+Humanes Serum (verdünnt)
+
+Anti-human Immunglobulin markiert mit Meerettichperoxidase
+
+Stabilisiertes TMB/H2O2
+
+Salzsäure
+
+2.3.8. Software
+Synelisa Software Pharmacia, Synelisa 5.0 D(07/99)
+
+Windows Office Word und Excel
+
+GraphPadPrism 4,0
+
+Upjohn Diagnostics
+
+Windows Cooperation
+
+GraphPad Software Inc.
+
+Seite | 38
+
+Material und Methoden
+2.4. Statistische Analysen
+
+Die statistische Auswertung einiger der Daten erfolgt anhand einer
+Vierfeldertafel mit Hilfe des Fisher’s exact-Tests. Der Fisher’s exact-Test wird
+zur Überprüfung von Häufigkeitsverteilungen eingesetzt, also bei Variablen
+mit nominalem Skalenniveau.
+Diagnostische Vierfeldertafel:
+Häufigkeit der Merkmale
+krank
+pos. Ergebnis
+
+nicht krank
+richtig pos.(A)
+
+neg. Ergebnis
+
+falsch pos.(C)
+
+Summe
+
+A+C
+
+falsch pos.(B)
+
+A+B
+
+richtig neg.(D)
+
+C+D
+
+B+D
+
+Gesamtsumme
+
+Mit Hilfe des Fisher’s exact-Tests wird ein p-Wert berechnet. Ab p< 0,05
+besteht eine Signifikanz.
+Die Berechnung des Fisher´s exact -Tests erfolgt nach der Formel:
+
+(A+B)!x (C+D)! x (A+C)! x (B+D)!
+p=
+
+_____________________________
+
+A! x B! x C! x D! x ( A+B+C+D)!
+
+Zur Gegenüberstellung und Signifikanzberechnung wurden die Ergebnisse
+aus der Exceltabelle in normal oder pathologisch bzw. ja / nein wie folgt
+eingestuft:
+
+Seite | 39
+
+Material und Methoden
+1. Schirmer –Test // Saxon-Test: pathologisch / normal,
+2. allgemeine Symptome und Merkmale ja/nein: Augenbrennen, Durst,
+Konjunktivitis, Parästhesien, mindestens eine Antibiotika-Therapie pro Jahr in
+den letzten 2 Jahren, Arbeitsunfähigkeiten in den letzten 2 Jahren mehr als 8
+Tage,
+3. Laborparameter:
+CD4-Zellzahl pathologisch < 600 absolut/μl unterschieden für CD4-Zahl,
+CD8-Zellzahl pathologisch > 900 absolut/μl unterschieden für CD8-Zahl,
+CD4/CD8-Ratio pathologisch < 0,9
+Viruslast pathologisch > 50 Kopien/ ml Blut unterschieden für Viruslast,
+IgA-Antikörper gegen α-Fodrin pathologisch > 15 U/l
+IgG-Antikörper gegen α-Fodrin pathologisch > 15 U/l.
+
+Folgende Parameter wurden miteinander korreliert und der p-Wert mit dem
+Fisher´s exact Test berechnet:
+1.
+
+Ergebnis
+
+des
+
+Saxon-Tests
+
+mit
+
+(Tab.
+
+1):
+
+Augenbrennen,
+
+Durst,
+
+Konjunktivitis, Parästhesien, maximal einer Antibiotika-Therapie.
+2. Ergebnis des Schirmer-Test mit (Tab. 1): Augenbrennen, Durst,
+Konjunktivitis, Parästhesien, maximal einer Antibiotika-Therapie.
+3. Ergebnis der Kombination aus sowohl pathologischem Schirmer- als auch
+pathologischem Saxon-Test mit (Tab. 2): Augenbrennen, Durstgefühl,
+Konjunktivitis, Parästhesien, maximal einer Antibiotika-Therapie,
+CD4-Zahl, CD8-Zahl, CD4/CD8-Ratio, Viruslast
+4. IgA-Antikörper gegen α-Fodrin mit (Tab. 3): Befund des Saxon-Test und
+des Schirmer-Tests, Augenbrennen, Durst, Konjunktivitis, Parästhesien,
+Antibiotika-Therapie, Arbeitsunfähigkeiten,
+5. IgG-Antikörper gegen α-Fodrin mit (Tab. 4): Befund des Saxon-Test und
+des Schirmer-Tests, Augenbrennen, Durst, Konjunktivitis, Parästhesien,
+Antibiotika-Therapie, Arbeitsunfähigkeiten.
+
+Seite | 40
+
+Material und Methoden
+6. Viruslast zu(Tabl.5): Ergebnisse des Saxon-Test und des Schirmer-Tests,
+Augenbrennen, Durst, Konjunktivitis, CD4-T-Helferzellzahl, CD8-T-Zellzahl,
+CD4/CD8-Ratio
+
+Die statistischen Ergebnisse des Fisher´s exact -Tests wurden tabellarisch
+und graphisch unter Word-Softwareanwendung veranschaulicht.
+
+Das
+
+Computerprogramm
+
+Darstellung
+
+der
+
+Graph
+folgenden
+
+Pad
+
+Prism
+
+diente
+
+zur
+
+Korrelationen
+
+graphischen
+
+mittels
+
+des
+
+Rangkorrelationskoeffizienten nach Spearman:
+Anti-α-Fodrin IgA-Werte in Korrelation zu: CD4-und CD8-T-Zellen, Viruslast,
+CD4/CD8-Ratio jeweils alle Patienten (Abb.12-15),
+Anti-α-Fodrin IgG-Werte in Korrelation zu: CD4- und CD8-T-Helferzellen,
+Viruslast, CD4/CD8-Ratio jeweils alle Patienten (Abb.16-19),
+Viruslast-Werte in Korrelation zu: CD4- und CD8- T-Zellen, CD4/CD8-Ratio
+jeweils alle Patienten (Abb.20-22).
+
+Seite | 41
+
+Ergebnisse
+
+3. Ergebnisse
+3.1. Fragebogenauswertung mit Ergebnissen:
+(in
+
+Klammern
+
+mit
+
+n
+
+gekennzeichnet
+
+jeweils
+
+die
+
+Werte
+
+der
+
+Normalbevölkerung aus der MHH-Sommerfeststudie [71] )
+44 Patienten (22%/n:33,7%) klagten seit mind. 3 Monaten über ständiges
+Augenbrennen, 35 der Befragten (17,8%/n:13%) verspürten seit mindestens 3
+Monaten ein ständiges Durstgefühl.
+21 Patienten (10,7%/n:13%) hatten im letzten Jahr eine Bindehautentzündung.
+Eine Nasennebenhöhlenoperation wurde in der Vergangenheit bei 19
+Patienten (9,7%/n:keine Angaben) durchgeführt, wobei bei 10 Patienten
+(5,1%/n:keine Angaben) eine Verbesserung der Beschwerden nach der
+Operation erzielt wurde.
+69 Patienten (35,2%/n: keine Angaben) verspürten ein ständiges Kribbeln
+oder ein Taubheitsgefühl in Armen und Beinen (siehe Abbildung 4).
+40
+
+Patientenzahl in %
+
+35
+30
+25
+20
+15
+
+normal
+
+10
+
+HIV-Patienten
+
+5
+0
+
+Abbildung 4: Graphische Darstellung der Fragebogenauswertung: Augenbrennen,
+Durstgefühl, Konjunktivitis, NNH-Operationen, Parästhesien
+
+In den letzten zwei Jahren erkrankten 107 Patienten an keinen fieberhaften
+Infekten (54,59%/n:47%), 46 Patienten (23,4%/n:35%) an weniger als 2
+Atemwegsinfekten
+
+mit
+
+Temperaturen
+
+über
+
+38,5°C,
+
+22
+
+Patienten
+Seite | 42
+
+Ergebnisse
+(11,2%/n:9,8%) litten an 2 fieberhaften Infekten, 17 Patienten (8,68%/n:6,2%)
+2 bis 4, und 5 Personen (2,5%/n:2%) gaben an, mehr als 4 Atemwegsinfekte
+mit Fieber in den letzten 2 Jahren gehabt zu haben (Abbildung 5a).
+60
+
+Patientenzahl in %
+
+50
+40
+30
+
+normal
+HIV-Patienten
+
+20
+10
+0
+keine
+
+<2
+
+2
+
+2 bis 4
+
+Atemwegsinfekte mit Temp. > 38,5°C in den letzten 2 Jahren
+
+Abbildung 5a: Graphische Darstellung der Fragebogenauswertung: Patienten in %
+mit Atemwegsinfekten mit Temperatur über 38,5°C in den letzten 2 Jahren
+
+Keine Infekte ohne Fieber hatten in den letzten 2 Jahren 41 Patienten
+(20,9%/n:18%),
+
+weniger
+
+als
+
+2
+
+Infekte
+
+ohne
+
+Fieber
+
+63
+
+Patienten
+
+(32%/n:19,4%), genau 2 31 Patienten (14,8%/n:18%), 2 bis 4 36 Patienten
+(18,3%/n: 28%) und mehr als 4 insgesamt 29 Patienten(14,8%/n: 16,6%).
+(Abbildung 5b)
+35
+
+Patientenzahl in %
+
+30
+25
+20
+normal
+
+15
+
+HIV-Patienten
+
+10
+5
+0
+keine
+
+<2
+
+2
+
+2 bis 4
+
+Atemwegsinfekte ohne Fieber in den letzten 2 Jahren
+
+Seite | 43
+
+Ergebnisse
+Abbildung 5b: Graphische Darstellung der Fragebogenauswertung: Patienten in %
+mit Atemwegsinfekten ohne Fieber in den letzten 2 Jahren
+
+113 Patienten (56%/n:55%) wurden in den letzten zwei Jahren antibiotisch
+behandelt 24 (12%/n:13%) erhielten 2 bis 4 und 6 (3%/n:20%) über 4
+Antibiotikatherapien (siehe Abbildung 6).
+60
+
+Patientenzahl in %
+
+50
+40
+30
+normal
+20
+
+HIV-Patienten
+
+10
+0
+insgesamt
+
+2 bis 4
+
+>4
+
+Antibiotikatherapien pro Jahr in den letzten 2 Jahren
+
+Abbildung 6: Graphische Darstellung der Fragebogenauswertung: Patienten in % mit
+antibiotischer Therapie in den letzten 2 Jahren pro Jahr
+
+Arbeitsunfähigkeit bestand bei 15 Patienten (7,6%/n:9,3%) aufgrund eines
+Infektes in den letzten 2 Jahren über mehr als 8 Tage.
+
+Die Befragung zum Zahnstatus ergab, dass 75 Patienten (38%n:42%) nicht,
+36 Patienten (18%/n:18%) kaum, 45 Patienten (23%/n:15%), 20 (10%/n:16%)
+stark und 24 (12%/n:1,7%) sehr stark unter Karies litten (Abbildung 7).
+
+Seite | 44
+
+Ergebnisse
+
+45
+40
+
+Patientenzahl in %
+
+35
+30
+25
+20
+
+normal
+
+15
+
+HIV-Patienten
+
+10
+5
+0
+nicht
+
+kaum
+
+mäßig
+
+stark
+
+sehr stark
+
+Zähne durch Karies belastet
+
+Abbildung 7: Graphische Darstellung der Fragebogenauswertung: Patienten in % mit
+Karies (nicht, kaum, mäßig, stark, sehr stark) belastet.
+
+Der Kronen-, Füllungen-, und Zahnwurzelbehandlungsstatus war wie folgt:
+102 Patienten (52%/n:40%) keine, 30 (15,3%/n:17,4%) weniger als 2, 18
+(9,2%/n:14,5%) genau 2, 22 (11,2%/n:13,3%) mit mehr als 2 bis 4, 4
+(2,2%/n:5,8%) mehr als 4 und 9 Patienten waren Prothesenträger.
+60
+
+Patientenzahl in %
+
+50
+40
+30
+normal
+20
+
+HIV-Patienten
+
+10
+0
+keine
+
+<2
+
+2
+
+2 bis 4
+
+>4
+
+Kronen, Füllungen und Zahnwurzelbehandlungen in den letzten 2 Jahren
+
+Abbildung 8: Graphische Darstellung der Fragebogenauswertung: Patienten in %
+mit Kronen, Zahnfüllungen und Zahnwurzelbehandlungen in den letzten 2 Jahren
+
+Seite | 45
+
+Ergebnisse
+
+3.2. Ergebnisse des Saxon- und Schirmer-Tests
+Bei 37 Patienten (18,8%/n: 2%) lag ein pathologischer Saxon-Test vor, 13
+Patienten (6,6%n:29%) hatten einen pathologischer Schirmer-Test und in 9
+Fällen (4,6 %/n:2%) waren beide Testergebnisse pathologisch.
+
+Patientenzahl in %
+
+30
+25
+20
+15
+normal
+
+10
+
+HIV-Patienten
+
+5
+0
+Saxon
+pathologisch
+
+Schirmer
+pathologisch
+
+Saxon und
+Schirmer
+pathologisch
+
+Ergebnisse des Saxon- und Schirmer- Tests
+
+Abbildung 9: Graphische Darstellung der Ergebnisse des Saxon-und des SchirmerTests in %.
+
+3.3 Ergebnisse der Bestimmung von IgA- und IgG-Antikörpern gegen αFodrin
+
+Die Anti-α-Fodrin-Diagnostik der 196 HIV-Patienten - bei 7 Patienten war
+keine Antikörperbestimmung möglich - ergab folgende Ergebnisse:
+1. IgA positiv: 83 (43,9%/n:6,3%)
+2. IgG positiv: 114 (60,3%/n:4,6%)
+3. IgA und IgG positiv: 62 (32,8%/n:4,6%)
+4. Anti-α-Fodrin IgA und/oder IgG positiv: 131(69,3%)
+5. Anti-α-Fodrin negativ: 58 (30,7%)
+
+Seite | 46
+
+Ergebnisse
+
+70
+
+Patientenzahl in %
+
+60
+50
+40
+normal
+
+30
+
+HIV-Patienten
+
+20
+10
+0
+anti-α-Fodrin IgA +
+
+anti-α-Fodrin IgG
++
+
+anti-α Fodrin IgA
+und IgG +
+
+Abbildung 10: Graphische Darstellung der Ergebnisse: Prozentsatz der Patienten
+bzw. Kontrollen mit IgA-Antikörpern gegen α-Fodrin, IgG-Antikörpern gegen α-Fodrin
+und IgA- und IgG-Antikörpern gegen α Fodrin.
+
+Seite | 47
+
+Ergebnisse
+3.4. Prävalenz von Parametern der Klassifikationskriterien des SjögrenSyndroms, der α-Fodrin-Antikörper und allgemeiner Symptome bei HIV-
+
+Patientenzahl in %
+
+Infizierten:
+
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+Abbildung 11: Prävalenz von Klassifikationskriterien des Sjögren- Syndroms, der αFodrin-Antikörper und allgemeiner Symptome (mehr als 4 rezidivierende Infekte pro
+Jahr, mehr als 4 antibiotische Therapien pro Jahr, NNH-Operation, Parästhesien) bei
+HIV-Infizierten siehe auch Symptom-und Befund-Klassifikationen unter 2.3.4
+
+1. Patienten mit Sicca-Symptomen okulär: 43 (21,9%)
+2. Patienten mit Sicca-Symptomen oral: 45 (22,9%)
+3. Patienten mit Sicca-Symptomen allgemein: 81 ( 41,3%)
+4. Patienten mit okulärem Befund: 34 (17,3%)
+5. Patienten mit Speicheldrüsenbefund: 37 (18,8%)
+6. Patienten mit Autoantikörpern Anti-α-Fodrin IgA/IgG gesamt: 131(66,8%)
+
+Seite | 48
+
+Ergebnisse
+
+Kardinalbefunde der HIV- Patienten mit Sicca-Syndrom
+Pat.Nr/Alter Saxon
+Sex/Score
+
+Schirmer
+
+α-Fodrin
+IgA
+
+α-Fodrin
+IgG
+
+CDC
+
+Auge
+
+Durst
+
+Bindeh.
+
+Inf.
+>4
+
+3
+51
+11
+
+C3
+B2
+C3
+C3
+B2
+B2
+A1
+B2
+C3
+A2
+A2
+C3
+C3
+
+ja
+ja
+ja
+nein
+ja
+nein
+
+ja
+nein
+ja
+ja
+nein
+
+X
+
+ja
+
+ja
+nein
+nein
+ja
+nein
+nein
+nein
+nein
+nein
+
+ja
+nein
+ja
+nein
+nein
+nein
+nein
+nein
+nein
+nein
+nein
+nein
+nein
+nein
+ja
+
+51/48/m/6
+
+1,4g
+
+12/18mm
+
+37
+
+61/69/w/6
+
+1,5g
+
+4/4mm
+
+15
+
+104/60/m/6
+20/54/m/5
+62/40/w/5
+67/41/m/5
+100/53/m/5
+107/42/w/5
+161/38/w/5
+167/46/m/5
+35/47/m/4
+78/39/m/4
+149/70/m/4
+162/37/m/4
+163/48/m/4
+
+2,3g
+
+7/5mm
+
+2,6g
+
+18/11mm
+
+24
+70
+
+1,5g
+
+4/4mm
+
+15
+
+3,2g
+
+2/5mm
+
+2,2g
+
+20/20mm
+
+0,3g
+
+5/3mm
+
+56
+4
+16
+7
+18
+33
+16
+7
+27
+31
+
+2,9g
+
+<5mm
+
+1,2g
+
+11/12mm
+
+2,5g
+
+3/9mm
+
+3,2g
+3,3g
+
+18/28mm
+durch
+
+2,3g
+
+6/5mm
+
+2,6g
+
+6/5mm
+
+15
+
+51
+92
+41
+60
+18
+15
+
+21
+16
+26
+25
+216
+
+n.d.
+B2
+
+nein
+nein
+ja
+nein
+nein
+nein
+nein
+nein
+
+ja
+
+K
+stark
+
+X
+X
+X
+
+X
+X
+
+X
+X
+X
+X
+X
+X
+
+X
+X
+X
+
+P
+
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+
+X
+X
+
+CD4
+CD8
+(absolut/yl) (absolut/yl)
+387
+
+1064
+
+362
+
+362
+
+868
+863
+466
+868
+
+209
+
+408
+
+VL
+
+CD4/CD8
+Ratio
+
+H
+
+50
+50
+
+0,36
+
+X
+X
+X
+X
+X
+
+0,42
+
+72
+
+0,47
+
+93963
+
+0,02
+
+50
+
+0,42
+
+982
+
+42407
+
+0,15
+
+985
+
+959
+
+2480
+
+1,03
+
+83
+
+211
+
+4880
+
+0,39
+
+1023
+
+1074
+
+n.b.
+
+0,95
+
+434
+
+1347
+
+96411
+
+0,32
+
+453
+
+1262
+
+0,36
+
+420
+
+515
+
+299
+
+1454
+
+786
+
+1112
+
+50
+50
+50
+50
+
+199
+
+344
+
+20190
+
+0,58
+
+8
+
+(CDC: CDC-Kriterien, Bindeh.: Bindehautentzündung, Auge: Augenbrennen,
+Inf. : Infekte >4, K: Karies stark, P: Parästhesien, H: HAART, n.b.: nicht
+bestimmbar )
+
+3.5. CD4-Zahl, CD8-Zahl, CD4/CD8-Ratio
+150 Patienten (77,3%) [-194 Patienten waren auswertbar-] hatten eine
+erniedrigte CD4-T- Helferzellzahl (Norm: 610-1100 /µl).
+Die CD8-Zellzahlen waren bei 18 Patienten (9,3%) unter und bei 81 Patienten
+(41,8%) über dem Normbereich von 450-900 /µl.
+Zusätzlich wurde die CD4/CD8-Ratio (0,9-1,70) für 191 Patienten bestimmt.
+Dabei ergaben sich 16 normale (8,4%) und 175 pathologisch erniedrigte
+Ergebnisse (91,7%).
+
+3.6. Viruslast
+Bei 106 Patienten (54,9%) [-von 193 auswertbaren-] lag die Viruslast unter
+der Nachweisgrenze (< 50 Kopien/ml Blut), 89 davon standen zum
+Studienzeitpunkt unter einer hochaktiven antiretroviralen Therapie (HAART).
+94 Patienten (48,7%) hatten Maximalwerte bis zu 325.000 Kopien/ml, von
+diesen 94 wurden 44 antiretroviral behandelt.
+
+Seite | 49
+
+0,81
+0,21
+0,71
+
+X
+X
+X
+X
+X
+X
+
+Ergebnisse
+3.7 Ergebnisse der statistischen Auswertungen
+3.7.1.Saxon-Test und 3.7.2. Schirmer-Test
+Eine signifikante Korrelation mit p=0,024 bestand zwischen dem Augenbefund
+Konjunktivitis und einem pathologischen Saxon-Test. Die
+
+Ergebnisse des
+
+Schirmer-Tests korrelierten nicht mit Sicca-Symptomen bzw. Parästhesien
+und Antibiotikatherapien.
+Tabelle 1: Saxon-Test und Schirmer-Test:
+Saxon-Test
+p-Wert
+Schirmer-Test
+
+p-wert
+
+Augenbrennen
+
+n.s.
+
+n.s.
+
+Durstgefühl
+
+n.s.
+
+n.s.
+
+Konjunktivitis
+
+0,024
+
+n.s.
+
+Parästhesien
+
+n.s.
+
+n.s.
+
+Antibiotikatherapien
+
+n.s.
+
+n.s.
+
+Bei den 9 Patienten mit pathologischem Schirmer- und Saxon-Test zeigte sich
+eine Korrelation zu Parästhesien, mehr als eine antibiotische Therapie, αFodrin IgA und α-Fodrin IgG und zu der CD4/CD8-Ratio.
+Augenbrennen, Durstgefühl, Konjunktividen, CD4-Zellzahl, CD8-Zellzahl, und
+Viruslast korrelierten nicht.
+Tabelle 2: pathologischer Saxon- und pathologischer Schirmer-Test
+pathologischer Saxon-Test und pathologischer Schirmer- Test P-Wert
+Augenbrennen
+
+n.s.
+
+Durstgefühl
+
+n.s.
+
+Konjunktivitis
+
+n.s.
+
+Parästhesien
+
+0,002
+
+Antibiotikatherapien
+
+0,004
+
+α-Fodrin IgA
+
+0,006
+
+α-Fodrin IgG
+
+0,005
+
+Seite | 50
+
+Ergebnisse
+CD4- Zellzahl
+
+n.s.
+
+CD8-Zellzahl
+
+n.s.
+
+CD4/CD8-Ratio
+
+0,006
+
+Viruslast
+
+n.s.
+
+3.7.3 IgA-Antikörper gegen α-Fodrin
+In der Gegenüberstellung der Parameter ergab sich eine signifikante
+Assoziation von IgA-Antikörpern gegen α-Fodrin mit den Parametern:
+Schirmer-Test, Antibiotika-Therapien, der CD4-Zahl sowie der CD4/CD8Ratio.
+Tabelle 3: Anti-α-Fodrin IgA
+Anti-α-Fodrin IgA
+
+p-Wert
+
+Saxon-Test
+
+n.s.
+
+Schirmer-Test
+
+0,029
+
+Augenbrennen
+
+n.s.
+
+Durstgefühl
+
+n.s.
+
+Konjunktivitis
+
+n.s.
+
+Parästhesien
+
+n.s.
+
+Antibiotikatherapien
+
+0,029
+
+Arbeitsunfähigkeit
+
+n.s.
+
+CD4-Zellzahl
+
+0,0079
+
+CD8-Zellzahl
+CD4/CD8-Ratio
+Viruslast
+
+n.s.
+0,0006
+n.s.
+
+Seite | 51
+
+Ergebnisse
+
+Abb.12-15: Graphische Befunddokumentation der Anti-α-Fodrin IgA Werte in
+Korrelation zu (Spearman r): CD4-( r= -0.932) und CD4/CD8-Ratio (r= -0.2488)
+signifikant, CD8 T-Helferzellen ( r= 0.03510) und Viruslast (r=0.1516) nicht
+signifikant.
+
+Seite | 52
+
+Ergebnisse
+
+3.7.4 IgG-Antikörper gegen α-Fodrin
+Eine signifikante Korrelation bestand zwischen dem Anti-α-Fodrin IgG Wert
+und der Viruslast.
+Tabelle 4: Assoziationen der Antikörper gegen α-Fodrin IgG
+Anti-α-Fodrin IgG
+p-Wert
+
+Saxon-Test
+
+n.s.
+
+Schirmer-Test
+
+n.s.
+
+Augenbrennen
+
+n.s.
+
+Durstgefühl
+
+n.s.
+
+Konjunktivitis
+
+n.s.
+
+Parästhesien
+
+n.s.
+
+Antibiotikatherapien
+
+n.s.
+
+Arbeitsunfähigkeit
+
+n.s.
+
+CD4-Zellzahl
+
+n.s.
+
+CD8-Zellzahl
+
+n.s.
+
+CD4/CD8-Ratio
+
+n.s.
+
+Viruslast
+
+0,043
+
+Seite | 53
+
+Ergebnisse
+
+Abb.16-19: Graphische Befunddokumentation der Anti-α-Fodrin IgG Werte in
+Korrelation zu (Spearman r): CD4 (r=-0.1096)- und CD8 (r=0.5273)- THelferzellen CD4/CD8-Ratio (r=0.1185) statistisch nicht signifikant, Viruslast
+(r=0.2899) signifikant.
+
+Seite | 54
+
+Ergebnisse
+
+3.7.5 Viruslast
+
+Die Viruslast korrelierte mit CD4-T-Zellzahl und der CD4/CD8-Zellzahl-Ratio.
+Tabelle 5: Viruslast
+Viruslast
+(Kopien/ml Blut)
+
+p-Wert
+
+CD4-T-Helferzellen
+
+0.0001
+
+CD8-T-Helferzellen
+
+n.s.
+
+CD4/CD8-Ratio
+
+0,0001
+
+Abb.20
+
+Abb.21
+
+Seite | 55
+
+Ergebnisse
+
+Abb. 22
+
+Abb.20-22:
+
+Graphische
+
+Befunddokumentation
+
+der
+
+Viruslast
+
+Werte
+
+in
+
+Korrelation zu (Spearman r): CD8-Zellzahl (r=0.1367) statistisch nicht
+signifikant, CD4 (r=-0.2895)- Zellzahl und CD4/CD8-Ratio (r=-0.3740)
+signifikant.
+
+Seite | 56
+
+Diskussion
+
+4. Diskussion
+Die Prävalenz des Sicca-Syndroms steigt mit zunehmendem Alter. Im
+Gegensatz
+
+dazu
+
+sind
+
+nur
+
+subjektive
+
+Augen-
+
+und
+
+Mundtrockenheit
+
+altersunabhängige Beschwerden [71]. Sie sind vermutlich eher Symptome der
+Fibromyalgie, von Erkrankungen des depressiven Formenkreises aber auch
+Alterungsprozessen und
+
+Stresssituationen etc. die in der Bevölkerung
+
+häufiger vorkommen als das Sjögren-Syndrom [72]. Die Alters- und
+Geschlechtsverteilung der HIV-Patienten differiert besonders bei der Zahl der
+männlichen
+
+Personen
+
+von
+
+den
+
+Teilnehmern
+
+der
+
+Sommerfeststudie
+
+(Normalbevölkerung). So überwiegen bei den HIV-Patienten mit 88,3 % die
+Männer. Bei den Freiwilligen der Normalstudie ließen sich mehr Frauen
+(Anteil 63,6 %) untersuchen. Die Betrachtung der Altersverteilung zeigte
+vergleichend nur geringe Unterschiede mit einem Durchschnittsalter von 44
+(HIV-Patienten) zu 38 (Normale) Jahren und einer Alterspanne von 24-73 zu
+18-76 Jahren.
+So lassen sich die Fragebogenergebnisse für HIV-Patienten und der
+Normalbevölkerung hinsichtlich der subjektiven Sicca-Beschwerden (Abb.4)
+unabhängig von der Altersverteilung miteinander vergleichen. Berücksichtigt
+muss aber die Geschlechtsverteilung werden, da Frauen häufiger unter
+„nicht–Sjögren-Syndrom-bedingten“
+
+Sicca-Beschwerden
+
+leiden,
+
+z.B.
+
+im
+
+Rahmen von Depressionen. Trotz dieser Gesichtspunkte zeigte der
+Symptomenvergleich mit der Normalgruppe, dass HIV-Patienten (das
+männliche Geschlecht überwiegt hier deutlich) häufiger unter Augenbrennen
+und
+
+Durstgefühl
+
+leiden.
+
+Ausweislich
+
+der
+
+statistischen
+
+Signifikanzberechnungen sind diese Symptome jedoch nicht mit dem SiccaSyndrom der 9 HIV-Patienten mit pathologischem Saxon- und Schirmer-Test
+korreliert (Tab. 2). Dieses unterstreicht die o.g. Unspezifität der Beschwerden
+„trockener Mund und trockene Augen“.
+Anders ist die Situation für die Symptomatik „Parästhesien“. Es fand sich eine
+signifikante Korrelation mit dem Sicca-Syndrom bei HIV-Infizierten. Ursächlich
+sind hier neben Polyneuropathien infolge eines Sjögren-Syndroms die
+Initialzeichen einer HIV-assoziierten distal-symmetrischen Polyneuropathie zu
+Seite | 57
+
+Diskussion
+diskutieren.
+
+Anhand der Fragebogenauswertung ist dieses nicht
+
+zu
+
+differenzieren.
+Die Prävalenz einer chronischen Pansinusitis mit und ohne Polyposis nasi,
+die eine NNH-Operation erforderlich macht, liegt in der Bevölkerung bei 5-10%
+[73]. Mit 9,7% erfragter Häufigkeit einer NNH-Operation haben die HIVPatienten
+
+damit
+
+keine
+
+erhöhte
+
+Prävalenz
+
+schwerer
+
+Nasenneben-
+
+höhlenentzündungen.
+Auch zeigte sich kein eindeutiger Hinweis auf eine erhöhte Erkrankungsrate
+der HIV-Patienten für Atemwegsinfekte mit und ohne Fieber in den letzten 2
+Jahren im Vergleich zur Normalbevölkerung (Abb. 5a u. Abb.5b).
+Antibiotika mussten bei dem Gesamtkollektiv der HIV-Patienten vergleichend
+mit der Normalstudie nicht vermehrt eingesetzt werden (Abb.6). Die zu
+erwartende erhöhte Infektanfälligkeit ließ sich bei Betrachtung aller an HIVErkrankten somit nicht nachweisen, wahrscheinlich als Behandlungserfolg im
+Rahmen des HIV-Therapieregimes (HAART).
+Das Merkmal „Antibiotikagabe“ korrelierte mit dem Sicca-Syndrom bei der
+HIV-Patientengruppe mit pathologischem Schirmer–und Saxon-Test (Tab.2).
+„Antibiotikagabe“ korreliert gleichwohl mit der Anti-α-Fodrin IgA- AntikörperBildung (Tab.3) im Gesamtkollektiv der HIV-Infizierten.
+Die Notwendigkeit einer antibiotischen Therapie bildet die Aktivität der HIVInfektion mit Immunsuppression ab. Folglich ist die Ausbildung eines SiccaSyndroms davon abhängig. Dieses wird auch unterstrichen durch die
+Assoziation des Sicca-Syndroms mit der CD4/CD8-Ratio. Gleichzeitig ist
+daraus eine erhöhte Infektanfälligkeit der Sicca-Patienten abzuleiten.
+Zusätzlich ist das Sicca-Syndrom mit der Bildung von Antikörpern gegen αFodrin assoziiert (Tab.2).
+Die Fragebogenauswertung bei HIV-Patienten hinsichtlich des Zahnstatus
+zeigte, dass weniger Zahn-(erhaltende) Behandlungen (Abb.8) erfolgten. Die
+Ursache dafür ist möglicherweise, dass sich die HIV-Infizierten aus Angst ihre
+Krankheit dem Zahnarzt aus infekt-hygienischen Gründen mitteilen zu
+müssen, seltener in zahnmedizinische Behandlung begeben; eventuell
+spielen auch monetäre Gesichtspunkte eine Rolle. Auch wäre denkbar, dass
+zahnärztlicherseits wegen des deutlich höheren Behandlungsaufwands
+
+Seite | 58
+
+Diskussion
+hinsichtlich des HIV-Infektschutzes die Indikationsstellungen zu einem
+zahnerhaltenden Eingriff zurückhaltender gestellt werden.
+Ein
+
+gesünderer Zahnstatus
+
+ist bei HIV-Patienten
+
+im
+
+Vergleich
+
+zur
+
+Normalbevölkerung nicht anzunehmen, da die Tendenz zu einer vermehrten
+Kariesbelastung (Abb.7), insbesondere zu sehr starkem Kariesbefall besteht.
+Neben der diskutierten, reduzierten zahnärztlichen Versorgung muss dafür
+ursächlich die Speichelpathologie beim Sicca-Syndrom angenommen werden.
+18,8% der HIV-Patienten hatten einen pathologischen Saxon-Test, im
+Normalkollektiv dagegen nur 2% (Abb.9).
+Als weiterer objektiver Sicca-Befund fand sich bei 6,6% der HIV-Patienten ein
+pathologischer Schirmer-Test. Diesen Befund hatten paradoxerweise 29%
+des Normalkollektives. Wahrscheinlich liegen hier methodisch bedingte
+Fehlbestimmungen unter den Sommerfestbedingungen vor. Geht man davon
+aus, dass der um einen „Sommerfestfaktor“ korrigierte Normalwert nicht den
+Wert des Schirmer-Test der HIV-Patienten übersteigt (<6,6%), ergibt sich
+(Abb.9), dass die HIV-Infektion eher zu einem Speicheldrüsenfunktionsdefizit
+als zu einer Einbuße der Tränenproduktion führt.
+In der Literatur fand sich kein Hinweis auf eine höhere Glandotropie des HIVirus
+
+für
+
+Zellen
+
+der
+
+Speicheldrüsen
+
+als
+
+für
+
+lacrimale
+
+Zellen.
+
+Muzin(Polysaccharidgemisch) und Immunglobulin A sind gemeinsame
+Bestandteile von Tränenflüssigkeit und Speichel. Verdauungsenzyme wie die
+α-Amylase Ptyalin wird jedoch von den Tränendrüsen nicht synthetisiert. Es
+handelt sich also um verschiedene Drüsenzelltypen. Eine unterschiedliche
+Gewebsimmunität der Speichel- und Tränendrüsen mit differenter HI-VirusAffinität ist somit anzunehmen und führt möglicherweise zu dem SiccaPhänomen, dass bei HIV-Patienten eher ein trockener Mund als ein trockenes
+Auge nachweisbar war. In wie weit hier HAART einen zusätzlichen Einfluss
+hat, muss offen bleiben.
+Die lokale IgA-Synthese in den Speichel- und Tränendrüsen erklärt die
+Assoziation des Sicca-Syndroms mit der IgA-Antikörperbildung gegen αFodrin. IgG-Antikörper gegen α-Fodrin sind als systemische Antikörper
+dagegen nicht nur mit dem Sicca-Syndrom sondern auch mit der Viruslast
+assoziiert (Tab.4). Die Virus-bedingte Apoptose führt zur Freisetzung von
+
+Seite | 59
+
+Diskussion
+Fodrinspaltprodukten als Neoantigenen und damit zur Bildung der IgGAntikörper.
+Massive Schwellungen mit Funktionsverlust der Parotiden ist eines der
+typischen
+
+klinischen
+
+Zeichen
+
+eines
+
+diffus-infiltrativen-Lymphozytose–
+
+Syndroms (DILS). Wie eingangs beschrieben (siehe Einleitung 1.4.), steht im
+Mittelpunkt der DILS-Pathologie die CD8+T-Zelle mit Infiltration der erkrankten
+Organe, die bei der initialen Immunantwort nach erfolgter HIV-Infektion eine
+wesentliche Rolle spielt [74,75]. Sie besitzt die Fähigkeit, die HIV-Replikation
+partiell
+
+zu
+
+kontrollieren.
+
+„Langzeit
+
+Sogenannte
+
+nicht
+
+progrediente
+
+Patienten“ (longterm-non-progressors oder LTNP) sind in der Lage, auch
+ohne Therapie (HAART) bei niedriger oder nicht messbarer Viruslast die Zahl
+ihrer CD4+T-Zellen stabil zu halten [76]. Diese LTNP-Patienten haben eine
+sehr starke HIV-spezifische CD8+T-Zell-Reaktivität. Auch DILS-Patienten
+befinden sich häufig in einem weniger fortgeschrittenen Krankheitsstadium
+(CDC) [79]. Wahrscheinlich unterdrücken die zirkulierenden CD8+T-Zellen bei
+den DILS-Patienten die HIV-Replikation [74].
+Die Prävalenz für DILS an einem HIV-Patientengut von 523 Patienten
+bestimmte sich mit 3% sicheren und 3,4% möglichen Erkrankungsfällen, d.h.
+zwischen 3-6% [77]. Andere Studien geben für die Prävalenz 0,85% [78] und
+2,5% an [79]. Damit sind für das hier untersuchte HIV-Krankengut ca. 2-6
+DILS-Fälle
+
+zu
+
+erwarten.
+
+Es
+
+wurde
+
+jedoch
+
+keine
+
+DILS-Erkrankung
+
+diagnostiziert. HIV-Patienten mit den Oberflächenantigenen HLA-DR5 bei
+afro-amerikanischen und
+
+HLA-DR6 und HLA-DR7 bei kaukasischen
+
+Erkrankten scheinen für die DILS-Erkrankung prädispositioniert zu sein.
+Kein
+
+HIV-Patient
+
+Patientengruppe.
+
+des
+Als
+
+hier
+
+untersuchten
+
+weiterer
+
+Grund
+
+und
+
+Kollektivs
+
+entsprach
+
+wahrscheinlich
+
+dieser
+
+wichtigster
+
+Diskussionspunkt eines fehlenden DILS-Falls ist anzuführen, dass 142
+Patienten zum Studienzeitpunkt mit HAART behandelt wurden. DILS wird als
+eine durch Antigene (HI-Virus) ausgelöste Gewebsimmunreaktion aufgefasst
+und war seit Einführung der HAART in seiner gesamten Pathologie positiv
+beeinflussbar [80].
+Das Sjögren-Syndrom ist als Autoimmunerkrankung der Tränen- und
+Speicheldrüsen definiert mit Augen- und Mundtrockenheit als klinisches
+Kardinalsymptom. Wie eingangs erwähnt, sind diese abzugrenzen von
+Seite | 60
+
+Diskussion
+Augen-
+
+und
+
+Mundtrockenheit
+
+anderer
+
+Genese.
+
+Die
+
+beschriebenen
+
+unterschiedlichen Aussagen zur Wertigkeit der Anti-α-Fodrin-Antikörper zur
+Sicca-Syndrom-Diagnostik können sich darin begründen, dass derzeit
+verschiedene Patientengruppen unter dem Begriff des Sjögren-Syndroms
+subsummiert werden. Wählt man Patienten mit mehreren objektiven
+Merkmalen nach den spezifischen San Diego Kriterien aus, werden in 93%
+der Fälle Anti-α-Fodrin-Antikörper positiv nachgewiesen [37,38]. Zusätzlich
+sind sie die ersten Entzündungsmarker des Sicca-Syndroms, da sie mit der
+entzündlichen Aktivität der Erkrankung korrelieren. Diese Antikörper können
+im Krankheitsverlauf zum Therapie-Monitoring eingesetzt werden.
+Des Weiteren weisen Untersuchungen mit der Charakterisierung des ILT6
+(Immunglobulin-like- Transcripts 6) als genetisches, objektives Merkmal des
+Sjögren-Syndroms
+
+die
+
+Anti-α-Fodrin-Antikörper
+
+zur
+
+Diagnostik
+
+dieser
+
+Erkrankung als guten Marker aus [81, 82,83].
+Im Vergleich zur Normalbevölkerung (0,1-1%) ist die Prävalenz bei den 196
+HIV-Patienten mit einem klinisch manifesten Sicca-Syndrom deutlich erhöht,
+übereinstimmend mit den Ergebnissen anderer Arbeitsgruppen [84,85].
+In
+
+Seren
+
+von
+
+HIV-Patienten
+
+mit
+
+Sicca-Syndrom
+
+ließen
+
+sich
+
+keine
+
+antinukleären Antikörper (SS-A(Ro) bzw. SS-B (La)) nachweisen [86].
+Als kardinales Ergebnis der vorliegenden Arbeit zeigte sich aber, dass mehr
+als zwei Drittel der HIV-Patienten (131=69,3%) Autoantikörper gegen α-Fodrin
+entwickelt hatten (Abb.10). Es fand sich eine statistisch signifikante
+Korrelation
+
+zu
+
+den
+
+die
+
+Aktivität
+
+der
+
+HIV-Infektion
+
+kennzeichnenden
+
+Parametern CD4/CD8-Ratio, CD4-Zellzahl und Viruslast.
+Folgende Möglichkeiten zur Antikörperbildung gegen α-Fodrin bei HIVPatienten werden thesenhaft postuliert und unter Einbeziehung der
+Untersuchungsergebnisse der 196 HIV-Patienten diskutiert:
+1. α-Fodrin Spaltprodukte entstehen aus dem Zytoskelett der CD4-THelferzelle (primäre Zielzelle der HIV-Infektion) durch gesteigerte
+Apoptose bei erhöhtem Turnover und Abtötung durch körpereigene
+Killerzellen.
+2. Zytokine werden freigesetzt bei dem CD4-T-Helferzellzerfall und
+initiieren
+
+Autoimmunreaktionen
+
+mit
+
+konsekutiver
+
+α-Fodrin-
+
+Antikörperbildung.
+Seite | 61
+
+Diskussion
+3. Die lymphozytäre Infiltration (CD4/CD8- Zellen)
+
+der Drüsenzellen
+
+aufgrund nicht durch direkte HIV-Infektion initiierter Immunreaktionen
+leitet Apoptoseprozesse ein und unterhält die Antikörperbildung.
+4. HIV als Retrovirus infiziert direkt die Drüsenzelle und führt über
+chronische
+
+Infektionsprozesse
+
+mit
+
+konsekutiver
+
+Apoptose
+
+zur
+
+Autoantikörperbildung.
+Zu These 1: bei den 196 HIV-Patienten fand sich eine signifikante Korrelation
+zwischen der pathologisch erniedrigten CD4-Zellzahl, der CD4/CD8-Ratio und
+antibiotischen Therapien mit IgA-Antikörpern gegen α-Fodrin. IgG-Antikörper
+gegen α-Fodrin korrelierten mit der Viruslast. Die Produktion von IgAAntikörpern gegen α-Fodrin ist offensichtlich abhängig von niedrigen CD4Zellzahlen, auch ausweislich in der Korrelation zu der CD4/CD8-Ratio. Die
+daraus folgende Immunsuppression führt zu opportunistischen Erkrankungen,
+die antibiotische Therapien erfordern. Niedrige CD4-Zellzahlen sind Folge des
+Zellzerfalles, dabei könnten primär auch Spaltprodukte des Zytoskelettes der
+CD4-Zellen zur anti-α-Fodrin-Autoantikörperproduktion beitragen.
+Gleiche Mechanismen mit CD4- Apoptose werden durch die Menge der HIViren (Viruslast) initiiert (siehe auch These 4).
+Die apoptotischen Prozesse setzen verschiedene Zytokine frei, die überleiten
+zu These 2: im Verlauf der Erkrankung werden die für TH1-Helferzellen
+spezifischen Zytokine (IL2, IFN-γ, IL12, TFN-α) zugunsten der TH2Helferzellen spezifischen Zytokine (IL4 und IL5) vermindert synthetisiert. IL4
+und IL5 führt zu einer Hypergammaglobulinämie und einer vermehrten
+Allergieneigung mit Produktion von spezifischen Autoantikörpern. Die oben
+beschriebene Korrelation zwischen CD4-Zellzahl, CD4/CD8-Ratio und IgAAntikörpern gegen α-Fodrin lässt ebenfalls an diese zytokininduzierte αFodrin-Autoantikörperbildung auf autoimmunologischer-allergischer Ebene
+denken [1,87].
+Zu These 3: Das DILS zeichnet sich durch eine Infiltration von CD8-Zellen
+aus. Histologisch lassen sich bei HIV-Patienten mit Sicca-Syndrom ohne eine
+DILS-Klinik
+
+nur
+
+eine
+
+milde
+
+Infiltration
+
+mit
+
+CD8-Zellen
+
+intraglandulär
+
+nachweisen [76]. Bei den 196 HIV-Patienten dieser Arbeit fanden sich keine
+Korrelationen zwischen
+
+Anti-α-Fodrin IgA/IgG und CD8-Zellzahlen. Dieses
+Seite | 62
+
+Diskussion
+Ergebnis spricht gegen eine anti-α-Fodrin-Antikörperbildung in Abhängigkeit
+von der CD8-Zellzahl.
+142 Patienten der vorliegenden Arbeit erhielten eine antiretrovirale Therapie.
+HAART korrelierte nicht mit Anti-α-Fodrin IgA/IgG. In einer histologischen
+Studie hatten 48% aller nicht behandelten HIV-Patienten aus Kamerun
+Zeichen der lymphozytären Speicheldrüsenerkrankung, aber nur 6% aus dem
+Raum der USA, die zu 76% antiretroviral therapiert wurden. HAART
+reduzierte somit die Speicheldrüsenbeteiligung bei HIV-Infektion [84].
+In der Initialphase der HIV-Infektion könnte es vor einer HAART zu einer
+massiven
+
+lymphozytären
+
+Speicheldrüseninfiltration
+
+auch
+
+in
+
+dem
+
+hier
+
+untersuchten Patientengut gekommen sein, die dann eine α-FodrinAntikörperproduktion verursachte. Damit würde sich die hohe Zahl der
+Patienten mit α-Fodrin-Autoantikörpern erklären. Die bei 72% der HIVPatienten anschließend durchgeführte HAART müsste dann einen deutlich
+reduzierenden Effekt auf die
+
+Nachweishäufigkeit der Antikörper gegen α-
+
+Fodrin auslösen, wenn die lymphozytäre Infiltration der Speicheldrüsen die
+Autoantikörperproduktion
+
+unterhält.
+
+Diese
+
+Situation
+
+findet
+
+sich
+
+beim
+
+primären/sekundären Sjögren-Syndrom. Hier kommt es unter Therapie z.B.
+mit
+
+Cortison
+
+zu
+
+einem
+
+deutlichen
+
+Abfall
+
+bzw.
+
+Verschwinden
+
+der
+
+Autoantikörper.
+Die persistierend hohe Prävalenz der Antikörper gegen α-Fodrin bei HIVInfizierten lässt sich somit nicht mit These 3 erklären.
+Zu These 4: Die Korrelation zwischen Viruslast und IgG-Antikörpern gegen αFodrin war signifikant. Auch korrelierte erwartungsgemäß die Viruslast mit der
+CD4/CD8-Ratio. Diese Befunde erklären einerseits den unter These 2
+aufgeführten Mechanismus der Antikörperbildung gegen α-Fodrin, schließen
+aber auch These 4 mit direkter HIV-Infektion der Drüsenzelle nicht aus, zumal
+von Retroviren bekannt ist, dass diese eine Glandotropie besitzen.
+Zusätzlich besteht die Möglichkeit der Antikörperbildung durch Apoptose
+anderer CD4-Rezeptor tragenden Körperzellen, die im Rahmen der HIVInfektion zugrunde gehen, so z.B. Langerhans`sche-Zellen der Epidermis,
+follikuläre dendritische Zellen, antigenpräsentierende Zellen, Gehirnmikroglia,
+CD4-Zellen des Darms. Hier schließt sich der Argumentationskreis zu These1
+(CD4-T-Zellinfektion).
+Seite | 63
+
+Diskussion
+Eine multifaktorielle Genese der Bildung von Antikörpern gegen α-Fodrin in
+der
+
+Initialphase
+
+der
+
+Infektion
+
+überwiegend
+
+auf
+
+apoptotischer,
+
+autoimmunologisch-allergischer Ebene ist somit anzunehmen, wobei das HIVirus als Antigen die zentrale Rolle spielt. Die Aktivität der Infektion
+beeinflusst die Antikörperbildung.
+Durch die Bestimmung der Antikörper gegen α-Fodrin ist jetzt auch für HIVPatienten mit Verdacht auf Sicca-Syndrom ein Labormarker verfügbar mit
+einer hohen Sensitivität [hier praktisch 100%; war mindestens ein objektiver
+Sicca-Befund positiv (Schirmer-/und-oder Saxon-Test) konnten auch Anti-αFodrin Antikörper nachgewiesen werden]. Die Spezifität ist allerdings gering
+(14%), da nur ca. jeder 7. Patient mit Antikörpern gegen α-Fodrin auch an
+einem
+
+Sicca-Symptom
+
+erkrankt
+
+war,
+
+wahrscheinlich
+
+als
+
+positiver
+
+Therapieeffekt der HAART. Hier ist allerdings in Verlaufsuntersuchungen zu
+klären, ob die Patienten mit einer hohen Konzentration der Antikörper gegen
+α-Fodrin, insbesondere mit IgA-Antikörpern gegen α-Fodrin, im Verlauf in
+einigen Jahren einen trockenen Mund und trockene Augen entwickeln. Diese
+Patienten mit Sicca-Syndrom hatten anhand der jetzigen Untersuchung einen
+erhöhten Antibiotikabedarf, wahrscheinlich als Folge von vermehrten Infekten
+der Atemwege. Bei positiven Antikörpernachweis und noch normaler oder
+leicht reduzierter Drüsenfunktion könnte daher im Rahmen einer Studie
+evaluiert
+
+werden,
+
+ob
+
+eine
+
+frühzeitige
+
+Indikationsstellung
+
+zur
+
+Hydroxychloroquingabe (Quensyl®) die Entzündung der Drüsen unterdrückt
+und deren Funktion erhält.
+
+Seite | 64
+
+Zusammenfassung
+
+5 Zusammenfassung
+Das Sicca-Syndrom ist bei HIV-Infizierten ein häufiges Symptom. IgA- und
+IgG-Antikörper gegen α-Fodrin sind sensitive Labormarker zur Diagnostik des
+Sjögren-Syndroms und Apoptosemarker mit der Option zum Therapiemonitoring.
+Aufgabe der vorliegenden Arbeit war, die Prävalenz des Sicca-Syndroms an
+einem großen Patientengut von HIV-Infizierten (n=196) und erstmals dessen
+Assoziation mit den α-Fodrin-Autoantikörpern zu bestimmen. Dazu wurden
+die Patienten nach Symptomen einer Mund- und Augentrockenheit befragt
+und diese dann mittels objektiver Tests untersucht. Ferner wurden IgA- und
+IgG-Antikörper gegen α-Fodrin mittels ELISA-Technik bestimmt. Die Befunde
+wurden mit Parametern der HIV-Erkrankung (CD4/CD8-Zellzahl, Viruslast,
+CD4/CD8-Ratio, CDC-Kriterien, HAART) korreliert. Ferner wurden die Daten
+zum Sicca-Syndrom bei den HIV-Patienten mit einem Normalkollektiv unter
+Berücksichtigung der Alters-und Geschlechtsverteilung verglichen.
+Die Prävalenz der Kombination aus Mund- und Augentrockenheit (des SiccaSyndroms) war bei den HIV-Infizierten mit 4,5 % höher als in der
+Normalbevölkerung (2,5 %) und betraf überwiegend Männer.
+Als Kardinalergebnis dieser Arbeit ließen sich bei mehr als zwei Drittel der
+HIV-Patienten (69,3%=131 Patienten) α-Fodrin-Antikörper nachweisen. Diese
+waren mit der Aktivität der HIV-Infektion assoziiert. Zusätzlich waren aber
+insbesondere auch die IgA-Antikörper gegen α-Fodrin mit dem SiccaSyndrom assoziert. Die Sensitivität der IgA-Antikörper gegen α-Fodrin für die
+Mund- und Augentrockenheit lag bei 100%, die Spezifität bei 14%.
+Die überwiegend gut durch HAART behandelten HIV-Infizierten hatten
+insgesamt im Vergleich zu Kontrollen keine vermehrten Atemwegsinfektionen.
+Die Patienten mit Sicca-Syndrom erhielten jedoch häufiger Antibiotika und
+haben offenbar eine erhöhte Infektanfälligkeit. Ferner zeigte sich eine
+Assoziation der objektiven Trockenheit mit dem klinischen Symptom
+„Parästhesien“, jedoch nicht dem subjektiven Klagen über trockenen Mund
+und Augen. Das Sicca-Syndrom manifestiert sich bei den HIV-Infizierten
+bevorzugt
+
+an
+
+den
+
+Speicheldrüsen
+
+mit
+
+Funktionsdefiziten,
+
+die
+
+Tränenproduktion ist weniger betroffen.
+Seite | 65
+
+Zusammenfassung
+Da das Sicca-Syndrom mit einer erhöhten Infektneigung assoziiert ist, wären
+präventive Maßnahmen sinnvoll. In Zukunft ist zu untersuchen, ob HIVInfizierte mit hohen Antikörperkonzentrationen gegen α-Fodrin ein erhöhtes
+Risiko haben, im Verlauf ein Sicca-Syndrom zu entwickeln. In diesem Fall
+wäre eine prophylaktische Therapie mit Hydroxychloroquin zu erwägen.
+
+Seite | 66
+
+Literatur
+
+6 Literatur
+[ 1] Geier S.A, Libera S.,Klauss V., Goebel F.D. Sicca syndrome in patients
+with human immunodeficiency virus, Ophtalmology Vol.102, Issue 9, Pages
+1319-1324 ( Sept. 1995)
+
+[2] Sjögren HSC (1933) Zur Kenntnis der Keratokonjunctivitis sicca ( Keratitis
+filiformis bei Hypofunktion der Tränendrüsen). Dissertationschrift. Acta
+Ophthalmol (Copenhagen) supplement 2: 1-151
+
+[ 3] Helen Chapel, Mansel Haeney, Siraj Misbah and
+Neil Snowdon, Essentials of clinical Immunology, 2006;13-21
+
+[4] Mignogna MD, Fedele S, Lo Russo L, Lo Muzio L, Wolff A: Sjögren´s
+syndrome: the diagnostic potential of early oral manifestations preciding
+hyposalivation/xerostomia. J Oral Pathol Med 2005; 34: 1-6
+
+[5] Ramos-Casalas M, Loustaud-Ratti V, De Vita S, Zeher M, Bosch J-A,
+Toussirot E, Medina F, Rosas J, Anaya J-M, Font J, SS-HCV Study Group:
+Sjögren Syndrom associated with Hepatitis C Virus – A Multicenter Analysis
+of 137 Cases. Medicine 2005; 84: 81-89
+
+[6] Reveille JD, Wilson RW, Provost TT, Bias WB, Arnett FC. Primary
+Sjogren´s syndrome and other autoimmune diseases in families. Prevalence
+and immunogenetic studies in six kindreds. Ann Intern Med. 1984; 101:784-56
+
+[7] Bolstad AI, Haga HJ, Wassmuth R, Jonsson R. Monozygotic twins with
+primary Sjogren´s syndrome. J Rheumatol. 2000; 28:1932-4
+
+[8] Heward J, Gough SC. Genetic susceptibility to the development of
+autoimmune disease. Clin Sci. 1997; 93:479-91Literatur 40
+
+Seite | 67
+
+Literatur
+[9] Bolstad AI, Jonsson R. Genetic aspects of Sjogren´s syndrome. Arthritis
+Res.2002; 4: 353-359
+
+[10] Foster H, Stephenson A, Walker D, Cavanagh G, Kelly C, Griffiths I.
+Linkage studies of HLA and primary Sjogren´s syndrome in multicase families.
+Arthritis Rheum. 1993; 36: 473-84
+
+[11] Loiseau P, Lepage V, Djelel F, Busson M, Tamouza R, Raffoux C,
+Menkes CJ, Meyer O, Charron D, Goldberg D. HLA class I and class II are
+both associated with genetic predisposition to primary Sjogren´s syndrome.
+Hum Immunol. 2001; 62:725-731
+
+[12] Nakamura H, Kawakami A, Eguchi K: Mechanism of autoantibody
+production and the relationship between autoantibodies and the clinical
+manifestations in Sjören´s syndrome. Translat Res 2006; 148:281-288
+
+[13] Wang Y, Virji AS, Howard P, Sayani Y, Zhang J, Achu P, McArthur C:
+Detection of cleaved α-Fodrin autoantigen in Sögren´s Syndrome: Apoptosis
+and co-localisation of cleaved α-fodrin with activated caspase-3 and cleaved
+poly ( ADP-ribose) polymerase (PARP) in labial salivary glands. Archives of
+Oral Biology 2006; 51: 558-566
+
+[14] Vitali C, Bombardieri S, Moutsoloulos HM, Coll J, Gerli R, Hatron PY,
+Konttinen YT,
+
+Manthrope R, Meyer O, Mosca M, Ostuni P, Pellerito RA,
+
+Porter SR, Richards A, Sauvezie B, Schiodt M, Sciuto M,Shoenfeld Y,
+Skopouli F-N, Smolen JS Soromenho F, Tishler M, Wattiaux MJ:Einschätzung
+der europäischen Klassifikations Kriterien für das Sjögren-Syndrom in einer
+Reihe von klinisch definierten Fällen: Resultat Einer zukünftigen multicentre
+Studie. Die Europäische Arbeitsgemeinschaft auf Diagnosekriterien für das
+Sjögren- Syndrom Ann Rheum Dis 1996, 55:116 -121.
+
+[15] Daniels TE: Klinische Einschätzung und
+
+Diagnose der immunologisch
+
+vermittelten Speichel-Drüsenkrankheit im Syndrom Sjörgrens. J Autoimmun
+1998, 2:529 -541
+Seite | 68
+
+Literatur
+
+[16] Fuchs RI, Saito I: Kriterien für die Diagnose des Syndrom Sjögrens.
+Rheum Dis Clin Norden morgens 1994, 20:391
+
+[17] Homma M, Tojo T Akizuki M Yamagata H: Kriterien für Syndrom Sjögrens
+in Japan.Scand J Rheumatol 1986, Ergänzung 61:26 -27.
+
+[18] Dawson LJ, Stanbury J, Venn N, Hasdimir B, Rogers SN, Smith PM:
+Antimuscarinic Antibodies in Primary Sjörens Syndrome Reversibly Inhibit the
+Mechanism of Secretion by Human Submandibular Salivary Acinar Cells.
+ARTHRITIS & RHEUMATISM, 2006; 54: 1165-1173
+
+[19] Shimuzu M, Okamura K, Yoshiura K, Ohyama Y, Nakamura S, Kinukawa
+N: Oral surg oral Pathol oral Radiol Endod 2006; 102: 85-93
+
+[20] Morimoto Y, Habu M, Tomoyose T, Ono K, Tanaka T, Yoshioka I,
+Tominaga K, Yamashita Y, Ansai T, Kito S, Okabe S, Takahashi T, Takehara
+T, Fukuda J, Inenaga K, Ohba T: Dynamic magnetic resonance sialographie
+as a new diagnostic technique for patients with Sjögren´s syndrome. Oral
+diseases 2006; 12: 408-414
+
+[21] Woerkom JM van, Kruize AA, Barendregt PJ, Kater L, Henѐ R, Bootsma
+H, Custers RJH, Jacobs JWG, Bijlsma JWJ: Clinical significance of
+quantitative immunohistology in labial salivary glands for diagnosing Sjögren´s
+syndrome. Rheumatology 2006; 45:470-477
+
+[22] Perez P, Kwon Y-J, Alliende C Leyton L, Aguilera S, molina C, Labra C,
+Julio M, Leyton C, Gonzalez M-J: Increased Acinar Damage of Salivary
+Glands of Patients With Sjögren´s Syndrome Is Paralleled by Stimultaneous
+Imbalance of Matrix Metallproteinase 3/Tissue Inhibitor of Metalloproteinases
+1 and Matrix Metallproteinase 9/ Tissue inhibitor of Metallproteinases 1Ratios.
+ARTHRITIS& RHEUMATISM 2005;52: 2751-2760
+
+Seite | 69
+
+Literatur
+[23] Bave U, Nordmark G, Lövgren T, Rönnelid J, Cajander S, Eloranta M-L,
+Alm GV, Rönnblom L. Activation of the Type 1 Interferon system in primary
+Sjögren´s Syndrome. ARTHRITIS & RHEUMATISM 2005; 52:1185-1195
+
+[24] Pijpe J,van Imhoff GW, Spijkervet FKL, Roodenburg JLN, Wolbink GJ,
+Mansour K, Vissink A, Kallenberg CGM, Bootsma H: Rituximab Treatment in
+Patients with Primary Sjögren´s syndrome. ARTHRITIS& RHEUMATISM
+2005; Vol 52, No 9, 2740-2750
+
+[25] Devauchelle-Pensec V, Pennec Y, Morvan J, Pers J-O, Daridon C,
+Jousse-joulin S, Roundaut A, Jamin C, Renaudineau Y, Roue IQ, Cochener B,
+Youinou P, Saraux A: Improvement of Sjögren´s Syndrome After Two
+Infusions of Rituximab (Anti-CD20). Arthritis & Rheumatism ( Arthritis Care
+and Research) 2007; 57: 310-317
+
+[26]Looney RJ: Will targeting B Cells Be The Answer for Sjögren´s Syndrome?
+ARTHRITIS & RHEUMATISM 2007; 56: 1371-1377
+
+[27] Haneji N, Nakamura T, Takio K,Yanagi K, Higashiyama H, Saito I, Noj
+Sugino H, Hayashi Y:Kennzeichen des Alpha-fodrin als Anwärterautoantigen
+im Syndrom Primärsjörgrens,Wissenschaft 1997, 276:604 -607
+
+[28] Watanabe T, Tsuchida T, Kanda N, Mori K, Hayashi Y, Takami K: Antifodrin Antikörper im Sjogren syndrom und im Lupus erythematodes Bogen
+Dermatol 1999, 135:535 – 539
+
+[29] Witte T, Matthias T, Arnett FC, Peter HH, Hartung K, Sachse C, Barner A,
+Kalden JR, Lakomek HJ, Schmidt BEZÜGLICH: IgA und IgG Autoantibodies
+gegen Alpha-fodrin als Markierungen für Syndrom Sjörgrens. Körperlupus
+erythematodes,J Rheumatol 2000, 27:2617- 2620
+
+[30] Lawind MF, Alyasky A, Elwan NM, Mourad H, Al-Bendary A. Alpha-fodrin
+autoantibodies are reliable diagnostic markers for juvenile and adult sjogren´s
+syndrome. Egypt J Immunol. 2004; 11: 75-81
+Seite | 70
+
+Literatur
+
+[31] Zhou D, Ursitti JA, Bloch RJ. Developmental expression of spectrins in rat
+skeletal muscle. Mol Biol Cell. 1998; 9: 47-61
+
+[32] Levine J, Willard M. Fodrin: axonally transported polypeptides associated
+with the internal periphery of many cells. J Biol Cell. 1981; 90: 631-642
+
+[33] Martin SJ, 0´Brien GA, NIshioka WK et al. Proteolysis of fodrin (nonerythroid spectrin) during apoptosis. J Biol Chem. 1995; 270: 6425-28
+
+[34] Vanags DM, Porn-Ares MI, Coppola S, Burgees DH, Orrenius S.
+Protease involvment in fodrin cleavage and phosphatidylserine exposure in
+apoptosis. J Biol Chem. 1996; 271: 31075-85
+
+[35] Saegusa K, Ishimaru N, Haneji N, Yanagi K, Yoneda T, Saito I, Hayashi
+Y. Sjogren´s syndrome by intravenous administration of autoantigen. Scand
+JImmunol. 2000; 52: 264-270
+
+[36] Miyazaki k, Takeda N, Ishimaru N, Omotehara F,Arakaki R, Hayashi
+Y:Analysis of in vivo role of α-Fodrin Autoantigen in Primary Sjögren
+syndrome. American journal of Pathology 2005; 167:1051-59
+
+[37] Witte T, Matthias T, Oppermann M, Helmke K, Peter HH, Schmidt RE,
+Tischler M. Prevalence of antibodies against α-fodrin in Sjogren´s syndrome:
+comparison of 2 sets of classification criteria.. J Rheumatol. 2003; 30: 2157-9
+
+[38] Seze de J, Dubucqoui S, Fauchais AL, Hachulla E, Matthias T , Lefranc
+D,Hatron PY, Vermersch P, Witte T. Autoantibodies against alpha-Fodrin in
+Sjogren´s syndrome with neurological manifestations. J Rheumatol. 2004; 31:
+500-3
+
+Seite | 71
+
+Literatur
+[39] Ruiz-Tiscar JL, Lopez-Longo FJ, Sanchez-Ramon S, Santamaria B, Rrea
+R, Carreno L, Estecha A, Vigil D, Fernandez-Cruz E, Rodriguez-Mahou M.
+Prevalence of IgG-Anti-α-fodrin antibodies in Sjogren´s syndrome. Ann.
+N.Y.Acad Sci. 2005; 1050: 210-216
+
+[40] Ruffatti A, Ostuni P, Grypiotis P, Botsios C, Tonello M, Grava C, Favaro
+M,Todesco S. Sensitivity and specificity for primary Sjogren´s syndrome of
+IgA and IgG anti-α-fodrin antibodies detected by ELISA. J Rheumatol. 2005;
+32: 197-8
+[41] Turkcapar N, Olmez U, Tutkak H, Duman M. The importance of α-fodrin
+antibodies in the diagnosis of Sjogren´s syndrome. JRheumatol.2005;1(Epub)
+
+[42] T Zhu, et al.: An African HIV-1 sequence from 1959 and implications for
+the origin of the epidemic. Nature 1998 391(6667):594-7.PMID 9468138
+
+[43] R.C Gallo et al.: Isolation of human T-cell leukemia virus in acquired
+immune deficiency syndrome (AIDS). Science. 1983 220(4599):865-7.PMID
+6601823
+
+[44] F. Barre-Sinoussi, L.Montagnier, et al.: Isolation of a T-lymphotropic
+retrovius from a patient at risk for aquired immunedeficiency syndrome
+(AIDS).Science.1983 220(4599):868-71.PMID 6189183
+
+[45] Knoll B, Lassmann B, Temesgen Z, Int J Dermatol. 2007
+Dec;46(12):1219-28
+[46] Epidemie –Report- Update der UNAIDS-Organisation 2007 (PDF)
+
+[47] HIV-Ausbreitung weiter auf hohem Nivea. Spiegel.de 8 Oktober 2007
+[48] Edward Hooper (2003). „Aids and the Polio Vaccine,“ London Review of
+Books, Vol 25, No.7
+
+Seite | 72
+
+Literatur
+[49] Korber B., Muldoon M., Theiler J, et al.: Timing the origin of the HIV-1
+pandemic. In: Programs and abtracts of the 7th Conference on Retroviruses
+and Opportunistic Infections. Abstract L5, 30. January 30-2. February 2000
+
+[50] Blancou, et al.: Polio vaccine samples not linked to AIDS. In:Nature,410,
+S.1045-1046 (2001)
+
+[51] D.C. Chan, et al.: Core structure of gp41 from HIV envelope glycoprotein.
+Cell.1997 89(2):263-73.PMID 9108481
+
+[52] http://www.cdc.gov/mmwr/preview/mmwrhtml/figures/r402altl.gif
+Zahlen zu mittleren Übertragbarkeit von HIV pro Akt.
+
+[ 53] Übersichtsartikel über HIV-Schnelltests in den USA
+
+[54]http://www.g-ba.de/cms/upload/pdf/abs5/berichte/HTA-HIV.pdf.
+Zusammenfassender
+
+Bericht
+
+des
+
+Arbeitsauschusses
+
+“Ärztliche
+
+Behandlung“ des Bundesausschusses der Ärzte und Krankenkassen über die
+Beratung des Jahres 2003 zur Bewertung der HIV-Resistenztestung gemäß §
+135 Abs.1 SGB V
+
+[55] Deng H et al.: Identifikation of a major co-receptor for primary isolates of
+HIV-1. Nature.1996 381(6584):661-6 PMID 8649511
+
+[56] T. Dragic, et al.: HIV-1 entry into CD4+ cells is mediated by the
+chemokine receptor CC-CKR-5. In Nature. 1996 38186584):595-9. PMID
+9634238
+
+[57] Zou Y. R., et al.: Funktion of the chemokine receptor CXCR4 in
+haematopoieses and cerebellar development. Nature. 1998 393(6685):5959.PMID 9634238
+
+Seite | 73
+
+Literatur
+[58] Winkler C. et al.: Genetic restriction of AIDS pathogenesis by an SDF-1
+chemokine gene variant. ALIVE Study, hemophilia Growth and Development
+Study (HGDS), Multicenter AIDS Cohort
+
+[59] http://www.hiv-akut.de
+
+[60] Rosenberg ES etal.: immune control of HIV-1 after earlytreatment of
+acute infection. Nature. 2000, 407(6803):532-6. PMID 9334379
+
+[61] Dean M. et al.: genetic restriction of HIV-1 infection and progression to
+AIDS by a deletion allele of the CKR5 structural gene. Hemophilia Growth and
+Development Study, Multicenter AIDS Cohort Study, Multicenter Hemophilia
+Cohort study, san Francisco City Cohort, ALIVE Study. Science.1996
+273(5283):1856-62.Erratum in: Science 1996 Nov 15; 274(5290):1069.PMID
+8791590
+
+[62] Center for Disease control and Prevention: 1993 revised classification
+system for HIV infection and expanded surveillance case definition for AIDS
+among adolescents and adults In: JAMA.269, Nr.6,1993, S 729-730.PMID
+8093740
+
+[63] Itescu S, Brancato LJ, Buxbaum J, et al. Sjögren's syndrome associated
+with HIV infection. Clin Res 1988;36:599A.
+
+[64] Kuhn A et al. (2000) Annular erythema in Sjögren syndrome. A variant of
+cutaneus lupus erythematodes? Hautarzt 51: 270-275
+
+[65] Miyagawa S et al. (2004) Autoimmun thyroid disease in anti-Ro/SS-Apositive children with annular erythema: report of two cases. Br J Dermatol
+150: 1005-1008
+
+[66] Itescu S, Brancato LJ, Winchester R. A sicca syndrome in HIV infection:
+Association with HLA-DR5 and CD8 lymphocytosis. Lancet 1989;2 466-468
+
+Seite | 74
+
+Literatur
+[67] Lane N., MD, University of California SF, Rheumatological and
+Musculoskeletal Manifestations of HIV Knowledge Base Chapter Oct.1998
+
+[68] Mann DL, Murray C, Yarchoan R et al. HLA antigens frequencies in HIV-1
+seropositive disease-free individuals and patients with AIDS.J Acquir Immune
+Defic Syndr Hum Retrovirol 1988: 1; 13-17.
+
+[69] Tsubota H, lord Cl, Watkins DI, et al. A cytotoxic T lymphocate inhibits
+acquired immunodeficiency syndrome virus replication in peripheral blood
+lymphocytes. J Exp Med 1989; 169 1421-1434
+
+[70] Winchester R. AIDS and the rheumatic disease. Bull Rheum Dis 1990;
+39:1-10
+
+[71] Torsten Witte, MD; Janine Bierwirth, MD; Reinhold E. Schmidt, MD,
+Department of Clinical Immunology, Hannover Medical School, Hannover,
+Germany;
+
+Torsten
+
+Matthias,
+
+MD,
+
+Aesku.Diagnostics,
+
+Wendelsheim,
+
+Germany: Antibodies Against a-Fodrin Are Associated with Dry Eyes and
+Mouth in the General Population. J Rheumatol 2006
+
+[ 72 ] Rhodus NL, Fricton J, Carlson P, Messner R. Oral symptoms associated
+with fibromyalgia syndrome. J Rheumatol 2003; 30:1841-5.
+
+[73] Albegger K (1992): Unspezifische Entzündungen der Nasennebenhöhlen,
+in: Naumann HH, Helms J, Herberhold, C, Kastenbauer E (Hrsg), Oto-RhinoLaryngologie in Klinik und Praxis, Band 2, Thieme, Stuttgart, S.216-227
+
+[74] Koup, R.A. et al. Temporal association of cellular immune responses with
+the initial control of viremia in primary human immunodeficiency virus type 1
+syndrome. J. Virol. 68, 4650-4655 (1994).
+
+[ 75] Borrow, P., Lewicki, H., Hahn, B.H., Shaw, G.M. & Oldstone, M.B. Virusspecific CD8+ cytotoxic T-lymphocyte activity associated with control of
+
+Seite | 75
+
+Literatur
+viremia in primary human immunodeficiency virus type 1 infection. J. Virol. 68,
+6103-6110 (1994).
+
+[76] Rosenberg ES, Billingsley JM, Caliendo AM, et al. Vigorous HIV-1specific CD4+ T cell responses associated with control of viremia. Science.
+1997;278:1447-1450.
+
+[77] Williams F.M. et al., Prevalence of the diffuse infiltrative lymphocytosis
+syndrome among human immunodeficiency virus type 1-positive outpatiens,
+Arthritis Rheum., 1998 May 41(5):863-8
+
+[78] Kazi S, Cohen PR, Williams F, Schempp R, Reveille JD. The diffuse
+infiltrative lymphocytosis syndrome. Clinical and immunogenetic features in 35
+patients. AIDS 1996; 10:385-91
+
+[79] Malbec D, Pines E, Boudon P, Lusina D, Choudat L. CD8
+hyperlymphocytosis syndrome and human immunodeficiency virus infection: 5
+cases. Rev Med Interne 1994 ; 15:630-3.
+
+[80] Dhiman Basu, Francis M. Williams, Chul W. Ahn, John D. Reveille
+Changing spectrum of the diffuse infiltrative lymphocytosis syndromeArthritis
+& Rheumatism (Arthritis Care & Research)
+Vol. 55, No. 3, June 15, 2006, pp 466–472
+
+[81] Koch S. Genetische Risikofaktoren von Kollagenosen und Multipler
+Sklerose: Assoziation des ILT6-Defekts mit Sjögren-Syndrom und MS. Med
+Diss Hannover, 2004
+
+[82] Koch S, Goedde R, Nigmatova V, Epplen JT, Müller N, Seze de J,
+Vermersch P,Momot T, Schmidt RE and Witte T. Association of multiple
+sclerosis with ILT 6 deficiency.Genes and Immunity. 2005; 1-3
+
+[83] S. Baukje Dobberstein, ILT6 : Ein Risikogen des Sjögren-Syndroms Med
+Diss Hannover,2006
+Seite | 76
+
+Literatur
+
+[84] Kordosis T. et al., Prevalence of Sjögren´s like syndrome in a cohort of
+HIV-1-positiv patients: Descriptive pathology and immunopathology
+
+[85] MCARTHUR C.P.et al., Salivary gland disease in HIV/AIDS and primary
+Sjögren´s syndrome: analysis of collagen1 distribution and histopathology in
+American and African patients, Journal of oral pathology and medicine, 2003
+vol.32 pp.554-551
+
+[86] Yamamoto M.et al., Sicca syndrome in patients infected with human
+immunodeficiency virus-1, Mod Rheumatol. (2002) 12:333-337
+
+[87] Rodrigues M. et al., Study of keratoconjunktivitis sicca in patients infected
+with human immunodeficiency virus type 1 and acquired immune deficiency
+syndrome, in use or not of high active anti-retroviral-therapy (HAART), Arq.
+Bras. Oftalmol., Mar./Apr.2004, vol.67, p.283-287
+
+Seite | 77
+
+Anhang
+
+7 Anhang
+Tabelle 6: Fragenkatalog zur Erfassung von Augen -und Mundtrockenheit
+beim Sjögren-Syndrom ( nach Vitali )
+
+-
+
+Leiden Sie seit mehr als 3 Monaten unter täglicher
+
+Augen- und
+
+Mundtrockenheit?
+
+-
+
+Verspüren sie häufig ein Fremdkörpergefühl ( Sand ) in den Augen?
+
+-
+
+Benutzen Sie Tränenersatzlösung mehr als 3 mal täglich?
+
+-
+
+Leiden sie seit mehr als 3 Monaten unter täglicher Mundtrockenheit?
+
+-
+
+Litten Sie als Erwachsener unter wiederkehrenden oder dauernden
+Schwellungen von Mundspeicheldrüsen?
+
+-
+
+Sind Sie gezwungen, zum Schlucken trockener Speisen etwas zu
+trinken?
+
+Seite | 78
+
+Anhang
+Tabelle 7: Klassifikationskriterien des Sjögren-Syndroms ( nach Vitali )
+
+Okuläre Symptome
+
+Mindestens eine positive Antwort auf die Fragen 1-3
+im Fragenkatalog zur Erfassung von Augen-und
+Mundtrockenheit beim Sjögren Syndrom nach Vitali
+
+Orale Symptome
+
+Mindestens eine positive Antwort auf die Fragen 4-6
+im Fragenkatalog zur Erfassung von Augen –und
+Mundtrockenheit beim Sjögren –
+Syndrom nach Vitali
+
+Okuläre Befunde
+
+Positiver Schirmer- oder Rose- Bengal-Test
+
+Histologische Befunde
+
+Mind. 1 Lymphoidzell-Fokus ( > 50 mononukleäre
+Zellen)
+
+/
+
+4
+
+mm²
+
+Speicheldrüsengewebe
+
+( Lippenbiopsie )
+Mindestens
+
+ein
+
+positives
+
+Speicheldrüsen-
+
+Speicheldrüsenszintigraphie
+
+beteilungung
+
+Sialographie
+
+oder
+
+Messung
+
+Ergebnis
+oder
+des
+
+in
+
+der
+
+Parotisunstimulierten
+
+Speichelflusses.
+(1,5ml/15 Min.)
+Mind. ein positiver Befund im Antikörpernachweis:
+Autoantikörper-
+
+Anti-Ro/SS-A
+
+oder
+
+Anti-La/SS-B
+
+und
+
+/
+
+Nachweis
+
+antinukleäre Antikörper und oder Rheumafaktor
+
+oder
+
+Seite | 79
+
+Lebenslauf
+
+8 Lebenslauf
+Name: Astrid Caroline Bornemann
+Geburtsdatum: 03.02.1981
+Geburtsort: Hannover
+Familienstand: ledig
+Staatsangehörigkeit: deutsch
+Eltern: Vater: Dr. med. Hartmut Bornemann
+Mutter: Dipl. Biologin Angelika Bornemann
+Schulbildung:
+1986-1990 Grundschule, Lüneburger-Damm-Schule
+1990-1992 Orientierungsstufe Misburg, Hannover
+1992-1999 Gymnasium, Sophienschule, Hannover
+1997-1998 Laurens District High School, South Carolina, USA
+1999-2002 IGS Roderbruch
+Juli 2002 Allgemeine Hochschulreife
+Hochschulausbildung:
+10/2002 – 04/2009 Studium der Humanmedizin an der Medizinischen
+Hochschule Hannover
+03/2005 Ärztliche Vorprüfung
+08/2006 – 05/2007 Austauschprogramm ERASMUS an die Cardiff University,
+Wales
+2006 Famulatur Anaestetics, Aylesbury ( London)
+2007Famulatur Orthopeadic Surgery, San Francisco General Hospital, CA
+USA
+03/2008– 2/2009 Praktisches Jahr
+04/2009 2. Teil der Ärztlichen Prüfung
+06/2009 Approbation als Ärztin
+seit 06/2005 Anfertigung der Doktorarbeit „Assoziation von Antikörpern gegen
+α-Fodrin mit dem Sicca-Syndrom bei HIV-Infizierten“
+Hannover, den………………………….
+……………………………………………
+( Unterschrift )
+
+Seite | 80
+
+Lebenslauf
+
+9 Eidesstattliche Erklärung
+Ich erkläre, dass ich die der Medizinischen Hochschule Hannover zur
+Promotion eingereichte Dissertation mit dem Titel“ Assoziation von
+Antikörpern gegen α-Fodrin mit dem Sicca-Syndrom bei HIV-Infizierten“
+in der Abteilung für Klinische Immunologie unter der Betreuung von Prof. Dr.
+med. Torsten Witte ohne sonstige Hilfe durchgeführt und bei der Abfassung
+der Dissertation keine anderen als die dort aufgeführten Hilfsmittel benutzt
+habe.
+Ich habe diese Dissertation an keiner anderen in- oder ausländischen
+Hochschule zur Promotion eingereicht. Weiterhin versichere ich, dass ich den
+beantragten Titel bisher noch nicht erworben habe.
+
+Hannover, den………………………….
+……………………………………………
+( Unterschrift )
+
+Seite | 81
+
+Eidesstattliche Erklärung
+
+10 Danksagung
+Mein besonderer Dank gilt:
+Herrn Prof. Dr. med. Torsten Witte, meinem Doktorvater, der mir in allen
+Phasen der Arbeit zu jeder Zeit mit viel Geduld, Rat und Tat zur Seite stand;
+Herrn Prof. Dr. med. Reinhold E. Schmidt für die Möglichkeit diese Arbeit in
+seiner Klinik durchführen zu können;
+den Mitarbeitern der HIV-Ambulanz
+und insbesondere meiner Familie.
+
+Seite | 82
+
+

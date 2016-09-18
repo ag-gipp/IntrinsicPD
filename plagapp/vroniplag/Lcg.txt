@@ -1,0 +1,5819 @@
+Aus der
+Unfallchirurgischen Klinik
+der Medizinischen Hochschule Hannover
+
+Effekte des Interleukin-6 im Rahmen des
+Systemic Inflammatory Response Syndrome
+(SIRS)
+beim Polytrauma
+an einem Interleukin-6-knock out-Modell der Maus
+
+Dissertation zur Erlangung
+des Doktorgrades der Medizin
+in der Medizinischen Hochschule Hannover
+(Dr. med.)
+
+vorgelegt von
+
+Luer Christian Geerken
+Bremen
+Hannover 2011
+
+
+EINLEITUNG
+
+1 Einleitung
+Die häufigste Todesursache junger Menschen in Industrienationen stellt das Trauma
+dar(1). Bis zum Jahr 2020 wird bedingt durch die rasante Entwicklung in der Dritten
+Welt mit einem weltweiten Anstieg der Todesopfer durch Trauma von 5,1 Millionen
+auf 8,1 Millionen gerechnet(2). In Deutschland wurden 2009 im Rahmen von
+Verkehrsunfällen 68533 Menschern schwerverletzt, 4155 Verunglückte starben an den
+Folgen eines Verkehrsunfalls(3). Dabei handelt es sich vor allem um Patienten, die ein
+Polytrauma, d.h. eine Mehrfachverletzung erlitten haben.
+Unter dem Begriff Polytrauma versteht man die gleichzeitige Verletzung mehrerer
+Körperregionen oder Organsysteme, wobei mindestens eine Verletzung allein oder
+die Kombination mehrerer Verletzungen lebensbedrohlich ist(4).
+Die Hauptursache von Polytraumata sind mit 56,7 – 71,0% Verkehrsunfälle(5). Nach
+solch massiven Verletzungen beträgt die Letalität in der Literatur 18,6 – 35%(5). Durch
+eine verbesserte medizinische Versorgung dieser Patienten konnte seit den siebziger
+Jahren eine Reduktion der Todesrate um etwa 20% erreicht werden. Die Gründe für
+diese Entwicklung sind vielfältig(5). Verbesserungen im Fahrzeugbau und der allgemeinen
+Verkehrssicherheit konnten ebenso zu einer Verminderung der frühen Mortalität und der
+Gesamtverletzungsschwere beitragen, wie die Verkürzung der Rettungszeiten, die
+Verbesserte Ausstattung des Rettungsdienstes und die Verzahnung der präklinischen
+Therapie mit der Schockraumversorgung.
+Als Folge der steigenden Anzahl von Patienten, die trotz schwerster Verletzungen oder
+Verbrennungen lebend die Klinik erreichen, ist die Häufigkeit von Komplikationen trotz
+verbesserter intensivmedizinischer Möglichkeiten dennoch gestiegen(6,7).
+Während die frühe Letalität innerhalb der ersten 24 Stunden nach dem Unfall
+hauptsächlich durch das schwere Schädel-Hirn-Trauma (SHT) und ausgedehnte
+1
+
+EINLEITUNG
+
+Massenblutungen nach Verletzung von großen Gefäßen oder stark durchbluteten
+Organen bestimmt wird(5), wird die Spätletalität durch die pathophysiologischen Folgen
+der ausgedehnten Verletzungen hinführend zu einem posttraumatisch systemischen
+Inflammationssyndrom (SIRS) bis hin zum Multiorgan Dysfunction Syndrom (MODS)
+determiniert.
+Die unkontrollierte Exazerbation inflammatorischer Phänomene wird als Systemic
+Inflammatory Response Syndrome (SIRS) beschrieben(8), die Funktionsstörungen initial
+nicht betroffener Organe als Multiple Organ Dysfunction Syndrome (MODS)(9,10).
+Obwohl sich die Häufigkeit posttraumatischer Organfunktionsstörungen aufgrund
+zunehmender intensivmedizinischer Optionen stetig reduzieren ließ, bleibt die
+Ausbildung eine MODS der determinierende Faktor für die Spätletalität(11). Gemäß
+einer Studie von Nast-Kolb et al. entwickeln immer noch 33% der schwerverletzten
+Patienten im klinischen Behandlungsverlauf ein vorübergehendes Versagen
+mindestens eines Organsystems, etwa 15% der polytraumatisierten Patienten
+entwickeln ein MODS. Im internationalen Vergleich finden sich ähnliche Zahlen
+bezüglich der Inzidenz dieser posttraumatischen Komplikationen(12,13). Aufgrund der
+umfassenden
+
+intensivmedizinischen
+
+Maßnahmen
+
+und
+
+neuer
+
+operativer
+
+Therapiekonzepte (Konzept des damage control) konnte die Inzidenz des MODS in
+den letzten Jahrzehnten zwar signifikant gesenkt werden, allerdings versterben
+immer noch bis zu 50% der polytraumatisierten Patienten, die im Behandlungsverlauf
+ein manifestes MODS entwickeln(14,11). Eine weitere Reduktion der Inzidenz des
+MODS kann zukünftig nur durch eine kausale Therapie des posttraumatischen
+Organversagens möglich sein. Das genauere Verständnis der Pathomechanismen
+von SIRS und MODS erscheint deshalb heute als Erfolg versprechender Weg die
+Letalität schwer verletzter Patienten weiter zu senken.
+
+2
+
+KENNTNISSTAND
+
+2 Kenntnisstand
+2.1 Definition von SIRS, Sepsis und MODS
+An einer Konsensuskonferenz wurde 1992 die systemische Entzündungsreaktion
+(SIRS), Sepsis, schwere Sepsis und der septische Schock erstmals einheitlich
+definiert (Tab. 1). Das SIRS ist durch das Vorhandensein von mindestens zwei von
+vier der Entzündungszeichen definiert. Falls die systemische Entzündungsreaktion
+durch eine Infektion verursacht wurde, wird von einer Sepsis gesprochen. Wenn
+zusätzlich ein oder mehrere Organsysteme versagen, wird die Sepsis als schwer
+bezeichnet. Bei einer zusätzlichen refraktären Hypotension, handelt es sich um einen
+septischen Schock. Das in Folge von SIRS oder Sepsis durch Fehlfunktionen initial
+nicht betroffener Organe hervorgerufene physiologische Ungleichgewicht wird als
+Multi Organ Dysfunction Syndrom (MODS) bezeichnet(8). Das MODS kann sowohl
+nach Trauma als auch nach Sepsis auftreten(15). Trauma und Sepsis können
+zusammen auftreten oder ein Trauma kann im Verlauf eine Sepsis hervorrufen.
+Tabelle 1: Definition der systemischen Entzündungsreaktion (SIRS), Sepsis, schweren
+Sepsis und septischen Schocks
+
+Ausdruck
+
+Definition
+zwei oder mehr der folgenden Entzündungszeichen:
+
+Systemische
+
+Fieber oder Hypothermie (Körpertemperatur >38 °C oder <36 °C)
+
+Entzündungsreaktion
+
+Tachykardie (Herzfrequenz >90/min)
+
+(SIRS)
+
+Tachypnoe (Atemfrequenz >20/min) oder PaCO2 <32 mmHg Leukozyten
+>12 x 109/l oder <4 x109/l oder >10% Stabkernige
+
+Sepsis
+
+systemische Entzündungsreaktion + Infektion
+Sepsis + Organversagen:
+
+Schwere Sepsis
+
+Zeichen einer Organdysfunktion, Hypoperfusion oder arterielle Hypotension.
+Die Hypoperfusion kann sich z.B. als Hypoxämie, Oligurie, Laktazidose oder
+akute Verwirrtheit präsentieren.
+schwere Sepsis + arterielle Hypotension trotz adäquater Flüssigkeitszufuhr:
+
+Septischer Schock
+
+systolischer Druck <90 mmHg, mittlerer Druck <60 mm Hg oder Abfall des
+systolischen Drucks >40 mmHg des Ausgangswertes
+
+3
+
+KENNTNISSTAND
+
+2.2 SIRS, CARS und MARS
+Eine systemische Entzündungsreaktion des Körpers (SIRS), kann durch zahlreiche
+Stimuli verursacht werden. Dazu zählen neben lokal nicht zu beherrschenden
+Infektionen
+
+auch
+
+nicht-infektiöse
+
+Ursachen
+
+wie
+
+schwere
+
+Traumata,
+
+große
+
+Operationen, Strahlenschäden, Verbrennungs-Verletzungen und sterile Pankreatitis
+(Abbildung 2). Der Körper initiiert eine Entzündungskaskade im Rahmen der
+angeborenen, unspezifischen Immunität(8,16), um das Ausmaß der Schädigung lokal
+zu begrenzen und Schaden für den gesamten Organismus abzuwenden. Erreicht der
+Entzündungsprozess systemisches Niveau, so spricht man vom „Systemic
+Inflammatory Response Syndrome“ (SIRS).
+Begleitet wird dieses Syndrom von einer Gegenregulation, dem „Compensatory
+Antiinflammatory Response Syndrom“ (CARS)(17), das eine überschießende
+Entzündung
+
+verhindern
+
+soll.
+
+Durch
+
+die
+
+physiologisch
+
+sinnvolle
+
+Entzündungshemmung wird jedoch gleichfalls die Fähigkeit des Organismus
+eingeschränkt, Krankheitserreger abzuwehren und Gewebe zu reparieren.
+Zahlreiche Untersuchungen der vergangen zwei Jahrzehnte ließen folgendes Bild
+von
+
+der
+
+Entwicklung
+
+des
+
+SIRS
+
+entsprechend
+
+den
+
+von
+
+Mannick
+
+et
+
+al.
+
+zusammenfassend dargestellten Grundlagen entstehen(18):
+Polytraumatisierte
+
+Patienten
+
+entwickeln
+
+meist
+
+direkt
+
+nach
+
+der
+
+initialen
+
+Stabilisierungsphase ein SIRS, dem in einem bestimmten Prozentsatz von Patienten
+multiple Organfunktionsstörungen folgen (early MODS). Überlebt der Patient diese
+Phase,
+
+kann
+
+sich
+
+eine
+
+kompensatorische
+
+Immundysfunktion
+
+(CARS)
+
+mit
+
+verminderter Resistenz gegenüber Infektionen entwickeln. Tritt eine solche Infektion
+in dieser Phase mit den begleitenden Entzündungsreaktionen auf, können sich
+wiederum
+
+multiple
+
+Organdysfunktionsstörungen
+
+bis
+
+hin
+
+zum
+
+multiplen
+
+Organversagen ausbilden (late MODS). In diesem Zusammenhang wurde bereits vor
+4
+
+KENNTNISSTAND
+
+mehr als 20 Jahren erkannt, dass die frühe Exposition eines polytraumatisierten
+Patienten gegenüber weiteren Stress zu einer zusätzlichen Freisetzung von
+immunologisch hoch aktiven Mediatoren kommt, die dann das bereits durch das
+initiale Trauma aus dem Gleichgewicht geratene Immunsystem derart entgleisen
+lassen, daß es zur Ausbildung eines posttraumatischen Organversagens kommt.
+Die Immunantwort des Organismus auf eine schwere Infektion wird somit als ein
+zweiphasiges Konzept verstanden, mit einer initialen systemischen Inflammation
+(SIRS), die einhergeht mit einer systemischen Antiinflammation (CARS), wobei beide
+Phänomene überlappend vorliegen. Mit zunehmender Zeit dominiert dann das CARS
+(19,20)
+
+(Abbildung1).
+
+Bone
+
+nannte
+
+dieses
+
+Nebeneinander
+
+von
+
+systemischer
+
+Inflammation und Antiinflammation „Mixed Antagonistic Response Syndrome“
+(MARS)(20).
+
+Abbildung 1: Schematische Darstellung der Entwicklung eines posttraumatischen
+Organversagens (modifiziert nach Moore et al.(21))
+
+5
+
+KENNTNISSTAND
+
+Abbildung 2: Klinisches Kontiniuum von Infektion, Sepsis und SIRS (modifiziert nach
+Bone et al.(8))
+
+ANDERE
+PANKREATITIS
+
+BAKTERIÄMIE
+
+TRAUMA
+FUNGÄMIE
+
+INFEKTION
+
+SEPSIS
+
+SIRS
+
+VIRÄMIE
+
+VERBRENNUNGEN
+
+ANDERE
+
+2.3 Pathogenese von SIRS und MODS
+Das Immunsystem lässt sich in ein unspezifisches und ein spezifisches System
+unterteilen. Unter dem unspezifischen System versteht man physiologische Barrieren
+wie Schleimhäute, unspezifische humorale Faktoren, wie das Komplementsystem
+und phagozytierende Zellen wie Monozyten, Makrophagen und neutrophile
+Granulozyten (PMN). Unter dem spezifischen System wurden auf humoraler Ebene
+die Bildung von spezifischen Antikörpern und auf zellulärer Ebene differenzierte Tund B-Lymphozyten subsumiert.
+Das unspezifische Immunsystem stellt die initiale Barriere des Organismus zur
+Abwehr von Gefahr für das Individuum dar. Wird dieser Schutzmechanismus durch
+lokale traumatische Gewebszerstörung zerstört kommt es zum Kontakt von
+6
+
+KENNTNISSTAND
+
+Abwehrzellen mit immunologisch aktiver Gewebematrix und geht einher mit Ischämie
+und Reperfusion(18). Hierdurch wird die Aktivierung des Komplement-Systems über
+den klassischen als auch über den alternativen Weg als integraler Bestandteil des
+unspezifischen Immunsystems ausgelöst(22).
+Freigesetzte
+
+Komplementprotein-Spaltprodukte
+
+aktivieren
+
+ihrerseits
+
+zelluläre
+
+Bestandteile des Immunsystems, indem sie chemotaktisch wirken und die
+Opsonierung bzw. Phagozytose von Gewebetrümmern und eingedrungenen
+Mikroorganismen anregen. Findet eine überschießende Komplementaktivierung
+durch ein ausgeprägtes Trauma statt, so kann es zur Depletierung der KomplementFaktoren und damit zum Zusammenbruch der initialen Abwehrkette des Individuums
+kommen(23).
+Bei Hypoxie und Ischämie, wie sie nach Gewebetrauma auftreten, kommt es zur
+Ausschüttung von Mediatoren und Adhäsionsmolekülen(24). Die daran anbindenden
+neutrophilen Granulozyten setzen ihrerseits ebenfalls aktivierende Zytokine,
+Sauerstoffradikale
+
+(respiratory
+
+burst)
+
+und
+
+proteolytische
+
+Enzyme
+
+frei.
+
+Die
+
+neutrophilen Granulozyten sind zwar essentiell für die körpereigene Abwehr, können
+aber auch gewebeschädigende Effekte ausüben.
+Gelingt es dem Immunsystem nicht, eventuelle Erreger zu vernichten, sondern
+gelangen diese oder bakterielle Endotoxine in den Kreislauf, führt dies zu einer
+raschen systemischen Freisetzung von Tumornekrosefaktor-alpha (TNF-α), Platelet
+Activating Factor (PAF), Interleukin-1 (IL-1), Interleukin-6 (IL-6), Interleukin-8 (IL-8),
+Interferon-Gamma (INF-γ) und Prostaglandinen aus Monozyten, Granulozyten und
+aus Endothelzellen(25,26). Die Freisetzung von pyrogen wirkenden Zytokinen führt zu
+Fieber und zur Verringerung des peripheren Gefäßwiderstandes. Mehrere der
+genannten Faktoren haben einen schädigenden Effekt auf Endothelzellen und führen
+zu einer progressiven endothelialen Dysfunktion. Diese resultiert in einer erhöhten
+7
+
+KENNTNISSTAND
+
+Permeabilität mit Transudation in die Organe. Histologisch finden sich in Lungen,
+Nieren
+
+und
+
+Leber
+
+Anzeichen
+
+eines
+
+interstitiellen
+
+Ödems
+
+und
+
+einer
+
+Granulozyteninfiltration(27). Es kommt zur generalisierten systemischen Entzündung.
+Darüber
+
+hinaus
+
+konnte
+
+nachgewiesen
+
+werden,
+
+dass
+
+die
+
+unspezifische
+
+Entzündungsreaktion auch die mit einer gewissen Latenz auftretende Modifikation
+des spezifischen Immunsystems (Th1/Th2-Lymphozyten) vermittelt(28). Zentraler
+Punkt der zellassoziierten Immunantwort scheint die Interaktion des Monozyten/
+Makrophagen-Systems
+präsentierenden
+
+Zellen
+
+mit
+
+dem
+
+(v.a.
+
+T-/B-Zell-Systems
+
+Makrophagen)
+
+zu
+
+verarbeiten
+
+sein.
+das
+
+Die
+
+Antigen-
+
+phagozytierte
+
+Fremdantigen und bieten es den ruhenden T-Lymphozyten an. Zusammen mit der
+Expression des Major Histocompatibility Complex (MHC) der Klasse II sowie der
+Produktion und Ausschüttung von Zytokinen durch die Antigen-präsentierende Zelle
+sind damit Vorraussetzungen für eine Aktivierung der T-Lymphozyten geschaffen.
+Die nun aktivierten T-Lymphozyten synthetisieren ihrerseits spezielle Zytokine, die
+auch als Lymphokine bezeichnet werden. Hierdurch wird sowohl eine weitere
+Aktivierung und Proliferation der T-Lymphozyten-Population als auch eine erneute
+Stimulation der Antigen-präsentierenden Zellen induziert.
+Die Beteiligung von Bakterien an der Ausbildung des SIRS wurde lange Zeit
+kontrovers diskutiert. Es hat sich gezeigt, dass bei polytraumatisierten Patienten das
+gastrointestinale Versorgungsgebiet häufig von passagerer Ischämie entweder durch
+direktes Trauma oder aber als Folge von Zentralisation im hämorrhagischen Schock
+betroffen ist. Persisitierende gastrointestinale Perfusionsstörungen auch nach
+erfolgreicher Schocktherapie sind maßgeblich an Mukosaschäden des Darmes
+beteiligt. Als deren Folge resultiert eine klinisch oft kaum nachweisbare Translokation
+von Bakterien und Endotoxinen über mesenteriale Lymphknoten und Lymphbahnen
+in die systemische Zirkulation(29). Über das Pfortadersystem erreichen diese die
+8
+
+KENNTNISSTAND
+
+Leber,
+
+in
+
+der
+
+ortsständige
+
+Lebermakrophagen,
+
+durch
+
+die
+
+vorangegangene
+
+Schockphase aktiviert, bei Endotoxinkontakt erhebliche Mengen an Mediatoren
+freisetzen. Die Folge sind sowohl eine lokale Umstellung des Leberstoffwechsels auf
+Akut-Phase-Proteine als auch systemische Reaktionen, wie z.B. Alveolarschäden in
+der Lunge(30). Andererseits findet sich das posttraumatische SIRS auch bei Patienten
+ohne gastrointestinale Perfusionsstörung, dass dann am wahrscheinlichsten durch
+IRS-Phänomene der Peripherie ausgelöst wird. In diesem Zusammenhang konnten
+die prinzipiellen Mechanismen der maßgeblich an der Schadensausprägung
+beteiligten Leukozyten-Endothel-Interaktion (LEI) näher aufgeklärt werden und
+insbesondere die Reperfusionsphase des ischämischen Gewebes als kritisch für die
+LEI erkannt werden(31). Obwohl die Reperfusion essentiell für das ischämische
+Gewebe ist, verstärkt sich der parenchymatöse Schaden erheblich durch die dabei
+eingespülten aktivierten Leukozyten, insbesondere durch die PMN-Granulozyten und
+Monozyten/ Makrophagen, die im so genannten Reflow-Paradoxon mit dem Endothel
+des
+
+geschädigten
+
+Gewebes
+
+interagieren(32).
+
+Vorraussetzung
+
+hierfür
+
+ist
+
+die
+
+Expression von Selektinen auf ischämischen Endothelzellen (P-Selektin, E-Selektin)
+ebenso wie auf Leukozyten (L-Selektin). Als weiterer Interaktionspartner wurden
+Adhäsionsmoleküle (ICAM-1, PECAM-1, VCAM-1 etc.) und Integrine identifiziert, die
+das Rollen bzw. die Adhärenz der Leukozyten und deren Migration durch das
+geschädigte Endothel und somit die Phagozytose von geschädigtem Gewebe durch
+die primären Abwehrzellen ermöglichen(33).
+Wie oben erwähnt ist die Verbindung zum spezifischen Immunsystem in diesem
+Zusammenhang nur unzureichend charakterisiert. Möglicherweise können jedoch
+neueste Erkenntnisse über alternative Aktivierungswege des T-Zell-Systems in
+Zukunft weitere Auskunft zur Frage der Interaktion zwischen unspezifischer und
+spezifischer Immunreaktion geben. So ließ sich nach aktueller Forschung eine
+9
+
+KENNTNISSTAND
+
+Aktivierung von NK-Zellen (Natural Killer Cells) durch Faktoren des KomplementSystems oder durch den u.a. auch von Monozyten expremierten Faktor Linker of
+activated
+
+T-Cells
+
+(LAT)
+
+ohne
+
+Präsentation
+
+eines
+
+spezifischen
+
+Antigens
+
+nachweisen(34).
+Durch Aktivierung des Kallikrein - Kininsystems entsteht das Bradykinin, das zu einer
+weiteren Minderung des Gefäßwiderstandes und somit zur Hypotonie beiträgt(35).
+Die Aktivierung des Blutgerinnungssystems führt zu Thromben und Fibrin aus
+Fibrinogen in nahezu allen Gefäßen, wodurch lokale Ischämie auftreten kann. Wenn
+das Fibrinogen verbraucht ist, kommt es zu einer insuffizienten Gerinnung mit
+Extravasation
+
+von
+
+Blut
+
+(Verbrauchskoagulopathie,
+
+Disseminated
+
+Intravasal
+
+Coagulation, DIC).
+Dieser Zustand aus Endothelschaden mit Transudation und Beeinträchtigung der
+Blutzufuhr durch Störung der Mikro- und Makrozirkulation kann im Funktionsverlust
+eines oder mehrerer Organe resultieren. Es entsteht eine Organdysfunktion bzw. bei
+Beteiligung mehrerer Organe eine Multiorgandysfunkion (MODS).
+Die Prozesse im Rahmen einer systemischen Immunreaktion zeichnen sich durch
+das
+
+komplexe
+
+intrazellulären
+
+Zusammenwirken
+Faktoren
+
+und
+
+einer
+
+Vielzahl
+
+von
+
+membran-gebundenen
+
+löslichen
+Molekülen
+
+Mediatoren,
+aus,
+
+deren
+
+Verständnis für Diagnostik und Therapie von kritisch Kranken entscheidend ist.
+
+2.4 Zytokine
+Zytokine sind zentrale Regulatoren der körpereigenen Immunabwehr, deren
+Freisetzung durch verschiedene Faktoren wie Infektion, Trauma und Entzündung
+initiiert werden kann. Mit einem Molekulargewicht von 8.000-50.000 Dalton stellen sie
+dabei verhältnismäßig kleine Proteine dar. In der erstmaligen Beschreibung wurden
+diese Mediatoren als Lymphokine oder aber auch als Monokine, basierend auf ihren
+10
+
+KENNTNISSTAND
+
+zellulären Ursprung, beschrieben. Die Tatsache, dass die Zytokine jedoch von fast
+jeder zellkernhaltigen Zelle produziert werden können, führte zu dem heute
+gebräuchlichen Namen(36).
+Zytokine sind Botenstoffe, die Informationen zwischen den Zellen vermitteln und
+damit Stärke und Dauer der Immun- und Entzündungsreaktion steuern(37).
+Eine Einteilung dieser Mediatoren erfolgt in pro- und antiinflammatorische Zytokine
+anhand ihrer Rolle im Rahmen von Entzündungsreaktionen. Eine starre Einteilung
+erscheint hier jedoch nicht sinnvoll, da bei einigen Zytokinen sowohl pro- als auch
+antiinflammatorische Wirkungsmechanismen beschrieben werden.
+
+2.4.1 Tumornekrosefaktor-α (TNF-α)
+Beim Tumornekrosefaktor handelt es sich um einen der früh auftretenden
+proinflammatorischen Mediatoren in der Kaskade der Zytokine. TNF-α wird vor allem
+von Makrophagen, Monozyten und T-Lymphozyten gebildet. Sowohl gram-negative
+als auch gram-positive Bakterien, Pilze, Mykoplasmen, Tumorzellen, Zytokine wie
+TNF-α selbst, IFN-γ, Il-1, Il-2, Mitogen und Proteinkinase C - Aktivatoren können die
+TNF-α-Synthese
+
+induzieren(38).
+
+Daneben
+
+gehören
+
+Fieber
+
+und
+
+Schock
+
+zu
+
+physiologischen Stimuli. Aber auch Hämorrhagien initiieren eine erhöhte TNF-αFreisetzung(39). Lipopolysaccharid (LPS), eine Komponente von gramnegativen
+Bakterien, aktiviert Monozyten durch Interaktion mit CD14, einem monozytären
+Oberflächenmolekül, zur TNF-α-Synthese(40).
+TNF-α besitzt ein breites Spektrum biologischer Aktivitäten und ist einer der
+Hauptmediatoren bei toxischem Schock und gramnegativer Sepsis. Am Endothel
+hemmt es antikoagulatorische Mechanismen, begünstigt damit thrombotische
+Ereignisse und führt außerdem zu einer Prostaglandin E2 (PGE2) -Freisetzung(41).
+TNF-α spielt unter anderem bei der Entwicklung einer akuten inflammatorischen
+11
+
+KENNTNISSTAND
+
+Lungenverletzung nach Blutverlusten eine wichtige Rolle. Blockieren von TNF-α mit
+monoklonalen
+
+Antikörpern
+
+vermindert
+
+die
+
+durch
+
+Hämorrhagie
+
+induzierte
+
+Lungenverletzung signifikant(42). Im Gehirn kommt es zu erhöhten TNF-αKonzentrationen
+Ischämie(43,44)
+
+nach
+oder
+
+pathologischen
+
+Prozessen
+
+Verletzungen(45).
+
+TNF-α
+
+wie
+
+werden
+
+beispielsweise
+im
+
+Gehirn
+
+einer
+sowohl
+
+neurotoxische(46) als auch neuroprotektive Wirkungen zugesprochen(47). Das Zytokin
+führt im Gehirn zur Proliferation von Astrozyten und ist entscheidend an der
+Erhöhung der Permeabilität der Bluthirnschranke während der Reperfusion
+beteiligt(48).
+
+Über eine Erhöhung von Metalloproteinasen(49), ist TNF-α an der
+
+Schädigung
+
+der
+
+Bluthirnschranke
+
+Basallamina
+beteiligt
+
+und
+
+(50,51)
+
+.
+
+an
+
+TNF-α
+
+der
+wirkt
+
+proteolytischen
+nicht
+
+nur
+
+Zerstörung
+als
+
+Initiator
+
+der
+des
+
+Entzündungsgeschehens, sondern hält auch die Produktion anderer Zytokine über
+einen längeren Zeitraum aufrecht(52). Patienten, die ein MODS entwickeln, haben
+höhere TNF-α-Level verglichen mit Patienten ohne schwere Komplikationen(53).
+Neben spezifisch bindenden Proteinen sind lösliche TNF-α-Rezeptoren dafür
+verantwortlich, dass TNF-α im Plasma nur eine kurze Halbwertszeit von 14-18 min
+aufweist.
+
+2.4.2 Interleukin-6 (IL-6)
+Interleukin-6 wird vor allem von T- und B-Lymphozyten, Monozyten, sowie von
+Endothelzellen und Makrophagen gebildet(54). Die Induktion der IL-6-Synthese erfolgt
+durch LPS, IL-1 und TNF-α. In experimentellen Studien sowie im Rahmen von
+Versuchen an gesunden Probanden konnte gezeigt werden, dass IL-6 nach der
+Applikation von Endotoxin später als TNF-α induziert werden kann(55). T-Zellen
+können IL-6 nur in Gegenwart von Monozyten synthetisieren, während Monozyten
+selbst ohne Stimulus IL-6 produzieren können. IL-6, das sowohl mit dem IL-612
+
+KENNTNISSTAND
+
+Rezeptor (IL-6R) als auch mit Plasma-Membran-Rezeptoren interagiert, induziert die
+Proliferation von B-Lymphozyten und die damit assoziierte Erhöhung der Synthese
+von
+
+Immunglobulinen.
+
+Des
+
+Weiteren
+
+führt
+
+IL-6
+
+zu
+
+einer
+
+verstärkten
+
+T-
+
+Lymphozytenproliferation, einer vermehrten Differenzierung von zytotoxischen TZellen und einer erhöhten Aktivität der NK-Zellen(55). Ebenso wurde beschrieben,
+dass IL-6 die Apoptose von neutrophilen Granulozyten verzögert und somit den
+potentiell schädigenden Effekt auf das Gewebe verlängern kann(56). IL-6 induziert in
+der Leber die Synthese verschiedene anderer Mediatoren, wie Fibrinogen, α1Antitrypsin,
+
+C-reaktives
+
+Protein
+
+(CRP)
+
+und
+
+Komplementfaktoren(57).
+
+In
+
+tierexperimentellen Studien konnte nachgewiesen werden, dass IL-6 einen der
+wesentlichsten Mediatoren Im Rahmen der pathophysiologischen Vorgänge bei
+Trauma und Sepsis darstellt und hohe Plasmaspiegel mit einem schlechten Outcome
+assoziiert sind(58). Neben diesen proinflammatorischen Eigenschaften wird jedoch
+auch ein antiinflammatorischer Wirkungsmechanismus angenommen. So konnte
+gezeigt werden, dass IL-6 die Synthese von den proinflammatorischen Zytokinen
+TNF-α und IL-1 reduziert sowie die Freisetzung von antiinflammatorischen
+Mediatoren wie z.B. Glukokortikoiden und löslichen TNF-Rezeptoren erhöht(59).
+Aufgrund seines im Vergleich zu TNF-α späten Anstiegs und einer deutlich längeren
+Halbwertszeit erscheint IL-6 als Parameter sehr gut geeignet, um das Ausmaß und
+den Zeitpunkt sekundärer Operationen nach einem Polytrauma zu bestimmen(60).
+Miyaoka et al. konnten nachweisen, dass die Entwicklung eines SIRS am ersten
+postoperativen Tag nach einem elektiven Eingriff mit signifikant erhöhten IL-6Plasmakonzentrationen assoziiert war(61). Am 3. postoperativen Tag konnten die
+SIRS-Kriterien bei keinem der Patienten mehr nachgewiesen werden. Parallel hierzu
+zeigte sich zu diesem Zeitpunkt auch eine signifikante Reduktion der IL-6Plasmakonzentrationen. Die Autoren schlossen hieraus, dass IL-6 einen adäquaten
+13
+
+KENNTNISSTAND
+
+Parameter
+
+zur
+
+Bestimmung
+
+des
+
+Schweregrades
+
+der
+
+postoperativen
+
+Entzündungsreaktion darstellt. IL-6 weißt 4-48h nach operativen Eingriffen die
+höchsten systemischen Reaktionen auf(62).
+In anderen klinischen Studien konnte zusätzlich gezeigt werden, dass die
+postoperativen IL-6-Plasmaspiegel mit der Entwicklung von Komplikationen (Sepsis,
+MODS)
+
+korrelierten(63).
+
+Außerdem
+
+wurde
+
+eine
+
+Korrelation
+
+der
+
+IL-6-
+
+Plasmakonzentration direkt nach einem Trauma mit dem ,,Injury Severity Score“
+(ISS) nachgewiesen(64). Ein volumensubstituierter hämorrhagischer Schock bewirkt
+eine IL-6-Produktion in der Lunge, was zu Infiltration von neutrophilen Granulozyten
+und sekundären Lungenverletzungen führt(65). An Endothelzellen führt Interleukin-6
+zu einer reversiblen Erhöhung der Permeabilität(66). IL-6 wird auch in anderen
+Organen, wie beispielsweise der Leber gebildet(67). Auch bei der Entwicklung einer
+Darmbarrierendysfunktion nach substituiertem hämorrhagischen Schock ist IL-6 ein
+wesentlicher Mediator(68). Im Gegensatz zu den lokalen proinflammatorischen
+Effekten von IL-6 führen systemische IL-6-Applikationen zu drastisch verminderten
+Entzündungsreaktionen und Schäden in Lunge und Leber(69). Bei hämorrhagischem
+Schock dominieren jedoch die lokalen proinflammatorischen Effekte, die zu
+Granulozyteninfiltration und Organschäden führen(70). Sowohl an Patienten als auch
+im Rattenmodell konnte gezeigt werden, dass es nach einem Schädelhirntrauma zu
+einer Erhöhung der IL-6-Spiegel im Plasma und noch deutlicher im Liquor
+cerebrospinalis
+
+kommt(71).
+
+Im
+
+Gehirn
+
+wird
+
+IL-6
+
+eine
+
+wichtige
+
+Rolle
+
+bei
+
+Reparaturprozessen nach einer traumatischen Hirnschädigung zugesprochen(72).
+Andererseits kann eine erhöhte IL-6- Produktion im Gehirn auch die Funktion der
+Bluthirnschranke beeinflussen und an einer Schädigung des Hirnparenchyms
+beteiligt sein(73). Die Expression von IL-6 im Gehirn führt außerdem zur Entwicklung
+einer reaktiven Gliose(74).
+14
+
+KENNTNISSTAND
+
+2.4.3 Interleukin-12 (IL-12)
+Sowohl dendritische Zellen, neutrophile Granulozyten und Makrophagen als auch
+Keratinozyten und Mikroglia produzieren Interleukin-12 und induzieren damit die
+Proliferation von T-Zellen und NK-Zellen und deren Ausreifung zu zytotoxischen
+Effektorzellen ebenso wie die Produktion von INF-γ(75,76). Auch bei der Entwicklung
+von naiven T-Zellen zu Th1-Zellen wirkt IL-12 als Stimulator und fördert damit die
+zelluläre Immunabwehr.
+So wurde bei extrakraniellen Traumata ein Zusammenhang zwischen erniedrigten IL12 Werten und verminderten Resistenz gegenüber Infektionen und erhöhter
+Mortalität nachgewiesen(77). Bei Polytraumapatienten ist die Datenlage nicht
+eindeutig, es wurden sowohl erhöhte als auch erniedrigte IL-12 Plasmaspiegel
+gemessen(77). Bei Schädelhirntraumapatienten wurden signifikant erhöhte IL-12Werte im Liquor gemessen(78), das hier hauptsächlich von Mikroglia(79) und
+Astrozyten(80) produziert wird. Die Astrozyten wirken dabei durch Hemmung von
+Mikroglia als Regulator auf die IL-12-Produktion(81).
+
+2.4.5 Interferon-γ (IFN-γ)
+IFN-γ wird neben Th1-Lymphozyten, CD8+-T-Zellen und NK-Zellen auch von
+dendritischen Zellen, Makrophagen und Astrozyten gebildet(82). Durch IFN-γ wird die
+Differenzierung von Th1-Zellen indirekt über die Hemmung der Proliferation von Th2Zellen(83) und direkt über eine Optimierung der Ansprechbarkeit auf IL-12
+gefördert(84). Des Weiteren aktiviert IFN-γ Makrophagen und erhöht deren
+Zytotoxizität. Djeu und Blanchard konnten 1988 nachweisen, dass IFN-γ auch auf
+neutrophile Granulozyten und NK-Zellen aktivierend wirkt und die Differenzierung zu
+
+15
+
+KENNTNISSTAND
+
+zytotoxischen T-Zellen initiiert(85). Auf Monozyten hat IFN-γ einen chemotaktischen
+Einfluss. In einem Tierexperiment an Mäusen konnte schon 1988 gezeigt werden,
+dass eine IFN-γ-Injektion nach hämorrhagischem Schock die Mortalität signifikant
+senkt(86). In jüngster Zeit wurde nachgewiesen, dass sowohl bei Patienten mit
+Schädelhirntrauma(87), wie auch bei cerebraler Ischämie(88) vermehrt IFN-γ-mRNA
+exprimiert wird. Es konnte gezeigt werden, dass IFN-γ zu einer Aktivierung von
+Astrozyten führt(89) und ein wichtiger Mediator der reaktiven Gliose ist(90).
+
+2.4.6 Monocyte chemoattractant protein-1 (MCP-1)
+Die Funktion des MCP-1, ist die chemotaktische Wirkung auf Leukozyten. Es wird
+nach Induktion von Makrophagen, bestimmten Gewebszellen wie Fibroblasten und
+Endothelzellen aber auch von Astrozyten und Neuronen gebildet(91).
+In diversen Studien wurde belegt, dass MCP-1 chemotaktisch auf Monozyten, TLymphozyten und murine Astrozyten wirkt(92) und die Migration aktivierter NK-Zellen
+fördert(93). Rosseau et al. zeigten 2000, dass eine MCP-1-Erhöhung bei ARDSPatienten in der bronchoalveolären Lavage (BAL) von einem vermehrten MonozytenEinstrom begleitet ist. Die Stärke der respiratorischen Funktionsstörung korreliert mit
+der MCP-1 Konzentration(94). Im Gehirn deuten entsprechende Rezeptoren auf
+Mikroglia darauf hin, dass dieses Chemokin an Interaktionen zwischen Neuronen
+und Mikroglia beteiligt ist. Es konnte eine erhöhte Expression von MCP-1 in
+Neuronen
+
+nach
+
+Nervenverletzungen
+
+nachgewiesen
+
+werden(95).
+
+Studien
+
+am
+
+ischämischen Hirn bewiesen, dass MCP-1 eine entscheidende Rolle bei der
+Migration von Makrophagen in die Läsion spielt und dass die zeitlich unterschiedliche
+Freisetzung
+
+von
+
+Chemokinen
+
+zu
+
+Leukozytensubtypen beiträgt(96).
+
+16
+
+Regulierung
+
+von
+
+eindringenden
+
+KENNTNISSTAND
+
+2.5 Tierexperimentelle Modelle
+2.5.1 Experimentelles Schädelhirntrauma
+In den letzten Jahren wurden verschiedene tierexperimentelle SchädelhirntraumaModelle etabliert. Entsprechend der Gewalteinwirkung direkt vs. indirekt ist eine
+Einteilung in 3 Hauptgruppen sinnvoll:
+
+
+
+Direct-Brain-Deformation-Modelle
+
+
+
+Inertial-Acceleration-Modelle und
+
+
+
+Impact-Acceleration-Modelle
+
+Bei den Direct-Brain-Deformation-Modellen kommt es über eine Kraniotomie zu einer
+direkten Krafteinwirkung auf die Dura mater und somit zu einer Komprimierung des
+Cortex Cerebri ohne zwischengeschaltete energie- absorbierende Strukturen. Beim
+Fluid-Percussion-Modell(97) wird nach der Trepanation durch Injektion physiologischer
+Kochsalzlösung eine Druckwelle initiiert, die sich dann im Epiduralraum konzentrisch
+ausbreitet und damit lokal zu einer Gehirnprellung führt. Durch Variation der Dauer
+und der Höhe des Flüssigkeitsdruckes kann die Schwere des Traumas beeinflusst
+werden. Ein weiteres Direct-Brain-Deformation-Modell ist das von Lighthall et al.
+1988 entwickelte Controlled-Cortical-Impact-Modell(98). Hierbei wird das Trauma
+durch einen pneumatisch angetriebenen Impactor (Druckkolben), der auf die durch
+Trepanation freigelegte intakte Duraoberfläche trifft, ausgelöst. Durch Veränderung
+der Eindringtiefe und der Aufschlaggeschwindigkeit kann die Schwere des Traumas
+variiert werden.
+
+17
+
+KENNTNISSTAND
+
+Bei den Inertial-Acceleration-Modellen wird das Schädelhirntrauma durch definierte
+Rotationsbeschleunigungen des Kopfes ohne Aufprall ausgelöst. Dieses Modell
+wurde von Ommaya et al. bereits 1966 am Affen etabliert und von Ross et al. 1994
+für die Anwendung am Schwein modifiziert(99,100).
+Bei den Impact-Acceleration-Modellen wird ein Beschleunigungstrauma durch direkte
+Gewalteinwirkung auf den Schädel erreicht, wie es beim durch Shapira et al. 1988
+etablierten Weight-Drop-Modell(101) der Fall ist. Dieses Modell wurde durch Marmarou
+et al. 1994 weiterentwickelt und durch Chen et al. 1996 auf die Maus
+übertragen(102,103). Hierbei wird das Schädelhirntrauma ausgelöst, indem ein
+definiertes Gewicht aus einer bestimmten Höhe auf den Schädel trifft. Der
+Schweregrad der Verletzung kann hierbei durch Variieren der Fallhöhe bzw. des
+Gewichtes verändert werden.
+Dieses Modell kam auch in dieser Arbeit in modifizierter Form zur Anwendung und
+wird in Kapitel 4.4 detailliert beschrieben.
+
+2.5.2 Frakturmodelle und experimenteller hämorrhagischer Schock
+An vielen Spezies wurden Frakturmodelle für verschiedene Brucharten an
+unterschiedlichen Knochen, hauptsächlich der Extremitäten, aber auch der Rippen
+entwickelt(104,105). So kann eine Fraktur beispielsweise durch 3-Punkt-Biegung mit
+Hilfe einer Zange oder mittels einer Art Guillotine ausgelöst werden(106)). Die meisten
+Modelle dienen der Untersuchung der Frakturheilung und deren Komplikationen aber
+auch der Entwicklung und Bewertung verschiedener Osteosyntheseverfahren. Es
+existieren
+
+jedoch
+
+auch
+
+Frakturmodelle
+
+für
+
+bestimmte
+
+Fragestellungen
+
+der
+
+Unfallchirurgie, in denen zum Beispiel die Auswirkungen der Fraktur auf den
+Organismus untersucht werden, etwa ob eine Fraktur, dass durch einen
+hämorrhagischen Schock beeinträchtigte Immunsystem noch weiter beeinflusst(107).
+18
+
+KENNTNISSTAND
+
+Um experimentell einen hämorrhagischen Schock auszulösen, wurden ebenfalls
+verschiedene Modelle an unterschiedlichen Spezies etabliert. Im Wesentlichen
+unterscheidet man zwischen unkontrollierten und druck- bzw. volumenkontrollierten
+Schockmodellen. Ein unkontrollierter hämorrhagischer Schock wird durch eine
+chirurgisch nicht kontrollierte Blutung ausgelöst. Wichtig ist hierbei, dass die Blutung
+über eine messbare Zeitspanne anhält, dabei ein signifikantes Blutvolumen verloren
+wird und die Blutung spontan endet(108). Bei dem druckkontrollierten Schockmodell
+nach Wiggers et al. von 1950 wird die zu entziehende Blutmenge über den Blutdruck
+reguliert(109). Dem Tier wird so viel Blut abgenommen, bis ein definierter mittlerer
+arterieller Druck (MAD) erreicht ist. Dieser wird dann bis zur Substitution für eine
+bestimmte Zeitspanne aufrechterhalten. Das durch Collins et al. 1969 etablierte
+volumenkontrollierte Schockmodell funktioniert analog, nur wird statt des MAD das
+abzunehmende Blutvolumen zur Kontrolle herangezogen. Über das Körpergewicht
+des Tieres wird sein Gesamtblutvolumen errechnet und ein definierter Teil dieses
+Blutvolumens abgenommen(110).
+Um die klinische Situation der Hämorrhagie durch ein Trauma zu simulieren, werden
+die genannten Schockmodelle mit unterschiedlichen Traumata wie etwa einer
+Laparotomie oder Frakturen der langen Röhrenknochen kombiniert(107). Da
+insbesondere die Femurfraktur beim Menschen mit einem starken Blutverlust
+einhergeht, soll der experimentelle hämorrhagische Schock, der mit einer
+Femurfraktur kombiniert wird, in erster Linie diesen Blutverlust nachahmen.
+In der vorliegenden Studie wurde ein volumenkontrollierter hämorrhagischer Schock,
+mit einer geschlossenen Fraktur des Femurs und einem Schädelhirntrauma (WeightDrop-Modell) im Sinne eines Polytraumas kombiniert. Die Methoden werden
+detailliert in Kapitel 4.4 beschrieben.
+
+19
+
+FRAGESTELLUNG
+
+3 Fragestellung
+Die vorliegende Arbeit soll Effekte des Interleukin-6 im Rahmen des Systemic
+Inflammatory Response Syndrome beim Polytrauma aufzeigen.
+Auf der Basis eines tierexperimentellen Modells wurde ein geschlossenes
+Schädelhirntrauma, eine stumpfe Weichteil- und Knochenverletzung (Femurfraktur)
+und ein hämorrhagischer Schock im Sinne eines Polytraumas kombiniert.
+Die Versuchsreihe wurde sowohl an Interleukin-6 knock-out Mäusen (IL-6-/-), bei
+denen das Gen für Interleukin-6 mittels genetischer Manipulation (Gene targeting)
+deaktiviert wurde, als auch parallel an Mäusen vom Wildtyp (WT) durchgeführt.
+Anhand klinischer, histopathologischer und immunologischer Untersuchungen
+wurden die Auswirkungen des Polytraumas im Tiermodell verdeutlicht und folgende
+Hypothesen untersucht:
+
+
+
+Interleukin-6 hat einen Effekt auf die Letalität und den klinischen Zustand der
+Tiere (Aktivitätsverhalten, Körperkerntemperatur und Körpergewicht) nach
+komplexem Trauma.
+
+
+
+Interleukin-6 hat einen Effekt auf die T-Zell vermittelte Immunantwort, sowie
+die Plasmakonzentrationen der Zytokine TNF-α, MCP-1, IL-12 und IFN-γ nach
+komplexem Trauma.
+
+
+
+Interleukin-6 hat einen Effekt auf histologische Veränderungen in den
+Organen Lunge, Leber, Milz, Niere und Gehirn im Sinne konsekutiver
+Organdysfunktion nach komplexem Trauma.
+
+20
+
+MATERIAL UND METHODEN
+
+4 Material und Methoden
+4.1 Versuchstiere
+Die Studie wurde an 20 männlichen Mäusen des Inzuchtstammes B6; 129S2IL6tmlKopf (IL-6 Knockout = IL-6-/-), mit einem mittleren Gewicht von 27,6 ± 2,3 g und
+zur Kontrolle an 16 männlichen Mäusen des Inzuchtstammes C57BL/6J (Wildtyp =
+WT), mit einem mittleren Körpergewicht von 28,3 ± 2,4 g durchgeführt.
+Die Tiere stammten aus dem Zentralen Tierlaboratorium der Medizinischen
+Hochschule Hannover. Sie wurden in Gruppengrößen von vier bis sechs Tieren in
+Makrolon®-Käfigen Typ III (Tecniplast, Buguggiate, Italien) unter kontrollierten
+Umweltbedingungen bei einer Raumtemperatur von 20°C ± 2°C und einem 12-hTages-Nacht-Rhythmus gehalten. Die Tiere erhielten ein pelletiertes Alleinfuttermittel
+(Altromin® 1324, Altromin GmbH, Lage) ad libitum und hatten über Makrolon®Flaschen
+
+stets
+
+freien
+
+Zugang
+
+zu
+
+Trinkwasser.
+
+Als
+
+Einstreu
+
+fand
+
+ein
+
+Standardweichholzgranulat für Labortiere (Altromin GmbH, Lage) Verwendung.
+Zweimal pro Woche wurden die Tiere in neue Käfige mit frischem Trinkwasser und
+Futterpellets umgesetzt.
+Die Versuche der WT- und IL-6-/- Mäuse wurden von der Bezirksregierung Hannover
+unter dem Aktenzeichen 08/1478 am 03.06.2008 und unter dem Aktenzeichen
+
+03/672 am 10.07.2003, Verlängerung am 14.01.2005, genehmigt.
+
+21
+
+MATERIAL UND METHODEN
+
+4.2 Versuchsaufbau
+Zur Verdeutlichung der Effekte von Interleukin-6 für das SIRS beim Polytrauma
+anhand eines Polytrauma-Modells der Maus wurden insgesamt 36 Tiere, 20 IL-6
+
+-/-
+
+Tiere und als Kontrollgruppe 16 Tiere vom Wildtyp, operiert.
+
+Tabelle 2: Aufteilung der Gruppen unter Angabe von Mäusestamm und Tieranzahl
+
+Gruppe
+1
+2
+
+Stamm
+WT
+IL-6-/-
+
+Anzahl
+16
+20
+
+Zur Initiierung eines Polytraumas wurde eine geschlossene Fraktur des Femurs, mit
+einer volumenkontrollierten Hämorrhagie und einem definiertem geschlossenen
+Schädelhirntrauma kombiniert.
+Die T-Zell vermittelte Aktivierung des Immunsystems der Tiere wurde nach Auslösen
+einer Kontakthypersensibilitätsreaktion (Typ-IV-Reaktion) ermittelt.
+Die Versuchsdauer betrug 96 Stunden. 96 Stunden post Trauma wurden die Tiere
+mittels Exsanguination durch mediane Laparatomie euthanasiert.
+Blut und die Organe Lunge, Leber, Milz, Niere und Gehirn wurden entnommen,
+histologisch aufbereitet und mittels Hämatoxylin und Eosin (H.E.) gefärbter Präparate
+untersucht. Die histologischen Hirnschnitte wurden zusätzlich mit Hilfe einer NisslFärbung und den immunhistochemischen Färbungen GFAP (Glial Fibrillary Acidic
+Protein) und APP (Amyloid Precursor Proteins) angefärbt. Aus einem Teil der Milz
+wurde eine Zellsuspension hergestellt. Mittels Durchflusszytometrie wurde sowohl
+die Milzsuspension auf Lymphozyten als auch das Plasma auf Zytokinkonzentration
+untersucht.
+
+22
+
+MATERIAL UND METHODEN
+
+4.3 Studienablauf
+Zwei Tage vor der Durchführung des Traumas wurde nach der Visite, die immer aus
+der
+
+Ermittlung
+
+der
+
+klinischen
+
+Untersuchungsparameter
+
+(Gewicht,
+
+Körperkerntemperatur, Aktivität und Ohrdicke) bestand, die Sensibilisierung der
+Mäuse am Rücken mit 1%igem DNFB (2,4-Dinitrofluorobenzen) für die spätere
+Messung der Hypersensibilitätsreaktion vom verzögerten Typ (Typ-IV-Reaktion)
+durchgeführt.
+
+Vierundzwanzig
+
+Stunden
+
+später
+
+wurde
+
+eine
+
+weitere
+
+Visite
+
+durchgeführt, die dazu diente, eine mögliche Reaktion auf die DNFB-Sensibilisierung
+zu erkennen. Unmittelbar vor der Durchführung des Traumas fand dann die nächste
+Visite statt (Visite 0). Die folgenden drei Visiten (12 h, 24 h und 48 h nach Trauma)
+dienten der Erfassung der klinischen Untersuchungsparameter und der Ohrdicke.
+Nach 72h post Trauma wurden die Tiere erneut mit 0,5% DNFB dorsal am rechten
+Ohr
+
+in
+
+Kontakt
+
+gebracht.
+
+Durch
+
+diesen
+
+Zweitkontakt
+
+wurde
+
+die
+
+Hypersensibilitätsreaktion vom Typ IV ausgelöst (T-Zell vermittelt), die 24 Stunden
+später (96-h post Trauma) anhand der Ohrdickenzunahme quantitativ erfasst werden
+konnte. Dieser Visite folgte die Euthanasie der Tiere, die Organentnahme und die
+entsprechende Aufbereitung und Auswertung der Proben.
+Im Falle übermäßigen Leidens eines Tieres durch das Trauma wurde das
+entsprechende Tier vor Abschluss der Studie euthanasiert.
+
+23
+
+MATERIAL UND METHODEN
+
+Abbildung 3: Studienablauf mit Angabe der Untersuchungszeitpunkte und Art der
+Versuchsdurchführung
+
+4.4 Durchführung des Polytraumas
+Zur Durchführung der Versuche erfolgte die Narkose mittels subkutaner Injektion von
+100 mg/kg Körpergewicht Ketamin (Ketanest®) und 16 mg/kg Körpergewicht
+2%igem Xylazin (Rompun®). Die Augen der Tiere wurden mit Dexpanthenol
+(Bepanthen® Augen- und Nasensalbe) gegen Austrocknung geschützt. Die
+Operationsfelder wurden rasiert, gereinigt und desinfiziert.
+Nach erfolgter Traumatisierung verblieben die Tiere zum Schutz vor Hypothermie
+unter einer Rotlicht-Wärmelampe. Eine Analgesie wurde bis zur Euthanasie und
+Organentnahme (96h post Trauma) mit Metamizol (Novaminsulfon Ratiopharm®
+Tropfen) (1mg/ml) ad libitum über das Trinkwasser erreicht.
+Bei beiden Versuchsgruppen wurden die unten beschriebenen Traumata mit einer
+Hämorrhagie kombiniert und damit ein Verletzungsmuster eines Polytraumas
+verursacht.
+24
+
+MATERIAL UND METHODEN
+
+4.4.1 Femurfraktur
+Der rechte Femurschaft des Tieres wurde mit Hilfe einer nach Hiltunen et al.
+modifizierten Frakturmaschine (Abbildung 4) mit einem standardisierten Gewicht von
+400 g und einer Fallhöhe von 160 mm frakturiert. Dazu wurde nach der Kontrolle der
+Narkosetiefe palpatorisch der rechte Femur aufgesucht und mittig unter der
+Frakturmaschine fixiert. Das definierte Gewicht wurde auf den Stempel fallen
+gelassen und somit das Trauma initiiert. Anschließend wurde durch Überprüfen von
+Krepitation und pathologischer Beweglichkeit in der Frakturzone der Bruch
+kontrolliert. In den Fällen, in denen keine Fraktur aufzufinden war, wurde die
+Traumatisierung wiederholt und dies protokolliert. Der Bruch wurde geschlossen
+reponiert und mit einer Schiene versorgt.
+
+4.4.2 Hämorrhagischer Schock
+Unmittelbar nach Durchführung der Femurfraktur wurde dem Tier noch in Narkose
+durch
+
+Punktion
+
+des
+
+retrobulbären
+
+Venenplexus
+
+60%
+
+seines
+
+Blutvolumens
+
+abgenommen. Hierbei wurde nach Stauen der Halsgefäße durch Zwangsgriff im
+Nackenbereich eine heparinisierte (Liquemin® N 25000, Hoffmann-La Roche AG,
+Grenzach-Wyhlen) Hämatokrit-Glaskapillare (End-to-End, 20µl K2 EDTA, Sarstedt,)
+vorsichtig unter leichten Drehbewegungen am nasalen Augenwinkel in Richtung auf
+das kontralaterale Kiefergelenk eingeführt bis die knöcherne Orbita erreicht wurde.
+Durch leichtes Zurückziehen der Kapillare stieg das Blut auf. Die Menge des
+abzunehmenden Blutes war zuvor mittels folgender Formel errechnet worden:
+Formel 1:
+Formel zum Errechnen der abzunehmenden Blutmenge für den
+hämorrhagischen Schock; 33,3 = mittlerer Hämatokrit; 20 µl = Volumen der
+Hämatokrit-Glaskapillare; 1,1 mg/µl = Dichte von Mäuseblut
+
+25
+
+MATERIAL UND METHODEN
+
+Das Blut wurde in einem sich auf einer Feinwaage (Typ L 610, Sartorius GmbH,
+Göttingen) befindenden Eppendorfröhrchen (Eppendorf, Hamburg) gesammelt und
+dadurch die Blutmenge während des Abnehmens kontrolliert.
+Der hypovolämische Zustand der Tiere wurde für 60 Minuten aufrechterhalten.
+Während dieser Zeit befanden sie sich unter einer Wärmelampe, um eine
+Hypothermie zu vermeiden. Danach wurde zur Volumensubstitution sterile RingerLactat-Lösung (Braun, Melsungen) in vierfacher Menge des entnommenen
+Blutvolumens intraperitoneal appliziert.
+
+4.4.3 Schädelhirntrauma
+Die Erzeugung des geschlossenen Schädelhirntraumas erfolgte mit Hilfe des
+modifizierten Modells nach Shapira et al. (Abbildung 5).
+Der Kopf des tief narkotisierten Tieres wurde in einem stereotaktischen Rahmen
+fixiert und eine Mittellinieninzision der Haut durchgeführt. Nach Abspannen der
+Kopfhaut nach lateral und erfolgter Blutstillung wurde die Sutura sagittalis und kaudal
+die Sutura coronalis aufgesucht. Der Druckkolben mit einem Durchmesser von 3 mm
+wurde links der Sutura sagittalis und kaudal der Sutura coronalis positioniert.
+Ansteuerung und Geschwindigkeitsmessung erfolgten mit der auf einem Laptop
+installierten Software ,,Labview“ (National Instruments, Austin, USA). Mittels
+Sensoren an der SHT-Maschine wurde die Beschleunigung und die Wegstrecke
+ermittelt und unmittelbar nach dem Auftreffen auf der Kalotte auf dem Laptop
+angezeigt. Die mittlere Geschwindigkeit lag bei 3 m/s. Unmittelbar vor der
+Traumaapplikation wurde die Geschwindigkeit des Schusszylinders nochmals mit
+Probeschüssen überprüft. Nach erfolgter Traumatisierung wurden die Kopfhaut mit
+etwa vier Einzelheften aus nichtresorbierbarem Nahtmaterial (4.0 Prolene, Ethicon,
+Norderstedt) verschlossen.
+
+26
+
+MATERIAL UND METHODEN
+
+Abbildung 4: Femurfrakturmaschine, modifiziert nach Hiltunen et al.(106)
+
+Abbildung 5: Schädelhirntrauma-Maschine modifiziert nach Shapira et al.(101),
+Detailaufnahme: Druckkolben
+
+27
+
+MATERIAL UND METHODEN
+
+4.5 Übersicht Untersuchungsparameter
+Um die Auswirkungen der durchgeführten Traumata beurteilen zu können, wurden
+folgende Parameter untersucht:
+Tabelle 2: Parameter zur Beurteilung der Ausbildung eines SIRS nach Trauma
+
+Untersuchung
+
+Parameter
+
+Letalität bzw. Überlebensrate
+
+Todeszeitpunkte
+Körpergewicht
+
+Klinische Untersuchung
+
+Körperkerntemperatur
+Aktivität
+
+Immunstatus/ Typ-IV-Reaktion
+
+Ohrdicke
+Interstitielles Ödem
+
+Lunge
+
+Granulozyteninfiltration
+Interstitielles Ödem
+Granulozyteninfiltration
+
+Histologische
+
+Leber
+
+Hydropische Degeneration
+
+Untersuchung
+
+Nekrose
+Abgrenzbarkeit der Milzpulpa
+Milz
+
+Fülle der weißen Milzpulpa
+Fülle der Glomeruli
+
+Niere
+
+Granulozyteninfiltration
+relative Cortexdicke
+
+Histologische und
+
+Qualitative Beurteilung der Neuronen
+
+Immunhistochemische
+
+Astrozytendichte im Cortex
+
+Untersuchung
+
+Gehirn
+
+Astrozytendichte im Hippocampus
+
+Lymphozyten-
+
+CD4+-T-Zellen
+
+subpopulation in CD8+-T-Zellen
+der
+NK-Zellen (Ly49)
+Milzsuspension
+Durchflusszytometrie
+
+TNF-α
+Zytokin-
+
+MCP-1
+
+konzentrationen
+
+IL-12
+
+Im Plasma
+
+IFN-γ
+
+28
+
+MATERIAL UND METHODEN
+
+4.6 Klinische Untersuchungsparameter
+Um eine Aussage über die Letalität bzw. Überlebensrate zu erhalten, wurden die
+Todeszeitpunkte der Tiere bei den Visiten notiert. Für die Beurteilung des klinischen
+Allgemeinzustandes wurden Körpergewicht, Körperkerntemperatur und die Aktivität
+erfasst.
+Die Körperkerntemperatur wurde rektal mit einem digitalen Thermometer (Typ GTH
+1200, Greisinger Electronic GmbH, Regenstauf) gemessen. Anschließend wurde das
+Körpergewicht der Tiere ermittelt (Typ P1200, Mettler-Waagen GmbH, Gießen).
+Die Aktivität der Mäuse wurde anhand der in Tabelle 3 abgebildeten Skala beurteilt.
+Hierbei wurde je nach Verhalten des Tieres die Aktivität von 1 (moribund) bis 6 (sehr
+aktiv) bewertet(111).
+
+Tabelle 3: Skala zur Beurteilung der Aktivität der Versuchstiere anhand definierter
+Aktivitätsgrade durch spezifische Verhaltensmerkmale nach van Griensven.
+
+6
+
+sehr aktiv
+
+kräftig, neugierig, schnelle Bewegungen
+
+5
+
+aktiv
+
+neugierig schnell, vereinzelte Aktivitätspausen
+
+4
+
+eingeschränkt aktiv
+
+Reaktion auf Zuwendung, häufige Aktivitätspausen
+
+3
+
+ruhig
+
+Desinteressiert an Umwelt, schläfrig
+
+2
+
+lethargisch
+
+keine Aktivität, Verharren, keine Nahrungsaufnahme
+
+1
+
+moribund
+
+keine Aktivität, Tod zu erwarten
+
+29
+
+MATERIAL UND METHODEN
+
+4.7 T-Zell-vermittelte Typ IV-Reaktion
+Für die Erfassung des Immunstatus der Tiere wurde eine T-Zell-vermittelte Typ-IVReaktion mittels DNFB (2,4 Dinitroflourobenzen) ausgelöst. 24 Stunden nach
+Zweitkontakt (Challenge) mit dem Antigen konnte die Ödemreaktion am rechten Ohr
+quantitativ als Ohrdickenzunahme beobachtet werden. Um diese berechnen zu
+können, wurde die Ohrdicke des rechten Ohres bei jeder Visite mit Hilfe eines
+Präzisionsmikrometers (Oditest®, Kroeplin GmbH, Schlüchtern) gemessen.
+Die Kontaktsensibilisierung mittels epikutaner Applikation von 50 µl 1%igem DNFB
+(DNFB, Sigma-Aldrich Chemie GmbH, Steinheim) am teilrasierten Rücken wurde
+nach der ersten Visite, 48 Stunden vor Trauma durchgeführt.
+Der
+
+wiederholte
+
+Antigenkontakt
+
+(Challenge)
+
+fand
+
+24
+
+Stunden
+
+vor
+
+der
+
+Organentnahme statt (72h Visite). Hierbei wurden 50 µl 0,5%iges DNFB epikutan auf
+der dorsalen Seite des rechten Ohres der Mäuse aufgetragen.
+Das Protokoll für die Herstellung des 1%igen bzw. 0,5%igen DNFB-Ansatzes
+befindet sich im Anhang.
+Zur Quantifizierung der Immunantwort, die als inflammatorische Ödemreaktion
+imponierte, diente der Quotient der Ohrdicke 24 Stunden nach Zweitkontakt (96h
+Visite) und der Ohrdicke vor diesem Zweitkontakt jedoch nach Erstsensibilisierung
+(72h Visite).
+
+Formel 2: Formel zur Berechnung der relativen Veränderung der Ohrdicke
+
+relative Ohrdickenveränderung =
+
+Ohrdicke nach Zweitkontakt mit DNFB
+Ohrdicke vor Zweitkontakt mit DNFB
+
+30
+
+MATERIAL UND METHODEN
+
+4.8 Blut- und Organentnahme
+Die Probengewinnung fand 96 Stunden nach Durchführung des Traumas statt. Dazu
+wurden die mit Ketamin (100 mg/kg Körpergewicht) und 2%igem Xylazin (16 mg/kg
+Körpergewicht) narkotisierten Tiere durch Exsanguination getötet.
+Nach erfolgter medianer Laparotomie und Eröffnung der Brusthöhle wurde das Herz
+mit einer mit Heparin (Liquemin® N 25000) benetzten Spritze punktiert. Das
+gewonnene Vollblut wurde fünf Minuten bei Raumtemperatur und 1750 rpm
+zentrifugiert. Der Plasmaüberstand wurde abpipettiert, in flüssigem Stickstoff (Linde,
+Hannover) tiefgefroren und bis zur weiteren Untersuchung bei -80°C gelagert. Zur
+Fixierung
+
+wurde
+
+das
+
+phosphatgepufferter
+
+Gehirn
+
+über
+
+Formalinlösung
+
+das
+
+Herz-Kreislauf-System
+
+(Herstellung:
+
+siehe
+
+Anhang)
+
+mit
+
+4%iger
+
+perfundiert,
+
+entnommen und fixiert.
+Daraufhin wurde die Lunge mit 4%iger phosphatgepufferter Formalinlösung
+perfundiert und in einem Gläschen mit Formalinlösung fixiert. Von der Milz wurde ca.
+1/3 durch ein Sieb gerieben und mit einigen Tropfen Natriumchlorid verdünnt. Diese
+Suspension wurde mit Hilfe einer Spritze aufgenommen und bis zur weiteren
+Aufbereitung
+
+für
+
+die
+
+Analyse
+
+der
+
+Lymphozytensubpopulation
+
+in
+
+einem
+
+Eppendorfröhrchen auf Eis gelagert. Der Rest der Milz sowie die Nieren und der
+rechte
+
+Leberlappen
+
+wurden
+
+für
+
+spätere
+
+histologische
+
+Untersuchungen
+
+in
+
+phosphatgepufferter Formalinlösung fixiert.
+
+4.9 Aufbereitung und Auswertung der Proben
+4.9.1 Histologische Aufbereitung
+Die nach der Organentnahme in 4%igem gepufferten Formalin fixierten Organe
+(Lunge, Leber, Milz, Niere und Gehirn) wurden in entsprechende Einbettkassetten
+(Roth, Karlsruhe) verbracht und über Nacht mit Hilfe eines Einbettautomaten mit
+
+31
+
+MATERIAL UND METHODEN
+
+Einkammersystem (Shandon, Frankfurt) in Paraffin (Gewebeeinbettmittel, VogelHisto-Comp®, Vogel, Gießen) eingebettet. Mit einem Microtom (HM 355, MICROM
+GmbH, Walldorf) wurden Schnitte von Lunge, Leber, Milz und Niere mit einer Dicke
+von 5 µm angefertigt.
+Vom Gehirn wurden ab dem Übergang des Bulbus olfactorius zum Cerebrum bis
+zum Erreichen des Cerebellums 3 µm dicke Schnitte präpariert. Es wurden pro
+Gehirn vier annähernd gleiche Serien von vier Objektträgern angefertigt. Pro
+Objektträger wurden drei Hirnschnitte aufgenommen während dazwischen, außer in
+der Traumaregion (Bregma -1 mm bis Bregma -3 mm) ungefähr 30 Schnitte
+verworfen wurden. Alle aufgenommenen und verworfenen Gehirnschnitte wurden in
+einer Tabelle dokumentiert.
+Bei den restlichen Organen wurden jeweils zwei bis drei repräsentative Schnitte
+aufgenommen. Die Schnitte wurden dabei vorsichtig mit einem Pinsel von dem
+Messer abgelöst und zum Strecken in ein auf knapp 40°C beheiztes Wasserbad
+(GFL® Typ 1052, GFL, Burgwedel) überführt. Von dort wurden sie mit einem
+Objektträger (Super Frost Plus, Menzel Gläser, Braunschweig) aufgenommen und
+zum Trocknen in eine verschließbare Präparatemappe gelegt.
+Nach einer Trocknungszeit von mindestens 24 Stunden wurden die Präparate
+gefärbt. Dabei wurden die histologischen Schnitte von Lunge, Leber, Milz und Niere
+mit Hämatoxylin und Eosin (H.-E.) gefärbt, die Gehirnhistologien wurden sowohl
+einer
+
+H.E.-
+
+als
+
+auch
+
+einer
+
+Nissl-Färbung
+
+mit
+
+Kresylviolett
+
+und
+
+den
+
+immunhistochemischen Färbungen GFAP und APP unterzogen. Bei allen Färbungen
+wurden die Präparate zum Entfernen des Paraffins zweimal für zehn Minuten in Xylol
+(J.T. Baker, Deventer, Niederlande) verbracht. Die Rehydrierung erfolgte mit Hilfe
+einer absteigenden Alkoholreihe.
+
+32
+
+MATERIAL UND METHODEN
+
+H.E.-Färbung
+Hämatoxylin, ein natürlicher aus Blauholz gewonnener Pflanzenfarbstoff, färbt
+Zellkerne blau bis dunkelblau an. Als Gegenfärbung zu Hämatoxylin wird Eosin
+genutzt. Eosin ist ein schwach saurer Farbstoff, der das Zytoplasma kräftig rot färbt.
+Jeder vierte Gehirnschnitt sowie alle Lungen-, Milz-, Nieren- und Leberschnitte
+wurden mit H.E. gefärbt (Färbeprotokoll siehe Anhang).
+
+Nissl-Färbung
+Mit
+
+Hilfe
+
+der
+
+Nissl-Färbung
+
+werden
+
+selektiv
+
+Neuronen
+
+dargestellt.
+
+Durch
+
+elektropolare Anlagerung des basischen Farbstoffs Kresylviolett an die sauren
+Gruppen der Nukleinsäuren werden hierbei die Kerne und Nisslschollen (raues
+endoplasmatisches Retikulum) der Nervenzellen angefärbt (Färbeprotokoll siehe
+Anhang).
+
+GFAP-Färbung
+GFAP findet als spezifischer Marker für reaktive Astrozyten Anwendung. Mit der
+GFAP-Färbung
+
+wird
+
+das
+
+saure
+
+Gliafilamentprotein
+
+angefärbt,
+
+eine
+
+der
+
+Hauptkomponenten des Zytoskeletts differenzierter Astrozyten(112). GFAP wird
+vermehrt
+
+nach
+
+hypertrophierten
+
+Verletzungen
+Astrozyten
+
+Primärantikörper
+
+aus
+
+des
+
+Zentralen-Nerven-Systems
+
+exprimiert.
+
+Kaninchen
+
+Für
+
+die
+
+(Polyclonal
+
+GFAP-Färbung
+Rabbit
+
+(ZNS)
+
+in
+
+wurde
+
+ein
+
+Anti-Cow-GFAP,
+
+DakoCytomation Z 0334) in einer Verdünnung von 1:400 und ein biotinylierter
+Sekundärantikörper
+
+aus
+
+Schweinen
+
+(Polyclonal
+
+Swine
+
+Anti-Rabbit
+
+Immunoglobulins/Biotinylated, DakoCytomation E0353) in einer Verdünnung von
+1:500 verwendet (Färbeprotokoll siehe Anhang).
+
+33
+
+MATERIAL UND METHODEN
+
+APP-Färbung
+APP ist ein transmembranes Glykoprotein, welches ubiquitär im Gehirn exprimiert
+wird(113). Eine APP Überexpression konnte in Folge verschiedener Stimuli wie z.B.
+Ischämie, Trauma oder Inflammation in vitro und im Tiermodell nachgewiesen
+werden(114).
+Eine immunhistochemische Darstellung von APP erlaubt den Nachweis geschädigter
+Axone, da eine Akkumulation wahrscheinlich auf eine Inhibition des schnellen
+anterograden Transportes zurückzuführen ist(115). In normalen Axonen wird APP auf
+dem schnellen Weg transportiert und hat niemals eine immunhistologisch
+detektierbare Konzentration in Gewebeschnitten. Eine Akkumulation von APP
+geschädigter
+
+Axone
+
+erfolgt
+
+proximal
+
+des
+
+unterbrochenen
+
+Segments.
+
+Die
+
+Immunreaktion in geschädigten Axonen für β-APP ist bei Kopftraumata bereits 1 bis
+3 Stunden nach dem Insult positiv(116) und bleibt dies bis zu einem Monat(117). Neben
+den erwähnen Studien über APP-Immunreaktivität bei Schädeltraumata findet diese
+Nachweismethode auch Anwendung bei Untersuchungen über das shaken-babysyndrome(118), bei Axonschäden im Zusammenhang mit Rückenmarkstraumata(119)
+und
+
+metabolischen
+
+Enzephalopathien(120)
+
+sowie
+
+bei
+
+demyelinisierenden
+
+Erkrankungen wie der MS. Für die Färbung wurde ein Primärantikörper und ein
+Sekundärantikörper aus Kaninchen (Polyclonal Rabbit anti Amyloid Precursor
+Protein) in einer Verdünnung von 1:100 verwendet (Färbeprotokoll im Anhang).
+
+34
+
+MATERIAL UND METHODEN
+
+4.9.2 Auswertung der histologischen Präparate
+Die mit Hämatoxylin und Eosin gefärbten Präparate der Organe (Lunge, Leber, Milz,
+Niere) wurden lichtmikroskopisch (Mikroskop BX51TF, Olympus, Tokyo, Japan)
+untersucht und semiquantitativ ausgewertet. Alle histologischen Untersuchungen
+wurden hinsichtlich der Gruppeneinteilung geblinded durchgeführt. Beurteilt wurde
+ein
+
+mögliches
+
+interstitielles
+
+Lungen-
+
+bzw.
+
+Leberödem,
+
+eine
+
+potentielle
+
+Granulozyteninfiltration in Lunge, Leber und Niere, ein Untergehen der Zellen in der
+Milz (im Sinne einer Nekrose), die Abgrenzbarkeit und Fülle der weißen Milzpulpa
+gegenüber der roten Milzpulpa, sowie die Fülle der Glomeruli in der Niere.
+Dazu wurden je nach zu bewertendem Kriterium 100- oder 200-fache bzw. für
+Detailansichten bis zu 1.000-fache Vergrößerungen eingesetzt. Die Beurteilung
+erfolgt nach einem Bewertungsschema, bei dem je nach Ausprägung eines
+Merkmals ein Zahlenwert (Score) vergeben wurde (Tabelle 4 bis 7)(111).
+Tabelle 4: Bewertungsschema zur semiquantitativen Beurteilung der histologischen
+Lungenpräparate
+
+Lunge
+
+Granulozyteninfiltration
+
+Interstitielles Ödem
+
+0
+
+1
+
+2
+
+0
+
+1
+
+2
+
++
+
+++
+
++++
+
++
+
+++
+
++++
+
+Score
+
+Erklärung
+
++ = ohne besonderen Befund ++ = geringgradige Veränderungen
++++ = mittel bis hochgradige Veränderungen
+
+Tabelle 5: Bewertungsschema zur semiquantitativen Beurteilung der histologischen
+Leberpräparate
+
+Leber
+
+Interstitielles
+Ödem
+
+Granulozyteninfiltration
+
+Hydropische
+Degeneration
+
+0
+
+1
+
+2
+
+0
+
+1
+
+2
+
+0
+
+1
+
+2
+
++
+
+++
+
++++
+
++
+
+++
+
++++
+
++
+
++
+
++++
+
+Score
+
+Erklärung
+
++ = ohne besonderen Befund ++ = geringgradige Veränderungen
++++ = mittel bis hochgradige Veränderungen
+
+35
+
+MATERIAL UND METHODEN
+
+Tabelle 6: Bewertungsschema zur semiquantitativen Beurteilung der histologischen
+Milzpräparate
+
+Milz
+
+Nekrose
+
+Fülle der weißen Pulpa
+
+Abgrenzung der Pulpa
+
+0
+
+1
+
+2
+
+0
+
+1
+
+0
+
++
+
+++
+
++++
+
+normal
+
+wenig
+
+ja
+
+1
+
+Score
+
+Erklärung
+
+nein
+
++ = ohne besonderen Befund ++ = geringgradige Veränderungen
++++ = mittel bis hochgradige Veränderungen
+
+Tabelle 7: Bewertungsschema zur semiquantitativen Beurteilung der histologischen
+Nierenpräparate
+
+Niere
+
+Granulozyteninfiltration
+
+Fülle der Glomeruli
+
+0
+
+1
+
+2
+
+0
+
+1
+
++
+
+++
+
++++
+
+normal
+
+wenig
+
+Score
+
+Erklärung
+
++ = ohne besonderen Befund ++ = geringgradige Veränderungen
++++ = mittel bis hochgradige Veränderungen
+
+Gehirn
+Bei den Gehirnschnitten wurden neben der Färbung mit H.E. zusätzlich eine Nissl-,
+eine GFAP- und eine APP-Färbung durchgeführt. Es wurden die relative
+Veränderungen der Cortexdicke und morphologische Veränderungen, insbesondere
+der Neuronen in Cortex und Hippocampus untersucht. Immunhistochemisch wurden
+reaktive Astrozyten mit Hilfe einer GFAP-Färbung dargestellt und anschließend die
+Astrozytendichte in Cortex und Hippocampus bestimmt. Mit Hilfe der AmyloidPrecursor-Protein-Färbung (APP) wurden selektiv geschädigte Axone angefärbt.
+
+36
+
+MATERIAL UND METHODEN
+
+H.E.-Färbung
+Mit Hilfe der H.E.-Übersichtsfärbung wurde die Cortexdicke als Maß für die
+Ödemreaktion des Gehirns mit Hilfe der Software CellF (Olympus Soft Imaging
+Solutions GmbH, Münster) ausgemessen. Hierzu wurden je drei Schnitte aus dem
+Zentrum des Traumas ausgewählt. Pro Gehirnschnitt wurden drei Messungen der
+Cortexdicke der linken und der rechten Seite durchgeführt. Die Messungen der linken
+Seite (Traumaseite) wurde mit den Messungen der rechten Seite ins Verhältnis
+gesetzt und damit die relative Cortexdickenveränderung als Maß der Ödemreaktion
+ermittelt. Berücksichtigt wurde hierfür der Abstand der Messungen am Übergang des
+Cortex zur weißen Substanz zur Medianebene des Gehirns. Um diese genau zu
+definieren, wurde eine Senkrechte durch die Mitte der Gehirnschnitte so gelegt, dass
+diese durch den Hemisphärenspalt und sowohl durch den dorsalen als auch den
+ventralen Anteils des dritten Ventrikels verlief (Abbildung 6).
+
+Abbildung 6: Übersicht der durchgeführten
+Ödemreaktion (eigene Zeichnung)
+
+37
+
+Messungen
+
+zur
+
+Ermittlung
+
+der
+
+MATERIAL UND METHODEN
+
+Nissl-Färbung
+Bei der Nissl-Färbung, die der Beurteilung der neuronalen Struktur und möglicher
+Neuronenschäden diente, wurde eine rein deskriptive Beurteilung vorgenommen,
+wobei insbesondere hypoxie- und traumaempfindliche Regionen im Hippocampus
+(CA3- und CA1 -Regionen) berücksichtigt wurden. Auch hierfür wurden jeweils drei
+repräsentative Gehirnschnitte aus der entsprechenden Gehirnebene ausgewählt.
+
+GFAP-Färbung
+Die GFAP-Färbung diente zur Beurteilung der reaktiven Astrogliose. Es wurden drei
+Schnitte aus dem Zentrum der Kontusion bzw. der entsprechenden Gehirnregion
+ausgewählt und die Dichte der reaktiven Astrozyten im Cortex bzw. Hippocampus
+beider Gehirnhälften ausgezählt.
+Für die Auswertung der Astrogliose im Cortex wurden pro Präparat drei
+repräsentative Bereiche berücksichtigt. Hierfür wurden Regionen in den mittleren bis
+tiefen Cortexschichten definiert. Über diese Regionen wurde beidseits ein Raster
+gelegt und anschließend die Anzahl GFAP-positiver Zellen pro Raster ausgezählt.
+Eine der definierten Regionen umfasste das Cingulum, die zweite Region lag auf
+Höhe der Capsula interna und der dritte Bereich mittig zwischen den anderen
+(Abbildung 7). Die Auszählung der Astrozyten im Hippocampus entsprach der im
+Cortex. Hierbei wurden jeweils vier repräsentative Bereiche berücksichtigt. Dabei
+umfassten diese Regionen sowohl die CA1 -, CA2- und CA3-Regionen als auch den
+Gyrus dentatus. Analog zur Auswertung des Cortex wurden auch hier die GFAPpositiven Astrozyten pro Fläche ausgezählt. Sowohl die Messungen der drei
+Präparate pro Gehirn als auch der verschiedenen Regionen jedes Präparates
+wurden gemittelt, um repräsentative Aussagen über die Anzahl der reaktiven
+Astrozyten im Cortex bzw. Hippocampus zu erhalten.
+38
+
+MATERIAL UND METHODEN
+
+APP-Färbung
+Die APP-Färbung diente dem immunhistologischen Nachweiß geschädigter Axone.
+Für die Auswertung wurden je Tier drei Schnitte aus dem Zentrum des Traumas
+ausgewählt. Über die besonders hypoxie- und traumaempfindlichen Regionen im
+Hippocampus, wie die CA3- und CA1 –Regionen wurde beidseits ein Raster gelegt
+und die positiven Axone ausgezählt. Die Ergebnisse der drei Präparate eines Tieres
+wurden gemittelt und statistisch aufgearbeitet.
+
+Abbildung 7: Übersicht über die beurteilten Regionen im Gehirn (modifiziert nach
+Purger et al. 2009(121))
+
+39
+
+MATERIAL UND METHODEN
+
+4.10 Durchflusszytometrie (FACS)
+Die durchflusszytometrische Messung (FACS - Fluorescence-Activated Cell Sorter)
+der Lymphozyten und Zytokine erfolgte mit Hilfe des FACSCalibur (BD Biosciences,
+Heidelberg).
+Aus der angefertigten Milzsuspension wurden die Lymphozytensubpopulationen (THelfer-Zellen, zytotoxische T-Zellen, ihre Vorläuferzellen und natürliche Killerzellen)
+mittels Durchflusszytometrie erfasst. Im Plasma wurden die Zytokine TNF-α, MCP-1,
+IL-10, IL-12 und IFN-γ quantitativ untersucht.
+
+4.10.1 Funktionsprinzip
+Das Prinzip der Durchflusszytometrie besteht darin, dass fluoreszenzmarkierte
+Partikel in einem Flüssigkeitsstrom einzeln einen Laserstrahl passieren. Durch die
+Detektion von Lichtstreuungseigenschaften und Fluoreszenzemissionen kann man
+Rückschlüsse auf die Eigenschaften des Partikels ziehen, im Fall der Untersuchung
+bestimmter Zellen einer Probe beispielsweise auf die Zellart. So kann mit Hilfe des
+Vorwärtsstreulichts (Forward Scatter = FSC) eine Aussage über die Zellgröße
+gemacht
+
+werden,
+
+während
+
+das
+
+Seitwärtsstreulicht
+
+(Side
+
+Scatter
+
+=
+
+SSC)
+
+Informationen über die Granularität (innere Komplexität) der Zelle liefert (Abbildung
+8). Anhand der Fluoreszenz können entsprechend markierte Subpopulationen einer
+Zellart unterschieden werden. Hierfür werden Antikörper, gegen spezifische von den
+verschiedenen
+
+Subpopulationen
+
+expremierten
+
+Oberflächenproteine,
+
+mit
+
+Fluoreszenzfarbstoffen gekoppelt und somit die Zellen markiert. Nach der
+Aufbereitung wird das Gemisch der markierten Zellen in einem wesentlich größeren
+Volumen einer Salzlösung dem Durchflusszytometer zugeführt.
+Dieses besteht aus einem Flüssigkeitssystem, einem optischen und einem
+elektronischen System. Das Flüssigkeitssystem dient dem Transport und der
+
+40
+
+MATERIAL UND METHODEN
+
+Fokussierung der Zellen im Messpunkt. Zu diesem Zweck besteht es aus einem
+zentralen Kanal, in den die Probe eingebracht wird, umgeben von einer äußeren
+Kammer, die eine schneller fließende Flüssigkeit enthält (Hüllstrom). Durch eine
+Querschnittsverringerung der Messküvette werden Probenstrom und Hüllstrom
+verjüngt und beschleunigt (hydrodynamische Fokussierung), der Abstand zwischen
+den Zellen wird vergrößert, so dass die Zellen einzeln den Analysepunkt passieren.
+Das optische System kann man in Anregungs- und Detektionsoptik unterteilen. Es
+besteht bei Standardinstrumenten aus einer monochromatischen Lichtquelle,
+üblicherweise einem luftgekühlten Argon-Laser (488 nm Wellenlänge) und
+bestimmten Prismen und Linsen, die den Laserstrahl formen und fokussieren. Dieser
+bestrahlt jede einzelne Zelle (bzw. Partikel) am Analysepunkt, was zur Lichtstreuung
+führt und die Farbstoffmoleküle, die an die Zelle gebunden sind, zur Fluoreszenz
+anregt(122). Die diversen Signale werden von Linsen gesammelt und einem System
+von optischen Teiler-Spiegeln und Filtern zugeführt, von welchen die emittierten
+Lichtsignale entsprechend ihrer Wellenlängen zu den zugehörigen Detektoren
+gelenkt werden. Ein elektronisches System wandelt nun die optischen Signale in
+elektronische Signale um (Spannungspulse), digitalisiert diese und übermittelt sie an
+einen Computer zur Analyse.
+Abbildung 8: Schematische Darstellung der Durchflusszytometrie (eigene Zeichnung)
+
+41
+
+MATERIAL UND METHODEN
+
+Cytometric Bead Array
+Zytokine wurden früher mit immunologischen Verfahren wie dem ELISA (Enzyme
+Linked Immunosorbent Assay) gemessen. Solche Methoden können jedoch nur
+jeweils ein Zytokin messen. Mit Hilfe von Cytometric Bead Arrays (CBA) können
+mehrere Zytokine gleichzeitig gemessen werden. Da Zytokine zu klein sind, um vom
+Durchflusszytometer
+
+erkannt
+
+zu
+
+werden,
+
+müssen
+
+sie,
+
+um
+
+sie
+
+einer
+
+durchflusszytometrischen Detektion zugänglich zu machen, an größere Partikel
+(Polystyrol-Kügelchen), so genannte Capture-Beads gekoppelt werden. Jede BeadPopulation besitzt eine definierte Fluoreszenzintensität und ist mit spezifischen
+Antikörpern (Capture Antibodies) gegen eines der zu messenden Zytokine
+beschichtet. Dadurch ist gewährleistet, dass jedes dieser Zytokine spezifisch an eine
+der Bead-Population bindet und anhand der Fluoreszenzintensität qualitativ bestimmt
+werden kann. Die Quantifizierung der Zytokine erfolgt durch Inkubation mit
+spezifischen Antikörpern, die an das Fluorochrom Phycoerythrin (PE) gekoppelt sind.
+Diese PE-markierten Antikörper binden nach dem Prinzip eines Sandwichverfahrens
+an die mit der entsprechenden Bead-Population verbundenen Zytokine. Die mit dem
+Durchflusszytometer ermittelbare Höhe der PE-Fluoreszenz ist der Menge des an
+eine Bead-Population gebundenen Zytokins proportional und kann mit Hilfe von
+Standardreihen quantifiziert werden.
+
+42
+
+MATERIAL UND METHODEN
+
+4.10.2 Analyse der Lymphozyten in der Milzsuspension
+Um die verschiedenen Subpopulationen der Lymphozyten in der Milzsuspension
+messen zu können, macht man sich ihre spezifischen Zelloberflächenantigene
+zunutze. So lässt dich das CD4-Antigen der T-Helferzellen und das Ly49-Antigen
+(CD56-Antigen beim Menschen) der natürlichen Killerzellen durch an anti-MausCD4-Antikörper und anti-Ly49-Antikörper gekoppeltes Fluorescein Isothiocyanat
+(FITC) detektieren. Das CD8-Antigen der zytotoxischen T-Zellen lässt sich über an
+anti-Maus-CD8-Antikörper gekoppeltes Phycoerythrin (PE) identifizieren.
+
+Aufbereitung der Proben
+Um störende Erytrozyten zu hämolysieren wurde die Milzsuspension mit 14ml
+hypotoner Lyselösung (Ansatz siehe Anhang) versetzt und für 15 min im Kühlschrank
+inkubiert. Nach Zentrifugation (Labofuge 400R, Heraeus Instruments, Hanau) bei 4°C
+und 4500 rpm für 10 min wurde der Überstand verworfen und die Zellen mit 1.000 µl
+PBS resuspendiert. Nach erneuter Zentrifugation bei 4°C und 4500 rpm für 5 min
+wurde der Überstand erneut verworfen und die Zellen mit 45 µl PBS versetzt und auf
+drei FACS Röhrchen (Sarstedt, Nümbrecht) zu je 15 ml aufgeteilt. Ein Röhrchen
+diente der Bestimmung des Leerwerts. Auf die anderen wurden je 5 µl der oben
+beschriebenen mit Fluoreszenzfarbstoffen konjugierten Antikörper verteilt (Tabelle 8).
+Die Proben wurden für 30 Minuten im Kühlschrank bei 4°C inkubiert. Anschließend
+wurden 1000 µl PBS zugefügt, fünf Minuten bei 4°C mit 4500 rpm zentrifugiert und
+der Überstand verworfen. Diese Waschprozedur
+
+wurde
+
+einmal
+
+wiederholt.
+
+Schließlich wurden die Proben nach Zugabe von 150 µl PBS der FACS-Analyse
+unterzogen.
+
+43
+
+MATERIAL UND METHODEN
+
+Tabelle 8: fluoreszenzmarkierte Antikörperverteilung in den zu messenden Proben
+
+Probenröhrchen
+
+Antikörper
+
+konjugiertes Flourochrom
+
+1
+
+Leerwert
+
+Leerwert
+
+2
+
+5 µl anti-Maus-CD4-Antikörper
+5 µl anti-Maus-CD8-Antikörper
+
+Flourescein Isothiocyanat (FITC)
+Phycoerythrin (PE)
+
+3
+
+5 µl anti-Maus-Ly49-Antikörper
+
+Flourescein Isothiocyanat (FITC)
+
+Auswertung
+Die erhaltenen Messdaten wurden mit der Software winmdi (Version 2.8, J. Trotter,
+TSRI, La Jolla, CA, USA) ausgewertet. Mit Hilfe des FSC Kanals (Vorwärtsstreulicht)
+und des SSC Kanals (Seitwärtsstreulicht) wurden die wichtigsten Leukozytengruppen
+wie Lymphozyten, Monozyten und neutrophile Granulozyten unterschieden. Die
+Darstellung erfolgte in einem Punktediagramm. („Dotplot“). Da in dieser Studie nur
+die Lymphozyten der weiteren Datenauswertung zugänglich gemacht werden sollten
+wurden diese von den anderen abgegrenzt, indem man ein Auswertungsfenster
+definierte (gating), in dem sich lediglich Lymphozyten befanden.
+Anhand
+
+der
+
+Fluoreszenz
+
+konnte
+
+zwischen
+
+den
+
+verschiedenen
+
+Lymphozytensubpopulationen unterschieden werden. Der FL1-Kanal diente der
+Detektion der FITC-markierten Proben (CD4 und Ly49) und der FL2-Kanal der
+Messung von PE-markierten Proben (CD8). Für die Darstellung der CD4+- und
+CD8+-T-Lymphozyten in einem Dotplot wurden die CD4 positiven-T-Lymphozyten
+auf der Abszisse (FL1 - Kanal) und die CD8 positiven-Lymphozyten auf der Ordinate
+(FL2-Kanal) dargestellt, so dass sich die CD4-positiven Zellen im rechten unteren
+Quadranten und die CD8-positiven Zellen im linken oberen Quadranten befanden.
+Dementsprechend wurden die Vorstufen dieser Zellen (CD4- und CD8-positiv) im
+rechten oberen Quadranten dargestellt (Abbildung 9). Die ebenfalls FITC-markierten
+Ly49 positiven-Lymphozyten (Natürliche Killerzellen) wurden in einem weiteren
+44
+
+MATERIAL UND METHODEN
+
+Punktediagramm auf der Ordinate (FL1 -Kanal) gegen den FL2-Kanal (Abzisse)
+dargestellt. Ly49-positive Lymphozyten befanden sich demzufolge im obere rechten
+Quadranten (Abbildung 10).
+Mit Hilfe der Software konnte so der prozentuale Anteil der entsprechend markierten
+Zellen in den einzelnen Quadranten, d.h. der relative Anteil der einzelnen
+Lymphozytensubpopulationen in jeder Probe gemessen werden.
+
+Abbildung 9: Beispiel eines Punktediagramms der CD4+, CD8+- und CD4+CD8+Lymphozyten
+
+Abbildung 10: Beispiel eines Punktediagramms der Natürlichen Killerzellen (CD56 =
+Ly49)
+
+45
+
+MATERIAL UND METHODEN
+
+4.10.3 Zytokinmessung im Plasma
+Die Detektion der Konzentrationen von den Zytokinen TNF-α, MCP-1, IL-6, IL-12 und
+IFN-γ in den Plasmaproben erfolgte mit Hilfe eines ,,Cytometric Bead Arrays“, kurz
+CBA (BDTM Cytometric Bead Array Mouse Inflammation Kit, BD Biosciences
+Pharmingen).
+
+Herstellung des Standards
+Der Standard (,,Mouse Inflammation Standard“) der die zu untersuchenden Zytokine
+in lyophilisierten Zustand enthält, wurde mit 0,2 ml Verdünnungsflüssigkeit (,,Assay
+Diluent“) vermischt und für mindestens 15 Minuten inkubiert. Diese Lösung diente
+der Erstellung der Standardreihe mit Konzentrationen zwischen 2.500 pg/ml und 2,5
+pg/ml,
+
+entsprechend
+
+der
+
+im
+
+Anhang
+
+angegebenen
+
+Verdünnungen.
+
+Die
+
+Verdünnungsflüssigkeit diente als Negativkontrolle.
+
+Vorbereitung der Capture Bead-Mischung
+Da die an bestimmte Capture Beads gekoppelten Antikörper getrennt aufbewahrt
+waren, musste man, um eine Antikörper-Mischung (Mixed Capture Beads)
+herzustellen, von jedem Antikörper jeweils 10 µl pro auszuwertendes Messröhrchen,
+(inklusiv Standards und Negativkontrolle) in ein Gefäß pipettieren und mischen.
+
+Vorbehandlung der Proben
+Von jeder Plasmaprobe bzw. von jedem Standard wurden je 50 µl in ein FACSRöhrchen pipettiert. 50 µl PE-gekoppeltes “Detection Reagent“ (PE konjugierte
+spezifische Antikörper für die genannten Zytokine) und 50 µl des ,,Bead“- Gemisches
+wurden hinzugefügt und vermischt. Alle Reagenzien, mit Ausnahme des Standards,
+
+46
+
+MATERIAL UND METHODEN
+
+wurden vor dem Pipettieren aufgeschüttelt (Vortex, VF2, Janke & Kunkel IKALabortechnik, Staufen i. Br.).
+Es folgte eine zweistündige Inkubation im Dunkeln bei Raumtemperatur, während
+der die Zytometer-Setup-Proben zur Kalibrierung des Zytometers angesetzt wurden.
+Hierfür wurde in drei Röhrchen (A, B und C) je 50 µl des vorher aufgeschüttelten
+Cytometer Setup Beads pipettiert. In Röhrchen B wurden 50 µl FITC Positive Control
+Detector und in Röhrchen C 50 µl PE Positive Control Detector zugefügt. Nach einer
+30-minütigen Inkubation im Dunkeln und bei Raumtemperatur wurden die drei
+Röhrchen mit dem Waschpuffer PBS auf ein Gesamtvolumen von 500 µl aufgefüllt
+und die Kalibrierung des Durchflusszytometers durchgeführt.
+Nach der zweistündigen Inkubation der Proben wurde in jedes Röhrchen 1.000 µl
+Waschpuffer pipettiert. Es folgte eine Zentrifugation für 5 Minuten bei einer
+Temperatur von 21 °C und 4500 rpm. Nach Verwerfen des Überstandes und
+Hinzufügen von 300 µl PBS wurden die Proben der FACS-Messung zugeführt.
+
+47
+
+MATERIAL UND METHODEN
+
+4.11 Statistische Auswertung
+Die statistische Auswertung der ermittelten Daten erfolgte mit dem Programm SPSS
+Version 13 (SPSS Inc., Chicago, USA). In der vorliegenden Arbeit werden jeweils die
+arithmetischen Mittelwerte mit den zugehörigen Standardabweichungen angegeben.
+Die Signifikanzen wurden mittels einfaktorieller Varianzanalyse (ANOVA, Analysis of
+Variance) ermittelt bzw. bei ordinalen Daten mit dem Kruskal-Wallis-Test geprüft. Ein
+Ergebnis wurde bei einem p-Wert von p < 0,05 als signifikant und bei p < 0,01 als
+hochsignifikant angesehen. Auf eine Tendenz wiesen Werte zwischen p = 0,05 und p
+= 0,1 hin. Bei vorhandenen Signifikanzen wurde der Scheffé-Test für einen
+paarweisen Gruppenvergleich durchgeführt. Die graphische Darstellung erfolgte mit
+Hilfe von Säulendiagrammen die den Mittelwert und die Standardabweichung
+beinhalten. Bei nicht normalverteilten Daten (Beurteilung von Lunge, Leber, Milz und
+Niere) wurde der χ2-Test in Kreuztabellen nach Pearson verwendet. Graphisch
+dargestellt wurden sie in einem gestapelten Säulendiagramm.
+Parameter, die zu mehreren Zeitpunkten erfasst worden waren (klinische Parameter
+und Messung der Ohrdicke), wurden einzeln für jeden Messzeitpunkt analysiert.
+Außerdem wurden diese Daten mit Hilfe des General Linear Model für „repeated
+measurements“ auf Unterschiede im Zeitverlauf getestet. Hierbei galt ein Ergebnis
+als signifikant bei p < 0,05 für Wilks’Lambda. Bei diesen Parametern wurden die
+arithmetischen Mittelwerte und die Standardabweichung graphisch dargestellt.
+Die Daten der histologischen Gehirnbeurteilung, wurden mit Hilfe des t-Tests für
+Korrelationskoeffizienten (Pearson) auf vorhandene Korrelationen getestet. Die
+Überlebensraten wurden in einer Kreuztabelle mit dem χ2-Test nach Pearson
+berechnet und zusätzlich mit dem Fishers Exakter Test geprüft. Mit Hilfe der
+Methode nach Kaplan-Meier erfolgte die Beurteilung der Überlebenszeiten.
+
+48
+
+ERGEBNISSE
+
+5 Ergebnisse
+5.1 Letalität
+Insgesamt waren bis Studienende 7 von 16 (43,7%) der Wildtyp-Tiere und 7 von 20
+(35,0%)
+
+der
+
+IL-6-/-
+
+Mäuse
+
+aufgrund
+
+des
+
+Traumas
+
+oder
+
+der
+
+Folgen
+
+der
+
+Traumatisierung gestorben. Die Unterschiede bezüglich der Letalität bzw. der
+Überlebensraten sind nicht signifikant (n.s).
+Abbildung 11 und 12: Überlebenskurven sowie Überlebensrate (%) und Letalität (%)
+von WT- und IL-6 -/- Tieren
+
+IL-6-/-
+
+WT
+
+Überlebensrate (%)
+
+100
+90
+80
+70
+60
+50
+0
+
+24
+
+48
+
+72
+
+Zeit (h)
+
+100%
+80%
+
+43,7
+
+35
+
+56,3
+
+65
+
+60%
+40%
+20%
+0%
+WT
+
+IL-6-/-
+
+Überlebensrate IL-6-/Überlebensrate WT
+
+Letalität IL-6-/Letalität WT
+
+49
+
+96
+
+ERGEBNISSE
+
+5.2 Aktivität
+Bezüglich der Aktivität gab es keine Unterschiede zwischen WT- und IL-6-/- Tieren.
+Alle Tiere zeigten sich nach 12h post Trauma in ihrer Aktivität eingeschränkt (Score
+4-5). Bereits 24 Stunden nach dem Trauma zeigten die Mäuse wieder ein normales
+Aktivitätsniveau (Score 6). In beiden Gruppen starben die Tiere mit niedrigerem
+Aktivitätsniveau im Verlauf des Beobachtungszeitraumes (siehe auch 5.1 Letalität).
+
+5.3 Körperkerntemperatur
+Die Unterscheide im Verlauf der Körperkerntemperatur sind zu keinem Zeitpunkt
+zwischen den Mäusestämmen signifikant.
+Abbildung 13: Körperkerntemperatur (°C) von WT- und IL-6 -/- Tieren Zeitverlauf. Es
+sind jeweils der arithmetische Mittelwert und die Standardabweichung angegeben. WT
+(0h: n=16, 12h-48h: n=11, 72h: n=10, 96h: n=9); IL-6 -/- (0h: n=20, 12h-48h: n=15, 72h:
+n=14, 96h: n=13)
+
+WT
+
+IL-6-/-
+
+40
+
+Temperatur (°C)
+
+39
+38
+37
+36
+35
+34
+33
+32
+0
+
+12
+
+24
+
+48
+
+72
+
+96
+
+Zeit (h)
+
+5.4 Körpergewicht
+Um eine Aussage über den Gewichtsverlust der traumatisierten Tiere machen zu
+können, wurde die prozentuale Gewichtsveränderung bezogen auf das Gewicht vor
+der Traumatisierung (Zeitpunkt 0) berechnet.
+
+50
+
+ERGEBNISSE
+
+Die Gewichtsveränderung von WT- und IL-6-/- Tieren unterscheidet sich zum
+Zeitpunkt der 72 Stunden und der 96 Stunden Visite signifikant (p=0,04).
+Abbildung 14: prozentuale Gewichtsveränderung bezogen auf den Zeitpunkt 0
+(Angabe in %) von WT- und IL-6 -/- Tieren im Zeitverlauf. Es sind jeweils der
+arithmetische Mittelwert und die Standardabweichung angegeben. WT (0h: n=16, 12h48h: n=11, 72h: n=10, 96h: n=9) IL-6 -/- (0h: n=20, 12h-48h: n=15, 72h: n=14, 96h: n=13)
+
+WT
+
+IL-6-/-
+
+Gewichtsveränderung (%)
+
+0
+-2,5
+-5
+-7,5
+-10
+-12,5
+-15
+-17,5
+-20
+12
+
+24
+
+48
+
+72
+
+96
+
+Zeit (h)
+
+5.5 Typ-IV-Reaktion
+Für die Erfassung des Immunstatus der Tiere wurde eine T-Zell-vermittelte Typ-IVReaktion
+
+mittels
+
+DNFB
+
+(2,4
+
+Dinitroflourobenzen)
+
+ausgelöst.
+
+Mäusestämmen gab es keine signifikanten Unterschiede.
+
+51
+
+Zwischen
+
+den
+
+ERGEBNISSE
+
+Abbildung 15: prozentuale Zunahme der Ohrdicke nach DNFB-Zweitkontakt.
+Dargestellt sind das arithmetische Mittel und die Standardabweichung. WT: n=9,
+IL-6-/-: n=13.
+
+Zunahme Ohrdicke (%)
+
+100
+80
+60
+40
+20
+0
+
+48,95
+
+48,48
+WT
+
+IL-6-/-
+
+5.6 Durchflusszytometrie
+5.6.1 Lymphozyten
+In der folgenden Abbildung sind die Anteile der Lymphozytensubpopulationen an der
+Gesamtlymphozytenpopulation für die WT-Tiere und die IL-6 -/- Tiere dargestellt.
+
+T-Helferzellen
+Bezüglich des Anteils von T-Helferzellen (CD4+) an der Lymphozytenpopulation
+konnten keine signifikanten Unterschiede bewiesen werden.
+
+52
+
+ERGEBNISSE
+
+Abbildung 16: CD4+ T-Zellen in der Milzsuspension (in %). Dargestellt sind des
+arithmetische Mittel und die Standardabweichung. WT: n = 7; IL-6-/-: n = 7.
+
+Anteil CD4+-T-Zellen (%)
+
+30
+
+20
+
+10
+
+0
+
+18,01
+
+16,96
+WT
+
+IL-6-/-
+
+Zytotoxische T-Zellen
+Die IL-6-/- Tiere zeigten signifikant höhere Anteile von CD8+ T-Zellen (p=0,03).
+Abbildung 17: Anteil CD8+ T-Zellen in der Milzsuspension (in %). Dargestellt sind das
+arithmetische Mittel und die Standardabweichung. WT: n=8; IL-6-/-: n=7.
+
+p=0,03
+
+Anteil CD8 +-T-Zellen (%)
+
+50
+40
+30
+20
+10
+0
+
+21,1
+
+35,48
+WT
+
+53
+
+IL-6-/-
+
+ERGEBNISSE
+
+Natürliche Killerzellen
+Es konnte ein signifikant höherer Anteil von Natürlichen Killerzellen bei den IL6-/Tieren nachgewiesen werden (p=0,08).
+Abbildung 18: Natürliche Killerzellen in der Milzsuspension (in %). Dargestellt sind das
+arithmetische Mittel und die Standardabweichung.
+
+p=0,08
+
+Natürliche Killerzellen (%)
+
+30
+25
+20
+15
+10
+5
+0
+
+11,67
+
+20,84
+WT
+
+IL-6-/-
+
+5.6.2 Zytokine
+In den folgenden Abbildungen sind die Ergebnisse der Zytokinmessungen für WTund IL-6 -/- Tiere dargestellt:
+
+TNF-α
+Die IL-6-/- Tiere zeigten signifikant höhere TNF-α Konzentrationen im Plasma als die
+WT-Tiere (p=0,006)
+
+54
+
+ERGEBNISSE
+
+Abbildung 19: TNF-α-Konzentration im Plasma (in pg/ml). Dargestellt sind das
+arithmetische Mittel und die Standardabweichung. WT: n=7; IL-6-/-: n=10
+
+p=0,006
+
+TNF-α Konzentration (pg/ml)
+
+50
+40
+30
+20
+10
+0
+
+29,57
+
+4,36
+WT
+
+IL-6-/-
+
+MCP-1
+Auch für die MCP-1 Plasma-Konzentrationen konnten signifikant höhere Werte bei
+IL-6-/- Tieren gemessen werden (p=0,02).
+Abbildung 20: MCP1-Konzentration im Plasma (in pg/ml). Dargestellt sind das
+arithmetische Mittel und die Standardabweichung. WT: n=7;IL-6-/-: n=10.
+
+p=0,02
+
+MCP-1 Konzentration (pg/ml)
+
+400
+350
+300
+250
+200
+150
+100
+50
+0
+
+117,6
+
+292,8
+WT
+
+55
+
+IL-6-/-
+
+ERGEBNISSE
+
+IL-12
+Die IL-6-/- Tieren zeigten signifikant höhere IL-12 Konzentration (p=0,007) im Plasma.
+Abbildung 21: IL-12-Konzentration im Plasma (in pg/ml). Dargestellt sind das
+arithmetische Mittel und die Standardabweichung. WT: n=9; IL-6-/-: n=11.
+
+p=0,007
+
+IL-12 Konzentration (pg/ml)
+
+20
+
+15
+
+10
+
+5
+
+0
+
+3,72
+
+11,83
+WT
+
+IL-6-/-
+
+IFN-γ
+Ebenso zeigten sich deutliche Unterschiede bei der IFN-γ Plasma-Konzentration. Es
+wurden signifikant höhere Werte bei den IL-6-/-Tieren gemessen (p=0,028).
+Abbildung 36: IFN-γ-Konzentration im Plasma (in pg/ml). Dargestellt sind das
+arithmetische Mittel und die Standardabweichung. WT: n=9; IL-6-/-: n=11
+
+p=0,028
+
+IFN-γ Konzentration (pg/ml)
+
+5
+4
+3
+2
+1
+0
+
+0,92
+
+2,83
+WT
+
+56
+
+IL-6-/-
+
+ERGEBNISSE
+
+5.7 Histologie
+5.7.1 Lunge
+Granulozyteninfiltration
+Bei allen Tieren konnte eine Infiltration von Granulozyten in die Lunge gezeigt
+-/-
+
+werden, sowohl bei WT- als auch bei IL-6
+
+Tiere war diese überwiegend
+
+hochgradig. Die Unterschiede sind nicht signifikant.
+Abbildung 37: Granulozyteninfiltration in der Lunge von WT- und IL-6 -/- Tieren.
+Dargestellt sind die prozentualen Anteile folgender Bewertungskategorien: 0 = ohne
+besonderen Befund, 1 = geringgradige Granulozyteninfiltration, 2 = mittel- bis
+hochgradige Granulozyteninfiltration. WT: n= 9; IL-6 -/-: n=13.
+100%
+80%
+60%
+
+88,9
+
+92,3
+
+11,1
+
+7,7
+
+WT
+
+IL-6-/-
+
+40%
+20%
+0%
+
+0
+
+1
+
+2
+
+0
+
+1
+
+2
+
+Abbildung 38: Histologische Präparate einer Lunge. H.E.-Färbung, 200fache
+Vergrößerung, Messbalken: 100µm. A: geringgradige Infiltration von neutrophilen
+Granulozyten. B: hochgradige Infiltration von neutrophilen Granulozyten.
+
+57
+
+ERGEBNISSE
+
+Lungenödem
+Dargestellt ist der Schweregrad der Ödembildung in der Lunge. Signifikante
+Unterschiede zwischen WT- und IL-6-/- Tieren wurden nicht gefunden. Die meisten
+Tiere zeigten ein geringgradiges Lungenödem. Abbildung 40 zeigt Unterschiedliche
+Befunde der Ödembildung.
+Abbildung 39: Ödemausbildung in der Lunge von WT- und IL-6 -/- Tieren. Dargestellt
+sind die prozentualen Anteile folgender Bewertungskategorien: 0 = ohne besonderen
+Befund, 1 = geringgradiges Lungenödem, 2 = mittel- bis hochgradiges Lungenödem.
+WT: n= 9; IL-6 -/-: n= 13
+100%
+
+7,7
+
+11,1
+
+80%
+60%
+
+66,7
+
+84,6
+
+40%
+20%
+22,2
+
+7,7
+
+0%
+WT
+
+IL-6-/0
+
+1
+
+2
+
+0
+
+1
+
+2
+
+Abbildung 40: Histologische Präparate einer Lunge. H.E.-Färbung, 200fache
+Vergrößerung, Messbalken: 100µm. A: geringgradiges Lungenödem. B: hochgradiges
+Lungenödem.
+
+58
+
+ERGEBNISSE
+
+5.7.2 Leber
+Leberödem
+Dargestellt werden die prozentualen Anteile der verschiedenen Schweregrade des
+interstitiellen Leberödems von WT- und Il-6
+
+-/-
+
+Tieren. Das interstitielle Leberödem
+
+stellt sich als eine Erweiterung der Lebersinusoide dar. Die Unterschiede waren nicht
+signifikant.
+Abbildung 41: Ödemausbildung in der Leber von WT- und IL-6 -/- Tieren. Dargestellt
+sind die prozentualen Anteile folgender Bewertungskategorien: 0 = ohne besonderen
+Befund, 1 = geringgradiges Leberödem, 2 = mittel- bis hochgradiges Leberödem. WT:
+n=9; IL-6 -/-: n=13.
+100%
+80%
+
+33,3
+
+30,8
+
+44,4
+
+53,8
+
+22,2
+
+15,4
+
+WT
+
+IL-6-/-
+
+60%
+40%
+20%
+0%
+0
+
+1
+
+2
+
+0
+
+1
+
+2
+
+Abbildung 42: Histologische Präparate einer Leber. H.E.-Färbung, 200fache
+Vergrößerung, Messbalken: 100µm. A: geringgradiges Leberödem. B: hochgradiges
+Leberödem
+
+59
+
+ERGEBNISSE
+
+Hydropische Degeneration
+Dargestellt ist der Schweregrade der hydropischen Degeneration der Leber von WTund Il-6 -/- Mäusen. Hier zeigten sich keine signifikanten Unterschiede.
+Abbildung 43: Hydropische Degeneration der Leber von WT- und IL-6 -/- Tieren.
+Dargestellt sind die prozentualen Anteile folgender Bewertungskategorien: 0 = ohne
+besonderen Befund, 1 = geringgradige hydropische Degeneration, 2 = mittel- bis
+hochgradige hydropische Degeneration. WT: n= 13; IL-6-/-: n=16.
+100%
+80%
+
+44,5
+
+53,8
+
+60%
+40%
+
+33,3
+
+23,1
+
+20%
+22,2
+
+23,1
+
+WT
+
+IL-6-/-
+
+0%
+0
+
+1
+
+2
+
+0
+
+1
+
+2
+
+Abbildung 44: Histologische Präparate der Leber. H.E.-Färbung, 200fache
+Vergrößerung, Messbalken: 100µm. A: geringfügig hydropische Degeneration. B:
+hochgradig hydropische Degeneration.
+
+Granulozyteninfiltration
+Es konnte keine Granulozyteninfiltration in die Leber nachgewiesen werden.
+
+60
+
+ERGEBNISSE
+
+5.7.3 Milz
+Abgrenzung der weißen von der roten Milzpulpa
+Dargestellt ist die Abgrenzbarkeit von weißer und roter Milzpulpa. Die Unterschiede
+zwischen WT- und Il-6
+
+-/-
+
+Tieren sind nicht signifikant. Abbildung 46 zeigt
+
+histologische Beispiele zur Abgrenzbarkeit von weißer und roter Milzpulpa.
+Abbildung 45: Abgrenzbarkeit der weißen von der roten Milzpulpa bei WT- und IL-6 -/Tieren. Dargestellt sind die prozentualen Anteile folgender Bewertungskategorien:
+0=abgrenzbar, 1=nicht abgrenzbar. WT: n=8; IL-6-/-: n=9.
+100%
+80%
+
+38
+
+34
+
+62
+
+66
+
+WT
+
+IL-6-/-
+
+60%
+40%
+20%
+0%
+0
+
+1
+
+0
+
+1
+
+Abbildung 46: Histologische Präparate der Milz. H.E.-Färbung, 100fache
+Vergrößerung, Messbalken: 100µm. A: gute Abgrenzung der weißen von der roten
+Milzpulpa. B: Verlust der Abgrenzbarkeit der weißen Milzpulpa.
+
+Nekrose
+Eine Nekrose der Milz konnte bei keinem Tier nachgewiesen werden.
+61
+
+ERGEBNISSE
+
+Fülle der weißen Milzpulpa
+Dargestellt ist die Fülle der weißen Milzpulpa bei WT- und Il-6
+
+-/-
+
+Mäusen. Bei den
+
+WT-Tieren zeigte sich in 25% eine wenig gefüllte weiße Milzpulpa, bei den IL-6-/Tieren zeigte sich die weiße Milzpulpa ausnahmslos normal gefüllt. Diese
+Unterschiede sind jedoch nicht signifikant, weisen jedoch eine Tendenz auf.
+Abbildung 47: Fülle der weißen Milzpulpa bei WT- und IL-6 -/- Tieren in den
+verschiedenen Versuchsgruppen. Dargestellt sind die prozentualen Anteile folgender
+Bewertungskategorien: 0 = normal gefüllt, 1 = wenig gefüllt. Femur-Fx/Schock: WT
+(n= 11); IL-6 -/- (n= 16), SHT: WT (n= 13); IL-6 -/- (n= 15), Polytrauma: WT (n= 8); IL-6 -/(n= 9)
+
+100%
+80%
+
+25
+
+60%
+40%
+
+100
+75
+
+20%
+0%
+WT
+
+IL-6-/0
+
+1
+
+0
+
+1
+
+Abbildung 48: Histologische Präparate der Milz. H.E.-Färbung, 100fache
+Vergrößerung, Messbalken: 100µm. A: normal gefüllte weiße Milzpulpa. B: wenig
+gefüllte weiße Milzpulpa.
+
+62
+
+ERGEBNISSE
+
+5.7.4 Niere
+Infiltration von neutrophilen Granulozyten
+Es konnte keine Infiltration von neutrophilen Granulozyten in die Niere nachgewiesen
+werden.
+
+Fülle der Glomeruli
+Dargestellt ist die Fülle der Glomeruli bei WT- und
+
+Il-6
+
+-/-
+
+Mäusen. Signifikante
+
+Unterschiede konnten nicht nachgewiesen werden.
+Abbildung 49: Fülle der Glomeruli bei WT- und IL-6 -/- Tieren. Dargestellt sind die
+prozentualen Anteile folgender Bewertungskategorien: 0 = normal gefüllt, 1 = wenig
+gefüllt. WT: n=9); IL-6-/-: n=13.
+100%
+80%
+
+30,8
+
+44,4
+
+60%
+40%
+20%
+
+69,2
+
+55,6
+
+0%
+WT
+
+IL-6-/0
+
+1
+
+0
+
+1
+
+Abbildung 49: Histologische Präparate der Niere. H.E.-Färbung, 200fache
+Vergrößerung, Messbalken: 100µm. A: normal gefüllte Glomeruli. B: wenig gefüllte
+Glomeruli
+
+63
+
+ERGEBNISSE
+
+5.7.5 Gehirn
+HE-Färbung
+Mithilfe der H.E- gefärbten Präparate wurde das Verhältnis aus Cortexdicke
+links/rechts als Maß für die Ödemreaktion des Gehirns ermittelt. Sowohl bei den WTals auch bei IL-6-/- Tieren zeigt sich ein Verhältnis knapp über 1. Es gibt keine
+signifikanten Unterschiede.
+Abbildung 50: Verhältnis des Ödems linker Cortex/ rechter Cortex. Dargestellt sind
+das arithmetische Mittel und die Standardabweichung. WT: n=7; IL-6-/-: n=7.
+
+Cortexdicke links/ rechts
+
+1,5
+
+1
+
+0,5
+
+0
+
+1,08
+
+1,04
+WT
+
+IL-6-/-
+
+Nissl-Färbung
+Bei der qualitativen Auswertung der Nissl-gefärbten Präparate des Cortex wurden
+teilweise deutliche Veränderungen hinsichtlich der kortikalen Zellstruktur festgestellt.
+So wurde ein Verlust der vertikalen Zellsäulenstruktur und ein ödematös
+aufgelockerter bis aufgelöster Zellverband beobachtet. Außerdem fiel eine deutliche
+Abnahme der Dichte vital erscheinender Neurone auf. Degenerative Veränderungen
+in Form einer tigrolytischen Rückbildung der Nissl-Schollen und pyknotische
+Zellkernverdichtungen konnten beobachtet werden (Abbildung 51). Bei der
+64
+
+ERGEBNISSE
+
+Beurteilung des Hippocampus wurde das Hauptaugenmerk auf hypoxie- und
+traumaempfindliche Regionen des Cornu amonis (CA) gerichtet. In der CA1- und
+CA3-Region konnten Veränderungen in Form von teilweise hochgradig geschädigten
+Neuronen beidseits beobachtet werden (Abbildung 52). Im Gyrus dentatus zeigte ein
+Großteil der Tiere beidseitige geringgradige Veränderungen. Entscheidende
+Unterschiede zwischen WT- und IL-6-/- Tieren konnten nicht erkannt werden.
+Abbildung 51: Histologische Präparate des Cortex, Nissl-Färbung, 100fache
+Vergrößerung, Messbalken: 100 µm; A: gut erkennbare vertikale Zellsäulenstruktur, B:
+hochgradige Veränderungen hinsichtlich der Zellstruktur mit einem deutlich
+aufgelockerten Zellverband und Abnahme vital erscheinender Neurone.
+
+Abbildung 52: Histologische Präparate des Hippocampus (CA3-Region), NisslFärbung, 200fache Vergrößerung, Messbalken: 50 µm; A) ohne besonderen Befund B)
+hochgradige Neuronenschäden
+
+65
+
+ERGEBNISSE
+
+GFAP-Färbung
+Bei der qualitativen Betrachtung fiel eine deutliche Hyperplasie und Hypertrophie der
+Astrozyten auf. Diese beidseitige reaktive Gliose zeigte sich im Cortex und in der
+darunter
+
+liegenden
+
+weißen
+
+Substanz
+
+sowie
+
+im
+
+Hippocampus.
+
+Signifikante
+
+Unterschiede zwischen WT- und IL-6-/- Tieren konnten nicht aufgezeigt werden.
+Abbildung 54 zeigt beispielhaft Ausprägungen der astrozytären Reaktionen im
+Bereich des Cortex (Cingulums).
+
+GFAP positive Zellen
+
+Abbildung 53: GFAP positive Zellen im Cortex und der Hippocampus-Region.
+Dargestellt sind das arithmetische Mittel und die Standardabweichung.
+
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+
+149
+
+166
+WT
+
+IL-6-/-
+
+Abbildung 54: Histologische Präparate aus dem Cortex (Bereich des Cingulums):
+Dargestellt sind beispielhaft die unterschiedlichen Ausprägungen der Astrogliose, A:
+geringgradige Astrogliose, B: ausgeprägte Astrogliose; Nissl-Färbung, 100fache
+Vergrößerung, Messbalken: 200 µm
+
+66
+
+ERGEBNISSE
+
+APP-Färbung
+Die APP-Färbung diente dem immunhistologischen Nachweiß geschädigter Axone.
+Im Bereich der besonders hypoxie- und traumaempfindlichen Regionen im
+Hippocampus, wie die CA3- und CA1 –Regionen konnten beidseits geschädigte
+Neurone nachgewiesen werden. Aber auch im Bereich des Cortex konnten positivangefärbte Axone gefunden werden (Abbildung 56). Tendenziell zeigten die WTTiere mehr geschädigte Axone, dieser Unterschied ist jedoch nicht signifikant.
+
+APP positive Zellen
+
+Abbildung 55: APP positive Zellen im Cortex und der Hippocampus-Region.
+Dargestellt sind das arithmetische Mittel und die Standardabweichung.
+
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+
+125
+
+82
+WT
+
+IL-6-/-
+
+Abbildung 56: Histologische Präparate aus der CA3-Region (A) und des Cortex (B).
+dargestellt werden positiv-angefärbte Axone. APP-Färbung, 200fache Vergrößerung,
+Messbalken: 50 µm
+
+67
+
+DISKUSSION
+
+6 Diskussion
+Im Rahmen der vorliegenden Studie wurden Effekte des Interleukin-6 im Rahmen
+des Systemic Inflammatory Response Syndrome (SIRS) beim Polytrauma an der
+Maus evaluiert. Hierfür wurden klinische, histologische und Blutparameter sowohl an
+Wildtyp- als auch an Interleukin-6 knock-out –Stämmen untersucht. Dabei wurden
+folgende wesentliche Ergebnisse gefunden:
+
+
+
+Für den klinischen Parameter Körpergewicht zeigte sich nach 72h bzw. 96h
+eine signifikante Zunahme bei den Wildtypmäusen. Die Aktivität, Temperatur
+und Letalität waren bei Wildtyp- und IL-6-/- Tieren ähnlich.
+
+
+
+Es zeigten sich signifikant niedrigere Werte für zytotoxische T-Zellen (CD8+)
+und natürliche Killerzellen wie auch für alle gemessenen Zytokinspiegel bei
+der Wildtypgruppe, T-Helferzellen (CD4+) und die Ohrdicke als Maß für eine
+Typ IV-Reaktion waren vergleichbar.
+
+
+
+Histologische Unterschiede zwischen Wildtyp- und IL-6-/- Tieren zeigten sich
+im Polytraumamodell für keines der Organe. Allerdings fand sich eine leichte
+Tendenz zur vermehrten Ödembildung in der IL-6-/- Gruppe für die Organe
+Lunge und Leber.
+
+6.1 Aktivität, Körpergewicht, Körperkerntemperatur und Letalität
+68
+
+DISKUSSION
+
+Das Verhalten eines Tieres ist einer der wichtigsten Parameter in der täglichen
+Beobachtung. Ohne eine das Tier belastende Manipulation erhält man so
+aussagekräftige Hinweise auf den Gesundheitszustand. Dabei werden das Interesse
+an Artgenossen und der Umwelt, Schläfrigkeit und bei eingeschränkter Aktivität auch
+Reaktionen auf Zuwendung beobachtet(123). Das Fressverhalten spiegelt bereits
+kleinste Einschränkungen im Wohlbefinden wieder. Da diese jedoch bei Mäusen
+schwierig zu beobachten ist, dient die Körpergewichtsentwicklung als Indikator für die
+Nahrungsaufnahme. Gleichzeitig wird auch eine krankheitsbedingter Katabolismus
+oder eine mögliche Ödembereitschaft miterfasst. Die Körperkerntemperatur ist
+ebenfalls ein Maß für Homöostase und den Stoffwechsel. Ist sie erhöht, lässt das auf
+eine Steigerung des Stoffwechsels durch Inflammation und Fieber schließen.
+Inaktivität hingegen kann zu Hypothermie führen. Fällt die Temperatur weiter ab, sind
+die Kapazitäten des Körpers zur Thermoregulation erschöpft. Eine Hypothermie ist
+ein wichtiger Prognosefaktor für die Letalität(124). In verschiedenen Studien konnte
+gezeigt werden, dass sich die Letalität schädelhirnverletzter Patienten durch einen
+zusätzlichen hypovolämischen Schock verdoppelte bzw. sich sogar von 12,8% auf
+62,1% erhöhte(125,126). Die Letalität kann also auch als ein Indikator für die
+Schwere des Traumas gesehen werden.
+So
+
+wurden
+
+in
+
+dieser
+
+Studie
+
+die
+
+Parameter
+
+Aktivität,
+
+Körpergewicht,
+
+Körperkerntemperatur und die Letalität im Zeitverlauf bestimmt um den klinischen
+Status der Mäuse während der Untersuchungen beurteilen zu können.
+Sowohl die WT-Tiere als auch die IL-6-/- Tiere zeigten sich nach Traumatisierung in
+ihrer Aktivität eingeschränkt erholten sich jedoch im Beobachtungsverlauf wieder. Die
+IL-6-/- Tiere blieben etwas unterhalb des Aktivitätsniveaus der WT-Tiere. Dabei wurde
+jedoch in der WT-Gruppe eine etwas höhere Letalität festgestellt. Hier kann die
+Vermutung angestellt werden, dass in der IL-6-/- Gruppe auch sehr kranke und damit
+69
+
+DISKUSSION
+
+inaktive Tiere die gesamte Nachbeobachtungszeit überlebten und so das mittlere
+Aktivitätsniveau entsprechend zugunsten der WT-Gruppe ausfiel.
+Insgesamt jedoch zeigten die beobachteten Tiere im Beobachtungszeitraum ein sehr
+hohes Aktivitätsniveau. In Rahmen anderer experimenteller Modelle, zeigte sich das
+verwendete Bewertungsschema als wissenschaftlich nutzbar(127,123,111). Im Rahmen
+dieser Arbeit hätte sich jedoch bedingt durch das sehr hohe Aktivitätsniveau eine
+neurologische Beurteilung beispielsweise mit Hilfe eines „Neurological Severity
+Score“ für Mäuse eine bessere Aussagekraft über die durch das Schädelhirntrauma
+verursachten Beeinträchtigungen ergeben. Dieser Score ist bereits etabliert und wird
+auch verwendet(128,129). Dies sollte in weiterführenden Untersuchungen berücksichtigt
+werden.
+Einer durch Narkose ausgelösten und während der Aufwachphase, unter anderem
+der noch durch herabgesetzte Aktivität verminderten Fähigkeit zu ausreichender
+Thermoregulation mit nachfolgender Hypothermie wurde mit Hilfe einer Wärmelampe
+entgegengewirkt. Dennoch war 12h post Trauma bei beiden Gruppen eine
+erniedrigte Körperkerntemperatur zu messen, was bei nicht traumatisierten Tieren
+unter gleichen Bedingungen nicht zu beobachten ist (Van Griensven, persönliche
+Kommunikation). Im Beobachtungszeitraum konnten sowohl bei den WT- als auch
+bei den IL-6-/- Tieren nicht wieder Normalwerte erreicht werden. Ein Polytrauma kann
+zu einer Erniedrigung der Körpertemperatur führen, so wird eine Hypothermie in der
+Literatur regelmäßig nach schwerem Trauma und hämorrhagischem Schock
+beschrieben. Sie wird auf eine unzureichende Wärmeproduktion aufgrund von ATPNutzung unter anaeroben Bedingungen zurückgeführt(130,131). Nach SHT wird
+gelegentlich eine gestörte zentrale Thermoregulation beobachtet. Möglicherweise ist
+also aufgrund der Schwere des Krankheitsbildes von einer Erschöpfung bzw. einer
+zentralen Störung der Thermoregulation auszugehen.
+70
+
+DISKUSSION
+
+Bezüglich der Entwicklung des Körpergewichtes von IL-6-/- und WT-Tieren ergaben
+sich für die beiden Gruppen signifikante Unterschiede.
+Es zeigte sich in allen Gruppen eine Gewichtsabnahme, die entweder über einen
+eingeschränkten Metabolismus und/ oder über die Abnahme der Aktivität und
+verminderte Nahrungsaufnahme zu erklären ist. Diese Beobachtung deckt sich mit
+den Ergebnissen anderer Studien, die ebenfalls über Gewichtsverluste nach Trauma
+bzw. Sepsisinduktion berichten(132). Zum Zeitpunkt der 72h bzw. der 96h Visite
+zeigten sich signifikante Unterschiede in der Gewichtsveränderung zwischen WTund IL-6-/- Tieren. Die WT-Tiere haben ab der 72h Visite wieder an Gewicht zugelegt.
+Dies könnte möglicherweise durch vermehrte Ödembereitschaft im Rahmen des
+capillary leak bei Inflammation bedingt sein. Gleichzeitig haben die IL-6-/- Tiere weiter
+an Gewicht verloren. Auch in einer Studie von Leon et al. wurde ein stärkerer
+Gewichtsverlust bei IL-6-/- Tieren im Vergleich zu WT-Tieren nach Sepsisinduktion
+durch caecale Ligatur und Punktion beschrieben(133). Ein Grund dafür könnte die
+verstärkte Leberdysfunktion bei Abwesenheit von Interleukin 6 sein(134). So
+beschreiben Deutschmann et al. in einer aktuellen Studie vermehrte Cholestase,
+Steatosis sowie Leberzellschädigungen im Rahmen einer Sepsis bei IL-6-/- Mäusen.
+Man könnte in diesem Zusammenhang aber auch eine Interaktion mit dem Zytokin
+TNF-α vermuten, welches bei der Entwicklung einer Kachexie eine wichtige Rolle
+spielt und bei den IL-6-/- Tieren signifikant höhere Plasmaspiegel aufwies (s. u.).
+Letztendlich stellt die Letalität die Auswirkungen eines komplexen Traumas
+entweder unmittelbar oder aber im Verlauf als Folge eines SIRS mit konsekutiven
+MODS auf den Organismus dar. Auch bei den Ergebnissen der vorliegenden
+experimentellen Untersuchung lässt sich eine hohe Sterblichkeit im Zusammenhang
+mit einem Polytrauma (WT 43,7%, IL-6-/- 35%), aufzeigen. Wobei der Großteil der
+gestorbenen Tiere an den unmittelbaren Folgen des komplexen Traumas, also in den
+71
+
+DISKUSSION
+
+ersten 12h nach Trauma, starb. Erst ab der 72h Visite konnten erneut Sterbefälle
+registriert werden. Tendenziell starben mehr WT-Tiere als IL-6-/- Tiere, dieser
+Unterschied ist jedoch nicht signifikant. In der oben zitierten Sepsis Studie von Leon
+et al. konnten ebenfalls keine signifikanten Unterschiede hinsichtlich der Letalität von
+WT- und IL-6-/- Mäusen gefunden werden. In einer weiteren tierexperimentellen
+Studie konnte nachgewiesen werden, dass IL-6 einen der wesentlichsten Mediatoren
+Im Rahmen der pathophysiologischen Vorgänge bei Trauma und Sepsis darstellt und
+hohe Plasmaspiegel mit einem schlechten Outcome assoziiert sind(58).
+
+6.2 Immunologische Vorgänge
+Typ-IV-Reaktion
+Die Typ-IV-Reaktion lässt sich im Tierversuch als Maß für die Aktivierung des
+Immunsystems bestimmen, indem man die Ödematisierung des Ohrs nach
+Zweitkontakt mit einem Antigen wie DNFB bestimmt. Diese Methode ist etabliert und
+wird häufig angewendet(123,135,136).
+In der vorliegenden Arbeit wurden der Ohrdickenquotient aus der Ohrdicke 24h nach
+Zweitkontakt mit DNFB (Visite 96h) und dem Mittelwert der Ohrdicken der Visiten 12
+bis 72h post Trauma bestimmt, um ein Maß der Immunaktivieung bzw. –supression
+aufzeigen zu können. Die Zunahme der Ohrdicke nach Zweitkontakt weist auf eine
+erfolgreich ausgelöste T-Zell vermittelte Typ-IV-Reaktion hin. Bezüglich der relativen
+Ohrdickenzunahme
+
+lagen
+
+keine
+
+signifikanten
+
+Unterschiede
+
+zwischen
+
+den
+
+Versuchsgruppen vor. Die über die Typ-IV-Reaktion messbare Aktivierung des
+Immunsystems erscheint bei beiden Gruppen gleich groß. Dieses Ergebnis deckt
+sich mit dem Ergebnis eines Sepsis-Modells mit caecaler Ligatur und Punktion(137).
+
+72
+
+DISKUSSION
+
+Lymphozyten in der Milzsuspension
+In der vorliegenden Studie wurden die Lymphozytensubpopulationen der T-Zellen
+(CD4+, CD8+) und NK-Zellen in der Milzsuspension untersucht.
+T-Helferzellen (CD4+) sind ein wichtiger Marker zu Erkennung eines SIRS(138). In
+dieser Arbeit konnten keine signifikanten Unterschiede zwischen IL-6-/- und WTTieren gefunden werden. Beide Gruppen zeigten vergleichbare relative Anteile von
+T-Helferzellen (CD4+). Die gemessen Werte (WT 18 ± 10% und IL-6-/- 17 ± 7%) sind
+in etwa vergleichbar mit den Werten die bei WT- und IL-6-/- Tieren im Rahmen von
+Sepsis-Modellen mit caecaler Ligatur und CLP gefunden werden (WT 25,7% ± 5%
+und IL-6-/- 17 ± 5%)(132,139).
+Bezüglich der CD8+-T-Lymphozyten konnten signifikante Unterscheiden zwischen
+den Gruppen nachgewiesen werden. So konnte gezeigt werden, dass der Anteil von
+CD8+-T-Zellen bei den IL-6-/- Tieren (35,5% ± 13%) signifikant höher war als bei den
+WT-Tieren (21% ± 7%).
+Die Untersuchung der NK-Zellen konnte ebenfalls Unterschiede zwischen IL-6-/Tieren und WT-Tieren zeigen. So war der relative Anteil der NK-Zellen an der
+Gesamt-Lymphozytenpopulation bei den IL-6-/- Mäusen (20,8 % ± 7,2%) signifikant
+höher als bei den WT-Mäusen (11,7% ± 4,8%). Beide Gruppen liegen deutlich über
+der physiologischen Norm von bis zu 5% NK-Zellen (Van Griensven, persönliche
+Kommunikation). Dies ist von Bedeutung, da die NK-Zellen eine wichtige Rolle bei
+der Entwicklung eines SIRS spielen(140). So konnte in einer aktuellen Studie gezeigt
+werden, dass eine Depletion von NK-Zellen zu einer verminderten Inflammation und
+einer Reduktion der Mortalität von 50% führt(141).
+In der oben zitierten Sepsis-Studie wurden sowohl für die CD8+-T-Zellen als auch für
+die NK-Zellen bei den IL-6-/- Tieren niedrigere Werte gemessen als bei den WTTieren. Diese Ergebnisse decken sich mit einer aktuellen Studie von Zeckey et al(139).
+73
+
+DISKUSSION
+
+Eine Studie von 2003, zeigte ebenfalls dass Interleukin-6 zu einer verstärkten TLymphozytenproliferation, einer vermehrten Differenzierung von zytotoxischen TZellen und einer erhöhten Aktivität von NK-Zellen führt(55). Diese Beobachtungen
+konnten in dieser Studie nicht gemacht werden. Der Grund für die unterschiedlichen
+Ergebnisse liegt möglicherweise in der Art der Initiierung des inflammatorischen
+Geschehens. So fehlt bei dem hier vorliegenden Studiendesign der unmittelbar
+infektiöse Stimulus durch caecale Ligatur und Punktion.
+Die IL-6-/- Tiere scheinen hinsichtlich der CD8+-T-Zellen und der NK-Zellen also
+wesentlich stärker auf die Traumata zu reagieren als die WT-Tiere. Ein Grund hierfür
+könnte das Fehlen antiinflamatorischer Effekte des Interleukin 6 sein. Dieser
+antiinflammatorische Effekt wird auch in anderen Studien bestätigt. So wurde gezeigt
+dass die TNF-α Synthese nach Lippopolysaccharid-Injektion bei IL-6-/- Tieren 3-fach
+höher war als bei WT-Tieren(142). Die Behandlung mit anti-IL-6-Antikörpern in einem
+CLP-Modell hatte die gleichen Effekte. So wurde die Zymosan-induzierte Zerstörung
+von Gelenkknorpel durch Injektion von IL-6 in arthritische Gelenke von Mäusen
+suppremiert(143).
+
+Zytokine
+Im Rahmen dieser Arbeit wurden 96h nach Traumainduktion die Zytokine Interleukin
+12, IFN-γ sowie TNF-α und MCP-1 bestimmt.
+Bezüglich der Freisetzung von IL-12 bei Traumapatienten liegen in der Literatur
+widersprüchliche Ergebnisse vor. Es werden sowohl erniedrigte als auch erhöhte IL12 Plasmalevel bei Polytraumapatienten und signifikant erhöhte IL-12 Werte bei
+Schädelhirntraumapatienten
+
+im
+
+Liquor
+
+beschrieben(144,78,145).
+
+Auch
+
+etwaige
+
+Zusammenhänge zwischen IL-12 Werten und der Letalität werden kontrovers
+diskutiert(144,77,145).
+
+Im
+
+Rahmen
+
+der
+
+vorliegenden
+74
+
+Studie
+
+waren
+
+die
+
+IL-12
+
+DISKUSSION
+
+Plasmakonzentrationen der IL-6-/- Tiere (11,8 ± 6,6 pg/ml)
+
+signifikant (p=0,007)
+
+größer als die der WT-Tiere (3,7 ± 4,8 pg/ml).
+Ebenso zeigten sich die Plasmakonzentrationen für IFN-γ bei den IL-6-/- Tieren
+gegenüber den WT-Tieren signifikant erhöht (p </= 0,02).
+In zurückliegenden Studien konnten ebenfalls erhöhte IFN-γ-Spiegel nach einem
+Trauma gemessen werden. Djeu und Blanchard konnten schon 1988 nachweisen,
+das IFN-γ auf neutrophile Granulozyten und NK-Zellen aktivierend wirkt und die
+Differenzierung zu zytotoxischen T-Zellen initiiert. Die in dieser Arbeit bei den IL-6-/Mäusen gemessenen erhöhten Werte von IFN-γ, passen demnach zu den erhöhten
+Werten von NK-Zellen und zytotoxischen T-Zellen (CD8+).
+Das Chemokin MCP-1 ist bei der Entstehung von Organdysfunktionen nach Trauma
+durch seine chemotaktische Wirkung auf verscheiden Leukozytenpopulationen von
+Bedeutung. Es lässt sich nach Ischämie und Reperfusion im Serum nachweisen(146).
+Auch im Gehirn ist die Expression von MCP-1 nach Trauma in Ratten nachgewiesen
+worden(147), wobei es eine Schlüsselrolle bei der Einwanderung von Leukozyten über
+die Bluthirnschranke spielt(148). In der vorliegenden Studie zeigten die IL-6-/- Tiere
+signifikant (p<0,02) höhere MCP-1-Konzentrationen als die WT-Tiere. In einer Studie
+von Thibeault et al. konnte gezeigt werden dass IL-6 nicht zu einer vermehrten
+Produktion von MCP-1 führt, wohl aber TNF-α die Ausschüttung induzieren kann. Die
+erhöhte MCP-1 Konzentration bei den IL-6-/- Tieren kann also durch die erhöhten
+TNF-α Konzentration erklärt werden.
+Erhöhte TNF-α Spiegel im Plasma wurden sowohl bei Untersuchungen an einem
+Hämorrhagie-Modell
+
+an
+
+Mäusen,
+
+als
+
+auch
+
+bei
+
+Traumapatienten
+
+nachgewiesen(39,115,149). Auch eine Korrelation mit der Schwere des Traumas konnte
+festgestellt werden(150). An ARDS bzw. MODS verstorbene Patienten wiesen
+signifikant höhere TNF-α Spiegel kurz nach dem Trauma auf als Überlebende(63). Ein
+75
+
+DISKUSSION
+
+Schädelhirntrauma an Ratten führte ebenfalls zu erhöhten TNF-α-Spiegeln im
+Plasma(151). In dieser Studie konnte in beiden Gruppen TNF-α erhöht im Serum
+nachgewiesen werden. Dies entspricht den Hinweisen aus der Literatur, die einen
+Zusammenhang zwischen der TNF-α Konzentration und der Schwere des Traumas
+annehmen(150). Es zeigte sich, dass bei den IL-6-/- Tieren hochsignifikant höhere
+Werte als bei den WT-Tieren gemessen wurden (p<0,01). De Coupade et al. konnten
+ebenfalls zeigen dass IL-6-/- Mäuse höhere TNF-α Konzentrationen nach
+Lippopolysacharid-Injektion aufweisen als WT-Mäuse. So wurde beschrieben das
+Annexin-1 (ANXA1), ein akutes Phase-Protein mit antiinflammatorischen Effekten,
+dass durch TNF-α und IL-6 in der Leber ausgeschüttet wird, ein negatives Feedback
+auf die Freisetzung von TNF-α hat. Die Injektion von IL-6 bei IL-6-/- Mäusen führte zu
+einer vermehrten Ausschüttung von ANXA1 und damit zu einer verminderten
+Freisetzung von TNF-α(152).
+Insgesamt muss bemerkt werden, dass die gemessen Werte jedoch weit hinter den
+Messwerten der oben zitierten Sepsis-Studie(132) von Van Griensven bleiben. Hierbei
+spielt der zum einen vermutlich größere infektiöse Stimulus in der Sepsis-Studie eine
+Rolle, als auch der in der vorliegenden Studie für TNF-α vergleichsweise späte
+Messzeitpunkt, so dass die TNF-α Konzentration zum Messzeitpunkt wahrscheinlich
+schon wieder rückläufig war. Zu einem früheren Messzeitpunkt hätte man daher
+vermutlich noch auffälligere Ergebnisse erzielen können.
+Bei der Betrachtung der Gesamtheit der in dieser Studie gemessenen Zytokine fällt
+auf, dass die erreichten Serum-Konzentrationen geringer sind, als die, die man bei
+einer Sepsis feststellen kann. An einem vergleichbaren experimentellen Modell, bei
+dem an dem selben Mäusestamm der gleiche traumatisch-hämorrhagische Schock
+induziert, danach jedoch der Verlauf einer polymikrobiellen Sepsis mittels caecaler
+Ligatur und Punktion simuliert wurde, konnten unter gleichen Laborbedingungen und
+76
+
+DISKUSSION
+
+–methoden die dreifachen bis über hundertfachen Plasmazytokinkonzentrationen
+gemessen werden(153).
+Bei allen gemessenen Zytokin-Konzentrationen muss bedacht werden, dass es sich
+um Momentaufnahmen 96 Stunden nach Trauma handelt. Eine vorübergehende
+Erhöhung bestimmter Zytokine, die bis zum Zeitpunkt der Organentnahme
+möglicherweise wieder abgenommen hat, kann so nicht festgestellt werden.
+Interessant wäre in diesem Zusammenhang eine Verlaufsuntersuchung, welche die
+Zytokin-Konzentrationen im Plasma direkt nach Trauma und nachfolgend in
+regelmäßigen Abständen erfasst. Des Weiteren ist nach Schädelhirntrauma eine
+Zytokinfreisetzung im Gehirn nachgewiesen. Man kann davon ausgehen, dass durch
+eine geschädigte Bluthirnschranke ein Teil dieser intrathekal produzierten Zytokine in
+der Zirkulation miterfasst werden kann(154). Da die im Plasma gemessenen Zytokine
+jedoch aus jeglichen Organen oder zirkulierenden Immunzellen stammen können,
+wäre insbesondere im Hinblick auf den Einfluss des Schädelhirntraumas eine
+Untersuchung der Zytokine im Liquor cerebrospinalis oder im Gehirnparenchym
+sinnvoll. Eine Gewinnung von Liquor ist allerdings bei der Maus extrem schwierig.
+Man sollte jedoch für weitere Studien über einen Nachweis von Zytokinen im
+Gewebe durch die Herstellung einer Suspension oder mittels histologischer
+Methoden nachdenken.
+
+6.3 Histologische Veränderungen
+Lunge
+
+77
+
+DISKUSSION
+
+In der Literatur sind Einwanderungen von PMN in das Lungengewebe im
+Zusammenhang mit der Entstehung eines Lungenödems in tierexperimentellen
+Hämorrhagie- bzw. Schädelhirntraumamodellen beschrieben(155,156). Auch in der
+vorliegenden Untersuchung zeigten in beiden Gruppen die meisten Tiere eine mittelbis hochgradige Granulozyteninfiltration in die Lunge, sowie eine geringgradige
+Ödembildung.
+
+In
+
+beiden
+
+Gruppen
+
+konnten
+
+auch
+
+Tiere
+
+mit
+
+hochgradigem
+
+Lungenödem gefunden werden. Die Unterschiede zwischen IL-6-/- und WT-Tieren
+sind statistisch nicht signifikant. Es scheint jedoch eine tendenziell stärkere
+Ödembildung bei den IL-6-/- Tieren vorzuliegen. Eine aktuelle Studie von Mommsen
+et
+
+al.,
+
+in
+
+der
+
+die
+
+Zytokinproduktion
+
+von
+
+Alveolarmakrophagen
+
+und
+
+die
+
+Lungenschädigung nach Femurfraktur und Hämorrhagie untersucht wurde, zeigte
+ähnliche Ergebnisse(157). Eine mögliche Erklärung könnten die erhöhten TNF-αPlasmakonzentrationen bei den IL-6-/- Tieren sein. So wurden in der oben zitierten
+Studie von Mommsen et al. gezeigt, dass Alveolarmakrophagen in IL-6-/- Mäusen
+signifikant mehr TNF-α und MCP-1 produzieren. In einer Studie von Abraham et al.
+wird
+
+TNF-α
+
+eine
+
+entscheidende
+
+Rolle
+
+in
+
+der
+
+Entstehung
+
+der
+
+akuten
+
+inflammatorischen Lungenverletzung zugeschrieben. Die Blockade von TNF-α mit
+monoklonalen Antikörpern führte zu einer signifikanten Reduktion von Hämorrhagieinduzierten Lungenschäden(42). In anderen Studien wurde gezeigt, dass IL-6 zur
+Infiltration
+
+von
+
+neutrophilen
+
+Granulozyten
+
+und
+
+damit
+
+zu
+
+sekundären
+
+Lungenschädigungen führt(65). Ebenso wird beschrieben dass IL-6 an Endothelzellen
+eine reversible Erhöhung der Permeabilität initiiert(66). Der Effekt von IL-6 auf die
+Lungenschädigung zeigte sich in dieser Studie nicht durch eine stärkere Schädigung
+der Lungen von den WT-Tieren.
+
+Leber
+78
+
+DISKUSSION
+
+Bei beiden Gruppen konnte bei den meisten Tieren ein Leberödem und eine
+hydropische Degeneration gefunden werden. Tendenziell zeigten die IL-6-/- Tiere
+etwas häufiger ein Leberödem und die hydropische Degeneration stellte sich
+tendenziell etwas stärker dar. Diese Unterschiede zwischen WT- und IL-6-/- Tieren
+sind jedoch nicht signifikant. Aus einer Studie an Ratten und Mäusen ist bekannt,
+dass schwerste Dysfunktionen der Leber nach hämorrhagischen Schock zu
+beobachten sind(158).
+Bei Schädigungen der Leber muss unbedingt bedacht werden, dass hierbei die
+Kupferschen Sternzellen in Mitleidenschaft gezogen werden. In einer Studie von
+Hildebrand et al. konnte gezeigt werden, dass die Kupferschen Sternzellen die
+stärksten Produzenten von systemisch nachweisbaren Zytokinen sind(159). Sie setzen
+neben Zytokinen ähnlich wie PMN`s auch weitere Mediatoren und reaktive
+Sauerstoffmetaboliten frei. Diese wirken einerseits chemotaktisch und steigern die
+Permeabilität des Gefäßendothels, was eine weitere PMN-Invasion hervorruft,
+andererseits lösen diese Substanzen eine Apoptose in den Hepatozyten aus(160).
+Auch das verwendete Narkotikum Ketamin kann in seltenen Fällen Leberzellen
+schädigen, wobei apoptotische Vorgänge erst nach drei Stunden und nur für kurze
+Zeit beobachtet wurden(161).
+Das Leberödem und die Granulozyteninfiltration können möglicherweise ebenso wie
+bei der Lunge mit stressbedingter Neutrophilie und Sequestration der Zellen in das
+Organ erklärt werden, allerdings wurde letzteres bei anderen Studien für die Leber
+bisher noch nicht nachgewiesen.
+Möglicherweise sind die hydropische Degeneration und das Leberödem auf eine
+stressinduzierte Vasokonstriktion zurückzuführen. So aktiviert eine Hypoxie in den
+Kupffer`schen
+
+Sternzellen
+
+die
+
+Freisetzung
+
+verschiedener
+
+inflammatorischer
+
+Produkte, die einerseits die Hepatozyten direkt schädigen, andererseits PMN`s
+79
+
+DISKUSSION
+
+anlocken, die dann ebenfalls durch granuläre Enzyme und respiratory burst die
+Läsionen verstärken(159).
+
+Milz
+In der vorliegenden Arbeit konnten keine Unterschiede bezüglich der Abgrenzbarkeit
+von weißer und roter Milzpulpa zwischen WT- und IL-6-/- Tieren gefunden werden.
+Bei der Betrachtung der Fülle der weißen Milzpulpa zeigte sich bei den IL-6-/- Tieren
+die Milzpulpa durchweg normal gefüllt. Bei den WT-Mäusen konnten auch Tiere mit
+wenig gefüllter Milzpulpa gefunden werden. Hier scheint also im Vergleich zu den IL6-/-Tieren
+
+eine
+
+größere
+
+Rekrutierung
+
+von
+
+Lymphozyten
+
+vorzuliegen,
+
+die
+
+möglicherweise durch proinflammatorische Effekte des IL-6 zu erklären sind. In einer
+anderen Polytrauma-Studie bei der ein offenes SHT mit einer Femurfraktur und einer
+Hämorrhagie bei WT-Mäusen kombiniert wurde, konnte eine wesentlich stärkere
+Rekrutierung von Lymphozyten beobachtet werden(162). Dies könnte eventuell in
+einem vergleichsweise stärkeren Trauma begründet sein.
+
+Niere
+Im Rahmen dieser Studie konnten weder eine Infiltration von neutrophilen
+Granulozyten, noch signifikante Unterschiede in der Fülle der Glomeruli zwischen IL6-/- und WT-Tieren nachgewiesen werden. In einer Studie von van Griensven et al. in
+der Organveränderungen nach Sepsis durch caecale Punktion und Femurfraktur mit
+Hämorrhagie untersucht wurden, konnten ebenfalls keine Veränderungen der
+Nierenmorphologie beobachtet werden(111).
+
+Gehirn
+
+80
+
+DISKUSSION
+
+Die innerhalb der histopathologischen Auswertung der H.E. gefärbten Gehirnschnitte
+ausgeführten Messungen der linken Seite (Traumaseite) wurde mit den Messungen
+der
+
+rechten
+
+Seite
+
+ins
+
+Verhältnis
+
+gesetzt
+
+und
+
+damit
+
+die
+
+relative
+
+Cortexdickenveränderung als Maß der Ödemreaktion ermittelt. Dabei gab es keine
+signifikanten Unterschiede zwischen den IL-6-/- und den WT-Tieren. Diese
+Ergebnisse sind allerdings mit Vorsicht zu Interpretieren. Sie erlauben zwar eine
+Aussage darüber, dass es bei den traumatisierten Tieren zu verdickten Cortices auf
+der Traumaseite kam, erlauben jedoch keine Aussage über den Grad der
+Ödematisierung verglichen mit einem unveränderten Cortex, da als Bezugsgröße der
+jeweils kontralaterale Cortex diente. Bei einem geschlossen Schädelhirntraum haben
+andere Studien belegt, dass auch der kontralaterale Cortex durch das Trauma
+beeinträchtigt ist(163,164). Diese Studie zeigt jedoch, dass die Ödemreaktion auf der
+Traumaseite stärker war als auf der Gegenseite, da nahezu bei allen Tieren das
+Verhältnis von Cortexdicke links und Cortexdicke rechts größer 1 war. Dieses
+Ergebnis deckt sich mit den Ergebnissen anderer Studien(101,103). Unter Beachtung
+der weiteren histologischen Ergebnisse ist anzunehmen, dass durch das
+geschlossene Schädelhirntrauma auch ein generelles Hirnödem induziert worden ist,
+dass durch die oben genannte Messmethode nicht miterfasst werden konnte. In
+aktuellen Studien wurde zur Ermittlung des Hirndruckes als Zeichen des Hirnödems
+der intrakranielle Druck (ICP) gemessen(165,166) oder auch anhand von MRT
+Aufnahmen das Hirnödem beurteilt(167,168).
+
+Mit Hilfe der Nissl-Färbung erfolgte eine rein deskriptive Beurteilung der neuronalen
+Schäden unter Berücksichtigung der pyramidalen Zellstrukturen und der allgemeinen
+Zellarchitektonik
+
+im
+
+Cortex,
+
+sowie
+
+insbesondere
+
+der
+
+hypoxie-
+
+traumaempfindlichen Regionen des Cornu ammonis des Hippocampus.
+81
+
+und
+
+DISKUSSION
+
+Analog zur bestehenden Literatur wurden auch in dieser Arbeit nach der Induktion
+des Schädelhirntraumas neuronale Schädigungen sowie Verluste vital erscheinender
+Neurone und ödematöse Auflockerungen des kortikalen Zellverbandes beobachtet,
+die
+
+pathophysiologische
+
+Mechanismen
+
+nach
+
+traumatischen
+
+Gehirnschäden
+
+darstellen(169,170). Die Veränderungen im Hippocampus entsprachen dem Bild
+hypoxie- und traumainduzierter Schädigungen mit selektiv pyknotisch erscheinenden
+Neuronen. Es wurden deutliche Veränderungen in der CA3 Region gefunden. Diese
+Ergebnisse decken sich mit den Ergebnissen anderer Schädelhirntraumamodellen, in
+denen ebenfalls ein selektiver Neuronenverlust in der CA3 Region beschrieben
+wird(171,103).
+
+Die
+
+hier
+
+beschriebenen
+
+Schäden
+
+und
+
+Veränderungen
+
+in
+
+der
+
+Zellarchitektonik wurden sowohl im linken als auch im rechten Cortex gefunden und
+sind ein weiterer Hinweis auf ein eher generalisiertes und beide Cortices
+betreffendes Schädelhirntrauma.
+Die GFAP-Färbung diente der Auszählung der reaktiven Astrozyten und somit der
+Beurteilung degenerativer und regenerativer Prozesse im Gehirn. Bei allen Tieren
+konnten reaktive Astrozyten gefunden werden. Diese reaktive Gliose war diffus über
+beide Seiten des Cortex und des Hippocampus verteilt.
+Eine Studie von Singhal et al. konnte eine wichtige Rolle von Interleukin 6 bei
+Reparaturprozessen nach einer traumatischen Hirnschädigung belegen(71). Weiterhin
+ist beschrieben dass auch die Expression von IL-6 im Gehirn zur Entwicklung einer
+reaktiven Gliose führt(74). Eine signifikant stärkere reaktive Gliose bei den WT-Tieren
+konnte im Rahmen dieser Studie jedoch nicht gefunden werden. Tendenziell zeigte
+sich sogar etwas mehr reaktive Gliose bei den IL-6-/- Tieren. Ein Grund könnte
+möglicherweise die höhere TNF-α- Konzentration bei den IL-6-/- Tieren sein. So
+zeigten Yang et al. in einer Studie dass TNF-α im Gehirn zu einer Proliferation von
+Astrozyten führt und entscheidend an der Erhöhung der Permeabilität der
+82
+
+DISKUSSION
+
+Bluthirnschranke beteiligt ist(48). Bei der Arbeit mit Interleukin-knock out-Tieren muss
+immer wieder bedacht werden, dass die Möglichkeit besteht, dass andere
+Mediatoren die Rolle des fehlenden Interleukins übernehmen oder aber gerade durch
+das Fehlen vermehrt ausgeschüttet werden und ihrerseits Auswirkungen haben.
+Letztendlich wurde mit Hilfe der APP-Färbung ein immunhistochemischer Nachweiß
+von geschädigten Neuronen durchgeführt. Besondere Aufmerksamkeit wurde auf die
+Hippocampusregion gelegt. Auch hier konnten im Bereich von CA3 und CA1
+beidseits geschädigte Neuronen nachgewiesen werden. Statistisch signifikante
+Unterschiede zwischen den IL-6-/-
+
+und den WT Tieren konnten nicht gefunden
+
+werden. Shohami et al. konnten zeigen, dass reduzierte TNF-α-Konzentrationen oder
+auch die Blockade von TNF-α zu geringeren Hirnschäden führen(172). In dieser Studie
+zeigten
+
+die
+
+IL-6-/-
+
+Tiere
+
+signifikant
+
+höhere
+
+TNF-α-Konzentrationen,
+
+ein
+
+entsprechender stärkerer Neuronenschaden konnte jedoch nicht beobachtet werden.
+Es gibt jedoch auch Studien die TNF-α eine neuroprotektive Wirkung zusprechen(47).
+Dieser neuroprotektive Effekt des TNF-α könnte möglicherweise eine Erklärung des
+tendenziell geringer ausgeprägten Neuronenschadens bei den IL-6-/- Tieren sein.
+
+6.4 Abschließende Diskussion
+Die vorliegende Arbeit sollte Effekte des Interleukin-6 im Rahmen des Systemic
+Inflammatory Response Syndrome beim Polytrauma aufzeigen.
+83
+
+DISKUSSION
+
+Hierfür wurden auf der Basis eines tierexperimentellen Modells ein geschlossenes
+Schädelhirntrauma, eine stumpfe Weichteil- und Knochenverletzung (Femurfraktur)
+und ein hämorrhagischer Schock im Sinne eines Polytraumas kombiniert. Die
+Versuchsreihe wurde sowohl an IL-6-/- Mäusen, als auch parallel an Mäusen vom
+Wildtyp (WT) durchgeführt.
+Die Rolle des Interleukin-6 in der Pathophysiologie des SIRS wird immer noch
+kontrovers diskutiert. Viele Studien belegen die proinflammatorische Rolle des
+Interleukin-6 in der Sepsis(142,173,174,175). Manche Studien haben jedoch auch
+Hinweise darauf gegeben, dass Interleukin-6
+
+auch antiinflammatorisch wirken
+
+könnte(152,176).
+Im Rahmen dieser Studie wurden bei den IL-6-/- Mäusen neben einer stärkeren
+Gewichtsabnahme höhere Konzentrationen für die Zytokine Interleukin-12, IFN-γ,
+MCP-1 und TNF-α als bei den WT-Mäusen gemessen. Weiterhin zeigten die IL-6-/Tiere einen signifikant höheren Anteil von CD8+-T-Lymphozyten und NK-Zellen, so
+dass insgesamt von einer stärkeren Aktivierung des Immunsystems ausgegangen
+werden
+
+muss,
+
+die
+
+sich
+
+durch
+
+die
+
+im
+
+knock out-Stamm fehlenden anti-
+
+inflammatorischen Effekte des Interleukin-6 erklären lassen könnte.
+Ein positiver oder negativer Effekt des Interleukin-6 auf die Mortalität konnte im
+Rahmen dieser Studie nicht festgestellt werden.
+
+Das bei den IL-6-/- Tieren tendenziell stärker ausgeprägte interstitielle Lungen- und
+Leberödem, sowie die tendenziell vermehrte hydropische Degeneration der
+Hepatozyten, könnte ein Hinweis für einen konsekutiven sekundären Organschaden
+im
+
+Rahmen
+
+eines
+
+Schädelhirntraumas
+
+MODS
+
+zeigten
+
+sich
+
+darstellen.
+ebenfalls
+
+Hinsichtlich
+keine
+
+des
+
+signifikanten
+
+verursachten
+Unterschiede
+
+zwischen WT- und IL-6-/- Tieren. Die vorliegende tendenziell geringere Astrogliose
+84
+
+DISKUSSION
+
+und der tendenziell ausgeprägtere Neuronenschaden bei den WT- Tieren dürfen
+allenfalls als ein vorsichtiger Hinweis für einen proinflammatorischen Effekt des
+Interleukin-6 gesehen werden. Aufgrund fehlender Signifikanz konnten jedoch keine
+eindeutigen proinflammatorische Effekte des Interleukin-6 aufgezeigt werden.
+Bei allen Parametern, die nur bei der Organentnahme gemessen wurden, ist zu
+beachten, dass es sich um Momentaufnahmen handelt, die lediglich den Zustand der
+Tiere 96 Stunden nach Traumainduktion abbilden.
+Um die Aktivierung des Immunsystems durch gemessene Zytokin-Konzentrationen
+und Lymphozytensubpopulationen, sowie die Organmanifestationen eines SIRS bzw.
+eines MODS im Zeitverlauf darstellen zu können, wäre es vorstellbar in zukünftigen
+Untersuchungen
+
+weitere
+
+Messzeitpunkte
+
+zu
+
+berücksichtigen.
+
+Dies
+
+scheint
+
+insbesondere für die Aufklärung der Bedeutung und der Effekte des Interleukin 6 von
+entscheidender Wichtigkeit zu sein, da dem Interleukin-6 zeitabhängig sowohl proals auch antiinflammatorische Effekte zugeschrieben werden. Allerdings ist für einen
+derartigen
+
+Versuchsaufbau
+
+ein
+
+Vielfaches
+
+der
+
+Tiere
+
+notwendig,
+
+was
+
+bei
+
+Tierversuchen immer kritisch überdacht werden sollte. Weitere Versuche erscheinen
+jedoch sinnvoll.
+
+85
+
+ZUSAMMENFASSUNG
+
+7 Zusammenfassung
+Luer Geerken
+Effekte des Interleukin-6 im Rahmen des Systemic Inflammatory Response
+Syndrome (SIRS) beim Polytrauma an einem Interleukin-6-knock out-Modell der
+Maus
+
+Das Polytrauma stellt in Industriestaaten immer noch die häufigste Todesursache
+junger Erwachsener dar und ist bei den Überlebenden oft mit Behinderungen und
+Problemen der sozialen wie auch beruflicher Reintegration verbunden. Im Rahmen
+eines Polytraumas ist das Schädelhirntrauma eine der häufigsten Verletzungen. Die
+wechselseitige Beeinflussung von Schädelhirnverletzungen und extrakraniellen
+Traumata führt zu einem komplexen Krankheitsbild, dessen Mechanismen noch nicht
+ausreichend erfasst sind.
+Im Rahmen der vorliegenden Arbeit sollten Effekte des Interleukin-6 im Rahmen des
+Systemic Inflammatory Response Syndrome (SIRS) mit Hilfe eines experimentellen
+Polytrauma-Modells der Maus, das das klassische Verletzungsmuster simuliert und
+die
+
+damit
+
+verbundenen
+
+pathophysiologischen
+
+und
+
+immunpathologischen
+
+Veränderung aufzeigt, dargestellt werden.
+Mit diesem Ziel wurde an Mäusen des Inzuchtstammes B6;129S2-IL6tmlKopf (IL-6
+Knockout = IL-6-/-) und an Mäusen des Inzuchtstammes C57BL/6J (Wildtyp = WT)
+ein
+
+geschlossenes
+
+Knochenverletzung
+
+Schädelhirntrauma
+in
+
+Form
+
+einer
+
+mit
+
+einer
+
+geschlossenen
+
+hämorrhagischem Schock kombiniert.
+
+86
+
+stumpfen
+
+Weichteil-
+
+Femurfraktur
+
+und
+
+und
+einem
+
+ZUSAMMENFASSUNG
+
+Mit Hilfe klinischer, histologischer und immunologischer Verfahren wurden bei einer
+Versuchsdauer von 96 Stunden die Auswirkungen des Polytraumas untersucht und
+die unterschiedlichen Veränderungen bei WT- und IL-6-/- Mäusen verglichen.
+Klinisch konnte eine verstärkte Gewichtsabnahme nach Trauma bei den IL-6-/Mäusen beobachtet werden. Im Rahmen der immunologischen Untersuchungen
+wurden bei den IL-6-/- Tieren signifikant erhöhte Zytokin-Konzentrationen (IL-12, IFNγ, MCP-1 und TNF-α) und erhöhte Anteile von CD8+ T-Lymphozyten und NK-Zellen
+an der Gesamt-Lymphozytenpoulation gefunden. Diese Ergebnisse deuten auf eine
+stärkere Aktivierung des Immunsystems bei den IL-6-/- Tieren und damit auf einen
+antiinflammatorischen Effekt des Interleukin-6 hin. Die bei den IL-6-/- Mäusen stärker
+ausgeprägte immunologische Reaktion im Vergleich mit den WT-Tieren konnte
+histologisch nicht validiert werden. Ein tendenziell vorliegender stärkerer Lungenund Leberschaden darf allenfalls als vorsichtiger Hinweis gedeutet werden. Die
+histologische Auswertung des vorliegenden Neuronenschadens und der Astrogliose
+zeigte keine signifikanten Unterschiede.
+Das beschriebene experimentelle Polytrauma-Modell konnte 96 Stunden nach
+Trauma antiinflammatorische Effekte des Interleukin-6 aufzeigen, die Effekte sind
+möglicherweise zeitabhängig. Proinflammatorische Effekte konnten nicht eindeutig
+dargestellt werden. Hier unterscheidet sich die vorliegende Arbeit deutlich von
+ähnlichen Arbeiten mit einer Sepsis als Inflammationsstimulus. Hier könnte die
+genaue zeitliche Zuordnung der pro- und antiinflammatorischen Effekte des
+Interleukin-6 eine Bedeutung haben und sollte in weiteren Studien geklärt werden.
+
+87
+
+SUMMARY
+
+8 Summary
+Luer Geerken
+Effects of Interleukin-6 on systemic inflammatory response syndrome (SIRS)
+after multiple trauma in a murine interleukin-6-knockout-model
+
+Multiple trauma is the most common cause of death of young adults in developed
+countries. Survivors often suffer from disabilities as well as social and vocational
+rehabilitation problems. In context of multiple trauma, traumatic brain injury (TBI) is
+one of the most frequent injuries. The mutual influence of TBI and extracranial
+trauma leads to a complex clinical picture with mechanisms that are still inadequately
+investigated.
+With the help of an experimental multiple trauma model, which simulates typical
+injuries of brain-injured multiple trauma patients and describes the associated
+pathophysiological and immunopathological alterations, the present study aimed to
+show the effects of interleukin-6 on systemic inflammatory response syndrome and
+consecutive organ damage.
+With this objective, TBI was induced in B6;129S2-IL6tmlKopf mice (IL-6 knockout =
+IL-6-/-) and in C57BL/6J mice (wild type = WT) and combined with blunt soft tissue
+and bone injury, performed by a closed femoral fracture with concomitant volumecontrolled hemorrhagic shock.
+During an experimental period of 96 hours, the effects of multiple trauma and the
+alterations of single injury (isolated TBI and femoral fracture with hemorrhagic shock
+respectively) were tested by means of clinical, histological and immunological
+procedures and were compared between IL-6-/- and WT mice.
+
+88
+
+SUMMARY
+
+Clinically, there was stronger loss of weight in IL-6-/- mice. On the basis of
+immunological testing, in the group of IL-6-/- mice a significantly increased level of
+cytokines (IL-12, IFN-γ, MCP-1 und TNF-α) and rate of CD8+-T cells and NK cells
+was measured in comparison to WT mice. All of this leads to the conclusion that
+there was stronger activation of the immune system in IL-6-/- mice. Histological
+testing showed no difference between WT- and IL-6-/- mice.
+96 hours after trauma the described murine multiple trauma model visualizes
+antiinflammatory effects of interleukin-6, which are probably time-dependent.
+Proinflammatory effects were not proved. This is a sharp distinction to consimilar
+studies using sepsis to stimulate inflammation.
+There must be further studies to elucidate this dependence on time of pro- and
+antiinflammatory effects of interleukin-6.
+
+89
+
+LITERATURVERZEICHNIS
+
+9 Literaturverzeichnis
+
+1. Lawin, P. and Prien, T.: [The severely injured patient],
+Anasthesiol.Intensivmed.Notfallmed.Schmerzther. 27:488, 1992
+2. Murray, C. J. and Lopez, A. D.: Alternative projections of mortality and
+disability by cause 1990-2020: Global Burden of Disease Study, Lancet
+349:1498-1504, 24-5-1997
+3. Statistisches Bundesamt, Wiesbaden: Unfallgeschehen im Strassenverkehr
+2009, 2010
+4. Tscherne, H., Oestern, H. J., and Sturm, J. A.: Stress tolerance of patients
+with multiple injuries and its significance for operative care, Langenbecks
+Arch.Chir 364:71-77, 1984
+5. Bardenheuer, M., Obertacke, U., Waydhas, C., and Nast-Kolb, D.:
+Epidemiology of the severely injured patient. A prospective assessment of
+preclinical and clinical management. AG Polytrauma of DGU, Unfallchirurg
+103:355-363, 2000
+6. Guirao, X. and Lowry, S. F.: Biologic control of injury and inflammation: much
+more than too little or too late, World J.Surg. 20:437-446, 1996
+7. Krettek, C., Simon, R. G., and Tscherne, H.: Management priorities in
+patients with polytrauma, Langenbecks Arch.Surg. 383:220-227, 1998
+8. Bone, R. C., Balk, R. A., Cerra, F. B., Dellinger, R. P., Fein, A. M., Knaus,
+W. A., Schein, R. M., and Sibbald, W. J.: Definitions for sepsis and organ
+failure and guidelines for the use of innovative therapies in sepsis. The
+ACCP/SCCM Consensus Conference Committee. American College of Chest
+Physicians/Society of Critical Care Medicine, Chest 101:1644-1655, 1992
+9. Bone, R. C.: Immunologic dissonance: a continuing evolution in our
+understanding of the systemic inflammatory response syndrome (SIRS) and
+the multiple organ dysfunction syndrome (MODS), Ann.Intern.Med. 125:680687, 15-10-1996
+10. Pittet, D., Rangel-Frausto, S., Li, N., Tarara, D., Costigan, M., Rempe, L.,
+Jebson, P., and Wenzel, R. P.: Systemic inflammatory response syndrome,
+sepsis, severe sepsis and septic shock: incidence, morbidities and outcomes
+in surgical ICU patients, Intensive Care Med. 21:302-309, 1995
+11. Nast-Kolb, D., Aufmkolk, M., Rucholtz, S., Obertacke, U., and Waydhas,
+C.: Multiple organ failure still a major cause of morbidity but not mortality in
+blunt multiple trauma, J.Trauma 51:835-841, 2001
+12. Sauaia, A., Moore, F. A., Moore, E. E., Moser, K. S., Brennan, R., Read, R.
+A., and Pons, P. T.: Epidemiology of trauma deaths: a reassessment,
+J.Trauma 38:185-193, 1995
+90
+
+LITERATURVERZEICHNIS
+
+13. Smail, N., Messiah, A., Edouard, A., Descorps-Declere, A., Duranteau, J.,
+Vigue, B., Mimoz, O., and Samii, K.: Role of systemic inflammatory response
+syndrome and infection in the occurrence of early multiple organ dysfunction
+syndrome following severe trauma, Intensive Care Med. 21:813-816, 1995
+14. Durham, R. M., Moran, J. J., Mazuski, J. E., Shapiro, M. J., Baue, A. E.,
+and Flint, L. M.: Multiple organ failure in trauma patients, J.Trauma 55:608616, 2003
+15. Lin, R. Y., Saha, D. C., Bernstein, C. J., Astiz, M. E., and Rackow, E. C.:
+The pattern of inflammation in rat sepsis due to enterotoxin-producing
+Staphylococcus aureus: a comparison with ischemia-reperfusion injury, J.Med.
+27:303-317, 1996
+16. Levy, M. M., Fink, M. P., Marshall, J. C., Abraham, E., Angus, D., Cook, D.,
+Cohen, J., Opal, S. M., Vincent, J. L., and Ramsay, G.: 2001
+SCCM/ESICM/ACCP/ATS/SIS International Sepsis Definitions Conference,
+Crit Care Med. 31:1250-1256, 2003
+17. Bone, R. C., Grodzin, C. J., and Balk, R. A.: Sepsis: a new hypothesis for
+pathogenesis of the disease process, Chest 112:235-243, 1997
+18. Mannick, J. A., Rodrick, M. L., and Lederer, J. A.: The immunologic
+response to injury, J.Am.Coll.Surg. 193:237-244, 2001
+19. Cohen, J.: The immunopathogenesis of sepsis, Nature 420:885-891, 19-122002
+20. Bone, R. C.: Sir Isaac Newton, sepsis, SIRS, and CARS, Crit Care Med.
+24:1125-1128, 1996
+21. Moore, F. A., Sauaia, A., Moore, E. E., Haenel, J. B., Burch, J. M., and
+Lezotte, D. C.: Postinjury multiple organ failure: a bimodal phenomenon,
+J.Trauma 40:501-510, 1996
+22. Hill, J., Lindsay, T. F., Ortiz, F., Yeh, C. G., Hechtman, H. B., and Moore, F.
+D., Jr.: Soluble complement receptor type 1 ameliorates the local and remote
+organ injury after intestinal ischemia-reperfusion in the rat, J.Immunol.
+149:1723-1728, 1-9-1992
+23. Deitch, E. A. and Mancini, M. C.: Complement receptors in shock and
+transplantation, Arch.Surg. 128:1222-1226, 1993
+24. Biberthaler, P., Bogner, V., Baker, H. V., Lopez, M. C., Neth, P., Kanz, K.
+G., Mutschler, W., Jochum, M., and Moldawer, L. L.: Genome-wide
+monocytic mRNA expression in polytrauma patients for identification of clinical
+outcome, Shock 24:11-19, 2005
+25. Loppnow, H. and Libby, P.: Comparative analysis of cytokine induction in
+human vascular endothelial and smooth muscle cells, Lymphokine Res.
+8:293-299, 1989
+
+91
+
+LITERATURVERZEICHNIS
+
+26. Seckinger, P., Isaaz, S., and Dayer, J. M.: Purification and biologic
+characterization of a specific tumor necrosis factor alpha inhibitor,
+J.Biol.Chem. 264:11966-11973, 15-7-1989
+27. Pape, H. C., Remmers, D., Kleemann, W., Goris, J. A., Regel, G., and
+Tscherne, H.: Posttraumatic multiple organ failure--a report on clinical and
+autopsy findings, Shock 2:228-234, 1994
+28. Zedler, S., Bone, R. C., Baue, A. E., von Donnersmarck, G. H., and Faist,
+E.: T-cell reactivity and its predictive role in immunosuppression after burns,
+Crit Care Med. 27:66-72, 1999
+29. Deitch, E. A., Rutan, R., and Waymack, J. P.: Trauma, shock, and gut
+translocation, New Horiz. 4:289-299, 1996
+30. Keel, M., Ecknauer, E., Stocker, R., Ungethum, U., Steckholzer, U.,
+Kenney, J., Gallati, H., Trentz, O., and Ertel, W.: Different pattern of local
+and systemic release of proinflammatory and anti-inflammatory mediators in
+severely injured patients with chest trauma, J.Trauma 40:907-912, 1996
+31. Massberg, S. and Messmer, K.: The nature of ischemia/reperfusion injury,
+Transplant.Proc. 30:4217-4223, 1998
+32. Menger, M. D. and Vollmar, B.: Surgical trauma: hyperinflammation versus
+immunosuppression?, Langenbecks Arch.Surg. 389:475-484, 2004
+33. Krieglstein, C. F. and Granger, D. N.: Adhesion molecules and their role in
+vascular disease, Am.J.Hypertens. 14:44S-54S, 2001
+34. Jordan, M. S., Singer, A. L., and Koretzky, G. A.: Adaptors as central
+mediators of signal transduction in immune cells, Nat.Immunol. 4:110-116,
+2003
+35. Bone, R. C.: The pathogenesis of sepsis, Ann.Intern.Med. 115:457-469, 15-91991
+36. Dinarello, C. A.: Proinflammatory cytokines, Chest 118:503-508, 2000
+37. Roitt, I. M.: The role of autoantigens in the driving of autoimmune diseases,
+Immunol.Ser. 59:119-129, 1993
+38. Halbertsma, F. J., Vaneker, M., Scheffer, G. J., and van der Hoeven, J. G.:
+Cytokines and biotrauma in ventilator-induced lung injury: a critical review of
+the literature, Neth.J.Med. 63:382-392, 2005
+39. Ayala, A., Perrin, M. M., Meldrum, D. R., Ertel, W., and Chaudry, I. H.:
+Hemorrhage induces an increase in serum TNF which is not associated with
+elevated levels of endotoxin, Cytokine 2:170-174, 1990
+40. Wright, S. D., Ramos, R. A., Tobias, P. S., Ulevitch, R. J., and Mathison, J.
+C.: CD14, a receptor for complexes of lipopolysaccharide (LPS) and LPS
+binding protein, Science 249:1431-1433, 21-9-1990
+
+92
+
+LITERATURVERZEICHNIS
+
+41. Aggarwal, B. B. and Natarajan, K.: Tumor necrosis factors: developments
+during the last decade, Eur.Cytokine Netw. 7:93-124, 1996
+42. Abraham, E., Jesmok, G., Tuder, R., Allbee, J., and Chang, Y. H.:
+Contribution of tumor necrosis factor-alpha to pulmonary cytokine expression
+and lung injury after hemorrhage and resuscitation, Crit Care Med. 23:13191326, 1995
+43. Botchkina, G. I., Meistrell, M. E., III, Botchkina, I. L., and Tracey, K. J.:
+Expression of TNF and TNF receptors (p55 and p75) in the rat brain after focal
+cerebral ischemia, Mol.Med. 3:765-781, 1997
+44. Gregersen, R., Lambertsen, K., and Finsen, B.: Microglia and macrophages
+are the major source of tumor necrosis factor in permanent middle cerebral
+artery occlusion in mice, J.Cereb.Blood Flow Metab 20:53-65, 2000
+45. Holmin, S., Schalling, M., Hojeberg, B., Nordqvist, A. C., Skeftruna, A. K.,
+and Mathiesen, T.: Delayed cytokine expression in rat brain following
+experimental contusion, J.Neurosurg. 86:493-504, 1997
+46. Mayne, M., Ni, W., Yan, H. J., Xue, M., Johnston, J. B., Del Bigio, M. R.,
+Peeling, J., and Power, C.: Antisense oligodeoxynucleotide inhibition of
+tumor necrosis factor-alpha expression is neuroprotective after intracerebral
+hemorrhage, Stroke 32:240-248, 2001
+47. Stahel, P. F., Shohami, E., Younis, F. M., Kariya, K., Otto, V. I., Lenzlinger,
+P. M., Grosjean, M. B., Eugster, H. P., Trentz, O., Kossmann, T., and
+Morganti-Kossmann, M. C.: Experimental closed head injury: analysis of
+neurological outcome, blood-brain barrier dysfunction, intracranial neutrophil
+infiltration, and neuronal cell death in mice deficient in genes for proinflammatory cytokines, J.Cereb.Blood Flow Metab 20:369-380, 2000
+48. Yang, G. Y., Gong, C., Qin, Z., Liu, X. H., and Lorris, Betz A.: Tumor
+necrosis factor alpha expression produces increased blood-brain barrier
+permeability following temporary focal cerebral ischemia in mice, Brain
+Res.Mol.Brain Res. 69:135-143, 21-5-1999
+49. Rosenberg, G. A., Estrada, E. Y., Dencoff, J. E., and Stetler-Stevenson,
+W. G.: Tumor necrosis factor-alpha-induced gelatinase B causes delayed
+opening of the blood-brain barrier: an expanded therapeutic window, Brain
+Res. 703:151-155, 12-12-1995
+50. Rosenberg, G. A. and Navratil, M.: Metalloproteinase inhibition blocks
+edema in intracerebral hemorrhage in the rat, Neurology 48:921-926, 1997
+51. Rosenberg, G. A., Cunningham, L. A., Wallace, J., Alexander, S., Estrada,
+E. Y., Grossetete, M., Razhagi, A., Miller, K., and Gearing, A.:
+Immunohistochemistry of matrix metalloproteinases in reperfusion injury to rat
+brain: activation of MMP-9 linked to stromelysin-1 and microglia in cell
+cultures, Brain Res. 893:104-112, 2-3-2001
+52. Cavaillon, J. M., Adib-Conquy, M., Fitting, C., Adrie, C., and Payen, D.:
+Cytokine cascade in sepsis, Scand.J.Infect.Dis. 35:535-544, 2003
+93
+
+LITERATURVERZEICHNIS
+
+53. Sheng, Z., Yao, Y., and Yu, Y.: The relationship between gut-derived
+endotoxemia and tumor necrosis factor, neopterin: experimental and clinical
+studies, Chin Med.J.(Engl.) 110:30-35, 1997
+54. Shalaby, M. R., Waage, A., and Espevik, T.: Cytokine regulation of
+interleukin 6 production by human endothelial cells, Cell Immunol. 121:372382, 1989
+55. Heinrich, P. C., Behrmann, I., Haan, S., Hermanns, H. M., Muller-Newen,
+G., and Schaper, F.: Principles of interleukin (IL)-6-type cytokine signalling
+and its regulation, Biochem.J. 374:1-20, 15-8-2003
+56. Gregoric, P. D., Bajec, D. D., Sijacki, A. D., and Karadzic, B. A.: Relation
+between cytokine IL-6 levels and the occurrence of systemic complications in
+patients with multiple injuries and blunt abdominal trauma, Srp.Arh.Celok.Lek.
+131:118-121, 2003
+57. Mokart, D., Guery, B. P., Bouabdallah, R., Martin, C., Blache, J. L.,
+Arnoulet, C., and Mege, J. L.: Deactivation of alveolar macrophages in septic
+neutropenic ARDS, Chest 124:644-652, 2003
+58. Biffl, W. L., Moore, E. E., Moore, F. A., and Peterson, V. M.: Interleukin-6 in
+the injured patient. Marker of injury or mediator of inflammation?, Ann.Surg.
+224:647-664, 1996
+59. Leon, L. R.: Invited review: cytokine regulation of fever: studies using gene
+knockout mice, J.Appl.Physiol 92:2648-2655, 2002
+60. Pape, H. C., Van Griensven, M., Rice, J., Gansslen, A., Hildebrand, F.,
+Zech, S., Winny, M., Lichtinghagen, R., and Krettek, C.: Major secondary
+surgery in blunt trauma patients and perioperative cytokine liberation:
+determination of the clinical relevance of biochemical markers, J.Trauma
+50:989-1000, 2001
+61. Miyaoka, K., Iwase, M., Suzuki, R., Kondo, G., Watanabe, H., Ito, D., and
+Nagumo, M.: Clinical evaluation of circulating interleukin-6 and interleukin-10
+levels after surgery-induced inflammation, J.Surg.Res. 125:144-150, 15-52005
+62. Desborough, J. P.: The stress response to trauma and surgery, Br.J.Anaesth.
+85:109-117, 2000
+63. Roumen, R. M., Hendriks, T., van, der, V, Nieuwenhuijzen, G. A.,
+Sauerwein, R. W., van der Meer, J. W., and Goris, R. J.: Cytokine patterns
+in patients after major vascular surgery, hemorrhagic shock, and severe blunt
+trauma. Relation with subsequent adult respiratory distress syndrome and
+multiple organ failure, Ann.Surg. 218:769-776, 1993
+64. Gebhard, F., Pfetsch, H., Steinbach, G., Strecker, W., Kinzl, L., and
+Bruckner, U. B.: Is interleukin 6 an early marker of injury severity following
+major trauma in humans?, Arch.Surg. 135:291-295, 2000
+
+94
+
+LITERATURVERZEICHNIS
+
+65. Hierholzer, C., Kalff, J. C., Omert, L., Tsukada, K., Loeffert, J. E., Watkins,
+S. C., Billiar, T. R., and Tweardy, D. J.: Interleukin-6 production in
+hemorrhagic shock is accompanied by neutrophil recruitment and lung injury,
+Am.J.Physiol 275:L611-L621, 1998
+66. Maruo, N., Morita, I., Shirao, M., and Murota, S.: IL-6 increases endothelial
+permeability in vitro, Endocrinology 131:710-714, 1992
+67. Hierholzer, C., Kalff, J. C., Bednarski, B., Memarzadeh, F., Kim, Y. M.,
+Billiar, T. R., and Tweardy, D. J.: Rapid and simultaneous activation of Stat3
+and production of interleukin 6 in resuscitated hemorrhagic shock,
+Arch.Orthop.Trauma Surg. 119:332-336, 1999
+68. Yang, R., Han, X., Uchiyama, T., Watkins, S. K., Yaguchi, A., Delude, R. L.,
+and Fink, M. P.: IL-6 is essential for development of gut barrier dysfunction
+after hemorrhagic shock and resuscitation in mice, Am.J.Physiol
+Gastrointest.Liver Physiol 285:G621-G629, 2003
+69. Meng, Z. H., Dyer, K., Billiar, T. R., and Tweardy, D. J.: Distinct effects of
+systemic infusion of G-CSF vs. IL-6 on lung and liver inflammation and injury
+in hemorrhagic shock, Shock 14:41-48, 2000
+70. Meng, Z. H., Dyer, K., Billiar, T. R., and Tweardy, D. J.: Essential role for IL6 in postresuscitation inflammation in hemorrhagic shock, Am.J.Physiol Cell
+Physiol 280:C343-C351, 2001
+71. Singhal, A., Baker, A. J., Hare, G. M., Reinders, F. X., Schlichter, L. C.,
+and Moulton, R. J.: Association between cerebrospinal fluid interleukin-6
+concentrations and outcome after severe human traumatic brain injury,
+J.Neurotrauma 19:929-937, 2002
+72. Penkowa, M., Camats, J., Hadberg, H., Quintana, A., Rojas, S., Giralt, M.,
+Molinero, A., Campbell, I. L., and Hidalgo, J.: Astrocyte-targeted expression
+of interleukin-6 protects the central nervous system during neuroglial
+degeneration induced by 6-aminonicotinamide, J.Neurosci.Res. 73:481-496,
+15-8-2003
+73. Brett, F. M., Mizisin, A. P., Powell, H. C., and Campbell, I. L.: Evolution of
+neuropathologic abnormalities associated with blood-brain barrier breakdown
+in transgenic mice expressing interleukin-6 in astrocytes,
+J.Neuropathol.Exp.Neurol. 54:766-775, 1995
+74. Chiang, C. S., Stalder, A., Samimi, A., and Campbell, I. L.: Reactive gliosis
+as a consequence of interleukin-6 expression in the brain: studies in
+transgenic mice, Dev.Neurosci. 16:212-221, 1994
+75. Becher, B., Dodelet, V., Fedorowicz, V., and Antel, J. P.: Soluble tumor
+necrosis factor receptor inhibits interleukin 12 production by stimulated human
+adult microglial cells in vitro, J.Clin.Invest 98:1539-1543, 1-10-1996
+76. Ria, F., Penna, G., and Adorini, L.: Th1 cells induce and Th2 inhibit antigendependent IL-12 secretion by dendritic cells, Eur.J.Immunol. 28:2003-2016,
+1998
+95
+
+LITERATURVERZEICHNIS
+
+77. Wick, M., Kollig, E., Walz, M., Muhr, G., and Koller, M.: [Does liberation of
+interleukin-12 correlate with the clinical course of polytraumatized patients?],
+Chirurg 71:1126-1131, 2000
+78. Stahel, P. F., Kossmann, T., Joller, H., Trentz, O., and MorgantiKossmann, M. C.: Increased interleukin-12 levels in human cerebrospinal
+fluid following severe head trauma, Neurosci.Lett. 249:123-126, 19-6-1998
+79. Park, J. H. and Shin, S. H.: Induction of IL-12 gene expression in the brain in
+septic shock, Biochem.Biophys.Res.Commun. 224:391-396, 16-7-1996
+80. Stalder, A. K., Pagenstecher, A., Yu, N. C., Kincaid, C., Chiang, C. S.,
+Hobbs, M. V., Bloom, F. E., and Campbell, I. L.: Lipopolysaccharide-induced
+IL-12 expression in the central nervous system and cultured astrocytes and
+microglia, J.Immunol. 159:1344-1351, 1-8-1997
+81. Aloisi, F., Penna, G., Cerase, J., Menendez, Iglesias B., and Adorini, L.:
+IL-12 production by central nervous system microglia is inhibited by
+astrocytes, J.Immunol. 159:1604-1612, 15-8-1997
+82. Xiao, B. G. and Link, H.: IFN-gamma production of adult rat astrocytes
+triggered by TNF-alpha, Neuroreport 9:1487-1490, 11-5-1998
+83. Maggi, E., Parronchi, P., Manetti, R., Simonelli, C., Piccinni, M. P., Rugiu,
+F. S., De Carli, M., Ricci, M., and Romagnani, S.: Reciprocal regulatory
+effects of IFN-gamma and IL-4 on the in vitro development of human Th1 and
+Th2 clones, J.Immunol. 148:2142-2147, 1-4-1992
+84. Wenner, C. A., Guler, M. L., Macatonia, S. E., O'Garra, A., and Murphy, K.
+M.: Roles of IFN-gamma and IFN-alpha in IL-12-induced T helper cell-1
+development, J.Immunol. 156:1442-1447, 15-2-1996
+85. Djeu, J. Y. and Blanchard, D. K.: Interferon-gamma-induced alterations of
+monocyte susceptibility to lysis by autologous lymphokine-activated killer
+(LAK) cells, Int.J.Cancer 42:449-454, 15-9-1988
+86. Livingston, D. H. and Malangoni, M. A.: Interferon-gamma restores immune
+competence after hemorrhagic shock, J.Surg.Res. 45:37-43, 1988
+87. Holmin, S. and Hojeberg, B.: In situ detection of intracerebral cytokine
+expression after human brain contusion, Neurosci.Lett. 369:108-114, 14-102004
+88. Li, H. L., Kostulas, N., Huang, Y. M., Xiao, B. G., van der, Meide P.,
+Kostulas, V., Giedraitas, V., and Link, H.: IL-17 and IFN-gamma mRNA
+expression is increased in the brain and systemically after permanent middle
+cerebral artery occlusion in the rat, J.Neuroimmunol. 116:5-14, 1-5-2001
+89. Wang, Y. and Zhou, C. F.: Involvement of interferon-gamma and its receptor
+in the activation of astrocytes in the mouse hippocampus following entorhinal
+deafferentation, Glia 50:56-65, 1-4-2005
+
+96
+
+LITERATURVERZEICHNIS
+
+90. Yong, V. W., Moumdjian, R., Yong, F. P., Ruijs, T. C., Freedman, M. S.,
+Cashman, N., and Antel, J. P.: Gamma-interferon promotes proliferation of
+adult human astrocytes in vitro and reactive gliosis in the adult mouse brain in
+vivo, Proc.Natl.Acad.Sci.U.S.A 88:7016-7020, 15-8-1991
+91. Banisadr, G., Gosselin, R. D., Mechighel, P., Kitabgi, P., Rostene, W., and
+Parsadaniantz, S. M.: Highly regionalized neuronal expression of monocyte
+chemoattractant protein-1 (MCP-1/CCL2) in rat brain: Evidence for its
+colocalization with neurotransmitters and neuropeptides, J.Comp Neurol.
+489:275-292, 29-8-2005
+92. Gunn, M. D., Nelken, N. A., Liao, X., and Williams, L. T.: Monocyte
+chemoattractant protein-1 is sufficient for the chemotaxis of monocytes and
+lymphocytes in transgenic mice but requires an additional stimulus for
+inflammatory activation, J.Immunol. 158:376-383, 1-1-1997
+93. Allavena, P., Bianchi, G., Giardina, P., Polentarutti, N., Zhou, D., Introna,
+M., Sozzani, S., and Mantovani, A.: Migratory Response of Human NK Cells
+to Monocyte-Chemotactic Proteins, Methods 10:145-149, 1996
+94. Rosseau, S., Hammerl, P., Maus, U., Walmrath, H. D., Schutte, H.,
+Grimminger, F., Seeger, W., and Lohmeyer, J.: Phenotypic characterization
+of alveolar monocyte recruitment in acute respiratory distress syndrome,
+Am.J.Physiol Lung Cell Mol.Physiol 279:L25-L35, 2000
+95. Flugel, A., Hager, G., Horvat, A., Spitzer, C., Singer, G. M., Graeber, M. B.,
+Kreutzberg, G. W., and Schwaiger, F. W.: Neuronal MCP-1 expression in
+response to remote nerve injury, J.Cereb.Blood Flow Metab 21:69-76, 2001
+96. Yamagami, S., Tamura, M., Hayashi, M., Endo, N., Tanabe, H., Katsuura,
+Y., and Komoriya, K.: Differential production of MCP-1 and cytokine-induced
+neutrophil chemoattractant in the ischemic brain after transient focal ischemia
+in rats, J.Leukoc.Biol. 65:744-749, 1999
+97. Dixon, C. E., Lyeth, B. G., Povlishock, J. T., Findling, R. L., Hamm, R. J.,
+Marmarou, A., Young, H. F., and Hayes, R. L.: A fluid percussion model of
+experimental brain injury in the rat, J.Neurosurg. 67:110-119, 1987
+98. Lighthall, J. W.: Controlled cortical impact: a new experimental brain injury
+model, J.Neurotrauma 5:1-15, 1988
+99. Ommaya, A. K., Hirsch, A. E., Flamm, E. S., and Mahone, R. H.: Cerebral
+concussion in the monkey: an experimental model, Science 153:211-212, 8-71966
+100. Ross, D. T., Meaney, D. F., Sabol, M. K., Smith, D. H., and Gennarelli, T.
+A.: Distribution of forebrain diffuse axonal injury following inertial closed head
+injury in miniature swine, Exp.Neurol. 126:291-299, 1994
+101. Shapira, Y., Shohami, E., Sidi, A., Soffer, D., Freeman, S., and Cotev, S.:
+Experimental closed head injury in rats: mechanical, pathophysiologic, and
+neurologic properties, Crit Care Med. 16:258-265, 1988
+
+97
+
+LITERATURVERZEICHNIS
+
+102. Marmarou, A., Foda, M. A., van den, Brink W., Campbell, J., Kita, H., and
+Demetriadou, K.: A new model of diffuse brain injury in rats. Part I:
+Pathophysiology and biomechanics, J.Neurosurg. 80:291-300, 1994
+103. Chen, Y., Constantini, S., Trembovler, V., Weinstock, M., and Shohami,
+E.: An experimental model of closed head injury in mice: pathophysiology,
+histopathology, and cognitive deficits, J.Neurotrauma 13:557-568, 1996
+104. Greiff, J.: A method for the production of an undisplaced reproducible tibial
+fracture in the rat, Injury 9:278-281, 1978
+105. Bonnarens, F. and Einhorn, T. A.: Production of a standard closed fracture
+in laboratory animal bone, J.Orthop.Res. 2:97-101, 1984
+106. Hiltunen, A., Vuorio, E., and Aro, H. T.: A standardized experimental fracture
+in the mouse tibia, J.Orthop.Res. 11:305-312, 1993
+107. Wichmann, M. W., Zellweger, R., DeMaso, C. M., Ayala, A., Williams, C.,
+and Chaudry, I. H.: Immune function is more compromised after closed bone
+fracture and hemorrhagic shock than hemorrhage alone, Arch.Surg. 131:9951000, 1996
+108. Milles, G., Koucky, C. J., and Zacheis, H. G.: Experimental uncontrolled
+arterial hemorrhage, Surgery 60:434-442, 1966
+109. WIGGERS, H. C., GOLDBERG, H., ROEMHILD, F., and INGRAHAM, R. C.:
+Impending hemorrhagic shock and the course of events following
+administration of dibenamine, Circulation 2:179-185, 1950
+110. Collins, J. A., Braitberg, A., Margraf, H. W., and Butcher, H. R., Jr.:
+Hemorrhagic shock in rats. Measured blood volumes as the basis for the
+extent of hemorrhage, Arch.Surg. 99:484-488, 1969
+111. Van Griensven, M., Kuzu, M., Breddin, M., Bottcher, F., Krettek, C., Pape,
+H. C., and Tschernig, T.: Polymicrobial sepsis induces organ changes due to
+granulocyte adhesion in a murine two hit model of trauma, Exp.Toxicol.Pathol.
+54:203-209, 2002
+112. Eng, L. F.: Glial fibrillary acidic protein (GFAP): the major protein of glial
+intermediate filaments in differentiated astrocytes, J.Neuroimmunol. 8:203214, 1985
+113. Hardy, J.: Amyloid, the presenilins and Alzheimer's disease, Trends Neurosci.
+20:154-159, 1997
+114. Salbaum, J. M., Weidemann, A., Lemaire, H. G., Masters, C. L., and
+Beyreuther, K.: The promoter of Alzheimer's disease amyloid A4 precursor
+gene, EMBO J. 7:2807-2813, 1988
+115. Ferguson, B., Matyszak, M. K., Esiri, M. M., and Perry, V. H.: Axonal
+damage in acute multiple sclerosis lesions, Brain 120 ( Pt 3):393-399, 1997
+
+98
+
+LITERATURVERZEICHNIS
+
+116. Oehmichen, M., Meissner, C., Schmidt, V., Pedal, I., Konig, H. G., and
+Saternus, K. S.: Axonal injury--a diagnostic tool in forensic neuropathology?
+A review, Forensic Sci.Int. 95:67-83, 6-7-1998
+117. Yam, P. S., Takasago, T., Dewar, D., Graham, D. I., and McCulloch, J.:
+Amyloid precursor protein accumulates in white matter at the margin of a focal
+ischaemic lesion, Brain Res. 760:150-157, 20-6-1997
+118. Geddes, J. F., Hackshaw, A. K., Vowles, G. H., Nickols, C. D., and
+Whitwell, H. L.: Neuropathology of inflicted head injury in children. I. Patterns
+of brain damage, Brain 124:1290-1298, 2001
+119. Ahlgren, S., Li, G. L., and Olsson, Y.: Accumulation of beta-amyloid
+precursor protein and ubiquitin in axons after spinal cord trauma in humans:
+immunohistochemical observations on autopsy material, Acta Neuropathol.
+92:49-55, 1996
+120. Kaur, B., Rutty, G. N., and Timperley, W. R.: The possible role of hypoxia in
+the formation of axonal bulbs, J.Clin.Pathol. 52:203-209, 1999
+121. Purger, D., McNutt, T., Achanta, P., Quinones-Hinojosa, A., Wong, J., and
+Ford, E.: A histology-based atlas of the C57BL/6J mouse brain deformably
+registered to in vivo MRI for localized radiation and surgical targeting,
+Phys.Med.Biol. 54:7315-7327, 21-12-2009
+122. Alegret, J. M., Marti, V., Rodriguez-Font, E., Alonso, C., Guindo, J., and
+Dominguez De Rozas, J. M.: Effects of thrombolysis in the evolution of right
+bundle-branch block complicating an acute anterior myocardial infarction, Acta
+Cardiol. 56:297-301, 2001
+123. Van Griensven, M., Dahlweid, F. M., Giannoudis, P. V., Wittwer, T.,
+Bottcher, F., Breddin, M., and Pape, H. C.: Dehydroepiandrosterone (DHEA)
+modulates the activity and the expression of lymphocyte subpopulations
+induced by cecal ligation and puncture, Shock 18:445-449, 2002
+124. Hildebrand, F., Giannoudis, P. V., Van Griensven, M., Chawda, M., and
+Pape, H. C.: Pathophysiologic changes and effects of hypothermia on
+outcome in elective surgery and trauma patients, Am.J.Surg. 187:363-371,
+2004
+125. McMahon, C. G., Yates, D. W., Campbell, F. M., Hollis, S., and Woodford,
+M.: Unexpected contribution of moderate traumatic brain injury to death after
+major trauma, J.Trauma 47:891-895, 1999
+126. Siegel, J. H., Gens, D. R., Mamantov, T., Geisler, F. H., Goodarzi, S., and
+MacKenzie, E. J.: Effect of associated injuries and blood volume replacement
+on death, rehabilitation needs, and disability in blunt traumatic brain injury, Crit
+Care Med. 19:1252-1265, 1991
+127. Mirzayan, M. J., Probst, C., Krettek, C., Samii, M., Pape, H. C., Van
+Griensven, M., and Samii, A.: Systemic effects of isolated brain injury: an
+experimental animal study, Neurol.Res. 30:457-460, 2008
+
+99
+
+LITERATURVERZEICHNIS
+
+128. Stahel, P. F., Flierl, M. A., Morgan, B. P., Persigehl, I., Stoll, C., Conrad,
+C., Touban, B. M., Smith, W. R., Beauchamp, K., Schmidt, O. I., Ertel, W.,
+and Leinhase, I.: Absence of the complement regulatory molecule CD59a
+leads to exacerbated neuropathology after traumatic brain injury in mice,
+J.Neuroinflammation. 6:2, 2009
+129. Tsenter, J., Beni-Adani, L., Assaf, Y., Alexandrovich, A. G., Trembovler,
+V., and Shohami, E.: Dynamic changes in the recovery after traumatic brain
+injury in mice: effect of injury severity on T2-weighted MRI abnormalities, and
+motor and cognitive functions, J.Neurotrauma 25:324-333, 2008
+130. Seekamp, A., Van Griensven, M., Hildebrandt, F., Wahlers, T., and
+Tscherne, H.: Adenosine-triphosphate in trauma-related and elective
+hypothermia, J.Trauma 47:673-683, 1999
+131. Martin, R. S., Kilgo, P. D., Miller, P. R., Hoth, J. J., Meredith, J. W., and
+Chang, M. C.: Injury-associated hypothermia: an analysis of the 2004
+National Trauma Data Bank, Shock 24:114-118, 2005
+132. Van Griensven, M., Probst, C., Muller, K., Hoevel, P., and Pape, H. C.:
+Leukocyte-endothelial interactions via ICAM-1 are detrimental in polymicrobial
+sepsis, Shock 25:254-259, 2006
+133. Leon, L. R., White, A. A., and Kluger, M. J.: Role of IL-6 and TNF in
+thermoregulation and survival during sepsis in mice, Am.J.Physiol 275:R269R277, 1998
+134. Deutschman, C. S., Cereda, M., Ochroch, E. A., and Raj, N. R.: Sepsisinduced cholestasis, steatosis, hepatocellular injury, and impaired
+hepatocellular regeneration are enhanced in interleukin-6 -/- mice, Crit Care
+Med. 34:2613-2620, 2006
+135. Dhabhar, F. S. and McEwen, B. S.: Acute stress enhances while chronic
+stress suppresses cell-mediated immunity in vivo: a potential role for leukocyte
+trafficking, Brain Behav.Immun. 11:286-306, 1997
+136. Van Griensven, M., Probst, C., Muller, K., Hoevel, P., and Pape, H. C.:
+Leukocyte-endothelial interactions via ICAM-1 are detrimental in polymicrobial
+sepsis, Shock 25:254-259, 2006
+137. Van Griensven, M., Dahlweid, F. M., Giannoudis, P. V., Wittwer, T.,
+Bottcher, F., Breddin, M., and Pape, H. C.: Dehydroepiandrosterone (DHEA)
+modulates the activity and the expression of lymphocyte subpopulations
+induced by cecal ligation and puncture, Shock 18:445-449, 2002
+138. Saito, K., Wagatsuma, T., Toyama, H., Ejima, Y., Hoshi, K., Shibusawa,
+M., Kato, M., and Kurosawa, S.: Sepsis is characterized by the increases in
+percentages of circulating CD4+CD25+ regulatory T cells and plasma levels of
+soluble CD25, Tohoku J.Exp.Med. 216:61-68, 2008
+139. Zeckey, C., Hildebrand, F., Hoevel, P., Muller, K., Krettek, C., Barkhausen,
+T., and Van Griensven, M.: Activity of Lymphocyte Subpopulations in
+
+100
+
+LITERATURVERZEICHNIS
+
+Polymicrobial Sepsis and DHEA Treatment in IL-6 Knockout Mice,
+J.Innate.Immun., 11-2-2010
+140. Carson, W. E., Yu, H., Dierksheide, J., Pfeffer, K., Bouchard, P., Clark, R.,
+Durbin, J., Baldwin, A. S., Peschon, J., Johnson, P. R., Ku, G., Baumann,
+H., and Caligiuri, M. A.: A fatal cytokine-induced systemic inflammatory
+response reveals a critical role for NK cells, J.Immunol. 162:4943-4951, 15-41999
+141. Barkhausen, T., Frerker, C., Putz, C., Pape, H. C., Krettek, C., and Van
+Griensven, M.: Depletion of NK cells in a murine polytrauma model is
+associated with improved outcome and a modulation of the inflammatory
+response, Shock 30:401-410, 2008
+142. Lundblad, R., Ekstrom, P., and Giercksky, K. E.: Pentoxifylline improves
+survival and reduces tumor necrosis factor, interleukin-6, and endothelin-1 in
+fulminant intra-abdominal sepsis in rats, Shock 3:210-215, 1995
+143. Van De Loo, F. A., Joosten, L. A., Van Lent, P. L., Arntz, O. J., and Van
+Den Berg, W. B.: Role of interleukin-1, tumor necrosis factor alpha, and
+interleukin-6 in cartilage proteoglycan metabolism and destruction. Effect of in
+situ blocking in murine antigen- and zymosan-induced arthritis, Arthritis
+Rheum. 38:164-172, 1995
+144. O'Sullivan, S. T., Lederer, J. A., Horgan, A. F., Chin, D. H., Mannick, J. A.,
+and Rodrick, M. L.: Major injury leads to predominance of the T helper-2
+lymphocyte phenotype and diminished interleukin-12 production associated
+with decreased resistance to infection, Ann.Surg. 222:482-490, 1995
+145. Arand, M., Melzner, H., Kinzl, L., Bruckner, U. B., and Gebhard, F.: Early
+inflammatory mediator response following isolated traumatic brain injury and
+other major trauma in humans, Langenbecks Arch.Surg. 386:241-248, 2001
+146. Jedynak, M., Siemiatkowski, A., Gacko, M., Mroczko, B., and Borkowski,
+J.: Serum concentrations of MCP-1 and RANTES in patients during aortic
+surgery: the relationship with ischemia-reperfusion,
+Arch.Immunol.Ther.Exp.(Warsz.) 52:201-207, 2004
+147. Berman, J. W., Guida, M. P., Warren, J., Amat, J., and Brosnan, C. F.:
+Localization of monocyte chemoattractant peptide-1 expression in the central
+nervous system in experimental autoimmune encephalomyelitis and trauma in
+the rat, J.Immunol. 156:3017-3023, 15-4-1996
+148. Harkness, K. A., Sussman, J. D., Davies-Jones, G. A., Greenwood, J., and
+Woodroofe, M. N.: Cytokine regulation of MCP-1 expression in brain and
+retinal microvascular endothelial cells, J.Neuroimmunol. 142:1-9, 2003
+149. Spielmann, S., Kerner, T., Ahlers, O., Keh, D., Gerlach, M., and Gerlach,
+H.: Early detection of increased tumour necrosis factor alpha (TNFalpha) and
+soluble TNF receptor protein plasma levels after trauma reveals associations
+with the clinical course, Acta Anaesthesiol.Scand. 45:364-370, 2001
+
+101
+
+LITERATURVERZEICHNIS
+
+150. Jiang, J., Tian, K., and Chen, H.: [Changes of plasma cytokines in patients
+with severe trauma and their relationship with organ damage], Zhonghua Wai
+Ke.Za Zhi. 35:406-407, 1997
+151. Kamm, K., Vanderkolk, W., Lawrence, C., Jonker, M., and Davis, A. T.:
+The effect of traumatic brain injury upon the concentration and expression of
+interleukin-1beta and interleukin-10 in the rat, J.Trauma 60:152-157, 2006
+152. de Coupade, C., Ajuebor, M. N., Russo-Marie, F., Perretti, M., and Solito,
+E.: Cytokine modulation of liver annexin 1 expression during experimental
+endotoxemia, Am.J.Pathol. 159:1435-1443, 2001
+153. BERGMANN, B: Wirkung eines Pan-Selektinantagonisten auf die
+inflammatorische Immunreaktion in einem multi-hit-Traumamodell der Maus
+mit nachfolgender Sepsis.
+Hannover, Tierärztliche Hochschule, Institut für Pharmakologie, Toxikologie und
+Pharmazie, Diss., 2006
+154. Kossmann, T., Hans, V. H., Imhof, H. G., Stocker, R., Grob, P., Trentz, O.,
+and Morganti-Kossmann, C.: Intrathecal and serum interleukin-6 and the
+acute-phase response in patients with severe traumatic brain injuries, Shock
+4:311-317, 1995
+155. Abraham, E., Carmody, A., Shenkar, R., and Arcaroli, J.: Neutrophils as
+early immunologic effectors in hemorrhage- or endotoxemia-induced acute
+lung injury, Am.J.Physiol Lung Cell Mol.Physiol 279:L1137-L1145, 2000
+156. Yildirim, E., Kaptanoglu, E., Ozisik, K., Beskonakli, E., Okutan, O.,
+Sargon, M. F., Kilinc, K., and Sakinci, U.: Ultrastructural changes in
+pneumocyte type II cells following traumatic brain injury in rats,
+Eur.J.Cardiothorac.Surg. 25:523-529, 2004
+157. Mommsen, P., Barkhausen, T., Frink, M., Zeckey, C., Probst, C., Krettek,
+C., and Hildebrand, F.: Productive capacity of alveolar macrophages and
+pulmonary organ damage after femoral fracture and hemorrhage in IL-6
+knockout mice, Cytokine 53:60-65, 2011
+158. Jiang, J., Tian, K., Diao, Y., Chen, H., Zhu, P., and Wang, Z.: Expression of
+TNF alpha, IL-1 beta, IL-6 mRNA, release of TNF alpha in vital organs and
+their relationship with endotoxin translocation following hemorrhagic shock,
+Chin Med.Sci.J. 12:41-46, 1997
+159. Hildebrand, F., Hubbard, W. J., Choudhry, M. A., Frink, M., Pape, H. C.,
+Kunkel, S. L., and Chaudry, I. H.: Kupffer cells and their mediators: the
+culprits in producing distant organ damage after trauma-hemorrhage,
+Am.J.Pathol. 169:784-794, 2006
+160. Hoek, J. B. and Pastorino, J. G.: Cellular signaling mechanisms in alcoholinduced liver damage, Semin.Liver Dis. 24:257-272, 2004
+161. Thompson, J. S., Brown, S. A., Khurdayan, V., Zeynalzadedan, A.,
+Sullivan, P. G., and Scheff, S. W.: Early effects of tribromoethanol,
+
+102
+
+LITERATURVERZEICHNIS
+
+ketamine/xylazine, pentobarbitol, and isoflurane anesthesia on hepatic and
+lymphoid tissue in ICR mice, Comp Med. 52:63-67, 2002
+162. Mallig, C: Etablierung eines Polytrauma-Modells aus Schädelhirntrauma und
+Femurfraktur mit hämorrhagischem Schock bei der Maus, 2006
+163. van den Brink, W. A., Marmarou, A., and Avezaat, C. J.: Brain oedema in
+experimental closed head injury in the rat, Acta Neurochir.Suppl (Wien.)
+51:261-262, 1990
+164. Szczygielski, J., Mautes, A. E., Schwerdtfeger, K., and Steudel, W. I.: The
+effects of selective brain hypothermia and decompressive craniectomy on
+brain edema after closed head injury in mice, Acta Neurochir.Suppl 106:225229, 2010
+165. Zweckberger, K. and Plesnila, N.: Anatibant, a selective non-peptide
+bradykinin B2 receptor antagonist, reduces intracranial hypertension and
+histopathological damage after experimental traumatic brain injury,
+Neurosci.Lett. 454:115-117, 24-4-2009
+166. Trabold, R., Krieg, S., Scholler, K., and Plesnila, N.: Role of vasopressin
+V(1a) and V2 receptors for the development of secondary brain damage after
+traumatic brain injury in mice, J.Neurotrauma 25:1459-1465, 2008
+167. Onyszchuk, G., He, Y. Y., Berman, N. E., and Brooks, W. M.: Detrimental
+effects of aging on outcome from traumatic brain injury: a behavioral, magnetic
+resonance imaging, and histological study in mice, J.Neurotrauma 25:153171, 2008
+168. Barzo, P., Marmarou, A., Fatouros, P., Hayasaki, K., and Corwin, F.:
+Biphasic pathophysiological response of vasogenic and cellular edema in
+traumatic brain swelling, Acta Neurochir.Suppl 70:119-122, 1997
+169. Kontos, H. A. and Povlishock, J. T.: Oxygen radicals in brain injury,
+Cent.Nerv.Syst.Trauma 3:257-263, 1986
+170. Hallam, T. M., Floyd, C. L., Folkerts, M. M., Lee, L. L., Gong, Q. Z., Lyeth,
+B. G., Muizelaar, J. P., and Berman, R. F.: Comparison of behavioral deficits
+and acute neuronal degeneration in rat lateral fluid percussion and weightdrop brain injury models, J.Neurotrauma 21:521-539, 2004
+171. Smith, D. H., Soares, H. D., Pierce, J. S., Perlman, K. G., Saatman, K. E.,
+Meaney, D. F., Dixon, C. E., and McIntosh, T. K.: A model of parasagittal
+controlled cortical impact in the mouse: cognitive and histopathologic effects,
+J.Neurotrauma 12:169-178, 1995
+172. Shohami, E., Bass, R., Wallach, D., Yamin, A., and Gallily, R.: Inhibition of
+tumor necrosis factor alpha (TNFalpha) activity in rat brain is associated with
+cerebroprotection after closed head injury, J.Cereb.Blood Flow Metab 16:378384, 1996
+
+103
+
+LITERATURVERZEICHNIS
+
+173. Casey, L. C., Balk, R. A., and Bone, R. C.: Plasma cytokine and endotoxin
+levels correlate with survival in patients with the sepsis syndrome,
+Ann.Intern.Med. 119:771-778, 15-10-1993
+174. Morrow, L. E., McClellan, J. L., Conn, C. A., and Kluger, M. J.:
+Glucocorticoids alter fever and IL-6 responses to psychological stress and to
+lipopolysaccharide, Am.J.Physiol 264:R1010-R1016, 1993
+175. Mozes, T., Ben Efraim, S., Tak, C. J., Heiligers, J. P., Saxena, P. R., and
+Bonta, I. L.: Serum levels of tumor necrosis factor determine the fatal or nonfatal course of endotoxic shock, Immunol.Lett. 27:157-162, 1991
+176. Tilg, H., Dinarello, C. A., and Mier, J. W.: IL-6 and APPs: anti-inflammatory
+and immunosuppressive mediators, Immunol.Today 18:428-432, 1997
+
+104
+
+ANHANG
+
+10 Anhang
+10.1 Bezugsquellen
+10.1.1 Versuchstiere
+Mäusestamm
+C57BL/6
+B6;129S2-IL6tmlKopf
+
+Bezugsquelle
+Zentrales Tierlaboratorium der MHH
+Zentrales Tierlaboratorium der MHH
+
+10.1.2 Verbrauchsmaterialien
+Material
+Bezugsquelle
+Alleinfuttermittel, Altromin® 1324
+Altromin GmbH, Lage
+Deckgläser 24 × 60 mm
+Menzel Gläser, Braunschweig
+Einbettkassetten
+Roth, Karlsruhe
+Einmalhandschuhe unsteril, Safeskin®
+Kimberly-Clark, Zaventem, Belgien
+Eppendorfröhrchen
+Eppendorf, Hamburg
+FACS-Röhrchen 5 ml
+Sarstedt, Nümbrecht
+Falcon-Röhrchen 15 ml, BlueMax Jr.
+BD Biosciences, Erembodegem, Belgium
+Hämatokrit-Glaskapillaren, End-to-End, 20
+Sarstedt, Nümbrecht
+µl, K2 EDTA
+Kanülen Sterican® 21G, 25G
+Braun, Melsungen
+Nahtmaterial, 4.0 Prolene
+Ethicon, Norderstedt
+Objektträger Super Frost Plus
+Menzel Gläser, Braunschweig
+Paraffin,
+Vogel, Gießen
+Gewebeeinbettmittel Vogel-Histo-Comp®
+Pflaster, Leukoplast®
+Beiersdorf AG, Hamburg
+Pipettenspitzen
+Sarstedt, Nümbrecht
+Schlinggazetupfer, Raucotupf-Tupimed® Rauscher, Pattensen
+Schraubküvetten, Cryos, 2ml
+Greiner bio-one GmbH, Frickenhausen
+Shandon-Clips
+Shandon, Pittsburgh, USA
+Softasept®N
+Braun, Melsungen
+Spritzen 2 ml, Injekt 2 ml, Luer Solo
+Braun, Melsungen
+Standardweichholzgranulat für Labortiere Altromin GmbH, Lage
+Wattestäbchen
+NOBA Verbandmittel Danz GmbH, Wetter
+Zellstoffunterlagen Attends
+PaperPak GmbH, Linz, Österreich
+
+105
+
+ANHANG
+
+10.1.3 Instrumente, Geräte und Software
+Material
+Abstandsmessungssystem, optoNCDT
+Durchflusszytometer, FACS Calibur®
+Einbettautomat
+Feinwaage, Typ L 610
+Folin-Ciocalteu-Phenolreagenz
+Gefriertruhe, Typ 6385
+Labview Software
+
+Bezugsquelle
+Mikro Epsilon Messtechnik, Ortenburg
+BD Biosciences, Heidelberg
+Shandon, Frankfurt
+Sartorius GmbH, Göttingen
+Merck, Darmstadt
+GFL, Burgwedel
+National Instruments, Austin, USA
+Janke & Kunkel IKA® Labortechnik,
+Magnetrührer IKA-Combibag, Typ RCH
+Staufen im Breisgau
+Makrolon®-Flaschen
+Tecniplast, Buguggiate, Italien
+Makrolon®-Käfigen Typ III
+Tecniplast, Buguggiate, Italien
+Microprozessor pH-Meter
+WTW, Weilheim
+Microtom HM 355
+MICROM GmbH, Walldorf
+Mikroskop, BX51 TF
+Olympus, Tokyo, Japan
+Präzisionsmikrometer Oditest®
+Kroeplin GmbH, Schlüchtern
+Rotlicht-Wärmelampe Typ 70230n
+Horizont Agrartechnik GmbH, Korbach
+Schermaschine Favorita II®, Typ GT 104 Aesculap AG & Co. KG, Tuttlingen
+Olympus Soft Imaging Solutions GmbH,
+Software CellF
+Münster
+Software SPSS, Version 13
+SPSS Inc., Chicago, USA
+Software winmdi 2.8
+J. Trotter, TSRI, La Jolla, CA, USA
+Thermometer, digital, Typ GTH 1200
+Greisinger Electronic GmbH, Regenstauf
+Janke & Kunkel IKA® Labortechnik,
+Vortex Typ VF2
+Staufen im Breisgau
+Waage Typ P1200
+Mettler-Waagen GmbH, Gießen
+Wasserbad GFL® Typ 1052
+GFL, Burgwedel
+Zentrifuge Labofuge 400R
+Heraeus Instruments, Hanau
+
+10.1.4 Medikamente
+Material
+Bepanthen® Augen(Dexpanthenol)
+Ketanest (Ketamin)
+
+Bezugsquelle
+und Nasensalbe Hoffmann-La Roche AG, GrenzachWyhlen
+Parke-Davis GmbH, Karlruhe
+Hoffmann-La Roche AG, GrenzachLiquemin® N 25000 (Heparin)
+Wyhlen
+Novaminsulfon-ratiopharm®
+Tropfen Ratiopharm GmbH, Ulm
+(Metamizol)
+Ringer-Lactat-Lösung
+Braun, Melsungen
+Rompun (Xylazin)
+Bayer Vital GmbH, Leverkusen
+
+106
+
+ANHANG
+
+10.1.5 Chemikalien
+Material
+Bezugsquelle
+Aceton
+Zentralapotheke MHH, Hannover
+Ammoniumchlorid
+Merck, Darmstadt
+anti-Maus-Ly49-Antikörper
+BD Biosciences Pharmingen, San Diego,
+(FITC anti-mouse Ly-49C and LY-49I)
+USA
+anti-Maus-CD4-Antikörper (FITC antiBD Biosciences Pharmingen, San Diego,
+mouse CD4)
+USA
+anti-Maus-CD8-Antikörper (PE anti-mouse BD Biosciences Pharmingen, San Diego,
+CD8a)
+USA
+CuSO4
+Merck, Darmstadt
+2,4-Dinitrofluorobenzen
+Sigma-Aldrich Chemie GmbH, Steinheim
+Diaminobenzidin, S3000
+DakoCytomation
+EDTA (Titriplex® III)
+Merck, Darmstadt
+Ethanol Absolut
+J.T.-Baker, Deventer, Niederlande
+Folin-Ciocalteus Phenolreagenz
+Merck, Darmstadt
+Formalin, 37 %ig
+Merck, Darmstadt
+Kaliumcarbonat
+Merck, Darmstadt
+Kresylechtviolett
+Waldeck GmbH, Münster
+Methanol
+J.T.-Baker, Deventer, Niederlande
+Mouse Serum (Normal), X0910
+DakoCytomation, Hamburg
+Na2CO3
+Merck, Darmstadt
+Na2HPO4
+Merck, Darmstadt
+NaH2PO4
+Merck, Darmstadt
+Na-Hypochlorit-Lösung
+Merck, Darmstadt
+Natriumhydroxid z.A. Plätzchen
+J.T. Baker, Deventer, Holland
+Nitroprussid-Natrium-Dihydrat z.A.
+Merck, Darmstadt
+Olivenöl (EuAB natives Olivenöl extra)
+Zentralapotheke MHH
+Polyclonal Rabbit Anti-Cow-G FAP,
+DakoCytomation, Hamburg
+Z 0334
+Polyclonal Swine Anti-Rabbit
+DakoCytomation, Hamburg
+Immunoglobulins/Biotinylated, E0353
+Roti®-Phenol
+Roth, Karlsruhe
+Schnelleindeckmittel Entellan
+Merck, Darmstadt
+Stickstoff, flüssig
+Linde, Hannover
+Streptavidin-Biotin-Komplex/Horseradish
+DakoCytomation, Hamburg
+Peroxidase, K 0377
+Swine Serum (Normal), X0901
+DakoCytomation, Hamburg
+Thermo Eosin Instant
+Thermo Shandon, Pittsburgh, USA
+Thermo Harris Hämatoxylin
+Thermo Shandon, Pittsburgh, USA
+Tween® 20 Detergent
+Merck, Darmstadt
+Urea-Lösung
+Merck, Darmstadt
+107
+
+ANHANG
+
+Urease (EC 3.5.1.5) 798 Units/ml, Type
+Sigma, Steinheim
+III, Jack Beaus,
+Wasserstoffperoxid 30%
+Merck, Darmstadt
+Xylol
+J.T.-Baker, Deventer, Niederlande
+
+10.2 Protokolle
+10.2.1 Lösungen
+DNFB-Ansatz
+
+
+4 ml Azeton
+
+
+
+1 ml natives Olivenöl
+
+
+
+50 µl bzw. 25 µl DNFB (für den 1 %igen bzw. 0,5%igen DNFB-Ansatz)
+
+Formalin-Lösung (4%)
+
+
+100 ml Formalin, 37%
+
+
+
+4,0 g NaH2PO4
+
+
+
+6,5 g Na2HPO4
+
+
+
+ad 1000 ml Aqua dest.
+
+
+
+pH 7,0
+
+hypotone Lyse-Lösung
+
+
+8,3 g Ammoniumchlorid
+
+
+
+1,0 g Kaliumcarbonat
+
+
+
+0,1 g EDTA
+
+
+
+ad 1000 ml Aqua dest.
+
+PBS (Phosphatpuffer)
+
+
+7,2 g NaCl
+
+
+
+0,43 g KH2PO4
+
+
+
+1,48 g Na2HPO4
+
+
+
+ad 1000 ml Aqua dest
+
+
+
+pH 7
+
+108
+
+ANHANG
+
+DAB (1 mg/ml)
+
+
+1 Tabl. DAB
+
+
+
+10 ml PBS
+
+Herstellung der Stammlösung unter Lichtschutz, Lagerung bei -20°C in 2mlPortionen, vor Anwendung bei Raumtemperatur im Dunkeln auftauen und Zugabe
+von 15 µl 3%igem H2O2 zu 2 ml DAB-Lösung
+
+HCl-Ethanol (Salzsäure-Alkohol-Mischung)
+
+
+100 ml A. dest.
+
+
+
+100 ml Ethanol absolut
+
+
+
+50 ml Salzsäure 1 M
+
+Kresylviolett-Lösung (5%)
+
+
+5 g Kresylviolett
+
+
+
+60 ml Natriumacetatlösung
+
+
+
+340 ml Essigsäure 1 M
+
+
+
+600 ml Aqua dest.
+
+Rühren für 1 Woche, Filtration; Lagerung bei 4°C, vor Licht schützen
+
+StreptABComplex
+
+
+1 Tropfen (45 µl) Streptavidin
+
+
+
+1 Tropfen (45 µl) Biotin-Peroxidase
+
+
+
+5 ml PBS
+
+30 Minuten vor Anwendung ansetzen
+
+Citrat-Puffer
+
+
+1,92g Zitronensäure
+
+
+
+1000ml Aqua dest.
+
+
+
+pH 6,0
+
+109
+
+ANHANG
+
+10.2.2 Histologische Färbungen
+absteigende und aufsteigende Alkoholreihen
+Zeit
+2 x 10 min
+3 min
+2 x 3 min
+3 min
+2 x 3 min
+Zeit
+2 x 3 min
+2 x 3 min
+2 x 3 min
+3 x 3 min
+
+Absteigende Alkoholreihe
+100% Xylol
+100% Ethanol
+96% Ethanol
+75% Ethanol
+50% Ethanol
+Aufsteigende Alkoholreihe
+70% Ethanol
+96% Ethanol
+100% Ethanol
+100% Xylol
+
+H.E.-Färbung
+Zeit
+10 min
+3 min
+10 min
+1s
+5 min
+3 min
+2 min
+
+Absteigende Alkoholreihe
+Leitungswasser
+Hämatoxylin
+Leitungswasser, fließend
+0,15% HCl-Ethanol
+Leitungswasser, fließend
+Spülen mit Aqua dest.
+Eosin
+Aufsteigende Alkoholreihe
+Eindecken mit Entellan
+
+Nissl-Färbung
+Zeit
+2 min
+6 min
+90 s
+5 min
+5 min
+90 s
+22 × 5 min
+22 × 5 min
+
+Absteigende Alkoholreihe
+Aqua dest
+0,5% Kresylviolett-Lösung (39°C)
+0,1 ml konz.Essigsäure auf 0,1 l A. dest.
+70% Ethanol
+96% Ethanol
+0,1 ml konz.Essigsäure auf 0,1 l 96%iges Ethanol
+100% Isopropanol
+100% Xylol
+Eindecken mit Entellan
+
+110
+
+ANHANG
+
+GFAP-Färbung
+Zeit
+absteigende Alkoholreihe
+3 x 5 min
+15 min
+3 x 5 min
+20 min
+
+60 min
+3 x 5 min
+60 min
+
+PBS waschen
+im Dunkeln: 0,6% H2O2 in Methanol (4ml H2O2 (30%ig) + 196ml
+Methanol)
+PBS + 0,1%ig Tween waschen (200µl Tween auf 200ml PBS)
+in Shandon-Clips einklemmen
+5% Normal-Swine-Serum-PBS
+Primär-AK Rabbit-anti-Cow-GFAP
+(0,1g/10ml)
+inkubieren
+
+1:400
+
+in
+
+1%
+
+BSA/PBS
+
+3 x 5 min
+
+PBS + 0,1%ig Tween (200µl Tween auf 200ml PBS)
+Sekundär-AK Swine-anti-Rabbit 1:500 (30 min vorher inkubieren!)
+in 1,5% Normal-Swine-Serum-PBS in 5% Normal-Mouse-Serum
+PBS + 0,1%ig Tween (200µl Tween auf 200ml PBS)
+
+30 min
+
+StreptABComplex (30 min vorher ansetzen!)
+
+3 x 5 min
+
+3 x 5 min
+
+PBS + 0,1%ig Tween (200µl Tween auf 200ml PBS)
+im Dunkeln unterm Abzug:
+DAB (1mg/ml),
+(2ml + 15 µl 3%igem H2O2 kurz vor Auftragen)
+PBS waschen und danach aus Shandon-Clips holen
+
+kurz
+
+in Leitungswasser spülen
+
+2 min
+
+Hämatoxylin-Gegenfärbung
+
+5 min
+
+Spülung mit Leitungswasser zum Bläuen
+
+1 sec
+
+Differenzierung mit HCl-Ethanol
+
+kurz
+
+Leitungswasser
+
+5 min
+
+Aufsteigende Alkoholreihe
+Eindecken mit Entellan
+
+111
+
+ANHANG
+
+APP-Färbung
+Zeit
+absteigende Alkoholreihe
+3 x 5 min
+10 min
+
+PBS waschen
+
+10 min
+3 x 5 min
+
+3 x 5 min
+
+Unter fließendem Wasser abkühlen lassen
+PBS waschen
+Im Dunkeln: Blockierung der endogenen Peroxidase mit H2O2
+(20ml 30% H2O2 + 180ml Methanol)
+PBS waschen
+Primär-AK Polyclonal Rabbit anti Amyloid Precursor Protein 1:100
+1h bei Raumtemperatur und 12h bei 4°C inkubieren
+PBS waschen
+Sekundär-AK Polyclonal Rabbit anti Amyloid Precursor Protein
+1:100 1h bei Raumtemperatur
+PBS waschen
+
+30 min
+
+StreptABComplex (30 min vorher ansetzen!)
+
+3 x 5 min
+
+2 min
+
+PBS waschen
+im Dunkeln unterm Abzug:DAB (1mg/ml),
+(2ml + 15 µl 3%igem H2O2 kurz vor Auftragen)
+Hämatoxylin-Gegenfärbung
+
+5 min
+
+Spülung mit Leitungswasser zum Bläuen
+
+kurz
+
+Leitungswasser
+
+10 min
+3 x 5 min
+13h
+3 x 5 min
+1h
+
+10 min
+
+Schnitte in der Mikrowelle in Citratpuffer aufkochen
+
+Aufsteigende Alkoholreihe
+Eindecken mit Entellan
+
+112
+
+ANHANG
+
+10.2.3 Durchflusszytometrie
+Analyse der Lymphozyten in der Milzsuspension
+
+
+Milzsuspension mit hypotoner Lyse-Lösung (14 ml) versetzen (zur
+Erythrolyse)
+
+
+
+15 min Inkubation im Kühlschrank
+
+
+
+10 min Zentrifugation bei 4°C und 4500 rpm, Überstand verwerfen
+
+
+
+1000 µl PBS dazugeben (Resuspension)
+
+
+
+5 min Zentrifugation bei 4°C und 4500 rpm, Überstand verwerfen
+
+
+
+45 µl PBS dazugeben und auf 3 FACS-Röhrchen zu je 15 µl aufteilen
+I. FACS-Röhrchen: Leerwert
+II. FACS-Röhrchen: je 5 µl CD4 und CD8 hinzupipettieren
+III. FACS-Röhrchen: 5 µl Ly49 hinzupipettieren
+
+
+
+30 min Inkubation im Kühlschrank (evtl. anschleudern)
+
+
+
+1000 µl PBS dazugeben
+
+
+
+5 min Zentrifugation bei 4°C und 4500 rpm, Überstand verwerfen
+
+
+
+1000 µl PBS dazugeben
+
+
+
+5 min Zentrifugation bei 4°C und 4500 rpm, Überstand verwerfen
+
+
+
+100 µl PBS dazugeben
+
+
+
+13. durchflusszytometrische Analyse
+
+Zytokinmessung im Plasma (CBA)
+Standardherstellung:
+
+
+Mouse Inflammation Standard mit 0,2ml Assay Diluent verdünnen
+
+
+
+15 Minuten inkubieren
+
+
+
+Herstellung der Standardreihe nach folgendem Schema:
+
+Standard
+Verdünnung
+Zytokinkonzentration (pg/ml)
+
+1
+1:2
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+1:4 1:8 1:16 1:32 1:64 1:128 1:256 1:512 1:1024 1:2048
+
+2500 1250 625 312,5 156 80
+
+113
+
+40
+
+20
+
+10
+
+5
+
+2,5
+
+ANHANG
+
+Vorbereitung der „Capture Bead“-Mischung:
+
+
+Bestimmung der Anzahl der benötigten Messröhrchen (für Proben,
+Standards und Negativkontrolle)
+
+
+
+Die an bestimmte "Capture Beads" gekoppelten Antikörper für ein paar
+Sekunden kräftig aufschütteln
+
+
+
+Von jedem Antikörper 10µl pro auszuwertendes Messröhrchen in ein Gefäß
+pipettieren
+
+
+
+Die Antikörper-Mischung sorgfältig aufschütteln
+
+
+
+Vorbehandlung der Proben:
+
+
+
+50µl von jeder Probe bzw. jedem Standard in ein FACS-Röhrchen
+pipettieren
+
+
+
+50µl PE-gekoppeltes "Detection Reagent" hinzufügen
+
+
+
+50µl der "Capture Bead"-Mischung hinzupipettieren
+
+
+
+2 h Inkubation bei Raumtemperatur unter Lichtausschluss
+
+
+
+1000µl PBS hinzufügen
+
+
+
+Zentrifugation bei 21 °C und 4500 rpm, Überstand abpipettieren und
+verwerfen
+
+
+
+300µl PBS hinzufügen
+
+
+
+durchflusszytometrische Analyse
+
+
+
+Herstellung der Zytometer-Setup-Proben:
+
+
+
+"Cytometer Setup Beads" aufschütteln
+
+
+
+Je 50µl der "Cytometer Setup Beads" in drei Röhrchen (I,II und III)
+pipettieren
+
+
+
+50µl "FITC Positive Control Detector" in Röhrchen II
+
+
+
+50µl "PE Positive Control Detector" in Röhrchen III
+
+
+
+30 Minuten Inkubation bei Raumtemperatur unter Lichtausschluss
+
+
+
+Hinzufügen von: je 400µl PBS in Röhrchen B und C
+
+
+
+450µl PBS in Röhrchen I
+
+
+
+Durchführung der Kalibrierung des Durchflusszytometers
+
+114
+

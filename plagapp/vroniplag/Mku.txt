@@ -1,0 +1,5414 @@
+Aus dem Institut für Rechtsmedizin
+der Medizinischen Fakultät Charité – Universitätsmedizin Berlin
+
+DISSERTATION
+
+Untersuchungen zur radiologischen Sichtbarkeit der Wurzelpulpa
+und des Parodontalspalts unterer dritter Molaren
+
+zur Erlangung des akademischen Grades
+Doctor medicinae dentariae (Dr. med. dent.)
+
+vorgelegt der Medizinischen Fakultät
+Charité – Universitätsmedizin Berlin
+
+von
+
+Michael Alexander Kupfer
+aus Stuttgart
+
+Gutachter/in:
+
+1. Priv.-Doz. Dr. med. dent. A. Olze
+2. Prof. Dr. med. M. Tsokos
+3. Prof. Dr. med. R. Lessig
+
+Datum der Promotion: 04.02.2011
+
+2
+
+Inhaltsverzeichnis
+1.
+
+Einleitung
+
+7
+
+2.
+
+Aufgabenstellung
+
+8
+
+3.
+
+Forensische Altersdiagnostik bei Lebenden – Methoden und
+Rechtsgrundlagen
+
+9
+
+4.
+
+Grundlagen der Zahnmineralisation
+
+24
+
+5.
+
+Material und Methode
+
+27
+
+6.
+
+Ergebnisse
+
+30
+
+7.
+
+Diskussion
+
+36
+
+8.
+
+Zusammenfassung
+
+66
+
+9.
+
+Literaturverzeichnis
+
+67
+
+10.
+
+Eidesstattliche Erklärung
+
+77
+
+11.
+
+Lebenslauf
+
+78
+
+12.
+
+Danksagung
+
+79
+
+3
+
+Abbildungsverzeichnis
+
+Abbildung 1
+
+Radiologische Untersuchung, ausgereiftes Handskelett
+
+Abbildung 2
+
+Stadieneinteilung der Ossifikation der SchlüsselbeinBrustbein-Gelenke nach Schmeling (2004)
+
+Abbildung 3
+
+28
+
+Stadieneinteilung Merkmal Sichtbarkeit Parodontalspalt
+(Olze et al. 2010)
+
+Abbildung 5
+
+12
+
+Stadieneinteilung Merkmal Sichtbarkeit Wurzelkanäle
+(Olze et al. 2010)
+
+Abbildung 4
+
+12
+
+29
+
+Zusammenhang zwischen errechnetem Lebensalter
+und dem jeweiligen Stadium Sichtbarkeit Wurzelkanäle,
+Geschlecht weiblich, Zahn 38
+
+Abbildung 6
+
+31
+
+Zusammenhang zwischen errechnetem Lebensalter
+und dem jeweiligen Stadium Sichtbarkeit Wurzelkanäle,
+Geschlecht männlich, Zahn 38
+
+Abbildung 7
+
+31
+
+Zusammenhang zwischen errechnetem Lebensalter
+und dem jeweiligen Stadium Sichtbarkeit Wurzelkanäle,
+Geschlecht weiblich, Zahn 48
+
+Abbildung 8
+
+32
+
+Zusammenhang zwischen errechnetem Lebensalter
+und dem jeweiligen Stadium Sichtbarkeit Wurzelkanäle,
+Geschlecht männlich, Zahn 48
+
+Abbildung 9
+
+32
+
+Zusammenhang zwischen errechnetem Lebensalter
+und dem jeweiligen Stadium Sichtbarkeit Parodontalspalt,
+Geschlecht weiblich, Zahn 38
+
+34
+
+4
+
+Abbildung 10
+
+Zusammenhang zwischen errechnetem Lebensalter
+und dem jeweiligen Stadium -Sichtbarkeit Parodontalspalt-,
+Geschlecht männlich, Zahn 38
+
+Abbildung 11
+
+34
+
+Zusammenhang zwischen errechnetem Lebensalter
+und dem jeweiligen Stadium Sichtbarkeit Parodontalspalt,
+Geschlecht weiblich, Zahn 48
+
+Abbildung 12
+
+35
+
+Zusammenhang zwischen errechnetem Lebensalter
+und dem jeweiligen Stadium Sichtbarkeit Parodontalspalt,
+Geschlecht männlich, Zahn 48
+
+Abbildung 13
+
+35
+
+Lebensalterabhängige Zahnveränderungen nach
+Gustafson (1950)
+
+60
+
+5
+
+Tabellenverzeichnis
+Tabelle 1
+
+Alters- und Geschlechtsverteilung
+
+Tabelle 2
+
+Stadieneinteilung Merkmal Sichtbarkeit Wurzelkanäle
+(Olze et al. 2010)
+
+Tabelle 3
+
+28
+
+Stadieneinteilung Merkmal Sichtbarkeit Parodontalspalt
+-PAS- (Olze et. al. 2010)
+
+Tabelle 4
+
+27
+
+28
+
+Statistische Maßzahlen, Minima und Maxima, Merkmal
+Sichtbarkeit Wurzelkanäle, Zähne 38 und 48, Geschlecht
+weiblich
+
+Tabelle 5
+
+30
+
+Statistische Maßzahlen, Minima und Maxima, Merkmal
+Sichtbarkeit Wurzelkanäle, Zähne 38 und 48, Geschlecht
+männlich
+
+Tabelle 6
+
+30
+
+Statistische Maßzahlen, Minima und Maxima, Merkmal
+Sichtbarkeit Parodontalspalt, Zähne 38 und 48, Geschlecht
+weiblich
+
+Tabelle 7
+
+33
+
+Statistische Maßzahlen, Minima und Maxima, Merkmal
+Sichtbarkeit Parodontalspalt, Zähne 38 und 48, Geschlecht
+männlich
+
+33
+
+6
+
+1. Einleitung
+Die forensisch-odontologische Altersschätzung menschlicher Individuen spielt
+traditionell bei der Identifizierung von unbekannten Toten eine wichtige Rolle, da vor
+allem die Zähne wegen ihrer hohen Widerstandsfähigkeit gegen äußere Reize als
+Substrat zur Eingrenzung des Lebensalters dienen können. Über eine Eingrenzung
+des möglichen Lebensalters kann der infrage kommende Personenkreis oft
+eingschränkt werden, was meist zu einer Verdichtung und Konzentration der
+Bemühungen der Ermittlungsbehörden führt und eine schnelle Identifizierung des
+betreffenden Opfers ermöglicht.
+In Deutschland, aber auch in zahlreichen anderen Ländern, ist der Anteil von
+Ausländern mit Migrationshintergrund in der Bevölkerung in den letzten Jahren
+kontinuierlich gestiegen. Gemäß Integrationsbericht der Bundesregierung lebten in
+Deutschland im Jahr 2009 15,3 Millionen Migranten.
+Aus rechtsmedizinischer Perspektive ist diese Entwicklung bereits seit einigen
+Jahren mit einer wachsenden Nachfrage nach forensischen Altersschätzungen bei
+Jugendlichen und jungen Erwachsenen verbunden (Schmeling et al. 2001b). Die zu
+untersuchenden Personen sind Ausländer ohne gültige Ausweispapiere, die ihr Alter
+nicht kennen oder mutmaßlich falsch angeben. Die juristisch bedeutsamen
+Altersgrenzen sind in Deutschland das 14., 18. und 21. Lebensjahr (Kaatsch 2001).
+Auch in zahlreichen anderen europäischen Ländern liegen die rechtsrelevanten
+Altersgrenzen zwischen dem 14. und 18. Lebensjahr (Dünkel 1997).
+Weisheitszahnmineralisation und -eruption stellen die Hauptkriterien der forensischodontologischen
+
+Altersschätzung
+
+in
+
+der
+
+relevanten
+
+Altersgruppe
+
+dar.
+
+Zwischenzeitlich ist der zeitliche Ablauf der Weisheitszahnmineralisation und eruption für die einzelnen Ethnien gut untersucht. Eine sichere Abgrenzung des 18.
+Lebensjahres ist mit den bislang zur Verfügung stehenden Untersuchungsmethoden
+nicht möglich. Eine Diversifizierung und Erweiterung des zur Verfügung stehenden
+forensisch- odontologischen Methodenspektrums ist wünschenswert.
+
+7
+
+2. Aufgabenstellung
+In der forensisch-odontologischen Altersschätzungsroutine wurde deutlich, dass der
+Parodontalspalt und/ oder die Wurzelkanäle voll entwickelter dritter Molaren im
+Orthopantomogramm in bestimmten Fällen ganz oder teilweise unsichtbar waren.
+In der vorliegenden retrospektiven Studie sollte untersucht werden, inwieweit die
+beobachteten Phänomene klassifizierbar sind, und wenn ja, ob einzelne Stadien in
+Weiterentwicklung bewährter Stadieneinteilungen unterteilbar sind, bestimmten
+Lebensaltern zugeordnet werden können und ob eine für die Altersschätzungsroutine
+wichtige, sichere Abgrenzung des Erreichens des 18. Lebensjahrs gelingt.
+
+8
+
+3. Forensische Altersdiagnostik bei Lebenden - Methoden und
+Rechtsgrundlagen
+Die forensische Altersschätzung Lebender ist in den letzten Jahren zunehmend in
+den Fokus des gesellschaftlichen Interesses gerückt. Die Aufgabe besteht darin, für
+Personen, die nicht willens oder in der Lage sind, ihr korrektes Lebensalter
+anzugeben und durch Urkunden oder Ausweise zu belegen, dieses anhand
+biologischer Entwicklungszeichen gutachterlich einzuschätzen.
+Entsprechend den Empfehlungen der interdisziplinären Arbeitsgemeinschaft für
+Forensische Altersdiagnostik (AGFAD), welche sich am 10.03.2000 in Berlin
+konstituierte, sollten für eine Altersschätzung im Strafverfahren eine zahnärztliche
+Untersuchung
+
+mit
+
+Erhebung
+
+Orthopantomogramms,
+anthropometrischer
+
+eine
+
+Maße,
+
+des
+
+Zahnstatus
+
+körperliche
+der
+
+sexuellen
+
+und
+
+Auswertung
+
+eines
+
+Untersuchung
+
+mit
+
+Erfassung
+
+Reifezeichen
+
+sowie
+
+möglicher
+
+altersrelevanter Entwicklungsstörungen, und ferner eine radiologische Untersuchung
+der linken Hand eingesetzt werden. Zur Frage der Vollendung des 21. Lebensjahres
+wird eine zusätzliche Röntgen- bzw. CT-Untersuchung der Schlüsselbeine empfohlen
+(Schmeling et al. 2001a, 2001b). Die zuverlässigste Altersdiagnose ergibt sich aus
+der Synopsis der Teilgutachten (Geserick et al. 2002).
+Körperliche Untersuchung. Bei der körperlichen Untersuchung werden neben
+anthropometrischen Maßen, wie Körperhöhe, Körpergewicht und Körperbautyp, die
+äußerlich erkennbaren sexuellen Reifezeichen erfasst. Bei Jungen sind dies der
+Entwicklungsstand
+
+von
+
+Penis
+
+und
+
+Hodensack,
+
+Schambehaarung,
+
+Achselhöhlenbehaarung, Bartwuchs und Kehlkopfprominenz; bei Mädchen die
+Brustentwicklung,
+
+Schambehaarung,
+
+Achselhöhlenbehaarung
+
+und
+
+Hüftform.
+
+Allgemein gebräuchlich sind die Stadieneinteilungen nach Tanner (1962) für die
+Genitalentwicklung, Brustentwicklung und Ausprägung der Schambehaarung.
+Hinsichtlich des zeitlichen Verlaufes der sexuellen Reifeentwicklung sei exemplarisch
+auf Untersuchungen von Marshall und Tanner (1969, 1970) verwiesen. Im Rahmen
+der
+
+körperlichen
+
+Untersuchung
+
+ist
+
+zu
+
+prüfen,
+
+ob
+
+altersrelevante
+
+Entwicklungsstörungen vorliegen.
+Radiologische
+
+Untersuchung.
+
+Der
+
+menschliche
+
+Stützapparat
+
+ist
+
+in
+
+der
+
+Embryonalperiode weitgehend als knorpelige Vorstufe angelegt, bei dem zunächst
+ein hyalines Knorpelmodell des jeweiligen Skelettstückes gebildet wird, welches im
+9
+
+Laufe der Entwicklung schrittweise durch Knochengewebe ersetzt wird. Das
+Erscheinen von Knochenkernen als Ossifikationszentren erlaubt in frühem
+Kindesalter bis etwa zum zehnten Lebensjahr eine sichere Altersdiagnostik.
+Bis etwa zum 15. Lebensjahr erreichen dann die einzelnen Knochenelemente ihre
+endgültige Form und Größe.
+Durch Epiphysenfugen oder –scheiben erfolgt eine ständige Knorpelneubildung die
+nach
+
+den
+
+Knochenenden
+
+hin
+
+ständig
+
+Knorpelgewebe
+
+abbauen.
+
+Dieses
+
+Knorpelgewebe wird durch Knochengewebe ersetzt und stellt demnach für den
+Knochen
+
+junger
+
+Menschen
+
+indirekte
+
+Wachstumszentren
+
+dar,
+
+die
+
+das
+
+Längenwachstum gewährleisten. Sie werden im Laufe des Lebens mehr oder
+weniger aufgebraucht und durch Knochengewebe verdrängt und bieten nach dem
+15. Lebensjahr die beste Möglichkeit zur Altersschätzung. Die Epiphysenfuge
+verknöchert zur Epiphysennarbe, ein Prozess, der etwa um das 20. Lebensjahr
+seinen Abschluss erfährt, also im Alter des Heranwachsenden beziehungsweise
+Erwachsenen knöchern geschlossen wird. Aus diesem Grund ist die radiologische
+Untersuchung der Epiphysenfugen für die rechtlich bedeutsamen Altersgrenzen von
+besonderem Wert.
+Die
+
+Röntgenaufnahme
+
+des
+
+Handskeletts
+
+steht
+
+stets
+
+am
+
+Anfang
+
+der
+
+röntgenologischen Untersuchung (Abb.1). Kriterien zur Bewertung sind der
+Entwicklungsstand der Handwurzelknochen sowie der Epiphysenfugen der langen
+und kurzen Knochen des Hand- und des distalen Unterarmskeletts, aber auch
+Formen-
+
+und
+
+Größenparameter
+
+des
+
+Handskeletts
+
+sowie
+
+die
+
+Anlage
+
+und
+
+Konfiguration der Sesambeine. Dieses Verfahren ist bewährt, wird seit Jahrzehnten
+insbesondere von Kinderärzten und Kieferorthopäden erfolgreich eingesetzt und ist
+insgesamt als eine etablierte Methode mit hoher diagnostischer Wertigkeit
+einzuschätzen. Da in jeder Population die Rechtshänder überwiegen und somit die
+rechte Hand wesentlich häufiger Traumen und größeren Beanspruchungen
+ausgesetzt ist, welche die Skelettentwicklung stören können, wurde die linke Hand
+vereinbart.
+Die Vorteile der Handröntgenaufnahme liegen in der guten Durchführbarkeit bei
+standardisierten Bedingungen. Weiterhin bietet sie eine große Anzahl an
+Einzelparametern, da 30 Knochenzentren, das heißt zehn Prozent des gesamten
+Skeletts und somit die meisten Verknöcherungszonen, beurteilt werden können.
+
+10
+
+Beurteilungskriterien der Handröntgenaufnahme sind Form und Größe der einzelnen
+Knochenelemente sowie deren Verknöcherungszustand an den Epiphysenfugen.
+Des Weiteren ist eine geschlechtergetrennte Begutachtung vorzunehmen, da
+Mädchen gegenüber Jungen einen Entwicklungsvorsprung in der Skelettreifung
+zeigen. So beginnt der Wachstumsspurt bei Mädchen mit zirka zehn und endet mit
+zirka 14,8 Jahren, wohingegen bei Jungen der Beginn bei zirka zwölf Jahren liegt
+und mit etwa 17 Jahren endet.
+Bei den angefertigten Handröntgenbildern werden für die Altersschätzung zwei
+Methoden unterschieden. Zum einem die von Greulich und Pyle (1959) publizierte
+Atlasmethode, in der das vorliegende Röntgenbild mit Standardaufnahmen des
+jeweiligen Alters und Geschlechts verglichen wird. Zum anderen, die auf Tanner
+zurückführende Einzelknochenmethode, bei welcher für den ausgewählten Knochen
+der jeweilige Reifegrad beziehungsweise das Knochenalter bestimmt werden kann.
+Die jüngste derzeit vorliegende Studie von Thiemann und Nitz (1986, 1991) bildet die
+Grundlage der Publikation „Röntgenatlas der normalen Hand im Kindesalter“ und
+repräsentiert aus insgesamt 5200 ausgewerteten Röntgenaufnahmen der Hand,
+Referenzwerte
+
+für
+
+die
+
+heutige
+
+medizinischen
+
+Einrichtungen
+
+Lebensalterschätzung.
+
+der
+
+ehemaligen
+
+DDR
+
+Aus
+
+insgesamt
+
+wurden
+
+die
+
+20
+5200
+
+Handröntgenaufnahmen in den Altersgruppen vom Neugeborenen bis zum
+18jährigen
+
+angefertigt,
+
+ausgewertet
+
+und
+
+anschließend
+
+in
+
+einem
+
+Atlas
+
+zusammengefasst.
+Ergibt sich aus der Beurteilung des Handskeletts ein geschätztes Lebensalter von 18
+Jahren oder älter wird (bei Vorliegen eines richterlichen Beschlusses) zusätzlich eine
+Röntgenuntersuchung der Schlüsselbein-Brustbein-Gelenke durchgeführt. Sind die
+Epiphysenfugen der medialen Schlüsselbeinepiphysen komplett geschlossen, ist ein
+Lebensalter von mindestens 22 Jahren anzunehmen (Abb. 2).
+Zur Aussagefähigkeit der Röntgenaufnahme des Handskeletts ist grundsätzlich
+festzustellen, dass eine Altersschätzung lediglich bis etwa zum 18.Lebensjahr mit
+hinreichender Sicherheit möglich ist, da dann das Skelett bei Gesunden vollständig
+ausgereift ist (Abb. 1) und nach diesem Zeitpunkt keine altersrelevanten
+Veränderungen der Skelettentwicklung mehr auftreten. Zur Beurteilung eines
+höheren Lebensalters sind zusätzliche Aufnahmen (mediale Schlüsselbeingelenke)
+anzufertigen. Weist das Reifungsstadium des Handskeletts aber auf ein Lebensalter
+
+11
+
+unter 18 Jahren hin, dürfen diese Zusatzaufnahmen nicht durchgeführt werden, da
+sie keine zusätzlichen Informationen erbringen.
+
+Radiologische Untersuchung
+
+• Röntgenuntersuchung der linken
+Hand
+• ggf. Röntgenuntersuchung der
+Schlüsselbein-BrustbeinGelenke
+
+Abbildung 1: Radiologische Untersuchung, ausgereiftes Handskelett
+
+Stadieneinteilung der Ossifikation der Schlüsselbein-Brustbein-Gelenke
+nach Schmeling et al. (2004)
+
+Stadium
+
+1
+
+Alter
+
+Nicht verknöcherte
+mediale Epiphyse
+und fehlende kortikale Begrenzung
+der Metaphyse
+
+2
+
+3
+
+Beginnende
+Partielle Fusion
+Epiphysenverder Epiphyse mit
+knöcherung ohne der Metaphyse
+Verschmelzung
+mit der Metaphyse
+
+4
+Komplette
+Verschmelzung
+der Epiphyse mit
+der Metaphyse
+und Hinterlassen
+einer Epiphysennarbe
+
+5
+Vollständiges
+Verschwinden
+der Epiphysennarbe
+
+weiblich
+
+-
+
+-
+
+16-26
+
+mind. 20
+
+mind. 26
+
+männlich
+
+-
+
+-
+
+16-24
+
+mind. 21
+
+mind. 26
+
+Abbildung 2: Stadieneinteilung der Ossifikation der Schlüsselbein-Brustbein-Gelenke nach Schmeling
+(2004)
+
+12
+
+Zum zeitlichen Verlauf der Ossifikation der medialen Clavikulaepiphysenfugen, als
+ein
+
+nützliches
+
+Merkmal
+
+zur
+
+forensischen
+
+Altersschätzung,
+
+liegen
+
+vielfache
+
+Untersuchungen vor, welche sich anhand der Beurteilung in anatomische Studien,
+bei denen die Ossifikation im Rahmen einer Sektion oder bei Beurteilung von
+Skeletten durch direkte Inspektion, oder in radiologischen Untersuchungen mittels
+konventioneller Technik oder Computertomographie, unterscheiden lassen.
+In einer von Kreitner et al. (1998) durchgeführten retrospektiven Studie an 380
+normal entwickelten unter dreißigjährigen Probanden, wurden für das Merkmal
+Verknöcherung der medialen Claviculaepiphysenfuge eine Stadieneinteilung mit vier
+Stadien vorgelegt und entsprechende statistische Maßzahlen für die untersuchte
+deutsche Population mitgeteilt.. Den Mittelwert für die komplett vorliegende
+Epiphysenunion bildete ein Lebensalter von 27, mit dem frühesten Beginn bei 22
+Jahren.
+In einer weiterführenden Studie haben Schmeling et al. (2004) darüber hinaus ein
+fünftes Stadium klassifiziert, welches sich durch ein vollständiges Verschwinden der
+Epiphysennarbe auszeichnet und bei beiden Geschlechtern mit einem Mindestalter
+von 26 Jahren auftritt.
+Schmidt et al (2008a) überprüften retrospektiv die Atlasmethode nach Greulich und
+Pyle als am weitesten verbreitete Schätzmethode zur Bestimmung Skelettalters auf
+ihre Eignung für die forensische Altersschätzungspraxis. Zur Untersuchung kamen
+649 Handradiogramme die bei ein bis achtzehnjährigen Patienten gefertigt worden
+waren. Unter Verwendung der Atlasmethode nach Greulich und Pyle konnte mit
+95%iger Erfolgswahrscheinlichkeit bestimmt werden, ob der jeweilige männliche
+Proband das 14. Lebensjahr zum Zeitpunkt der Untersuchung erreicht hatte. Für
+weibliche Probanden ließ sich diese Aussage nicht mit der erforderlichen
+Irrtumswahrscheinlich treffen. Die Autoren empfehlen daher, zur Erhöhung der
+Aussagesicherheit die Anwendung der Atlasmethode nach Greulich und Pyle mit
+einer körperlichen Untersuchung mit Bestimmung der sexuellen Reifezeichen und
+einer zahnärztlichen Untersuchung der/ des Betreffenden zu kombinieren.
+Schmidt et al. (2008b) überprüften retrospektiv die Eignung der Methode zur
+Schätzung des Skelettalters nach Tanner und Whitehouse hinsichtlich ihrer Eignung
+für
+
+die
+
+forensische
+
+Altersschätzungsroutine.
+
+Untersucht
+
+wurden
+
+die
+
+Handröntgenaufnahmen von 48 Jungen und 44 Mädchen im Alter von 12 bis 16
+Jahren. Die Anwendung der TW2- Methode führte in der forensisch relevanten
+13
+
+Altersgruppe von 14 bis 16 Jahren zu einer Differenz zwischen skelettalem und
+chronologischem Alter von -0,1 bis +1,4 Jahren. Bei Anwendung der TW3- Methode
+betrug diese Differenz -0,4 bis +0,2 Jahre. Wegen des Risikos einer tendenziellen
+Überschätzung
+
+wurde
+
+die
+
+TW-
+
+Methode
+
+von
+
+den
+
+Autoren
+
+als
+
+für
+
+die
+
+Altersschätzungspraxis ungeeignet klassifiziert und die Anwendung der TW3Methode empfohlen.
+Forensisch-odontologische Untersuchung. Der Umfang der für die forensischodontologische
+
+Untersuchung
+
+des
+
+Betreffenden
+
+zur
+
+Verfügung
+
+stehenden
+
+Untersuchungsmethoden hängt naturgemäß vom juristischen Untersuchungsanlass
+ab.
+
+Grundsätzlich
+
+kommt
+
+im
+
+Jugend-
+
+und
+
+jungen
+
+Erwachsenenalter
+
+den
+
+entwicklungsbiologischen Merkmalen Zahndurchbruch und Zahnmineralisation die
+größte forensische Bedeutung zu. Unter Zahndurchbruch soll der Zeitpunkt
+verstanden werden, an dem die Spitze des Zahns die Gingiva penetriert. Die
+Diagnose erfolgt durch Inspektion der Mundhöhle. Mit Ausnahme der dritten Molaren
+sind die Zähne des Dauergebisses im Durchschnitt etwa bis zum 12. Lebensjahr
+durchgebrochen. Die dritten Molaren brechen (zumindest in europiden Populationen)
+erst nach dem 17. Lebensjahr durch (Müller 1983). Nach weiteren zwei bis vier
+Jahren
+
+wird
+
+die
+
+Kauebene
+
+erreicht
+
+(Berkowitz
+
+und
+
+Bass
+
+1976).
+
+Die
+
+Zahnmineralisation wird anhand einer Übersichtsaufnahme der Gebissregion, dem
+so genannten Orthopantomogramm, beurteilt. Die Mineralisation beginnt mit der
+Bildung der Zahnkrone an der späteren Kaufläche und setzt sich dann über den
+Zahnhals zur Wurzel hin fort. Mit Abschluss der Wurzelbildung ist das
+Zahnwachstum, abgesehen von späteren Zementanlagerungen im Wurzelbereich,
+abgeschlossen. Lange war ungeklärt, inwiefern die ethnische Zugehörigkeit des zu
+Untersuchenden den zeitlichen Verlauf der Mineralisation und Eruption der Zähne
+und hier insbesondere der Weisheitszähne, als am längsten in der Entwicklung
+befindliche
+
+Zähne
+
+beeinflusst
+
+und
+
+inwieweit
+
+die
+
+für
+
+die
+
+Altersdiagnosen
+
+gebräuchlichen Referenzdaten, die an weißen Nordamerikanern sowie Mittel- und
+Nordeuropäern gewonnen worden sind, auch für Angehörige anderer ethnischer
+Gruppen verwendet werden können. Zwischenzeitlich wurde eine Anzahl von
+Studien vorgelegt, welche ethnische Unterschiedliche hinsichtlich des zeitlichen
+Durchlaufens der verschiedenen Stadien der Weisheitszahnmineralisation und eruption beschreiben (Olze et al. 2004d, Olze et al. 2007). Nach Auffassung der
+
+14
+
+Autorin besteht in der Literatur Konsens über die Notwendigkeit der Verwendung
+populationsspezifischer Standards in der Altersschätzungspraxis.
+Olze et al. (2004a, 2004b, 2004c) untersuchten darüber hinaus, inwieweit anhand
+eines
+
+Orthopantomogramms
+
+ein
+
+klinisch
+
+bedeutsamer
+
+Parameter,
+
+wie
+
+der
+
+Ausprägungsgrad des parodontalen Knochenabbaus oder der DMF-Index, zur
+Altersschätzung herangezogen werden kann und Aussagen zur Vollendung des 21.
+Lebensjahres erlaubt. Gingiva, Wurzelzement, periodontales Ligament (Desmodont)
+und
+
+Alveolenkortikalis
+
+bilden
+
+den
+
+Zahnhalteapparat
+
+(Parodontium).
+
+Die
+
+Parodontalerkrankungen umfassen Veränderungen an diesen Strukturen. Mit
+zunehmendem Lebensalter gewinnen atrophische und degenerative Veränderungen
+am Parodontium an Bedeutung (Henning 1989). Ferner unterliegt das Pulpa- DentinSystem fortschreitenden biomorphotischen Veränderungen (Zuhrt 1991), welche das
+umliegende
+
+Parodontium
+
+beeinflussen
+
+können.
+
+Darüber
+
+hinaus
+
+bedingen
+
+entzündliche Veränderungen des Parodontiums einen entsprechenden Abbau der
+parodontalen Gewebe. Gingivitis und Parodontitis sind Ausdruck der entzündlichen
+Reaktion des Parodonts, ausgelöst durch supra- und vor allem subgingivale Plaques,
+die in unmittelbarer Umgebung zu den parodontalen Geweben direkten Einfluss auf
+diese ausüben. Die Metaboliten der Plaque bauen wichtige Bestandteile der
+Interzellulärsubstanz, wie Kollagen, Hyaluronsäure und Chondroitinsulfat, ab.
+Endotoxine
+
+aktivieren
+
+das
+
+Komplementsystem
+
+und
+
+induzieren
+
+eine
+
+akute
+
+Inflammation; dadurch zerstören und lockern sie das dichte epitheliale und
+bindegewebige Gefüge auf und schädigen die Zellen des Wirts (Flores De Jacobi
+1987). Die Permeabilität des Saumepithels nimmt zu, dadurch wird die Passage
+entzündungsfördernder
+
+Stoffwechselprodukte
+
+der
+
+Plaque
+
+in
+
+tiefere
+
+Gewebeabschnitte begünstigt. Es kommt zu einem Attachmentverlust, der klinischröntgenologisch durch Taschenbildung ohne beziehungsweise mit Gingivarezession
+und Knochenabbau manifest wird (Merte 1992). Referenzbereiche für den Grad des
+Befestigungsverlustes sind Schmelz-Zement-Grenze und klinischer Taschenfundus
+beziehungsweise röntgenographische Knochengrenze.
+Olze
+
+et
+
+al.
+
+(2004b)
+
+untersuchten
+
+insgesamt
+
+650
+
+konventionell
+
+gefertigte
+
+Orthopantomogramme von deutschen Personen im Alter von 18 – 30 Jahren. Pro
+Altersgruppe wurden jeweils 25 Aufnahmen von männlichen und weiblichen
+Probanden ausgewertet. Der parodontale Knochenabbau wurde an den zweiten
+Prämolaren aller vier Quadranten bestimmt. Berücksichtigt wurden nur karies- und
+15
+
+restaurationsfreie Zähne. Hierzu wurde eine vierstufige Stadieneinteilung verwendet.
+Die Stadien wurden folgendermaßen definiert:
+
+•
+
+Stadium 0:
+
+Kein Knochenabbau
+
+•
+
+Stadium 1:
+
+Beginnender Knochenabbau, wobei weniger als die
+Hälfte des ersten Wurzeldrittels betroffen ist
+
+•
+
+Stadium 2:
+
+Fortgeschrittener Knochenabbau, wobei bis zu
+einem Drittel der Wurzellänge betroffen ist
+
+•
+
+Stadium 3:
+
+Erheblicher Knochenabbau, wobei mehr als ein
+Drittel der Wurzellänge betroffen ist
+
+Olze et al. (2004b) geben an, dass ein zunehmender parodontaler Knochenabbau
+gut mit einem Altersanstieg der untersuchten Probanden korreliere. Es ließ sich bei
+beiden Geschlechtern ganz überwiegend ein Anstieg der Mediane mit zunehmendem
+Stadium feststellen. Insbesondere in den mittleren Stadien waren beträchtliche
+Streubreiten zu verzeichnen. So lagen die Interquartilabstände in den Stadien 1 und
+2 zwischen drei und acht Jahren; in diesen Stadien ergaben sich Spannweiten
+zwischen zehn und zwölf Jahren. Ab dem Stadium 1 betrugen die Mediane für alle
+untersuchten Zähne und beide Geschlechter mindestens 21 Jahre. Bei einem
+nachweisbaren parodontalen Knochenabbau war bei den Probanden somit die
+Vollendung des 21. Lebensjahrs überwiegend wahrscheinlich. Ein unteres Quartil
+von mindestens 21 Jahren trat regelmäßig ab dem Stadium 2 auf, das heißt 75% der
+Untersuchten mit einem fortgeschrittenen parodontalen Knochenabbau waren
+mindestens 21 Jahre alt. Ein Stadium 3 wurde in der untersuchten Stichprobe bei
+Männern frühestens mit 25 Jahren festgestellt. Es handelte sich hierbei aber um ein
+seltenes Ereignis (3,7% der Fälle). Bei den untersuchten Frauen trat das Stadium 3
+vereinzelt bereits mit 20 Jahren auf. Als Ursache für die in der vorliegenden
+Untersuchung
+
+festgestellte,
+
+nicht
+
+unbeträchtliche
+
+interindividuelle
+
+Variation
+
+hinsichtlich der Ausprägung des parodontalen Knochenabbaus ist die multifaktorielle
+Genese der Parodontopathien zu diskutieren, wobei auch den Umweltfaktoren eine
+beträchtliche Rolle zukommt. So sind für die Ausbildung von Parodontopathien
+neben genetisch determinierten Immundefekten, systemischen Erkrankungen und
+Viren auch bestimmte Gewohnheiten, wie der allgemeine Umgang mit Gesundheit,
+Rauchen, Alkoholkonsum und Medikationen, das soziale Umfeld sowie psychische
+16
+
+Faktoren maßgeblich (Reichart 2000). Unter den vermeidbaren Risiken von
+Parodontalerkrankungen steht der Tabakkonsum an erster Stelle (Rataitschak 2004).
+So zeigten mehrere kontrollierte Studien bei Rauchern größere Werte klinischer
+Parameter, wie sondierbare Taschentiefe, Attachment- Verlust, Pusaustritt und
+Furkationsbefall (Brunnemann und Hoffmann 1981, Bergström und Preber 1994,
+Brochut und Cimasoni 1997, Salvi et al. 1997, Bergstrom 2004, Tanaka et al. 2005).
+Die Risikoabschätzung zeigte ein 2- bis 14fach erhöhtes Risiko des Rauchers im
+Vergleich zum Nichtraucher für Zahnfleischentzündungen und ein 2,5- bis 6fach
+erhöhtes Risiko für Parodontalerkrankungen (Liebrecht 2002). Auch die individuelle
+Mundhygiene hat
+
+einen großen Einfluss
+
+auf
+
+die Ausbildung parodontaler
+
+Erkrankungen. So führt die tägliche, gründliche aber schonende, systematische
+Plaqueentfernung durch Zähneputzen zu einer Reduzierung des Parodontitisrisikos
+(Lang et al. 1998). Der Einfluss von Umweltfaktoren, wie Rauchen und Mundhygiene,
+erklärt die beträchtliche interindividuelle Variation bei der Ausprägung des
+parodontalen Knochenabbaus. Zusammenfassend konnten die Autoren feststellen,
+dass ein zunehmender parodontaler Knochenabbau in der untersuchten Stichprobe
+gut mit einem Altersanstieg der Probanden korrelierte und somit als ergänzendes
+Kriterium der forensischen Altersdiagnostik im jungen
+
+Erwachsenenalter gelten
+
+kann. Es blieb jedoch unklar, ob die in der vorliegenden Arbeit präsentierten
+Referenzwerte auch auf Personen anderer ethnischer Zugehörigkeit übertragbar
+sind. Bei einem beginnenden parodontalen Knochenabbau (Stadium 1) war die
+Hälfte der Untersuchten mindestens 21 Jahre alt. 75% der Untersuchten mit einem
+fortgeschrittenen
+Lebensjahr
+
+parodontalen
+
+vollendet.
+
+Alle
+
+Knochenabbau
+
+männlichen
+
+(Stadium
+
+Probanden
+
+mit
+
+2)
+
+hatten
+
+einem
+
+das
+
+21.
+
+erheblichen
+
+Knochenabbau (Stadium 3) waren deutlich älter als 21 Jahre, wobei dieses Stadium
+in der untersuchten Altersgruppe nur selten vorkam.
+Der DMF-Index zur Kennzeichung der Kariesprävalenz einer Bevölkerung wurde
+erstmals von Klein et al. (1938) beschrieben. Der DMF-S- beziehungsweise DMF-TIndex beschreibt die Anzahl von Zahnflächen (Surfaces) beziehungsweise der Zähne
+(Teeth) im bleibenden Gebiss, die zerstört (Decayed), aufgrund von Karies extrahiert
+(Missing) oder gefüllt (Filled) wurden. In den bislang vorliegenden Untersuchungen
+wurde der DMF-Index klinisch durch Inspektion der Mundhöhle erhoben. Bei der
+radiologischen Bestimmung des DMF-Index sind, insbesondere in Bezug auf die DKomponente, Abweichungen vom klinischen Befund möglich. Hier kann der D-Faktor
+17
+
+unter Berücksichtigung der Größe der Kariesläsion in die Untergruppen D1 bis D4
+aufgeteilt
+
+werden.
+
+Zahnhalsdefekte
+
+Klinisch
+nicht
+
+Approximalraumkaries
+
+auf
+
+sind
+
+oftmals
+
+eindeutig
+
+initiale
+
+erkennbar.
+
+Röntgenbildern
+
+besser
+
+kariöse
+
+Läsionen
+
+Andererseits
+sichtbar.
+
+ist
+
+Zwar
+
+ist
+
+oder
+die
+die
+
+röntgenologische Bestimmung der M-Komponente problemlos möglich, da jedoch in
+der Regel keine anamnestischen Angaben vorliegen, muss offen bleiben, aus
+welchen Gründen die betreffenden Zähne fehlen. Als Extraktionsgründe kommen
+neben
+
+Kariesbefall
+
+auch
+
+eine
+
+traumatische
+
+oder
+
+iatrogene
+
+Schädigung,
+
+kieferorthopädische Erwägungen oder Parodontopathien in Betracht. Ferner sind
+nicht angelegte Zähne als fehlend zu werten. Als Ausdruck der Kariesprävalenz ist
+die M-Komponente aber nur aussagekräftig, wenn sie ausschließlich diejenigen
+Zähne erfasst, die infolge Karies verloren gegangen sind.
+Friedrich et al. (2003a, 2003b) gingen der Frage nach, ob die Anzahl kariöser oder
+gefüllter Weisheitszähne Rückschlüsse auf die Vollendung des 18. Lebensjahrs
+zulässt. Sie untersuchten die Orthopantomogramme von 1053 Probanden der
+Altersgruppe 14- 24 Jahre. Ein statistisch gesicherter Zusammenhang zwischen der
+Anzahl der kariösen Zähne und dem chronologischen Alter ließ sich für die
+untersuchte Altersgruppe nicht herstellen. Aus dem Nachweis von Füllungen der
+Weisheitszähne wurden hingegen hohe positive prädiktive Werte abgeleitet. So liege
+der positive prädiktive Wert für einen gefüllten Zahn 28 bei 95,56% und für einen
+gefüllten Zahn 38 sogar bei 100%. In Anbetracht der geringen Prävalenz der
+gefüllten Weisheitszähne in der untersuchten Stichprobe (4,7– 6,1%) sollte dieses
+Ergebnis nach Ansicht der Autoren zurückhaltend interpretiert werden, zumal es
+sachlogisch nur schwer nachvollziehbar erscheint, warum gefüllte Weisheitszähne
+die Vollendung des 18. Lebensjahrs wesentlich wahrscheinlicher machen als kariöse
+Weisheitszähne, ist doch der kariöse Befall eines Zahns die Voraussetzung für seine
+konservierende Versorgung.
+Olze
+
+et
+
+al.
+
+(2004a)
+
+haben
+
+insgesamt
+
+650
+
+konventionell
+
+gefertigte
+
+Orthopantomogramme von je 325 männlichen und weiblichen Deutschen mit
+gesicherten Geburtsdaten im Alter von 18–30 Jahren untersucht. Pro Altersgruppe
+wurden jeweils 25 Aufnahmen von männlichen und weiblichen Probanden
+ausgewertet. Anhand der Orthopantomogramme wurden der DMF-T-Index unter
+Einbeziehung aller bleibenden Zähne sowie der DF-T-Index der in der Kauebene
+befindlichen Weisheitszähne bestimmt. Es erfolgte eine statistische Auswertung mit
+18
+
+dem Programm SPSS für Windows. Ein Vergleich der präsentierten Ergebnisse mit
+den vorliegenden klinischen Studien war wegen der nur bedingt spezifizierbaren MKomponente des DMF-Index lediglich eingeschränkt möglich, da keine gesicherten,
+anamnestischen Angaben der Patienten vorlagen. In mehreren klinischen Arbeiten,
+die
+
+allerdings
+
+zumeist
+
+in
+
+größere
+
+Altersgruppen
+
+unterteilten,
+
+wurde
+
+eine
+
+kontinuierliche Zunahme des DMFT-Index mit dem Lebensalter beschrieben
+(Amrhein 1967, Sheiham und Hobdell 1969, Crossner und Unell 1996, Glöckner
+1971, Friedrich et al. 2003a). Gemäß den Ergebnissen von Olze et al. (2004a) geht
+eine Zunahme des DMFT-Index nicht mit einem stetigen Zuwachs der Mittelwerte
+beziehungsweise Mediane einher, wobei auf die zum Teil geringen Fallzahlen
+hinzuweisen ist. Die Mittelwerte beziehungsweise Mediane liegen ab einem DMFTIndex von 7 für beide Geschlechter bei mindestens 21 Jahren. Die hohen
+Streubreiten führen jedoch dazu, dass es selbst bei einem DMFT-Index von 27
+Probanden gibt, die das 21. Lebensjahr nicht erreicht haben. Neben dem DMFTIndex aller bleibenden Zähne wurde von den Autoren zusätzlich der DFT- Index der
+Weisheitszähne bestimmt. Für die männlichen Probanden konnte ein Anstieg der
+Mittelwerte beziehungsweise Mediane mit zunehmendem Weisheitszahn -DFT- Index
+festgestellt werden. Für das weibliche Geschlecht war ein solcher Trend nur für die
+DFT- Indizes 0,1 und 2 zu verzeichnen. Auch für den DFT- Index der dritten Molaren
+waren die Spannweiten beträchtlich. So umfassten sie für die Indizes 0, 1, 2 und 3
+bei beiden Geschlechtern nahezu den gesamten untersuchten Altersbereich. Nur bei
+einem DFT- Index von 4 (alle Weisheitszähne wiesen kariöse Läsionen oder
+Füllungen auf) waren alle untersuchten Probanden mindestens 21 Jahre alt. In der
+untersuchten Stichprobe war diese Konstellation allerdings sehr selten. Nur sechs
+Männer und neun Frauen wiesen einen Weisheitszahn- DFT- Index von 4 auf. Als
+Ursache für die geringe Korrelation der untersuchten DMF-Index-Varianten mit dem
+Lebensalter
+
+ist
+
+der
+
+große
+
+Einfluss
+
+von
+
+Ernährungsgewohnheiten
+
+und
+
+kariesprophylaktischen Maßnahmen auf den individuellen Kariesbefall zu diskutieren.
+Die Zahnkaries ist ein exogener Prozess und wird durch bestimmte Einflüsse der
+Umgebung des Zahnes hervorgerufen. Karies entsteht, wenn die Mikroorganismen
+der Plaque bei einer zuckerreichen Ernährung über eine längere Zeitspanne auf die
+Zähne einwirken können. Zusätzlich fördern oder verringern disponierende Einflüsse,
+wie die Speichelzusammensetzung und die Resistenz der Zahnsubstanzen, die
+Erkrankungswahrscheinlichkeit. Die Ernährungsgewohnheiten haben sich in den
+19
+
+westlichen Industrienationen in den letzten 150 Jahren geändert. Mit der Zunahme
+des Zuckerkonsums kam es zu einem deutlichen Anstieg der Karies. Für die
+Zahngesundheit ist jedoch nicht nur eine vermehrte Zuckeraufnahme problematisch,
+sondern auch eine konstante und regelmäßige Zufuhr säurehaltiger Nahrungsmittel.
+Gegenwärtig kann vor allem bei Jugendlichen und jungen Erwachsenen eine
+Geschmacksbevorzugung saurer Getränke und Lebensmittel festgestellt werden
+(Willershausen et al. 2003). Besonders die enorme Zunahme des SoftdrinkVerbrauchs
+
+ist
+
+hier
+
+zu
+
+erwähnen.
+
+Diese
+
+Getränke
+
+enthalten
+
+zur
+
+Geschmacksverstärkung diverse Fruchtsäuren, als Antioxidanz Ascorbinsäure, als
+Konservierungsmittel Benzoesäure und Kohlensäure zur Gasbildung. Außerdem
+haben die Verhaltensweisen nach der Aufnahme säurehaltiger Getränke Bedeutung
+für die Zahngesundheit. Kommt es unmittelbar nach der Säurezufuhr zur
+mechanischen Bearbeitung der Zähne durch kräftiges Zähneputzen, starkes Kauen
+von
+
+abrasiven
+
+säurebedingt
+
+Lebensmitteln
+angelöste
+
+oder
+
+Zahnareale
+
+heftiges
+schnell
+
+Kaugummikauen,
+
+so
+
+können
+
+abgetragen
+
+werden.
+
+Als
+
+kariesprophylaktische Maßnahmen sind neben einer zucker- und säurearmen
+Ernährung regelmäßige Zahnpflege sowie der Zusatz von Fluoriden zum
+Trinkwasser, zu Nahrungsstoffen (zum Beispiel Kochsalz und Milch) oder zu
+Zahnpflegemitteln zu nennen. Im Ergebnis der Fluoridgabe wird die Demineralisation
+des Zahnschmelzes gehemmt. Dieser wird dadurch widerstandfähiger gegen Säuren,
+die bei Karies und Erosion auf ihn wirken. Zusammenfassend wurde von den Autoren
+festgestellt, dass die untersuchten DMF- Index- Varianten als Kriterium der
+Altersdiagnostik in Bezug auf die Vollendung des 21. Lebensjahrs aufgrund ihrer
+geringen Alterskorrelation und der erheblichen interindividuellen Streubreiten als
+ungeeignet erscheinen.
+Darüber hinaus überprüften Olze et al. (2004c), ob durch die kombinierte Beurteilung
+verschiedener röntgenmorphologischer Merkmale der zahnärztlichen Altersdiagnostik
+bei Erwachsenen forensisch verwertbare Aussagen zum Abschluss des 21.
+Lebensjahrs erlaubt sind. Bei den untersuchten Merkmalen handelt es sich den
+DMFT-Index aller bleibenden Zähne, den DMFT-Index aller bleibenden Zähne mit
+Ausnahme der Weisheitszähne, den DFT- Index der in der Kauebene befindlichen
+Weisheitszähne, die Weisheitszahneruption sowie den parodontalen Knochenabbau
+der zweiten Prämolaren. Zur Untersuchung kamen insgesamt 650 konventionell
+gefertigte Orthopantomogramme von Deutschen mit gesicherten Altersangaben im
+20
+
+Alter von 18– 30 Jahren. Pro Altersgruppe wurden jeweils 25 Aufnahmen von
+männlichen und weiblichen Probanden ausgewertet. Es wurden der DMFT-Index
+aller bleibenden Zähne, der DMFT-Index aller bleibenden Zähne mit Ausnahme der
+Weisheitszähne sowie der DFT- Index der in der Kauebene befindlichen
+Weisheitszähne bestimmt.
+Für die Beurteilung der Weisheitszahneruption wurde folgende Stadieneinteilung
+verwendet:
+•
+
+Stadium 0:
+
+Bedeckung der Okklusalfläche mit alveolärem
+Knochen
+
+•
+
+Stadium 1:
+
+Alveolärer Durchbruch, die halbe Kronenlänge des
+zweiten Molaren ist nicht erreicht
+
+•
+
+Stadium 2:
+
+Mindestens die halbe Kronenlänge des zweiten
+Molaren ist erreicht, die Kauebene ist nicht erreicht
+
+•
+
+Stadium 3:
+
+Die Kauebene ist erreicht, keine Elongation
+
+•
+
+Stadium 4:
+
+Elongation
+
+Von der Untersuchung ausgeschlossen waren retinierte Weisheitszähne. Als retiniert
+galten mesio- und distoangulierte beziehungsweise vestibulo- oral angulierte dritte
+Molaren (Archer 1955, Wolf und Haunfelder 1960). Weisheitszähne, deren
+Durchbruchsrichtung nicht eindeutig bestimmbar war, wurden nicht berücksichtigt.
+Der parodontale Knochenabbau wurde an den zweiten Prämolaren aller vier
+Quadranten analog zur Einzelbestimmung bestimmt, wobei zur Beurteilung des
+parodontalen
+berücksichtigt
+
+Knochenabbaus
+wurden.
+
+Die
+
+nur
+
+karies-
+
+statistische
+
+und
+
+restaurationsfreie
+
+Auswertung
+
+erfolgte
+
+Zähne
+mittels
+
+Diskriminanzanalyse. Diese wurde mit zwei Klassen durchgeführt, die durch die
+beiden Altersgruppen ≤21 Jahre und >21 Jahre definiert waren. Zur Einschätzung
+der möglichen Fehlklassifikation wurde die leaving- one- out Fehlerschätzmethode
+verwendet, welche den Fehler für ein Individuum unbekannter Klassenzugehörigkeit
+bei Verwendung der mit dem Verfahren ermittelten Entscheidungsregel, schätzt
+(Wernecke 1995). 69,7% der Fälle wurden also korrekt klassifiziert beziehungsweise
+die Wahrscheinlichkeit einer richtigen Klassenzuordnung beträgt 69,7%. 71,4% der
+Fälle wurden also korrekt klassifiziert beziehungsweise die Wahrscheinlichkeit einer
+richtigen Klassenzuordnung beträgt 71,4%. Als Ursache für die nur mäßige
+Wahrscheinlichkeit der richtigen Klassenzuordnung diskutierten Olze et al. (2004c)
+21
+
+die nur geringe genetische Determinierung der untersuchten epidemiologischen
+Merkmale und die starke Beeinflussung durch Umweltfaktoren. Olze et al. (2004c)
+sahen die kombinierte Bestimmung der DMF-T- Index- Varianten, des parodontalen
+Knochenabbaus
+
+sowie
+
+der
+
+Weisheitszahneruption
+
+anhand
+
+von
+
+Orthopantomogrammen als ergänzendes Kriterium der forensischen Altersdiagnostik
+bei jungen Erwachsenen als geeignet. Durch alleinige Bestimmung der untersuchten
+Merkmale ist allerdings eine Aussage zur Vollendung des 21. Lebensjahres mit der
+im Strafverfahren erforderlichen Wahrscheinlichkeit nicht möglich.
+Rechtsgrundlagen. Die juristischen Anlässe für Lebensaltersschätzungen können
+vielfältiger Art sein. In Strafsachen regelt § 81a der Strafprozessordnung (StPO) die
+Ermächtigung für die Durchführung körperlicher Untersuchungen und Eingriffe (zu
+letzteren ist auch die Anwendung von Röntgenstrahlen zu zählen).
+Die im Verlauf von Strafverfahren zu untersuchenden Personen sind Ausländer ohne
+gültige Ausweispapiere, die ihr Alter mutmaßlich falsch angeben und deren Alter von
+juristischer Bedeutung ist. Die juristisch relevanten Altersgrenzen im Strafverfahren
+betreffen in Deutschland das 14., 18. und 21. Lebensjahr. Die Vollendung des 14.
+Lebensjahrs
+
+ist
+
+für
+
+die
+
+Frage
+
+der
+
+Strafmündigkeit
+
+entscheidend
+
+(§19
+
+Strafgesetzbuch). Es gilt als unwiderlegbare Behauptung, dass ein Kind unter 14
+Jahren generell schuldunfähig und damit strafunmündig ist, also in jedem Fall - trotz
+Erfüllung eines Straftatbestandes - straflos bleibt. Für die Frage der Anwendbarkeit
+von Erwachsenen- beziehungsweise Jugendstrafrecht sind die Altersgrenzen 18 und
+21 Jahre von Belang. Nach §1 Jugendgerichtsgesetz gilt als Jugendlicher, wer zur
+Zeit der Tat 14, aber noch nicht 18 Jahre alt ist. Bei Jugendlichen ist das
+Jugendstrafrecht anzuwenden. Bei Heranwachsenden muss darüber hinaus
+festgestellt werden, ob die Gesamtwürdigung der Persönlichkeit ergibt, dass der
+Betroffene nach seiner sittlichen und geistigen Entwicklung noch einem Jugendlichen
+gleichsteht beziehungsweise es sich nach der Art, den Umständen oder
+Beweggründen der
+Jugendstrafrecht
+
+gilt
+
+Tat
+
+um
+
+–
+
+oder
+
+eine Jugendverfehlung handelt
+ob
+
+das
+
+allgemeine
+
+– und
+
+damit
+
+„Erwachsenen-Strafrecht“
+
+anzuwenden ist (Kaatsch 2001). Mit Vollendung des 21. Lebensjahres wird
+grundsätzlich die volle strafrechtliche Verantwortlichkeit des Täters festgelegt.
+Im Bürgerlichen Recht (BGB) betreffen Altersschätzungen Vormundschafts-,
+Pflegschafts- oder Ergänzungspflegschafts- Angelegenheiten, welche sich nur auf
+
+22
+
+Minderjährige beziehen. Mit Vollendung des 18. Lebensjahres tritt gemäß § 2 BGB
+Volljährigkeit ein, womit Vormundschaften oder Pflegschaften entfallen.
+Im Verwaltungsrecht interessiert die Altersgrenze von 16 Jahren bei Asylverfahren,
+weil nach ihrem Erreichen Betroffene gemäß Ausländergesetz (AuslG) und
+Asylverfahrensgesetz (AsylVfg) als selbstständig handlungsfähig gelten und
+demzufolge in Sammelunterkünften anstelle von Einrichtungen der Jugendhilfe
+unterzubringen sind.
+Im Zivilrecht wie im Asylverfahrensrecht bestehen in Deutschland keinerlei
+Ermächtigungsgrundlagen für die zwangsweise Durchführung von Alterschätzungen.
+Schließlich kann bei älteren Arbeitnehmern bei Fehlen von amtlichen Urkunden über
+das Geburtsdatum die Erreichung des Rentenalters Gegenstand der Begutachtung
+sein.
+
+23
+
+4. Grundlagen der Zahnmineralisation
+Lehmann und Hellwig (1993) geben einen Überblick über den Prozess der
+Zahnbildung: Von den drei embryonalen Keimblättern (Entoderm, Ektoderm und
+Mesoderm) ist lediglich das Ektoderm an der Bildung des Zahnes beteiligt. Vom
+Kopfmesenchym, das sich von der Neuralleiste ableitet, werden das Dentin, das
+Wurzelzement, die Pulpa und der Zahnhalteapparat gebildet. Vom Kopfektoderm
+stammen der Schmelz und das Mundhöhlenepithel ab. Nach der Bildung der
+primären Mundhöhle wächst das Epithel der die Mundhöhle begrenzenden
+Gesichtsfortsätze beim etwa sechs Wochen alten Keimling in die Tiefe und bildet
+eine Epithelleiste. In der 7. Embryonalwoche verzweigt sich diese Epithelleiste: Es
+entstehen eine Zahnleiste und eine Vestibularleiste. Durch die Aufspaltung der
+Vestibularleiste zur Vorhofsfurche entstehen die Lippen und der Mundvorhof. Die
+Weiterentwicklung der Zahnleiste führt zu Verdickungen, den Schmelzknoten. Jeder
+Schmelzknoten stellt die Anlagen für einen Zahn dar. Im zweiten bis dritten
+Embryonalmonat beginnen sich die Schmelzknoten einzudellen und bilden sog.
+Schmelzglocken.
+
+An
+
+der
+
+Schmelzglocke
+
+entsteht
+
+eine
+
+Verdichtung
+
+aus
+
+mesenchymalem Gewebe, die so genannte Zahnpapille. Bei der Schmelzglocke
+unterscheidet man ein inneres und ein äußeres Schmelzepithel. Darin eingebettet
+liegt ein lockeres, netzartiges, gefäßfreies epitheliales Gewebe, die Schmelzpulpa.
+Im dritten und vierten Embryonalmonat differenziert das innere Schmelzepithel einen
+einreihigen Zellsaum, den Adamantoblastensaum. An ihn wird vom Bindegewebe her
+ebenfalls ein einreihiger Zellsaum, der Odontoblastensaum, angelagert. Aus dem
+inneren Schmelzepithel entsteht der Schmelzmantel des Zahnes, während von der
+Zahnpapille bzw. dem Odontoblastensaum das Dentin gebildet wird. In dieser
+Entwicklungsphase teilt sich die primäre Zahnleiste und bildet eine Ersatzzahnleiste.
+Von der primären Zahnleiste stammen die Milchzähne und die bleibenden Zähne 6
+bis 8 ab. Die bleibenden Molaren werden daher als Zuwachszähne bezeichnet. Die
+Ersatzzahnleiste bildet die bleibenden Zähne 1 bis 5 (Ersatzzähne).
+Vom Odontoblastensaum aus wird nun Dentin in Form von Prädentin abgelagert, das
+anschließend verkalkt. An das Prädentin wird von den Adamantoblasten Schmelz in
+zunächst unverkalkter Form ausgeschieden. Durch die Abscheidung des Schmelzes
+wird die Schmelzpulpa immer mehr eingeengt, bis sie mit dem Abschluss der
+Schmelzbildung vollständig verschwindet und das innere und äußere Schmelzepithel
+miteinander verkleben. Mit der Bildung des Dentins wird auch die Zahnpapille immer
+24
+
+weiter reduziert, bis sie schließlich die Zahnpulpa bildet. Bereits während der Bildung
+der Zahnkrone setzt die Wurzelbildung ein. Dazu verlängern sich das äußere und
+innere Schmelzepithel in einer gemeinsamen Zellschicht nach apikal (Hertwigsche
+Epithelscheide). Gleichzeitig beginnt der Durchtritt der Zahnkrone in Richtung
+Mundhöhle.
+
+Entlang
+
+der
+
+Hertwigschen
+
+Epithelscheide
+
+entstehen
+
+neue
+
+Odontoblasten. Nach der Ablagerung des Wurzeldentins wird die Hertwigsche
+Epithelscheide vom Zahnhals her aufgelöst. Reste davon finden sich noch vereinzelt
+im Desmodont des voll entwickelten Zahnes (Malassezsche Epithelreste). Aus den
+Zellen des Zahnhalteapparates differenzieren sich Zementoblasten, die auf das
+Wurzeldentin Zement ablagern. Beim Durchtritt des Zahnes ist die Wurzel fast
+vollständig ausgebildet. Der Zahnhalteapparat ist angelegt, jedoch noch nicht
+funktionell strukturiert. Das Foramen apicale des Zahnes ist noch weit offen, das
+Pulpencavum hat noch nicht seine endgültige Form. Über spezielle Stadien bei der
+Bildung der Zahnkrone und der Zahnwurzel gibt Schröder (1992) folgende
+detaillierten Angaben: Die Hartsubstanzbildung beginnt nicht an der gesamten
+Grenzfläche zwischen Schmelzorgan und Papille zugleich, sondern inzisal oder
+okklusal. Bei Frontzähnen (Schneide- und Eckzähne) geht die initiale Dentin und
+Schmelzbildung von einem der Mitte der späteren Schneidekante oder Höckerspitze
+entsprechenden Zentrum aus und breitet sich von dort sowohl in labiolingualer wie
+mesiodistaler Richtung aus. Bei Seitenzähnen der 1. und 2. Dentition beginnt die
+Hartsubstanzbildung in zeitlich gestaffelter Folge separat über jedem Pulpenhorn,
+bzw. in Bereichen der späteren Höckerspitzen. Erst im Laufe der weiteren
+Vergrößerung
+
+und
+
+Vermehrung
+
+der
+
+gebildeten
+
+Dentin-
+
+und
+
+Schmelzlagen
+
+verschmelzen die Zentren miteinander und erfassen schließlich die gesamte
+Okklusalfläche.
+Die Bildung der Zahnwurzel wird von der Hertwigschen Epithelscheide (HES)
+bestimmt. Das zirkuläre Band der HES kann als die Gussform der zukünftigen
+Zahnwurzel angesehen werden. Diese Form bestimmt Größe, Umfang und Gestalt
+der Zahnwurzel und ebenfalls die Anzahl der Wurzeln pro Zahn. Lange bevor das
+Schmelzorgan seine endgültige Größe erreicht hat und in dem Stadium, wenn in den
+Höckerpartien die Schmelz- und Dentinbildung begonnen hat, entstehen aus der
+zervikalen Schlinge, die noch ein Stratum reticulare enthält, quer über die apikale
+Öffnung der Zahnpapille , zungenartige Fortsätze, die sich am zukünftigen Pol der Bioder Trifurkation treffen, fusionieren und damit separate Epithelscheiden für die
+25
+
+getrennt zu formenden Wurzeln entstehen lassen. Diese Epithelzungen wachsen in
+noch unvereinigtem Zustand mit zunehmender Größe des Schmelzorgans, bevor sie
+sich vereinigen und die Dentindecke der Furkation entsteht. Die Anlage der Furkation
+ist also ein Teil der Kronenbildung, die der Wurzelbildung vorangeht. Schröder
+(1992), der seine eigene Methode zur Darstellung der Wachstumslinien in Schmelz
+und Dentin mit anderen Schlüsseldaten zur Dentition und Mineralisation, wie Beginn
+der Hartsubstanzbildung, Abschluss der Kronen- bzw. Wurzelbildung, ergänzt,
+kommt zu folgenden allgemeinen Aussagen hinsichtlich der Entwicklung bleibender
+Zähne: In der Wurzelbildung sind Mädchen den Knaben stets voraus. Matrixbildung
+und Mineralisation von Schmelz und Dentin sind zeitlich sehr eng koordiniert. Der
+Beginn der Matrixbildung ist klinisch nicht vom Beginn der Mineralisation abgrenzbar
+und röntgenologisch nicht zu erfassen. Der 1. Molar solle sowohl im Ober- als im
+Unterkiefer stets vor der Geburt mit der Verkalkung beginnen, etwa zwischen der 28.
+und 32. Lebenswoche. Andererseits kann sich der 2. Prämolar mit 40 – 60
+Lebensmonaten unerwartet spät entwickeln.
+
+26
+
+5. Material und Methode
+Zur Untersuchung kamen 1198 konventionell erstellte Orthopantogramme von 629
+weiblichen und 569 männlichen Deutschen im Alter von 15-40 Jahren welche im
+Zeitraum von 1987 bis 2008 erstellt worden waren.
+Tabelle 1: Alters- und Geschlechtverteilung
+
+Age
+
+Female
+
+Male
+
+15
+
+25
+
+24
+
+16
+
+25
+
+26
+
+17
+
+29
+
+25
+
+18
+
+22
+
+15
+
+19
+
+26
+
+13
+
+20
+
+25
+
+26
+
+21
+
+25
+
+27
+
+22
+
+25
+
+24
+
+23
+
+27
+
+22
+
+24
+
+22
+
+18
+
+25
+
+26
+
+18
+
+26
+
+25
+
+24
+
+27
+
+23
+
+25
+
+28
+
+26
+
+24
+
+29
+
+22
+
+25
+
+30
+
+26
+
+24
+
+31
+
+24
+
+25
+
+32
+
+26
+
+24
+
+33
+
+20
+
+25
+
+34
+
+25
+
+23
+
+35
+
+25
+
+14
+
+36
+
+25
+
+25
+
+37
+
+21
+
+21
+
+38
+
+24
+
+20
+
+39
+
+25
+
+23
+
+40
+
+15
+
+9
+
+Total
+
+629
+
+569
+
+27
+
+Es wurden in jedem Orthopantogramm alle angelegten dritten Molaren hinsichtlich
+des Mineralisationstandes klassifiziert und das Stadium nach Demirjian et al. (1973)
+bestimmt. Bei Vorliegen des Stadiums H nach Demirjian wurden die Merkmale
+Sichtbarkeit der Wurzelkanäle und Sichtbarkeit des Parodontalspalts bestimmt. Die
+Tabellen 2 bzw. 3 und die Abbildungen 3 bzw. 4 zeigen die entsprechenden
+Stadieneinteilungen für diese beiden Merkmale (Olze et al. 2010).
+Tabelle 2: Stadieneinteilung Merkmal Sichtbarkeit Wurzelkanäle (Olze et al. 2010)
+
+W0
+
+Alle vorhandenen Wurzelkanäle bis zur Spitze sichtbar
+
+W1
+
+Ein Kanal reicht nicht mehr zur Wurzelspitze
+
+W2
+
+Zwei Kanäle reichen nicht mehr zur Wurzelspitze, oder ein Kanal in voller
+Länge nicht mehr sichtbar
+
+W3
+
+Zwei Kanäle in voller Länge nicht mehr sichtbar
+
+0
+
+1
+
+2
+
+3
+
+Abbildung 3: Stadieneinteilung Merkmal Sichtbarkeit Wurzelkanäle (Olze et al. 2010)
+
+Tabelle 3: Stadieneinteilung Merkmal Sichtbarkeit Parodontalspalt -PAS- (Olze et. al. 2010)
+
+P0
+
+PAS an beiden Wurzeln in voller Länge sichtbar
+
+P1
+
+PAS zu mehr als der Hälfte an einer Wurzel nicht mehr sichtbar
+
+P2
+
+PAS an einer Wurzel in voller Länge oder an Teilen beider Wurzeln nicht
+mehr sichtbar
+
+P3
+
+PAS an beiden Wurzeln nicht mehr sichtbar
+
+28
+
+0
+
+1
+
+2
+
+3
+
+Abbildung 4: Stadieneinteilung Merkmal Sichtbarkeit Parodontalspalt (Olze et al. 2010)
+
+Es wurden sowohl retinierte und verlagerte 3. Molaren als auch vollständig die
+Kauebene durchgebrochene dritte Molaren untersucht. Ausgeschlossen waren
+gefüllte und/ oder endodontisch behandelte Weisheitszähne.
+Zunächst
+
+wurden
+
+vom
+
+Autor
+
+im
+
+Rahmen
+
+einer
+
+Pilotstudie
+
+100
+
+Orthopantomogramme, welche zufällig ausgewählt worden sind, untersucht.
+Nachfolgend wurden diese 100 Orthopantomogramme von einem erfahrenen
+Untersucher nach begutachtet und die Ergebnisse mit den Ergebnissen des Autors
+abgeglichen.
+Nach erfolgter Kalibrierung erfolgte die Bestimmung der Mineralisations- und
+Eruptionsstadien randomisiert und geblindet, d.h. ohne Kenntnis der Geburts- oder
+Aufnahmedaten.
+
+Erfasst
+
+wurden
+
+Identifizierungsnummer,
+
+Geschlecht
+
+und
+
+Geburtsdatum des jeweiligen Probanden.
+Die statistische Auswertung wurde mit dem Programm SPSS 16.0 für Windows
+wurde durchgeführt.
+
+29
+
+6. Ergebnisse
+Tabelle 4 und 5 zeigen die statistischen Maßzahlen, Minima und Maxima für das
+Merkmal Sichtbarkeit Wurzelkanäle für die männlichen und weiblichen Probanden.
+Überlagerungseffekte mit benachbarten anatomischen Strukturen im Oberkiefer
+erlaubten eine sichere Bestimmung des jeweiligen Stadiums nur für die unteren
+dritten Molaren (Zähne 38 und 48). Die Abbildungen 5 bis 8 veranschaulichen den
+grafischen
+
+Zusammenhang
+
+zwischen
+
+jeweils
+
+erreichtem
+
+Stadium
+
+und
+
+chronologischem Lebensalter.
+Tabelle 4: Statistische Maßzahlen, Minima und Maxima, Merkmal Sichtbarkeit Wurzelkanäle, Zähne
+38 und 48, Geschlecht weiblich
+MW Mittelwert, SA Standardabweichung, UQ unteres Quartil, OQ oberes Quartil
+
+Zahn
+
+Stadium
+
+n
+
+Min
+
+Max
+
+UQ
+
+Median
+
+OQ
+
+MW
+
+SA
+
+38
+
+0
+
+132
+
+17.2
+
+37.4
+
+22.0
+
+24.0
+
+26.8
+
+24.5
+
+3.6
+
+1
+
+15
+
+21.6
+
+36.2
+
+22.8
+
+25.5
+
+31.4
+
+27.3
+
+4.9
+
+2
+
+205
+
+24.7
+
+40.9
+
+29.7
+
+33.1
+
+36.8
+
+33.2
+
+4.3
+
+3
+
+51
+
+25.2
+
+40.5
+
+34.1
+
+36.4
+
+38.8
+
+35.6
+
+3.9
+
+0
+
+134
+
+17.2
+
+40.2
+
+22.1
+
+24.3
+
+26.8
+
+24.7
+
+3.7
+
+1
+
+21
+
+21.9
+
+37.4
+
+26.9
+
+28.9
+
+32.6
+
+29.4
+
+4.1
+
+2
+
+218
+
+23.4
+
+40.5
+
+29.9
+
+33.2
+
+36.7
+
+33.1
+
+4.4
+
+3
+
+54
+
+25.1
+
+40.9
+
+31.6
+
+35.6
+
+38.6
+
+34.9
+
+4.2
+
+48
+
+Tabelle 5: Statistische Maßzahlen, Minima und Maxima, Merkmal Sichtbarkeit Wurzelkanäle, Zähne
+38 und 48, Geschlecht männlich
+MW Mittelwert, SA Standardabweichung, UQ unteres Quartil, OQ oberes Quartil
+
+Zahn
+38
+
+48
+
+Stadium n
+
+Min
+
+Max
+
+UQ
+
+Median
+
+OQ
+
+MW
+
+SD
+
+0
+
+104
+
+17.6
+
+39.1
+
+21.2
+
+22.9
+
+25.7
+
+23.5
+
+3.1
+
+1
+
+13
+
+22.4
+
+40.0
+
+23.2
+
+27.1
+
+30.4
+
+28.1
+
+5.5
+
+2
+
+219
+
+22.3
+
+40.2
+
+28.6
+
+32.1
+
+35.8
+
+32.2
+
+4.4
+
+3
+
+51
+
+25.2
+
+40.6
+
+30.4
+
+34.8
+
+37.0
+
+34.1
+
+3.9
+
+0
+
+102
+
+17.6
+
+38.0
+
+21.0
+
+22.6
+
+24.6
+
+23.5
+
+3.4
+
+1
+
+16
+
+21.0
+
+34.6
+
+23.8
+
+26.3
+
+29.3
+
+26.6
+
+3.7
+
+2
+
+238
+
+22.7
+
+40.5
+
+28.7
+
+32.3
+
+36.3
+
+32.4
+
+4.6
+
+3
+
+53
+
+25.9
+
+40.6
+
+30.6
+
+33.7
+
+38.1
+
+33.9
+
+4.3
+
+30
+
+Geschlecht: w
+45,00
+40,00
+
+errechnetes Alter
+
+35,00
+30,00
+25,00
+20,00
+15,00
+10,00
+5,00
+0,00
+0
+
+1
+
+2
+
+3
+
+38 W
+
+Abbildung 5: Zusammenhang zwischen errechnetem Lebensalter und dem jeweiligen Stadium
+Sichtbarkeit Wurzelkanäle, Geschlecht weiblich, Zahn 38
+
+Geschlecht: m
+45,00
+40,00
+
+errechnetes Alter
+
+35,00
+30,00
+25,00
+20,00
+15,00
+10,00
+5,00
+0,00
+0
+
+1
+
+2
+
+3
+
+38 W
+
+Abbildung 6: Zusammenhang zwischen errechnetem Lebensalter und dem jeweiligen Stadium
+Sichtbarkeit Wurzelkanäle, Geschlecht männlich, Zahn 38
+
+31
+
+Geschlecht: w
+45,00
+40,00
+
+errechnetes Alter
+
+35,00
+30,00
+25,00
+20,00
+15,00
+10,00
+5,00
+0,00
+0
+
+1
+
+2
+
+3
+
+48 W
+
+Abbildung 7: Zusammenhang zwischen errechnetem Lebensalter und dem jeweiligen Stadium
+Sichtbarkeit Wurzelkanäle, Geschlecht weiblich, Zahn 48
+
+Geschlecht: m
+45,00
+40,00
+
+errechnetes Alter
+
+35,00
+30,00
+25,00
+20,00
+15,00
+10,00
+5,00
+0,00
+0
+
+1
+
+2
+
+3
+
+48 W
+
+Abbildung 8: Zusammenhang zwischen errechnetem Lebensalter und dem jeweiligen Stadium
+Sichtbarkeit Wurzelkanäle, Geschlecht männlich, Zahn 48
+
+Tabelle 6 und 7 zeigen die statistischen Maßzahlen, Minima und Maxima für das
+Merkmal Sichtbarkeit Parodontalspalt für die männlichen und weiblichen Probanden.
+Überlagerungseffekte mit benachbarten anatomischen Strukturen im Oberkiefer
+32
+
+erlaubten auch hier eine sichere Bestimmung des jeweiligen Stadiums nur für die
+unteren dritten Molaren (Zähne 38 und 48). Die Abbildungen 9 bis 12
+veranschaulichen den grafischen Zusammenhang zwischen jeweils erreichtem
+Stadium und chronologischem Lebensalter.
+Tabelle 6: Statistische Maßzahlen, Minima und Maxima, Merkmal Sichtbarkeit Parodontalspalt, Zähne
+38 und 48, Geschlecht weiblich
+MW Mittelwert, SA Standardabweichung, UQ unteres Quartil, OQ oberes Quartil
+
+Zahn
+
+Stadium n
+
+Min
+
+Max
+
+UQ
+
+Median
+
+OQ
+
+MW
+
+SA
+
+38
+
+0
+
+33
+
+17.2
+
+25.2
+
+19.8
+
+20.8
+
+22.5
+
+21.1
+
+1.9
+
+1
+
+37
+
+20.0
+
+28.8
+
+21.9
+
+22.5
+
+23.7
+
+22.9
+
+1.9
+
+2
+
+273
+
+23.1
+
+40.5
+
+27.3
+
+31.3
+
+35.3
+
+31.4
+
+4.8
+
+3
+
+60
+
+25.2
+
+40.9
+
+33.0
+
+37.0
+
+39.0
+
+35.7
+
+4.0
+
+0
+
+39
+
+17.2
+
+24.5
+
+20.2
+
+21.7
+
+23.1
+
+21.5
+
+1.9
+
+1
+
+34
+
+18.9
+
+30.0
+
+21.9
+
+23.0
+
+25.0
+
+23.5
+
+2.3
+
+2
+
+298
+
+22.5
+
+40.6
+
+27.6
+
+31.3
+
+35.3
+
+31.6
+
+4.7
+
+3
+
+55
+
+24.6
+
+40.9
+
+33.7
+
+36.2
+
+38.3
+
+35.4
+
+4.0
+
+48
+
+Tabelle 7: Statistische Maßzahlen, Minima und Maxima, Merkmal Sichtbarkeit Parodontalspalt, Zähne
+38 und 48, Geschlecht männlich
+MW Mittelwert, SA Standardabweichung, UQ unteres Quartil, OQ oberes Quartil
+
+Zahn
+
+Stadium n
+
+Min
+
+Max
+
+UQ
+
+Median OQ
+
+MW
+
+SA
+
+38
+
+0
+
+40
+
+17.6
+
+24.0
+
+20.5
+
+21.3
+
+22.2
+
+21.3
+
+1.3
+
+1
+
+30
+
+20.1
+
+26.4
+
+21.0
+
+22.4
+
+23.6
+
+22.4
+
+1.5
+
+2
+
+253
+
+22.3
+
+40.6
+
+27.3
+
+31.3
+
+34.8
+
+31.3
+
+4.7
+
+3
+
+64
+
+26.2
+
+40.5
+
+30.0
+
+33.8
+
+36.9
+
+33.7
+
+4.0
+
+0
+
+44
+
+17.6
+
+30.3
+
+20.5
+
+21.4
+
+22.4
+
+21.5
+
+1.9
+
+1
+
+25
+
+20.2
+
+24.5
+
+20.8
+
+22.2
+
+23.6
+
+22.2
+
+1.4
+
+2
+
+259
+
+22.3
+
+40.5
+
+27.1
+
+30.7
+
+34.7
+
+31.1
+
+4.8
+
+3
+
+81
+
+25.4
+
+40.6
+
+30.3
+
+34.5
+
+37.8
+
+34.2
+
+4.3
+
+48
+
+33
+
+Geschlecht: w
+45,00
+40,00
+
+errechnetes Alter
+
+35,00
+30,00
+25,00
+20,00
+15,00
+10,00
+5,00
+0,00
+0
+
+1
+
+2
+
+3
+
+38 P
+
+Abbildung 9: Zusammenhang zwischen errechnetem Lebensalter und dem jeweiligen Stadium
+Sichtbarkeit Parodontalspalt, Geschlecht weiblich, Zahn 38
+
+Geschlecht: m
+45,00
+40,00
+
+errechnetes Alter
+
+35,00
+30,00
+25,00
+20,00
+15,00
+10,00
+5,00
+0,00
+0
+
+1
+
+2
+
+3
+
+38 P
+
+Abbildung 10: Zusammenhang zwischen errechnetem Lebensalter und dem jeweiligen Stadium Sichtbarkeit Parodontalspalt-, Geschlecht männlich, Zahn 38
+
+34
+
+Geschlecht: w
+45,00
+40,00
+35,00
+
+errechntes Alter
+
+30,00
+25,00
+20,00
+15,00
+10,00
+5,00
+0,00
+0
+
+1
+
+2
+
+3
+
+48 P
+
+Abbildung 11: Zusammenhang zwischen errechnetem Lebensalter und dem jeweiligen Stadium
+Sichtbarkeit Parodontalspalt, Geschlecht weiblich, Zahn 48
+
+Geschlecht: m
+45,00
+40,00
+
+errechnetes Alter
+
+35,00
+30,00
+25,00
+20,00
+15,00
+10,00
+5,00
+0,00
+0
+
+1
+
+2
+
+3
+
+48 P
+
+Abbildung 12: Zusammenhang zwischen errechnetem Lebensalter und dem jeweiligen Stadium
+Sichtbarkeit Parodontalspalt, Geschlecht männlich, Zahn 48
+
+35
+
+7. Diskussion
+Stand der Literatur zur Weisheitszahnmineralisation und -eruption. Die
+forensische Altersschätzung Lebender steht nach wie vor im Fokus des
+wissenschaftlichen Interesses (Braga et al. 2005, Olze et al. 2005, Paewinsky et al.
+2005, Prieto et al. 2005, Cameriere et al. 2006, Mühler et al. 2006, Schulz et al.2005,
+Schmeling et al. 2006a, Schmeling et al. 2006b, Cameriere et al 2009, Kellinghaus et
+al. 2009, Knell et al. 2009, Olze et al. 2010, Chen et al. 2010)
+Auf dem Gebiet der forensisch-odontologischen Altersdiagnostik bei Lebenden kam
+im Jugend- und jungen Erwachsenenalter dem entwicklungsbiologischen Merkmal
+Weisheitszahnmineralisation
+
+lange
+
+die
+
+größte
+
+forensische
+
+Bedeutung
+
+zu.
+
+Zwischenzeitlich ist das Merkmal Weisheitszahneruption ebenfalls gut untersucht und
+hat anerkannt Einzug in die forensische Altersschätzungspraxis gefunden. Darüber
+hinaus besteht Konsens in der Literatur, dass populationsspezifische Standards und
+Referenzstudien in der Altersschätzungsroutine Anwendung finden sollten.
+Weisheitszahnmineralisation. Zunächst war von wissenschaftlichem Interesse,
+welche Stadieneinteilung valide Aussagen hinsichtlich des erreichten Lebensalters
+ermöglichen könnte.
+Zur Beurteilung der Zahnmineralisation existierten verschiedene Stadieneinteilungen,
+deren Ergebnisse nicht unmittelbar vergleichbar waren, da einerseits die Daten an
+verschiedenen Referenzpopulationen gewonnen worden waren und andererseits
+verschiedene Untersucher die Beurteilungen vorgenommen haben (Hägg und
+Matsson 1985, Pöyry et al. 1986).
+So wurden in der Vergangenheit von Gleiser u. Hunt (1955), Moorrees et al. (1963),
+Kullmann et al. (1992) und Köhler et al. (1994) unterschiedliche Stadieneinteilungen
+vorgestellt. Die aufgeführten Klassifikationen enthalten zum Teil sehr viele Stadien,
+die nur schwer gegeneinander abgrenzbar sind. Zudem wird beispielsweise zwischen
+1/4 , 1/3, 1/2 und 2/3 der Wurzellänge unterschieden, was zu einer eher subjektiv
+geprägten Beurteilungsweise führt (Demirjian 1986). Kullmann et al. (1992)
+verwendeten ausschließlich Wurzelstadien.
+Demirjian et al. (1973) stellten eine Stadieneinteilung vor, welche jeweils vier Kronenund Wurzelstadien unterscheidet (Stadien A-H). Diese Stadien sind durch
+Formveränderungen definiert und unabhängig von spekulativen Längenschätzungen.
+Eine numerische Kennzeichnung der Stadien wurde vermieden, um den Eindruck zu
+
+36
+
+vermeiden, es handele sich bei den einzelnen Stadien um Abläufe gleicher
+Zeitdauer.
+In einer Arbeit von Olze et al. (2004a) werden fünf verschiedene Stadieneinteilungen
+zur Zahnmineralisation nach Kenntnis der Autoren erstmalig unabhängig von der
+ursprünglich zugrunde liegenden Referenzpopulation hinsichtlich ihrer Validität
+verglichen (Gleiser und Hunt 1955, Demirjian et al. 1973, Gustafson und Koch 1974
+Harris und Nortje 1984, Kullmann et al. 1992).
+Es wurden insgesamt 420 konventionell gefertigte Orthopantomogramme von
+weiblichen deutschen Probanden im Alter von 12 bis 25 Jahren untersucht. Jedes
+Röntgenbild wurde mit einer Identifizierungsnummer versehen, die Geburtsdaten
+wurden
+
+fallbezogen
+
+erfasst.
+
+Untersucht
+
+wurde
+
+ausschließlich
+
+der
+
+Mineralisationsstand des unteren linken Weisheitszahns (Zahn 38).
+Die Orthopantomogramme wurden von zwei unabhängigen Beobachtern untersucht
+(A und B). Beobachter A untersuchte die Orthopantomogramme ein zweites Mal
+(A2). Zwischen beiden Untersuchungen (A1 und A2) lag ein halbes Jahr. Es wurden
+jeweils Binnen- und Zwischenbeobachterfehler bestimmt. Unter Verwendung aller 5
+Methoden zeigte weder der Vergleich aller 3 Begutachtungen (A1, A2 und B), der
+Begutachtungen A1 und B, A2 und B sowie A1 und A2 signifikante Unterschiede.
+Den insgesamt höchsten inter- und intraindividuellen Übereinstimmungsgrad
+zwischen
+
+den
+
+Begutachtern
+
+(Intraklass-Korrelation)
+
+sowie
+
+die
+
+größte
+
+Übereinstimmung zwischen Schätzalter und chronologischem Alter zeigte die
+Stadieneinteilung nach Demirjian et al. (1973).
+Zusätzlich und als Ergänzung zur Varianzanalyse wurde mittels der Berechnung des
+gewichteten Kappa-Koeffizienten (Fleiss 1981) für jeweils zwei (rangskalierte)
+Begutachtungen inter- und intraindividuell der Grad der Übereinstimmung zwischen
+den Begutachtern eingeschätzt (Intraklass-Korrelation). Zu jedem ermittelten KappaKoeffizienten sind darüber hinaus 95% Konfidenzintervalle berechnet worden. Es
+erscheint plausibel, dass die Methode, für welche die größten Übereinstimmungen
+bestehen, d.h. welche mit einer geringen Variabilität der Begutachtungen einhergeht,
+besonders günstig ist. Die Einschätzung der Übereinstimmung der aus der jeweiligen
+Methode erhaltenen Stadien/Scores in Bezug zum tatsächlichen Alter geschah
+mittels direktem Vergleich der kategorial-skalierten Stadien/Score-Beurteilung mit
+dem intervall-skalierten Alter durch den Eta-Koeffizienten (Siegel 1956).
+
+37
+
+Diejenige Methode mit der höchsten Übereinstimmung gilt als die beste. Im Sinne der
+oben angeführten Argumentationen erweist sich die Methode „Demirjian“ als die
+günstigste unter den 5 ausgewählten Methoden.
+Es wird geschlussfolgert, dass zur Bestimmung des Mineralisationsstandes der
+dritten Molaren die Stadieneinteilung von Demirjian at al. (1973) verwendet werden
+sollte, welche eine das Schätzergebnis anscheinend günstig beeinflussende Anzahl
+von Mineralisationsstadien unterteilt. Die Verwendung von Stadieneinteilungen,
+welche nur wenige Stadien unterscheiden, erweist sich in der Alterschätzungspraxis
+als unvorteilhaft, da wegen des höheren Altersabstandes zwischen den Stadien bei
+Bestimmung eines falschen Stadiums schnell ein entsprechend großer Schätzfehler
+resultiert. Die Verwendung von Stadieneinteilungen, welche einerseits durch
+zahlreiche und andererseits durch vor allem von spekulativen Längenschätzungen
+geprägte Stadien gekennzeichnet sind, führt ebenfalls zu einer Verschlechterung des
+Schätzergebnisses. Hierbei scheint der Nachteil der stark subjektiv geprägten
+Vorgehensweise und der schlechten Abgrenzbarkeit der einzelnen Stadien den
+Vorteil des geringeren Altersabstandes zwischen den Stadien zu kompensieren. Alle
+bislang vorliegenden vergleichenden Studien ( Hägg & Matsson 1985, Staaf et al.
+1991, Kullmann 1992, Mörnstad et al. 1995, Reventlid et al. 1996) sind von
+eingeschränkter Aussagekraft, da sie jeweils auf die (meist unzulänglichen und nicht
+vergleichbaren) Stichproben der methodenbeschreibenden (Erst-) Untersuchungen
+Bezug nehmen. Durch das in der vorliegenden Studie gewählte Vorgehen wird
+dieses methodische Problem nach Kenntnis der Autoren erstmalig gelöst.
+Drosos (2005) ging anhand von Vergleichsuntersuchungen der Frage nach,
+inwieweit
+
+der
+
+tatsächliche
+
+morphologische
+
+Entwicklungsstand
+
+der
+
+jeweils
+
+untersuchten Zähne (=Mineralisationsstadium) mit den auf dem Wege einer
+radiologischen Untersuchung bestimmten Entwicklungsstadien übereinstimmt. In die
+Untersuchung einbezogen wurden 100 Patienten der Praxis des Untersuchers, bei
+welchen aus medizinischer Indikation heraus eine Extraktion von Weisheitszähnen
+anstand. Es wurde präoperativ ein konventionelles Orthopantomogramm gefertigt
+und die extrahierten Zähne postoperativ standardisiert präpariert. Anschließend
+erfolgte die Bestimmung des Entwicklungsstadiums am Röntgenbild und am Präparat
+unter Zuhilfenahme der Stadieneinteilungen nach Demirjian (1973) und Gleiser und
+Hunt (1955). Bei Verwendung der „Demirjian- Methode“ wurden die untersuchten
+Weisheitszähne in 78,48% der Fälle morphologisch und radiologisch in die gleiche
+38
+
+Entwicklungsstufe eingruppiert. 18,35% der untersuchten Zähne wurden mit einer
+Entwicklungsstufe Unterschied befundet, bei 3,16% betrug der Unterschied von
+radiologischer zu morphologischer Einordnung mehr als eine Entwicklungsstufe. Bei
+7,59% der untersuchten Zähne wurde mittels radiologischer Auswertung ein höheres
+Entwicklungsstadium diagnostiziert, als durch die morphologische Beurteilung, bei
+13,92% der untersuchten Weisheitszähne wurde durch die morphologische
+Auswertung eine höhere Entwicklungsstufe bestimmt als durch die radiologische
+Beurteilung. Unter Verwendung der Stadieneinteilung von Gleiser und Hunt (1955)
+ergaben sich insgesamt schlechtere Werte. Im Ergebnis der durchgeführten Studie
+zeigte sich insbesondere bei Verwendung der „Demirjian- Methode“ ein hoher
+Übereinstimmungsgrad zwischen röntgenologisch und morphologisch bestimmtem
+Mineralisationsstadium.
+Zwischenzeitlich liegt eine Anzahl von Arbeiten vor, welche für Probanden
+unterschiedlicher Herkunft statistische Maßzahlen präsentieren.
+Kahl und Schwarze (1988) untersuchten unter Verwendung der Stadieneinteilung
+von Demirjian bei 993 deutschen Probanden im Alter von 5 bis 24,5 Jahren das
+zeitliche
+
+Durchlaufen
+
+der
+
+Mineralisationsstadien
+
+der
+
+Zähne
+
+18
+
+bis
+
+48
+
+geschlechtergetrennt. Es konnte ein dentaler Entwicklungsvorsprung der weiblichen
+Probanden insbesondere im Alter von 8,7 bis 12,8 Jahren herausgearbeitet werden,
+in den früheren und späteren Altersstufen hingegen wiesen alle bleibenden Zähne,
+ausgenommen die Zähne 44 und 47, und somit auch die dritten Molaren in
+mindestens einem Entwicklungsstadium einen Vorsprung der Jungen von 0,3 Jahren
+auf. Die Entwicklungszeiten der Ober- und Unterkieferzähne wichen deutlich
+voneinander ab. Durchgehend eilte die Entwicklung der unteren permanenten Zähne
+der des Oberkiefers voraus, mit Ausnahme der dritten Molaren bei beiden
+Geschlechtern. Sie entwickelten sich mit etwa der gleichen Geschwindigkeit in allen
+vier Quadranten und wiesen alternierend Entwicklungsvorsprünge im Ober- und im
+Unterkiefer auf.
+Olze et al. (2001) untersuchten die Orthopantomogramme von 860 weiblichen und
+577
+
+männlichen
+
+deutschen
+
+Mineralisationsstand
+
+der
+
+Probanden
+
+dritten
+
+im
+
+Molaren
+
+Alter
+wurde
+
+von
+unter
+
+12-25
+
+Jahren.
+
+Der
+
+Verwendung
+
+der
+
+Stadieneinteilung nach Demirjian (1973) beurteilt. Die Autoren fanden keine
+signifikanten
+
+Unterschiede
+
+hinsichtlich
+
+des
+
+zeitlichen
+
+Durchlaufens
+
+der
+
+39
+
+Mineralisationsstadien der dritten Molaren des Ober- und Unterkiefers, signifikante
+Geschlechtsunterschiede wurden ebenfalls nicht festgestellt.
+Willershausen et al. (2001) untersuchten insgesamt 1202 Orthopantomogramme von
+602 weiblichen und 600 männlichen Probanden, welche aus Mittel- und Südeuropa,
+der Türkei und anderen nicht näher spezifizierten Ländern stammten. Es wurden die
+Mineralisationsstadien der dritten Molaren gemäß der Stadieneinteilung von
+Kullmann et al. (1992) bestimmt. Die Autoren fanden keine signifikanten
+Unterschiede im Entwicklungsablauf der Weißheitszähne zwischen den linken und
+rechten Kieferabschnitte von Ober- und Unterkiefer, die dritten Molaren des
+Unterkiefers entwickelten sich jedoch generell schneller, als jene des Oberkiefers.
+Jungen
+
+zeigten
+
+bezüglich
+
+der
+
+Weisheitszahnentwicklung
+
+einen
+
+dentalen
+
+Entwicklungsvorsprung gegenüber gleichaltrigen Mädchen. 2,5% der 18- und 38%
+der 21jährigen zeigten eine abgeschlossene Weisheitszahnentwicklung in allen vier
+Quadranten, weshalb die Autoren schlussfolgerten, das eine ausschließliche
+Verwendung des Entwicklungsstandes der Weisheitszähne zur Altersschätzung
+allein nicht ausreiche. Vielmehr könnten die Erkenntnisse der Schätzung des
+Zahnalters nur im Kontext mit anderen, ergänzenden Untersuchungen eine
+zuverlässige Altersschätzung ermöglichen. Zu möglichen ethnischen Unterschieden
+konnten nach Angabe der Autoren keine zuverlässigen Angaben gemacht werden,
+da die Fallzahl hierfür nicht ausreiche. Lediglich für das Stadium Ac, welches die
+abgeschlossene Wurzelbildung kennzeichnet, konnte eine genügende Fallzahl
+vorgewiesen werden. Demnach erreichte die türkische Population dieses Stadium im
+Mittel im Alter von 20, 6 Jahren, die südeuropäische Population in einem mittleren
+Alter von 21,1 Jahren. Die Mitteleuropäische Population nahm eine Zwischenposition
+ein. Da die Unterschiede weniger als ein halbes Jahr betrugen, handelte es sich hier
+um nicht signifikante Abweichungen.
+Bolanos et al. (2003) untersuchten 812 Orthopantomogramme von 403 männlichen
+und 409 weiblichen spanischen Kindern im Alter von 4 bis 20 Jahren. Die Autoren
+fanden keine Geschlechtsunterschiede. Die Unterkieferweisheitszähne waren den
+Oberkieferweisheitszähnen in ihrer Entwicklung voraus. Gorgani et al. (1990),
+Llarena del Rosario et al. (1990) und Uzamis et al. (2000) fanden ähnliche
+Ergebnisse.
+Die wenigen vergleichenden Studien zur Weisheitszahnmineralisation sind meist auf
+die frühen Entwicklungsstadien beschränkt.
+40
+
+Gorgani et al. (1990) untersuchten 229 schwarze und 221 weiße US-Amerikaner im
+Alter von 6-14 Jahren. Die Kronenmineralisation der dritten Molaren war bei
+Schwarzen etwa 1 Jahr früher abgeschlossen.
+Harris & McKee (1990) untersuchten 655 weiße und 335 schwarze US-Amerikaner
+im Alter von 3,5-13 Jahren. Während die schwarzen US-Amerikaner die frühen
+Weisheitszahnmineralisationsstadien etwa 1 Jahr früher erreichten, schienen die
+Unterschiede in den späten Stadien geringer auszufallen.
+Dieser Trend wird durch eine Arbeit von Mincer et al. (1993) bestätigt. Sie
+untersuchten 823 US-Amerikaner (80% Weiße, 19% Schwarze) im Alter von 14,124,9 Jahren und konnten keine signifikanten Unterschiede im zeitlichen Verlauf der
+Weisheitszahnmineralisation feststellen.
+Daito et al. (1992) untersuchten die Weisheitszahnmineralisation bei 9111
+7-16jährigen Japanern und verglichen ihre Daten mit den von Gravely (1965),
+Rantanen (1967) und Haavikko (1970) für europide Populationen mitgeteilten
+Werten. Es fanden sich keine signifikanten Unterschiede.
+Die Aussagefähigkeit der vorliegenden Studien ist durch vielfach ungesicherte
+Altersangaben der Probanden, mangelhafte Informationen zu sozioökonomischem
+Status und Gesundheitszustand der untersuchten Personen, Verwendung nicht
+vergleichbarer Stadieneinteilungen und eine oftmals unzureichende statistische
+Aufbereitung der Untersuchungsergebnisse eingeschränkt.
+Olze
+
+et
+
+al.
+
+(2004d)
+
+präsentieren
+
+vergleichende
+
+Daten
+
+bezüglich
+
+des
+
+Mineralisationsstandes der dritten Molaren einer europiden, einer asiatischen und
+einer
+
+afrikanischen
+
+Population.
+
+Es
+
+wurden
+
+3611
+
+konventionell
+
+gefertigte
+
+Orthopantomogramme von 1430 Deutschen, 1597 Japanern und 584 schwarzen
+Südafrikanern der Altersgruppe 12-26 Jahre mit gesicherten Geburtsdaten
+untersucht. Für jedes Röntgenbild wurden eine Identifizierungsnummer, Geschlecht
+und Geburtsdatum des Patienten sowie das Aufnahmedatum erfasst. Aus
+Geburtsdatum und Aufnahmedatum des Röntgenbildes wurde das jeweilige
+Patientenalter ermittelt. Der Mineralisationsstand der dritten Molaren wurde unter
+Zuhilfenahme der Stadieneinteilung nach Demirjian et al. (1973) beurteilt. Alle
+Bestimmungen wurden von ein und demselben Untersucher vorgenommen.
+In der zitierten Arbeit konnten durchgängig die Stadien D-H nach Demirjian bei den
+untersuchten Populationen bestimmt werden. Zusammenfassend konnten Olze et al.
+(2004d) feststellen, dass die Ergebnisse für die Zähne 18, 28, 38 und 48 eine
+41
+
+ähnliche Signifikanzstruktur aufwiesen. Japanische Männer und Frauen waren beim
+Erreichen der Stadien D-G circa 1-2 Jahre älter als die deutschen Männer und
+Frauen. Hingegen waren die südafrikanischen Probanden beim Erreichen der
+betreffenden Stadien circa 1-2 Jahre jünger als die deutschen Probanden. Die
+festgestellten
+
+Populationsunterschiede
+
+können
+
+nach
+
+Ansicht
+
+der
+
+Autoren
+
+möglicherweise auf die unterschiedlichen Gaumenmaße der verschiedenen Ethnien
+zurückgeführt werden. Olze et al. (2004d) schlussfolgerten, dass bei der Beurteilung
+der Weisheitszahnmineralisation im Rahmen forensischer Altersschätzungen bei
+Lebenden zur Erhöhung der Aussagesicherheit populationsspezifische Standards
+benutzt werden sollten.
+Weisheitszahneruption.
+
+Der
+
+Zahndurchbruch
+
+und
+
+hier
+
+insbesondere
+
+der
+
+Durchbruch der Weisheitszähne stellt in zivilrechtlichen und Asylverfahren, in
+welchen keine Röntgenaufnahmen zur Altersdiagnostik herangezogen werden
+können, oftmals die einzige valide Informationsquelle für eine forensisch odontologische Altersschätzung dar. Darüber hinaus ist bei der Alterschätzung von
+Lebenden
+
+im
+
+Strafverfahren
+
+unter
+
+Einbeziehung
+
+des
+
+Eruptionsstatus’
+
+der
+
+Weisheitszähne ein zusätzlicher Informationsgewinn möglich. Lange unzureichend
+untersucht war, inwieweit ethnische Unterschiede hinsichtlich des zeitlichen
+Durchlaufens der verschiedenen Eruptionsstadien der Weisheitszähne bestehen.
+Aufgrund der für die Weisheitszahnmineralisation vorgelegten Ergebnisse lag die
+Vermutung nahe, dass auch die Weisheitszahneruption in ihrem zeitlichen Ablauf
+ethnischen Einflüssen unterliegt.
+In
+
+der
+
+Literatur
+
+finden
+
+sich
+
+einerseits
+
+radiologische
+
+Studien
+
+zur
+
+Weisheitszahneruption, andererseits wurde im Verlauf von klinischen Studien der
+zeitliche Ablauf der Weisheitszahneruption untersucht. Von besonderem Interesse
+sind hier Studien aus dem afrikanischen Raum. Ferner existieren verschiedene die
+Ethnien vergleichende Studien.
+Adler et al. (1962) teilten ihre Untersuchungen über das mittlere Durchbruchsalter der
+Weisheitszähne in Zahnreihen mit vollständiger und Zahnreihen mit unvollständiger
+Dentition auf. Die Autoren kamen zu den folgenden Ergebnissen:
+
+42
+
+Mittleres Durchbruchsalter bei vollständiger Dentition
+Oberkiefer
+
+Unterkiefer
+
+Frauen
+
+20,01 Jahre
+
+19,11 Jahre
+
+Männer
+
+20,02 Jahre
+
+19,11 Jahre
+
+Mittleres Durchbruchsalter bei unvollständiger Dentition
+Oberkiefer
+
+Unterkiefer
+
+Frauen
+
+18,08 Jahre
+
+17,11 Jahre
+
+Männer
+
+18,09 Jahre
+
+18,06 Jahre
+
+Die unteren Weisheitszähne brechen nach Angaben der Autoren signifikant früher
+durch als die oberen. Sie weisen eine größere individuelle Variabilität auf als alle
+anderen Zähne, die Streuung liegt bei circa zwei Jahren. Nach Meinung der Autoren
+beschleunigt eine unvollständige Dentition den Durchbruch der Weisheitszähne.
+Sillman (1964) gibt das mittlere Durchbruchsalter bei weißen Amerikanern mit 21,4
+Jahren bei Männern und mit 21,54 Jahren bei Frauen an.
+Haavikko (1970) untersuchte die Zahneruption und -mineralisation anhand von
+Orthopantomogrammen von 615 männlichen und 547 weiblichen Finnen im Alter von
+2-21 Jahren. Die Weisheitszähne nahmen hier eine Sonderstellung ein, da sie
+lediglich hinsichtlich ihres alveolären Durchbruchs beurteilt werden konnten. Der
+alveoläre Durchbruch erfolgte im Mittel in einem Alter von 17,2 bis 18,1 und bei einer
+Standardabweichung von 3,9 bis 6,3 Jahren, wobei die Weisheitszähne der Frauen
+einen
+
+um
+
+0,7 Jahren beschleunigten
+
+alveolären
+
+Durchbruch zeigten.
+
+Die
+
+Oberkieferweisheitszähne brachen im mittel 0,1 bis 0,3 Jahre früher durch als die
+dritten Molaren im Unterkiefer. Seitenunterschiede wurden nicht erfasst.
+
+Die
+
+Probanden der ältesten Altersgruppe wiesen in nur 50-60% der Fälle gingival
+durchgebrochene dritte Molaren auf. Hinsichtlich der Zulässigkeit der Verwendung
+von Röntgenaufnahmen zur Beurteilung der Zahneruption verweist die Autorin auf
+zwei eigene Arbeiten. Mattila und Haavikko (1969) verglichen klinische und alveoläre
+Eruption des 1. Molaren bei 24 Kindern im Alter von fünf bis sechs Jahren. Es fand
+sich eine hohe Übereinstimmung hinsichtlich der Ergebnisse der klinischen und der
+röntgenologischen Untersuchung. In den Fällen, bei welchen röntgenologisch ein
+gingivaler Durchbruch angenommen worden war, tatsächlich jedoch der jeweilige
+
+43
+
+Zahn
+
+lediglich
+
+alveolär
+
+durchgebrochen
+
+war,
+
+bedeckte
+
+eine
+
+sehr
+
+dünne
+
+Schleimhautschicht die Okklusalfläche des durchbrechenden Zahns.
+Haavikko und Mattila (1970) untersuchten an 136 finnischen Kindern den Grad der
+Übereinstimmung zwischen röntgenologisch bestimmtem gingivalem
+
+Durchbruch
+
+und der tatsächlichen klinischen Eruption der jeweiligen Zähne. Fehlbestimmungen
+erfolgten in 5% der Fälle. In der eingangs zitierten Studie (Haavikko, 1970) lag die
+Fehlerquote bezüglich der in der Altersgruppe der 5-13jähren untersuchten 17314
+Zähne lediglich bei 0,27%. Den alveolären Durchbruch sah die Autorin als gegeben
+an, wenn der alveoläre Knochen oberhalb der Okklusalfläche vollständig resorbiert
+war.
+Gleiser und Hunt (1955), Schulz (1935), ,Bengston (1935) und Garn et al. (1957)
+definierten den alveolären Durchbruch als Durchbruch einer Höckerspitze oder der
+gesamten Kaufläche des Zahns bis über das Niveau des Randes des
+Alveolarfortsatzes.
+Lewis und Garn (1960) gaben als Kriterium für den alveolären Durchbruch das
+Nichtvorhandensein von Knochen über dem Zahn an.
+Bezüglich des gingivalen Durchbruchs gibt Haavikko (1970) als Kriterium das erste
+Durchdringen der Gingiva durch Teile der Zahnkrone an und verweist auf eine
+diesbezügliche breite Übereinstimmung in der Literatur. Die Autorin führt weiter an,
+dass in der Literatur Konsens über die Kombinierbarkeit der Kieferseiten besteht,
+bezüglich der Zahneruption beständen keine signifikanten Unterschiede zwischen
+linker und rechter Kieferseite. Nach Auswertung von 521 internationalen Studien zu
+möglichen Geschlechtsdifferenzen, sei in 494 der Studien geschlussfolgert worden,
+dass die Zähne der weiblichen Probanden früher durchbrechen würden als jene der
+männlichen Probanden. Die eigenen Untersuchungen hatten erbracht, dass bei
+Mädchen die oberen dritten Molaren 0,5 Jahre und die unteren Weisheitszähne 0,4
+Jahre früher alveolär durchbrachen, als bei Jungen. Die Oberkieferweisheitszähne
+brachen früher alveolär durch, als die Unterkieferweisheitszähne.
+Rantanen (1967) untersuchte den klinischen Durchbruch der dritten Molaren bei
+insgesamt 2218 männlichen und weiblichen Finnen im Alter von 16- 24 Jahren. In
+einer ersten Serie von Untersuchungen wurden die Probanden im Abstand von
+jeweils einem Monat insgesamt drei Mal untersucht. Eine Nachuntersuchung fand bei
+1429 Probanden 17 Monate nach der Erstuntersuchung statt, wobei hier ebenfalls
+drei Untersuchungen im Abstand von jeweils einem Monat durchgeführt wurden. Für
+44
+
+den Durchbruch wenigstens eines Höckers (Stadium 2) wurde für die männlichen
+Probanden
+
+im
+
+Ober-
+
+bzw.
+
+Unterkiefer
+
+ein
+
+Medianwert
+
+von
+
+jeweils
+
+21,7
+
+beziehungsweise 21,8 Jahren ermittelt. Bei den weiblichen Probanden brachen die
+Weisheitszähne im Ober- beziehungsweise Unterkiefer mit 23,3 beziehungsweise
+23,0 Jahren durch. Bei den männlichen Probanden brachen die Weisheitszähne
+somit etwa 1,5 Jahre früher durch als bei den weiblichen Probanden, die
+signifikanten Unterschiede zeigten sich sowohl im Ober- als auch im Unterkiefer. Für
+das Sichtbarwerden der gesamten Okklusalfläche (Stadium 3) wurde im Oberkiefer
+für die männlichen beziehungsweise weiblichen Probanden ein Medianwert von 22,1
+beziehungsweise 23,5 Jahren ermittelt. Der Zeitraum zwischen dem Durchbruch des
+ersten Höckers und dem Sichtbarwerden der gesamten Kaufläche umfasste bei den
+untersuchten Männern 0,4 und bei den Frauen 0,2 Jahre. Ferner zeigte sich eine
+tendenzielle Kieferseitenasymetrie hinsichtlich der Durchbruchszeiten. So brachen
+die oberen rechten Weisheitszähne früher als die linken und die unteren linken früher
+als die unteren rechten Weisheitszähne durch. Die Weisheitszähne brachen bei
+Männern und Frauen frühestens mit 17 Jahren durch.
+Levesque et al. (1981) untersuchten 4640 Orthopantomogramme von 2278
+männlichen und 2362 weiblichen Frankokanadiern im Alter von 7 bis 25 Jahren
+bezüglich des alveolären und klinischen Durchbruchs und der Mineralisation der
+dritten Molaren. Bei den weiblichen Probanden vollzog sich der alveoläre Durchbruch
+bezogen auf die Mittelwerte in einem Alter von 17,7 und bei den männlichen
+Probanden in einem Alter von 17,2 Jahren. Der klinische Durchbruch der
+Weisheitszähne vollzog sich bei den untersuchten weiblichen Probanden im Alter von
+19,0 und bei den männlichen Probanden in einem Alter von 18,5 Jahren
+(Medianwerte). Demnach bestand hinsichtlich des alveolären beziehungsweise
+klinischen Durchbruchs der dritten Molaren
+
+ein
+
+Entwicklungsvorsprung der
+
+männlichen gegenüber den weiblichen Probanden in Höhe von 0,2 beziehungsweise
+0,5 Jahren.
+Müller (1983) ermittelte für insgesamt 823 männliche und weibliche Deutsche im
+Alter von 16-40 Jahren Medianwerte für den Durchbruch der dritten Molaren (20,36
+beziehungsweise 20,29 Jahre). Es zeigte sich, dass in der Gruppe der 16jährigen
+Probanden kein dritter Molar durchgebrochen war und die Präsenz dritter Molaren
+erstmals bei 17jährigen Patienten festgestellt werden konnte. In einem Alter von 21
+Jahren waren mehr als 50% der Vollzahl dritter Molaren durchgebrochen.
+45
+
+Ventä et al. (1991) untersuchten 123 finnische Zahnmedizinstudenten (39 Männer
+und 84 Frauen) im Alter von 20 Jahren. Zum Zeitpunkt der Nachuntersuchung waren
+die Probanden 26 Jahre alt. Es wurden jeweils Orthopantomogramme gefertigt und
+ein klinischer Eruptionsstatus der unteren dritten Molaren gefertigt. Es wurden
+folgende radiographische Merkmale bestimmt: Stand der Wurzelentwicklung,
+Retentionsstatus, hier wurde unterschieden zwischen Weichgewebsretention,
+partieller knöcherner Retention und vollständiger knöcherner Retention; relative Tiefe
+der dritten Molaren, je nach Durchbruchsstand wurden verschiedene Level
+zugeordnet: Okklusalfläche, Zahnhals oder Wurzelbereich der benachbarten zweiten
+Molaren; und die Relation der Weisheitszähne zum Unterkieferrast und zum zweiten
+Molaren. Ferner wird bezüglich des klinischen Status der unteren dritten Molaren
+unterschieden in nicht durchgebrochene Zähne, diese Zähne hatten die Schleimhaut
+nicht penetriert, in partiell durchgebrochene Zähne, hier war die Okklusalfläche
+teilweise sichtbar und in durchgebrochene Zähne mit einer zumindest vollständig
+sichtbaren Okklusalfläche. 67% der dritten Molaren waren bei den Probanden im
+Alter von 26 Jahren durchgebrochen. Mehr als die Hälfte der im Alter von 20 Jahren
+mesioangulierten Zähne brach bis zum Alter von 26 Jahren nicht durch. Alle unteren
+Weisheitszähne, die im Alter von 20 Jahren genügend Platz zwischen dem zweiten
+Molaren und dem aufsteigenden Unterkieferast aufwiesen, brachen bis zum 26.
+Lebensjahr klinisch durch.
+In einer weiteren Studie von Ventä et al. (1999) wurden die klinischen
+Veränderungen der dritten Molaren während einer 12jährigen Beobachtungsphase
+bei 81 Probanden im Alter von 20 bis 32 Jahren untersucht. Von jedem der 81
+Studenten (32 Männer und 49 Frauen) wurde eine klinische Untersuchung und ein
+Orthopantomogramm zum Anfang (mittlere Alter 20,7 ± 0,5 Jahre) und zum Ende der
+Studie (mittlere Alter 32,6 ± 0,6 Jahre) gefertigt. Beim klinischen Durchbruch der
+dritten
+
+Molaren
+
+durchgebrochen
+
+wurde
+(Teil
+
+in
+der
+
+nicht
+
+durchgebrochen
+
+okklusalen
+
+Oberfläche
+
+(nicht
+
+sichtbar),
+
+sichtbar),
+
+teilweise
+
+durchgebrochen
+
+(vollständige okklusale Oberfläche sichtbar) und fehlend (radiographisch bestätigt)
+unterteilt. Zum Beginn der Studie waren 285 Weisheitszähne nicht-, teilweise- oder
+vollständig
+
+durchgebrochen.
+
+Bei
+
+der
+
+Abschlussuntersuchung
+
+waren
+
+115
+
+Weisheitszähne durchgebrochen. Während des 12jährigen Untersuchungszeitraums
+brachen 22% der Weisheitszähne durch, ein Teil der Zähne interessanterweise sogar
+
+46
+
+nach dem 26. Lebensjahr,
+
+42% der Weisheitszähne waren zwischenzeitlich
+
+extrahiert oder operativ entfernt worden.
+In einer weiterführenden Studie von Ventä et al. (2004) wurden 118 Probanden der
+Ausgangsstichprobe
+
+(37
+
+Männer
+
+und
+
+81
+
+Frauen)
+
+hinsichtlich
+
+ihrer
+
+Weisheitszahnentwicklung über einen Zeitraum von insgesamt 18 Jahren untersucht.
+Zu Beginn betrug das mittlere Alter 20,2 Jahre (SD ± 0,6 Jahre) und am Ende der
+Studie 38,6 Jahre (SD ± 0,6 Jahre). Alle Probanden wurden zu Beginn und zum
+Ende der Studie klinisch und röntgenologisch untersucht. Ein Teil der Probanden (n =
+69) wurde auch mit dem 32. Lebensjahr geprüft. Ein Großteil der anfänglich nicht
+durchgebrochenen oder teilweise durchgebrochenen dritten Molaren wurde während
+des Folgezeitraumes entfernt (73% bzw. 64%) Der Anteil von durchgebrochenen
+dritten Molaren erhöhte sich bis zum Alter von 38 Jahren stetig. Von den anfänglich
+nicht durchgebrochenen, teilweise durchgebrochenen, oder durchgebrochenen
+dritten Molaren, brachen jeweils 10%, 33%, und 50% bis zum 38. Lebensjahr durch.
+Waren bestimmte röntgenologische Merkmale, wie eine komplett abgeschlossene
+Wurzelbildung und ausreichend vorhandener Platz zwischen dem Ramus und dem
+zweiten Molaren, im Alter von 20 Jahren erkennbar , brachen die dritten Molaren
+durch. Ein im Alter von 20 Jahren gefertigtes Orthopantomogram könne demnach
+radiographische Merkmale aufweisen, welche einen späteren Durchbruch oder eine
+Retention von unteren Weisheitszähnen vorhersagbar machen kann.
+Rajasuo et al. (1993) verglichen in ihrer Studie die klinische Entwicklung der dritten
+Molaren bei jungen Männern mit den Werten von Ratanen (1967). Die Autoren
+bestimmten bei 867 männlichen Probanden im mittleren Alter von 19,9 Jahren (SD
+1,1 Jahre) den klinischen Status der dritten Molaren (Anzahl der Weisheitszähne bei
+den 19 und 20jährigen; n = 651) und verglichen die Daten mit den von Ratanen
+untersuchten finnischen Studenten (Anzahl der Weisheitszähne bei den 19 und
+20jährigen; n = 476). Es fanden sich signifikant mehr teilweise durchgebrochene und
+weniger vollständig durchgebrochene Weisheitszähne.
+Für
+
+den
+
+Durchbruch
+
+der
+
+dritten
+
+Molaren
+
+wurden
+
+zum
+
+Teil
+
+beträchtliche
+
+Populationsunterschiede beschrieben. Während in europiden Populationen die
+dritten Molaren in der Regel nicht vor dem 17. Lebensjahr durchbrechen (Müller
+1983), berichten Brown (1978), Chagula (1960), Otuyemi et al. (1997) und Shouri
+(1946) über einen wesentlich früheren Eruptionsbeginn.
+
+47
+
+Shouri (1946) untersuchte die Eruption der permanenten Zähne bei 1412 Jungen
+und 474 Mädchen aus der Region Südindien (Madras) und 1713 Jungen aus der
+nordindischen Region um Lahore im Alter von 6-21 Jahren. Bei 1- 3% der
+südindischen Jungen brachen die Weisheitszähne in Ober- und Unterkiefer im Alter
+von 13 Jahren durch. Bei 4% der südindischen Mädchen war im Alter von 13 Jahren
+wenigstens ein dritter Molar durchgebrochen. Bei 0,5– 0,7% der nordindischen
+Jungen war mindestens Weisheitszahn im Alter von 13 Jahren durchgebrochen.
+Chagula (1960) untersuchte die Weisheitszahneruption bei 990 schwarzen
+männlichen ugandischen Probanden im Alter von 6– 26 Jahren. Bei insgesamt sechs
+Probanden war mindestens ein dritter Molar in die Mundhöhle durchgebrochen. Im
+Ergebnis wurde zusammenfassend formuliert, dass mit einer Wahrscheinlichkeit von
+eins zu zehn bei einem schwarzafrikanischen Probanden im Alter von 14 Jahren alle
+vier
+
+Weisheitszähne
+
+durchgebrochen
+
+sind.
+
+Die
+
+Wahrscheinlichkeit
+
+für
+
+den
+
+Durchbruch aller vier Weisheitszähne wurde für ein Alter von 16, 18 und 21 Jahren
+mit jeweils eins zu zwei, drei zu fünf und vier zu fünf angegeben. Für den gegenüber
+kaukasischen
+
+Populationen
+
+offensichtlich
+
+früher
+
+ablaufenden
+
+Weisheitszahndurchbruch werden genetische und hormonelle Ursachen angeführt.
+Brown (1978) untersuchte den Durchbruch der permanenten Zähne bei 125
+australischen eingeborenen Kindern. Der zeitliche Ablauf des Zahndurchbruchs wird
+mit den an Australiern europäischen Ursprungs gewonnen Daten verglichen. Bei den
+eingeborenen Mädchen brach die Mehrzahl der Zähne früher durch als bei den
+Jungen. Verglichen mit australischen Europiden zeigten die eingeborenen Kinder
+einen früheren Durchbruch. Nach Ansicht des Autors wird bei den Eingeborenen der
+Vorgang
+
+des
+
+angemessenen
+
+Zahndurchbruchs
+Raum
+
+und
+
+und
+
+nachfolgenden
+
+kompensatorisches
+
+Ausrichtens
+
+Knochenwachstum
+
+durch
+in
+
+der
+
+Alveolarregion unterstützt. Die Weisheitszähne brachen bei den männlichen
+eingeborenen Probanden im Oberkiefer im Mittel mit 16,8 und im Unterkiefer mit 16,5
+Jahren bei einer Standardabweichung von 1,3 Jahren und bei den weiblichen
+eingeborenen Probanden im Ober- und Unterkiefer mit 16,1 Jahren bei einer
+Standardabweichung von 1,3 beziehungsweise 1,0 Jahren durch.
+Ajmani et al. (1986) untersuchten die Eruption der Weisheitszähne bei 654
+männlichen und 584 weiblichen schwarzen Nordnigerianern im Alter von 11 bis 23
+Jahren. Der Weisheitszahndurchbruch begann bei den Jungen im Alter von 18
+Jahren ein wenig früher im Vergleich zu den Mädchen im Alter von 18,5 Jahren. Im
+48
+
+Allgemeinen brachen die dritten Molaren bei den Nigerianern zwischen dem Alter
+von 15 bis 21 Jahren durch. Bei 5% der untersuchten schwarzen Probanden
+scheiterten
+
+der
+
+Weisheitszahndurchbruch.
+
+Ferner
+
+konnte
+
+ein
+
+Weisheitszahndurchbruch auf der linken Seite früher beobachtet werden als auf der
+rechten Kieferhälfte. Die Zähne des Unterkiefers brachen früher durch als die des
+Oberkiefers.
+Odusanya und Abayomi (1991) untersuchten 258 Probanden, 125 männliche und
+133 weibliche Kinder und Jugendliche aus dem südwestlichen Teil Nigerias
+hinsichtlich des Durchbruchs der dritten Molaren. Das Alter der Schüler lag zwischen
+dem 11. und 20. Lebensjahr. Die Autoren gaben als Definition des Zahndurchbruchs
+die Penetration eines Teils der Krone durch die Mundschleimhaut an. Der Großteil
+des initialen Weisheitszahndurchbruchs konnte bei männlichen Probanden im Alter
+mit 15 Jahren und bei weiblichen Probanden sogar schon mit 13 Jahren ermittelt
+werden. Im Alter von 11 oder 12 Jahren konnten keine durchgebrochenen dritten
+Molaren beobachtet werden. Der Anteil der durchgebrochenen dritten Molaren
+erhöhte sich langsam bei beiden Geschlechtern bis zum Alter von 16 Jahren bei
+Jungen und 14 Jahren bei Mädchen. Danach konnte ein steiler Anstieg bei beiden
+Geschlechtern registriert werden. Der Durchbruch aller vier dritten Molaren war mit
+dem 19. Lebensjahr für beide Geschlechter gleich wahrscheinlich. Die dritten
+Molaren brachen im Oberkiefer signifikant früher als im Unterkiefer durch.
+Otuyemi et al. (1997) ermittelten bei insgesamt 1071 11– 21 Jahre alten Kindern und
+Jugendlichen aus ländlichen Gebieten Nigerias die Durchbruchszeiten der dritten
+Molaren. Der jüngste männliche Proband war 14 Jahre, die jüngste weibliche
+Probandin 13 Jahre alt. Die Gruppe der weiblichen Probanden war statistisch
+signifikant jünger als die männlichen Probanden (P < 0,01). Der früheste Durchbruch
+der Weisheitszähne konnte bei den insgesamt 523 männlichen Probanden ab einem
+Alter von 14 Jahren und bei den insgesamt 548 Mädchen im Alter von 13 Jahren
+festgestellt werden. Bei 1,1 Prozent der untersuchten Population waren alle vier
+Weisheitszähne im Alter von 14 Jahren in die Mundhöhle durchgebrochen. Das
+mittlere Alter, in welchem 1, 2 oder 3 Weisheitszähne durchgebrochen waren, betrug
+für die Gesamtpopulation 16,58 Jahre (SD = 1,66), respektive waren alle vier
+Weisheitszähne im Mittel mit 17,50 Jahren (SD = 1,56) durchgebrochen. Der im
+Gegensatz zu europäischen und amerikanischen Werten früher einsetzende
+
+49
+
+Durchbruch der Weisheitszähne wird von den Autoren auf die Ernährung mit
+überwiegend grobfaseriger Nahrung zurückgeführt.
+Es wurden keine rechts – links Divergenzen festgestellt, der Durchbruch der dritten
+Molaren erfolgte im Unterkiefer signifikant früher. Die im Zusammenhang mit dem
+Durchbruch der Weisheitszähne typischen Probleme treten bei jungen nigerianischen
+Landbewohnern früher in Erscheinung als bei Gleichaltrigen westlicher Länder.
+Olasoji und Odusanya (2000) haben an 2400 20jährigen nigerianischen Probanden
+untersucht, inwieweit die Herkunft der Probanden die Prävalenz des Auftretens von
+retinierten Weisheitszähnen beeinflusst. Bei 10,7% der Probanden mit städtischer
+und bei 1,1% der Probanden mit ländlicher Herkunft wurde mindestens ein retinierter
+Weisheitszahn gefunden. Der Grad der Zivilisation und der Wandel in der
+Ernährungsweise scheint nach Ansicht der Autoren die Prävalenz des Auftretens von
+retinierten Weisheitszähnen auch in einer schwarzafrikanischen Population zu
+beeinflussen.
+Die Aussagefähigkeit letzterer Studien ist aufgrund zweifelhafter Altersangaben der
+Probanden
+
+eingeschränkt.
+
+So
+
+resümierten
+
+Krumholt
+
+et
+
+al.
+
+(1971)
+
+nach
+
+Untersuchungen zur Weisheitszahneruption bei schwarzen ugandischen Kindern,
+dass Geburtsdokumente in Uganda nicht von jeder Person zu erlangen seien und
+dass das Alter einer Person hier eine untergeordnete Rolle spielen würde.
+Vergleichende Studien zu den Durchbruchszeiten der dritten Molaren liegen für
+schwarze und weiße US-Amerikaner, Afrikaner sowie Asiaten vor.
+Fanning (1962) untersuchte den klinischen Durchbruch der dritten Molaren bei 2370
+männlichen und 1053 weiblichen weißen Nordamerikanern im Alter von 13 bis 22
+Jahren aus der Region Boston und verglich die gewonnenen Daten mit den von
+Chagula (1960) für eine schwarzafrikanische Population mitgeteilten Werten. Ferner
+wurden die Probanden jeweils in eine Gruppe mit (Gruppe 1) und ohne Extraktionen
+(Gruppe 2) im bleibenden Gebiss unterteilt. Es wurden die Medianwerte ermittelt. Die
+Oberkieferweisheitszähne brachen bei den Männern der Gruppe 1 im Alter von 19,1
+und der Gruppe 2 mit 20,5 Jahren durch. Bei den Frauen der Gruppe 1 und Gruppe 2
+erfolgte der gingivale Durchbruch der dritten Molaren im Oberkiefer mit 19,2
+beziehungsweise 20,5 Jahren. Die Unterkieferweisheitszähne brachen bei den
+Männern der Gruppe 1 im Alter von 18,1 und der Gruppe 2 mit 19,8 Jahren durch.
+Bei den Frauen der Gruppe 1 und Gruppe 2 erfolgte die Eruption der dritten Molaren
+im Unterkiefer mit 18,9 beziehungsweise 20,4 Jahren. Demnach betrug der
+50
+
+Entwicklungsvorsprung der männlichen und weiblichen Probanden mit Extraktionen
+im bleibenden Gebiss gegenüber jenen ohne Zahnentfernungen von bleibenden
+Zähnen im Oberkiefer 1,4, beziehungsweise 1,3 Jahre und im Unterkiefer 1,7
+beziehungsweise 1,5 Jahre. Im Vergleich mit den von Chagula (1960) mitgeteilten
+Daten ergab sich ein Entwicklungsvorsprung der Afrikaner gegenüber den
+Nordamerikanern (Gruppe 2) in Höhe von 2,5 Jahren im Alter von 13-16 und von
+1,25 Jahren im Alter von 17-20 Jahren.
+Garn et al. (1972) untersuchten den Zahndurchbruch aller permanenten Zähne bei
+953 schwarzen und 998 weißen US-Amerikanern. Im Oberkiefer zeigten die
+schwarzen US-Amerikaner einen Entwicklungsvorsprung von 3,7 Jahren, im
+Unterkiefer von 5,6 Jahren.
+Eine Zusammenstellung der jeweiligen röntgenologisch und klinisch ermittelten
+Mittel- und Medianwerte für Ober- und Unterkieferweisheitszähne im Vergleich zu
+den eigen ermittelten Werten zeigen die Tabellen 5 und 6.
+Hassanali (1985) verglich die Eruptionszeiten der dritten Molaren bei 1343 Afrikanern
+und 1092 Asiaten in Kenia. Bei den afrikanischen Probanden brachen die
+Weisheitszähne im Unterkiefer im Median mit 17,6 bis 18,3 Jahren
+
+und im
+
+Oberkiefer mit 18,5 bis 18,9 Jahren durch. Der Weisheitszahndurchbruch vollzog sich
+bei den asiatischen Probanden im Unterkiefer im Median mit 19,9 bis 20,3 und im
+Oberkiefer mit 20,7 bis 21,0 Jahren Der Entwicklungsvorsprung der Afrikaner betrug
+somit zwei bis drei Jahre. Zusammenfassend wurde festgestellt, dass bei den
+untersuchten afrikanischen Probanden der Weisheitszahndurchbruch mit 13 Jahren
+beginnt und dass im Alter von 18,5 Jahren bei 50% der untersuchten schwarzen
+Probenden alle vier Weisheitszähne durchgebrochen waren.
+Bei den untersuchten asiatischen Probanden begann der Durchbruch der dritten
+Molaren im Alter von 15 Jahren, im Alter von 21,5 Jahren waren bei 50% der Asiaten
+alle vier Weisheitszähne durchgebrochen. Die afrikanischen Frauen wiesen
+gegenüber den Männern einen Entwicklungsvorsprung von 0,3 bis 0,4 Jahren auf,
+während sich die Weisheitszahneruption bei den asiatischen Frauen gegenüber den
+Männern um 0,3 Jahre verzögert vollzog.
+In einer Übersichtsarbeit zu Wachstum und Entwicklung in Japan präsentiert Kimura
+(1984) Mittelwerte für den Zahndurchbruch der dritten Molaren (19,8 Jahren für
+Männer, 21,0 Jahre für Frauen). Er vergleicht diese Daten mit von Fanning (1962) für
+
+51
+
+weiße Nordamerikaner mitgeteilten Werten und kommt zu dem Ergebnis, dass die
+Angaben in enger Übereinstimmung stehen.
+Olze et al. (2007a, 2007b, 2007c, 2008) haben in breit angelegten Einzel- und einer
+Vergleichsstudie Daten zum Einfluss der ethnischen Abstammung auf die
+Weisheitszahneruption vorgelegt. Zur Untersuchung kamen insgesamt 2482
+konventionell gewonnene Orthopantomogramme von 666 Deutschen, 1300 Japanern
+und 519 schwarzen Südafrikanern mit gesicherten Geburtsdaten. Die Beurteilungen
+wurden stets von ein und demselben Untersucher vorgenommen. Es wurden
+folgende Stadien eingeteilt: Stadium A (Okklusalfläche in Durchbruchsrichtung von
+alveolärem Knochen bedeckt), Stadium B (alveolärer Durchbruch), Stadium C
+(gingivaler Durchbruch) und Stadium D (Einstellung in die Kauebene). Die
+untersuchten Deutschen nahmen hinsichtlich des zeitlichen Verlaufs des Erreichens
+des jeweiligen Eruptionsstadiums nach Olze et al. eine Zwischenstellung ein.
+Statistisch signifikante Populationsunterschiede wurden bei Frauen hinsichtlich des
+Erreichens der Stadien A, B und C festgestellt. Die südafrikanischen schwarzen
+Frauen erreichten die genannten Stadien im Mittel 1,6 bis 1,8 Jahre früher als die
+deutschen Frauen. Die japanischen Frauen waren hingegen bei Erreichen der
+angegebenen Stadien 0,9 bis 3,3 Jahre älter als die deutschen Frauen. Hinsichtlich
+der
+
+männlichen
+
+Probanden
+
+bestanden
+
+statistisch
+
+signifikante
+
+Populationsunterschiede bezüglich des Erreichens der Stadien A und B .Die
+südafrikanischen schwarzen Männer waren bei erreichen der genannten Stadien 3,0
+bis 3,2 Jahre jünger als die deutschen Probanden, die japanischen Männer waren
+hingegen 3,1 bis 4,2 Jahre älter als die südafrikanischen Männer.
+Ein
+
+Vergleich
+
+der
+
+eigenen
+
+Untersuchungsergebnisse
+
+mit
+
+jenen
+
+anderer
+
+Forschergruppen ist, ist auch hier, verursacht durch unterschiedliche Studiendesigns,
+verschiedene Untersucher und oftmals nicht gesicherte Geburtsdaten, nicht möglich.
+Erschwert wird der Vergleich ferner durch die Tatsache, dass von verschiedenen
+Autoren Medianwerte, von anderen hingegen Mittelwerte und in einigen Fällen beide
+Werte angegeben worden sind. Darüber hinaus ist zwischen klinischen und
+radiologischen Studien zu unterscheiden. In einem Fall (Haavikko 1970) werden
+lediglich Werte für den alveolären Durchbruch angegeben.
+
+52
+
+Zum Einfluss der Gaumen- und Kiefermaße/der Platzverhältnisse auf das
+Eruptionsverhalten. Die hier ansatzweise erkennbaren Populationsunterschiede
+können möglicherweise auf die unterschiedlichen Gaumen- und Kiefermaße der
+einzelnen Ethnien zurückgeführt werden.
+Byers et al. (1997) beschrieben für die verschiedenen Ethnien unterschiedliche
+Gaumenformen. Die Autoren beschreiben die Gaumen der Kaukasoiden als
+parabelförmig, gequetscht oder schmal. Die Gaumen der Negroiden seien eher lang,
+schmal und parallelseitig. Die Mongoliden besäßen schließlich jeweils kurze und
+breite Gaumen. Die Autoren gingen der Frage nach, ob die Formen, welche von
+früheren Untersuchern bereits beschrieben worden sind, auch bei den ethnischen
+Hauptgruppen in den Vereinigten Staaten zu finden sind. Die größten Gaumenmaße
+wurden bei Schwarzen gefunden. Die Autoren werteten Breitenmessungen der
+Gaumen an insgesamt 414 weißen und schwarzen US-Amerikanern und
+indianischen Ureinwohnern aus, um Unterschiede zwischen den einzelnen
+ethnischen Gruppen zu erfassen. Es wurden sieben Messungen durchgeführt. Dazu
+zählten der Abstand zwischen den mittleren Schneidezähnen (I1I1), zwischen den
+Eckzähnen (C1C1), zwischen den zweiten Prämolaren (P2P2) und zweiten Molaren
+(M2M2). Weiterhin wurde die Distanz zwischen mittlerem Schneidezahn und
+Eckzahn (I1C1), die Entfernung zwischen mittlerem Schneidezahn und zweitem
+Prämolaren (I1P2) und die Entfernung zwischen mittlerem Schneidezahn und
+zweitem Molaren (I1M2) bestimmt. Die Ergebnisse zeigten, dass bei unbekanntem
+Geschlecht in 66,3% der Fälle die korrekte ethnische Gruppe zugeordnet werden
+konnte. War das Geschlecht bekannt, konnte die korrekte ethnische Gruppe bei 69%
+der Männer bzw. 71,3% der Frauen zugeordnet werden. Die Ergebnisse zeigen, dass
+bezüglich der Männer alle vorgenommenen Messungen, ausgenommen der Abstand
+I1I1, für die Unterscheidung der ethnischen Gruppen aussagefähig waren. Die
+Ergebnisse dieser Studie zeigen, dass die gewählten Messungen geeignet
+erscheinen, um die jeweiligen ethnischen Gruppen gegeneinander abzugrenzen.
+Burris und Harris (1998) wandten sich in ihrer Untersuchung ebenfalls den, so
+vermutet, unterschiedlichen Gaumenmaße bei schwarzen und weißen USAmerikanern zu und gingen der Frage nach, ob anhand bekannter Gaumenmaße
+eine Rassen- oder Geschlechtsbestimmung möglich ist. Es erfolgten Messungen der
+Breite und Tiefe des jeweiligen Gaumens. Das Probandengut der prospektiven
+Studie bestand aus insgesamt 332 Erwachsenen und jungen Heranwachsenden mit
+53
+
+permanenter Dentition. Jeweils zur Hälfte bestand die Stichprobe aus schwarzen und
+weißen US-Amerikanern, wobei das Probandengut proportional zwischen Männern
+und Frauen geteilt wurde. Die Messungen erfolgten an gefertigten Modellen der
+Oberkiefer jeweils zwischen den Höckerspitzen der Zähne. Die schwarzen
+Probanden, mit einem eher quadratischen Gaumen, wiesen hierbei einen primär
+größeren Abstand zwischen den Prämolaren und einen größeren Abstand zwischen
+dem ersten Prämolaren und zweiten Molaren auf. Die Autoren fanden signifikante
+Geschlechtsunterschiede
+
+bezüglich
+
+der
+
+Gaumenmaße.
+
+Eine
+
+Geschlechtsbestimmung in Unwissenheit der ethnischen Zugehörigkeit war nicht
+sicher möglich. Wenn jedoch die ethnische Zugehörigkeit bekannt war, konnte
+anhand der Gaumenmaße mit hoher Wahrscheinlichkeit das Geschlecht festgestellt
+werden. Die untersuchten Männer zeigten signifikant größere Gaumen als die
+Frauen. Der durchschnittliche Unterschied zwischen schwarzen und weißen
+Amerikanern war größer (8%), als der Unterschied der Geschlechter innerhalb beider
+ethnischen Gruppen (3%). Die zitierte Studie von Burris und Harris (1998) zeigt, dass
+die Unterschiede der ethnischen Zugehörigkeit vor allem in der Eckzahn- und der
+Region der ersten Prämolaren zu finden sind. Die Gaumen der untersuchten weißen
+US-Amerikaner
+
+zeigten
+
+eine
+
+eher
+
+elliptische
+
+Gaumenform.
+
+Die
+
+schwarzen
+
+Probanden zeigten, bedingt durch die größere Breite im mittleren Abschnitt, eine
+eher U- förmige Gaumenform.
+In einer weiterführenden Studie von Burris und Harris (2000) wurde die
+Oberkiefergröße und -form bei schwarzen (n= 171) und weißen (n= 159)
+Amerikanern untersucht. Bei schwarzen Amerikanern konnten größere Zähne als bei
+weißen Amerikanern gefunden werden. Die Zähne der schwarzen Population
+standen, wahrscheinlich aufgrund der größeren Zahnbögen, weniger gedrängt im
+Kiefer. Die Studie untersuchte Unterschiede in der Zahnbogengröße und -form der
+betrachteten US-Populationen. Die durchschnittlich ermittelten Zahnbogenbreiten bei
+schwarzen waren um 10% größer als bei weißen US-Amerikanern. Die
+durchschnittlich ermittelte Zahnbogenbreite war bei schwarzen im Mittel 9% größer
+als bei weißen Männern. Schwarze wiesen 11% größere Zahnbogenbreiten auf als
+weiße Frauen. Die schwarze Population, mit einem eher quadratischen Gaumen und
+einem signifikant größeren Gaumenindex, zeichnete sich im Gegensatz zu den
+weißen US-Amerikanern primär durch größere Eckzahn- und Prämolarenbreiten aus.
+Es konnte gezeigt werden, dass schwarze eher größere Gaumenmaße aufweisen als
+54
+
+weiße Amerikaner und somit bei ihnen ein höheres Platzangebot („extra space“) für
+durchbrechende Zähne besteht.
+Ein mangelndes Platzangebot in Bereich der Kiefer führt zu einer Verzögerung des
+Weisheitszahndurchbruchs beziehungsweise zu dessen Retention (Fanning 1962).
+Ein Platzüberschuss innerhalb des Kieferverlaufs, beispielsweise nach Extraktion der
+ersten beziehungsweise zweiten Molaren oder zweiten Prämolaren, fördert die
+Eruption der dritten Molaren (Orton-Gibbs et al. 2001, Kim et al. 2003, Ay et al. 2006,
+Artun et al. 2006, De la Rosa Gay et al. 2006).
+Diese Beobachtungen würden möglicherweise die ethnischen Differenzen bezüglich
+des
+
+zeitlichen
+
+Durchlaufens
+
+der
+
+verschiedenen
+
+Stadien
+
+des
+
+Weisheitszahndurchbruchs erklären.
+Darüber hinaus scheinen retinierte dritte Molaren später zu mineralisieren als im
+Durchbruch nicht behinderte Weisheitszähne (Köhler et al. 1994). Gestützt wird diese
+These durch die Untersuchungen von Drosos (2005). Je stärker der durchbrechende
+Zahn durch den Nachbarzahn oder aufsteigenden Unterkieferast am Durchbruch
+gehindert würde, desto stärker verzögere sich sein Wurzelwachstum. Die
+Wurzelmineralisation könne sich demnach um bis zu 3,5 Jahre verzögern.
+Die Ursachen für eine Retention oder Halbretention von Weisheitszähnen werden
+verständlicher und damit mittelbar mögliche ethnische Unterschiede hinsichtlich des
+Platzangebotes
+
+im
+
+Kiefer
+
+und
+
+ihre
+
+möglichen
+
+Auswirkungen
+
+auf
+
+die
+
+Durchbruchszeiten der dritten Molaren erklärbarer, wenn der Zusammenhang von
+postnatalem Gesichts- und Kieferwachstum einerseits und Entwicklung der Dentition
+andererseits als komplexes Gefüge betrachtet werden. Darüber hinaus erscheinen
+grundsätzliche Betrachtungen hinsichtlich der Faktoren, welche eine Retention der
+dritten Molaren fördern können, als hilfreich.
+In einer Studie zu den sagittalen Platzverhältnissen in der Maxilla während des
+Durchbruchs der Molaren von Tschechne, Müller und Dibbets (2008) wurden die
+Platzverhältnisse in der Maxilla während des Durchbruchs der Molaren vermessen
+und interpretiert. Dazu wurden die Schädelmaße von 154 Probanden vom Kleinkindbis hin zum Erwachsenenalter erfasst. Zusätzlich wurden je nach Durchbruchstatus
+der Molaren 4 Gruppen eingeteilt. Die vermessenen Strecken basierten auf fünf
+definierten Messpunkten: Es wurde der Abstand vom Hinterrand der Maxilla bis zum
+jeweils distalsten Punkt des letzten bereits vorhandenen Molaren in der Zahnreihe
+gemessen. Es wurde festgestellt, dass der Durchbruch der 1. bleibenden Molaren
+55
+
+nicht platzabhängig ist, da schon weit vor seinem regelrechten Durchbruch ein
+ausreichendes Platzangebot vorhanden ist. Der Durchbruch des 1. bleibenden
+Molaren erfolgt jedoch trotz dieser Umstände nicht vor dem 5.-6. Lebensjahr. Im
+Gegensatz hierzu scheint der Durchbruch des 2. Molaren vom Platzangebot
+abzuhängen, da er durchbricht, sobald der distale Platz ausreicht. Ob der
+Durchbruchszeitpunkt des 3. Molaren platzabhängig ist wird nicht erwähnt. Es konnte
+aber gezeigt werden, dass meist schon vor dem 18. Lebensjahr genug Platz zum
+Durchbruch aller Zähne im Zahnbogen vorhanden ist, aber nach dem 18. Lebensjahr
+noch Wachstum am Hinterrand der Maxilla stattfindet, woraus sich ergibt, dass der
+Zeitpunkt der Extraktion der 3. Molaren später gewählt werden kann, da doch noch
+eine regelrechte Einordnung in den Zahnbogen möglich werden kann.
+Tsai (2005) untersuchte in einer Studie, welche möglichen Faktoren einen Einfluss
+auf das Durchbruchsverhalten der Unterkieferweisheitszähne haben können. Dazu
+wurden 152 Taiwanesen (72 Männer und 80 Frauen) im Alter von 20 -25 Jahren
+untersucht. Alle waren vollständig bezahnt und waren weder kieferorthopädisch,
+noch prothetisch behandelt worden. Die Probanden wurden in 2 Gruppen eingeteilt:
+Die erste Gruppe (n-74, 30 männliche und 44 weibliche Probanden) wiesen im
+Unterkiefer keine retinierten dritten Molaren auf. Die zweite Probandengruppe wurde
+aus 42 männlichen und 36 weiblichen Probanden (n=78) mit impaktierten
+Unterkieferweisheitszähnen gebildet. Im Ergebnis der Studie wurden Parameter
+festgestellt, welche eine Retention der dritten Molaren im Unterkiefer beeinflussen
+können:
+1. Neigungswinkel und mesio-distale Zahnbreite der Unterkiefermolaren,
+2. horizontales und vertikales Platzangebot zwischen der Vorderseite des
+aufsteigenden Unterkieferastes und distaler Fläche der zweiten Molaren,
+3. Länge und Breite des Unterkieferramus und –korpus,
+4. Neigung des UK- Ramus,
+5. der plane angle (Winkel zw. FH und UK- Basis) und
+6. Kieferwinkel
+Auf
+
+Durchzeichnungen
+
+der
+
+Röntgenbilder
+
+wurden
+
+die
+
+Mittelwerte
+
+von
+
+16
+
+Messstrecken ermittelt und in einem Koordinatensystem für männliche und weibliche
+Probanden getrennt graphisch dargestellt. Für beide Geschlechter wurde festgestellt,
+dass die Gruppe mit retinierten Weisheitszähnen im Bereich der unteren ersten
+Molaren höhere Werte bezüglich der mesio-distalen Kronenbreite aufwies. Der
+56
+
+Abstand zwischen der Distalfläche der 2. Molaren und aufsteigendem Unterkieferastwar kleiner, als bei der Gruppe mit durchgebrochen dritten Molaren.
+Zuvor von Kaplan (1975), Richardson (1973), Richardson (1975) und Richardson
+(1978)durchgeführte Studien konnten nachweisen, dass der Durchbruch von 3.
+Molaren. im Unterkiefer vor allem platzabhängig ist, Neuheitswert besaß jedoch die
+Erkenntnis, dass im Unterkiefer die Kronengröße der 1. Molaren, wie auch die Breite
+des
+
+Ramus
+
+das
+
+Durchbruchsverhalten
+
+der
+
+dritten
+
+Molaren
+
+offensichtlich
+
+entscheidend beeinflussen können.
+In einer Untersuchung von De la Rosa Gay et al. (2006) zum spontanen Durchbruch
+der
+
+Weisheitszähne
+
+kieferorthopädischen
+
+nach
+
+Extraktion
+
+Behandlung
+
+der
+
+wurde
+
+2.
+
+Molaren
+die
+
+im
+
+Rahmen
+
+Abhängigkeit
+
+einer
+
+zwischen
+
+Durchbruchsaktivität und Platzangebot untersucht. Das Probandengut bestand aus
+48 Patienten (19 männlich und 29 weiblich) im Alter zwischen 11 und 23 Jahren. Den
+Probanden wurden im Rahmen einer kieferorthopädischen Behandlung 128 zweite
+bleibende Molaren (74 im Unterkiefer und 54 im Oberkiefer) als Alternative zur
+Prämolarenentfernung extrahiert, und somit der Durchbruch der 3. Molaren
+ermöglicht. Auf Orthopantomogrammen wurde der Winkel des dritten zum ersten
+Molaren vor und nach der Extraktion des 7ers ermittelt und anhand der Differenz der
+beiden Winkel die Aufrichtung des Zahnes errechnet. Ein erfolgreicher Durchbruch
+war durch das Erreichen der Kauebene und einen Winkel zwischen 6er und 8er von
+nicht mehr als 35° definiert. Die mittlere Durchbruchszeit nach Extraktion der 2.
+Molaren betrug 3-4 Jahre. Ziel der Studie war herauszufinden, wie hoch der Anteil an
+regelrecht durchgebrochenen dritten Molaren wäre, welchen Betrag das Ausmaß der
+Aufrichtung in Bezug auf den ersten Molaren erreichen und welchen Zeitraum der
+Durchbruch der dritten Molaren nach Extraktion der 7er beanspruchen würde. Ziel
+der Studie war, Faktoren zu ermitteln, welche den regelrechten Durchbruch der
+dritten Molaren fördern würden. Während im Oberkiefer 96,2% der untersuchten
+Weisheitszähne eine regelrechte Position im Kiefer einnahmen, waren es im
+Unterkiefer nur 66,2%. Daher werden die Ergebnisse für beide Kiefer getrennt
+beschrieben. Alle 8er im Oberkiefer brachen durch. Von diesen erreichten 4 keinen
+Approximalkontakt und 3 nicht die Kauebene, wobei jeweils die Antagonisten
+ebenfalls nicht korrekt durchgebrochen waren. Es wurde ein Zusammenhang sowohl
+zum Probandenalter, als auch zum Entwicklungsstatus der Zähne deutlich: die 4
+nicht erfolgreich durchgebrochenen Zähne gehörten 3 der ältesten Teilnehmerinnen
+57
+
+(20 Jahre: 1 Zahn, 21 Jahre: 1Zahn, 23 Jahre 2 Zähne). Alle 4 Zähne hatten bereits
+einen Zahnentwicklungsstatus nach Nolla (1960) von 9 (root almost formed) und 10
+(closed apex) erreicht. Im Unterkiefer brachen 4 (5,4%) Molaren überhaupt nicht
+durch, 14 (18,9%) erreichten keinen Approximalkontakt und 10 (13,5%) erreichten
+nicht die Okklusionsebene.
+Breik und Grubor (2008) haben eine Untersuchung zur Häufigkeit der Impaktierung
+von Weisheitszähnen bei unterschiedlichen skelettalen Gesichtstypen durchgeführt.
+Im Verlauf dieser Studie sollte festgestellt werden, welchen Einfluss der faziale
+Wachstumstyp
+
+auf
+
+die
+
+Durchbruchswahrscheinlichkeit
+
+von
+
+Unterkieferweisheitszähnen hat. Grundsätzlich wurde angenommen, dass das
+Platzangebot distal der zweiten bleibenden Molaren bis zum aufsteigenden
+Unterkieferast ausschlaggebend für das Durchbruchverhalten wäre. Als Hypothese
+lag zugrunde, dass bei einem brachiofazialen (horizontalen) Wachstumsmuster
+weniger impaktierte dritte Molaren zu beobachten sind als beim mesio- und
+dolichofazialen (vertikalen) Wachstumsmuster. Die Studie wurde von 2004 bis 2005
+mit
+
+98 Patienten am Royal Dental Hospital in Melbourne durchgeführt. Zur
+
+Untersuchung kamen 39 Probanden mit brachiofazialem, 28 mit mesiofazialem und
+30 mit dolichofazialem Wachstumstyp. Alle Probanden waren älter als 16 Jahre und
+voll bezahnt. Eingeschlossen waren ausschließlich Probanden mit dritten Molaren,
+deren Wurzeln zu mehr als 2/3 ausgebildet waren. Anamnestisch war keine
+kieferorthopädische oder kieferchirurgische Behandlung bekannt. Grundlage der
+Untersuchung waren Orthopantomogramme und Fernröntgenseitenbilder. Allgemein
+zeigte sich eine Impaktionsrate der dritten Unterkiefermolaren von 58,76%. Dieser
+relativ hohe Wert lässt sich vermutlich dadurch erklären, dass die Probanden im
+Rahmen einer bevorstehenden kieferorthopädischen Behandlung rekrutiert wurden
+und somit Malokklusion oder Platzmangel aufwiesen. Der Vergleich zwischen den 3
+Gruppen
+
+zeigte
+
+einen
+
+signifikanten
+
+Unterschied
+
+der
+
+Durchbruchsrate
+
+der
+
+brachiofazialen Gruppe, bei dieser brachen 62,82% der Zähne durch, und der
+dolichofazialen, in welcher 31,67% der Weisheitszähne durchgebrochen waren. Die
+mesiofaziale Wachtsumsgruppe wies mit 29,31% die geringste Durchbruchsrate auf.
+Sandhu und Kauer (2008) untersuchten in einer retrospektiven Studie die
+standardisiert gefertigten Orthopantomogramme von 43 vollbezahnten indischen
+jugendlichen Probanden. Die Autoren konnten zeigen, dass sich Positions- und
+Angulationsänderungen der unteren dritten Molaren meist erst nach dem 19.
+58
+
+Lebensjahr zeigen. Betroffen waren vor allem vertikal und distoangulär verlagerte
+und weniger mesioangulär verlagerte Weisheitszähne. Zunächst impaktierte dritte
+Molaren brachen später durch. Es wurden 2 Beurteilungen der Zähne und ihrer
+Positionsänderungen im Abstand von 4 Jahren durchgeführt. Zum Zeitpunkt der
+ersten
+
+Untersuchung
+
+befanden
+
+sich
+
+die
+
+Probanden
+
+in
+
+einem
+
+Alter
+
+von
+
+durchschnittlich 19,1 und zum Zeitpunkt der zweiten Untersuchung in einem
+Durchschnittsalter von 23,1 Jahren. Sagittale Inklinationsbewegungen waren bei
+15% der Unterkiefer- und 23% der Oberkieferweisheitszähne zu beobachten,
+Insgesamt 26% der Oberkieferweisheitszähne zeigte im Beobachtungszeitraum eine
+Veränderung des Eruptionsstatus. Im Unterkiefer zeigte sich, dass 50 % der
+zunächst distoangulär, 37,5% der vertikal verlagerten und 13,6% der mesial
+angulierten Zähne zum Ende des Untersuchungszeitraums die Kauebene erreicht
+hatten. Die Anzahl der Weisheitszähne mit vollendetem Wurzelwachstum erhöhte
+sich im Unterkiefer im Verlauf des Untersuchungszeitraums von 61% auf 93%. Im
+Oberkiefer erhöhte sich dieser Anteil von 62% auf 94,5%.
+Spezielle
+
+Diskussion
+
+Umbauvorgänge
+
+des
+
+der
+
+eigenen
+
+Ergebnisse.
+
+Pulpa-Dentin-Komplexes
+
+und
+
+des
+
+Lebensalterassoziierte
+Parodontiums
+
+sind
+
+hinlänglich bekannt, finden in der Literatur Beachtung und werden in ihrer
+Ausprägung einerseits ursächlich vom Einwirken bestimmten Umweltfaktoren
+bestimmt. Auf der anderen Seite vollziehen sich diese Umbauvorgänge unabhängig
+von äußeren Einflussfaktoren rein lebensalterabhängig (Gustafson 1950, Johanson
+1971, Ketterl 1983, Nitzan et al. 1986, Zuhrt 1991, Burke und Samarawickrama
+1995).
+Nach Gustafson (1950) stellen die Abnutzung (Abrasion), die Anlagerung von
+Sekundärdentin im Pulpencavum der Zahnkronen und -wurzeln, die Verschiebung
+der Parodontalgewebe, die von der Wurzelspitze her beginnende, zunehmende
+Ausbildung der Wurzeldentintransparenz, die Zementapposition und resorptive
+Vorgänge im Wurzelbereich typische Erscheinungen dar, welche im Zusammenhang
+mit dem erreichten Lebensalter stehen (Abbildung 13).
+
+59
+
+Gustafson (1950)
+Abnutzung
+Ablagerung von Sekundärdentin
+
+Verschiebung der Parodontalgewebe
+Transparenz
+Zementablagerung
+Resorption
+
+Abbildung 13: Lebensalterabhängige Zahnveränderungen nach Gustafson (1950)
+
+Sowohl die Hart- wie die Weichgewebe von Zähnen und Zahnhalteapparat sind
+konstanten Änderungen unterworfen. Diese beginnen unverzüglich mit dem
+Durchbruch und halten das gesamte Leben hindurch an. Eine genaue Abgrenzung
+zwischen physiologischen und pathologischen Veränderungen ist nicht möglich
+(Ketterl 1983). Die altersbedingten Vorgänge laufen in ähnlicher Weise bei
+durchgebrochenen und nicht durchgebrochenen Zähnen ab (Nitzan et al. 1986,
+Burke und Samarawickrama 1995). Der Schmelz unterliegt der Abrasion, außerdem
+verändern sich seine physikalischen Eigenschaften im Sinne einer Schmelzreifung
+durch
+
+Wasserverarmung
+
+und
+
+ähnlichen
+
+Vorgängen.
+
+Die
+
+altersbedingten
+
+Veränderungen im Dentin treten wesentlich offenkundiger zutage, wobei sich die
+biologischen Eigenschaften dieses Hartgewebes grundsätzlich wandeln. Das Dentin
+älterer Menschen ist durch eine kontinuierliche Verengung des Lumens der
+Dentinkanälchen charakterisiert, ebenso durch eine zunehmende Kalzifikation, eine
+Reduktion der peritubulären Flüssigkeit und eine abnehmende Sensitivität. Mit
+Fortschreiten dieses Prozesses kann das Dentin die Funktion des Schmelzes
+übernehmen, wenn dieser im Laufe des Lebens durch Abrasionsprozesse reduziert
+wurde. Mit steigendem Lebensalter wird darüber hinaus zunehmend Zement an der
+Wurzeloberfläche von apikal her ansteigend abgelagert, ein Vorgang welcher vor
+allem funktionell getriggert wird und zu einer Verminderung der apikalen
+Ramifikationen führt (Ketterl 1983, Zuhrt 1991). Das Pulpavolumen nimmt im Laufe
+60
+
+des Lebens durch Ablagerung von Sekundärdentin und amorphem Dentin
+kontinuierlich ab. Histologisch unterscheidet sich eine jugendliche Pulpa grundlegend
+von der Pulpa eines älteren Menschen. Rückbildungsprozesse (regressive
+Methamorphosen) beginnen unverzüglich nach dem Zahndurchbruch. Es ändern
+sich die Zahl, die Art, die Eigenschaften und Fähigkeiten der Zellen. Die Vitalität der
+Pulpa wir hierdurch jedoch nicht beeinflusst. Die Blutzirkulation der Pulpa wird durch
+eine nach coronal ansteigende Ablagerung von Sekundärdentin
+(Burke
+
+und
+
+Samarawickrama
+
+kontinuierlichen
+
+1995).
+
+Umbauvorgängen
+
+Der
+
+Zahnhalteapparat
+
+unterworfen,
+
+welche
+
+vor
+
+beeinträchtigt
+ist
+
+gleichfalls
+
+allem
+
+durch
+
+physiologische Okklusions- und Mesialbewegungen beeinflusst werden (Ketterl
+1983). Die Breite des Parodontalspalts wird im Laufe des Lebens inbesondere durch
+funktionelle Einflüsse geringer (Coolidge 1937). Die Anzahl der demodontalen Zellen
+und ihre mitotische Aktivität verringern sich (Ketterl 1983) Die Bildungsrate von
+neuem Kollagen wird geringer (Rataitschak 1978). Der Anteil elastischer Fasern im
+Desmodont steigt mit dem Lebensalter an (Haim und Baumgärtel 1968). Die
+Vaskularisation des Desmodonts nimmt ähnlich wie in der Zahnpulpa mit steigendem
+Lebensalter ab (Ketterl 1983).
+Zurückgehend auf Gustafson (1950) haben die beschriebenen altersabhängigen
+Vorgänge in unterschiedlicher Art und Weise Eingang in die odontologische
+Altersschätzungsmethodik
+
+gefunden.
+
+Da
+
+die
+
+vorliegende
+
+Studie
+
+durch
+
+Beobachtungen in der Altersschätzungsroutine Lebender initiiert worden ist, können
+nach
+
+eingehender
+
+Darstellung
+
+entwicklungsbiologischen
+
+Merkmale
+
+des
+
+Forschungsstandes
+
+Mineralisation
+
+und
+
+hinsichtlich
+
+Eruption
+
+und
+
+der
+ihren
+
+Limitierungen bezüglich der in der relevanten Altersgruppe einzig in Entwicklung
+befindlichen Weisheitszähne lediglich ausgewählte altersabhängige Veränderungen
+diskutiert werden.
+Nach Beendigung der Zahnentwicklung stellt die Methode von Kvaal et al. (1995) für
+mittlere bis höhere Lebensalter eine bewährte und nach Kenntnis des Autors bislang
+einzige röntgenologische Schätzmethode dar. Die betreffenden Zähne werden
+radiologisch vermessen, bestimmte Teilstrecken ermittelt und ins Verhältnis gesetzt
+(maximale Zahnlänge, Wurzellänge an der mesialen Fläche, maximale Pulpalänge,
+Wurzel- und Pulpabreite an der Schmelz-Zementgrenze =A, Wurzel- und Pulpabreite
+in der Mitte zwischen Apex und Schmelz-Zementgrenze =C, Wurzel- und Pulpabreite
+auf halber Strecke zwischen A und C). Hinsichtlich der Anwendung der Methode bei
+61
+
+Jugendlichen und jungen Erwachsenen erreicht diese jedoch ihre Grenzen und wird
+kontrovers diskutiert. Eine tendenzielle Überschätzung oder Unterschätzung des
+Lebensalters ist die Folge (Paewinsky et al. 2005, Meinl et. al. 2007)). Darüber
+hinaus
+
+scheint
+
+die
+
+Anwendung
+
+der
+
+Kvaal-
+
+Methode
+
+bei
+
+digitalen
+
+Orthopantomogrammen nicht unproblematisch zu sein (Landa et. al. 2009).
+Es besteht Konsens darüber in der der Literatur, dass sich der apikale Verschluss
+der Weisheitszähne im Alter zwischen 20 und 23 Jahren vollzieht (Kahl und
+Schwarze 1988, Mincer et. al 1993, Olze et al. 2003, Knell et al. 2009). Die
+Wahrscheinlichkeit, voll ausgebildete Weisheitszahnwurzeln in einem Alter unter 18
+Jahren vorzufinden ist sehr gering, prinzipiell konnte dies bislang jedoch nicht
+ausgeschlossen werden (Mincer et. al. 1993, Gunst et el. 2003, Knell et al. 2009).
+Die radiologische Untersuchung der Hand erbringt bis zu einem Lebensalter von 19
+Jahren gute Ergebnisse, wenngleich auch hier ein Alter von unter 18 Jahren nicht
+sicher ausgeschlossen werden kann. Die Minima für eine abgeschlossnes
+Ossifikation der Handwurzelknochen betragen für Männer 16,7 und für Frauen 17,1
+Jahre (Schmeling et al. 2006). Die einzige Möglichkeit des Ausschlusses eines unter
+18
+
+Jahren
+
+liegenden
+
+Lebensalters
+
+besteht
+
+bislang
+
+in
+
+der
+
+radiologischen
+
+Untersuchung der Ossifikation der Clavikulaepiphysenfuge (Schmeling et al. 2004,
+Schulz et al. 2008, Kellinghaus et al. 2009). Viele Radiologen beherrschen diese
+Methode jedoch nicht, weshalb Sie nur in wenigen Ländern angewendet wird.
+Die in der vorliegenden Arbeit vorgestellten Methoden können nach Auffassung des
+Autors eine Abgrenzung der Vollendung des 18. Lebensjahres mit Hilfe von
+zahnärztlichen Untersuchungsmethoden erstmalig ermöglichen.
+Merkmal Sichtbarkeit Parodontalspalt. Die Minima für das Stadium P0 liegen für
+die Zähne 38 und 48 bezüglich der männlichen Probanden im Bereich von 17,6 und
+hinsichtlich der weiblichen Probanden im Bereich von 17,2 Jahren.
+Die Minima für das Stadium P1 liegen für die Zähne 38 und 48 bezüglich der
+männlichen Probanden im Bereich von 22,3-22,4 und und hinsichtlich der weiblichen
+Probanden im Bereich von 21,6-21,9 Jahren.
+Die Minima für das Stadium P2 liegen für die Zähne 38 und 48 bezüglich der
+männlichen Probanden im Bereich von 22,3-22,7 und hinsichtlich der weiblichen
+Probanden im Bereich von 23,4-24,7 Jahren.
+
+62
+
+Die Minima für das Stadium P3 liegen für die Zähne 38 und 48 bezüglich der
+männlichen Probanden im Bereich von 25,4-26,2 und hinsichtlich der weiblichen
+Probanden im Bereich von 24,6-25,2 Jahren.
+Bei Vorliegen des Stadiums P0 ist demnach eine Abgrenzung des 18. Lebensjahrs
+nicht möglich.
+Bei Vorliegen der Stadien P1-P3 ist eine sichere Abgrenzung des 18. Lebensjahrs
+möglich. Insbesondere das Erreichen der Stadien P2 und P3 ermöglicht mit hoher
+Wahrscheinlichkeit die Abgrenzung des 21. Lebensjahrs.
+Merkmal Sichtbarkeit Wurzelkanäle. Die Minima für das Stadium W0 liegen für die
+Zähne 38 und 48 bezüglich der männlichen Probanden im Bereich von 17,6 und und
+hinsichtlich der weiblichen Probanden im Bereich von 17,2 Jahren. Bei Vorliegen des
+Stadiums 1 ist demnach eine Abgrenzung des 18. und 21. Lebensjahrs möglich.
+Die Minima für das Stadium W1 liegen für die Zähne 38 und 48 bezüglich der
+männlichen Probanden im Bereich von 21,0-22,4 und hinsichtlich der weiblichen
+Probanden im Bereich von 21,6-21,9 Jahren. Bei Vorliegen des Stadiums 1 ist
+demnach eine Abgrenzung des 18. und 21. Lebensjahrs möglich.
+Die Minima für das Stadium W2 liegt für die Zähne 38 und 48 bezüglich der
+männlichen Probanden im Bereich von 22,3-22,7 und hinsichtlich der weiblichen
+Probanden im Bereich von 23,4-24,7 Jahren. Bei Vorliegen des Stadiums 1 ist
+demnach eine Abgrenzung des 18. und 21. Lebensjahrs möglich.
+Die Minima für das Stadium W3 liegt für die Zähne 38 und 48 bezüglich der
+männlichen Probanden im Bereich von 25,2-25,9 und hinsichtlich der weiblichen
+Probanden im Bereich von 25,1-25,2 Jahren. Bei Vorliegen des Stadiums 1 ist
+demnach eine Abgrenzung des 18. und 21. Lebensjahrs möglich.
+Bei Vorliegen des Stadiums W0 ist demnach eine Abgrenzung des 18. Lebensjahrs
+nicht möglich.
+Bei Vorliegen der Stadien W1-W3 ist bezüglich der weiblichen Probanden eine
+sichere Abgrenzung des 18. Lebensjahrs möglich. Für die männlichen Probanden gilt
+dies für die Stadien W2 und W3. Insbesondere das Erreichen der Stadien W2 und
+W3 ermöglicht für beide Geschlechter mit hoher Wahrscheinlichkeit die Abgrenzung
+des 21. Lebensjahrs.
+Insgesamt ist nach Auffassung des Autors Zurückhaltung hinsichtlich der möglichen
+Abgrenzung des 21. Lebensjahres geboten. Die Abgrenzung der Vollendung des 18.
+
+63
+
+Lebensjahrs gelingt mit beiden Methoden bei Erreichung der entsprechenden
+Stadien jedoch mit der nötigen statistischen Sicherheit.
+In
+
+die
+
+vorliegende
+
+Studie
+
+waren
+
+Orthopantomogramme
+
+von
+
+15-40jährigen
+
+Probanden eingeschlossen. Wären beispielsweise bis zu 50jährige Probanden
+eingeschlossen worden, so hätte dies wohl zu einer Erhöhung der Medianwerte in
+den späteren Stadien, nicht jedoch zu einer Anhebung der Minima geführt. Jede
+Altersgruppe bestand aus Aufnahmen von je 20 weiblichen und männlichen
+Probanden. Eine Erhöhung der Fallzahl hatte vermutlich eine Erhöhung der
+Aussagesicherheit begünstigt. Da jedoch prospektive röntgenologische Studien nach
+Maßgabe der Röntgenschutzverordnung nicht durchführbar sind, war der Autor auf
+retrospektiv zur Verfügung stehende Aufnahmen angewiesen.
+Die in der vorliegenden Studie präsentierten Daten besitzen Neuheitswert.
+Entsprechende Vergleichsdaten sind nach Kenntnis des Autors nicht zu erlangen.
+Nach Auffassung des Autors wurden erstmalig altersabhängige Veränderungen,
+welche nach Beendigung der Zahnmineralisation in dieser Form ausschließlich an
+den unteren Weisheitszähnen visuell sichtbar und auswertbar auftreten hinsichtlich
+ihrer Relevanz für die odontologische Altersschätzungsroutine untersucht. Über die
+Ursachen der dargestellten Effekte können daher auch nur Vermutungen angestellt
+werden.
+
+Die
+
+zunehmende
+
+Unsichtbarkeit
+
+der
+
+Wurzelkanäle
+
+bzw.
+
+des
+
+Parodontalspalts der untersuchten dritten Molaren ist nach Auffassung des Autors als
+vorrangig optisches Phänomen zu klassifizieren. Der Autor ist der Überzeugung,
+dass sich die Wurzelkanäle bzw. der Parodontalspalt mit zunehmendem Lebensalter
+nicht wirklich völlig schließen. Vielmehr kommt es einerseits zu einer lebenslangen
+Anlagerung von Sekundärdentin im Bereich von Kronen- und Wurzelpulpa, welche
+mit einer Einengung des Lumens einhergeht und andererseits zu einer ebenfalls
+lebenslangen Anlagerung von Wurzelzement, welche den hier ursprünglich im
+Parodontalspalt vorhandenen Raum ebenfalls zunehmend einengt (Solheim 1992).
+Die im Strahlengang befindlichen knöchernen Strukturen scheinen ausschließlich in
+der Region der dritten Molaren die dargestellten Phänomene erst zu erzeugen. Im
+Oberkiefer führt die Überlagerung mit dem Jochbogen bezogen auf die untersuchten
+dritten Molaren in überproportional vielen Fällen zu einer Nichtauswertbarkeit. Im
+Unterkiefer hingegen scheint die in der Linea obliqua mandibularis befindliche
+Knochenmasse die dargestellten Effekte zu erzeugen.
+
+64
+
+Die Einteilung und Definition von Stadien für die beobachteten Phänomene gelang
+nicht frei von Schwierigkeiten. Der Autor ist der Auffassung, dass die vorgenommene
+Stadieneinteilung am anschaulichsten die altersabhängigen Vorgänge beschreibt.
+
+65
+
+8. Zusammenfassung
+In
+
+Rahmen
+
+der
+
+forensich-odontologischen
+
+Altersschätzungsroutine
+
+war
+
+die
+
+Abgrenzung des Erreichens des 18. Lebensjahrs mit den zur Verfügung stehenden
+entwicklungsbiologischen Hauptkriterien Weisheitszahnmineralisation und -eruption
+bislang nicht möglich. Bis zum gegenwärtigen Zeitpunkt galt insbesondere der
+Abschluss der Wurzelmineralisation als Endstadium der Weisheitszahnentwicklung.
+Gleichzeitig wurde in der Routine offensichtlich, dass auch nach Abschluss der
+Wurzelbildung Veränderungen an den Wurzeln der dritten Molaren im Sinne eines
+fortschreitenden Unsichtbarwerdens der Wurzelkanäle und des Parodontalspalts
+stattfanden.
+In der vorliegenden retrospektiven Studie sollte untersucht werden, inwieweit die
+beobachteten Phänomene klassifizierbar sind, und wenn ja, ob einzelne Stadien in
+Weiterentwicklung bewährter Stadieneinteilungen unterteilbar sind, bestimmten
+Lebensaltern zugeordnet werden können und ob eine für die Altersschätzungsroutine
+wichtige,
+
+sichere
+
+Abgrenzung
+
+des
+
+Erreichens
+
+des
+
+18.
+
+Lebensjahrs
+
+unter
+
+Berücksichtigung der beobachteten Phänomene gelingt.
+Zur Untersuchung kamen 1198 konventionell erstellte Orthopantogramme von 629
+weiblichen und 569 männlichen Deutschen im Alter von 15-40 Jahren welche im
+Zeitraum von 1987 bis 2008 erstellt worden waren.
+Hinsichtlich der untersuchten Merkmale Sichtbarkeit Wurzelkanäle und Sichtbarkeit
+Parodontalspalt wurde je eine Stadieneinteilung entwickelt, welche aus jeweils vier
+Stadien bestand. Es wurden statistische Maßzahlen sowie Minima und Maxima
+ermittelt.
+
+Wegen
+
+Überlagerungseffekten
+
+mit
+
+im
+
+Strahlengang
+
+liegenden
+
+anatomischen Strukturen war eine Beurteilung der oberen dritten Molaren nicht
+möglich. Für beide Geschlechter stiegen die Minima und Mediane mit steigendem
+Stadium an.
+Bei Vorliegen des jeweiligen Anfangsstadiums (P0 bzw. W0) ist eine sichere
+Abgrenzung der Erreichung des 18. Lebensjahres nicht möglich. Das Erreichen der
+Stadien P1-P3 bzw. W2-W3 ermöglicht hingegen eben diese Abgrenzung.
+Die mitgeteilten Daten besitzen nach Kenntnis des Autors Neuheitswert. Ihr Eingang
+in
+
+die
+
+Altersschätzungsroutine
+
+Methodenspektrums
+
+beitragen
+
+kann
+und
+
+zur
+
+die
+
+Diversifizierung
+
+des
+
+eingesetzten
+
+Aussagesicherheit
+
+der
+
+forensischen
+
+Altersdiagnose insbesondere hinsichtlich der odontologischen Abgrenzung der
+forensisch bedeutsamen Altersgrenze von 18 Jahren erhöhen.
+66
+
+9. Literaturverzeichnis
+1.
+
+Adler P, Adler-Hradecky C (1962) Eruption times of the upper and lower third
+molars. Acta Genet Stat Med 12: 366-74
+
+2.
+
+Ajmani ML, Jain SP, Joshi SD (1986) Age and wisdom teeth in Nigeria.
+Anthropol Anz 44: 143-148
+
+3.
+
+Amrhein H (1967) Stomatologische Morbiditätsuntersuchungen an einer
+Standardbevölkerung des Kreises Ludwigslust. Med Diss Greifswald
+
+4.
+
+Archer WH (1955) Die Chirurgie des Mundes und der Zähne. Medica, Stuttgart
+
+5.
+
+Artun J, Behbehani F, Thalib L (2006) Prediction of maxillary third molar
+impaction in adolescent orthodontic patients. Angle Orthod 75: 904-911
+
+6.
+
+Ay S, Agar U, Bicakci AA, Kosger HH (2006) Changes in mandibular third
+angle and position after unilateral mandibular first molar extraction. Am J
+Orthod Dentofacial Orthop 129: 36-41
+
+7.
+
+Bayerisches Zahnärzteblatt, BZB, Heft 11/97, S. 32, 34, Fortbildung.
+
+8.
+
+Bergström J, Preber H (1994) Tobacco use as a risk factor. J Periodontol 65:
+545-550
+
+9.
+
+Bergström J (2004) Tobacco smoking and chronic destructive periodontal
+disease. Odontology.
+
+10. Berkowitz BKB, Bass TP (1976) Eruption rates of human upper third molars. J
+Dent Res 55: 460-464
+11. Bolaños MV, Moussa H, Manrique MC, Bolaños MJ (2003) Radiographic
+evaluation of third molar development in Spanish children and young people.
+Forensic Sci Int. 5;133(3):212-9
+12. Braga J Heuzé Y, Chabadel O, Bley D (2005). The impact of socioeconomic
+status in the estimation of non-adult dental age. Orthod Fr. 76(4):309-16
+13. Breik O, Grubor D (2008) The incidence of mandibular third molar impactions
+in different skeletal face types. Aust Dent J 22:255-263
+14. Brochut PF, Cimasoni G (1997) Smoking and the periodontium (I). History and
+clinical
+
+aspects.
+
+A
+
+review
+
+of
+
+the
+
+literature
+
+Schweiz
+
+Monatsschr
+
+Zahnmed.:107(8):672-86
+15. Brochut PF, Cimasoni G (1997) Smoking and the periodontium (II).
+Pathogenetic mechanisms and therapeutic difficulties. A review of the
+literature. Schweiz Monatsschr Zahnmed.: 107(9):771-86.
+
+67
+
+16. Brown KA (1986) Forensic aspects of community dentistry. Ann Acad Med
+Singapore 15: 414-417
+17. Brunnemann KD, Hoffmann D (1981) Assessment of the carcinogenic Nnitrosodietholamine in tobacco products and tobacco smoke. Carcinogenesis
+2: 1123-1127
+18. Burke FM, Samarawickrama DYD (1995) Progressive changes in the pulpodentinal complex and their clinical consequences. Gerodontology 12:57-66
+19. Burris BG, Harris EF (1998) Identification of race and sex from palate
+dimensions. J Forensic Sci 43: 959-963
+20. Burris BG, Harris EF (2000) Maxillary Arch Size and Shape in American
+Blacks and Whites. Angle Orthod 70: 297-302
+21. Byers SN, Churchill SE, Curran B (1997) Identification of Euro-Americans,
+Afro-Americans, and Ameridians from palatal dimensions. J Forensic Sci 42:
+3-9
+22. Cameriere R, Ferrante L, Cingolani M (2006) Age estimation in children by
+measurement of open apices in teeth. Int J Legal Med 120: 49–52
+23. Cameriere R, Cunha E, Sassaroli E, Nuzzolese E, Ferrante L (2009) Age
+estimation by pulp/tooth area ratio in canines: Study of a Portuguese sample
+to test Cameriere’s method Forensic Science International 193 128.e1–128.e6
+24. Cate A. R. Ten (1998) Oral Histology: Development, Structure and Function.
+5. Auflage.
+25. Chagula WK (1960) The age at eruption of third permanent molars in male
+East Africans. Am J Phys Anthropol 18: 77-82
+26. Chen LL, Xu TM, Jiang JH, Zhang XZ, Lin JX (2010) Longitudinal changes in
+mandibular arch posterior space in adolescents with normal occlusion. Am J
+Orthod Dentofacial Orthop. 137(2):187-93
+27. Coolidge ED (1937) The thickness of the human periodontal membrane. J Am
+Dent Assoc 24:1260
+28. Crossner CG, Unell LA (1996) Longitudinal study of dental health in a group of
+Swedish teenagers/young adults from the age of 14 to 25. Swed. Dent J 20:
+189-197
+29. Daito M, Tanaka M, Hieda T (1992) Clinical observations on the development
+of third molars. J Osak Dent Univ 26: 91-104
+
+68
+
+30. De la Rosa Gay C, Valmaseda-Castellon E, Gay-Escoda C (2006)
+Spontaneous third molar eruption after second molar extraction in orthodontic
+patients. Am J Orthod Dentofacial Orthop 129: 337-344
+31. Demirjian A, Goldstein H, Tanner JM (1973) A New System of Dental Age
+Assessment. Hum Biol 45: 221-227
+32. Demirjian A (1986) Dentition. In: Falkner F, Tanner JM, eds. Human growth.
+New York: Academic Press: 269-298
+33. Drosos V (2005) Vergleichende röntgenologische und morphologische
+Befunderhebung an Weisheitszähnen als Kriterium für die forensische
+Altersbestimmung bei Jugendlichen und jungen Erwachsenen. Wie präzise ist
+die Panoramaschichtaufnahme? Diss Hamburg
+34. Fanning EA (1962) Third molar emergence in Bostonians. Am J Phys
+Anthropol 20: 339-346
+35. Fleiss JL (1981) Statistical Methods for Rates and Proportions. J Wiley, New
+York
+36. Flores-De-Jacobi L (1987) Parodontologie. In: Schwenzer N (Hrsg) ZahnMund-Kieferheilkunde (Band 5) Georg Thieme, Stuttgart New York: 232-349
+37. Friedrich RE, Ulbricht C, von Maydell, LA (2003a) Altersbestimmung in
+Abhängigkeit von der Anzahl kariöser oder konservierend versorgter Zähne.
+Quintessenz 54: 863-874
+38. Friedrich RE, Ulbricht C, von Maydell, LA (2003b) Karies und Füllungen an
+Weisheitszähnen als forensisch-odontologisches Hilfsmittel der Bestimmung
+eines chronologischen Alters über 18 Jahren. Radiologische Untersuchungen
+an Panoramaschichtaufnahmen von Kindern und Jugendlichen. Arch Kriminol
+212: 74-82
+39. Garn SM, Koski K, Lewis AB (1957) Problems in determining the tooth
+eruption sequence in fossil and modern man. Am J Phys Anthropol 15: 313-31
+40. Garn SM, Lewis AB, Blizzard (1960) The relationship between tooth formation
+and other maturation factors
+41. Geserick G, Reisinger W, Schmeling A, Olze A (2002) Forensische
+Altersdiagnostik. In: Sösemann B (Hrsg.) Jahrbuch 2001 der Berliner
+Wissenschaftlichen Gesellschaft. Berlin: Berlin Verlag, Arno Spitz GmbH: 95105
+
+69
+
+42. Gleiser I, Hunt EE (1955) The permanent mandibular first molar; its
+calcification, eruption and decay. Am J Phys Anthropol 13: 253-284
+43. Glöckner
+
+E
+
+(1971)
+
+Untersuchungen
+
+über
+
+den
+
+DMF-Index
+
+und
+
+die
+
+erforderlichen Therapiemaßnahmen in 13 Landkreisen der DDR - ein Beitrag
+zur allgemeinen stomatologischen Teilmorbidität. Diss Greifswald
+44. Gorgani N, Sullivan RE, DuBois L (1990) A radiographic investigation of thirdmolar development. J Dent Child 57: 106-110
+45. Gravely JF (1965) A radiographic survey of third molar development. Brit Dent
+J 119: 397-401
+46. Greulich WW, Pyle SI (1959) Radiographic atlas of skeletal development of
+the hand and wrist. Second Edition. Stanford Univ Press, California
+47. Gustafson G, Koch G (1974) Age estimation up to 16 years of age based on
+dental development. Odontol Rev 25: 297-306
+48. Haavikko K (1970) The formation and the alveolar and clinical eruption of the
+permanent teeth. Suom Hammaslaak Toim 66: 103-170
+49. Haavikko
+
+K,
+
+Mattila
+
+K
+
+(1970)
+
+The
+
+correspondence
+
+between
+
+the
+
+orthopantomographic and the clinical appearance of an erupting permanent
+tooth replacing a deciduous tooth. Suom Hammaslaak Toim 66: 190-195
+50. Hägg U, Matsson L (1985) Dental maturity as an indicator of chronological
+age: The accuracy and precision of three methods. Eur J Orthod 7: 25-34
+51. Haim
+
+G,
+
+Baumgartel
+
+R
+
+(1968)
+
+Altersveränderungen
+
+im
+
+Periodont
+
+(Desmodont). Deutsch Zahnärztl Z 23:340
+52. Harris EF, McKee JH. (1990) Tooth mineralisation standards for Blacks and
+Whites from the Middle Southern United States. J Forensic Sci 35: 859-872
+53. Harris MJP, Nortje CJ (1984) The mesial root of the third mandibular molar. A
+possible indicator of age. J Forensic Odontostomatol 2: 39-43
+54. Hassanali J (1985) The third permanent molar eruption in Kenyan Africans
+and Asiens. Ann Hum Biol 12: 517-523
+55. Hennig T (1989) Überprüfung der Möglichkeit der Altersbestimmung an
+Einzelzähnen mittels Wurzeldentintransparenz bei einer Population aus dem
+10. bis 12. Jahrhundert. Diss Berlin
+56. http://agfad.uni-muenster.de/german/empfehlungen.htm
+
+70
+
+57. Johanson G (1971) Age determination from human teeth. V. Methods based
+on structural changes in fully developed and erupted teeth. Odontol Revy
+22:40-126
+58. Kaatsch HJ (2001) Juristische Aspekte der Altersschätzung. In: Oehmichen M
+Geserick G: (Hrsg.): Osteologische Identifikation und Altersschätzung.
+Schmidt- Römhild (Lübeck): 243-254
+59. Kellinghaus M, Schulz R, Vieth V, Schmidt S, Schmeling A. (2010) Forensic
+age estimation in living subjects based on the ossification status of the medial
+clavicular epiphysis as revealed by thin-slice multidetector computed
+tomography. Int J Legal Med. 124(2):149-54
+60. Ketterl W (1983) Age- induced changes in the teeth and their attachment
+apparatus. Int Dent J 33:262-71
+61. Kim TW, Artun J, Behbehani F, Artese F (2003) Prevalence of third molar
+impaction in orthodontic patients treated non extraction and with extraction of
+4 premolars. Am J Orthod Dentofacial Orthop 123:138-145
+62. Kimura K (1984) Studies on growth and development in Japan Yearb Phys
+Anthropol 27:179-214
+63. Klein H, Palmer CE, Knutson JW (1938) Studies in dental caries. Publ Health
+53: 751-757
+64. Knell B, Ruhstaller P, Prieels F, Schmeling (2009) A Dental age diagnostics by
+means of radiographical evaluation of the growth stages of lower wisdom
+teeth. Int J Legal Med. 123(6):465-9
+65. Knell B, Markwalder T (2009) The role of the dentist in modern forensic age
+determination. Schweiz Monatsschr Zahnmed.;119(2):168, 170
+66. Köhler S, Schmelzle R, Loitz C, Püschel K (1994) Die Entwicklung des
+Weisheitszahnes als Kriterium der Lebensalterbestimmung. Ann Anat 176:
+339-345
+67. Kreitner KF, Schweden FJ, Riepert T, Nafe B, Thelen M (1998) Bone age
+determination based on the study of the medial extremity of the clavicle. Eur
+Radiol 8: 1116-1122
+68. Krumholt L, Roed-Petersen B, Pindborg JJ (1971) Eruption times of the
+permanent teeth in 622 Ugandan children. Arch Oral Biol 16: 1281-1288
+69. Kullman L, Johanson G, Akesson L (1992) Root development of the lower
+third molar and its relation to chronological age. Swed Dent J 16: 161-167
+71
+
+70. Kvaal SI, Kollveit KM, Thomsen IO, Solheim T (1995) Age estimation of adults
+from dental radiographs. Forensic Sci Int 74:175-185
+71. Landa MI, Garmendi PM, Botella MC, Alemàn I (2009) Application of the
+metod of Kvaal et al. to digital orthopantomograms. Int. J Legal Med 123:123128
+72. Lang NP, Attström R, Löe H (1998) Proceedings of the European Workshop
+on Mechanical Plaque Control. Quintessenz, Chicago
+73. Levesque GY, Demirijian A, Tanguay R (1981) Sexual dimorphism in the
+development, emergence, and agenesis of the mandibular third molar.
+J Dent Res 60: 1735-41
+74. Liebrecht S (2002) Stop smoking. J Prophylaxe Impuls 2: 73-75
+75. Llarena del Rosario ME, Nuno González MM (1990) Stages of formation and
+calcification of the third molar Rev ADM47(3):112-8
+76. Marshall WA, Tanner JM (1970) Variations in the pattern of pubertal changes
+in boys. Arch Dis Child 45: 13-23
+77. Meinl A, Tangl S, Pernicka E, Fenes C, Watzek G (2007) On the applicability
+of secondary dentin formation to radiological age estimation in young adults. J
+Forensic Sci 52:438-41
+78. Merte K (Hrsg) (1992) Parodontologie für die Praxis. Johann Ambrosius Barth,
+Leipzig Berlin Heidelberg
+79. Mincer HH, Harris EF, Berryman HE (1993) The A.B.F.O. study of third molar
+development and its use as an estimator of chronological age. J Forensic Sci
+38: 379-390
+80. Moorrees CFA, Fanning EA, Hunt, EE (1963) Age Variation of Formation
+Stages for Ten Permanent Teeth, J. dent. Res., 42:1490-1502,
+81. Mörnstad H, Reventlid M, Teivens A (1995) The validity of four methods for
+age determination by teeth in Swedish children. Swed Dent J 19: 121-130
+82. Mühler M, Schulz R, Schmidt S, Schmeling A, Reisinger W (2006) The
+influence of slice thickness on assessment of clavicle ossification in forensic
+age diagnostics. Int J Legal Med. 120(1):15-7
+83. Müller HR (1983) Eine Studie über die Inkonstanz des dritten Molaren (Fehlen,
+Anlage, Durchbruch). Diss Dresden
+
+72
+
+84. Nitzan DW, Michaeli Y, Weinreb M, Azaz B (1986) The effect of aging on toth
+morphology: A study on impacted teeth. Oral Surg Oral Med Oral Path 61:5460
+85. Nolla CM. (1960). The development of the permanent teeth. J Dent Child,
+27(4): 254-266.
+86. Odusanya SA, Abayomi IO (1991) Third molar eruption among rural Nigerians.
+Oral Surg Oral Med Oral Pathol 71: 151-154
+87. Olasoji HO, Odusanya SA (2000) Odonto-stomatologie tropicale, Tropical
+dental journal.
+88. Olze A, Schmeling A, Rieger K, Kalb G, Geserick G (2003a) Untersuchungen
+zum zeitlichen Verlauf der Weisheitszahnmineralisation bei einer deutschen
+Population. Rechtsmedizin 13: 5-10
+89. Olze A, Taniguchi M, Schmeling A, Zhu BL, Yamada Y, Maeda H, Geserick G
+(2003b) Comparative study on the chronology of third molar mineralization in a
+Japanese and a German population. Legal Medicine 5: 256-260
+90. Olze A, Mahlow A, Schmidt S, Geserick G, Schmeling A (2004a) Radiologisch
+bestimmte Varianten des DMF-Index zur forensischen Altersschätzung bei
+jungen Erwachsenen. Archiv für Kriminologie 214: 103-111
+91. Olze A, Mahlow A, Schmidt S, Geserick G, Schmeling A (2004b) Der
+parodontale Knochenabbau als Kriterium der forensischen Altersdiagnostik bei
+jungen Erwachsenen. Rechtsmedizin 14: 448-453
+92. Olze A, Mahlow A, Schmidt S, Wernecke KD, Geserick G, Schmeling A
+(2004c) Combined determination of selected roentgeno-morphologic variables
+relevant for dental age estimation of young adults. Homo 56:133-140
+93. Olze A, Schmeling A, Taniguchi M, Maeda H, van Niekerk P, Wernecke KD,
+Geserick G (2004d) Forensic age estimation in living subjects: the ethnic
+factor in wisdom tooth mineralization. Int J of Legal Medicine 118: 170-173
+94. Olze A, Taniguchi M, Schmeling A, Zhu BL, Yamada Y, Maeda H, Geserick G
+(2004e) Studies on the chronology of third molar mineralization in a Japanese
+population. Legal Medicine 6: 73-79
+95. Olze A, van Niekerk P, Schmidt S, Wernecke KD, FW Rösing, Geserick G,
+Schmeling A (2006) Studies on the progress of third molar mineralization in a
+Black African population. Homo 57:209-17.
+
+73
+
+96. Olze A, Bilang D, Schmidt SA, Wernecke KD, Geserick G, Schmeling A (2005)
+Validation of common classification systems for assessing the mineralization
+of third molars. Int J of Legal Medicine 119: 22-26.
+97. Olze A, van Niekerk P, Schulz R, Schmeling A. (2007), Studies of the
+chronological course of wisdom tooth eruption in a Black African population. J
+Forensic Sci; 52:1161-3
+98. Olze A, Solheim T, Schulz R, Kupfer M, Schmeling A (2010) Evaluation of the
+radiographic visibility of the root pulp in the lower third molars for the purpose
+of forensic age estimation in living individuals. Int J Legal Med. 124(3):183-6
+99. Olze A, Solheim T, Schulz R, Kupfer M, Schmeling A (2010) Assessment of
+the radiographic visibility of the periodontal ligament in the lower third molars
+for the purpose of forensic age estimation in living individuals. eingereicht
+100. Orton-Gibbs S, Crow V, Orton HS (2001) Eruption of third permanent molars
+after the extraction of second permanent molars. Part 1: Assessment of third
+molar position and size. Am J Orthod Dentofacial Orthop 119: 226-238
+101. Otuyemi OD, Ugboko VI, Ndukwe KC, Adekoya-Sofowora CA (1997) Eruption
+times of third molars in young rural Nigerians. Int Dent J 47: 266-270
+102. Paewinsky E, Pfeiffer H, Brinkmann B (2005) Quantification of secondary
+dentine formation from orthopantomograms-a contribution to forensic age
+estimation methods in adults. Int J Legal Med. Jan;119(1):27-30
+103. Pöyry M, Nyström M, Ranta R (1986) Comparison of two tooth formation rating
+methods. Proc Finn Dent Soc 82: 127-133
+104. Prieto JL, Barbeira E, Ortega R, Magana C (2005) Evaluation of chronological
+age based on third molar development in the Spanish population. Int J Legal
+Med 119:349-354
+105. Rantanen AV (1967) The age of eruption of the third molar teeth. Acta Odontol
+Scand 25 Suppl: 1-86
+106. Rateitschak KH, Renggli HH, Mohlemann H (1978) Parodontologie. 2nd
+Edition, Thieme, Stuttgart
+107. Rateitschak H, Rateitschak EM, Wolf HF (Hrsg.) (2004) Parodontologie. Georg
+Thieme, Stuttgart New York
+108. Reventlid M, Mörnstad H, Teivens AA (1996) Intra- and inter-examiner
+variation in four dental methods for age estimation of children. Swed Dent J
+20: 133-139
+74
+
+109. Reichart PA (2000) Oral mucosal lesions in a representative cross-sectional
+study of aging Germans. Community Dent Oral Epidemiol
+110. Richardson ME (1973) Development of the lower third molar from 10 to 15
+years. Angle Orthod 43(2):191-3.
+111. Richardson M (1975) The development of third molar impaction. Br J Orthod
+2(4):231-4
+112. Richardson M (1978) Pre-eruptive movements of the mandibular third molar
+Angle Orthod 48(3):187-93
+113. Salvi GE, Lawrence HP, Offenbacher S, Beck JD (1997) Influence of risk
+factors on the pathogenesis of periodontitis. Periodontol 2000 14: 173-201
+114. Sandhu S, Kaur T. (2008) Radiographic study of the positional changes and
+eruption of impacted third molars in young adults of an Asian Indian
+population. J Oral Maxillofac Surg.
+115. Schmeling A, Olze A, Reisinger W, Geserick G (2001) Age estimation of living
+people undergoing criminal proceedings. Lancet 358(9276):89-90
+116. Schmeling A, Kaatsch H-J, Marré B, Reisinger W, Riepert T, Ritz-Timme S,
+Rösing FW, Rötzscher K, Geserick G (2001a) Empfehlungen für die
+Altersdiagnostik bei Lebenden im Strafverfahren. Rechtsmedizin 11: 1-3
+117. Schmeling A, Olze A, Reisinger W, Geserick G (2001b) Age estimation of
+living people undergoing criminal proceedings. Lancet 358: 89-90
+118. Schmeling A, Geserick G, Kaatsch HJ, Marré B, Reisinger W, Riepert T, RitzTimme S, Rösing FW, Rötzscher K. (2001c) Recommendations for age
+determinants of living probands in criminal procedures. Anthropol Anz. 87-91
+119. Schmeling, A (2004) Forensische Altersdiagnostik bei Lebenden im
+Strafverfahren
+120. Schulz R, Mühler M, Mutze S, Schmidt S, Reisinger W, Schmeling A (2005)
+Studies on the time frame for ossification of the medial epiphysis of the
+clavicle as revealed by CT scans. Int J Legal Med. 119(3):142-5.
+121. Sheiham A, Hobdell MH (1969) Decayed, missing and filled teeth in British
+adult populations. Br Dent J 126: 401-404
+122. Shourie KL (1946) Eruption Age of Teeth in India. Indian. Journal of Medical
+Research
+123. Siegel S (1956) Nonparametric Statistics for the Behaviour Sciences McGrawHill Book Comp., New York
+75
+
+124. Sillman, J.H. (1964) Dimensional Changes of the Dental Arches: Longitudinal
+Study from Birth to 25 Years. Amer J Orthodont 50:824-42
+125. Tanaka M, Arai K, Tsurumi A, Takao T, Kim HM, Ishida Y, Kawazoe T (2006).
+Comparison of shortened dental arches with complete dental arches by clinical
+examinations. Nihon Hotetsu Shika Gakkai Zasshi
+126. Tanner JM (1962) Wachstum und Reifung des Menschen. Thieme Stuttgart
+127. Thiemann HH, Nitz I (1986, 1991) Röntgenatlas der normalen Hand im
+Kindesalter. Thieme Leipzig Stuttgart New York
+128. Tsai HH (2005) Factors associated with mandibular third molar eruption and
+impaction. J Clin Pediatr Dent Winter 30(2):109-13
+129. Tschechne S, Müller B, Dibbets J (2008) Sagittal space relations in the maxilla
+during molar eruption. J Orofac Orthop
+130. Uzamiş M, Kansu O, Taner TU, Alpar R (2000) Radiographic evaluation of
+third-molar development in a group of Turkish children. ASDC J Dent Child
+67(2):136-41, 83
+131. Venta I, Murtomaa H, Turtola L, Meurman J, Ylipaavalniemi P (1991)
+Assessing of eruption of lower third molars on the basis of radiographic
+features. Br J Oral Maxillofac Surg 29: 259-262
+132. Venta I, Turtola L, Ylipaavalniemi P (1999) Change in Clinical Status of Third
+Molars in Adults During 12 Years of Oberservation. J Oral Maxillofac Surg 57:
+386-389
+133. Venta I, Ylipaavalniemi P, Turtola L (2004) Clinical Outcome of Third Molars in
+Adults Followed During 18 Years. J Oral Maxillofac Surg 62: 182-185
+134. Willershausen B, Ernst C-P, Pistorius A, Brandenbusch M (2003) In-Getränke
+und ihre Folgen am Zahnschmelz. Zahnärztl Mitt 12: 38-44
+135. Willershausen
+
+B,
+
+Löffler
+
+N,
+
+Schulze
+
+R
+
+(2001)
+
+Analysis
+
+of
+
+1202
+
+orthopantograms to evaluate the potential of forensic age determination based
+on third molar developmental stages. Eur J Med Res 6: 377-384
+136. Wolf H, Haunfelder D (1960) Zahnärztliche Mundchirurgie für Studierende der
+Zahnheilkunde. Berlinische Verlagsanstalt, Berlin, Vol. 5: 59-67
+137. Zuhrt
+
+R
+
+(1991)
+
+Biologische
+
+Aspekte
+
+der
+
+Endodontie
+
+im
+
+höheren
+
+Erwachsenenalter. Dtsch Stomatol 41: 4-10
+
+76
+
+10. Eidesstattliche Erklärung
+„Ich, Michael Alexander Kupfer, erkläre, dass ich die vorgelegte Dissertationsschrift
+mit dem Thema: „Untersuchungen zur radiologischen Sichtbarkeit der Wurzelpulpa
+und des Parodontalspalts unterer dritter Molaren“, selbst verfasst und keine anderen
+als die angegebenen Quellen und Hilfsmittel benutzt, ohne die (unzulässige) Hilfe
+Dritter verfasst und auch in Teilen keine Kopien anderer Arbeiten dargestellt habe.“
+
+Datum
+
+Unterschrift
+
+77
+
+11. Lebenslauf
+Mein Lebenslauf wird aus datenschutzrechtlichen Gründen in der elektronischen
+Version meiner Arbeit nicht veröffentlicht.
+
+78
+
+12. Danksagung
+An dieser Stelle möchte ich allen danken, die mir die Vollendung meiner Promotion
+ermöglicht haben.
+
+Herrn Privatdozent Dr. Andreas Olze mein ganz besonderer Dank. Ohne dessen
+ständige kreative Unterstützung wäre ich nicht auf den Gedanken gekommen, was
+das wissenschaftliche Arbeiten für eine persönliche Bereicherung darstellen kann.
+Der persönliche Gedankenaustausch und die zielgerichtete wissenschaftliche
+Aufgabenstellung durch Herrn Privatdozent Dr. Andreas Olze hat die Fertigstellung
+der Promotion maßgeblich beeinflusst. Weiterhin möchte ich mich bei ihm für die
+Bereitstellung der Röntgenbilder bedanken.
+
+Besonders bedanken möchte ich mich bei den Ärzten und Wissenschaftlern des
+Instituts für Rechtsmedizin der Universität Münster. Herrn Privatdozent Dr. Andreas
+Schmeling gilt mein besonderer Dank für den nicht selbstverständlichen Einsatz von
+Zeit und Mühe, die Arbeit durch sein Hintergrundwissen stetig zu bereichern. Herrn
+Dr. Ronald Schulz gilt mein Dank für die Unterstützung bei der Bewältigung
+statistischer Herausforderungen.
+
+Bedanken möchte ich mich darüber hinaus bei Herrn Dr. Sebastian Peters und Frau
+Dr.
+
+Maud Fuhrmann für
+
+die
+
+Unterstützung hinsichtlich
+
+des
+
+Layouts
+
+und
+
+Korrekturlesens.
+
+Ohne die ausdauernde Unterstützung meiner Frau Inge Kupfer wäre die Umsetzung
+der Promotion kaum möglich gewesen. Besonders bei Ihr möchte ich mich von
+ganzem Herzen bedanken.
+
+79
+
+

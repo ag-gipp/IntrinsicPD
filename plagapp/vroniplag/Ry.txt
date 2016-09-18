@@ -1,0 +1,3464 @@
+Permeation of Organometallic
+Compounds through Phospholipid
+Membranes
+Dissertation
+zur Erlangung des Grades eines
+Doktors der Naturwissenschaften
+des Fachbereichs Chemie
+der Universität-GH Essen
+
+vorgelegt von
+
+Raycho Yonchev
+aus Sofia, Bulgarien
+
+2005
+
+
+I.
+
+Introduction and motivation of the thesis
+
+I.1. Biomembranes
+I.1.1 Structure and composition
+Each cell is enclosed by lipid membrane, which assures a barrier between intracellular
+and extracellular environments and controls interactions and substance exchange between
+the cell and its surroundings. This description is valid for both prokaryotic and eukaryotic
+cells.
+On the molecular level biological membranes are too complex – they are composed of
+specific mixtures of lipids and proteins, which account for their diverse functions.
+Despite their complex composition, all biomembranes exhibit a universal construction
+principle. They essentially consist of a two dimensional matrix made up of a lipid
+bilayers, interrupted and coated by proteins. The hydrocarbon chains of the lipids confer
+a hydrophobic character on the membrane interior, whereas the polar headgroups found
+in the internal region have hydrophilic properties. This structural pattern results directly
+from the hydrophobic effect, whereby the non-polar lipid chains and the hydrophobic
+side chains of amino acid residues tend to minimize contacts with the aqueous phase. The
+components of the matrix are held together largely by non-covalent forces. Thus,
+biomembranes are not rigid structures, but are rather deformable. The hydrophobic effect
+accounts for most of the interaction energy that stabilizes the bilayer organization.
+Hydrogen bonding and electrostatic interactions contribute significantly to the
+
+3
+
+Introduction and motivation of the thesis
+
+4
+
+consolidation of this assembly in the interfacial region, while dispersive forces between
+the lipid hydrocarbon chains stabilize the core of the membrane.
+Even though each membrane exhibits functions unique to that membrane, general
+functions common to all membranes, can be distinguished. The first basic function of
+biomembranes is to provide different spatial compartments in living organisms.
+Compartmentalization (the physical separation of one compartment from another)
+supplies morphological identity to the cell and its organelles. Biomembranes act as
+selective barriers for the exchange of molecules between the different compartments, and
+ultimately, protect the internal microenvironments from the variability and fluctuations of
+their surroundings. They sustain concentration gradients of chemical species from one
+side to the other and the cell makes use of the membrane to create, maintain or utilize the
+energy stored in these concentration gradients. The bilayer matrix provides a two
+dimensional network in which various functional molecules such as enzymes are
+specifically distributed and oriented. Lipids act not only as solvent but also as anchors,
+activators and conformational stabilizers for proteins, which carry out specific catalytic
+and translocation functions. Another important aspect is the transduction of molecular
+information across and along membranes. For instance, receptors located on the cell
+surface receive extracellular signals that are conveyed to the cell interior, which alters it
+behavior in response.
+The major components of membranes are lipids and proteins. Depending on the type
+of membrane, their relative amounts vary significantly, ranging from about 20% protein
+(dry weight) to 80% protein. The most striking feature of membrane lipids is their very
+large diversity. Considering the possible number of structural and conformational lipid
+isomers, a hundred of components is involved in eukaryotic cells. In spite of this
+diversity, only a few classes of lipids predominate in membranes of a given type of
+organisms.
+The glycerophospholipids are the predominant phospholipids found in biological
+membranes. They are derivatives of glycerol phosphate and contain an asymmetric
+carbon atom. Two glycerol hydroxyls are linked to hydrophobic hydrocarbon chains. A
+
+Introduction and motivation of the thesis
+
+5
+
+stereospecific numbering (sn) of the glycerol carbon atoms is commonly used in the
+nomenclature of glycerophospholipids as indicated on Figure 1.1. In this nomenclature,
+the two hydrocarbon chains can be differentiated as sn-1 and sn-2 chains, the phosphate
+group being usually at the sn-3 position of the glycerol. In biological membranes, most of
+the glycerophospholipids are derivatives of sn-glycero-3-phosphatidic acid, the Rstereoisomer. The various glycerophospholipid types depend on the organic base, amino
+acid or alcohol (the X-group in Figure 1.2.) to which the phosphate is esterified and on
+the hydrocarbon chains which can be attached to the glycerol moiety through ester or
+ether linkages and vary widely in terms of length, branching or degree of unsaturation.
+
+Figure 1.1. General structure of glycerophospholipids with the glycerol backbone
+drawn in a Fisher projection. The stereospecific numbering (sn) of the glycerol carbon
+atoms, with the distinction between the sn-1 and sn-2 chains, is indicated.
+
+Introduction and motivation of the thesis
+
+6
+
+Figure 1.2. Generic structure of phospholipids. The phosphate can be esterified to the
+various X-groups listed to form the different classes of phospholipids.
+1,2-Diacylglyceroophospholipids or phospholipids. These fatty acid esters of glycerol
+are the predominant lipids in most biomembranes. The phosphate is usually linked to one
+of the several groups listed in Figure 1.2, including choline, ethanolamine, the S-amino
+acid serine, and polyalcohols such as glycerol or inositol. The corresponding
+phospholipids
+
+are
+
+called
+
+phosphatidylcholines
+
+(commonly
+
+abbreviated
+
+PC),
+
+phosphatidylethanolamines (PE), phosphatidylserines (PS), phosphatidylglycerols (PG)
+and phosphatidylinositols (PI). PC and PE constitute the major components of
+biomembranes. The chemical structure of these polar headgroups determines what charge
+the phospholipid as a whole may carry. At physiological pH values, PC and PE carry a
+full negative charge on the phosphate and a full positive charge on the quaternary
+
+Introduction and motivation of the thesis
+
+7
+
+ammonium – they are thus zwitterionic but electrically neutral. PS contain in addition to
+the negatively charged phosphate and the positively charged amino group, a negatively
+charged carboxyl group. At neutral pH, PS exhibits an overall negative charge. PG and PI
+carry a net negative charge, since the alcoholic moiety does not carry any positive charge
+to counterbalance the negative charge on the phosphate. The headgroup charges are held
+at the interface between the aqueous and hydrophobic phases by the organization of the
+membrane bilayers. Phospholipids play therefore an important role in the determination
+of the surface charge of the membrane. The division of phospholipids into classes
+according to the structure of their headgroup represents only one level of complexity. On
+a second level, each phospholipid class exhibits various fatty acid chain compositions.
+The acyl chain lengths vary usually between 12 and 26 carbon atoms and may be
+saturated or unsaturated. The number of carbon-carbon double bonds can reach as many
+as 6 per chain. The most abundant saturated chains contain 16 or 18 carbon atoms and the
+major unsaturated species are C18:1, C18:2 and C20:4. In this notation the first figure
+refers to the chain length, while the second one indicates the number of double bonds.
+Nearly all naturally occurring double bonds are cis isomers disrupt the ordered packing of
+the lipid chains, perturbing the membrane structure. Some branched fatty acids such as
+isomyristate or isopalmitate may also occur in the lipid chain composition. Another
+variation is for instance the inclusion of a cyclopropane ring in the fatty acid chain.
+An overview of the lipid composition of mammalian plasma and intracellular
+organelle membranes, stemming from work of Jamieson and Robinson [1], shows that
+with a few exceptions, PC, PE and cholesterol appear to be the main components. PC are
+mainly composed of short chains and dipalmitoilphosphatidylcholine (DPPC), with
+saturated chains of 16 carbon atoms, is one of the principal component of this class of
+phospholipids. The principal unsaturated chains found in PC are 18:1 and 18:2. In PE, a
+relatively high proportion of polyunsaturated chains are found, especially 20:4 chains.
+The lipids found as membrane components are very diverse but have the same
+fundamental property in common – they are all amphipathic molecules, presenting
+separate polar and apolar regions and, for this reason, have natural propensity to form
+
+Introduction and motivation of the thesis
+
+8
+
+bilayers structures in an aqueous environment. They can be differentiated by two main
+features – the size and electrical property of the headgroups, which may be charged,
+zwiterioninc, or neutral, and the structure of the hydrocarbon chains which may have
+various lengths and different degrees of unsaturation. It should be emphasized that lipids
+having the same polar headgroup but different hydrocarbon chains, or vice versa, exhibit
+different physical and metabolic properties. The various membranes present in different
+organisms show characteristic patterns of lipid composition. To a first approximation, the
+specific functions exhibited by these membranes may arise from qualitative and
+quantitative differences an their composition. Many of these functions, however, might
+be appreciated in terms of the properties of the membrane in specific environments and
+not on the basis of the structure or the reactivity of its components per-se [2].
+
+Membranes contain between 20 and 80 weight percent protein. Just as each membrane
+can be characterized by its lipid composition, each membrane can also be characterized
+by its protein contents. Thousands of different proteins are found as constituents of
+biological membranes. Whereas the primary role of membrane lipids is to provide the
+structural framework of the membrane in the form of stable bilayers, proteins provide the
+diversity of enzymes, transporters, receptors, and pores, i.e. the principal active
+components of the membrane. The covalent structure of the membrane proteins is similar
+to that of soluble proteins. Membrane proteins can be distinguished from nonmembranous proteins by the nature of their association with the lipid bilayers. This
+association may be loose or tight. The proteins may be incorporated into the bilayers
+structure or simply associated to a lipid or protein component on the surface of the
+membrane. Membrane proteins are generally bound to the membrane through noncovalent forces, such as the hydrophobic force or electrostatic interactions. They may
+fold so as to present both a non-polar hydrophobic surface, which can interact with the
+apolar regions of the lipid bilayers, and polar or charged regions which can interact with
+the polar lipid headgroups at the interface of the membrane. There is also a certain
+number of membrane proteins which are covalently bound to the membrane via lipid
+anchors. Operationally, membrane proteins have been divided into two major classes –
+
+Introduction and motivation of the thesis
+
+9
+
+peripheral (or extrinsic) proteins and integral (or intrinsic) proteins. This classification is
+based on the nature of their association with the lipid bilayers. The distinction between
+peripheral and integral proteins does not clearly define the mode of attachment to the
+bilayers, but rather the relative strength of the attachment, or the harshness of the
+treatment required to release the protein from membrane.
+Peripheral membrane proteins generally interact with the surface of the membrane
+only and are not integrated into the hydrophobic core of the lipid bilayers. They are
+thought to be weakly bound to the membrane surface by electrostatic interaction, either
+with the lipid headgroups or with other proteins. Such an association is rather loose and
+peripheral membrane proteins can be readily removed by washing the membrane,
+changing the ionic strength or the pH.
+Integral membrane proteins extend deeply into or completely through the lipid
+bilayers and are thus integrated into the bilayers structure. Generally they can be removed
+from the membrane only with detergents or stronger agents that disrupt the membrane
+structure. The portion of the protein integrated into the membrane is thus
+thermodynamically compatible with the hydrophobic core of the bilayers – one expects a
+preponderance of hydrophobic amino acid residues in the intramembranous portion of the
+protein. Integral membrane proteins can be further divided into two subclasses.
+Transmembrane proteins constitute one of these subclasses and, as their name implies,
+span the lipid bilayers of the membrane. The other subclass refers to anchored proteins. A
+portion of these proteins is embedded in the hydrophobic interior of the bilayers, without
+passing completely through the membrane. In most cases, the lipids provide a
+hydrophobic anchor by which the protein is attached to the membrane.
+
+I.1.2 Membrane models
+At the turn of the nineteenth century, Overton speculated on the lipid nature of
+biomembranes by observing a correlation between the rates at which various small
+molecules penetrate plant cells and their partition coefficients in an oil/water system [3].
+
+Introduction and motivation of the thesis
+
+10
+
+In 1925, Gorter and Grendel introduced for the first time the concept of lipid bilayers
+as structural basis of biomembranes [4]. They postulated that lipids in the human
+erythrocyte membrane are organized in the form of a bimolecular leaflet or lipid bilayers.
+In 1935, Davson and Danielli made a major contribution to the development of
+membrane models [5]. They found that a membrane such as the erythrocyte contains,
+besides lipids, a significant amount of proteins and included, therefore, proteins in their
+model. They suggested that proteins coat the surface of the lipid bilayers. This
+description was motivated by the new (at that time) knowledge of the β-sheet structure.
+In this model, the protein was thus not allowed to penetrate into the bilayers.
+In the 1960’s and 1970’s, new molecular insights into biological membranes were
+gained by the emergence of more sophisticated experimental techniques. Freeze-fracture
+electron microscopy revealed the existence of globular particles embedded within the
+lipid bilayers. Spectroscopic methods indicated that membrane proteins had an
+appreciable amount of α-helixes and that they were likely globular. The characterization
+of hydrophobic domains in membrane proteins also stimulated the integration of proteins
+into the membrane interior. At the same time, nuclear magnetic resonance measurements
+pointed out the fluid character of the lipid bilayers.
+In 1996, Green and co-workers attempted to integrate the protein structure into the
+membrane in a model built around lipid-protein complexes as the fundamental structural
+pattern [6]. Although this model did not give prominence to the lipid bilayers as the basic
+structure of the membrane, it did incorporate proteins inside the membrane structure,
+introducing the concept of integral membrane proteins.
+In 1970, Frye and Edidin performed a series of experiments on cell membrane fusion
+and suggested that membrane components can move laterally in the plane of the
+membrane [7].
+In 1972, Singer and Nicolson amalgamated all these experimental observations and
+conceived a new model for the membrane structure, so called fluid mosaic model [8].
+This model described the biological membrane as a two-dimensional fluid or liquid
+crystal in which lipids as well as protein components are constrained within the plane of
+the membrane, but are free to diffuse laterally. The notions of integral and peripheral
+
+Introduction and motivation of the thesis
+
+11
+
+membrane proteins were asserted and it was also suggested that some proteins might pass
+completely through the membrane.
+The fluid mosaic model has constituted the most important step in the development of
+our current understanding of biomembranes. Although the model contains little structural
+detail, it summarizes the essential features of biological membranes. This model has
+undergone modifications and refinements are still expected in the future. In particular, it
+is now clear that membrane proteins do not all diffuse freely in the plane of the bilayers –
+their mobility varies in morphologically distinct membranes from highly mobile
+arrangements to rigid structures whose molecular motion is more or less constrained. The
+existence of differentiated lateral domains within the membrane is also now known.
+Some regions of biological membranes are not arranged in the traditional bilayers;
+hexagonal or cubic phases, for instance, may also occur. Nevertheless, the fluid mosaic
+model still provides the conceptual backdrop for all current models, which just represent
+refined versions.
+
+I.1.3 Model membranes
+Various model membrane systems have been developed for studying biomembrane
+properties. The simplest model systems are provided by pure lipids or lipid mixtures,
+forming a bilayers. Since these systems do not contain membrane proteins and usually
+exhibit a simple lipid composition, they are not able to reproduce all the properties found
+in real membranes but the main biophysical and biochemical features are nevertheless
+preserved. More complex systems reconstitute lipid-protein mixtures and provide insight
+into lipid-protein interactions.
+Liposomes are probably the most commonly used model membrane systems. The
+term “liposome” refers to any lipid bilayer structure, which encloses a volume. The
+primary uses of liposomes are to encapsulate solutes for transport studies and to provide
+model membranes in which proteins can be incorporated. Multilamellar vesicles (MLV)
+were the first liposomes to be characterized and consist of multiple bilayers forming a
+series of concentric shells with a diameter ranging from 5 to 50 μm. MLV are easy to
+
+Introduction and motivation of the thesis
+
+12
+
+prepare, can be made in large quantities and high concentrations, and exhibit
+reproducible properties. They are thus suitable for a wide variety of biophysical studies.
+Drawbacks of MLV include the inhomogeneity in size and number of layers, the limited
+aqueous space for trapping solutes, and the close apposition of bilayers, which may affect
+membrane properties. The heterogeneity problem has been overcome by the introduction
+of small unilamellar vesicles (SUV), usually prepared by sonification of aqueous
+phospholipid dispersions. These vesicles have diameters from 10 to 50 nm and consist of
+a hollow sphere whose surface is single lipid bilayers. SUV are rather unsuitable for
+transport studies because of the too small size of the internal aqueous space. The radius
+of curvature of these vesicles is also much smaller than usually observed in cell
+membranes, resulting in packing constraints in the bilayers. The vesicle size was thus
+increased and large unilamellar vesicles (LUV), with diameters ranging from 50 to 500
+nm, were produced. These vesicles are large enough to trap a significant amount of
+solute, necessary for transport experiments, and provide interesting drug delivery
+systems.
+Planar bilayers membranes are traditionally created by painting a concentrated
+solution of phospholipid in solvent like hexane or decane over a small hole (about 1 mm
+diameter) immersed in an aqueous solution. Under appropriate conditions, the lipids
+spontaneously form bilayers across the hole. Because of their optical properties (lack of
+light reflectance), they are called black lipid membranes (BLM). The major advantages
+of planar membranes over vesicle preparations are their suitability for electrical
+measurements and for the study of membrane proteins. These systems are particularly
+appropriate for studying pores, channels or carriers that catalyze the transfer of charges
+across the bilayers. The unknown amount of residual solvent they contain as well as their
+relative instability may, however, generate some problems.
+Lipids can be spread in a monolayer at an air/water interface – the polar headgroups
+are in contact with the aqueous phase, while the hydrocarbon chains extend in the gas
+phase. From the aqueous phase, the monolayer surface is similar to that of an entire
+membrane and surface properties can be investigated under variation of the surface
+density and the lateral surface pressure. Monolayers are especially useful for examining
+the behavior of molecules like lipases, known as being active at the membrane surface.
+
+Introduction and motivation of the thesis
+
+13
+
+The main disadvantages of monolayers as membrane models are twofold – some of the
+monolayer properties might differ from those of a bilayers; a second difficulty resides in
+the choice of the lateral surface pressure to apply to mimic the properties of a real
+membrane.
+Membrane computer models have a short history compared to experimental models.
+In the last decade, computer simulations such as Monte Carlo or molecular dynamics
+(MD) simulations emerged as a powerful tool to gain detailed insights into the molecular
+structure and dynamics of biomembranes. Various lipid bilayers systems have been
+simulated, incorporating or not membrane proteins. The two major limitations of such
+membrane simulations involve the system size and the accessible time scale. However,
+computer simulations constitute an irreplaceable technique to probe membrane properties
+at the atomic level. Strong and weak points of the MD approach will be discussed in the
+next chapter.
+Each of the membrane model systems described above presents advantages and
+disadvantages, the one providing insight into membrane regions to which the other does
+not have access. Information from each kind of systems turns out to be very useful for the
+better understanding of specific membrane properties and can be combined to refine the
+fluid mosaic model.
+
+I.2. Phospholipid properties relevant to biomembranes
+In spite of their complexity and their specific differences in composition, all
+biomembarnes have the same universal structure – the basic structural element is
+provided by a lipid bilayers. Among membrane lipids, phospholipids constitute an
+important class with regard to their occurrence in cell membranes and their ability to
+form bilayers vesicles spontaneously when dispersed in water. The understanding of their
+physical and chemical behavior is essential in order to appreciate many of the properties
+of biological membranes.
+
+Introduction and motivation of the thesis
+
+14
+
+I.2.1 The hydrophobic effect
+The hydrophobic effect is one of the most important concepts necessary for the
+understanding of membrane structure. The major driving force stabilizing hydrated
+phospholipid aggregates is the hydrophobic force, which is not an attractive force but
+rather a force representing the relative inability of water to accommodate non-polar
+species. The three other stabilizing factors are hydrogen bonding and electrostatic
+interactions between polar headgroups and between headgroups and water, and van der
+Waals dispersion forces between adjacent hydrocarbon chains, which are short-range and
+weak attractive forces resulting from interactions between induced dipoles. Compared to
+the hydrophobic force, however, they are relatively minor stabilizing factors.
+The hydrophobic force is the thermodynamic drive for the system to adopt a
+conformation in which contact between the non-polar portions of the lipids and water is
+minimized [9]. This so-called “force” is entropic in origin. Hydrophobic molecules
+aggregate in water so as to maximize orientational and configurational entropy. The
+larger the surface area of the hydrophobic molecule, the larger the water cage that must
+be built around that molecule, and the larger the unfavorable entropy contribution to the
+transfer of that molecule into the water phase [10].
+The hydrophobic effect drives phospholipids to aggregate into the fundamental
+structural element of biological membranes, the phospholipid bilayers.
+
+I.2.2 Phase structures
+Phospholipid molecules aggregate in an aqueous solution to form a variety of
+assemblies, which correspond to structurally distinct phases. Which phase predominates
+in a given system depends on environmental factors such as temperature, pressure, pH
+and ionic strength on the composition and water content of the system, and on the
+structure and conformation of the individual phospholipid components. The various
+morphologies of phospholipid assemblies are reviewed below (see also reference [11]).
+Each morphology is stabilized by a balance between favorable and unfavorable
+
+Introduction and motivation of the thesis
+
+15
+
+interactions, resulting directly from an optimization of the hydrophobic effect with a
+variety of intramolecular and intermolecular interactions.
+
+Crystalline phases
+At low temperatures and/or hydration levels, most phospholipids form crystalline
+lamellar phases, denoted LC. These phases are true crystals, exhibiting both long-range
+and short-range order in the three dimensions. They may be anhydrous, or may contain a
+certain number of water molecules of co-crystallization. The phospholipid hydrocarbon
+chains are in an all-trans conformation.
+
+Gel phases
+Gel phases are ordered lamellar phases in which phospholipid molecules undergo
+hindered long-axis rotation on a time scale of 100 ns and in which the hydrocarbon
+chains adopt essentially an all trans conformation. Such gel phases are formed at low
+temperatures in the presence of water, although the water content is often relatively low.
+In the Lβ gel phase, the hydrocarbon chains are arranged parallel to the bilayers normal.
+In the Lβ phase, the chains are tilted with respect to the bilayers normal. The tilting
+occurs when the cross-sectional area required by the headgroup exceeds about twice that
+required by the acyl chains. The chain tilt increases the cross-sectional area of the acyl
+chains and allows thus the packing mismatch to be accommodated. When the tilting
+becomes too great, the (untilted) interdigitated LβI phase may occur.
+An intermediate phase Pβ between the gel phase Lβ and the liquid crystalline phase Lα
+is found in the gel phase of a few phospholipids. This is a rippled phase in which the
+lamellae are deformed by a periodic modulation, with the chains being essentially in a
+tilted conformation.
+The different gel phases are depicted in Figure 1.3.
+
+Introduction and motivation of the thesis
+
+16
+
+Figure 1.3. Gel phases of phospholipids: (a): Lβ untilted phase; (b): Lβ’ tilted phase;
+(c): LβI interdiginated phase; (d): Pβ’ rippled phase.
+
+Fluid phases
+Lamellar liquid crystalline phase Lα. Upon heating a gel phase, the phospholipid
+chains melt to a liquid-like conformation, transforming usually to the lamellar Lα phase.
+The rate of lateral diffusion of the lipids increases by at least two orders of magnitude
+and the hydrocarbon chains exhibit a high tendency to isomerize, alternating
+conformations about the carbon-carbon bonds. In this disoriented fluid state,
+phospholipid movements are still inhibited by some organizational constraints for
+instance the phospholipid molecules cannot translate extensively in the direction normal
+to the bilayers surface but remain rather confined within the bilayers, in accordance with
+the hydrophobic effect. The phospholipids are therefore neither in a true lipid state, in
+which their movement would be isotropic, nor in a solid state, but in a so-called liquid
+crystalline state. A liquid crystal retains at least one dimension of order relative to the
+
+Introduction and motivation of the thesis
+
+17
+
+solid state. Under usual physiological conditions, the lipid bilayers of biological
+membranes most closely resemble the lamellar liquid crystalline phase.
+Hexagonal and cubic phases. For some phospholipid systems, the gel phase melts
+directly to a fluid non-lamellar phase with a hexagonal or cubic symmetry. In the
+hexagonal I phase HI, the phospholipids are organized in the form of cylinders with the
+polar headgroups facing out and the hydrocarbon chains facing the interior. The cylinders
+are packed onto a hexagonal lattice and the volume between the cylinders is filled with a
+continuous water phase. These long tubes can be thought of as many micelles fused
+together. This phase structure is only formed under specific conditions and is not
+particularly relevant to biological membranes. In the inverse hegagonal II phase HII, the
+phospholipids also aggregate into cylinders, but with the headgroups facing the inside
+and the hydrocarbon chains the outside. The polar groups contact water and surround an
+aqueous channel located at the center of the cylinder. These tubes also form a hexagonal
+array in cross section. The HII phase is very common in phospholipids such as PE having
+small weakly hydrated headgroups and attractive headgroup-headgroup interactions [12].
+Phospholipids can also exhibit cubic phases, which almost behave as isotropic phases.
+The cubic phase structure consists of short tubes connected in a hexagonal array. In this
+structure, the phospholipid molecules experience all possible orientations, which
+accounts for its isotropic character. Cubic-like phases are observed in mitochondrial and
+ER membranes [13,14]. The reasons why biological membranes incorporate into their
+structure lipids that destabilize the bilayers organization can be found in many
+physiological processes. For instance, such lipids facilitate membrane fusion and stabilize
+regions of high curvature. The fluid phases are schematically represented in Figure 1.4.
+
+Introduction and motivation of the thesis
+
+18
+
+Figure 1.4. Fluid phases of phospholipids. (a): Lα lamellar liquid crystalline phase;
+(b): HI hexagonal I phase; (c): HII inverted hexagonal II phase;
+(d): Example for a cubic phase
+In biological membranes, lipid assemblies essentially form a bilayers structure,
+corresponding to the lamellar liquid crystalline phase Lα. The bilayers pattern is essential
+to the structure and proper function of biomembranes. The membrane matrix can be
+however interrupted by non-lamellar phases within the overall constraints of the bilayers
+
+Introduction and motivation of the thesis
+
+19
+
+organization. Such non-lamellar phases are for instance observed as intermediate phases
+in common biological processes such as cell-cell adhesion and fusion.
+I.2.3 Phase transitions
+A phase transition is an abrupt change in the macroscopic properties of a system,
+involving a modification of the symmetry and/or topology of the system. Phase
+transitions are driven predominantly by two system variables, which are temperature and
+water content. There is thus a “natural” sequence in which the various possible phases
+occur. At low temperatures and hydration degrees, phospholipids tend to adopt an
+oriented conformation leading to crystalline or gel phases, while, at higher temperatures
+and hydration levels, fluid phases rather occur. At a given temperature and water content,
+transitions can be also induced by changes in the lipid composition or by additives. A
+study of the factors affecting or including a phase transition and of the changes taking
+place at the phase transition provides a very valuable method of characterizing the
+properties of the fluid state, which is the more relevant to biological membranes (see also
+reference [11]).
+Effect of phospholipids hydration. The effect of water on the thermotropic behavior
+of phospholipid assemblies is complex. A certain amount of water molecules is bound to
+the polar headgroups and behaves differently from bulk water. Bound water appears to
+represent about 20% of the phospholipid-water system. Usually, the addition of water
+causes a general loosening of the lipid packing density, leading to a decrease of the
+transition temperature. The decrease in temperature can reach as much as 50OC. This can
+be explained by a growing mobility of all phospholipid molecules with increasing
+hydration, due to a diminishing intermolecular steric hindrance. More precisely,
+increasing hydration gives rise to a softening of the interfacial region, which enhances
+headgroup mobility. The enhanced headgroup mobility leads in turn to an increased
+mobility of the hydrocarbon chains.
+Effect of phospholipids chemical structure. Within a particular class of
+phospholipids, the length of the hydrocarbon chains has a direct influence on the
+
+Introduction and motivation of the thesis
+
+20
+
+transition temperature, e.g. from the gel state Lβ to the liquid crystalline state Lα.
+Increasing the chain length has the effect of increasing the chain-chain interactions,
+stabilizing the phospholipid bilayers in the gel state and thus increasing the chain-melting
+temperature. The Lα-HII transition temperature falls also steeply with increasing the chain
+length. The hydrophobicity of longer chains is indeed more pronounced, which leads to
+favor the formation of inversed non-lamellar phases. The presence of double bonds in the
+phospholipid hydrocarbon chains has a more powerful effect on the transition
+temperature than the chain length. Chain unsaturation drastically lowers the gel-fluid
+transition temperature (typically by approximately 60oC for a cis-unsaturated bond) as
+well as any transitions to inverse non-lamellar phases. A cis-double bond generates the
+formation of a permanent kink in the hydrocarbon chains, which inhibits a tight packing
+of the chains. Unsaturation destabilizes the bilayers structure, especially in the gel state,
+and the phase transition occurs therefore at a lower temperature. The effect on the
+phospholipid phase behavior depends strongly upon the position of the double bond
+along the chain, the maximal effect occurring when the double bond is located close to
+the middle of the chain [15]. Monosaturated fatty acids commonly found in
+phospholipids from cell membranes exhibit a double bond between carbons 9 and 10 –
+the double bond is thus located precisely where the maximal effect on the phase behavior
+can be achieved. For diacylphospholipids, increasing asymmetry between the lengths of
+the two chains also tends to lower the chain-melting temperature [16]. The chemical
+structure of the phospholipid headgroups plays also a major role in determining the phase
+transition behavior. The effective polarity of the headgroups, defined by their intrinsic
+hydrophilicity but also depending on their accessibility to water or their possibility for
+hydrogen bonding, constitutes a crucial factor. Minor modifications, such as the
+replacement of a single proton by e methyl group, can profoundly alter the phase
+behavior. Striking differences are for instance observed between the polymorphism of PE
+and PC. The transition temperature from the gel to liquid crystalline states is about 20oC
+higher in PE than in PC. For the former phospholipid species, intermolecular hydrogen
+bonds between the amino group of one headgroup and the phosphate moiety of the
+neighboring headgroup are possible. Such hydrogen bonds intensify headgroup
+
+Introduction and motivation of the thesis
+
+21
+
+interactions but weaken the interactions between headgroups and water. Hydrogen
+bonding and poor hydration of the PE headgroups result in a stabilization of the gel state
+relative to the liquid crystalline state. For PC, the possibility of direct hydrogen bonds
+between the headgroups is missing, so that the PC headgroups interact much more
+strongly with water. This increases the hydration of the bilayers, modifies its structure
+and lowers the gel-fluid transition.
+Effect of phospholipids mixtures. Mixing phospholipids together alters the phase
+behavior of each phospholipid component in a complex way. The study of lipid mixtures
+is of great interest since biological membranes contain a variety of lipid species. The fact
+that biomembranes are generally in a lamellar liquid crystalline phase under
+physiological temperatures shows that a well-defined balance in the lipid composition is
+necessary to maintain such a fluid morphology.
+Effect of cholesterol. Cholesterol tends to fluidize the gel phase Lβ and to order the
+lamellar liquid crystalline phase Lα, thereby broadening or even eliminating the transition
+between the two phases. Cholesterol can induce a liquid crystalline state in phospholipids
+that would otherwise adopt a gel state, enhancing thus the stability of fluid bilayers.
+However, maintaining a fluid state in biological membranes is likely not the major role of
+cholesterol in cell biology. Most plasma membranes would be indeed in a fluid state at
+37oC without cholesterol. The introduction of a double bond in the hydrocarbon chains of
+membrane phospholipids, for example, would be sufficient to keep the bilayers in a liquid
+crystalline state [10]. Cholesterol is, nonetheless, essential for the normal growth and
+functioning of cells (e.g. by modulating the function of the membrane proteins through
+direct binding to sterol-specific sites on membrane proteins). The ordering effect of
+cholesterol observed in fluid bilayers can be explained by the rigid structure of
+cholesterol. The portion of the phospholipid hydrocarbon chains encountering the rigid
+steroid nucleus is indeed hindered in its motion and trans-gauche isomerization about the
+carbon-carbon bonds is diminished. The effects of cholesterol on the phospholipid phase
+behavior are however much more complex than described above and are strongly
+
+Introduction and motivation of the thesis
+
+22
+
+dependent on the cholesterol concentration. Cholesterol can induce domain formation in
+membranes in the liquid crystalline state and tends to promote the transition towards
+inverse phases such as HII [17].
+Effect of the solutes. The incorporation of solutes into a phospholipid assembly can
+modify the phase equilibrium in a great number of ways. Polar solutes generally cause an
+osmotic dehydration of phospholipid systems, since they are in competition with the
+phospholipid headgroups to interact with water [18]. The dehydration effect is enhanced
+if the solute directly binds to the phospholipid headgroup, replacing bound water
+molecules. The introduction of polar solutes tends to favor the formation of ordered
+phases and inverse non-lamellar phases. Amphiphilic solutes preferentially adsorb with
+their polar moiety near the phospholipid headgroups and their hydrophobic part
+embedded within the phospholipid hydrocarbon region. Their effects are closely related
+to their chemical structure and cannot be generalized. Non-polar solutes tend to reduce
+chain packing constraints by partitioning into the interstices within the hydrocarbon
+regions of the phospholipid phase. They facilitate thereby the formation of inverse phases
+such as HII, where there is a significant degree of chain stress due to the necessity to fill
+the hydrophobic region at a uniform density [11].
+
+I.2.4 Motional properties and membrane fluidity
+The dynamic properties of a phospholipid membrane in the biologically relevant
+liquid crystalline state arise from the conformational flexibility of its components.
+Conformational flexibility implying motion, the determination of the rate and extent of
+phospholipid motions is essential for understanding dynamic properties of membranes.
+The major motivation for studying membrane dynamics is its relevance to biological
+functions. At first, it is important to make a distinction between motional order and
+motional rates. The two concepts are independent, even if changes in motional rates often
+parallel changes in motional order. Motional order on one hand, and motional rates on the
+other hand, provide different insights into the membrane dynamics, which can be
+
+Introduction and motivation of the thesis
+
+23
+
+combined to obtain an overall vision of the complex dynamic properties. Both concepts
+will be clarified in the next sections. The notion of membrane fluidity will be then
+redefined and emphasis will be laid on its biological relevance.
+Motional order. The motional or orientational order of a phospholipid molecule or a
+portion of the molecule refers to the number of degrees of freedom expressed by the
+motion experienced by the molecule or a part from it [10]. The order of motion is usually
+described by an order parameter. Depending on the method of measurment, different
+order parameters can be defined and calculated. Generally, small values of the order
+parameter correspond to a high degree of freedom, i.e. a disordered state.
+In phospholipid bilayers, the region between the carbonyl groups and the middle of
+the hydrocarbon chains is usually characterized by relatively high order parameters,
+which are roughly constant independently on the position considered. Beyond the middle
+of the chains, the order parameters drop significantly towards the chain termini. The
+motions of the phospholipid molecules are thus restricted in the region of the
+hydrocarbon chains near the glycerol backbone, while the molecules exhibit more
+motional freedom towards the chain extremities. The motional order profile across the
+bilayers is characteristic of the physical state of the membrane.
+Motional rates. Phospholipid motions occur on different time scales. The rates of
+motion are characterized by correlation times – the motion being described by an
+exponential correlation function – and are not directly related to the motional order.
+Phospholipids exhibit various motional modes, which all account for the dynamic
+properties of the membrane. Intramolecular reorientational motions comprise torsional
+oscillations around single bonds and free or slightly hindered rotations of certain groups
+or segments (such as methyl groups or fragments of the headgroup). The rotational
+motion of the phospholipids constitutes an important contribution to the membrane
+dynamics. The overall rotational motion can be characterized by a spinning motion,
+which is a rotation around the long molecular axis parallel to the bilayers normal, and by
+a so-called wobbling motion, in which the long axis changes its orientation – the
+molecule describing thereby a cone of finite dimensions. “Wobble” is a restricted motion,
+
+Introduction and motivation of the thesis
+
+24
+
+since all possible orientations of the long axis are not allowed within the bilayers
+structure and large deviations from the bilayers normal are unlikely. Brownian
+translational diffusion or jump diffusion of the phospholipid molecules within the plane
+of the membrane is called lateral diffusion – the in-plane motion of the whole
+phospholipids consists of a local diffusion within their solvent cage and of long-range
+diffusional jumps between adjacent sites [19]. Transbilayer “flip-flop” processes, in
+which phospholipid molecules are translocated from one side of the bilayers to the other,
+are also of importance, although they occur more rarely. At last, patches of phospholipid
+molecules exhibit collective motions, leading to undulations of the bilayers surface and
+resulting in relatively slow fluctuations.
+The anisotropic nature of the phospholipid bilayers implies strong anisotropic
+constraints upon the orientation, conformation and motion of the phospholipid molecules.
+The reorientational motions about different molecular axes occur thus on vastly different
+time scales [20]. For instance, rotation is much more facilitated around the long axis of
+the phospholipid molecule than around other axes. Another important point to mention is
+the different motional behavior of the headgroup compared with the hydrocarbon chains.
+A certain independence of motion is observed and some particular motions may occur on
+different time scales.
+The most rapid of the motions described above is rotation about single bonds,
+characterized by correlation times inferior to 100 ns. Rotation about single bonds is
+usually slower in the headgroup region than in the hydrocarbon chains. Trans-gauche
+isomerizations in the fatty acid chains are very rapid with correlation times τJ from 1 to
+10 ps in the liquid crystalline state. The values of τJ are relatively long near the glycerol
+backbone but become shorter towards the chain termini. The rotation of the terminal
+methyl groups in the chains is about one order of magnitude shorter than τJ. In the
+headgroups, the dynamics of the dihedrals is slower, with correlation times up to a few
+hundred of picoseconds. This can be explained by the strong interactions within and
+between the headgroups. The time scales become significantly longer when the whole
+phospholipid molecule is considered. Rotation of the molecule around its long axis
+involves a correlation time t of a few nanoseconds. The wobbling motion, however,
+
+Introduction and motivation of the thesis
+
+25
+
+happens on a larger time scale and is characterized by a correlation time t of the order of
+tens of nanoseconds or more. The wobbling motions in a cone are indeed only possible
+within a restricted angular range determined by the neighboring molecules. Translational
+motion of the phospholipid molecules in the plane occurs with a lateral diffusion
+coefficient of the order of 10-7 cm2/s [19]. The transmembrane movement of
+phospholipids or “flip-flop” is very slow and takes place on a typical time scale of
+minutes to hours or even days [20]. The dynamic properties of a phospholipid membrane
+are therefore characterized by a very wide range of motional modes, which makes their
+study particularly challenging.
+Membrane fluidity. Now that the motional properties of the phospholipid components
+in a membrane have been examined, the concept of “fluidity” in membrane biology can
+be redefined and its involvement in many biological functions can be better understood.
+The term “fluidity” is imprecise and elusive in its physical meaning, especially when
+applied in the context of membrane structure. For an isotropic liquid such as water,
+fluidity represents the inverse of viscosity, which is a well-defined and easily measured
+bulk thermodynamic property. Viscosity is essentially a measure of the frictional
+resistance encountered when adjacent layers of fluid are moving with different velocities
+[9]. However, biological membranes as well as pure phospholipid bilayers are highly
+anisotropic and the above definition of fluidity cannot be applied directly. The membrane
+components are principally confined to two dimensions, i.e. the surface of the membrane,
+with only a limited third dimension available, being the bilayers normal. The
+phospholipid behavior is not only anisotropic but also strongly dependent on the location
+considered along the bilayers normal. If the hydrophobic membrane interior,
+characterized by highly disordered chains experiencing considerable freedom, can be
+modeled by any isotropic hydrocarbon phase, the glycerol region is much more ordered
+and static, and the interfacial region, composed of the headgroups facing the water phase,
+exhibits specific order and dynamic properties. As applied to membrane, the term
+“fluidity” has to be considered both as a dynamic property related to the motion of
+individual components and as a static feature related to the arrangement or order of the
+molecules in the membrane. Generally, fluidity is measured by observing the motion of
+
+Introduction and motivation of the thesis
+
+26
+
+fluorescent probes incorporated into membrane. Since fluorescence depolarization is
+sensitive to molecular motion, information concerning the environment in which the
+probe resides can be collected. Fluidity represents then the ability of a foreign molecule
+to move in the membrane and to experience internal conformational flexibility. However,
+such measurements are sensitive to both the rate of motion and any constraints to that
+motion, so that information about dynamics and molecular order gets intermixed [9].
+Fluidity can be also quantified by the rotational correlation time spin probes, by the order
+parameter, also derived from spin or fluorescent probes, or by the partition coefficient
+describing the distribution of certain probes between the membrane and the aqueous
+medium. Membrane fluidity cannot be characterized by a single parameter – multiple
+parameters are needed to describe the physical state of the bilayers.
+The fluidity of biomembranes is essential to many biological functions.
+Biomembranes apparently adjust their lipid composition in such a way that they remain
+in a fluid state irrespective of the ambient temperature or other external conditions. The
+rate of lateral diffusion of membrane components play e pertinent role, for instance, in
+enzyme reactions involving multiple membrane-bound components – some enzymatic
+functions require the membrane-bound components to be freely diffusing within the
+plane of the bilayers, whereas other processes clearly rely on constraints imposed on the
+mobility of membrane components. The rate with which lipids adjacent to proteins
+exchange with bulk lipid, is also essential to protein properties and functions. The most
+dramatic evidence that membrane fluidity is critical to physiological functions comes
+probably from studies showing adaption of various organisms to environmental stress
+[21]. This is most often observed in microorganisms, plants or hibernating animals,
+which are able to sustain low temperatures. In response to thermal stress, they alter their
+membrane lipid composition, usually by increasing the degree of lipid unsaturation or by
+decreasing the average lipid chain length, to maintain optimal membrane fluidity.
+
+Introduction and motivation of the thesis
+
+27
+
+I.3. Biomembrane transport
+I.3.1 Transport pathways and mechanisms
+One of the most important roles of biomembranes is to moderate the passage of
+substances between compartments of organisms. In spite of their chemical and structural
+differences, they all act as highly selective permeability barriers, separating internal and
+external fluids. The transport processes that have evolved to overcome these barriers are
+at least as important as the barrier functions of biomembranes. Solute transport can occur
+via a transcellular pathway (across the cell) or via a paracellular pathway (between the
+cells). The lipid matrix, structural framework of all biological membranes, constitutes the
+main permeation barrier to transcellular transport. The adhesion of adjacent cells is
+ensured by junctions, whose structure influences paracellular transport. Paracellular
+diffusion is, by definition, solely passive, while transcellular transport involves various
+mechanisms. These mechanisms can be divided in two main classes. In the first class, the
+solute moves from a region of relatively high chemical potential to a region of lower
+chemical potential by passive or facilitated diffusion. For this type of transport, no
+cellular energy, such as that in the form of ATP, is required. The second form of transport
+involves active processes, which do require an input of energy and generally occur
+against a concentration gradient. These processes are all protein-mediated. In each class
+of transport, a wide variety of mechanisms elucidate how solute flux across membranes is
+achieved.
+
+I.3.2 Passive transport
+Passive diffusion across the lipid matrix represents the simplest form of transport and
+refers to the movement of a molecule by random processes through the lipid bilayers
+portion of a membrane without an expenditure of energy. A net flux of the transported
+species across the membrane is only achieved when a difference in chemical potential of
+the species is observed between both sides of the membrane. This chemical potential
+difference usually results from a difference in concentration (or activity) of the species on
+
+Introduction and motivation of the thesis
+
+28
+
+one side versus the other. The solute diffuses down the concentration gradient, i.e. from a
+region of relatively high concentration to a region of relatively low concentration. Energy
+is obtained from the downhill flow – the amount of energy, also known as the free energy
+change ΔG, is directly proportional to the concentration difference. In the case of charged
+species, i.e. ions, an additional factor has to be taken into consideration. Indeed, many
+biological membranes are electrically positive on one side and negative on the other side,
+exhibiting a potential difference or voltage gradient across them. This arises from
+differences in the distribution of positive and negative ions on the two sides of the
+membranes. The diffusion of a charged species is considerably influenced by this
+transmembrane electrical potential. The inside of many cells is electrically negative
+compared with the outside: inward fluxes of positive ions and outward fluxes of negative
+ions are thus favored. For the transport of charged solutes, a concentration gradient as
+well as an electrical gradient have to be taken into account: both notions can be combined
+with the electrochemical gradient. The rate of diffusion of an uncharged species across a
+membrane is well described by Fick’s law:
+
+J = PAΔC
+
+(1.1)
+
+This states that the flux J, or amount of solute passing through the membrane per unit
+time, is directly proportional to the solute concentration gradient ΔC, to the area A of
+membrane absorptive surface, and depends on the permeability coefficient P of the solute
+in the membrane. The permeability coefficient is both characteristic of the solute and the
+membrane, and is defined as follows:
+
+P=
+
+KD
+h
+
+(1.2)
+
+K is the partition coefficient of the diffusing species between the membrane and the
+aqueous phase and describes the relative solubility of the species in both media. D is the
+
+Introduction and motivation of the thesis
+
+29
+
+diffusion coefficient of the solute in the membrane and represents the speed with which
+the solute can move through the membrane. D depends on the size and shape of the solute
+but also on the viscosity and density of the membrane. h is the thickness of the
+membrane. The partition coefficient is the most important determinant of the permeation
+rate. Hydrophobic substances are viewed as being able to permeate the lipid bilayers of a
+membrane more easily than hydrophilic ones, owing in part to their ability to dissolve in
+and subsequently diffuse through the hydrophobic core of the bilayers. The generally
+high hydration degree of a polar species also constitutes a barrier to its transport across
+the lipid bilayers. Usually, this hydration shell must be stripped away before the solute
+can enter the membrane bilayers, which is often accompanied by a high energy of
+dehydration. Smaller solutes diffuse more rapidly than larger ones, so that better
+correlations between permeability and hydrophobicity are obtained when applying a
+correction for the size of the solute. The structural properties of the membrane as well as
+its dynamic state are also an important component of diffusion process. Anything
+enhancing the occurrence of defects in the bilayers, for instance an increase in
+unsaturation in the lipid chains or packing defects at lipid-protein interfaces due to
+transient mismatches between the rough protein surface and the lipid bilayers will
+enhance passive diffusion. Transit of the hydrophobic interior of the lipid bilayers is not
+the only barrier to passive diffusion through a membrane. Before encountering the
+membrane interior, a solute must get through the interfacial region, which exhibits
+properties very different from those of the bulk solution. Study of the passive diffusion of
+a solute across the lipoidal matrix implies therefore a good knowledge of both solute and
+membrane properties.
+One of the great barriers to passage of polar and/or ionic substances across a
+membrane is their incompatibility with the hydrophobic core of the lipid bilayers. Pores
+and channels, formed by proteins, provide a water-filled pathway through the membrane
+and are capable of supporting great fluxes of polar and ionic solutes. This form of
+transport implies passive diffusion of the solute in an aqueous medium and is also driven
+by an electrochemical gradient between two sides of the membrane. The term of pore and
+channel are generally used interchangeably, but pore is used most frequently to describe
+structures that discriminate between solutes primarily on the basis of size, allowing the
+
+Introduction and motivation of the thesis
+
+30
+
+passage of molecules that are sufficiently small to fit. The term channel is mostly
+reserved to describe ion channels [9]. Pore and channel proteins do not require any
+conformational alteration in order for the solute entering from one side of the membrane
+to exit on the other side. They may undergo conformational changes, but these regulate
+whether they are open or closed to solute traffic and play no role in the mechanism of
+translocation per se. Two major groups of channels distinguish “voltage-gated” from
+“ligand-gated” channels. Channels are said to be voltage-gated if they are open or close
+in response to a change in the transmembrane potential. The open or closed state of
+ligand-gated channels is related to the binding of specific signal molecules.
+Faciliated diffusion designates the carrier-mediated diffusion of solutes through the
+membrane. A carrier is a species that binds specific solutes and translocates them across
+the membrane. The role of carriers is usually to ensure the transport of polar or ionic
+substances that could not occur by simple diffusion across the lipid membrane. A carrier
+often presents a polar interior as binding site for the solute and exhibits a hydrophobic
+exterior compatible with the hydrocarbon region of the membrane. The carrier masks the
+hydrophilic nature of the polar solute and the complex thus formed can passively diffuse
+through the membrane. Like traditional passive diffusion processes, carrier-mediated
+transport can be driven either by a concentration or an electrochemical gradient of the
+transported species across the membrane. In all cases, the transport is down the gradient
+and thus does not require en energy input. This process is however saturable, since it is
+limited by the number of carriers, and usually exhibits specifically for solute structure. In
+some cases, it can also be inhibited by structural analogs to the transported solutes.
+
+I.3.3 Active transport
+Cells also have transport proteins that transfer solutes across the membrane against
+their electrochemical gradient. This process is called active transport because an input of
+energy is needed to bring it about. It is a saturable process and can be affected by
+competitive inhibitors. The energy to drive active transport may come from a number of
+sources. The most common source is the hydrolysis of ATP. Others include light energy
+
+Introduction and motivation of the thesis
+
+31
+
+or the energy stored in ion gradients. Primary active transport processes, which use a
+direct source of energy, can be distinguished from secondary active transport processes,
+which are generally coupled with ion gradients (that have been generated by a primary
+active transport) to achieve for instance the transport of metabolites. Most of the
+chemical energy in the live organisms is used up to reestablish ion gradients, gradients
+that keep metabolic processes going, including signaling mechanisms. Primary active
+transporters are mostly ion pump, where ion translocation is mechanically coupled to en
+energy-yielding chemical or photochemical reaction. Na+/K+-ATPase, also called
+sodium pump, is one of the most important enzymes in the plasma membranes of animal
+cells. This enzyme pumps sodium ions out of the cells and potassium ions into the cell,
+both against their respective concentration gradients, catalyzing the hydrolysis of ATP
+and making use of the released energy. Primary active transporters are used to generate
+voltage and ion gradients across the membrane and secondary active transporters utilize
+such gradients to drive solute transport.
+
+I.4. Aim of the thesis
+The description of transport processes first requires a good knowledge of the nature of
+the permeation barriers. Biological membranes contain a large number of lipid species as
+well as integral and peripheral proteins. The fluid lipid bilayer represents the core of the
+membrane and acts as permeation barrier. In spite of their complex and heterogeneous
+character, biological membranes can be modeled by simple phospholipid bilayers, which
+reproduce the main membrane properties.
+Most compounds permeate passively across the lipid part of membranes and their
+permeation rates depend on their own chemical and physical properties as well as on the
+macroscopic properties of the considered membrane. Since all macroscopic properties of
+membranes are determined by the microscopic behavior of the lipid components, a
+detailed knowledge of the membrane features at a molecular level forms the necessary
+basis for understanding permeation mechanisms.
+
+Introduction and motivation of the thesis
+
+32
+
+The aim of this thesis was to investigate the permeation of small organometallic
+molecules through a phospholipid membrane at a molecular level, using the molecular
+dynamics simulation technique. This technique is of particular relevance for such a study
+since all properties of interest can be computed with full atomic detail. As a first step, a
+realistic model of a phospholipid membrane was obtained. As a second step, interactions
+of different organometallic molecules with the phospholipid membrane had to be
+thoroughly followed to gain insight both into the solute partitioning into the membrane
+and into the permeation process across the membrane. However, as permeation processes
+are too slow on the time scale accessible to the molecular dynamics technique, innovative
+methods had to be introduced.
+
+II.
+
+Theoretical background
+There are two types of representations of lipid bilayers – mean field representation
+
+and atomistic one. From the choice of the representation depends the accuracy of the
+modeled lipid bilayer.
+In mean field simulations, lipid bilayer is represented by simple hydrophobic slab,
+oriented in x, y-plane, which separates two hydrophilic phases. In this model lipid and
+water molecules are not explicitly included. The empirical potential energy function
+describes the partitioning of hydrophilic and hydrophobic parts of a given molecule into
+the lipid bilayer. This function contains bonded and non-bonded terms to which a
+hydrophobic interaction term is added [22]. This representation is further refined by
+introducing of dipole potential which decreases dielectricity across the water/lipid
+interfacial region from the water phase to the hydrocarbon interior [23].
+In atomistic representation each lipid and water molecules are clear defined, which
+provides detail information for lipid bilayer at atomic level. The detail level can vary
+depending on the used representation – all-atom or united-atom. In all-atom
+representation, all hydrogen atoms are included, while in united-atom representation nonpolar hydrogen atoms are merged into the central carbon atoms and only polar hydrogen
+atoms are treated separately. All-atom representations give better results but are not
+appropriate for large systems, because of time consumption, while reduced number of
+non-bond interactions in united-atom models speeds up calculations.
+Once the appropriate model is chosen, we can perform simulations of the system in
+order to evaluate the desired properties of interest.
+33
+
+Theoretical background
+
+34
+
+II.1. Molecular dynamics simulations
+Typical use of molecular dynamics (MD) include:
+-
+
+Searching the conformational space of alternative amino acid side chains in
+site-specific mutation studies.
+
+-
+
+Identifying likely conformational states for highly flexible polymers or for
+flexible regions of macromolecules such as protein loops.
+
+-
+
+Producing sets of 3D structures consistent with distance and torsion constraints
+deduced from NMR experiments (simulated annealing).
+
+-
+
+Calculating free energies of binding, including solvation and entropy effects.
+
+-
+
+Probing the locations, conformations, and motions of molecules on catalyst
+surfaces.
+
+-
+
+Running diffusion calculations.
+
+In addition, simulation engines can be routinely used for:
+-
+
+Calculating normal modes of vibration and vibrational frequencies.
+
+-
+
+Analyzing intra molecular and inter molecular interactions in terms of residueresidue or molecule-molecule interactions, energy per residue, or interactions
+within a radius.
+
+-
+
+Calculating diffusion coefficients of small molecules in a polymer matrix.
+
+-
+
+Calculating thermal expansion coefficients of amorphous polymers.
+
+-
+
+Calculating the radial distribution of liquids and amorphous polymers.
+
+-
+
+Performing rigid-body comparisons between minimized conformations of the
+same or similar structures or between simulated and experimentally observed
+structures.
+
+At its simplest, molecular dynamics solves Newton’s equation of motion:
+
+∂ 2 ri
+Fi ( t ) = mi a i ( t ) = mi 2
+∂ti
+where Fi is the force, mi is the mass and ai is the acceleration of atom i.
+
+(2.1)
+
+Theoretical background
+
+35
+
+The force on atom i can be computed directly from the derivative of the potential
+energy V with respect to the coordinates ri:
+
+Fi = −
+
+∂V
+∂ ri
+
+(2.2)
+
+The classical equations of motion are deterministic, which means that once the initial
+coordinates and velocities and other dynamic information at time t are known, the
+positions and velocities at time t + Δt are determined (calculated). The coordinates and
+velocities for a complete dynamics run are called the trajectory. The time step Δt depends
+on the integration method as well as the system itself. Time step should be small enough
+in order to avoid integration errors. Because of fast vibrational motions of the atoms, a
+time step of 1 fs is usually used. Although the initial coordinates are known, the initial
+velocities are randomly generated at the beginning of a dynamics run, according to the
+desired temperature.
+Analytical integration of equations such as (2.1) is not possible for large systems, so
+numerical integration should be performed. Molecular dynamics is usually applied to
+large systems. Energy evaluation is time consuming and the memory requirements are
+large. To generate the correct statistical ensembles, energy conservation is also important.
+Thus, the basic criteria for a good integrator for molecular simulations are as follows:
+•
+
+It should be fast, ideally requiring only one energy evaluation per time step.
+
+•
+
+It should require little computer memory.
+
+•
+
+It should permit the use of a relatively long time step.
+
+•
+
+It must show good conservation of energy.
+
+Variants of the Verlet [24] algorithm of integrating the equations of motion (Equation
+(2.1)) are perhaps the most widely used method in molecular dynamics. The advantages
+of Verlet integrators is that these methods require only one energy evaluation per step,
+require only modest memory, and also allow a relatively large time step to be used.
+
+Theoretical background
+
+36
+
+Verlet Leap-Frog algorithm requires r(t), v(t -Δt/2), and a(t), which are (respectively)
+the position, velocity, and acceleration at times t, t -Δt/2, and t, and compute:
+
+Δt ⎞
+Δt ⎞
+⎛
+⎛
+v ⎜ t + ⎟ = v ⎜ t − ⎟ + Δt a ( t )
+2⎠
+2⎠
+⎝
+⎝
+
+(2.3)
+
+Δt ⎞
+⎛
+r ( t + Δt ) = r ( t ) + Δtv ⎜ t + ⎟
+2⎠
+⎝
+
+(2.4)
+
+a ( t + Δt ) =
+
+f ( t + Δt )
+m
+
+(2.5)
+
+where f(t + Δt) is evaluated from -dV/dr at r(t + Δt).
+If the corresponding velocities are not known, they are obtained from a Maxwell –
+Boltzmann distribution and are scaled (or rerandomized) until kinetic and potential
+energies are in equipartition and the desired temperature is reached.
+
+II.2. Molecular dynamics studies of lipid bilayers
+II.2.1 Review
+MD simulations provide a powerful tool to analyze biomolecular systems from an
+atomic perspective with a level of detail missing in any other approach. This technique
+has been widely used in studies of proteins and nucleic acids, but has been less applied to
+the analysis of biological membranes for several reasons. Biomembranes are indeed very
+complex in terms of both structural and dynamic properties. Unlike proteins or nucleic
+acids, which have well-defined three-dimensional structures, membrane components
+derive a large majority of their properties and functions from their fluid nature. The fluid
+character of the physiologically relevant fluid crystalline phase makes experimental
+studies particularly difficult and only limited atomic-level data from X-ray or neutron
+
+Theoretical background
+
+37
+
+diffraction have been for long accessible, compared with the amount of data available on
+proteins and nucleic acids. As structures from X-ray crystallography are usually taken as
+starting configurations for MD calculations, the difficulty in obtaining such data for lipid
+bilayers may have slowed down the development of the MD technique in the
+biomembrane field. Another reason may be the difficulty in developing force fields able
+to reproduce the dynamic properties of lipid molecules. Since the fluidity of lipid bilayers
+determines to a great extent their structural and functional properties, reliable computer
+models have to include the flexible nature of the lipid molecules, static models being
+unrealistic. The occurrence of complex hydrophilic and hydrophobic interactions within
+membranes also poses formidable modeling challenges. For all these reasons, simulations
+of lipid membranes have attracted in the past far less attention than the molecular
+modeling of small molecules and proteins. More recently, however, with the increasing
+computational capacities and the awareness of the biological importance of membranes,
+the modeling of lipid bilayers has emerged as a growing research field [22].
+In order to begin to understand membrane properties, simple model systems have first
+been investigated. The earliest studies of lipid systems appeared in the literature in the
+1980’s. Monolayer [25] and bilayer [26] membrane simulations were performed on
+simplified models, in which the lipid headgroups and/or hydrocarbon tails were stylized
+and the solvent disregarded. The application of MD simulations to lipid bilayers with
+explicit solvent was pioneered by Egberts and Berendsen in 1988 [27]. They proceeded
+to an all-atom simulation of a system consisting of a mixture of water, soap (sodium
+decanoate), and alcohol (decanol). Such ternary systems form stable multilamellar phases
+and provide good models for the study of the general behavior of lipid membranes,
+although they often exhibit denser packing and a higher ordering degree than
+phospholipid membranes. Egberts published in a PhD-thesis in 1988 [28] and in an
+article in 1994 [29] the first simulation of a phospholipid-water bilayer system in full
+atomic detail. In 1992 and 1993, several research groups reported simulation studies of
+single component membranes consisting, for instance, of dipalmitoylphosphatidylcholine
+(DPPC),
+
+dilauroylphosphatidylethanolamine
+
+(DLPE),
+
+or
+
+palmitoyloleoylphosphatidylcholine (POPC) molecules, demonstrating that the MD
+
+Theoretical background
+
+38
+
+technique applied to patches of a few phospholipids in water has enormous potential and
+can give detailed insights into lipid motions and interactions.
+During the past ten years, computer hardware has become faster and cheaper, software
+problems have found innovative solutions, so that impressive improvements in the size
+and complexity of the simulated systems as well as in calculation time have been
+achieved. These improvements enable one nowadays to simulate mixed lipid systems
+(mixing for instance two type of phospholipids [30] or introducing a certain amount of
+cholesterol [31]), to include small molecules like drugs into the bilayer [32,33], or to
+insert peptides or even membrane proteins to study their interactions with the lipid
+components [34,35]. These new applications have been performed with more or less
+success and the simulation of lipid-protein systems in particular still remains a very
+challenging area.
+In liquid-crystalline phase, lipid assemblies exhibit very complex structural and
+dynamic properties due to an extreme fluidity accompanied by an inherent disorder.
+That’s the reason they have been investigated by experimental and theoretical methods
+[36-38]. Conformational changes in these assemblies occur on a time scale of tens to
+hundreds of picoseconds, while the complete rotation of a phospholipids molecule around
+its long axis requires a few nanoseconds. Lateral diffusion is observed on a time scale of
+tens of nanoseconds, while events such as flip-flop of a lipid molecule from one leaflet to
+opposite one needs minutes to hours [39]. Such slow motions are making the study of
+phospholipid bilayers very hard. Currently, simulations typically involve a few hundred
+of lipids and are confined to a few nanoseconds [40-43]. Lindahl and Edholm [44,45]
+reported the first 100-ns simulation of a bilayer consisting 64 DPPC molecules, and a
+larger system of 1024 DPPC molecules was simulated for 10 ns.
+The reported MD simulations of lipid bilayers vary in different aspects. At first sight,
+they may be distinguished by different microscopic interaction parameters (i.e. force
+fields) and by different macroscopic boundary conditions (i.e. different ensembles). In
+addition, more technical issues like the choice of the method used for the computation of
+van der Waals and electrostatic interactions or the length of the time step may differ. This
+introduces the problem of combining the right conditions and parameters in order to
+
+Theoretical background
+
+39
+
+obtain a correct bilayer model system, such simulation conditions being indeed an
+integral part of the model.
+
+II.2.2 Force fields
+The choice of interatomic force fields and related parameters is of crucial importance
+for the simulation of a biomolecular system. The ability of a model membrane to
+reproduce realistic static and dynamic features depends strongly on the balance between
+attractive and repulsive forces, which directly results from the force field employed. A
+force field is indeed required to compute the potential energy of the system as a function
+of the instantaneous atomic coordinates. Various force fields have been developed to
+simulate proteins and nucleic acids; no special force fields have however been designed
+for the modeling of lipid bilayers. With the exception of charges, which are often derived
+from ab initio quantum chemical calculations on lipid fragments, the parameters in the
+potential functions are thus usually taken from pre-existing force fields for proteins or
+nucleic acids. The most popular force fields used in membrane simulation studies are the
+AMBER [46], the CHARMM [47], and the GROMOS [48] force fields. One of these
+force fields is often applied in combination with the OPLS (Optimized Potentials for
+Liquid Simulations) [49] parameter set for the computation of the non-bonded
+interactions.
+All necessary information for system description is contained in the potential V, which
+is derived from the force field. The force field can be defined as set of equations
+(potential functions) and parameters, which characterize interactions into the system.
+Both components are interdependent.
+
+AMBER Force Field
+The AMBER energy expression contains a minimal number of terms. No cross terms
+are included. The functional forms of the energy terms used by AMBER are given in
+Equation (2.6).
+
+Theoretical background
+
+40
+
+E pot = ∑ K 2 ( b − b0 ) + ∑ Hθ (θ − θ 0 ) + ∑
+2
+
+b
+
+(1)
+
+2
+
+θ
+
+(2)
+
+φ
+
+Vn
+⎡1 + cos ( nφ − φ0 ) ⎤⎦
+2 ⎣
+(3)
+
+⎡C
+D ⎤
+12
+6
++ ∑ ε ⎢⎡( r * / r ) − 2 ( r * / r ) ⎥⎤ + ∑ qi q j / ε ij rij + ∑ ⎢ 12ij − 10ij ⎥
+⎣
+⎦
+rij ⎥⎦
+(5)
+⎢⎣ rij
+(4)
+
+(2.6)
+
+(6)
+
+The first three terms in Equation (2.6) handle the internal coordinates of bonds,
+angles, and dihedrals. Term 3 is also used to maintain the correct chirality and tetrahedral
+nature of sp3 centers in the united-atom representation. In the united-atom representation,
+nonpolar hydrogen atoms are not represented explicitly, but are coalesced into the
+description of the heavy atoms to which they are bonded. Terms 4 and 5 account for the
+van der Waals and electrostatic interactions. The final term, 6, is an optional hydrogenbond term that augments the electrostatic description of the hydrogen bond. This term
+adds only about 0.5 kcal.mol-1 to the hydrogen-bond energy in AMBER, so the bulk of
+the hydrogen-bond energy still arises from the dipole-dipole interaction of the donor and
+acceptor groups.
+The atom types in AMBER are quite specific to amino acids and DNA bases. In the
+original publications, the atom types and charges are defined by means of diagrams of the
+amino acids and nucleotide bases.
+
+Extensible Systematic Force Field (ESFF)
+ESFF [50] was derived using a mixture of Density Functional Theory (DFT)
+calculations on dressed atoms to obtain polarizabilities, gas-phase and crystal structures,
+etc. The training set included primarily organic and organometallic compounds and a few
+inorganic compounds. The focus was on crystal structures and sublimation energies. The
+training set included models containing each element in the first 6 periods up to lead (Z =
+82) (except for the inert gases), Sr, Y, Tc, La, and the lanthanides (except for Yb).
+Parameters and charges are generated on the fly, based on the model configuration,
+the local environment, and the derived rules.
+
+Theoretical background
+
+41
+
+The analytic energy expressions for the ESFF are provided in Equation (2.7). Only
+diagonal terms are included.
+
+⎡
+( −α ( rb −rb0 )) ⎤
+= ∑ Db ⎢1 − e
+⎥
+b
+⎣
+⎦
+	
+
+2
+
+E pot
+
+(1)
+
+Ka
+⎧
+0 2
+−
+θ
+θ
+cos
+cos
+( normal )
+∑
+a
+a
+⎪ sin 2 θ 0
+a
+a
+⎪
+⎪ ∑ 2 K a ( cosθ a + 1)
+( linear )
+⎪ a
++⎨
+θ
+2
+( perpendicular )
+⎪ ∑ K a a cos θ a
+a
+⎪
+⎪ 2Ka
+( − β ( r13 − ρa ) )
+( equatorial )
+⎪∑ 2 (1 − cos ( nθ a ) ) + 2 K a
+a n
+⎩
+	
+
+
+
+(
+
+)
+
+( 2)
+
+⎛ sin 2 θ1 sin 2 θ 2
+⎞
+sin n θ1 sin 2 θ 2
++ ∑ Dτ ⎜ 2 0 2 0 + sign n 0 n 0 cos [πτ ] ⎟
+sin θ1 sin θ 2
+τ
+⎝ sin θ1 sin θ 2 	
+
+
+⎠
+( 3)
+
+Bi B j ⎞
+qi q j
+⎛ Ai B j + A j Bi
+3
++ ∑ Dο χ 2 + ∑ ⎜
+−
++
+⎟ ∑
+rnb9
+rnb6 ⎠ nb rnb
+ο	
+nb ⎝
+
+
+ 
+	
+ 	
+
+( 4)
+
+( 5)
+
+(2.7)
+
+(6)
+
+where D and K are force constants, θ are bond angles, A and B are van der Waals
+parameters, χ is electronegativity, q are partial charges of atoms and r are distances
+between atoms.
+The bond energy is represented by a Morse functional form, where the bond
+dissociation energy D, the reference bond length r0, and the anharmonicity parameters are
+needed. In constructing these parameters from atomic parameters, the force field utilizes
+not only the atom types and bond orders, but also considers whether the bond is endo or
+exo to 3-, 4-, or 5-membered rings.
+
+Theoretical background
+
+42
+
+The rules themselves depend on the electronegativity, hardness, and ionization of the
+atoms as well as atomic anharmonicities and the covalent radii and well depths. The latter
+quantities are fit parameters, and the former three are calculated.
+The ESFF angle types are classified according to ring, symmetry, and π-bonding information
+into five groups:
+•
+
+The normal class includes unconstrained angles as well as those associated with 3, 4- and 5-membered rings. The ring angles are further classified based on whether
+one (exo) or both bonds (endo) are in the ring. Additionally, angles with only
+central atoms in a ring are also differentiated.
+
+•
+
+The linear class includes angles with central atoms having sp hybridization, as
+well as angles between two axial ligands in a metal complex.
+
+•
+
+The perpendicular class is restricted to metal centers and includes angles between
+axial and equatorial ligands around a metal center.
+
+•
+
+The equatorial class includes angles between equatorial ligands of square planar
+(sqp), trigonal bipyramidal (tbp), octahedral (oct), pentagonal bipyramidal (pbp),
+and hexagonal bipyramidal (hbp) systems.
+
+•
+
+The π−system class includes angles between pseudo atoms. This class is further
+differentiated in terms of normal, linear, perpendicular, and equatorial types.
+
+The rules that determine the parameters in the functional forms depend on the
+ionization potential and, for equatorial angles, the periodicity. In addition to these
+calculated quantities, the parameters are functions of the atomic radii and well depths of
+the central and end atoms of the angle, and, for planar angles, two overlap quantities and
+the 1-3 equilibrium distances.
+To avoid the discontinuities that occur in the commonly used cosine torsional
+potential when one of the valence angles approaches 180°, ESFF uses a functional form
+that includes the sine of the valence angles in the torsion. These terms ensure that the
+function goes smoothly to zero as either valence angle approaches 0° or 180°, as it
+should. The rules associated with this expression depend on the central bond order, ring
+size of the angles, hybridization of the atoms, and two atomic parameters for the central
+
+Theoretical background
+
+43
+
+atom, which is fit. The functional form of the out-of-plane energy is the same as in
+CFF91, where the coordinate (φ) is an average of the three possible angles associated
+with the out-of-plane center. The single parameter that is associated with the central atom
+is a fit quantity.
+The charges are determined by minimizing the electrostatic energy with respect to the
+charges under the constraint that the sum of the charges is equal to the net charge on the
+molecule. This is equivalent to equalization of electronegativities.
+The derivation of the rule begins with the following equation for the electrostatic
+energy:
+
+qi q j
+1
+⎛
+⎞
+E = ∑ ⎜ Ei0 + χ i qi + ηi qi2 ⎟ + ∑ B
+2
+⎠ i > j Rij
+i ⎝
+
+(2.8)
+
+where χ is the electronegativity and η the hardness. The first term is just a Taylor
+series expansion of the energy of each atom as a function of charge, and the second is the
+Coulomb interaction law between charges. The Coulomb law term introduces a geometry
+dependence that ESFF for the time being ignores, by considering only topological
+neighbors at effectively idealized geometries.
+Minimizing the energy with respect to the charges leads to the following expression
+for the charge on atom i:
+
+qi =
+
+λ − χ i − Δχ i
+ηi
+
+(2.9)
+
+where λ is the Lagrange multiplier for the constraint on the total charge, which
+physically is the equalized electronegativity of all the atoms. The Δχ term contains the
+geometry-independent remnant of the full Coulomb summation.
+Equations (2.8) and (2.9) give a totally delocalized picture of the charges in a
+relatively severe approximation. To obtain reasonable charges as judged by, for example,
+crystal packing calculations, some modifications to the above picture have been made.
+
+Theoretical background
+
+44
+
+Metals and their immediate ligands are treated with the above prescription, summing
+their formal charges to get a net fragment charge. Delocalized π−systems are treated in an
+analogous fashion. σ−systems are treated using a localized approach in which the charges
+of an atom depend simply on its neighbors. Note that this approach, unlike the
+straightforward implementations based on the equalization of electronegativity, does
+include some resonance effects in the π−system.
+The electronegativity and hardness in the above equations must be determined. In
+earlier force fields they were often determined from experimental ionization potentials
+and electron affinities; however, these spectroscopic states do not correspond to the
+valence states involved in molecules. For this reason, ESFF is based on
+electronegativities and hardnesses, calculated using density functional theory. The
+orbitals are (fractionally) occupied in ratios appropriate for the desired hybridization
+state, and calculations are performed on the neutral atom as well as on positive and
+negative ions.
+ESFF uses the 6-9 potential for the van der Waals interactions. Since the van der
+Waals parameters must be consistent with the charges, they are derived using rules that
+are consistent with the charges.
+Starting with the London formula:
+
+(B ~ α
+i
+
+2
+i .IP
+
+)
+
+(2.10)
+
+where α is the polarizability and IP the ionization potential of the atoms, the
+polarizability, in a simple harmonic approximation, is proportional to n/IP where n is the
+number of electrons. Across any one row of the periodic table, the core electrons remain
+unchanged, so that the following form is reasonable:
+'
+a ' b neff
+α= +
+IP
+IP
+
+(2.11)
+
+Theoretical background
+
+45
+
+where a´ and b´ are adjustable parameters that should depend on just the period, and
+neff is the effective number of (valence) electrons. Further assuming that α is proportional
+to R3 and that another equivalent expression to that in Equation (2.10) is:
+
+Bi ~ ε R 6
+
+(2.12)
+
+where ε is a well depth, the following forms are deduced for the rules for van der
+Waals parameters:
+
+Ri =
+
+a
+
+( IP )
+
+1/ 3
+
++
+
+3
+b.n1/
+eff
+
+( IP )
+
+1/ 3
+
+and
+
+ε i = c ( IP )
+
+(2.13)
+
+The van der Waals parameters are affected by the charge of the atom.
+In ESFF we found it sufficient to modify the ionization potential (IP) of metal atoms
+according to their formal charge and hardness:
+
+IP = ( IP )0 + qηi
+
+(2.14)
+
+and for nonmetals to account for the partial charges when calculating the effective
+number of electrons.
+ESFF atom types are determined by hybridization, formal charge, and symmetry rules.
+In addition, the rules may involve bond order, ring size, and whether bonds are endo or
+exo to rings. For metal ligands the cis-trans and axial-equatorial positionings are also
+considered. The additions of these latter types affect only certain parameters (for
+example, bond order influences only bond parameters) and thus are not as powerful as
+complete atom types. In one sense they provide a further refinement of typing beyond
+atom types.
+The ESFF has been parameterized to handle all elements in the periodic table up to
+radon. It is recommended for organometallic systems and other systems for which other
+
+Theoretical background
+
+46
+
+force fields do not have parameters. ESFF is designed primarily for predicting reasonable
+structures (both intra- and intermolecular structures and crystals) and should give
+reasonable structures for organic, biological, organometallic and some ceramic and
+silicate models. It has been used with some success for studying interactions of molecules
+with metal surfaces. Predicted intermolecular binding energies should be considered
+approximate.
+II.2.3 System size and boundary conditions
+According to the size scale of a MD simulation, a real lipid membrane is of infinite
+size. Only patches of a few lipid molecules can be generally simulated. This corresponds
+to a truncation of the system and can introduce possible artifacts. Indeed, a lipid
+membrane in the fluid state behaves like a liquid crystal, exhibiting a continuous
+spectrum of normal mode frequencies and wavelengths for thermally induced
+fluctuations in thickness and curvature. A truncation of the system eliminates all
+wavelengths longer than the simulation box. Another problem induced by truncation is
+that the simulation system is surrounded by a vacuum, leading to so-called “edge effects”
+– the behavior of the molecules located at the boundaries deviates from that of the
+molecules in the center. In the case of a very large system, the number of boundary
+molecules would be small enough to be neglected. The simulation of such large systems
+is unfortunately not feasible presently, so that membrane models are usually restricted to
+relatively small samples consisting of a few hundreds of lipid molecules. In this case,
+about 40% of the lipids belong to the border region.
+The commonly used method to eliminate edge effects is the implementation of
+periodic boundary conditions (PBC), which ensure that the system does not have an
+abrupt border with vacuum. It is assumed that the simulated system is surrounded on all
+sides by an exact replica of itself to form an infinite lattice. Thus, when a molecule leaves
+one side of the system, an identical molecule enters through the opposite side at the same
+time and at the corresponding position. Interactions of a molecule with its surroundings
+are calculated from both the original box and the neighboring cells. PBC are generally
+employed in liquid state simulations for systems presenting a homogeneous character in
+terms of chemical or structural composition. PBC have been widely used in membrane
+
+Theoretical background
+
+47
+
+simulations, as they naturally emulate the effectively infinite extent of the membrane.
+PBC present nonetheless a few disadvantages. The use of PBC inhibits the occurrence of
+long wavelength fluctuations in the simulated membrane: for a box side L, the periodicity
+will suppress any fluctuations with a wavelength greater than L. The membrane simulated
+with PBC is indeed precluded from exhibiting bending or splay modes, because such
+modes would prevent the matching of the membrane with its image at the lateral
+boundaries of the central unit cell. It was also shown that PBC can induce some artifacts,
+such as the occurrence of spurious collective motions or orientations, e.g. an excessive
+collective tilt of the hydrocarbon chains [51] or the introduction of anisotropies into the
+membrane structure. Such effects can be alleviated by enlarging the simulation box: if the
+box is large enough, the boundaries have little effect on the interior of the box. This is of
+course at the cost of computational speed. It should be mentioned that, after the
+equilibration phase of the simulation has been reached, doing a sampling run on a large
+membrane patch is almost as economical as on a small one. A larger system gives indeed
+more information per picosecond of simulation time than a smaller one, since it provides
+data sampling not only temporally but also spatially. After equilibration of the system, a
+membrane consisting of 100 lipid molecules will provide as much data in a 100 ps
+simulation as a membrane of 50 lipids in 200 ps. The data collected with the larger
+membrane will be furthermore less affected by boundary artifacts.
+The competing method to face edge effects is to enclose the system in a sphere, with
+restraints and often stochastic forces acting at the boundary to mimic an extended system.
+One possibility consists in surrounding the system with repulsive walls. Another
+possibility consists in constraining the outermost atoms to their initial position by a
+harmonic force. Stochastic boundary conditions fail, however, into generating an
+effectively infinite bilayer system and the restraints applied to the molecules located at
+the boundaries may influence the behavior of the rest of the system.
+Although computationally more expensive, PBC are generally preferred to stochastic
+boundary conditions for the simulation of bilayer systems.
+
+Theoretical background
+
+48
+
+II.2.4 Macroscopic ensembles
+The sensitivity of lipid bilayers to the macroscopic boundary conditions applied in a
+simulation has been shown in several studies [52,53]. Several macroscopic ensembles can
+be distinguished and the choice of a specific ensemble may influence the results obtained
+from the simulation. While the temperature T and the number of atoms N are generally
+kept constant, the volume V of the simulation box, the external pressure P, or the applied
+surface tension may be kept constant or not. The most commonly ensembles applied to
+lipid bilayer simulations are described and commented below.
+NVT ensemble. A certain number of membrane simulations have been performed
+with the so-called canonical ensemble NVT, in which the volume of the unit cell is kept
+constant. Assumptions about the total molecular density of the simulated system have to
+be made in order to be able to fix the volume of the unit cell. Experimental values for the
+area per lipid and the bilayer lamellar spacing (i.e. bilayer repeat distance) are usually
+used to determine the box size. Depending on the accuracy of the available experimental
+data, the model system will restore with more or less success the features of membrane
+structure and properties. The density of the system is directly related to the physical state
+of the membrane and has to be finely adjusted so as to reproduce a liquid crystalline state.
+If the density is too high, the chain packing becomes too tight, the global ordering
+increases, and a gel-like state may be simulated. If the density is too low, a gap might be
+observed between the two monolayers. If the estimation of the density is correct, the
+main membrane properties will be well replicated. The principal danger of the NVT
+ensemble is that the results might look promising even if there are underlying flaws in the
+calculation procedure or in the force field. As long as the system density is right, the
+simulation will produce a rather good looking fluid phase membrane irrespective of the
+quality of the force field or other computational parameters, since the constraints applied
+on the box volume prevent the system from going to an incorrect density. Furthermore,
+accurate experimental data about structural membrane parameters are often limited to a
+few single lipid component bilayers and, in the case of membranes made up of mixture of
+lipids, experiments provide only indirect guidance for assigning the appropriate
+
+Theoretical background
+
+49
+
+simulation cell dimensions, making membrane simulations using constant volume
+algorithms difficult.
+NPT ensemble. The constant pressure and temperature or isobaric-isothermal
+ensemble NPT is most often applied to the simulation of membranes. After specification
+of the pressure tensor P, the size and shape of the simulation box adjust to maintain the
+pressure along each box dimension. Or, in other words, the computed pressure is fed back
+as a control on the size of the system. If the instantaneous pressure is higher (lower) than
+the set point, the system is expanded (contracted) slowly as the simulation proceeds.
+Thus, using this method, the initial dimensions of the system do not need to be
+approximated, since the system finds its size by itself, based on the force field employed.
+This ensemble opens up the possibility for validating simulations by checking their
+ability to reproduce important structural parameters like the area per lipid or the bilayer
+thickness when they are known and for predicting these parameters when they have not
+been determined experimentally. Generally, an isotropic pressure tensor (Pxx=Pyy=Pzz) is
+applied, with both lateral and perpendicular components usually equal to 1 bar (it should
+be noted that, within the numerical accuracy of pressure algorithms, a pressure of 1 bar is
+equivalent to a pressure of zero). An isotropic pressure implies that there is no surface
+tension in the bilayer. The greatest advantage of the NPT ensemble is that it provides a
+stringent test of the potential energy parameters implemented in the force field: the
+system adjusts its density according to the force field i.e., if the latter is appropriate, the
+right density will be naturally reached during the simulation.
+NγT ensemble. The constant surface tension and temperature ensemble is a variant of
+the NPT ensemble and corresponds to a constant anisotropic pressure tensor. Anisotropic
+pressures along and perpendicular to the membrane plane give rise to a surface tension in
+the plane of the bilayer. The surface tension is defined by the relation δW=γdA, where
+δW represents the work required to change the surface area by dA. This also means that
+the surface tension is equal to the derivative of the free energy with respect to the area at
+
+Theoretical background
+
+50
+⎛ ∂F ⎞
+
+constant temperature and volume: γ = ⎜ ⎟ . Unstressed lipid bilayers are free to adjust
+⎝ ∂A ⎠T ,V
+their surface area to attain an equilibrium with the surroundings. In terms of energy, the
+bilayer tends to adjust its surface area so as to minimize its free energy. Owing to the
+hydrophobic effect, an increase of the area leads to an increase in free energy. If this were
+the only parameter to consider, a membrane would minimize its area, going into an
+ordered gel phase whatever the temperature. The entropic contribution to the free energy
+has also to be considered: the entropy of the system grows upon increasing the area,
+which reduces the free energy. A small surface area forces the chains into a more ordered
+state, reducing the entropy of the system and thus increasing the free energy. To reach its
+thermodynamic equilibrium, the membrane has thus to find a balance between the
+enthalpic and entropic terms. When the minimum in free energy is attained, the surface
+tension is then, per definition, equal to zero. In 1995, Chiu et al. introduced a surface
+tension into the simulation of a DPPC membrane, arguing that the surface tension of a
+bilayer is twice that of the corresponding monolayer [51]. This assumption was however
+doubtful since the main contribution to the surface tension in an air-monolayer-water
+system comes from the interface between the air and the hydrocarbon chains and not
+between the headgroups and water. Feller and Pastor also adopted the explicit inclusion
+of a surface tension in a series of DPPC bilayer simulations [52]. They recognized that
+the surface tension of a bilayer patch is surely zero on a large length scale (microns), but
+put forward that a bilayer on the typical length scale of a MD simulation (nanometers)
+may exhibit a finite surface tension at the surface area that minimizes its free energy.
+They claimed that the application of a nonzero surface tension may be appropriate to
+compensate for the absence of long wavelength undulations in the small systems used in
+simulations, the applied surface tension being then considered as a correction for a finitesize effect. As the suppression of undulations is even reinforced by the confining effect of
+PBC, a nonzero surface tension would be only the expression of the suppressed
+undulations. Or, in other words, a tension would be required to remove the undulations,
+which are normally present in real membranes, but absent in simulated ones. Marrink and
+Mark however showed in an extensive series of glycerolmonoolein (GMO) bilayer
+simulations that, at stress free conditions, the equilibrium area per lipid does not strongly
+
+Theoretical background
+
+51
+
+depend on the system size and concluded that the application of an external surface
+tension to compensate for suppressed fluctuations is not necessary [54].
+In MD simulations of lipid bilayers is very important to choose the appropriate
+ensemble. While the NVT ensemble is the standard condition to simulate a protein in a
+crystal lattice, simulating a lipid bilayer at constant volume is rather not recommended,
+because the dimensions of the simulation unit cell are then determined by the area per
+lipid and the bilayer repeat spacing which are experimentally often not well known.
+Furthermore, even if the system density is correct, the NVT ensemble may dissimulate
+shortcomings in the force field. Performing simulations with the NPT ensemble has the
+advantage to let the implemented interaction potential determine the optimal system
+dimensions and then to assess the quality of the simulation by comparing the properties
+that one is interested in with available experimental data. Employing an isotropic
+pressure tensor is equivalent to imposing a condition of zero surface tension on the lipid
+interface. In the case of an unstressed bilayer, the surface tension is equal to zero at the
+free energy minimum. In the bilayer patches simulated, it has been argued that it is
+necessary to apply a finite surface tension to compensate the fact that longwave
+undulations are suppressed in smaller systems, especially under PBC. There is
+unfortunately little guide from experiment on the precise value to adopt for the surface
+tension. Lindahl and Edholm attempted to split up the surface stresses in a DPPC bilayer
+into several components and to determine each of them using local virial calculations
+[55]. They showed that the tension in the bilayer is the sum of two large opposing
+tensions: an attractive energy in the headgroup region and a repulsive one in the
+hydrocarbon region. For the overall surface tension to vanish, these two contributions
+must exactly balance. This is effectively what they found despite a large uncertainty.
+Such calculations are indeed very sensitive to the force field employed, the treatment of
+long-range electrostatics, and other technical parameters of the simulation protocol.
+Consequently, it is still not clear whether a surface tension has to be applied or not in
+lipid membrane simulations. But, insofar as it is very difficult to assign a concrete value
+to the surface tension and it is quite possible that the required tension is equal to zero, the
+
+Theoretical background
+
+52
+
+majority of lipid simulations are performed using the NPT ensemble, which seems to
+provide reliable macroscopic conditions.
+
+II.2.5 Simulation time steps
+Owing to the long equilibration times needed and to the presence of a very wide range
+of time scales in the dynamics of lipid membranes, the simulation of such systems is a
+rather computationally intensive undertaking. To be able to extend the simulation time, a
+time step as long as possible has to be used to integrate the equations of motion. Usually,
+the motions of principal interest, associated with typical biological processes, occur at a
+relatively long time scale. The limiting factors that govern the size of the time step are the
+fastest vibrations, like bond stretching and angle bending. These fast motions are not
+interesting per se, but need to be properly sampled to generate an accurate trajectory and
+keep the large-scale dynamics correct. The time step has thus to be small enough so that
+these fast degrees of freedom are evolved reasonably, thereby ensuring numerical
+stability. To deal with this problem, several types of time-saving schemes have been
+proposed.
+An attractive solution is to remove the fast vibrations in bonds and/or angles by
+performing constraint dynamics. Constraint algorithms are applied to keep bond lengths
+and/or angles equal to their constant equilibrium values. A longer time step can be thus
+used: errors when integrating bond and angle oscillations are avoided, and slow and large
+scale dynamics is not affected much. The most popular algorithm is SHAKE: for each
+bond or angle, the force necessary to restore it to its equilibrium value is computed [56].
+Since bonds/angles in molecules are coupled, the procedure has to be iterated until
+convergence is reached. For time steps above 2–3 fs and when displacements are too
+large, convergence is not always achieved. The iterative nature of SHAKE makes
+moreover its parallelization difficult. A non-iterative method based on matrices, called
+LINCS (LINear Constraint Solver), has been developed by Hess and co-workers [57].
+LINCS is a more stable and efficient constraint algorithm, which allows time steps of at
+
+Theoretical background
+
+53
+
+least 3–4 fs. LINCS can be easily parallelized and is three or four times faster than
+SHAKE at the same accuracy.
+Another alternative to relieve the limitation related to the sampling of the fast degrees
+of freedom is the implementation of multiple time step (MTS) integrators [58]. The
+various forces present in the system are separated into several components according to
+their characteristic time scales. The equations of motion involving the fast components
+are integrated with a small time step, whereas a longer time step is used to handle slow
+motions. These results decrease the CPU time in the simulation.
+
+II.2.6 Treatment of long-range interactions
+The membrane system is a very large and flexible system in which all components are
+tightly packed together and the bilayer structure is maintained only by the non-bonded
+interactions. The treatment of these non-bonded interactions in a simulation requires thus
+special care. While van der Waals interactions rapidly decrease with increasing distance
+(fast decline of the Lennard-Jones potential), Coulomb interactions are quite long-ranged.
+The correct handling of long-range electrostatic interactions in phospholipid bilayers is of
+particular concern since the headgroups of many phospholipids are highly charged or
+contain strongly polar groups. The most straightforward way of calculating electrostatic
+interactions would be to simply evaluate the Coulomb interactions between each pair of
+charged atoms in the system. In the simulation of large systems like membranes, the
+computation of electrostatics constitutes one of the most expensive tasks and the
+computational cost to include all atom pair interactions is prohibitive. To reduce
+computational effort, approximations have to be introduced into the calculation of the
+long-range electrostatic contribution. Since these approximations often belong to the
+most drastic ones in a simulation procedure, they are expected to have a significant
+influence on the system structure and dynamics and, for this reason, need to be applied
+with care. The most common techniques used for the treatment of electrostatics are
+briefly surveyed below.
+
+Theoretical background
+
+54
+
+Truncation techniques. One of the most frequently used techniques applied in
+biomolecular simulations to speed up the computations is truncation of the long-range
+electrostatic forces. These so-called cutoff methods are also widely used in membrane
+simulations. Interactions beyond a predefined maximum, the cutoff distance RC, are
+neglected to reduce the amount of time spent computing the large number of pairwise
+electrostatic interactions present in the simulated system. Such spherical cutoffs can be
+implemented in different ways, depending on whether the distance is calculated between
+the interacting atoms (atom based) or between groups of atoms (group-based). In the case
+of atom-based truncation, electrostatic interactions are computed for each atom pair
+within the cutoff sphere. Substantial distortions can however occur when the cutoff
+distance from an atom A includes one atom of a dipole B–C (i.e. B or C), but not the
+other. This gives rise to an exaggerated attraction between A and B–C and an artificial
+charge-dipole orientation of B–C relative to A. To eliminate such effects, the use of
+group-based cutoffs is recommended. Neighboring atoms are clustered into bonded
+charge groups, usually with no net charge. For any atom pair within the cutoff distance,
+all pair interactions between the corresponding charge groups are included in the
+electrostatic computation. This group-based method enables one to avoid the artificial
+creation of charges cutting through dipoles. When periodic boundary conditions are used,
+the minimum-image convention is generally applied to prevent double counting of the
+interactions between the atoms in the central simulation cell and those in the images: only
+one image of each particle (the nearest one) is considered for a pair interaction. To avoid
+that an atom interacts with its own image, the cutoff radius used to truncate the nonbonded interactions must not exceed half the box size (considering the shortest box
+vector in the case of non-cubic simulation boxes). To circumvent the abrupt truncation of
+the electrostatic interactions by a straight cutoff, “shift” or “switch” functions can be
+applied to smooth the interaction energy or force to zero, either within the whole cutoff
+range or over a limited region. The truncated forces are thus replaced by continuous
+forces, which have continuous derivatives at the cutoff radius. A shift function increases
+the magnitude of the force or potential before it is smoothed to zero (i.e. adds a function
+to the force or potential), while a switch function multiplies the force or potential by a
+function. There is actually no fundamental difference between both functions and the
+
+Theoretical background
+
+55
+
+switch function can be considered as a special case of the shift function. Truncation of
+the long-range electrostatic interactions may introduce serious artifacts into computer
+simulations. The artifacts caused by the use of cutoffs have generally been attributed to a
+net ordering in the vicinity of the cutoff radius.
+Ewald summation techniques. One way to eliminate truncation effects is to include
+all the electrostatic interactions in the infinite array of periodic replicas of the central
+simulation cell by using Ewald summation techniques. Applying such techniques,
+electrostatic interactions are in principle considered with an infinite cutoff. The Ewald
+summation has originally been developed to handle long-range electrostatic interactions
+in simulations carried out with periodic boundary conditions and has traditionally been
+used to compute electrostatics in crystals. This method can be however applied to other
+systems, provided the charges in the system are distributed over a fine grid. The Ewald
+summation technique is nonetheless very costly from a computational point of view and
+has rarely been used for systems as large as lipid bilayers. Improved algorithms based on
+simplifications of the Ewald sum, like the Particle-Particle Particle-Mesh (P3M) method
+[59] or the Particle-Mesh Ewald (PME) method [60,61], have been developed for a more
+rapid and efficient convergence of the Ewald equations, and have been applied with
+success in numerous membrane simulations. The current trend to take long-range
+electrostatic interactions explicitly into account via Ewald techniques is certainly done in
+an exact but periodical manner, so that artificial periodicity may be enhanced. While
+periodic boundary conditions already introduce a factitious periodicity into the system,
+Ewald summation techniques include this periodicity at all times in the long-range
+electrostatic interactions. Whether or not such effects are significant is obviously
+dependent on the system size and the properties of interest.
+Reaction field approach. An alternative method that incorporates the full electrostatic
+interactions is the reaction field approach, in which the Coulomb potential is corrected
+for the effect of the polarizable surroundings beyond the cutoff radius. This method has
+been developed for homogeneous systems, for instance for liquid simulations, or for a
+small solute immersed in a solvent. Within the cutoff sphere, solute and solvent are
+
+Theoretical background
+
+56
+
+simulated in atomic detail, whereas the solvent outside the sphere is treated as a dielectric
+continuum.
+The selection of methodologies for the simulation of lipid bilayer membranes is
+particularly complex: many choices must be made concerning force fields, boundary
+conditions, treatment of long-range interactions, and other technical parameters. The fact
+that so many simulations carried out under different conditions lead to similar results is
+certainly a consequence of favorable combinations of parameters, one shortcoming
+compensating for another one. No choice is in any case perfect and every decision
+involves trade-offs. Compromises have to be made between accuracy and efficiency or
+more exactly, owing to the enormous computational intensiveness of membrane
+simulations, between accuracy and feasibility [62].
+
+II.2.7 Limitations of the MD technique
+Although a powerful technique in many aspects, molecular dynamics presents a
+number of important limitations which must be kept in mind when using this technique
+and analyzing the results.
+One obvious limitation is the length of the simulated time scale. Most trajectories to
+date are confined to the 10 ns regime, which does not allow the investigation of many
+biologically relevant processes. Another limitation is the size of the simulated system: the
+largest system that can be currently handled contains about tens of thousands of atoms,
+which corresponds to system sizes of the order of 5–10 nm. Such systems are still very
+small and do not enable one to study phenomena only present over longer distances. To
+circumvent this size problem, periodic boundary conditions are used to extend the system
+in a periodical manner. This approximation can however introduce some artifacts into the
+molecular behavior of the lipids, especially when the simulation box is not large enough.
+Both limitations have their origins in the available computer power. With the continuous
+increase in computer speed and the improvement of the actual computational algorithms,
+time scales and system sizes will be enhanced by at least one order of magnitude in the
+
+Theoretical background
+
+57
+
+near future and one can expect that MD simulations of lipid bilayers will reach
+microsecond capabilities in the future.
+The accuracy of a MD simulation is also limited by the accuracy of the underlying
+force field. The potential function used to describe the interactions in the simulated
+system is a simplified approximation of the “real” function and involves uncertain
+parameters like partial charges, Lennard-Jones constants, equilibrium values for bonds,
+angles and dihedrals, and force constants. In the commonly used force fields, atomic
+polarizability is furthermore omitted: average effects of polarizability are retained in the
+force field parameters, but detailed effects are not properly represented. Another crude
+approximation done in MD simulations is to compute only forces between pairs of atoms:
+three or four particle interactions are indeed neglected. To speed up calculations, longrange electrostatic interactions are often truncated beyond a given cutoff distance, which
+may have significant effects on the final results. Other methods have been implemented
+to include the long-range contribution, like Ewald summation or reaction field
+approaches. Each method has, however, some drawbacks, which have to be taken into
+account.
+An extension of present computational algorithms and methodologies as well as a
+refinement of current force fields represent thus an important challenge in the MD field
+to gain both in efficiency and accuracy. Nevertheless, molecular dynamics still
+constitutes a very reliable technique to study structural and motional properties of
+biomolecular systems, as long as the limitations and approximations described above are
+not ignored and their influence on the results carefully is considered.
+
+II.3. Permeation models
+Two alternative models are commonly used to describe the molecular mechanisms of
+solute permeation through lipid membranes. One is referred as the solubility-diffusion
+model, in which the solute has to partition into and diffuse through the membrane. The
+other model, the defect model, involves the occurrence of transient pore-like defects such
+
+Theoretical background
+
+58
+
+as water pores in the lipid bilayer, which allow ions and small polar molecules to bypass
+the partitioning energy barrier.
+
+II.3.1 Homogeneous solubility-diffusion model
+The most generally accepted model to describe the permeation of small neutral
+permeants across lipid bilayer membranes is the homogeneous solubility-diffusion model
+[63-65], which was originally applied by Overton [3] to permeation across cell
+membranes. This model depicts the bilayer membrane as a thin static slab of bulk organic
+solvent, representing the permeation barrier and separating two aqueous phases. The
+bilayer is considered to be isotropic and homogeneous, and the water/membrane interface
+is treated as a sharp boundary between the two phases. The permeation process is
+described in three steps: the permeating molecule has first to partition into the membrane,
+then to diffuse through the membrane interior, and finally to dissolve again into the
+second aqueous phase. In this model, permeation through the membrane is assumed to be
+the rate-limiting step in the transport process and interfacial barriers for membrane entry
+or exit are neglected.
+Thus, the permeation resistance R, which is equivalent to the inverse of the
+permeability coefficient P, can be expressed as follows:
+
+R=
+
+db
+1
+=
+P K b / w Db
+
+(2.15)
+
+The permeation resistance is proportional to the bilayer thickness of the barrier db
+(which does not include the two interfaces and is assumed to be constant), and inversely
+proportional to the partition and diffusion coefficients of the permeant in the barrier, Kb/w
+and Db respectively. In practice Kb/w is associated to the partition coefficient of the
+permeant between water and bulk organic solvent resembling membrane interior, such as
+octanol, olive oil, or a liquid hydrocarbon like decane or hexadecane, and Db is
+approximated by the diffusion coefficient of the permeant in a bulk hydrocarbon solvent.
+
+Theoretical background
+
+59
+
+The solubility-diffusion theory as typically employed (i.e. Equation (2.15)) suffers
+from several weaknesses. It is quite obvious, both from experiment and simulation, that
+the membrane exhibits a structure that would not be expected at an interface between an
+organic solvent and water. The rough features of a lipid bilayer are clear: the polar
+headgroups of the lipids interface with water and the hydrocarbon interior. However, the
+structure of a bilayer has a much finer detail than this: a bilayer is a very heterogeneous
+construct, with distinct regions that may have very different affinities for a solute.
+Experimental and theoretical analyses clearly show that solute partitioning into bilayers
+differs in many respects from that into bulk solvents. Specifically, the solute partition
+coefficients into bilayers exhibit a strong dependence on the local lipid microstructure, a
+feature that cannot be accounted for based on partition coefficients in bulk fluids.
+Neglecting in the permeation process the role of the water/membrane interfaces, which
+represent about 40% of the total membrane phase, is a particularly crude approximation
+that often leads to erroneous estimations of permeation rates. Alkane/water partitioning
+systems, for instance, can only model the hydrophobic contribution of solute-membrane
+interactions, whereas the interactions between the solute and the polar lipid headgroups
+are not taken into account. Finally, the diffusion process within the membrane is not
+homogeneous. The lipid chains are more ordered near the water/lipid interface and
+become progressively less ordered as the bilayer center is approached. However, even in
+the center, the order parameters do not suggest the complete disorder expected in fluid
+hydrocarbons.
+To conclude, the oversimplifications made in this homogeneous model fail to take
+into account the diverse and complex properties of real membranes, so that the
+permeation mechanism cannot be properly described by this approach.
+
+II.3.2 Inhomogeneous solubility-diffusion model
+Considering the limitations of the homogeneous solubility-diffusion model to predict
+the permeation rates of solutes in lipid membranes, Marrink and Berendsen derived an
+inhomogeneous solubility-diffusion model [66]. In this model, the diffuse interfaces
+
+Theoretical background
+
+60
+
+between the lipid headgroups and water are included in the description of the permeation
+process, and the anisotropic and inhomogeneous character of the membrane interior is
+now taken into consideration.
+For a structurally heterogeneous membrane, both the partition and diffusion
+coefficients of the solute and, hence, its permeability coefficient exhibit spatial variations
+within the membrane. Equation (2.15) can be thus generalized to express the overall
+membrane resistance R as the integral over the local resistances across the membrane and
+to relate it to spatially dependent solute partition and diffusion coefficients:
+d
+
+R=
+
+1
+dz
+=∫
+P 0 Kz/w ( z ) D ( z )
+
+(2.16)
+
+Kz/w(z) and D(z) are the depth dependent partition coefficient of the solute between
+water and the membrane and the solute diffusion coefficient within the membrane,
+respectively, at a position z along the bilayer normal. d is now the entire membrane
+thickness, including the water/membrane interfaces. The critical parameter in Equation
+(2.16) is the partition coefficient Kz/w, which does not only reflect the solute distribution
+between the aqueous phase and the membrane, but also all possible molecular
+interactions between the solute and both environments. Kz/w can be calculated from the
+Gibbs free energy ΔG, required to transfer the solute from aqueous to the hydrophobic
+phase as follows:
+K z / w = exp ( −ΔG ( z ) / RcT )
+
+(2.17)
+
+where Rc is the ideal gas constant and T, the temperature. In essence, water/membrane
+partitioning cannot be predicted reliably and accurately without the ability to determine
+the associated free energy changes. Thus, the permeation resistance can be expressed in
+terms of free energy:
+
+Theoretical background
+
+61
+exp ( ΔG ( z ) / RcT )
+1
+dz
+=∫
+P 0
+D( z)
+d
+
+R=
+
+(2.18)
+
+Permeability is therefore a rate process that contains contributions from both an
+equilibrium (partitioning) and non-equilibrium (transverse diffusion) step. Partitioning
+into the membrane can be well described by the free energy profile across the membrane,
+i.e. the free energy barrier to be overcome by the solute to permeate through the
+membrane. The challenge is thus to determine the free energy barrier as well as the local
+diffusion coefficient of the solute in the membrane. The permeability coefficient can be
+then obtained by numerical integration of Equation (2.18).
+
+II.3.3 Defect model
+The formation of transient aqueous pores produced by thermal fluctuation within the
+membrane has been shown to contribute to the permeability of the bilayer to ions, water,
+and small neutral molecules [67,68]. As is known, the bilayer membrane represents a two
+dimensional liquid crystal with a rather high lateral mobility of the lipid components; the
+large fluctuations in the bilayer structure may give rise to transient defects. Two types of
+through-going pores, namely, with hydrophilic or hydrophobic lateral surface, can be
+distinguished [69]. During the formation of a transient hydrophobic defect, the lipid
+molecules are moved apart by thermal fluctuations, so that the membrane hydrophobic
+core is penetrated by the aqueous bulk phase, resulting in the formation of a pore. There
+are two possibilities for the development of such a pore. One of them is the collapse of
+the pore, with the simultaneous return of the lipid molecules to their original positions.
+The other possibility involves the reorientation of the lipid molecules resulting in the
+covering of the inner surface of the pore by the polar lipid headgroups, i.e. an inverted
+pore is formed. In both hydrophobic and hydrophilic defects, pore formation results from
+dynamic properties of the lipid bilayer, and the equilibrium pore distribution is relatively
+constant over time. By passing through such hydrated defects, the permeating molecule
+can avoid the high-energy barrier associated with partitioning into the hydrophobic
+
+Theoretical background
+
+62
+
+membrane interior. Transport through transient pores seems to be the dominant
+mechanism for the permeation of ions through lipid bilayers. In the case of small polar
+molecules, it is plausible that both mechanisms, the partitioning and pore mechanisms,
+operate in parallel [67].
+Water wires extending across a lipid bilayer are thermodynamically unstable, so that
+they form infrequently and their lifetime is limited. Owing to their transient character,
+they are particularly hard to detect experimentally, which makes their existence doubtful.
+However, it should be noted that the hydrophobic core of the membrane is not
+impenetrable to water and, just as organic liquids, has a measurable miscibility with
+water. Water is thought to exist at a millimolar concentration within the hydrocarbon
+core. Subczynski and co-workers determined the hydrophobicity profile across PC
+bilayer membranes using an ESR spin-labeling method and showed that the water
+penetration into the membrane is extensive up to the depth of the carbon atom C8 [70].
+Membrane permeability to hydrophilic solutes could be therefore facilitated by
+penetration of water into the hydrophobic region of the membrane.
+
+II.4. Simulation of permeation processes
+As already mentioned in the introduction, the time required for a penetrating molecule
+to permeate through the membrane is much longer than can be simulated. To get some
+statistical information on permeation processes, simulations on the order of microseconds
+are indeed necessary. Equilibrium MD simulations can still be performed to follow the
+trajectory of the penetrant in time within the membrane. But, in order to get a full
+description of the permeation process across the whole membrane, non-equilibrium MD
+simulations using indirect methods have to be carried out.
+
+II.4.1 Equilibrium MD simulations
+“Conventional” equilibrium MD simulations, starting with solute molecules located at
+various depths within the membrane (e.g. hydrophobic core, interface, water layer),
+
+Theoretical background
+
+63
+
+directly provide the average distribution of the solute in the membrane. They also allow
+the direct analysis of a variety of properties, such as hydrogen bonding between the
+solutes and the water or lipid molecules, specific orientations or conformations of the
+solutes within the bilayer. Equilibrium MD simulations give thus information on the
+preferred location of the solutes within the membrane and enable one to get some idea of
+the shape of the free energy profile across the membrane.
+The perturbations of the bilayer structure generated by the presence of solute
+molecules inside the membrane can also be observed from equilibrium MD simulations
+by comparison with the properties of the pure bilayer system simulated under the same
+conditions.
+Hence, equilibrium MD simulations of membranes including solute molecules can
+provide a wealth of information. However, the simulation time scale is simply not long
+enough to allow the solute molecules to explore the entire range of membrane
+environments. In the case of a hydrophilic solute molecule, not enough statistical data are
+collected in the hydrocarbon core of the bilayer, whereas the sampling is poor in the polar
+headgroup region for a hydrophobic solute. These regions where the probability to find
+the solute is low determine, however, the rate of permeation and, thus, need to be
+thoroughly sampled.
+II.4.2 Non-equilibrium MD simulations
+Umbrella sampling method. Umbrella sampling is a special biased sampling
+technique, which has been developed by Torrie and Valleau [71,72]. In this approach, the
+system of interest is simulated in the presence of an artificial biasing potential (also
+called “umbrella” or “window” potential), introduced to enhance the sampling in the
+vicinity of a chosen region of configurational space and thus to confine the system
+around this region. A complete calculation requires a number of separate simulations (or
+“windows”), each biasing the configurational sampling around a selected region.
+Ultimately, the information from the various windows must be unbiased and recombined
+together to obtain the final result.
+Applied to the permeation process of a solute molecule across a lipid bilayer, the
+umbrella sampling method enables one to compute the free energy profile along the
+
+Theoretical background
+
+64
+
+bilayer normal (taken as z-direction). In a series of independent simulations, the solute
+molecule is restrained at various depths in the bilayer by means of a biasing potential,
+helping to achieve a more efficient sampling. The biasing umbrella potential (Vumb) is
+usually a harmonic potential of this form:
+k ( z − z0 )
+Vumb ( z ) =
+2
+
+2
+
+(2.19)
+
+where k is force constant, z is the z-coordinate of the center of mass of the solute, and
+z0 is the center of the umbrella potential. k defines the width of the umbrella potential:
+high values of k correspond to narrow potential, i.e. to very restraining potentials. Note
+that only the z-coordinate of the solute center of mass is restrained, which means that the
+solute is free to rotate in all three directions around its center of mass and also free to
+diffuse in the plane perpendicular to the bilayer normal. For a given window, the free
+energy ΔG can be derived from the probability distribution ρumb of the solute in the
+membrane in the presence of the umbrella potential according to the relation:
+ΔG ( z ) = − RcT ln ρumb ( z ) + C − Vumb ( z )
+
+(2.20)
+
+where C is an integration constant.
+Average force method on constrained particle. An alternative method to compute the
+free energy profile across the membrane is the average force method on constrained
+particle. In this approach, the solute molecule is constrained at a given depth in the
+membrane and the force needed to keep the constraint is calculated. The norm of this
+force corresponds to the derivative (or slope) of the free energy at a given depth in the
+membrane. Repeating this constraining procedure at different depths in the membrane
+enables one to construct the free energy profile across the membrane. This method can be
+viewed as a limiting case of the umbrella sampling method, i.e. with an infinite force
+constant.
+
+Theoretical background
+
+65
+
+The free energy profile, also called potential of mean force, is obtained upon
+integration of the constraining force across the membrane:
+z
+
+ΔG ( z ) = ∫ Fz ( z ) dz
+
+(2.21)
+
+0
+
+where <Fz(z)> is the z-component of the force imposed on the solute, averaged over
+the constraint ensemble. This force can be monitored during a constrained simulation as
+follows: the constrained is imposed by resetting the z-coordinate of the center of mass of
+the solute molecule each step to its initial, constrained value z0, and the force needed to
+keep the constraint on the solute is directly proportional to the distance over which the z
+coordinate is reset. As in umbrella sampling method, the solute molecule is free to rotate
+around its center of mass and free to diffuse in the plane of the membrane.
+The advantage of the average force method over the umbrella sampling approach is
+that the local diffusion coefficient of the solute in the bilayer can be computed
+simultaneously by applying the force autocorrelation method. This method, generally
+used to study diffusion over free energy barriers, is based on the fluctuation-dissipation
+theorem [73]. This theorem relates a time dependent friction function ζ(t) to the
+autocorrelation function of a Gaussian random force f(t) with zero average:
+
+ζ (t ) =
+
+f (t ) f ( 0)
+RcT
+
+(2.22)
+
+The random force f(t) can be identified with ΔFz(z,t), the deviation of the instaneous
+force from the average force acting on the constrained solute at a position z along the
+bilayer normal:
+ΔFz ( z , t ) = Fz ( z , t ) − Fz ( z , t )
+
+(2.23)
+
+Theoretical background
+
+66
+
+This approximation enables one to extract the local time dependent friction coefficient
+
+ζ(z,t) from the constrained MD trajectory:
+
+ζ ( z, t ) =
+
+ΔFz ( z, t ) ΔFz ( z, 0 )
+RcT
+
+(2.24)
+
+Time integration of this equation gives the local static friction coefficient ζS(z).
+Assuming that, during the decay time of the local time dependent friction coefficient
+
+ζ(z,t), the solute remains in a region of constant free energy (i.e. in the limit of
+overdamped Markovian diffusion), the local diffusion coefficient D(z) of the solute in the
+membrane can be related to ζS(z) via Einstein’s relation:
+
+RT
+D( z) = sc =
+ζ ( z)
+
+( RcT )
+∞
+
+∫
+0
+
+2
+
+ΔFz ( z , t ) ΔFz ( z , 0 ) dt
+
+(2.25)
+
+III. MD simulations of permeation processes through phospholipid
+bilayer
+
+III.1. Simulation methods
+To fulfill aim of the thesis first a membrane system is simulated. Obtained structure is
+taken as initial structure for further MD study of permeation processes.
+
+III.1.1 Membrane system
+The chemical structure of DPPC is depicted in Figure 3.1. The lecitin headgroup is a
+zwitterions, overall neutral, with a positive charge distributed over the choline group and
+a negative charge on the phosphate group. The biologically relevant enantiomer is Rconfigurated, the carbon atom GC2 of the glycerol moiety being the chiral center.
+
+Figure 3.1. Structure of DPPC molecule.
+The membrane system consists of 200 DPPC molecules – each monolayer containing
+100 lipid molecules – surrounded by 5820 water molecules. The water to DPPC ratio is
+67
+
+MD simulations of permeation processes through phospholipid bilayer
+
+68
+
+of 29 (water weight fraction 0.42), which corresponds to a fully hydrated state of the
+bilayer. X-ray experiments on the structure of DPPC bilayers have shown that the main
+physical characteristics remain conserved between a hydration degree of 15.3 and 29.1
+waters per lipid [74].
+The system is equilibrated for 1.2 ns using isothermal-isobaric (NPT) ensemble,
+AMBER force field and time step of 2 fs. Three-dimensional periodic boundary
+conditions (PBC) are applied. The electrostatic interactions are calculated using particlemesh Ewald (PME) technique. A cutoff at 1.0 nm is applied for the real space part of the
+Ewald sum and the Lenard-Johnes dispersion forces. The pressure and the temperature
+are set at 1 bar and 323K, respectively. Berendsen barostat and thermostat are used with
+relaxation times 0.5 and 0.2 ps, respectively. Single Point Charge (SPC) model for water
+is used.
+After equilibration, the area per lipid was calculated and the value of 0.632 ± 0.005
+nm2 was obtained, which is in good agreement with experimental range 0.63 – 0.64 nm2
+[75,76] and reproduces other reported results [77,78].
+AMBER force field is appropriate for simulations of lipid bilayers and other organic
+compounds, but is incompatible with organometallic compounds. The reason is that there
+are no parameters for the metal ions, so we used this force field only to obtain appropriate
+initial structure, which will be migrated to another force field like extensible systematic,
+for instance, which has parameters for organometallic compounds.
+The system is equilibrated again for 500 ps using extensible systematic force field
+(ESFF), NPT ensemble and time step of 2 fs. During this equilibration all bond lengths
+are kept constant. All other parameters are as in previous simulation.
+After equilibration area per lipid is 0.649 ± 0.007 nm2, which is little higher than
+experimental range. Also some small disorder of hydrocarbon chains is observed, but
+membrane density and ordering degree of the lipid acyl chains are still acceptable, and
+this structure is taken for further study of permeation processes. Without keeping all bond
+lengths constant the disorder of hydrocarbon chains becomes unacceptable.
+
+MD simulations of permeation processes through phospholipid bilayer
+
+69
+
+III.1.2 Choice of penetrants
+As organometallic penetrants dimethylarsinic acid and trimethylbutane are taken. The
+reason is that they are with relative small molecule and do not present too much
+complexity from a conformational viewpoint. In addition they are very poisonous and
+could be found in nature.
+Dimethylarsinic acid is weak acid (pKa is 6.2) with amphiphilic properties, with its
+hydrophilic carboxyl and hydroxyl functions on the one hand, and its hydrophobic two
+methyl groups, while trimethylbismuthane is with hydrophobic properties. According to
+pH-partitioning theory [79], dimethylarsinic acid should permeate through cell membrane
+in the unionized form.
+Both structures were energy minimized using a steepest descent procedure and ESFF
+prior to MD simulations. The chemical structures of dimethylarsinic acid and
+trimethylbismuthane are depicted in Figure 3.2.
+
+Figure 3.2. Structures of dimethylarsinic acid and trimethylbismuthane.
+
+III.1.3 Equilibrium MD simulations
+Equilibrium MD simulations are first performed to determine the preferred locations
+of the solute molecules in the DPPC membrane.
+Twelve solute molecules are homogeneously inserted into the equilibrated DPPC
+bilayer model. Starting structures contain four solute molecules in the membrane interior,
+four in the interfacial regions, and four in the water layers. To avoid repulsive contacts
+between the solute and lipid molecules, the introduction of the solute molecules is
+achieved using a free energy perturbation method in a 100 ps simulation. At the
+
+MD simulations of permeation processes through phospholipid bilayer
+
+70
+
+beginning of the simulation, the solute molecules are treated as point masses with zero
+Lenard-Jones parameters, so that they do not interact with the lipid environment. Step by
+step, the Lenard-Jones parameters and charges are rescaled, so that the solute molecules
+fully interact with the lipids at the endof the simulation. Lenard-Jones and electrostatic
+interactions from the initial state to the final state are computed using the following non
+bonded potential:
+Vnb ( rij ) = VLJ ( rij ) + VC ( rij ) =
+=
+
+( (1 − λ ) A
+
+A
+i
+
++ λ AiB ) ( (1 − λ ) B jA + λ B Bj ) + ( (1 − λ ) AjA + λ ABj ) ( (1 − λ ) BiA + λ BiB )
+rij9
+
+( (1 − λ ) B
+−
+
+A
+i
+
++ λ BiB ) ( (1 − λ ) B jA + λ B Bj )
+6
+ij
+
+r
+
++
+
+−
+
+(3.1)
+
+f
+⎡( (1 − λ ) qiA + λ qiB ) ( (1 − λ ) q Aj + λ q Bj ) ⎤
+⎦
+rij ⎣
+
+where λ = 0 corresponds to the initial state (i.e. no interaction between the solute and
+the membrane) and λ = 1, to the final state (i.e. full interaction). The parameter λ is
+incremented each time step, so that the solute molecules are progressively “grown” in
+size. This procedure allows one to incorporate the solute molecules without having first
+to create free volume, which would induce large perturbations in the bilayer structure.
+Note that the solute coordinates are “frozen” during the whole procedure to maintain the
+initial solute distribution throughout the bilayer.
+Three equilibrium MD simulations of 35 ns are carried out with each type of solute in
+the DPPC membrane. Simulation conditions are the same as those for pure DPPC system,
+i.e. ESFF, NPT ensemble with T = 323K and Pxx = Pyy = Pzz = 1 bar, choice of PME for
+the computation of electrostatics and PBC. All bond lengths are kept constant and time
+step was 2 fs. Equilibration time of 5 ns was required for all simulations, so that
+trajectories are analyzed over 30 ns simulation time.
+
+MD simulations of permeation processes through phospholipid bilayer
+
+71
+
+III.1.4 Non-equilibrium MD simulations
+To construct the free energy profile along the membrane normal (z-direction)
+corresponding to the transfer of the solute from the water layer into the membrane
+hydrocarbon core, a series of biased simulations is carried out, where an average force
+method is used to maintain the solute molecules at different positions in the DPPC
+membrane. This method allows computation of the local diffusion coefficient at the same
+time, so that permeability coefficients of the solutes in the membrane should be obtained.
+In order to follow the complete permeation pathway across the membrane, initial
+configurations are generated by introducing the solute molecules at different depths into
+the membrane, applying the growing procedure described above. 67 positions along the
+bilayer normal 1Å apart, are investigated from z0 = – 3.3 to z0=3.3 nm. The solute center
+of mass is restrained in the z-direction. To limit computational cost, four solute molecules
+(two per leaflet) are incorporated into the membrane in each starting structure, which
+reduces the number of simulations from 67 to 17.
+Simulation conditions are the same as those for the equilibrium MD simulations and a
+tolerance of constraint 1 x 10-10 nm is used. This leads to using of double precision for
+calculating of atom coordinates, which rapidly slows down the simulations. Again all
+bond lengths are kept constant. Each window is equilibrated for 2.5 ns, after which a
+production trajectory of 12.5 ns is generated.
+
+III.2. Results
+III.2.1 Equilibrium MD simulations
+Figure 3.3 shows the distribution of the twelve solute molecules in the DPPC
+membrane at the start and after 35 ns MD simulation for each type of solute. In the final
+ensemble dimathylarsinic acid molecules are not found in the hydrophobic membrane
+core anymore and are essentially located in the water layers and at the water/membrane
+interfaces. The trimethylbismuthane molecules leave the aqueous phase and the
+membrane interior to adsorb at the water/membrane interface.
+
+MD simulations of permeation processes through phospholipid bilayer
+
+72
+
+In order to follow the trajectory of the solute molecules over the simulation from their
+initial position, the perpendicular motions of the solute center of masses (z-coordinate)
+have been monitored as a function of time and are depicted in Figures 3.4 and 3.5. On the
+Figures “hydrocarbon part”, “interface” and “water layer” refer to the initial environment
+of the molecules. The four molecules dimethylarsinic acid initially located in the
+hydrocarbon part of the membrane essentially sample the interface. The dimethylarsinic
+acid molecules initially located in the water layer or at the interface are principally found
+in the water phase during the simulation. Some of them, however, occasionally migrate to
+the interfacial region. The molecules trimethylbismuthane, independently on their initial
+position, all sample the interfacial region.
+
+MD simulations of permeation processes through phospholipid bilayer
+
+(a)
+
+(b)
+Figure 3.3. Solute distribution in the DPPC membrane at the start (left) and
+after 35 ns (right) MD simulation for (a): dimethylarsinic acid and
+(b): trimethylbismuthane
+
+73
+
+MD simulations of permeation processes through phospholipid bilayer
+
+74
+
+Hydrocarbon part
+3
+2
+
+Z (nm)
+
+1
+0
+-1
+-2
+-3
+0
+
+12
+
+24
+
+35
+
+24
+
+35
+
+Time (ns)
+
+Interface
+3
+2
+
+Z (nm)
+
+1
+0
+-1
+-2
+-3
+0
+
+12
+Time (ns)
+
+Water layer
+3
+2
+
+Z (nm)
+
+1
+0
+-1
+-2
+-3
+0
+
+12
+
+24
+
+35
+
+Time (ns)
+
+Figure 3.4. z-coordinate of the center of masses of the twelve molecules dimethylarsinic
+acid as a function of time. (z=0 is the membrane center)
+
+MD simulations of permeation processes through phospholipid bilayer
+
+Hydrocarbon part
+3
+2
+
+Z (nm)
+
+1
+0
+-1
+-2
+-3
+0
+
+12
+
+24
+
+35
+
+24
+
+35
+
+Time (ns)
+Interface
+3
+2
+
+Z (nm)
+
+1
+0
+-1
+-2
+-3
+0
+
+12
+Time (ns)
+
+Water layer
+3
+2
+
+Z (nm)
+
+1
+0
+-1
+-2
+-3
+0
+
+12
+
+24
+
+35
+
+Time (ns)
+
+Figure 3.5. z-coordinate of the center of masses of the twelve molecules
+trimethylbismuthane as a function of time. (z=0 is the membrane center)
+
+75
+
+MD simulations of permeation processes through phospholipid bilayer
+
+76
+
+The density distribution profiles along the bilayer normal of the both solute types at
+the start and during the simulation can be compared in Figure 3.6. The DPPC and water
+density profiles are also plotted as reference. From these profiles, it can be observed that
+the density distribution of dimethylarsinic acid exhibits two maxima – one located in the
+water phase and the other one at the interface. The density distribution of
+trimethylbismuthane exhibits only one maximum at the DPPC/water interface. Due to its
+hydrophobicity, the penetration of trimethylbismuthane into the hydrocarbon region of
+the bilayer is deeper than that of the water.
+Both density distribution profiles are plotted again in Figure 3.7 for a better
+comparison. Qualitatively, the probability to find dimethylarsinic acid in the water layer
+is greater that that to find trimethylbismuthane. The obtained distribution profiles are not
+completely symmetric with respect to the bilayer center, despite the relative long
+simulation time of 35 ns. Investigation of solute distribution in the membrane requires
+intensive statistical sampling, which involves simulation times beyond the reach of
+equilibrium MD.
+
+1.0
+
+1.0
+
+0.8
+
+0.8
+
+Density (g/cm2)
+
+Density (g/cm2)
+
+MD simulations of permeation processes through phospholipid bilayer
+
+0.6
+0.4
+0.2
+
+0.6
+0.4
+0.2
+
+-3
+
+-2
+
+-1
+
+0
+Z (nm)
+
+1
+
+2
+
+0.0
+
+3
+
+1.0
+
+1.0
+
+0.8
+
+0.8
+
+Density (g/cm2)
+
+Density (g/cm2)
+
+0.0
+
+0.6
+0.4
+0.2
+0.0
+
+77
+
+-3
+
+-2
+
+-1
+
+1
+0
+Z (nm)
+
+2
+
+3
+
+-3
+
+-2
+
+-1
+
+0
+Z (nm)
+
+1
+
+2
+
+3
+
+0.6
+0.4
+0.2
+
+-3
+
+-2
+
+-1
+
+0
+Z (nm)
+
+1
+
+2
+
+3
+
+0.0
+
+Figure 3.6. Density distribution profiles along the bilayer normal of the dimethylarsinic
+acid (orange), trimethylbismuthane(purple), DPPC (brown) and water (blue) molecules at
+the start (left) and during the simulation from 5 to 35 ns(right).
+
+MD simulations of permeation processes through phospholipid bilayer
+
+78
+
+0.06
+
+Density (g/cm2)
+
+0.05
+0.04
+0.03
+0.02
+0.01
+0.00
+
+-3
+
+-2
+
+-1
+
+0
+Z (nm)
+
+1
+
+2
+
+3
+
+Figure 3.7. Density distribution profiles along the bilayer normal of dimethylarsinic acid
+(orange) and trimethylbismuthane (purple) during the simulation.
+
+From this simulation series of equilibrium MD simulations, a qualitative idea of the
+solute distribution inside the DPPC membrane could be gained. However, absence of
+sampling in the hydrophobic membrane interior precludes the estimation of the free
+energy barrier associated to the transfer of the solute from the water phase into the center
+of the bilayer. Furthermore, even in the headgroup region, massive sampling would be
+required to yield uniform unbiased distribution probabilities and, hence, reach
+convergence of the free energy.
+
+III.2.2 Non-equilibrium MD simulations
+The series of biased simulations, where average force method is used, allows for the
+computation of the free energy profiles. The free energy profile along the bilayer normal
+is calculated from the constraining forces obtained from the biased simulations. The
+constraining forces from 67 windows for each solute are recombined and the resulting
+free energy profiles are depicted in Figure 3.8.
+
+MD simulations of permeation processes through phospholipid bilayer
+
+79
+
+The free energy of dimethylarsinic acid is minimum in the water layer and goes up
+with a steep slope inside the membrane. A free energy barrier of +25 ± 1 kJ/mol from the
+water phase to the bilayer center is obtained. The free energy of trimethylbismuthane is
+minimum at the internal part of DPPC/water interface and grows inside the membrane.
+For trimethylbismuthane a free energy barrier of +45 ± 3 kJ/mol is computed from the
+water phase to the bilayer center, and an energy decrease of –10 ± 2 kJ/mol from water
+phase to interfacial region.
+
+0
+
+ΔG(z) kJ/mol
+
+-10
+-20
+-30
+-40
+-50
+-60
+
+-3
+
+-2
+
+-1
+
+1
+0
+Z (nm)
+
+2
+
+3
+
+Figure 3.8. Free energy profiles along the bilayer normal for dimethylarsinic acid
+(orange) and trimetylbismutane (purple). The center of the bilayer is taken as reference
+(ΔG(z=0) = 0 kJ/mol).
+From the density distribution profiles obtained from the equilibrium MD, simulations,
+free energy profiles can be calculated, at least in the water and in the interfacial regions,
+using the relation ΔG(z)= – RcTlnρ(z), where ρ(z), represents the density distribution of
+the solute in the water/DPPC system. These profiles are compared to those obtained from
+
+MD simulations of permeation processes through phospholipid bilayer
+
+80
+
+the non-equilibrium MD simulations in Figure 3.9 and 3.10. Good agreement is found
+between both methods.
+Validation of the calculated free energy barriers is not possible, since no experimental
+data about solute partitioning at water/membrane interfaces is available from the
+literature.
+
+ΔG(z) kJ/mol
+
+-20
+-22
+-24
+-26
+-28
+
+-3
+
+-2
+
+-1
+
+1
+0
+Z (nm)
+
+2
+
+3
+
+Figure 3.9. Comparison of the free energy profiles for dimethylarsinic acid obtained
+from the equilibrium and non-equilibrium MD simulations in the aqueous and interfacial
+regions of the DPPC membrane (orange – equilibrium, purple – non-equilibrium MD
+simulations).
+
+MD simulations of permeation processes through phospholipid bilayer
+
+81
+
+ΔG(z) kJ/mol
+
+-20
+-30
+-40
+-50
+-60
+
+-3
+
+-2
+
+-1
+
+1
+0
+Z (nm)
+
+2
+
+3
+
+Figure 3.10. Comparison of the free energy profiles for trimethylbismuthane obtained
+from the equilibrium and non-equilibrium MD simulations in the aqueous and interfacial
+regions of the DPPC membrane (orange – equilibrium, purple – non-equilibrium MD
+simulations).
+
+In addition to the free energy profiles, we also need the local diffusion coefficients to
+calculate permeation coefficients of the processes. The diffusion coefficient for all 67
+windows is calculated from the force autocorrelation functions and is depicted in Figure
+3.11.
+
+MD simulations of permeation processes through phospholipid bilayer
+
+82
+
+3.0
+
+2
+
+D(z)*10 6 cm /s
+
+2.5
+2.0
+1.5
+1.0
+0.5
+0
+
+-3
+
+-2
+
+-1
+
+0
+1
+Z (nm)
+
+2
+
+3
+
+Figure 3.11. Local diffusion coefficient for dimethylarsinic acid (orange)
+and for trimethylbismuthane (purple) along the bilayer normal.
+
+Local diffusion coefficients are on the order of 10-6 to 10-8 cm/s. Using the free energy
+profiles and the local diffusion coefficients, we thus can calculate the permeation
+coefficients. For dimethylarsinic acid value of PDMA ≈ 4 x 10-7 cm/s is calculated, and for
+the trimethylbismuthane - PTMB ≈ 2 x 10-10 cm/s.
+Validation of the calculated permeation coefficients is not possible, since no
+experimental data is available from the literature.
+These series of non-equilibrium simulations allow the construction of free energy
+profiles and local diffusion coefficients across the DPPC membrane at the same time, so
+finally permeation coefficients are calculated. It seems that the method is appropriate and
+fully address the permeation process.
+
+MD simulations of permeation processes through phospholipid bilayer
+
+83
+
+III.3. Discussion
+The absorption of compounds by passive diffusion can be reasonably well predicted
+on the basis of their chemical properties. The presence of polar and charged functional
+groups a substantial number of hydrogen-bonding sites, high molecular weight, and large
+polar surface area are generally associated with poor membrane permeability. In many
+cases, however, the consideration of permeant properties alone proves to be not sufficient
+for a proper evaluation of permeation data: permeability coefficients may be
+overestimated or, on the contrary, underestimated. Another important factor to take into
+account is, indeed, the nature and the permeability of the membranes that have to be
+crossed.
+Independently on the type of membranes, membrane fluidity is generally correlated
+with membrane permeability and the degree of fluidity influences largely the ability of a
+solute to pass through the membrane. All factors increasing membrane fluidity may also
+enhance membrane permeability. The formation of structural discontinuities in the
+bilayer, even only transiently, increases membrane permeability, especially in the case of
+small permeants, which can jump from one discontinuity to another. Such discontinuities
+are for instance observed in the presence of unsaturated lipid chains, which generate
+packing defects in the bilayer interior. Phase separation phenomena within the membrane
+can also increase permeation processes. Under certain conditions, indeed, the bilayer
+organization can be interrupted by non-bilayer phases as well as by bilayer phases of
+different compositions. The regions of mismatch between these coexisting phases can be
+viewed as fractures within the membrane. Such topological discontinuities may promote
+solute permeation through the membrane.
+During the diffusion process, the molecules may exhibit a well-defined orientation
+with respect to the bilayer normal and adopt specific conformations, different from those
+generally found in an aqueous medium. This can be related to the highly structured
+environment of the bilayer and to its difference in polarity compared with water. Because
+of the anisotropic properties of membranes, their complex structural organization and
+chemical composition, and their asymmetry, the transport cannot be correctly described
+
+MD simulations of permeation processes through phospholipid bilayer
+
+84
+
+by single parameters. A detailed knowledge of membrane characteristics is fundamental
+for a proper estimation of permeation rates. This is especially true for amphiphilic
+molecules, having a hydrophobic and a hydrophilic gravity center: their orientation
+within the membrane may be strongly affected by the structural organization of the
+bilayer as well as by the possible electrostatic and van der Waals interactions with the
+membrane components.
+The simulations performed show that the permeation process of organometallic
+compounds through a phospholipid membrane is essentially determined by the free
+energy barrier that results from the breakage of H-bonds between the solutes and water
+and between the solutes and the polar lipid headgroups and from the loss of electrostatic
+interactions. In the DPPC membrane, the carbonyl groups of the glycerol-ester linkages
+seem to play an important role in the permeation process: they have the polar and
+hydrogen-bonding function closest to the bilayer center and attract water as well as polar
+solutes close to the hydrophobic hydrocarbon region of the bilayer. They also play a
+determinant role in the adsorption, as is shown in the simulations with
+trimethylbismuthane.
+The full description of permeation processes requires not only the knowledge of the
+underlying free energy behavior, but also of the local diffusion coefficient, both
+quantities contributing to the global permeation rate. With the simulations based on the
+average force method on constrained particle is possible to estimate free energy profile,
+local diffusion coefficient and permeation coefficient, however, corresponding force
+curves are very noisy and further work with them is particularly difficult. The reasons
+could be several.
+The theoretical derivation of the permeability coefficient described in Section II.4.2,
+rests on the assumption that the thermodynamic gradient can be considered constant over
+the correlation distance of the particle. In the strict sense, this method is only valid for
+permeants of relative small size and for energy barriers, which do not exhibit too steep
+slopes. The molecules, on which the method was experimented, are probably too big for
+this method, and their permeation cannot be treated as an equilibrium process. A
+permeant of the size of the molecules studied does not get to the top of the energy barrier
+
+MD simulations of permeation processes through phospholipid bilayer
+
+85
+
+slowly and in constant equilibrium, but is driven over it quickly by its momentum, inertia
+effects becoming important in the case of a large permeant. The discrepancies can also
+probably be attributed to parameters adopted for DPPC molecule, issued from extensible
+systematic force field, which may be not optimal in context of free energy calculations to
+properly describe the interactions between hydrocarbon chains of DPPC molecule and
+organometallic compounds. As it was mentioned in Section III.1.1 some disorder of
+hydrocarbon chains, while applying extensible systematic force field, is observed, which
+increases the permeability of the membrane. Also keeping bond lengths of DPPC
+molecule constant during the simulations limits the movement of lipid molecules, which
+decreases the permeability of the membrane. Taking this into account it is possible to be
+said that calculated energy barriers and permeation coefficients are overestimated (or
+underestimated), but compromises have to be made between accuracy and efficiency.
+Calculated permeation coefficient for dimethylarsinic acid seems to be high, but explains
+the high permeability of dimethylarsinic acid in the human body cells. There are a lot of
+medical reports for this high permeability of dimethylarsinic acid, unfortunately, no one
+of them says how high. This could be one of the answers.
+
+III.4. Conclusion
+MD studies can characterize partially or in full the permeation processes. Depending
+on the information for the permeation process we want to obtain, appropriate method of
+simulation and force field must be chosen. Limitations with the force field parameters
+and size of the system and permeants are still remaining. The first limitation refers
+designing of new force fields, which could adequately describe interactions of specific
+organic and organometallic compounds, while the second one refers the theory and
+computer hardware. Extensible systematic force field deal excellent with organometallic
+compounds, but unfortunately, is not the best one for phospholipids membranes. Better
+understanding of permeation processes needs larger systems to be simulated for long
+times, which with the current theory and computer hardware is inaccessible or takes
+years.
+
+MD simulations of permeation processes through phospholipid bilayer
+
+86
+
+However, the aim was reached – permeation processes of two organometallic
+compounds were studied. Results are useful – evaluation of the ways of permeation in the
+cell and impact on the cell of the poisonous nature of more of the organometallic
+compounds and from other point of view – designing of new organometallic anticancer
+drugs.
+
+IV. General conclusions
+Molecular dynamics simulations can test theoretical notions and complement
+experimental techniques to further the conceptual understanding of the solute distribution
+and dynamics in lipid membranes. The free energy computations described in the thesis
+offer more than a simple estimation of the height of the energy barrier associated to the
+permeation process. By constructing the complete free energy profile across the
+membrane, details of the solute-membrane interactions are brought in light and help to
+rationalize the mechanisms of transport. The average force method, which describes the
+full permeation process, including both the partitioning and diffusion contributions,
+proved to be very informative, helping to better understand the permeation processes.
+The computational effort that warrants accurate, converged free energies is, however,
+prohibitive and remains, in large measure, incompatible with the investigation of large
+sets of compounds.
+
+87
+
+V.
+
+Summary
+The aim of this thesis was to investigate the permeation of small organometallic
+
+molecules through a membrane computer model at a molecular level by means of
+molecular dynamics simulations.
+As a first step, a realistic model for a typical biological membrane was developed. As
+phospholipid bilayers provide simple but very informative model systems, a pure
+phospholipid
+
+bilayer
+
+system,
+
+containing
+
+a
+
+single
+
+type
+
+of
+
+phospholipid
+
+(dipalmitoylphosphatidylcholine or DPPC), was simulated in the biologically relevant
+liquid crystalline state. The simulated DPPC membrane patch consists of 200 lipids (100
+per leaflet) and about 5800 water molecules. Emphasis was laid on properties that are
+thought to play an important role in permeation processes, such as membrane density,
+ordering degree of the lipid acyl chains, or lipid mobility.
+As a second step, the permeation processes of a dimethylarsinic acid and
+trimethylbismuthane through the DPPC membrane model were studied. These
+compounds were chosen because they are one of the simplest widely distributed in nature
+organometallic compounds, containing arsenium and bismuth. As permeation processes
+are too slow on the time scale accessible to the molecular dynamic technique, they cannot
+be directly followed. Equilibrium molecular dynamic simulations were first carried out to
+gain insight into the solute partitioning behavior within the membrane. Non-equilibrium
+simulations, based on the average force method, were then undertaken to quantify the
+free energy barrier to be overcome by the permeants for their translocation from the
+water phase into the membrane interior.
+88
+
+Summary
+
+89
+
+As organometallic compounds are poisonous, obtained results could be used to
+understand the ways of permeation of these compounds in all live organisms and are
+useful for evaluation of the impact of these compounds on the cells. From a second point
+of view, some organometallic compounds are used as anticancer drugs and the
+knowledge of permeation processes could be used during drug design stage in order to
+develop the appropriate drug molecule, which can easily permeate through the cell
+membrane while keeping maximum anticancer impact.
+
+VI. Zusammenfassung
+Ziel
+
+dieser
+
+Dissertation
+
+war
+
+die
+
+Untersuchung
+
+der
+
+Diffusion
+
+kleiner,
+
+organometalischer Moleküle durch eine Modellmembran auf molekularer Ebene mit Hilfe
+der Molekulardynamischen Simulation.
+
+Im ersten Schritt wurde ein realistisches Modell einer typischen biologischen
+Membran entwickelt. Da Phosphorlipid-Bilayer ein einfaches, aber sehr informatives
+System darstellen, wurde ein reines Phosphorlipid Bilayer-System bestehend aus nur
+einer Sorte Phosphorlipid (Dipalmitoylphosphatidylcholin oder DPPC), in einer
+biologisch relevanten flüssigkristallinen Phase simuliert. Die simulierte DPPC Membran
+besteht aus 200 Lipiden (100 pro layer) und ca. 5800 Wassermolekülen. Der
+Schwerpunkt wurde dabei auf die Eigenschaften gelegt, von denen man vermutet, dass
+sie eine wichtige Rolle in den Diffusionsprozessen spielen, wie z.B. die Dichte der
+Membran, die Anordnung der Lipid Acylketten und die Bewegungsmöglichkeit der
+Lipide.
+In einem zweiten Schritt wurde der Diffusionsprozess der Dimethylarsinicsäure und
+des
+
+Trimethylbismuthan
+
+durch
+
+das
+
+DPPC-Membranmodell
+
+untersucht.
+
+Diese
+
+Verbindungen wurden zum einen wegen ihrer Simplizität, zum anderen wegen ihres
+häufigen Auftretens in Arsen und Wismut enthaltenden organometalischen Verbindungen
+ausgewält. Da die Diffusionsprozesse auf der Zeitskala der Molekulardynamischen
+Technik zu langsam sind, ist es nicht möglich, sie direkt zu beobachten. Daher wurden
+zunächst Molekulardynamische Simulationen im Gleichgewicht durchgeführt, um einen
+Einblick in das Verteilungsverhalten in der Membran zu erhalten. Nicht-GleichgewichtsSimulationen, basierend auf der Average-Force-Methode, dienten dann dazu die Barriere
+90
+
+Zusammenfassung
+
+91
+
+der Freien Energie zu lokalisieren, welche die Partikel überwinden müssen, um von der
+Wasserphase in das Innere der Membran zu gelangen.
+Da organometallische Verbindungen giftig sind können die erhaltenen Ergebnisse
+zum
+
+besseren
+
+Verständnis
+
+der
+
+verschiedenen
+
+Diffusionsmöglichkeiten
+
+dieser
+
+Verbindungen in allen lebenden Organismen führen und für die Bewertung des
+Einflusses dieser Verbindungen auf die Zellen nützlich sein. Ein anderer Gesichtspunkt
+ist, dass einige organometalische Verbindungen in der Krebstherapie verwendet werden.
+Das Wissen über die Diffusionsprozesse kann in der Medikamentenentwicklung von
+Nutzen sein um das passende medikamentöse Molekül zu entwickeln, welches direkt
+durch die Zellmembran angewendet werden und somit die maximale Wirkung gegen den
+Krebs erzielen kann.
+
+VII. References
+1. Jamieson, G. A.; Robinson, D. M. Mammalian Cell Membranes; Butterworth: London, 1977;
+Vol. 2.
+2. Jain, M. K. Introduction to Biological Membranes, 2nd ed.; John Wiley & Sons: New York,
+1988.
+3. Overton, E. Vierteljahrsschr. Naturforsch. Ges. Zurich 1899, 44, 88.
+4. Gorter, E.; Grendel, F. J. Exp. Med. 1925, 41, 439.
+5. Danielli, J. F.; Davson, H. J. Cell. Comp. Physiol. 1935, 5, 495.
+6. Green, D. E.; Perdue, J. Proc. Natl. Acad. Sci. USA 1996, 55, 1295.
+7. Frye, L. D.; Edidin, M. J. Cell. Sci. 1970, 7, 319.
+8. Singer, S. J.; Nicolson, G. L. Science 1972, 175, 720.
+9. Gennis, R. B. Biomembranes: Molecular Structure and Function; Springer-Verlag: Berlin,
+1989.
+10. Yeagle, P. L. The Membranes of Cells, 2nd ed.; Academic Press: San Diego, 1993.
+11. Seddon, J. M.; Templer, R. H. Handbook of Biological Physics - Structure and Dynamics of
+Membranes: From Cells to Vesicles; Elsevier Science: Amsterdam, 1995; Vol. 1A.
+
+12. Seddon, J. M. Biochim. Biophys. Acta 1990, 1031, 1.
+13. Landh, T. FEBS Lett. 1995, 369, 13.
+14. Luzzati, V. Curr. Opin. Struct. Biol. 1997, 7, 661.
+15. Barton, P. G.; Gunstone, F. D. J. Biol. Chem. 1975, 250, 4470.
+
+92
+
+References
+
+93
+
+16. Cevc, G. Chem. Phys. Lipids 1991, 57, 293.
+17. Ohvo-Rekila, H.; Ramstedt, B.; Leppimaki, P.; Slotte, J. P. Prog. Lipid Res. 2002, 41, 66.
+18. Cevc, G. Biochemistry 1991, 30, 7186.
+19. Sackmann, E. Handbook of Biological Physics - Structure and Dynamics of Membranes:
+From Cells to Vesicles; Elsevier Science: Amsterdam, 1995; Vol. 1A.
+
+20. Blume, A. Dynamic Properties. In Phospholipids Handbook; Cevc, G., Ed.; Marcel Dekker:
+New York, 1993.
+21. Schinitzky, M. Physiol. Memb. Fluidity 1984.
+22. Wiese, M. Computer Simulations of Phospholipids and Drug-Phospholipid Interactions. In
+Drug - Membrane Interactions; Seydel, J. K., Wiese, M., Eds.; Wiley - VCH Verlag: Weinheim,
+
+2002.
+23. Rocca, P. L.; Shai, Y.; Sansom, M. S. P. Biophys. Chem. 1999, 76, 145.
+24. Verlet, L. Phys. Rev. 1967, 159.
+25. Kox, A. J.; Michaels, J. P. J.; Wiegel, F. W. Nature 1980, 287, 317.
+26. van der Ploeg, P.; Berendsen, H. J. C. J. Chem. Phys. 1982, 76, 3271.
+27. Egberts, E.; Berendsen, H. J. C. J. Chem. Phys. 1988, 89, 3718.
+28. Egberts, E. Molecular Dynamics Simulations of Multibilayer Membranes. Ph. D. Thesis,
+University of Groningen, The Netherlands, 1988.
+29. Egberts, E.; Marrink, S. J.; Berendsen, H. J. C. Eur. Biophys. J. with Biophys. Lett. 1994, 22,
+423.
+30. de Vries, A. H.; Mark, A. E.; Marrink, S. J. J. Phys. Chem. B 2003.
+31. Robinson, A. J.; Richards, W. G.; Thomas, P. J.; Hann, M. M. Biophys. J. 1995, 68, 164.
+32. Huang, P.; Bertaccini, E.; Loew, G. H. 1995, 12, 725.
+33. Alper, H. E.; Stouch, T. R. 1995, 99, 5724.
+34. Chiu, S. W.; Subramaniam, S.; Jakobson, E. Biophys. J. 1999, 76, 1929.
+
+References
+
+94
+
+35. Tieleman, D. P.; Berendsen, H. J. C.; Sansom, M. S. P. Biophys. J. 1999, 76, 1757.
+36. Nagle, J. F. R.; Zhang, R.; Tristam-Nagle, S.; Sun, W.; Petrahce, H.; Suter, R. M. Biophys. J.
+1996, 70, 1419.
+
+37. Pastor, R. Curr. Opin. Struct. Biol. 1996, 4, 486.
+38. Tieleman, D. P.; Marrink, S. J.; Berendsen, H. J. C. Biophys. Acta. 1997, 133, 235.
+39. Blume, A. Dynamic properties. In Phospholipids Handbook; Cevc, G., Ed.; Marcel Dekker:
+New York, 1993; pp 455.
+40. Essman, U.; Berkowitz, M. L. Biophys. J. 1999, 76, 2081.
+41. Feller, S. E.; Huster, D.; Gawrish, K. J. Am. Chem. Soc. 1999, 8963.
+42. Moore, P. B.; Lopez, C. F.; Klein, M. L. Biophys. J. 2001, 81, 2484.
+43. Pastor, R. W.; Venable, R. M.; Feller, S. E. Acc. Chem. Res. 2002, 35, 438.
+44. Lindahl, E.; Edholm, O. J. Chem. Phys. 2001, 115, 4938.
+45. Lindahl, E.; Edholm, O. Biophys. J. 2000, 79, 426.
+46. Weiner, S. J.; Kollman, P. A.; Case, D. A.; Singh, U. C.; Ghio, C.; Alagona, G.; Profeta, S.;
+Weiner, P. J. Am. Chem. Soc. 1984, 106, 765.
+47. Brooks, B. R.; R. E. Bruccoleri; Olafson, B. D.; States, D. J.; Swaminathan, S.; Karplus, M.
+J. Comp. Chem. 1983, 4, 187.
+
+48. Gunsteren, W. F. v.; Berendsen, H. J. C. Groningen Molecular Simulation (GROMOS)
+Library Manual; Biomos: Groningen, The Netherlands, 1987.
+
+49. Schlenkrich, M.; Brickman, J.; Jr., A. D. M.; Karplus, M. An Empirical Potential Energy
+Function for Phopholipids: Criteria for Parameter Optimization and Applications. In Biological
+Membranes: A Molecular Perspective from Computation and Experiment; Jr., K. M. M., Roux,
+
+B., Eds.; Birhдuser: Boston, 1996.
+50. BIOSYM/MSI. InsightII, Release 95.0: Discover Program, versions 2.9.7 & 95.0/3.00; San
+Diego: Biosym/MSI, 1995.
+
+References
+
+95
+
+51. Chiu, S. W.; Clark, M. M.; Balaji, V.; Subramaniam, S.; Scott, H. L.; Jakobsson, E. Biophys.
+J. 1995, 69, 1230.
+
+52. Feller, S. E.; Pastor, R. W. J. Chem. Phys. 1999, 111, 1281.
+53. Tieleman, D. P.; Berendsen, H. J. C. J. Chem. Phys. 1996, 105, 4871.
+54. Marrink, S. J.; Mark, A. E. J. Phys. Chem. B 2001, 105, 6122.
+55. Lindahl, E.; Edholm, O. J. Chem. Phys. 2000, 113, 3882.
+56. Ryckaert, J. P.; Ciccotti, G.; Berendsen, H. J. C. J. Comp. Phys. 1997, 23, 327.
+57. Hess, B.; Bekker, H.; Berendsen, H. J. C.; Fraaije, J. G. E. M. J. Comp. Chem. 1997, 18,
+1463.
+58. Cheng, A.; Jr., K. M. M. J. Phys. Chem. B 1999, 103, 5396.
+59. Hockney, R. W.; Eastwood, J. W. Computer Simulation using Particles; McGraw-Hill: New
+York, 1981.
+60. Essmann, U.; Perera, L.; Berkowitz, M. L.; Darden, T.; Lee, H.; Pedersen, L. G. J. Chem.
+Phys. 1995, 103, 8577.
+
+61. Darden, T.; York, D.; Pedersen, L. J. Chem. Phys. 1993, 98, 10089.
+62. Jakobsson, E.; Subramaniam, S.; Scott, H. L. Strategic Issues in Molecular Dynamics
+Simulations of Membranes. In Biological Membranes: A Molecular Perspective from
+Computation and Experiment; Merz, K. M., Roux, B., Eds.; Birhдuser: Boston, 1996.
+
+63. Finkelstein, A. J. Gen. Physiol. 1976, 68, 127.
+64. Reevs, J. B.; Dowben, R. M. J. Membr. Biol. 1970, 3, 123.
+65. Hanai, T.; Haydon, D. A. J. Theor. Biol. 1966, 11, 370.
+66. Marrink, S. J.; Berendsen, H. J. C. J. Phys. Chem. 1994, 98, 4155.
+67. Weaver, J. C.; Powell, K. T.; Mintzer, R. A. Bioelectrochem. Bioenerg. 1984, 12, 405.
+68. Nagle, J. F.; Scott, H. L. Biochim. Biophys. Acta 1978, 513, 236.
+
+References
+
+96
+
+69. Abidor, I. G.; Arakelyan, V. B.; Chernomordik, L. V.; Chizmadzhev, Y. A.; Pastuschenko,
+V. F.; Tarasevich, M. R. Bioelectrochem. Bioenerg. 1979, 6, 37.
+70. Subczynski, W. K.; Wisniewska, A.; Yin, J. J.; Hyde, J. S.; Kusumi, A. Biochemistry 1994,
+33, 7670.
+
+71. Torrie, G. M.; Valleau, J. P. J. Comp. Phys. 1977, 23, 187.
+72. Torrie, G. M.; Valleau, J. P. Chem. Phys. Lett. 1974, 28, 578.
+73. Kubo, R. Rev. Mod. Phys. 1966, 29, 255.
+74. Nagle, J. F.; Zhang, R.; Tristram-Nagle, S.; Sun, W.; Petrache, H. I.; Suter, R. M. Biophys. J.
+1996, 70, 1419.
+
+75. Nagle, J. F.; Tristam-Nagle, S. Biochim. Biophys. Acta 2000, 1469, 159.
+76. Petrache, H. I.; Dodd, S. W.; Brown, M. F. Biophys. J. 2000, 79, 3172.
+77. Anezo, C. Molecular models for drug permeation across phospholipid membranes. Ph. D.,
+Heinrich - Heine, 2003.
+78. Anezo, C.; Vries, A. H. d.; Hцltje, H.-D.; Tieleman, D. P.; Marrink, S. J. J. Phys. Chem. B
+2003, 107, 9424.
+
+79. Jakobs, H. M. Cold Spring Harbor Symp. Quant. Biol. 1940, 8, 30.

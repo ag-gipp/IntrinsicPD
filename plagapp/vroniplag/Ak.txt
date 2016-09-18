@@ -1,0 +1,3464 @@
+Aus der Klinik für Dermatologie, Venerologie und Allergologie
+der Medizinischen Fakultät der Charité – Universitätsmedizin Berlin
+
+DISSERTATION
+
+Vergleich der Wirkung milder, serieller GanzkörperHyperthermie von Infrarot-A-Liege und Haslauer Wärmeliege
+bei Patienten mit Systemischer Sklerodermie bezüglich des
+Raynaud-Phänomens
+
+Zur Erlangung des akademischen Grades
+Doctor medicinae (Dr. med.)
+
+vorgelegt der Medizinischen Fakultät der Charité – Universitätsmedizin
+Berlin
+
+von
+Anja Kührt
+aus Berlin
+
+Gutachter:
+
+1. Prof. Dr. Wolfram Sterry
+2. Priv.-Doz. Dr. Gabriela Riemekasten
+3. Prof. Dr. med. Thomas Schwarz
+
+Datum der Promotion:
+
+3. September 2010
+
+2
+
+INHALTSVERZEICHNIS
+1
+
+EINLEITUNG......................................................................................................................5
+
+1.1 DAS RAYNAUD-PHÄNOMEN BEI SYSTEMISCHER SKLERODERMIE ........................................5
+1.1.1 ÄTIOLOGIE UND PATHOGENESE .......................................................................................5
+1.1.2 DIAGNOSE UND KLASSIFIKATION .....................................................................................6
+1.1.3 THERAPIE DES RAYNAUD-PHÄNOMENS............................................................................9
+1.1.4 HYPERTHERMIE ..............................................................................................................9
+1.1.5 INFRAROT-A-HYPERTHERMIE ........................................................................................10
+1.1.6 PILOTSTUDIE ................................................................................................................11
+1.1.7 ZIELSTELLUNG ..............................................................................................................12
+2
+
+MATERIAL UND METHODEN.........................................................................................13
+
+2.1 MILDE GANZKÖRPERHYPERTHERMIE ...............................................................................13
+2.1.1 IRATHERM® 1000......................................................................................................13
+2.1.2 WASSERÜBERTRAGENE KONVEKTIONSHYPERTHERMIE ..................................................14
+2.1.3 SOFT-PACK-LIEGE „HASLAUER“ ....................................................................................15
+2.2
+
+MESSUNG DER AKRALEN WIEDERERWÄRMUNG MITTELS DUOSENSOR ..............................16
+
+2.3
+
+VISUELLE ANALOG-SKALA (VAS) UND RAYNAUD-CONDITION SCORE (RCS) ...................18
+
+2.4
+
+STUDIENDESIGN ..............................................................................................................19
+
+2.5
+
+PATIENTEN .....................................................................................................................20
+
+2.6
+
+STATISTIK .......................................................................................................................21
+
+3
+3.1
+
+RESULTATE....................................................................................................................21
+PATIENTENDATEN ...........................................................................................................21
+
+3.2
+
+EINFLUSS DER HYPERTHERMIE-THERAPIEN AUF OBJEKTIVE AKTIVITÄTSPARAMETER
+DES RAYNAUD-PHÄNOMENS BEI SYSTEMISCHER SKLERODERMIE .....................................24
+3.2.1 VERÄNDERUNG DES Τ-WERTES.....................................................................................24
+3.2.2 VERÄNDERUNG DER BASALTEMPERATUR ......................................................................28
+3.3
+
+EINFLUSS DER HYPERTHERMIE-THERAPIEN AUF SUBJEKTIVE AKTIVITÄTSPARAMETER
+BEI SYSTEMISCHER SKLERODERMIE ................................................................................32
+3.3.1 VERÄNDERUNG DER VISUELLEN ANALOG-SKALA ...........................................................32
+3.3.2 VERÄNDERUNG DES RAYNAUD-CONDITION-SCORE (RCS) BEZÜGLICH FREQUENZ
+UND INTENSITÄT ...........................................................................................................35
+4
+
+DISKUSSION ...................................................................................................................39
+
+4.1
+
+DIE THERAPIEN DES RAYNAUD- PHÄNOMENS BEI SYSTEMISCHER SKLERODERMIE
+MITTELS MILDER GANZKÖRPERHYPERTHERMIE IM VERGLEICH ..........................................39
+
+4.2
+
+VERGLEICH DER OBJEKTIVEN PARAMETER MIT ANDEREN STUDIEN ...................................43
+
+4.3
+
+VERGLEICH DER SUBJEKTIVEN PARAMETER MIT ANDEREN STUDIEN .................................44
+
+4.4
+
+ÄUßERE EINFLÜSSE ........................................................................................................46
+
+4.5
+
+LIMITATIONEN DER STUDIE ..............................................................................................48
+
+3
+
+5
+
+ZUSAMMENFASSUNG ...................................................................................................50
+
+6
+
+LITERATURVERZEICHNIS .............................................................................................52
+
+7
+
+VERZEICHNIS VERWENDETER ABKÜRZUNGEN ALPHABETISCH ..........................55
+
+8
+
+DANKSAGUNG ...............................................................................................................55
+
+9
+
+LEBENSLAUF .................................................................................................................56
+
+10
+
+ERKLÄRUNG AN EIDES STATT ..................................................................................57
+
+4
+
+1
+
+Einleitung
+
+Die Ergebnisse einer Pilotstudie zur „Bestimmung der akralen Wiedererwärmung zur
+Diagnose des Raynaud-Phänomens bei systemischer Sklerodermie und dessen
+Dynamik unter milder, serieller Infrarot-A-induzierter Ganzkörperhyperthermie warfen
+die Frage auf, ob die erzielten Effekte bei Patienten mit systemischer Sklerodermie
+explizit mit der Wärmeapplikation durch Infrarot-A in Verbindung zu bringen sind. Zur
+weiteren Klärung wurde hierzu eine prospektive Vergleichsstudie angelegt. Hier sollten
+die Patienten nach einem definierten Behandlungsschema entweder mit der Infrarot-ALiege oder aber mit der Soft-Pack-Liege der Gebrüder Haslauer (Hydrojet) behandelt
+werden, deren Wirkung durch Konvektionshyperthermie und nicht durch Strahlung
+entfaltet wird. Die Ergebnisse wurden hinsichtlich der Auswirkungen auf das RaynaudPhänomen verglichen.
+1.1
+
+Das Raynaud-Phänomen bei systemischer Sklerodermie
+
+1.1.1 Ätiologie und Pathogenese
+Das Raynaud-Phänomen (RP) zeichnet sich durch episodisch wiederkehrende,
+reversible Spasmen kleiner Arteriolen und Arterien an Fingern und Zehen aus, welche
+größtenteils durch Kälte oder Stress ausgelöst werden. Auf diese Weise entsteht eine
+Blässe einzelner Fingerglieder, die in eine Zyanose und anschließende reaktive
+Hyperämie übergeht. Zu unterscheiden ist das primäres RP ohne erkennbare zugrunde
+liegende Erkrankung von einem sekundären RP, das mit einer Begleiterkrankung oder
+mit Medikamenteneinnahme in kausale Verbindung gebracht wird. Das primäre RP ist
+häufig (Prävalenz ca. 13–20% in Nord- oder Mitteleuropa), das sekundäre RP seltener,
+es gilt jedoch als wichtigstes initiales Symptom für die systemische Sklerodermie (SSc).
+Die systemische Sklerodermie ist eine seltene Systemerkrankung mit einer mehr oder
+weniger stark ausgeprägten Fibrosierung der Haut, der Gefäße und der inneren
+Organe. Die Ursache liegt in einer Überproduktion von Kollagen und betrifft Frauen
+ungefähr dreimal häufiger als Männer. In den meisten Fällen manifestiert sie sich
+zwischen dem 30. und 50. Lebensjahr. In Deutschland beträgt die Prävalenz circa 1,4
+Fälle auf 100000 Einwohner (Renz-Polster et al. 2004).
+
+5
+
+Die Ursachen des Raynaud-Phänomens konnten bisher nicht zufriedenstellend geklärt
+werden. Unter pathophysiologischen Gesichtspunkten überwiegen vasokonstriktorische
+gegenüber
+
+vasodilatatorischen
+
+Mechanismen
+
+in
+
+den
+
+Endothelzellen
+
+und
+
+der
+
+Gefäßmuskulatur. Beobachtet wurde einerseits ein verstärktes Vorkommen von
+Endothelin, welches einen wichtigen physiologischen Vasokonstriktor darstellt (Pearson
+1991). Andererseits spielen aber auch erhöhte Spiegel an vasodilatierend wirkenden
+Stickoxiden eine Rolle (LeRoy 1996). Weiterhin scheint das Immunsystem eine
+bedeutende Rolle zu spielen. T-Zellen sollen in die Hautläsionen der Patienten
+einwandern und über eine Ausschüttung von Entzündungsmediatoren die Sklerose der
+Haut verstärken (Tsuji-Yamada et al. 2001). Zusätzlich führt die Freisetzung proinflammatorischer Zytokine über die Aktivierung von Adhäsionsmolekülen zu einer
+mononukleären Entzündungsreaktion (Sakkas 2005). Bei Patienten mit systemischer
+Sklerodermie konnte eine Erhöhung all dieser Parameter bereits nachgewiesen werden.
+Das Raynaud-Phänomen ist meist das erste Symptom bei Patienten mit systemischer
+Sklerodermie (Belch 1991). Von einem primären Raynaud-Phänomen spricht man,
+sofern dieses isoliert auftritt. Inadäquate Kältereize oder auch emotionaler Stress führen
+zu vasospastischen Konstriktionen und digitalen Durchblutungseinschränkungen
+(Brown et al. 2001), ohne jedoch im symptomfreien Intervall kapillarmikroskopisch
+sichtbare morphologische Veränderungen aufzuzeigen (Renz-Polster et al. 2004). Die
+Intensität des Leidens wird generell eher als mild wahrgenommen.
+Anders verhält es sich beim sekundären Raynaud-Phänomen im Rahmen einer
+systemischen
+
+Grunderkrankung,
+
+wie
+
+zum
+
+Beispiel
+
+der
+
+Sklerodermie.
+
+Neben
+
+funktionellen Störungen treten hier auch morphologische Veränderungen der Gefäße
+auf, deren Genese allerdings noch nicht eindeutig zu verifizieren ist (Kahaleh 2004).
+Raynaud-Attacken sind für die Betroffenen ein allgegenwärtiges Problem, das
+ganzjährig vorkommen kann. Eine Anfallshäufung ist jedoch in den Wintermonaten zu
+beobachten (Watson et al. 1999).
+1.1.2 Diagnose und Klassifikation
+Die Diagnose der systemischen Sklerodermie richtet sich vor allem nach den
+Hauterscheinungen und folgt den Richtlinien der “preliminary criteria for the
+classification of systemic sclerosis“, die 1980 durch das “Subcommittee of the American
+
+6
+
+College of Rheumatology“ erarbeitet wurden. Als einziges Hauptkriterium gilt dabei die
+symmetrische Sklerose der Haut proximal der Metacarpophalangealgelenke und/ oder
+der Metatarsophalangealgelenke. Zu den Nebenkriterien gehören eine mögliche
+Sklerodaktylie, grubenartige Narben infolge Ulzerationen mit gelegentlich auftretendem
+Substanzverlust der Hautpolster an den Fingerendgliedern sowie eine bibasilare
+Lungenfibrose. Sofern das Haupkriterium oder aber mindestens zwei Nebenkriterien
+erfüllt sind, findet sich mit einer Sensitivität von 97% und einer Spezifität von 98% die
+zutreffende Diagnose (Masi et al. 1980).
+In zusätzlichen Richtlinien für den Prozess der Diagnosefindung (Valentini 2003) gilt als
+sicheres Zeichen für eine systemische Sklerose eine symmetrische Hautsklerose,
+gepaart mit einem nekrotisierenden Raynaud-Phänomen. Entsprechend gilt auch das
+Raynaud-Phänomen mit typischen vaskulären Veränderungen in der Kapillaroskopie
+oder mit spezifischen Autoantikörpern im Serum der Patienten als sicherer Hinweis für
+dir Diagnose, selbst wenn keine Fibrosierung der Haut und/ oder der Organe erkennbar
+ist.
+Die Unterteilung der systemischen Sklerodermie erfolgt in eine diffuse und eine
+limitierte Form. Bei der diffusen Form liegt ein nur kurzes Intervall von weniger als
+einem Jahr zwischen dem Auftreten des Raynaud-Phänomens und den ersten
+Hauterscheinungen. Die Induration und Verdickung der Haut ist hier sowohl an den
+Extremitäten als auch am Rumpf zu verzeichnen. Gastrointestinale, pulmonale oder
+seltener myokardiale Beteiligungen sowie sklerodermiebedingte renale Krisen treten
+häufig und zeitig auf. Avaskuläre Bezirke werden schon früh mittels Kapillaroskopie,
+Teleangiektasien und subkutane Kalzifikationen beobachtet.
+Die limitierte Form zeichnet sich durch ein eher längeres Intervall von oftmals mehreren
+Jahren zwischen den ersten Raynaud-Anfällen und den Veränderungen der Haut aus.
+Diese sind im hier eher auf Hände und/oder Füße, Unterarme und/oder Unterschenkel
+und das Gesicht beschränkt. In der Nagelbettkapillaroskopie finden sich vornehmlich
+Megakapillaren. Eine Malabsorption infolge von Magen-Darm-Beschwerden oder eine
+pulmonale Hypertonie, bedingt durch eine Lungenfibrose, kommen seltener und
+bedeutend später vor als beim diffusen Leiden.
+
+7
+
+Das CREST-Syndrom stellt eine Sonderform dar und wird als eine Zwischenform von
+limitierter und diffuser systemischer Sklerodermie angesehen (Salerni et al. 1977). Hier
+stehen eine Calcinosis cutis, das Raynaud-Phänomen, eine ösophageale Dysfunktion,
+eine meist auf die Hände und das Gesicht beschränkte limitierte Hautsklerose sowie
+Teleangiektasien im Vordergrund.
+Um nun die entsprechende Diagnose stellen zu können, bedarf es objektiver
+Parameter, die zum Einen das Raynaud-Phänomen gegenüber dem Normalbefund
+abgrenzen und zum Anderen die Intensität der Anfälle beschreiben, um mögliche
+Therapieerfolge erfassen zu können. Neben anderen Methoden hat vor allem die
+Reaktion der akralen Durchblutung auf einen definierten Kältereiz breite Beachtung
+erhalten, da sie sich in den pathophysiologischen Kontext eines Raynaud-Anfalls
+einfügt.
+Es gibt verschiedene Methoden zur Registrierung dieser kontrollierten akralen
+Abkühlung und Reperfusion. Die Bestimmung des Temperaturverlaufes mittels InfrarotStrahlung ist die apparativ einfachste und schon seit Jahrzehnten bekannt (Rietschel et
+al. 1969).
+Eine wichtige Erkenntnis für die Analyse der Temperaturdaten besteht in der Tatsache,
+dass die Erwärmung der Haut nach einem Kältereiz mathematisch durch eine
+Sprungantwort erster Ordnung beschrieben werden kann (Meffert et al. 1972). Dieser
+Sachverhalt stellt sich in der allgemeinen Gleichung T (t) = k (1- e
+
+(-t/ 
+
+) dar. Dabei sind
+
+k und  Konstanten, T ist die lokale Hauttemperatur und t die Zeit. Dieser Sachverhalt
+ermöglicht die Interpretation der Kurvenverläufe verschiedener Patienten und deren
+Vergleich untereinander (Meffert et al. 1972).
+Zur Beurteilung der Intensität des Raynaud-Phänomens nach Diagnosestellung hat sich
+eine Quantifizierung der subjektiven Krankheitswahrnehmung bewährt (Merkel et al.
+2002). Häufigkeit und Dauer der Raynaud-Attacken werden erfasst und deren
+Intensitäten mittels Visueller Analog-Skala ermittelt. Diese Angaben ergänzen in
+sinnvoller
+
+Weise
+
+die
+
+objektiven
+
+Messverfahren
+
+Verlaufsbeobachtung bewährt (Steen, Medsger 1997).
+
+8
+
+und
+
+haben
+
+sich
+
+für
+
+die
+
+1.1.3 Therapie des Raynaud-Phänomens
+Die wichtigste Maßnahme, um die Raynaud-Attacken zu vermindern oder gar zu
+verhindern, liegt zunächst in der Vermeidung von Kälteexposition. Unterstützend wirken
+auch physikalische Maßnahmen zur Erwärmung der Hände, zum Beispiel mit
+Paraffinbädern.
+Um bessere Ergebnisse in Hinblick auf die Schwere der Attacken und die damit
+verbundene Beeinträchtigung im täglichen Leben zu erzielen, wurden verschiedene
+medikamentöse Therapien untersucht. So gibt es bereits Studien über die Wirksamkeit
+von selektiven alpha( 2c)-Adrenorezeptorblockern, die über eine Erweiterung der
+Gefäße einen fortwährenden Blutfluss gewährleisten sollen (Wise et al. 2004). Eine
+Verbesserung der Symptomatik durch die vasodilatierende Wirkung von KalziumKanalantagonisten wurde ebenfalls diskutiert (Thompson et al. 2001). Über eine
+Antagonisierung des Angiotensin II-Rezeptors kann das gleiche Ergebnis erzielt werden
+und lässt auch eine Therapie mit Prostacyclin sinnvoll erscheinen (Kingma et al. 1995;
+Vayssairat
+
+1996).
+
+Hierbei
+
+werden
+
+zusätzlich
+
+noch
+
+eine
+
+Hemmung
+
+der
+
+Thrombozytenaggregation und ein protektiver Effekt auf das Endothel gegenüber
+Entzündungsmediatoren beobachtet. Diese Ansatzpunkte versucht man sich auch
+durch den Einsatz des Prostaglandinderivats Losartan zunutze zu machen (Dziadzio et
+al. 1999). Angiotensin II kann darüber hinaus die Fibronectin- und Kollagensynthese
+stimulieren (Crawford et al. 1994; Ju et al. 1997) sowie die Expression des
+Transforming- Growth-Factor beta in Fibroblasten und Endothelzellen induzieren (Chua
+et al. 1994). Behandlungsversuche mit Antioxidanzien sollen zu einer Verminderung der
+gefäßschädigenden Wirkung des durch freie Radikale verursachten oxidativen Stresses
+führen (Stein et al. 1996). Außerdem scheint eine Pulstherapie mit dem Zytostatikum
+Cyclophosphamid vasale Dysfunktionen positiv regulieren zu können (Casale et al.
+2004). In aktuelleren, Erfolg versprechenden Studien wird die Wirksamkeit von
+Sildenafil untersucht (Rosenkranz et al. 2003; Gore, Silver 2005).
+1.1.4 Hyperthermie
+Die Ganzkörper-Hyperthermie wird innerhalb der Schulmedizin selten eingesetzt.
+Zunehmend angewandt wird sie in der Komplementärmedizin, vor allem im WellnessBereich und in der Tumortherapie in Kombination mit anderen Methoden. Die mit der
+extremen Ganzkörper-Hyperthermie erreichten Temperaturen von maximal 41,8 °C
+
+9
+
+erhöhen das Risiko für Komplikationen erheblich. In diesem Fall kann auch die Gabe
+eines Beruhigungsmittels erforderlich sein. Im Extremfall wird eine Narkose eingeleitet.
+Verbreiteter sind Anwendungsformen, bei denen etwas niedrigere Temperaturen
+angewendet werden. Man spricht hier von milder Hyperthermie. Dabei sind keine oder
+nur geringe Nebenwirkungen zu erwarten.
+Es ist bekannt, dass eine erhöhte Körpertemperatur die Stoffwechselprozesse und
+Ausscheidungsfunktionen des Organismus unspezifisch zu beschleunigen vermag
+(Schmidt 1987). So kommt es zu einer verstärkten Durchblutung der Organe und
+Gewebe,
+
+gleichzeitig
+
+Immunsystems
+Erkrankungen
+
+wird
+
+beeinflusst
+positiv.
+
+So
+
+der
+den
+
+Muskeltonus
+
+verringert.
+
+Verlauf
+
+allergischen
+
+wurde
+
+unter
+
+von
+
+Hyperthermie
+
+Die
+ein
+
+Stimulation
+
+und
+
+des
+
+rheumatischen
+
+Anstieg
+
+immuno-
+
+modulatorischer Zytokine, wie Interleukin-12, Interleukin-1, und Tumor-Nekrose-Faktoralpha beobachtet (Rhind et al. 2004). Auch führt eine erhöhte Körpertemperatur zu
+einer Induktion naiver T-Zellen und T-Gedächtniszellen. Nach Antigenexposition im
+lymphatischen Gewebe gelangen diese auch in die Körperperipherie und unterstützen
+die Infektabwehr (Atanackovic et al. 2005). Ein Anstieg der Körpertemperatur führt zu
+einer erhöhten lymphozytären Mitoserate (Manzella, Roberts 1979). Chronische
+Entzündungen können akut auftreten und danach durch den Organismus erkannt
+werden.
+1.1.5 Infrarot-A-Hyperthermie
+Die spektrale Durchlässigkeit der Haut beginnt beim langwelligen sichtbaren Licht bei
+etwa 600 nm Wellenlänge und reicht über das gesamte Infrarot-A bis hin zu seiner
+langwelligen Obergrenze von etwa 1400 nm Wellenlänge. Im Gegensatz dazu ist die
+Haut für Wärmestrahlung aus dem Bereich des Infrarot-B und Infrarot-C nahezu
+undurchlässig. Ultraviolette Strahlung (mit Wellenlängen von 100 nm bis 385 nm)
+vermag Moleküle chemisch zu modifizieren. Infrarote Strahlung (von 760 nm bis 1400
+nm) dagegen bewirkt aufgrund der geringeren Energie lediglich eine Zunahme der
+Eigenschwingung der Moleküle und führt damit zu einer Erwärmung. Voraussetzung
+dafür ist die Absorption der Strahlung im Molekül. Unterschiedliche Moleküle vermögen
+die einwirkende Infrarotstrahlung unterschiedlich zu absorbieren. Dies gilt insbesondere
+für das komplexe System des menschlichen Körpers. Hier kommt es daher zu einer
+ungleichmäßigen Erwärmung, wofür die stark absorbierenden Hydroxylgruppen des
+
+10
+
+Wassers verantwortlich sein sollen (Rzeznik 1992). Die dabei entstehende punktuelle
+starke Überhitzung der Körperoberfläche führt üblicherweise zu unerwünschten
+Schmerzen.
+Auf der Suche nach einem geeigneten Filter zur Elimination von Infrarot-B- und-CStrahlung, der längerwelligen, schädlicheren Wärmestrahlung, bietet sich Wasser an,
+das eine ähnlich selektive Durchlässigkeit der Infrarot-Strahlung besitzt wie die Haut.
+Diese Eigenschaft erklärt sich auch daraus, dass die Haut eines erwachsenen
+Menschen zu rund 75% aus Wasser besteht. Ebenso wie die Haut weist Wasser für die
+Infrarot-A-Strahlung eine gute Durchlässigkeit auf. Durch eine Wasserfilterung mit einer
+Schichtdicke von 10 mm können demnach große Anteile der Infrarot-A-Strahlung die
+Wasserschicht passieren, während längerwellige, im Sinne der Wirkungsentfaltung
+schädlichere Wärmestrahlung, zurückgehalten wird. Das Licht durchdringt die Haut und
+wird nun je nach Wellenlänge in den verschiedenen Hautschichten absorbiert.
+Entscheidend für die systemische Überwärmung ist die, im Vergleich zu Strahlung
+anderer
+
+Wellenlänge,
+
+bessere
+
+Durchdringung
+
+der
+
+Infrarot-A-Strahlung
+
+durch
+
+oberflächliche Hautschichten und die hauptsächliche Umwandlung des Lichtes in
+Wärme in Höhe des blutführenden Corium (Baumhoer et al. 2000). So erklärt sich der
+hämatogene Wärmetransport zur Erreichung einer Ganzkörperhyperthermie. Die
+wellenlängenabhängige Absorption in den verschiedenen Hautschichten ermöglicht
+demnach
+
+größere
+
+und
+
+längere
+
+Applikationen
+
+ohne
+
+das
+
+Eintreten
+
+des
+
+von
+
+längerwelligem Infrarot bekannten Hitzegefühls, da die in der Epidermis gelegenen
+Hitzerezeptoren größtenteils passiert werden.
+1.1.6 Pilotstudie
+Die dieser Arbeit zu Grunde liegende Pilotstudie deutet darauf hin, dass eine durch
+Infrarot-A-Strahlung
+
+modulierte,
+
+serielle,
+
+milde
+
+Ganzkörperhyperthermie
+
+die
+
+Ausprägung des Raynaud-Phänomens nachhaltig mildert (Foerster, Wittstock et al.
+2006). Sowohl die τ-Werte für die akrale Wiedererwärmung als auch die Ergebnisse der
+Patientenbefragung mit Hilfe der Visuellen Analog-Skala sanken unter der Therapie
+stetig. Die jeweiligen Verbesserungen waren auch noch im Verlauf der sechswöchigen
+Nachbeobachtungsphase erkennbar. Obwohl eine Häufung der Raynaud-Anfälle in den
+Wintermonaten beschrieben wurde (Watson et al. 1999), zeigten die Änderungen der τWerte keinerlei Abhängigkeiten von der Umgebungstemperatur.
+11
+
+Die Analyse der Visuellen Analog-Skala ergab Anfangsgrößen von im Mittel 1,17 ±
+0,71, die sich nach der letzten Anwendung auf 0,83 ± 0,58 verringerten. Zum Zeitpunkt
+des Studienendes war wieder ein leichter Anstieg auf Werte von 0,96 ± 0,61 zu
+verzeichnen. Eine statistische Signifikanz konnte nur für den Tag der zehnten InfrarotA-Hyperthermie ermittelt werden. Die prozentuale Reduktion des Ausgangswertes lag
+hier bei 29,1%, am letzten Nachbeobachtungstermin immerhin noch bei 17,9%
+(Foerster, Wittstock et al. 2006).
+1.1.7
+
+Zielstellung
+
+Die Hyperthermie-Therapie mittels Infrarot-A-Strahlung wird routinemäßig seit vielen
+Jahren angeboten und ist zur Behandlung des Raynaud-Phänomens und der
+systemischen Sklerodermie zugelassen. Eine Pilotstudie zur Wirkung von Infrarot-A
+vermittelter Hyperthermie zeigte signifikante positive Effekte in Bezug auf das RaynaudPhänomen und andere wichtige Parameter wie MRSS, Arthralgien, Lungenfunktion,
+Herz-Kreislauf und Lebensqualität. Ziel der vorliegenden Arbeit soll es sein, die
+Ergebnisse der Pilotstudie hinsichtlich des Raynaud-Phänomens in einer kontrollierten
+Studie zu überprüfen. Weiterhin soll die aktuelle Studie Rückschlüsse auf die
+Vergleichbarkeit von Strahlungshyperthermie versus Konvektionshyperthermie in Bezug
+auf das Raynaud-Phänomen ermöglichen. Veränderungen objektiver und subjektiver
+Aktivitätsparameter
+
+des
+
+Raynaud–Phänomens
+
+bei
+
+Sklerodermiepatienten
+
+unter
+
+Therapie mit milder systemischer Hyperthermie sollen festgehalten werden.
+Zur Bewertung der Raynaud-Symptomatik steht dafür ein gegenüber dem Prototyp der
+Pilotstudie technisch verbessertes Gerät zur Verfügung. Darüber hinaus führen die
+Patienten ein Tagebuch, in dem Häufigkeit und Schwere der Raynaud-Attacken
+dokumentiert werden sollen. Mit Hilfe einer visuellen Analog-Skala soll außerdem das
+subjektive Befinden der Patienten zu verschiedenen Zeitpunkten erfasst werden.
+Vor dem Hintergrund dieser Zielstellung bietet sich eine klinische Studie an, die, um
+mögliche
+
+Placeboeffekte
+
+erkennen
+
+zu
+
+können,
+
+über
+
+eine
+
+adäquate
+
+Nachbeobachtungsphase verfügen muss. Die gewonnenen Erkenntnisse sollen klären,
+ob die milde Ganzkörperhyperthermie mittels wasservermittelter Konvektion als
+Ergänzung
+
+oder
+
+Ersatz
+
+für
+
+eine
+
+wassergefilterte
+
+Infrarot-A-Strahlung
+
+oder
+
+medikamentöse Behandlung des Raynaud-Phänomens bei systemischer Sklerodermie
+adäquat ist.
+12
+
+2
+2.1
+
+Material und Methoden
+Milde Ganzkörperhyperthermie
+
+Die milde Ganzkörperhyperthermie zeichnet sich durch eine Erwärmung der
+Körperkerntemperatur auf nicht mehr als 38,5 °C aus (Meffert et al. 1992). Die
+Anwendungsdauer im angegebenen Temperaturbereich kann bei weniger als 30
+Minuten mit kurz oder bei mehr als 30 Minuten als lang bezeichnet werden. Der Patient
+soll schwitzen, jedoch keinem thermoregulatorischen Stress ausgesetzt sein. Eine
+pflegerische Betreuung mit Überwachung von Blutdruck, Puls und Körpertemperatur ist
+notwendig, um eventuellen orthostatischen Krisen entgegenwirken zu können.
+2.1.1 IRATHERM® 1000
+Die wassergefilterte Infrarot-A-Strahlung, wie sie mit den speziellen IRATHERM®Strahlern erzeugt wird, ist
+
+eine auf die Hautverträglichkeit optimal abgestimmte
+
+Wärmestrahlung. Deshalb darf, bei gleicher Hautverträglichkeit, die Bestrahlungsstärke
+der wassergefilterten Infrarot-A-Strahlung um ein mehrfaches höher sein, als bei
+Anwendung kommerzieller Infrarot- oder Halogenstrahler.
+Die wassergefilterte Infrarot-A-Strahlung ist jene Wärmestrahlung, die dem natürlichen
+Strahlungsangebot der Sonne unter dem Schutz der feuchten Erdatmosphäre
+entspricht. Sie kann besonders tief in menschliches Gewebe eindringen. Da die
+Absorption der Wärmestrahlung im wesentlichen in einer gut durchbluteten Hautschicht
+(Corium) erfolgt und der Blutkreislauf für eine schnelle Verteilung der Wärme sorgt, wird
+die Epidermis bei diesem Verfahren wenig belastet.
+Der Patient liegt während der Therapie unbekleidet auf einem gespannten
+engmaschigen Netz. Er ist mit einem Tuch zugedeckt. Dabei ruht der Kopf auf einem
+gerollten Frottiertuch außerhalb der Abdeckung. Die Wärmestrahlung wird von sechs
+Strahler-Reflektor-Systemen, welche Infrarotstrahlung erzeugen, von unten durch das
+Netz appliziert, so dass die Augen des Patienten nicht durch die Wärmestrahlung
+belastet werden. Als Strahlungsquellen dienen spezielle Infrarot-Stabstrahler mit einer
+elektrischen Leistungsaufnahme von 1300 Watt. Jeder dieser Strahler ist von einem mit
+Wasser
+
+durchströmten
+
+Rohr
+
+ummantelt,
+
+um
+
+gemäß
+
+der
+
+spektral-optischen
+
+Filtereigenschaften des Wassers vom breitbandigen Infrarotspektrum der Primärstrahler
+nur jene Wellenlängen mit einer möglichst tiefen Eindringtiefe in das biologische
+
+13
+
+Gewebe durchzulassen. Die langwelligere hautschädigende Wärmestrahlung wird fast
+vollständig vom Wasser absorbiert und mit dem Wasserstrom abgeführt. Die
+Bestrahlungsstärke liegt bei maximal 1400 Watt/m2.
+Der Patient kann sich unter dem Tuch frei bewegen und fühlt sich durch die offene
+Bauart der Hyperthermieanlage nicht beengt. Am Bedienfeld befindet sich der
+Netzschalter. Des Weiteren ist hier die Einstellung der Therapiedauer und der
+Strahlungsintensität der einzelnen Strahlereinheiten durchführbar. Zur gezielten
+Bestrahlung unterschiedlicher Körperregionen kann die Leistung jedes einzelnen
+Strahler-Reflektor-Systems
+Behandlungsdauer
+
+im
+
+in
+
+5%-Stufen
+
+Rahmen
+
+der
+
+individuell
+
+Studie
+
+betrug
+
+reguliert
+30
+
+werden.
+
+Minuten
+
+bei
+
+Die
+einer
+2
+
+Bestrahlungsstärke von 80% der Maximalleistung, das heißt circa 1100 Watt pro m .
+Während der Therapie wurden die Körpertemperatur, die Pulsfrequenz und der
+Blutdruck überwacht. Durch die verzögerungsfreie Wahl der Wärmestrahlungsleistung
+der Spezialstrahler ist dabei eine gute Temperatursteuerung und somit eine sichere
+Therapieführung möglich.
+Eine Schnittstelle mit einem handelsüblichen PC ermöglicht die lückenlose Darstellung
+des Temperaturverlaufs in tabellarischer oder graphischer Form. Dies gilt ebenso für die
+Aufzeichnung der Werte für Puls und Sauerstoffsättigung, die über einen aus dem
+klinischen Alltag bekannten Plethysmographen (Von Ardenne Institut, Deutschland)
+registriert werden. Die Software dient ebenso der Aufzeichnung allgemeiner
+Patientendaten wie: Geburtsdatum, Größe, Gewicht, Anamnese und Datum des
+Studieneinschlusses. Zur Vermeidung orthostatischer Dysregulationen schloss sich an
+die 30-minütige Wärmebehandlung eine Ruhephase gleicher Dauer an.
+2.1.2 Wasserübertragene Konvektionshyperthermie
+Die Wärmeleitfähigkeit, die thermische Trägheit und die Strahlungseigenschaften
+(Reflexions- und Emissionskoeffizienten) sind wichtige Parameter zur thermischen
+Charakterisierung der Gewebe. Sie korrelieren mit der Umgebung, der Körperhaltung,
+Hautfarbe und dem Alter. Medizinische Studien, die darüber Aufschluss geben könnten,
+sind derzeit aber noch sehr begrenzt.
+Auch in Flüssigkeiten und Gasen wird die Wärmeleitung (Konduktion) durch Stöße
+zwischen den Teilchen dominiert, doch ist deren Bewegung stärker als in festen
+14
+
+Körpern und es wirken auch andere Effekte, zum Beispiel Durchmischung und
+Diffusion, wie sie im Blut vorkommen.
+Neben Wärmestrahlung und Wärmeleitung bezeichnet Konvektion einen physikalischen
+Vorgang zum Transport von thermischer Energie. Die Übertragung von Wärme erfolgt
+hierbei durch den Transport von Teilchen, welche thermische Energie mit sich führen.
+Aus dieser Tatsache geht hervor, dass in Festkörpern bzw. im Vakuum keine
+Konvektion erfolgen kann. Stattdessen ist der Vorgang der Konvektion bei Gasen oder
+Flüssigkeiten zu beobachten. Bei der Ganzkörper-Konvektionshyperthermie erfolgt nun
+der Wärmetransport durch freie (natürliche) Konvektion. Bedeutsam hierbei ist, dass der
+Teilchentransport nur durch Auswirkungen des Temperaturgradienten bzw. durch Aufund Abtrieb des Fluids infolge der durch die Temperaturveränderung verursachten
+Dichteunterschiede hervorgerufen wird.
+Geht man nun davon aus, dass das Wasser der Wärmedecke und damit auch die
+Decke selbst auf eine konstante Temperatur von 38,3 °C erhitzt werden, so liegt diese
+Temperatur über der gemessenen Körpertemperatur der Patienten. In der 30-minütigen
+Therapiezeit wird auf Grund der genannten Gesetzmäßigkeiten Wärme übertragen,
+wobei die Körpertemperatur ansteigt und sich der Temperatur der Wärmeliege
+annähert. Auf diese Weise wird eine milde Ganzkörperhyperthermie erzielt, die man
+bisher vor allem in den Bereichen Balneologie, Physiotherapie und Wellness eingesetzt
+hat.
+2.1.3 Soft-Pack-Liege „Haslauer“
+Beim Soft-Pack-System Haslauer kommt der Patient mit dem Wasser in keinen direkten
+Kontakt, sondern wird von einer dünnen Folie umgeben, die sich durch den
+vorhandenen Wasserdruck an den Körper anschmiegt. Der Patient wird gebeten, sich
+unbekleidet in den Wannenkörper zu legen. Hier werden ihm zu Beginn und am Ende
+der Sitzung Blutdruck, Puls und Temperatur gemessen. Aus hygienischen Gründen wird
+er dann zuerst in ein dünnes Laken gehüllt und danach mit der Folie eingewickelt. Für
+mehr Komfort werden ihm Kopfkissen und Fußrolle angeboten. Durch Bedienung eines
+pneumatisch betätigten Tastmechanismus am Wannenkörper selbst, kann die
+eingebaute Liegefläche hydraulisch versenkt und die Temperatur elektronisch reguliert
+werden. Sie war standardisiert und betrug für jede Therapiesitzung 38,3 °C. Nach der
+Versenkung der Liegefläche in den mit geheiztem Wasser gefüllten Wannenkörper,
+15
+
+liegen die Patienten frei schwebend, von der warmwasserdurchfluteten Folie umhüllt,
+ohne einen Aufliegedruck zu verspüren. Dieser nahezu schwerelose Zustand kann zu
+einer völligen Entkrampfung der Muskulatur und des Stützapparates führen und auch
+positive Effekte auf die Psyche haben (Haslauer 2005). Die Sklerodermiepatienten, die
+oft auch unter Arthralgien leiden, empfanden diese Wirkung als sehr angenehm.
+Beim Eintauchen des mit Folie umgebenen Körpers in das Wasserbett kommt es zum
+passiven Immersionseffekt. Bauch und Beinvenen werden komprimiert, das verdrängte
+Blut steigt in den weniger komprimierbaren Brustkorb, der Blutdruck steigt an, das
+Herzvolumen wird vergrößert, wodurch es zu einer vermehrten Durchblutung der
+Körpergewebe kommt.
+Der Wasserdruck nimmt Einfluss auf den Blutfluss, die Lungen- und Nierenfunktion, und
+neuromuskuläre Funktionen. Immersion verursacht hämodynamische Veränderungen
+sowie Veränderungen der endokrinen Funktionen und im Katecholaminhaushalt.
+In der physikalischen Therapie wird Wärme weiterhin zur Verbesserung der
+Dehnbarkeit von Sehnen und Bändern, zur Aktivierung von Stoffwechsel und
+Infektabwehr und zur Verbesserung der Durchblutung angewendet.
+2.2
+
+Messung der akralen Wiedererwärmung mittels Duosensor
+
+In der dermatologischen Diagnostik findet die Messung der akralen Wiedererwärmung
+und Durchblutung zunehmend Anwendung. Hierbei werden nach einer kontrollierten
+Abkühlung
+
+des
+
+Zeigefingers
+
+Temperatur
+
+und
+
+Durchblutung
+
+während
+
+dessen
+
+Wiedererwärmung registriert. Aus dem zeitlichen Verlauf dieser Daten können
+Erkenntnisse
+
+beispielsweise
+
+über
+
+Durchblutungsstörungen
+
+oder
+
+die
+
+Hautdicke
+
+gewonnen werden. Das hier beschriebene Messgerät, der Duosensor, dient der
+Erfassung
+
+von
+
+Kälteexposition.
+
+Temperatur
+
+und
+
+Durchblutungszustand
+
+Er
+
+am
+
+Institut
+
+wurde
+
+für
+
+eines
+
+Informatik
+
+der
+
+Fingers
+
+nach
+
+Mathematisch-
+
+Naturwissenschaftlichen Fakultät der Humboldt-Universität zu Berlin entwickelt. Ziel war
+der
+
+Entwurf
+
+eines
+
+objektiven
+
+Messgerätes
+
+mit
+
+einfacher
+
+Handhabung
+
+und
+
+reproduzierbaren Ergebnissen (Hochmut et al. 1996). Für diese Studie stand uns
+bereits ein weiterentwickeltes Messgerät zur Verfügung.
+
+16
+
+Es beinhaltet einen empfindlichen Infrarot-Sensor zur berührungsfreien Messung der
+Emission von Infrarot-Strahlung im Bereich von 8 μm bis 14 μm. Diese wird in einem
+einstellbaren Bereich von 0.100 bis 1.100 und einer Abtastgeschwindigkeit von 1 Hertz
+aufgezeichnet. Wenn die Strahlen auf den Detektor treffen, werden sie verstärkt,
+aufbereitet und einem Mikrocontroller zugeführt. Die Messwerte werden via USB auf
+den PC.übertragen. Automatisch erscheint eine Zusammenfassung aller relevanten
+Messdaten auf dem Display, welche ausgedruckt werden kann (Foerster et al. 2006).
+Das gegenüber dem Prototyp modifizierte Gerät weist folgende Neuerungen auf:
+
+
+Die Temperaturmessung der Finger erfolgt nicht mehr in einer geschlossenen
+Kammer. Der Finger liegt lediglich den Messplatten auf, so dass Wärme in die
+Umgebungsluft entweichen kann und es nicht durch Wärmestau in der Kammer zu
+verfälschten Messwerten kommen kann.
+
+
+
+Die Fingerspitze kann durch die verschiebbare Unterlage genau positioniert werden,
+so dass sich die Messfühler bei jeder Messung exakt unterhalb der PIP- und DIPGelenke befinden.
+
+
+
+Eine unbeabsichtigte Positionsänderung des zu messenden Fingers wird von einer
+Lichtschranke registriert und führt zu einem akustischen Warnsignal, das erst
+verstummt, wenn der Finger wieder die Ausgangsposition eingenommen hat. Sollte
+die Suche nach der richtigen Position einen Zeitraum von 5 Sekunden
+überschreiten, bricht das Gerät die Messung automatisch ab, um Messfehler zu
+vermeiden.
+
+Ein USB-Eingang am Gerät gewährleistet den Datentransfer für eine computerbasierte
+Datenanalyse der Temperaturkurve. Die Abkühlzeit ist individuell einstellbar und betrug
+für unsere Studie 90 Sekunden.
+Zu Beginn der Messung der akralen Wiedererwärmung legt der Patient den rechten
+Zeigefinger auf die Messplatten, welche lediglich die PIP- und DIP-Gelenke stützen. Die
+an der Fingerspitze befindliche Lichtschranke meldet eine ungenaue Position vor und
+während der Messung. In der Anpassungsphase erfolgt eine Messung der
+Ausgangstemperatur. Werden stabile Temperatur- und Durchblutungsaufnahmen mit
+einer geringeren Abweichung als 10% registriert, ist ein akustisches Signal vernehmbar,
+
+17
+
+woraufhin der Patient den betreffenden Finger in ein mit 250 ml Wasser und 6
+standardisierten Eiswürfeln gefülltes Eisbad legt. Der Finger verbleibt bis über das
+proximale Interphalangealgelenk hinaus für 90 Sekunden im 11 °C kalten Wasser.
+Dieses Zeitintervall ist am Gerät auf dem Display nachvollziehbar. Ein weiteres
+akustisches Signal zeigt das Ende der Abkühlzeit an, woraufhin der Finger des
+Patienten sofort mit zwei Papierhandtuchbögen abgetrocknet wird. Im direkten
+Anschluss daran wird der Finger wieder auf den Messplatten positioniert. Die
+Aufzeichnung der Temperatur- und Durchblutungskurven erfolgt automatisch durch den
+Duosensor. Über eine installierte serielle Schnittstelle können diese Daten via PC,
+Plotter oder Drucker dargestellt werden.
+Die Erwärmung der Haut nach einem Kältereiz kann mathematisch durch eine
+Sprungantwort erster Ordnung beschrieben werden (Meffert et al. 1972). Der -Wert,
+ausgedrückt in Minuten, beschreibt den individuellen Kurvenverlauf (Meffert et al. 1972)
+und entspricht dem Zeitpunkt, an dem 63% der Ausgangstemperatur des Fingers
+wieder erreicht sind. Zu diesem Zeitpunkt kennzeichnet ein drittes akustisches Signal
+des Duosensors das Ende der Messung. Der Entsprechende -Wert sowie der Grad der
+Durchblutung über diesen Zeitraum werden nun auf dem Display angezeigt und können
+mit dem zugehörigen Kurvenverlauf ausgedruckt werden.
+2.3
+
+Visuelle Analog-Skala (VAS) und Raynaud-Condition Score (RCS)
+
+Zur Einschätzung des allgemeinen Gesundheitszustands chronisch kranker Patienten
+haben sich bei Erkrankungen des rheumatischen Formenkreises standardisierte
+Fragebögen bewährt (Steen, Medsger 1997). Sie beinhalten unter anderem Visuelle
+Analog-Skalen zur Selbsteinschätzung der Aktivität des Raynaud-Phänomens. Dafür
+bedient man sich eines 15 cm langen, unskalierten Graphen, der auf die Frage hin:
+„Inwiefern hat das Raynaud-Phänomen Sie in der letzten Woche beeinträchtigt?“ vom
+Patienten entsprechend seiner subjektiven Einschätzung markiert wird. Die Validität und
+Reliabilität dieses Verfahrens sowie die Korrelation der Werte der Visuellen AnalogSkala mit den Werten der übrigen Parameter des Fragebogens wurden bereits bestätigt
+(Merkel et al. 2002). Der durch den Patienten angegebene Wert in cm wurde über den
+mathematischen Dreisatz in einen Zahlenwert von 0 bis 3 transformiert. 0 bedeutet
+dabei keine Beeinträchtigung, wohingegen 3 als schweres Krankheitsgefühl zu werten
+ist.
+18
+
+Außerdem wurden die Patienten gebeten, ein Tagebuch über die Anzahl und Stärke
+ihrer Raynaud-Attacken zu führen, um den Raynaud-Condition-Score zu erfassen.
+Dafür wurde ihnen ein vorgedruckter Kalender mitgegeben, den sie beim nächsten
+Termin ausgefüllt für die letzten 7 Tage wieder mitbrachten. Neben einer Strichliste für
+die Anfallshäufigkeit, führten die Patienten auch Protokoll über die Stärke der jeweiligen
+Raynaud-Attacken. Diese konnte in einer Stärke von 1 (leicht) bis 5 (schwer)
+angegeben werden.
+2.4
+
+Studiendesign
+
+Die geplante prospektive Studie sollte zur Überprüfung der Reproduzierbarkeit der
+Pilotstudie dienen. Weiterhin sollte sie zur Klärung der Frage beitragen, ob die daraus
+erzielten Effekte bezüglich des Raynaud-Phänomens bei systemischer Sklerodermie
+spezifisch
+
+für
+
+die
+
+Infrarot-A
+
+Hyperthermie
+
+sind
+
+oder
+
+auch
+
+durch
+
+Konvektionshyperthermie mit Hilfe von erhitztem Wasser möglich wären. Dafür eignete
+sich das Modell einer klinischen Studie. Die Wahl der Studienendpunkte richtete sich
+nach früheren Erfahrungen über den klinischen Nutzen der Infrarot-A-Hyperthermie.
+Primäre Endpunkte waren demnach:
+A) Die durch Basaltemperatur und -Wert repräsentierte objektive Änderung der
+akralen Wiedererwärmung
+B) Die Änderung der mittels Visueller Analog-Skala und Tagebuch explorierten,
+subjektiv empfundenen Aktivität des Raynaud-Phänomens
+C) Der Vergleich beider Therapieformen hinsichtlich objektiver (A) und subjektiver (B)
+Veränderungen in Bezug auf das Raynaud-Phänomen
+Eine physikalische Therapie wie die Ganzkörperhyperthermie verlangt nach einer
+Kontrolle über mögliche Placeboeffekte. Aus diesem Grund schien ein Studienformat
+bestehend aus einer Behandlungsphase und einer adäquaten Nachbeobachtungsphase
+geeignet. Die Methodik zur Messung der akralen Wiedererwärmung mittels Duosensor
+ist objektiv und relativ unanfällig für Placeboeffekte. Placeboinduzierte, falsch-positive
+Effekte
+
+der
+
+Visuellen
+
+Analog-Skalen
+
+können
+
+mittels
+
+der
+
+zwölfwöchigen
+
+Nachbeobachtung aufgedeckt werden. Außerdem kann so die Nachhaltigkeit der
+beobachteten Wirkungen untersucht werden.
+
+19
+
+Die Behandlungsphase beinhaltete insgesamt 10 Ganzkörperhyperthermiesitzungen mit
+2 Anwendungen à 30 Minuten pro Woche in der Induktionsphase, die insgesamt 6
+Behandlungen beinhaltete und sich über 3 Wochen erstreckte. Danach schloss sich die
+Erhaltungsphase mit weiteren 4 Behandlungen an, die im 14-Tage Rhythmus
+stattfanden und abermals 30 Minuten pro Sitzung dauerten. Die Erhaltungsphase nahm
+also weitere 8 Wochen in Anspruch, so dass sich das gesamte Therapieregime über
+insgesamt 11 Wochen erstreckte. Es schloss sich die Nachbeobachtungsphase an. Zu
+drei festgelegten Terminen, nämlich 2, 6 und 12 Wochen nach der letzten Behandlung
+wurden die Patienten wieder vorstellig. Die Ermittlung der Studienparameter erfolgte zu
+definierten Zeitpunkten.
+Der Einschluss der Patienten erfolgte höchstens 14 Tage vor Therapiebeginn nach
+Feststellung der Einschlusskriterien und eingehender Aufklärung. Vor und nach der
+ersten IRA- bzw. WL-Sitzung ermittelten wir die akrale Wiedererwärmungszeit und
+befragten die Patienten mittels Visueller Analog-Skala und Tagebuch zur Aktivität des
+Raynaud-Phänomens. Ein eingehendes Monitoring mit Bestimmung von Blutdruck, Puls
+und Körpertemperatur wurde zu jedem Termin durchgeführt. An die erste Behandlung
+schloss sich eine erneute Messung der akralen Wiedererwärmung an. Vor der sechsten
+und zehnten Behandlung erfolgte jeweils wieder die Registrierung der akralen
+Wiedererwärmung, der Visuellen Analog-Skala und des RCS. An den drei
+Nachbeobachtungsterminen wurden alle drei Parameter jeweils erneut bestimmt.
+2.5
+
+Patienten
+
+Alle Patienten wurden über die autoimmunologischen Spezialsprechstunden der
+Institute für Dermatologie und Rheumatologie der Charité Berlin rekrutiert. Eine
+manifeste systemische Sklerodermie mit gleichzeitig seit mindestens einem Monat
+regelmäßig auftretendem Raynaud-Phänomen stellte das Einschlusskriterium dar.
+Kriterien, die von vorn herein zum Studienausschluss führten, waren: Instabile Angina
+pectoris, Myokardinfarkt innerhalb der letzten sechs Monate, arterielle Hypotonie,
+Asthma bronchiale, floride Infekte, Wechsel in der medikamentösen Therapie vor oder
+während der Studienphase.
+
+20
+
+Nach Anamnese und eingehender Aufklärung über den Studienverlauf erfassten wir
+folgende Charakteristika: Alter, Geschlecht, Krankheitsdauer, Ulzerationen der Finger,
+Raucherstatus, Ösophagusbeteiligung, Lungenbeteiligung.
+2.6
+
+Statistik
+
+Für verschiedene Patientendaten wie Alter oder Krankheitsdauer, aber auch für die
+Messwerte der akralen Wiedererwärmung, der Visuellen Analog-Skala und des
+Raynaud-Condition-Score
+
+bestimmten
+
+wir
+
+die
+
+jeweiligen
+
+Mittelwerte
+
+und
+
+Standardabweichungen.
+Den Median sowie die erste und dritte Quartile errechneten wir für die -Werte und
+Basaltemperaturen
+
+zu
+
+jedem
+
+Studientermin,
+
+um
+
+einen
+
+Überblick
+
+über
+
+die
+
+Streuungsbreite der Parameter zu erhalten. Ergänzend dienten dazu die Resultate der
+Visuellen-Analog-Skala. Der Median hat gegenüber dem Mittelwert den Vorteil,
+unempfindlicher gegenüber extrem abweichenden Zahlenwerten zu sein (Lange und
+Bender 2001).
+Zur Beurteilung der Signifikanz beobachteter Ergebnisse und Tendenzen benutzten wir
+je nach Konstellation den ein- oder zweiseitig gepaarten bzw. ungepaarten
+Student’schen t-Test.
+
+3
+3.1
+
+Resultate
+Patientendaten
+
+Über die autoimmunologischen Sprechstunden der Kliniken für Dermatologie und
+Rheumatologie der Charité Berlin wurden 55 an systemischer Sklerodermie (PSS) und
+sekundärem Raynaud-Phänomen erkrankte Patienten in die Studie aufgenommen. Im
+Rahmen
+
+der
+
+Aufnahme
+
+ergab
+
+sich
+
+eine
+
+breitgefächerte
+
+Aufteilung
+
+der
+
+Studienteilnehmer nach verschiedenen Gesichtspunkten.
+Die Ausgangsparameter sind in Tabelle 1 zusammen gestellt. Am untersuchten
+Patientenkollektiv ist eine annähernde Gleichverteilung zwischen den Therapieformen
+für Infrarot-A-Bestrahlung (n = 29) und Haslauer Wärmeliege (n = 26) zu verzeichnen.
+
+21
+
+Tabelle 1 Verteilung der Kohorte nach persönlichen und klinischen Parametern
+Alle Patienten
+
+IRA-Therapie1
+
+WL-Therapie2
+
+( n = 55)
+
+( n = 29)
+
+( n = 26)
+
+57 ± 12,6
+
+55,4 ± 14
+
+60,2 ± 6,4
+
+8,6 ± 7,4
+
+9,9 ± 8,6
+
+7,2 ± 1,4
+
+90,8
+
+93,1
+
+88,5
+
+26,3 ± 4,2
+
+25,5 ± 4,5
+
+27,1 ± 3,8
+
+1,4 ± 0,65
+
+1,6 ± 0,8
+
+1,2 ± 0,5
+
+RCS-Frequenz ( Mittelwert ± sd )
+
+3,2 ± 2,1
+
+4,5 ± 2,9
+
+1,9 ± 1,3
+
+RCS-Intensität ( Mittelwert ± sd )
+
+2,85 ± 1,0
+
+3,1 ± 1,2
+
+2,6 ± 0,8
+
+559 ± 366
+
+540,2 ± 299,5
+
+577 ± 424
+
+Alter in Jahren
+( Mittelwert ± sd)
+Krankheitsdauer in Jahren
+( Mittelwert ± sd)
+Geschlecht ( % weiblich)
+3
+
+BT zu Beginn in C°
+(Mittelwert ± sd)
+4
+
+VAS zu Beginn
+
+( Mittelwert ± sd )
+5
+
+6
+
+AWE-τ-Wert zu Beginn
+( in sec ± sd)
+
+sd = Standardabweichung,
+
+1
+
+Therapie mittels Wärmeliege.
+der 1. Behandlung.
+
+4
+
+Patienten der Therapie mittels Infrarot-A Bestrahlung.
+3
+
+2
+
+Patienten der
+
+BT = Basaltemperatur des mittels Duosensor gemessenen Fingers vor
+
+VAS= Visuelle Analog-Skala. Subjektive Darstellung in arbiträren Einheiten durch
+
+Transformation eines Wertes von 0 - 15 cm des Graphen der VAS in einen Wert von 0-3.
+
+5
+
+RCS =
+
+Raynaud Condition Score. Mittels Patiententagebuch ermittelte Werte pro Tag aus den vorangegangenen
+7 Tagen für die Anfallsfrequenz sowie die Anfallstärke nach subjektiven Gesichtspunkten auf einer Skala
+von 0-5.
+
+6
+
+AWE = Akrale Wiedererwärmung des gemessenen Fingers. auf τ-Wert = 63% der
+
+Ausgangstemperatur nach Kältereiz.
+
+22
+
+Die Abweichung ergibt sich aus der Rekrutierungsphase, bei der in einigen Fällen nach
+einer Zusage zur Studienteilnahme noch vor der ersten Therapiesitzung eine Absage
+aus persönlichen oder zeitlichen Gründen erfolgte. Das Durchschnittsalter der
+vorwiegend weiblichen Patienten (90,8%) lag für die gesamte Kohorte bei 57 Jahren,
+wobei die Patienten für die Wärmeliege (WL) im Schnitt 5 Jahre jünger waren. Im Mittel
+dauerte die Krankheit seit über 8 Jahren an, dabei ist bei den IRA-Patienten eine um
+circa 2,5 Jahre längere Leidensphase zu verzeichnen. In der IRA-Gruppe ist mit einem
+Mittelwert von 27,1 C° - im Vergleich zur Wärmeliege-Kohorte - die Basaltemperatur vor
+der ersten Therapie 1,6 °C höher. Bei der Auswertung der Visuellen Analog-Skala
+(VAS) geben die Patienten der IRA-Liege einen Ausgangsmittelwert von 1,6 an und
+schneiden somit schlechter ab, als die andere Gruppe, bei welcher der Mittelwert für die
+VAS bei 1,2 liegt. Wesentlich drastischer stellt sich jedoch der Unterschied zwischen
+den Kohorten
+
+bei der Auswertung des RCS bezüglich der Anfallshäufigkeit dar.
+
+Bezogen auf die letzten 7 Tage vor der erstmaligen Datenaufzeichnung ergibt sich hier
+ein Wert von 4,5 Raynaud-Attacken pro Tag bei den IRA-Studienteilnehmern. Im
+Gegensatz dazu präsentiert sich die Wärmeliegekohorte mit durchschnittlich nur 1,9
+Anfällen pro Tag. Dazu passend stellen sich, wenn auch nicht ganz so auffällig, die
+Werte für die Intensität der Raynaud-Attacken dar. Hier liegt der Mittelwert für die WLKohorte bei 2,6, wobei die IRA-Patienten mit einem Mittelwert von 3,1 abermals stärker
+betroffen zu sein scheinen. Der τ-Wert, der für 63% der akralen Wiedererwärmungszeit
+bis zum Wiedererreichen der Basaltemperatur steht, beträgt für die gesamte Kohorte im
+Mittel 559 Sekunden. Dabei liegt der Wert für IRA-Patienten etwas niedriger (Mittelwert
+540,2 Sekunden) und für Wärmeliegepatienten entsprechend höher (Mittelwert 577
+Sekunden).
+Die Patienten wurden bei der Studienrekrutierung gemäß dem Studiendesign zufällig
+den beiden Behandlungsgruppen zugeordnet (randomisiert). Dass es trotzdem zu oben
+genannter Ungleichverteilung der Parameter zwischen den Kohorten kam, ist
+zweifelsohne der insgesamt geringen Patientenzahl geschuldet. Die Rekrutierung einer
+größeren Kohorte für eine zweiarmige Studie ist allerdings bei einer so seltenen
+Erkrankung nur in multizentrischen Studien durchführbar. Anhand der aufgeführten
+Parameter wird deutlich, dass die IRA-Gruppe von vornherein stärker durch die
+Krankheit
+
+betroffen
+
+ist,
+
+was
+
+eine
+
+vergleichende
+
+23
+
+Auswertung
+
+bezüglich
+
+des
+
+Therapieerfolges schwierig erscheinen lässt. Dennoch lassen sich Tendenzen
+aufzeigen, die im Folgenden näher erläutert werden sollen.
+Insgesamt brachen 4 Patienten die Studie während des Behandlungszeitraumes oder in
+der Nachbeobachtungsphase ab. Drei dieser Patienten waren der IRA-Therapie
+zugeordnet gewesen. Angegeben wurden zeitliche oder persönliche Gründe, jeweils 1
+Patient
+
+pro Gruppe brach aus Zweifel am Therapieerfolg ab. Als Nebenwirkungen
+
+wurden bei der Wärmeliege angegeben: Sodbrennen, Hitzewallungen, Schlafstörungen,
+allgemeines Unwohlsein, verstärkte Gelenkschmerzen, Kopfschmerzen und Müdigkeit.
+Diese Symptome waren jeweils nur von einem Patienten beschrieben worden, als
+gering empfunden worden und spätestens nach der 2. Sitzung abgeklungen. Für die
+Patienten der IRA-Liege ergaben sich Nebenwirkungen nur in Form von Müdigkeit und
+Schwäche bei einigen Patientinnen, besonders während der ersten Behandlungen.
+Insgesamt waren die unerwünschten Wirkungen bei beiden Therapieformen wenig
+beeinträchtigend, so dass subjektiv der positive Effekt überwog, was zu einer hohen
+Compliance und Patientenzufriedenheit führte.
+3.2
+
+Einfluss der Hyperthermie-Therapien auf objektive Aktivitätsparameter des
+Raynaud-Phänomens bei systemischer Sklerodermie
+
+3.2.1 Veränderung des τ-Wertes
+Um den Effekt der Therapien auf die Schwere des Raynaud-Phänomens bei
+systemischer Sklerodermie beurteilen zu können, verwendeten wir für die Messung der
+akralen Wiedererwärmung den im Methodenteil beschriebenen Duosensor. Nach einem
+einminütigen Kältereiz, der so gesetzt wurde, dass er nicht zu einer Raynaud-Attacke
+führte, ermittelte das Gerät die benötigte Zeit, um 63% der Ausgangstemperatur des
+Fingers wieder zu erreichen. Der entsprechende τ- Wert stellt sich demnach in
+Sekunden dar. Eine Registrierung dieser Daten erfolgte zu festgelegten Terminen vor
+und während der Therapie sowie zu den 3 Nachbeobachtungszeiträumen der Studie
+(Abb. 1a, b). Ausgewertet wurden jeweils nur die Patienten, die zu allen Terminen
+anwesend waren, während wir Studienabbrecher von vorn herein unberücksichtigt
+ließen.
+Obwohl der -Wert innerhalb der IRA-Kohorte variierte, verbesserte sich der Median der
+akralen Wiedererwärmung bereits nach einer Wärmeanwendung. Eine weitere
+
+24
+
+AWE IRA
+1400
+1200
+
+AWE in s
+
+1000
+800
+600
+400
+200
+0
+vorBeh.
+1. vor 6.
+vorBeh.
+6. vor vor
+nach
+2 nach
+nach
+6
+nach 12
+12.Wo.
+vor 1.
+10. 10.
+Beh. nach
+2 Wo.
+6 Wo.
+nach
+Beh.
+
+Abbildung 1a.
+
+Beh.
+
+Beh.
+
+Wo.
+
+Wo.
+
+Wo.
+
+Darstellung der -Werte (in Sekunden) vor, unter und nach Infrarot-A-
+
+Hyperthermie (= IRA). Die horizontalen Linien innerhalb der Boxen stellen den Median dar. Erste
+und dritte Quartile sind durch die obere beziehungsweise die untere Kante der jeweiligen Box
+definiert. Die vertikalen Linien zeigen die Streuungsbreite an.
+
+AWE WL
+1400
+1200
+
+AWE in s
+
+1000
+800
+600
+400
+200
+0
+vor 1.
+Beh.
+
+vor 6.
+Beh.
+
+vor 10.
+Beh.
+
+nach 2
+Wo.
+
+nach 6
+Wo.
+
+nach 12.
+Wo.
+
+vor 1. Beh. vor 6. Beh. vor 10. Beh. nach 2 Wo. nach 6 Wo. nach 12 Wo.
+
+Abbildung 1b. Darstellung der -Werte (in Sekunden) vor, unter und nach Therapie mit
+Konvektionshyperthermie. Die horizontalen Linien innerhalb der Boxen stellen den Median dar.
+Erste und dritte Quartile sind durch die obere beziehungsweise die untere Kante der jeweiligen
+Box definiert. Die vertikalen Linien zeigen die Streuungsbreite an.
+25
+
+Abnahme des Parameters konnte über die gesamte Zeit der 10 Sitzungen nur für die
+IRA-Kohorte beobachtet werden.
+Im Rahmen der zwölfwöchigen Nachbeobachtungsphase war dieser Effekt im Rahmen
+der ersten Beobachtungsmessung, 2 Wochen nach der letzten Behandlung, leicht
+rückläufig. Jedoch kam es bei der 2. und 3. Kontrolle, also 6 und 12 Wochen nach
+Behandlungsende, zu erstaunlich guten Werten, diese lagen dann sogar weit unter den
+Ausgangswerten vor der ersten Messung bei Therapiebeginn.
+Auch innerhalb der Wärmeliege-Kohorte variierte der -Wert beträchtlich, der Median
+der akralen Wiedererwärmung stieg im Laufe der ersten Behandlungen zunächst an,
+um dann bis zur 10. Wärmeanwendung unter den Ausgangswert zu sinken. Während
+der Nachbeobachtungsphase war dieser Effekt schon bei der 1. Kontrollmessung stark
+rückläufig und der Median des -Wertes stieg auf den bis dahin höchsten Wert seit der
+1. Messung an. Er sank beim 2. Nachbeobachtungstermin leicht über den
+Ausgangswert und war beim letzten Termin wieder so stark erhöht wie bei der 1.
+Beobachtungsmessung. Zur Veranschaulichung der Studienergebnisse analysierten wir
+die mit Abb. 1 korrespondierenden, mittleren τ-Werte der beiden Kohorten (Tab. 2).
+Sowohl beim IRA-Patientenkollektiv als auch bei den Patienten, die mit der Wärmeliege
+behandelt wurden war eine Verbesserung der akralen Wiedererwärmung erkennbar. In
+beiden Kohorten verringerte sich demnach die Zeitspanne bis zur 63%-igen Erwärmung
+des Fingers infolge des einminütigen Eisbades.
+Die Verbesserung der -Werte von anfänglich im Durchschnitt 540,2 ± 299,5 Sekunden
+(IRA) beziehungsweise 577 ± 424 Sekunden (WL) auf 495,0 ± 321 Sekunden (IRA)
+und 477 ± 360 Sekunden (WL) vor der 10. Wärmebehandlung war eindrucksvoll und
+bei der Wärmeliege-Kohorte nahezu doppelt so stark ausgeprägt. So ist eine
+Verbesserung von 8,33% für die IRA-Patienten und 17,33% für die WL-Gruppe zu
+verzeichnen. Jedoch konnte bei den IRA-Patienten ein kontinuierlicher Anstieg
+
+der
+
+AWE-Zeit verzeichnet werden, was für die Wärmeliege-Patienten nicht zutreffend ist.
+Anhand der p-Werte lässt sich zwar keine statistische Signifikanz darstellen (Tab. 2),
+dennoch ist der Trend für den Effekt der milden Ganzkörperhyperthermie auf die AWE
+bei beiden Verfahren in den Daten deutlich.
+
+26
+
+Tabelle 2 Dynamik der -Werte (in Sekunden) für die akrale Wiedererwärmung
+während des Studienverlaufs.
+Vor 1. IRA
+
+Vor 6. IRA
+
+Vor 10. IRA
+
+1. NBT 3
+
+2. NBT
+
+3. NBT
+
+Mittelwert ±
+
+540,2±
+
+487,7 ±
+
+495,0 ± 321
+
+506,0 ±
+
+397,8 ±
+
+480,0 ±
+
+sd
+
+299,5
+
+282,6
+
+317,1
+
+327,4
+
+276,7
+
+Median
+
+497
+
+431
+
+415
+
+443
+
+285
+
+386
+
+0,24
+
+0,33
+
+0,42
+
+0,15
+
+0,28
+
+Vor 1. WL
+
+Vor 6. WL
+
+Vor 10. WL
+
+1. NBT
+
+2. NBT
+
+3. NBT
+
+577 ± 424
+
+476 ± 304
+
+477 ± 360
+
+564 ± 294
+
+520 ± 269
+
+496 ± 208
+
+412
+
+440
+
+360
+
+544
+
+436
+
+544
+
+0,18
+
+0,17
+
+0,39
+
+0,38
+
+0,5
+
+IRA Patienten
+( n = 25)
+
+p-Wert2
+WL Patienten
+( n = 24)
+Mittelwert ±
+sd
+Median
+p-Wert
+
+sd = Standardabweichung, 1die Spanne, innerhalb der 95% der Ergebnisse liegen, 2gemäß eines
+einseitig gepaartem Student-t-Test. 3 NBT = Nachbeobachtungstermin
+
+Für die IRA-Kohorte zeigte der Mittelwert des -Wertes 2 Wochen nach der letzten
+Behandlung einen leichten Anstieg von zuvor 495,0 ± 321 Sekunden auf nun 506,0 ±
+317,1 Sekunden, während er 6 Wochen nach Behandlungsende mit 397,8 ± 327,4
+Sekunden auf einen Mittelwert weit unterhalb des Ausgangswertes sank. Auch beim
+letzten Termin, also 12 Wochen nach der 10. IRA-Sitzung lag dieser Parameter noch
+bei 480,0 ± 276,7 Sekunden und somit niedriger als alle Werte während des
+Therapiezeitraumes.
+Analysiert man die Mittelwerte für die Patienten der Wärmeliege bezüglich der AWEZeit, kommt man zu einem ähnlichen Ergebnis. Betrug der durchschnittliche -Wert vor
+der letzten Behandlung noch 477 ± 360 Sekunden, so stieg er bereits beim 1.
+Beobachtungstermin, 2 Wochen später, auf 564 ± 294 Sekunden an und erreichte somit
+nahezu den Anfangswert. Danach sank er dann wieder kontinuierlich ab und hatte 12
+27
+
+Wochen nach der letzten Behandlung mit 496 ± 208 Sekunden beinahe wieder den
+Wert der letzten Behandlung erreicht.
+Während der Nachbeobachtungsphase kam es innerhalb kürzester Zeit zu einem
+Anstieg der Umgebungstemperatur um über 20 °C. Ein Zusammenhang zwischen den
+Ergebnissen der AWE-Werte und der Außentemperatur bleibt daher zu vermuten. Auch
+könnte man ein reaktives Verhalten des menschlichen Körpers auf den Abbruch der
+extern zugeführten Wärme mit entsprechenden gegenregulatorischen, Eigenwärme
+erzeugenden Maßnahmen als Ursache für das beobachtete Phänomen in Betracht
+ziehen.
+3.2.2 Veränderung der Basaltemperatur
+Um die Therapien hinsichtlich ihres Einflusses auf die Basaltemperatur beurteilen zu
+können, wurden die Daten des Duosensors ausgewertet. Eine Registrierung dieser
+Daten erfolgte zu festgelegten Terminen vor und während der Therapie, sowie zu den 3
+Nachbeobachtungszeiträumen der Studie. (Abb. 2). Ausgewertet wurden jeweils nur die
+Patienten, die zu allen Terminen anwesend waren, während die Daten der
+Studienabbrecher nicht einbezogen wurden.
+Zu Beginn der Messung der akralen Wiedererwärmung legt der Patient den rechten
+Zeigefinger auf die Messplatten des Duosensors. In der Anpassungsphase erfolgt eine
+Messung
+
+der
+
+Ausgangstemperatur.
+
+Werden
+
+stabile
+
+Temperatur-
+
+und
+
+Durchblutungsaufnahmen mit einer geringeren Abweichung als 10% registriert, wird
+diese Temperatur als Basaltemperatur (in °C) zu Grunde gelegt und vom System
+gleichzeitig ein Anhaltspunkt zur Beurteilung der Durchblutung des gemessenen
+gespeichert. Sie dient als Referenzgröße zur Ermittlung des -Wertes und ist Fingers.
+Die Analyse der Studienergebnisse ist in der Tabelle 3 zusammengefasst. Deutlich
+erkennbar ist auch hier das unterschiedliche Verhalten beider Kohorten. Für die IRAPatienten
+
+ist,
+
+bezüglich
+
+der
+
+Basaltemperatur,
+
+ein
+
+Benefit
+
+für
+
+die
+
+gesamte
+
+Behandlungszeit zu verzeichnen. Der Mittelwert lag hier zu Beginn bei 25,5 °C, stieg bis
+zur 6. Behandlung auf 26,7 °C an und lag auch bei der 10. Therapiesitzung mit 26,0 °C
+über dem Ausgangwert. Die eng beieinander liegenden Behandlungen der ersten 6
+Sitzungen scheinen hier von Bedeutung gewesen zu sein, während der positive Effekt
+der Therapie durch die 2-wöchigen Abstände während der letzten 4 Sitzungen den
+Erfolg geschmälert haben dürften. Selbst über den Behandlungszeitraum hinaus
+28
+
+blieben die Werte bis zum letzten Beobachtungstermin über dem Niveau des
+Ausgangswertes. So lag der Mittelwert bei der 1. Kontrollmessung mit 27,1 °C am
+höchsten. Beim letzten Termin betrug dieser Parameter 26,1 °C und liegt somit noch
+0,6 °C über dem Ausgangswert.
+
+Tabelle 3 Dynamik der Basaltemperaturen (in °C) zur Einschätzung von Durchblutung
+und akraler Wiedererwärmung während des Studienverlaufs
+IRA Patienten ( n = 25)
+
+Vor 1. IRA
+
+Vor 6. IRA
+
+Vor 10. IRA
+
+1. NBT
+
+2. NBT
+
+3. NBT
+
+Mittelwert ± sd
+
+25,5 ± 4,5
+
+26,7 ± 3,6
+
+26,0 ± 4,2
+
+27,1 ± 4,2
+
+25,4 ± 3,8
+
+26,1 ± 3,4
+
+Median
+
+24,1
+
+26,4
+
+25,7
+
+27,8
+
+24,1
+
+25,8
+
+0,16
+
+0,31
+
+0,14
+
+0,37
+
+0,26
+
+p-Wert1
+WL Patienten ( n = 24)
+
+Vor 1. WL
+
+Vor 1. WL
+
+Vor 10. WL
+
+1. NBT
+
+2. NBT
+
+3. NBT
+
+Mittelwert ± sd
+
+27,1 ± 3,8
+
+25,8 ± 3,7
+
+25,7 ± 5,0
+
+25,5 ± 4,0
+
+25,4 ± 4,4
+
+28,0 ± 3,0
+
+Median
+
+27,6
+
+26,1
+
+25,4
+
+25,2
+
+25,7
+
+28,2
+
+0,13
+
+0,13
+
+0, 07
+
+0,09
+
+0,46
+
+p-Wert1
+
+sd = Standardabweichung
+1
+
+gemäß eines einseitig gepaartem Student-t-Test, NBT= Nachbeobachtungstermin
+
+Bei der Wärmeliege-Kohorte ergibt sich ein vollkommen anderes Bild. Diese Patienten
+scheinen bezüglich der Basaltemperatur keinerlei Vorteil aus der Behandlung gezogen
+zu haben. Der Ausgangs-Mittelwert liegt hier mit 27,6 °C um 2,1 °C höher als bei der
+anderen Kohorte, so dass die Ausgangssituation im Vergleich als deutlich positiver
+einzuschätzen ist. Jedoch kommt es im Laufe der Behandlung zu einem stetigen
+Absinken des Mittelwertes auf zuletzt 25,7 °C und somit 1,9 °C unter den Ausgangswert
+und somit auch unter die entsprechenden Werte der IRA-Kohorte. Mit 25,5 °C bzw.
+25,4 °C, 2 und 6 Wochen nach Behandlungsende, bleibt der Mittelwert dann recht
+konstant. Er steigt danach bis zur letzten Messung, also 12 Wochen nach der 10.
+
+29
+
+Therapie auf 28,0 °C an und liegt dann sogar über dem zuerst errechneten Mittelwert
+von 27,1 °C. Zur weiteren Veranschaulichung der Studienergebnisse wurden die in
+Tabelle 3 dargestellten Ergebnisse der Mediane der Basaltemperaturen (in °C) beider
+Kohorten in einem Diagramm dargestellt (Abb. 2a, 2b). Sowohl beim IRAPatientenkollektiv als auch bei den Patienten, die mit der Wärmeliege behandelt
+wurden, war eine Verbesserung der akralen Wiedererwärmung erkennbar. Die
+Basaltemperatur innerhalb der IRA-Kohorte variierte stark, dennoch verbesserte sich ihr
+Median bereits während der ersten Wärmebehandlungen und stieg von anfangs 24,1°C
+auf 26,4 °C vor der 6. Therapie an. In dieser Zeit wurde den Patienten die IRA-Therapie
+zweimal wöchentlich appliziert. Anschließend folgten 4 weitere Termine im Abstand von
+je 4 Wochen. Hier kam es bis zur 10. Behandlung wieder zu einem Absinken des
+Medians der Basaltemperatur auf 25,7 °C, der damit aber noch 1,6 °C über der zu
+Beginn gemessenen Temperatur lag. Die höchsten Basaltemperaturen wurden 2
+Wochen nach Therapieende gemessen, der Median betrug hier 27,8 °C. Am letzten
+Beobachtungstermin betrug dieser Wert 25,8 °C und war somit ähnlich hoch wie beim
+letzten Behandlungstermin 12 Wochen zuvor.
+Ganz anders fallen die Ergebnisse für die Haslauer Softpack-Liege aus. Auch hier
+herrscht eine starke Varianz unter den einzelnen Patientenwerten. Zu Beginn wurde für
+die Basaltemperatur ein Median von 27,6 °C ermittelt, der damit 3,5 °C über dem der
+IRA-Kohorte liegt. Allerdings kommt es im Therapieverlauf zu einem stetigen Absinken
+dieses Wertes, der am letzten Behandlungstag nur noch bei 25,4 °C und damit sogar
+unter dem entsprechenden Wert der IRA-Gruppe (Median 25,7 °C) liegt. Erst in der
+Nachbeobachtungszeit kommt es wieder zu einem kontinuierlichen Anstieg der
+Basaltemperatur. Hier liegt der Median am letzten Messtag bei 28,2 °C und damit 2,8°C
+höher als zur 10. Therapiesitzung und auch 0,6 °C höher als bei der allerersten
+Messung. Anhand der p-Werte lassen sich für beide Kohorten keine Signifikanzen
+ableiten.
+
+30
+
+Basaltemperatur IRA
+
+Fingertemperatur in °C
+
+35
+
+30
+
+25
+
+20
+
+15
+vor 1. Beh. vor 6. Beh.
+
+vor 10.
+Beh.
+
+nach 2
+Wo.
+
+nach 6
+Wo.
+
+nach 12.
+Wo.
+
+vor 1. Beh. vor 6. Beh. vor 10. Beh. nach 2 Wo. nach 6 Wo. nach 12 Wo.
+
+Abbildung 2a. Darstellung der Basaltemperaturen (BT) in °C vor, während und nach Behandlung mit
+milder IRA-Ganzkörperhyperthermie. Die horizontalen Linien innerhalb der Boxen stellen den Median
+dar. Erste und dritte Quartile sind durch die obere beziehungsweise die untere Kante der jeweiligen Box
+definiert. Die vertikalen Linien zeigen die Streuungsbreite an. Linien zeigen die Streuungsbreite an.
+
+Basistemperatur WL
+
+35
+
+Fingertemperatur in °C
+
+Basaltemperatur WL
+30
+
+25
+
+20
+
+15
+1
+2 vor 10. Beh.
+3
+vor 1. Beh.
+vor 6. Beh.
+nach 2 4Wo. nach 6 5Wo. nach 126 Wo.
+
+Abbildung 2b. Darstellung der Basaltemperaturen (BT) in °C vor, während und nach Behandlung mit
+milder Ganzkörperhyperthermie durch Konvektion. Die horizontalen Linien innerhalb der Boxen stellen
+den Median dar. Erste und dritte Quartile sind durch die obere beziehungsweise die untere Kante der
+jeweiligen Box definiert. Die vertikalen Linien zeigen die Streuungsbreite an.
+
+31
+
+3.3
+
+Einfluss der Hyperthermie-Therapien auf subjektive Aktivitätsparameter bei
+Systemischer Sklerodermie
+
+3.3.1 Veränderung der Visuellen Analog-Skala
+Neben der akralen Wiedererwärmung war die Messung der subjektiv empfundenen
+Schwere des Raynaud-Phänomens mittels Visueller-Analog-Skala ein weiterer primärer
+Endpunkt
+
+der
+
+vorliegenden
+
+Studie.
+
+Zur
+
+Einschätzung
+
+des
+
+allgemeinen
+
+Gesundheitszustands wurde den Patienten beider Kohorten eine Visuelle Analog-Skala
+zur Selbsteinschätzung der Aktivität des Raynaud-Phänomens angeboten, wie sie sich
+für Erkrankungen des rheumatischen Formenkreises bereits bewährt hat. Dafür bedient
+man sich eines 15 cm langen, unskalierten Graphen, der auf die Frage hin: „Inwiefern
+hat das Raynaud-Phänomen Sie in der letzten Woche beeinträchtigt?“ vom Patienten
+entsprechend seiner subjektiven Einschätzung markiert wird. Die Validität und
+Reliabilität dieses Verfahrens sowie die Korrelation der Werte der Visuellen AnalogSkala mit den Werten der übrigen Parameter des Fragebogens wurden bereits bestätigt
+(Merkel et al. 2002). Der durch den Patienten angegebene Wert in cm wurde über den
+mathematischen Dreisatz in einen Zahlenwert von 0 bis 3 transformiert. 0 bedeutet
+dabei keine Beeinträchtigung, wohingegen 3 als schweres Krankheitsgefühl zu werten
+ist. Die Ergebnisse sind in der Abbildung 3 dargestellt:
+Ausgewertet wurden nur Patienten, die die Studie nicht vorzeitig abbrachen. Außerdem
+wurden Studienteilnehmer, die ihr Befinden auf der
+
+Visuellen Analog-Skala
+
+grundsätzlich mit 0 angaben, also subjektiv keinerlei Beeinträchtigung empfanden, nicht
+berücksichtigt. Dies betraf in 2 Fällen Patienten der Wärmeliege-Kohorte. Zum
+besseren Verständnis wurden die im Diagramm verarbeiteten Daten noch einmal in
+Tabellenform festgehalten (Tab. 4). Anders als bei den Anfangswerten der akralen
+Wiedererwärmung ist bei der Visuellen Analog-Skala ein Unterschied im subjektiven
+Empfinden bezüglich der Raynaud-Symptomatik zugunsten der Wärmeliege-Kohorte zu
+verzeichnen. Während die Patienten dieser Gruppe zu Beginn im Mittel einen Wert von
+1,2 ± 0,5 angaben, war bei der Gruppe der IRA-Patienten ein leichter Trend zu einem
+höheren
+
+Intensitätsempfinden
+
+bezüglich
+
+erkennbar
+
+(1,5
+
+±
+
+0,8).
+
+Unter
+
+dem
+
+Therapieregime kam es zu ganz unterschiedlichen Entwicklungen. Zur Beurteilung des
+möglichen Einflusses von Placeboeffekten interessierte uns auch die Reduktion der
+Messwerte in Prozent (Thompson et al. 2001).
+
+32
+
+Tabelle 4 Entwicklung der Selbsteinschätzung über die Schwere des RaynaudPhänomen mittels. Visueller Analog-Skala (in einheitslosen Größen von 0 bis 3)
+während des Studienverlaufs
+
+IRA Patienten
+Vor 1. IRA
+
+Vor 6. IRA
+
+Vor 10. IRA
+
+1. NBT 2
+
+2. NBT
+
+3. NBT
+
+1,5 ± 0,8
+
+1,8 ± 0,9
+
+1,7 ± 0,9
+
+1,6 ±0,8
+
+1,5 ± 0,9
+
+1,5 ± 0,9
+
+Veränderung (%)
+
++ 12,5
+
++ 6,25
+
+±0
+
+- 6,25
+
+- 6,25
+
+p-Wert1
+
+0,3
+
+0,03
+
+0,29
+
+0,11
+
+0,09
+
+Vor 1. WL
+
+Vor 1. WL
+
+Vor 10. WL
+
+1. NBT
+
+2. NBT
+
+3. NBT
+
+1,2 ± 0,5
+
+0,9 ± 0,5
+
+0,7 ± 0,5
+
+0,9 ± 0,6
+
+0,8 ± 0,6
+
+0,6 ± 0,5
+
+Veränderung (%)
+
+- 25
+
+- 41,66
+
+- 25
+
+- 33,33
+
+- 50
+
+p-Wert1
+
+0,03
+
+0,01
+
+0,17
+
+0,12
+
+0,01
+
+( n = 25)
+Mittelwert ± sd
+
+WL Patienten
+( n = 22)
+Mittelwert ± sd
+
+sd = Standardabweichung, 1gemäß eines einseitig gepaartem Student-t-Test,
+2
+
+Nachbeobachtungstermin
+
+Unter der Haslauer
+
+Softpack-Therapie sanken ähnlich wie bei der akralen
+
+Wiedererwärmung auch die Werte für die Visuelle Analog-Skala ab, diesmal jedoch
+kontinuierlich von zunächst 0,9 ± 0,5 vor der 6. Behandlung, auf 0,7 ± 0,5 bei der 10.
+Sitzung. Somit war der Mittelwert der Visuellen Analog-Skala hier im Verlauf der
+Behandlungsphase um signifikante 41,6% gesunken. Für den τ-Wert lag die
+Verbesserung bei 17,3%, so dass der subjektive Nutzen hier klar zu überwiegen
+scheint. Ganz anders stellen sich die Werte jedoch bei der IRA-Gruppe dar. Vor der 6.
+Behandlung wurde hier ein Mittelwert von 1,8 ± 0,9 angegeben, der damit höher als der
+Ausgangswert lag und auch zum 10. Termin lag dieser Wert mit 1,7 ± 0,9 noch leicht
+über dem Ausgangswert (1,5 ± 0,8). Diese Werte stehen somit im Widerspruch zum τWert der akralen Wiedererwärmung, der immerhin einen Benefit von 8,6% erbrachte.
+
+33
+
+Visuelle Analogskala
+3,0
+
+IRA
+
+WL
+
+2,5
+
+VAS
+
+2,0
+1,5
+1,0
+0,5
+0,0
+vor IRA1
+
+vor 1. Beh.
+
+vor IRA6
+
+vor 6. Beh.
+
+vor IRA10
+
+vor 10. Beh.
+
+Nach 2 Wo
+
+nach 2 Wo.
+
+Nach 6 Wo
+
+nach 6 Wo.
+
+Nach 12 Wo
+
+nach 12 Wo.
+
+Abbildung 3. Darstellung der Ergebnisse der Visuellen Analogskala (VAS) in einheitslosen Größen
+von 0-3 zur subjektiv empfundenen Intensität des Raynaud-Phänomens vor, während und nach
+Behandlung mit milder Ganzkörperhyperthermie. Die gezeigten Daten repräsentieren den Mittelwert und
+die Standardabweichung für beide Kohorten zu den festgelegten Messzeitpunkten.
+
+Im Rahmen der Nachbeobachtung ergab sich für die WL-Kohorte zunächst wieder ein
+leichter Anstieg des Parameters auf 0,9 ± 0,6 beim 1., beziehungsweise 0,8 ± 0,6 beim
+2. Termin. Hier lagen die Werte oberhalb des letzten Wertes der Behandlungsphase.
+Bei der letzten Kontrollmessung aber sank der Mittelwert auf 0,6 ± 0,5 ab und lag damit
+50% unter dem Ausgangswert. Ein verbessertes Allgemeinbefinden aufgrund des
+einsetzenden Sommers ist eine mögliche, jedoch auf Grundlage der verfügbaren Daten
+nicht zu beweisende, Erklärung für diese Ergebnisse.
+Für die IRA-Kohorte kam es im Laufe der Nachbeobachtung kaum zu Veränderungen.
+An den 3 Messterminen waren die Mittelwerte für die gefühlte Raynaud-PhänomenAktivität mit 1,6 ± 0,8, 1,5 ± 0,9 und 1,5 ± 0,9 im Vergleich zum letzten Behandlungstag
+leicht rückläufig und nahezu identisch mit dem Ausgangswert (1,6 ± 0,8).
+So scheinen die Patienten dieser Gruppe keinerlei subjektiven Nutzen aus der
+Behandlung gezogen zu haben. Interessanterweise ist hier auch kein Zusammenhang
+
+34
+
+mit den steigenden Außentemperaturen und einem dadurch eventuell einsetzenden
+verbesserten Wohlbefinden abzuleiten.
+Im direkten Vergleich lag der Mittelwert der WL-Kohorte zu Beginn der Therapie
+lediglich 25% unter dem der IRA-Kohorte, während er am Ende der Behandlung schon
+auf 59% unter den entsprechenden IRA-Wert abgesunken war. Am letzten
+Beobachtungstermin hatte sich an diesem Verhältnis kaum etwas verändert. So waren,
+bezogen auf diesen subjektiven Parameter zur Einschätzung der Raynaud-Aktivität, die
+WL-Patienten
+
+klare
+
+Nutznießer,
+
+während
+
+die
+
+IRA-Patienten
+
+subjektiv
+
+keine
+
+Verbesserung während der Therapiezeit verspürten.
+3.3.2 Veränderung des Raynaud-Condition-Score (RCS) bezüglich Frequenz und
+Intensität
+Als zweiten Parameter zur besseren Einschätzung der subjektiv empfundenen Schwere
+des Raynaud-Phänomens und dessen Verbesserung unter den Therapien benutzten
+wir den Raynaud-Condition-Score (RCS). So wurden die Patienten beider Kohorten
+gebeten, ein Tagebuch über die Anzahl und Stärke ihrer Raynaud-Attacken zu führen,
+um diesen Wert erfassen zu können. Dafür wurde ihnen ein standardisierter Kalender
+mitgegeben, den sie beim entsprechenden Termin, ausgefüllt für die vorangegangenen
+7 Tage wieder mitbrachten. Neben einer Strichliste für die Anfallshäufigkeit (Frequenz)
+führten die Patienten auch Protokoll über die subjektiv empfundene Intensität der
+jeweiligen Raynaud-Attacken. Diese konnte in einer Stärke von 1 (leicht) bis 5 (schwer)
+angegeben werden. Zur Beurteilung des möglichen Einflusses von Placeboeffekten
+interessierte uns auch hier die Reduktion der Messwerte in Prozent. Ausgewertet
+wurden nur die Daten der Patienten, die nicht vorzeitig die Studie abbrachen.
+Zusammengefasst sind diese Werte in der Tabelle 5.
+Wieder sind zu Beginn der Messungen erheblich niedrigere Werte für Frequenz und
+Intensität der Raynaud-Attacken bei den Wärmeliege-Patienten zu verzeichnen, so
+dass sie auch bezüglich dieses Parameters mit einer besseren Ausgangsposition in die
+Therapie starten. Während sie im Mittel nämlich 1,9 ± 1,3 für die Anfallshäufigkeit pro
+Tag und 1,5 ± 1,1 für die subjektiv empfunden Stärke angaben, litten die Patienten der
+IRA-Kohorte unter nahezu 2,5 Mal so vielen Attacken (Mittelwert 4,5 ± 2,9). Der
+Mittelwert für die Intensität wurde mit 3,1 ±1,2 angegeben und hatte somit im Vergleich
+einen um 0,5 erhöhten Wert.
+
+35
+
+Tabelle 5 Entwicklung der Selbsteinschätzung über die Frequenz und Intensität des Raynaud-Phänomen mittels Tagebuch (RCS)
+während des Studienverlaufs.
+IRA Patienten
+
+Vor 1. IRA
+
+Vor 6. IRA
+
+1. NBT 4
+
+Vor 10. IRA
+
+2. NBT
+
+3. NBT
+
+( n = 25)
+
+F2
+
+I3
+
+F
+
+I
+
+F
+
+I
+
+F
+
+I
+
+F
+
+I
+
+F
+
+I
+
+Mittelwert ± sd
+
+4,5 ± 2,9
+
+3,1 ± 1,2
+
+3,1 ± 1,2
+
+3,1 ± 1,2
+
+4,1± 2,6
+
+3,3 ± 1,0
+
+3,0 ± 2,2
+
+2,7 ± 1,3
+
+2,5 ± 1,4
+
+2,7 ± 1,3
+
+2,1 ± 1,4
+
+2,5 ± 1,4
+
+Veränderung (%)
+
+- 31,1
+
+±0
+
+-8,9
+
++ 6,45
+
+- 33,33
+
+- 12,9
+
+- 44,4
+
+- 12,9
+
+- 53,33
+
+-15,66
+
+p-Wert
+
+0,17
+
+0,22
+
+0,24
+
+0,13
+
+0,33
+
+0,27
+
+0,28
+
+0,35
+
+0,15
+
+0,26
+
+WL Patienten
+( n = 24)
+
+Vor 1. WL
+
+Vor 1. WL
+
+Vor 10. WL
+
+1. NBT
+
+2. NBT
+
+3. NBT
+
+F
+
+I
+
+F
+
+I
+
+F
+
+I
+
+F
+
+I
+
+F
+
+I
+
+F
+
+I
+
+1,9 ± 1,3
+
+2,6 ± 0,8
+
+1,5 ± 1,1
+
+2,3 ± 1,0
+
+1,8 ± 1,2
+
+2,4 ± 0,9
+
+1,5 ±1,3
+
+2,1 ± 1,0
+
+1,2 ± 1,2
+
+1,9 ± 1,0
+
+1,2 ± 1,3
+
+1,8 ± 1,4
+
+Veränderung (%)
+
+- 21
+
+- 11,5
+
+- 5,3
+
+- 7,7
+
+- 21
+
+- 19,2
+
+- 36,8
+
+- 27
+
+- 36,8
+
+- 30,8
+
+p-Wert
+
+0,24
+
+0,22
+
+0,39
+
+0,27
+
+0,32
+
+0,17
+
+0,29
+
+0,23
+
+0,34
+
+0,25
+
+Mittelwert ± sd
+
+sd = Standardabweichung, Veränderung (%) bezieht sich immer auf den Ausgangswert, 1gemäß eines einseitig gepaartem Student-t-Test
+Raynaud-Attacken/ Tag gemittelt aus den jeweils letzten 7 Tagen vor dem jeweiligen Termin,
+letzten 7 Tagen vor dem jeweiligen Termin in einheitslosen Größen von 1-5,
+
+4
+
+3
+
+Frequenz der
+
+Intensität der Raynaud-Attacken/ Tag gemittelt aus den jeweils
+
+Nachbeobachtungstermin.
+
+36
+
+2
+
+In beiden Kohorten kommt es zu einer Verminderung der Raynaud-Attacken unter
+der Therapie. Auch verbessert sich die subjektiv eingeschätzte Raynaud-Stärke bei
+den WL-Patienten. Lediglich in der IRA-Kohorte ist für diesen Parameter eine leichte
+Verschlechterung am 10. Termin fest zu stellen. Obwohl Die IRA-Patienten laut VAS
+im Schnitt keinen subjektiven Nutzen verspürten, zeigt sich bei der Auswertung der
+RCS-Daten für die Frequenz der Raynaud-Anfälle eine
+
+Verbesserung des
+
+Mittelwertes von anfänglich 4,5 ± 2,9 auf zunächst 3,1 ± 1,2 bei der 6. Sitzung und
+4,1 ± 2,6 am Tag der letzten Behandlung. Das entspricht einer Verbesserung um
+31,1% beziehungsweise 8,9% gegenüber dem Anfangswert.
+Auch bei den Patienten der Wärmeliege vermindert sich die Anfallshäufigkeit unter
+der Therapie und bestätigt damit die Ergebnisse der VAS-Analyse. Von ursprünglich
+1,9 ± 1,3, fiel der Mittelwert im Verlauf zunächst auf 1,5 ± 1,1 beim 2. und auf 1,8 ±
+1,2 beim 3. Monitoring während der Behandlung ab. Der positive Effekt ist hier mit
+21% und 5,3% also weniger stark ausgeprägt als bei der Vergleichskohorte, aber
+dennoch nachweisbar.
+Der positive Einfluss der Therapien zeigt sich in beiden Kohorten besonders deutlich
+bei der 6. Messung. Bis zu diesem Zeitpunkt waren die Behandlungen 2 Mal
+wöchentlich durchgeführt worden, während sie danach nur noch im 14-TageRhythmus stattfanden.
+In
+
+der
+
+12-wöchigen
+
+Nachbeobachtungsphase
+
+sank
+
+die
+
+Raynaud-Frequenz
+
+ausgehend vom letzten Behandlungstag kontinuierlich immer weiter ab. Das gilt für
+beide Kohorten, und so lagen die Mittelwerte mit 2,1 (IRA) und 1,2 (WL) am letzten
+Messtag eindrucksvolle 53,3% (IRA) und 36,8% (WL) unter den Ausgangswerten.
+Ausgehend von den Werten des letzten Behandlungstages, kam es in der
+Nachbeobachtungszeit, ähnlich wie auch bei der Anfallsfrequenz, zu einem stetigen
+Absinken der gefühlten Intensität in beiden Kohorten. So war der Mittelwert für die
+IRA-Gruppe am letzten Messtag im Vergleich zur Ausgangsmessung um 15,6%, in
+der WL-Kohorte sogar um 30,8% gesunken. Wie bereits weiter oben angemerkt,
+scheint sich die jahreszeitliche Änderung der Außentemperatur in den Werten der
+Nachbeobachtungszeit bemerkbar zu machen. Die Ergebnisse der Tabelle 5 sind in
+Abb. 4a, b veranschaulicht.
+
+37
+
+Frequenz (Anfälle/Tag)
+
+Anfallshäufigkeit (Frequenz)
+8.0
+6.0
+
+IRA
+WL
+
+4.0
+2.0
+0.0
+Vor 1. Beh. vor 6. Beh. vor 10. Beh. nach 2 Wo. nach 6 Wo. nach 12 Wo.
+
+Abbildung 4a.
+
+Darstellung der Anfallshäufigkeit (RCS-Frequenz) vor, während und nach
+
+Behandlung mit milder Ganzkörperhyperthermie. Die gezeigten Daten repräsentieren den
+Mittelwert für beide Kohorten zu den festgelegten Messzeitpunkten.
+
+Anfallsstärke (Intensität)
+5.0
+
+Intensität
+
+4.0
+3.0
+
+IRA
+WL
+
+2.0
+1.0
+0.0
+Vor 1. Beh. vor 6. Beh. vor 10. Beh. nach 2 Wo. nach 6 Wo. nach 12 Wo.
+
+Abbildung 4b. Darstellung der Anfallsstärke (RCS-Intensität) in einheitslosen Größen von 0 - 5
+vor, während und nach Behandlung mit milder Ganzkörperhyperthermie. Die gezeigten Daten
+repräsentieren den Mittelwert für beide Kohorten zu den festgelegten Messzeitpunkten.
+38
+
+Bezüglich der subjektiv empfundenen Anfallsstärke unter der jeweiligen Therapie
+stellten lediglich die Patienten der Wärmeliege eine leichte Verbesserung fest. Lag
+der Mittelwert zu Beginn bei 2,6 ± 0,8, so sank er bis zur letzten Behandlung auf 2,4
+± 0,9 ab. Das entspricht einer Verminderung um 7,7%. Anders verhielt es sich bei
+den IRA-Patienten. Obgleich die Anfallshäufigkeit gesunken war, wurde die
+Anfallsstärke
+
+während
+
+der
+
+Behandlungszeit
+
+als
+
+intensiver
+
+empfunden.
+
+So
+
+verschlechterte sich der Mittelwert von ursprünglich 3,1 ± 1,2 auf 4,1 ± 2,6 am letzten
+Behandlungstag, was eine Verschlechterung um 32,25% bedeutet.
+
+4
+4.1
+
+Diskussion
+Die Therapien des Raynaud- Phänomens bei systemischer Sklerodermie
+mittels milder Ganzkörperhyperthermie im Vergleich
+
+Die Auswertung der Pilotstudie hatte darauf hingewiesen, dass eine Infrarot- A
+Strahlung vermittelte serielle milde Ganzkörperhyperthermie die Ausprägung des
+Raynaud-Phänomens nachhaltig mildert. Sowohl die -Werte für die akrale
+Wiedererwärmung als auch die Ergebnisse der Patientenbefragung mit Hilfe der
+Visuellen Analog-Skala waren unter der Therapie stetig gesunken. Die jeweiligen
+Verbesserungen
+
+waren
+
+auch
+
+noch
+
+im
+
+Verlauf
+
+der
+
+sechswöchigen
+
+Nachbeobachtungsphase erkennbar (Foerster, Wittstock et al. 2006).
+Die vorliegende Studie kann diese Ergebnisse nur bedingt bestätigen. Doch auch
+hier weisen zwei voneinander unabhängige Studienendpunkte darauf hin, dass die
+milde Ganzkörperhyperthermie positive Effekte im Rahmen beider angewandter
+Therapieformen aufweist. In beiden Kohorten verringerte sich demnach die
+Zeitspanne bis zur 63%-igen Erwärmung des Fingers infolge des einminütigen
+Eisbades. Die Verbesserung der -Werte war deutlich und bei der WärmeliegeKohorte fast doppelt so stark ausgeprägt. So ist eine Verbesserung von 8,33% für
+die IRA-Patienten und 17,33% für die WL-Gruppe zu verzeichnen. Jedoch konnte bei
+den IRA-Patienten ein kontinuierlicher Anstieg der AWE-Zeit verzeichnet werden,
+was für die Wärmeliege-Patienten nicht zutreffend ist.
+Für die IRA-Kohorte zeigte der Mittelwert des -Wertes 2 Wochen nach der letzten
+Behandlung einen leichten Anstieg, während er 6 Wochen nach Behandlungsende
+auf einen Mittelwert weit unterhalb des Ausgangswertes sank. Auch beim letzten
+39
+
+Termin, also 12 Wochen nach der 10. IRA-Sitzung, lag dieser Parameter niedriger
+als alle Werte während des Therapiezeitraumes. Die Auswertung der Kontrollgruppe
+liefert ein ganz ähnliches Ergebnis.
+Die Auswertung der Nachbeobachtungsphase gestaltet sich schwierig. Hier kam es
+innerhalb kürzester Zeit zu einem Anstieg der Umgebungstemperatur um über 20 °C.
+Ein Zusammenhang zwischen den Ergebnissen der AWE-Werte und der
+Außentemperatur ist zu erwägen. Eine Häufung der Raynaud-Anfälle in den
+Wintermonaten ist beschrieben wurden (Watson et al. 1999). In der vorliegenden
+Untersuchung zeigten die Änderungen der τ- Werte anscheinend eine Abhängigkeit
+von der Umgebungstemperatur. Auch könnte man ein reaktives Verhalten des
+menschlichen Körpers auf den Abbruch der extern zugeführten Wärme mit
+entsprechenden gegenregulatorischen, Eigenwärme erzeugenden Maßnahmen als
+Ursache für das beobachtete Phänomen in Betracht ziehen.
+Für die Basaltemperaturen ist ein unterschiedliches Verhalten beider Kohorten
+deutlich erkennbar. Für die IRA-Patienten ist diesbezüglich ein Benefit für die
+gesamte Behandlungszeit zu verzeichnen. Selbst über den Behandlungszeitraum
+hinaus, blieben die Werte bis zum letzten Beobachtungstermin über dem Niveau des
+Ausgangswertes. Bei der Wärmeliege-Kohorte hingegen ergibt sich ein vollkommen
+anderes Bild. Diese Patienten scheinen bezüglich der Basaltemperatur keinerlei
+Vorteil aus der Behandlung gezogen zu haben.
+Unter der Haslauer Softpack-Therapie sanken, ähnlich wie bei der akralen
+Wiedererwärmung, auch die Werte für die Visuelle Analog-Skala ab, diesmal jedoch
+kontinuierlich. Der Mittelwert der Visuellen Analog-Skala sank hier im Verlauf der
+Behandlungsphase um 41,6%. Für den τ-Wert lag die Verbesserung bei 17,3%, so
+dass der subjektive Nutzen hier klar zu überwiegen scheint. Ganz anders stellen sich
+die Werte jedoch bei der IRA-Gruppe dar. Am letzten Tag der Behandlung war hier
+eine Verschlechterung des Wertes um 6,3% zu verzeichnen und steht somit im
+Widerspruch zum τ-Wert der akralen Wiedererwärmung, der immerhin einen Benefit
+von 8,6% erbrachte.
+Im Rahmen der Nachbeobachtung ergab sich für die Auswertung der VAS in der WLKohorte bis zum letzten Termin ein Absinken des Mittelwertes auf 50% unter den
+Ausgangswert. Ein verbessertes Allgemeinbefinden aufgrund des einsetzenden
+40
+
+Sommers ist auch hier eine mögliche, jedoch auf Grundlage der verfügbaren Daten
+nicht zu beweisende, Erklärung für diese Ergebnisse. Für die IRA-Kohorte kam es im
+Laufe der Nachbeobachtung kaum zu Veränderungen. So scheinen die Patienten
+dieser Gruppe bezüglich der VAS keinerlei subjektiven Nutzen aus der Behandlung
+gezogen zu haben. Interessanterweise ist hier auch kein Zusammenhang mit den
+steigenden
+
+Außentemperaturen
+
+und
+
+einem
+
+dadurch
+
+eventuell
+
+einsetzenden
+
+verbesserten Wohlbefinden abzuleiten.
+Bezogen auf diesen subjektiven Parameter zur Einschätzung der Raynaud-Aktivität,
+waren die WL-Patienten also klare Nutznießer, während die IRA-Patienten subjektiv
+keine Verbesserung während der Therapiezeit verspürten.
+Die Auswertung des Raynaud Condition Score (RCS) ergab in beiden Kohorten eine
+nahezu stetige Verbesserung der Anfallsfrequenz. Obwohl Die IRA-Patienten laut
+VAS im Schnitt keinen subjektiven Nutzen verspürten, zeigt sich bei der Auswertung
+der RCS-Daten für die Frequenz der Raynaud-Anfälle eine Verbesserung des
+Mittelwertes um 8,9% gegenüber dem Anfangswert. Auch bei den Patienten der
+Wärmeliege vermindert sich die Anfallshäufigkeit unter der Therapie und bestätigt
+damit die Ergebnisse der VAS-Analyse. Der positive Effekt ist hier mit einer
+Verminderung der Attacken um 5,3% aber weniger stark ausgeprägt als bei der
+Vergleichskohorte.
+In
+
+der
+
+12-wöchigen
+
+Nachbeobachtungsphase
+
+sank
+
+die
+
+Raynaud-Frequenz
+
+ausgehend vom letzten Behandlungstag kontinuierlich immer weiter ab. Das gilt für
+beide Kohorten, die Mittelwerte lagen jeweils weit unter den Ausgangswerten.
+Bezüglich der subjektiv empfundenen Anfallsstärke unter der jeweiligen Therapie
+stellten lediglich die Patienten der Wärmeliege eine leichte Verbesserung fest. Am
+letzten Tag der Behandlung ist eine Verminderung um 7,7% zu verzeichnen. Anders
+verhielt es sich bei den IRA-Patienten. Obgleich die Anfallshäufigkeit gesunken war,
+wurde die Anfallsstärke während der Behandlungszeit als intensiver empfunden, was
+eine Verschlechterung des Wertes um 6,5% bedeutet.
+Ausgehend von den Werten des letzten Behandlungstages, kam es in der
+Nachbeobachtungszeit, ähnlich wie auch bei der Anfallsfrequenz, zu einem stetigen
+Absinken der gefühlten Intensität in beiden Kohorten. So war der Mittelwert für die
+41
+
+IRA-Gruppe am letzten Messtag im Vergleich zur Ausgangsmessung um 15,6%, in
+der WL-Kohorte sogar um 30,8% gesunken. Wie bereits weiter oben angemerkt,
+scheint sich die jahreszeitliche Änderung der Außentemperatur in den Werten der
+Nachbeobachtungszeit bemerkbar zu machen.
+Somit ist für die Haslauer Softpackliege ein Zusammenhang zwischen den
+Parametern τ-Wert, VAS, Anfallshäufigkeit- und Stärke (RCS) herzustellen. Hier kam
+es jeweils zu einem unterschiedlich stark ausgeprägten positiven Einfluss der
+Therapie
+
+auf
+
+das
+
+objektive
+
+und
+
+subjektive
+
+Empfinden.
+
+Lediglich
+
+für
+
+die
+
+Basaltemperaturen ist kein Nutzen erkennbar. Unter der Therapie war stattdessen
+eine ständige Verschlechterung der Werte erkennbar. Eine Begründung dafür konnte
+bislang nicht gefunden werden. Deutlich wird also, dass die Selbsteinschätzung
+durch die WL-Patienten wesentlich positiver ausfällt, als es durch die objektiven
+Werte zu belegen wäre. Neben den bereits beschriebenen Effekten der milden
+Ganzkörperhyperthermie auf die Symptomatik der Systemischen Sklerodermie kann
+man hier sicher auch von einem positiven psychischen Effekt für die Patienten
+ausgehen. Ein solcher wurde bereits von den Gebrüdern Haslauer, den Erfindern der
+Liege,
+
+beschrieben
+
+und
+
+aus
+
+den
+
+Bereichen
+
+Wellness,
+
+Balneologie
+
+und
+
+Physiotherapie mehrfach bestätigt. Gründe dafür dürften unter anderem die
+schwerelose, Gelenk schonende und somit schmerzarme Lagerung, die im
+Allgemeinen als angenehm, nicht zu belastend empfundene Wärme und die durch
+das Absenken des Wannenkörpers vermittelte Geborgenheit sein. Mehrere Patienten
+sprachen wohlwollend von einer „inneren Wärme“, die sie teilweise noch mehrere
+Tage nach einer Behandlung verspürten. Weiterhin waren die Nebenwirkungen,
+sofern zu Beginn der Therapie vorhanden, nur sehr milde ausgeprägt und spätestens
+nach der 2. Anwendung wieder verschwunden. Zu bedenken ist auch das Umfeld, da
+die Liege in der physiotherapeutischen Abteilung der Charite aufgestellt ist und somit
+nicht zwangsläufig ein „Krankenhaus-Gefühl“ beim Patienten entstehen lässt.
+Ganz andere Beobachtungen machten wir dagegen bei den Patienten der IRAKohorte. Ihr Leidensweg war durchschnittlich länger, ihre Krankheit von vorn herein
+stärker ausgeprägt. Die subjektiv bewerteten Parameter VAS und Anfallsintensität
+verbesserten sich für diese Gruppe unter der Therapie im Schnitt nicht, sondern
+zeigten stattdessen gar eine nicht zu vernachlässigende Verschlechterung an. Die
+Anfallsfrequenz, sowie die objektiven Parameter τ-Wert und Basaltemperatur deuten
+42
+
+jedoch auf einen positiven Effekt im Rahmen der Behandlung und bestätigen so, mit
+Einschränkungen, die Ergebnisse der Pilotstudie.
+4.2
+
+Vergleich der objektiven Parameter mit anderen Studien
+
+Es gestaltet sich schwierig, einen quantitativen Vergleich des Einflusses der durch
+uns vorgestellten Therapieoptionen mit anderen Behandlungsansätzen bezüglich des
+Raynaud-Phänomens anzustellen. Die Messung der akralen Wiedererwärmung gilt
+als
+
+attraktive
+
+Messmethode
+
+zur
+
+objektiven
+
+Erfassung
+
+der
+
+Schwere
+
+von
+
+Vasospasmen. Sie fand bereits in zahlreichen Studien Verwendung. Doch ist eine
+Vergleichbarkeit der Ergebnisse unter der verschiedenartigen Ermittlung und
+Auswertung der Daten kaum möglich. Beispielsweise wurde die photoelektrische
+Plethysmographie zur Erfassung des Therapieerfolges nach der intravenösen
+Applikation des Antioxidans N- Acetylcyctein genutzt (Sambo et al. 2001). Die
+Vorgehensweise der Arbeitsgruppen, die den Einfluss von Prostacyclin (Kingma et
+al. 1995; Vayssairat 1996), Sildenafil (Rosenkranz et al. 2003; Gore, Silver 2005)
+oder Cyclophosphamid (Casale et al. 2004) erforschten, unterscheidet sich ebenfalls
+von der des Duosensors.
+In einigen Studien kam es aber schon zur Nutzung der infrarot-gestützten
+Thermographie zur Beurteilung des Raynaud-Phänomens. Der Einfluss der
+Anwendung von selektiven alpha- (2c)- Adrenorezeptorantagonisten (Wise et al.
+2004), einer seriellen Low- Level- Lasertherapie (al- Awami et al. 2001; Hirschl et al.
+2002) sowie einer Behandlung mit dem Angiotensin- II- Rezeptorantagonisten
+Losartan (Dziadzio et al. 1999) wurden auf diese Art erfasst. Auch hier erweist sich
+der Vergleich als kompliziert, da jeweils die Zeiten bis zur vollständigen
+Wiedererwärmung eines Fingers protokolliert wurden und der Therapieerfolg nicht in
+prozentualen Verbesserungen des Ausgangswertes dargestellt war, sondern
+lediglich Verlaufswerte im Vergleich zur jeweiligen Kontrollgruppe angegeben waren.
+Auch die Durchführung des Kältereizes gestaltete sich verschiedenartig. So wurde
+der behandschuhte Finger für drei Minuten in ein Eisbad gesteckt (Sambo et al.
+2001), beziehungsweise die gesamte Hand für 15 Minuten in eine Kältekammer
+gelegt (Wise et al. 2004).
+Der intravenöse Einsatz von Prostazyklin und seinen Derivaten erscheint nützlich, ist
+aber aufgrund von unerwünschten Nebenwirkungen nicht immer zufriedenstellend
+43
+
+(Wigley et al. 1994). Außerdem waren die Ergebnisse von Prostazyklin gegenüber
+Placebo in zwei weiteren Studien nicht optimal. Hier kam
+
+es bei der akralen
+
+Wiedererwärmung zu keinen merklichen Einflüssen unter der Therapie (Vayssairat
+1996) oder ein Langzeiteffekt blieb aus (Kingma et al. 1995). Auch die Behandlung
+mit Losartan brachte keine Effekte bezüglich der Temperaturkurve nach einem
+Kältereiz (Dziadzio et al. 1999). Die Arbeitsgruppen der Low- Level- Laser- Therapie
+(Hirschl et al. 2002) mussten ebenfalls über eine ausbleibende Langzeitwirkung
+berichten. Die milde Infrarot- A- Hyperthermie zeigte Verbesserungen der - Werte
+bei allen untersuchten Patienten, deren Nachhaltigkeit auch noch sechs Wochen im
+Anschluss an die Behandlung erkennbar war (Foerster, Wittstock et al. 2006). Unter
+intravenösem Therapieregime von N- Acetylcystein war dies nur bei maximal 71,4%
+der Studienteilnehmer der Fall (Sambo et al. 2001). Die Ergebnisse des Sildenafil für
+den
+
+Einsatz
+
+beim
+
+Raynaud-Symptom
+
+beruhen
+
+momentan
+
+noch
+
+auf
+
+Fallbeschreibungen (Rosenkranz et al. 2003) oder auf Untersuchungen kleiner
+Gruppen von beispielsweise 10 Personen (Gore, Silver 2005). Daher sind für einen
+adäquaten Vergleich mit anderen Therapieansätzen sicherlich weitere Studien auf
+diesem Gebiet notwendig. Da die Wiedererwärmungsprofile in den beiden zuletzt
+genannten Untersuchungen zum Einen mittels Laser- Doppler- Flussmessung und
+zum Anderen durch Plethysmographie ermittelt wurden, ist ein quantitativer Vergleich
+mit unseren Ergebnissen abermals schwer anzustellen.
+4.3
+
+Vergleich der subjektiven Parameter mit anderen Studien
+
+In allen oben aufgeführten Studien verbesserte sich das sich das subjektive
+Empfinden der Patienten gegenüber der Intensität des Raynaud-Phänomens. Zum
+Einsatz kamen dabei die Erfassung von Häufigkeit und Dauer der Symptomatik
+sowie die jeweilige Dokumentation des von uns ebenfalls genutzten Raynaud
+Condition Scores. Außerdem kam eine Visuelle Analog-Skala zur Anwendung, wie
+sie auch bei uns benutzt wurde, um Einschränkungen des täglichen Lebens bei
+systemischer Sklerodermie erfassen zu können. Untersuchungen über die
+Verlässlichkeit von Messparametern, die die Krankheitsaktivität und den funktionellen
+Status
+
+von
+
+Patienten
+
+mit
+
+systemischer
+
+Sklerose
+
+und
+
+Raynaud-Phänomen
+
+beschreiben, machten deutlich, dass ein starker Zusammenhang zwischen der
+Ermittlung des Raynaud-Condition-Scores sowie der Auswertung der Visuellen
+Analog-Skala besteht (Merkel et al. 2002). Somit ist ein Vergleich der bisherigen
+44
+
+Studienlage mit den Resultaten der von uns vorgestellten Auswirkungen der InfrarotA- Hyperthermie beziehungsweise der Konvektionshyperthermie möglich.
+Der Angiotensin-II-Rezeptorantagonist Losartan konnte eine Verbesserung von 49%
+erzielen (Dziadzio et al. 1999). Im Durchschnitt lag die Reduktion der subjektiv
+wahrgenommenen Beeinträchtigung je nach Arbeitsgruppe zwischen 30% und 40%
+(Kingma et al. 1995; Vayssairat 1996; Sambo et al. 2001; Thompson et al. 2001;
+Hirschl et al. 2002; Wise et al. 2004; Gore, Silver 2005). Durch serielle milde
+Ganzkörperhyperthermie wurde eine Reduktion um 29,1% erzielt (Foerster, Wittstock
+et.al. 2006). Wir konnten diesen Wert in der vorliegenden Studie nicht bestätigen. Die
+Ergebnisse der Hasslauer Wärmeliege geben jedoch Grund zu der Annahme, dass
+sie
+
+in
+
+Zukunft
+
+im
+
+Rahmen
+
+eines
+
+multimodalen
+
+Therapieansatzes
+
+bei
+
+Sklerodermiepatienten Anwendung finden könnte. Mit einer Verbesserung der VASWerte von eindrucksvollen 41,7% steht die Liege den Werten der oben erwähnten
+Studien in nichts nach. Jedoch muss an dieser Stelle auf eine beachtliche Streubreite
+hingewiesen werden, so dass man nicht von einem statistisch signifikanten Ergebnis
+ausgehen kann. Außerdem macht die subjektive Einschätzung des Patienten dieses
+Messverfahren sehr leicht anfällig für Placeboeffekte, so dass die beobachteten
+Erfolge in keinem Falle absolut gesehen werden dürfen und somit abgeschwächt
+werden. Das gilt jedoch auch für alle anderen Studien.
+Eine Analyse über die Wirkung von Kalzium-Kanal-Blockern auf die Schwere des
+Raynaud-Phänomens erbrachte die Erkenntnis, dass eine Verbesserung des
+Visuellen Analog-Skalenwertes um mehr als 30% darauf hinweist, nicht nur auf
+Placeboeffekten zu beruhen (Thompson et al. 2001). Dieser Sachverhalt und die
+Höhe der Reduktion der wahrgenommenen Krankheitsintensität von 41,7% in der
+gesamten WL-Kohorte, lassen vermuten, dass die Änderungen der Visuellen AnalogSkala nicht komplett auf Placeboeffekten beruhen.
+An dieser Stelle lässt sich nicht klären, warum die Ergebnisse unserer Studie,
+bezogen auf die subjektiven Parameter bei der IRA-Therapie, kaum mit den
+Erkenntnissen der Pilotstudie in Einklang zu bringen sind. Man könnte vermuten,
+dass die Patienten ungünstig randomisiert wurden, so dass aufgrund der langen
+Krankheitsgeschichten und der bereits weit vorangeschrittenen Erkrankungen in
+dieser Kohorte, subjektiv nach wie vor die beträchtlichen Einschränkungen im
+
+45
+
+Vordergrund blieben und eventuelle Verbesserungen relativ zu gering ausfielen, um
+von diesem Patientengut anerkannt zu werden.
+4.4
+
+Äußere Einflüsse
+
+Die Auswertung der Nachbeobachtungsphase warf einige Fragen auf. Da es in
+diesem Zeitraum zu einem Anstieg der Umgebungstemperatur um über 20 °C kam.
+Ein möglicher Zusammenhang zwischen den oben aufgeführten Ergebnissen und
+der Außentemperatur sowie der Sonneneinstrahlung soll an dieser Stelle diskutiert
+werden.
+Die Wärmetherapie (Hyperthermiebehandlung) beruht auf der uralten Erfahrung,
+dass Fieber die Selbstheilungskräfte aktiviert. Durch die durchblutungsfördernde
+Wirkung erfolgt eine Steigerung und Verbesserung des Stoffwechsels, ein
+verbesserter Abtransport von Schadstoffen und eine bessere Versorgung von Zellen
+und
+
+Geweben.
+
+Die
+
+Wärmetherapie
+
+ist
+
+nicht
+
+nur
+
+muskelentspannend
+
+und
+
+schmerzstillend, sondern demaskiert auch chronische Entzündungsprozesse, die
+dadurch erkennbar und behandelbar werden. Außerdem werden immunologische
+Mechanismen angeregt und die endogene Cortison- und Katecholaminausschüttung
+stimuliert. Diese Effekte werden im Rahmen der milden Hyperthermie genutzt, die in
+unserer Studie zum Einsatz kam. Eine Häufung der Raynaud-Anfälle in den
+Wintermonaten ist beschrieben wurden (Watson et al. 1999). In gleicher Weise ist
+also von einer Verbesserung der Symptomatik in den warmen Monaten auszugehen.
+Unsere Studie erstreckte sich über einen Zeitraum von Oktober 2005 bis August
+2006. Während der Winter 2005/2006 mit Tiefsttemperaturen von -10,2 °C am
+24.01.2006 sehr kalt war, kam es ab Februar zu einem Wetterumschwung. Bereits
+am 01.02.2006 wurden für Berlin 10,4 °C als Höchsttemperatur gemessen. Das
+entspricht einer Temperaturdifferenz von über 20 °C.In den Folgemonaten wurde es
+immer wärmer, bis die Höchsttemperatur am 26.07.2006 bei knapp 36 °C lag. Für
+zwei Drittel unserer Studienteilnehmer fiel die Nachbeobachtungszeit in die Monate
+März, April und Mai. Mit Höchsttemperaturen von 16 °C, 22,9 °C beziehungsweise
+25,7 °C waren diese Monate vergleichsweise mild. Die Sonne schien im Monat Mai
+insgesamt 137,03 Stunden, im Januar waren es nur 74,58 Stunden.
+In der vorliegenden Untersuchung zeigten die Änderungen der τ- Werte anscheinend
+eine Abhängigkeit von der Umgebungstemperatur. Gleiches gilt auch für die
+46
+
+subjektiven Parameter beider Kohorten. Eine Ausnahme bilden hier lediglich die
+Ergebnisse für die Visuelle Analog-Skala in der IRA-Kohorte.
+Neben dem Einfluss von Wärme auf das Krankheitsgeschehen bei Patienten mit
+systemischer Sklerodermie, ist auch eine Einwirkung der Sonnenbestrahlung auf das
+Befinden dieser Patienten möglich. Abgesehen von den allgemeinen Erkenntnissen
+zur stimmungsaufhellenden Wirkung von Licht, eingesetzt zum Beispiel bei
+depressiven Patienten im Rahmen von Lichttherapien, ist auch an eine Wirkung
+durch die UV-Strahlung der Sonne denkbar.
+Ultraviolettstrahlung (UV) ist elektromagnetische Strahlung mit einer Wellenlänge
+oberhalb des sichtbaren Lichtes. Sie wird vom menschlichen Auge nicht mehr
+wahrgenommen. Ihre Wellenlänge reicht von 1 nm bis 380 nm. Man unterscheidet
+zwischen UV-A (400-320 nm), UV-B (320-280 nm) und UV-C (280-100 nm). UVStrahlung kommt in der Sonne vor. Wegen der Absorption in der Atmosphäre dringt
+jedoch vor allen Dingen UV-A und wenig UV-B-Strahlung mit einer Wellenlänge
+oberhalb 300nm bis zur Erdoberfläche vor.
+Bei der Behandlung der Sklerodermie werden bereits zwei seit den 1990er Jahren
+etablierte Behandlungsmethoden der Dermatosklerose mit UV-Strahlung diskutiert.
+Zum einen besteht die Möglichkeit der UVA-1-Phototherapie, zum anderen kann die
+Bade-PUVA-Photochemotherapie zum Einsatz kommen. Die UVA-1-Phototherapie
+kann in unterschiedlichen Dosisstärken angewandt werden. Die Bade-PUVAPhotochemotherapie erfolgt mit Auftragung eines Photosensibilisators mittels
+Solvens und anschließender UVA-1-Bestrahlung.
+Auch wenn die vollständige Ausheilung der systemischen Sklerodermie nur selten
+gelingt, soll durch diese Therapiemöglichkeiten den Patienten in erheblichem Maße
+geholfen und fast immer eine komplette Verhärtung des Hautorgans verhindert
+werden können (Hannig 2006).
+Eine aktuelle Studie aus dem Jahr 2006 belegt eindrucksvoll die Erfolge im Rahmen
+der UV-A-Therapien. An ihr nahmen 28 Patienten mit systemischer Sklerodermie teil.
+Die subjektiven Beurteilungen der low-dose UVA-1-Phototherapie und Bade- PUVAPhotochemotherapie und deren Kombination wurden durch die Patienten zu über
+80% positiv bewertet und es konnte kein signifikanter Unterschied in der Beurteilung
+47
+
+der beiden Behandlungen festgestellt werden. Bei 80% der Patienten konnte sogar
+eine Abnahme der absoluten Anreicherung der Haut mit einem Kontrastmittel nach
+MRT-Messung nachgewiesen werden (Hannig 2006).
+Aufgrund der aktuellen Studienlage ist schlussendlich davon auszugehen, dass die
+Ergebnisse unserer Studie nicht unwesentlich von der Umgebungstemperatur sowie
+der Sonnenstrahlung beeinflusst sein könnten. Diese äußeren Einflüsse abzustellen,
+ist im Rahmen einer Studie nicht realisierbar, da aber aller Patienten gleichermaßen
+davon betroffen sind, scheint es trotzdem möglich, allgemeingültige Aussage über
+die Therapien anzustellen. Allerdings wird vor diesem Hintergrund die extra lang
+gewählte Dauer der Nachbeobachtung von 12 Wochen fragwürdig. Ursprünglich
+hatten damit jedoch placeboinduzierte, falsch-positive Effekte der Visuellen AnalogSkalen aufgedeckt werden und außerdem die Nachhaltigkeit der beobachteten
+Wirkungen untersucht werden sollen.
+4.5
+
+Limitationen der Studie
+
+Diese Studie stößt auf Grund einiger Faktoren an Grenzen. So wurden
+ausschließlich Patienten mit einem sekundären Raynaud-Phänomen behandelt.
+Daher ist es wegen der unterschiedlichen Pathogenese und Morphologie nicht
+möglich, die hier dargestellten Erkenntnisse auf das primäre Raynaud-Phänomen zu
+übertragen.
+Durch das Fehlen einer Placebo-Kontrolle ist eine quantitative Interpretation der
+Ergebnisse für die Visuelle Analog-Skala schwierig, da sie für subjektive Einflüsse
+empfänglich ist. Die zwölfwöchige Nachbeobachtungsphase sollte über mögliche, für
+Placeboeffekte typische, konstante, falsch positive Nachhangeffekte Auskunft geben.
+Eine genaue Aussage über deren Ausmaß ist allerdings nicht möglich. Da die
+objektiven Resultate zum Teil sehr klar von den subjektiven abweichen, sind
+Placebowirkungen nicht auszuschließen.
+In der zugrunde liegenden Pilotstudie zur Wirkung der milden Infrarot-AHyperthermie bei systemischer Sklerodermie stellte sich die Frage, ob die
+beobachteten Veränderungen im Speziellen auf die Einwirkung von Infrarot- AHyperthermie zurückzuführen sind. Unsere zweiarmig angelegte Studie sollte mit
+Hilfe einer Kontrollgruppe Antwort darauf geben. Jedoch sind die Ergebnisse nicht
+48
+
+signifikant und ihre Streubreiten beachtlich. Ein Grund dafür kann die begrenzte Zahl
+an Patienten sein, die an diesem insgesamt recht seltenen Krankheitsbild leiden. So
+lassen sich noch immer keine eindeutigen Aussagen bezüglich der speziellen IRAWirkung treffen.
+Allerdings lässt die Prävalenz von 1,4 Betroffenen auf 100000 Einwohner (RenzPolster et al. 2004) die durch uns untersuchte Anzahl von 56 Patienten für den
+Großraum Berlin nur wenig Spielraum hin zu einer größeren Kohorte. Die
+Ergebnistendenzen beider Therapien bezüglich der subjektiven und objektiven
+Kontrollparameter
+
+lassen
+
+jedoch
+
+auf
+
+breiter
+
+angelegte,
+
+möglicherweise
+
+multizentrische, randomisierte Folgestudien hoffen, um diese noch offene Frage zu
+klären. Hierbei könnten auch noch weitere Parameter analysiert werden, die das
+Krankheitsbild der systemischen Sklerose eingehender beschreiben. Neben dem
+Raynaud-Phänomen zählen dazu: die Beurteilung der Hautdicke mittels eines
+validierten Hautscores (Clements et al. 1993), das Ausmaß der Gelenkbeteiligungen
+mit Hilfe eines Athralgie-Scores (Prevoo et al. 1995) und die Erfassung der
+Beeinträchtigung des täglichen Leben durch einen speziell für die systemische
+Sklerose entwickelten Fragebogen (Steen, Medsger 1997).
+Weiterhin können Schwierigkeiten in der Beurteilung der Ergebnisse daraus
+resultieren, dass die Erkrankung per se einen progredienten Verlauf hat. Daher
+können auch stabile Befunde einen Therapieerfolg widerspiegeln. Zudem war es
+nicht bei allen Patienten möglich, die Hyperthermie-Therapie als Monotherapie
+durchzuführen, da bei nachgewiesener Organmanifestation ein vollständiger Verzicht
+auf eine Systemtherapie ethisch nicht vertretbar gewesen wäre. Gemäß den
+Ausschlusskriterien bestand die Systemtherapie bei den entsprechenden Patienten
+seit mindestens 6 Monaten und wurde für die Zeit der Studie nicht verändert, so dass
+kein wesentlicher Einfluss auf unsere Therapie daraus zu erwarten war. Ein Teil der
+subjektiv erfassten Behandlungserfolge kann auch durch psychische Effekte bedingt
+sein, da die oftmals leicht depressiv verstimmten Patienten durch die Teilnahme an
+dieser Studie eine intensive Betreuung und Zuwendung erfuhren. So lassen sich
+auch Diskrepanzen zwischen den subjektiven Beurteilungen und objektiv messbaren
+Veränderungen erklären.
+
+49
+
+Probleme, die sich bei der Beurteilung der Resultate im Zusammenhang mit äußeren
+Einflüssen wie Umgebungstemperatur und Sonneneinstrahlung ergeben, sollen hier
+nicht unerwähnt bleiben. Sie wurden im Kapitel 4.4 bereits ausführlich diskutiert.
+
+5
+
+Zusammenfassung
+
+Die systemische Sklerodermie ist eine seltene Systemerkrankung mit einer mehr
+oder weniger stark ausgeprägten Fibrosierung der Haut, der Gefäße und der inneren
+Organe, verursacht durch eine Überproduktion von Kollagen. Neben möglichen
+zahlreichen
+
+Organmanifestationen,
+
+ist
+
+die
+
+häufigste
+
+Begleiterscheinung
+
+das
+
+ätiologisch unklare sog. Raynaud-Phänomen. Dieses ist derzeit keiner suffizienten
+kausalen Therapie zugänglich. Eine dieser Arbeit zu Grunde liegende Pilotstudie aus
+dem Jahr 2006 deutete darauf hin, dass eine durch Infrarot-A Strahlung modulierte,
+serielle, milde Ganzkörperhyperthermie die Ausprägung des Raynaud-Phänomens
+nachhaltig mildert. Ziel der vorliegenden Arbeit war es, die Ergebnisse der Pilotstudie
+hinsichtlich des Raynaud-Phänomens in einer kontrollierten Studie zu überprüfen.
+Weiterhin sollte die aktuelle Studie Rückschlüsse auf die Vergleichbarkeit von
+Strahlungshyperthermie versus Konvektionshyperthermie in Bezug auf das RaynaudPhänomen ermöglichen. Hierzu wurden eine Infrarot-A-Liege sowie eine Haslauer
+Wärmeliege
+
+verwendet.
+
+Veränderungen
+
+objektiver
+
+und
+
+subjektiver
+
+Aktivitätsparameter des Raynaud-Phänomens bei Sklerodermiepatienten unter
+Therapie mit milder systemischer Hyperthermie sollten festgehalten werden.
+Zur Bewertung der Raynaud-Symptomatik stand dafür ein gegenüber dem Prototyp
+der Pilotstudie technisch verbessertes Gerät zur Verfügung. Darüber hinaus führten
+die Patienten ein Tagebuch, in dem Häufigkeit und Schwere der Raynaud-Attacken
+dokumentiert werden sollten. Mit Hilfe einer visuellen Analog-Skala wurde außerdem
+das subjektive Befinden der Patienten zu verschiedenen Zeitpunkten erfasst.
+56 Patienten wurden über die autoimmunologischen Spezialsprechstunden der
+Institute für Dermatologie und Rheumatologie der Charité Berlin rekrutiert. Eine
+manifeste systemische Sklerodermie mit gleichzeitig seit mindestens einem Monat
+regelmäßig auftretendem Raynaud-Phänomen stellte das Einschlusskriterium dar.
+Für die Haslauer Softpackliege war ein Zusammenhang zwischen den Parametern τWert, VAS, Anfallshäufigkeit- und Stärke (RCS) herzustellen. Es kam jeweils zu
+50
+
+einem unterschiedlich stark ausgeprägten positiven Einfluss der Therapie auf das
+objektive und subjektive Empfinden. Deutlich wurde, dass die Selbsteinschätzung
+durch die WL-Patienten wesentlich positiver ausfiel, als es durch die objektiven
+Werte hätte belegt werden können. Ganz andere Beobachtungen wurden dagegen
+bei den Patienten der IRA-Kohorte gemacht. Die subjektiv bewerteten Parameter
+VAS und Anfallsintensität verbesserten sich für diese Gruppe unter der Therapie im
+Schnitt nicht, sondern zeigten stattdessen eine Verschlechterung an. Die
+Anfallsfrequenz, sowie die objektiven Parameter τ-Wert und Basaltemperatur deuten
+hingegen auf einen positiven Effekt im Rahmen der Behandlung und bestätigen so,
+mit starken Einschränkungen, die Ergebnisse der Pilotstudie.
+Der Rückgang der Beschwerden im Lauf der 12-wöchigen Nachbeobachtungsphase
+in beiden Kohorten, ließ einen Zusammenhang mit äußeren Einflüssen vermuten.
+Wettereinflüsse, wie höhere Außentemperaturen und vermehrte Sonneneinstrahlung
+in dieser Zeit könnten hier eine Rolle spielen.
+Im
+
+Rahmen
+
+dieser
+
+Studie
+
+konnte
+
+gezeigt
+
+werden,
+
+dass
+
+die
+
+milde
+
+Konvektionshyperthermie in Zukunft ebenfalls eine Therapieoption zur Behandlung
+des Raynaud-Phänomens bei Systemischer Sklerodermie sein könnte.
+
+51
+
+6
+
+Literaturverzeichnis
+
+Al- Awami M, Schillinger M, Geschwandtner ME, et al. Low level laser treatment of primary
+and secondary Raynaud´s phenomenon. Vasa 2001; 30: 281-4.
+Ardenne A v. IRATHERM 1000- Bedienungsanleitung und technische Beschreibung. Von
+Ardenne Institut für Angewandte Medizinische Forschung GmbH. 1999: 2.
+Atanackovic D, Pollok K, Faltz C, et al. Patients with solid tumors treated with hightemperature whole- body- hyperthermia ( WBH) show a redistribution of naive/ memory T
+cells subtypes. Am J Physiol Regul Integr Comp Physiol 2005 Oct 27; Epub ahead of print.
+Baumhoer D, Steinbrück I, Götz W. Haut und Hautanhangsgebilde. In: Baumhoer ( Hrsg.):
+Histologie mit Schemazeichnungen. 1. Auflage, Urban und Fischer, München, Jena, 2000:
+226-7.
+Belch JJF. Raynaud´s phenomenon: ist relevance to scleroderma. Ann Rheum Dis 1991; 50:
+839-45.
+Brown KM, Middaugh SJ, Haythornthwaite JA, et al. The effects of stress, anxiety and
+outdoor temperature on the frequency and severity of Raynaud´s attacks: the Raynaud´s
+Treatment Study. J Behav Med 2001; 24 (2): 137-53.
+Casale R, Generini S, Luppi F, et al. Pulse cyclophosphamide decreases sympathetic
+postganglionic activity, controls alveolitis and normalizes vascular tone dysfunction (
+Raynaud´s phenomenon)nin a case of early systemic sclerosis. Arthritis Rheum 2004; 51:
+665-9.
+Chua C, Diglio C, Siu B, et al. Angiotensin II induces TGF- β 1 production in rat heart
+endothelial cells. Biochem. Biophys. Acta 1994; 1223: 141-7.
+Clements PJ, Lachenbruch PA, Seibold JR, et al. Skin thickness score in systemic sclerosis:
+an assessment of interobserver variability in 3 independent studies. J Rheumatol 1993; 20
+(11): 1892-6.
+Comparison of sustained- release nifedipine and temperature bio- feedback for treatment of
+primary Raynaud´s phenomenon: results from a randomized clinical trial with 1- year followup. Arch Intern Med 2000; 160: 1101-8.
+Crawford DC, Chobanian AV, Brecher P. Angiotensin II induces fibronectin expression
+associated with cardiac fibrosis in the rat. Circ Res 1994; 74: 727-39.
+Dziadzio M, Denton CP, Smith R, et al. Losartan therapy for Raynaud´s phenomenon and
+scleroderma: clinical and biochemical findings in a fifteen- week, randomized, parallel- group,
+controlled trial. Arthritis Rheum 1999; 42: 2646-55.
+Foerster J, Wittstock S, Storch A, et al. Die Bestimmung der akralen Wiedererwärmung zur
+Diagnose des Raynaud- Phänomens bei systemischer Sklerodermie und dessen Dynamik
+unter milder, serieller Infrarot- A- Ganzkörperhyperthermie. Dissertation, Freie Universität
+Berlin 2006.
+Foerster J, Fleischanderl S, Wittstock S, et al. Infrared-Mediated Hyperthermia Is Effective in
+the Treatment of Scleroderma-Associated Raynaud's Phenomenon 2005; Journal of
+Investigative Dermatology (2005) 125, 1313–1316.
+Gore J, Silver R. Oral sildenafil for the treatment of Raynaud´s phenomenon and digital
+ulcers secondary to systemic sclerosis. Ann Rheum Dis 2005; 64 (9): 1387.
+Hannig U. UVA-1-Phototherapie und Bade-PUVA-Chemotherapie zur Behandlung der
+kutanen Sklerose bei zirkumskripter und systemischer Sklerodermie, Dissertation, LudwigMaximilians-Universität München 2006.
+52
+
+Haslauer Wellnesseinrichtungen, Soft-Pack-System 1, Haslauer GmbH Deutschland 2005;
+38-40.
+Hirschl M, Katzenschlager R, Ammer K, et al. Double- blind, randomized, placebo controlled
+low level laser therapy study in patients with primary Raynaud´s phenomenon. Vasa 2002;
+31: 91-4.
+Hochmuth O, Schreiner M, Schuster F. Ein neues Messgerät für die Dermatologie.
+Humboldtspektrum 1996; 1: 44-6.
+Ju H, Zhao S, Jassal D, et al. Effect of AT- 1 receptor blockade on cardiac collagen
+remodelling after myocardial infarction. Cardiovasc Res 1997; 35: 223-32.
+Kahaleh MB. Raynaud´s phenomenon and the vascular disease in scleroderma. Curs Opin
+Rheumatol 2004; 16 (6) 718-22.
+Kingma K, Wollersheim H, Thien T. Double- blind, placebo- controlled study of intravenous
+prostacyclin on hemodynamics in severe Raynaud´s phenomenon: the acute vasodilatory
+effect is not sustained. J Cardiovasc Pharmacol 1995; 26: 388-93.
+Lange S, Bender R. Median oder Mittelwert?. Dtsch. Med. Wschr. 2001; 126: T25-T26.
+Le Roy EC. Systemic sclerosis : a vascular perspective. Rheum Dis Clin North Am 1996; 22:
+675-94.
+Manzella JP, Roberts NJ. Human macrophage and lymphocyte responses to mitogen
+stimulation after exposure to influenza virus, ascorbic acid and hyperthermia. J Immunol
+1979; 123 (5): 1940-4.
+Masi AT, Rodnan GP, Medsger TA, et al. Preliminary criteria for the classification of systemic
+sclerosis ( scleroderma). Arthritis Rheum 1980; 23: 581-90.
+Meffert H, Sönnichsen N, Meffert B. Skin rewarming curves. Lancet 1972; 7780 (2): 679-70.
+Meffert H, Buchholtz I, Brenke A. Milde Infrarot- A- Hyperthermie zur Behandlung der
+systemischen Sklerodermie. Dermatol Monatsschr 1990; 176 (11): 683-6.
+Meffert H, Scherf HP, Meffert B, et al. Auswirkungen von Serienbestrahlungen mit
+wassergefilterter Infrarotstrahlung auf Gesunde und Kranke mit arterieller Hypertonie b.z.w.
+systemischer Sklerodermie. Intern Saunaarchiv 1992; 9: 149-58.
+Merkel PA, Herlyn K, Martin RW, et al. Measuring disease activity and functional status in
+patients with scleroderma and Raynaud´s phenomenon. Arthritis Rheum 2002; 46 (9): 241020.
+Pearson JD. The Endothelium: its role in Scleroderma. Ann Rheum Dis 1991; 50: 866-71.
+Preliminary criteria for the classification of systemic sclerosis (scleroderma). Subcommittee
+for scleroderma criteria of the American Rheumatism Association Diagnostic and
+Therapeutic Criteria Committee. Arthritis Rheum 1980; 23 (5): 581-90.
+Prevoo ML, van´t Hof MA, Kuper HH, et al. Modified disease activity scores that include
+twenty- eight- joint counts. Development and validation in a prospective longitudinal study of
+patients with rheumatoid arthritis. Arthritis Rheum 1995; 38 (1): 44-8.
+Renz- Polster H, Krautzig S, Braun J. Sklerodermie. In: Basislehrbuch Innere Medizin. RenzPolster, Krautzig, Braun ( Hrsg.). 3. Auflage, Urban und Fischer, München, Jena 2004: 10367.
+Rhind SG, Gannon GA, Shepard RJ, et al. Cytokine induction during exertional hyperthermia
+abolished by core temperature clamping: neuroendokrine regulatory mechanisms. Int J
+Hyperthermia 2004; 19 (3): 153-8.
+Rietschel L, Meffert H, Sönnichsen N. Measurement of skin temperature with the infrared
+radiation measuring device by Kortum. Dermatol Monatsschr 1969; 155: 802-12.
+53
+
+Rosenkranz S, Diet F, Karasch T, et al. Sildenafil improved pulmonary hypertension and
+peripheral blood flow in a patient with scleroderma- associated lung fibrosis and the
+Raynaud´s phenomenon. Ann Intern Med 2003; 139 (10):871-3.
+Rzeznik J. Eine neue Technik zur loko- regionalen Wärmetherapie mit wassergefilterter
+Infrarot- A- Strahlung. In: Vaupel, Krüger ( Hrsg.): Wärmetherapie mit wassergefilterter
+Infrarot- A- Strahlung. Hippokrates, Stuttgart 1992: 23-37.
+Saito E, Fujimoto M, Hasegawa M, et al. CD19- dependent B- lymphocyte signaling
+thresholds influence skin fibrosis and autoimmunity in the tight- skin mouse. J Clin Invest
+2002; 109 (11): 1453-62.
+Sakkas LI. New developments in the pathogenesis of systemic sclerosis. Autoimmunity
+2005; 38 (2) 113-6.
+Salerni R, Rodnan GP, Leon DF, et al. Pulmonary hypertension in the CREST- syndrome
+variant of progressive systemic sclerosis ( scleroderma). Ann Intern Med 1977; 86: 394-9.
+Sambo P, Amico D, Giacomelli R, et al. Intravenous N- acetylcysteine for treatment of
+Raynaud´s phenomenon secondary to systemic sclerosis: a pilot study. J Rheumatol 2001;
+28: 2257-62.
+Schmidt KL. Hyperthermie und Fieber. Wirkungen bei Mensch und Tier. 2. Auflage,
+Hippokrates Verlag, Stuttgart, 1987.
+Steen VD, Medsger TA jr. The value of the Health Assessment Questionnaire and special
+patient- generated scales to demonstrate change in systemic sclerosis over time. Arthritis
+Rheum 1997; 40 (11): 1984-91.
+Stein CM, Tanner SB, Awad JA, et al. Evidence of free- radical- mediated injury ( isoprostane
+overproduction) in scleroderma. Arthritis Rheum 1996; 39: 1146-50.
+Thompson AE, Shea B, Welch V, et al. Calcium- channel blockers for Raynaud´s
+phenomenon in systemic sclerosis. Arthritis Rheum 2001; 44 (8): 1841-7.
+Tsuji- Yamada J, Nakazawa M, Minami M, et al. Increased frequency of interleukin- 4
+producing CD 4+ and CD 8+ cells in peripheral blood from patients with systemic sclerosis. J
+Rheumatol 2001; 28 (6): 1252-8.
+Valentini G. The assessment of the patient with systemic sclerosis. Autoimmun Rev 2003; 2
+(6): 370-6.
+Vayssairat M. Controlled multicentre double blind trial of an oral analog of prostacyclin in the
+treatment of primary Raynaud´s phenomenon. French Microcirculation Society Multicentre
+Group for the study of Vascular Acrosyndromes. J Rheumatol 1996; 23: 1917-20.
+Watson HR, Robb R, Belcher G. Seasonal variation of Raynaud´s phenomenon secondary to
+systemic sclerosis. J Rheumatol 1999; 26: 1734-7.
+Wigley FM, Wise RA, Seibold JR, et al. Intravenous iloprost infusion in patients with
+Raynaud´s phenomenon secondary to systemic sclerosis. A multicentre, placebo- controlled,
+double- blind study. Ann Intern Med 1994; 120: 199-206.
+Wise RA, Wigley FM, White B, et al. Efficacy and tolerability of a selective alpha (2C)adrenergic receptor blocker in recovery from cold- induced vasospasm in scleroderma
+patients: a single- centre, double- blind, placebo- controlled, randomized crossover study.
+Arthritis Rheum 2004; 50: 3994-4001.
+
+54
+
+7
+
+Verzeichnis verwendeter Abkürzungen alphabetisch
+
+A
+
+Ampère
+
+Abb.
+
+Abbildung
+
+AWE
+
+Akrale Wiedererwärmung
+
+BT
+
+Basaltemperatur
+
+cm
+
+Zentimeter
+
+F
+
+Frequenz der Raynaud-Attacken
+
+I
+
+Intensität der Raynaud-Attacken
+
+IRA
+
+Infrarot-A
+
+mm
+
+Millimeter
+
+μm
+
+Mikrometer
+
+nm
+
+Nanometer
+
+RCS
+
+Raynaud Condition Score
+
+VAS
+
+Visuelle Analog-Skala
+
+W
+
+Watt
+
+WL
+
+Haslauer Wärmeliege
+
+8
+
+Danksagung
+
+Mein besonderer Dank gilt Herrn Dr. med. John Foerster für die wissenschaftliche
+Betreuung der Arbeit sowie die Unterstützung bei der Rekrutierung der Patienten.
+Des Weiteren bedanke ich mich bei Frau PD Dr. med. Riemekasten für die
+Vermittlung einiger Patienten aus der rheumatologischen Spezialsprechstunde der
+Charité
+
+Berlin.
+
+Weiterer
+
+Dank
+
+gilt
+
+den
+
+Schwestern
+
+der
+
+Abteilungen
+
+für
+
+Photodermatologie und Physiotherapie, sowie dem Personal der dermatologischen
+Ambulanz der Charité Berlin für die Hilfe bei der Betreuung der Patienten. Außerdem
+möchte ich meinem Vater danken, der mir bei allen Fragen und Problemen rund um
+meine Arbeit stets zur Seite stand und meiner Mutter, die mich durch die Betreuung
+meiner Tochter zeitlich sehr entlasten konnte.
+
+55
+
+9
+
+Lebenslauf
+
+Mein Lebenslauf wird aus datenschutzrechtlichen Gründen in der elektronischen
+Version meiner Arbeit nicht veröffentlicht.
+
+56
+
+10 Erklärung an Eides statt
+Ich, Anja Kührt, erkläre, dass ich die vorgelegte Dissertationsschrift mit dem Thema:
+„Vergleich der Wirkung milder, serieller Ganzkörper-Hyperthermie von Infrarot-ALiege und Haslauer Wärmeliege bei Patienten mit Systemischer Sklerodermie
+bezüglich des Raynaud-Phänomens“ selbst verfasst und keine anderen als die
+angegebenen Quellen und Hilfsmittel benutzt, ohne die unzulässige Hilfe Dritter
+verfasst und auch in Teilen keine Kopien anderer Arbeiten dargestellt habe.
+
+Datum
+
+Unterschrift
+
+57
+
+

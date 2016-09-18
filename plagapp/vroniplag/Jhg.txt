@@ -1,0 +1,5845 @@
+Aus der
+Klinik und Poliklinik für
+Anästhesiologie und operative Intensivmedizin
+des Universitätsklinikums Münster
+Direktor: Univ.-Prof. Dr. med. Dr. h.c. H. Van Aken, FRCA, FANZCA
+
+Auswirkung einer modifizierten intraoperativen Ultrafiltration auf
+Hämodynamik und Transfusionshäufigkeit bei herzchirurgischen
+Eingriffen an Zeugen Jehovas
+
+INAUGURAL–DISSERTATION
+
+zur
+Erlangung des doctor medicinae
+
+der Medizinischen Fakultät
+der Westfälischen Wilhelms Universität Münster
+vorgelegt von
+Giepen, Jan Hendrik
+aus Münster
+2007
+
+Gedruckt mit Genehmigung der Medizinischen Fakultät der
+WESTFÄLISCHEN WILHELMS-UNIVERSITÄT MÜNSTER
+
+Dekan:
+
+Univ.-Prof. Dr. med. V. Arolt
+
+1. Berichterstatter: Priv.-Doz. Dr. med. C. Schmidt
+2. Berichterstatter: Priv.-Doz. Dr. med. M. Schult
+Tag der mündlichen Prüfung: 05.12.2007
+
+Klinik und Poliklinik für Anästhesiologie und operative Intensivmedizin
+Universitätsklinikum Münster
+Direktor: Univ.-Prof. Dr. med. Dr. h.c. H. Van Aken, FRCA, FANZCA
+Referent: Priv.-Doz. Dr. med. C. Schmidt
+Koreferent: Priv.-Doz. Dr. med. M. Schult
+
+Zusammenfassung
+Jan Hendrik Giepen
+Auswirkungen einer modifizierten intraoperativen Ultrafiltration auf Hämodynamik und
+Transfusionshäufigkeit bei herzchirurgischen Eingriffen an Zeugen Jehovas
+Die Herzchirurgie ist der größte Verbraucher von Blutkonserven. Über 60% aller Patienten, die sich
+herzchirurgischen Eingriffen unter Einsatz der Herz-Lungen-Maschine (HLM) unterziehen, benötigen eine
+Transfusion. Zeugen Jehovas lehnen aufgrund ihres Glaubens im Regelfall jegliche Transfusion ab. Hieraus
+ergibt sich ein potentiell lebensbedrohliches Risiko für Zeugen Jehovas, die sich einer Operation unter Einsatz
+der HLM unterziehen müssen. Der kombinierte Effekt aus unvermeidlicher Hämodilution infolge von
+Volumensubstitution, Prime-Volumen des extrakorporalen Kreislaufs und kardioplegischer Lösung zusammen mit
+den intraoperativen Blutverlusten führt bei vielen Patienten zu teilweise bedrohlichen Abfällen des HämoglobinWertes (Hb). Die modifizierte Ultrafiltration (MUF) ist ein Verfahren zur Elimination kristalloider Flüssigkeit und zur
+Hämokonzentration. Die MUF wird nach Beenden der extrakorporalen Zirkulation (EKZ) eingesetzt. Das Blut wird
+dem Kreislauf über die noch belassene Aortenkanüle entnommen und pumpengetrieben über einen
+Ultrafiltrationsfilter geleitet. Der sich über der Filtrationsmembran aufbauende Druckgradient bildet die treibende
+Kraft für die Elimination kristalloider Flüssigkeit. Das konzentrierte Blut wird dem Patienten über die venöse
+Kanüle der HLM in den rechten Vorhof retransfundiert. Das System der MUF ist eine Ergänzung der HLM. Der
+kontinuierliche Kreislauf wird aufrechterhalten, so dass die Methode für Zeugen Jehovas grundsätzlich akzeptabel
+ist.
+Methode: Die Messungen wurden nach Zustimmung durch die zuständige Ethikkommission in einer prospektiven
+klinischen Verlaufsbeobachtung an einer konsekutiven Stichprobe von 34 herzchirurgischen Patienten
+durchgeführt. Die Patienten wurden in zwei Gruppen eingeteilt. In der Untersuchungsgruppe, in der sich
+ausschließlich Zeugen Jehovas befanden, wurden die Patienten, nach entsprechender Aufklärung und
+Einwilligung, mittels MUF behandelt. In der Kontrollgruppe wurde nach den üblichen klinischen Standards ein
+diskontinuierliches Verfahren zur Aufbereitung des verbleibenden Restblutes in der HLM (Cell Saver) verwendet.
+Den Patienten wurde zu sechs verschiedenen Zeitpunkten, präoperativ beginnend bis 6 Stunden postoperativ,
+Blut für eine Blutgasanalyse (BGA) entnommen und die Werte wurden registriert. Die Blutentnahmen erfolgten
+über eine arterielle Kanüle und einen pulmonalarteriellen Katheter. Zu jedem dieser Zeitpunkte wurden außerdem
+der mittlere arterielle Druck (MAD), der Herz-Zeit-Volumen-Index (CI), der system-vaskuläre (SVRI) und
+pulmonal-vaskuläre (PVRI) Widerstandsindex aufgezeichnet. Das Sauerstoffangebot (DO2) und der
+Sauerstoffverbrauch (VO2) wurden jeweils errechnet.
+Ergebnisse: Die Patienten der Untersuchungsgruppe erhielten im Mittel 191 ml allogene Bluttransfusion. Die
+Patienten der Kontrollgruppe erhielten in Mittel 371 ml allogene Bluttransfusion. Der Unterschied war im RangSummen- Test statistisch signifikant (p < 0,001). Der Hb-Wert in der Untersuchungsgruppe betrug 8,1 g/dl vor der
+MUF und stieg auf 9,8 g/dl nach der MUF. Der Anstieg war statistisch signifikant (p < 0,001). Der Hb-Wert in der
+Kontrollgruppe betrug vor Retransfusion des per Cell Saver aufbereiteten Blutes 8,8 g/dl, und nach Retransfusion
+9,6 g/dl. Dieser Anstieg war ebenfalls statistisch signifikant (p = 0,025). Der Hb-Anstieg in der
+Untersuchungsgruppe war im Vergleich zum Hb-Anstieg in der Kontrollgruppe im ANOVA mit
+Messwertwiederholung (Test der Innersubjektkontraste) statistisch signifikant (p < 0,001). MAD, CI, SVRI und
+PVRI lagen jederzeit im Normalbereich. Es gab zu keinem Zeitpunkt Hinweise auf eine pathologische
+Abhängigkeit des VO2 von dem DO2.
+Schlussfolgerung: Patienten, die sich einem herzchirurgischen Eingriff an der HLM unterziehen müssen, haben
+ein hohes Risiko einer allogenen Transfusion. Durch die MUF kann die Wahrscheinlichkeit einer perioperativen
+Fremdblutgabe im Vergleich zu Standardverfahren signifikant reduziert werden. Der fremdblutsparende Effekt der
+MUF ist sowohl unter medizinischen als auch unter ökonomischen Aspekten als positiv zu bewerten. Da die
+hämodynamische Stabilität der Patienten gewahrt bleibt, und die Zeit an der HLM durch die MUF nicht signifikant
+verlängert ist, erscheint die MUF als ein sicheres Verfahren zur Reduktion der allogenen Transfusion und der
+Transfusionswahrscheinlichkeit. Zusätzlich lassen die Ergebnisse dieser Studie vermuten, dass die klinische
+Symptomatik des durch die EKZ ausgelösten „systemic inflamatory response syndrom“ (SIRS) abgemildert wird.
+Diese Aspekte machen das Verfahren für Patienten, die sich Fremdbluttransfusionen enthalten wollen, attraktiv.
+
+Tag der mündlichen Prüfung: 05.12.2007
+
+Inhaltsverzeichnis
+
+I
+
+Inhaltsverzeichnis
+1. Einleitung
+1.1
+
+Besonderheiten der operativen Versorgung von Zeugen Jehovas
+
+1.2
+
+Geschichte und religiöse Einstellung der Zeugen Jehovas
+zur Gabe vom Fremdblut
+
+1.3
+1.4
+
+1
+1
+2
+
+Transfusionshäufigkeit bei herzchirurgischen Eingriffen unter
+Einsatz der Herz-Lungen-Maschine (HLM)
+
+4
+
+Prinzipien der modifizierten Ultrafiltration
+
+6
+
+2. Methodik
+2.1
+
+Auswahl der Patienten
+
+2.2
+
+Anästhesiologische und operative Versorgung der Patienten
+
+9
+9
+11
+
+2.2.1 Prämedikation
+
+12
+
+2.2.2 Narkoseeinleitung und Narkoseführung
+
+12
+
+2.2.3 Operative Technik und extrakorporale Zirkulation
+
+14
+
+2.3
+
+Durchführung der modifizierten Ultrafiltration
+
+22
+
+2.4
+
+Monitoring der Patienten
+
+26
+
+2.5
+
+Transfusionsregime
+
+30
+
+2.6
+
+Statistische Methoden
+
+31
+
+3. Resultate
+
+32
+
+3.1
+
+Patientenkollektiv
+
+32
+
+3.2
+
+Operationszeiten
+
+33
+
+3.3
+
+Transfusionsprofil in der perioperativen Phase
+
+36
+
+3.4
+
+Verlauf der Hb- und Hk- Werte
+
+38
+
+3.5
+
+Hämodynamisches Profil
+
+49
+
+3.5.1 Mittlerer arterieller Druck
+
+51
+
+3.5.2 Herz- Zeit- Volumen Index
+
+52
+
+3.5.3 Systemvaskulärer Widerstandsindex
+
+54
+
+Inhaltsverzeichnis
+
+II
+
+3.5.4 Pulmonalvaskulärer Widerstandsindex
+
+55
+
+3.5.5 Sauerstoffangebot
+
+56
+
+3.5.6 Sauerstoffverbrauch
+
+58
+
+4.Diskussion
+
+60
+
+5.Abbildungsverzeichnis
+
+78
+
+6.Tabellenverzeichnis
+
+79
+
+7.Literaturverzeichnis
+
+81
+
+8.Danksagung
+
+92
+
+9.Lebenslauf
+
+93
+
+Einleitung
+
+1
+
+1. Einleitung
+1.1 Besonderheiten der operativen Versorgung von Zeugen Jehovas
+Herzchirurgische Operationen sind mit größeren Blutverlusten verbunden. Aus
+Übersichtsarbeiten ist bekannt, dass mehr als 60% aller Patienten, die
+herzchirurgischen Operationen unterzogen werden, im perioperativen Verlauf
+transfusionsbedürftig werden (1). Das hohe Risiko einer Fremdbluttransfusion
+ist bei Angehörigen der Glaubensgemeinschaft der Zeugen Jehovas von
+besonderer Brisanz.
+In der operativen Medizin gewinnt die Autotransfusion neben der allogenen
+Transfusion eine immer größere Bedeutung. Dem Anästhesisten stehen
+verschiedene Verfahren zur Verfügung. Präoperativ besteht die Möglichkeit der
+Eigenblutspende. Ebenfalls ist die Steigerung des Hämoglobinwertes durch
+Erythropoetingabe möglich (2,3,4,5,6). Intraoperativ reicht das Spektrum von
+der Wiederaufbereitung des Wundblutes (7) über die Optimierung des
+Gerinnungssystems (8,9) bis hin zu medikamentösen Maßnahmen zur
+Vermeidung einer Aktivierung des fibrinolytischen Systems (10,11).
+Für Zeugen Jehovas ist es ein essentieller Glaubensimperativ sich allogener
+Bluttransfusionen zu enthalten (12). Auch die präoperative Eigenblutspende,
+die Gabe gerinnungsaktiver Plasmen und die isovolumetrische Hämodilution
+lehnen Zeugen Jehovas aus Glaubensgründen ab (13,14,15). Deshalb kommt
+neben
+
+der
+
+intraoperativen
+
+Autotransfusion
+
+–
+
+die
+
+unter
+
+bestimmten
+
+Bedingungen für Zeugen Jehovas akzeptabel ist – eine weitere Maßnahme in
+Betracht, die seit 1991 routinemäßig in der Kinderherzchirurgie eingesetzt wird
+(16,17,18,19,20) und dort nicht nur zu einer Reduktion der allogenen
+Transfusion
+
+(20,21,22),
+
+sondern
+
+auch
+
+zu
+
+einer
+
+Verbesserung
+
+hämodynamischer und respiratorischer Parameter geführt hat (23,24,25).
+Dieses, als modifizierte Ultrafiltration (MUF) bekannt gewordene Verfahren,
+
+Einleitung
+
+2
+
+wird bis heute nur ausnahmsweise in der Herzchirurgie der Erwachsenen
+eingesetzt (26).
+Diese Arbeit untersucht die Fremdblut sparenden und hämodynamischen
+Effekte der MUF bei Zeugen Jehovas, die sich herzchirurgischen Eingriffen
+unterziehen müssen.
+1.2 Geschichte und religiöse Einstellung der Zeugen Jehovas zur Gabe
+von Fremdblut
+Die Glaubensgemeinschaft der Zeugen Jehovas wurde um das Jahr 1870 von
+Charles Taze Russell in Pennsylvania/USA gegründet. Grundsätze seiner
+Ideen übernahm er von den Adventisten und anderen apokalyptischen Sekten,
+welche das Ende der Welt vorhersagten. Im Jahre 1884 gründete Russel die
+Wachturm Bibel- und Traktat- Gesellschaft (WTG) als gesetzliche Körperschaft
+der „Internationalen Bibelforscher“. Das Ende der Welt wurde von Russel für
+das Jahr 1914 prophezeit. Nachdem dieses Ereignis nicht eintrat, fiel die
+Religionsgemeinschaft nahezu auseinander. Joseph Franklin Rutherford, der
+Nachfolger
+
+Russels,
+
+stabilisierte
+
+die
+
+auseinanderfallende
+
+Religionsgemeinschaft erneut. Im Jahr 1931 wurde der Name „Zeugen
+Jehovas“ als offizielle Bezeichnung der Glaubensgemeinschaft eingeführt. Die
+leitende
+
+Körperschaft
+
+der
+
+WTG
+
+wurde
+
+als
+
+Führungsgremium
+
+der
+
+Glaubensgemeinschaft bestimmt. Die Auslegung der Bibel ist nur durch die
+WTG autorisiert. Weltweit gibt es 6 Millionen, in Deutschland nahezu 200.000
+Mitglieder, dieser Glaubensgemeinschaft.
+Erstmals im Jahr 1945 wurden Bluttransfusionen als „heidnisch und
+gottentehrend“ verboten (27). Bis zu diesem Zeitpunkt gab es hinsichtlich einer
+Fremdblutgabe für Angehörige der Glaubensgemeinschaft keine Restriktionen
+(28). Die Doktrin gründet auf drei Bibelstellen, in denen Bluttransfusionen mit
+dem Essen von Blut gleichgesetzt werden. Die erste Stelle stammt aus dem
+Buch Genesis (29). Gott (Jehova) schließt einen Bund mit Noah. „Nur Fleisch
+
+Einleitung
+
+3
+
+mit seiner Seele – seinem Blut – sollt ihr nicht essen“. Die zweite Stelle
+entstammt Levitikus (30). Gott erteilt Moses ein Gesetz: „Keine Seele von euch
+soll Blut essen, kein ansässiger Fremdling, der als Fremdling in eurer Mitte
+weilt, soll Blut essen“. Die dritte Stelle findet sich in der Apostelgeschichte (31).
+„Denn der heilige Geist und wir selbst haben es für gut befunden, euch keine
+weitere Bürde aufzuerlegen als folgende notwendige Dinge: Euch von Dingen
+zu enthalten, die Götzen geopfert wurden, sowie von Blut und von Erwürgtem
+und von Hurerei. Wenn ihr euch vor diesen Dingen sorgfältig bewahrt, wird es
+euch gut gehen. Bleibt gesund!“
+Nach Auslegung der Bibel durch die WTG wird eine Bluttransfusion dem Essen
+von Blut gleichgesetzt. Diese Interpretation stützt sich auf einen Anatom des
+17. Jahrhunderts, Thomas Bertulin (12), und den französischen Arzt Jean
+Baptiste Denys (32). Bertulin und Denys setzen Bluttransfusionen einer
+Aufnahme von Nahrung durch den Mund gleich. Eine intravenöse Gabe von
+Blutprodukten wird der „intravenösen Ernährung“ und somit dem Essen
+gleichgestellt (33). Bei strenger Befolgung dieser Regeln wird auch die
+Transfusion von autologem Blut nach einer präoperativen Spende verboten.
+Hat das Blut einmal den Körper verlassen, muss es nach der Lehre der
+Zeugen Jehovas vernichtet werden. Eine Retransfusion von autologem Blut
+darf nur durchgeführt werden, wenn eine stete Verbindung zum Körper des
+Patienten aufrecht erhalten wird (13).
+Innerhalb der Gemeinschaft der Zeugen Jehovas hat sich in den achtziger
+Jahren die „Association of Jehova`s Witnesses for Reform on Blood“ (AJWRB)
+gegründet (34,35). Diese Gruppe setzt sich kritisch mit den bestehenden
+Positionen der WTG auseinander. Ziel der AJWRB ist es, die restriktive
+Blutdoktrin zu verändern und dem einzelnen Zeugen Jehovas ein größeres
+Selbstbestimmungsrecht einzuräumen (36). Die allgemeine Annahme, dass
+Zeugen Jehovas sich bei der Verweigerung von Blut und Blutprodukten
+einheitlich entscheiden müssen, wird durch die AJWRB in Frage gestellt (37).
+
+Einleitung
+
+4
+
+Ebenfalls in den achtziger Jahren wurde durch die Zeugen Jehovas der
+Krankenhausinformationsdienst aufgebaut. Mit diesem Dienst besteht ein
+landesweites
+
+Krankenhausverbindungskomitee,
+
+das
+
+den
+
+Informations-
+
+austausch zwischen Patienten und behandelnden Ärzten fördern und
+erleichtern soll (38).
+1.3 Transfusionshäufigkeit bei herzchirurgischen Eingriffen unter Einsatz
+der Herz-Lungen-Maschine (HLM)
+Bei herzchirurgischen Eingriffen unter Einsatz der HLM besteht ein erhöhtes
+Blutungsrisiko, so dass eine hohe Wahrscheinlichkeit zur Transfusion von
+Erythrozyten und anderen Blutbestandteilen gegeben ist. In den Vereinigten
+Staaten von Amerika z.B. werden 10% aller Bluttransfusionen vor, während
+oder unmittelbar nach herzchirurgischen Eingriffen vorgenommen (39). 20%
+der herzchirurgischen Patienten benötigen dabei über 80% der in der
+Herzchirurgie applizierten Transfusionen. Das Risiko einer Bluttransfusion bei
+einer Herzoperation ist dabei abhängig von einer Reihe prädisponierender
+Faktoren wie z.B. fortgeschrittenes Alter, niedriger präoperativer HämatokritWert,
+
+präoperative
+
+Vorbehandlung
+
+mit
+
+Acetyl-Salicylsäure
+
+oder
+
+thrombozytären Adenosin- und GPIIb/IIIa-Rezeptor-Antagonisten, Dringlichkeit
+des
+
+operativen
+
+vorausgegangene
+
+Eingriffs,
+
+Dauer
+
+thrombolytische
+
+des
+
+kardiopulmonalen
+
+Behandlung,
+
+Bypasses,
+
+Re-Operation
+
+oder
+
+Vorbehandlung mit unfraktioniertem oder niedermolekularem Heparin. In
+größeren
+
+Übersichtsarbeiten
+
+finden
+
+sich
+
+Angaben
+
+über
+
+die
+
+Transfusionshäufigkeit bei Eingriffen unter Verwendung der HLM, die zwischen
+30 und 40% liegen (40,41). Neben den angesprochenen Risikofaktoren
+existieren im Hinblick auf das Transfusionserfordernis aber auch erhebliche
+Unterschiede zwischen den verschiedenen Institutionen. An der Klinik und
+Poliklinik für Herz-, Thorax- und Gefäßchirurgie des Universitätsklinikums
+Münster liegt die Transfusionsfrequenz bei Eingriffen an der HLM derzeit bei
+35%.
+
+Für
+
+Zeugen
+
+Jehovas
+
+resultiert
+
+aus
+
+der
+
+hohen
+
+Rate
+
+an
+
+Einleitung
+
+transfusionspflichtigen
+
+5
+Blutverlusten
+
+ein
+
+potentiell
+
+lebensbedrohliches
+
+perioperatives Risiko bei herzchirurgischen Interventionen.
+Um Angriffspunkte für die Minimierung perioperativer Blutverluste erkennen zu
+können, müssen die Blutverluste während herzchirurgischer Operationen unter
+Einsatz der HLM genauer betrachtet werden. Zunächst kommt es zu
+Blutverlusten vor Anschluss des Patienten an die HLM. Diese kommen
+zustande durch den Hautschnitt, durch die mediane Sternotomie mit Eröffnung
+von Osteonen und durch die Präparation arterieller und venöser Graftconduits
+(Präparation der A. mammaria sinistra, gegebenenfalls Präparation auch der
+rechtsseitigen A. mammaria, und einer A. radialis, Präparation der V. saphena
+magna oder der V. saphena parva). Dieser Blutverlust ist mengenmäßig zu
+vernachlässigen. Das Blut wird über Abfallsauger aus dem Operationssitus
+entfernt und verworfen. Vor Kanülierung der Aorta ascendens und des
+Herzohres des rechten Vorhofes wird der Patient voll heparinisiert. Die
+Gerinnungsfähigkeit des Blutes ist von diesem Zeitpunkt an aufgehoben. Jetzt
+wird das gesamte im Operationssitus anfallende Blut über spezielle Sauger sogenannte Kardiotomiesauger - abgesaugt und dem Reservoir der HLM
+zugeführt. Damit steht dieses Wundblut der Zirkulation erneut zur Verfügung.
+Der wesentliche Anteil des während einer Herzoperation auftretenden
+Blutverlustes ist das Blutvolumen, das nach Abstellen der HLM im
+extrakorporalen System, also in den Schläuchen, im arteriellen Filter, im
+Reservoir und im Oxygenator verbleibt. Dieses Blutvolumen hat aus
+verfahrenstechnischen Gründen eine Menge von mindestens 500 ml, beträgt
+aber in Abhängigkeit von dem Volumenbedarf des Patienten während des
+Weanings vom kardiopulmonalen Bypass nicht selten auch 1000 ml und mehr.
+Dieses in der HLM verbleibende Blut wird entweder verworfen oder es wird
+dem Patienten retransfundiert. Die Retransfusion erfolgt im Normalfall nach
+Wiederaufbereitung durch ein Autotransfusionsgerät (AT-Gerät). Dieser
+Autotransfusion stimmen Zeugen Jehovas häufig nicht zu. An diesem Punkt
+setzt die MUF an. Das Verfahren eignet sich zur Korrektur der Hämodilution
+und zur Ausschwemmung des infolge des extrakorporalen Kreislaufs
+
+Einleitung
+
+6
+
+akkumulierten intravasalen und interstitiellen Flüssigkeitsvolumens (17,42,43).
+Das Blut wird durch die HLM retrograd über die Aortenkanüle entnommen und
+nach Passage eines Hämofilters in den rechten Vorhof zurückgegeben. Die
+Kontinuität des Blutkreislaufs wird hierbei nicht unterbrochen, so dass die
+Methode für Zeugen Jehovas akzeptabel ist.
+Neben den intraoperativen spielen auch die postoperativen Blutverluste nach
+herzchirurgischen Eingriffen eine Rolle. Hierbei handelt es sich um Verluste
+über substernale, retrokardiale und intrapleurale Dränagen. Das über die
+Dränagen verloren gehende Volumen liegt in einer Größenordnung zwischen
+1000 und 1500 ml (44). Zusätzlich zu den Dränageverlusten kann es zu
+weiteren Blutungen in das Mediastinum und/oder in die Pleurahöhle(n)
+kommen, welche sich nur schwer quantifizieren lassen. Der MUF kommt das
+Potential zu, auch diese postoperativen Blutverluste zu minimieren (45).
+Für Zeugen Jehovas, bei denen unter allen Umständen eine Fremdblutgabe zu
+vermeiden ist, kann der Verlust des im extrakorporalen System der HLM
+verbleibenden
+
+Blutvolumens
+
+den
+
+entscheidenden
+
+Transfusionstrigger
+
+darstellen, auch wenn dieses Volumen in Relation zu den sonstigen intra- und
+postoperativen Blutverlusten quantitativ betrachtet eher gering ist.
+1.4 Prinzipien der modifizierten Ultrafiltration
+Die MUF findet – anders als die konventionelle Ultrafiltration – erst nach
+Beendigung der extrakorporalen Zirkulation statt. Ursprünglich wurde die MUF
+zur Adaptation an die Kanülen der extrakorporalen Zirkulation konzipiert (46).
+In der aktuellen Modifikation der arterio-venösen MUF wird das System der
+extrakorporalen Zirkulation umgangen. Das Blut wird aus der Aortenkanüle
+retrograd entnommen, über einen Hämofilter gepumpt und durch die rechte
+Vorhofkanüle zurückgegeben (46). Hierdurch bleibt ein kontinuierlicher
+Kreislauf erhalten, was diese Methode für Zeugen Jehovas akzeptabel macht.
+An der Klinik und Poliklinik für Herz-, Thorax- und Gefäßchirurgie des
+
+Einleitung
+
+7
+
+Universitätsklinikums Münster benutzen wir eine im Zentrum für Herzchirurgie
+der Friedrich-Alexander-Universität in Erlangen-Nürnberg modifizierte Version
+der ursprünglich von Naik und Elliott (16) beschriebenen MUF (Abbildung 1).
+Die Entnahme des Blutes erfolgt vor dem arteriellen Partikelfilter. Dort wird
+eine Druckmessung etabliert, um das Ansaugen der Aortenkanüle an die
+Aortenwand während der Blutentnahme erkennen zu können. Über eine
+spezielle „MUF-Pumpe“ (siehe Abbildung 1) werden nun maximal 8 – 10% des
+Herz-Zeit-Volumens aus der Aortenkanüle entnommen und aktiv über einen
+Hämofilter geleitet (Dideco, Sorin Group Italia, Mirandola, Italien). Durch die
+geringe Entnahmemenge wird sichergestellt, dass kein „Coronary-steal-effect“
+auftreten kann. Der „Coronary-steal-effekt“ tritt dann in Erscheinung, wenn es
+durch einen zu hohen retrograden Volumenentzug zu einer Umkehr des
+Blutflusses in den nahe der Aortenkanüle abgehenden Koronararterien kommt.
+Dadurch kann es zum Auftreten bedrohlicher myokardialer Ischämien
+kommen. Nach Passage des Hämofilters wird das Blut pumpengetrieben über
+den Oxygenator (Jostra Quadrox, Maquet kardiopulmonary AG, Hirrlingen,
+Deutschland) geleitet. Es wird dann in oxygeniertem und aufgewärmtem
+Zustand über eine Infusionsleitung (Heidelberger Verlängerung, Angiocard
+Medizintechnik GmbH & Co.KG, Friedeburg, Deutschland) in die venöse
+Kanüle und von dort in den rechten Vorhof retransfundiert (43).
+
+Einleitung
+
+8
+
+Abbildung 1
+Die modifizierte Ultrafiltration nach dem in Erlangen- Nürnberg
+veränderten Verfahren
+
+Abbildung aus Kardiotechnik , Dezember 2003, 12. Jahrgang, Heft 4, Seite 140
+
+Methodik
+
+9
+
+2. Methodik
+2.1 Auswahl der Patienten
+In der vorliegenden Arbeit wurden insgesamt 40 Patienten untersucht, die sich
+einem elektiven herzchirurgischen Eingriff unter Einsatz der Herz-LungenMaschine unterziehen mussten. Die Studie wurde an der Klinik und Poliklinik
+für Anästhesiologie und operative Intensivmedizin der Universitätsklinik
+Münster (Direktor: Univ.-Prof. Dr. med. Dr. h.c. H. Van Aken, FRCA, FANZCA)
+und an der Klinik und Poliklinik für Herz-, Thorax- und Gefäßchirurgie der
+Universitätsklinik Münster (Direktor: Univ.-Prof. Dr. med H.H. Scheld)
+durchgeführt. Die Durchführung der Studie erfolgte nach Zustimmung durch
+die Ethikkommision der Ärztekammer Westfalen-Lippe. Alle Patienten willigten
+schriftlich der Teilnahme an der Studie zu, nachdem sie von einem Arzt der
+Klinik und Poliklinik für Anästhesiologie und operative Intensivmedizin über die
+Untersuchung, deren Verlauf und mögliche Risiken aufgeklärt worden waren.
+Die Patienten wurden zwei Gruppen zugeteilt, einer Untersuchungsgruppe und
+einer Kontrollgruppe. In der Kontrollgruppe wurde nach etabliertem klinischen
+Standard vorgegangen und zur Aufbereitung des in der Herz-LungenMaschine verbleibenden Blutes ein konventioneller Cell Saver eingesetzt
+(Haemonetics Cell Saver 5). Die 20 Patienten der Untersuchungsgruppe
+gehörten der Glaubensgemeinschaft der Zeugen Jehovas an.
+Aufgrund postoperativer Komplikationen (Nachblutung mit notfallmäßiger ReThorakotomie)
+
+wurden
+
+drei
+
+Patienten
+
+aus
+
+der
+
+Untersuchungsgruppe
+
+ausgeschlossen. In der Kontrollgruppe kam es ebenfalls bei zwei Patienten zu
+Nachblutungen.
+
+Einer
+
+dieser
+
+Patienten
+
+wurde
+
+einer
+
+notfallmäßigen
+
+chirurgischen Revision unterzogen. Eine weitere Patientin der Kontrollgruppe
+wurde aufgrund einer dialysepflichtigen Niereninsuffizienz intraoperativ einer
+konventionellen Ultrafiltration unterzogen. Auch diese drei Patienten wurden
+von der Studie ausgeschlossen. Zur Auswertung kamen somit 17 Patienten in
+der Untersuchungsgruppe (11 Männer, 6 Frauen). Das Alter dieser Patienten
+
+Methodik
+
+10
+
+lag zwischen 55 und 81 Jahren (68 ± 7 Jahre). In der Kontrollgruppe
+verblieben gleichfalls 17 Patienten (13 Männer, 4 Frauen). Hier lag das Alter
+zwischen 47 und 77 Jahren (63 ± 10 Jahre). Die Operationsindikation war bei
+allen Patienten eine proximal stenosierende koronare Herzerkrankung. Im
+Rahmen der vorliegenden Untersuchung wurden sämtliche der an den Kliniken
+für Anästhesiologie und operative Intensivmedizin und Thorax-, Herz- und
+Gefäßchirurgie aktuell etablierten klinischen Standards für Eingriffe am offenen
+Herzen praktiziert. In Ergänzung des routinemäßigen Procederes wurden zur
+Durchführung der Studie insgesamt 8 zusätzliche Blutproben entnommen. Das
+Probenvolumen betrug jeweils 2 ml.
+Tabellen 1 und 2 zeigen die wesentlichen biometrischen Daten der Patienten
+in der Untersuchungsgruppe und der Kontrollgruppe
+Tabelle 1
+Biometrische Daten der Patienten in der Untersuchungsgruppe
+Nummer
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+X
+SD
+
+Alter
+(Jahre)
+68
+68
+55
+81
+69
+72
+66
+72
+58
+74
+58
+69
+66
+64
+76
+63
+79
+68
+7
+
+Geschlecht
+M
+M
+M
+M
+W
+W
+M
+W
+M
+W
+M
+W
+M
+M
+M
+M
+W
+M = 11
+W=6
+
+Größe
+(cm)
+165
+190
+174
+168
+165
+160
+172
+163
+175
+160
+180
+155
+165
+183
+179
+177
+165
+170
+9
+
+X = Mittelwert, SD = Standardabweichung
+
+Gewicht
+(kg)
+100
+91
+82
+74
+71
+53
+89
+69
+100
+65
+82
+79
+60
+80
+84
+85
+62
+78
+13
+
+Methodik
+
+11
+Tabelle 2
+Biometrische Daten der Patienten in der Kontrollgruppe
+
+Nummer
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+X
+SD
+
+Alter
+(Jahre)
+54
+47
+65
+56
+67
+40
+77
+61
+74
+76
+61
+70
+72
+63
+64
+70
+47
+63
+10
+
+Geschlecht
+M
+M
+M
+M
+W
+M
+W
+M
+M
+M
+M
+W
+M
+M
+W
+M
+M
+M = 13
+W=4
+
+Größe
+(cm)
+169
+184
+180
+170
+168
+178
+167
+167
+170
+178
+184
+159
+175
+184
+158
+172
+175
+173
+8
+
+Gewicht
+(kg)
+76
+78
+92
+83
+110
+82
+74
+112
+72
+91
+94
+70
+80
+93
+70
+82
+67
+84
+13
+
+X = Mittelwert, SD = Standardabweichung
+
+2.2 Anästhesiologische und operative Versorgung der Patienten
+Sämtliche der an den Universitätskliniken für Anästhesiologie und operative
+Intensivmedizin (Direktor: Univ.-Prof. Dr. med. Dr. h.c. H. Van Aken, FRCA,
+FANZCA) und für Herz-, Thorax- und Gefäßchirurgie (Direktor: Univ.-Prof. Dr.
+med. H.H. Scheld) klinisch praktizierten Standards kamen unverändert zum
+Einsatz. Das Management von Narkoseführung und extrakorporaler Zirkulation
+(EKZ) und die operativen Techniken wurden nicht zu Studienzwecken
+modifiziert. In Abänderung der etablierten Vorgehensweise wurde in der
+Untersuchungsgruppe die MUF anstelle des standardmäßigen Cell Savers
+(Haemonetics Cell Saver 5) eingesetzt.
+
+Methodik
+
+12
+
+2.2.1 Prämedikation
+Am Tag vor der Operation erfolgte die Prämedikationsvisite. Hier wurde
+besonders auf eine Vormedikation mit gerinnungshemmenden Substanzen wie
+fraktionierte und unfraktionierte Heparine oder Phenprocoumon (Marcumar,
+Roche, Grenzach-Wyhlen, Deutschland) geachtet. Besonderes Augenmerk
+wurde auf die bei vorher stattgefundenen interventionellen kardiologischen
+Eingriffen neben ASS häufig angewendeten GPIIb/IIIa-Antagonisten und
+Adenosin-Antagonisten gerichtet. Eine vorbestehende Dauermedikation mit
+Betablockern,
+fortgeführt,
+
+Nitraten
+
+und
+
+Herzglykoside,
+
+Kalziumkanalblockern
+orale
+
+„Angiotensin-Converting-Enzyme“
+
+Antidiabetika,
+
+(ACE)-Hemmer
+
+wurde
+
+präoperativ
+
+Antiarrhythmika
+wurden
+
+am
+
+und
+
+Tag
+
+der
+
+Operation abgesetzt. Die kontinuierliche intravenöse Therapie mittels Heparin
+(Liquimin, Roche, Grenzach-Wyhlen, Deutschland), Diltiazem (Dilzem,
+Gödecke, Karlsruhe, Deutschland) und Nitroglycerin (Perlinganit®, Schwarz
+Pharma, Monheim, Deutschland) bei Patienten mit instabiler Angina pectoris
+wurde bis zum Zeitpunkt der Operation fortgesetzt. Die medikamentöse
+Prämedikation erfolgte in Abhängigkeit vom kardiopulmonalen Zustand und
+von Alter und Gewicht des Patienten durch die Gabe von 1 bis 2 mg
+Flunitrazepam oral (Rohypnol®, Roche, Grenzach-Wyhlen, Deutschland) am
+Vorabend der Operation. Am Morgen des Operationstages erhielten die
+Patienten 15 – 30 mg Dikaliumchlorazepat (Tranxilium®, Sanofi Winthrop
+Industrie, Ambarès, Frankreich) oral mit einem Schluck Wasser verabreicht.
+2.2.2 Narkoseeinleitung und Narkoseführung
+Im Rahmen der Vorbereitungen auf die Narkose wurde zuerst ein 7-Kanal EKG
+abgeleitet und die pulsoxymetrische Messung der Sauerstoffsättigung etabliert.
+Im weiteren Verlauf wurde den Patienten am linken Unterarm oder auf dem
+linken Handrücken ein peripher-venöser Zugang (vorzugsweise 20G oder 18G,
+Angiocath®, Baxter S.A., Lessines, Belgien) gelegt. Es erfolgte nun die milde
+Sedierung der Patienten mittels 1 – 2 mg Midazolam (Dormicum®, Roche,
+Grenzach-Wyhlen, Deutschland). Eine arterielle Kanüle (20G, Quickcath®,
+
+Methodik
+
+13
+
+Baxter S.A., Lessines, Belgien) wurde unter Lokalanästhesie vorzugsweise in
+der linken Radialarterie platziert. Kam die linke A. radialis als arterielles GraftConduit in Betracht, wurde die A. radialis der Gegenseite punktiert. Alternativ
+kam die Kanülierung einer A. femoralis in Betracht. Es erfolgte nun die genaue
+Einschätzung der kardialen Erkrankung und der Ventrikelfunktion anhand der
+dokumentierten Vorbefunde. Bei nicht kompromittierter Ventrikelfunktion und
+klinischen
+
+Hinweisen
+
+auf
+
+ein
+
+Flüssigkeitsdefizit
+
+wurden
+
+mittels
+
+einer
+
+Druckinfusion 10 ml/kgKG einer physiologischen Kochsalzlösung infundiert.
+Danach wurde die Narkose eingeleitet. Begonnen wurde mit einem SufentanilBolus von 0,7 µg/kgKg (Sufenta®, Janssen-Cliag, Neuss, Deutschland) über 90
+sec mittels einer programmierbaren Infusionspumpe, gefolgt von einer
+kontinuierlichen Sufentanil-Infusion (1 µg/kg/h). Nach Gabe des SufentanilBolus erhielten die Patienten Etomidate 10 - 20 mg (Hypnomidate®, JanssenCliag, Neuss, Deutschland) und das volatile Anästhetikum Sevoflurane
+(Sevorane®, Abbott, Queensborough, England) in einer inspiratorischen
+Konzentration von 0,5 – 1 Vol% in reinem Sauerstoff. Nach Sicherstellung der
+Beatmung über eine Gesichtsmaske wurde das nicht depolarisierende
+Muskelrelaxans Cis-Atracurium 0,2 mg/kgKG (Nimbex®, GlaxoSmithKline,
+Bühl, Deutschland) injiziert. Nach der Relaxation erfolgte die endotracheale
+Intubation und bei fehlenden Kontraindikationen (insbesondere Erkrankungen
+und Operationen im Bereich des oberen Gastrointestinaltraktes) die vorsichtige
+Platzierung
+
+einer
+
+Zusätzlich
+
+wurden
+
+transösophagealen
+zur
+
+Ultraschallsonde
+
+Abschwächung
+
+der
+
+(TEE-Sonde).
+
+mediatorinduzierten
+
+Inflammationsreaktion unter HLM 1 g Prednisolon (Solu-Decortin®, Merck,
+Darmstadt, Deutschland) injiziert und zur perioperativen antibiotischen
+Prophylaxe 2,0 g Cefazolin (Cephazolin, Fresenius Kabi, Bad Homburg,
+Deutschland) infundiert. Im Rahmen der Narkoseeinleitung wurden dann ein
+weiterer großlumiger peripher-venöser Zugang (16G, Angiocath®, Baxter S.A.,
+Lessines,
+
+Belgien)
+
+und
+
+ein
+
+transurethraler
+
+Blasenkatheter
+
+mit
+
+Temperatursensor gelegt (Größe 16 oder 18Ch, Fabrikat, Kendall Curity,
+Limburg, Deutschland). Zum Abschluss der Narkoseeinleitung wurde ein
+
+Methodik
+
+14
+
+Pulmonaliskatheter
+
+(Insyte-W,
+
+Becton
+
+Dickenson
+
+GmbH,
+
+Heidelberg,
+
+Deutschland) in Seldinger-Technik via rechtsseitiger V. jugularis interna
+eingeschwemmt, über den nach dem Thermodilutionsprinzip kontinuierlich das
+rechtsventrikuläre enddiastolische Volumen und das Herzzeitvolumen (HZV)
+gemessen werden konnte.
+Die Narkose wurde als balancierte Anästhesie mit 1 µg/kgKG/h Sufentanil
+(programmierbare Spritzenpumpe), Sevoflurane (1,5 - 3 Vol%) und CisAtracurium (Perfusor, 1 µg/kgKG/min) fortgeführt. Die Probanden wurden
+Volumen-kontrolliert beatmet, wobei eine Normoventilation (PaCO2 = 36 – 44
+mmHg) angestrebt wurde. Die Beatmung erfolgte bis zum Anschluss des
+Patienten an die HLM mit einer inspiratorischen Sauerstofffraktion von 1,0.
+2.2.3 Operative Technik und extrakorporale Zirkulation
+Nach
+
+medianer
+
+Sternotomie
+
+und
+
+Längsperikardiotomie
+
+erfolgte
+
+nach
+
+Aufforderung durch den Operateur die Heparinisierung. Einige Operateure
+präparierten die Aa. mammariae bereits unter Heparinisierung, andere
+bevorzugten die Heparinisierung nach Exposition der Aa. mammariae und
+nach
+
+sternaler
+
+Blutstillung.
+
+Die
+
+Standarddosis
+
+betrug
+
+400
+
+i.E./kgKg
+
+unfraktionierten Heparins. Nach der Heparingabe erfolgte die Kontrolle der
+„Activated Clotting Time“ (ACT). Bei ACT-Werten über 420 sec. wurde von
+einer kompletten Gerinnungsunfähigkeit des Blutes ausgegangen. Eine
+Nachheparinisierung (5000 – 10000 i.E.) erfolgte entsprechend der ACT und
+dem Verlauf der Operation durch den Kardiotechniker. Bei notwendig
+werdender
+
+Nachheparinisierung
+
+wurde
+
+eine
+
+Herparin-Refraktärität
+
+ausgeschlossen. Diese hat in aller Regel ihre Ursache in einem niedrigen
+Antithrombin III-Spiegel. Lagen die Antithrombin III-Spiegel unter 60% kam die
+Substitution von AT III (Kybernin, Aventis Behring, Marburg, Deutschland) in
+Betracht. Mit der initialen Heparinisierung und vor Anschluss an die HLM
+wurde den Patienten ein Bolus von 30.000 i.E./kgKG des Fibrinolyse-Inhibitors
+Aprotinin (Trasylol, Bayer Vital, Leverkusen, Deutschland) über 10 min.
+
+Methodik
+
+15
+
+infundiert, danach erfolgte eine kontinuierliche Infusion von 10.000 IE/kgKG/h
+bis zum Ende der extrakorporalen Zirkulation.
+Nach
+
+Bereitstellung
+
+der
+
+arteriellen
+
+und
+
+venösen
+
+Graft-Conduits
+
+und
+
+Heparinsierung wurde die HLM angeschlossen. Zuerst wurde die arterielle
+Kanüle in die Aorta ascendens eingebracht. Die Kanülierungsstelle wurde
+kleinkurvaturseitig gegenüber dem Abgang des Truncus brachiocephalicus
+gewählt. Die Fixierung der Kanüle erfolgte durch zwei Tabaksbeutelnähte. Die
+venöse Dränage wurde über eine sogenannte 2-Stufen-Kanüle, die über das
+rechte Herzohr eingeführt wurde, gewährleistet. Ein Lumen der DränageKanüle kam im rechten Vorhof zu liegen, das zweite Lumen in der V. cava
+inferior. Für die Zufuhr der Kardioplegie war eine einfache, großlumige, scharfe
+Kanüle ausreichend, welche in der Aortenwurzel platziert wurde. Die
+Kardioplegie
+
+führte
+
+zu
+
+einem
+
+Herzstillstand
+
+in
+
+der
+
+Diastole
+
+durch
+
+Unterbrechung der mechanischen und elektrischen Funktionsabläufe am
+Herzen. Weiterhin kann der myokardiale Sauerstoffverbrauch durch den
+elektromechanischen Stillstand um etwa 90% gesenkt werden (47). Bei den
+Probanden wurde eine Brettschneider-Lösung zur Kardioplegie eingesetzt
+(kristalloide, blutfreie Lösung). Die Brettschneider-Lösung wurde antegrad über
+die Aortenwurzel und die Koronararterien appliziert. Sie ist aus mehreren
+Bestandteilen zusammengesetzt: Kaliumchlorid (in einer Konzentration von 20
+– 30 mmol/l) führt über eine Membrandepolarisation zum schnellen
+diastolischen Herzstillstand, Magnesiumionen blockieren kalziumabhängige
+intrazelluläre Prozesse durch kompetitive Hemmung der Kalziumrezeptoren
+und wirken ebenfalls kardioplegisch. Durch geringe Kalziumgaben (0,5 mval/l)
+wird die Gefahr eines Kalziumparadoxphänomens in der Reperfusionsphase
+reduziert. Histidinpuffer neutralisieren anfallende Stoffwechselprodukte in der
+Ischämiephase, und osmotisch wirksame Substanzen wirken der interstitiellen
+und intrazellulären Ödembildung entgegen. Die Menge der verabreichten
+kardioplegischen Lösung betrug ca. 1 l (10 –15 ml/kgKG) mit einer Temperatur
+
+Methodik
+
+16
+
+von 4° Celsius (48). Nach antergrader Passage der Herzkranzgefäße gelangt
+die Lösung über den Koronarsinus in das rechte Herz und in die HLM.
+Die Vorbereitung der HLM erfolgte durch den Kardiotechniker. Das
+extrakorporale System wurde mit dem Prime-Volumen aufgefüllt. Dieses setzte
+sich zusammen aus 800 ml einer Ringer-Laktat-Lösung (Ringer Lösung
+Pfrimmer®, Baxter, Unterschleißheim, Deutschland), 250 ml Mannitol 15%
+(Osmofundin® 15%, B.Braun, Melsungen, Deutschland), 250 ml HydroxyäthylStärke (HES 6% 130/0,4, Voluven®, Fresenius Kabi, Bad Homburg,
+Deutschland), 200 ml Aprotinin, Heparin 5000 iE, 40 ml Inzolen KM 21
+(Infusionslösungskonzentrat, Köhler, Alsbach-Hähnlein, Deutschland) und 20
+ml Natriumchlorid 20%. Im Mittel 3,5 ml/kgKG Natriumbikarbonat 8,4% und
+Kaliumaspartat 1-molar wurden zugesetzt bis zum Ausgleich des „baseexcess“, bzw. bis zum Erreichen einer Serum-Kaliumkonzentration von 5,5
+mmol/l. Insgesamt umfasste das Prime-Volumen damit 1560 ml. Zusätzlich
+wurden ca. 300 ml Natriumbikarbonat 8,4% und Kaliumaspartat nach
+Anschluss des Patienten zugesetzt, um die Homöostase des Säure-, Basenund des Kaliumhaushaltes aufrecht zu erhalten. Das zellfreie Volumen des
+extrakorporalen Systems belief sich damit auf ca. 1800 bis 1900 ml.
+Die venöse Dränage (über die 2-Wege-Kanüle im rechten Herzohr) erfolgte
+passiv durch die Schwerkraft (relative Höhe des venösen Reservoir zum
+Patienten). Das im Reservoir anfallende Blut wurde über eine Roller- oder
+Zentrifugalpumpe dem Membranoxygenator zugeführt und gelangte nach der
+Passage eines 40-µm-Filters zur arteriellen Kanüle. Mit Beginn der HLMPhase wurde die Beatmung umgestellt (IPPV-Modus, f = 6/min, VT = 200 ml,
+PEEP = 5 cm H2O, FiO2 = 0,21). Unter HLM wurde Sevoflurane über den
+Gaseingang des Oxygenators in einer Dosierung von 1,5 - 3 Vol% zugeführt.
+Die Dosis wurde im individuellen Fall mit dem Kardiotechniker abgestimmt.
+Über die HLM wurde ein nonpulsativer Fluss von mindestens 2,5 l/m2/min
+gefördert.
+
+Der
+
+angestrebte
+
+Perfusionsdruck
+
+unter
+
+Bedingungen
+
+der
+
+Methodik
+
+17
+
+Normothermie oder der milden Hypothermie (Körperkerntemperatur höher als
+34°C) lag in der Regel zwischen 40 und 60 mmHg. Bei pathologischen
+Veränderungen
+
+der
+
+hirnzuführenden
+
+Arterien
+
+mit
+
+oder
+
+ohne
+
+herdneurologischer Symptomatik wurde im individuellen Fall ein höherer
+Perfusionsdruck angestrebt. Auch weitere Maßnahmen der Zerebroprotektion
+(systemische Hypothermie von 28° oder darunter) kamen in Betracht.
+Grundsätzlich ist zum gegenwärtigen Zeitpunkt davon auszugehen, dass,
+zumindest nach Kriterien einer „evidence-based medicine“, ein für alle
+Patienten gleichermaßen optimaler Perfusionsdruck nicht definiert werden
+kann. Der Perfusionsdruck hängt ab vom Füllungszustand des Patienten/HerzLungen-Maschinen-Systems, dem geförderten Fluss und dem systemischen
+Gefäßwiderstand (Narkosetiefe, Körpertemperatur). Bei hypotonen Werten
+erfolgte zunächst eine Steigerung der HLM-Förderrate über den Sollwert von
+2,5
+
+l/m2/min
+
+hinaus.
+
+Bei
+
+weiter
+
+bestehender
+
+Hypotonie
+
+wurde
+
+eine
+
+Bolusinjektion von Cafedrinhydrochlorid/Theodrenalinhydrochlorid (Akrinor,
+AWD Pharma, Halle, Deutschland) durchgeführt, der evtl. eine kontinuierliche
+Noradrenalininfusion (Arterenol, Aventis Pharma, Bad Soden, Deutschland)
+über den zentralen Venenkatheter folgte. Bei hypertonen Werten wurde die
+Narkose vertieft und evtl. Nitroglycerin oder Natiumnitroprussid (Nipruss®,
+Schwarz Pharma, Monheim, Deutschland) kontinuierlich infundiert.
+Unter
+
+der
+
+HLM
+
+wurden
+
+hochnormale
+
+Kaliumspiegel
+
+angestrebt.
+
+Bei
+
+Entwöhnung von der HLM waren daher bradykarde Herzrhythmusstörungen
+(Sinusbradykardie, AV-Knoten-Blockierungen) nicht ungewöhnlich. Eine wenig
+invasive und effektive Methode der Behandlung stellte die Stimulation durch
+einen externen Herzschrittmacher dar, der über epikardiale Elektroden
+angeschlossen werden konnte. Bei schlechter linksventrikulärer Funktion
+wurde deshalb ein AV-sequentielles Pacing indiziert, um die sequentielle
+Vorhof-Kammer Aktion zu erhalten und dadurch eine optimale enddiastolische
+Vordehnung
+
+des
+
+linksventrikulären
+
+Myokards
+
+zu
+
+erreichen.
+
+Vor
+
+Wiedereröffnung der Aorta (Ende der kardioplegischen Stillstandszeit) wurden
+
+Methodik
+
+18
+
+die beiden Aa. carotides manuell komprimiert, um zerebralen Luft- oder
+Partikelembolien vorzubeugen. Gleichzeitig wurden die Lungen gebläht, um
+durch eine Volumenverschiebung von Blut aus der Lungenstrombahn über den
+linken Vorhof in den linken Ventrikel Luft aus dem linksventrikulären
+Ausflusstrakt zu exprimieren. Ein nach Freigeben der Koronarperfusion
+flimmerndes Herz wurde so schnell wie möglich defibrilliert, um in der
+Reperfusionsphase einen niedrigen myokardialen Sauerstoffverbrauch zu
+gewährleisten. Während der mit dem Declamping der aszendierenden Aorta
+beginnenden Reperfusionsperiode wurde auf ein niedriges enddiastolisches
+Ventrikelvolumen
+
+geachtet,
+
+um
+
+die
+
+subendokardiale
+
+Perfusion
+
+nicht
+
+einzuschränken und um den myokardialen Sauerstoffverbrauch, dessen
+wesentliche Determinante der Wandstress während der Diastole ist, so niedrig
+wie möglich zu halten. Die Kontrolle des enddiastolischen linksventrikulären
+Volumens erfolgte durch kontinuierliche transösophageale Echokardiographie.
+Eine Mindestdauer der Reperfusionszeit von 1/3 der Ischämiezeit wurde zur
+Wiederherstellung der funktionellen Integrität des Myokards eingehalten.
+Das Weaning von der HLM wurde eingeleitet, wenn die Körpertemperatur
+normalisiert war, die Herzfrequenz zwischen 70 und 90/min. lag, im EKG und
+in der Echokardiographie Hinweise auf aktuelle myokardiale Ischämien fehlten,
+die rechts- und linksventrikuläre Globalfunktion als ausreichend erachtet
+wurde, die Lungen manuell gebläht und mit 100% Sauerstoff beatmet waren
+und eine Homöostase des Elektrolyt- und Säure-Basen Haushaltes bestand.
+Während der letzten Minuten unter der HLM wurden bereits die benötigten
+Medikamente über Infusionspumpen zugeführt. Nitroglycerin wurde in einer
+Dosierung von 0,2 – 2,0 µg/kg/min verabreicht. Wenn positiv inotrope
+Medikamente indiziert waren, wurde Dobutamin (Dobutamin Liquid, Fresenius
+Kabi, Bad Homburg, Deutschland) in einer Dosierung von 2 – 10 µg/kg/min als
+das Mittel der ersten Wahl appliziert. Als weitere Substanzen kamen im
+Rahmen einer differenzierten Therapie eines Low-Cardiac-Output Syndroms
+nach myokardialer Ischämie Adrenalin 0,02 – 0,5 µg/kg/min (Suprarenin®,
+
+Methodik
+
+19
+
+Aventis Pharma, Bad Soden, Deutschland), Milrinon 0,375 – 0,75 µg/kg/min
+(Corotrop,
+
+Sanofi-Synthelabo,
+
+Berlin,
+
+Deutschland)
+
+und
+
+Noradrenalin
+
+(Arterenol, Aventis Pharma, Bad Soden, Deutschland) 0,02 – 0,5 µg/kg/min,
+in Betracht. Patienten mit präoperativ schlechter linksventrikulärer Funktion
+benötigen sehr häufig positiv inotrope Substanzen zur Entwöhnung von der
+HLM. Die differenzierte Applikation der Substanzen erfolgte vor dem
+Hintergrund des hämodynamischen Monitorings. Die Ventrikelfunktion und
+damit das therapeutische Vorgehen hingen u.a. stark ab vom Effekt und dem
+Grad der operativen myokardialen Revaskularisierung, der Art der Kardioplegie
+(antegrade kristalloide versus retrograde Blut-Kardioplegie), der Dauer der
+Cross-Clamp-Zeit und der Dauer der Reperfusionszeit. Insbesondere durch
+den Einsatz der Echokardiographie wurde der Funktionszustand des
+kardiovaskulären Systems beim Weaning überwacht.
+Nach Entwöhnung von der HLM erfolgte in der Kontrollgruppe zunächst die
+Entfernung der venösen 2-Stufen-Kanüle aus dem rechten Vorhof. Das in dem
+Schlauchsystem zur venösen Dränage verbliebene Blut wurde in den
+Reservoirbehälter der HLM entleert. Zeitgleich mit der venösen Dekanülierung
+wurde die kontinuierliche Cis-Atracurium-Infusion, die der Relaxierung der
+Probanden diente, beendet. Bei liegender Aortenkanüle wurde unter laufender
+Kontrolle
+
+der
+
+Hämodynamik,
+
+echokardiographischer
+
+Kontrolle
+
+des
+
+Füllungszustands des linken Ventrikels und visueller Inspektion des rechten
+Herzens Volumen über die HLM nachgefördert (im Allgemeinen repetitive
+Gaben von 100 ml). Solange auf Volumengabe die Größe beider Ventrikel
+konstant blieb, die Vorlastdrücke (ZVD, PCWP) nicht anstiegen, der arterielle
+Mitteldruck aber zunahm, wurde die Wiederauffüllung des Kreislaufs durch
+Volumengabe fortgesetzt. Nach Erreichen eines adäquaten intravasalen
+Füllungszustandes
+
+verblieb
+
+ein
+
+Blutvolumen
+
+variabler
+
+Menge
+
+im
+
+extrakorporalen System. Dieses Blutvolumen hatte zwangsläufig den gleichen
+Hb- und Hk-Wert wie der Patient zu dem Zeitpunkt, zu dem die HLM gestoppt
+wurde. Obligat verblieb Blut im arteriellen Schlauchsystem, im arteriellen Filter
+und im Oxygenator des extrakorporalen Kreislaufs. Diese Blutmenge war für
+
+Methodik
+
+20
+
+jeden Patienten konstant und ist vorgegeben durch die geometrischen
+Dimensionen des Systems. Variabel war die im Reservoir der HLM
+verbleibende Blutmenge. Das Volumen des Reservoirs konnte über die
+arterielle Kanüle nur bis zum Erreichen einer Normovolämie retransfundiert
+werden. Insbesondere bei vorbestehender links- und/oder rechtsventrikulärer
+Insuffizienz musste eine Hypervolämie jedoch unter allen Umständen
+vermieden werden. Aus diesem Grund war es möglich, dass große
+Blutvolumina im Reservoir verblieben. Dieses Blut wurde bei den Probanden
+der Kontrollgruppe im Einklang mit der standartisierten Vorgehensweise mit
+dem diskontinuierlich arbeitenden Autotransfusionsgerät (Haemonetics Cell
+Saver 5) aufbereitet und den Probanden retransfundiert.
+Bei stabiler kardiovaskulärer Funktion erfolgte dann die Antagonisierung des
+Heparins mittels intravenösen Protaminsulfats 0,3 ml/kgKG (Protamin ICN,
+ICN Pharmaceuticals Germany, Frankfurt, Deutschland) über mindestens 10
+min. Gegebenenfalls wurde entsprechend der ACT nach initialer Protamingabe
+(ACT > 150 sec.) Protamin titrierend nachgegeben (ca. 1/3 der Initialdosis).
+
+Methodik
+
+21
+
+Tabelle 3
+Diagnosen, Eingriffe und Anzahl der Grafts der Patienten in der
+Untersuchungsgruppe
+Nr.
+
+Diagnose
+
+Eingriff
+
+Anzahl Grafts
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+X
+SD
+
+3-G-KHK
+3-G-KHK
+3-G-KHK
+3-G-KHK
+3-G-KHK
+2-G-KHK
+3-G-KHK
+2-G-KHK
+3-G-KHK
+3-G-KHK
+3-G-KHK
+3-G-KHK
+2-G-KHK
+3-G-KHK
+3-G-KHK
+2-G-KHK
+3-G-KHK
+
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+
+3
+3
+4
+2
+4
+3
+3
+2
+3
+3
+3
+2
+2
+2
+3
+2
+3
+2,8
+0,7
+
+X = Mittelwert, SD = Standardabweichung
+
+Methodik
+
+22
+
+Tabelle 4
+Diagnosen, Eingriffe und Anzahl der Grafts der Patienten in der
+Kontrollgruppe
+Nr
+Diagnose
+Eingriff
+Anzahl Grafts
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+Mittelwert
+Standartabweichung
+
+3-G-KHK
+2-G-KHK
+3-G-KHK
+2-G-KHK
+2-G-KHK
+1-G-KHK
+3-G-KHK
+3-G-KHK
+3-G-KHK
+3-G-KHK
+2-G-KHK
+2-G-KHK
+3-G-KHK
+2-G-KHK
+2-G-kHK
+2-G-KHK
+3-G-KHK
+
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+ACB/ACVB
+
+4
+2
+3
+3
+4
+2
+3
+3
+3
+3
+1
+2
+3
+1
+2
+3
+4
+2,7
+0,9
+
+X = Mittelwert, SD = Standardabweichung
+
+2.3 Durchführung der modifizierten Ultrafiltration
+Bei Stabilität der hämodynamischen Parameter (zentralvenöser Venendruck,
+systemischer
+
+Blutdruck,
+
+myokardiales
+
+Kontraktionsverhalten
+
+im
+
+Echokardiogramm) wurde abweichend vom standardisierten Verfahren in der
+Untersuchungsgruppe nach erfolgreichem Weaning von der HLM und
+Wiederauffüllung des Kreislaufs die Aortenkanüle nicht entfernt. Durch das
+Belassen der Kanüle wurde die Kontinuität des Blutkreislaufs zwischen dem
+Gefäßsystem des Patienten und dem extrakorporalen System der HLM
+aufrecht erhalten. Zu diesem Zeitpunkt wurde mit der MUF begonnen.
+Während
+
+das
+
+in
+
+der
+
+Herz-Lungen-Maschine
+
+verbleibende
+
+Restblut
+
+Methodik
+
+23
+
+kontinuierlich zirkulierte, um einen Stillstand des Blutkreislaufs zu verhindern,
+wurde die Aortenkanüle zunächst zwischen der Kanülierungsstelle und dem
+arteriellen Filter mittels einer Schlauchklemme blockiert. Weiterhin wurde eine
+Heidelberger Verlängerung auf den arteriellen Filter gesetzt und mit der
+venösen Kanüle im rechten Vorhof verbunden. Nun wurde mittels einer Pumpe
+eine bestimmte Menge Blut kontinuierlich aus der Aorta des Patienten über die
+Aortenkanüle entnommen. Die Menge des entnommenen Blutes betrug
+maximal 10% des Herzzeitvolumens. Durch diese Restriktion wurde ein
+„Coronary-Steal-Effekt“ verhindert. In der arteriellen Leitung wurde dauerhaft
+der Druck überwacht, um ein Ansaugen der aortalen Kanüle an die
+Aortenwand zu verhindern. Das aus der Aorta entnommene Blut wurde über
+einen Hämofilter geleitet. Der im Hämofilter bestehende mechanische
+Flusswiderstand sorgt für die Entstehung einer Druckdifferenz zwischen
+Einlass und Auslass des Filters. Diese Druckdifferenz erzeugt das Filtrat.
+Durch Variieren des Blutflusses, Drosselung des Ausflusses oder durch
+Applikation eines Vakuums auf der Filtratseite des Filters kann die
+Filtratmenge manipuliert werden (Abbildung 2).
+Abbildung 2
+Druckverhältnisse im Hämofilter
+
+Kardiotechnik, September 2001, 10. Jahrgang, Heft 3, Seite 84
+
+Methodik
+
+24
+
+Der hydrostatische Druck, der im Hämofilter erzeugt wird, resultiert in den
+konvektiven Kräften, die den Flüssigkeitstransfer über die Hämofiltermembran
+bedingen (Abbildung 3).
+Abbildung 3
+Formel zur Errechnung des transmembranösen Drucks
+
+Kardiotechnik, September 2001, 10. Jahrgang, Heft 3, Seite 84
+
+Das aus dem Hämofilter kommende Blut wurde dann zwischen arterieller
+Pumpe und Oxygenator wieder in das System geleitet. Nach Passage des
+Oxygenators und des arteriellen Filters gelangte das Blut in oxygeniertem und
+aufgewärmtem Zustand über die Heidelberger Verlängerung via venöser
+Kanüle in den rechten Vorhof (Abbildung 4).
+Das dem Organismus entzogene zellfreie Filtratvolumen wurde kontinuierlich
+durch das in der HLM befindliche Restblut ersetzt. So konnte das in der HLM
+verbliebene Restblut komplett retransfundiert werden. Die MUF wurde solange
+durchgeführt, bis dass Schläuche und Reservoirbehälter komplett entleert
+waren.
+
+Methodik
+
+25
+
+Abbildung 4
+MUF – Kreislauf nach Bypass - Ende
+
+modifiziert nach K. Graves, Extrakorporale Zirkulation in Theorie und Praxis, Pabst Science
+Publishers, 1999
+
+Nach Beendigung der MUF, die etwa 20 Minuten in Anspruch nahm, erfolgte
+auch in der Untersuchungsgruppe die Antagonisierung des Heparins.
+Nach Antagonisierung des Heparins wurden die venöse und arterielle Kanüle
+entfernt und der Thorax verschlossen. Postoperativ erfolgte die Verlegung der
+Patienten unter Fortführung des invasiven Monitorings auf die perioperative
+Anästhesiestation der Klinik und Poliklinik für Anästhesiologie und operative
+Intensivmedizin.
+
+Methodik
+
+26
+
+2.4 Monitoring der Patienten
+In der vorliegen Untersuchung wurden Messungen an sechs Zeitpunkten
+vorgenommen (Abbildung 5).
+Abbildung 5
+Untersuchungszeitpunkte
+T1
+T2
+T3
+T4
+(nur Untersuchungsgruppe)
+T4
+(nur Kontrollgruppe)
+T5
+T6
+
+Einleitung
+OP vor Anschluss an die EKZ
+OP nach Beenden der EKZ
+OP nach Beenden der modifizierten
+Ultrafiltration
+OP nach Retransfusion des Cell
+Saver Blutes
+Unmittelbar nach Aufnahme auf die
+Intensivtherapiestation (ICU)
+Nach 6 Stunden auf der
+Intensivtherapiestation (ICU)
+
+Zum Zeitpunkt T1, während der Narkoseeinleitung, wurde den Probanden über
+die gelegte arterielle Kanüle 2 ml Blut zur Durchführung einer Blutgasanalyse
+entnommen (ABL 715, Radiometer, Kopenhagen, Dänemark). Es wurden der
+Hämoglobinwert (Hb) und der Hämatokritwert (Hk) bestimmt.
+Kurz vor Anschluss an die EKZ erfolgte die zweite Blutabnahme. Jeweils 2 ml
+Blut wurden über die arterielle Kanüle und über das distale Lumen des
+Pulmonaliskatheters entnommen und im Rahmen einer Blutgasanalyse
+untersucht. Zu diesem Zeitpunkt wurden außerdem der invasiv gemessene
+Blutdruck, der zentralvenöse Druck und die Herzfrequenz notiert. Zusätzlich
+erfolgte über den Pulmonaliskatheter die Messung der pulmonalarteriellen
+Drücke und des Wedgedrucks (PCWP). Per Thermodilution wurde das
+Herzzeitvolumen (HZV) bestimmt und daraus die systemischen (SVR) und
+pulmonalen (PVR) Widerstände errechnet.
+Der Untersuchungszeitpunkt 3 lag unmittelbar im Anschluss an das
+erfolgreiche Weaning von der EKZ. Noch vor der Retransfusion des Cell Saver
+
+Methodik
+
+27
+
+Blutes, respektive dem Beginn der MUF, wurde verfahren wie zum
+Untersuchungszeitpunkt 2. Zusätzlich wurde die Dosierung positiv inotrop
+wirksamer Medikamente protokolliert.
+In der Kontrollgruppe erfolgte nun die Aufbereitung des Restblutes mittels des
+Cell Savers. Danach, zum Untersuchungszeitpunkt 4, wurden erneut die schon
+beschriebenen hämodynamischen und respiratorischen Parameter bestimmt
+und erneute arterielle und gemischtvenöse Blutgasanalysen angefertigt. Die
+positiv
+
+inotrope
+
+Medikation
+
+Untersuchungsgruppe
+
+wurden
+
+wurde
+die
+
+erneut
+
+In
+
+der
+
+nach
+
+MUF
+
+Intensivtherapiestation,
+
+zum
+
+identischen
+
+protokolliert.
+Messungen
+
+vorgenommen.
+Unmittelbar
+
+nach
+
+Aufnahme
+
+auf
+
+der
+
+Untersuchungszeitpunkt 5, erfolgte eine weitere Bestimmung von Hb und Hk
+sowie der hämodynamischen und respiratorischen Parameter. Darüber hinaus
+wurden die Urinproduktion und der Blutverlust aus den Dränagen erfasst.
+Weiterhin wurde die perioperative Gesamtbilanz errechnet. Hierzu gehörte
+neben der Urinproduktion und der intraoperativen Volumengabe auch das
+Prime-Volumen der HLM, zusätzliche Flüssigkeitsgaben über die HLM, die
+Transfusion von Blutprodukten und der Flüssigkeitsverlust durch Perspiration
+(Perspiratio insensibilis). Dieser wurde mit 5 ml/kg KG/h angenommen.
+Sechs Stunden nach Aufnahme auf der Intensivtherapiestation, zum
+Untersuchungszeitpunkt 6, erfolgten letztmalig die Messungen. Erneut wurden
+auch die Blutverluste und die Transfusionsmengen (Blut, Plasma oder
+Thrombozyten) dokumentiert.
+Aus den gemessenen Werten wurden der Sauerstoffgehalt des arteriellen
+Blutes (CaO2), der Sauerstoffgehalt des gemischt-venösen Blutes (CvO2), das
+Sauerstoffangebot (DO2) und der Sauerstoffverbrauch (VO2) gemäß den unten
+aufgeführten Formeln errechnet.
+
+Methodik
+
+28
+
+CaO2 = (1,32 × Hb × SaO2) + (0,003 × PaO2 )(mlO2 / dl)
+CaO2=Sauerstoffgehalt des arteriellen Blutes (ml O2/dl), 1,32=Hüffnersche Zahl (ml O2/g% Hb),
+Hb=Hämoglobinkonzentration (g%), SaO2=Sauerstoffsättigung des arteriellen Blutes (%),
+0,003=physikalisch gelöste O2-Menge im Plasma pro mmHg O2-Partialdruck,
+PaO2=Sauerstoffpartialdruck im arteriellen Blut (mmHg)
+
+CvO2 = (1,32 × Hb × SvO2 ) + (0,003 × PvO2 )(mlO2 / dl)
+CvO2=Sauerstoffgehalt des gemischt-venösen Blutes (ml O2/dl), 1,32=Hüffnersche Zahl (ml
+O2/g% Hb), Hb=Hämoglobinkonzentration (g%), SvO2=Sauerstoffsättigung des gemischtvenösen Blutes (%), 0,003=physikalisch gelöste O2-Menge im Plasma pro mmHg O2Partialdruck, PvO2=Sauerstoffpartialdruck im gemischt-venösen Blut (mmHg)
+
+Das DO2 errechnet sich als das Produkt aus Herzzeitvolumen (HZV) und
+Sauerstoffgehalt des arteriellen Blutes (CaO2):
+
+DO2 = Ca O2 × HZV × 10(mlO2 /min)
+DO2=Sauerstoffangebot (ml O2/min), CaO2=arterieller Sauerstoffgehalt (ml O2/dl),
+HZV=Herzzeitvolumen (l/min), 10=Umrechnungsfaktor für ml O2/dl in ml O2/l
+
+Das VO2 berechnet sich nach der folgenden Formel:
+
+VO2 = (CaO2 − CvO2) × HZV × 10(mlO2 /min)
+
+VO2=Sauerstoffverbrauch (ml O2/min), CaO2=arterieller Sauerstoffgehalt (ml O2/dl),
+CvO2=gemischt-venöser Sauerstoffgehalt (ml O2/dl), HZV=Herzzeitvolumen (l/min),
+10=Umrechnungsfaktor für ml O2/dl in ml O2/l
+
+Methodik
+
+29
+
+Abbildung 6
+Darstellung der Untersuchungszeitpunkte der Untersuchungsgruppe und
+der Kontrollgruppe
+
+Methodik
+
+30
+
+2.5 Transfusionsregime
+Intraoperativ, während der Phase der EKZ, wurde ein Hämatokritwert über
+20% angestrebt. Bei Unterschreiten des kritischen Grenzwertes wurden bei
+den Patienten der Kontrollgruppe und bei denjenigen Zeugen Jehovas der
+Untersuchungsgruppe, die nach entsprechender präoperativer Aufklärung der
+Fremdblutgabe zugestimmt hatten, Erythrozytenkonzentrate in die HerzLungen-Maschine transfundiert. Nach Beenden der EKZ und während der
+nachfolgenden Behandlung der Patienten auf der Intensivtherapiestation (ICU)
+wurde ein Hämatokritwert zwischen 28 und 32% angestrebt. Bei klinischen
+oder apparativen Hinweisen auf eine myokardiale Ischämie wurde im
+individuellen Fall der Transfusionstrigger höher angesetzt. Patienten mit
+klinischer Blutungsneigung erhielten außer Erythrozytenkonzentraten auch
+Fresh-Frozen-Plasma. Bei niedrigen Thrombozytenzahlen und klinischer
+Blutungsneigung wurden zusätzlich Thrombozytenkonzentrate substituiert. Ein
+niedriger Quick-Wert, eine hohe partielle Thromboplastin-Zeit (PTT) oder eine
+Thrombozytopenie ohne Hinweise auf eine Blutungstendenz stellten keine
+Tranfusionsindikation dar. Der Hämoglobinwert wurde routinemäßig in zweibis dreistündlichen Intervallen kontrolliert. Kontrollen der Blutgerinnung und der
+Thrombozytenzahl erfolgten in Abhängigkeit vom klinischen Zustand des
+Patienten nach 4 bis 6 Stunden. Alle Patienten ohne klinische Blutungsneigung
+erhielten eine kontinuierliche Heparininfusion (Liquimin, Roche, GrenzachWyhlen, Deutschland), um die PTT auf 50 sec. einzustellen. Patienten, die der
+Glaubensgemeinschaft der Zeugen Jehovas angehörten wurden nur dann
+transfundiert, wenn sie im Rahmen der Aufklärung über die Risiken des
+Eingriffs ausdrücklicher der Gabe von Fremdblut zugestimmt hatten. Zwölf der
+Zeugen Jehovas der Untersuchungsgruppe hatten sich präoperativ davon
+überzeugen
+
+lassen,
+
+bei
+
+Fremdblutgabe zu akzeptieren.
+
+dringlicher
+
+medizinischer
+
+Indikation
+
+eine
+
+Methodik
+
+31
+
+2.6 Statistische Methoden
+Alle statistischen Analysen wurden an einem Apple-Macintosh® Computer
+vorgenommen. Zur Anwendung kam das Statistikprogramm SPSS 6.1
+(Statistical Package for the Social Sciences, SPSS Inc., Chicago, USA). Die
+quantitativen Variablen wurden als Mittelwert (X) und Standardabweichung
+(SD) deskriptiv beschrieben. Der t-Test für unabhängige Stichproben wurde
+eingesetzt, um die Mittelwerte von Hb und Hk zu den verschiedenen
+Messzeitpunkten zu vergleichen. Ein p-Wert von ≤ 0,05 wurde als statistisch
+signifikant erachtet.
+
+Resultate
+
+32
+
+3. Resultate
+3.1 Patientenkollektiv
+Alle
+
+Patienten
+
+überstanden
+
+den
+
+vorgesehenen
+
+Eingriff
+
+ohne
+
+unvorhergesehene Komplikationen und konnten postoperativ zur ICU verlegt
+werden. Von den 17 Patienten der Kontrollgruppe musste ein Patient aufgrund
+eines perioperativen Myokardinfarktes über einen längeren Zeitraum beatmet
+werden. Ein weiterer Patient benötigte aufgrund einer akuten linksventrikulären
+Dekompensation
+
+eine
+
+Untersuchungsgruppe
+
+intraaortale
+musste
+
+ein
+
+Ballongegenpulsation.
+Patient
+
+bei
+
+globaler
+
+In
+
+der
+
+kardialer
+
+Dekompensation auf der Intensivstation kardiopulmonal reanimiert werden.
+Auch dieser Patient musste in der Folge über einen längeren Zeitraum beatmet
+werden. Die übrigen Patienten wurden in der Folge zeitgerecht extubiert und
+bei stabilen kardiopulmonalen Verhältnissen auf die Observationsstation
+verlegt.
+
+Die
+
+postoperativen
+
+Nachbeatmungszeiten
+
+lagen
+
+in
+
+der
+
+Untersuchungsgruppe im Durchschnitt bei 10,8 Stunden im Vergleich zu 12,5
+Stunden in der Kontrollgruppe. Dieser Unterschied war nicht signifikant (p =
+0,728).
+Die Patienten der Kontrollgruppe erhielten für den Zeitraum der Operation im
+Durchschnitt 1530 ml kristalloide Infusionslösung und 970 ml kolloidale
+Infusionslösung. In der Untersuchungsgruppe erhielten die Patienten 1382 ml
+kristalloide und 941 ml kolloidale Infusionslösungen. Hinsichtlich des Volumens
+der zellfreien Substitutionslösungen bestand zwischen beiden Gruppen kein
+statistisch signifikanter Unterschied (Kristalloide p = 0,234; Kolloide p = 0,874).
+Auch die intraoperative Diurese war in beiden Gruppen vergleichbar, genauso
+wie das Prime-Volumen der Herz-Lungen-Maschine.
+Der maximale Troponin I-Wert als Indikator für den myokardialen Schaden (48)
+lag in der Kontrollgruppe bei 6,4 µg/l, in der Untersuchungsgruppe bei 6,5 µg/l
+(p = 0,984).
+
+Resultate
+
+33
+
+Den Patienten in der Untersuchungsgruppe wurde im Durchschnitt 1976 ml
+Flüssigkeit über die modifizierte Ultrafiltration entzogen, den Patienten der
+Kontrollgruppe wurde im Durchschnitt 312 ml durch den Cell Saver
+aufbereitetes Eigenblut retransfundiert.
+3.2 Operationszeiten
+Die durchschnittliche Operationszeit in der Kontrollgruppe lag bei 182 Minuten
+und war in der Untersuchungsgruppe mit 220 min. signifikant verlängert (p <
+0,001). Die Zeit an der Herz-Lungen-Maschine und die aortale Klemmzeit
+lagen in der Kontrollgruppe bei 73 Minuten, respektive 46 Minuten und in der
+Untersuchungsgruppe bei 87 Minuten, respektive 51 Minuten (HLM-Zeit p =
+0,060; Klemmzeit p = 0,068). Da die modifizierte Ultrafiltration nach Abstellen
+der HLM vorgenommen wird, blieben HLM-Dauer und Klemmzeit im
+Gegensatz zur gesamten Operationsdauer durch die modifizierte Ultrafiltration
+unbeeinflusst. Die Tabellen 5 und 6 enthalten eine Auflistung der
+unterschiedlichen Zeiten getrennt nach Untersuchungs- und Kontrollgruppe.
+
+Resultate
+
+34
+
+Tabelle 5
+Anzahl der Grafts, Operationsdauer, Dauer der Herz-Lungen-Maschine
+und aortale Klemmzeit bei den Patienten der Untersuchungsgruppe
+Nummer
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+X
+SD
+
+Anzahl
+Grafts
+3
+3
+4
+2
+4
+3
+3
+2
+3
+3
+3
+2
+2
+2
+3
+2
+3
+
+OP-Dauer
+265
+245
+210
+275
+180
+210
+260
+220
+255
+220
+210
+240
+150
+195
+165
+240
+210
+220,59
+35,22
+
+HLM-Zeit Abklemmzeit
+103
+85
+102
+131
+87
+65
+83
+94
+97
+101
+100
+94
+54
+70
+65
+72
+80
+87,24
+18,74
+
+60
+60
+54
+63
+61
+37
+58
+54
+68
+46
+61
+44
+34
+45
+44
+43
+43
+51,47
+10,09
+
+X = Mittelwert, SD = Standardabweichung, HLM = Herz-Lungen-Maschine
+
+Resultate
+
+35
+
+Tabelle 6
+Anzahl der Grafts, Operationsdauer, Dauer der Herz-Lungen-Maschine
+und aortale Klemmzeit bei den Patienten der Kontrollgruppe
+Nummer
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+X
+SD
+
+Anzahl
+Grafts
+4
+2
+3
+3
+4
+2
+3
+3
+3
+3
+1
+2
+3
+1
+2
+3
+4
+
+OP-Dauer
+150
+170
+220
+220
+180
+160
+240
+180
+150
+180
+190
+180
+160
+160
+180
+180
+210
+182,94
+25,92
+
+HLM-Zeit Abklemmzeit
+63
+53
+84
+94
+70
+68
+96
+63
+64
+78
+77
+70
+60
+42
+52
+66
+144
+73,18
+23,07
+
+46
+33
+61
+51
+47
+43
+48
+40
+48
+51
+44
+46
+42
+37
+33
+58
+45,50
+7,78
+
+X = Mittelwert, SD = Standardabweichung, HLM = Herz-Lungen-Maschine
+
+Resultate
+
+36
+
+3.3 Transfusionsprofil in der perioperativen Phase
+In der Untersuchungsgruppe wurde ein Patient intraoperativ während der
+Phase der extrakorporalen Zirkulation transfundiert. Dieser Patient zeigte
+klinisch eine unerklärlich gesteigerte Blutungsneigung und fiel mit dem HbWert unter der extrakorporalen Zirkulation auf 6,4 g/dl ab. Sein Hk-Wert betrug
+zu diesem Zeitpunkt 20,1%. Dieser Patient erhielt zur Prävention einer
+zerebralen Ischämie 2 allogene Erythrozytenkonzentrate (50). Auf der
+Intensivtherapiestation wurden weitere vier Patienten transfundiert. Wie weiter
+oben bereits angesprochen kamen zur Transfusion nur diejenigen Zeugen
+Jehovas in Betracht, die in die medizinisch indizierte Gabe von Fremdblut
+eingewilligt hatten. Von diesen vier Patienten wiesen drei deutlich erhöhte
+postoperative
+
+Dränageverluste
+
+auf
+
+und
+
+erhielten
+
+neben
+
+allogenen
+
+Erythrozytenkonzentraten auch Fresh-Frozen-Plasmen bis zum Sistieren der
+Nachblutung. Der vierte Patient kam mit einem schon präoperativ erniedrigten
+Hb-Wert
+
+bei
+
+terminaler
+
+Niereninsuffizienz
+
+und
+
+eingeschränkter
+
+linksventrikulärer Funktion. Bei deutlichem Volumenmangel und kritischem
+Sauerstoffangebot
+
+erhielt
+
+auch
+
+dieser
+
+Patient
+
+2
+
+allogene
+
+Erythrozytenkonzentrate.
+In der Kontrollgruppe wurden 4 Patienten intraoperativ transfundiert. Einer
+dieser Patienten wies schon präoperativ einen erniedrigten Hb-Wert auf
+(Hb
+
+9,4
+
+g/dl,
+
+Hk
+
+29
+
+%).
+
+Dieser
+
+Patient
+
+benötigte
+
+5
+
+allogene
+
+Erythrozytenkonzentrate zur Sicherung eines adäquaten Sauerstoffangebotes.
+Die
+
+drei
+
+weiteren
+
+Erythrozytenkonzentrate
+
+Patienten
+intraoperativ
+
+benötigten
+sowie
+
+jeweils
+
+weitere
+
+2
+
+allogene
+
+Transfusionen
+
+mit
+
+Erythrozytenkonzentraten und Fresh-frozen-Plasmen auf der Intensivstation
+bei hohen Blutverlusten über die einliegenden Thoraxdränagen. Zwei weitere
+Patienten erhielten auf der Intensivstation Transfusionen mit allogenen
+Erythrozytenkonzentraten und Fresh-Frozen-Plasmen (Tabelle 7 und 8).
+
+Resultate
+
+37
+Tabelle 7
+
+Übersicht über die Menge und die Zeitpunkte der Transfusionen und die
+Dränagemengen in der Untersuchungsgruppe
+Nummer
+Ek OP
+Ek ICU
+FFP ICU Drainage
+5
+1450
+750
+2525
+7
+600
+990
+8
+600
+1160
+14
+600
+790
+16
+1000
+3680
+Summe
+600
+2650
+1750
+8355
+Ek OP = Transfusion intraoperativ, Ek ICU = Transfusion auf der
+Intensivtherapiestation, FFP ICU = Fresh-Frozen-Plasma auf der
+Intensivtherapiestation
+
+Tabelle 8
+Übersicht über die Menge und die Zeitpunkte der Transfusionen und die
+Dränagemengen in der Kontrollgruppegruppe
+Nummer
+Ek OP
+Ek ICU
+FFP ICU Drainage
+4
+900
+861
+12
+1000
+470
+8
+1500
+360
+13
+600
+1000
+945
+15
+600
+1000
+1310
+16
+600
+1200
+2000
+1920
+17
+600
+300
+520
+Summe
+3300
+3000
+5000
+6386
+Ek OP = Transfusion intraoperativ, Ek ICU = Transfusion auf der
+Intensivtherapiestation, FFP ICU = Fresh-Frozen-Plasma auf der
+Intensivtherapiestation
+
+In der Untersuchungsgruppe wurden perioperativ fünf Patienten transfundiert,
+in der Kontrollgruppe sieben. Es ist in diesem Zusammenhang wichtig zu
+erwähnen, dass bei den fünf Zeugen Jehovas aus der Untersuchungsgruppe,
+die eine Fremdblutgabe kategorisch abgelehnt hatten, auch aus medizinischer
+Sicht bei den festgelegten Transfusionstriggern keine Transfusionsindikation
+vorgelegen
+
+hatte.
+
+Die
+
+Zeitpunkte
+
+der
+
+Transfusion
+
+und
+
+die
+
+Transfusionsvolumina in den beiden Gruppen finden sich in den Tabellen 7
+und 8 für den individuellen Patienten aufgelistet. Insgesamt lag das gesamte
+transfundierte Fremdblutvolumen in der Untersuchungsgruppe bei 3250 ml und
+
+Resultate
+
+38
+
+in der Kontrollgruppe bei 6300 ml. Berechnet man die Transfusionsvolumina
+pro Patient, so sieht man, dass in der Untersuchungsgruppe 191 ml allogenes
+Erythrozytenkonzentrat
+Kontrollgruppe
+
+371
+
+pro
+ml
+
+Patient
+
+allogenes
+
+gegeben
+
+wurde,
+
+während
+
+Erythrozytenkonzentrat
+
+pro
+
+in
+
+der
+
+Patient
+
+transfundiert wurden. Dieser Unterschied ist im Rang-Summen-Test statistisch
+hoch signifikant (p < 0,001).
+3.4 Verlauf der Hb- und Hk-Werte
+Die Hb- und Hk-Werte zum Untersuchungszeitpunkt 1, noch vor der Einleitung
+der Anästhesie, betrugen in der Untersuchungsgruppe im Mittel 12,9 g/dl (±
+1,4) bzw. 39,9% (± 4,1) und in der Kontrollgruppe im Mittel 12,4 g/dl (± 1,6)
+bzw. 38 % (± 4,7). Die Werte lagen damit innerhalb der Normgrenzen von 14
+g% für Männer und 12 g% für Frauen, respektive von 40% für Männer und
+37% für Frauen (51).
+Zum Untersuchungszeitpunkt 2 lagen die Hb- und Hk- Werte in der
+Untersuchungsgruppe bei 11,6 g/dl (±SD) bzw. 34% (± 3,7) und in der
+Kontrollgruppe bei 10,6 g/dl (± 1,5) bzw. 32,8% (± 4,6). Der Abfall der Hb- und
+Hk- Werte war statistisch signifikant (Untersuchungsgruppe p für Hb < 0,001, p
+für Hk < 0,001; Kontrollgruppe p für Hb = 0,003, p für Hk = 0,003) und kam
+während
+
+der
+
+Einleitung
+
+der
+
+Anästhesie
+
+zustande.
+
+Während
+
+der
+
+Narkoseinduktion wurde den Patienten ca. 1 bis 1,5 Liter an kristalloiden und
+kolloidalen Infusionslösungen appliziert. Diese Volumengabe war erforderlich,
+um die rechts- und linksventrikuläre Vorlast und damit das Herzzeitvolumen
+und den arteriellen Mitteldruck in einem akzeptablen Bereich halten zu können.
+Unter der Induktion einer hochdosierten opioid gestützten Anästhesie fällt die
+Vorlast beider Ventrikel u. a. durch ein vermehrtes venöses Pooling ab. Das
+Pooling besteht in einer Kapazitierung von intravasalem Volumen in den
+großen intrathorakalen und abdominalen Venensystemen. Nur durch eine
+adäquate Volumengabe in der genannten Größenordnung kann das
+zirkulierende Volumen der vergrößerten Dimension des Gefäßsystems
+
+Resultate
+
+39
+
+angepasst werden. Die Volumengabe bewirkt dann zwangsläufig eine
+„Verdünnung“ der korpuskulären Bestandteile des Blutes und über den Effekt
+der Hämodilution einen akuten Abfall von Hb und Hk. Der arterielle Blutdruck
+während einer Narkoseeinleitung fällt nicht nur aufgrund eines vermehrten
+venösen Poolings ab. Ein Abfall des system-arteriellen Widerstandes bewirkt
+nach dem Ohm’schen Gesetz gleichfalls einen Abfall des Blutdrucks. Der
+Abfall des systemischen Widerstandes kommt zustande durch die Reduktion
+des sympatho-adrenergen Tonus nach Applikation der Anästhetika und/oder
+durch direkten Angriff dieser Substanzen an den glatten Muskelzellen der
+arteriolären Widerstandsgefäße. Soll die Verwendung von Vasopressoren
+vermieden werden, kann dem unerwünschten Blutdruckabfall durch Reduktion
+des SVR auch nur durch eine weitere Volumengabe begegnet werden.
+Vorausgesetzt, dass rechts- und linksventrikuläre Funktion normal sind, führt
+die Volumensubstitution über einen Anstieg der Vorlast nach dem FrankStarling-Mechanismus zu einer Vergrößerung des Schlagvolumens und damit
+bei konstanter Herzfrequenz zu einem gesteigerten Herzzeitvolumen. Ein
+gesteigertes
+
+Herzzeitvolumen
+
+kompensiert
+
+dann
+
+den
+
+abfallenden
+
+Gefäßwiderstand im Hinblick auf den arteriellen Mitteldruck (Ohm’sches
+Gesetz).
+Die Abbildungen 7 und 8 zeigen für jeden Patienten die Hb- Werte vor und
+nach der Narkoseeinleitung.
+
+Resultate
+
+40
+Abbildung 7
+
+Hämoglobinwerte der Patienten in der Untersuchungsgruppe zum
+Zeitpunkt T1 und T2
+Hämoglobinwerte Untersuchungsgruppe
+
+Hb g/dl
+
+20
+15
+10
+5
+0
+1 2 3 4 5 6 7 8
+
+9 10 11 12 13 14 15 16 17
+
+Patient
+Hb T1
+
+Hb T2
+
+Abbildung 8
+Hämoglobinwerte der Patienten in der Kontrollgruppe zum
+Zeitpunkt T1 und T2
+Hämoglobinwerte Kontrollgruppe
+
+Hb g/dl
+
+20
+15
+10
+5
+0
+1 2 3 4 5 6 7 8
+
+9 10 11 12 13 14 15 16 17
+
+Patient
+Hb T1
+
+Unmittelbar
+
+nach
+
+dem
+
+Weaning
+
+Hb T2
+
+vom
+
+kardiopulmonalen
+
+Bypass
+
+(Untersuchungszeitpunkt T3) betrugen die Hb- und Hk-Werte in der
+Untersuchungsgruppe 8,1 g/dl (± 1) bzw. 25,3% (± 3,1) und in der
+Kontrollgruppe 8,8 g/dl (± 1) bzw 27,2% (± 2,9). Der Abfall der Werte vom
+Zeitpunkt
+
+T2
+
+zum
+
+Zeitpunkt
+
+T3
+
+war
+
+statistisch
+
+signifikant
+
+Resultate
+
+41
+
+(Untersuchungsgruppe p für Hb < 0,001, p für Hk < 0,001; Kontrollgruppe p für
+Hb < 0,001, p für Hk < 0,001). Der geringere Abfall der Hb- und Hk-Werte in
+der Kontrollgruppe erklärt sich durch den Umstand, dass mehr Patienten der
+Kontrollgruppe zwischen Untersuchungszeitpunkt T2 und T3 allogene
+Erythrozytenkonzentraten
+
+erhalten
+
+haben.
+
+Bei
+
+einem
+
+Patienten
+
+der
+
+Kontrollgruppe steigt der Hk-Wert zwischen T2 und T3 als Resultat einer
+Transfusion sogar an. Der Unterschied des Hb-Abfalls zwischen beiden
+Gruppen erreichte statistisch ein signifikantes Niveau (p < 0,001).
+Die Abbildungen 9 und 10 zeigen für jeden Patienten den Hb-Wert vor und
+nach der extrakorporalen Zirkulation.
+Abbildung 9
+Hämoglobinwerte der Patienten in der Untersuchungsgruppe zum
+Zeitpunkt T2 und T3
+Hämoglobinwerte Untersuchungsgruppe
+
+Hb g/dl
+
+15
+10
+5
+0
+1 2 3 4 5 6 7 8
+
+9 10 11 12 13 14 15 16 17
+
+Patient
+Hb T2
+
+Hb T3
+
+Resultate
+
+42
+Abbildung 10
+Hämoglobinwerte der Patienten in der Kontrollgruppe zum
+Zeitpunkt T2 und T3
+
+Fehler! Es ist nicht möglich, durch die Bearbeitung von Feldfunktionen Objekte zu erstellen.
+
+Der Abfall der Hb- und Hk-Werte zwischen den Untersuchungszeitpunkten T2
+und T3 kam aufgrund von drei Mechanismen zustande:
+• Hämodilution durch das Prime-Volumen der HLM,
+• Hämodilution durch die antegrade kristalloide Kardioplegie und
+• durch intraoperative Blutverluste.
+Eine Hämodilution ist beim Einsatz der HLM nicht zu vermeiden. Sie ergibt sich
+zum einen durch das Prime-Volumen des extrakorporalen Systems. Das
+Prime-Volumen ist dasjenige Volumen, mit dem die HLM gefüllt wird, bevor der
+Anschluss an den Patientenkreislauf erfolgen kann. Die Zusammensetzung
+des Prime-Volumens wurde bereits im Abschnitt Methodik erläutert. Bei dem
+im Rahmen der Studie verwandten HLM- System betrug das Prime-Volumen
+exakt 1560 ml. Zu diesem Volumen addierten sich ca. 300 ml NatriumBikarbonat und Kaliumaspartat, die nach Anschluss des Patienten zum
+Ausgleich
+
+der
+
+Dilutionsazidose
+
+und
+
+des
+
+Abfalls
+
+der
+
+extrazellulären
+
+Kaliumkonzentration substituiert wurden. Dieses Volumen von 1800 bis 1900
+ml addierte sich nach Anschluss des Patienten an die HLM zum intravasalen
+Blutvolumen des Patienten. Es kam dann zu einem entsprechenden Abfall der
+Konzentration der korpuskulären Bestandteile des Blutes, d. h. zu einem Abfall
+der Hb- und Hk-Werte durch Hämodilution. Zur Hämodilution trägt bei Einsatz
+der HLM die Verwendung einer kardioplegischen Lösung bei. Bei den
+Probanden dieser Studie wurden 10 bis 15 ml/kgKG einer kristalloiden
+Brettschneider-Lösung nach Abklemmen der Aorta in die Aortenwurzel
+infundiert. Die kardioplegische Lösung, die der Preservation der funktionellen
+und strukturellen Integrität des Myokards während des Ausschlusses des
+Myokards von der Blutversorgung dient (Phase der myokardialen Anoxie),
+verteilt sich über die Koronararterien im rechts- und linksventrikulären
+
+Resultate
+
+43
+
+Myokard. Zum größten Teil fließt es nach Passage des Kapillargebietes über
+den Sinus coronarius in den rechten Vorhof ab. Im rechten Vorhof wird die
+Lösung dann mit dem systemisch zurückfließenden Blut in die HLM dräniert,
+mit dem Effekt einer weiteren Blutverdünnung. Ein kleiner Teil der
+kardioplegischen Lösung (ca. 1 bis 2%) gelangt über Venae thebesii in den
+linken Ventrikel. Nach Absaugung über einen Links-Vent gelangt auch dieses
+Volumen in die HLM. Der Anschluss der HLM hatte also zur Konsequenz, dass
+zwischen minimal 2600 ml und maximal 3200 ml kristalloide Lösungen zum
+intravasalen Volumen der Probanden zugesetzt wurden. Diese Berechnung
+bezieht sich auf ein Körpergewicht des Patienten von 80 kg. Die Zufuhr dieses
+Flüssigkeitsvolumens ist unvermeidbare Konsequenz aus dem Einsatz einer
+HLM. Drittens führten auch intraoperative Blutverluste zu dem demonstrierten
+Hb- und Hk-Abfall. Die intraoperativen Blutverluste kamen zustande während
+der Phase vor Anschluss des Patienten an die HLM. In dieser Phase wurde
+der Thorax über eine mediane Sternotomie eröffnet, die arteriellen und
+venösen Graft-Conduits wurden präpariert. Das dabei austretende Wundblut
+wurde über sogenannte Abfall-Sauger verworfen. Dieses Blutvolumen wurde
+zwar nicht quantifiziert, war aber gering und lag annähernd in einem Bereich
+von 100 ml.
+
+Zum Untersuchungszeitpunkt T4, nach Durchführung der MUF in der
+Untersuchungsgruppe bzw. nach Retransfusion des mittels Cell Saver
+aufbereiteten Restblutes in der Kontrollgruppe, betrugen die Hb- und Hk-Werte
+in der Untersuchungsgruppe 9,8 g/dl (± 1,4) bzw. 30,5% (± 4,1) und in der
+Kontrollgruppe 9,6 g/dl (± 1,2) bzw 29,9% (± 3,5). Der Anstieg des Hb- und HkWertes war für beide Gruppen statistisch signifikant (Untersuchungsgruppe p
+für Hb < 0,001, p für Hk < 0,001; Kontrollgruppe p für Hb =0,025, p für Hk =
+0.022). Gleichfalls bestand eine statistische Signifikanz für den Unterschied
+des Anstiegs von Hb und Hk zwischen Untersuchungs- und Kontrollgruppe im
+
+Resultate
+
+44
+
+ANOVA mit Messwertwiederholung (Test der Innersubjektkontraste) (p für Hb
+< 0,001, p für Hk < 0,001).
+Abbildungen 11 und 12 zeigen für jeden Patienten den Hb-Wert vor und nach
+der MUF bzw. der Retransfusion des mittels Cell Saver aufbereiteten
+Restblutes.
+Abbildung 11
+Hämoglobinwerte der Patienten in der Untersuchungsgruppe zum
+Zeitpunkt T3 und T4
+Hämoglobinwerte Untersuchungsgruppe
+
+Hb g/dl
+
+15
+10
+5
+0
+1 2 3 4 5 6 7 8
+
+9 10 11 12 13 14 15 16 17
+
+Patient
+Hb T3
+
+Hb T4
+
+Abbildung 12
+Hämoglobinwerte der Patienten in der Kontrollgruppe zum
+Zeitpunkt T3 und T4
+
+Resultate
+
+45
+Hämoglobinwerte Kontrollgruppe
+
+Hb g/dl
+
+15
+10
+5
+0
+1 2 3 4 5 6 7 8
+
+9 10 11 12 13 14 15 16 17
+
+Patient
+Hb T3
+
+Hb T4
+
+Der Anstieg des Hb- und Hk-Wertes in der Kontrollgruppe erklärt sich
+zwanglos durch die Transfusion des aufbereiteten Restblutes. In dieser Studie
+wurden im Mittel 312 ml aufbereitetes Blut retransfundiert. Dieses führte zu
+dem
+
+beschriebenen
+
+Hb-Anstieg
+
+von
+
+8,8
+
+g/dl
+
+auf
+
+9,6
+
+g/dl.
+
+In
+
+der
+
+Untersuchungsgruppe kam der Anstieg des Hb- und Hk-Wertes ohne
+Transfusion zustande. Er erklärt sich durch die MUF. Wie schon zuvor
+beschrieben kommt es bei der MUF durch Filtration von Flüssigkeit aus dem
+zirkulierenden Blutvolumen des Patienten zu einer Konzentration der
+korpuskulären Anteile des Blutes.
+Nach Verlegung der Patienten aus dem OP auf die Intensivtherapiestation gab
+es keine signifikanten Veränderungen des Hb- und Hk-Wertes mehr, weder in
+der
+
+Untersuchungsgruppe,
+
+noch
+
+in
+
+der
+
+Kontrollgruppe.
+
+In
+
+der
+
+Untersuchungsgruppe sanken der Hb-Wert bzw. der Hk-Wert von 9,9 g/dl (±
+1,4) bzw. 30,5% (± 4,1) zum Untersuchungszeitpunkt T4 auf 9,5 g/dl (± 1,3)
+bzw. 29,3% (± 3,8) zum Untersuchungszeitpunkt T5 (p für Hb = 0,397, p für Hk
+= 0,399) und weiter auf 9,4 g/dl (± 1,5) bzw. 29,1% (± 4,5) zum
+Untersuchungszeitpunkt T6 (p für Hb = 0,855, p für Hk = 0,852). In der
+Kontrollgruppe lagen die Hb- und Hk-Werte zum Untersuchungszeitpunkt T4
+bei
+
+9,7
+
+g/dl
+
+(±
+
+1,7)
+
+bzw
+
+29,9%
+
+(±
+
+3,5)
+
+und
+
+sanken
+
+bis
+
+zum
+
+Resultate
+
+46
+
+Untersuchungszeitpunkt T5 auf 9,7 g/dl (± 1) und 30% (± 3,1) (p für Hb =
+0,963, p für Hk = 0,984). Zum Untersuchungszeitpunkt T6 lagen die Werte bei
+9,6 g/dl (± 0,8) und 29,8% (± 2,6) (p für Hb = 0,848, p für Hk = 0,845).
+Die Abbildungen 13 und 14 zeigen für jeden Patienten den Verlauf der HbWerte nach der MUF bzw. der Retransfusion des aufbereiteten Blutes bis zum
+Ende der Untersuchung (Untersuchungszeitpunkt T6).
+Abbildung 13
+Hämoglobinwerte der Patienten in der Untersuchungsgruppe zum
+Zeitpunkt T4, T5 und T6
+Hämoglobinwerte Untersuchungsgruppe
+
+Hb g/dl
+
+15
+10
+5
+0
+1 2 3 4 5 6 7 8
+
+9 10 11 12 13 14 15 16 17
+
+Patient
+Hb T4
+
+Hb T5
+
+Hb T6
+
+Resultate
+
+47
+
+Abbildung 14
+Hämoglobinwerte der Patienten in der Kontrollgruppe zum
+Zeitpunkt T4, T5 und T6
+Hämoglobinwerte Kontrollgruppe
+
+Hb g/dl
+
+15
+10
+5
+0
+1 2 3 4 5 6 7 8
+
+9 10 11 12 13 14 15 16 17
+
+Patient
+Hb T4
+
+Hb T5
+
+Hb T6
+
+Die mittleren Hb- und Hk-Werte in den beiden Gruppen während des
+Aufenthaltes auf der ICU unterschieden sich nicht, auch der Abfall der Werte
+war nicht signifikant. Wie aus Tabelle 7 und 8 ersichtlich, wurden in beiden
+Gruppen ähnliche Mengen an allogenem Blut transfundiert. Allein in der Gabe
+von Fresh-Frozen-Plasma fand sich ein signifikanter Unterschied mit einer
+geringeren Transfusionsmenge in der Untersuchungsgruppe. Auffällig waren
+die
+
+postoperativen
+
+Dränagemengen, die in der
+
+Untersuchungsgruppe
+
+signifikant höher lagen. Eine Erklärung für diese Tatsache, die sich aus der
+Literatur nicht nachvollziehen ließ, konnte nicht gefunden werden.
+
+Resultate
+
+48
+
+Tabelle 9 fasst die Hb- und Hk-Werte der beiden Gruppen zu den
+unterschiedlichen Untersuchungszeitpunkten noch einmal zusammen.
+Tabelle 9
+Übersicht über die Hb- und Hk-Werte der beiden Gruppen im Verlauf der
+Untersuchung
+Zeitpunkte
+
+Untersuchungsgruppe
+Hb
+Hk
+13,0±1,4
+39,9±4,1
+11,0±1,3
+34,0±3,7
+8,1±1,0
+25,3±3,1
+9,9±1,4
+30,5±4,1
+9,5±1,3
+29,4±3,8
+9,4±1,5
+29,1±4,5
+
+T1
+T2
+T3
+T4
+T5
+T6
+
+Kontrollgruppe
+Hb
+Hk
+13,0±1,6
+38,0±4,7
+10,6±1,5
+32,8±4,6
+8,8±1,0
+27,2±3,0
+9,7±1,2
+29,9±3,5
+9,7±1,0
+30,0±3,1
+9,6±0,9
+29,8±2,6
+
+Die Abbildungen 15 und 16 zeigen noch einmal den Verlauf der mittleren Hbund Hk-Werte über den gesamten Untersuchungszeitraum.
+Abbildung 15
+Verlauf der mittleren Hämoglobinwerte
+Hämoglobinwerte
+
+Hb g/dl
+
+15,0
+10,0
+5,0
+0,0
+1
+
+2
+
+3
+
+4
+
+5
+
+Zeitpunkte
+Kontrollgruppe
+
+Untersuchungsgruppe
+
+6
+
+Resultate
+
+49
+
+Abbildung 16
+Verlauf der mittleren Hämatokritwerte
+
+Hk %
+
+Hämatokritwerte
+50,0
+40,0
+30,0
+20,0
+10,0
+0,0
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Zeitpunkte
+Kontrollgruppe
+
+Untersuchungsgruppe
+
+3.5 Hämodynamisches Profil
+Zur Erstellung eines hämodynamischen Profils der Patienten in dieser Studie
+wurden folgende Parameter herangezogen: Der mittlere arterielle Blutdruck
+(MAD), gemessen über die liegende arterielle Kanüle, der system-vaskuläre
+Widerstandsindex (SVRI), der pulmonal-vaskuläre Widerstandsindex (PVRI)
+und der Herz-Zeit-Volumenindex (CI), gemessen per Thermodilutionsmethode
+mittels des pulmonalarteriellen Katheters. Aus diesen Werten, sowie den
+gleichzeitig bestimmten Hb-Werten, Sauerstoffpartialdruck-Werten und den
+Sauerstoffsättigungen wurde nach den oben beschriebenen Formeln das
+Sauerstoffangebot (DO2) und der Sauerstoffverbrauch (VO2) errechnet. Diese
+Parameter
+
+wurden
+
+vom
+
+Untersuchungszeitpunkt
+
+T2
+
+an
+
+bis
+
+zum
+
+Untersuchungszeitpunkt T6 bestimmt.
+In der oben schon dargestellten Formel quantifiziert der Ausdruck in der linken
+Klammer die chemisch an das Hämoglobin gebundene Sauerstoffmenge. Der
+Ausdruck in der rechten Klammer beziffert diejenige Sauerstoffmenge, die sich
+physikalisch gelöst im Plasma befindet. Unter physiologischen Bedingungen ist
+die physikalisch gelöste Sauerstoffmenge gering und wird deshalb häufig bei
+
+Resultate
+
+50
+
+der Berechnung vernachlässigt. Die Probanden dieser Studie sind jedoch nach
+dem Weaning von der HLM mit reinem Sauerstoff beatmet worden. Aus
+diesem Grund waren die arteriellen Sauerstoffpartialdrücke hoch, und die
+physikalisch gelöste Sauerstoffmenge wurde in die Berechnung des arteriellen
+Sauerstoffgehalts einbezogen. Normwerte für das DO2 liegen zwischen 600 bis
+1000 ml O2/min, für den VO2 bei 250 ml O2/min für den wachen Patienten bzw.
+bei 150 bis 200 ml O2/min für den narkotisierten Patienten (51).
+Die Tabellen 10 und 11 zeigen eine Übersicht der Mittelwerte der oben
+beschriebenen
+
+Parameter
+
+in
+
+der
+
+Untersuchungsgruppe
+
+und
+
+der
+
+Kontrollgruppe.
+Tabelle 10
+Verlauf von MAD, CI, VO2, DO2, SVRI und PVRI in der
+Untersuchungsgruppe
+
+MAD
+CI
+VO2
+DO2
+SVRI
+PVRI
+
+T2
+
+T3
+
+T4
+
+T5
+
+T6
+
+73±10
+2,1±0,5
+103±37
+588±162
+2302±724
+331±140
+
+67±13
+3,7±0,8
+147±51
+759±271
+1544±707
+224±45
+
+82±15
+3,1±0,8
+139±52
+793±290
+2007±632
+267±78
+
+88±13
+3,1±0,8
+191±48
+734±267
+2184±682
+289±89
+
+81±12
+2,8±0,6
+207±58
+648±194
+2192±488
+285±104
+
+Tabelle 11
+Verlauf von MAD, CI, VO2, DO2, SVRI und PVRI in der
+Kontrollgruppe
+
+MAD
+CI
+VO2
+DO2
+SVRI
+PVRI
+
+T2
+70±9
+2,2±0,4
+93±42
+603±196
+2065±517
+282±103
+
+T3
+78±11
+4,2±1,1
+187±63
+972±329
+1696±682
+181±88
+
+T4
+75±8
+3,3±0,8
+125±59
+837±265
+1637±516
+196±72
+
+T5
+88±9
+3,3±1,2
+197±55
+820±275
+2041±819
+215±73
+
+T6
+82±11
+3±0,8
+192±72
+722±293
+1925±498
+293±175
+
+Resultate
+
+51
+
+3.5.1 Mittlerer arterieller Druck
+Anhand der folgenden Abbildung 17 und der Tabelle 12 wird der Verlauf des
+MAD über den Untersuchungszeitraum in beiden Gruppen dargestellt.
+Abbildung 17
+Verlauf des mittleren arteriellen Drucks
+arterieller Mitteldruck
+
+mmHg
+
+150
+100
+50
+0
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Zeitpunkte
+Kontrollgruppe
+
+Untersuchungsgruppe
+
+Tabelle 12
+Verlauf des mittleren arteriellen Drucks mit den entsprechenden
+Signifikanzen im Verlauf und zwischen den Gruppen
+Zeitpunkt
+T2
+T3
+T4
+T5
+T6
+
+Signifikanzvergleich zu den
+Untersuchungszeitpunkten
+MAD-U
+p
+MAD-K
+p
+73±10
+70±9
+67±13
+0,16
+78±11
+0,029
+82±15
+0,004
+75±8
+0,292
+88±13
+0,224
+88±9
+<0,001
+81±12
+0,117
+82±11
+0,078
+
+Signifikanzvergleich
+zwischen den
+Gruppen
+p = 0,423
+p = 0,01
+p = 0,08
+p = 0,988
+p = 0,856
+
+MAD-U = mittlerer arterieller Druck in der Untersuchungsgruppe, MAD-K = mittlerer arterieller
+Druck in der Kontrollgruppe
+
+Abbildung 17 zeigt den Verlauf des MAD der beiden Gruppen über den
+Untersuchungszeitraum. Tabelle 12 stellt die Signifikanzen, errechnet mittels tTest für unabhängige Stichproben bei gleicher Varianz, einmal im Vergleich
+
+Resultate
+
+52
+
+der verschiedenen Zeitpunkte in jeweils einer Gruppe und einmal im Vergleich
+der beiden Gruppen zum gleichen Zeitpunkt dar.
+Erkennbar ist, dass zum Zeitpunkt T3, unmittelbar nach Beenden der EKZ, ein
+signifikanter Unterschied zwischen den beiden Gruppen bestand. Hier war der
+MAD in der Untersuchungsgruppe signifikant niedriger als bei den Patienten
+der Kontrollgruppe. Weiterhin ließ sich ein signifikanter Anstieg des MAD in der
+Untersuchungsgruppe vom Zeitpunkt T3 zum Zeitpunkt T4 darstellen. In der
+Kontrollgruppe kam es zu einem signifikanten Anstieg des MAD vom Zeitpunkt
+T2 nach T3 und vom Zeitpunkt T4 nach T5.
+3.5.2 Herz-Zeit-Volumenindex
+Der Verlauf des CI wird in der folgenden Abbildung 18 und in der folgenden
+Tabelle 13 dargestellt.
+Abbildung 18
+Verlauf des Herz-Zeit-Volumenindex
+Herz-Zeit-Volumen Index
+
+l/m² KÖF
+
+6
+4
+2
+0
+1
+
+2
+
+3
+
+4
+
+5
+
+Zeitpunkte
+Kontrollgruppe
+
+Untersuchungsgruppe
+
+6
+
+Resultate
+
+53
+
+Tabelle 13
+Verlauf des Herz-Zeit-Volumenindex mit den entsprechenden
+Signifikanzen im Verlauf und zwischen den Gruppen
+Zeitpunkt
+T2
+T3
+T4
+T5
+T6
+
+Signifikanzvergleich zu den
+Untersuchungszeitpunkten
+CI-U
+p
+CI-K
+p
+2,1±0,5
+2,2±0,4
+3,7±0,8
+<0,001
+4,2±1,1
+<0,001
+3,1±0,8
+0,056
+3,3±0,8
+0,011
+3,1±0,8
+0,773
+3,3±1,2
+0,985
+2,8±0,6
+0,284
+3±0,8
+0,491
+
+Signifikanzvergleich
+zwischen den
+Gruppen
+p = 0,842
+p = 0,145
+p = 0,601
+p = 0,506
+p = 0,287
+
+CI-U = Herz-Zeit-Volumenindex in der Untersuchungsgruppe, CI-K = Herz-Zeit-Volumenindex
+in der Kontrollgruppe
+
+Wie man an der Tabelle 13 erkennen kann, war der CI zu den einzelnen
+Untersuchungszeitpunkten zwischen den Gruppen zu keinem Zeitpunkt
+signifikant unterschiedlich. Betrachtet man allerdings die zeitlichen Verläufe
+des CI, so sieht man, dass in der Untersuchungsgruppe der CI zum Zeitpunkt
+T3, nach Beenden der EKZ, signifikant angestiegen war. Im weiteren Verlauf
+der Untersuchung kam es zu keinen weiteren statistisch signifikanten
+Veränderungen des CI.
+In der Kontrollgruppe kam es ebenfalls zu einem statistisch signifikanten
+Anstieg des CI zum Zeitpunkt T3, allerdings fiel hier zum Zeitpunkt T4 der CI
+auch wieder signifikant ab, und blieb im weiteren Verlauf gleich.
+Die Normalwerte für den CI liegen bei 2,5 – 4,2 l/min/m2 (51). Wie man
+erkennt, lag zum Zeitpunkt T2 der CI in beiden Gruppen unter dem
+Normalwert, wie er in der Literatur angegeben wird.
+
+Resultate
+
+54
+
+3.5.3 System-vaskulärer Widerstandsindex
+Der Verlauf des SVRI wird in der folgenden Abbildung 19 und der folgenden
+Tabelle 14 wiedergegeben.
+Abbildung 19
+Verlauf des system-vaskulären Widerstandes
+
+dynxSekxcm-5/m²
+
+system-vaskulärer Widerstand
+4000
+3000
+2000
+1000
+0
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Zeitpunkte
+Kontrollgruppe
+
+Untersuchungsgruppe
+
+Tabelle 14
+Verlauf des system-vaskulären Widerstandes mit den entsprechenden
+Signifikanzen im Verlauf und zwischen den Gruppen
+Zeitpunkt
+T2
+T3
+T4
+T5
+T6
+
+Signifikanzvergleich zu den
+Untersuchungszeitpunkten
+SVRI-U
+p
+SVRI-K
+2302±724
+2065±517
+1544±707
+0,004
+1696±682
+2007±632
+0,053
+1637±516
+2184±682
+0,437
+2041±819
+2192±488
+0,971
+1925±498
+
+p
+0,085
+0,777
+0,095
+0,626
+
+Signifikanzvergleich
+zwischen den
+Gruppen
+p = 0,281
+p = 0,526
+p = 0,071
+p = 0,584
+p = 0,129
+
+SVRI-U = system-vaskulärer Widerstandsindex in der Untersuchungsgruppe, SVRI-K =
+system-vaskulärer Widerstandsindex in der Kontrollgruppe
+
+Wie man anhand der Tabelle 14 erkennen kann, gab es zu keinem Zeitpunkt
+der Untersuchung im Vergleich zwischen den Gruppen einen signifikanten
+Unterschied bezüglich des SVRI. Betrachtet man die Verläufe des SVRI, fällt
+auf, dass in der Kontrollgruppe kein signifikanter Unterschied des SVRI im
+
+Resultate
+
+55
+
+gesamten Untersuchungszeitraum bestand. Zwar kam es zu einem Abfall des
+SVRI zum Zeitpunkt T3, nach Beenden der EKZ, so war dieser allerdings
+statistisch nicht signifikant. In der Untersuchungsgruppe dagegen war der
+Abfall des SVRI zum Zeitpunkt T3 signifikant. Der darauf folgende Anstieg zum
+Zeitpunkt T4, nach der MUF, verfehlte nur knapp das Signifikanzniveau.
+Auffällig ist, dass in der Untersuchungsgruppe der SVRI nach der MUF
+anstieg,
+
+während
+
+er
+
+in
+
+der
+
+Kontrollgruppe
+
+nach
+
+Retransfusion
+
+des
+
+aufbereiteten Blutes eine leicht abfallende Tendenz bot.
+Alle Werte des SVRI in dieser Untersuchung lagen im Normalbereich von 1400
+– 3100 dyn × s × cm-5 × m2 (51).
+3.5.4 Pulmonal-vaskulärer Widerstandsindex
+Der Verlauf des PVRI wird in der folgenden Abbildung 20 und der folgenden
+Tabelle 15 wiedergegeben.
+Abbildung 20
+Verlauf des pulmonal-vaskulären Widerstandes
+
+dynxSekxcm-5/m²
+
+pulmonal-vaskulärer Widerstand
+500
+400
+300
+200
+100
+0
+1
+
+2
+
+3
+
+4
+
+5
+
+Zeitpunkt
+Kontrollgruppe
+
+Untersuchungsgruppe
+
+6
+
+Resultate
+
+56
+
+Tabelle 15
+Verlauf des pulmonal-vaskulären Widerstandes mit den entsprechenden
+Signifikanzen im Verlauf und zwischen den Gruppen
+Zeitpunkt
+T2
+T3
+T4
+T5
+T6
+
+Signifikanzvergleich zu den
+Untersuchungszeitpunkten
+PVRI-U
+p
+PVRI-K
+p
+331±140
+282±103
+224±45
+0,005
+181±88
+0,004
+267±78
+0,058
+196±72
+0,582
+289±89
+0,467
+215±73
+0,467
+285±104
+0,913
+293±175
+0,101
+
+Signifikanzvergleich
+zwischen den
+Gruppen
+p = 0,256
+p = 0,082
+p = 0,009
+p = 0,013
+p = 0,88
+
+PVRI-U = pulmonal-vaskulärer Widerstandsindex in der Untersuchungsgruppe, PVRI-K =
+pulmonal-vaskulärer Widerstandsindex in der Kontrollgruppe
+
+Anhand der Tabelle 15 lässt sich erkennen, dass im Vergleich der beiden
+Gruppen ein signifikanter Unterschied des PVRI zu den Zeitpunkten T4 und T5
+bestand. In beiden Fällen war der PVRI in der Untersuchungsgruppe
+signifikant höher als in der Kontrollgruppe. In beiden Gruppen kam es weiterhin
+zu einem signifikanten Abfall des PVRI nach Beenden der EKZ, zum Zeitpunkt
+T3. Auffällig ist, dass in der Untersuchungsgruppe der PVRI über die gesamte
+Untersuchung gesehen abfiel, während er in der Kontrollgruppe anstieg. Diese
+Ergebnisse erreichten allerdings nicht das Signifikanzniveau.
+Alle Werte des PVRI in dieser Untersuchung lagen im Normalbereich von 140
+– 480 dyn × s × cm-5 × m2 (51).
+3.5.5 Sauerstoffangebot
+Die folgende Abbildung 21 und die folgende Tabelle 16 stellen den Verlauf des
+DO2 über den Untersuchungszeitraum dar.
+
+Resultate
+
+57
+
+Abbildung 21
+Verlauf des Sauerstoffangebotes
+Sauerstoffangebot
+
+ml O2/min
+
+1500
+1000
+500
+0
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Zeitpunkte
+Kontrollgruppe
+
+Untersuchungsgruppe
+
+Tabelle 16
+Verlauf des Sauerstoffangebotes mit den entsprechenden Signifikanzen
+im Verlauf und zwischen den Gruppen
+Zeitpunkt
+T2
+T3
+T4
+T5
+T6
+
+Signifikanzvergleich zu den
+Untersuchungszeitpunkten
+DO2-U
+p
+DO2-K
+p
+588±162
+603±196
+759±271 0,032
+972±329
+<0,001
+793±290 0,723
+837±265
+0,197
+734±267 0,543
+820±275
+0,856
+648±194 0,291
+722±293
+0,324
+
+Signifikanzvergleich
+zwischen den
+Gruppen
+p = 0,791
+p = 0,047
+p = 0,649
+p = 0,365
+p = 0,392
+
+DO2-U = Sauerstoffangebot in der Untersuchungsgruppe, DO2-K = Sauerstoffangebot in der
+Kontrollgruppe
+
+Anhand der Abbildung 21 und der Tabelle 16 erkennt man, dass das DO2 in
+der Kontrollgruppe zum Zeitpunkt T3 signifikant höher lag als in der
+Untersuchungsgruppe. In beiden Gruppen fand ein signifikanter Anstieg des
+DO2 von Zeitpunkt T2, unmittelbar nach der Einleitung der Narkose, zum
+Zeitpunkt T3, nach Beenden der EKZ, statt. Im weiteren Verlauf gab es keine
+weiteren statistisch signifikanten Änderungen des DO2, obwohl sich ein
+
+Resultate
+
+58
+
+abfallender Trend zum Ende der Untersuchung hin abzeichnete. Auffällig war,
+das zum Zeitpunkt T2 in beiden Gruppen das DO2 nah an seinem unteren
+Grenzwert von 600 - 1000 ml O2/min lag (52), in der Untersuchungsgruppe
+knapp darunter, in der Kontrollgruppe knapp darüber.
+3.5.6 Sauerstoffverbrauch
+Die folgende Abbildung 22 und die folgende Tabelle 17 stellen den Verlauf des
+VO2 über den Untersuchungszeitraum dar.
+Abbildung 22
+Verlauf des Sauerstoffverbrauchs
+
+ml O2/min
+
+Sauerstoffverbrauch
+300
+250
+200
+150
+100
+50
+0
+1
+
+2
+
+3
+
+4
+
+5
+
+Zeitpunkte
+Kontrollgruppe
+
+Untersuchungsgruppe
+
+6
+
+Resultate
+
+59
+
+Tabelle 17
+Verlauf des Sauerstoffverbrauchs mit den entsprechenden Signifikanzen
+im Verlauf und zwischen den Gruppen
+Zeitpunkt
+T2
+T3
+T4
+T5
+T6
+
+Signifikanzvergleich zu den
+Signifikanzvergleich
+Untersuchungszeitpunkten
+zwischen den
+Gruppen
+VO2-U
+p
+VO2-K
+p
+103±37
+93±42
+p = 0,486
+147±51
+0,007
+127±63
+0,291
+p = 0,331
+139±52
+0,675
+125±59
+0,684
+p = 0,466
+191±48
+0,005
+197±55
+<0,001
+p = 0,766
+207±58
+0,406
+192±72
+0,825
+p = 0,508
+
+VO2-U = Sauerstoffverbrauch in der Untersuchungsgruppe, VO2-K = Sauerstoffverbrauch in
+der Kontrollgruppe
+
+Man erkennt anhand der Abbildung 22 und der Tabelle 17, dass es zwischen
+den Gruppen zu keinem Zeitpunkt einen signifikanten Unterschied des VO2
+gab. In der Untersuchungsgruppe steigt der VO2 zum Zeitpunkt T3, nach der
+EKZ, signifikant an. Ein weiterer signifikanter Anstieg des VO2 fand in beiden
+Gruppen zum Zeitpunkt T5, der Aufnahme auf die ICU, statt. Interessant waren
+die VO2 Werte zum Zeitpunkt T2, also nach Einleitung der Narkose, aber noch
+vor Hautschnitt. In beiden Gruppen lag der VO2 deutlich unter den
+Normalwerten von 250 ml O2/min für den wachen Patienten bzw. von 150 bis
+200 ml O2/min für den narkotisierten Patienten.
+
+Diskussion
+
+60
+
+4. Diskussion
+Bei Zeugen Jehovas ist die Ablehnung allogener Bluttransfusionen ein
+Grundsatz ihrer Glaubensüberzeugung (53). Diese Einstellung basiert auf drei
+Bibelzitaten. Darin wird den Gläubigen auferlegt, sich von Blut fernzuhalten und
+dieses nicht zu essen (29,30,31). In der Interpretation der Zeugen Jehovas wird
+die
+
+intravenöse
+
+Gabe
+
+von
+
+Blutprodukten
+
+einer
+
+Nahrungsaufnahme
+
+gleichgestellt. Die biblischen Gebote werden als Grundlage des Handelns
+angesehen und bestimmen die Wertvorstellungen und Maßstäbe der
+Glaubensgemeinschaft. Für die Zeugen Jehovas führt eine Zuwiderhandlung
+gegen die Blutdoktrin zu „ewiger Verdammung“ (54). Für die Zeugen Jehovas
+hat die Abwägung zwischen dem Risiko und dem Nutzen einer Operation und
+einer damit eventuell verbundenen Bluttransfusion aus einem anderen
+Blickwinkel als dem der alleinigen medizinischen Ratio zu erfolgen. Bei ihnen
+entscheidet sich die Frage der Bluttransfusion nämlich vor dem Hintergrund der
+Dualität zwischen einem „Weiterleben auf Erden“ und „ewiger Verdammnis“.
+Kann das „Weiterleben auf Erden“ nur durch eine Bluttransfusion gesichert
+werden, lehnt ein Zeuge Jehovas diese Maßnahme ab, auch wenn der Verzicht
+auf eine Transfusion ihn das Leben kostet. Der Preis für ein Weiterleben wäre
+nämlich die „ewige Verdammnis“ (55). Diese Glaubensüberzeugung ist von
+einem Therapeuten stets zu beachten, wenn ein Zeuge Jehovas als Patient in
+eine Situation kommt, in der eine Bluttransfusion erforderlich ist. Die
+Glaubensüberzeugung der Zeugen Jehovas verlangt es dem Arzt ab zu
+verstehen, dass er in einer solchen Situation nicht mehr über das irdische
+Leben des Patienten zu entscheiden hat, sondern Mitverantwortung für ein
+Weiterleben der Seele nach dem Tod des menschlichen Organismus
+übernimmt. Für Ärzte, die sich mit dem Hippokratischen Eid dem Erhalt des
+körperlichen irdischen Lebens verpflichtet haben, ergibt sich aus den
+Überzeugungen der Zeugen Jehovas zur Bluttransfusion somit ein doppeltes
+Dilemma: Durch Eid der körperlichen Existenz verpflichtet, sollen sie
+Verantwortung für die Seele eines Patienten übernehmen, so das eine
+
+Diskussion
+
+61
+
+Dilemma, und sie sollen sich gegen ihr gesichertes Wissen verhalten, da die
+medizinischen Erwägungen zur Indikation einer Bluttransfusion durch die
+Ablehnung der Zeugen Jehovas konterkariert werden, so das andere Dilemma.
+Die angesprochenen Bibelverse sind nicht medizinisch formuliert, schließen
+aber in der Interpretation der WTG die Transfusion von Vollblut und die
+Verabreichung von Konzentraten aus Erythrozyten, Leukozyten, Thrombozyten
+und Plasma aus. Da die Zeugen glauben, dass das Blut, wenn es den
+Körperkreislauf verlassen hat, beseitigt werden muss, werden auch die
+Autotransfusion nach Eigenblutspende und die perioperative isovolämische
+Hämodilution abgelehnt. Ist hingegen der Körperkreislauf nicht unterbrochen,
+wie bei der Verwendung eines Dialysegerätes oder einer HLM, obliegt es dem
+jeweiligen Patienten, nach seinem eigenen Gewissen zu entscheiden. Beim
+Einsatz dieser Geräte darf es jedoch keinesfalls zu einer Zwischenlagerung des
+Blutes kommen. Das extrakorporale Schlauchsystem wird dabei als temporäre
+Erweiterung des körpereigenen Blutkreislaufs angesehen. Somit kommt es
+nicht zur Entfernung, sondern nur zu einer Umleitung von Blut. Bei der
+Befüllung der Systeme ist selbstverständlich darauf zu achten, dass kein
+Fremdblut verwandt wird. Auch die Gabe bestimmter Blutfraktionen wie
+Albumin, Immunglobuline und Faktoren zur Blutgerinnung kann der einzelne
+Zeuge vor dem Hintergrund seines Gewissensentscheids akzeptieren oder
+auch ablehnen (56).
+Als
+
+weitere
+
+nicht
+
+auf
+
+Glaubensüberzeugungen
+
+beruhende
+
+Argumente,
+
+Transfusionen abzulehnen, führen die Zeugen Jehovas das Risiko einer
+Transfusionsreaktion und das Risiko einer transfusionsbezogenen Infektion an.
+Bei den Transfusionsreaktionen werden unspezifische von spezifischen
+unterschieden. Die unspezifischen Transfusionsreaktionen verlaufen als
+nichthämolytische, allergische oder febrile Reaktionen und sind die häufigste
+Nebenwirkung von Fremdbluttransfusionen. Nach Einschätzung der American
+Society of Anesthesiologists hat die unspezifische Transfusionsreaktion eine
+Häufigkeit
+
+von
+
+1-5%
+
+(57).
+
+Ursächlich
+
+liegt
+
+der
+
+nichthämolytischen
+
+Transfusionsreaktion eine Komplexbildung zwischen transfundierten IgA-
+
+Diskussion
+
+62
+
+Antikörpern und Anti-IgA-Antikörpern des Empfängers zugrunde. Für die
+allergische
+
+Transfusionsreaktion
+
+sind
+
+übertragene
+
+IgG-Antikörper
+
+verantwortlich, bei den febrilen Reaktionen spielen zytotoxische AntigenAntikörperreaktionen eine ausschlaggebende Rolle. Klinisch manifestieren sich
+die unspezifischen Reaktionen durch Fieber, Schüttelfrost und Urtikaria. Die
+spezifischen Transfusionsreaktionen lösen eine Hämolyse aus und treten bei
+ABO-inkompatibler Transfusion auf. Lebensbedrohliche Schockzustände mit
+akutem Nierenversagen und Herz-Kreislauf-Versagen können die Folge sein.
+Tödliche Transfusionszwischenfälle bei Fehltransfusionen und Vorliegen
+irregulärer Antikörper werden mit einer Wahrscheinlichkeit von 1:800.0001.500.000 angegeben (58). In jüngster Zeit werden auch immunulogische
+Reaktionen im Sinne einer Immunsuppression nach Fremdbluttransfusionen
+diskutiert (59,60). Die Meinungen und Veröffentlichungen hierzu sind nicht
+einheitlich, es zeigen sich aber bei transfundierten Patienten vermehrt
+postoperative
+
+Infektionen
+
+nach
+
+orthopädischen
+
+Eingriffen
+
+sowie
+
+nach
+
+intraabdomineller Tumorchirurgie (61,62). Aktuelle Veröffentlichungen zeigen,
+dass die Transfusion von Fremdblut assoziiert ist mit einer Erhöhung der
+perioperativen Mortalität. Auch ein vermehrtes Auftreten von Schlaganfällen,
+Nierenversagen, Bakteriämien und Wundinfektionen konnte nachgewiesen
+werden
+
+(63).
+
+Mit
+
+der
+
+Anwendung
+
+von
+
+Leukozytenfiltern
+
+sind
+
+die
+
+immunologischen Reaktionen jedoch vermeidbar (64,65). Bei den durch
+Transfusion übertragenen Infektionen stehen die Virusinfektionen an erster
+Stelle. Die Posttransfusionshepatitiden sind in 90% durch das Hepatitis C Virus
+verursacht. Die Gefahr einer Infektion mit dem Hepatitis C Virus liegt in
+amerikanischen Zentren zwischen 1: 3.000-10.000, bei 1:20.000 in Deutschland
+(66). Bei der Hepatitis B liegt das Risiko bei 1:50.000 (66). Das Risiko mit HIV
+infiziert zu werden ist nicht sicher voraussagbar. Der Grund liegt im
+diagnostischen Fenster zwischen Virämie und Antikörperproduktion bei
+infizierten Blutspendern. Durch den Nachweis von IgM-Antikörpern hat dieses
+Fenster eine Dauer zwischen 22 und 35 Tagen (67). Die Wahrscheinlichkeit
+nach einer Transfusion an HIV 1 oder 2 zu erkranken, liegt in Deutschland
+
+Diskussion
+
+zwischen
+
+63
+1:300.000
+
+endemischen
+
+bis
+
+1:1.000.000,
+
+Vorkommens
+
+des
+
+in
+
+Zentralafrika
+
+Erregers
+
+bei
+
+aufgrund
+
+1:1.000.
+
+des
+
+Bakterielle
+
+Kontaminationen und Infektionen durch Malaria- oder Lues-Erreger sind selten
+und werden in den USA mit einer Inzidenz von 1:1.000.000 angegeben (68).
+Von
+
+den
+
+Zeugen
+
+Jehovas
+
+Krankenhausverbindungskomitees
+
+ist
+
+ein
+
+weltweites
+
+Netz
+
+von
+
+worden,
+
+um
+
+den
+
+aufgebaut
+
+Informationsaustausch zwischen den behandelnden Ärzten, die das partielle
+Behandlungsverbot respektieren, und den Patienten zu vereinfachen. Die
+örtlichen Krankenhausverbindungskomitees verstehen sich als Mittler zwischen
+Patienten und Ärzten. Sie bieten an, medizinische Informationen über blutlose
+Alternativbehandlungen aufzuzeigen und Unwägbarkeiten in der Behandlung
+der Zeugen Jehovas auszuräumen. Für den behandelnden Arzt hat das
+Auftreten
+
+von
+
+Mitgliedern
+
+eines
+
+Krankenhausverbindungskomitees
+
+in
+
+juristischer Hinsicht keinerlei verbindlichen Charakter. Bindend ist einzig die
+Einwilligungserklärung
+
+des
+
+Patienten
+
+selbst.
+
+Die
+
+Mitglieder
+
+des
+
+Krankenhausverbindungskomitees vertreten generell die offizielle Meinung der
+WTG.
+
+Es
+
+kann
+
+davon
+
+ausgegangen
+
+werden,
+
+dass
+
+durch
+
+das
+
+Krankenhausverbindungskomitee nicht in erster Linie der Wille des Patienten
+vertreten wird, wohl aber die offizielle Glaubensdoktrin.
+Innerhalb der Glaubensgemeinschaft hat sich in den letzten Jahren aber eine
+oppositionelle Bewegung formiert, welche die strenge Blutdoktrin der WTG
+reformieren will. Ziel dieser Gruppierung, der „Association of Jehova`s
+Witnesses for Reform on Blood (AJWRB)“, ist es, dem einzelnen Patienten
+mehr Entscheidungsfreiheit und Eigenverantwortung einzuräumen (34). Die
+Entscheidung,
+
+eine
+
+Bluttransfusion
+
+zu
+
+akzeptieren
+
+oder
+
+abzulehnen,
+
+gleichgültig, ob es sich um eine Eigen- oder Fremdblutspende handelt, soll
+unabhängig von der offiziellen Meinung der WTG getroffen werden können. Die
+Einstellungen und Ideen der AJWRB werden anonym im Internet verbreitet. Die
+Diskussion verläuft anonym, da die reformwilligen Zeugen Jehovas sich vor
+möglichen Sanktionen der WTG schützen wollen. Da nicht allen Zeugen
+Jehovas die Existenz dieser Reformgruppe und die kontroverse Diskussion der
+
+Diskussion
+
+64
+
+Blutfrage bisher bekannt geworden ist, sollten Patienten über die Ansätze der
+AJWRB informiert werden. Aufgrund der zunehmenden Uneinigkeit innerhalb
+der Zeugen Jehovas ist es unerlässlich, die geplanten Maßnahmen mit jedem
+einzelnen Patienten genau zu definieren, um festzulegen, welchen Maßnahmen
+er zustimmt und welche abgelehnt werden. Bis zum jetzigen Zeitpunkt ist die
+offizielle Meinung der WTG jedoch unverändert. Streng gläubigen Zeugen
+Jehovas bleibt die Bluttransfusion als therapeutische Option weiterhin
+vorenthalten.
+Aufgrund ihrer Weigerung, Bluttransfusionen zu akzeptieren, stellt die
+Behandlung der Zeugen Jehovas die operative Medizin vor erhebliche
+Probleme. Diese Probleme beinhalten
+• ökonomische Aspekte,
+• juristische Fragestellungen,
+• moralisch-ethische Gesichtspunkte und
+• medizinisch-fachliche Schwierigkeiten.
+Nicht
+
+selten
+
+ist
+
+eine
+
+blutlose
+
+Alternativbehandlung
+
+aufwendiger
+
+und
+
+kostenintensiver. Es kommen zusätzliche Medikamente, wie z. B. Erythropoetin,
+zur Anwendung, oder es verlängert sich aufgrund einer verzögerten
+Rekonvaleszenz
+
+nach
+
+chirurgischen
+
+Eingriffen
+
+die
+
+Krankenhaus-
+
+aufenthaltsdauer (69). Diese Mehrkosten sind durch den Kostenträger
+aufzubringen,
+
+der
+
+alleine
+
+das
+
+wirtschaftliche
+
+Risiko
+
+trägt,
+
+bzw.
+
+das
+
+wirtschaftliche Risiko über die Solidargemeinschaft der Versicherten abwickelt.
+Auf der anderen Seite trägt die Solidargemeinschaft auch andere Risiken ihrer
+Versicherten, zu denken ist beispielsweise an den verbreiteten Nikotinabusus
+oder an den weithin sozial akzeptierten Alkoholkonsum mit ihren bekannt
+negativen Folgen für den Gesundheitszustand des Einzelnen und mit ihren
+bekannt hohen Kosten für das Gesundheitssystem. Es lässt sich also
+argumentieren, dass eine Versicherung auch den religiösen Bedürfnissen ihrer
+Mitglieder Rechnung zu tragen hat. Deshalb wird die blutlose Behandlung
+gegenwärtig auch als ein Grundrecht des Patienten angesehen und zählt zu
+
+Diskussion
+
+65
+
+den allgemeinen, durch die Pflegesätze abgegoltenen Krankenhausleistungen
+(70,71,72).
+Für die behandelnden Ärzte kann die Versorgung von Zeugen Jehovas ein
+juristisches Problem aufwerfen, dies umso mehr, da viele Ärzte sich über die
+juristischen Implikationen der Behandlung von Zeugen Jehovas nicht restlos im
+Klaren sind. Ein willensfähiger Patient kann in freier Selbstbestimmung
+entscheiden. Er kann operative Eingriffe auch aus Gründen ablehnen, die für
+Außenstehende
+bestimmungsrecht
+
+nicht
+ist
+
+rational
+in
+
+nachzuvollziehen
+
+Artikel
+
+1
+
+und
+
+2
+
+sind.
+des
+
+Dieses
+
+Selbst-
+
+Grundgesetzes
+
+(Persönlichkeitsrechte) festgeschrieben. Im Hinblick auf die besondere Situation
+der Zeugen Jehovas gewinnt darüber hinaus der Artikel 4 des Grundgesetzes
+besondere Bedeutung. Artikel 4 sichert jedem Menschen das Recht auf freie
+Religionsausübung zu. In der Interpretation des Bundesverfassungsgerichts
+räumt der Artikel 4 jedem Individuum das Recht ein, „sein gesamtes Verhalten
+an den Lehren seines Glaubens auszurichten und seiner Überzeugung gemäß
+zu handeln“. Deshalb kann der behandelnde Arzt gegenüber der religiös
+motivierten Verweigerung der Bluttransfusion keine juristischen Einwände
+erheben (73,74). Dem Arzt steht es nicht zu, die Motive seines Patienten zu
+erforschen oder zu bewerten. Seine therapeutische Pflicht liegt vielmehr in einer
+medizinisch-sachlichen Aufklärung über mögliche Konsequenzen aus der
+Verweigerung einer Bluttransfusion (75,76). Aus rechtlicher Sicht erfolgt eine
+vertragliche Fixierung des Willens des Patienten im Rahmen einer mündlichen
+und schriftlichen Risiko-Aufklärung. Das Aufklärungsformular sollte mit Datum,
+Uhrzeit und Unterschriften von Patient und Arzt der Krankenakte beigefügt
+werden.
+Bei operativen Eingriffen muss präoperativ eine Nutzen-Risiko-Abwägung
+erfolgen. Bleibt diese Bilanz positiv, obwohl der Patient jede Bluttransfusion
+verweigert, so kann die Indikationsstellung nicht anders gelten, als wenn aus
+faktischen Gründen kein Blut zur Verfügung stünde. Je notwendiger und
+dringender eine Operation und je geringer die Wahrscheinlichkeit für eine
+Bluttransfusion ist, desto mehr spricht dafür, die Indikation auch bei einem
+
+Diskussion
+
+66
+
+Zeugen Jehovas zu stellen (76). Ist es dagegen ausgeschlossen oder nahezu
+ausgeschlossen, die Operation ohne Bluttransfusion durchzuführen, muss der
+Arzt den Eingriff ablehnen. Besteht bei vitaler Bedrohung die Wahrscheinlichkeit
+den Patienten zu retten, oder bietet nur die sofortige Operation die Chance auf
+Lebensrettung, so muss der Arzt, wenn er die Behandlung übernommen hat,
+diese durchführen. Dieses folgt aus der allgemeinen Hilfeleistungspflicht (§ 323
+c StGB). Bei der Durchführung elektiver Eingriffe besteht die allgemeine
+Hilfeleistungspflicht nicht. Hier steht es dem Arzt in aller Regel frei, den Eingriff
+aus ethisch-moralischen Gründen abzulehnen. Sollte er sich jedoch für die
+Operation entschieden haben, muss er sich an die präoperativ gefassten
+Vereinbarungen halten. Bei der Gewissensentscheidung, ob der Eingriff
+überhaupt durchgeführt wird, sollte die Möglichkeit der Transfusion bedacht
+werden. In der Präambel der WHO vom 22.07.1946 wird Gesundheit nicht nur
+als das Freisein von Krankheit oder Gebrechen definiert, sondern als ein
+Zustand völligen körperlichen, seelischen und sozialen Wohlbefindens. Wird
+diese Definition in die präoperative Gewissensentscheidung zur blutfreien
+Behandlung bei Zeugen Jehovas mit einbezogen, dann zeigt sich, dass der
+behandelnde
+
+Arzt
+
+auch
+
+außermedizinische,
+
+religiöse
+
+Faktoren
+
+zu
+
+berücksichtigen hat. Setzt sich der Arzt über die Grenzen der Einwilligung
+hinweg, so sieht er sich möglichen Schadensersatzansprüchen des Patienten
+ausgesetzt. Hierbei handelt es sich in erster Linie um die Missachtung der
+Selbstbestimmungsrechte
+
+des
+
+Patienten.
+
+Bei
+
+Missachtung
+
+der
+
+Selbstbestimmungsrechte lässt sich eine Parallele zum heimlichen Aids-Test
+ziehen
+
+(77,75).
+
+Hier
+
+konnten
+
+in
+
+der
+
+Vergangenheit
+
+von
+
+Patienten
+
+Schmerzensgeld und Schadensersatzansprüche geltend gemacht werden. Im
+Gegensatz zu anderen europäischen und außereuropäischen Ländern, in
+welchen die Rechtslage der Bluttransfusion bei Zeugen Jehovas juristisch
+gesichert ist, liegen in Deutschland noch keine Grundsatzurteile zur
+Bluttransfusion bei Zeugen Jehovas vor. Ein Rechtsstreit in dieser Frage wurde
+vom
+
+OLG
+
+München
+
+(AZ
+
+Bundesgerichtshof verwiesen.
+
+1
+
+U
+
+4705/98)
+
+im
+
+Januar
+
+2002
+
+an
+
+den
+
+Diskussion
+
+67
+
+Das moralisch-ethische Problem liegt in dem zu Beginn der Diskussion
+beschriebenen Dilemma, zwischen medizinischem Wissen und möglicherweise
+entgegengesetzten individuellen, religiösen Bedürfnissen des Patienten zu
+entscheiden. Diese Entscheidung wird durch medizinische Notfälle weiter
+erschwert. In der elektiven Chirurgie, wie in dieser Studie, steht es dem Arzt
+frei, die Behandlung zu übernehmen oder auf einen anderen Kollegen zu
+verweisen. Um Konfliktsituationen von vornherein zu vermeiden, sollten in
+Kliniken,
+
+in
+
+welchen
+
+Zeugen
+
+Jehovas
+
+häufiger
+
+operiert
+
+werden,
+
+Operationsteams gebildet werden. Die behandelnden Anästhesisten und
+Chirurgen
+
+sollten
+
+in
+
+den
+
+Grundsatzfragen
+
+der
+
+Behandlung
+
+eine
+
+übereinstimmende Auffassung vertreten und die Glaubensüberzeugung der
+Zeugen Jehovas im Kern respektieren.
+Wenn sich Ärzte verpflichten, die Bedingungen der Zeugen Jehovas zu
+akzeptieren, müssen alle medizinisch-fachlich zur Verfügung stehenden Mittel
+eingesetzt werden, um den Patienten sicher durch die perioperative Phase zu
+führen. Deshalb müssen alle Möglichkeiten genutzt werden, die präoperativen
+Ausgangsparameter zu optimieren. Durch die präoperative, subkutane
+Erythropoetininjektion mit gleichzeitiger intravenöser Eisensubstitution ist es
+möglich, den Hb- und Hk-Wert zu steigern (78,79,80). Diese Vorgehensweise
+wird von Zeugen Jehovas akzeptiert und eingesetzt. Ebenfalls sollte eine
+Medikation mit Acetyl-Salicylsäure (oder anderen Thrombozytenaggregationshemmern), die bei Patienten mit koronarer Herzerkrankung sehr häufig besteht,
+präoperativ abgesetzt werden (81,82). Hierdurch kann die perioperative
+Blutungsneigung und somit die Transfusionswahrscheinlichkeit gesenkt werden.
+Das Ziel in der präoperativen Planung elektiver Eingriffe ist die Etablierung
+eines optimalen Ausgangswerts für den Hb und Hk. In der intraoperativen
+Phase kann durch die intravenöse Gabe des Fibrinolyse-Inhibitors Aprotinin, vor
+Anschluss
+
+an
+
+die
+
+HLM,
+
+die
+
+Blutungsneigung
+
+reduziert
+
+werden.
+
+Die
+
+Aprotiningabe bewirkt eine Plasmin- und Kallikreinhemmung und stabilisiert
+zusätzlich die Membran der Thrombozyten, wodurch diese weniger anfällig
+gegenüber der extrakorporalen Zirkulation werden (83,84,85). Zusätzlich wirkt
+
+Diskussion
+
+68
+
+Aprotinin antiinflammatorisch. Bei Rezidiveingriffen ist zu bedenken, dass
+Aprotinin auch allergische Reaktionen auslösen kann, so dass zunächst eine
+subkutane Testung erfolgen sollte. Die intraoperativen Blutverluste lassen sich
+durch subtile Blutstillung veringern. Hier hat sich der Einsatz von Fibrinklebern,
+Cellulose-Gaze, Kollagen- und Gelantineschwämmen bewährt (69).
+Ein
+
+nicht
+
+Blutverluste
+
+medikamentöses
+ist
+
+die
+
+Verfahren
+
+Aufbereitung
+
+zur
+
+des
+
+Vermeidung
+
+Wundblutes.
+
+intraoperativer
+
+Die
+
+maschinelle
+
+Wiederaufbereitung des Wundblutes wird mit einem diskontinuierlichen
+Verfahren praktiziert und ist somit für Zeugen Jehovas nicht akzeptabel, da die
+geforderte Kontinuität zwischen Entnahme- und Retransfusionsstelle nicht
+gewährleistet werden kann. Betrachtet man nun die Entstehung der niedrigen
+Hb- und Hk-Werte unter extrakorporaler Zirkulation, so zeigt sich, dass diese
+hauptsächlich durch Dilution des zirkulierenden Blutvolumens durch das PrimeVolumen der Herz-Lungen-Maschine und die kardioplegische Lösung zustande
+kommen (86). Hier bietet die MUF ein Verfahren, die Dilution der korpuskulären
+Anteile des Blutes rückgängig zu machen, und so nicht nur die Hb- und HkWerte anzuheben, sondern auch die durch das Prime-Volumen und die
+Kardioplegie entstandene Hypervolämie zu korrigieren (16,17,87,88,89).
+Diese Arbeit untersuchte die Auswirkungen der MUF im Vergleich zur
+konventionellen Wiederaufbereitung des Restblutes im Hinblick auf Blutverluste
+und Transfusionsfrequenz. Darüber hinaus wurden die Auswirkungen der MUF
+auf Herzzeitvolumen, system-vaskuläre und pulmonal-vaskuläre Widerstände,
+Sauerstoffangebot und Sauerstoffverbrauch analysiert.
+Die Probanden der Untersuchungsgruppe wurden in einem ausführlichen
+Aufklärungsgespräch über die Funktion und den Einsatz der MUF aufgeklärt.
+Eventuelle
+
+Bedenken
+
+konnten
+
+immer
+
+in
+
+einer
+
+sachlichen
+
+Diskussion
+
+ausgeräumt werden. Als hilfreich erwies sich die Tatsache, dass es sich um ein
+in der Kinderherzchirurgie schon etabliertes Verfahren handelt. Es ist
+bemerkenswert, dass letztlich alle Patienten, denen das Verfahren angetragen
+wurde, ihre Zustimmung erteilten. Auch in den Fällen, in denen Mitglieder des
+
+Diskussion
+
+69
+
+Krankenhausverbindungskomitees
+
+eingeschaltet
+
+waren,
+
+konnte
+
+ein
+
+aufklärendes Gespräch von der Unbedenklichkeit der MUF überzeugen. Ein
+entscheidendes
+
+Argument
+
+im
+
+Verlauf
+
+dieser
+
+Gespräche
+
+lieferte
+
+eine
+
+Betrachtungsweise, die die MUF quasi als eine Extension des extrakorporalen
+Systems der HLM konkretisierte.
+Die MUF kam nach dem Weaning der Patienten vom kardiopulmonalen Bypass
+zum Einsatz. Den Patienten der Untersuchungsgruppe wurden im Mittel 1976
+ml (± 607) an kristalloider Flüssigkeit mittels MUF entzogen. Betrachtet man die
+Tatsache, dass zwischen 2600 ml und 3200 ml Prime-Volumen und
+kardioplegische Lösung über die HLM dem Patienten infundiert wurden, so
+erkennt man, dass ein Großteil dieser Flüssigkeit über die MUF wieder filtriert
+wurde. Es resultierte hieraus der schon beschriebene Hb-Anstieg von 8,1 g/dl
+(± 1) auf 9,8 g/dl (± 1,4). Dieser Anstieg ist statistisch hoch signifikant (p <
+0,001). Bei den Patienten der Kontrollgruppe wurde das in der HLM
+verbleibende Restblut mittels Cell saving aufbereitet. Mit der Rücktransfusion
+kam es hier ebenfalls zu einem Anstieg des Hb-Wertes von 8,8 g/dl (± 1) auf
+9,6 g/dl (± 1,2). Dieser Anstieg war ebenfalls statistisch signifikant (p = 0,025).
+Im ANOVA (Test der Innersubjektkontraste) ist der Hb-Anstieg nach MUF
+signifikant größer als der nach Cell-Saving (p ≤ 0,001). Die Hb-Werte waren
+dann im weiteren Verlauf der Untersuchung in beiden Gruppen konstant.
+In beiden Gruppen war die Transfusion von Fremdblut notwendig. Es wurden
+nur die Zeugen Jehovas der Untersuchungsgruppe transfundiert, die in einem
+präoperativen Gespräch ausdrücklich ihre Einwilligung zu einer medizinisch
+indizierten Transfusion gaben. In der Untersuchungsgruppe wurde intraoperativ
+ein Patient transfundiert, postoperativ vier Patienten. Zwei dieser Patienten
+erhielten ebenfalls Fresh-Frozen-Plasma. Damit wurden 5,9% der Patienten in
+der Untersuchungsgruppe intraoperativ transfundiert und 23,5% postoperativ.
+Insgesamt wurden 29% der Patienten, die mit MUF behandelt wurden,
+transfundiert. In der Kontrollgruppe waren vier Patienten (23,5%) intraoperativ
+transfusionspflichtig.
+
+Sechs
+
+Patienten
+
+(35,3%)
+
+erhielten
+
+postoperativ
+
+Transfusionen. Insgesamt wurden 41,2% der Patienten, die mit Cell saving
+
+Diskussion
+
+70
+
+behandelt wurden, transfundiert. Anzumerken ist allerdings, dass drei der vier
+postoperativ in der Untersuchungsgruppe transfundierten Patienten eine
+überdurchschnittliche Dränagemenge boten, während nur zwei der Patienten in
+der Kontrollgruppe übermäßig dränierten. Insgesamt war die postoperative
+Dränagemenge in der Untersuchungsgruppe deutlich höher als in der
+Kontrollgruppe. Diese Tatsache konnte in der Literatur nicht nachvollzogen
+werden und lässt sich auch nicht durch die präoperative Einnahme
+gerinnungsaktiver Medikamente erklären, da auch hier beide Gruppen
+vergleichbar waren. Bemerkenswert ist allerdings, dass bei vier Patienten der
+Untersuchungsgruppe die postoperativen Verluste über die Dränagen deutlich
+über dem Durchschnitt lagen, während dieses nur bei zwei Patienten der
+Kontrollgruppe der Fall war.
+Betrachtet man nun die Mengen an allogenem Blut und Plasma, die verabreicht
+wurden, so sieht man, dass die Patienten der Untersuchungsgruppe im Schnitt
+191 ml Erythrozytenkonzentrat und 109 ml Plasma pro Patient erhielten,
+während
+
+die
+
+Patienten
+
+der
+
+Kontrollgruppe
+
+im
+
+Schnitt
+
+371
+
+ml
+
+Erythrozytenkonzentrat und 294 ml Plasma pro Patient erhielten. Dieser
+Unterschied in der Menge der Bluttransfusion ist im Rang-Summen-Test
+statistisch hoch signifikant (p < 0,001).
+Aus diesen Ergebnissen lässt sich ableiten, dass die MUF eine effektive
+Fremdblut sparende Maßnahme ist.
+Wie oben bereits dargestellt ist die blutfreie Behandlung der Zeugen Jehovas in
+der Regel unabdingbar (90). Wie diese Studie zeigt, lassen sich durch die MUF
+der Hb- und Hk-Wert bei Operationen an der HLM soweit anheben, dass keine
+Indikation zur Transfusion gegeben ist. Grundsätzlich profitieren aber alle
+Patienten von einer möglichst transfusionsarmen operativen Versorgung. Schon
+seit einiger Zeit gibt es Hinweise, dass die Transfusion von Fremdblut zu einer
+erhöhten Rate an Wundinfektionen, Pneumonien, Nierenversagen und Sepsis
+sowie zu einer erhöhten Krankenhausmortalität mit erhöhten Kosten führt
+(91,92,93,94). Zusätzlich gibt es Hinweise auf eine direkte Korrelation zwischen
+
+Diskussion
+
+71
+
+der Anzahl an transfundierten Erythrozytenkonzentraten und der Mortalität der
+Patienten (Abbildung 23) (95).
+Abbildung 23
+Zusammenhang zwischen Transfusionsvolumen und Mortaliät
+
+Hier kann die MUF zum Vorteil herzchirurgischer Patienten eingesetzt werden.
+Die Herzchirurgie ist der Hauptkonsument allogener Blutprodukte (26).
+Natürlich darf bei der Evaluation der MUF das Augenmerk nicht ausschließlich
+auf
+
+der
+
+Betrachtung
+
+von
+
+Transfusionsfrequenz
+
+und
+
+transfundiertem
+
+Blutvolumen liegen. Daneben kommt auch den Auswirkungen des Verfahrens
+auf die Funktion des kardiovaskulären Systems eine nicht zu unterschätzende
+Bedeutung zu. Aus diesem Grund wurden MAD, CI, SVRI, PVRI, DO2 und VO2
+ermittelt.
+Nach
+
+Einleitung
+
+der
+
+Vollnarkose
+
+hatten
+
+die
+
+Patienten
+
+sowohl
+
+der
+
+Untersuchungs- als auch der Kontrollgruppe einen CI, der deutlich unter den in
+der Literatur für wache Koronarpatienten unter Ruhebedingungen angegebenen
+Normalwerten (2,5 – 4,2 l/min/m2 ) lag (51). In beiden Gruppen belief sich der
+CI auf Werte knapp über 2 l/min/m2 (Untersuchungsgruppe 2,14 l/min/m2,
+Kontrollgruppe 2,17 l/min/m2). Der Abfall des CI ist als kombinierter Effekt aus
+negativ inotroper Wirkung der Anästhetika, vermindertem venösen Rückstrom
+und autonomer Blockade zu verstehen (96,97). Aufgrund des niedrigen CI und
+des ebenso niedrigen Hb-Werts ergab sich für beide Gruppen ein DO2, das
+
+Diskussion
+
+ebenfalls
+
+72
+deutlich
+
+erniedrigt
+
+war
+
+(587,56
+
+ml
+
+O2/min
+
+in
+
+der
+
+Untersuchungsgruppe, 602,75 ml O2/min in der Kontrollgruppe). Damit war die
+DO2 in einen bedrohlich niedrigen Bereich abgefallen (52). Es stellt sich die
+Frage, ob nach Narkoseeinleitung das reduzierte DO2 den Sauerstoffbedarf der
+untersuchten Patienten noch decken konnte, denn unter physiologischen
+Bedingungen passen sich DO2 und HZV dem VO2 und damit der metabolischen
+Aktivität des Organismus an. Normalerweise ist der VO2 über einen weiten
+Bereich vom DO2 unabhängig. Der VO2 wird erst dann vom DO2 abhängig,
+wenn dieses nicht weiter gesteigert werden kann, wie dies beispielsweise bei
+maximaler Arbeit oder bei dekompensierter Herzinsuffizienz der Fall ist oder
+aber, wenn das DO2 bei Anämie, Hypoxie, hämorrhagischem oder kardiogenem
+Schock unter einen bestimmten, kritischen Wert (DO2krit) abfällt. Erst unterhalb
+dieses kritischen O2-Angebots besteht eine lineare Abhängigkeit des VO2 vom
+DO2. In diesem Bereich besteht dann immer die Gefahr einer Minderversorgung
+der Organe mit Sauerstoff, so dass ein anaerober Stoffwechsel mit
+Laktatazidose resultiert. Das DO2krit liegt bei 600 ml O2/min (98). Die wichtige
+Abhängigkeit zwischen DO2 und VO2 ist in der Abbildung 24 graphisch
+umgesetzt.
+
+Diskussion
+
+73
+
+Abbildung 24
+Beziehung zwischen O2-Angebot und O2-Verbrauch
+
+350
+
+VO2 (ml O2/min)
+
+300
+
+kritisches
+O2 -Angebot
+
+physiologisches
+O2 -Angebot
+
+250
+200
+150
+100
+50
+
+200
+
+600
+
+1000
+
+1400
+
+DO2 (ml O2/min)
+Beziehung zwischen O2-Angebot (DO2) und O2-Verbrauch (VO2)
+Auch bei deutlich eingeschränktem O2-Angebot kann der O2-Verbrauch aufrecht erhalten
+werden. Erst wenn das O2-Angebot unter die kritische Schwelle fällt, entsteht eine lineare
+Abhängigkeit zwischen den beiden Parametern. (Modifiziert nach F. Bloos: Schock[98])
+
+Nach Narkoseeinleitung war aber nicht nur das DO2 deutlich vermindert,
+sondern auch der VO2 (Untersuchungsgruppe 102,95 ml O2/min, Kontrollgruppe
+93,32 ml O2/min). Ginge man davon aus, dass der reduzierte VO2 eine
+Konsequenz des Abfalls des DO2 unter das DO2krit wäre, dann hätten sich
+zwangsläufig Hinweise auf eine anaerobe Stoffwechsellage mit Erhöhung des
+Laktatwertes und konsekutiver metabolischer Azidose einstellen müssen (99).
+Es lag aber bei keinem der Patienten eine Erhöhung der Laktatkonzentration im
+Serum vor. Die gemischtvenöse Sauerstoffsättigung als Determinante eines
+Missverhältnisses zwischen VO2 und DO2 blieb ebenfalls innerhalb normaler
+Parameter. Der Abfall des VO2 war also auf eine Depression der
+Stoffwechselaktivität
+
+durch
+
+die
+
+Allgemeinanästhesie
+
+zurückzuführen.
+
+(100,101,102,103). Im weiteren Verlauf der Untersuchung blieb die DO2 im
+
+Diskussion
+
+74
+
+Normbereich und die VO2 im unteren Normbereich. Die Laktatkonzentration im
+Serum
+
+und
+
+auch
+
+die
+
+gemischtvenöse
+
+Sättigung
+
+lagen
+
+ebenfalls
+
+im
+
+Normbereich, so dass von einem zu jedem Zeitpunkt der Untersuchung
+ausreichendem Sauerstoffangebot ausgegangen werden konnte.
+Der Einfluss der MUF auf das „systemic inflammatory response syndrom“
+(SIRS) ist bis dato noch wenig untersucht. Das SIRS wird durch zelluläre und
+humorale Faktoren ausgelöst, die während der EKZ aktiviert werden und
+manifestiert sich durch einen Abfall des SVRI und des PVRI sowie kardialen,
+pulmonalen, renalen und neurologischen Dysfunktionen (104,105,106,107). Die
+bisherigen Untersuchungen zeigten kontroverse Ergebnisse bezüglich der
+Reduktion von inflammatorischen Mediatoren durch die MUF (108). Diese
+Studie
+
+untersuchte
+
+die
+
+Auswirkungen
+
+der
+
+MUF
+
+auf
+
+die
+
+klinischen
+
+Manifestationen des SIRS.
+Bei den Patienten der Untersuchungsgruppe zeigte sich ein Trend zu einem
+höheren SVRI. Dieser verfehlte nur knapp das Signifikanzniveau. Der PVRI
+allerdings war in der Untersuchungsgruppe signifikant höher als in der
+Kontrollgruppe. Der niedrige SVRI und PVRI nach der EKZ wird, wie schon
+erwähnt, als Ausdruck des SIRS interpretiert und kann zu verlängertem
+Intensivaufenthalt und auch zu verlängertem Krankenhausaufenthalt führen
+(109,110). Da man den SVRI und PVRI als Symptom des SIRS sieht, gibt diese
+Studie Hinweise auf eine Reduktion der klinischen Symptomatik des SIRS
+durch die MUF.
+Im postoperativen Verlauf auf der ICU lagen sämtliche Werte für MAD, CI,
+SVRI, PVRI, DO2 und VO2 bei den Patienten beider Gruppen innerhalb der
+Normalwerte.
+In der hier vorliegenden Studie bestand das Problem darin, dass Anästhesist,
+Kardiotechniker und Herzchirurg schon präoperativ notwendigerweise über die
+MUF informiert waren. Eine doppelblinde Studie ließ sich hier nur schwer
+durchführen, so dass bestimmte Werte, wie zum Beispiel der niedrige MAD der
+Untersuchungsgruppe nach dem Weaning von der HLM hier in Erwartung des
+
+Diskussion
+
+75
+
+Effekts der MUF akzeptiert wurden. Inwieweit dieser Aspekt zur deutlichen
+Reduktion der Transfusionshäufigkeit und des Transfusionsvolumens in der
+Untersuchungsgruppe beigetragen hat, lässt sich nur schwer nachvollziehen.
+Eine weitere Problematik bestand in der Kalkulation von DO2 und VO2. Obwohl
+seit geraumer Zeit gängig in der klinischen Praxis, gibt es jedoch Hinweise,
+dass die kalkulierten Werte für VO2 und DO2 aufgrund ihrer mathematischen
+Kopplung
+
+ungeeignet
+
+sind
+
+in
+
+der
+
+Aussage
+
+über
+
+eine
+
+pathologische
+
+Abhängigkeit des Sauerstoffverbrauchs vom Sauerstoffangebot (111). Die
+Patienten der vorliegenden Arbeit boten zu keinem Zeitpunkt Hinweise auf
+einen pathologischen anaeroben Stoffwechsel. Das DO2 lag nur zu einem
+Zeitpunkt knapp unterhalb des Normalwertes (siehe oben), zu diesem Zeitpunkt
+waren Laktatwerte und die gemischtvenöse Sättigung normal. Die in der
+zitierten Arbeit von Vermeij et al. dargelegten Unterschiede der kalkulierten und
+gemessenen VO2 scheinen somit hier nicht relevant zu sein.
+Natürlich kann die MUF keine transfusionsfreie kardiochirurgische Operation
+garantieren. Seit neuestem gibt es Hinweise, dass ein bereits präoperativ
+niedriger Hb-Wert bei kardiochirurgischen Patienten höheren Alters ein
+unabhängiger Prädiktor für ein schlechteres Outcome ist (112). Da aufgrund der
+demographischen Entwicklung immer mehr ältere Patienten eine Operation
+benötigen, und da diese Patienten vermehrt an einer Anämie und anderen
+Komorbiditäten leiden (113), gewinnt die optimale präoperative Vorbereitung
+der Patienten immer mehr an Bedeutung. Wenn diese Patienten mit einem
+niedrigen präoperativen Hb-Wert unter Einsatz der HLM operiert werden
+müssen, dann steigt natürlich die Wahrscheinlichkeit einer Transfusion unter
+der HLM. Da diese Transfusionen vor der Durchführung der MUF erfolgen, zeigt
+sich hier eindeutig die Limitation der MUF. Zwar kann sie die Menge an
+Transfusionen bei diesen Patienten reduzieren, verhindern kann das Verfahren
+eine notwendige Transfusion unter der HLM allerdings nicht in jedem Fall.
+Die schon zitierte Arbeit von Kulier zeigt auch (112), dass die Dauer der EKZ
+ein entscheidender Parameter für das Outcome der Patienten darstellt. In der
+vorliegenden Studie besteht kein signifikanter Unterschied zwischen den beiden
+
+Diskussion
+
+76
+
+Gruppen im Hinblick auf die Dauer der EKZ. So lässt sich abschließend sagen,
+dass durch die MUF eine signifikant geringere Menge an Fremdblut bei
+Patienten die unter Einsatz der HLM operiert werden transfundiert wurde, und
+dass
+
+trotz
+
+dieser
+
+Sauerstoffversorgung
+
+geringeren
+des
+
+Transfusionsmenge
+
+Organismus
+
+und
+
+eine
+
+ausreichende
+
+hämodynamische
+
+Stabilität
+
+gewährleistet waren.
+Zusammenfassend kommt diese Studie über die Effektivität der MUF bei
+Zeugen Jehovas, die sich herzchirurgischen Eingriffen unterziehen müssen, zu
+folgenden zentralen Aussagen:
+•
+
+Bei gründlicher Aufklärung stimmen Zeugen Jehovas in aller Regel dem
+Einsatz der MUF bei herzchirurgischen Eingriffen zu.
+
+•
+
+Durch die MUF wird bei herzchirurgischen Patienten im Mittel ein
+Flüssigkeitsvolumen entzogen, dessen Menge etwa dem Prime-Volumen
+des extrakorporalen Kreislaufs und der Kardioplegie entspricht.
+
+•
+
+Nach Durchführung einer MUF kommt es zu einem signifikanten und in
+der klinischen Bewertung bedeutsamen Anstieg von Hämoglobin und
+Hämatokrit.
+
+•
+
+Bei herzchirurgischen Patienten, die unter Einsatz der HLM operiert
+werden, kann durch eine MUF die Menge allogener Transfusionen
+reduziert werden.
+
+•
+
+Die hämodynamische Stabilität herzchirurgischer Patienten wird durch
+eine MUF nicht beeinträchtigt, es zeichnet sich vielmehr eine Milderung
+der Auswirkungen des HLM-assoziierten SIRS ab.
+
+•
+
+Eine MUF als fremdblutsparende Maßnahme sollte nicht isoliert
+betrachtet werden, sondern integraler Bestandteil eines Gesamtkonzepts
+sein, das die gesamte perioperative Periode umspannt.
+
+•
+
+Herzchirurgische Eingriffe bei Zeugen Jehovas sind ohne die Option
+allogener
+
+Transfusionen
+
+auch
+
+bei
+
+Einsatz
+
+der
+
+MUF
+
+potentiell
+
+lebensbedrohlich, da die DO2 in den Bereich der DO2krit abfällt und ein
+niedriger Hämoglobingehalt aufgrund der eingeschränkten Möglichkeit
+
+Diskussion
+
+77
+
+der kardial vorgeschädigten Patienten ihr Herzzeitvolumen adaptiv zu
+erhöhen nur bedingt kompensiert werden kann.
+•
+
+Aufgrund des besonderen Risikos erscheint ein invasives Monitoring mit
+kontinuierlicher
+gemischtvenösen
+
+Messung
+
+des
+
+Sauerstoffsättigung
+
+Herzzeitvolumens
+bei
+
+Zeugen
+
+und
+Jehovas
+
+der
+mit
+
+höhergradig eingeschränkter links- oder rechtsventrikulärer Funktion
+erforderlich.
+.
+
+Literaturverzeichnis
+
+78
+
+5. Abbildungsverzeichnis
+Abbildung 1: Die modifizierte Ultrafiltration nach dem in
+Erlangen-Nürnberg veränderten Verfahren
+Abbildung 2: Druckverhältnisse im Hämofilter
+
+8
+23
+
+Abbildung 3: Formel zur Errechnung des transmembranösen Drucks
+Abbildung 4: MUF – Kreislauf nach Bypass – Ende
+
+24
+
+Abbildung 5: Untersuchungszeitpunkte
+
+26
+
+Abbildung 6: Darstellung der Untersuchungszeitpunkte
+der Untersuchungsgruppe und der Kontrollgruppe
+
+29
+
+Abbildung 7: Hämoglobinwerte der Patienten in der
+Untersuchungsgruppe zum Zeitpunkt T1 und T2
+
+40
+
+Abbildung 8: Hämoglobinwerte der Patienten in der
+Kontrollgruppe zum Zeitpunkt T1 und T2
+
+40
+
+Abbildung 9: Hämoglobinwerte der Patienten in der
+Untersuchungsgruppe zum Zeitpunkt T2 und T3
+
+41
+
+Abbildung 10: Hämoglobinwerte der Patienten in der
+Kontrollgruppe zum Zeitpunkt T2 und T3
+
+42
+
+Abbildung 11: Hämoglobinwerte der Patienten in der
+Untersuchungsgruppe zum Zeitpunkt T3 und T4
+
+44
+
+Abbildung 12: Hämoglobinwerte der Patienten in der
+Kontrollgruppe zum Zeitpunkt T3 und T4
+
+45
+
+Abbildung 13: Hämoglobinwerte der Patienten in der
+Untersuchungsgruppe zum Zeitpunkt T4, T5 und T6
+
+46
+
+Abbildung 14: Hämoglobinwerte der Patienten in der
+Kontrollgruppegruppe zum Zeitpunkt T4, T5 und T6
+
+47
+
+Abbildung 15: Verlauf der mittleren Hämoglobinwerte
+
+48
+
+Abbildung 16: Verlauf der mittleren Hämatokritwerte
+
+49
+
+Abbildung 17: Verlauf des mittleren arteriellen Drucks
+
+51
+
+Abbildung 18: Verlauf des Herz-Zeit-Volumenindex
+
+52
+
+Abbildung 19: Verlauf des system-vaskulären Widerstandes
+
+54
+
+Literaturverzeichnis
+
+79
+
+Abbildung 20: Verlauf des pulmonal-vaskulären Widerstandes
+
+55
+
+Abbildung 21: Verlauf des Sauerstoffangebotes
+
+57
+
+Abbildung 22: Verlauf des Sauerstoffverbrauchs
+
+58
+
+Abbildung 23: Zusammenhang zwischen der Anzahl an
+Transfusionen und der Mortalität der
+transfundierten Patienten
+Abbildung 24: Beziehung zwischen O2-Angebot und O2-Verbrauch
+
+71
+73
+
+6. Tabellenverzeichnis
+Tabelle 1: Biometrische Daten der Patienten in der Untersuchungsgruppe
+
+10
+
+Tabelle 2: Biometrische Daten der Patienten in der Kontrollgruppe
+
+11
+
+Tabelle 3: Diagnosen, Eingriffe und Anzahl der Grafts der
+Patienten in der Untersuchungsgruppe
+
+21
+
+Tabelle 4: Diagnosen, Eingriffe und Anzahl der Grafts der
+Patienten in der Kontrollgruppe
+
+22
+
+Tabelle 5: Anzahl der Grafts, Operationsdauer, Dauer der
+Herz-Lungen-Maschine und aortale Klemmzeit bei den
+Patienten der Untersuchungsgruppe
+
+34
+
+Tabelle 6: Anzahl der Grafts, Operationsdauer, Dauer der
+Herz-Lungen-Maschine und aortale Klemmzeit bei den
+Patienten der Kontrollgruppe
+
+35
+
+Tabelle 7: Übersicht über die Menge und die Zeitpunkte der
+Transfusionen und die Dränagemengen in der
+Untersuchungsgruppe
+
+37
+
+Tabelle 8: Übersicht über die Menge und die Zeitpunkte der
+Transfusionen und die Dränagemengen in der
+Kontrollgruppe
+
+37
+
+Tabelle 9: Übersicht über die Hb-und Hk-Werte der beiden
+Gruppen im Verlauf der Untersuchung
+
+48
+
+Literaturverzeichnis
+
+80
+
+Tabelle 10: Verlauf von MAD, CI, VO2, DO2, SVRI und PVRI
+in der Untersuchungsgruppe
+
+50
+
+Tabelle 11: Verlauf von MAD, CI, VO2, DO2, SVRI und PVRI
+in der Kontrollgruppe
+
+50
+
+Tabelle 12: Verlauf des mittleren arteriellen Drucks mit den
+entsprechenden Signifikanzen im Verlauf und
+zwischen den Gruppen
+
+51
+
+Tabelle 13: Verlauf des Herz-Zeit-Volumenindex mit den
+entsprechenden Signifikanzen im Verlauf und
+zwischen den Gruppen
+
+53
+
+Tabelle 14: Verlauf des system-vaskulären Widerstandes mit den
+entsprechenden Signifikanzen im Verlauf und
+zwischen den Gruppen
+
+54
+
+Tabelle 15: Verlauf des pulmonal-vaskulären Widerstandes mit den
+entsprechenden Signifikanzen im Verlauf und
+zwischen den Gruppen
+
+56
+
+Tabelle 16: Verlauf des Sauerstoffangebotes mit den
+entsprechenden Signifikanzen im Verlauf und
+zwischen den Gruppen
+
+57
+
+Tabelle 17: Verlauf des Sauerstoffverbrauchs mit den
+entsprechenden Signifikanzen im Verlauf und
+zwischen den Gruppen
+
+58
+
+Literaturverzeichnis
+
+81
+
+7. Literaturverzeichnis
+1.
+
+Larsen R (1995) Anästhesie.
+
+2.
+
+Furese A, Makuuchi H, Juji T (1991) Effect of recombinant human
+erythropoietin (epoietin beta) on preoperative autologous blood
+donation for cardiac surgery. Jpn Coronary Surg 8: 427-439
+
+3.
+
+Vincent AG, Duncan WM (1991) Preoperative erythropoietin in
+Jehovah`s Witnesses who require cardiac procedures. Ann Thorac
+Surg 51: 823-824
+
+4.
+
+Beholz S, Lui J, Thoelke R, Spiess C, Konertz C (2001) Use of
+desmopressin and erythropoietin in an anemic Jehova`s Witness
+patient with severely impaired coagulation capacity undergoing
+stentless aortic valve replacement. Perfusion 16(6): 485-489
+
+5.
+
+Vincent AG, Duncan WM (1991) Preoperative erythropoetin in
+Jehovah`s Witnesses who require cardiac procedures. Ann Thorac
+Surg 51: 823-824
+
+6.
+
+Silver M, Corwin M, Bazan A, Gettinger A, Enny C, Corwin HL (2006)
+Efficiancy of recombinant human erythropoetin in critically ill patients
+admittet to a long- term acute care facility: A randomized, doubleblind, placebo- controlled trial. Critical Care Medicine 34(9): 23102316
+
+7.
+
+Huet C, Sallmi LR, Fergusson D, Koopman-van Gemert AW, Rubens
+F, Laupacis A (1999) A meta-analysis of the effectiveness of cell
+salvage to minimize perioperative allogenic blood trasfusion in
+cardiac an orthopedic surgery. International study of perioperative
+transfusion. Anesth Analg 89: 861-869
+
+8.
+
+Booke M, Mertes N, Wüllenweber J, Van Aken H (1998) Periopertiver
+Blutverlust, die Rolle des Anästhesisten. Deutsche Medizinische
+Wochenschrift 123: 569-572
+
+9.
+
+Fischlein T (2000) Gerinnungsstörungen in der Herzchirurgie.
+Hämostaseologie 20: 110-116
+
+Literaturverzeichnis
+
+82
+
+10. Levi M, Cromheecke ME, de Jonge E, Prins MH, de Mol BJ, Briet E,
+Buller HR (1999) Pharmagological strategies to decrease excessive
+blood loss in cardiac surgery: a meta-analysis of clinically relvant
+endpoints. Lancet 354: 1940-1947Anonym (1961) Respect for the
+sanctity of blood. The Watchtower 15.9: 558
+11. Risch A, Dorscheid E, Stein G, Seyfert UT, Grundmann U (2000)
+Auswirkung von Aprotinin und Tranexamsäure auf die Fibrinolyse
+und Thrombinbildung bei extrakorporaler Zirkulation. Anästhesist 49:
+279-285
+12. Anonym (1991) Wie kann Blut dein Leben retten? Der Wachturm 1.6:
+8
+13. Dixon JL, Smalley MG (1981) Jehovah`s Winesses. The
+surgical/ethical challenge. Journal of American Medical Association
+246: 2471-2472
+14. Anonym (1984) Fragen von Lesern. Der Wachturm 15.5: 31
+15. Anonym (1997) Fragen von Lesern. Der Wachturm 1.2: 29
+16. Naik SK, Elliott MJ (1991) A successful modification of ultrafiltration
+for cardiopulmonary bypass in children. Perfusion 6: 41-50
+17. Elliott MJ (1993) Ultrafiltration and modified ultrafiltration in paediatric
+open heart operations. Ann Thorac Surg 56: 1518-1522
+18. Barankay A (2001) Interdisziplinäre Versorgung angeborener
+Herzfehler.Spitta Verlag, Balingen: 221-232
+19. Groom RC, Hill AG, Kurusz M et al (1995) Paediatric perfusion
+practice in North America: an update. Perfusion 10: 393-401
+20. Naik SK, Knight A, Elliott M (1991) A prospective randomized studie
+of a modified technique of ultrafiltration during paediatric open heart
+surgery. Circulation 84(Suppl):III 422-431
+21. Ootaki Y, Yamaguchi M, Oshima Y, Yoshimura N, Oka S (2002)
+Effects of modified ultrafiltration on coagulation factors in pediatric
+cardiac surgery. Surg Today 32(3): 203-206
+
+Literaturverzeichnis
+
+83
+
+22. Draaisma AM, Hazekamp MG, Frank M, Nanning A, Schoof PH,
+Huysmans HA (1997) Modified ultrafiltration after cardiopulmonary
+bypass in pediatric cardiac surgery. The Annals of Thoracic Surgery
+64(2): 521-525
+23. Mahmoud AB, Burhani MS, Hannef AA, Jamjoom AA, Al-Githmi IS,
+Baslaim GM (2005) Effects of modified ultrafiltration on pulmonary
+function after cardiopulmonary bypass. Chest 128(5): 3447-3453
+24. Davies MJ, Nguyen K, Gaynor JW, Elliott MJ (1998) Modified
+ultrafiltration improves left ventricular systolic function in infants after
+cardiopulmonary bypass. J Thorac Cardiovasc Surg. 115(2): 361-369
+25. Chaturvedi RR, Shore DF, White PA, Scallan MH, Gothard JW,
+Redington AN, Lincoln C (1999) Modified ultrafiltration improves
+global left ventricular systoloc function after open heart surgery in
+infants and children. Eur J Cardiothorac Surg. 15(6): 742-746
+26. Belway D, Rubens FD, Wozny D, Henley B, Nathan HJ (2005) Are
+we doing everything we can to conserve blood during bypass? A
+national survey. Perfusion 20(5): 237-241
+27. The Watchtower (1945) 1.7: 198-201
+28. Singelenberg R (1990) The blood transfusion taboo of Jehovah`s
+Witnesses; origin, development and function of a controversial
+doctrine. Social Science and Medicine 31: 515-523
+29. Die Bibel Buch Genesis 9: 4
+30. Die Bibel Levitikus 17: 10-16
+31. Die Bibel Apostelgeschichte 15: 28-29
+32. Anonym (1961) Respect fort he sanctity of blood. The Watchtower
+15.9: 558
+33. Anonym (1951) Questions from readers. The Watchtower 1.7: 415
+34. Websites: www.geocities.com/athens/ithaca/6236/index.htm;
+www.ajwrb.org/index.htm
+35. Röttgers HR, Nedjat S (2002) Zeugen Jehovas: Kritik am
+Transfusionsverbot nimmt zu. Dtsch Ärztebl 3: 102-105
+
+Literaturverzeichnis
+
+84
+
+36. Botting H, Botting G (1984) The Orwellian world of Jehovah`s
+witnesses. Toronto: Universitiy of Toronto Press
+37. Muramoto O (1998) Bioethik der Verweigerung von Bluttransfusionen
+bei Zeugen Jehovas Teil 1, Journal of Medical Ethics 24: 223-230
+38. Zieger B et al (1997) Therapie des schweren Faktor-VII-Mangels bei
+Mitgliedern der Zeugen Jehovas. Monatsschr Kinderheilkd 145(10):
+1076-1079
+39. Graves EJ (1993) National hospital discharge survey : annual
+summary, 1991. Vital Health Stat 13: 1-62
+40. Scott WJ, Rode R, Castlemain B, et al. (1992) Efficacy,
+complications, and cost of a comprehensive blood conservation
+program for cardiac operations. J Thorac Cardiovasc Surg 103:
+1001-1007
+41. Helm RE, Rosengart TK, Gomez M. et al. (1998) Comprehensive
+multimodality blood conservation: 100 consecutive CABG operations
+without transfusion. Ann Thorac Surg 65: 125-136
+42. Gaynor JW (2003) Use of ultrafiltration during and after
+cardiopulmonary bypass in children. J Thorac Cardiovasc Surg. 125:
+98-100
+43. Münch F (2003) „MUF-DeLuxe“ – das Erlanger Verfahren der
+modifizierten Ultrafiltration nach Elliott et al. Jahrestagung DgfK,
+Celle
+44. Scott DA, Silbert BS, Blyth C, O`Brien J, Santamaria J (2001) Blood
+loss in elective coronary artery surgery: a comparison of centrifugal
+versus roller pump heads during cardiopulmonary bypass. J
+Cardiothorac Vasc Anesth 15(3): 322-325
+45. Draaisma AM, Hazekamp MG, Frank M, Anes N, Schoof PH,
+Huysmann HA (1997) Modified ultrafiltration after cardiopulmonary
+bypass in paediatric cardiac surgery. Ann Thorac Surg 64(2): 521525
+
+Literaturverzeichnis
+
+85
+
+46. Graves K (2001) Anwendung der modifizierten Ultrafiltration (MUF)
+und anderer Ultrafiltrationsverfahren in der Kinderherzchirurgie.
+Kardiotechnik 10. Jahrgang, Heft 3:82-91
+47. Folette DM, Mulder DG, Maloney JV, Buckberg GD (1978)
+Advantages of blood cardioplegia over continuous coronary perfusion
+or intermittend ischemia. Experimental and clinical study. J Thorac
+Cardiovasc Surg 76: 604-619
+48. Croal BL, Hillis GS, Gibson PH, Fazal MT, El-Shafei H, Gibson G,
+Jeffrey RR, Buchan KG, West D, Cuthbertson BH (2006)
+Relationsship Between Postoperative Cardiac Troponin I Levels and
+Outcome of Cardiac Surgery. Circulation 114: 1468-1475
+49. Schmid C (2002) Leitfaden Erwachsenenchirurgie, Steinhoff,
+Darmstadt
+50. Karkouti K, Djaiani G, Borger MA, Beattie WS, Fedorko L,
+Wijeysundera D, Ivanov J, Karski J (2005) Low Hematokrit during
+Cardiopulmonary Bypass is Associated With Increased Risk of
+Perioperative Stroke in Cardiac Surgery. Ann Thorac Surg 80: 13811387
+51. Priebe HJ(2001) Herz- Kreislauf- System. In Kochs E, Krier C,
+Buzello W, Adams HA Anästhesiologie(1. Auflage), Thieme,
+Stuttgart. 66-86
+52. Greim CS, Hüttemann E, Knichwitz G, Meier-Hellmann A, Reinhart
+K, Rewer N, Sakka SG (2001) Erweitertes kardiorespiratorisches
+Monitoring. In: Van Aken H, Reinhart K, Zimpfer M. Intensivmedizin
+(1. Auflage), Thieme, Stuttgart 1268-1285
+53. Wachturm Bibel- und Traktat- Gesellschaft. (1977) 1-64
+54. Kleiman D (1984) Hospital philosopher confronts decisions of life. NY
+Times 23.1: 1-3
+55. Macklin R (1988) The inner workings of an ethics committee:Latest
+battle over Jehovah`s Witnesses. Hastings Cent Rep 18(1): 15-20
+56. Der Wachturm. (1978) 1.10: 30-32
+
+Literaturverzeichnis
+
+86
+
+57. ASA (1996) American Society of Anesthesiologists Task Force:
+Practice Guidelines for Blood Component Therapy. Anesthesiology
+84: 732-747
+58. Linden JV, Kaplan HS (1994) Transfusion errors: Causes and
+effects. Transfusion Medical Rewiev 8: 169-183
+59. Busch ORC, Hop WCJ, Hoynck Van Papendrecht MAV, Marquet RL,
+Jeekel J (1993) Blood transfusion and prognosis in colorectal cancer.
+New England Journal of Medicine 328: 1372-1376
+60. Tartter PI (1989) Blood transfusion and postoperative infections.
+Transfusion 29: 456-459
+61. Ford CD, Van Moorleghem GRL (1993) Blood transfusion and
+postoperative wound infection. Surgery 113: 603-607
+62. Blumberg N, Chuang-Stein C, Heal JM (1990) The relationsship of
+blood transfusion, tumor staging and cancer recurrence. Transfusion
+30: 291-294
+63. Murphy GJ, Angelini GD (2006) Indications for Blood Transfusion in
+Cardiac Surgery. Ann Thorac Surg 82: 2323-2334
+64. Vamvakas EC, Moore SB, Cabanela M (1995) Blood transfusion and
+septic complications after hip replacement surgery. Transfusion 35:
+150-156
+65. Quintiliani L, Pescini A, di Girolamo M, Iudicone P, Martini F,
+Guglielmetti M, Buzzonetti A, Fascioli S (1997) Relationship of blood
+transfusion, post-operative infections and immunoreactivity in
+patients undergoing surgery for gastrointestinal cancer.
+Haematologica 82: 318-323
+66. Sibrowski W, Wüllenweber J (1994) Das Infektionsrisiko in der
+Hämotherapie. Infusionstherapie und Transfusionsmedizin 21(1): 6063
+67. Busch MP, Lee L, Satten GA, Henrard DR, Farzadegan HH, Nelson
+KE, Read S, Dodd RY (1995) Time course of detection of viral and
+serologic markers preceding human immunodeficiency virus type 1
+
+Literaturverzeichnis
+
+87
+
+seroconversion: Implications for screening of blood and tissue
+donors. Transfusion 35: 91-97
+68. Dodd RY (1992) The risk of transfusion-transmitted infection. New
+England Journal of Medicine 327: 419-420
+69. Schmid C, Krempel S, Scheld HH (2002) Jehova`s Witnesses – How
+to encounter the transfusion issue. Thorac Cardiov Surg 50: 380-383
+70. Krauskopf (1997) Soziale Krankenversicherung, § 39 SGB V, Rdnr.
+21
+71. Schmidt (1996) in: Peters (Hrsg), Handbuch der
+Krankenversicherung II, SGB V, § 39, Rdnr. 249
+72. OLG Köln, VersR 1998, 88, für § 1 MBKK 76
+73. Dixon JL (1988) Blood: Whose decision and whose conscience?
+New York State Journal of Medicine 88: 463-464
+74. Rudolf GAE, Röttgers HR (2000) Rechtsfragen in Psychiatrie und
+Neurologie. 2. Auflage, Dt. Universitäts-Verlag
+75. Bender AW (1999) Zeugen Jehovas und Bluttransfusionen. Eine
+zivilrechtliche Betrachtung. MedR 6: 260-267
+76. Weißauer W (1993) Chirurgie und Recht; Berlin. Hrsg. Rudolf Häring,
+Blackwell Wissenschaft 134-143
+77. LG Köln, MedR 1995, 409
+78. Rosengart TK, Helm RE, De Bois WJ, Garcia N, Krieger KH, Isom
+OW (1997) Open heart operations without transfusion using a
+multimodality blood conservation strategy in 50 Jehovah`s Witness
+patients: implication for a “bloodless” surgical technique. J Am Coll
+Surg 184(6): 618-629
+79. Podesta A, Carmagnini E (1999) Erythropoietin in Jehovah`s witness
+heart surgery. Minerva Cardioangiol 47(7-8): 261-267
+80. Rohling RG, Zimmermann AP, Breymann C (2000) Intravenous
+versus oral iron supplementation for preoperative stimulation of
+hemoglobin synthesis using recombinant human erythropoietin. J
+Hematother Stem Cell Res 9: 497-500
+
+Literaturverzeichnis
+
+88
+
+81. Kallis P, Tooze JA, Talbot S, Cowans D, Bevan DH, Treasure T
+(1994) Pre-operative aspirin decreases platelet aggregation and
+increases post-operative blood loss: a prospective, randomised,
+placebo controlled, double-blind clinical trial in 100 patients with
+chronic stable angina. Eur J Cardiothorac Surg 8: 404-408
+82. Sethi GK, Copeland JG, Goldman S, Moritz T, Zadina K, Henderson
+WG (1990) Implications of preoperative administration of aspirin in
+patients undergoing coronary artery bypass grafting: Department of
+Veterans Affairs Cooperative Study on Antiplatelet Therapy. J Am
+Coll Cardiol 15: 15-20
+83. Levy JH, Pifarre R, Schaff HV, Horrow JC, Albus R, Spiess B,
+Rosengart TK, Murray J, Clark RE, Smith P (1995) A multicenter,
+double-blind, placebo controlled trial of aprotinin for reducing blood
+loss and the requirement for donor-blood transfusion in patients
+undergoing repeat coronary artery bypass grafting. Circulation 92(8):
+2236-2244
+84. Laupacis A, Fergusson D (1997) Drugs to minimize perioperative
+blood loss in cardiac surgery: meta-analyses using perioperative
+blood transfusion as the outcome. The International Study of Perioperative Transfusion (ISPOT) Investigators. Anesth Analg 85: 12581267
+85. Fremes SE, Wong BI, Lee E, Mai R, Christakis GT, McLean RF,
+Goldman BS, Naylor CD (1994) Metaanalysis of prophylactic drug
+treatment in the prevention of postoperative bleeding. Ann Thorac
+Surg 58(6): 1580-1588
+86. Boodhwani M, Williams K, Babaev A, Gill G, Saleem N, Rubens FD
+(2006) Ultrafiltration reduces blood transfusions following cardiac
+surgery: a meta- analysis. Eur J Cardio-thorac Surg, doi:
+10.1016/j.ejcts.2006.09.014
+
+Literaturverzeichnis
+
+89
+
+87. Gaynor JW (2003) The effect of modified ultrafiltration on the
+postoperative course in patients with congenital heart disease. Semin
+Thorac Cardiovasc Surg Pediatr Card Surg Annu 6: 128-139
+88. Myers GJ, Leadon RB, Mitchell LB, Ross DB (2000) Simple modified
+ultrafiltration. Perfusion 15(5): 447-452
+89. Kiziltepe U, Uysalel A, Corapcioglu T, Dalva K, Akan H, Akalin H
+(2001) Effects of Combined Conventional and Modified Ultrafiltration
+in Adult Patients. Ann Thorac Surg 71:684-693
+90. Karkouti K, Djaiani G, Borger MA, et al. (2005) Low hematokrit during
+cardiopulmonary bypass is associated with increased risk of
+perioperativ stroke in cardiac surgery. Ann Thorac Surg 80:13811387
+91. Kuduvalli M, Oo AY, Newall N, Grayson AD, Jackson M, Desmond
+MJ, Fabri BM, Rashid A (2005) Effect of peri-operativ red blood cell
+transfusion on 30-day and 1-year mortality following coronary artery
+bypass surgery. European Journal of Cardio-thoracic Surgery 27:
+592-598
+92. Blumberg N (1997) Allogenic transfusion and infection: economic and
+clinical implications. Semin Hematol 34(3 Suppl 2): 34-40
+93. Murphy PJ, Connery C, Hicks GL Jr, Blumberg N (1992)
+Homologous blood transfusion as a risk factor for postoperative
+infection after coronary artery bypass graft operations. J Thorac
+Cardiovasc Surg 104(4): 1092-1099
+94. Engoren MC, Habib RH, Zacharias A, Schwann TA, Riordan CJ,
+Durham SJ (2002) Effect of Blood Transfusion on Long-Term
+Survival After Cardiac Operation. Ann Thorac Surg 74:1180-1186
+95. Karkouti K, Wijeysundera DN, Yau TM, Beatty WS, Abdelnaem E,
+McCluskey SA, Ghannam M, Yeo E, Djaiani G, Karski J (2004) The
+independent association of massiv blood loss with mortality in
+cardiac surgery. Transfusion 44: 1453-1462
+
+Literaturverzeichnis
+
+90
+
+96. Housmanns PR, Murat I (1988) Comparativ effects of halothane,
+enflurane and isoflurane in equipotent anesthetic concentrations on
+isolated ventricular myocardium of the ferret. I. Contraktility.
+Anesthesiology 69: 451-463
+97. Eckstein JW, Hamilton WK, Cammond JM (1961) The effect of
+thiopental on peripheral venous tone. Anesthesiology 22:525-528
+98. Bloos F, Reinhart K(2001) Schock. In: Van Aken H, Reinhart K,
+Zimpfer M. Intensivmedizin (1. Auflage), Thieme, Stuttgart 1268-1285
+99. Cain SM (1965) Appearance of excess lactate in anesthetized dogs
+during anemic hypoxic hypoxia. Am J Physiol 209: 604-610
+100. Theye R, Tuohy, GF (1964) Oxygen Uptake During Light Halothane
+Anesthesia in Man. Anesthesiology 25(5): 627-633
+101. Van der Linden P, De Hert S, Mathieu N, Degroote F, Schmartz D,
+Zhang H, Vincent J-L (2003) Tolerance to Acute Isovolemic
+Hemodilution: Effect of Anesthetic Depth. Anesthesiology 99: 97-104
+102. Mathru M, Solanki DR, Woodson LC, Funston JS, Ozkan O, Henkel
+SN, Wang D, Gore D, Prough DS (2006) Splanchnic Oxygen
+Consumption Is Impaired during Severe Acute Normovolemic
+Anemia in Anesthetized Humans. Anesthesiology 105: 37-44
+103. Liebermann, JA, Weiskopf RB, Keley SD, Feiner J, Noorani M,
+Leung J, Toy P, Viele M (2000) Critical Oxygen Delivery in
+Conscious Humans Is Less Than 7.3 ml O2/kg/min. Anesthesiology
+92: 407-413
+104. Kirklin J K, Blackstone EH, Kirklin JW (1987) Cardiopulmonary
+bypass: studies on ist damaging effects. Blood Purif. 5: 168-178
+105. Westaby S (1987) Organ dysfunktion after cardiopulmonary bypass:
+a systemic inflammatory reaction induced by the extracorporeal
+circuit. Intensive Care Med 13: 89-95
+106. Moat NE, Rebuck N, Shore DF, et al. (1993) HUmoral and cellular
+activation in a simulated extracorporeal Circuit. Ann Thorac Surg 56:
+1509-1514
+
+Literaturverzeichnis
+
+91
+
+107. Luciani GB, Menon T, Vecchi B Auriemma S, Mazzucco A (2001)
+Modified Ultrafiltration Reduces Morbidity After Adult Cardiac
+Operations: A Prospective, Randomized Clinical Trial. Circulation
+104(Suppl I): I-253-I-259
+108. Chew MS (2004) Does modified ultrafiltration reduce the systemic
+inflammatory response to cardiac surgery with cardiopulmonary
+bypass. Perfusion 19: 57-60
+109. Kristof AS, Sheldon M (1999) Low systemic vascular resistance state
+in patients undergoing cardiopulmonary bypass. Critical Care
+Medicine 27(6): 1121-1127
+110. Carrel T, Englberger L, Mohacsi P, Neidhart P, Schmidli J (2000)
+Low systemic vascular resistance after cardiopulmonary bypass:
+incidence, etiology, and clinical importance. J Card Surg 15(5): 347353
+111. Vermeij CG, Feenstra BW, Bruining HA (1990) Oxygen delivery and
+oxygen uptake in postoperative and septic patients. Chest 98: 415420
+112. Kulier A, Levin J, Moser R, Rumpold-Seitlinger G, Tudor IC, SnyderRamos SA, Moehnle P, Mangano DT (2007) Impact of Preoperativ
+Anemia on Outcome in Patients Undergoing Coronary Artery Bypass
+Graft Surgery. Circulation 116: 471-479
+113. Tang YD, Katz SD, (2006) Anemia in chronic heart failure:
+prevalence, etiology, clinical correlates, and treatment options.
+Circulation 113 : 2454-2461
+
+92
+
+Danksagung
+
+8. Danksagung
+Allen, die bei der Erstellung der Arbeit geholfen haben, möchte ich an dieser
+Stelle ganz herzlich danken.
+Mein Dank gilt meinem Klinikdirektor Herrn Univ.- Prof. Dr. med. Dr. h.c. Hugo
+Van
+
+Aken
+
+für
+
+die
+
+kontinuierliche
+
+Motivation
+
+und
+
+die
+
+Bereitstellung
+
+hervorragender Rahmenbedingungen unter denen diese Studie durchgeführt
+wurde.
+Meinem Doktorvater, Herrn PD. Dr. med. Ch. Schmidt möchte ich für die
+exzellente und geduldige Zusammenarbeit danken.
+Mein besonderer Dank gilt den Kollegen der Abteilung für Kardiotechnik für ihre
+fachkundige Unterstützung.
+Bei Herrn Univ. Prof. Dr. med. H. H. Scheld und seinen Mitarbeitern möchte ich
+mich bedanken für die kollegiale Zusammenarbeit.
+Nicht zuletzt gilt mein Dank meinen Eltern, die mir meine Ausbildung und mein
+Studium ermöglicht haben.
+
+Lebenslauf
+
+9. Lebenslauf
+
+93
+
+Lebenslauf
+
+94
+
+

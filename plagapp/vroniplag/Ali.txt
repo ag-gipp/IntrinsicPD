@@ -1,0 +1,5339 @@
+Aus der Klinik für Urologie
+der Medizinischen Fakultät der CharitéUniversitätsmedizin Berlin
+
+DISSERTATION
+	  
+Onkologische Langzeitergebnisse, Inkontinenz
+und Spätkomplikationen nach transperitonealer
+laparoskopischer radikaler Prostatektomie ohne Nerverhalt
+
+Follow up von 700 Patienten, operiert in den
+Jahren 1999-2005 an der Klinik für Urologie der Charité Mitte
+
+Zur Erlangung des akademischen Grades
+Doktor medicinae (Dr.med.)
+
+Vorgelegt der Medizinischen Fakultät der CharitéUniversitätsmedizin Berlin
+
+von
+
+Anita Lisowski
+aus Kluczbork
+
+	  
+	  
+
+Gutachter: 1. Prof. Dr. med. Michael Lein
+2. Prof. Dr. med. Jan Roigas
+3. PD Dr. med. Frank Christoph
+
+Datum der Promotion: 03.09.2010
+	  
+	  
+
+Abkürzungen
+
+%f-PSA
+
+prozentuales freies PSA
+
+BMI
+
+Body Mass Index
+
+BPH
+
+benigne Prostatahyperplasie
+
+bzw.
+
+beziehungsweise
+
+CT
+
+Computertomographie
+
+d.h.
+
+das heißt
+
+DES
+
+Diethylstilbestrol
+
+DEGRO
+
+Deutsche Gesellschaft für Radioonkologie
+
+DGMP
+
+Deutsche Gesellschaft für Medizinische Physik
+
+DNA
+
+Desoxyribonukleinsäure
+
+DRU
+
+digital-rektale Untersuchung
+
+EERP
+
+endoskopisch extraperitoneale radikale Prostatektomie
+
+f-PSA
+
+freies PSA
+
+FSH
+
+follikelstimulierendes Hormon
+
+GnRH
+
+Gonadotropin-Releasing-Hormon
+
+GS
+
+Gleason-Score-Summe
+
+GSTP1
+
+Glutathion S-Transferase P1
+
+Gy
+
+Gray
+
+HIFU
+
+Hochintensive fokussierte Ultraschalltherapie
+
+ICRU
+
+International Commission on Radiation Units and Measurements
+
+ICS
+
+International Continence Society
+
+LH
+
+Luteinizing Hormone
+
+LHRH
+
+Luteinizing Hormone Releasing Hormone
+
+LRP
+
+laparoskopische radikale Prostatektomie
+
+M
+
+Fernmetastasenstatus
+
+MAB
+
+maximale Androgenblockade
+
+Mon
+
+Monate
+
+MRT
+
+Magnetresonanztomographie
+
+NS
+
+nerve-sparing
+
+N-Staging
+
+Lymphknotenstaging
+
+N-Stadium Lymphknotenstatus
+	  
+	  
+
+OP
+
+Operation
+
+ORP
+
+offene radikale Prostatektomie
+
+PIN
+
+prostatische intraepitheliale Neoplasie (Prostatic Intraepithelial Neoplasia)
+
+Pat.
+
+Patient
+
+PCa
+
+Prostatakarzinom
+
+pLa
+
+pelvine Lymphadenektomie
+
+p.o.
+
+postoperativ
+
+PPV
+
+positiver prädiktiver Vorhersagewert
+
+PSA
+
+prostataspezifisches Antigen
+
+R
+
+Resektionsrand (Schnittrand)
+
+R0
+
+negativer Resektionsrand (Schnittrand)
+
+R1
+
+positiver Resektionsrand (Schnittrand)
+
+RPE
+
+radikale Prostatektomie
+
+RPP
+
+radikale perineale Prostatektomie
+
+RRP
+
+radikale retropubische Prostatektomie
+
+SHBG
+
+steroidhormonbindendes Globulin
+
+T-Stadium
+
+Tumorgröße
+
+t-PSA
+
+Gesamt-PSA
+
+TRUS
+
+transrektaler Ultraschall
+
+TURP
+
+transurethrale Resektion der Prostata
+
+	  
+	  
+
+Inhaltsverzeichnis
+Abkürzungen
+1 Einleitung
+
+1
+
+1.1 Epidemiologie
+
+1
+
+1.2 Ätiologie und Risikofaktoren
+
+2
+
+1.3 Screening, Früherkennung und Ausbreitungsdiagnostik
+
+4
+
+1.3.1 Digital-rektale Untersuchung (DRU)
+
+4
+
+1.3.2 Prostataspezifisches Antigen (PSA)
+
+5
+
+1.3.3 Transrektaler Ultraschall (TRUS)
+
+6
+
+1.3.4 Prostatabiopsie
+
+7
+
+1.3.5 Bildgebende Diagnostik
+
+8
+
+1.3.6 Lymphknotenstaging
+
+9
+
+1.4 Therapie
+
+10
+
+1.4.1 Therapieoptionen beim lokal begrenzten Prostatakarzinom
+1.4.1.1 Radikale Prostatektomie
+
+10
+10
+
+1.4.1.1.1 Offene Radikale Prostatektomie (ORP)
+
+11
+
+1.4.1.1.2 Laparoskopische Radikale Prostatektomie (LRP)
+
+12
+
+1.4.1.2 Strahlentherapie
+
+13
+
+1.4.1.3 „Watchful waiting“
+
+14
+
+1.4.1.4 Alternative Verfahren
+
+15
+
+1.4.2 Therapieoptionen beim fortgeschrittenen Prostatakarzinom
+
+16
+
+1.5 Technik der LRP an der Klinik für Urologie der Charite (Campus Mitte )
+
+18
+
+2 Zielstellung
+
+19
+
+3 Patienten und Methodik
+
+20
+
+3.1 Untersuchungszeitraum und Patientenzahl
+
+20
+
+3.2 Datenerfassung und Auswertung
+
+20
+
+3.3 Statistik
+
+21
+
+4 Ergebnisse
+
+22
+
+4.1 PSA-freies Überleben
+
+22
+
+4.1.1 PSA-Progress
+
+22
+
+4.1.2 Die Vergleichsanalysen
+
+24
+
+4.1.2.1 Einfluss des pT-Stadiums auf das PSA-freie Überleben
+	  
+	  
+
+24
+
+4.1.2.2 Einfluss des Schnittrandes auf das PSA-freie Überleben
+
+26
+
+4.1.2.3 Einfluss der nicht- Nerverhaltung auf das PSA-freie Überleben
+
+29
+
+4.1.2.4 Einfluss des Ausgangs-PSA-Wertes auf das PSA-freie Überleben
+
+30
+
+4.1.2.5 Einfluss verschiedener Faktoren auf das PSA-freie Überleben
+
+33
+
+4.2 Inkontinenz nach LRP
+
+34
+
+4.2.1 Inkontinenzverlauf nach LRP
+
+35
+
+4.2.2 Raten in Bezug auf OP-Jahr und Operateur
+
+36
+
+4.3 Spätkomplikationen
+
+37
+
+4.3.1 Tod
+
+37
+
+4.3.2 Thrombose und Embolie
+
+38
+
+4.3.3 Nervenläsion
+
+38
+
+4.3.4 Fistel und Abszess
+
+38
+
+4.3.5 Ileus
+
+39
+
+4.3.6 Weitere Komplikationen
+
+39
+
+5 Diskussion
+
+41
+
+5.1 Präoperative Daten
+
+41
+
+5.2 Intraoperative Daten
+
+43
+
+5.3 Onkologische Ergebnisse
+
+45
+
+5.4 Inkontinenz
+
+48
+
+5.5 Spätkomplikationen
+
+50
+
+6 Zusammenfassung
+
+54
+
+7 Literaturverzeichnis
+
+56
+
+8 Abbildungsverzeichnis
+
+75
+
+9 Tabellenverzeichnis
+
+76
+
+Lebenslauf
+
+77
+
+Erklärungen an Eides Statt
+
+79
+
+	  
+	  
+
+1
+
+Einleitung
+
+1.1
+
+Epidemiologie
+
+Das Prostatakarzinom ist der häufigste maligne Tumor des Mannes mit ansteigender
+Inzidenz in Westeuropa, Nordamerika und den übrigen Industrienationen. Die Ursachen
+hierfür sind die demographische Entwicklung mit einem zunehmend höheren Anteil der
+älteren Bevölkerungsschicht und die optimierten Methoden der Früherkennung des
+Prostatakarzinoms [1]. In Deutschland werden aktuell jährlich etwa 48 650
+Prostatakarzinome diagnostiziert, die altersstandardisierte Inzidenzrate beträgt ca. 97,8
+pro 100 000 pro Jahr [2] und ist stark altersabhängig. Sie steigt ab dem 55. Lebensjahr
+exponentiell an, liegt mit 60 Jahren bei 50/100 000 und steigt bei über 75-jährigen auf
+über 400/100 000. Das bevorzugte Erkrankungsalter liegt im Bereich zwischen 60 und
+80 Jahren, das mittlere Alter bei Diagnose beträgt 71,4 etwa 2 Jahre höher als für Krebs
+insgesamt [3]. So ist die Prostata mit 22,3 % die häufigste Lokalisation bösartiger
+Neubildungen des Mannes in Deutschland [2]. Das Tumor-spezifische mittlere
+Sterbealter liegt bei 78 Jahren. Das Prostatakarzinom stellt unter den urologischen
+Tumoren die häufigste Todesursache und ab dem 80. Lebensjahr die häufigste
+tumorbedingte Todesursache überhaupt dar [4]. Altersunabhängig bezogen auf die
+männliche Bevölkerung belegt es den zweiten Rang nach dem Bronchialkarzinom [5]
+und
+
+geschlechtsunspezifisch
+
+den
+
+dritten
+
+Rang
+
+bei
+
+zum
+
+Tode
+
+führenden
+
+Krebserkrankungen mit 10,4% [2]. In den USA, in denen Langzeitstudien mit den
+größten Kohorten aller westlichen Industrienationen durchgeführt wurden, stieg die
+Inzidenz zwischen 1987 und 1992 um 85%. Damit direkt korrelierend und beeinflussend
+steht die Einführung des PSA-Screenings als standardisierter Diagnoseparameter [6].
+Es verschob sich seit 1990 durch dieses Verfahren auch der Stadienanteil der neu
+diagnostizierten Prostatakarzinome hin zu lokal begrenzten Tumoren, der Anteil der
+bereits primär metastasierten Tumoren verringerte sich deutlich [1,6]. In den USA hat
+sich
+
+die
+
+aktuelle
+
+5-Jahres-Überlebensrate
+
+beim
+
+lokalisierten
+
+Prostatakarzinom
+
+ausgehend von 70% in den Jahren 1973-77 über 94% im Zeitraum 1988-1989 auf
+aktuell fast 100% erhöht [7]. Auffallend ist eine deutlich signifikante Ungleichverteilung
+der Tumorhäufigkeit bei verschiedenen ethnischen Gruppen: Die mit 271 von 100 000
+höchste Inzidenzrate zeigt der afroamerikanische Bevölkerungsanteil, sie ist etwa 25mal höher als bei Südostasiaten, die Japaner haben mit ca. 9 von 100 000 die mit
+Abstand
+
+niedrigste
+
+Rate
+
+[1,8].
+
+Autopsiestudien
+1	  
+	  
+
+zeigen
+
+einen
+
+Anteil
+
+von
+
+Prostatakarzinom
+
+bereits 29% im Altersbereich 20-40 Jahre. Zwischen 60 und 70
+
+Jahren mit dem Befund eines latenten Prostatakarzinoms, das asymptomatisch ist und
+möglicherweise
+
+keinen
+
+signifikanten
+
+Einfluss
+
+auf
+
+die
+
+Lebenserwartung
+
+und
+
+Lebensqualität des Betroffenen hätte [9]. Die aktuell hohe und weiterhin steigende
+Inzidenzrate
+
+und
+
+deren
+
+gesundheitliche
+
+sowie
+
+ökonomische
+
+Auswirkungen
+
+unterstreichen die Bedeutung einer optimierten Methodik in Diagnostik und Therapie
+dieser Erkrankung.
+1.2
+
+Ätiologie und Risikofaktoren
+
+Die Ätiologie des Prostatakarzinoms ist nicht geklärt. Unstrittig sind der Einfluss des
+Alters als größter gesamtbezogener Risikofaktor, wie obige Daten belegen, sowie eine
+hereditäre Komponente, bestimmte Hormone und ethnische Zugehörigkeit als weitere
+endogene Parameter. Außerdem gelten Umwelt- und Ernährungsfaktoren als exogene
+Einflussgrößen, die die höhere Häufigkeit dieser Tumorentität v.a. in der westlichen
+Welt erklären können. Insgesamt handelt es sich beim Prostatakarzinom um ein
+multifaktorielles Geschehen. Die Determinierung einer hereditären Komponente konnte
+in zahlreichen Studien belegt werden. So ist das Risiko eines Mannes, an einem
+Prostatakarzinom zu erkranken, bei Diagnosestellung im frühen Alter (<50 Jahren) und
+Tumorauftreten in der Verwandtschaft 1. Grades 2-3 fach erhöht
+
+gegenüber der
+
+Normalbevölkerung. Wenn zwei oder mehrere direkte Verwandte betroffen sind, erhöht
+sich das Risiko auf das 5- 11-fache [10, 11, 12]. Diese familiäre Komponente ist bei
+ethnisch
+
+unterschiedlichen
+
+Bevölkerungsteilen
+
+(afro-amerikanisch,
+
+asiatisch-
+
+amerikanisch und kaukasisch) beobachtet worden [13]. In diesem Kontext wurden
+Veränderungen auf den Chromosomen 1, 7, 10 und 16 beschrieben. Einigen Studien
+zufolge ist die Grundlage des hereditären Prostatakarzinoms zumindest teilweise ein
+Mendel `scher autosomaler Erbgang [14,15, 16, 17], wobei für das early-onset
+Karzinom ein autosomal dominanter Weg wahrscheinlich ist und das later-onset
+Karzinom als rezessiv vererbtes Risiko entsteht. Die Expression von Glutathion STransferase
+
+P1
+
+(GSTP1),
+
+das
+
+als
+
+Entgiftungsenzym
+
+den
+
+Abbau
+
+oxidativer
+
+Sauerstofftypen katalysiert, ist bei nahezu 100% der diagnostizierten und befundeten
+Karzinome vermindert bzw. fehlt gänzlich [18, 19, 20]. Weiterhin ist aufgezeigt worden,
+dass bei PCa-Patienten ein reduzierter Telomer-DNA-Gehalt signifikant korreliert mit
+Tod bzw. Auftreten eines Tumorrezidivs [21]. Ebenso werden die chronische Prostatitis
+und die fokal prostatische glanduläre Atrophie als äthiologisch bedeutsamer Faktor
+2	  
+	  
+
+diskutiert. Hierzu gibt es hinweisende, aber keine endgültigen Daten [22, 23]. Den
+Einfluss der ethnischen Zugehörigkeit verdeutlichen Daten aus Europa mit einem
+beobachteten Nord-Süd-Gefälle (Schweden mit 50,2/100 000 gegenüber Portugiesen
+mit 11,8/100 000) und v.a. die US- amerikanischen Inzidenzraten. Afroamerikaner
+zeigen mit 271/100 000 ein deutlich erhöhtes Tumorauftreten zu weißen Amerikanern
+(176/100
+
+000)
+
+[8].
+
+Sie
+
+(steroidhormonbindendes
+
+weisen
+
+Globulin)-
+
+außerdem
+
+einen
+
+Serumspiegel
+
+auf,
+
+höheren
+der
+
+zum
+
+SHBGerhöhten
+
+Karzinomrisiko führen kann [7]. Eine ausschließlich genetische Erklärung für diese
+Inzidenzvarianz wurde durch Migrationsstudien widerlegt. Diese zeigten einen Anstieg
+der Erkrankungsraten zum einen bei in die USA eingewanderten Südostasiaten [24, 25,
+26] und zum anderen bei Immigranten in ein Land mit einem vergleichbaren
+Gesundheitssystem und validen Krebsregister in Relation zum Herkunftsland [27].
+Hierfür sind exogene Faktoren, allen voran die Ernährung, erklärend: Die an tierischen
+Fetten reichhaltige Nahrung in westlichen Industrienationen erhöhte in mehreren
+Studien (insgesamt >100 000 Männer) das Risiko für ein PCa-Auftreten um 1,8 bis 2,9
+[28], für einen Tumorprogress um 2,5 bis 3 [29]. Auch war eine Korrelation zwischen
+konsumiertem Fettanteil und PSA-Verlauf beim PCa zu verzeichnen, eine vegetarische
+Ernährung verminderte sogar den PSA-Wert [30]. Als eine Erklärung für die niedrige
+Inzidenzrate
+
+in
+
+Asien
+
+wird
+
+der
+
+hohe
+
+Gehalt
+
+an
+
+Phyto-Östrogenen
+
+(v.a.
+
+Flavone/Isoflavone in Obst und Gemüse, Ligane in Sojabohnen, Leinsamen und
+Körnern)
+
+angesehen.
+
+Östrogenrezeptor,
+
+Diese
+
+eine
+
+wirken
+
+Abnahme
+
+durch
+
+einen
+
+zirkulierender
+
+antiöstrogenen
+Androgene
+
+Effekt
+(v.a.
+
+am
+freies
+
+Serumtestosteron), eine gesteigerte Apoptoserate und Regulation der Angiogenese [31,
+32, 33, 34]. Der häufige Verzehr von Tomaten(-Produkten), die Lykopin enthalten, ein
+antioxidativ wirkendes Karitinoid, senkt das Tumorrisiko signifikant [35, 36, 37]. Selen,
+ein Spurenelement mit immunaktivierender, apoptoseinduzierender und antioxidativer
+Wirkung, steht wahrscheinlich auch in inverser Relation zur Inzidenz des PCa [38, 39].
+
+Dessen Einfluss ist aber noch nicht sicher nachgewiesen.
+Zusammenfassend
+
+lässt
+
+eine
+
+Vielzahl
+
+experimenteller
+
+und
+
+epidemiologischer
+
+Untersuchungen eine direkte Korrelation zwischen Ernährung und Prostatakarzinom als
+gesichert erscheinen. Dies verdeutlicht die Bedeutung dieses exogenen Faktors nicht
+nur in der primären, sondern auch sekundären Tumorprävention.
+
+3	  
+	  
+
+1.3
+
+Screening, Früherkennung und Ausbreitungsdiagnostik
+
+Das Prostatakarzinom als langsam wachsender Tumor verursacht in den Frühstadien
+nur selten Beschwerden. Das Auftreten von Symptomen wie Miktionsstörungen,
+Hämaturie, Hämospermie und Impotenz deutet auf ein lokal fortgeschrittenes Karzinom
+hin, Becken- und Knochenschmerzen treten bei ossärer Metastasierung auf [48]. Dies
+verdeutlicht die Notwendigkeit einer adäquaten Diagnostik als Screening (bei einer
+gesunden Population) bzw. Früherkennung (bei Patienten mit urologischen Symptomen
+unklarer Genese) mit dem Ziel, den Tumor in einem organbegrenzten Stadium zu
+erfassen und somit den Patienten einer kurativen Therapie zuführen zu können [49].
+Zu einer solchen Diagnostik zählen neben der digital-rektalen Untersuchung (DRU) und
+der laborchemischen Bestimmung des prostataspezifischen Antigens (PSA) und seiner
+Unterfraktionen im Serum, der transrektale Ultraschall (TRUS). Bei suspektem Befund
+folgt eine Prostatabiopsie, an die sich bei einem Prostatakarzinom Nachweis die weitere
+Ausbreitungsdiagnostik
+
+anschließt.
+
+Zu
+
+dieser
+
+zählen
+
+ggf.
+
+die
+
+pelvine
+
+Lymphadenektomie und bildgebende Verfahren. Die Empfehlung zur Früherkennung,
+der deutschen Gesellschaft für Urologie sehen ab dem 50. Lebensjahr, für Männer mit
+familiärer Disposition ab dem 45. Lebensjahr, die jährliche Untersuchung mit der PSABestimmung, eine DRU und einem TRUS vor [50]. Dagegen beinhaltet die Leitlinie der
+gesetzlichen Krankenkassen lediglich eine urologische Anamneseerstellung und eine
+DRU.
+
+Vor
+
+allem
+
+die
+
+Kombination
+
+der
+
+genannten
+
+Verfahren
+
+erhöht
+
+die
+
+Neuentdeckungsrate des Prostatakarzinoms. Sie erhöht sich bei zusätzlicher
+Bestimmung des PSA-Wertes zur DRU um den Faktor 4 [51], bei einer gleichzeitigen
+Durchführung von DRU, TRUS und PSA-Bestimmung ist der positiv prädiktive Wert
+dem der singulären DRU um das 10-fache überlegen [52].
+1.3.1 Digital-rektale Untersuchung (DRU)
+Die DRU stellt ein einfaches und preisgünstiges Verfahren die Grundlage der
+Früherkennungsmaßnahmen dar. Sie erfolgt in Steinschnittlage, Seitenlage oder beim
+vorgebeugten Patienten. Die Mehrzahl der Tumoren befindet sich in der peripheren
+Zone (dorsale und laterale Drüsenabschnitte) und kann mit der Palpation ab einer
+Größe von 0,2 ml erkannt werden. Transitionalzellkarzinome (15-20% aller Tumoren)
+sind durch diese Methode nicht beurteilbar [53]. Als Basisparameter werden Größe,
+4	  
+	  
+
+Form,
+
+Oberflächenstruktur,
+
+Abgrenzbarkeit,
+
+Konsistenz,
+
+Verschieblichkeit
+
+der
+
+Rektummukosa und Druckschmerzhaftigkeit beurteilt. Als prinzipiell suspekt gelten
+jegliche Veränderungen obiger Parameter, vor allem knotige Indurationen von harter
+Konsistenz, eine unregelmäßige Oberfläche und verminderte Abgrenzbarkeit zum
+umgebenden Gewebe. Als karzinomspezifisch dürfen sie allerdings nicht definiert
+werden. Bei beschwerdefreien Männern wird die Karzinomdetektionsrate der DRU mit
+0,1-4% angegeben [54, 55, 56]. Die Sensitivität für die Diagnose ist in großem Umfang
+von der Erfahrung des Untersuchers abhängig und liegt je nach Studie zwischen 60%
+und 92%, die Spezifität im Bereich von 48-89% [57]. 18% der entdeckten
+Prostatakarzinome einer großen internationalen Studie sind einzig durch einen DRUBefund aufgefallen [58]. Allerdings waren ca. 50% dieses Anteils im bereits
+organüberschreitenden Stadium. Ähnliche Zahlen ergaben andere Untersuchungen [59,
+60]. Außerdem haben 23-45% der durch erhöhte PSA-Werte und/oder suspekte TRUSBefunde stanzbioptisch gesicherten Prostatakarzinome ein unauffälliges DRU-Ergebnis
+[49].
+1.3.2. Prostataspezifisches Antigen (PSA)
+Das PSA ist eine kallikreinähnliche Serin-Protease und stellt den in der Urologie
+wichtigsten Tumormarker dar, der sowohl in der Früherkennung als auch beim Staging
+und
+
+der
+
+Verlaufskontrolle
+
+eine
+
+gewichtige
+
+Rolle
+
+spielt
+
+[61].
+
+Es
+
+gilt
+
+als
+
+prostatagewebespezifischer Marker, das nur im Bereich der epithelialen Zellen, nicht in
+anderen zellulären Einheiten der Prostata wie Gefäßen und Stroma gebildet und in das
+Lumen der Ductuli sezerniert wird. Seine Hauptfunktion besteht in der Verflüssigung
+des Seminalkoagulums während der Ejakulation [62]. Das PSA ist allerdings kein
+karzinomspezifischer Marker, da neben malignen Prozessen
+
+auch mechanische
+
+Manipulationen (DRU, Biopsie, Zystoskopie, Katheterismus, Sport, sexuelle Aktivität),
+Prostatitis und die benigne Prostatahyperplasie (BPH) zu erhöhten Serumwerten führen
+können. Als unabhängige Variable ist dieser Diagnoseparameter jedoch in Spezifität
+und Sensitivität der von DRU und TRUS überlegen [58, 63]. Er hat daher auch früher
+verwendete Serummarker wie die Prostata-spezifische saure Phosphatase abgelöst
+[64]. Aktuell beträgt der Referenzwert für das Gesamt- PSA (t-PSA) 4 ng/ml mit einer
+Spezifität von 91% und Sensitivität von 73% in Abhängigkeit vom Testsystem [65].
+Diskutiert wird eine Senkung des Cut-off auf 3 bzw. 2 ng/ml, da die Wahrscheinlichkeit
+für ein Prostatakarzinom bei negativer DRU und t-PSA-Serumwerten zwischen 2 und 4
+5	  
+	  
+
+ng/ml noch 20% beträgt [66]. Für Bereiche zwischen 4 und 10 ng/ml liegt der positive
+prädiktive Vorhersagewert (PPV) bei 25-35%, für Werte über 10 ng/ml steigt er deutlich
+auf 50-80% [67]. 75% der mittels PSA-Titeranstieg diagnostizierten Tumoren sind lokal
+begrenzt [58], bei Werten über 10 ng/ml sind es allerdings nur noch 30% [68]. Da auch
+20% der Patienten mit klinisch manifester BPH PSA-Werte zwischen 4 und 10 ng/ml
+aufweisen, fanden Modifikationen der PSA-Bestimmung Einzug, um als Hilfsindikatoren
+die Serumdiagnostik zu optimieren. Die bisher vielversprechende Methode stellt die
+Bestimmung des prozentualen freien PSA (%f-PSA) dar, das sich aus dem Quotienten
+von freiem PSA (f-PSA) und Gesamt –PSA (t-PSA) herleitet [69]. Als Grenzwert für
+diesen beim PCa erniedrigten Parameter haben zwei Studien eine Schwelle von 15% fPSA im Intervall 4-10 ng/ml [70] bzw. 27% f-PSA zwischen 2,6 und 4 ng/ml [71]
+empfohlen.
+
+Dadurch
+
+wurden
+
+90%
+
+der
+
+tatsächlich
+
+vorhandenen
+
+Karzinome
+
+diagnostiziert, wobei 81% der Tumoren organbegrenzt waren [71]. Außerdem wird im
+Bereich zwischen 4 und 10 ng/ml des t-PSA die Anzahl der Biopsien durch die
+Bestimmung des %f-PSA reduziert [72]. Zusammenfassend erhöht sich so die
+Sensitivität des Tumormarkers PSA [70] und ebenso die Spezifität in der diagnostischen
+Grauzone zwischen 4 und 10 ng/ml [73]. Eine weitere Option ist die PSA-Dichte. Sie
+resultiert aus dem Quotienten des PSA-Wertes und dem Organvolumen. Werte <0,15
+sollen ein malignes Geschehen unwahrscheinlich machen. Die Spezifität
+
+dieses
+
+Verfahrens betrug in einer Studie 63% [74]. Auch andere Untersuchungen ergaben eine
+höhere Aussagekraft der PSA-Dichte gegenüber dem PSA-Einzelwert [75]. Die PSAAnstiegsrate kann ebenso zur effektiveren Diagnostik herangezogen werden. Eine
+Erhöhung von mehr als 0,75 ng/ml /Jahr bei Verwendung stets desselben Assays, wird
+als karzinomverdächtig angesehen [76]. Altersspezifische PSA-Grenzwerte verhelfen zu
+einer besseren Einschätzung der im Alter physiologisch erhöhten PSA-Serumspiegel
+durch altersbedingte Prostatahyperplasie. Durch sie kann die Sensitivität bei jüngeren
+Patienten mit suspekten PSA-Werten und die Spezifität zur Vermeidung unnötiger
+Biopsien bzw. das Aufspüren insignifikanter Karzinome bei älteren Patienten erhöht
+werden [76].
+1.3.3. Transrektaler Ultraschall (TRUS)
+Der TRUS ermöglicht durch Einsatz hochfrequenter bipolarer bzw. multipolarer Sonden
+und Beurteilung der Prostata in transversaler und longitudinaler Ebene eine
+differenzierte Darstellung der Organgröße und des Volumens (Formel: Länge x Breite x
+6	  
+	  
+
+Höhe x 0,52), der Kontur des Organs sowie der umliegenden Gewebestrukturen. Sie
+stellt somit ein zusätzliches Diagnostikinstrument dar, wenngleich seine Sensitivität mit
+17-57% und seine Spezifität mit 40-63% unbefriedigend sind [77]. Karzinome der
+peripheren Zone stellen sich als echoarm dar [78], dies ist allerdings nicht
+karzinomspezifisch. Auch entzündliche Prozesse, Hyperplasien, Atrophien und sogar
+nicht befallenes Gewebe können echoarm erscheinen [79]. Des Weiteren entspricht die
+Ausdehnung des echoarmen Areals nicht immer dem Tumorvolumen [80]. 12-28% der
+Karzinome stellen sich isodens dar [80, 81, 82], möglich ist sogar eine hyperdense bzw.
+inhomogene Darstellung. Das jüngere Verfahren der 3 D-Sonographie mit EDVgestützter Rekonstruktion der dritten Bildebene ergab eine nachweislich genauere
+Einschätzung des Lokalstadiums des Tumors [83]. Die wesentliche diagnostische
+Berechtigung findet der TRUS im Rahmen der ultraschallgesteuerten Biopsie.
+Inzwischen wird routinemäßig vor jeder radikalen Prostatektomie die Bestimmung des
+Tumorvolumens
+
+und
+
+Abklärung
+
+einer
+
+möglichen
+
+Kapselüberschreitung
+
+bzw.
+
+Samenblaseninfiltration mittels TRUS durchgeführt. Die TRUS-gesteuerte Biopsie ist
+Goldstandard in der Diagnostik des Prostatakarzinoms [82, 84]. Sie führte bei
+randomisierten
+
+Biopsien
+
+mit
+
+optimierten
+
+Nadeln
+
+zu
+
+einer
+
+Minimierung
+
+des
+
+Komplikationsrisikos [48].
+1.3.4. Prostatabiopsie
+Die Prostatabiopsie ist beim Verdachtsfall eines Prostatakarzinoms, d.h. einem
+suspekten PSA-Wert, einem positiven DRU-oder TRUS-Befund, zur Sicherung der
+pathologischen Diagnose indiziert. Es existieren dafür zwei Verfahren, die digital- oder
+ultraschallgesteuert mittels perinealem bzw. transrektalem Zugang durchgeführt
+werden. Die Feinnadel-Aspirationsbiopsie (FNAB) und Prostatastanzbiopsie. Die
+transrektale Feinnadel-Aspirationsbiopsie hat eine Sensitivität von ca. 95% und
+Spezifität von >95%, ihre Komplikationsrate liegt bei unter 1% [85-87]. Da es für
+reproduzierbare Ergebnisse eines sehr erfahrenen Zytologen bedarf, hat sich diese
+Methode im klinischen Alltag nicht durchgesetzt [88]. Ebenso ist die perineale
+Stanzbiopsie heute zunehmend verlassen. Das gängigste und leistungsfähigste
+Verfahren stellt die ultraschallgesteuerte transrektale systematische Stanzbiopsie mit
+Proben aus mindestens 6, üblicherweise 8-10 verschiedenen Regionen des Organs,
+beidseitig der Basis, Apex und dem medialen Anteil dar [89, 90, 91, 92]. Sie wird
+randomisiert und gezielt in suspekten Arealen durchgeführt. Ihre Sensitivität beträgt
+7	  
+	  
+
+etwa 60% bei der Erstbiopsie [93], die Karzinomdetektionsrate ca. 24% [94]. Die Anzahl
+der positiven Stanzen korreliert dabei direkt mit dem Tumorvolumen [81, 95]. Eine
+tastbare Verhärtung mit bioptisch negativem Befund, ein steigender PSA-Wert oder
+nach Befundung einer PIN III sollte innerhalb der nächsten 3-6 Monate rebiopsiert
+werden [96]. Dabei sollte die Transitionalzone einbezogen werden, da eine etwa 10%ige zusätzliche Findungsrate von Karzinomen bei 4 weiteren Stanzzylindern aus der TZone bei Rebiopsie ermittelt werden konnte [97]. Des Weiteren ergab eine
+Rebiopsieserie nach Diagnose einer isolierten PIN III eine Karzinomrate von 50% [98].
+Neue Diagnosekonzepte mit einer höheren Anzahl von Stanzzylindern bereits bei der
+ersten Biopsie werden propagiert [99]. Dagegen konnte weder das Risiko
+Tumorzellverschleppung
+Prostatektomie
+
+durch
+
+noch
+die
+
+eine
+
+erhöhte
+
+Stanzbiopsie
+
+Komplikationsrate
+
+nachgewiesen
+
+werden.
+
+einer
+
+bei
+
+folgender
+
+Als
+
+mögliche
+
+Komplikationen der Stanzbiopsie treten Hämaturie, Hämospermie, Blut im Stuhl,
+Harnwegsinfektionen, obstruierte Miktion und Dysurie in 10-49% der Fälle auf.
+Schwerere Formen wie Sepsis, Prostatitis, Abszesse der Prostata, Epidydimitis oder
+starke rektale Blutungen liegen bei unter 1% [100]. Ein erhöhtes Risiko für solche
+Komplikationen haben immunsupprimierte Patienten und Männer mit Harnwegsinfekt
+bzw.erhöhte Blutungsneigung.
+1.3.5 Bildgebende Diagnostik
+Da das Prostatakarzinom hämatogen bevorzugt in ossäre Strukturen, insbesondere
+Brust-und Lendenwirbelsäule, Beckenschaufeln und Rippen metastasiert und die
+Knochen mit über 90% die häufigste Lokalisierung bei primärer Fernmetastasierung
+darstellen, ist die Knochenszintigraphie derzeit die Methode der Wahl zum Nachweis
+bzw. Ausschluss von Knochenmetastasen [101]. Der Nachweis erfolgt in Form der
+Detektion eines lokal gesteigerten Metabolismus durch knochenaffine Radionukleotide,
+v. a. 99m-Technetium. Diese Methode hat eine hohe Sensitivität, ist allerdings nicht
+metastasenspezifisch [102], so dass chronisch-degenerative oder traumatische
+Prozesse durch andere diagnostische Verfahren (CT, Röntgen, Biopsie) differenziert
+werden müssen. Aufgrund der geringen Metastasierungswahrscheinlichkeit wird eine
+präoperative Knochenszintigraphie erst ab einem PSA von 10 ng/ml bzw. Symptomen
+wie Knochenschmerzen oder Frakturen empfohlen [103,104].
+
+8	  
+	  
+
+Das CT spielt in der Prostatakarzinomdiagnostik eine untergeordnete Rolle. Mit ihr
+gelingt keine Differenzierung der intraprostatischen Strukturen [105], die Spezifität
+bezogen auf das T-Stadium beträgt 56% [106], die Sensitivität wird mit 20-50%
+angegeben [107]. Mittels MRT ist die Beurteilung der lokalen Tumorausbreitung
+eingeschränkt möglich. Unter Verwendung von Endorektalspulen bzw. Becken-PhasedArray-Spulen können organüberschreitende Prozesse wie Samenblaseninfiltration oder
+Kapselperforation mit einer Spezifität von 80-95% und Sensitivität von 82-93%
+dargestellt werden [79]. Da die MRT den herkömmlichen Staginguntersuchungen bei
+höherem Kostenaufwand nicht überlegen ist, wird sie in der Ausbreitungsdiagnostik nur
+bei speziellen Fragestellungen angewendet. Beide Verfahren sind zur Beurteilung von
+Lymphknotenmetastasen wegen ihrer geringen Sensitivität und Spezifität nicht geeignet
+[79]. Lymphknotenmetastasen < 1cm werden weder mit MRT noch CT erkannt.
+Allerdings könnte bei dieser Fragestellung die MRT unter Verwendung neuer
+experimenteller
+
+Substanzen
+
+(lymphotrope
+
+superparamagnetische
+
+Nanopartikel)
+
+zukünftig eine erhebliche Verbesserung im Staging aufweisen [108,109].
+1.3.6 Lymphknotenstaging
+Die Beurteilung des Lymphknotenstatus (N-Stadium) ist entscheidend für das Festlegen
+des weiteren Therapieregimes und Abschätzen der Prognose des Prostatakarzinoms.
+Dies geschieht mittels der offene oder laparoskopisch durchgeführten, pelvinen
+Lymphadenektomie (pLA). Hierbei werden obturatorische und iliakale Lymphknoten
+einer histologischen Fragestellung nach Metastasen unterzogen [110]. Bei negativem
+Befund
+
+ist
+
+eine
+
+weitere
+
+lymphogene
+
+bzw.
+
+hämatogene
+
+Metastasierung
+
+unwahrscheinlich, aber nicht ausgeschlossen. Die Sensitivität ist im Vergleich zu
+CT/MRT (50-70%) deutlich höher [111-114]. Durch Kombination verschiedener
+Parameter, wie dem präoperativen PSA-Wert, Gleason-Score-Summe und klinisch
+bestimmter lokaler Tumorausdehnung, lässt sich die Wahrscheinlichkeit für eine
+lymphogene Metastasierung abschätzen.
+In Form von Nomogrammen bzw. Tabellen lassen sich graphisch darstellen und so ein
+invasives Lymphknotenstaging bei bestimmten Patienten vermeiden [115,116].
+
+9	  
+	  
+
+1.4
+
+Therapie
+
+Bei der Therapieentscheidung hinsichtlich der Behandlung des Prostatakarzinoms
+unterscheidet
+
+man
+
+grundsätzlich
+
+zwischen
+
+dem
+
+lokal
+
+begrenzten
+
+und
+
+dem
+
+fortgeschrittenen Karzinom und lässt somit mehrere Faktoren auf die Therapieansätze
+Einfluss nehmen. Je nach Tumorstadium, PSA-Wert, Gleason-Score-Summe, Alter und
+Lebenserwartung, Komorbidität, Allgemeinzustand und Therapiewunsch des Patienten
+und auch nach Erfahrung und Einstellung des Urologen erhält eine kurative, palliative
+oder abwartende Strategie Vorrang.
+1.4.1.
+
+Therapieoptionen beim lokal begrenzten Prostatakarzinom
+
+Das lokal begrenzte Prostatakarzinom, definiert als noch nicht kapselübergreifender
+Tumor ohne lymphogene oder hämatogene Metastasierung (Stadium T1 bis T2), stellt
+den größten Anteil klinisch diagnostizierter Stadien, wie in einer großen Studie mit
+einem Anteil von 60 % aller durch Biopsie klinisch bewiesenen Tumoren festgestellt
+worden ist [58]. Grundsätzlich existieren folgende kurative Ansätze zur Therapie des
+lokal begrenzten Karzinoms [117-123]:
+-
+
+Radikale Prostatektomie (offen oder laparoskopisch)
+
+-
+
+Strahlentherapie
+
+-
+
+„Watchfull waiting“ (aktiv und passiv)
+
+-
+
+Alternative Verfahren
+
+1.4.1.1
+
+Radikale Prostatektomie
+
+Die radikale Prostatavesikulektomie, die vollständige Entfernung der Prostata
+einschließlich Kapsel und Samenblasen, hat sich als die effektivste Therapieform bei
+Männern mit lokal begrenztem Prostatakarzinom herausgestellt. Optional wird bei
+Überschreiten bereits erwähnter Stagingparameter eine pelvine Lymphadenektomie
+durchgeführt. Die Patienten sollten nicht älter als 72 Jahre alt sein und somit eine
+Lebenserwartung von mindestens 10 Jahren aufweisen. Durch die präoperative
+Patientenselektion und die Standardisierung der Operationstechnik ist eine deutliche
+Senkung der Morbidität und Mortalität festzustellen [124]. Bei beschriebenem
+Patientengut wird eine tumorspezifische 10-Jahres-Überlebensrate von 90% erreicht
+[125]. Der Eingriff ist offen, laparoskopisch oder endoskopisch extraperitoneal möglich.
+10	  
+	  
+
+Bei der offenen Methode existiert ein perinealer, retropubischer oder transcoccygealer
+Zugang.
+1.4.1.1.1.
+
+Offene radikale Prostatektomie (ORP)
+
+Unter den offenen Verfahren, die bis zu Etablierung der laparoskopischen
+Operationsweise Mitte der neunziger Jahre den Standard darstellten, finden die radikale
+retropubische Prostatektomie (RRP) und die radikale perineale Prostatektomie (RPP)
+die häufigste Anwendung weltweit. Die ersten RPP wurden von Young 1904
+durchgeführt und beschrieben [126], ehe Millin 1945 die Technik und Erfahrungen des
+retropubischen Zugangs aufzeigte, bei dem die Möglichkeit einer simultanen
+Lymphadenektomie
+
+besteht
+
+[127].
+
+Durch
+
+die
+
+ständige
+
+Optimierung
+
+der
+
+Operationsabläufe, im Besonderen der Einführung von Nerv- und potenzerhaltenden
+Operationstechniken durch Walsh [128,129], hat die radikale Prostatektomie, v.a. die
+RRP, seit den 70er Jahren stark an Bedeutung gewonnen. Neben der Möglichkeit der
+Lymphadenektomie ohne einen zweiten Schnitt und der besseren Nerverhaltung ist der,
+im Vergleich zum perinealen Weg, größere Zugang für die Entnahme großvolumiger
+Organe von Vorteil. Allerdings ist der Blutverlust wegen anatomischer Beziehung zum
+dorsalen Venenplexus höher. Vorteilhaft bei der RPP ist die Übersichtlichkeit der Apex
+der Prostata und der urethrovesikalen Anastomose mit resultierender niedrigerer
+Anastomosenstrikturrate
+
+[130].
+
+Desweiteren
+
+spricht
+
+die
+
+geringere
+
+intra-
+
+und
+
+postoperative Blutungsmenge für die RPP. Nachteile bestehen neben der nicht ohne
+einen weiteren Schnitt durchführbaren Lymphadenektomie in der schwierigen
+Präparation der Samenblasen und der bei großer Prostata limitierten Größe des
+Zugangsweges, aufgrund der anatomischen Lage relativ häufigen Rektumläsionen und
+in der Selektion des Patientengutes hinsichtlich des Steinschnittzugangs. Eine
+eindeutige Empfehlung auf Basis von Langzeitergebnissen für die RRP oder RPP lässt
+sich nicht abgeben. Die onkologische Sicherheit beider Operationswege bei langen
+Beobachtungszeiträumen ist mit rezidivfreien Überlebensraten von 77-83% nach 10
+Jahren bzw. 82% nach 15 Jahren vergleichbar [131,132]. Die Komplikationsrate ist
+ständig gesunken und beträgt 6-28% [124,128 ,133 ,134], die Mortalitätsrate 0-1% [124,
+134, 135]. Der relativ selten durchgeführte transcoccygeale Operationsweg hat eine eng
+gestellte Indikation, meist bei Patienten mit Z. n. transurethraler Resektion der Prostata
+(TURP)
+
+bzw.
+
+suprapubischer
+
+Anastomosenzugang
+
+mit
+
+Adenomektomie.
+
+optimalem
+
+Sichtfeld
+11	  
+	  
+
+Vorteilhaft
+
+und
+
+ist
+
+geringeren
+
+der
+
+direkte
+
+postoperativen
+
+Strikturraten. Der Blutverlust ist gegenüber den anderen beiden offenen Verfahren
+deutlich höher [136].
+Eine wesentliche Einflussgröße, unabhängig vom Zugangsweg, stellt die Erfahrung des
+Operateurs dar. Dieser Parameter hat signifikante Auswirkung auf Ergebnisse wie
+Rezidiv,- Komplikations,- Potenz und Kontinenzrate sowie Mortalität [124, 133-136].
+1.4.1.1.2
+
+Laparoskopische radikale Prostatektomie (LRP)
+
+Der stetige Fortschritt der minimal-invasiven Chirurgie in der Urologie hat als logische
+Konsequenz die Etablierung der laparoskopischen radikalen Prostatektomie bei der
+Therapie des lokal begrenzten Prostatakarzinoms zur Folge gehabt. Hervorzuheben ist
+das optimale intraoperative Sichtfeld mit hoher Detailvisualisierung der anatomischen
+Strukturen, die folglich geringere Traumatisierung und Transfusionsrate und die
+niedrigere Morbidität und Krankenhausverweildauer für den Patienten. Inzwischen
+existieren mehrere Techniken für den Ablauf der LRP. Auf transperitonealem oder
+extraperitonealem Wege wird eine Verbindung zum Cavum Retzii hergestellt,
+aszendierend
+
+und
+
+deszendierend
+
+erfolgt
+
+dann
+
+die
+
+Prostatektomie.
+
+Bei
+
+der
+
+transperitonealen Operation werden anfangs Samenblasen und –leiter deszendierend
+präpariert. Bei beiden anatomischen Zugängen ist auch die Beteiligung eines OPRoboters möglich. Die erste LRP an einem Patienten wurde von Schuessler et al. 1992
+durchgeführt und beschrieben [137], ehe sie diese Technik
+
+nach 9 langwierigen
+
+Operationen wieder verließen. Die im Schnitt über 9 Stunden langen Eingriffe waren
+aufgrund der Komplexität dieser Technik und damaligen unzureichenden Ausstattung
+mit enormen Schwierigkeiten behaftet. Auch die beobachtete lange Lernkurve sprach
+laut Schuessler gegen eine routinemäßige Verwendung der LRP und für ein Belassen
+des offenen Verfahrens [138]. Erst Guillonneau und Vallancien standardisierten ab 1998
+die LRP und bewirkten aufgrund der Reproduzierbarkeit ihrer Vorgehensweise eine
+weltweite Verbreitung in ausgewählten Zentren. Ihre nach 28 Eingriffen publizierten
+Ergebnisse [139] zeigten eine aufgrund der Optimierung der Nahttechnik bei der
+vesikourethralen Anastomose kürzere OP-Dauer (ca.6 Stunden), eine geringere
+Komplikations- v.a. Transfusionsrate und einen steileren Verlauf der Lernkurve.
+Größere Fallstudien folgten in den Jahren [140,141, 142]. Die transperitoneal
+durchgeführte Technik der „französischen Schule“ ist ein in einigen Zentren leicht
+modifiziert worden. So hat die Urologische Klinik Heilbronn die dort seit März 1999
+12	  
+	  
+
+durchgeführten Operationen in aszendierender Technik etabliert und Ergebnisse nach
+den ersten 100 und mehr als 1000 Eingriffen veröffentlicht [143, 144]. Die Klinik für
+Urologie der Charite (Campus Mitte) hat die LRP im Mai 1999 erstmalig durchgeführt
+und seitdem weiterentwickelt. Die Langzeitergebnisse der ersten 700 Operationen sind
+Gegenstand dieser Arbeit. Als erste, die einen komplett extraperitonealen Zugang
+standardisierten, beschrieben Raboy et al. und Bollens et al. ihre Erfahrungen [145,
+146]. In Deutschland ist die Urologische Klinik des Universitätsklinikums Leipzig führend
+im Bereich der endoskopisch-extraperitonealen radikalen Prostatektomie (EERP) [147,
+148]. Die erste robotergestützte LRP in Detschland wurde in der Urologischen Klinik der
+Goethe-Universität Frankfurt a. M. durchgeführt und weiterentwickelt [149, 150] und von
+einigen internationalen Arbeitsgruppen übernommen [151, 152]. Direkt am Op-Tisch
+befindet sich nur der Assistent, um Instrumente einzuführen und auszutauschen. Der
+Operateur sitzt an einem Steuerungspult und koordiniert mittels des „ Da-Vinci-RobotSystems“ hochpräzise Bewegungen am Patienten. Im Vergleich der transperitonealen
+mit extraperitonealen LRP treten hinsichtlich der Komplikationsrate mit 3,2-1,6% bei
+einer Mortalität von 0,2-0,9% [143, 153-157] keine Unterschiede zutage. Da bis heute
+onkologische Langzeitstudien (>10 Jahre) fehlen werden die Raten von positiven
+Schnitträndern (R1) und PSA –freie Überlebensintervalle mit einem Follow-up von
+maximal 7 Jahren als Kontrollparameter verwendet. Hier zeigen die R1-Raten zwischen
+7,8 und 23,5% [143, 149, 154, 155] gleiche Daten wie bei der offenen Prostatektomie
+[158] und unterstreichen den klinischen Stellenwert der LRP als sichere chirurgische
+Alternative zur ORP. Heute stellt die LRP, sowohl extra- als auch transperitoneal, ein
+operatives Standardverfahren in mehreren europäischen Zentren dar [142, 143, 145,
+146, 148, 150, 155, 159]. Auch international findet diese Technik immer breitere
+Anwendung [160, 161].
+1.4.1.2.
+
+Strahlentherapie
+
+Die perkutane und die interstitielle Radiotherapie (Brachytherapie) bzw. eine
+Kombination beider Verfahren kann eine Alternative für Patienten mit einem Lebensalter
+über 70 Jahren bzw. einer Lebenserwartung unter 10 Jahren darstellen. Auch eine
+ablehnende Haltung gegenüber der Operation oder eine internistische bzw. eine
+anästhesiologische Kontraindikation für eine radikale Prostatektomie sind zuweilen
+entscheidungsweisend. Dabei ist die Strahlentherapie (perkutan und interstitiell) im
+Tumorstadium
+
+T1 und T2 eine vollwertige kurative Alternative zur radikalen
+13	  
+	  
+
+Prostatektomie, wie große Langzeitstudien gezeigt haben [162,163, 164]. Im T3 –
+Stadium bietet sie im Vergleich zur Operation die größere Heilungsrate und sollte daher
+eher erfolgen [162, 165-168]. Außerdem wiesen Studien niedrigere Rezidivraten nach
+Strahlentherapie bei Kombination mit einer adjuvanten Hormontherapie nach [169,170].
+Bei der perkutanen Bestrahlung wird eine CT-geplante isozentrische Mehr-FelderTherapie mit Dosierungen gemäß der DEGRO-/DGMP-Leitlinien [168] und der ICRU-50
+Reports [171] durchgeführt. Um Risikostrukturen, wie Blase, Rektum, Harnröhre und
+Hüftköpfe optimaler zu schonen, wird eine individuelle Kollimation der Felder mittels
+Individualsatelliten vorgenommen. Desweiteren wird eine Inhomogenitätskorrektur
+durch Keilfiltertechnik empfohlen. Die neuere Variante der dreidimensionalen
+Konformationstherapie
+
+ist
+
+früheren
+
+Verfahren
+
+überlegen
+
+und
+
+besitzt
+
+einen
+
+zunehmenden klinischen Stellenwert [172, 173]. Die Gesamtdosis beträgt in
+Abhängigkeit vom Tumorstadium, PSA-Wert und Gleason-Score bis über 80 Gy in
+Fraktionen von 1,8-2 Gy. Als permanente Brachytherapie ist die TRUS-gestützte
+Implantation von kleinen, ummantelten Strahlenquellen (Seeds) in die Prostata definiert.
+Als gebräuchlichste Radioisotope für dieses Verfahren finden Palladium-103, Jod-125,
+Iridium-192 und Gold-198 Anwendung. Bei der interstitiellen Therapie ist die lokale
+Limitierung der Nebenwirkungen und geringere Schädigung benachbarter Strukturen
+hervorzuheben. Patienten mit niedrigem Risikoprofil und jungem Lebensalter, für die
+erektile Dysfunktion eine bedeutende Nebenwirkung darstellt, kommen für diese
+Therapie in Frage [164, 174, 175]. Nach Kombination von perkutaner und interstitieller
+Radiatio konnten im Vergleich zur jeweils singulären Therapie niedrigere biochemische
+und Lokalrezidivraten beobachtet werden [176, 177]. Als Nebenwirkungen der
+Strahlentherapie sind v.a. Zystitis, Proktitis, Tenesmen, Harninkontinenz und Impotenz
+zu nennen. Allerdings liegen ihre Raten mit Ausnahme der erektilen Dysfunktion [178186] mit 0,7-7% [173, 185, 186] im unteren Bereich und sind vergleichbar bzw. geringer
+als jene nach radikalen Prostatektomien.
+1.4.1.3
+
+„Watchful waiting“
+
+Das „aufmerksame Beobachten“ als passive Strategie stellt im eigentlichen Sinne eine
+verzögerte Behandlung (deferred treatment) dar, da im Falle eines Tumorprogresses
+das Einleiten einer kurativen Therapie obligat ist. Für Patienten mit
+
+einer
+
+Lebenserwartung unter 10 Jahren und gut differenzierten Karzinomen (Gleason-Score14	  
+	  
+
+Summe 2-5) in frühen Tumorstadien (T1-T2 N0 M0) scheint die abwartende Haltung
+gerechtfertigt und vertretbar. So betrug das metastasenfreie 5-Jahres-Überleben
+nichttherapierter Patienten bei G1- 93%, bei G2-84% und bei G3-Karzinomen nur noch
+51%. Die 10-Jahres-Zahlen für G3-Tumoren lagen bei lediglich 26% [193, 194]. Als in
+der Klinik meist verwendete Variante des aktiven „watchful waitings“ beinhaltet die
+„active surveillance“ eine halbjährliche PSA-Wert-Bestimmung und DRU sowie eine
+jährliche Prostatabiopsie.
+1.4.1.4
+
+Alternative Verfahren
+
+Für Patienten mit ausgeprägter Komorbidität und folglich hohem anästhesiologischen
+Risiko stellen neuere minimal-invasive Ansätze eine Alternative bei der Therapie des
+lokal begrenzten Prostatakarzinoms dar. Hinsichtlich ihres wachsenden klinischen
+Stellenwertes sind hier die Kryotherapie und der Hochintensive Fokussierter Ultraschall
+(HIFU) zu nennen. Der Kryotherapien liegt die Kryoablation des Prostataparenchyms
+mittels perineal injizierter Sonde zugrunde. Deren Kälteemission bewirkt die Nekrose
+der Prostatazellen [187, 188]. Beim HIFU wird durch einen gegensätzlichen
+Mechanismus, Hitze führt zur Koagulation des betroffenen Gewebes, ebenfalls der
+Tumor
+
+angegriffen.
+
+Hier
+
+dient
+
+eine
+
+hochenergetische
+
+Ultraschallsonde
+
+als
+
+Energiequelle, die durch Winkelfelder und Frequenzadaptation eine selektive
+Absorption in der Prostata und somit eine Erwärmung erzielt [187]. Als zwei Verfahren
+mit möglichem Potenzial für die klinische Verbreitung sind die Gentherapie, bisher als
+experimenteller Ansatz in der Prostatakarzinombehandlung, und die Immuntherapie,
+bereits in einigen klinischen Studien erprobt, zu erwähnen. Bei der Gentherapie
+differenziert man entsprechend dem Wirkmechanismus 3 Ansätze: 1. Die Apoptose der
+Targetzelle wird durch so genannte Suizidgene induziert. 2. Körpereigene Immunzellen
+werden gentechnisch stimuliert und lösen nach Invasion in den Tumor dort eine
+Immunantwort aus. 3. Onkogene werden ausgeschaltet, somit ist die Proliferation
+entarterter Zellen gehemmt, bzw. gentechnisch erzeugte Tumorsuppressorgene werden
+als Hemmer eingesetzt. Für eine breite klinische Anwendung fehlt bisher die
+vollständige Aufklärung der Prostatakarzinogenese [189]. Als immuntherapeutische
+Option steht die Zytokinvermittelte Immunaktivierung mit Interleukin-2 (IL-2) im
+Vordergrund. Tierexperimentelle Studien [190, 191] und klinische Studien mit einer
+kleinen Kohorte [192] zeigten eine Tumorregression nach Gabe von IL-2.
+
+15	  
+	  
+
+1.4.2
+
+Therapieoptionen beim fortgeschrittenen Prostatakarzinom
+
+Patienten
+
+mit
+
+einem
+
+metastasierten
+
+Prostatakarzinom
+
+steht
+
+kein
+
+kurativer
+
+Therapieeinsatz zur Verfügung. Sie müssen sich einer systemischen, antiandrogenen
+Hormontherapie unterziehen, um durch diese palliative Variante eine höchstmögliche
+Lebensqualität zu behalten [195]. Da normale als auch maligne Prostatazellen
+androgensensitiv sind, bewirkt jede Absenkung des Testosteron-Serumspiegels eine
+Antiproliferation
+
+und
+
+Tumorregression
+
+[196].
+
+Die
+
+antihormonelle
+
+bzw.
+
+androgensuppressive Therapie schließt folgende Möglichkeiten ein [197]:
+- Chirurgische Kastration
+- LHRH-Analoga
+- Antiandrogene
+- Kombinationstherapie (MAB)
+- Östrogene
+- Alternative Medikamente
+- LHRH-Antagonisten
+Durch die beidseitige subkapsuläre oder radikale Orchiektomie wird der SerumTestosteronspiegel stark gesenkt [198]. Der Effizienz dieser chirurgischen
+
+Variante
+
+steht die psychologische Belastung und geringere Lebensqualität des Patienten durch
+Nebenwirkungen der hormonellen Veränderungen gegenüber. In den letzten Jahren
+haben LHRH-Analoga eine breite Anwendung erfahren. Präparate wie Buserelin und
+Goserelin erzielen über eine Dauerstimulation der LHRH-Rezeptoren eine DownRegulation der Hypophysenrezeptoren. Nach initialem Anstieg von Testosteron, LH und
+FSH („Flare-up-Phänomen“), dem mit zusätzlicher Antiandrogengabe entgegengewirkt
+wird, kommt es zu einem Abfall auf Kastrationsniveau [199]. Antiandrogene werden in
+steroidale (z. B. Cyproteronacetat) und nicht- steroidale Formen (z. B. Flutamid,
+Bicalutamid) eingeteilt. Nichtsteroidale Präparate verdrängen kompetitiv Testosteron
+von den zellulären Rezeptoren. Die steroidalen Antiandrogene bewirken zusätzlich eine
+zentrale Hemmung der Hypophyse [200]. Häufige Nebenwirkungen der LHRH-Analoga
+sind Antriebsminderung, Libidoverlust und Impotenz. Antiandrogene, v. a. die nichtsteroidalen, wirken schwächer auf die Sexualfunktion, dafür sind Gynäkomastie,
+Nausea, Diarrhoe,
+
+Hepatitis und hämolytische Anämie zu beobachten [201]. Eine
+
+typische Folge der langfristigen Hormontherapie ist Osteoporose [202]. Hinsichtlich der
+16	  
+	  
+
+progressionsfreien Überlebensraten bzw. des Langzeitüberlebens kann Bicalutamid im
+Vergleich zur Orchiektomie bzw. LHRH-Analoga [203] und Cyproteronacetat im
+Vergleich zu DES [204] als ebenso effizient angesehen werden. Die Kombination der
+Orchiektomie
+
+bzw.
+
+LHRH-Therapie
+
+mit
+
+Antiandrogenen,
+
+auch
+
+maximale
+
+Androgenblockade (MAB) genannt, hat gegenüber den Monotherapien in einer Studie
+einen geringen Vorteil gezeigt [205]. Eine Metaanalyse von 22 Studien ergab keine
+Prognoseverbesserung
+nebenwirkungsreicher
+
+[206].
+als
+
+die
+
+Die
+
+MAB
+
+ist
+
+Monotherapien.
+
+dazu
+Für
+
+kostenintensiver
+lange
+
+Zeit
+
+war
+
+und
+die
+
+Östrogensubstitution (z.B. Diethylstilbestrol=DES) die gängigste medikamentöse Form
+des Androgenentzuges. Hier wird in einer Störung des Feedback-Mechanismus
+zwischen Hypophyse und Gonadensystem die LHRH-Sekretion gehemmt und so der
+Testosteronspiegel gesenkt. Des Weiteren werden so die Leydig-Zellen direkt negativ
+reguliert. Neben der erhöhten Thromboseneigung stehen die kardiovaskulären
+Nebenwirkungen im Vordergrund, die das Langzeitüberleben der Patienten im Vergleich
+zu unbehandelten Männern in einigen Studien sogar verschlechtert hat [198, 199].
+Lediglich das deutliche Minimieren des Osteoporoserisikos ist ein evidenter Vorteil
+dieser Therapieform und stellt eine Option für einen selektierten Teil der Patienten dar
+[207]. Als alternative Präparate sind GnRH-Antagonisten, wie Abarelix, zu nennen. Sie
+sollen ein günstigeres Nebenwirkungsprofil haben [208]. Die folgenden Wirkstoffe
+werden in der primären Hormontherapie und auch bei der Behandlung des
+hormonrefraktären
+
+Prostatakarzinoms
+
+verwendet.
+
+Aromataseinhibitoren,
+
+wie
+
+Aminoglutethimid, supprimieren die Androgensynthese in der Nebennierenrinde,
+können aber auch zu schweren Nebenwirkungen führen [209], ebenso wie das
+Antimykotikum Ketoconazol [210]. Gestagen wirkt antigonadotrop und schließlich
+Estramustin, welches aber aufgrund seines östrogenartigen Wirkprofils vermehrt
+kardiovaskuläre Komplikationen verursacht [211]. Auch der Chemotherapie kommt eine
+wichtige
+
+Bedeutung
+
+zu.
+
+Symptomkontrolle
+
+und
+
+Erhalt
+
+bzw.
+
+Besserung
+
+der
+
+Lebensqualität sind Ziel dieser therapeutischen Intervention. Zytostatika, wie Docetaxel
+konnten Remissionen und signifikant verlängerte Überlebenszeiten erzielen [212]. Die
+Wirksamkeit neuer Proliferationshemmer wird untersucht [214].
+
+17	  
+	  
+
+1.5. Technik der LRP an der Klinik für Urologie der Charite Campus Mitte
+Die LRP wird unterteilt in OP-Vorbereitung und die eigentliche Prostatektomie und
+gliedert sich in folgende Abschnitte: Nach Lagerung des Patienten in Rückenlage folgt
+das sterile Waschen und Abdecken des OP-Gebietes und die Einlage des
+Urethrakatheters. Dem Einführen der Veresskanüle über den infraumbilikalen Zugang
+schließt sich die Erzeugung eines Pneumoperitoneums mittels CO2-Insufflation an.
+Nachdem sich der Operateur über den ebenfalls infraumbilikal eingebrachten
+Optiktrokar (10 mm) einen Überblick über die Peritonealhöhle verschafft hat, werden
+drei 5 mm- und ein 10 mm-Trokar im linken und rechten Mittel-und Unterbauch
+eingeführt. Bei entsprechender Indikation einer pelvinen Lymphadenektomie folgt die
+beidseitige Lymphknotendissektion in der Fossa obturatoria. Wenn nun die Präparation
+der Ducti deferentes, Ampullae und der Vesicae seminales abgeschlossen und die
+Blutversorgung der Vesicae durch Koagulation unterbrochen ist, erreicht man nach
+Präparation der Denovillier`schen Faszie die Prostata, welche vom Rektum abgetrennt
+wird. Die Vesica urinaria wird nach Inzision des Peritoneums im Bereich zwischen
+beiden Plicae umbilicale mediale vom anterioren Peritoneum abpräpariert, so dass
+anschließend ein Zugang zum Cavum Retzii und zur Symphyse möglich ist. Die
+Prostata wird an den Flanken von der Levatormuskulatur abgesetzt und beidseits das
+Ligamentum
+
+puboprostaticum
+
+durchtrennt.
+
+Die
+
+Präparation
+
+des
+
+präurethralen
+
+Venenplexus und seiner Durchstichligatur nach distal ermöglicht später die Trennung
+des Organs vom Beckenboden. Danach erfolgt die Darstellung des Blasenhalses. Je
+nach Infiltrationsgrad und Darstellungsmöglichkeit bleibt der Gefäß-Nervenstrang
+fakultativ erhalten und wird von der Prostata isoliert. Nach dem proximalen Abtrennen
+des dorsalen Venenplexus wird die Apex und Urethra herausgearbeitet und die
+Harnröhre schließlich distal der Apex abgesetzt. Nun ist die Prostata samt Kapsel und
+Samenblasen vollständig von umliegenden Strukturen befreit. Folgend wird die UrethraBlasen-Anastomose mit Einzelknopfnähten hergestellt. Abschließend kann das
+resezierte Organ über einen Lap-Sac durch eine erweiterte Trokarinzision geborgen
+werden und die funktionelle Dichtigkeit der Anastomose mittels einer Spülung überprüft
+werden. Die mittlere Operationszeit der ersten 700 an der Charite durchgeführten LRP
+betrug 266 min mit einem Range von 102 min bis 810 min.
+
+18	  
+	  
+
+2
+
+Zielstellung
+
+Wie in anderen chirurgischen Disziplinen hat die Laparoskopie auch in der Therapie
+urologischer Malignome und in besonderer Hinsicht des lokalisierten Prostatakarzinoms
+im letzten Jahrzehnt einen erhöhten Stellenwert bekommen. Die laparoskopische
+radikale transperitoneale Prostatektomie hat sich seit 1998 als alternatives Verfahren
+neben der offenen retropubischen und perinealen Prostatektomie etabliert und wird
+weltweit in Zentren routinemäßig durchgeführt. Bis zum jetzigen Zeitpunkt existieren
+retrospektive Studien zur LRP mit großen Kohorten und langem Beobachtungszeitraum
+in wesentlich geringerer Zahl als beim offenen Verfahren. Prospektive Studien liegen
+bisher nur im eingeschränkten Umfang vor.
+In der vorliegenden Arbeit sind die Ziele der Untersuchung der an der Charite
+durchgeführten LRP die Evaluierung:
+1. onkologische Ergebnisse nach längerem Verlauf (Beobachtungszeitraum bis zu 73
+Monate)
+Beschrieben wird der Anteil der Patienten mit PSA-Versagen. Es werden
+Vergleichsanalysen mit Wahrscheinlichkeitswerten und –kurven für den PSAProgress in Abhängigkeit von Einflussfaktoren wie pathohistologisches
+Tumorstadium (pT), Resektionsstatus, nicht-nerverhaltendes Operationsverfahren,
+Gleason-Score-Summe und Ausgangs- PSA-Wert durchgeführt.
+2. des Verlaufs der Kontinenz
+Die Inkontinenz wird nach OP-Jahr und Operateur beschrieben. Desweiteren wird
+eine Vergleichsanalyse in Abhängigkeit vom Faktor nerve-sparing und der p.o.
+Symptomverlauf dargelegt.
+3. der Spätkomplikationsrate
+Sämtliche Spätkomplikationen (ab dem 7. p.o. Tag) werden qualitativ und quantitativ
+ausgewertet. Die Erfassung und Auswertung der aufgetretenen Frühkomplikationen
+(bis zum 6. p.o. Tag) ist im Rahmen einer vorangegangenen Dissertation geschehen.
+
+19	  
+	  
+
+3
+
+Patienten und Methodik
+
+3.1
+
+Untersuchungszeitraum und Patientenzahl
+
+An der Klinik für Urologie der Charite Mitte sind zwischen Mai 1999 und Mai 2005 die
+ersten 700 Patienten mit lokalisiertem Prostatakarzinom einer laparoskopischen
+radikalen transperitonealen Prostatektomie (LRP) ohne Nerverhalt unterzogen worden.
+Die Eingriffe wurden von insgesamt 9 Operateuren durchgeführt. 3 von diesen waren
+Gastärzte, v.a. aus den USA, und führten nur eine geringe Anzahl LRPs durch, sodass
+deren Ergebnisse nicht statistisch ausgewertet worden sind. Die postoperative
+Aufenthaltsdauer in der Klinik betrug stets mindestens 5 Tage.
+3.2
+
+Datenerfassung und Auswertung
+
+Im Rahmen dieser Arbeit wurden 700 konsekutive Patienten bzw. bei Versterben deren
+Angehörige in einem persönlichen bzw. telefonischen Gespräch, welches zuvor mit
+einem Brief angekündigt wurde, zum postoperativen Therapieverlauf der LRP befragt.
+In Hinblick auf die Validität und Komplexität der Studie ist hervorzuheben, dass die
+Datenerhebung durch ein persönliches Gespräch und nicht mittels eines zugeschickten
+Fragebogens erfolgte. Die Datenerfassung erstreckte sich von August 2007 bis
+Dezember 2008.
+Anamnesebefunde in der Krankenakte, Operationsprotokolle, prä- und postoperative
+Befunde, Dokumentationen in der Krankenkurve, Entlassungsbriefe und
+Informationen der nachbehandelnden niedergelassenen Urologen waren Grundlage
+der Vergleichsanalysen und sind zusammen mit den Patientenangaben in einer
+Excel-Tabelle archiviert worden.
+Folgende Parameter sind in die Auswertung eingeflossen:
+Präoperative Daten:
+- Alter zum Zeitpunkt der Operation (OP)
+- BMI
+- Ausgangs-PSA-Wert
+Intraoperative Daten:
+- Art der Operation: pelvine Lymphadenektomie (pLa), Nerverhaltung
+- Operateur
+Postoperative Daten:
+20	  
+	  
+
+- pT-Stadium
+- Schnittrand im OP-Präparat
+- Gleason-Score-Summe
+- PSA-Verlauf p.o. (alle p.o.-Werte und Datumsangabe)
+- Therapien p.o. (lokale Radiatio, Hormongabe, Palliativtherapie)
+- Inkontinenzverlauf p.o. (Vorlagenbedarf p.o. und Zeitangabe)
+- Weitere Therapieformen p.o. (Medikamente, Kollagen-Einspritzung, SphinkterProthese)
+- Spätkomplikationen (Art, Dauer, Folgen, Therapie)
+3.3
+
+Statistik
+
+Die Auswertung und Berechnung der gesammelten Daten ist mit der Software Windows
+XP, Microsoft Excel, Microsoft Word, SPSS Version 12.0 durchgeführt worden. Als
+Verfahren für die Vergleichsanalysen dienten in SPSS der Pearson-Test, der U-Test
+von Mann und Whitney, der Wilcoxon-Test, der Log Rank-Test, der Breslow-Test, der
+Tarone- Ware-Test und die Chi²-Statistik.
+Die statistische Signifikanz lag bei p < 0,05.
+Es erfolgte eine mathematische Prüfung und statistische Auswertung der Daten.
+
+21	  
+	  
+
+4
+
+4. 1
+
+Ergebnisse
+
+PSA-freies Überleben
+
+Von den 700 LRP-Patienten konnten 669 (95,6%) erreicht und in zwei Gruppen geteilt
+werden. Als PSA-Versagen bzw. biochemisches Rezidiv sind alle Patienten mit einoder mehrmalig gemessen Werten von > 0,1 ng/ml definiert. Die erste Gruppe mit 576
+Patienten (85,8%) erfasste die Männer mit PSA-freiem Überleben und die zweite
+Gruppe mit 95 Patienten (14,2%) mit einem PSA-Rezidiv.
+4.1.1 PSA-Progress
+In Tabelle 1 sind die jeweiligen Beobachtungszeiträume mit den wichtigsten
+Kennwerten entsprechend den pT-Stadien dargestellt. Der durchschnittliche mediane
+Beobachtungszeitraum aller Patienten beträgt 36,5 Monate. Die Gruppe pT2c weist die
+deutlich kürzesten Werte auf. Begründet ist dies in der Umstellung der TNMKlassifikation auf die 6. Auflage von 2003. Die 4 Patienten mit pT4a sind am längsten
+beobachtet worden.
+Tabelle 1: Beobachtungszeiträume (in Monaten) entsprechend den pT-Stadien, n=669.
+pT
+
+Mittelwert
+
+Median
+
+Minimum
+
+Maximum
+
+Spannweite
+
+2a
+
+32,5
+
+30,4
+
+7,4
+
+68,3
+
+60,9
+
+2b
+
+41,5
+
+40,5
+
+8,3
+
+71,4
+
+61,1
+
+2c
+
+17,2
+
+17,4
+
+7,2
+
+28,8
+
+21,5
+
+3a
+
+33,7
+
+29,0
+
+7,4
+
+68,8
+
+61,4
+
+3b
+
+34,9
+
+28,6
+
+7,3
+
+72,0
+
+62,4
+
+4a
+
+49,5
+
+54,8
+
+31,0
+
+58,0
+
+27,0
+
+Gesamt
+
+36,5
+
+31,2
+
+7,2
+
+71,4
+
+62,5
+
+In Tabelle 2 sind in jeder Spalte sämtliche Patienten entsprechend den pT-Stadien
+erfasst, die mindestens über genannten Zeitraum beobachtet wurden und anteilig
+diejenigen, deren PSA-Progress innerhalb dieses Beobachtungsintervalls auftrat.
+
+22	  
+	  
+
+Zum Zeitpunkt 12 Monate nach LRP gab es somit 568 Patienten, die mindestens ein
+Jahr verfolgt wurden und 94 (6,9%) mit einem PSA-Progress innerhalb der ersten 12
+Monate. Die hohen Prozentzahlen ab 60 Monate und mehr Beobachtungszeit (> 75%)
+erklären sich aus der Kumulation der PSA-Versagensfälle bis zum Maximalwert bei >
+60 Monaten und der dazu im Gegensatz abnehmenden Anzahl von Patienten, die
+überhaupt so lange beobachtet werden konnten. Nach 60 Monaten haben 94 von 568
+Patienten ein Progress, aber nur 120 Patienten wurden komplett > 60 Monate
+beobachtet.
+Die stärkste Zunahme der Progressrate wird zwischen 48 und 60 Monaten nach LRP
+beobachtet (pT3b um 23%; pT2b um 37%). Die Progressratenerhöhung bei pT3Patienten setzt bereits nach dem ersten Intervall ein. Ausgenommen ist die pT2cGruppe, in der 87% ab 36 Monaten p.o. ein PSA-Progress aufweisen. Allerdings verzert
+die geringe Fallzahl und der Größensprung dieser Patientengruppe nach Umstellung
+der
+
+TNM-Klassifikation
+
+2003
+
+die
+
+Prozentwerte
+
+und
+
+folgende
+
+Wahrscheinlichkeitsberechnungen.
+Tabelle 2: Kumulativer PSA-Progress nach LRP entsprechend den pT-Stadien
+pT
+
+12
+
+24
+
+36
+
+48
+
+60
+
+>60
+
+Monate
+
+Monate
+
+Monate
+
+Monate
+
+Monate
+
+Monate
+
+2a
+
+3/100
+
+5/70
+
+6/47
+
+6/17
+
+6/9
+
+6/9
+
+2b
+
+8/300
+
+13/275
+
+15/166
+
+16/81
+
+17/30
+
+18/30
+
+2c
+
+7/169
+
+7/17
+
+7/8
+
+7/8
+
+7/8
+
+7/8
+
+% von 2
+
+3,2%
+
+6,9%
+
+12,7%
+
+27,4%
+
+63,8%
+
+66,0%
+
+3a
+
+24/189
+
+35/133
+
+39/101
+
+40/78
+
+43/50
+
+43/50
+
+3b
+
+12/51
+
+14/36
+
+16/31
+
+16/26
+
+16/19
+
+16/19
+
+% von 3
+
+15%
+
+29,0%
+
+41,7%
+
+53,9%
+
+85,5%
+
+85,5%
+
+4a
+
+2/4
+
+4/4
+
+4/4
+
+4/4
+
+4/4
+
+4/4
+
+n
+
+56/568
+
+78/535
+
+87/357
+
+89/214
+
+93/120
+
+94/120
+
+(14,6%)
+
+(24,4%)
+
+(41,6%)
+
+(77,5%)
+
+(78,3%)
+
+Gesamt
+
+Gesamt
+
+PSAProgress (6,9%)
+/Gesamt
+
+23	  
+	  
+
+4.1.2 Die Vergleichsanalysen
+In den folgenden Vergleichsanalysen ist der Einfluss jeweils eines Faktors als KaplanMeier- Analyse oder mehrerer Faktoren als Cox-Regression auf das PSA-freie
+Überleben untersucht worden. Diese Analysen wurden bei 669 von 700 Patienten
+(93,8%) durchgeführt.
+Als Zeitvariable in der Kaplan-Meier-Analyse galt bei Patienten mit PSA-Progress der
+Abstand zwischen OP-Datum und initialem PSA-Anstieg, bei Patienten mit PSA-freiem
+Überleben der Abstand zwischen OP-Datum und der letzten aktuellen PSA-Messung.
+Bei der tabellarischen Darstellung (Tab. 3) wird die mittlere geschätzte Dauer bis zum
+initialen PSA-Progress durch den Mittelwert angegeben. Der Mittelwert gibt somit auf
+Grundlage aller 669 Datensätze die erwartete Zeit p.o. bis zum PSA-Versagen für jedes
+pT-Stadium und jeden p.o. Monat an. Der längste Beobachtungszeitraum ohne PSAProgress ist hier als Maximalwert definiert.
+In der graphischen Darstellung (Abb. 2) ist über die Zeit die kumulative Rate der
+erwarteten Fälle mit PSA-freiem Überleben nach pT-Stadien als Anteil von 1
+abgetragen. Zur Signifikanzberechnung wurden der Log-Rank-Test, der Breslow-Test
+und der Tarone-Ware-Test herangezogen.
+4.1.2.1 Einfluss des pT-Stadiums auf das PSA-freie Überleben
+In Tabelle 3 ist die Häufigkeit und das geschätzte Eintreten des PSA-Progresses in
+Abhängigkeit vom pT-Stadium dargestellt. Der Einfluß des Faktors pT auf die Differenz
+in den Raten und Mittelwerten ist signifikant (p=0,002).
+Der Anteil des Stadiums pT2 an der Gesamtkohorte beträgt 70,6%, von pT3 29,4%. Bei
+den Gruppen pT2a und pT2b sind die Mittelwerte bis zum geschätzten PSA-Progress
+mit 64 Monaten am größten, Patienten mit pT3 weisen ein um 10 Monate (pT3a) bzw.
+14 Monate (pT3b) verkürztes erwartetes PSA-freies Intervall auf. Der Mittelwert bis zum
+erwarteten PSA-Versagen für pT2c ist etwa halb so groß wie der pT3b-Wert.
+
+24	  
+	  
+
+Tabelle 3: Progress-Raten und Erwartungswerte nach pT-Stadien
+pT
+
+Pat.
+
+Pat. mit
+
+Pat. hne
+
+% Pat.
+
+Mittel-
+
+Maximal-
+
+gesamt
+
+PSA
+
+PSA
+
+ohne PSA
+
+Wert
+
+Progress
+
+Progress
+
+Progress
+
+Monaten
+
+Monaten
+
+in Wert
+
+2a
+
+116
+
+6
+
+110
+
+94,8
+
+63,7
+
+67,2
+
+2b
+
+307
+
+17
+
+190
+
+94,5
+
+63,9
+
+67,8
+
+2c
+
+139
+
+7
+
+132
+
+97,1
+
+25,8
+
+26,5
+
+3a
+
+118
+
+43
+
+175
+
+80,3
+
+53,0
+
+66,8
+
+3b
+
+38
+
+16
+
+42
+
+72,4
+
+49,8
+
+68,7
+
+Gesamt
+
+669
+
+95
+
+574
+
+82,0
+
+in
+
+Der Anteil der erwarteten Patienten mit PSA-freiem Überleben in den jeweiligen pTStadien ist in Abbildung 1 grafisch dargestellt. Nach 60 Monaten weisen die pT3a- und
+pT3b-Gruppe mit ca. 65-67% ein ähnlich hohes erwartetes PSA-freies Überleben auf.
+Somit ist weniger als ein Drittel der Gruppe mit fortgeschrittenem Tumor (pT3) nach 5
+Jahren vom erwarteten Lokalrezidiv betroffen. Hingegen differieren die Werte nach 40
+Monaten noch erheblich (ca. 77% bei pT3a zu 65% bei pT3b). Somit tritt der
+Prognoseabfall für Patienten mit pT3b bei etwa 36 Monaten ein. Die Erwartungswerte
+für den PSA-Progress der pT2-Gruppen verlaufen bis zum 60 Monats- Follow up in
+ähnlichem niedrigen Bereich (ca. 92% PSA-freies Überleben), danach weicht die pT2bGruppe nach unten ab.
+
+25	  
+	  
+
+Abbildung 1: Kaplan-Meier-Kurve für den Faktor „pT-Stadium“
+PSA-Versagen gegenüber Zeitfaktor
+4.1.2.2 Einfluss des Schnittrandes auf das PSA-freie Überleben
+In Tabelle 4 ist die Häufigkeit und das geschätzte Eintreten des PSA-Progresses nach
+pT-Stadien bei Patienten mit positivem (R1) bzw. negativem Resektionsrand (R0)
+dargestellt. Der Einfluss des Faktors R auf die Differenz in den Raten und Mittelwerten
+ist signifikant (p=0,001). Somit ist der Schnittrandbefund entscheidend für die
+Rezidivprognose des Patienten. Der R1-Anteil bei den pT2-Patienten beträgt 13,9%, bei
+den pT3-Patienten 55,1%. Der pT-unabhängige Gesamtanteil liegt bei 26,0%.Die
+größten Unterschiede bei der geschätzten Dauer bis zum PSA-Versagen (Mittelwerte)
+bei R0 und R1 existieren in der pT2a-Gruppe mit 16 Monaten, gefolgt von pT2b und
+pT3b mit ca. 6 Monaten. Das längste geschätzte PSA-freie Intervall tritt bei R0-Fällen
+mit pT2a und pT2b auf. pT3-Patienten liegen etwa 12 Monate darunter. Lediglich
+Patienten mit pT2c weisen einen geringfügig höheren Mittelwert bei R1 als bei R0 auf.
+
+26	  
+	  
+
+Tabelle 4: Progress-Raten und Erwartungswerte nach pT-Stadien und Schnittrand
+pT- R
+
+Pat.
+
+Pat. mit
+
+Pat. ohne
+
+% Pat.
+
+gesamt
+
+PSAProgress PSAProgress ohne
+PSA
+
+Mittelwert Maximalwert
+in
+
+in
+
+Monaten
+
+Monaten
+
+Progress
+2a- R0
+
+108
+
+5
+
+101
+
+95,4
+
+64,1
+
+67,2
+
+2a- R1
+
+8
+
+1
+
+7
+
+87,5
+
+48,3
+
+53,4
+
+2b- R0
+
+256
+
+10
+
+136
+
+96,1
+
+64,5
+
+67,8
+
+2b- R1
+
+51
+
+7
+
+34
+
+86,3
+
+58,3
+
+65,9
+
+2c- R0
+
+206
+
+5
+
+201
+
+97,6
+
+24,6
+
+25,1
+
+2c- R1
+
+33
+
+2
+
+21
+
+93,9
+
+25,1
+
+26,5
+
+3a- R0
+
+101
+
+14
+
+37
+
+86,1
+
+51,5
+
+60,7
+
+3a- R1
+
+76
+
+35
+
+15
+
+75,2
+
+50,8
+
+66,8
+
+3b- R0
+
+23
+
+4
+
+12
+
+82,6
+
+52,2
+
+68,6
+
+3b- R1
+
+35
+
+12
+
+13
+
+65,7
+
+46,7
+
+68,7
+
+Gesamt
+
+669
+
+95
+
+574
+
+90,5
+
+Der Anteil der erwarteten Patienten mit PSA-freiem Überleben nach pT-Stadien mit R0
+ist in Abbildung 2, für Patienten mit R1 in Abbildung 3 dargestellt. Bei der R0-Gruppe
+(Abbildung 2) tritt der deutliche Prognoseabfall für Patienten mit pT3a (von 80% auf
+70% PSA-freies Überleben) im Vergleich zur R1-Gruppe mit pT3a nach ca. 52 Monaten
+ein. Ein noch stärkerer Abfall (um ca. 20%) ist bei der Hochrisiko-Gruppe pT3b nach ca.
+36 Monaten zu verzeichnen. Patienten mit einem pT2-Tumor und R0 haben selbst nach
+5 Jahren eine über 90%-ige Wahrscheinlichkeit für ein PSA-freies Überleben. Bei der
+R1-Gruppe (Abbildung 3) sind die Differenzen zwischen den pT2-Untergruppen
+hinsichtlich eines erwarteten PSA-Versagens sogar nach 60 Monaten gering
+ausgeprägt. Somit spielt bei positivem Schnittrand die pT2-Untergruppe für die
+Prognose eine untergeordnete Rolle. Bei Patienten mit pT3 und R1 zeigen sich nur in
+den ersten 52 Monaten Unterschiede. Ab genanntem Zeitraum sind die erwarteten
+Anteile an PSA-freiem Überleben bei pT3a und pT3b mit ca. 62% nahezu identisch und
+bedeuten folglich keinen deutlichen Prognoseunterschied für Patienten mit solch einem
+langen Beobachtungszeitraum.
+
+27	  
+	  
+
+Abbildung 2: Kaplan-Meier-Kurve für den Faktor „ R0“
+
+28	  
+	  
+
+Abbildung 3: Kaplan-Meier-Kurve für den Faktor „R1“
+
+4.1.2.3 Einfluss der nicht Nerverhaltung auf das PSA-freie Überleben
+Der Anteil der erwarteten Patienten mit PSA-freiem Überleben nach pT-Stadien ohne
+Nerverhaltung ist in Abbildung 4 dargestellt. Die Wahrscheinlichkeit für einen PSAProgress innerhalb der pT2-Gruppe bis ca. 55 Monate nach LRP ist nahezu identisch,
+wenn kein Nerverhalt durchgeführt wurde, erst danach ist die Prognose für pT2bPatienten schlechter. Der Anteilsunterschied zwischen pT3a- und pT3b-Patienten nach
+> 60 Monaten beträgt ohne Nerve-sparing ca. 5% (69% zu 64%).
+
+29	  
+	  
+
+Abbildung 4: Kaplan-Meier-Kurve für den Faktor „Nerve-sparing-nein“
+4.1.2.4 Einfluss des Ausgangs-PSA-Wertes auf das PSA-freie Überleben
+Es wurden 669 Patienten in eine Gruppe mit niedrigem Ausgangs-PSA-Wert (316
+Patienten = 47,3%) und eine mit hohem Wert (353 Patienten = 52,7%) unterteilt. Als
+Grenzwert legten wir 7 ng/ml fest: Die beiden Patientengruppen sind annähernd gleich
+groß, die Unterschiede in den Erwartungswerten mit ca. 10 Monaten signifikant.
+In Tabelle 5 ist die Häufigkeit und das geschätzte Eintreten des PSA-Progresses nach
+pT-Stadien bei Patienten mit niedrigem (<=7,0 ng/ml) und hohem Ausgangs-PSA-Wert
+(>7,0 ng/ml) dargestellt. Der Einfluss des Faktors Ausgangs-PSA-Wert auf die Differenz
+in den Raten und Mittelwerten ist signifikant (p=0,001).Bei Patienten mit pT2a und pT2b
+wird der PSA-Progress nur unwesentlich vom Ausgangs- PSA-Wert beeinflusst, bei
+solchen mit pT3a und pT3b am deutlichsten mit einer Differenz von 6 bzw. 8 Monaten.
+Die wiederholt niedrigen Werte für pT2c erklären sich aus der Umstellung der TNMKlassifikation.
+
+30	  
+	  
+
+Tabelle 5: Progress-Raten und Erwartungswerte nach pT-Stadien und Ausgangs-PSAWert
+pTAusgangs- Pat.
+
+Pat. mit
+
+Pat. mit
+
+%
+
+Pat. Mittelwert Maximalwert
+
+PSA-Wert
+
+gesamt PSA
+
+PSA
+
+mit
+
+in
+
+in
+
+	  
+
+	  
+
+Progress
+
+freiem
+
+PSA-
+
+Monaten
+
+Monaten	  
+
+	  
+
+Überleben	   freiem
+
+	  
+
+Überleben	  
+2a-niedrig	  
+
+30	  
+
+1	  
+
+29	  
+
+98,5	  
+
+60,9	  
+
+61,7	  
+
+2a-hoch	  
+
+39	  
+
+5	  
+
+34	  
+
+89,8	  
+
+60,8	  
+
+67,2	  
+
+2b-niedrig	  
+
+80	  
+
+7	  
+
+73	  
+
+95,1	  
+
+64,4	  
+
+67,8	  
+
+2b-hoch	  
+
+123	  
+
+10	  
+
+113	  
+
+93,9	  
+
+62,3	  
+
+65,9	  
+
+2c-niedrig	  
+
+96	  
+
+3	  
+
+93	  
+
+97,6	  
+
+24,2	  
+
+24,8	  
+
+2c-hoch	  
+
+115	  
+
+8	  
+
+107	  
+
+96,5	  
+
+25,7	  
+
+26,5	  
+
+3a-niedrig	  
+
+50	  
+
+12	  
+
+38	  
+
+86,5	  
+
+56,3	  
+
+66,7	  
+
+3a-hoch	  
+
+91	  
+
+35	  
+
+56	  
+
+76,0	  
+
+50,9	  
+
+66,8	  
+
+3b-niedrig	  
+
+20	  
+
+4	  
+
+16	  
+
+80,0	  
+
+54,9	  
+
+68,7	  
+
+3b-hoch	  
+
+25	  
+
+10	  
+
+15	  
+
+68,4	  
+
+46,9	  
+
+68,7	  
+
+Gesamt	  
+
+669	  
+
+95	  
+
+574	  
+
+90,5	  
+
+	  
+
+	  
+
+Der Anteil der erwarteten Patienten mit PSA-freiem Überleben nach pT-Stadien mit
+niedrigem Ausgangs-PSA-Wert ist in Abbildung 5, für Patienten mit hohem AusgangsPSA-Wert in Abbildung 6 dargestellt. Bis ca. 60 Monate liegen sämtliche pT2Untergruppen mit einem niedrigen Ausgangs-PSA-Wert in einem ähnlich hohen Bereich
+um 97%. Erst nach > 60 Monaten fällt der PSA-Überlebensanteil von pT2b auf ca. 80%.
+Patienten mit pT3a und pT3b weisen nach > 50 Monaten ein beinahe identischen Anteil
+von 72% auf, wobei die Versagensquote und somit die Prognose für Patienten mit pT3b
+früher abfällt.
+Bei einem hohen Ausgangs-PSA-Wert fällt der steilere Kurvenverlauf für pT3b im
+Gegensatz zu pT3a bereits in den ersten 10 Monaten p.o. noch merklicher auf, mit
+zunehmender Beobachtungsdauer nähern sie sich wieder im Bereich um 62% an.
+Hervorzuheben ist der initial stärkere Abfall der pT2a-Gruppe im Vergleich zur pT2bund pT2c-Kohorte. Ab 60 Monaten liegen genannte pT2-Teilgruppen allerdings wieder
+gleichauf mit einem PSA-freien Überleben von 88%.
+31	  
+	  
+
+Abbildung 5: Kaplan-Meier-Kurve für den Faktor „Ausgangs-PSA-Wert-niedrig“
+
+32	  
+	  
+
+	  
+
+Abbildung 6: Kaplan-Meier-Kurve für den Faktor „Ausgangs-PSA-Wert-hoch“
+
+4.1.2.5 Einfluss verschiedener Faktoren auf das PSA-freie Überleben
+Im Rahmen dieser multivariaten Analyse (Cox-Regression) werden die Faktoren
+dargestellt, die den größten Einfluß auf den PSA-Progress haben. Dabei wird die
+Interaktion der Parameter berechnet und deren Prognosekraft für den PSA-Progress
+evaluiert.
+Als Faktoren werden eingesetzt:
+- pT-Stadium (kategoriale Variable, pT3b als Referenzwert)
+- Schnittrand R (dichotome Variable)
+- Gleason-Score-Summe (kontinuierliche Variable)
+- Ausgangs-PSA-Wert
+
+(kontinuierliche Variable)
+
+In Tabelle 6 ist die Risikoerhöhung für den PSA-Progress unter Einfluß der
+verschiedenen Faktoren dargestellt. Drei der fünf Faktoren, das pT-Stadium, der
+Resektionsstatus und der Gleason-Score haben in der multivariaten Analyse einen
+signifikanten Einfluß auf das Progressrisiko. Maßgeblicher Parameter für das Risiko
+33	  
+	  
+
+eines Patienten mit einem bestimmten pT-Stadium, einen PSA-Progress zu bekommen
+ist der Risikoexponent. Dieser setzt das diagnostizierte pT-Stadium in Relation zum
+Stadium mit dem höchsten berechneten Risiko, nämlich pT3b (=1,00). Patienten mit
+einem pT2a-Stadium haben eine nur 72%-ige, Fälle mit pT2b eine 75%-ige
+Wahrscheinlichkeit für ein PSA-Versagen in Relation zur pT3b-Gruppe.
+Bei pT3a steigt die Wahrscheinlichkeit für ein PSA-Versagen auf 89% in Bezug zu
+pT3b. Somit ist lediglich die Differenz zwischen pT2a und pT2b hinsichtlich der
+Prognose für den Patienten nicht richtungsweisend. Bei einer Erhöhung der GleasonScore-Summe um 1 steigt das Risiko für einen Progress um das 1,5-fache, bei einer
+Erhöhung um 2 auf das 1,5 x 1,5 = 2,3 -fache an. Patienten mit R1 weisen gegenüber
+dem R0-Status den höchsten Risikoexponenten, ein um den Faktor 1,8 erhöhtes
+Progressrisiko auf und stellen damit in der multivariaten Analyse den bedeutendsten
+Faktor für das Wiederauftreten des Tumors dar.
+Tabelle 6:
+
+Risikoberechnung für PSA-Progress, n=669, R=positiver Schnittrand,
+Ausgangs-PSA-Wert >7 ng/ml, Gleason-Score-Summe > 7
+
+Variable
+
+p-Wert (Signifikanz)
+
+Risikoexponent
+
+pT2a
+
+0,04
+
+0,72
+
+pT2b
+
+0,02
+
+0,75
+
+pT2c
+
+0,01
+
+0,81
+
+pT3a
+
+0,01
+
+0,89
+
+pT3b
+
+0,01
+
+1,00
+
+R
+
+0,02
+
+1,8
+
+Gleason-Score-Summe
+
+0,01
+
+1,4
+
+Ausgangs-PSA-Wert
+
+0,16
+
+1,0
+Konfidenzintervall: 95%
+
+4. 2
+
+Inkontinenz nach LRP
+
+Zur Erfassung der Inkontinenz wurden 670 Patienten persönlich bzw. telefonisch
+befragt, deren Vorlagenverbrauch in 24 Stunden eruiert und in vier Gruppen geteilt. Die
+erste Gruppe benötigt 0 Vorlagen, die zweite Gruppe 0-1 Vorlage für 24 Stunden, die
+dritte Gruppe 2-4 Vorlagen und die vierte Gruppe benötigt mindestens 4 oder >4
+Vorlagen für den ganzen Tag. Der durchschnittliche mediane Beobachtungszeitraum
+34	  
+	  
+
+aller Patienten hinsichtlich der Inkontinenz beträgt 36,5 Monate. Alle befragten
+Patienten begaben sich nach dem Klinikaufenthalt in eine stationäre bzw. ambulante
+Rehabilitationseinrichtung
+
+und
+
+führten
+
+Beckenbodengymnastik
+
+und
+
+andere
+
+physiotherapeutische Maßnahmen durch. 393 Patienten (58,7%) benötigen zum
+Zeitpunkt der Befragung keine Vorlagen mehr, 152 Männer (22,7%) benötigen maximal
+eine Vorlage über 24 Stunden, 102 Patienten (15%) benötigen zwei bis vier Vorlagen in
+24 Stunden und 23 Patienten (3%) vier und mehr Vorlagen in 24 Stunden. Von letzteren
+erhielten 13 Patienten wegen Dauerhaft hochgradiger Inkontinenz nach einem p.o.Zeitraum zwischen 11 und 72 Monaten eine Sphinkterprothese. Bei 8 Patienten wurde
+eine Sphinkterunterspritzung mit Kollagen vorgenommen.
+4.2.1 Inkontinenzverlauf nach LRP
+In Abbildung 7 ist der Symptomverlauf p. o. der Patienten in Bezug auf das OP-Jahr
+dargestellt. Die Grafik zeigt, ab welchem Zeitpunkt (Mittelwert Monate p.o.) eine
+deutliche Abnahme des Vorlagenverbrauches auf ein konstanten aktuellen Wert
+eingetreten ist bzw. ab wann p.o. keine Vorlagen mehr benötigt wurden. Patienten mit
+zum Zeitpunkt der Befragung 2 oder mehr Vorlagen weisen unabhängig vom OP-Jahr
+die längsten Zeiträume bis zur Besserung auf, 1999 und 2000 zeigen allerdings mit 18,8
+Monaten bzw. 13,8 Monaten deutlich höhere Werte als die übrigen OP-Jahre. Patienten
+der Gruppe mit aktuell 0 Vorlagen weisen mit Zeiträumen zwischen 3,5 Monaten (2002)
+und 5,1 Monaten (1999) bis zur Erlangung der Kontinenz geringere Schwankungen auf.
+Innerhalb der Gruppe mit maximal 1 Vorlage hat es im Jahr 2000 mit 8,3 Monaten am
+längsten gedauert bis zur Symptombesserung. Bei Patienten im OP-Jahr 2004 ist eine
+zum
+
+Befragungszeitpunkt
+
+noch
+
+nicht
+
+wahrscheinlich.
+
+35	  
+	  
+
+abgeschlossene
+
+Symptombesserung
+
+16	  
+14	  
+
+Mi$elwert	  Monate	  p.o.	  
+
+12	  
+10	  
+8	  
+
+0	  Vorlagen	  
+1	  Vorlage	  
+
+6	  
+
+>=2	  Vorlagen	  
+
+4	  
+2	  
+0	  
+2000	  
+
+2001	  
+
+2002	  
+
+2003	  
+
+2004	  
+
+2005	  
+
+Gesamt	  
+
+OP-­‐Jahr	  
+
+Abbildung 7: Inkontinenzverlauf nach OP-Jahr
+4.2.2 Raten in Bezug auf OP-Jahr und Operateur
+In Abbildung 8 wird, differenziert nach OP-Jahr, der Anteil der Patienten mit einem
+aktuell angegebenen Vorlagenwert von 2 oder mehr für jeden Operateur einzeln
+dargestellt. Größere Schwankungen ergeben sich nur bei einer geringen Anzahl von
+Operierten pro Arzt, womit auch die Aussagekraft für das jeweilige Jahr schwindet. Die
+durchschnittlichen Inkontinenzraten im dritten Jahr der operativen Tätigkeit jedes
+Urologen liegen zwischen 9% und 27%. Die Raten von 1999 bis 2002 sind, unabhängig
+vom Operateur, signifikant höher als die Werte ab 2004. Erklärend für den günstigeren
+p.o. Verlauf ab 2003 sind wahrscheinlich der Einfluss der individuellen Lernkurve des
+Therapeuten und eine Verbesserung der gesamten klinischen Arbeitsabläufe. Da bei
+den Operateuren keine kontinuierliche Abnahme des Anteils Inkontinenter mit
+steigender OP-Zahl und Erfahrung zu verzeichnen ist, ist der Faktor des Anlernens
+neuer Operateure beeinflussend.
+
+36	  
+	  
+
+Abbildung 8: Inkontinenzraten (2 oder mehr Vorl.) nach OP-Jahr und Operateur
+4.3
+
+Spätkomplikationen
+
+Als Spätkomplikation sind solche mit eindeutigem Kontext zum operativen Eingriff bzw.
+damit verbundenen Folgemaßnahmen und Auftreten ab dem 6. p.o. Tag (in 97% der
+Fälle das Entlassungsdatum) definiert. Ausgehend von der Befragung von 670
+Patienten sind
+Patienten
+
+Spätkomplikationen bei
+
+(86,1%)
+
+wiesen
+
+einen
+
+93 Patienten (13,9%) aufgetreten. 577
+
+komplikationslosen
+
+Therapieverlauf
+
+auf.
+
+Der
+
+durchschnittliche mediane Beobachtungszeitraum betrug wie beim PSA-Progress und
+der Inkontinenz 36,5 Monate.
+4.3.1 Tod
+Es waren insgesamt 13 Todesfälle zu verzeichnen, von denen nur bei 3 Fällen (0,3%)
+eine Spätkomplikation der LRP als Todesursache gesichert bzw. wahrscheinlich ist. Die
+übrigen Patienten verstarben aus anderen Gründen.Ein Patient verstarb 18 Tage p.o.
+an einem Apoplex (Juni 2000), ein weiterer 22 Tage p.o. an einer Lungenembolie
+(Februar 2000). Der Dritte starb an den Folgen einer Rektumläsion mit Sepsis und
+37	  
+	  
+
+Schocksymptomatik aufgrund einer rektovesikalen Fistel 33 Tage p.o. (März 2000).
+Sämtliche Komplikationen mit Todesfolge geschahen im ersten Jahr seit Einführung der
+LRP an der Charite. 3 Patienten starben nach jeweils 40, 41 und 45 Monaten p.o. an
+Fernmetastasierung des Prostatakarzinoms. Bei insgesamt 7 Patienten war eine vom
+Prostatakarzinom unabhängige maligne Erkrankung Todesursache: 3 Patienten wiesen
+einen ZNS-Tumor, 2 ein Bronchialkarzinom, ein Mann ein Pleura-Mesotheliom, ein
+anderer ein Osteosarkom auf. Ein Patient erlitt bei einem PKW-Unfall tödliche
+Verletzungen, ein weiterer beging Suizid.
+4.3.2 Thrombose und Embolie
+Alle Patienten erhielten postoperativ eine Thromboseprophylaxe mittels
+Kompressionsstrümpfen und „low dose“-Heparinisierung. Dennoch entwickelten 8 von
+670 Patienten (0,8%) nach dem 6. p.o. Tag eine Unterschenkelvenenthrombose, von
+denen 3 in der Charite und die übrigen 5 auswärtig behandelt worden sind. 3 Fälle
+(0,3%) mit einer aufgetretenen Lungenarterienembolie sind bekannt, ein Patient in der
+Charite, zwei weitere auswärtig stationär behandelt. Sämtliche thrombotischen
+Ereignisse traten zwischen dem 7. und 22. p.o. Tag auf und sind konservativ mittels i.v.Heparin-Substitution erfolgreich therapiert worden.
+4.3.3 Nervenläsion
+34 von 670 Patienten (5,6%) zeigten neurologische Ausfallerscheinungen in den
+unteren Extremitäten. Bei 21 Operierten handelte es sich um Parästhesien bzw.
+Hypästhesien. 7 Patienten gaben noch bestehende muskuläre Schwächen an.
+Insgesamt 6 Fälle zeigten eine Kombination aus sensiblem und motorischem Defizit im
+jeweiligen Bein.
+4.3.4 Fistel und Abszess
+Bei insgesamt 11 von 670 Patienten (1,5%) wurde eine Fistel p.o. diagnostiziert und
+behandelt, deren Art und Häufigkeit aus Tabelle 7 hervorgehen. Die aufgetretenen
+Fisteln wurden operativ versorgt. Bei 8 Patienten geschah dies durch eine konsekutive
+Ileostoma-Anlage, welche zwischen 6 Wochen und 18 Monaten verblieb. Bei 3
+Patienten war der Defekt in der Rektumwand nur mit einer Gracilis-Plastik zu
+verschließen, eine rektovesikale Fistel machte eine Sigmateilresektion notwendig. Es
+trat bei einem Patienten (0,1%) ein Sigmaabzeß auf, der nach erfolgloser Inzision und
+38	  
+	  
+
+Drainage nur mit einer Sigmateilresektion therapiert werden konnte. Alle betroffenen
+Patienten
+
+wiesen
+
+nach
+
+Beendigung
+
+der
+
+therapeutischen
+
+Maßnahmen
+
+keine
+
+Residualsymptomatik auf.
+Tabelle 7: Fistel-Komplikationen
+Fistel-Lokalisation
+
+und Charite Campus Mitte
+
+Auswärtig behandelt
+
+Therapie
+rektovesikal
+Ileostoma
+rektovesikal
+Ileostoma
+rektourethral
+
+mit 7
+
+(davon 3 mit Gracilis- -
+
+Plastik)
+ohne 1
+
+(dann
+
+1
+
+Sigmateilresektion)
+mit 1
+
+-
+
+ohne 1
+
+-
+
+Ileostoma
+rektourethral
+Ileostoma
+4.3.5 Ileus
+Als Ileus wurden die Fälle definiert, bei denen infolge einer Darmparalyse oder eines
+Darmverschlusses eine Dysfunktion der Darmpassage beobachtet wurde. Diese
+Symptomatik wurde klinisch bzw. radiologisch bei 3 von 670 Patienten (0,3%)
+diagnostiziert. Bei 2 Patienten wurde ein paralytischer Dünndarmileus am 7. bzw. 8. p.o.
+Tag radiologisch bestätigt. Diese wurden nach progredienter Klinik und erfolglosen
+konservativen Therapiemaßnahmen mit einer Laparotomie und Anlage eines
+doppelläufigen Ileostomas behandelt. Ein Patient entwickelte nach intraoperativer
+Ileumperforation und anschließender Adhäsiolyse genannte Symptomatik und wurde 12
+Tage p.o. einer Ileumsegmentresektion unterzogen.
+4.3.6 Weitere Komplikationen
+Als Spätfolge einer intraoperativen Sigmaperforation ist bei einem Patienten (0,1%)
+nach Therapieresistenz bei konservativem Vorgehen, eine Sigmateilresektion mit
+Anlage eines doppelläufigen Ileostomas am 34. p.o. Tag vorgenommen worden,
+welches 2 Monate nach dem Eingriff wieder rückverlagert werden konnte. Die Läsion ist
+ohne Einschränkung für den Patienten ausgeheilt. Bei insgesamt 5 von 670 Patienten
+(0,5%) kam es zur intraoperativen einseitigen Ureterläsion, welche nach der LRP mit
+39	  
+	  
+
+DJ-Katheter- Einlage behandelt wurde. Davon sind 4 Schieneneinlagen zwischen dem
+Operationstag und 4. p.o. Tag durchgeführt worden, eine Läsion wurde am 9. p.o. Tag
+auswärtig diagnostiziert und therapiert. Es zeigte sich bei den stationär erkannten
+Ureterläsionen eine vollständige Besserung der Symptomatik mit Entfernung der DJKatheter nach 16 bis 44 Tagen. Der später klinisch und radiologisch auffällige Patient
+musste
+
+nach
+
+mehrmaligem
+
+Schienendislokationen
+
+und
+
+Stentwechsel
+
+einseitiger
+
+aufgrund
+
+Dekompensation
+
+der
+
+rezidivierender
+
+Nierenfunktion
+
+mit
+
+resultierendem postrenalem Nierenversagen 10 Monate p.o. Nephrektomiert werden.
+Der Allgemeinzustand und die Funktionsparameter der verbliebenen Niere sind gut. 2
+Patienten (0,2%) zeigten eine Ureterstriktur, die am 38. bzw. 52. p.o. Tag mittels
+Bougierung behandelt wurde und vollständig ausgeheilt ist.
+Eine Anastomoseninsuffizienz mit konsekutiver Sepsis erlitten nach Entlassung (9. und
+13. p.o. Tag) 2 Patienten, eine Peritonitis wegen Anastomoseninsuffizienz ein Patient
+(15. p.o. Tag). Nach operativer Versorgung und Antibiose trat bei allen 3 Patienten eine
+komplette Restitutio ein. Bei einem Patienten wurde auswärtig eine Pneumonie in
+Kombination mit einer Pleuritis beobachtet (13. p.o. Tag), die unter Antibiose-Therapie
+vollständig ausheilte. Eine Wundrevision und Sekundärnaht war bei insgesamt 3
+Patienten notwendig, alle Eingriffe sind zwischen dem 7. und 11. p.o. Tag in der Charite
+vorgenommen worden.
+
+40	  
+	  
+
+5
+
+Diskussion
+
+Die radikale Prostatavesikulektomie ist als Therapieverfahren der Wahl beim lokal
+begrenzten Prostatakarzinom etabliert. Während die offene radikale Prostatektomie mit
+verschiedenen Zugangswegen seit mehreren Jahrzehnten kurativ angewandt wird und
+folglich
+
+zahlreiche
+
+Langzeitstudien
+
+mit
+
+großen
+
+Kohorten
+
+existieren,
+
+wird
+
+die
+
+laparoskopische radikale Prostatektomie (LRP) erst seit 1998 in ausgewählten Zentren
+durchgeführt und hat dort die ORP als Standardverfahren meist abgelöst. Somit liegen
+in der zugänglichen Literatur lediglich die Daten von weniger als 20.000 Patienten in der
+postoperativen Verlaufsbeobachtung vor. Langzeitstudien mit einem Follow up von
+mehr als 10 Jahren können als Vergleichsparameter zur ORP nicht herangezogen
+werden. Daher stellt diese Studie mit den ersten 700 in der Charite operierten Patienten
+und einem Beobachtungszeitraum von bis zu 73 Monaten einen weiteren Beitrag zur
+genaueren Beurteilung der LRP als innovatives operatives Verfahren und Alternative
+zur ORP dar. Besonderes Augenmerk liegt auf der Tumorrezidivrate (PSA-Versagen)
+als entscheidendes Qualitätskriterium einer kurativen Therapie, den postoperativen
+Langzeitkomplikationen und der Inkontinenzrate als wichtigem Parameter zur
+Evaluierung der Lebensqualität der Patienten.
+In der vorliegenden Dissertation werden alle relevanten in der Datenbank PubMed
+recherchierbaren Publikationen über die LRP mit mehr als 100 Patienten zur Diskussion
+herangezogen. Außerdem werden die eigenen Ergebnisse mit denen der aktuellsten
+und umfangreichsten Veröffentlichungen zur ORP (perineal und retropubisch)
+verglichen, um so eine qualitative Standortbestimmung der LRP zu leisten.
+5.1.
+
+Präoperative Daten
+
+Die an der Charite durchgeführten LRP unterliegen bezüglich der Einschlusskriterien
+wie Lebensalter, Ausgangs-PSA-Wert und weiterer präoperativer Stagingparameter
+denselben wissenschaftlich etablierten Standards wie die ORP.
+Das in dieser Studie ermittelte Durchschnittsalter von 62 Jahren ist vergleichbar mit
+dem der hierzu herangezogenen Publikationen. Die angegebenen Durchschnittswerte
+für die Patienten mit LRP lagen zwischen 59,4 und 68,0 Jahren [142,215-226] bzw. für
+Patienten mit ORP zwischen 62,9 und 66,0 Jahren [216, 220,227-236]. Der geringste
+Minimalwert bei Publikationen über die LRP betrug 41 [223,226], bei der ORP 37 Jahre
+[229]. Der höchste Maximalwert für die LRP lag bei 82 [215] und für die ORP bei 81
+41	  
+	  
+
+Jahren [229]. Die Indikation für eine radikale Prostatektomie liegt in Bezug auf das Alter
+bei einer geschätzten minimalen Lebenserwartung von 10 Jahren, da somit
+
+eine
+
+Lebensverlängerung erreicht werden kann. Zwar konnten Dillioglugil et al. keinen
+signifikanten Kontext zwischen dem Lebensalter und der Komplikationsrate p.o.
+nachweisen, sie fanden aber eine höhere Mortalitätsrate in der Gruppe der 75 bis 79jährigen [124]. Eine der weltweit größten Studien zu diesem Parameter, die 101604
+ORPs zur Grundlage hatte, berichtet über sowohl einen Anstieg der Komplikationsrate
+v.a. im kardiovaskulären und gastrointestinalen Bereich bei der Gruppe der über 75jährigen, als auch einen deutlichen Anstieg der (30-Tage-) Mortalitätsrate mit höherem
+Lebensalter. So wurde eine Erhöhung um 34% der 70-74-jährigen bzw. 134% der
+Patienten über 75 Jahre im Vergleich zur Gruppe der 65-69-jährigen [237] beobachtet.
+Die
+
+in
+
+dieser
+
+Arbeit
+
+durchgeführte
+
+Vergleichsanalyse
+
+bezüglich
+
+der
+
+p.o.
+
+Spätkomplikationen (ab dem 6. p.o. Tag) ergab keine statistisch signifikante Korrelation
+von Komplikationen und höherem Lebensalter. Die Mortalitätsrate über den gesamten
+mehrjährigen Beobachtungszeitraum betrug 0,3%. Das Alter der in diese Studie
+eingeschlossenen Patienten hatte auf das PSA-Versagen und die Inkontinenzrate
+keinen statistisch nachweisbaren Einfluss.
+Der durchschnittliche Ausgangs-PSA-Wert dieser Untersuchung betrug 8,78 ng/ml mit
+einem Minimum von 0,8 und einem Maximum von 44,0. Der Median lag bei 7,34 ng/ml.
+Diese Werte ähneln denen vergleichbarer Publikationen. Bei LRP-Studien liegt der
+Ausgangs-PSA-Mittelwert zwischen 5,3 und 11,8 [142,214-226], bei der ORP zwischen
+6,0 und 14,1 [216,220, 227,228, 231-236]. Lediglich eine Studie mit einem
+Durchschnittswert über 20 ng/ml weicht deutlich ab [231].
+Als optimaler Grenzwert für die Unterteilung unserer Kohorte in annähernd gleich große
+Gruppen mit einen niedrigen (492 Patienten) und hohen Ausgangs-PSA-Wert (446
+Patienten) hat sich 7 ng/ml angeboten. Sowohl die Differenz der beobachteten
+Progress-Raten als auch die der berechneten Wahrscheinlichkeitswerte für ein PSAVersagen unterliegen in signifikantem Maße (p=0,001) dem Einfluss des AusgangsPSA-Wertes. Bei Patienten mit einem pT2-Tumor wird der Anteil des PSA-Versagens
+und dessen Erwartungswerte noch gering von diesem Parameter beeinflusst. In den
+Stadien pT3a und pT3b ist der Unterschied mit 6 bzw. 8 Monaten im Vergleich zur
+jeweiligen Gruppe mit niedrigem Ausgangs-PSA-Wert jedoch deutlich. Der PSAProgress-Anteil ist bei pT3a- Patienten mit einem Wert > 7 ng/ml um 10,5% höher (24%
+zu 13,5%), bei pT3b-Patienten um 11,6% höher (31,6% zu 20%) als bei der Gruppe <
+42	  
+	  
+
+7ng/ml. Auch graphisch ist diese signifikante Beeinflussung durch divergierende
+Kaplan-Meier-Kurven der jeweiligen pT-Gruppen veranschaulicht. Die mittlere Follow up
+-Spanne beträgt 36,5 Monate. In der multivariaten Analyse hingegen zeigte dieser
+Parameter in der berechneten Interaktion zu anderen Faktoren, wie z.B. R1, keine
+signifikante Risikoänderung für ein biochemisches Rezidiv auf. Die diesbezüglichen
+Daten anderer LRP- und ORP-Studien sind ähnlich. In einigen Erhebungen wurde die
+Gesamtkohorte in drei Gruppen mit niedrigem (< 10 ng/ml), mittlerem (10-20 ng/ml) und
+hohem Risiko (> 20 ng/ml) eingeteilt. So wiesen bei Eden et al. die low-risk-Gruppe eine
+Progress-Rate von 8%, die intermediate-risk-Gruppe von 12% und die high-risk-Gruppe
+von 24% auf [217]. Bei den 150 LRP-Patienten von Galli et al. betrug der
+durchschnittliche Ausgangs-PSA-Wert in der PSA-Rezidiv-Gruppe 18,1 ng/ml, in der
+PSA-freien Gruppe lediglich 9,3 ng/ml [219]. Guillonneau et al. gaben für ihre 1000
+Patienten eine 3-Jahres-PSA-Versagensquote von 11% der Gruppe < 10 ng/ml
+gegenüber 26% bei Patienten mit einem Wert >10 ng/ml an [142]. Ebenso geben
+umfangreiche ORP-Studien ähnliche Zahlen wieder. So wiesen von 2500 Patienten
+nach 5 Jahren 6% (0-4 ng/ml), 11% (4,1-10 ng/ml), 17% (10,1-20 ng/ml) und 40% (> 20
+ng/ml) ein Rezidiv auf [240]. Zwei weitere Untersuchungen berichten über Raten von
+20% (< 10 ng/ml) und 47% bzw. 64% (> 10 ng/ml) [234,241]. In Langzeitstudien von 15
+Jahren war die Differenz zwischen Patienten mit einem Ausgangs-PSA-Wert von 10-19
+ng/ml mit 34% Progress-Rate und der Gruppe > 20 ng/ml mit 52% Rezidivanteil noch
+größer [233]. Hull et al. errechneten in der univariaten Analyse bei einer Verdopplung
+des präoperativen PSA-Wertes eine relative Risikoerhöhung für das PSA-Versagen um
+das 2,1-fache, in der multivariaten Analyse um den Faktor 1,8 [236].
+5.2
+
+Intraoperative Daten
+
+Als intraoperative Parameter fand der Anteil der vorgenommenen peripheren
+Lymphadenektomien (pLa) und der nicht- nerverhaltenden Operationstechnik an der
+Gesamtzahl der Eingriffe sowie, in Hinblick auf die Inkontinenzraten und Impotenzraten,
+Einzug in die Datenauswertung. Die letzten Punkte werden der Übersichtlichkeit wegen
+im Unterkapitel Inkontinenz und Impotenz diskutiert. Bei 552 Patienten (55,2%) wurde
+vor der LRP die pLa mit histologischer Schnellschnittdiagnostik durchgeführt. Alle im
+Rahmen dieser Studie operierten Patienten wiesen den Status pN0 auf. Die Indikation
+für eine pLa bei den Prostatektomie-Patienten der Charite stimmt mit den
+evidenzbasierten und allgemeingültigen Standards überein und richtet sich nach
+43	  
+	  
+
+definierten Stagingparametern wie dem klinischen Tumorstadium, Ausgangs-PSA-Wert
+und dem bioptischen Gleason-Score. Unser pLa-Anteil von 55,2% ist mit denen der
+relevanten LRP-Studien vergleichbar. Es zeigte sich in der univariaten Analyse eine
+grenzwertig signifikante Beeinflussung des PSA-freien Überlebens durch die pLa. Die
+multivariate Cox-Regression hingegen wies keine Korrelation beider Parameter nach,
+so dass auf eine detaillierte Datendarstellung im Ergebnisteil verzichtet wurde. Die
+höhere
+
+Wahrscheinlichkeit
+
+eines
+
+biochemischen
+
+Rezidivs
+
+wegen
+
+schlechterer
+
+präoperativer Stagingwerte und daraus resultierender pLa kann diesen Effekt erklären.
+Eine signifikante Beziehung zu der postoperativen Inkontinenz- und Komplikationsrate
+ist in der Literatur nicht beschrieben und war nicht Gegenstand dieser Untersuchung.
+Zwar erhöhte sich bei unseren LRP-Patienten die mittlere OP-Zeit bei vorgenommener
+pLa von 237,6 min auf 375,8 min, eine Zunahme der Komplikationen konnte nach
+Vergleichsanalysen
+prostatektomierten
+
+jedoch
+
+nicht
+
+Charite-Patienten
+
+beobachtet
+ohne
+
+werden.
+
+Nerverhalt
+
+Die
+
+wiesen
+
+laparoskopisch
+deutlich
+
+längere
+
+Zeiträume des PSA-freien Überlebens bzw. einen höheren Anteil an Progress-freien
+Fällen auf als die mit Nerverhalt. So betrug die Differenz der berechneten Mittelwerte
+bis zum erwarteten biochemischen Rezidiv zwischen Nerverhalt ja oder nein in der
+jeweiligen pT-Gruppe 11 Monate (bei pT3b) bis maximal 21 Monate (bei pT2b und
+pT3a). Somit stellt der Faktor Nerverhalt, zumindest in der univariaten Analyse, den
+stärksten Einfluss aller untersuchten Parameter auf das PSA-Versagen dar. Ein
+statistisch signifikanter Unterschied zwischen einseitigem und beidseitigem Nerverhalt
+war in unserer Kohorte nicht festzustellen. Die multivariate Analyse hingegen zeigte
+keine signifikante Risikobeeinflussung. Smith et al. wiesen bei der ORP eine um 13%
+verminderte Rate an positiven Schnitträndern der Gruppe mit breiter Exzision des
+Gefäßnervenbündels zu der Gruppe ohne „Nerve-Sparing“ (NS) nach (45% zu 58%).
+Bei einem Follow up von 20 Monaten betrug das berechnete PSA-Progress-Intervall 33
+Monate gegenüber lediglich 22 Monaten in der Gruppe ohne NS [242]. Die einzige
+große LRP-Studie, die explizit den Einfluss dieses Parameters auf das PSA-Versagen
+untersucht hat, konnte bei 555 Patienten keine signifikante Risikoveränderung
+nachweisen [243]. Zwei ORP-Publikationen fanden ebenfalls keine signifikante
+Korrelation zwischen Nerverhalt und Rezidivraten. Allerdings wiesen die Autoren
+ausdrücklich darauf hin, dass nur Patienten mit niedrigerem bioptischen Gleason- Score
+und Ausgangs-PSA-Wert in die NS-Gruppe aufgenommen wurden, so dass eine
+abschließende Beurteilung des Risikos wegen der inhomogenen matched-groups nicht
+44	  
+	  
+
+vorgenommen werden kann [244,245]. Somit ist bei jedem Patienten individuell
+abzuwägen, ob die höhere Lebensqualität nach der nervschonenden Operation mit dem
+Risiko eines früheren PSA-Versagens vertretbar ist.
+5.3
+
+Onkologische Ergebnisse
+
+Der Beobachtungszeitraum der ersten 700 in der Charite operierten Patienten betrug
+73,0 Monate, mit einem Maximum von 73,0 Monaten und einem Minimum von 7,2
+Monaten. Der Median lag bei 36,5 Monaten. Die in der Literatur angegebenen
+Durchschnittswerte für den Follow up liegen bei LRP-Studien zwischen 9,6 [220] und
+44,4 Monaten [217]. Den höchsten Median-Wert weisen mit 30 Monaten Rassweiler et
+al. auf [215]. Der geringste Minimalwert liegt bei 0,5 Monaten [218], der höchste
+Maximalwert bei 84 Monaten [216]. Somit besitzt diese Arbeit mit im internationalen
+Vergleich überdurchschnittlich langen Beobachtungszeiträumen eine nicht geringe
+Aussagekraft bezüglich der onkologischen Sicherheit der LRP als Alternative zum
+offenen Verfahren. Als postoperative Parameter des onkologischen Outcome sind der
+Einfluss
+
+des
+
+pT-Stadiums,
+
+des
+
+positiven
+
+Resektionsrandes
+
+(R1)
+
+und
+
+der
+
+histopathologisch ermittelten Gleason-Score-Summe auf die Raten des PSA-freien
+Überlebens berechnet worden. Um die eigenen Ergebnisse in Bezug auf die ProgressRaten anderer Publikationen besser einordnen zu können, muss erst ein Vergleich der
+absoluten Häufigkeitsverteilung der pT-Stadien an der Gesamtgröße der 700 Patienten
+mit denen anderer relevanter Studien vorgenommen werden. Der pT2-Anteil von 70,6%
+und pT3-Anteil von 29,4% ist vergleichbar mit denen der meisten LRP- und ORPZentren. Gravierende Abweichungen zeigen sich nur bei Park et al. bzw. Stolzenburg et
+al.
+
+mit
+
+einem
+
+wesentlich
+
+höheren
+
+pT3-
+
+als
+
+pT2-Anteil
+
+[216,223].
+
+Bei
+
+den
+
+robotergestützten LRPs von Mottrie et al. ist dieser Effekt weniger stark ausgeprägt
+[225]. Die pT3-Rate bei Eden et al. dagegen stellt bei den LRP-Publikationen mit 8,0%
+den geringsten Wert dar [217]. Da bei Zwergel et al. ausschließlich Patienten mit einem
+Ausgangs-PSA-Wert von > 20 ng/ml in die Studie eingeschlossen wurden, lässt sich ein
+pT3-Anteil von 75% hinreichend erklären [231]. Sämtliche Veröffentlichungen definieren
+ein biochemisches Rezidiv als ein ein- oder mehrmaliges Überschreiten von 0,1 ng/ml
+(wie in der vorliegenden Arbeit) bzw. 0,2 ng/ml als Grenzwert.
+Unseren Ergebnissen folgend zeigt der organbegrenzte Tumor (Stadium pT2) mit
+rezidivfreien Raten zwischen 97,1% (pT2c) und 94,8% (pT2a) deutlich höhere
+Erfolgsquoten als die Werte für pT3a (80,3%) und pT3b (72,4%). Ebenso verdeutlichen
+45	  
+	  
+
+die berechneten Mittelwerte mit 64 Monaten p.o. bis zum erwarteten PSA-Versagen für
+die pT2-Gruppe eine statistisch signifikante günstigere Prognose für die Patienten als
+die Stadien pT3a (53 Monate) und pT3b (49,8 Monate). In der multivariaten CoxRegression war ebenfalls ein signifikanter Einfluß des Parameters pT auf das
+Progressrisiko festzustellen. Die rezidivfreie Rate aller in der Charite Operierten betrug
+90,5%. Dieser Wert reiht sich in die der meisten übrigen LRP-Publikationen mit
+Prozentzahlen
+
+zwischen
+
+88,0%
+
+[217]
+
+und
+
+97,0%
+
+[216]
+
+bei
+
+ähnlich
+
+langen
+
+Beobachtungszeiträumen ein. Lediglich drei Studien mit Raten um 80% weichen nach
+unten ab, wobei hier der relativ hohe Anteil von nerverhaltenden Operationen bzw.
+Präparaten mit positivem Schnittrand als Argument erwähnt werden muss [218,222,
+223]. Die absoluten Anteile an rezidivfreien Patienten bei ORP bewegen sich zwischen
+66,0% [230] und 87,8% [228]. Sie sind im Durchschnitt niedriger als die der LRPReihen, weisen allerdings auch wesentlich längere Follow up-Spannen auf. Zur
+einfachen
+
+Vergleichbarkeit des PSA-Versagens kann die bei einigen Artikeln
+
+angegebene 3-Jahres- Rezidivrate, differenziert nach pT2 und pT3, herangezogen
+werden. Zwischen 3,2% [224] und 11,0% [142] bei pT2 bzw. zwischen 12,0% [215] und
+43,2% [220] bei pT3 liegen die PSA-Versagensquoten bei der LRP. Sicherlich die
+aussagekräftigste Veröffentlichung ist aufgrund ihrer 3600 eingeschlossenen Patienten
+die Studie der German Working Group mit Raten von 8,6% (pT2) bzw. 17,5% (pT3)
+[226]. Die 3-Jahres-Rezidivraten der ORP sind mit Bereichen von 3,7% [228] bis 7,5%
+[234] für pT2 und 14,7% [236] bis 42,0% [220] für pT3 ähnlich.
+Eine signifikante Beeinflussung der Inkontinenz oder Impotenz bzw. Komplikationsraten
+durch das pT-Stadium konnte in unseren Vergleichsanalysen nicht beobachtet werden.
+Die Einordnung der Patienten dieser Arbeit in die R0 – bzw. R1-Gruppe unterlag
+hinsichtlich der Lamellenbreite und anderer pathologischer Parameter den Normen der
+international gültigen R-Klassifikation. Der R1-Anteil unserer Patienten lag bei 13,9%
+(pT2) bzw. 55,1% (pT3), der pT-unabhängige R1-Gesamtanteil betrug 26,0%. Dieser
+Parameter besaß ebenfalls eine statistische Signifikanz in der Beeinflussung des
+Progressrisikos. Der Anteil der Patienten ohne ein PSA-Versagen lag in sämtlichen pTUntergruppen (außer pT2c) mit R1 um 8-17% unter denen mit R0. Die Mittelwerte des
+p.o. Zeitraumes bis zum erwarteten biochemischen Rezidiv liegen innerhalb derselben
+pT-Gruppe bei R0 um 6 Monate (pT3b) bis 16 Monate (pT2a) über denen von R1. Die
+multivariate Auswertung ergab ein um den Faktor 1,8 erhöhtes Risiko für R1-Patienten
+gegenüber der R0-Gruppe, einen Wiederanstieg des PSA-Wertes nach der
+46	  
+	  
+
+Prostatektomie zu beobachten. Lediglich Stolzenburg et al. weichen mit deutlich
+niedrigeren R1-Anteilen für pT2 (6,1%) und pT3 (20,0%) in der LRP-Gruppe vom
+Durchschnitt ab [223]. Bei der ORP fallen drei Veröffentlichungen mit einem im
+Vergleich zu unseren Ergebnissen halbierten R1- Gesamtanteil von 12-13% auf
+[229,233, 236]. Von diesen weist Hull et al. mit 1000 Patienten sogar eine ähnliche
+Kohortengröße auf [236]. Eine aktuelle LRP-Studie von Hara et al. wies in der
+univariaten und auch multivariaten Analyse den positiven Resektionsrand als
+unabhängigen Prognosefaktor für eine verkürztes PSA-freies Intervall bzw. eine
+geringere PSA-Überlebensrate der betroffenen Patienten im Vergleich zur R0-Gruppe
+nach [246]. Eine umfangreiche Multi-Center-Studie mit 5800 Patienten ergab in der
+Cox-Regression ein um 3,7-fach erhöhtes Risiko eines PSA-Versagens bei einem R1Befund gegenüber R0 [247]. Bei 500 RRP von Öbek et al. zeigten R1-Patienten eine
+deutlich höhere Inzidenz für einen PSA-Progress als die Patienten mit negativem
+Schnittrand (27,8% versus 6,9%) [248]. Die 5-Jahres-PSA-freie Überlebensrate,
+ausgehend von 1200 Patienten, in der pT3a/b Gruppe mit einer Gleason-Score-Summe
+von 7-10 ergab einen Anteil von 72% in der R0-Gruppe gegenüber 56% in der R1Gruppe [249]. Vergleichsanalysen ergaben keine signifikante Beeinflussung der
+Spätkomplikations-
+
+und
+
+Inkontinenzraten
+
+durch
+
+den
+
+positiven
+
+Schnittrand
+
+im
+
+anatomischen Präparat.
+Als nun letzter onkologischer Kontrollparameter zeigte die histopathologische GleasonScore- Summe eine signifikante Korrelation zur Rate des PSA-freien Überlebens. Zur
+anschaulichen Darstellung der prognostischen Unterschiede wurden zwei annähernd
+gleich große Teilgruppen mit einem niedrigen (<=7) und einem hohen Gleason-Score
+(>7) gebildet. Nur in der pT2b-Gruppe war der Mittelwert in Monaten für das erwartete
+PSA-Versagen annähernd gleich groß. In allen übrigen pT-Gruppen stellt ein
+Summenwert von 7 und mehr eine schlechtere Prognose für ein PSA-freies Überleben
+dar als dies bei Patienten mit einem Wert <= 6 der Fall ist. Die größten Unterschiede
+treten mit 11 bzw. 12 Monaten in den pT3-Stadien auf. Der prozentuale Anteil der Fälle
+ohne PSA-Versagen liegt bei pT3a mit niedrigem Gleason bei 92,7%, bei hohem
+Gleason hingegen nur noch bei 77,7%. Die multivariate Analyse hat die Risikoerhöhung
+bei höherem Gleason-Score statistisch konkretisiert. So steigt die Wahrscheinlichkeit für
+einen PSA-Progress bei der Erhöhung des Summenwertes um 1 um das 1,5-fache an,
+bei einer Erhöhung um 2 auf das 1,5 x 1,5 = 2,3- fache, bei einer Erhöhung um 3 auf
+das 1,5 x 1,5 x 1,5 = 3,4-fache der Ausgangswahrscheinlichkeit.
+47	  
+	  
+
+Wieder stellen
+
+Zwergel et al. mit 92 %-igem Anteil des Gleason-Summenbereichs 7-10 eine Ausnahme
+dar, da sie nur Patienten mit einem Ausgangs-PSA-Wert > 20 ng/ml und folglich eine
+wesentlich schlechterer Ausgangsprognose eingeschlossen haben [231]. Zwei große
+Studien beschreiben eine Gleason-Score-Summe von 7-10 als unabhängigen
+signifikanten Faktor, der den Zeitraum bis zum PSA-Versagen verkürzt. Auch die
+multivariate Cox-Regression identifiziert diesen Summenbereich als entscheidenden
+negativen Prognoseparameter [247,248].
+Die Gleason-Score-Summe wies keinen statistisch signifikanten Einfluss auf die
+Inkontinenzsymptomatik und Komplikationsrate der LRP-Patienten der Charite auf.
+Nach Auswertung sämtlicher onkologischer Ergebnisse und Vergleichen mit anderen
+LRP-Studien ist festzustellen, daß die PSA-freien Überlebensraten der 700 Patienten
+dieser Erhebung als das entscheidende Kriterium der therapeutischen Erfolgskontrolle
+ähnlich bzw. überdurchschnittlich im Vergleich zu den relevanten LRP-Reihen sind. Die
+onkologische
+
+Sicherheit
+
+Beobachtungszeitraum,
+
+der
+
+LRP
+
+mindestens
+
+ist,
+
+zumindest
+
+gleichwertig
+
+zu
+
+im
+der
+
+bisher
+
+verfügbaren
+
+offenen
+
+radikalen
+
+Prostatektomie.
+5.4
+
+Inkontinenz
+
+Nach der operativen kurativen Therapie und Abschluss der Rekonvaleszenz steht für
+die Patienten die Lebensqualität, die maßgeblich durch die Inkontinenzsymptomatik
+beeinflusst wird, zunehmend im Mittelpunkt ihres Interesses. Da die Operierten eine
+hohe Lebenserwartung aufweisen, stellen mögliche Probleme mit der Kontinenz und
+Miktion eine langjährige und deutliche Einschränkung der Lebensqualität dar.
+Da die Beurteilung dieses Parameters im Gegensatz zu den onkologischen
+Ergebnissen in nicht unerheblichem Maße der subjektiven Einschätzung des Patienten
+unterliegt, ist in dieser Arbeit durch die Form der Erhebung, das persönliche bzw.
+telefonische Gespräch sowie mittels eines zugesandten Fragebogens, eine möglichst
+detaillierte und validierte Datenerfassung möglich gewesen. Sämtlichen im Folgenden
+herangezogenen Publikationen liegt entweder ebenso eine direkte Befragung oder ein
+vergleichbarer standardisierter Fragebogen der International Continence Society (ICS)
+zugrunde, um dadurch eine möglichst hohe Aussagekraft der diskutierten Ergebnisse
+zu erzielen. Der eingeschränkten Vergleichbarkeit dieses Parameters kann so am
+effizientesten begegnet werden.
+
+48	  
+	  
+
+Der Beobachtungszeitraum der Inkontinenzsymptomatik bis zu 73 Monate ist identisch
+mit dem der onkologischen Ergebnisse. Von 669 befragten Patienten benötigten 314
+Patienten (33%) zum Zeitpunkt der Befragung keine Vorlagen mehr, 408 (43%) gaben
+einen Verbrauch von maximal 1 Vorlage über 24 Stunden und 230 Operierte (24%) von
+2 oder mehr Vorlagen über 24 Stunden an. In der letzten Gruppe betrug der
+durchschnittliche Bedarfswert 2,38 Vorlagen zur Tageszeit (8-22 Uhr), der für die Nacht
+(22- 8 Uhr) lag bei 0,61 Vorlagen. Mit steigendem OP-Jahr nimmt der Anteil der völlig
+Kontinenten von 24% (1999) auf 40% (2005) zu. Gegenteilig sinkt der Anteil der
+anderen beiden Gruppen signifikant, allerdings weniger linear. Bei Patienten des letzten
+OP-Jahres (2005) ist der summierte Anteil der nicht bis geringgradig Inkontinenten (0
+bis 1 Vorl./Tag) mit ca. 75% mehr als dreimal so hoch wie der Anteil der Inkontinenten
+mit 2 oder mehr Vorl./Tag. Im Rahmen des evaluierten p.o. Symptomverlaufs wiesen
+Patienten mit aktuell 0 Vorlagen die kürzeste Rehabilitationszeit mit gemittelt ca. 4
+Monaten auf, gefolgt von 7 Monaten der Gruppe mit 1 Vorlage. Bis die Inkontinenten mit
+2 oder mehr Vorl./Tag ihren aktuellen Wert erreicht haben, sind durchschnittlich 11
+Monate p.o. vergangen. Die meisten Kohorten sind zwischen 60 und 64 Jahren. Eine
+Ausnahme stellt lediglich die Arbeit mit 56,1 Jahre [255] dar. Da das Lebensalter einen
+maßgeblichen Einfluss auf die Qualität und Quantität des Regenerationsvermögens hat,
+kommt
+
+der
+
+Tatsache
+
+einer
+
+vergleichbaren
+
+Altersstruktur
+
+der
+
+einzelne
+
+Untersuchungsreihen besondere Bedeutung zu. Der Anteil völlig Kontinente (0 Vorl.)
+liegt bei der LRP zwischen 82,0% [250] und 95,2% [254], bei der ORP zwischen 61,0%
+[259] und 97,0% [265] nach jeweils 12 Monaten p.o. Die Mehrheit der Studien zeigen,
+unabhängig vom Operationsverfahren, Werte im Bereich von 80% bis 93% auf. Somit
+weicht der Anteil dieser Arbeit mit 76% völlig Kontinenten bzw. leichtgradig
+Inkontinenten (0-1 Vorl.) nach unten ab. Allerdings ist der Beobachtungszeitraum mit 72
+Monaten fast dreimal so lang wie bei den Vergleichsuntersuchungen, da zumindest bei
+den
+
+LRP-Studien
+
+keine
+
+ähnlichen
+
+Zeitspannen
+
+bei
+
+relativ
+
+aussagekräftiger
+
+Gruppengröße (>100 Patienten) existieren. Hingegen verdeutlicht eine ORP-Studie die
+Möglichkeit, bei Beobachtung über mehr als 4 Jahre einen 95%-igen Anteil von Völlig
+Kontinenten zu erzielen [261]. Dagegen bewegt sich wiederum eine andere Erhebung
+mit einem Ergebnis um 80% bei einem Follow up von >18 Monaten in einem ähnlichen
+Bereich zu unseren Daten [263]. Sie stützt die Annahme, dass die laparoskopische
+Prostatektomie auch in Hinsicht auf die p.o. Kontinenz eine sinnvolle Alternative zum
+offenen Verfahren darstellt. Bei den LRP-Veröffentlichungen sind zwischen 1 [217] und
+49	  
+	  
+
+50 an der deutschen Multizenterstudie beteiligten Operateuren [226] tätig gewesen. Bei
+der ORP liegt die Zahl zwischen einem Operateur, der mit 1325 Eingriffen auch den
+individuellen Maximalwert aufweist [261], und 35 Operateuren [233]. Zwar ähnelt die
+durchschnittliche Anzahl vorgenommener Eingriffe jedes Operateurs in den LRP- und
+ORP-Studien der dieser Untersuchung, allerdings stellen im Unterschied zu einigen
+Publikationen, welche Lernkurven z. B. vom 100 bis 300 Eingriffe eines Operateurs
+darstellen, die in dieser Arbeit untersuchten Operationen die jeweils ersten 50 bis 200
+Eingriffe eines jeden Operateurs dar. Die Vergleichbarkeit der Inkontinenzdaten ist
+gewährleistet, da die onkologischen und v.a. funktionellen Ergebnisse signifikant von
+der Erfahrung des Operateurs beeinflusst werden. Hierfür seien je eine umfangreiche
+EERPE- und eine ORP-Studie hinsichtlich der Tumorkontrolle [281,282] und eine große
+Erhebung bezüglich PSA-Versagen, Inkontinenz- und Komplikationsrate bei ORPs [283]
+genannt. Mittels statistischer Berechnungen ließ sich eine signifikante Korrelation
+zwischen dem nerverhaltenden Operieren und einer Abnahme der Inkontinenzrate
+nachweisen. Der Anteil der nervschonenden Eingriffe stieg von 20,4% in der Gruppe
+der Inkontinenten mit 2 oder mehr Vorlagen/Tag über 26,5% bei Patienten mit 1
+Vorlage/Tag bis auf 30,6% bei den Kontinenten an. Eine umfangreiche RRP-Studie
+konnte in der uni- und multivariaten Analyse eine signifikante Reduktion der
+Inkontinenzrate durch den Nerverhalt nachweisen [266]. Kübler et al. verzeichneten
+außerdem
+
+bei
+
+ihren
+
+265
+
+perineal
+
+prostatektomierten
+
+eine
+
+Verkürzung
+
+der
+
+Rehabilitationszeit bis zur völligen Kontinenz um 1,3 Monate (4,8 Monate zu 6,1
+Monate) bei den nervschonend operierten Patienten [267]. Allerdings stellt sich in
+Hinblick auf die oben dargestellte onkologische Prognoseverschlechterung des
+Nerverhalts die Frage nach der individuellen Abwägung der Lebensqualität.
+5.5
+
+Spätkomplikationen
+
+In dieser Arbeit sind die erfassten und ausgewerteten Spätkomplikationen definiert als
+solche mit Auftreten ab dem 6. p.o. Tag (in 97% der Fälle das Entlassungsdatum) und
+einem eindeutigen Kontext zum operativen Eingriff bzw. den sich anschließenden
+Folgemaßnahmen.
+Ausgehend von 700 Patienten sind 86 Spätkomplikationen bei 57 Patienten (8,1%)
+beobachtet
+
+worden.
+
+643
+
+Patienten
+
+(91,9%)
+
+wiesen
+
+einen
+
+komplikationslosen
+
+Therapieverlauf ab dem 6. p.o. Tag auf. Die beobachteten Gesamt-Komplikationsraten
+
+50	  
+	  
+
+anderer LRP-Reihen befinden sich zwischen 4,0% [271] und 37,2% [270], die der ORPVeröffentlichungen zwischen 4,1% [279] und 22,1% [274].
+Die meisten der in der Literaturübersicht dargestellten Raten liegen somit über unserem
+Ergebnis von 8,1%. Der Beobachtungszeitraum für diesen Parameter ist derselbe, wie
+bei den onkologischen und Inkontinenz-Daten, nämlich 73 Monate bei einem Median
+von 36,5 Monaten. Dies ist in Hinsicht auf die herangezogenen LRP-Publikationen ein
+überdurchschnittlicher, auf die ORP-Untersuchungen vergleichbarer Wert.
+Im Folgenden werden die eigenen Ergebnisse mit denen der relevanten in PubMed
+verfügbaren
+
+Veröffentlichungen
+
+zu
+
+den
+
+Ereignissen
+
+Tod,
+
+Thrombose/Embolie,
+
+Nervenläsion, Fistel/Abzeß, Ileus und anderen Komplikationen verglichen. Auf den
+Vergleich der Daten zu den im Ergebniskapitel dargestellten intraoperativen Läsionen
+(Sigmaperforation und Ureterläsion) wird verzichtet, da es sich bei diesen nicht um p.o.
+aufgetretene
+
+Komplikationen
+
+handelt.
+
+Zur
+
+besseren
+
+Einschätzung
+
+der
+
+Literaturrecherche muss darauf hingewiesen werden, dass sich die Aussagen der
+verschiedenen Autoren zu den Komplikationsraten nur bedingt vergleichen lassen. Zu
+berücksichtigen sind die unterschiedlichen Definitionen der Spätkomplikation. In dieser
+Erhebung wurden sämtliche postoperative Komplikationen ab dem 6. p.o. Tag,
+unabhängig von Art und Ausmaß, ausgewertet. In den zur Diskussion herangezogenen
+Artikeln sind unterschiedliche Zeitintervalle zur Evaluierung der Spätkomplikationen
+verwendet worden. Desweiteren erfolgte in einigen Publikationen lediglich die Einteilung
+in „Major“ und „Minor“ Komplikationen, unabhängig von deren p.o.
+
+Auftreten.
+
+Abschließend bleibt festzuhalten, dass in diesem Kapitel die Häufigkeit des Auftretens
+einzelner Spätkomplikationen verglichen werden kann. Allerdings unterliegt der
+Vergleich dieses Parameters nur bedingt einer einheitlichen Norm.
+Von insgesamt 15 Todesfällen war nur bei 3 von ihnen (0,3%) eine Spätkomplikation
+der LRP als Todesursache gesichert. Die übrigen verstarben aus anderen Gründen. Ein
+Patient verstarb 18 Tage p.o. an einem Apoplex, ein Weiterer 22 Tage p.o. an einer
+Lungenembolie und der Dritter am 33. p.o. Tag an den Folgen einer Rektumläsion mit
+Sepsis, Schocksymptomatik und langen Aufenthalt auf der Intensivstation, auf dem
+Boden einer rektovesikalen Fistel. Alle genannten Fälle traten im ersten Jahr seit
+Einführung der LRP an der Charite auf. Die Mortalitätsraten der relevanten LRP-Studien
+liegen zwischen 0% [220, 222, 224, 268-271,273] und 0,6% [272], die der ORPPublikationen zwischen 0% [220, 227, 228, 269, 274-277, 279] und 0,7% [220]. Da die
+meisten Studien wesentlich kleinere Kohorten aufweisen, ist unsere Rate von 0,3% bei
+51	  
+	  
+
+700 Patienten als aussagekräftiger Wert für die Sicherheit der LRP an der Charite als
+chirurgische Alternative zu deuten. 8 von 643 Patienten (0,8%) entwickelten eine
+Unterschenkelvenenthrombose, 3 Patienten (0,3%) eine Lungenarterienembolie.
+Sämtliche Fälle ereigneten sich zwischen dem 7. und 22. p.o. Tag und sind mittels i.v.Heparin-Substitution erfolgreich therapiert worden. Die Raten anderer LRP-Arbeiten
+liegen zwischen 0% [270, 271,273] und 0,6% [224,226], die der ORP-Studien zwischen
+0% [227, 274,275] und 4,8% [220]. Im LRP-Vergleich sind die Werte dieser Arbeit leicht
+überdurchschnittlich, allerdings auch im Kontext unserer hohen Patientenzahl zu sehen.
+Die ORP-Veröffentlichungen beziffern z. T. deutlich höhere Werte bei ähnlicher bzw.
+wesentlich höherer Kohortengröße. Die Inzidenz der thrombotischen Ereignisse beim
+offenen Verfahren ist merklich höher bei der retropubischen Methode mit Raten bis zu
+4,8% [220]. Eine wahrscheinliche Erklärung hierfür ist die fehlende Manipulation der V.
+iliaca externa beim perinealen Verfahren. Die Steinschnittlage könnte begünstigend auf
+die Thrombosegefahr wirken. 34 von 643 Patienten (3,6%) zeigten neurologische
+Ausfallerscheinungen in den unteren Extremitäten. Im Konkreten lagen bei 21 Patienten
+Parästhesien
+
+bzw.
+
+Hypästhesien
+
+vor,
+
+7
+
+Patienten
+
+gaben
+
+persistierende
+
+Muskelschwäche an und insgesamt 6 Fälle zeigten eine Kombination aus sensiblem
+und motorischem Defizit im betroffenen Bein. Andere LRP-Zentren geben Werte von
+0,2% [273] bis 1,4% [224] an, ORP-Studien 0,1% [277] bis 2,5% [275]. Dabei reicht die
+Definition dieser Komplikation von einer isolierten Hypästhesie, über ein motorisches
+Defizit, bis zu der Kombination beider Symptome.
+Bei 11 Patienten (1,2%) traten Fisteln auf, deren genaue Art und Lokalisation aus
+Tabelle 7 (Seite 39) im Ergebniskapitel ersichtlich ist. Bei 8 dieser 11 Patienten erfolgte
+konsekutiv eine Ileostoma-Anlage. In 3 Fällen war der Defekt nur mittels einer GracilisPlastik zu beheben, eine rektovesikale Fistel machte eine Sigmateilresektion notwendig.
+Ein Patient mit einem Sigmaabzeß (0,1%) unterzog sich, nach erfolgloser Inzision und
+Drainage, ebenfalls einer Sigmateilresektion.
+Die in der Literaturübersicht dargestellten Studien weisen mit Werten zwischen 0,1%
+[273] und 2,0% [224] für die LRP bzw. 0% [220,276] bis 4,6% [274] für die ORP
+vergleichbare bzw. höhere Raten dieser Komplikationsart als in dieser Erhebung auf
+und unterstreichen somit die gewebsschonende Eigenschaft der laparoskopischen
+Methode im Vergleich zum offenen Verfahren.
+Bei unseren Patienten trat in 3 Fällen (0,3%) ein Ileus auf. Bei zwei von diesen wurde
+ein paralytischer Dünndarmileus am 7. bzw. 8. p.o. Tag bestätigt und ist nach
+52	  
+	  
+
+erfolgloser
+
+konservativer
+
+doppelläufigen
+
+Ileostomas
+
+Therapie
+
+mit
+
+behandelt
+
+einer
+worden.
+
+Laparotomie
+Ein
+
+Patient
+
+und
+
+Anlage
+
+eines
+
+entwickelte
+
+nach
+
+intraoperativer Ileumperforation diese Symptomatik und ist 12 Tage p.o. einer
+Ileumsegmentresektion unterzogen worden.In der Literatur wurde nach einer LRP bei
+0%-2,4% der Patienten ein Ileus beobachtet. Somit liegen unsere Ergebnisse im
+Bereich der international vorliegenden Daten. Nach der ORP betragen die Raten 0% bis
+0,3%.
+
+Als
+
+weitere
+
+Komplikationen
+
+traten
+
+Urethrastrikturen
+
+(0,2%),
+
+Anastomoseninsuffizienz (0,2%), Peritonitis (0,1%), Pneumonie mit Pleuritis (0,1%) und
+Wundinfektionen auf (0,3%). Im internationalen Vergleich liegen diese Raten unter
+denen der meisten anderen Prostatektomie-Zentren. So berichten Rassweiler et al.
+über eine Strikturrate von 5,3% in der LRP-Gruppe und sogar 16,0% in der R-ORPKohorte [269]. Arai et al. geben Werte von 1,4% für die Peritonitis bzw. 6,8% für die
+Anastomoseninsuffizienz an [270]. In einer Studie von Ruiz et al. traten bei 1,8% der TLRP-Gruppe bzw. 1,2% der E-LRP-Gruppe Wundinfektionen mit konsekutiver Revision
+auf [272]. Abschließend lässt sich feststellen, dass die LRP als minimal-invasives
+Verfahren die auch in anderen chirurgischen Disziplinen bekannten Vorteile des im
+Vergleich zum offenen Verfahren reduzierten Gewebstraumas und der damit
+verbundenen kürzeren Rekonvaleszenzphase bietet. Des Weiteren resultiert aus dem
+intraoperativ detailgetreueren Sichtfeld eine geringere Komplikationsrate hinsichtlich
+Blutungen und Perforationen. Der signifikant geringere Verbrauch von Opiaten und
+anderen Analgetika ist auch ein ökonomisch zu beachtender Faktor, der die höheren
+OP-Kosten der LRP im Verhältnis zum offenen Verfahren rechtfertigen kann. In gleicher
+Weise stellt die schnellere Reintegration der berufstätigen Patienten in das Arbeitsleben
+eine bedeutende gesamtwirtschaftliche Komponente dar. Die in umfassenden LifeQuality-Evaluierungen festgestellte geringe p.o. Schmerzsymptomatik und gute
+kosmetische Ergebnisse ergänzen, neben den wichtigsten Follow up-Parametern, wie
+niedrige Tumorrezidiv-, Inkontinenz- und Komplikationsrate, die Argumentation für ein
+laparoskopisches Vorgehen bei der radikalen Prostatektomie.
+
+53	  
+	  
+
+6
+
+Zusammenfassung
+
+In meiner retrospektiven Untersuchung wurden die Daten von
+
+den ersten 700
+
+laparoskopischen radikalen Prostatektomien (LRP), durchgeführt zwischen Mai 1999
+und Mai 2005 in der Klinik für Urologie der Charite Campus Mitte, erfasst und
+ausgewertet. Im Fokus standen die onkologischen Langzeitergebnisse (Follow up bis zu
+73 Monaten), Inkontinenz sowie die Spätkomplikationen.
+Es wurden als die drei Säulen der postoperativen Verlaufskontrolle erstens die
+biochemische
+
+Rezidivrate,
+
+in
+
+Korrelation
+
+zu
+
+den
+
+Parametern
+
+pT-Stadium,
+
+Resektionsstatus, Nerverhaltung, Gleason-Score-Summe und Ausgangs-PSA-Wert,
+zweitens die Inkontinenzrate, in Bezug auf OP-Jahr, Operateur, Nerverhaltung und
+drittens die Art und Häufigkeit aufgetretener Spätkomplikationen ab dem 6. p.o. Tag
+erhoben und ausgewertet.
+Die pathohistologische Auswertung ergab einen Anteil von 70,6% pT2, 29,4% pT3 und
+0,4% pT4. 22,3% der Patienten hatten einen positiven Schnittrand (R1). Nach pTStadium differenziert betrug der R1-Anteil bei pT2-Patienten 13,9%, bei pT3-Patienten
+55,1%. 41,5% der gewonnenen histologischen Präparate sind mit einer Gleason-ScoreSumme von 4-6 und 58,5% im Bereich 7-10 bewertet worden.
+Von den 700 Patienten konnten die Daten von 669 Personen (95,2%) für die Follow upAuswertung der Inkontinenz und Spätkomplikationen erhoben werden. In die Analysen
+der PSA-Progress-Raten flossen die Ergebnisse von 672 Fällen ein. Der besonders
+lange Beobachtungszeitraum betrug bis zu 73,0 Monaten mit einem Median von 36,5
+Monaten. 90,5% der beobachteten Patienten wiesen zum Evaluierungszeitpunkt kein
+PSA-Versagen auf, mit rezidivfreien Raten zwischen 97,1% (pT2c) und 94,8% (pT2a)
+bzw. 80,3% (pT3a) und 72,4% (pT3b). Ebenso verdeutlichen die berechneten
+Mittelwerte bis zum erwarteten PSA-Versagen für die pT2-Gruppe mit 64 Monaten p.o.
+eine deutlich günstigere Prognose als für Patienten mit pT3a (53 Monate) und pT3b
+(49,8 Monate). Auch der Schnittrandbefund (R) besaß einen signifikanten Einfluss auf
+das Progressrisiko. Der Anteil der Patienten mit PSA-Versagen lag in allen
+Untergruppen (außer pT2c) bei R1 um 8-17% über denen mit R0.
+Gleiches gilt für die Gleason-Score-Summe. Als präoperativer Parameter hat der
+Ausgangs- PSA-Wert einen signifikanten Einfluss auf die PSA-Versagens-Raten. So
+liegt der PSA-Progress-Anteil bei pT3a-Patienten mit einem Wert >7 ng/ml um 10,5%
+höher, bei pT3b- Patienten um 11,6% höher als bei der Gruppe < 7 ng/ml.
+54	  
+	  
+
+Resektionsstatus und Gleason-Score-Summe weisen einen signifikanten Einfluss auf
+das Progressrisiko aus. Die Inkontinenzrate beträgt 24%, wobei ein persistierender
+Vorlagenbedarf von 2 oder mehr Vorlagen/ Tag als Kriterium definiert worden ist. Die
+Gesamtkomplikationsrate von 8,1% ist ähnlich bzw. unterdurchschnittlich im Vergleich
+zu relevanten LRP- und ORP-Veröffentlichungen. Ebenso liegen Einzelkomplikationen
+an der Charite wie Fisteln/Abszesse (1,3%) und Thrombosen/ Embolien (1,1%),
+weltweit betrachtet, im unteren Bereich.
+Die LRP wird zu Recht als eine Optimierung der ORP angesehen, da sie bezüglich der
+onkologischen Ergebnisse als absolut gleichwertig und in Bezug auf die Morbidität
+sogar als leicht überlegene Methode gegenüber dem offenen Verfahren bezeichnet
+werden kann. Die Ergebnisse meiner Arbeit mit einem überdurchschnittlich langem
+Beobachtungszeitraum bis zu 73 Monaten beweisen die an der Klinik für Urologie der
+Charite Mitte durchgeführte Methode der LRP als ein zuverlässiges Verfahren zur
+kurativen Therapie des Prostatakarzinoms.
+
+55	  
+	  
+
+7
+
+Literaturverzeichnis
+
+1.
+
+Quinn M, Babb P; Patterns and trends in prostate cancer incidence, survival,
+prevalence and mortality. Part 1: international comparisons. BJU Int 2002;
+90:162-73
+
+2.
+
+Krebs in Deutschland- Häufigkeiten und Trends. Gesellschaft
+epidemiologischen Krebsregister in Deitschland e.V.; 2006; 5. Ausgabe
+http://www.rki.de/krebsbericht
+
+3.
+
+Hölzel D; Epidemiologie des Prostatakarzinoms. Fortschr. Med. 109 1991; 26:
+521-25
+
+4.
+
+Breul J, Zimmermann F, Dettmar P et al.; Prostatakarzinom; Manual Urogenitale
+Tumoren; Tumorzentrum München; 2003
+
+5.
+
+Statistisches Bundesamt Deutschland 2003.
+http://www.destatis.de/basis/d/gesu/gesutab/20.phb#Nicht
+
+6.
+
+Greenlee RT, Murray T, Bolden S, et al. Cancer statistics, 2000. CA Cancer J
+Clin 2000; 50:7-33
+
+7.
+
+Bostwick DG, Burke HB, Djakiew D, et al. Human prostate cancer risk factors.
+Cancer 2004; 101(10 Suppl);2371-490
+
+8.
+
+Jemal A, Murray T, Samuels A, et al. Cancer statistics, 2005. CA Cancer J Clin
+2005;55;10-30
+
+9.
+
+Sakr WA, Grignon DJ, Crissmann JD et al. High-grade prostatic intraepithelial
+neoplasia (HGPIN) and prostatic adenocarcinoma betwen ages of 20-69: an
+autopsy study of 249 cases: In Vivo 8 1994:439-443
+
+10.
+
+Epstein JI, Steinberg GD, 1990. The significance of low-grade prostate cancer on
+needle biopsy. A radical prostatectomy study of tumor grade, volume and stage
+of the biopsied and multifocal tumor. Cancer 66(9): 1927-1932
+
+11.
+
+Gronberg H, Damber L, Damber JE, 1986. Familial prostate cancer in Sweden. A
+nationwide register cohort study. Cancer 77(1): 138-43
+
+12.
+
+Steinberg GD, Carter BS, Beaty TH, et al. Family history and the risk of prostate
+cancer.Prostate 1990 (17); 337-347
+
+13.
+
+Whittemore AS, Wu AH, Kolonel LN et al. Family history and prostate cancer risk
+in black, white and asian men in the United States and Canada. Am J Epidemiol
+1995; 141; 732-740
+
+14.
+
+Cui J, Staples MP, Hopper JL et al. Segregation analyses of 1476 populationbased australian families affected by prostate cancer. Am J Hum Genet 2001; 68;
+1207-1218
+
+15.
+
+Schaid DJ, McDonell SK, Blute ML et al. Evidence for autosomal dominant
+inheritance of prostate cancer. Am J Hum Genet 1998; 62; 1425-1438
+
+16.
+
+Verhage BA, Baffoe-Bonnie AB, Baglietto L et al. Autosomal dominant
+inheritance of prostate cancer: A confirmatory study. Urology 2001; 57; 97-101
+56	  
+	  
+
+der
+
+17.
+
+Gronberg H, Damber L, Damber JE et al. Segregation analysis of prostate cancer
+in Sweden: Support for dominant inheritance. Am J Epidemiol 1997; 146; 552557
+
+18.
+
+Lin X, Tascilar M, Lee WH et al. GSTP1 CpG island hypermethylation is
+responsible for the absence of GSTP1 expression in human prostete cancer
+cells. Am J Pathol 2001; 159; 1815-1826
+
+19.
+
+Nelson WG, DeMarzo AM, DeWeese TL. The molecular pathogenesis of prostate
+cancer: implications for prostate cancer prevention. Urology 2001; 57; 39-45
+
+20.
+
+Millar DS, Hafez KS, Stewart A et al. Prostate carcinoma presentation, diagnosis
+and staging. Cancer 2003; 98; 1169-1178
+
+21.
+
+Donaldson L, Fordyce C, Gilliland F et al. Association between outcome and
+telomere DNA content in prostate cancer. J Urol 1999; 162; 1788-1792
+
+22.
+
+DeMarzo AM, Marchi VL, Epstein JI et al. Proliverative inflammatory atrophy of
+the prostate: implications for prostatic carcinogenesis. Am J Path 1999; 155;
+1985-1992
+
+23.
+
+McNeal JE. Normal histology of the prostate. Am J Surg Pathol 1988; 12; 619633
+
+24.
+
+Gomez SL, Le GM, Clarke CA, et al. Cancer incidence patterns in Koreans in the
+US and in Kangwha, South Korea. Cancer Causes Control 2003; 14; 167-174
+
+25.
+
+Shimizu H, Ross RK, Bernstein L et al. Cancer of the prostate and breast among
+Japanese and white immigrants in Los Angeles County. Br J Cancer 1991; 63;
+963-966
+
+26.
+
+Yu H, Harris RE, Gao YT et al. Comparative epidemiology of cancers of the
+colon,rectum, prostate and breast in Shanghai, China versus the United States.
+Int J Epidemiol 1991; 20; 76-81
+
+27.
+
+Grönberg H. Prostate cancer epidemiology. The Lancet 2003; 361; 859-864
+
+28.
+
+Fair WR, Fleshner NE, Heston W et al. Cancer of the prostate: a nutritional
+disease? Urology 1997; 50; 840-848
+
+29.
+
+Fradet Y, Meyer F, Bairati I et al. Dietary fat and prostate cancer progression and
+survival. Eur Urol 1999; 35; 388-391
+
+30.
+
+Ornish D. Intensive lifestyle changes may affect the progression of prostate
+cancer. J Urol 2005; 174; 1065-1069
+
+31.
+
+Stattin P, Adlercreutz H, Tenkanen L et al. Circulating enterolactone and prostate
+cancer risk: a Nordic nested case-control study. Int J Cancer 2002; 73; 634-638
+
+32.
+
+Kolonel LN, Hankin JH, Whittemore AS et al. Vegetables, fruits, legumes and
+prostate cancer: a multiethnic case-control study. Cancer Epidemiol Biomarkers
+Prev 2000; 9;795-804
+Strom SS, Yamamura Y, Duphorne CM et al. Phytoestrogen intake and prostate
+cancer: a case-control study using a new database. Nutr Cancer 1999; 33; 20-25
+
+33.
+
+57	  
+	  
+
+34.
+
+Severson RK, Nomura AM, Grove JS et al. A prospective study of demographics,
+diet and prostate cancer among men of japanese ancestry in Hawaii. Cancer Res
+1989; 49; 1857- 1860
+
+35.
+
+Giovanucci E. Tomatoes, tomato-based products, lycopene and cancer: review of
+the epidemiologic literature. J Natl Cancer Inst 1999; 91; 317-331
+
+36.
+
+Giovanucci E, Rimm EB, Liu Y et al. A prospective study of tomato products,
+lycopene and prostate cancer risk. J Natl Cancer Inst 2002; 94; 391-398
+
+37.
+
+Chen L, Stacewicz-Sapuntzakis M, Duncan C et al. Oxidative DNA damage in
+prostate cancer patients consuming tomato-sauce based entrees as a whole food
+intervention. JNatl Cancer Inst 2001; 93; 1872-1879
+
+38.
+
+Yoshizawa K, Willett WC, Morris SJ et al. Study of prediagnostic selenium level
+in toenails and the risk of advanced prostate cancer. J Natl Cancer Inst 1998; 90;
+1219-1224
+
+39.
+
+Clark LC, Dalkin B, Krongrad A et al. Decreased incidence of prostate cancer
+with selenium supplementation: resaults of a double-blind cancer prevention trial.
+Br J Urol 1998; 81; 730-734
+
+40.
+
+Cook NR, Le IM, Manson JE et al. Effects of beta-carotene supplementation on
+cancer incidence by baseline characteristics in the Physicians‘ Health Study.
+Cancer Causes Control 2000; 11; 617-626
+
+41.
+
+Ahonen MH, Tenkanen L, Teppo L et al. Prostate cancer risk and prediagnostic
+serum 25-hydroxy-vitamin D levels. Cancer Causes Control 2000; 11; 847-852
+
+42.
+
+Corder EH, Guess HA, Hulka BS et al. Vitamin D and prostate cancer: a
+prediagnostic study with stored sera. Cancer Epidemiol Biomarkers Prev 1993; 2;
+467-472
+
+43.
+
+Gross C, Stamey T, Hancock S et al. Treatment of early recurrent prostate
+cancer with 1,25-dihydroxyvitamin D3. J Urol 1998; 159; 2035-2039
+
+44.
+
+Van Veldhuizen PJ, Taylor SA, Williamson S et al. Treatment of vitamin D
+deficiancy in patients with metastatic prostate cancer may improve bone pain and
+muscle straingth. J Urol 2000; 163; 187-190
+
+45.
+
+Schmitz-Dräger BJ, Eichholzer M, Beiche B et al. Nutrition and prostate cancer.
+Urol Int 2001; 67; 1-11
+
+46.
+
+Hartmann TJ, Albanes D, Pietinen P et al. The association between baseline
+vitamine E, selenium and prostate cancer in the alpha-tocopherol, beta-carotene
+cancer prevention study. Cancer Epidemiol Biomarkers Prev 1998; 7; 335-340
+
+47.
+
+Heinonen OP, Albanes D, Virtamo J et al. Prostate cancer and supplementation
+with alpha-tocopherol and beta-carotene: incidence and mortality in a controlled
+trial. J Natl Cancer Inst 1998; 90; 440-446
+Hautmann R, Huland H. Prostatakarzinom. Urologie; 1. Auflage (1997) Springer
+Verlag; 230
+
+48.
+49.
+
+Müller-Lisse U.L., Hofstetter A. Urologische Diagnostik des Prostatakarzinoms.
+Der Radiologe 2003; 43; 432-440
+58	  
+	  
+
+50.
+
+Luboldt HJ, Leitlinien der Deutschen Gesellschaft für Urologie. Leitlinien zur
+PSA-Bestimmung in der Prostatakarzinomdiagnostik (Früherkennung des
+Prostatakarzinoms). Urologe A 2002; 41; 509-513
+
+51.
+
+Catalona WJ, Smith DS, Ratliff TL et al. Measurement of prostate-specific
+antigen in serum as a screening test for prostate cancer. N Engl J Med 1991;
+324; 1156-1161
+
+52.
+
+Babaian RJ, Mettlin C, Kane R et al. The relationship of prostate-specific
+antigento a digital examination and transrectal ultrasonography. Findings of the
+American Cancer Society National Prostate Cancer Detection Project. Cancer
+1992; 69; 1195-1200
+
+53.
+
+Müller-Lisse UL, Waidelich R. Diagnostik und Früherkennung des
+Prostatakarzinoms. In: Hofstetter A, Hrsg. Prostatakarzinom. Fortschritte in
+Diagnostik und Therapie. München: Urban & Vogel 2004; 23-25
+
+54.
+
+Chodak GW. Early detection and screening for prostatic cancer. Urology 1989;
+34; 10- 12; discussion 46-56
+
+55.
+
+Enlund A et al. Transrectal ultrasonography compared to histopathological
+assessment for local staging of prostate carcinoma. Acte Radiol.; 31; 597-600
+
+56.
+
+Pedersen KV, Carlsson P, Varenhorst E et al. Screening for carcinoma of the
+prostate by digital rectal examination in a randomly selected population. BMJ
+1990; 300; 1041-1044
+
+57.
+
+Adolphs HD. Screening , Diagnostik und Ausschlussdiagnostik urologischer
+Tumoren. Prostatakarzinom- rektale Palpation mit hoher Sensitivität.
+Therapiewoche 41 1991; 12; 735-740
+
+58.
+
+Catalona WJ, Richie JP, Ahmann FR et al. Comparison of digital rectal
+examination and serum prostate specific antigen in the early detection of prostate
+cancer: results of a multicenter clinical trial of 6,630 men. J Urol 1994; 151; 12831290
+
+59.
+
+Khan MA, Partin AW, Mangold LA. Probability of biochemical recurrence by
+analysis of pathological stage, Gleason score and margin status for localized
+prostate cancer. Urology 2003; 62; 866-871
+
+60.
+
+Smith DS, Catalona WJ. Interexaminer variability of digital rectal examination in
+detecting prostate cancer. Urology 1995; 45; 70-74
+
+61.
+
+Polaschik TJ, Oesterling JE, Partin AW. Prostate specific antigen: a decade of
+discovery what we have learned and where we are going. J Urol 1999; 162; 293306
+
+62.
+
+Reissigl A. Screening und Prävention des Prostatakarzinoms. Onkolge 2000; 6;
+90-96
+
+63.
+
+Elgemal A. The role of prostate specific antigen in the management of prostate
+cancer. In: Carcinoma of the Prostate Innovations in Management. Springer
+Verlag 1996; 179-196
+59	  
+	  
+
+64.
+
+Wirth MP, Frohmuller HG. Prostate-specific antigen and prostate acid
+phosphatase in the detection of early prostate cancer and the prediction of
+regional lymph node metastases. Eur Urol 1992; 22; 27-32
+
+65.
+
+Gann PH, Hennekens CH, Stampfer MJ. A prospective evaluation of plasma
+prostate specific antigen for detection of prostate cancer. JAMA 1995; 273; 289294
+
+66.
+
+Schroder FH, Kranse R, Rietbergen J et al. The European Randomized Study of
+Screening for Prostate Cancer: an update. Eur Urol 1999; 35; 539-543
+
+67.
+
+Haas GP, Montie JE, Pontes JE. The state of prostate cancer screening in the
+Unirted States. Eur Urol 1993; 23; 337-347
+
+68.
+
+Kleer E, Oesterling JE. PSA and staging of localized prostate cancer. Urol Clin
+North Am 1993; 20; 695-705
+
+69.
+
+Hofer C, Sauerstein P, Wolter C et al. The value of free Prostate-specific antigen
+PSA (Hybritech Tanden E) in symptomatic patients consulting the Urologist. Urol
+Int 2000; 64;18-23
+
+70.
+
+Lein M, Stephan C, Jung K et al. Molekulare Formen des prostata-spezifischen
+Antigens und des humanen Kallikrein 2 als mögliche Indikatoren in der
+Prostatakarzinomdiagnostik. Urologe A 2000; 39; 313-323
+
+71.
+
+Lujan M, Paez A, Sanchez E et al. Prostate specific antigen variations in patients
+without clinically evident prostate cancer. J Urol 1999; 162; 1311-1313
+
+72.
+
+Luboldt H, Rübben H. PSA Früherkennung des Prostatakarzinoms. Urologe A
+2000; 39; 22-26
+
+73.
+
+Catalona WJ, Beiser JA, Smith DS. Serum free prostate specific antigen and
+prostate specific antigen density measurements for predicting cancer in men with
+prior negative biopsies. J Urol 1997; 158; 2180-2181
+
+74.
+
+Bazinet M, Meshref AW, Trudel C et al. Prospective evaluation of prostatespecific antigen density and systematic biopsies for early detection of prostatic
+carcinoma. Urology 1994; 44; 150-151
+
+75.
+
+Seaman E, Whang M, Olsson CA et al. PSA density (PSAD). Role in patient
+evaluation and mangement. Urol Clin North Am 1993; 20; 653-663
+
+76.
+
+Haese A, Graefen M, Palisaar J et al. Serummarker in der Früherkennung und
+dem Staging des Prostatakarzinoms. Urologe A 2003; 42; 1172-1187
+
+77.
+
+Zacharias M, Jenderka KV, Heynemann H et al. Transrectal ultrasound of the
+prostate. Current status and prospects. Urologe A 2002; 41; 559-568
+
+78.
+
+Hammerer P, Sparenberg A, Huland H. Digital rectal examination, imaging and
+random biopsy in identifying operable lymph-node-negative prostatic carcinoma.
+Eur Urol 1992; 22; 281-285
+Hammerer et al. Preoperative staging. In: Hofmann R, Heidenreich A, Moul
+JW,eds. Prostate cancer: diagnosis and surgical treatment. Heidelberg: Springer
+2003; 82-86
+
+79.
+
+60	  
+	  
+
+80.
+
+Lee F, Torp-Pedersen S, Littrup PJ et al. Hypoechoic lesion of the prostate:
+clinical relevance of tumor size, digital rectal examination and prostate-specific
+antigen. Radiology 1989; 170; 29-36
+
+81.
+
+Hammerer P, Huland H. Systematic sextant biopsies in 651 patients referred for
+prostate evaluation. J Urol 1994; 151; 99-102
+
+82.
+
+Hodge KK, McNeal JE, Terris MK et al. Random-systematic versus directed
+ultrasound guided transrectal core biopsies of the prostate. J Urol 1989; 142; 7178
+
+83.
+
+Merkle W. 3 D-Sonographie in der Urologie – Fortschritt oder Spielerei?. Akt Urol
+1998; 29; 21-28
+
+84.
+
+Lippmann HR, Ghiatas AA, Sarosdy MF. Systamatic transrectal ultrasound
+guided prostate biopsy after negative digitally directed prostate biopsy. J Urol
+1992; 147; 827
+
+85.
+
+Norming U, Gustafsson O, Nyman CR et al. Fine-needle aspiration biopsy with a
+newfine-needle gun versus histological core in ultrasonically-guided transrectal
+biopsy fordetection of prostate cancer. Acta Oncol 1991; 30; 155-157
+
+86.
+
+Brenner DW, Ladaga LE, Fillion MB et al. Comparison of transrectal fineedleaspiration cytology and core needle biopsy in diagnosis of prostate cancer.
+Urology 1990; 35; 381-384
+
+87.
+
+Ma WX. Cytologic diagnosis of prostatic carcinoma by transrectal prostatic
+aspiration biopsy. Chung Hua Wai Ko Tsa Chih 1989; 27; 660-663
+
+88.
+
+Faul P. Die klinische Bedeutung der transrektalen Feinnadelbiopsie und
+zytologischen Diagnose des Prostatakarzinoms. Aktuelle Therapie des
+Prostatakarzinoms 1991;
+
+89.
+
+Stamey TA. Making the most out of six systematic sextant biopsies. Urology
+1995; 45; 2-12
+
+90.
+
+Hodge KK, McNeal JE, Terris MK et al. Random systematic versus directed
+ultrasound guided transrectal core biopsies of the prostate. J Urol 1989; 142; 7175
+
+91.
+
+Engelstein D, Mukamel E, Cytron S et al. A comparison between digitally-guided
+fine needle aspiration and ultrasound-guided transperineal core needle biopsy of
+the prostate for the detection of prostate cancer. Br J Urol 1994; 74; 210-223
+
+92.
+
+Narayan P, Jajodia P, Stein R. Core biopsy instrument in the diagnosis of
+prostate cancer: superior accuracy to fine needle aspiration. J Urol 1991; 145;
+795-797
+
+93.
+
+Terris MK. Sensitivity and Specifity of sextant biopsies in the detection of prostate
+cancer: preliminary report. Urology 1999; 54; 486-489
+
+94.
+
+Luboldt HJ, Bex A, Swoboda A et al. Early detection of prostate cancer in
+Germany: a study using digital rectal examination and 4,0 ng/ml prostate-specific
+antigen as cutoff; Eur Urol 2001; 39; 131-137
+61	  
+	  
+
+95.
+
+Conrad S, Graefen M, Pichlmeier U et al. Systematic sextant biopsies improve
+preoperative prediction of pelvic lymph node metastasis in patients with clinically
+localized prostatic carcinoma. J Urol 1998; 159; 2023-2029
+
+96.
+
+Altwein JE und Rübben H. Prostatakarzinom. In: Urologie. Enke, Stuttgart 1991;
+3. Auflage
+
+97.
+
+Keetch DW, Catalona WJ. Prostatic transition zone biopsies in men with previous
+negative biopsies and persistently elevated serum prostate specific antigen
+values. J Urol 1995; 154; 1795-1797
+
+98.
+
+Weinstein MH, Epstein JI. Significance of high-grade prostatic intraepithelial
+neoplasie on needle biopsy. Hum Pathol 1993; 24; 624-629
+
+99.
+
+Eskew LA, Bare RL, McCullough DL. 5 region prostate biopsy is superior to
+sextant method for diagnosing carcinoma of the prostate. J Urol 1997; 157; 199202
+
+100. Raaijmakers R, Kirkels WJ, Roobol MJ et al. Complication rates and risk factors
+of 5802 transrectal ultrasound-guided sextant biopsies of the prostate within a
+populationbased screening program: Urology 2002; 60; 826-830
+101.
+
+Weingärtner K, Gerharz EW et al. Prostatakarzinom. Deutsche Medizinische
+Wochenzeitschrift 1994; 119; 235-243
+
+102. Breul J, Paul R. Stagingprobleme beim Prostatakarzinom aus urologischer Sicht.
+In: Hinkelbein W, Miller K, Wiegel Th, Hrsg. Prostatakarzinom. Heidelberg:
+Springer, 1999:61-70
+103. Lee N, Fawaaz R, Olsson C.A.. Which patients with newly diagnosed prostate
+cancer need a radionuclide bone scan? A analysis based on 631 patients. Int J
+Radiat OncolBiol Phys 2000; 48; 1443-1446
+104. Miller K, Weißbach L. Leitlinien zur Diagnostik von Prostatakarzinomen. Urologe
+1999; 38; 388-401
+105.
+
+Cariou G, Vuong-Ngog P, Merran S et al. Correlations between radiography,
+ultrasonography, computedtomography and pathological findings in prostatic
+disease. Urology 1985; 26; 599-604
+
+106. Bretan PN, Williams RD. Imaging techniques in the diagnosis and pelvic staging
+of prostate cancer. In: Bruce AW, Trachtenberg J: Adenocarcinoma of the
+prostate. Springer Verlag; 83-106
+107. Platt JF, Bree RL, Schwab RE. The accuracy of CT in the staging of carcinoma of
+the prostate. Am J Roent 1987; 149; 315-319
+108.
+
+Breul F, Zimmermann P, Paul R. Manual Prostatakarzinom, Zuckschwerdt Verlag
+München 2003; 1-3
+
+109. Heuck A, Scheidler J, Sommer B et al.
+Prostatakarzinoms; Radiologe 2003; 43; 464-473
+110.
+
+MR
+
+-
+
+Tomographie
+
+Weingärtner K, Ramaswamy A, Bittinger A et al. Anatomical basis for pelvic
+
+62	  
+	  
+
+des
+
+lymphadenectomy in prostate cancer: results of an autopsy study and
+implications for the clinic. J Urol 1971; 156; 1969-1971
+111. Golimbu M. CAT scanning in staging of prostatic cancer. Urology 1981; 18; 305308
+112. Bezzi M. Prostatic carcinoma: staging with MR imaging at 1,5 T. Radiology 1988;
+169; 339-346
+113. Hricak H. Prostatic carcinoma: staging by clinical assessment, CT and MR
+imaging. Radiology 1987; 162; 331-336
+114. Wolf JS. The use and accuracy of cross-sectional imaging and fine needle
+aspiration cytology for detection of pelvic lymph node metastases before radical
+prostatectomy. J Urol 1995; 153; 993-999
+115. Partin AW, Mangold LA, Lamm DM et al. Contemporary update of prostate
+cancer staging nomograms (Partin Tables) for the new millenium. Urology 2001;
+58; 843-848
+116. Conrad S, Graefen M, Pichlmeier U et al. Prospective validation of an algorithm
+with systematic sextant biopsy to predict pelvic lymph node metastasis in patients
+with clinically localized prostatic carcinoma. J Urol 2002; 167; 521-525
+117. Djavan B, Seitz C, Marberger M. Minimal invasive treatment alternatives for
+localized prostate cancer. In: Schröder F; Recent advances in prostate cancer
+and BPH; Parthenon (London) 1999; 159-169
+118.
+
+Djavan B, Susani M Bursa B et al. Predictability and significance of multifocal
+prostate cancer in the radical prostatectomy specimen; Tech Urol 1999; 5; 139142
+
+119. Aus G, Abbou CC, Pacik D et al. EAU guidelines on prostate cancer. Eur Urol
+2001; 40; 97-101
+120. Chapelon JY, Ribault M, Vernier F et al. Treatment of localized prostate cancer
+with transrectal high intensity focused ultrasound. Eur J Uktrasound 1999; 1; 3138
+121. Gelet A, Chapelon JY, Margonari J et al. Prostatic tissue destruction by highintensity focused ultrasound: experimentation on canine prostate. J Endourol
+1993; 7; 249-253
+122. Cox RL, Crawford ED. Complications of cryosurgical ablation of the prostate or
+treat localized adenocarcinma of the prostate. Urology 1995; 45; 932-935
+123.
+
+Chang Z, Finkelstein JJ, Ma H. Development of a high-performance multiprobe
+cryosurgical device. Biomed Instum Technol 1994; 28; 383-390
+
+124. Dillioglugil O, Leibman BD, Leibman NS et al. Risk factors for complications and
+morbidity after radical retropubic prostatectomy; J Urol 1997; 157; 1760-1767
+125. Frohmüller H, Theiß M. 15-Jahres-Ergebnisse der radikalen Prostatektomie;
+Urologe A 1995; 34; 225-230
+
+63	  
+	  
+
+126. Young HH. The early diagnosis and radical cure of carcinoma of the prostate.
+Being a study of 40 cases and presentation of a radical operation which was
+carried out in four cases 1905. J Urol 2002; 167; 939-947
+127. Millin T. Retropubic prostatectomy: a new extravesical technique report on 20
+cases 1945. J Urol 2002; 167; 976-980
+128. Walsh PC, Epstein JI, Lowe FC. Potency following radical prostatectomy with
+wide unilateral excision of the neurovascular bundle. J Urol 1987; 138; 823-827
+129. Reiner WG, Walsh PC. An anatomical approach to the surgical management of
+the dorsal vein and Santorini’s plexus during radical retropubic surgery. J Urol
+1979; 121; 198-200
+130. Gillitzer R, Melchior SW, Hampel C et al. Specific complications of radical
+perineal prostatectomy: a single institution study of more than 600 cases. J Urol
+2004; 172; 124-128
+131. Graefen M, Hammerer PG, Haese A et al. Indikationsstellung und Ergebnisse der
+radikalen Prostatektomie. Urologe 2003; 42; 1203-1211
+132. Zincke H, Oesterling JE, Blute ML et al. Long-term (15 years) results after radical
+prostatectomy for clinically localized (stage T2c or lower) prostate cancer. J Urol
+1994; 152; 1850-1857
+133. Catalona WJ, Carvalhal GF, Mager DE et al. Potency, continence and
+complication rates in 1,870 consecutive radical retropubic prostatectomies. J Urol
+1999; 162; 433-438
+134. Weldon VE, Tavel FR, Neuwirth H. Continence, potency and morbidity after
+radical perineal prostatectomy. J Urol 1997; 158; 1470-1475
+135. Brehmer B, Borchers H, Kirschner-Hermanns R et al. Perioperative morbidity of
+the extended radical perineal prostatectomy. Eur Urol 2001; 40; 139-143
+136. Da Pozzo LF, Francesca F, Colombo R et al. Pathologic features and clinical
+outcome after anatomic radical prostatectomy by transcoccygeal approach.
+Urology 1997; 49; 392-399
+137.
+
+Schuessler WW, Kavoussi LR, Clayman RV et al. Laparoscopic radical
+prostatectomy: initial case report. J Urol 1992; 147; 130 (abstract)
+
+138. Schuessler WW, Schulam PG, Clayman RV et al. Laparoscopic radical
+prostatectomy: initial short-term experience. Urology 1997; 50; 854-857
+139. Guillonneau B, Cathelineau X, Barret E et al. Laparoscopic radical
+prostatectomy: Preliminary evaluation after 28 interventions: Presse Med 1998;
+27; 1570-1574
+140. Guillonneau B, Rozet F, Barret E et al. Laparoscopic radical prostatectomy:
+assessment after 240 procedures. Urol Clin North Am 2001; 28; 189-202
+141.
+
+Vallancien G, Guillonneau B, Cathelineau X et al. Localized prostatic cancer:
+treatment with laparoscopic radical prostatectomy: study with 841 cases. Bull
+Acad Natl Med 2002; 186; 117-124
+64	  
+	  
+
+142. Guillonneau B, El-Fettouh H, Baumert H et al. Laparoscopic radical
+prostatectomy: oncological evaluation after 1000 cases at Montsouris Institute. J
+Urol 2003; 169; 1261-1266
+143.
+
+Rassweiler J, Sentker L, Seemann O et al. Heilbronn laparoscopic radical
+prostatectomy. Technique and results after 100 cases. Eur Urol 2001; 40; 54-64
+
+144. Rassweiler J, Marrero R, Hammady A et al. Transperitoneal laparoscopic radical
+prostatectomy: ascending technique. J Endourol 2004; 18; 593-599
+145. Raboy A, Ferzli G, Albert P. Initial experience with extraperitoneal endoscopic
+radical retropubic prostetctomy. Urology 1997; 50; 849-853
+146. Bollens R, Vanden Bossche M, Roumeguere T et al. Extraperitoneal
+laparoscopic radical prostatectomy. Results after 50 cases. Eur Urol 2001; 40;
+65-69
+147.
+
+Stolzenburg JU, Do M, Pfeiffer H et al. The endoscopic extraperitoneal radical
+prostatectomy (EERPE): technique and initial experience. World J Urol 2002; 20;
+48-55
+
+148.
+
+Stolzenburg JU, Ho KM, Do M et al. Impact of previous surgery on endoscopic
+extraperitoneal radical prostatectomy (EERPE). Urology 2005; 65; 325-331
+
+149. Binder J, Kramer W: Robotically-assisted laparoscopic radical prostatectomy.
+BJU Int 2001; 87; 408-410
+150.
+
+Wolfram M, Brautigam R, Engl T et al. Robotic-assisted laparoscopic radical
+prostatectomy: the Frankfurt technique. World J Urol 2003; 21; 128-132
+
+151. Abbou CC, Hoznek A, Salomon L et al. Laparoscopic radical prostatectomy with
+a remote controlled robot. J Urol 2001; 165; 1964-1966
+152. Tewari A, Peabody J, Sarle R et al. Technique of da Vinci robot-assisted
+anatomic radical prostatectomy. Urology 2002; 60; 569-572
+153. Guillonneau B, Vallancien G. Laparoscopic radical prostatectomy: The
+Mountsouris experience. J Urol 2000; 163; 418-422
+154. Hoznek A, Salomon L, Olsson LE et al. Laparoscopic radical prostatectomy- The
+Creteil experience. Eur Urol 2001; 61; 617-622
+155. Türk I, Deger S, Winkelmann B et al. Laparoscopic radical prostatectomy.
+Technical aspects and experience with 125 cases. Eur Urol 2001; 40; 46-52
+156. Brown JA, Rodin D, Lee B et al. Transperitoneal versus extraperitoneal approach
+to laparoscopic radical prostatectomy: an assessment of 156 cases. Urology
+2005; 65; 320-324
+157.
+
+Rassweiler J, Seemann O, Schulze M et al. Laparoscopic versus open radical
+prostatectomy: a comparative study at a single institution. J Urol 2003; 169;
+1689-1693
+
+158. Su LM, Link RE, Bhayani SB et al. Nerve-sparing laparoscopic radical
+prostatectomy: replicating the open surgical technique. Urology 2004; 64; 123127
+65	  
+	  
+
+159. Eden CG, Cahill D, Vass JA et al. Laparoscopic radical prostatectomy: The initial
+UK series. BJU Int 2002; 90; 876-882
+160. Hara I, Kawabata G, Miyake H et al. Feasability and usefulness of laparoscopic
+radical prostatectomy: Kobe University experience. Int J Urol 2002; 9; 635-640
+161. Tse E, Knaus R. Laparoscopic radical prostatectomy – results of 200 consecutive
+cases in a Canadian medical institution. Can J Urol 2004; 11; 2172-2185
+162. Hanks GE, Krall JM, Hanlon AL et al. Patterns of care and RTOG studies in
+prostate cancer: Long-term hazard rate observations and possiblities cure. Int J
+Radiat Oncol Biol Phys 1993; 28; 39-45
+163. Kupelian PA. Comparison of the efficiacy of local therapies for localized prostate
+cancer in the prostate-specific antigen era: a large single-institution experience
+with radical prostatectomy and external-beam radiotherapy. J Clin Oncol 2002;
+20; 3376-3385
+164. Deger S, Böhmer D. Brachytherapie des lokalen Prostatakarzinoms. Urologe A
+2001; 40; 181-184
+165. Perez CA, Lee HK, Georgiou A et al. Technical and tumor-related factors
+affecting outcome of definitive irradiation for lokalized carcinoma of the prostate.
+Int J Radiat Oncol Biol Phys 1993; 26; 565-581
+166.
+
+Lyons JA, Kupelian PA, Mohan DS et al. Importance of high radiation doses (72
+Gy or greater) in the treatment of stage T1-/3 adenocarcinoma of the prostate.
+Urology 2000; 55; 85-90
+
+167. Van den Ouden D, Davidson PJT, Hop W et al. Radical prostatectomy as a
+monotherapy for locally advanced (stage T3) prostate cancer. J Urol 1994; 151;
+646-651
+168. DEGRO R14. Radiotherapie
+Radioonkologie. 1998
+169.
+
+des
+
+Prostatakarzinoms.
+
+Leitlinien
+
+in
+
+der
+
+Bolla M, Gonzalez D, Warde P et al. Improved survival in patients with locally
+advanced prostate cancer treated with radiotherapy and goserelin. N Engl J Med
+1997; 337; 295-300
+
+170. Pilepich MV, Caplan R, Byhardt RW et al. Phase 3 trial of androgen suppression
+using goserelin in unfavorable-prognosis carcinoma of the prostate treated with
+definitive radiotherapy: Report of the Radiation Therapy Oncology Group protocol
+85-31. J Clin Oncol 1997; 15; 1013-1021
+171.
+
+International Commision on Radiation Urints and Measurements. Prescribing,
+recording and reporting photon beam therapy. ICRU Report 50
+172. DEGRO P1. Dosisspezifikation für die Teletherapie mit Photonenstrahlung.
+Leitlinien in der Radioonkologie. DGMP-Bericht Nr. 11 1998
+173. Hanks GE, Hanlon AL, Pinover TPH et al. Survival advantage for prostate cancer
+patients treated with high-dose three-dimensional conformal radiotherapy.
+Cancer 1999; 3; 152-158
+66	  
+	  
+
+174. Peschel RE, Fogel TD, Kacinski BM et al. Iodine-125 implants for carcinoma of
+the prostate. Int J Radiat Oncol Biol Phys 1985; 11; 1777-1781
+175. Böhmer D, Dinges S, Budach V. Radiotherapie des Prostatakarzinoms.
+Onkologe 2000; 6; 130-136
+176. Critz FA, Levinson AK, Williams WH et al. Prostate specific-antigen nadir
+achieved by men apparently cured of prostate cancer by radiotherapy. J Urol
+1999; 161; 1199- 1205
+177.
+
+Critz FA, Levinson AK. 10-year-disease-free survival rates after simultaneous
+irradiation for prostate cancer with a focus on calculation methodology. J Urol
+2004; 172; 2232-2238
+
+178. Helgason AR, Fredickson M, Adolfsson J et al. Decreased sexual capacity after
+external radiation therapy for prostate cancer impairs quality of life. Int J Radiat
+Oncol Biol Phys 1995; 32; 33-39
+179. Flanders S, Henning JM, Lubeck DP et al. A multivariate analysis of sexual
+function and bother in men treated with prostatectomy or irradiation for early
+stage prostate cancer:Quality of life results from the CAPSURE database. J Urol
+1998; 159A; 219
+180. Roach M, Chinn DM, Holland J et al. A pilot survey of sexual function and quality
+of life following 3D conformal radiotherapy for clinically localized prostate cancer.
+Int J Radiat Oncol Biol Phys 1996; 35; 869-874
+181. Banker FL. The preservation of potency after external beam irradiation for
+prostate cancer. Int J Radiat Oncol Biol Phys 1988; 15; 219-220
+182.
+
+Beard CJ, Lamb C, Buswell L et al. Radiation-associated morbidity in patients
+undergoing small-field external beam irradiation for prostate cancer. Int J Radiat
+Oncol Biol Phys 1998; 41; 257-262
+
+183.
+
+Wallner K, Roy J, Harrison L. Tumor control and morbidity following transperineal
+iodine 125 implantation for stage T1/T2 prostatic carcinoma. J Clin Oncol 1996;
+14; 449-453
+
+184.
+
+Stock RG, Stone NN, Lannuzi C. Sexual potency following interactive ultrasound
+guided brachytherapy for prostate cancer. Int J Radiat Oncol Biol Phys 1996; 35;
+267-272
+
+185. Bonoit RM, Cohen JK, Miller RJ et al. Complications and adjuvant treatment after
+prostate brachytherapy. J Urol 1998; 159A; 64
+186. Blasko JC, Ragde H, Luse RW et al. Should brachytherapy be considered a
+therapeutic option in localized prostate cancer ?. Urol Clin N Am 1996; 23; 633650
+187. Hofstetter A. Prostatakarzinom. Fortschritte in Diagnostik und Therapie. Urban &
+Vogel München 2004; 51-72
+188. Donnelly BJ, Saliken JC, Ernst DS et al. Prospective trial of cryosurgical ablation
+of the prostate: five-year results. Urology 2002; 60; 645-649
+
+67	  
+	  
+
+189. Fiedler U, Wirth MP. Gen- und Immuntherapie beim Prostatakarzinom. Urologe A
+2001; 40; 207-216
+190. Tjota A, Zhang YQ. Adoptive immunotherapy using lymphokine-activated killer
+cells And recombinant interleukin-2 preventing and treating spontaneous
+pulmonary metastases of syngenic Dunning rat prostate tumor. J Urol 1991; 146;
+177-183
+191. Hautmann SH, Huland H. Local intratumor immunotherapy of prostate cancer
+with Interleukin-2 reduces tumor growth. Anticancer Res 1999; 19; 2661-2664
+192. Maffezzini M, Simonato A. Salvage immunotherapy with subcutaneus rec. IL-2
+and alpha-Interferon for stage D3 prostate carcinoma failing second-line
+hormonal treatment.The Prostate 1996; 28; 282-286
+193. Aus G, Hugosson J, Norlen L. Long-term survival and mortality in prostate cancer
+treated with noncurative intent. J Urol 1995; 154; 460-465
+194. Allaf ME, Carter HB. Update on watchful waiting for prostate cancer. Curr Opin
+Urol 2004; 14; 171-175
+195. Droz JP, Flechon A, Terret C. Prostate cancer: management of advanced
+disease. European Society for Medical Oncology 2002; 89-94
+196.
+
+Huggins C, Hodges CV. Studies on prostatic cancer. I. The effect of castration, of
+estrogen and androgen injection on serum phosphatases in metastatic carcinoma
+of the prostate. Cancer J Clin 1972; 22; 232-240
+
+197. Miller K, Weißbach L. Leitlinien zur Therapie von Prostatakarzinomen. Urologe A
+1999; 38; 632-639
+198. Byar DP, Corle DK. Hormone therapy for prostate cancer: results of the Veterans
+Administration Cooperative Urological Research Group studies. NCI Monogr
+1988; 7; 165-170
+199. Garnick MB. Leuprolide versus diethylstilbestrol for previously untreated stage
+D2 prostate cancer. Results of a prospectively randomized trial. Urology 1986;
+27; 21-28
+200.
+
+Soloway MS, Matzkin H. Antiandrogenic agents as monotherapy in advanced
+prostatic carcinoma. Cancer 1993; 71; 1083-1088
+
+201.
+
+Mahler C, Verhelst J, Denis L. Clinical pharmacokinetics of the antiandrogens
+and their efficiacy in prostate cancer. Clin Pharmacokinet 1998; 34; 405-417
+
+202. Daniell HW. Osteoporosis after orchiectomy for prostate cancer. J Urol 1997;
+157; 439-444
+203. Iversen P. Bicalutamide monotherapy compared with castration in patients with
+nonmetastatic locally advanced prostate cancer: 6,3 years of followup. J Urol
+2000; 164; 1579-1582
+204.
+
+Pavone-Macaluso M. Comparison of DES, CPA and MAP in the treatment of
+advanced prostatic cancer: final analysis of a randomized phase III trial of the
+EORTC. J Urol 1986; 136; 624-631
+68	  
+	  
+
+205
+
+Eisenberger MA. Hormonal treatment of prostate cancer. N Engl J Med 1999;
+340; 812-813
+
+206. Prostate Cancer Trialists`Collaborative Group. Maximum androgen blockade in
+advanced prostate cancer: an overview of 22 randomized trials with 3283 death
+in 5710 patients. Lancet 1995; 346; 265-269
+207. Iversen P. Orchiectomy and oestrogen therapy revisited. Eur Urol 1998; 34; 7-11
+208. Trachtenberg J, Gittleman M, Steidle C et al. Abarelix Study Group. A phase 3,
+multicenter , open label, randomized study of abarelix versus leuprolide plus
+daily antiandrogen in men with prostate cancer. J Urol 2002; 167; 1670-1674
+209. Harnett PR. Aminoglutethimide in advanced prostatic carcinoma. Br J Urol 1987;
+59; 323-327
+210. Trachtenberg J, Halpern N, Pont A. Ketoconazole: a novel and rapid treatment
+for advanced prostatic cancer. J Urol 1983; 130; 152-153
+211. Murphy GP. Treatment of newly diagnosed metastatic prostate cancer patients
+with chemotherapy agents in combination with hormones versus hormones
+alone. Cancer 1983; 51; 1264-1272
+212. Wirth MP, Altwein JE. Chemotherapie beim Prostatakarzinom. Urologe A 1991;
+30; 17-24
+213.
+
+Schwarmborn J, Pfreundschuh M. Update Onkologie `92. Das Zeitalter der
+Metaanalysen. Medizinische Klinik 1992; 87; 646-660
+
+214. Petrylak DP. Chemotherapy for androgen-independent prostate cancer. World J
+Urol 2005; 23; 10-13
+215. Rassweiler J, Schulze M, Dogu T et al. Laparoscopic radical prostatectomy:
+functional and oncological outcomes. Curr Opin Urol 2004; 14; 75-82
+216.
+
+Park S, Jaffer O, Lotan Y et al. Contemporary laparoscopic and open radical
+retropubic prostatectomy: Pathologic outcomes and kattan postoperative
+nomograms are equivalent. Urology 2007; 69; 118-122
+
+217. Eden CG, Moon DA. Laparoscopic radical prostatectomy: minimum 3-year followup of the first 100 patients in the UK. BJU Int 2005; 97; 981-984
+218.
+
+Egawa S, Arai Y, Kawakita M et al. Surgical outcome of laparoscopic radical
+prostatectomy: summary of early multiinstitutional experience in Japan. Int J Clin
+Oncol 2003; 8; 97-103
+219. Galli S, Simonato A, Bozzola A et al. Oncologic outcome and continence
+recovery after laparoscopic radical prostatectomy: 3 years` follow-up in a „second
+generation center“. Eur Urol 2006; 49; 859-865
+220. Salomon L, Levrel O, De La Taille A et al. Radical prostatectomy by the
+retropubic, perineal and laparoscopic approach: 12 years of experience in one
+center. Eur Urol 2002; 42; 104-111
+221.
+
+Rozet F, Galiano M, Cathelineau X et al. Extraperitoneal laparoscopic radical
+prostatectomy: a prospective evaluation of 600 cases. J Urol 2005; 174; 908-911
+69	  
+	  
+
+222. Goeman L, Salomon L, La De Taille A et al. Long-term functional and oncological
+results after retroperitoneal laparoscopic prostatectomy according to a
+prospective evaluation of 550 patients. World J Urol 2006; 24; 281-288
+223.
+
+Stolzenburg J, Rabenalt R, Do M et al. Endoscopic extraperitoneal radical
+prostatectomy: the university of Leipzig experience of 1300 cases. World J Urol
+2007; topic paper
+
+224. Zorn KC, Gofrit ON, Orvieto MA et al. Robotic-assisted laparoscopic
+prostatectomy: Functional and pathologic outcomes with Interfacial Nerve
+Preservation. Eur Urol 2007; 51; 755-763
+225. Mottrie A, Van Migem P, De Naeyer G et al. Robot-assisted laparoscopic radical
+Prost atectomy: Oncologic and functional results of 184 cases. Eur Urol 2007; in
+press
+226. Rassweiler J, Stolzenburg J, Sulser T et al. Laparoscopic radical prostatectomythe experience of the German Laparoscopic Working Group. Eur Urol 2007; 49;
+113-119
+227.
+
+Lance RS, Freidrichs PA, Kane C et al. A comparison of radical retropubic with
+perineal prostatectomy for localized prostate cancer within the Uniformed
+Services Urology Research Group. BJU Int 2001; 87; 61-69
+
+228.
+
+Harris MJ. The anatomic radical perineal prostatectomy: An outcomes-based
+evolution. Eur Urol 2007; 52; 81-88
+
+229. Stephenson AJ, Scardino PT, Eastham JA et al. Postoperative nomogram
+predicting the 10-year probability of prostate cancer recurrence after radical
+prostatectomy. J Clin Oncol 2005; 23; 7005-7012
+230. Gillitzer R, Melchior SW, Thomas C et al. Krankheitsspezifische Überlebensraten
+nach radikaler perinealer Prostatektomie mit einem Follow-up von mindestens 5
+Jahren. Aktuel Urol 2006; 37; Abstract
+231. Zwergel U, Suttmann H, Schroeder T et al. Outcome of prostate cancer patients
+with initial PSA>20ng/ml undergoing radical prostatectomy. Eur Urol 2007; in
+press
+232. Khan MA, Han M, Partin AW et al. Long-term cancer control of radical
+prostatectomy in men younger than 50 years of age: update 2003. Urology 2003;
+62; 86-91
+233. Bianco FJ, Scardino PT, Eastham JA. Radical prostatectomy: Long-term cancer
+control and recovery of sexual and urinary function („trifecta“). Urology 2005; 66;
+83-94
+234. Catalona WJ, Smith DS. Cancer recurrence and survival rates after anatomic
+radical retropubic prostatectomy for prostate cancer: Intermediate-term results. J
+Urol 1998; 160;2428-2434
+235. Vis AN, Schroder FH, van der Kwast TH. The actual value of the surgical margin
+status as a predictor of disease progression in men with early prostate cancer.
+Eur Urol 2006; 50; 258-265
+70	  
+	  
+
+236. Hull GW, Rabbani F, Abbas F et al. Cancer control with radical prostatectomy
+alone in 1000 consecutive patients. J Urol 2002; 167; 528-534
+237. Lu-Yao GL, Albertsen P, Warren J et al. Effect of age and surgical approach on
+complications and short-term mortality after radical prostatectomy-a populationbased study. Urology 1999; 54; 301-307
+238. Singh A, Fagin R, Shah G et al. Impact of prostate size and body mass index on
+perioperative morbidity after laparoscopic radical prostatectomy. J Urol 2005;
+173; 552-554
+239. Brown JA, Rodin DM, Lee B et al. Laparoscopic radical prostatectomy and body
+mass index: an assessment of 151 sequential cases. J Urol 2005; 173; 442-445
+240.
+
+Han M, Partin AW, Piantadosi S et al. Era specific biochemical recurrence-free
+survival following radical prostatectomy for clinically localized prostate cancer. J
+Urol 2001; 166; 416-420
+
+241. Kupelian P, Katcher J, Levin H et al. External beam radiotherapy versus radical
+prostatectomy for clinical stage T1-2 prostate cancer: therapeutic implications of
+stratification by pretreatment PSA levels and biopsy Gleason scores. Cancer J
+Sci Am 1997; 3; 78-81
+242. Smith RC, Partin AW, Epstein JI et al. Extended followup of the influence of wide
+excision of the neurovascular bundle(s) on prognosis in men with clinically
+localized prostate cancer and extensive capsular perforation. J Urol 1996; 156;
+454-458
+243. Ates M, Teber D, Gözen AS et al. Do tumor volume, tumor volume ratio, type of
+nerve-sparing and surgical experience affect prostate specific antigen recurrence
+after laparoscopic radical prostatectomy? A matched pair analysis. J Urol 2007;
+177; 1771-1776
+244. Palisaar RJ, Noldus J, Graefen M et al. Influence of nerve-sparing (NS)
+procedure during radical prostatectomy (RP) on margin status and biochemical
+failure. Eur Urol 2005; 47; 176-184
+245. Sofer M, Hamilton-Nelson KL, Schlesselman JJ et al. Risk of positive margins
+and biochemical recurrence in relation to nerve-sparing radical prostatectomy. J
+Clin Oncol 2002; 20; 1853-1858
+246.
+
+Hara I, Kawabata G, Tanaka K et al. Oncological outcome of laparoscopic
+prostatectomy. Int J Urol 2007; 14; 515-520
+
+247. Karakiewicz PI, Eastham JA, Graefen M et al. Prognostic impact of surgical
+margins in surgically treated prostate cancer: Multi-institutional assessmnet of
+5831 patients. Urology 2005; 66; 1245-1250
+248. Öbek C, Sadek S, Shenghan L et al. Positive surgical margins with radical
+retropubic prostatectomy: anatomic site-specific pathologic analysis and impact
+on prognosis. Urology 1999; 54; 682-688
+249.
+
+Kausik SJ, Blute ML, Sebo TJ et al. Prognostic significance of positive surgical
+margins in patients with extraprostatic carcinoma after radical prostatectomy.
+Cancer 2002; 95; 1215-1219
+71	  
+	  
+
+250. Guillonneau B, Cathelineau X, Doublet JD al. Laparoscopic radical
+prostatectomy: assessment after 550 procedures. Crit Rev Oncol Hematol 2002;
+43; 123
+251. Hoznek A, Salomon L, Olsson LE et al. Laparoscopic radical prostatectomy. The
+Creteil experience ; Eur Urol 2001; 40; 38-45
+252. Salomon L, Anastasiadis AG, Katz R et al. Urinary continence and erectile
+function :A prospective evaluation of functional results after radical laparoscopic
+prostatectomy; Eur Urol 2002; 42; 338-343
+253. Tewari A, Srivasatava A, Menon M et al. Prospective comparison of radical
+retropubic and robot-assisted prostatectomy: experience in one institution. BJU
+Int 2003; 92; 205-210
+254. Menon M, Srivastava A, Kaul S et al. Vattikuti institute prostatectomy:
+contemporary technique and analysis of results; Eur Urol 2007; 51; 648-658
+255. Esposito M, Ahmed M, Dakwar G et al. Pure extraperitoneal laparoscopic robotic
+prostatectomy (EP-LRP): a large series experience; AUA Abstract [1148]
+256. Harris MJ. Radical perineal prostatectomy: cost efficient, outcome effective,
+minimally invasive prostate cancer management. Eur Urol 2003; 44; 303-308
+257. Eastham JA, Kattan MV, Rogers E et al. Risk factors of urinary continence after
+radical prostatectomy. J Urol 1996; 156; 1707-1713
+258. Kao TC, Cruess DF, Garner D et al. Multicenter patient self-reporting
+questionnaire on impotence, incontinence and stricture after radical
+prostatectomy. J Urol 2000; 163; 870-871
+259.
+
+Stanford JL, Feng Z, Hamilton AS et al. Urinary and sexual function after radical
+prostatectomy for clinically localized prostate cancer: The prostate cancer
+outcomes study. JAMA 2000; 283; 354
+
+260. Davidson PJ, van den Ouden D, Schroeder FH. Radical prostatectomy:
+prospective assessment of mortality and morbidity. Eur Urol 1996; 29; 168-173
+261. Catalona WJ, Carvalhal GF, Mager DE et al. Potency, continence and
+complication rates in 1870 consecutive radical retropubic prostatectomies. J Urol
+1999; 162; 433-438
+262. Leandri P, Rossignol G, Gautier JR et al. Radical retropubic prostatectomy:
+morbidity and quality of life. Experience with 620 consecutive cases. J Urol 1992;
+147; 883-887
+263. Geary ES, Dendinger TE, Freiha FS et al. Incontinence and vesical neck
+strictures following radical retropubic prostatectomiy. Urology 1995; 45; 10001006
+264. Steiner MS. Continence-preserving anatomical radical retropubic Prostatectomy.
+Urology 2000; 55; 427-435
+265. Feneley MR, Gillat DA, Hehir M et al. A review of radical prostatectomy from
+three centers in the UK: clinical presentation and outcome. Br J Urol 1996; 78;
+911-920
+72	  
+	  
+
+266. Burkhard FC, Kessler TM, Fleischmann A et al. Nerve-sparing open radical
+retropubic prostatectomy- Does it have an impact on urinary continence?. J Urol
+2006; 176; 189- 195
+267. Kübler HR, Tseng TY, Sun L et al. Impact of nerve sparing technique on patient
+selfassessed outcomes after radical perineal prostatectomy. J Urol 2007; in press
+268.
+
+Vallancien G, Cathelineau X, Baumert H et al.Complications of transperitoneal
+laparoscopic surgery in urology: review of 1311 procedures at a single center. J
+Urol 2002; 168; 23-26
+
+269.
+
+Rassweiler J, Seemann O, Schulze M et al.Laparoscopic versus open radical
+prostatectomy: A comparative study at a single institution. Clin Urol 2003; 169;
+1689-1693
+
+270. Arai Y, Egawa S, Terachi T et al. Morbidity of laparoscopic radical prostatectomy:
+summary of early multi-institutional experience in japan. Int J Urol 2003; 10; 430434
+271. Eden CG, King D, Kooiman GG et al. Transperitoneal or extraperitoneal
+laparoscopic radical prostatectomy: does the approach matter? J Urol 2004; 172;
+2218-2223
+272.
+
+Ruiz L, Salomon L, Hoznek A et al. Comparison of early oncologic results of
+laparoscopic radical prostatectomy by extraperitoneal versus transperitoneal
+approach. Eur Urol 2004; 46; 50-56
+
+273. Stolzenburg JU, Rabenalt R, Do M et al. Complications of endoscopic
+extraperitoneal radical prostatectomy (EERPE): prevention and management. J
+Urol 2006; in press
+274. Gillitzer R, Melchior SW, Hampel C et al. Specific complications of radical
+perineal prostatectomy: a single institution study of more than 600 cases. J Urol
+2004; 172; 124-128
+275. Brehmer B, Borchers H, Kirschner-Hermanns R et al. Perioperative morbidity of
+the extended radical perineal prostatectomy. Eur Urol 2001; 40; 139-143
+276. Weldon VE, Tavel FR, Neuwirth H. Continence, potency and morbidity after
+radical perineal prostatectomy. J Urol 97; 158; 1470-1475
+277. Kundu SD, Roehl KA, Eggener SE et al. Potency, continence and complications
+in 3477 consecutive radical retropubic prostatectomies. J Urol 2004; 172; 22272231
+278. Lepor H, Nieder AM, Ferrandino MN. Intraoperative and postoperative
+complications of radical retropubic prostatectomy in a consecutive series of 1000
+cases. J Urol 2001; 166; 1729-1733
+279. Augustin H, Hammerer P, Graefen M et al. Intraoperative and perioperative
+morbidity of contemporary radical retropubic prostatectomy in a consecutive
+series of 1243 patients:results of a single center between 1999 and 2002. Eur
+Urol 2003; 43; 113-118
+
+73	  
+	  
+
+280. Arai Y, Egawa S, Tobisu K et al. Radical retropubic prostatectomy: time trends,
+morbidity and mortality in japan. BJU Int 2000; 85; 287-294
+281. Blana A, Straub M, Wild PJ et al. Approach to endoscopic extraperitoneal radical
+prostatectomy (EERPE): the impact of previous laparoscopic experience on the
+learning curve. BMC Urol 2007; 7: 11.
+282. Vickers AJ, Bianco FJ, Gonen M et al. Effects of pathologic stage on the learning
+curve for radical prostatectomy: Evidence that recurrence in organ-confined
+cancer is largely related to inadequate surgical technique. Eur Urol 2008; in print
+283. Vickers AJ, Bianco FJ, Serio AM et al. The surgical learning curve for prostate
+cancer control after radical prostatectomy. J Natl Cancer Inst 2007; 99; 1171-77
+
+74	  
+	  
+
+8
+
+Abbildungsverzeichnis
+
+Abbildung 1: Kaplan-Meier-Kurve für den Faktor „pT-Stadium“
+Abbildung 2: Kaplan-Meier-Kurve für den Faktor „R0“
+Abbildung 3: Kaplan-Meier-Kurve für den Faktor „R1“
+Abbildung 4: Kaplan-Meier-Kurve für den Faktor „Nerve-sparing-nein“
+Abbildung 5: Kaplan-Meier-Kurve für den Faktor „Ausgangs-PSA-Wert-niedrig“
+Abbildung 6: Kaplan-Meier-Kurve für den Faktor „Ausgangs-PSA-Wert-hoch“
+Abbildung 7: Inkontinenzverlauf nach OP-Jahr
+Abbildung 8: Inkontinenzverlauf(2 oder mehr Vorlagen)nach OP-Jahr und Operateur
+
+75	  
+	  
+
+9
+
+Tabellenverzeichnis
+
+Tabelle 1:
+
+Beobachtungszeiträume (in Monaten) entsprechend den pT-Stadien,
+n=669
+
+Tabelle 2:
+
+PSA-Progress nach RPE entsprechend den pT-Stadien
+
+Tabelle 3:
+
+Progress-Raten und Erwartungswerte nach pT-Stadien
+
+Tabelle 4:
+
+Progress-Raten und Erwartungswerte nach pT-Stadien und
+Schnittrand
+
+Tabelle 5:
+
+Progress-Raten und Erwartungswerte nach pT-Stadien und AusgangsPSA-Wert
+
+Tabelle 6:
+
+Risikoberechnung für PSA-Progress, n=669
+
+Tabelle 7:
+
+Fistel-Komplikationen
+
+76	  
+	  
+
+10
+
+Lebenslauf
+
+"Mein Lebenslauf wird aus datenschutzrechtlichen Gründen in der elektronischen
+Version meiner Arbeit nicht veröffentlicht."
+
+77	  
+	  
+
+Erklärung an Eides Statt
+„Ich, Anita Lisowski, erkläre, dass ich die vorgelegte Dissertationsschrift mit dem Thema
+-Onkologische
+
+Langzeitergebnisse,
+
+Inkontinenz
+
+und
+
+Spätkomplikationen
+
+nach
+
+transperitonealer laparoskopischer radikaler Prostatektomie ohne Nerverhalt, Follow up
+von 700 Patienten,operiert 1999-2005 an der Klinik für Urologie der Charite Mitte –
+selbst verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt,
+ohne die (unzulässige) Hilfe Dritter verfasst und auch in Teilen keine Kopien anderer
+Arbeiten dargestellt habe.“
+Berlin, den 21.01.2010
+
+78	  
+	  
+
+79	  
+	  
+
+80	  
+	  
+
+
