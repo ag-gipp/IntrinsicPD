@@ -1,6 +1,6 @@
 plagcomps
 =========
-My heartful hanks to plagcomps team for declaring this project under MIT License.
+My heartful thanks to plagcomps team for declaring this project under MIT License.
 
 For complete information, check out plagcomps project's
 web page at: http://www.cs.carleton.edu/cs_comps/1314/dlibenno/final-results/index.html
