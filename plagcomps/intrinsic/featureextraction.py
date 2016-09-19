@@ -1284,7 +1284,7 @@ class FeatureExtractor:
             # This line courtesy of http://stackoverflow.com/questions/265960/best-way-to-strip-punctuation-from-a-string-in-python
             #word = word.translate(string.maketrans("",""), string.punctuation)
             word = word.translate(dict((x, None) for x in string.punctuation))
-            if word in nltk.corpus.stopwords.words('english'):
+            if word in nltk.corpus.stopwords.words('english') + nltk.corpus.stopwords.words('german'):#added german stopwords (seenu.andi-rajendran)
                 count += 1
             sum_table.append(count)
         self.features["stopword_percentage"] = sum_table
