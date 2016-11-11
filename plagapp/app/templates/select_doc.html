@@ -160,10 +160,23 @@
 
                     {% endfor %}
                         break;
-                    case "word":
+                    case "nchars":
                         $("#features").empty();
 
-                    {% for feature in word_features %}
+                        $('#features').append($("<optgroup></optgroup>").attr("label", 'Vocab Richness'));
+                    {% for feature in vocab_richness %}
+
+                        $('#features').append($("<option></option>").attr("value", "{{ feature[0] }}").text("{{ feature[0] }}"));
+
+                    {% endfor %}
+                        $('#features').append($("<optgroup></optgroup>").attr("label", 'Syntactic Features'));
+                    {% for feature in synt_feats %}
+
+                        $('#features').append($("<option></option>").attr("value", "{{ feature[0] }}").text("{{ feature[0] }}"));
+
+                    {% endfor %}
+                        $('#features').append($("<optgroup></optgroup>").attr("label", 'Readability Features'));
+                    {% for feature in read_feat %}
 
                         $('#features').append($("<option></option>").attr("value", "{{ feature[0] }}").text("{{ feature[0] }}"));
 
