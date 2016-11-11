@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd">
       <feature name="vroniplag" etext_number="Mrs" url="http://de.vroniplag.wikia.com/wiki/Mrs'"/>
-      <feature name="language" value="de" />
+      <feature name="language" value="en" />
     <feature name="realistic-plagiarism" this_offset="3195" this_length="3098" />
 <feature name="realistic-plagiarism" this_offset="6498" this_length="2954" />
 <feature name="realistic-plagiarism" this_offset="10358" this_length="745" />
