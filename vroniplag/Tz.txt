@@ -1,0 +1,480 @@
+Untersuchung der Beeinflussung vonBisphosphonaten auf die Vitabilität der an derWundheilung beteiligten Zellen in vitro 
+
+5AbkürzungsverzeichnisATP Adenosintriphosphat1,25(OH)2D3 Dihydroxacholecalciferol, Vitamin D3, Calcitriol BMP bone morphogenetic proteinBP-ONJ Bisphosphonat associated osteonecrosis of the jaws BSA bovines SerumalbumincAMP zyklisches 3,5 Adenosin-Monophosphat CICP Collagene Type I, c-terminal Propeptide CO2 KohlendioxidDMSO DimethylsulfoxidEGF epidermal growth factorFCS fetales KälberserumFGF fibroblast growth factorFSGS fokale segmentale GlomeruloskleroseGH growth hormoneGTP GuanintriphosphatIGF insulin growth factorIl InterleukinM-CSF macrophage colony stimulating factor µM MikromolMTT Dimethylthiazol-diphenyl-tetrazoliumbromid ng NanogrammnM NanomolNO StickstoffmonoxidPDGF platelet derived growth factorPTH ParathormonTGF transforming growth factorTNF tumor necrosis factorVEGF vascular endothelial growth factor6
+
+1. Einleitung
+In den letzten Jahren wird in der Literatur vermehrt über die Bisphosphonat- assoziierte Osteonekrose der Kiefer (BON) berichtet. Bisphosphonate sind die wichtigste Substanz zur Hemmung des Knochenstoffwechsels. Sie werden bei metabolischen Knochenerkrankungen und Knochenmetastasen eingesetzt. Als Beispiele sind hier Patienten mit multiplen Myelomen oder Patienten mit Knochenmetastasen bei Prostata- oder Mammakarzinom zu nennen. Der Einsatz von Bisphosphonaten reduziert die Häufigkeit von Frakturen, den palliativen Einsatz von Bestrahlung und erhöht signifikant die Lebensqu alität. Nebenwirkungen von Bisphosphonaten werden in drei Gruppen unterteilt: Akute Phasenreaktion, Störungen des Gastrointestinaltraktes und Störungen der Nierenfunktion (1). Seit dem Jahre 2003 ist ein weiterer Nebeneffekt bekannt: die Bisphosphonat assoziierte Osteonekrose des Kiefers (BP-ONJ = „Bisphosphonat ssociated osteonecrosis of the jaws“) (91). Seit der Erstbeschreibung hat die Bisphosphonat assoziierte Osteonekrose des Kiefers stark zugenommen (92). In der Literatur wird die BP-ONJ zumeist als freiliegender nekrotischer Knochen in Mund-, Kiefer-, Gesichtsbereich mit einer zeitlichen Periode von mindestens acht Wochen definiert, die im Zusammenhang mit einer Bisphosphonattherapie steht und wo keine Bestrahlung des Kiefers in der Vergangenheit stattgefunden hat (93). Bei vorausgehender Bestrahlung ist eine Abgrenzung zur Strahlenosteonekrose nur schwer möglich. Die Gruppe der Bisphosphonate lässt sich unterteilen in eine Gruppe von stickstoffhaltigen und eine Gruppe von stickstofffreien Bisphosphonaten. Zu den stickstoffhaltigen Bisphosphonaten gehören zum Beis piel Zoledronat und Pamidronat, die dem Patienten intravenös verabreicht werden. Si e sind sehr oft mit einer BP-ONJ assoziiert. Zu den nichtstickstoffhaltigen Bisphosphonaten zählen Ibandronat und Clodronat. Sie bergen das geringere Risiko an einer BP-ONJ zu erkranken. Die Inzidenz an einer BP-ONJ ist auch abhängig von deneinzelnen Erkrankungen, zu denen die Bisphosphonate eingesetzt werden. In der Literatur wird das Auftreten einer BP-ONJ bei einer Therapie des metastasierenden Mamma-Karzinoms mit einer Inzidenz von 1,2% bis 11,4% beschrieben, für Patienten mit multiplen Myelomen von 3,1 bis 17,2% und bei Patienten mit metastasierendem Prostatakarzinom von 2,9% bis 18,6% beschrieben (94-98). Auslöser für eine BP- ONJ ist oftmals eine vorausgegangene Zahnextraktion, ein Prothesenulkus, eine7Paradontalerkrankung oder eine vorausgegangene zahnärztliche Intervention. In einigen wenigen Fällen lässt sich kein krankheitsauslösender Grund finden. Prädilektionsstelle für das Auftreten einer BP-ONJ ist in diesen Fällen der „mylohoid ridge“, eine Region, an der die Mandibula nur durch eine dünne Muskelschicht geschützt wird (99). In der Literatur finden sich v erschiedene Theorien zur Entstehung und Pathophysiologie der BP-ONJ. Es gibt Hinweise, dass durch die Hemmung das Osteoklasten und das Auftreten von Mikrofrakturen die BP-ONJ ausgelöst wird (100). Daneben scheint es erste Hinw eise zu geben, dass Bisphosphonate einen antiangiogenetischen Effekt besitzen und so eine avaskuläre Knochennekrose entstehen kann (101). Daneben wurde gezeigt, dass die Anzahl von endothelialen Progenitorzellen in Patienten mit Bisphosphonattherapie signifikant reduziert ist (102). Gerade EPC haben die Möglichk eit über parakrine Effekte die Angiogenese insbesondere in Heilungs- und Umbauprozessen anzustoßen und zu unterhalten. Die im Rahmen der Wundheilung wichtige Viabilität und Regenerationsfähigkeit von Keratinozyten scheint ebenfalls durch Bisphosphonate gestört zu werden (103). All diese genannten Faktor en könnten zum Entstehen der BP-ONJ beitragen und diese unterhalten (104).
+
+1.1 Anatomie und Physiologie des Knochengewebes
+Das Skelettsystem hat mehrere Funktionen. Die offensichtlichste Funktion ist dem menschlichen Organismus eine Stütz- und Haltefunkti on zu geben. Daneben dient aber auch das Knochengewebe, gemeinsam mit der Niere, der Kalzium- und Phosphatregulation und der Hämatopoese. Der geordnete Abbau von Kochen und der eng gekoppelte Aufbau sind für die normale Entw icklung und die biomechanischen Anpassungsmöglichkeiten des Skelett systems von entscheidender Bedeutung. Diese Funktion wird durch spezialisierte Knochenzellen ermöglicht: Es sind die auf der Oberfläche des Knochens gelegenen Osteoklasten und Osteoblasten und die intraossären Osteozyten. Die Osteoklasten sind für die Knochenresorption und wohingegen Osteoblasten und Osteozyten für den Knochenaufbau zuständig sind. Durch assynchrone Fusion entstehen aus mononuklealer Vorläuferzellen des Knochenmarks Osteoklasten (73). Histologisch befindet sich die Osteoklasten in den sogenannten Howship-Resorptionslakunen (70). Zur Charakterisierung der Osteoklasten dienen spezifische Marker wie Calcitoninrezeptoren, saure Phosphatase und Vitronectinrezeptor (αvβ3). Mittels8Immunhistochemie lassen sich morphologische Unterschiede des Osteoklasten sichtbar machen: Sein apikaler, dem Knochen zugewandter Pol zeigt eine intensivere Anfärbung in der Peripherie (sealing-zone) und einehellere, streifig und vakuolisierte zentrale Zone mit extrem gefalteter Zellmembran (ruffled-border). Durch fusionieren Vesikeln werden im „ruffled border“ die Enzyme ins Resorptionskomparment freigesetzt. Zudem schafft der Osteoklast im ruffled-border durch vakuoläre Protonenpumpen ein saures Millieu. Durch die pH-Änderung lösen sich die Hydroxyapatitkristalle aus der kollagenen Knochenmatrix und die Kollagenfasern können durch Proteasen und Kolagenasen abgebaut wer den (5).
+
+Der Osteoblast stammt aus mesenchymalen Stammzellen, die ursprünglich pluripotent sind. Sie haben das Potential sich zu Muskel-, Fett-, Knorpel- oder Fibroblastenzellen zu differenzieren. Es gibt eine Vorläuferzellenpopulation, die teilweise differenziert ist: der Präosteoblast, dersich weiterhin nur zum Osteoblast enddifferenzieren kann.
+
+
+Der Präosteoblast wird als determinierte osteogene Progenitorzelle benannt und befindet sich im Periosteum und im Knochenmarkstroma (8, 46). Er entwickelt sich zunächst in den aktiven Osteoblasten, mit kubischer Zellform, später in den intermediären Osteoblast und schließlich in den terminalen „ruhenden“ Osteoblast, der morphologisch abgeflacht ist (9, 86). Die meisten Osteoblasten bleiben entweder an der Knochenoberfläche als ruhende Osteoblasten lining( cells) oder erleiden einen vorprogrammierten Tod (Apoptose). Zahlreiche interzelluläre Verbindungen im Sinne von „gap junctions“ existieren zwischen diesen Zellen (67). Hauptsächliche Aufgabe der Osteoblasten ist die Knochenmatrixproduktion. Sobald die Produktion der kollagenen und nicht kollagenen Proteine vervollständigt ist, werden manche der Osteoblasten von Matrix umgeben und sind als fixe Osteozyten im Knochen eingebettet (2). Die Osteozyten und die ruhenden Osteoblasten sind miteinander über das sogenannte lakuno-kanalikuläre System verbunden. Es sind kleine Matrixkanälchen, worüber Mineralien und verschiedene Mediatoren während des Knochenumbaus ausgetauscht werden. Osteoblasten in vivo und in vitro werden durch die Produktion von alkalischer Phosphatase (41), Osteocalcin (62), Osteopontin und Kollagen charakterisiert. Sie besitzen Rezeptoren für Parathormon, Vitamin D, Glykokortikoide, Sexualhormone, Wachstumshormon, und Schilddrüsenhormone (66). Zudem besitzen sie Rezept oren für Il-1, Il-6, TNF-alpha, Prostaglandine, IGF, TGF-beta, verschiedene BMPs, FGF, PDGF and VEGF (72).
+
+Die Osteoblasten habe die Aufgabe die Knochenmatrix zu produzieren. Diese setzt sich aus Kollagen sowie aus nicht kollagenen Proteinen zusammen. Im adulten menschlichen Knochen befindet sich fast ausschließlich Kollagen Typ I und in geringen Mengen Kollagen Typ III. Unter den nicht kollagenen Proteinen dominiert dasknochenspezifische Osteocalcin. Andere Proteine wie Osteonectin, Osteopontin und „bone sialoprotein“ kommen hinzu. Sie bilden in extrazellulärem Raum das Osteoid. Es ist das organische Substrat, worauf die Mineralisation bzw. die Ablagerung von Kalzium und Phosphat in Form von Hydroxyapatitkristallen erfolgt. Die KristaIle sind äußerst klein und beinhalten zusätzlich Karbonat, Fluorid und verschiedene Spurelementen. Die Mineralisation wird durch das Einbetten in Kollagenfasern eingeschränkt. Andere Substanzen derKnochenoberfläche wie z.B. Pyrophosphat hemmen ebenso die Mineralisation. In der Knochenmatrix finden sich zusätzlich kleine Proteoglykane, Plasmaproteine, Enzyme, Zytokine und Wachstumsfaktoren eingebettet (86).
+
+1.2 Regulation des Auf- und Abbaus von Knochen.
+Nachdem die Osteogenese sowie die desmale und chondrale Ossifikation des embryonalen präformierten hyalinknorpeligen Skelettes abgeschlossen ist, befindet sich der Knochen des erwachsenen Menschen weiterhin in einem ständigen Umbau. Dieses sogenannte „remodeling“ dient der Reparatur von Mikrofrakturen, der Anpassung auf die unterschiedlichen biomechanischen Kräfte, die täglich auf den Knochen ausgeübt werden sowie der regelrechten Erha ltung der Kalzium- und Phosphathomöostase. Die sogenannte „basic multicellular unit“ (BMU) besteht aus nebeneinander positionierten Osteoblasten und Osteoklasten. In dieser vollzieht sich eine gleichwertige Stimulation der osteoklastischen Knochenresorption und der osteoblastischen Knochenformation. Als „coupling“ wird sowohl die zeitliche Abfolge beider Prozesse in den BMU als auch die Ballance zwischen Resorptions- und Formationsrate bezeichnet. Dadurch wird die Stabilität der Knochenmasse gewährleistet. Für die komplexe Regulation sind eine Vielzahl von systemischen und lokalen Faktoren zuständig. Andere Organe, die miteinbezogen werden sind das endokrine System, die Niere und der Darm. Letztlich die Apoptose beider Zellen determiniert ihre Funktion und Lebensdauer (49, 60). Anti-Fas Antikörper und TNF sowie auch andere Zytokine, die sich in der Mikroumgebung des Knochens befinden,
+10wirken apoptotisch auf die Osteoblasten. Il-6, TGF-β und das antiapoptotische Protein bcl-2 verhindern dagegen die Apoptose der ruhenden Osteoblasten und Osteozyten (50, 63). Zu den systemischen Regulationsfaktoren des Knochenstoffwechsels gehören das Parathormon, das V itamin D, die Sexualhormone, die Schilddrüsenhormone, Calcitonin, aber auch dive rse Zytokine und Wachstumsfaktoren. Das Parathormon ist der wichtigste Regulator der Kalziumhomöostase. Es stimuliert die Knochenresorpt ion sowie die renale Vitamin D- Produktion und erhöht die tubuläre Kalziumresorption. Bei regelmäßiger Applikation wird der Knochenaufbau angeregt, höhere Konzentrati onen dagegen können die Kollagenproduktion hemmen. Östrogene beeinflussen i n beiden Geschlechtern die Skelettentwicklung: In der späten Pubertät hemmen ies den Knochenabbau, reduzieren dadurch den Knochenumbau und regulieren den zeitgerechten Epiphysenschluss (15). Bei erwachsenen Frauen förde rn Östrogene u.a. die Calcitoninfreisetzung aus der Schilddrüse. Ihre Red uktion während der Menopause führt zu einem Abfall des Serumcalcitonins, wodurch ihre hemmende Wirkung auf die Knochenresorption abnimmt (75). Östrogene und Parat hormon weisen zudem einen indirekten Einfluss auf den Knochenabbau auf. Sie hemmen die Produktion von Interleukin-6, welches stimulierend auf die Entwicklung und Differenzierung der Osteoklastenprogenitoren wirkt (64). Vitamin D erhö ht die intestinale Kalzium- und Phosphatresorption und unterstützt somit die Knoche nmineralisation. Es beeinflusst aber auch direkt die Differenzierung von Osteoblasten und Osteoklasten. Calcitonin hat eine geringe physiologische Rolle, allerdings hemmt es in pharmakologischer Dosierung die Osteoklastenaktivität (74). Die Schilddrüsenhormone stimulieren sowohl Knochenab- als auch -aufbau. Beim Hyperthyreoidismus wird ein erhöhter Knochenumbau beobachtet, der zum Knochenmassenverlust führen kann. Glukokortikoide haben stimulierende und hemmende Effekte auf Knochenzellen. In vitro sind sie essentiell für die Differenzierung v on Osteoblasten und sensibilisieren die Knochenzellen gegenüber Regulationsfaktoren wie IGF-1 und PTH. Ihre langjährige Applikation verursacht Osteoporose. Die lokale Regulation des Knochenstoffwechsels erfolgt durch innerhalb des Knochens produzierte und dort wirksame Faktoren, die autokrine und parakrine Wirkung auf die Proliferation und Differenzierung von Osteoblasten und Osteoklasten haben können. Diese ortständigen Zytokine oder Wachstumsfaktoren sind eilweiset in der Knochenmatrix miteingebettet und werden bei der Resorptionsphase freigesetzt. In den „gap11junctions“ zwischen den Osteoblasten, die eine epithelähnliche Struktur auf der Knochenoberfläche bilden, befinden sich die Connexine. Diese gehören zusammen mit den Cadherinen zu der Familie der Adhäsionsmoleküle und sind für die Regulierung von Osteoblastenfunktion und -formation zuständig (26). Osteoblasten sezenieren ferner osteolytischer Substanzen. In ihrem Zytoplasma befinden sich Kollagenasen (8). Viele Zytokine und Wachstumsfaktoren werden von den Osteoblasten produziert und spielen eine vielfältig Rolle in der Knochenmikroumgebung. Der TNF, die Interleukine 1, 6, 8 und 11, der M-CSF, der TGF-beta, der EGF stimulieren die Osteoklasten und Präosteoklasten und somit den Knochenabbau. Die BMP, das beta 2 - Mikroglobulin, der TGF alpha, PDGF, FGF, Il- 1a, GH und IGF stimulieren die Osteoblasten und somit den Knochenanbau. Die in vitro Untersuchung des Einflusses von Wachstumsfaktoren auf die Knochenzellen stellt sich schwierig dar. Der TGF-beta in geringen Dosen (pg) inhibiert die osteoblastäre Differenzierung im Sinne der Produktion von alkalischer Phosphatase und vom cAMP-Anstieg nach PTH Stimulation bei einer osteoblastischen Zelllinie (23). Allerdings in höheren Dosen (ng) konnte eine Induktion der Osteoblastenproliferation nachgewiesen werden (77). Eine Menge anderer Faktoren wie Prostaglandine, Leukotriene und Stickstoffmonoxid sind von großer Bedeutung, für die schnelle zelluläre Antwort der Knochenzellen auf Entzündung oder mechanischen Reiz. Stickstoffmonoxid gehört zu den Molekülen, die von den Osteoblasten produziert werden und direkt die Osteoklastenaktivität und -formation hemmt. Die konstitutiven niedrigen Konzentrationen von NO fördern Osteoblastenproliferation und modulieren Osteoblastenfunktion, höhere Konzentrationen wirken hemmend auf Osteoblasten (24). Leukotriene, die in Mäuseschädel injiziert wurden haben die Knochenresorption, die Anzahl von Osteoklasten und der erodierten Oberflächen signifikant erhöht. Garcia et al behaupten, dass Leukotriene die Knochenresorption teils durch ihre stimulierende Wirkung auf die Osteoklastenformation stimulieren (36). Hofbauer et al 2000 haben einen eleganten Regulationsmechanismus der Osteoklastogenese vorgestellt, indem sie das letzte Glied der Wirkungskette vieler Hormone und Zytokine auf Osteoklasten beschrieben haben. Es handelt sich um den Osteoprotegerin-Ligand/Osteoklast Differenzierungsfaktor (OPG-L/ODF), der von Osteoblasten produziert wird und sich an seinen Rezeptor, den Osteoklast- Differenzierungs- und Aktivierungs-Rezeptor (ODAR) bindet. OPG-L/ODF stimuliert die Differenzierung der Osteoklasten-Vorläuferzellen zu reifen Osteoklasten, steigert die Aktivität der reifen Osteoklasten und hindert deren Apoptose (47).
+
+1.3. Knochenerkrankungen und Bisphosphonattherapie
+Während des gesamten menschlichen Lebens findet ein kontinuierlicher Knochenaufbau und -abbau statt. Bis zum 30. - 40. Lebensjahr nimmt die Gesamtknochenmasse des Menschen zu und erreicht einen Maximalwert, der als „peak bone mass“ bezeichent wird. Anschließend kommt es durch Alterungsprozesse wie einem veränderten Hormonhaushalt und einem Verlust an Osteoblastenaktivität zu einem allmählichen Verlust an Knochenmasse, da der Knochenabbau weniger durch die Umstellungen gehemmt wird. Der Verlust an Knochenmasse ist jedoch nicht gleichmäßig über den ganzen Knochen verteilt. Die Spongiosa ist vom altersbedingten Knochenabbau mehr betroffen, als die Kortikalis. Während ihres Lebens verlieren Männer 20-30 % der „peak bone mass“ und Frauen 30-40 %. Die Grenze zwischen diesem altersassoziierten Knochenmassenverlust, der als Osteopenie bezeichnet wird und der manifesten Osteoporose ist fließend. Klinische Zeichen der Osteoporose sind Frakturen, Schmerzen und eine Verkleinerung der Körpergröße. Die Fraktureninzidenz steigt bedingt d urch eine Änderung der Knochenarchitektur. Durch den Verlust von Trabekeln wird die biomechanische EIngenschaften des Knochens entscheidend geschwächt(51). Die WHO definiert die Osteoporose als eine Verminderung des Knochenmineralgehaltes beim Patient über 2,5 Standardabweichungen unterhalb des Referenzdurchschnittes der jungen Erwachsenen (- 2,5 T-scores) (52). Treten Frakturen auf, sprechen wir von einer schweren Osteoporose. Zur Prävention der Osteoporos ist der Erhalt der „peak bone mass“ von großer Bedeutung; je höher sie ist, desto weniger Konsequenzen wird der unvermeidliche Knochenverlust für die Knoc henarchitektur haben. Die Höhe der „peak bone mass“ wird auch von genetischen Faktoren u.a. Vit D-Rezeptor Gene, von der Ernährung und von den Lebensgewohnheiten beinflußt (43). Durch eine Verlängerung der Lebenserwartung in den USA und Mitteleuropa steigt auch die Inzidenz der Osteoporose. Man unterscheidet zwischen idiopathischer, postmenopausaler, seniler und sekundärer Osteoporos (78). Besonders bei postmenopausalen Frauen kommt es neben der altersbedingten Osteopenie durch die abrupte Östrogenminderung zu einem schnelleren Knochenmasseverlust im Vergleich zu Männern. Auch ethnische Risikofaktoren spielen eine Rolle: Osteoporose ist häufiger bei Frauen der weißen und der asiatischen Rasse. Die sekundäre Osteoporose ist Folge von anderer Erkrankungen, wie Hyperkortikosteroidismus oder therapeutischer Anwendung von Kortikosteroiden,Hyperthyreoidismus, Hypogonadismus, primärer oder sekundärer Hyperparathyreoidismus, Leber- und Tumorerkrankungen oder Immobilisation. Heutzutage ist die Osteoporose die häufigste Knochenerkrankung mit 200 Millionen Patienten (19). Eine weitere Erkrankung bei deren Therapie Bisphosphonate eingestzt werden, ist der Morbus Paget (Osteitis deformans). Sie ist charakterisiert durch einen vermehrten Knochenumbau. Ein pathogenetischer Zusammenhang mit einer Paramyxovireninfektion (68) sowie auch eine genetische Komponente mit einem verdächtigen Locus auf Chromosom 18 werden diskutiert (45). Es entsteht eine erhöhte Il-6 Produktion von Knochen- und Knoch enmarkzellen, die einen erhöhten Knochenabbau mit entsprechenden osteolytis chen Läsionen verursacht. Daraufhin erhöht sich sekundär der Knochenaufbau, der für abnormale sklerotische Läsionen und lokale Skelettdeformierungen verantwortlich ist. Es entsteht ein Mosaikmuster im Lamellenknochen mit erhöhter Vaskul arisation und vermehrtem Bindegewebe am naheliegenden Knochenmark. 5 % der Patienten haben eine deutliche klinische Symptomatik mit Knochen- und Gelenkschmerz, Frakturen und Deformierungen. Weniger als 1 % der Patienten entwickeln Osteosarkome. Morbus Paget hat eine höhere Prävalenz in Europa außerhalb von Skandinavien; ungefähr 3 % der Population der über 50-jährigen ist betroffen (31). Das Krankheitsbild der Osteomalazie beschreibt eine Dysfunktion bei der Mineralisation der Knochenmatrix. Ursachen dafür können Vitamin-D-Mangel bei Nierenin suffizienz (38), Malnutrition oder Malabsorption (7, 37), Hypophosphatämie beim primären tubulären Phosphatverlust, oder bei X-assoziierter hypophosphatämischer Rachitis (81), Tumorkrankheit der Knochen (55) oder Funktionsstöru ngen der Knochenmatrix wie z. B. verminderter Serum- und Skelettgehalt an alkalischer Phosphatase sein. Funktionsstörungen der Knochenmatrix sind auch die Ursache für die Osteogenesis Imperfekta (40). Weitere große therapeutische Probleme sind die tumorbedingte Hyperkalziämie sowie die metastasenbedingten Osteolysen. Der Knochen ist das Organ, das am dritthäufigsten nach Lunge und Leber von distalen Metastasen betroffen ist. Die häufigsten Primärtumoren, die inden Knochen metastasieren, sind Prostata- und Mammakarzinom. Als osteolytische Tumorerkrankung wird die Knochendestruktion bezeichnet, die durch entweder lokale Tumorzellinvasion, oder durch Knochenabbau induzierende Faktoren, die vom Primärtumor in das Blut ausgeschüttet werden, verursacht wird. Unterschiedl iche Theorien erläutern die Metastasenmechanismen. Paget stellte 1889 die „seadand soil“ Theorie auf. Gemäß dieser Theorie werden Wachstumsfaktoren von den Osteoblasten in der Knochenmatrix eingebettet. Diese stellen eine fertile Mikroumgebung für die Kolonisation der metastasierenden Tumorzellen dar. Des weiteren expremieren Tumorzellen Zytokine, die den Knochenabbau induzieren wie das PTH-related Peptid, TGF-a, TNF, M-CSF, Prostaglandine, Il-1 und Il-6 sowie Adhäsionsmoleküle, die an der Entstehung von Metastasen beteiligt sind. Zu diesen gehören die Cadherine, kalziumabhängige Adhäsionsmoleküle, die die Zell-Zell Interaktionen regeln und eine Schlüsselrolle in der Zelldifferenzierung spielen; die Intergrine, die die Adhäsion zwischen Matrix und Zelle vermitteln; die Selektine, die Metalloproteinasen u.a.. Bei den Knochenmetastasen unterscheidet man osteoblastische und osteoklastische Metastasen. Prostatakarzinommetastasen sind osteoblastisch, die des Mammakarzinoms sind meistens osteolytisch. Knochenmetastasen kommen häufiger bei Lungen-, Mamma-, Prostata-, Ovarial-, Nieren- und Hirnkarzinome sowie bei hämatologischen Neoplasien vor, hier vor allem beim multiplen Myelom. Verschiedene Medikamente werden in der Therapie der Knochenerkrankungen eingesetzt. Östrogene stoppen im Falle der postmeno pausalen Osteoporose den Abbau von Knochenmasse und senken somit die Frakturhäufigkeit. Den selben Effekt erreicht Calcitonin. Bei der Anwendung beider Medikamente ist jedoch fraglich, ob die verlorene Knochenmasse wiederaufgebaut wird. Die Fluoridtherapie führt zwar zu einem Knochenaufbau, die Festigkeit des Knochens scheint aber von geringer Qualität zu sein (59). Auf der anderen Seite zeigten Baylink et al 1998 in einem in vitro Modell, dass Fluorid (mit optimaler Dosis von 10 µM) sowohl die Proliferation von Osteoblasten als auch ihre Differenzierung, im Sinne einer vermehrten Produktion von Osteocalcin, alkalischer Phosphatase und Kollagen stimuliert (56). Weiterhin werden in der Therapie der Osteoporose oder Osteopenie Kalzium und Vitamin D substituiert, sowie Parathormonfragmente und Bisphosphonate eingesetzt. Die neuesten therapeutischen Ansätze, wie Substitution von Zytokinen und Wachstumsfaktoren sind jedoch noch zu erproben. Zur Diskussion kommt auch die lokale Anwendung von BMP als medikamentöse Unterstü tzung bei Knochenfrakturen oder Gelenkersatzoperationen (20, 89). Ein andere therapeutischer Ansatz ist der15von Parathormon. PTH kann intermittierend, allein oder in Kombination mit knochenbildungsstimulierenden Faktoren appliziert werden (34, 65).
+
+1.4. Bisphosphonate und klinische Anwendung
+Bisphosphonate gehören zu den Strukturanaloga des a norganischen Pyrophosphats dessen Eigenschaften schon am Anfang des Jahrhunderts bekannt waren (29). Pyrophosphat können physiologisch im Urin und Plasm a des Menschennachgewiesen werden. Phyrophosphat führt zur Hemmun g der Kalziumphosphatpräzipitation und ist somit ein endogener Regulator der Knochenmineralisation (82). In vivo bindet es sich stark an Kalziumphosphat und reduziert dessen Kristallisation, schützt bei intra venöser Anwendung vor ektopischer Kalzifikation, hat aber keinen Effekt auf die Knochenresorption. Eine Regulation erfolgt über lokale Knochenpyrophosphatasen. Bioche misch ist die Phosphor- Sauerstoff-Bindung des Pyrophosphats leicht enzymatisch möglich und limitiert seine therapeutische Anwendung.
+
+Abbildung1: Strukturformel eines stickstoffhaltigen Bisphosphonates Zoledronat
+Die Entwicklung einer stabilen Substanz mit ähnlichen Eigenschaften erfolgte durch den Ersatz des Sauerstoffatomes der instabilen P−O− P Bindung durch ein Kohlenstoffatom (P−C−P). Hierdurch kam es zu einer Stabilität gegen Hitze, chemische Reagenzien und vor allem gegen enzymatische Hydrolisierung (27). Bisphosphonate weisen eine dreidimensionale chemische Struktur auf. Diese dreizahnige Konformation des Bisphosphonatmoleküls ermöglicht die Bindung an Kalzium, Magnesium und Eisen und an Oberflächen die Kalzium bzw. Kalziumphosphat beinhalten. Im Falle des Kalziums kommt es zu einer Präzipitation, die die Kristallkomplexbildung hemmt (32, 44). Weiterhin wird die Auflösung von Apatitkristallen erschwert (82). Die Kalziumaffinität steigt, wenn die Seitenketten des Bisphosphonatmoleküls eine Hydroxyl- oder eine Amin ogruppe haben. Die biologischen Eigenschaften der Bisphosphonate wurden sowohl in vitro als auch in vivo untersucht. In vitro kommt es zur Knochenresorptionshemmung. In vitro Kulturen von Osteoklasten auf mineralisierter Matrix werden die Resorptionslakunen reduziert. In Organkulturen langer Knochen oder Schädel von embryonalen Ratten wurde ebenfalls eine Verminderung des Knochenabbaus nachgewiesen (85). Die Hemmung der Knochenresorption lässt sich ferner durch Messungen des eingebauten 45Ca Isotops belegen (6).
+
+In den letzten 30 Jahren ist die Pharmakologie der Bisphosphonate intensiv erforscht worden. Die Geburtstunde der Bisphosphonate reicht jedoch bis in das vorletzte Jahrhundert zurück: Etidronat wurde bereits 1897 vo n deutschen Chemikern produziert (30). Durch die spezielle Molekularstruktur der Bisphosphonate sind chemische Variationen der zwei Reste des Grundmoleküls möglich. Variationen mit Kohlenstoff-, Sauerstoff-, Halogen-, Sulfur- oder Stickstoffatome sowie Ketten- oder Ringstrukturen sind chemisch synthetisierbar. Hierdurch entstehen viele Bisphosphonate mit individuellen physikochemischen und biologischen Charakteristika und Wirkungspotential. Ziel der pharmakologischen Forschung ist Bisphosphonate mit stärkerer antiresorptiver Aktivität, aber ohne zunehmende Hemmung der Mineralisation (27) zu entwickeln. Folgende strukturelle Veränderungen des Moleküls bewirken ein zunehmendesWirkungspotential:
+1.) Das Einbauen einer Aminogruppe am Ende der seitlichen Molekülkette, wie z. B. bei Pamidronat (76).
+
+2.) Eine zusätzliche Hydroxylgruppe am Kohlenstoffatom 1 steigert die antiresorptive Aktivität (87).
+
+
+3.) Die zunemmende Länge der aliphatischen Kohlenstoffatomkette mit einem maximalen Effekt bei vier Kohlenstoffatomen, wie bei Alendronat (84).
+
+
+4.) Das Einbauen einer Methyl- oder einer Penthylgruppe am Stickstoffatom wie bei Ibandronat (69)
+5.) Zyklische Bisphosphonate vor allem diese mit einem Stickstoffatom im Ring, wie Risendronat oder mit einem Imidazolring wie Zolendronat (88).
+
+Ebenso scheint die dreidimensionale Struktur des Moleküls das Wirkungspotential des Medikamentes zu beeinflussen, da stereoisomere Aktivitätsunterschiede aufweisen. In der folgenden Tabelle wird die antiresorptive Potenz der verschiedenen Bisphosphonate im Rattenmodel gezeigt (26). Das bei den Ratten evaluierte Potential entspricht gut den Beobachtungen nach Bisphosphonatanwendungen beim Menschen (31). Die Wirkungsmechanismen der Bisphosphonate sind zellulär und betreffen hauptsächlich Osteoklasten und die Mineralisation der Knochenmatrix. Die an den Hydroxyapatitkristallen der Matrixoberfläche gebundenen Bisphosphonate werden von den Osteoklasten zusammen mit der Matrix phagozytiert. Hierbei kommt es zu einer Änderung der Morphologie und Funktion der Osteoklasten. Mikrospkopisch lassen sich Veränderungen des Zytoskeletts beobachten. Eine Störung der Vitäbilität führt wiederum zu einer gesteigerten Apoptoserate (11, 57). Eine Erklärung hierfür könnte der inhibitorische Einfluß auf den Stoffwechselweg der Mevalonsäure durch stickstoffhaltige Bisphosphonatesein (79). Mevalonsäure ist ein Zwischenprodukt in der Cholesterinsynthese. Unter dem Einfluss einer Phosphatkinase entsteht das Mevalonsäure-5-pyrophosphat, welches durch eine Decarboxylase in Isoprenylpyrophosphat (Isopentenylpyrophosphat) übergeht. Diese „Prenylierung“ ist ein notwendiger Schritt für die Verankerung diverser GTP-asen an der Zellmembran, wie z.B. Rho, Rac, cdc42 und Rab, die für die Osteoklastenfunktion essentiell sind. Die Hemmung der „Prenylierung“ führt zur Dysregulation der intrazellulären Abläufe mit der olgeF der Störung der Zellmorphologie, der Intergrinsignalkaskade, der Bildung der „ruffled borders“ und die intrazelluläre Zirkulation der Endosome. Im Tierexperiment konnte auch eine Hemmung auf die Cholesterolsynthese in Mausmakrophagen durch stickstoffhaltige Bisphosphonate gefunden werden (4). Ein anderer Wirkungsmechanismus wird für die nicht stickstoffhaltigen Bisphosphonate vermutet. Aufgrund der chemischen Verwandschaft zu Pyrophosphat werden nicht stickstoffhaltige Bisphosphonate wie z. B. Clodronat mit in Nukleotidanaloga eingebaut, konsekutiv sind diese nicht mehr hydrolysierbar. Sie akkumulieren intrazellulär, wirken somit toxisch, hemmen die Osteoklastenfunktion und verursachen ebenso deren Apoptose (33, 71, 80).
+
+Ein direkter Effekt der Bisphosphonate auf Osteoblasten wird ebenso diskutiert. Es wird vermutet, dass Osteoblasten ein Protein unter Bisphosphonateinfluss produzieren, das die Rekrutierung von Osteoklasten hemmt (90). Bisphosphonate
+18beeinflussen die Knochenmineralisation. Der nach Bisphosphonatbehandlung entstandene Knochen weist eine bessere biomechanische Qualität auf Bei der Arthritis wurde beobachtet, dass Bisphosphonate lokal die Knochen- und Knorpelresorption hemmen und somit die Gelenkarchitektur erhalten. Die Resorption der Bisphosphonate erfolgte zumeist im Magen und im ersten Teil des Dünndarms wahrscheinlich durch Diffusion. Die gleichzeitige Einnahme vor allem mit Milch oder anderen Produkte, die Kalzium oder Eisen beinhalten, vermindert dramatisch ihre Bioverfügbarkeit. 20-80%, des absorbierten Medikame nts, abhängig vom Alter, Spezies und Wirkungspotential, wird an die Knochenmatrix gebunden. Die Eliminierung erfolgt unverändert renal. Im Blut sind die Bisphosphonate an Proteine, besonders Albumin gebunden, oder sie bilden kleine Aggregate. Deswegen ist bei der intravenösen Gabe Vorsicht geboten: schnelle Ga be größerer Mengen führt zu Bildung von Aggregaten, die zum einen von Makrophagen phagozytiert werden und somit eine „akute Phase Reaktion“ hervorrufen und zum anderen Nierenversagen verursachen können. Zudem kann es auch zu symptomat ischer Hypokalziämie kommen. Die Halbwertszeit der zirkulierenden Bisphosphonate ist besonders kurz und beträgt beim Menschen nur 0,5 – 2 Stunden. Dieses ist die Folge ihrer starken Affinität zu den Kalziumkarbonatkristallen. Sie binden sich an die Hydroxyapatitkristalle der Matrixoberfläche und verlassen so rasch das Blut. Das effektive Niveau wird schnell erreicht und ist dosisabhängig, wobei die Sättigung der Akkumulation im Skelett erst nach Jahrzehnten chronischer Anwendung erreicht werden kann. Die Bisphosphonate werden mit der Zeit in der Knochenmatrix eingebettet und bleiben oftmals lebenslang im Skelett (28). Durch das Einbetten werden sie jedoch inaktiviert. Sobald Osteoklasten zum Zwecke des Knochenumbaus Knochenmatrix phagozytieren, kommt es jedoch wieder zu einer Aktivierung.
+
+In Tierexperimenten wurden keine Mitogenese, Karzinogenese oder Teratogenese durch Bisphosphonate nachgewiesen. In der klinischen Anwendung wird gelegentlich eine Hypokalziämie direkt nach der intravenösen Gabe beobachtet, die mit intravenöser Kalziumgabe schnell zu korrigieren ist . Weitere Nebenwirkungen sind akutes Nierenversagen, gastrointestinale Beschwerden bis zur akuten Gastritis und Ösophagitis. Diese können vermieden werden, wenn di e orale Aufnahme der Medikamente von ausreichender Flüssigkeitseinnahme begleitet wird. Es sollte ferner erwähnt werden, dass einige Bisphosphonate wie Etidronat und Pamidronat
+19plazentagängig sind (42). Die chronische Toxizitätvon Bisphosphonaten in therapeutischer Dosierung ist gering. Bei hochdosiertem Einsatz niedrigpotenter Bisphosphonate, vor allem bei kontinuierlicher Applikation, kann es zu einer Osteomalazie kommen. Diese ist bedingt durch eine konsekutiv verminderte Osteoblastenfunktion und einen niedrigeren Knochenumsatz aufgrund der Osteoklastenhemmung.
+
+Bisphosphonate sind die am häufigst angewandten Medikamentenklasse, beim Einsatz gegen metabolische Knochenerkrankungen und bei Knochenmetastasen wie dem metastasierendem Mammakarzinom oder Prostatakarzinom. Daneben ergibt sich ein breites Einsatzsprektrum bei den unterschiedlichen Osteoporoseformen. Bisphosphosphonate vermögen die Anzahl der skeletal len Ereignisse wie Frakturen und die Schmerzen durch Knochenmetastasen zu verringern. Hierbei ist die Dosierung und Therapiedauer vom jeweiligen benutzten Bisphosphonat, seiner pharmakologischen Potenz und der grundliegenden Erkrankung abhängig. Je nach Indikation können sie oral über 3-6 Monate oder int ravenös einmalig (z. B.
+
+
+Ibandronat oder Zolendronat) oder über 5-10 Tage an gewandt werden. Die Länge der Therapie und die Wiederholung des Zyklus bzw. die Dauertherapie sollte individuell bei jedem Patient je nach Verlauf der biochemischen Marker wie knochenspezifische alkalische Phosphatase und Osteocalcin im Serum oder Hydroxyproline im Urin sowie dem klinischen Erscheinungsbild verordnet werden. Wie bereits in der Einleitung erwähnt spielen Bisphosphonate in der Therapie von vielen metabolischen Knochenerkrankungen mit gesteigerter Osteoklastenaktivität eine entscheidende Rolle. Primäres Einsatzgebiet für Bisphosphonate war ihre Anwendung bei Morbus Paget und tumorassoziierte Metastasen mit Hyperkalziämie. Heutzutage werden sie jedoch auch in der Therapie der kortikosteroid-induzierten und der postmenopausalen Osteoporose sowie der Schmerztherapie bei Knochenmetastasen effektiv eingesetzt. Ein Einsatz bei Osteogenesis Imperfecta wird ebenfalls diskutiert (39). Daneben könnte Ihr Einsatz als Prophylaxe vor Knochenmetastasen bei Patienten mit Mamma- oder Prostatakarzinom sinnvoll sein (21). In einer experimentellen Arbeit lässt sich nachweisen, dass Bisphosphonate sowohl den lokalen Knochenabbau durch Tumor, als auch die Adhäsion und Ausbreitung der Tumorzellen hemmen (61). Dies ist möglicherweise auf den Einfluss der Medikamente auf die lokale Cytokinproduktion zurückzuführen. Ein neuer interessanter pharmakologischer Aspekt ist die Herstellung von Konjugaten aus
+20Bisphosphonaten und Chemostatika (z. B. Methotrexat) (48). Einer der zahlenmäßig häufigsten Anwendungen von Bisphosphonaten ist dieTherapie der Osteoporose. Bisphosphonaten können effektiv den weiteren Knoche nabbau verhindern.
+
+2. FragestellungBisphosphonate sind potente Inhibitoren der Knochenresorption. Sie werden erfolgreich gegen Osteoporose und andere Knochenerkrankungen eingesetzt. Eine der wichtigsten Nebenwirkungen ist die Bisphosphonat-induzierte Knochennekrose. Als Auslöser der Knochennekrosen sind zahnärztliche Eingriffe wie Extraktionen, Paradontalerkrankungen und Druckulcer durch Prothesen zu nennen. Der genaue zelluläre Mechanismus, der zur Bisphosphonat-induzierte Knochennekrose führt und diese unterhält ist bis heute nicht geklärt. Es werden Störungen der Zellfunktion von Osteoblasten, Gefäßzellen und Fibroblasten diskutiert.
+
+Diese Arbeit befasst sich mit folgenden Fragenstellungen:
+1. Haben Bisphosphonate einen direkten Effekt auf humane Osteoblasten, HUVEC und Fibroblasten?Hierfür werden die Proliferations- und Migrationsra te beurteilt.
+
+2. Welche Methoden sind geeignet diese Eigenschaften wissenschaftlich zu erforschen.
+
+
+3.Können Unterschiede in der Morphologie der Zelle n beobachtet werden, die Hinweise auf die Störung des Zytoskeletts geben?
+4.Zeigen sich Unterschiede zwischen den einzelnen Bisphosphonaten?
+
+3. Material und Methoden
+3.1 Verwendete Zellkulturen
+Als Vertreter der Endothelzellen verwendeten wir kommerziell erhältliche humane Endothelzellen der Nabelschnur HUVEC (Lonza, Basel, Schweiz: No. CC2517), für das Fibroblastenmodell wurden humane gingivale Fibrobasten bezogen (Lonza, Basel, Schweiz: No. CC-7049). Zur Untersuchungen der Osteoblasten wurde eine Osteoblastenzelllinie verwendet (PromoCell, Heidelberg, Deutschland: No. C-12720). Die Zellkultur wurde unter Standartbedingungen durchgeführt: 5% CO2, 95% Raumluft bei 37°C und 100% Luftfeuchtigkeit. Die Ze llen wurden bei 90% Konfluenz gesplitet. Zur Ablösung benutzten wir 0,25% Trypsin -EDTA (Seromed Biochrom, Berlin, Germany).
+
+3.1.1. Zellkulturmedium der HUVEC Zellen
+HUVEC Zellen wurden in einem speziellen Endothelzellmedium kultiviert. Dieses bestand aus einem Basismedium (Lonza, Basel, Schweiz), dem Zusätze beigefügt wurden. Folgende Zusätze wurden verwendet: 1 µg/ml Hydrokortison, 12 µg/ml Rinderhirnextrakt, 50 µg/ml Gentamycin, 50 ng/ml Amphotericin-B, 10 ng/ml „Epidermal growth factor“ (EGF) und 10 % fetales Kälberserum (FCS). Zellen ab der dritten Passage wurden verwendet.
+
+3.1.2. Zellkulturmedium der Fibroblasten
+Fibroblasten wurden im Fibroblastenmedium kultiviert, dieses bestand aus einem Basismedium (Lonza, Basel, Schweiz), dem Zusätze beigefügt wurden. Folgende Zusätze wurden verwendet: 1% Streptomycin-Penicilli-Neomycin-Mischung, 500 ng/ml Fibroblastenwachstumsfaktor (bFGF) und 10 % fetales Kälberserum (FCS).
+
+3.1.3. Zellkulturmedium der Osteoblasten
+Osteoblasten wurden in Osteoblastenmedium kultiviert, dieses bestand aus einem Basismedium (DEMEM, Lonza, Schweiz), dem Zusätze beigefügt wurden. Folgende Zusätze wurden verwendet: 1% Streptomycin-Penicilli-Neomycin-Mischung, 1% L- Glutamin und 10 % fetales Kälberserum (FCS).
+
+3.1.4. In vitro Applikation der BisphosphonateAlle Zellen wurden für 72 mit einer aufsteigenden K onzentration (0 µmol/ml, 5 µmol/ml, 50 µmol/ml, 100 µmol/ml, 200 µmol/ml, 500 µmol/ml) der vier untersuchten Bisphosphonate Clodronat, Ibandronat, Pamidronat und Zoledronat inkubiert.
+
+3.2MTT – Assay
+Der MTT-Assay ist ein fotometrischer Ansatz, der schnell und quantitativ die Anzahl und Aktivität verschiedener Zellen bestimmt. Das Verfahren basiert auf der Spaltung des Tetrazoliumrings des MTT durch die Enzyme der Mitochondrien, also kann die Reaktion nur in lebenden Zellen stattfinden (125). Das [3-(4,5- dimethylthiazol-2-)-2,5-diphenyl]- tetrazoliumbromid (MTT, Sigma, Deisenhofen, Deutschland) wird im Medium aufgelöst. Die eingeste llte Konzentration beträgt 100 µmol/ml. Nachdem das Behandlungsmedium aus den 6-Lochplatten mit der Kontrolle und den behandelten Zellen entfernt wurde, wurden 250 µl von der MTT-Lösung (gelblich) pro well zugegeben. Die Platten werden im Brutschrank bei 37C drei Stunden lang inkubiert. Während der Inkubationszeitwird das Tetrazoliumsalz von den Dehydrogenasen zu Formazankristalle (dunkel blau) reduziert. Nach drei Stunden wird die MTT-Lösung entfernt, die Zellen vo rsichtig mit PBS-Lösung gewaschen und zur Auflösung der Formazankristalle 2 ml Lysepuffer (49 ml Isopropanol und 1 ml zwei normaler Salzsäure) zugegeben und die Platten vorsichtig gerüttelt (132). Die optische Dichte der entstehend en blau-violleten Lösung wird nach 30 Minuten im photometrischen Meßgerät (LAB-Systems, Hagedorn, Deutschland) bei 550 nm Wellenlänge gemessen. Die optische Dichte ist proportional zur Anzahl der vitalen Zellen und vor allem zu ihrer biologischen Aktivität, die der Anzahl der Mitochondrien entspricht.
+
+3.3Wundheilungsversuch „Scratch wound assay“ mit Oste oblasten
+Für den Wundheilungsversuch mit Osteoblasten wurden diese in Zellkulturschalen ausgebracht und bis zu einer Konfluenz von 80% kultiviert. Daraufhin wurde mit einer sterilen Pipettenspitze eine Kratzwunde „Scratch wound“ auf dem Zelllayer hervorgerufen. Die Lücke wurde unter dem Mikroskop photographisch festgehalten und als relative Länge der Lücke auf 100% gesetzt. Die Zellen wurden in der nachfolgenden „Heilungsphase“ mit 100 µmol der entsprechenden Bisphosphonate behandelt und alle 24 Stunden bis 72 Stunden nach Versuchsbeginn fotographisch24festgehalten. Als Kontrolle dienten Zellen, die nicht mit Bisphosphonaten behandelt wurden.
+
+3.4Vitale Zellvisualisierung
+Zur vitalen Zellfärbung wurden nach Herstellerangaben 100000 Zellen mit dem Farbstoff gemischt, 30 Minuten inkubiert und danach mit PBS gewaschen. Danach erfolgte die Inkubation der Zellen mit einer unterschiedlichen Konzentration an Bisphophonaten. Nach 72 Stunden wurden die Zellen mit konfokaler Lasermikroskopie (CLSM, Leica TCS SP2 X1, Wetzlar, Deutschland) fotographiert. Hierbei ermöglichte ein spezielles Objektiv, die Ze llen ohne Entfernung des Mediums zu beobachten. Als Anregungslaser diente ein Argonlaser mit einer Wellenlänge von 488 nm. Zur Detektion der ungefärbten Zellanteile diente ein Helium-Neon-Laser mit einer Wellenlänge von 594 nm.
+
+3.5 Statistische Analysen
+Zur Darstellung der Ergebnisse verwendeten wir den Mittelwert (mean) und als Fehler den Standardfehler des Mittelwerts (standard error of men; SEM). Die statistischen Analysen erfolgten mit einem ungepaartem T-Test oder einem ANOVA- Test. Als Statistikprogramme dienten das Computerprogramm SPSS für Windows (SPSS Inc. USA) und/oder der Office-Software Exel (Microsoft). Ein P-Wert von kleiner 0,05 wurde als signifikant bezeichnet.
+
+4. ErgebnisseIm folgenden werden die Ergebnisse des MTT-Vitabilitätstest von HUVEC, gingivaler Fibrobasten und Osteoblasten zusammengefasst. Die Osteoblasten wurden auf ihre Aktivitäts- und Migrationsfähigkeit mittels „Scratch wound assay“ untersucht. Zur Visualisierung des Bisphosphonateffektes wurden weiterhin CLSM-Aufnahmen von Osteoblasten verwendet. Alle diese Versuche beinhalten eine Inkubation der einzelnen Bisphosphonate von 72 Stunden.
+
+4.1MTT-Vitabilitätstest von HUVEC, gingivaler Fibr obasten und Osteoblasten
+Abbildung 1 zeigt die MTT-Messungen der einzelnen Zelltypen nach Inkubation mit den einzelnen Bisphosphonaten. Die Tumorzelllinie wird durch die Bisphosphonate Clodronat, Ibandronat und Zoledronate auch in höher en Konzentrationen nicht beeinflußt. Pamidronat zeigt in höheren Konzentrati onen einen Effekt auf die Vitabilität.
+
+Abbildung 1: MTT-Messungen an PCI 30 Zelllinie nach Inkubation mit unterschiedlichen Bisphosphonaten.
+
+
+Bei dem MTT-Test der Fibroblasten bewirken die stickstoffhaltigen Bisphosphonate Ibandronat, Pamidronat und Zoledronat eine Inhibition der Vitabilität schon in niedrigen Konzentrationen. Wohingegen das stickstoffreie Clodronat nur in höheren Konzentrationen ab 200 µmol eine signifikante (p < 0.01) Beeinflussung zeigt.
+
+Abbildung 2: MTT-Messung an Fibrobasten nach Inkubation mit unterschiedlichen
+Bisphosphonaten. Clodronat: grün; Ibandronat: pink; Zoledronat: blau; Pamidronat: gelb.
+
+Abbilldung 3: MTT-Messung an HUVEC nach Inkubation mit unterschiedlichen
+Bisphosphonaten. Clodronat: grün; Ibandronat: pink; Zoledronat: blau; Pamidronat: gelb.
+
+Bei HUVEC zeigt sich eine signifikante Beeinflussung bei Inkubation mit Zoledronat und Ibandronat in Konzentrationen ab 100 µmol. Eine schwächere Beeinflussung ist bei Ibandronat zu verzeichnen. Der schwächste Effekt wird durch Clodronat hervorgerufen.
+
+Abbildung 4: MTT-Messung an Osteoblasten nach Inkubation mit unterschiedlichen Bisphosphonaten
+Bei den Osteoblasten zeigt sich eine Beeinflussung der Vitabilität bei den Stickstoffhaltigen Bisphosphonaten ab 5 µmol im Vergleich zu unbehandelten Zellen. Der stärkste Effekt wird bei Zoledronat beobachtet.Die Vitabilität bei einer Inkubation mit Ibandronat und Clodronat ist erst ab einer Konzentration von 50 µmol signifikant reduziert. Der schwächste Effekt wird wiederum beiClodronat beobachtet.
+
+4.2 Migrationstest bei Osteoblasten mittels „Scratc h wound assay“
+Zur Ermittlung des Migrationsvermögens wurde ein „Scratch wound assay“ im Osteoblastenmonolayer etabliert. Hierbei zeigte sich, dass Pamidronat den größten Einfluss auf das Migrationsvermögen hat gefolgt von Zoledronat. Zwischen Clodronat und der Kontrolle wurde kein signifikanter Unterschied gefunden. Ab Tag drei unterscheiden sich Pamidronat und Zoleronat signifikant (p<0.01) von der Kontrolle und Clodronat. Die Ergebnisse sind in Abbildung 5 graphisch dargestellt.
+
+Abbildung 5: „Scratch wound assay“ an Osteoblasten inkubiert mit Bisphosphonate (50µmol) über drei Tage. Es zeigt sich eine deutlic he Beeinflussung der Migrationsfähigkeit unter Pamidronat und Zoledronatim Vergleich zur Kontrolle und Clodronat.
+
+4.3 Morphologische Untersuchung von Osteoblasten unter
+BisphosphonatenZur Beinflussung der Morphologie wurden Osteoblasten mit 50 µmol und 100 µmol Bisphosphonaten inkubiert. In Abbildung 6 sehen sie die vitalgefährtem Zellen bei einer 10 fachen Objektivvergrößerung. Es zeigt sich bei der Kontrolle Bild A und niedriger Clodronatkonzentration, Bild B, ein unvollständiger Monolayer von Osteoblasten. Die Zugabe von 100 µmol Ibandronat fü hrt zu einer Reduktion der Zellzahl, als auch zu einer mehr spindelförmigen Ze llform (Bild C). Inkubation von 72 Stunden mit 100 µmol Pamidronat (Bild D) oder Zoledronat (Bild E) resultiert in einer weiteren Reduktion der Zellzahl und Verlust der Osteoblasten typischen Zellform mit Podozyten.
+
+Abbildung 6: CLSM-Bilder bei 10-facher Objektivvergrößerung von vitalgefärbten Osteoblasten. A = Kontrolle; B = Clodronat 100 µmol; C = Ibandronat 100 µmol; D = Pamidronat 100 µmol; E = Zoledronat 100 µmol.
+
+Abbildung 7 lässt auf Grund der größeren 40-fachen Objektivvergrößerung mehr Details erkennen. Abildungen 7 A-I zeigen representative Bilder von Osteoblasten mit 0 µmol, 50 µmol und 100 µmol Bisphosphonaten nach 72 Stunden Inkubation. Eine normale Zellmorphologie lässt sich in Abbildung A rkennen: Es zeigen sich atarierte Zellen mit Podoyzten und Filopodien. Das Stoma erscheint flach mit einer großen Zelloberfläche. Ein vergleichbares Bild zeigt sichin Abbildung B, 50 µmol Clodronat. Hier erscheint es sogar zu einer leichten Vermehrung der Podozyten und Filopodien gekommen zu sein. Ab Abbildung C, 100 µmol Clodronat, kommt es zu einer Reduktion der Podozyten. Dies wird noch deutlicher in Abbildung D (50 µmol Ibandronat) und Abbildung E (100 µmol Ibandronat). Hier nimmt die Zelloberfläche ab, die Anzahl und Länge der Podozyten ist verkürzt. Abbildung F (50 µmol Pamidronat) und Abbildung G (100 µmol Pamidronat) resultieren in einer weiteren Atrophie der Zellmorphologie, Die stärkste Wirkungder Bisphosphonate wird bei 50 µmol und 100 µmol Zoledronat (Bild H und I) in einer klaren Konzentrationsabhängigkeit beobachtet. Die Zellen rscheinen abgerundet, und die Zellausläufer sind drastisch reduziert sowohl in der Anzahl als auch in der Länge.
+
+Abbildung 7: CLSM-Bilder bei 10-facher Objektivvergrößerung von vitalgefärbten Osteoblasten. A = Kontrolle; B = Clodronat 50 µmol; C = Clodronat 100 µmol; D = Ibandronat 50 µmol E = Ibandronat 100 µmol; F = Pamidronat 50 µmol; G = Pamidronat 100 µmol; H = Zoledronat 50 µmol I; = Zoledronat 100 µmol.
+
+5. DiskussionBisphosphonate sind Medikamente, die in der Behandlung vieler Knochenerkrankungen eingesetzt werden. Beispiele hierfür sind verschiedene Osteoporosearten, M. Paget, Hyperkalziämie, Knochenmetastasen, multiples Myelom, Osteogenesis imperfekta (39), ektopische Kalzifizierung des Weichgewebes (87) sowie sekundäre Osteopathien wie bei der Niereninsuffizienz, oder bei der rheumatoiden Arthritis.
+
+Eine der wichtigsten Nebenwirkungen aus zahnmedizinischer Sicht ist die Bisphosphonat-assoziierte Knochennekrose. Hierbei wird eine Beeinflusung von verschieden Zellarten diskutiert, die am Knochenumbau, der vaskulären Versorgung und der Regeneration sowie der Wundheilung beteiligt sind. Wir konnten zeigen, das neben der bekannten Interaktion mit Osteoklasten, Osteoblasten, HUVEC und Fibroblasten von den unterschiedlichen Bisphosponaten beeinflusst werden.
+
+Weiterhin konnten wir einen Unterschied zwischen Stickstoff haltigen und Stickstoff freien Bisphosphonaten nachweisen. Interessanterweise hatte eine niedrige Konzentration von Clodronat sogar einen fördernden Einfluss in den unterschiedlichen Versuchen.
+
+5.1 Bewertung des Zellkulturmodells
+Die in vitro Untersuchung der pharmakologischen Beeinflussung von Medikamenten stellt eine adäquate Methode dar. Hier lassen sicheine ganze Reihe von Information ableiten, die auch im komplexen Organismus eine Rolle spielen. Speziell die direkte Beinflussung des Medikamentes auf die Zellkulur läst sich mittels veschiedener Mikroskoptechnik untersuchen. Im Rahmen dieser Arbeit verwendeten wir den MTT- Assay als Vitabilitätstest. Er ermöglicht, wie bereits im Methodenteil ausgeführt, die Stoffwechselumsatzrate der eukaryoten Zelle abzuschätzen. Daneben geht auch noch die eingesetzte Zellzahl ein, so dass diese mö glichst konstant gehalten werden musste. Komplexer Verfahren der Vitabilitätsmessungsind oftmals aufwendiger und hätten keine wesentlicheren Informationen geliefert. Für die Migration wählten wir das „Scratch wound“-Modell. Der wesentliche Fortteil diese Verfahrens stellt die kontinuiertliche mikroskopische Betrachtung dar. Der gleiche Bildausschnitt lässt zu verschiedenen Zeitpunkten photographisch festhalten und auswerten. Im Vergleich32zu anderen Verfahren wie einem Boyden-Kammer-Migrationsversuch ist sie jedoch als ungenauer zu bezeichnen. Die limitierende Größe des gewählten Versuchsansatzes ist die Beeinflussung von den verschieden Zellarten untereinander. Daher wir es in nachfoldenden Arbeiten von Bedeutung sein diese Ergbnisse in ein Tiermodell zu übertragen. Hierbei wäre es zum Beispiel möglich, dass Angiogeneseverhalten unter Bisphosphonate direkt an Gefäßstrukturen zu erforschen. Zur Untersuchung der in vitro Reagibilität der Bisphosphonate wurden unterschiedliche Konzentrationen verwendet. Sie erstreckten sich von 0 – 500 µmol. Um die in vitro Ergebnisse auf die in vivo Bedingungen zu übertragen, ist die Kenntnis der Pharmakologie der Bisphosphonate unerlässlich. Nach systemischer oder oraler Applikation verschwinden die Bisphosphonate rasch aus dem Plasma und binden sich spezifisch an die Hydroxyapatitkristalle im Knochen. Dort bleiben sie bis zu zehn Jahren, abhängig von der Spezies und dem Knochenumsatz (58). Die maximale Plasmakonzentration nach therapeutischer Anwendung von Ibandronat beträgt 3-6 x 10-7 M (22). Wenn der Knochen, in dem die Bisphosphonate deponiert sind, resorbiert wird, werden sie in die Knochenmikroumgebung befreit und beeinflussen alle Knochenzellen (27). Die lokal erreichte Konzentration ist häufig untersucht worden. King et al haben Beagles Pamidronat verabreicht und die Konzentration im Sternum nach einem und zwei Jahre gemessen. Sie konnten im Durchschnitt 537 ng Pamidronat / mg Knochen, was 1,5 x 109 mol / mg Knochen entspricht, nachweisen (53, 54). Sato et al. setzten für ihre Versuche radioaktiv markiertes Alendronat ein. Es konnte Bindungskapazität von 105 nmol Alendronat / mg Knochen und eine Alendronatlokalisation von 0,8 mM an der Osteoklastenoberfläche bei Rattenknochen gemessen werden. Hierbei wurden 72% des injizierten Medikaments auf der osteoklastärenOberfläche, 2% auf Oberflächen der Knochenformation und 13% in anderen Bereichen nachgewiesen (27, 83). Frühere Zellkulturuntersuchungen haben positive Eff ekte auf die Proliferation und Differenzierung der Zellen unter Applikation von Bisphosphonaten in mikro - oder nanomolaren Konzentrationen beobachtet (16, 25). Mc Kane et al demonstrierten, dass 2 x 10-9 M Alendronat die Resorptionskapazität der Osteoklasten um 50% inhibiert (64). Aus diesem Grund spiegeln Konzentrationen bis 100 µmol am ehesten die pharmakologische Verhältnisse im Organismus wieder.
+
+5.2 Reagibilität der an der Wundheilung beteiligten ZellenVerschiedene Theorien zur Entwicklung der Bisphosphonatosteonekrose werden in der Literatur diskutiert. Eine Beeinflussung der Osteoklasten bis hin zur Apoptose und nachfolgender verändertem Knochen-Remodeling gilt als unumstritten (12, 13). Ein weiterer wichtiger Faktor scheint eine gestörte Angiogenese zu sein (14). Auch ist eine Störung des Epithels durch Bisphosphonate denkbar. Proapoptotische Effekt für Keratinozyten in der Mundhöhle und des Grastroi ntestinaltraktes wurden bereits in der Literatur beschrieben (10, 15, 16). In der hier vorliegenden Arbeit wurde deshalb die Beeinflussung der Vitabilität von HUVEC, Fibrobasten und Osteoblasten nachgewiesen. Für Osteoblasten wurde weiterhin die Beeinflussung der Migrationsfähigkeit im „Scratch wound“-Assay nachgewiesen. Auch spiegelt sich die Beeinflussung der Osteoblasten in den CLSM Aufnahmen wieder. Hohe Konzentration von stickstoffhaltigen Bisphosphonaten resultieren in einer gestörten Zellstruktur: Podozyten und Filopodien werden zurüc kgebildet, die Zytoskelettarchitektur erscheint gestört und die Ze lloberfläche verringert sich. Die stärksten Effekte werden durch Zoledronat und Pamidronat hervorgerufen. Clodronat hat nur einen geringen negativen Effekt in hohen Konzentration. Interessanterweise erscheint die Anzahl an Podoyten in niedrigen Konzentrationen sogar leicht erhöht.
+
+Eine wichtige Fragen bezüglich des Auftretens der O steonekrose ist der zahnärztlich- chirurgische Eingriff. Er stellt oftmals den auslös enden Moment dar, insbesondere wenn auf einen suffizienten, speicheldichten Wundverschluss verzichtet wird. Durch eine traumatische Schädigung kommt es im Wundgebietzu einer Senkung des pH- Wertes. Dies führt zu einer verstärkten Freisetzung des mit Ca2+ in einer
+Chelatbindung vorliegenden Bisphosphonate. Diese verstärkte Bisphosphonatfreisetzung könnte einen schädigenden Einfluss auf Endothelzellen, Fibroblasten und Osteoblasten ausüben. Eine Schädigung dieser Zellenarten führt zwangsweise zu einer gestörten Wundheilung.
+
+EIne Bisphosphonat assoziierten Osteonekrose ist oftmals mit der Gabe von Aminobisphosphonaten verknüpft. Typische Vertreten dieser Medikamentengruppe sind Pamidronat und Zoledronat (2, 17). Ibandronat und Aledronat sind dargegen selten mit einer Osteonekrose verknüpft (18). Für n icht Stickstoff haltige Bisphosponate gibt es nur einige wenige Patientenfälle in der Literatur (19). Eine Erklärung hierfür findet sich in den Ergebnissen dieser Arbeit: Die
+34Aminobisphosphonate haben einen negativen Effekt auf alle untersuchten Zelltypen. Die stärksten Effekte wurden bei Pamidronat und Zoledronat beobachtet.
+
+5.3 Beeinflussung der Angiogenese durch Bisphosphonate
+Ein wesentlicher Faktor bei der Enstehung und Unterhaltung der Bisphosphonatnekrose könne aus einer Hemmung der An giogenese resultieren. Hierbei lassen sich zwei Arten der Blutgefäßentwicklung unterscheiden: Angiogenese und Vaskulogenese. Das Angiogenesemodell geht von der mitotischen Teilung von maturen Endothelzellen aus, die dann das Aussprossen neuer Gefäße ermöglichen. (105). Die Vaskulogenese betont die Bedeutung von endothelialen Stammzellen (EPC), die aus Knochenmarknischen freigesetzt werden und an Stelle der Gefäßneubildung integrieren und hier zu einer Gefäßaussprossung führen. Die Bedeutung der EPC im Rahmen der Infarktheilung am Herzen konnte bereits gezeigt werden (106). Durch die negative Beeinflussung von HUVEC insbesondere durch Aminobisphosphonate in der forliegenden Arbeit konnten wir die Hypothese stützen, dass es unter der Therapie von Bisphosphonaten zu einer Hemmung der Angiogenese kommt. Auch ist die Zellzahl in Patienten unter Bisphosphonattherapie signifikant reduziert (107). Dahingegen scheint Clodronat als Vertreter der Stickstoff freien Bisphosphonate die Angiogenese und Vaskulogenese am wenigsten zu beeinflussen. Stickstofffreien Bisphosphonate scheinen den Energielevel der Zellen zu senken, in dem es ATP abhängige Enzyme hemmt. Die Wirkung derstickstoffhaltigen Bisphosphonate wird durch die Hemmung der Farnesylpyrophosphatsynthase vermittelt. Daraus resultiert eine Hemmung des Mevalonatstoffwechselweges. Hierdurch kommt es zue einer negativen Beeinflussung von Ras, Rac and Rho Proteinen, die eine wichtige Rolle bei der Zytoskelettorganisation und Zellproliferation spielen (108, 109).
+
+6. Zusammenfassung
+
+Die Bisphosphonat assoziierte Osteonekrose des Kiefers ist die wichtigste Nebenwirkung im zahnmedizinischen Bereich bei Patienten unter oder nach einer Therapie mit Bisphosphonaten. Die genaue Äthiologie ist Gegenstand der aktuellen Forschung. Neben einem reduziertem Knochen Remodeling spielt die Beeinflussung des Weichgewebes eine wichtige Rolle. Insbesondere stickstoffhaltige Bisphosphonate wie Pamidronat und Zoledronat haben einen negativen Effekt auf die Vitabilität von Endothelzellen, Fibrobasten undOsteoblasten. Insbesondere im Rahmen der Wundheilung führt eine Hemmung des Stoff wechsels dieser Zellen zu einem komprimentierenden Effekt der in der Ausbildung einer avaskulären Nekrose des Knochens münden kann. Auch auf zytologischer Eb ene konnten wir eine Beeinflussung durch Bisphosponate nachweisen. Pamidronat und Zoledronat führen zu einer Reduzierung der Zellausläufer und zu einerAbnahme der Zelloberfläche bei Osteoblasten. Dahingegen ist der negative Effekt von hohen Clodronatkonzentrationen auf die Zellmorphologie eher als gering zu bezeichnen.
+
+Es konnte somit die Hypothese gestüzt werden, dass die Osteonekrose unter Bisphosphonattherapie ein multifaktorielles Geschehen auf unterschiedliche Zellarten des Hart- und Weichgewebes ist. Diese Erkenntnisse könnten in neue Therapiekonzepte wie einem „Drug holiday“ oder medikamentöse Sublimentierung von Stoffwechselprodukten des Mevalonatstoffwechsels münden.
+
+7. Literaturverzeichnis
+
+1.Diel IJ, Bergner R, Grotz KA 2007 Adverse effects of bisphosphonates: current issues. J Support Oncol 5(10):475-82.
+
+2.Aarden EM, Burger EH, Nijweide PJ. Function of osteocytes in bone. J Cell Biochem 55 (3): 287-99., 1994.
+
+
+3.Adami S, Zamberlan N. Adverse effects of bisphosphonates. A comparative review. Drug Saf 14 (3): 158-70., 1996.
+
+
+4.Amin D, Cornell SA, Gustafson SK, Needle SJ, Ullrich JW, Bilder GE, Perrone MH.
+
+
+Bisphosphonates used for the treatment of bone disorders inhibit squalene synthase and cholesterol biosynthesis. J Lipid Res 33 (11): 1657-63., 1992.
+
+
+5. Amling M, Delling G. [Cell biology of osteoclasts and molecular mechanisms of bone resorption]. Pathologe 17 (5): 358-67., 1996..
+
+
+6. Antic VN, Fleisch H, Muhlbauer RC. Effect of bisphosphonates on the increase in bone resorption induced by a low calcium diet. Calcif Tissue Int 58 (6): 443-8., 1996.
+
+
+7. Basha B, Rao DS, Han ZH, Parfitt AM. Osteomalacia due to vitamin D depletion: a
+neglected consequence of intestinal malabsorption. Am J Med 108 (4): 296-300., 2000.
+
+8.Battmann A. Menschliche Osteozytenkulturen: Ein Biomodell der Knochenzellfunktion. Inauguraldisertation, Fachbereich Humanmedizin der Justus- Liebig-Universität, Gießen.,1991.
+
+
+9.Battmann A, Jundt G, Schulz A. Endosteal human bone cells (EBC) show age-
+related activity in vitro. Exp Clin Endocrinol Diabetes 105 (2): 98-102, 1997.
+
+10. Birch MA, Ginty AF, Walsh CA, Fraser WD, Gallagher JA, Bilbe G. PCR detection of cytokines in normal human and pagetic osteoblast-like cells. J Bone Miner Res 8 (10): 1155-62, 1993.
+
+11.Boonekamp PM, Lowik CW, van der Wee-Pals LJ, van Wijk-van Lennep ML, Bijvoet OL. Enhancement of the inhibitory action of APD on the transformation of
+osteoclast precursors into resorbing cells after dimethylation of the amino group. Bone Miner 2 (1): 29-42., 1987.
+
+12. Brand JS, Hefley TJ, Collagenase and the isolation of cells from bone, Cell Separations: Methods and Selected Applications, Vol 3, Seiten 265-83, 1984
+13. Burkhardt R, Kettner G, Bohm W, Schmidmeier M, Schlag R, Frisch B, Mallmann B, Eisenmenger W, Gilg T. Changes in trabecular bone, hematopoiesis and bone marrow vessels in aplastic anemia, primary osteoporosis, and old age: a comparative histomorphometric study. Bone 8 (3): 157-64, 1987.
+
+14. Calvo MS, Eyre DR, Gundberg CM. Molecular basis and clinical application of biological markers of bone turnover. Endocr Rev 17 (4): 333-68., 1996.
+
+
+15. Carani C, Qin K, Simoni M, Faustini-Fustini M, Serpente S, Boyd J, Korach KS, Simpson ER. Effect of testosterone and estradiol in a man with aromatase deficiency. N Engl J Med 337 (2): 91-5., 1997.
+
+
+16.Carano A, Teitelbaum SL, Konsek JD, Schlesinger PH, Blair HC.
+
+
+Bisphosphonates directly inhibit the bone resorption activity of isolated avian osteoclasts in vitro. J Clin Invest 85 (2): 456-61., 1990.
+
+
+17. Chenu C, Colucci S, Grano M, Zigrino P, Barattolo R, Zambonin G, Baldini N, Vergnaud P, Delmas PD, Zallone AZ. Osteocalcin induces chemotaxis, secretion of matrix proteins, and calcium-mediated intracellular signaling in human osteoclast-like cells. J Cell Biol 127 (4): 1149-58., 1994.
+
+18. Coleman JE. Structure and mechanism of alkaline phosphatase. Annu Rev Biophys Biomol Struct 21: 441-83, 1992.
+
+19. Cooper C, Campion G, Melton LJ, 3rd. Hip fractures in the elderly: a worldwide
+projection. Osteoporos Int 2 (6): 285-9., 1992.
+
+20. Deckers MM, van Bezooijen RL, van Der Horst G, Hoogendam J, van Der Bent C, Papapoulos SE, Lowik CW. Bone Morphogenetic Proteins Stimulate Angiogenesis through Osteoblast- Derived Vascular Endothelial Growth Factor A. Endocrinology 143 (4): 1545-53., 2002.
+
+
+21.Diel IJ, Solomayer EF, Bastert G. Bisphosphonates and the prevention of metastasis: first evidences from preclinical and clinical studies. Cancer 88 (12 Suppl):
+3080-8., 2000.
+
+22.Dooley M, Balfour JA. Ibandronate. Drugs 57 (1): 101-8; discussion 109-10, 1999.
+
+
+23.Elford PR, Guenther HL, Felix R, Cecchini MG, Fleisch H. Transforming growth
+factor-beta reduces the phenotypic expression of osteoblastic MC3T3- E1 cells in monolayer culture. Bone 8 (4): 259-62, 1987.
+
+24.Evans DM, Ralston SH. Nitric oxide and bone. J Bone Miner Res 11 (3): 300- 5., 1996.
+
+
+25.Felix R, Guenther HL, Fleisch H. The subcellular distribution of
+[14C]dichloromethylenebisphosphonate and [14C]1–hydroxyethylidene -1,1- bisphos- phonate in cultured calvaria cells. Calcif Tissue Int 36 (1): 108-13., 1984.
+
+26. Fleisch H. Bisphosphonates in Bone Disease. From the Laboratory to the Patient. Forth Edition 2000.
+
+
+27. Fleisch H. Bisphosphonates. Pharmacology and use in the treatment of tumour- induced hypercalcaemic and metastatic bone disease. Drugs 42 (6): 919-44., 1991.
+
+
+28. Fleisch H. Bisphosphonates: a new class of drugs in diseases of bone andcalcium metabolism. Recent Results Cancer Res 116: 1-28, 1989.
+
+29. Fleisch H. Bisphosphonates: mechanisms of action and clinical use in
+osteoporosis--an update. Horm Metab Res 29 (3): 145-50., 1997.
+
+30. Fleisch H. Diphosphonates: history and mechanisms of action. Metab Bone Dis
+Relat Res 3 (4-5): 279-87, 1981.
+
+31. Fleisch H. Mechanisms of action of the bisphosphonates. Medicina (B Aires) 57 (Suppl 1): 65-75., 1997.
+
+
+32. Francis MD, Russell RG, Fleisch H. Diphosphonates inhibit formation of calcium phosphate crystals in vitro and pathological calcification in vivo. Science 165 (899): 1264-6., 1969.
+
+
+33.Frith JC, Monkkonen J, Blackburn GM, Russell RG, Rogers MJ. Clodronate and liposome-encapsulated clodronate are metabolized to a toxic ATP analog, adenosine
+5’-(beta, gamma-dichloromethylene) triphosphate, by mammalian cells in vitro. J Bone Miner Res 12 (9): 1358-67., 1997.
+
+34.Fujita T. Parathyroid hormone in the treatment of osteoporosis. BioDrugs 15 (11):
+721-8, 2001.
+
+35.Gallop PM, Lian JB, Hauschka PV. Carboxylated calcium-binding proteins and
+vitamin K. N Engl J Med 302 (26): 1460-6., 1980.
+
+36. Garcia C, Boyce BF, Gilles J, Dallas M, Qiao M, Mundy GR, Bonewald LF. Leukotriene B4 stimulates osteoclastic bone resorption both in vitro and in vivo. J Bone Miner Res 11 (11): 1619-27., 1996.
+
+
+37. Garcia-Porrua C, Gonzalez-Gay MA, Avila-Alvarenga S, Rivas MJ, Soilan J, Penedo M. Coeliac disease and osteomalacia: an association still present in Western countries. Rheumatology (Oxford) 39 (12): 1435., 2000.
+
+38.Gerakis A, Hadjidakis D, Kokkinakis E, Apostolou T, Raptis S, Billis A. Correlation of bone mineral density with the histological findings of renal osteodystrophy inpatients on hemodialysis. J Nephrol 13 (6): 437-43., 2000.
+
+39. Glorieux FH. Bisphosphonate therapy for severe osteogenesis imperfecta. J Pediatr Endocrinol Metab 13 Suppl 2: 989-92., 2000.
+
+
+40. Glorieux FH, Ward LM, Rauch F, Lalic L, Roughley PJ, Travers R. Osteogenesis imperfecta type VI: a form of brittle bone disease with a mineralization defect. J Bone Miner Res 17 (1): 30-8., 2002.
+
+
+41. Gomez B, Jr., Ardakani S, Ju J, Jenkins D, Cerelli MJ, Daniloff GY, Kung VT. Monoclonal antibody assay for measuring bone-specific alkaline phosphatase activity in serum. Clin Chem 41 (11): 1560-6., 1995.
+
+
+42.Graepel P, Bentley P, Fritz H, Miyamoto M, Slater SR. Reproduction toxicity studies with pamidronate. Arzneimittelforschung 42 (5): 654-67., 1992.
+
+
+43.Greenfield EM, Goldberg VM. Genetic determination of bone density. Lancet 350 (9087): 1263-4., 1997.
+
+
+44.Hansen NM, Felix R, Bisaz S, Fleisch H. Aggregation of hydroxyapatite crystals.
+
+
+Biochim Biophys Acta 451 (2): 549-59., 1976.
+
+
+45.Haslam SI, Van Hul W, Morales-Piga A, Balemans W, San-Millan JL, Nakatsuka K, Willems P, Haites NE, Ralston SH. Paget’s disease of bone: evidence for a
+susceptibility locus on chromosome 18q and for genetic heterogeneity. J Bone Miner Res 13 (6): 911-7., 1998.
+
+46. Hinrichs B, Dreyer T, Battmann A, Schulz A. Histomorphometry of active osteoblast surface labelled by antibodies against non-collagenous bone matrix proteins. Bone 14 (3): 469-72., 1993.
+
+
+47. Hofbauer LC, Khosla S, Dunstan CR, Lacey DL, Boyle WJ, Riggs BL. The roles of osteoprotegerin and osteoprotegerin ligand in the paracrine regulation of bone resorption. J Bone Miner Res 15 (1): 2-12., 2000.
+
+48.Hosain F, Spencer RP, Couthon HM, Sturtz GL. Targeted delivery of antineoplastic agent to bone: biodistribution studies of technetium-99mlabeled gem-
+bisphosphonate conjugate of methotrexate. J Nucl Med 37 (1): 105-7., 1996.
+
+49. Jilka RL, Takahashi K, Munshi M, Williams DC, Roberson PK, Manolagas SC. Loss of estrogen upregulates osteoblastogenesis in the murine bone marrow. Evidence for autonomy from factors released during bone resorption. J Clin Invest 101 (9): 1942-50, 1998.
+
+
+50.Jilka RL, Weinstein RS, Bellido T, Parfitt AM, Manolagas SC. Osteoblast programmed cell death (apoptosis): modulation
+51.Kanis JA, Adami S. Bone loss in the elderly. Osteoporos Int 4 (Suppl 1): 59- 65., 1994.
+
+52.Kanis JA, Melton LJ, 3rd, Christiansen C, Johnston CC, Khaltaev N. The diagnosis of osteoporosis. J Bone Miner Res 9 (8): 1137-41., 1994.
+
+
+53.Khosla S, Peterson JM, Egan K, Jones JD, Riggs BL. Circulating cytokine levels
+in osteoporotic and normal women. J Clin Endocrinol Metab 79 (3): 707-11., 1994.
+
+54.King LE, Grynpas MD, Tomlinson G, Vieth R. Pamidronate content and turnover in sternum, vertebral body, and iliac bones of dogs. Bone 20 (5): 405- 11., 1997.
+
+
+55.Kumar R. Tumor-induced osteomalacia and the regulation of phosphate
+homeostasis. Bone 27 (3): 333-8., 2000.
+
+56. Lau KH, Baylink DJ. Molecular mechanism of action of fluoride on bone cells. J Bone Miner Res 13 (11): 1660-7., 1998.
+
+
+57. Lerner UH, Larsson A. Effects of four bisphosphonates on bone resorption, lysosomal enzyme release, protein synthesis and mitotic activities in mouse calvarial bones in vitro. Bone 8 (3): 179-89, 1987.
+
+58.Lin JH. Bisphosphonates: a review of their pharmacokinetic properties. Bone 18
+(2): 75-85., 1996.
+
+59.Lindsay R. Fluoride and bone--quantity versus quality. N Engl J Med 322 (12):
+845-6., 1990.
+
+60.Lutton JD, Moonga BS, Dempster DW. Osteoclast demise in the rat: physiological versus degenerative cell death. Exp Physiol 81 (2): 251-60., 1996.
+
+
+61.Magnetto S, Boissier S, Delmas PD, Clezardin P. Additive antitumor activities of taxoids in combination with the bisphosphonate ibandronate against invasion and
+adhesion of human breast carcinoma cells to bone. Int J Cancer 83 (2): 263-9., 1999.
+
+62. Malaval L, Modrowski D, Gupta AK, Aubin JE. Cellular expression of bonerelated proteins during in vitro osteogenesis in rat bone marrow stromal cell cultures. J Cell Physiol 158 (3): 555-72., 1994.
+
+
+63.Manolagas SC. Cellular and molecular mechanisms of osteoporosis. Aging (Milano) 10 (3): 182-90, 1998.
+
+
+64.McKane WR, Khosla S, Peterson JM, Egan K, Riggs BL. Circulating levels of
+cytokines that modulate bone resorption: effects of age and menopause in women. JBone Miner Res 9 (8): 1313-8, 1994.
+
+65. Meunier PJ. Anabolic agents for treating postmenopausal osteoporosis. Joint Bone Spine 68 (6): 576-81., 2001.
+
+
+66. Migliaccio S, Davis VL, Gibson MK, Gray TK, Korach KS. Estrogens modulate the responsiveness of osteoblast-like cells (ROS 17/2.8) stably transfected with estrogen receptor. Endocrinology 130 (5): 2617-24., 1992.
+
+
+67.Miller SC, Bowman BM, Smith JM, Jee WS. Characterization of endosteal bone- lining cells from fatty marrow bone sites in adult beagles. Anat Rec 198 (2): 163-73.,1980.
+
+68. Mills BG, Frausto A, Singer FR, Ohsaki Y, Demulder A, Roodman GD. Multinucleated cells formed in vitro from Paget’s bone marrow express viral antigens. Bone 15 (4): 443-8., 1994.
+
+
+69. Muhlbauer RC, Bauss F, Schenk R, Janner M, Bosies E, Strein K, Fleisch H. BM 21.0955, a potent new bisphosphonate to inhibit bone resorption. J Bone Miner Res 6 (9): 1003-11., 1991.
+
+
+70.Nijweide PJ, Burger EH, Feyen JH. Cells of bone: proliferation, differentiation, and hormonal regulation. Physiol Rev 66 (4): 855-86., 1986.
+
+
+71.Pelorgeas S, Martin JB, Satre M. Cytotoxicity of dichloromethane diphosphonate and of 1-hydroxyethane-1,1-diphosphonate in the amoebae of the slime mould
+Dictyostelium discoideum. A 31P NMR study. Biochem Pharmacol 44 (11): 2157-63., 1992.
+
+72.Pfeilschifter J, Diel I, Pilz U, Brunotte K, Naumann A, Ziegler R. Mitogenic responsiveness of human bone cells in vitro to hormones and growth
+factorsdecreases with age. J Bone Miner Res 8 (6): 707-17., 1993.
+
+73.Prallet B, Male P, Neff L, Baron R. Identification of a functional mononuclear precursor of the osteoclast in chicken medullary bone marrow cultures. J Bone Miner
+Res 7 (4): 405-14., 1992.
+
+74.Reginster JY. Calcitonin and bone diseases. Lancet 339 (8800): 1064-5., 1992.
+
+
+75.Reginster JY, Deroisy R, Fontaine MA, Franchimont P. Influence of estrogen
+replacement therapy on endogenous calcitonin production rates. Gynecol Endocrinol 6 (1): 65-71., 1992.
+
+
+76.Reitsma PH, Bijvoet OL, Frijlink WB, Vismans FJ, van Breukelen FJ. Pharmacology of disodium (3-amino-1-hydroxypropylidene)-1, 1- bisphosphonate.
+
+Adv Exp Med Biol 128: 219-27, 1980.
+
+
+77. Rickard DJ, Gowen M, MacDonald BR. Proliferative responses to estradiol, IL- 1 alpha and TGF beta by cells expressing alkaline phosphatase in human osteoblast- like cell cultures. Calcif Tissue Int 52 (3): 227-33., 1993.
+
+
+78.Ringe JD. [Osteoporosis in men]. Dtsch Med Wochenschr 116 (42): 1612., 1991.
+
+
+79.Rogers MJ, Frith JC, Luckman SP, Coxon FP, Benford HL, Monkkonen J, Auriola S, Chilton KM, Russell RG. Molecular mechanisms of action of bisphosphonates.
+
+
+Bone 24 (5 Suppl): 73S-79S., 1999.
+
+
+80. Rogers MJ, Ji X, Russell RG, Blackburn GM, Williamson MP, Bayless AV, Ebetino FH, Watts DJ. Incorporation of bisphosphonates into adenine nucleotides by amoebae of the cellular slime mould Dictyostelium discoideum. Biochem J 303 (Pt 1): 303-11., 1994.
+
+
+81. Rowe PS. The molecular background to hypophosphataemic rickets. Arch Dis Child 83 (3): 192-4., 2000.
+
+
+82. Russell RG, Bisaz S, Fleisch H, Currey HL, Rubinstein HM, Dietz AA, Boussina I, Micheli A, Fallet G. Inorganic pyrophosphate in plasma, urine, and synovial fluid of patients with pyrophosphate arthropathy (chondrocalcinosis or pseudogout). Lancet 2 (7679): 899-902., 1970.
+
+
+83. Sato M, Grasser W, Endo N, Akins R, Simmons H, Thompson DD, Golub E, Rodan GA. Bisphosphonate action. Alendronate localization in rat bone and effects on osteoclast ultrastructure. J Clin Invest 88 (6): 2095-105., 1991.
+
+
+84.Schenk R, Eggli P, Fleisch H, Rosini S. Quantitative morphometric evaluation
+45of the inhibitory activity of new aminobisphosphonates on bone resorption in the rat. Calcif Tissue Int 38 (6): 342-9., 1986.
+
+85. Schenk R, Merz WA, Muhlbauer R, Russell RG, Fleisch H. Effect of ethane-1- hydroxy-1,1-diphosphonate (EHDP) and dichloromethylene diphosphonate (Cl 2 MDP) on the calcification and resorption of cartilage and bone in the tibial epiphysis and metaphysis of rats. Calcif Tissue Res 11 (3): 196-214., 1973.
+
+
+86. Schulz A, Osteoporose, Pathogenese, Diagnosstik und Therapiemöglichkeiten Kap.1.4: Aufbau und Funktion des Skelltes. Walter de Gruyter -Verlag in Berlin; New York, S 64-86, 1991.
+
+
+87. Shinoda H, Adamek G, Felix R, Fleisch H, Schenk R, Hagan P. Structureactivity relationships of various bisphosphonates. Calcif Tissue Int 35 (1): 87- 99, 1983.
+
+
+88.Sietsema WK, Ebetino FH, Salvagno AM, Bevan JA. Antiresorptive
+doseresponse relationships across three generations of bisphosphonates. Drugs Exp Clin Res 15 (9): 389-96, 1989.
+
+89.Uusitalo H, Hiltunen A, Ahonen M, Gao TJ, Lefebvre V, Harley V, Kahari VM, Vuorio E. Accelerated up-regulation of L-Sox5, Sox6, and Sox9 by BMP-2 gene
+transfer during murine fracture healing. J Bone Miner Res 16 (10): 1837- 45., 2001.
+
+90. Vitte C, Fleisch H, Guenther HL. Bisphosphonates induce osteoblasts to secrete an inhibitor of osteoclast-mediated resorption. Endocrinology 137 (6): 2324-33, 1996.
+
+
+91. Marx RE 2003 Pamidronate (Aredia) and zoledronate (Zometa) induced avascular necrosis of jaws: a growing epidemic. J Oral Maxillofac Surg 61(9):1115 1117.
+
+
+92.Walter C, Grotz KA, Kunkel M, Al-Nawas B 2007 Prevalence of
+bisphosphonate associated osteonecrosis of the jaw within the field of osteonecrosis. Support Care Cancer 15(2):197-202.
+
+
+93.Advisory Task Force on Bisphosphonate-Related Ostenonecrosis of the JawsAAoOaMS 2007 American Association of Oral and Maxillofacial Surgeons position paper on bisphosphonate-related osteonecrosis of the jaws. J Oral Maxillofac Surg 65(3):369-76.
+
+94.Hoff AO, Toth BB, Altundag K, Johnson MM, Warneke CL, Hu M, Nooka A,
+Sayegh G, Guarneri V, Desrouleaux K, Cui J, Adamus A, Gagel RF, Hortobagyi GN 2008 Frequency and risk factors associated with osteonecrosis of the jaw in cancer patients treated with intravenous bisphosphonates. J Bone Miner Res 23(6):826-36.
+
+95.Aguiar Bujanda D, Bohn Sarmiento U, Cabrera Suarez MA, Aguiar Morales J 2007 Assessment of renal toxicity and osteonecrosis of the jaws in patients receiving zoledronic acid for bone metastasis. Ann Oncol 18(3):556-60.
+
+
+96.Boonyapakorn T, Schirmer I, Reichart PA, Sturm I, Massenkeil G 2008
+Bisphosphonate-induced osteonecrosis of the jaws: Prospective study of 80 patients with multiple myeloma and other malignancies. Oral Oncol.
+
+97.Wang EP, Kaban LB, Strewler GJ, Raje N, Troulis MJ 2007 Incidence of
+osteonecrosis of the jaw in patients with multiple myeloma and breast or prostate cancer on intravenous bisphosphonate therapy. J Oral Maxillofac Surg 65(7):1328-31.
+
+98.Walter C, Al-Nawas B, Grotz KA, Thomas C, Thuroff JW, Zinser V, Gamm H,
+Beck J, Wagner W 2008 Prevalence and Risk Factors of Bisphosphonate-Associated Osteonecrosis of the Jaw in Prostate Cancer Patients with Advanced Disease Treated with Zoledronate. Eur Urol.
+
+99.Walter C, Al-Nawas B, Wagner W 2008 Implantology as a reason for
+bisphosphonate-associated-osteonecrosis of the jaws (BP-ONJ). Clin Oral Implants Res 19(9):850.
+
+100. Mashiba T, Mori S, Burr DB, Komatsubara S, Cao Y, Manabe T, Norimatsu H 2005 The effects of suppressed bone remodeling by bisphosphonates on
+47microdamage accumulation and degree of mineralization in the cortical bone of dog rib. J Bone Miner Metab 23 Suppl:36-42.
+
+101. Santini D, Vincenzi B, Avvisati G, Dicuonzo G, Battistoni F, Gavasci M, Salerno A, Denaro V, Tonini G 2002 Pamidronate induces modifications of circulating angiogenetic factors in cancer patients. Clin Cancer Res 8(5):1080-4.
+
+
+102.Allegra A, Oteri G, Nastro E, Alonci A, Bellomo G, Del Fabro V, Quartarone E, Alati C, De Ponte FS, Cicciu D, Musolino C 2007 Patients with bisphosphonates-
+associated osteonecrosis of the jaw have reduced circulating endothelial cells. Hematol Oncol 25(4):164-9.
+
+103. Landesberg R, Cozin M, Cremers S, Woo V, Kousteni S, Sinha S, Garrett- Sinha L, Raghavan S 2008 Inhibition of oral mucosal cell wound healing by bisphosphonates. J Oral Maxillofac Surg 66(5):839-47.
+
+
+104.Mosmann T. Rapid colorimetric assay for cellular growth and survival: application to proliferation and cytotoxicity assays. J Immunol Methods 1983; 65(1-
+2):55-63.
+
+105. Conway EM, Collen D, Carmeliet P. Molecular mechanisms of blood vessel growth. Cardiovasc Res. 2001 Feb 16;49(3):507-21. Review.
+
+
+106. Ziebart T, Yoon CH, Trepels T, Wietelmann A, Braun T, Kiessling F, Stein S, Grez M, Ihling C, Muhly-Reinholz M, Carmona G, Urbich C, Zeiher AM, Dimmeler S. Sustained persistence of transplanted proangiogenic cells contributes to neovascularization and cardiac function after ischemia. Circ Res. 2008 Nov 21;103(11):1327-34. Epub 2008 Oct 16.
+
+
+107. Yamada J, Tsuno NH, Kitayama J, Tsuchiya T, Yoneyama S, Asakage M, Okaji Y, Shuno Y, Nishikawa T, Tanaka J, Takahashi K, Nagawa H. Anti-angiogenic property of zoledronic acid by inhibition of endothelial progenitor cell differentiation. J Surg Res. 2009 Jan;151(1):115-20. Epub 2008 Feb 29.
+
+108. Crick DC, Andres DA, Waechter CJ. Novel salvage pathway utilizing farnesol and geranylgeraniol for protein isoprenylation. Biochem Biophys Res Commun 1997;237:483.
+
+109.Bifulco M. Role of the isoprenoid pathway in ras transforming activity, cytoskeleton organization, cell proliferation and apoptosis. Life Sci 2005;77:1740.
+

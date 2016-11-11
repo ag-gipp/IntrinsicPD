@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd">
+      <feature name="vroniplag" etext_number="Cep" url="http://de.vroniplag.wikia.com/wiki/Cep'"/>
+      <feature name="language" value="de" />
+    <feature name="realistic-plagiarism" this_offset="112" this_length="730" />
+<feature name="realistic-plagiarism" this_offset="2718" this_length="1195" />
+<feature name="realistic-plagiarism" this_offset="11999" this_length="2498" />
+<feature name="realistic-plagiarism" this_offset="14600" this_length="2500" />
+<feature name="realistic-plagiarism" this_offset="17182" this_length="634" />
+<feature name="realistic-plagiarism" this_offset="42036" this_length="625" />
+<feature name="realistic-plagiarism" this_offset="42698" this_length="2449" />
+<feature name="realistic-plagiarism" this_offset="44942" this_length="27103" />
+<feature name="realistic-plagiarism" this_offset="94168" this_length="521" />
+<feature name="realistic-plagiarism" this_offset="99326" this_length="363" />
+</document>

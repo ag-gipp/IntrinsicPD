@@ -1,0 +1,2192 @@
+Aus der Klinik für Endokrinologie und Nephrologie
+der Medizinischen Fakultät Charité-Universitätsmedizin Berlin
+
+Dissertation
+
+Nicht-invasive Bestimmung von Gefäßwandeigenschaften bei Patienten
+mit arterieller Hypertonie und chronischer Niereninsuffizienz während der Nacht
+im Vergleich zu Normotonikern
+
+zur Erlangung des akademischen Grades
+Doctor medicinae ( Dr.med. )
+
+vorgelegt der medizinischen Fakultät
+Charité-Universitätsmedizin Berlin
+
+von
+
+Abu Libdeh,Khalil
+aus Qalqilia/Westbank
+
+1.
+
+Einleitung
+
+1.1.
+
+Arterieller Hypertonus
+
+Hypertension ist ein progredientes kardiovaskuläres Syndrom mit komplexen miteinander
+verbundenen Äthiologien. Frühe Kennzeichen des Syndroms lassen sich häufig nachweisen,
+bevor der arterielle Druck anhaltend erhöht ist. Deshalb kann die Hypertension nicht
+ausschließlich durch Blutdruckschwellenwerte definiert werden. Die Progression ist eng mit
+funktionellen und strukturellen Gefäßveränderungen assoziiert, die das Herz, die Niere, das
+Gehirn und die Gefäße der Organe schädigen und dadurch zu verfrühter Morbidität und
+Mortalität führen (Die „Hypertension Writing Group“ der amerikanischen Gesellschaft für
+Hypertonie).
+
+In den industrialisierten Ländern ist die Hypertonie heute der bedeutendste Risikofaktor, da sie
+Schrittmacher für die in der Morbiditäts- und Mortalitätsstatistik mit Abstand an erster Stelle
+stehenden zerebro- und kardiovaskulären Erkrankungen ist, damit eine der wichtigsten
+Gefäßkrankheiten.
+
+Nach der WHO ist die oberste Grenze des normalen Blutdrucks mit systolisch
+140 mmHg und diastolisch mit 90 mmHg definiert. Als Grenzwerthypertonie wird ein
+systolischer Blutdruck zwischen 140 und 160 mmHg und/oder ein diastolischer Blutdruck
+zwischen 90 und 95 mmHg bezeichnet. Eine eindeutige Hypertonie liegt vor, wenn die
+systolischen Blutdruckwerte über 160 mmHg und/oder die diastolischen Werte über 95 mmHg
+liegen. Es wird gefordert, dass diese Werte als Mittelwerte aus mindestens drei
+Blutdruckmessungen an zwei verschiedenen Tagen ermittelt werden, um kurzfristige
+(emotionale) Blutdrucksteigerungen auszuschalten.
+Nach epidemiologischen Untersuchungen aus den USA und Europa sind etwa 15 % bis maximal
+20 % der erwachsenen Bevölkerung nach den oben angegebenen WHO-Kriterien als
+Hypertoniker zu bezeichnen. Die Prävalenz der Hypertonie liegt in Deutschland bei ca. 40 %
+oder ca. 30 Millionen Bundesbürgern. Eine aktuelle amerikanische Veröffentlichung berichtet
+sogar von einer Prävalenz von 55,3 % aller Deutschen im Alter zwischen 35 und 64 Jahren.
+Deutschland wäre damit in Europa und im Vergleich mit Nordamerika (USA und Kanada) weit
+führend in der Hypertoniehäufigkeit.
+
+4
+
+Der Blutdruck ist ein Produkt aus Herzminutenvolumen (HMV) und totalem peripheren
+Widerstand (TPW). Das HMV seinerseits setzt sich zusammen aus kardialem Schlagvolumen
+und der Herzfrequenz. Das Schlagvolumen wird durch das Extrazellulärvolumen und die
+Natriumbilanz beeinflusst, die Herzfrequenz durch die Sympathikusaktivität, die wiederum
+durch Stress und Alkohol erhöht wird. Der Anstieg des totalen peripheren Widerstandes ist
+zunächst Folge einer funktionellen Konstriktion, die durch ein aktiviertes Renin-AngiotensinAldosteron-System beeinflusst wird. Darüber hinaus wird der TPW durch eine strukturelle
+Komponente
+
+in
+
+Form
+
+einer
+
+Gefäßwandhypertrophie
+
+bestimmt,
+
+begünstigt
+
+durch
+
+Hyperinsulinämie und Adipositas. Eine Steigerung des Schlagvolumens führt zu einer Zunahme,
+besonders des systolischen Drucks, während eine Steigerung des peripheren Widerstandes vor
+allem den diastolischen Druck erhöht.
+
+Der Blutdruck verläuft normalerweise über 24 Stunden in einem charakteristischen Tag-NachtRhythmus mit den niedrigsten Werten gegen 03:00 Uhr nachts, einem steilen Blutdruckanstieg,
+insbesondere mit dem Aufwachen bis in den Vormittag, einer kleinen (physiologischen!)
+Absenkung gegen Mittag und Abend. Die zirkadiane Blutdruckrhythmik mit nächtlichem
+Blutdruckabfall und schnellem morgendlichen Blutdruckanstieg ist wegen des gehäuften
+Auftretens kardio- und zerebrovaskulärer Ereignisse (Herzinfarkt, plötzlicher Herztod) am
+Morgen von besonderer Bedeutung.
+
+Bei bis zu 95 % der Patienten kann keine Ursache des erhöhten Blutdrucks ausgemacht werden.
+Diese primäre oder essentielle Hypertonie ist multifaktoriell bedingt und weiterhin nicht
+abschließend geklärt. Eine genetische Komponente spielt dabei eine Rolle, verschiedene
+Mutationen sind bekannt, die jedoch für sich genommen eine Erkrankung nicht erklären können
+(polygene Ursache). Daneben sind extrem seltene Hypertonieformen bekannt, die auf die
+Veränderung eines einzelnen Gens (Monogen) beruhen. Für eine genetische Ursache spricht
+auch, dass die Mehrzahl der Hypertoniker eine positive Familienanamnese hat.
+
+Verschiedene
+
+Faktoren
+
+psychosozialer
+
+Stress,
+
+des
+
+Lebensstils
+
+Bewegungsmangel,
+
+(Konstitution,
+hormonelle
+
+KochsalzGründe)
+
+und
+
+Tabakkonsum,
+
+bedeuten
+
+eine
+
+stark
+
+begünstigende Rolle.
+
+Die sekundäre Hypertonie (5 - 15 %) ist auf ein renales, endokrines, kardiopulmonales oder
+neurogenes Grundleiden züruckzuführen. Die Folgen des Hochdrucks sind in erster Linie von
+5
+
+den arteriosklerotischen Schädigungen der arteriellen Gefäße geprägt. Der Risikofaktor
+Hochdruck wirkt sich vor allem im Gebiet der Zerebralarterien aus; er ist hauptsächlich für den
+Schlaganfall
+
+verantwortlich.
+
+Bei
+
+arteriosklerotischen
+
+Gefäßwandläsionen
+
+dominieren
+
+vasokonstriktive gegenüber dilatierenden endothelialen Mechanismen. Die Blockade der
+Synthese des gefäßrelaxierend wirkenden Stickstoffmonoxids führt zu einer Steigerung des
+peripheren Gefäßtonusses. Auch das von Endothelzellen synthetisierte vasokonstriktorisch
+wirksame
+
+Endothelin
+
+führt
+
+zu
+
+einer
+
+zunehmenden
+
+Einschränkung
+
+der
+
+vasalen
+
+Dilatationskapazität. Das Endothel stellt keine starre Filtrationsbarriere dar, sondern ist für die
+Gefäßintegrität und die lokale Autoregulation verantwortlich. Eine Störung der Endothelfunktion
+(endotheliale Dysfunktion) ist pathophysiologisch von größter Bedeutung. Eine Vielzahl
+kardiovaskulärer Erkrankungen gehen mit einer endothelialen Dysfunkion einher. Hierbei lässt
+sich insbesondere eine verminderte Freisetzung von NO aus dem Endothel nachweisen. Der
+Mangel an NO hat einen gesteigerten Gefäßmuskeltonus (Vasokonsriktion) zur Folge. Von der
+Dehnbarkeit des arteriellen Gefäßsystems werden Form und Amplitude des Druckpulses bzw.
+die Pulswelle beeinflusst. Aorta und große Arterien wirken während der Ventrikelsystole wie ein
+Windkessel, in dem sie die durch das Herz erzeugten Druckschwankungen dämpfen. Je steifer
+daher die Arterien, desto größer ist die Blutdruckamplitude und um so höher ist die Belastung
+des Herzens. Die Höhe der Amplitude von systolischem und diastolischem arteriellen Blutdruck
+(systolischer minus diastolischer Blutdruck) wird als Pulsdruck bezeichnet und weist nach
+vorläufigen Ergebnissen eine positive Korrelation zur Wahrscheinlichkeit eines zukünftigen
+kardiovaskulären Ereignisses auf. Das zentrale Nervensystem spielt eine Rolle in der kurz- und
+langfristigen Blutdruckregulation. Die nervale Regulation der Gefäßweite geschieht allein durch
+den Sympathikus. Zunahme der Aktivität führt zur Vasokonstriktion und Abnahme der Aktivität
+zur Erschlaffung der glatten Gefäßmuskulatur. Bei länger erhöhtem Sympathikotonus kann
+durch eine allgemein verstärkte arterielle Vasokonstriktion ein Bluthochdruck entstehen. Eine
+erhöhte Sympathikusaktivität bei essentiellen Hypertonikern konnte bisher nicht eindeutig
+nachgewiesen werden. Erhöhte Katecholaminspiegel und gesteigerte Reaktivität der Gefäße
+gegenüber Noradrenalin spielen möglicherweise bei jungen Patienten in der frühen
+Hypertoniephase eine pathogenetische Rolle. Während bei normotensiven Patienten eine
+altersabhängige Zunahme des Plasma-Katecholaminspiegels zu beobachten ist, scheinen bei
+primären Hypertonikern eher jüngere Patienten leicht erhöhte oder im oberen Normbereich
+liegende Plasma-Katecholaminkonzentrationen aufzuweisen. Es ist daher denkbar, dass ein
+gesteigerter Sympathikotonus zumindest in der Entstehungsphase der primären Hypertonie
+vorliegt.
+6
+
+Zu der sekundären Hypertonie gehört u. a. die renale Hypertonie. Der progrediente Verlust
+funktionsfähiger Nephrone führt zur Hypervolämie und Blutdruckerhöhung.
+
+Die Hypertonie ist ein wichtiger und zunehmend häufiger Risikofaktor für die Entwicklung einer
+chronischen Niereninsuffizienz. Die hypertensive Nephropathie ist nach dem Diabetes mellitus
+inzwischen
+
+die
+
+zweithäufigste
+
+Ursache
+
+einer
+
+Niereninsuffizienz.
+
+In
+
+zahlreichen
+
+Beobachtungsstudien wurde gezeigt, dass die Geschwindigkeit des Nierenfunktionsverlustes um
+so größer war, je höher die Blutdruckwerte lagen. Dies gilt insbesondere für Patienten mit bereits
+leicht eingeschränkter Nierenfunktion, zum Beispiel bei diabetischer Nephropathie.
+
+Die klinische Bedeutung der arteriellen Hypertonie leitet sich aus der mit ihr einhergehenden
+erhöhten Morbidität und Mortalität ab (Gu Q, Dillon CF et al. 2009, Trenkwalder et al. 1999).
+Ursächlich hierfür ist die Funktion der Hypertonie als pathogenetischer Teilfaktor der
+Arterioskleroseentstehung und der konsekutiv vorzeitig eintretenden Endorganschädigung von
+Gehirn, Herz, Nieren, Augen und peripherem arteriellen Gefäßsystem.
+
+Die Pathogenese der primären Hypertonie ist bislang nicht bekannt. Es handelt sich um eine
+multikausale Erkrankung, die durch unterschiedliche Umwelteinflüsse im Zusammenhang mit
+noch zu definierenden genetischen Prädispositionen ausgelöst wird. Eine gestörte Homöostase
+von Natrium und Sympathikusaktivität ist Bestandteil
+
+nahezu aller hypothetischen
+
+Überlegungen zur Pathogenese der primären Hypertonie.
+
+1.2.
+
+Chronische Niereninsuffizienz
+
+Patienten mit fortgeschrittener Niereninsuffizienz und Dialysepatienten entwickeln zu einem
+hohen Prozentsatz kardiovaskuläre Komplikationen. Bei Dialysepatienten sind kardiovaskuläre
+Erkrankungen mit über 50 % die häufigste Todesursache, insbesondere durch den plötzlichen
+Herztod. Gleichzeitig ist eine kardiovaskuläre Erkrankung der beste Prädiktor für die Mortalität
+von Patienten mit terminaler Niereninsuffizienz. Aber auch Patienten in anderen Stadien der
+Niereninsuffizienz haben ein deutlich erhöhtes Risiko an einer Herz- oder Gefäßerkrankung zu
+erkranken oder an ihren Folgen zu versterben. Die chronische Niereninsuffizienz ist die Folge
+einer irreversiblen Verminderung der glomerulären, tubulären und endokrinen Funktion beider
+Nieren. In einer kürzlich publizierten österreichischen Studie von Schwaiger et al. konnte bei
+7
+
+inzidenten Dialysepatienten eine klare Korrelation zwischen der Anzahl arteriosklerotischer
+Plaques und der Prognose gezeigt werden. Die arteriosklerotischen Läsionen bei Patienten mit
+chronischer
+
+Niereninsuffizienz
+
+sind
+
+häufiger
+
+schwer
+
+verkalkt
+
+als
+
+die
+
+der
+
+Nichtniereninsuffizienten. Zudem findet sich bei Niereninsuffizienz eine vermehrte Steifigkeit
+der größeren elastischen Arterien. Bei Patienten mit fortgeschrittener beziehungsweise
+terminaler Niereninsuffizienz ist der ischämische Schlaganfall das häufigste zerebrovaskuläre
+Ereignis - in 5 - 10 % mit Todesfolge.
+
+Die Prävalenz der chronischen Nierenerkrankung hat in den westlichen Ländern in den
+vergangenen Jahren stetig zugenommen. Hatten in Europa 80 Patienten auf 1 Million Einwohner
+eine chronische Niereninsuffizienz, so waren es 1999 bereits 118 Patienten. Vergleichbar stieg in
+den USA die Zahl der dialysepflichtigen Patienten von etwa 200.000 im Jahr 1991 auf über
+400.000 im Jahr 2001 an. Die chronische Niereninsuffizienz ist häufig mit zusätzlichen
+Erkrankungen, wie den kardiovaskulären, assoziert und potenziert das Risiko der
+kardiovaskulären Morbidität und Mortalität.
+
+Zahlreiche erworbene und angeborene Nierenerkrankungen münden in die chronische
+Niereninsuffizienz ein. Die häufigsten Ursachen einer Niereninsuffizienz sind diabetische
+Nephropathie (ca. 35 %), hypertoniebedingte Nierenschäden (ca. 25 %), chronische
+Glomeronephritis (ca. 10 %), interstitielle Nephritis einschließlich chronische Pyelonephritis (ca.
+5 %), polyzystische Nephropathie (ca. 3 %), Analgetikanephropathie (ca. 1 %) und andere
+Ursachen (6 %): Kollagenosen, Vaskulitiden, Amyloidose. In bis zu 15 % der Fälle bleibt die
+Ursache der Niereninsuffizienz unbekannt.
+
+Alle chronischen Nierenerkrankungen können zu einer Niereninsuffizienz führen. Anhand
+Proteinurie und glomeruläre Filtrationsrate (GFR) wird die chronische Nierenkrankheit in fünf
+Schweregrade eingeteilt.
+
+Stadium I oder Nierenkrankheit mit normaler Nierenfunktion:
+Die Filterleistung der Nieren (= GFR) ist > 89 ml/min. Im Urin ist eine Proteinurie nachweisbar.
+
+8
+
+Stadium
+
+II
+
+oder
+
+Nierenkrankheit
+
+mit
+
+milder
+
+Nierenfunktionseinschränkung/
+
+keine
+
+Nierenkrankheit mit milder Nierenfunktionseinschränkung:
+Die glomeruläre Filtrationsrate der Nieren liegt zwischen 60 und 89 ml/min/1,73m². lässt sich
+bei solcher GFR gleichzeitig Eiweiß im Urin nachweisen, spricht man von Nierenkrankheit mit
+milder Nierenfunktionseinschränkung. Wird keine Proteinurie oder andere krankhafte
+Veränderungen
+
+an
+
+den
+
+Nieren
+
+festgestellt,
+
+spricht
+
+man
+
+von
+
+milder
+
+Nierenfunktionseinschränkung aber keiner Nierenkrankheit. Es treten keine Beschwerden oder
+eine Anämie auf.
+
+Stadium III oder Nierenkrankheit mit moderater Nierenfunktionseinschränkung:
+Die glomeruläre Filtrationsrate liegt zwischen 30-59 ml/min/1,73m² und es treten typische
+Beschwerden auf: Leistungsknick, Müdigkeit, Konzentrationsschwäche, Übelkeit, Erbrechen,
+Appetitlosigkeit, Krämpfe, Juckreiz, Potenzprobleme.
+
+Stadium IV oder Nierenkrankheit mit schwerer Nierenfunktionseinschränkung:
+Die glomeruläre Filtrationsrate liegt zwischen 29 und 15 ml/min/1,73m². Bei dieser Präurämie
+kommt es zu ausgeprägter Ödembildung, Herzinsuffizienz und Hypertonie, zusätzlich zeigen
+sich eine urämische Gastroentero- und Neuropathie, Pruritus und gestörte Gonadenfunktion.
+
+Stadium V oder Chronisches Nierenversagen:
+Die glomeruläre Filtrationsrate ist<15 ml/min/1,7m². Das Terminalstadium wird erreicht, eine
+Nierenersatztherapie wird erforderlich; zusätzliche Symptome der Urämie sind dann Fötor,
+Enzephalopathie, Perikarditis und erhöhte Blutungsneigung.
+
+Die Niere spielt eine ganz wesentliche Rolle bei der Entwicklung und Aufrechterhaltung einer
+chronischen Hypertonie. Zudem sind renoparenchymatöse und renovaskuläre Erkrankungen die
+häufigsten Ursachen der sekundären Hypertonie. Jede chronische Hypertonie wiederum führt zu
+sekundären strukturellen Veränderungen in der Niere. Diese hypertoniebedingte renale
+Endorganschädigung resultiert in erster Linie aus den Gefäßveränderungen, die in Form der
+Arteriosklerose intrarenaler Gefäße zur sogenannten benignen Nephrosklerose führen.
+
+Die chronische Niereninsuffizienz stellt eine der wichtigsten Risikofaktoren für kardiovaskuläre
+Mortalität und Morbidität dar (Weiner DE et al.). In der Niereninsuffizienz kommt es zu einer
+ausgeprägten Fettstoffwechselstörung, mit deren Beginn bereits bei Clearance-Raten < 50 %
+9
+
+gerechnet werden muss. Hohe Lipidspiegel und Dyslipoproteinämie führen in den Gefäßen zu
+den charakteristischen morphologischen und pathobiochemischen Veränderungen. Dieses
+gestörte Lipidprofil ist neben anderen Faktoren verantwortlich für die sich entwickelnde schwere
+generalisierte Arteriosklerose und auch für die Progression der Niereninsuffizienz selbst, da es
+das Fortschreiten der Glomerulosklerose oder der tubulointerstitiellen Fibrose beschleunigt. Die
+Urämie und deren Folgen - die Dialysebehandlung - sind durch einen Zustand einer permanenten
+Entzündungsreaktion (Mikroinflammation) gekennzeichnet und verursachen die Malnutrition,
+die erhöhte Inzidenz von kardiovaskulären und Tumorerkrankungen und die erhöhte
+Mortalitätsrate bei Patienten mit fortgeschrittener Niereninsuffizienz. Bei der Induktion der
+chronischen Mikroinflammation in der Urämie spielen Sauerstoffradikale, Zytokine,
+Stickstoffmonoxid, Komplementaktivierung und chronische Infektionen, wie zum Beispiel mit
+Chlamydia pneumoniae oder Helicobacter pylori eine wichtige Rolle. Die chronische
+Mikroinflammation führt zum oxidativen Stress in der Urämie, der durch die Bildung von AOPP
+(advanced oxidation protein products), MPO (Myeloperoxidase) und ALE (advanced
+lipoxidation end products) sowie durch den Verlust von Antioxidantien, wie Zink, Selenium,
+Vitamin C und E, und der Reduktion der Plasmaglutathionperoxidase gekennzeichnet ist .
+Darüber hinaus ist die Synthese wichtiger antiinflammatorisch wirksamer Akutphaseproteine,
+wie Präalbumin, Transferrin, stark vermindert in der Urämie. Bei Niereninsuffizienz führt die
+akzelerierte Arteriosklerose zu einer erhöhten kardiovaskulären Morbidität und Mortalität
+(Scholze A et al. 2005). Neben klassischen Risikofaktoren, wie Hypertonie, Diabetes mellitus,
+und Dyslipoproteinämie, sind inflammatorische/oxidative und vaskuläre Prozesse für die
+Entstehung und Progredienz der Arteriosklerose, vor dem Hintergrund einer komplexen
+genetischen Interaktion, von entscheidender pathogenetischer Bedeutung. Bei Prozessen der
+Arteriosklerose wird der endothelialen Dysfunktion zugesprochen. Eine Störung der
+Endothelfunktion ist pathophysiologisch von größerer Bedeutung. Eine Vielzahl kardiovaskuläer
+Erkrankungen, wie Arteriosklerose, Hypertonie, diabetische Angiopathie und Herzinsuffizienz,
+gehen mit einer endothelialen Dysfunktion einher. Der endothelialen Dysfunktion liegt ein
+Mangel an gelöstem Stickstoffmonoxid (NO) zugrunde. Ein NO-Mangel kann unterschiedliche
+Ursachen haben, zum Beispiel NO-Synthetaseinsuffizienz, relativer L-Argininmangel, oxidativer
+Stress. Der Mangel an NO hat nicht nur eine gesteigerten Gefäßmuskeltonus (Vasokonstriktion)
+zur Folge, sondern führt auch zu einer vermehrten Expression von Adhäsionsmolekülen (zum
+Beispiel Interleukin-1, P-Selectin) und begünstigt damit die Bildung von Thromben und die
+Einwanderung von Monozyten in die Gefäßwand.
+
+10
+
+An den Koronarien führt Acetylcholin bei gesundem Endothel zu einer NO-vermittelten
+Vasodilatation. Bei arteriosklerotischen Gefäßen mit gestörter Endothelfunktion führt
+Acetylcholin
+
+hingegen
+
+durch
+
+seine
+
+direkte
+
+Wirkung
+
+auf
+
+glatte
+
+Muskelzellen
+
+zur
+
+Vasokonstriktion.
+
+Die Konzentrationen der im Blut zirkulierenden, vasoaktiven Substanzen (Noradrenalin, ATP,
+ADP, Angiotensin II, Bradykinin) werden durch das Endothel moduliert, welches ebenfalls an
+der Regulation des Gefäßtonusses durch Freisetzung und Bildung vasoaktiver Autakoide
+beteiligt ist. Stickstoffmonoxid (NO) spielt hierbei die wichtigste Rolle, da es eine Dilatation der
+kleinen Arterien und Arteriolen bewirkt, wie es schubspannungsabhängig freigesetzt wird. Die
+myogen oder neurogen ausgelöste Vasokonstriktion kann dadurch abgeschwächt werden. NO
+hemmt ebenfalls das aus den sympathischen Varikositäten freigesetzte Noradrenalin. Durch die
+schubspannungsabhängige NO-Freisetzung wird die myogene Reaktion moduliert, die bei
+arterieller Druckänderung eine konstante Durchblutung in vielen Organstromgebieten (mit
+Ausnahme der Lunge) gewährleisten kann. Aus der Dominanz der lokal-chemischen über die
+neurogenen Einflüsse resultiert die funktionelle Hyperämie, wobei an den terminalen Arterien
+und
+
+Arteriolen,
+
+die
+
+nicht
+
+mehr
+
+lokal-chemisch
+
+kontrolliert
+
+werden,
+
+die
+
+schubspannungsabhängige NO-Freisetzung die neurogen vermittelte Konstriktion aufhebt. Durch
+myogene,
+
+metabolische
+
+und
+
+endotheliale
+
+Mechanismen
+
+wird
+
+nach
+
+vorübergehender
+
+Unterbrechung der Blutzufuhr eine reaktive Hyperämie ausgelöst.
+
+Die Sympathikusaktivität spielt bei dem Gefäßtonus eine wichtige Rolle. Scholze et al. haben
+gezeigt, dass ein direkter Zusammenhang zwischen dem Gefäßtonus (aktive Wandspannung)
+und der Sympathikusaktivität besteht. Einen unterschiedlichen Grundtonus wird durch Gefäße in
+den einzelnen Kapillargebieten gegeben. Dies erfolgt durch den basalen Tonus und einem
+sympathisch-adrenerg vermittelten Tonus. Eine Steigerung der tonischen Entladungsfrequenz
+der sympathischen Fasern führt in der Haut- und Skelettmuskulatur zur Vasokonstriktion und
+Abnahme der Durchblutung, bewirkt keine wesentliche Durchblutungsänderung im Myokard
+und im Gehirn. Bei Absenkung der tonischen Entladungsfrequenz kommt es zur Vasodilatation.
+
+Gefäßregulation, Gefäßelastizität und Endothelfunktion sind wichtige Merkmale zur
+Charakterisierung von Gefäßen. Veränderungen dieser Gefäßmerkmale bei niereninsuffizienten
+Patienten und Hypertonikern, welche ein erhöhtes Risiko für die Entwicklung von
+arteriosklerotischen Gefäßschädigungen aufweisen, sollen mit Hilfe der Pulswellen-Analyse und
+11
+
+Gefäßfunktionstests bestimmt werden. Mit dem Auswurf des Schlagvolumens kommt es im
+Anfangsteil der Aorta zu einem schnellen Druckanstieg. Während sich die Druckerhöhung zur
+Peripherie hin fortsetzt, fällt in den nächsten erfassten Aortenabschnitten der Druck langsam auf
+den Ausgangswert ab. Auf diese Weise pflanzt sich eine Welle schnell ansteigenden und
+langsamer abfallenden Drucks über das gesamte arterielle Gefäßsystem fort, die als
+Druckpulswelle bezeichnet wird. Die Form des Druckpulses in der Aorta ändert sich wegen der
+nach distal abnehmenden Dehnbarkeit der Gefäßwände und wegen der Überlagerung mit
+reflektierten Druckwellen, die aus der Kreislaufperipherie zurückkehren. In den Kapillaren
+finden sich nur relativ geringe pulsatorische Druckschwankungen. Eine Zunahme der
+Pulswellengeschwindigkeit findet man im hohen Alter wegen zunehmender Gefäßsteife und bei
+erhöhtem Blutdruck wegen der abnehmenden Dehnbarkeit mit zunehmender Füllung der
+Arterien. Anhand der sogenannten Pulsqualitäten lassen sich neben der absoluten Höhe des
+Innendrucks auch die Geschwindigkeit des Druckanstiegs sowie die Druckamplitude und damit
+indirekt das Schlagvolumen und die Dehnbarkeit des arteriellen Windkessels qualitativ
+bewerten.
+
+Das nicht-invasive Verfahren der digitalen photoplethysmographischen Pulskurvenmessung zur
+Aufzeichnung reaktiver Gefäßeigenschaften und Überprüfung der Endothelfunktion von
+niereninsuffizienten Patienten und Hypertonikern beruht auf den folgenden physikalischen
+Prinzipien:
+
+Infrarotes Licht wird stärker vom Blut als vom umliegenden Gewebe absorbiert (Goldmann et
+al., 2000). Mittels einer Lichtdiode wird rotes Licht und infrarotes Licht in den untersuchenden
+Abschnitt gesendet. Je nach Füllungszustand des jeweiligen Kapillarbettes an der Fingerbeere,
+am Ohrläppchen oder an der Zehe wird mehr oder weniger Licht resorbiert, reflektiert oder
+transmittiert. Gegenüber der Leuchtdiode befindet sich ein Photosensor, der das transmittierte
+Licht misst. Je stärker die Durchblutung des Untersuchungsgebietes, desto stärker ist die
+Absorption des infraroten Lichtes durch das Blut und desto weniger Licht wird transmittiert. Es
+besteht also ein direkter Zusammenhang zwischen dem sich mit dem Pulsschlag ändernden
+Blutvolumen und dem am Photosensor eingehenden Impuls, der verrechnet und als
+mathematische Kurve wiedergegeben wird - die Pulswellenkurve. Das beschriebene Verfahren
+der digitalen Photoplethysmographie wurde bereits erfolgreich in anderen Studien an
+nierengesunden Probanden zur Gefäßuntersuchung verwendet und etabliert. Es konnte gezeigt
+werden, dass der Abfall des Gefäßtonus nach systematischer Nitrogabe zum Abfall des
+12
+
+reflektiven Indexes (Volumenpulswellenreflexion in der Peripherie) führt (Chowienzyk et al.,
+1999; Millasseau et al., 2000; Scholze et al., 2004; Takazawa et al., 1998). Als Maß des
+Gefäßtonusses wird der relative Index ermittelt.
+
+Die Höhe der Amplitude von systolischem und diastolischem arteriellen Bludruck (systolischer
+minus diastolischer Blutdruck) wird als Pulsdruck bezeichnet und weist eine positive Korrelation
+zur Wahrscheinlichkeit eines zukünftigen kardiovaskulären Ereignisses auf (Klassen et al., 2002)
+In Tiermodellen wurde gezeigt, dass die Entfernung des Endothels die Entwicklung
+arteriosklerotischer Veränderungen fördert. Funktionelle Störungen der Endothelzelle führen zu
+arteriosklerotischen Veränderungen der Blutgefäße. Diese funktionellen Störungen lassen sich
+zusammenfassend beschreiben als ein Verlust ihrer Fähigkeit, atherogene Prozesse zu
+verhindern. Dabei handelt es sich um eine Störung des endothelialen L-Arginin-NOStoffwechsels (Kelm et al., 1999). Die Endothelzelle verliert unter bestimmten Bedingungen die
+Fähigkeit,
+
+das
+
+für
+
+die
+
+Vasodilatation
+
+der
+
+glatten
+
+Gefäßmuskulatur
+
+verantwortliche
+
+Stickstoffmonoxid zu bilden oder freizusetzen. Es wurde nachgewiesen, dass die Gabe des
+endothelabhängigen
+
+Vasodilatators
+
+Acetylcholin
+
+in
+
+angiographisch
+
+unauffälligen
+
+Koronararterien eine Dilatation, in stenosierten Gefäßen dagegen eine Konstriktion der
+Gefäßmuskulatur auslöst. Eine Vielzahl kardiovaskulärer Erkrankungen wie Arteriosklerose,
+Hypertonie, diabetische Angiopathie und Herzinsuffizienz gehen mit einer endothelialen
+Dysfunktion einher.
+
+Tierversuche zeigten, dass sich bereits kurze Zeit nach Füttern einer cholesterinreichen Diät
+kleine Lipoproteine in der Gefäßintima ansammeln und an die Proteoglykane der extrazellulären
+Matrix binden. Infolge kommt es zu oxidativen Modifikationen der Lipoproteine und einer
+lokalen inflammatorischen Reaktion. Die Exposition des Gefäßbettes gegenüber Cholesterin und
+den anderen Risikofaktoren führt zu einer Schädigung der Funktion des Gefäßendothels. Dieser
+Zustand stellt ein messbares Frühstadium der Atherogenese dar.
+
+Die Beurteilung der Endothel-Funktion kann nicht-invasiv durch den Test der reaktiven
+Hyperämie erfolgen. Dieser Test wurde schon in zahlreichen Studien erfolgreich eingesetzt
+(Celermajer et al., 1992; Corretti et al., 2002; Doshi et al., 2001; Joannides et al.,1995; Moens et
+al., 2005; Pyke et al., 2005). Dabei wird der Blutfluss des Armes kurzfristig unterbunden. Durch
+die Stauung entsteht distal eine Minderperfusion. Nach dem Lösen der Stauung kommt es zur
+reaktiven Hyperämie, wodurch die sogennante „flow mediated dilatation“ hervorgerufen wird
+13
+
+(Correti et al., 2002; Pyke et al., 2005). Die durch reaktive Hyperämie hervorgerufene „flow
+mediated dilatation“ wird nach Infusion von NO-Synthase-Inhibitor (NG-monomethyl-L-aginine
+= L-NMMA) aufgehoben (Joannides et al., 1995; Mullen et al., 2001). Der wichtigste Vermittler
+dieser Reaktion ist also das NO (Stickstoffmonoxid). Doshi et al. (2001) konnten zeigen, dass
+die durch reaktive Hyperämie hervorgerufene „flow mediated dilatation“ nach einer Infusion von
+NO-Synthase-Inhibitor (NG-monomethyl-L-arginine = L-NMMA) bei einer Stauung am
+Unterarm vollständig, am Oberarm zum Teil aufgehoben wird. Dies bedeutet, dass die durch
+reaktive Hyperämie hervorgerufene Vasodilatation nach einer Stauung am Oberarm nicht
+lediglich durch die endotheliale NO-Synthese vermittelt wird, sondern auch zum Beispiel durch
+einen myogen-induzierten Tonusverlust der glatten Gefäßmuskulatur oder einer Änderung des
+pH-Wertes infolge einer Minderperfusion distal der Stauung auftritt.
+
+Die Gefäßsteifigkeit stellt einen charakteristischen Marker für Intaktheit der Gefäßwand dar.
+Strukturelle Veränderungen, wie sie bei verschiedenen Erkrankungen, u. a. Hypertonus,
+chronische Niereninsuffizienz, auftreten, sind durch entsprechende Veränderungen der
+Gefäßsteifigkeit darzustellen. Zur Messung der Compliance wird nicht-invasiv durch
+Pulswellenanalyse der Index der Elastizität der Gefäße bestimmt.
+
+2.
+
+Material und Methoden
+
+2.1.
+
+Studiendurchführung
+
+Die Messungen wurden kontinuierlich in der Nacht von 23:00 Uhr bis 6:00 Uhr im Liegen
+durchgeführt. Die Gefäßmessungen erfolgten mittels digitaler Photoplethysmographie und
+Applanationstonometrie.
+
+Folgende Blutwerte wurden erhoben: Blutbild, Elektrolyte (Natrium, Kalium, Calcium,
+Phosphat), die Retentionsparameter ( Kreatinin, Harnsäure), Gesamteiweiß und Albumin,
+Leberenzyme (GOT, GPT), die Blutfettwerte (Gesamt-, HDL-, LDL-Cholesterin und
+Triglyceride), Blutzucker und HbA1c.
+
+Patientendaten hinsichtlich kardialer und vaskulärer Vorerkrankungen, wie zum Beispiel
+koronare Herzerkrankungen (KHK), Insult, periphere arterielle Verschlußkrankheit, Diabetes
+mellitus, sowie die Medikation wurden erhoben.
+14
+
+2.2.
+
+Digitale Photoplethysmographie
+
+Das nicht-invasive Verfahren der digitalen photoplethysmographischen Pulskurvenmessung zur
+Aufzeichnung reaktiver Gefäßeigenschaften und Überprüfung der Endothelfunktion bei
+normotensiven Patienten, bei Patienten mit essentieller Hypertonie sowie bei Patienten mit
+chronischer Niereninsuffizienz wurde mit einem Pulsoximeter (Vitaguard VG 3000; getemed,
+Teltow) durchgeführt, der mit einem Sensor (LNOP-Adult SpO2 sensor; Masimo Corporation,
+CA, USA) auf der Fingerkuppe des Mittelfingers befestigt wurde.
+
+Die Methode der digitalen photoplethysmographischen Messung der Volumenpulswelle wurde
+bereits erfolgsreich in zahlreichen Studien zur Gefäßuntersuchung angewendet und etabliert
+(Takazawa et al., 1998; Chowienczyk et al., 1999; Millasseau et al., 2000; Scholze et al, 2004).
+Das Verfahren beruht auf der physikalischen Grundlage, dass rotes beziehungsweise infrarotes
+Licht stärker vom Blut als vom umliegenden Gewebe absorbiert wird (Goldman et al., 2000). Je
+nach Füllungszustand des jeweiligen Kapillarbettes wird am Ohrläppchen, an der Fingerbeere
+oder an der Zehe mehr oder weniger Licht absorbiert, reflektiert oder transmittiert. Es besteht
+also ein direkter Zusammenhang zwischen dem sich mit dem Pulsschlag ändernden Blutvolumen
+und dem am Photosensor eingehenden Impuls, der verrechnet und als mathematische Kurve
+wiedergegeben wird - die Pulswellenkurve (Abbildung 1 und 2). Wie in der Literatur bereits
+beschrieben (Takazawa et al., 1998), besteht die digitale Volumenpulskurve aus zwei Anteilen.
+Der initiale systolische Anteil der digitalen Volumenpulskurve wird durch die voranschreitende
+Pulskurve bestimmt. Der spätere diastolische Anteil der digitalen Volumenpulskurve entsteht vor
+allem durch die Pulskurvenreflexion in der Peripherie. Diese erfolgt wahrscheinlich vorwiegend
+an kleinen Arterien, insbesondere der unteren Körperabschnitte (Chowienczyk et al., 1999);
+Millasseau et al., 2003. Abbildung 3, einzige Pulswelle.
+
+15
+
+Abbildung 1:
+Beispiel kontinuierlich, digital photoplethysmographisch aufgezeichneter Pulskurven über ein Zeitintervall von
+60 beziehungsweise 10 Sekunden.
+
+16
+
+Abbildung 2:
+Darstellung repräsentativer Pulswellen, die mittels digitaler Photoplethysmographie über 60 beziehungsweise
+10 Sekunden aufgezeichnet wurden.
+
+Das Gerät zeichnet 32 Daten pro Sekunde auf und speichert diese in Episoden von 150 Sekunden
+(Abbildung
+
+Gerät).
+
+Nach
+
+Beendigung
+
+der
+
+digitalen
+
+photoplethysmographischen
+
+Datenaufzeichnungen wurden die Daten zur weiteren Bearbeitung mit einem speziellen
+Auswertungsprogramm auf einen PC transferiert und anschließend mit Graph Pad Prism 3.0
+(Graph Pad Software, San Diego, CA) statistisch analysiert. Aus den Rohdaten wurde der
+reflektive Index als Maß des Gefäßtonus entwickelt.
+
+17
+
+Abbildung 3 :
+Schematische Darstellung einer repräsentativen, digital photoplethysmographisch ermittelten Pulskurve und ihrer
+einzelnen Anteile. Der initiale systolische Anteil beschreibt die voranschreitende Pulskurve. Der spätere diastolische
+Anteil beschreibt vor allem die Pulskurvenreflektion in der Peripherie. Der Mittelwert aus den markierten Punkten
+93 ms bis 218 ms nach dem Wendepunk des absteigenden Anteils der Pulskurve ergibt den reflektiven Index.
+
+18
+
+Apparatur zur digitalen Photoplethysmographie zur Messung und Analyse digitaler Pulskurven während des
+Schlafes bei normotensiven Kontrollpersonen, Patienten mit essentieller Hypertonie und Patienten mit chronischer
+Niereninsuffizienz zwischen 23:00 Uhr und 6:00 Uhr.
+
+Der reflektive Index leitet sich wie folgt aus den photoplethysmographisch erhobenen und
+aufgezeichneten Daten her:
+
+Die unbearbeiteten Rohkurven stellen den Kehrwert der eigentlichen Pulskurve dar. Der
+Kehrwert der Rohdaten wurde gebildet und somit die eigentliche Pulskurve aus den
+aufgezeichneten Daten erhalten. Der Tiefpunkt der Rohdatenkurve entspricht also dem
+Hochpunkt der Umkehrung. Um den Wendepunkt des absteigenden Anteils dieser Pulskurve zu
+ermitteln, wurde im folgenden Schritt die erste Ableitung der Kehrwertdaten gebildet. Der
+Tiefpunkt dieser Ableitung entspricht dem Wendepunkt des absteigenden Anteils der Pulskurve.
+Dieser Wendepunkt ist zur Berechnung des reflektiven Indexes ausschlaggegebend. Der
+reflektive Index wird aus den Mittelwerten der Datenpunkte 93 ms bis 218 ms nach dem
+Wendepunkt (3 bis 7 Punkte nach dem Wendepunkt) des absteigenden Anteils der Pulskurve
+ermittelt.
+
+Der reflektive Index beschreibt den so genannten „Schulterbereich“ („notch“) des diastolischen
+Anteils der Pulskurve, der durch die Pulskurvenreflexion vor allem an den kleinen peripheren
+Gefäßen entsteht. Anhand des derart ermittelten reflektiven Indexes lässt sich die periphere
+Gefäßsituation des Probanden beurteilen (Bukert et al., Abbildungen 4 ) . Der reflektive Index
+wird also als Mittelwert aus allen Volumenpulswellen, die innerhalb einer Episode von 150
+Sekunden aufgezeichnet werden, d. h. aus 150 bis 250 Volumenpulswellen, ermittelt.
+
+19
+
+Abbildung 4:
+Schematische Darstellung der Rohdaten + SEM (Rohkurve, A) von zehn digital photoplethysmographisch
+ermittelten Pulskurven, deren Kehrwert (Photoplethysmographie, B) sowie die erste Ableitung (erste Ableitung, C)
+zur Ermittlung des reflektiven Indexes. Die durchgehende Linie kennzeichnet den Wendepunkt des absteigenden
+Anteils der Pulskurve (Photoplethysmographie, B) sowie die korrespondierenden Tiefpunkte in der ersten
+Ableitung (erste Ableitung, C).
+
+20
+
+Nach der kontinuierlichen digitalen photoplethysmographischen Messung von 23:00 Uhr bis
+6:00 Uhr wurde die Durchblutung des Armes für 5 Minuten unterbunden. Dazu wurde eine
+Blutdruckmanschette verwendet, die am proximalen Oberarm befestigt und über den
+systolischen Druck der Arteria radialis aufgepumpt wurde. Es kommt zu einer lokalen Ischämie
+distal der Stauung. Nach Lösen der Stauung kommt es zur reaktiven Hyperämie, wodurch der
+Scherstress in den betroffenen Gefäßen ansteigt und flussabhängige Vasodilatation „flowmediated vasodilation“ hervorgerufen wird (Joannides et al., 1995; Pyke et al., 2005). Dieser
+Test der reaktiven Hyperämie wurde erstmal von Celermajer et al., 1992, zur nicht-invasiven
+Erzeugung endothelialer, flussabhängiger Vasodilatation durchgeführt. Das Ausmaß der
+flussabhängigen Vasodilatation spiegelt die Funktion des Gefäßendothels wider und gilt als
+prädikativer Marker für den Gefäßzustand (Bonetti et al., 2003; Moens et al, 2005; Nakanishi et
+al., 2002). Für diese Gefäßreaktion wird vor allem NO (Stickstoffmonoxid = Endothelium
+derived relaxing faktor) neben anderen Vasodilatatoren, wie Prostaglandin (PGI2), Endotheliumderived hyperpolarizing faktor (EDHF), Endothelin (ET-1) oder Acetylcholin (ACh) als der
+wichtigste Mediator, verantwortlich gemacht (Joannides et al., 1995; Pyke et al., 2005; Kolleret
+al., 1995; Doshi et al., 2001; Mullen et al., 2001). Dabei reagieren calciumaktivierte
+Kaliumkanäle des Gefäßendothels auf Scherkräfte (Cooke et al., 1991; Miura et al., 2001).
+Durch einen vermehrten Kaliumausstrom kommt es zur Hyperpolarisation der glatten
+Gefäßmuskelzellen und zum Calciumeinstrom. Da Calcium ein Aktivator der endothelialen NOSynthase ist und die Bildung von NO aus der Aminosäure L-Arginin katalysiert, führt ein
+Anstieg des Calciumeinstroms zu einem Anstieg der endothelialen NO-Produktion und Sekretion
+(Corretti et al., 2002; Govers et al., 2001). Ein Anstieg des endothelialen NO-Spiegels führt
+durch die Erhöhung des cGMP-Spiegels zum Abfall der intrazellulären Calciumkonzentration in
+den glatten Gefäßmuskelzellen. So wird der Calcium-abhängige Konzentrationsmechanismus
+blockiert; es kommt zur NO-abhängigen Vasodilatation (Koeppen et al., 2004).
+
+Bei Stauung proximal des Untersuchungsgebietes konnte mittels NO-Synthetase-Inhibitor
+gezeigt werden, dass die Vasodilatation als Folge der reaktiven Hyperämie nicht ausschließlich
+NO-vemittelt ist. Die entstehende lokale Ischämie distal der Stauung führt zur Freisetzung
+ischämischer, vasodilatierender Metabolite wie Kalium, Adenosin oder ATP und zur Änderung
+des pH-Wertes. Weiterhin kann der Verlust des Muskeltonusses bei proximaler Stauung für eine
+myogen induzierte, stärkere Vasodilatation verantwortlich gemacht werden (Doshi et al., 2001).
+Bei proximaler Stauung ist die abgebildete endotheliale flussabhängige Vasodilatation nicht
+ausschließlich auf die biologische Verfügbarkeit von NO zurückzuführen.
+21
+
+Arteriosklerotische Veränderungen der Gefäßwand im Rahmen einer arteriellen Hypertonie
+sowie einer chronischen Niereninsuffizienz können durch die Bestimmung der Gefäßsteifigkeit
+dargestellt werden.
+
+2.3.
+
+Applanationstonometrie
+
+Die Messung der Gefäßsteifigkeit erfolgt mit einem HDI/Pulswave research cardiovaskular
+profiling instrument (model CR-2000). Die nicht-invasiven Pulswellenmessungen erfolgen
+mittels eines Applanationstonometers, das auf die Arteria radialis aufgesetzt wird. Das
+Applanationstonometer besteht aus einem Edelstahlzylinder von 1,2 cm Durchmesser, der unten
+durch ein 0,15 mm dickes Edelstahlplättchen verschlossen ist. Über eine Verbindung mit einem
+piezoelektrischen Element wird das Pulswellensignal verstärkt. Eine Haltevorrichtung wird am
+Handgelenk des Probanden befestigt. Dadurch erfolgen die Justierung des Tonometers und die
+Gewährleistung der Stabilität während der Pulswellenmessung. Eine zusätzliche Stabilisierung
+des Unterarmes während der Pulswellenmessung wird durch einen angewickelten „wrist
+stabilizer“ gewährleistet. Bei Patienten mit arterio-venösem Shunt am Unterarm erfolgt die
+Pulswellenmessung am kontralateralen Arm. Die Pulswellen werden durch die unmittelbar
+vorausgehende oszillometrische Blutdruckmessung am Oberarm geeicht. Die Form der
+arteriellen Pulswelle wird durch anterograde und retrograde Druckwellen bestimmt. Durch einen
+Algorithmus unter Berücksichtigung eines 4-Element-Windkessel-Modells können aus der
+gemessenen Radialis-Pulswelle der totale periphere Widerstand (systemic vascular resistence,
+SVR), der Index der Elastizität der großen Gefäße (C1 in ml/mmHg x 10) und der Index der
+Elastizität der kleinen Gefäßen (C2 in ml/mmHg x 100) bestimmt werden (Arnett et al., 2001;
+Finkelsteinet et al., 1992; Mc Veigh et al., 1999; Rietzschel et al., 2001). Diese Werte werden
+aus den Mittelwerten der Pulswellen während einer Messperiode von 30 Sekunden berechnet.
+
+Das Schlagvolumen (SV) wird aufgrund von Alter (in Jahren), Herzfrequenz (HR/ Minute),
+Körperoberfläche (KOF in m2) und Herzauswurfzeit (cardiac ejection time, CET in ms, bestimmt
+aus der Radialispulswelle) nach folgender Formel berechnet:
+
+SV = - 6,6 + 0,25 x (CET - 3,5) - 0,62 x (HR) + 40,4 x (KOF) - 0,51 x (Alter).
+
+22
+
+Die Körperoberfläche (KOF in m2) lässt sich nach folgender Formel berechnen:
+
+0,007184 x Körpergröße 0,725 x Körpergewicht 0,425.
+
+Der Schlagvolumen-Index errechnet sich aus Schlagvolumen (SV) geteilt durch die
+Körperoberfläche (KOF).
+
+Das Herzzeitvolumen berechnet sich nach folgender Formel:
+
+(CO) = (SV) x (HR).
+
+Die Arterial Stiffness der großen Gefäße (S1) und die Arterial Stiffnes der kleinen Gefäße (S2)
+lassen sich nach folgender Formel berechnen:
+
+S1 = 10/C1 und S2 = 100/C2.
+
+Der totale periphere Widerstand (systemic vascular resistence, SVR) errechnet sich aus dem
+mittleren arteriellen Blutdruck geteilt durch (CO).
+
+Der Index der Elastizität der großen Gefäße (C1), der Index der Elastizität der kleinen Gefäße
+(C2) und der induktive Widerstand (inductance, L) lassen sich durch eine Kurvenanpassung aus
+dem diastolischen Teil der Kurve errechnen.
+
+Geräte:
+Pulsoximeter
+
+Vitaguard VG3000; getemed, Teltow, Deutschland
+
+Sensor
+
+LNOP-Adt SpO2 sensor; Masimo Corporation, USA
+
+2.4.
+
+Statistik
+
+Alle kontinuierlich erhobenen Daten wurden als Mittelwerte + SEM
+(Standardfehler des Mittelwertes) dargestellt. Die Auswertung und graphische Darstellung der
+Daten erfolgte mittels des statistischen Computerprogramms Graph Pad Prism 3.0 (Graph Pad
+Software, San Diego, CA, USA).
+
+23
+
+Um signifikante Unterschiede zwischen den erhobenen klinischen Daten zwischen
+Kontrollpersonen,
+
+Hypertonikern
+
+und
+
+Patienten
+
+mit
+
+chronischer
+
+Niereninsuffizienz
+
+aufzuzeichnen, wurde neben dem parametrischen gepaarten Student t-Test auch der
+nonparametrische gepaarte Test nach Wilcoxon durchgeführt.
+
+Der Zusammenhang zweier klinischer Variablen wurde korrelationsanalytisch geprüft. Die
+Korrelation quantifiziert die Stärke des untersuchten Zusammenhanges. Sie wird in der Studie
+nach Spearman berechnet. Ein p < 0,05 wurde statistisch als signifikanter Unterschied zwischen
+den Gruppen angesehen.
+
+3.
+
+Ergebnisse
+
+3.1.
+
+Charakterisierung der Patienten
+
+In der Untersuchung wurden 117 Patienten (77 Männer, 40
+
+Frauen) mit chronischer
+
+Niereninsuffizienz, 52 Patienten mit essentieller Hypertonie (31 Männer, 21 Frauen) sowie 32
+normotensive
+
+Kontrollpersonen
+
+(22
+
+Männer,
+
+10
+
+Frauen)
+
+eingebunden.
+
+Zu
+
+den
+
+Einschlusskriterien gehörten die Volljährigkeit (Alter > 18 Jahren) beiderlei Geschlechts, die
+Zustimmungsfähigkeit sowie eine schriftliche und mündliche Zustimmung. Ausschlusskriterien
+waren Fieber, Schmerzzustände, sowie akute Verschlechterung des Allgemeinzustandes. Die
+Untersuchung wurde durch die zuständige Ethikkommission der Charité-Universitätsmedizin
+Berlin, Campus Benjamin Franklin, geprüft und zugestimmt. Alle Patienten gaben ihr
+schriftliches Einverständnis für die Messungen.
+
+Die klinische sowie laborchemische Charakterisierung der Probanden ist in Tabelle 1 und 2
+dargestellt.
+
+24
+
+Tabelle 1:
+Klinische und laborchemische Charakterisierung der normotensiven Kontrollpersonen (NT), der
+Patienten
+
+mit
+
+essentieller
+
+Hypertonie
+
+(HT)
+
+sowie
+
+der
+
+Patienten
+
+mit
+
+chronischer
+
+Niereninsuffiziens (CRF). Kontinuierliche Daten sind als Mittelwert + SEM angegeben.
+
+Charakteristika
+
+NT(n=32)
+
+HT(n=52)
+
+CRF(=117)
+
+Mann/ Frau (Anzahl)
+
+22/10
+
+31/21
+
+77/40
+
+Körpergewicht (kg)
+
+75 + 2
+
+78 + 2
+
+77 + 2
+
+Körperoberfläche (m2)
+
+1,9 + 0,03
+
+1,9 + 0,03
+
+1,9 + 0,02
+
+Body Maß Index (kg/m2)
+
+25,4 + 0,75
+
+26,6 + 0,70
+
+25,9 + 0,48
+
+Herzfrequenz (/min)
+
+74,4 + 2,1
+
+71,9 + 2,0
+
+74,9 + 1,3
+
+Systolischer Blutdruck (mmHg)
+
+122 + 4
+
+156 + 3
+
+139 + 2
+
+Diastolischer Blutdruck (mmHg)
+
+82,5 + 10,5
+
+79,3 + 5,0
+
+76,7 + 3,2
+
+Pulsdruck (mmHg)
+
+55,3 + 2,4
+
+75,3 + 2,6
+
+63,5 + 1,3
+
+Leukozyten (/nl)
+
+8,96 + 0,58
+
+8,85 + 0,49
+
+9,13 + 0,42
+
+Hämoglobin (g/dl)
+
+11,98 + 0,32
+
+13,13+ 0,33
+
+11,4 + 0,19
+
+Thrombozyten (/nl)
+
+260 + 17,5
+
+257,9 + 13,4
+
+226 + 7,9
+
+Serum Kreatinin (mg/dl)
+
+1,25 +0,13
+
+1,33 + 0,2
+
+3,24 + 0,2
+
+Serum Harnsäure (mg /dl)
+
+7,03 + 1,01
+
+6,78 + 0,52
+
+7,47 + 0,32
+
+Serum Natrium (mmol/l)
+
+137,44+0,77
+
+137,88+0,86
+
+134,79+1,8
+
+Serum Kalium (mmol/l)
+
+4,06 + 0,1
+
+3,97 + 0,11
+
+4,29 + 0,08
+
+Serum Calcium (mmol/l)
+
+2,17 + 0,04
+
+2,3 + 0,02
+
+4,7 + 2,5
+
+Serum Phosphat (mmol/l)
+
+1,08 + 0,17
+
+1,26 + 0,13
+
+1,4 + 0,06
+
+Glucose (mg/dl)
+
+131,57 + 9,4
+
+124,9 + 6,95
+
+113 + 4,89
+
+HbA1C (%)
+
+7,07 + 0,58
+
+6,32 + 0,46
+
+6,9 + 0,25
+
+Cholesterin gesamt (mg/dl)
+
+211 + 28,5
+
+194,4 + 12,0
+
+196,9 + 8,3
+
+Triglyceride (mg/dl )
+
+150,7 + 11,6
+
+126,9 + 14,7
+
+13,188,2+68
+
+HDL-Cholesterin (mg/dl)
+
+63,4 + 10,0
+
+57,3 + 3,88
+
+49,47 + 3,0
+
+LDL-Cholesterin ( mg/dl)
+
+161,9 + 15,0
+
+130,67+10,6
+
+113,77+6,5
+
+C-reaktives Protein (mg/l)
+
+2,78 + 0.59
+
+3,16 + 1,0
+
+3,8 + 0.58
+
+GOT (u/l)
+
+35,8 + 6,4
+
+27,9 + 2,3
+
+31,35 + 2,8
+
+GPT (u/l)
+
+25,9 + 3,7
+
+26,2 + 2,3
+
+28,7 + 2,6
+
+25
+
+Transferrin (g/l)
+
+154,7+19,3
+
+218,5 + 16,7
+
+178,68+16,9
+
+Eisen (µmol/l)
+
+12,07 + 3,47
+
+10,25 + 3,24
+
+12,3 + 1,28
+
+Folsäure (nmol/l)
+
+7,65 + 4,0
+
+6,28 + 2,0
+
+5,1 + 0,7
+
+Vitamin B12 (pmol/l)
+
+510 + 116
+
+464 + 121
+
+554 + 92
+
+Gesamt-Eiweiß (g/dL)
+
+6,86 + 0.32
+
+7,28 + 0,14
+
+6,29 + 0.13
+
+Albumin (g/dL)
+
+3,1 + 0,2
+
+6,76 + 2,9
+
+5,6 + 1,3
+
+Diabetes mellitus (%)
+
+0/32
+
+1/52
+
+16/117
+
+Koronare Herzerkrankungen (%)
+
+8/32
+
+10/52
+
+36/117
+
+Insult (%)
+
+2/32
+
+6/52
+
+11/117
+
+Periphere arterielle Verschlußkrankheit (%)
+
+1/32
+
+1/52
+
+7/117
+
+Tabelle 2:
+Medikation der Patienten mit essentieller Hypertonie sowie der Patienten mit chronischer
+Niereninsuffizienz.
+
+Charakteristika/Medikation
+
+NT(n= )
+
+HT(n= )
+
+CRF(n= )
+
+Thrombozytenaggregationshemmer
+
+1/32
+
+6/52
+
+49/117
+
+HMG CoA-Reduktasehemmer
+
+1/32
+
+12/52
+
+39/117
+
+Diuretika
+
+3/32
+
+15/52
+
+57/117
+
+Immunsuppressiva
+
+3/32
+
+1/52
+
+36/117
+
+Vitamine
+
+0/32
+
+0/52
+
+2/117
+
+Phosphatbinder
+
+0/32
+
+1/52
+
+7/117
+
+Acetylcystein (ACC)
+
+0/32
+
+0/52
+
+2/117
+
+Eisen
+
+0/32
+
+1/52
+
+10/117
+
+Erythropoietin (EPO)
+
+0/32
+
+1/52
+
+8/117
+
+Angiotensin Converting-Enzyme-Inhibitor
+
+3/32
+
+18/52
+
+417117
+
+Calcium-Antagonist
+
+0/32
+
+13/52
+
+35/117
+
+Nitrate
+
+0/32
+
+2/32
+
+4/117
+
+ß-Blocker
+
+4/32
+
+20/52
+
+61/117
+
+26
+
+Die Patienten mit chronischer Niereninsuffizienz (n=117) waren im Durchschnitt 60 + 2 Jahre alt
+(Mittelwert + SEM). Die Patienten mit chronischer Niereninsuffizienz wurden definiert als
+solche Patienten mit bestehendem Anstieg der Konzentration der harnpflichtigen Substanzen im
+Serum. Dazu gehörten Patienten mit voller Kompensation (GFR > 90ml/min), Patienten mit
+leichtgradiger Funktionseinschränkung der Nieren (GFR von 60 bis 90 ml/min), Patienten mit
+mittelschwerer Funktionseinschränkung der Nieren (GFR 15 bis 30 ml/min) und Patienten mit
+terminaler Niereninsuffizienz oder Dialysepflichtigkeit (GFR < 15 ml/min ).
+
+Die Patienten mit essentieller Hypertonie (n=52) waren im Durchschnitt 62 + 2 Jahre alt
+(Mittelwert + SEM). Nach WHO-Klassifikation ist die arterielle Hypertonie definiert mit
+Ruheblutdruck > 140 mmHg (systolisch) und/oder > 90 mmHg (diastolisch) nach wiederholten
+Messungen zu unterschiedlichen Zeitpunkten. Die Diagnose der essentiellen Hypertonie wurde
+dann gestellt, wenn alle sekundären Hypertonieformen klinisch, laborchemisch und bildgebend
+ausgeschlossen waren.
+
+Die normotensiven Kontrollpersonen waren im Durchschnitt 65 + 3 Jahre alt (Mittelwert +
+SEM), und hatten einen Ruheblutdruck < 140mmHg (systolisch) und < 90 mmHg (diastolisch).
+
+3.2.
+
+Reflektiver Index während des Schlafes in der Nacht
+
+Der reflektive Index wird als Mittelwert aus allen Volumenpulswellen ermittelt, die innerhalb
+einer Episode von 150 Sekunden aufgezeichnet werden. Er leitet sich aus den
+photoplethysmographisch erhobenen und aufgezeichneten Daten her. Die kontinuierliche
+Aufzeichnung der digitalen Volumenpulswelle während der Nacht wurde bei Patienten mit
+chronischer Niereninsuffizienz, bei Patienten mit essentieller Hypertonie sowie bei
+normotensiven Kontrollpatienten mittels nicht-invasiver digitaler Photoplethysmographie
+durchgeführt. Das Verfahren der digitalen Photoplethysmographie beruht auf der physikalischen
+Grundlage, dass rotes Licht stärker vom Blut als vom umliegenden Gewebe absorbiert wird. Es
+besteht ein direkter Zusammenhang zwischen dem sich mit dem Pulsschlag ändernden
+Blutvolumen und dem am Photosensor eingehenden Impuls, der verrechnet und als
+mathematische Kurve wiedergegeben wird - die Pulswellenkurve. Aus Rohdaten wurde der
+reflektive Index als Maß des Gefäßtonus entwickelt.
+
+27
+
+Auf der Abbildung 5 wird der Mittelwerte + SEM der während der Nacht gemessenen
+reflektiven Indices bei den normotensiven Kontrollpersonen, bei Patienten mit essentieller
+Hypertonie und bei Patienten mit chronischer Niereninsuffizienz dargestellt. Es zeigt sich kein
+signifikanter Unterschied der reflektiven Index-Werte während der Nacht zwischen den drei
+Gruppen (Kontrollpersonen, Hypertoniker und niereninsuffizente Patienten).
+
+Reflektiver Index
+
+40
+30
+20
+10
+0
+
+NT
+
+HT
+
+CRF
+
+Abbildung 5:
+Darstellung der Mittelwerte + SEM der während der Nacht gemessenen reflektiven Indices von 32 normotensiven
+Kontrollpersonen (NT, offene Balken), von 52 Patienten mit essentieller Hypertonie (HT, gefüllte Balken) sowie
+von 117 Patienten mit CRF
+
+3.3.
+
+Endothelvermittelte Vasodilatation
+
+Nach der kontinuierlichen digitalen photoplethysmographischen Messung von
+23:00 Uhr bis 6:00 Uhr wurde bei einem Ischämietest am Arm der arterielle Einstrom mittels
+einer Blutdruckmanschette kurzfristig unterbunden und reaktive Hyperämie nach Lösung der
+Blutdruckmanschette analysiert. Das Ausmaß der flussabhängigen Vasodilatation (die
+Veränderung des reflektiven Indexes/Wert vor Stauung - Wert nach Stauung) spiegelt die
+Funktion des Gefäßendothels wider und gilt als prädiktiver Marker für Gefäßzustand.
+
+28
+
+Bei den normotensiven Kontrollpersonen kam es zum signifikanten Abfall des reflektiven Index
+während der reaktiven Hyperämie von 33,09 auf 26,16 p< 0,05.
+
+Bei Patienten mit essentieller Hypertonie kam es zu einem signifikanten Abfall des reaktiven
+Index während der reaktiven Hyperämie von 31,9 auf 28,6 p < 0,001.
+
+Bei Patienten mit chronischer Niereninsuffizienz kam es zu einem signifikanten Abfall des
+reaktiven Indexes während der reaktiven Hyperämie von 30,36 auf
+27,7 p < .0,001
+
+Die Veränderung des reaktiven Index (Wert nach der Stauung - Wert vor Stauung) war nicht
+signifikant unterschiedlich zwischen den drei Gruppen.
+
+3.4.
+
+Arterial Stiffness (S1, S2)
+
+Die Pulskurven zur Berechnung der Pulswellengeschwindigkeit können transkutan mit
+Druckaufnehmer (Tonometer) aufgezeichnet werden. Die Messung der Gefäßsteifigkeit erfolgt
+mit einem HDI/Pulswave research Cardiovascular Profiling Instrument (Model CR-2000).
+
+3.4.1. Arterial Stiffness (S1, S2) zu Beginn der Nacht (24:00Uhr) bei normotensiven
+Kontrollpersonen, bei Patienten mit essentieller Hypertonie und bei Patienten mit
+chronischer Niereninsuffizienz
+
+Die Arterial Stiffness der großen Gefäße (S1) war 0,92 + 0,1mmHg/ml bei normotensiven
+Kontrollpersonen. Die arterial Stiffness der großen Gefäßen (S1) war 1,26 + 0,08 mmHg/ml bei
+Patienten mit essentieller Hypertonie. Die Arterial Stiffness der großen Gefäße (S1) war 1,03 +
+0,04 mmHg/ml bei Patienten mit chronischer Niereninsuffizienz.
+
+Patienten mit essentieller Hypertonie hatten signifikant höhere Werte für Arterial Stiffness der
+großen Gefäße (S1) (p < 0,05; Abbildung 6).
+
+29
+
+S1 (mmHg/mL)
+
+1.5
+
+*
+
+1.0
+
+0.5
+
+0.0
+
+NT
+
+HT
+
+CRF
+
+Abbildung 6:
+Arterial Stiffness der großen Gefäße (S1) gemessen in der Nacht bei 32 normotensiven Kontrollpersonen (NT,
+offene Balken), bei 52 Patienten mit essentieller Hypertonie (HAT, gefüllte Balken) und bei 117 Patienten mit
+chronischer Niereninsuffizienz (CRF, punktierte Balken). Die Daten sind als Mittelwerte + SEM
+dargestellt.
+
+*p < 0,05.
+
+Die Arterial Stiffness der kleinen Gefäße (S2) war 23,3 + 3,49 mmHg/ml bei normotensiven
+Kontrollpersonen. Die Arterial Stiffness der kleinen Gefäße (S2) war 33,0 + 3,1 mmHg/ml bei
+Patienten mit essentieller Hypertonie. Die Arterial Stiffness war 23,3 + 1,7mmHg/ml bei
+Patienten mit chronischer Niereninsuffizienz.
+
+Patienten mit essentieller Hypertonie hatten signifikant höhere Werte für Arterial Stiffness der
+kleinen Gefäße (S2) p < 0,05, Abbildung 7.
+
+Es besteht eine positive Korrelation zwischen der arterial Stiffness der großen Gefäße (S1) und
+dem Pulsdruck. Je höher der Pulsdruck, desto steifer die großen Gefäße.
+
+30
+
+S2 (mmHg/mL)
+
+50
+*
+
+40
+30
+20
+10
+0
+
+NT
+
+HT
+
+CRF
+
+Abbildung 7:
+Arterial Stiffness der kleinen Gefäße (S2) gemessen in der Nacht bei 32 normotensiven Kontrollpersonen (NT,
+offene Balken), bei 52 Patienten mit essentieller Hypertonie (HAT, gefüllter Balken) und bei 117 Patienten mit
+chronischen Niereninsuffizienz (CRF, punktierte Balken). Die Daten sind als Mittelwerte + SEM dargestellt. p <
+0,05.
+
+4. Diskussion
+4.1.
+
+Reflektiver Index und photoplethysmographische Pulskurvenaufzeichnung
+
+Die chronische Niereninsuffizienz und essentielle Hypertonie stellten einen Risikofaktor für
+kardivaskuläre Mortalität und Morbidität dar. Änderung der Gefäßeigenschaften und Störung der
+Endothelfunktion(endotheliale Dysfunktion) sind pathophsiologisch von großer Bedeutung. eine
+vielzahl kardiovaskulärer Erkrankungen geht mit einer endothelialen Dysfunktion sowie
+artheriosklerotisch veränderte Gefäßeigenschaften einher. Das rechtzeitige Erkennen der
+pathologisch
+
+veränderten
+
+Gefäßeigenschaften
+
+und
+
+eine
+
+entsprechende
+
+therapeutische
+
+Maßnahmen verhindert die Progrediez und vermindert die kardiovaskuläre Morbidität und
+Mortalität.
+31
+
+In meiner Arbeit wurde die digitale Photoplethsmographie zur kontinuierlichen Aufzeichnung
+der Volumenpulswelle als nicht-invasive Methode angewandt.
+
+Der
+
+relektive
+
+Index
+
+wurde
+
+durch
+
+einen
+
+Auswertungs-Algorithmus
+
+aus
+
+den
+
+photoplethysmogrsphisch ermittelten Rohdaten entwickelt und als Maß für Gefäßtonus
+verwendet.
+
+Die digitale Volumenpulswelle besteht aus einem systolischen und einem diastolischen Anteil.
+Der diastolische Anteil der Volumenpulswelle entsteht durch die Reflexion der Pulswelle in der
+Peripherie. Das Verfahren der digitalen photoplethysmographie wurde zunächst an gesunden
+Personen zur Aufzeichnung der Pulswelle eingesetzt. Es wurde beobachtet in Studien, dass nach
+systemischer Nitrogabe zu einem Abfall des Gefäßtonus und des reflektiven Index.
+Die Sympathikusaktivität spielt bei dem Gefäßtonus eine wichtige Rolle. Ein erhöhter
+Sympatikustonus führt zur Steigerung des Gefäßtonus, des reflektiven Index und damit des
+Risiko
+
+für
+
+kardiovaskulären
+
+Ereignisse.
+
+Ein
+
+direkter
+
+Zusammenhang
+
+zwischen
+
+Sympatikusaktivität und Gefäßtonus wurde u.a von Scholze et al., (2005) beschrieben.
+Ob eine Änderung des Gefäßtonus oder Sympatikusaktivität in der Nacht bei Patienten mit
+Niereninsuffiziens und essentieller Hypertonie ein wichtiger Risikofaktor für kardiovaskuläre
+Ereignisse ist, konnte in der vorliegenden Arbeit nicht geklärt werden. Scholze at al., 2005
+konnte zeigen, dass Patienten mit essentieller Hypertonie in der Nacht signifikant höhere
+reflektive Index-Werte im Vergleich zu den normotensiven Kontrollpersonen aufweisen.
+In der vorliegenden Untersuchung konnte keinen signifikanten Unterschied zwischen den
+reflektiven Indices in der Nacht bei Patienten mit essentieller Hypertonie, Patienten mit
+chronischer Niereninsuffizienz und normotensiven Kontrollpersonen nachgewiesen weden.
+Dieses Ergebnis widerspricht den früheren Untersuchungen. Eine Erklärung dafür liegt
+wahrscheinlich darin, dass andere beziehungsweise weitere Risikofaktoren bei Hypertonikern
+und Niereninsuffizienten bei Auftreten von kardiovaskulären Ereignissen eine Rolle spielen.
+
+4.2.
+
+Endothelfunktion
+
+Eine Störung der Endothelfunktion (Endotheliale Dysfunkion) ist pathophysiologisch von
+größter Bedeutung. Eine Vielzahl kardiovaskuläre Erkrankungen gehen mit einer endothelialen
+Dysfunktion einher. Hierbei lässt sich eine verminderte Freisetzung von NO aus dem Endothel
+nachweisen. Bei Prozessen der Arteriosklerose wird der endotheliale Dysfunktion zugesprochen.
+32
+
+Die Endothel-Funktion kann wie schon beschrieben durch den Test der reaktiven Hyperämie
+beurteilt werden. nach einem initialen Anstieg des reflektiven Index bei der Stauung, kommt es
+bei Lösen der Stauung zu einem Abfall des reflektiven Index. Je ausgeprägter diese Abfall, desto
+stärker die endothelvermittelte Vasodilatation und desto besser die Endothelfunktion.
+
+In frühen Studien wurde gezeigt, dass Patienten mit chronischen Niereninsuffizienz und
+essentiellen Hypertonie eine gestörte endothelvermittelte Vasodilatation haben. In meiner Arbeit
+wurde der Test der reaktiven Hyperämie zur Beurteilung der Endothelfunktion bei 32
+normotensiven Kontrollpersonen, bei 52 Patienten mit essentieller Hypertonie sowie bei
+Patienten mit chronischen Niereninsuffizienz durchgeführt. Bei Patienten mit chronischer
+Niereninsuffiziens kam es zu einem signifikanten Abfall des reflektiven Index nach der Stauung.
+Der Wert nach der Stauung lag bei 30,36 und vor der Stauung lag bei 27,7. Bei Patienten mit
+Hypertonie kam es zu einem signifikanten Abfall des reflektiven Index nach der Stauung. Der
+Wert nach der Stauung lag bei 28,6 und vor der Stauung lag der Wert bei 31,9.
+
+Bei den normotensiven Kontrollpersonen zeigte sich ein signifikanter Abfal des reflektiven
+Index nach der Stauung. Der Wert nach der Stauung lag bei 26,16 und vor der Stauung bei
+33,09.
+
+Der Abfall des reflektiven Index (Wert nach der Stauung- Wert vor der Stauung) war nicht
+signifikant unterschiedlich zwischen den normotensiven Kontrollpersonen, den Patienten mit
+essentieller Hypertonie und den Patienten mit chronischer Niereninsuffizienz.
+Dieses Ergebnis widerspricht, was in Studien beschrieben wurde. Bei Patienten mi chronischen
+Niereninsuffizienz wurde eine gestörte endothelvermittelte Vasodilatation beobachtet (Nakanishi
+et al., 2002; Joannides et al., 1997; Pannier et., 2000).
+
+Meine Ergebnisse sind wahrscheinlich darin begründet, dass neben den endothelialen
+Mechanismen bei den Patienten mit chronischen Niereninsuffizienz und patienten mit
+essentiellen Hypertonie die lokal chemische Regulation eine wichtige bzw domenante Rolle
+spielt. Eine Akkumulation von Stoffwechselendprodukte (z.B pCO2-Anstieg, pH-Abfall,
+Akkumulation von Adenosin und Lactat sowie pO2-Abfall führt zu einer Vasodilatation.
+
+33
+
+4.3.
+
+Arterial-Stiffnes( Gefäßsteifigkeit)
+
+Klinisch führen die mit Zunahme der Gefäßsteifigkeit auftretenden hämodynamischen
+Veränderungen zu einer Erhöhung des Schlaganfallrisikos durch Anstieg des Pulsdruks, sowie
+einer Zunahme der kardialen Nachlast mit vermehrtem myokardialen Sauerstoffverbrauch ,
+linksventrikulären Hypertrophie und Abnahme der koronaren Perfusion infolge des niedrigen
+diastolischen Blutdrucks. Diese hämodynamischen Veränderungen tragen zur Steigerung der
+kardiovaskulären Morbidität und Mortalität bei. Diese Veränderungen (Abnahme der
+Windkesselfunkion, Anstieg des Systolischen Blutdrucks sowie Senkung des diastolischen
+Blutdrucks) werden verstärkt durch die Verlagerung der reflektierten Pulswelle aus der Diastole
+in die Systole, welche infolge der schnelleren Pulswellengeschwindigkeit früher einfällt. Ein
+direkter Zusammenhang zwischen der Gefäßelastizität und dem Pulsdruck wurde beschrieben
+(Marchais et al. 1993).
+
+Um die arterielle Gefäßsteifigkeit zu quantifizieren, wurden direkte und indirekte Indizes
+entwickelt. Zu den indirekten Indizes der Gefäßsteifigkeit gehören die charakteristische
+Impedanz, die Pulswellengeschwindigkeit und der Augmentationsindex. Die Pulskurven zur
+Berechnung
+
+der
+
+Pulswellengeschwindigkeit
+
+können
+
+transkutan
+
+mit
+
+Druckaufnehmern
+
+(Applanationstonometrie) aufgezeichnet werden.
+
+Bei meiner Untersuchung wurde die arterial Stiffness bei 32 normotensiven Kontrollpersonen,
+bei 52 Patienten mit essentieller Hypertonie und bei 117 Patienten mit chronischer
+Niereninsuffiziens untersucht.
+
+Patienten mit essentieller Hypertonie hatten signifikant höhere werte für arterial Stiffness der
+großen Gefäße (S1); p<0,05. Dies bedeutet, dass Patienten mit essentieller Hypertonie steifere
+große Gefäße haben.
+
+Es fand sich kein signifikanter Unterschied der arterial Stiffness der großen Gefäße zwischen
+Patienten mit chronischen Niereninsuffizienz und Normotoniker.
+Es besteht eine positive Korrelation zwischen der arterial Stiffnes der großen gefäße (S1) und
+dem Pulsdruck. Je höher der Pusdruck, desto steifer die großen Gefäße.
+
+34
+
+Patienten mit essentieller Hypertonie hatten signifikant höhere Werte für arterial Stiffnes der
+kleinen Gefäße(S2); p<0,05. Dies bedeutet, dass Patienten mit essentieller Hypertonie steifere
+kleine Gefäße haben.
+
+Ein signifikanter Unterschied der arterial stiffness der kleinen Gefäße zwischen Patienten mit
+chronischen Niereninsuffiziens und normotensiven Kontrollpersonen war nicht zu verzeichnen.
+Es gab eine positive Korrelation zwischen der arterial Stiffness der kleinen Gefäße(S2) und dem
+Pulsdruck. Davon leitet sich ab: Je höher der Pulsdruck,desto steifer die kleinen Gefäße.
+
+35
+
+5.
+
+Zusammenfassung
+
+Die klinische Bedeutung der arteriellen Hypertonie und der chronischen Niereninsuffizienz
+ergibt sich aus der erhöhten Morbidität und Mortalität.
+
+Bei der vorliegenden Untersuchung wurden die Veränderungen der Gefäßsteifigkeit und die
+Endothelfunktion der Gefäße in der Nacht bei Patienten mit Hypertonie und Niereninsuffizienz
+mittels nicht-invasiven Methoden untersucht. Dazu wurden die etablierten Methoden, nämlich
+die
+
+digitale
+
+Photoplethysmographie
+
+(
+
+Messung
+
+des
+
+reflektiven
+
+Index
+
+)
+
+und
+
+die
+
+Applanationstonometrie ( Messung der Arterial Stiffness) eingesetzt. Die Gefäßeigenschaften
+wurden bei 117 Patienten mit chronischer Niereninsuffizienz, bei 32 normotensiven
+Kontrollpersonen sowie bei 52 Patienten mit essentieller Hypertonie während der Nacht
+gemessen.
+
+In der Untersuchung konnte kein signifikanter Unterschied zwischen den reflektiven indices in
+der Nacht bei Patienten mit essentieller Hypertonie, Patienten mit chronischer Niereninsuffizienz
+und normotensiven Kontrollpersonen gezeigt werden.
+
+Die Veränderung der reflektiven Indices bei reaktiver Hyperämie war nicht signifikant
+unterschiedlich zwischen den normotensiven Kontrollpersonen , den Patienten mit essentieller
+Hypertonie und den Patienten mit chronischer Niereninsuffizienz.
+
+Zur Charakterisierung der Gefäßelastizität wurde die Arterial Stiffness mittels nicht-invasiver
+Applanationstonometrie bestimmt. Patienten mit essentieller Hypertonie hatten signifikant
+höhere Werte für die Gefäßsteifigkeit der großen Gefäße (S1) im Vergleich zu normotonen
+Patienten. Es besteht eine positive korrelation zwischen der Arterial Stiffness der großen Gefäße
+(S1) und dem Pulsdruck. Je höher der Pulsdruck, desto größer die Gefästeifigkeit.
+
+Die Untersuchung zeigt, dass Patienten mit arterieller Hypertonie eine erhöhte Gefäßsteifigkeit
+haben, ohne dass signifikante Veränderungen der nächtlichen Gefäßregulation mittel digitaler
+Photoplethysmographie nachweisbar waren.
+
+36
+
+6.
+
+Literaturverzeichnis
+
+Amann K, Gross ML, Ritz E. Pathophysiology underlying accelerated atherogenesis
+in renal disease: Closing in on the target. J Am Soc Nephrol. 2004; 15: 1664 -1666.
+
+Anavekar NS, McMurray JJ, Velazquez EJ, Solomon SD, Kober L, Rouleau JL, White HD,
+Nordlander R, Maggioni A, Dickstein K, Zelenkofske S, Leimberger JD, Califf RM, Pfeffer MA.
+Relation between renal dysfunction and cardiovascular outcomes after myocardial infarction. N
+Engl J Med. 2004; 351: 1285 - 1295.
+
+Al Suwaidi J, Hamasaki S, Higano S. Long-term follow-up of patients with mild
+coronary artery disease and endothelial dysfunction. Circulation 2000; 101: 948 - 954.
+
+Anderson EA, Sinkey CA, Lawton WJ, Mark AL. Elevated sympathetic nerve
+Activity in borderline hypertensive humans. Evidence from direct intraneural
+recordings. Hypertens. 1989; 14: 177 - 183.
+
+Annuk M, Lind L, Linde T, Fellstrom B. Impaired endothelium dependent
+vasodilation in renal failure in humans. Nephrol Dial Transplant. 2001; 16: 302 - 306.
+
+Archer SL, Huang JMC, Hampl V, Nelson DP, Schultz PJ, Weier EK. Nitric oxide
+and cGMP-depente protein kinase. Proc Natl Acad Sci USA. 1994; 91: 7583 - 7587.
+
+Arnett DK, Glasser SP, McVeigh G, Prineas R, Finkelstein S, Donahue R, Cohn JN,
+Sinaiko A. Blood pressure and arterial compliance in young adults: The Minnesota
+Children´s Blood Pressure Study. Am J Hypertens. 2001; 14: 200 - 205.
+
+Aviolio A, Jones D, Tafazzoli -Shadpour M. Quantification of alterations in structure
+and function of elastin in the arterial media Hypertens. 1998; 32: 170 - 175.
+
+Bachmann J, Tepel M, Raidt H, Riezler R, Graefe U, Langer K, Zidek W.
+Hyperhomocysteinemia and the risk for vascular disease in hemodialysis patients. J
+Am Soc Nephrol. 1995; 6: 121 - 125.
+
+37
+
+Baigent C, Burbury K, Wheeler D. Premature cardiovascular disease in chronic renal failure.
+Lancet. 2000; 356: 147 - 152.
+
+Bass A, Walden R, Hirshberg A, Schneiderman J. Pharmacokinetic activity of nitrites
+evaluated by digital pulse volume recording. J Cardiovasc Surg. 1989; 30: 395 - 397.
+
+Becker BN, Himmelfarb J, Henrich WL, Hakim RM. Reassessing the cardiac risk
+profile in chronic hemodialysis patients: a hypothesis on the role of oxidant stress and
+other non-traditional cardiac risk factors. J Am Soc Nephrol. 1997; 8: 475 - 486.
+
+Beltran A, McVeigh G, Morgan D, Glasser SP, Neutel JM, Weber M, Finkelstein
+SM, Cohn JN. Arterial compliance abnormalities in isolated systolic hypertension. Am
+J Hypertens. 2001;14: 1007 - 1011.
+
+Bonetti PO, Lerman L, Lerman A. Endothelial dysfunction: A marker of atherosclerotic risk.
+Arterioscler Thromb Vasc Biol. 2003; 23: 169 - 175.
+
+Bonetti PO, Pumper GM, Higano ST, Holmes DR, Kuvin JT, Lerman A. Noninvasive identification of patients with early coronary atherosclerosis by assessment
+of digital reactive hyperemia. J Am Coll Cardio. 2004; 44: 2137 - 2141.
+
+Busse R, Edwards G, Feletou M, Fleming I, Vanhoutte PM, Weston AM EDHF : Bringing the
+concepts together. Trends pharmacol sci. 2002; 23: 374 - 380.
+
+Celermajer DS, Sorensen K, Gooch V, Miller O, spiegelhalter D, Sullivan I,
+Deanfield JE. Noninvasive detection of endothelial dysfunction in children and adults
+at risk of atherosclerosis. Lancet. 1992; 340: 1111 - 1115.
+
+Chakraborti S, Chakraborti T. Oxidant-mediated activation of mitogen-activated
+protein kinases and nuclear transcription factors in the cardiovascular system: A brief
+overview. Cell Signal. 1998; 10: 675 - 683.
+
+38
+
+Chowienczyk PJ , Kelly RP, MacCallum BN, Millasseau SC, Andersson TLG,
+Gosling RG, Ritter JM, Anggard EE. Photoplethysmographic assessment of pulse
+wave reflection: Blunted response to endothelium-dependent beta2-adrenergic
+vasodilation in type II diabetes mellitus. J am Coll Cardiol. 1999; 34: 2007 - 2014.
+
+Cooke JP, Dzau VJ. Nitric oxide syntase: Role in the genesis of vascular
+disease. Annu Rev Med. 1997; 48: 489 - 509.
+
+Cooke JP, Rossitch E Jr, Andon NA, Loscalzo J, Dzau VJ. Flow activates an
+endothelial potassium channel to release an endogenous nitrovasodilator. J Clin
+Invest. 1991; 88: 1663 - 1671.
+
+Corretti MC, Anderson TJ, Benjamin EJ, Celermajer D, Charbonneau F, Creager MA, Deanfield
+J, Drexler H, Gerhard-Herman M, Herrington D, Vallance P, Vita J, Vogel R. International
+Brachial Artery Reactivity Task Force. Guidelines for the ultrasound assessment of endothelialdependent flow-mediated vasodilation of the brachial artery: A report of the International
+Brachial Artery Reactivity Task Force. J Am Coll Cardiol. 2002; 39: 257 - 265.
+
+Daugirdas JT. Simplified equations for monitoring Kt/V, PCRn, eKt/V, and ePCRn. Adv Ren
+Replace Ther. 1995; 2: 295 - 304.
+
+Domanski M, Mitchell G, Pfeffer M, Neaton JD, Norman J, Svendsen K, Grimm R,
+Cohen J, Stamler J; MRFIT Research Group. Pulse pressure and cardiovascular
+disease-related mortality: Follow-up study of the multiple Risk Factor Intervention
+Trial (MRFIT). JAMA. 2002; 287: 2677 - 2683.
+
+Doshi SN, Naka KK, Payne N, Jones CJ, Ashton M, Lewis Mj, Goodfellow J. Flow-mediated
+dilatation following wrist and upper arm occlusion in humans: The contribution of nitric oxide.
+Clin Sci (Lond). 2001; 101: 629 - 635.
+
+39
+
+Elherik K, Khan F, McLaren M, Kennedy G, Belch JJ. Circadian variation in vascular tone and
+endothelial cell function in normal males. Clin Sci (Lond). 2002; 102: 547 - 552.
+Esler M, Rumantir M, Wiesner G, Kaye D, Hastings J, Lambert G. Sympathetic
+nervous system and insulin resistance: From obesity to diabetes. Am J Hypertens.
+2001; 14: 304 - 309.
+
+Finkelstein SM, Cohn JN. First - and third - order models for determining arterial compliance. J
+Hypertens Suppl. 1992; 10: 11 - 14.
+
+Franklin SS. Cardiovascular risks related to increased diastolic, systolic and pulse pressure: An
+epidemiologist’s point of view. Pathol Biol (Paris). 1999; 47: 594 - 603.
+
+Franklin SS, Khan SA, Wong ND, Larson MG, Levy D. Is pulse pressure useful in
+predicting risk for coronary heart disease? The Framingham heart study. Circulation.
+1999; 100: 354 - 360.
+
+Giles T. Relevance of blood pressure variation in the circadian onset of cardiovascular
+events. J Hypertens. 2005; 23 Suppl 1: 35 - 39.
+
+Goldman JM, Petterson MT, Kopotic RJ, Barker SJ. Masimo signal extraction pulse oximetry. J
+Clin Monit Comput. 2000; 16: 475 - 483.
+
+Goldwasser P, Mittman N, Antignani A, Burrell D, Michel MA, Collier J, Avram MM.
+Predictors of mortality in hemodialysis patients . J Am Soc Nephrol. 1993; 3: 1613 - 1622.
+
+Goodman WG, Goldin J, Kuizon BD, Yoon C, Gales B, Sider D, Wang Y, Chung J, Emerick A,
+Greaser L, Elashoff RM, Salusky IB. Coronary-artery calcification in young adults with endstage renal disease who are undergoing dialysis. N Engl J Med. 2000; 342: 1478 - 1483.
+
+Griendling KK, Sorescu D, Lassegue B, Ushio-Fukai M. Modulation of protein kinase activity
+and gene expression by reactive oxygen species and their role in vascular physiology and
+pathophysiology. Arterioscler Thromb Vasc Biol. 2000; 20: 2175 - 2183.
+
+40
+
+Grote L, Zou D, Kraiczi H, Hedner J. Finger plethysmography: A method for
+monitoring finger blood flow during sleep disordered breathing. 2003; 236: 141 - 152.
+
+Guerin AP, London GM, Marchais SJ, Metivier F. Arterial stiffening and vascular
+calcifications in end-stage renal disease. Nephrol Dial Transplant. 2000; 15: 1014 –
+1021.
+
+Hausberg M, Kosch M, Harmelink P, Barenbrock M, Hohage H, Kisters K, Dietl KH, Rahn KH.
+Sympathetic nerve activity in end-stage renal disease. Circulation. 2002; 106: 1974 - 1979.
+
+Heitzer T, Schlinzig T, Krohn K. Endothelial dysfunction, oxidative stress and risk of
+cardiovascular events in patients with coronary artery disease. Circulation. 2001; 104: 2673 2678.
+
+Higashi Y, Sasaki S, Nakagawa K, Ueda T, Yoshimizu A, Kurisu S, Matsuura H,
+Kajiyama G, Oshima T. A comparasion of angiotensin-converting enzyme inhibitors,
+calcium antagonists, beta-blockers and diuretic agents on reactive hyperemia in
+patient with essential hypertension: A multicenter study. J Am Coll cardiol 2000; 35:
+284 - 291.
+
+Hijmering ML, Stroes ES, Olijhoek J, Hutten BA, Blankestijn PJ, Rabelink TJ.
+Sympathetic activation markedly reduces endothelium-dependent, flow-mediated
+vasodilatation. J Am Coll Cardiol. 2002; 39: 683 - 688.
+
+Himmelfarb J, Hakim RM. Oxidative stress in uremia. Curr Opin Nephrol Hypertens.
+2003; 12: 593 - 598.
+
+Hiromoto M, Tomo Y, Tomochika Y, Umemoto S, Matsuzaki M. Echographical assement of the
+early stage of experimental atherosclerosis of the descending aorta in rabbits. Jpn Circ J. 1996;
+60: 691 - 698.
+
+Iwatubo H, Nagano M, Sakai T, Kumamoto K, Morita R, Higaki J, Ogihara T, Hata
+T. Converting enzyme inhibitor improves forarm reactive hyperemia in essential
+hypertension. Hypertension. 1997; 29: 286 - 290.
+41
+
+Joannides R, Haefeli WE, Linder L, Richard V, Bakkali EH, Thuillez C, Luscher TF.
+Nitric oxide is responsible for flow - dependent dilatation of human peripheral conduit
+arteries in vivo. Circulation. 1995; 91: 1314 -1349.
+
+Joannides R, Bakkali EH, Le Roy F. Altered flow-dependent vasodilatation of conduit
+arteries in maintenance haemodialysis . Nephrol Dial Transplant. 1997; 12: 2623 –
+2628.
+
+Kamata H, Hirata H. Redox regulation of cellular signalling. Cell Signal. 1999; 11: 1
+- 14.
+
+Kario K, Pickering TG, Umeda Y, Hoshide S, Hoshide Y, Morinari M, Murata M,
+Kuroda T, Schwartz JE, Shimada K. Morning surge in blood pressure as a predictor of
+silent and clinical cerebrovascular disease in elderly hypertensives: A prospective
+study. Circulation. 2003; 107: 1401 -1406.
+
+Kelly R, Hayward C, Avolio A, O’Rourke M. Noninvasive determination of agerelated changes in the human arterial pulse. Circulation. 1989; 80: 1652 - 1659.
+
+Kelm M, Strauer B. Endothelial dysfunction. Therapeutic and prognostic issues. Internist. 1999;
+40: 1300 - 1307.
+
+Koeppen M, Feil R, Siegl D, Feil S, Hofmann F, Pohl U, de Wit C. cGMP-dependent
+protein kinase mediates NO but not Acetylcholine - induced dilatations in resistance
+vessels in vivo. Hypertension. 2004; 44: 952 - 955.
+
+Klassen PS, Lowrie EG, Reddan DN, DeLong ER, Coladonato JA, Szczech LA, Lazarus JM,
+Owen WF Jr. Association between pulse pressure and mortality in patients undergoing
+maintenance hemodialysis. JAMA . 2002; 287: 1548 - 1555.
+
+Koller A, Sun D, Kaley G. Role of shear stress and endothelial prostaglandins in flow - and
+viscosity - induced dilatation of arterioles in vitro. Circ Res. 1993; 72:1276 - 1284.
+
+42
+
+Krauchi K, Cajochen C, Werth E, Wirz-Justice A. Functional link between distal vasodilation
+and sleep-onset latenc? Am J Physiol Regul Integr Comp Physio l. 2000; 278: 741 - 748.
+
+Lassegue B, Sorescu D, Szocs K, Yin Q, Akers M, Zhang Y, Grant SL, Lambeth JD, Griendling
+KK. Novel gp91 (phox) homologues in vascular smooth muscle cells: nox1 mediates angiotensin
+II-induced superoxide formation and redox-sensitive signaling pathways. Circ Res. 2001; 88:
+888 - 894.
+
+Locatelli F, Aljama P, Barany P, Canaud B, Carrera F, Eckardt KU, Horl WH, Macdougal IC,
+Macleod A, Wiecek A, Cameron S; European Best Practice Guidelines Working Group. Revised
+European best practice guidelines for the management of anaemia in patients with chronic renal
+failure. Nephrol Dial Transplant. 2004;19: 1 - 47.
+
+Locatelli F, Marcelli D, Conte F, D ' Amico M, DelVecchio L, Limido A, Malberti F, Spotti D.
+Cardiovascular disease in chronic renal failure: The challenge continues. Registro Lombardo
+Dialisi e Trapianto. Nephrol Dial Transplant. 2000; 15: 69 - 80.
+London GM, Marchais SJ, Guerin AP, Metivier F. Arteriosclerosis, vascular
+calcifications and cardiovascular disease in uremia. Curr Opin Nephrol Hypertens.
+2005; 14: 525 - 531.
+
+Mallick NP, Marchais SJ, Guerin AP, Pannier BM, Delavaud G, London GM, Gokal
+R. Haemodialysis. Lancet. 1999; 353: 737 - 742.
+
+Marchais SJ, Guerin AP, Pannier BM, Delavaud G, London GM. Arterial compliance and blood
+pressure. Drugs. 1993; 46: 82 - 87.
+
+McVeigh GE, Bratteli CW, Morgan DJ, Alinder CM, Glasser SP, Finkelstein SM, Cohn JN.
+Age-related abnormalities in arterial compliance identified by pressure pulse contour analysis:
+Aging and arterial compliance. Hypertension. 1999; 33: 1392 - 1398.
+
+Miura H, Wachtel RE, Liu Y, Loberiza FR Jr, Saito T, Miura M, Gutterman DD. Flow-induced
+dilation of human coronary arterioles: important role of Ca (2+) - activated K (+) channels.
+Circulation. 2001; 103: 1992 - 1998.
+
+43
+
+Millasseau SC, Guigui FG, Kelly RP, Prasad K, Cockcroft JR, Ritter JM,
+Chowienczyk PJ. Noninvasive assessment of the digital volume pulse.
+Comparison with the peripheral pressure pulse. Hypertension. 2000; 36: 952 - 956.
+
+Millasseau SC, Kelly RP, Ritter JM, Chowienczyk PJ. Determination of age-related
+increases in large artery stiffness by digital pulse contour analysis. Clin Sci (Lond).
+2002;103: 371 - 377.
+
+Millasseau SC, Kelly RP, Ritter JM, Chowienczyk PJ. The vascular impact of aging
+and vasoactive drugs: Comparison of two digital volume pulse measurements. Am J
+Hypertens. 2003; 16: 467 - 472.
+
+Moens AL, Goovaerts I, Claeys MJ, Vrints CJ. Flow-mediated vasodilatation: A
+diagnostic intrument, or an experimental tool? Chest. 2005; 127: 2254 - 2263.
+
+Mullen MJ, Kharbanda RK, Cross J, Donald AE, Taylor M, Valance P, Deanfield JE,
+MacAllister RJ. Heterogenous nature of flow-mediated dilatation in human conduit
+arteries in vivo: Relevance to endothelial dysfunction in hypercholesterolemia. Circ
+Res. 2001; 88: 145 - 151.
+
+Muller JE, Stone PH, Turi ZG, Rutherford JD, Czeisler CA, Parker C, Poole WK,
+Passamani E, Roberts R, Robertson T. Circadian variation in the frequency of onset of
+acute myocardial infarction. N Engl J Med. 1985; 313: 1315 - 1322.
+
+Nakanishi T, Ishigami Y, Otaki Y, Izumi M, Hiraoka K, Inoue T, Takamitsu Y.
+Impairment of vascular responses to reactive hyperemia and nitric oxide in chronic
+renal failure. Nephron. 2002; 92: 529 - 535.
+
+O'Brien E, Coats A, Owens P, Petrie J, Padfield PL, Littler WA, de Swiet M, Mee.
+Use and interpretation of ambulatory blood pressure monitoring: recommendations of
+the British hypertension society. BMJ. 2000; 320: 1128 - 1134.
+
+Olesen SP, Clapham DE, Davies PF. Haemodynamic shear stress activates a K+
+current in endothelial cells. Nature. 1988; 331: 168 - 170.
+44
+
+Otto ME, Svatikova A, Barretto RB, Santos S, Hoffmann M, Khandheria B, Somers
+V. Early morning attenuation of endothelial function in healthy humans. Circulation.
+2004; 109: 2507 - 2510.
+
+Outinen PA, Sood SK, Pfeifer SI, Pamidi S, Podor TJ, Li J, Weitz JI, Austin RC.
+Homocysteine - induced endoplasmic reticulum stress and growth arrest leads to
+specific changes in gene expression in human vascular endothelial cells. Blood. 1999;
+94: 959 - 967.
+
+Palatini P. Sympathetic overactivity in hypertension: A risk factor for cardiovascular
+disease. Curr Hypertens. 2001; 3: 3 - 9.
+
+Pannier B, Guérin AP, Marchais SJ. Postischemic vasodilatation, endothelial
+activation and cardiovascular remodeling in endstage renal disease. Kidney Int. 2000;
+57: 1091 - 1099.
+
+Pauca AL, O'Rourke MF, Kon ND. Prospective evaluation of a method for estimating
+ascending aortic pressure from the radial artery pressure waveform. Hypertension.
+2001; 38: 932 - 937.
+
+Parfrey PS. Cardiac disease in dialysis patients: Diagnosis, burden of disease,
+prognosis, risk factors and management. Nephrol Dial Transplant. 2000; 15: 58 - 68.
+
+Parthasarathy S, Santanam N, Ramachandran S, Meilhac O. Oxidants and antioxidants in
+atherogenesis: An appraisal. J Lipid Res. 1999; 40: 2143 -2157.
+
+Perticone F, Ceravolo R, Pujia A. Prognostic significance of endothelial dysfunction
+in hypertensive patients. Circulation. 2001; 104: 191 - 196.
+
+Pyke KE, Tschakovsky ME. The relationship between shear stress and flow-mediated
+dilatation: Implications for the assessment of endothelial function. J Physiol. 2005;
+568: 357 - 369.
+
+45
+
+Pohl U, Holtz J, Busse, Bassenge E. Crucial role of the endothelium in the vasodilator
+response to flow in vivo. Hypertens. 1985; 8: 37 - 44.
+
+Raza K, Thambyrajah J, Townend JN, Exley AR, Hortas C, Filer A, Carruthers DM, Bacon PA.
+Suppression of inflammation in primary systemic vasculitis restores vascular endothelial
+function: Lesson for atherosclerotic disease? Circulation. 2000; 102: 1470 - 1472.
+
+Rietzschel ER, Boeykens E, De Buyzere ML, Duprez DA, Clement DL. A comparison between
+systolic and diastolic pulse contour analysis in the evaluation of arterial stiffness. Hypertens.
+2001; 37: 15 - 22.
+
+Ritz E. Minor renal dysfunction: An emerging independent cardiovascular risk
+factor. Heart. 2003; 89: 963 - 964.
+
+Ryan SM, Waack BJ, Weno BL, Heistad DD. Increases in pulse pressure impair
+acetylcholine - induced vascular relaxation. Am J physiol. 1995; 268: 359 - 363.
+
+Safar ME, Levy BI, Struijker-Boudier H. Current perspectives on arterial stiffness and
+pulse pressure in hypertension and cardiovascular diseases. Circulation. 2003; 107:
+2864 - 2869.
+
+Sarnak MJ, Levey AS, Schoolwerth AC, Coresh J, Culleton B, Hamm LL,
+McCullough PA, Kasiske BL, Kelepouris E, Klag MJ, Parfrey P, Pfeffer M, Raij L,
+Spinosa DJ, Wilson PW; American Heart Association Councils on Kidney in
+Cardiovascular Disease, High Blood Pressure Research, Clinical Cardiology and
+Epidemiology and Prevention. Kidney disease as a risk factor for development of
+cardiovascular disease: A statement from the American Heart Association Councils
+on Kidney in Cardiovascular Disease, High Blood Pressure Research, Clinical
+Cardiology and Epidemiology and Prevention. Circulation. 2003; 108: 2154 - 2169.
+
+Saw J, Levin A, Gin K. Coronary artery disease in chronic kidney disease patients: Assessing the
+evidence for diagnosis, screening and revascularization. Can J Cardio l. 2004; 20: 807 - 813.
+
+46
+
+Scholze A, Rinder C, Beige J, Riezler R, Zidek W, Tepel M. Acetylcysteine reduces plasma
+homocysteine concentration and improves pulse pressure and endothelial function in patients
+with end-stage renal failure. Circulation. 2004; 109: 369 - 374.
+
+Scholze A, Burkert A, Mardanzei K, Suvd - Erdene S, Hausberg M, Zidek W, Tepel M.
+Increased arterial vascular tone during the night in patient with essential hypertension. 2005
+(Manuskript angereicht).
+
+Schächinger V, Britten Mb, Zeiher Am. Prognostic impact of coronary vasodilator
+dysfunction on adverse Long-term outcome of coronary heart disease. Circulation.
+2000; 101: 1899 - 1906.
+
+Smolensky MH, Haus E. Circadian rhythmus and clinical medicine with applications
+to hypertension. Am J Hypertension. 2001; 14: 280 - 290 .
+
+Somers VK, Dyken ME, Mark AL, Abboud FM. Sympathetic - nerve activity during
+sleep in normal subjects. N Engl J Med. 1993; 328: 303 - 307.
+
+Stenvinkel P. Inflammatory and atherosclerotic interactions in the depleted uremic
+patient . Blood Puri f . 2001; 19: 53 - 61.
+
+Stenvinkel P, Barany P. Anaemia, rHuEPO resistance and cardiovascular disease in end-stage
+renal failure; links to inflammation and oxidative stress. Nephrol Dial Transplant. 2002; 17: 32 37.
+
+Swei A, Lacy F, Delano FA, Schmidt - Schönbei GW. Oxidative stress in the Dahl
+hypertensive rat. Hypertension. 1997; 30: 1628 - 1633.
+
+Takazawa K, Tanaka N, Fujita M, Matsuoka O, Saiki T, Aikawa M, Tamura S,
+Ibukiyama C. Assessment of vasoactive agents and vascular aging by the second
+derivative of photoplethysmogram waveform. Hypertension. 1998; 32: 365 - 370.
+
+Tepel M. Oxidative stress - does it play a role in the genesis of essential hypertension and
+hypertension of uremia? Nephrol Dial Transplant.
+47
+
+2003; 18: 1439 - 1442.
+
+Tepel M, Echelmeyer M, Orie NN, Zidek W. Increased intracellular reactive oxygen species in
+patients with end-stage renal failure: Effect of hemodialysis. Kidney Int . 2000; 58: 867 - 872.
+
+Tepel M, van der Giet M, Statz M, Jankowski J, Zidek W. The antioxidant, acetylcysteine,
+reduces cardiovascular events in patients with end-stage renal failure: A randomized controlled
+trial. Circulation. 2003; 107: 992 - 995.
+
+Vaziri ND, Ni Z, Oveisi F, Liang K, Pandian R. Enhanced nitric oxide inactivation and protein
+nitration by reactive oxygen species in renal insufficiency. Hypertens. 2002; 39: 135 - 141.
+
+Vaziri ND, Oveisi F, Ding Y. Role of increased oxygen free radical activity in the
+pathogenesis of uremic hypertension. Kidney Int. 1998; 53: 1748 - 1754.
+
+Weber MA, Fodera SM. Circadian variations in cardiovascular disease:
+Chronotherapeutic approaches to the management of hypertension. Rev Cardiovasc
+Med. 2004; 5: 148 - 155.
+
+Woodmann RJ, Watts GF, Kingwell BA, Dart AM. Interpretation of the digital
+volume pulse: Its relationship with large and small artery compliance. Clin Sci
+(Lond). 2003; 104: 283 - 285.
+
+Yeun JY, Kaysen GA. C-reactive protein, oxidative stress, homocysteine, and
+troponin as inflammatory and metabolic predictors of atherosclerosis in ESRD. Curr
+Opin Nephrol Hypertens. 2000; 9: 621 - 630.
+
+48
+

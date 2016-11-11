@@ -1,0 +1,345 @@
+Regulation von Transient Receptor Potential Canonical Typ 3-Kanälen (TRPC3) bei chronischer Niereninsuffizienz
+
+1 Einleitung und Fragestellung
+
+1.1EinleitungChronische Niereninsuffizienz
+Bei chronischer Niereninsuffizienz handelt es sich um einen langsamen, über Monate oder Jahre voranschreitenden Verlust der Nierenfunktion. Im engeren Sinn bezeichnet der Begriff chronisches Nierenversagen das Terminal- oder Endstadium einer chronischen Nierenkrankheit, das gekennzeichnet ist durch eine Nierenleistung von 15 % der Norm oder darunter (entsprechend einer glomerulären Filtratio nsrate von unter 15 ml/min/1,73 m²) und die Notwendigkeit einer Nierenersatztherapie in Form von Dialysebehandlung oder Nierentransplantation.
+
+Ein chronisches Nierenversagen (chronische Niereninsuffizienz) liegt vor, wenn sich über Monate und Jahre eine Verminderung der Nierenfunktion entwickelt. Dies führt dazu, dass die Niere ihre Aufgaben nicht mehr richtig wahrnehmen kann.
+
+
+Sie erfüllt viele verschiedene Aufgaben und ist an unterschiedlichen Vorgängen – zum Beispiel dem Knochenstoffwechsel, der Blutbildung, dem Kortison- oder dem Säure-Basen- Haushalt – beteiligt. Ihre Hauptaufgabe besteht in ihrer Funktion als Ausscheidungsorgan: Sie regelt den Flüssigkeitshaushalt und entgiftet den K örper, indem sie viele Abbau- oder Abfallprodukte, die dem Organismus in zu hoher Konzentration schaden würden (so genannte harnpflichtige Substanzen), über den Harn ausscheid et. Wird das Nierengewebe geschädigt, kann die Niere ihre Aufgaben noch lange Zeit ausfüh ren. Erst wenn etwa die Hälfte des Gewebes beeinträchtigt ist, vermindert sich die Aus scheidungskapazität. Um ein chronisches Nierenversagen mit typischer Symptomatik zu entwickeln, müssen die Nieren daher bereits stark geschädigt sein.
+
+
+In einer gesunden Niere werden in jeder Minute etwa 125 Milliliter Primärharn gebildet (dieser Vorgang wird, da er in den so genannten Glomeruli der Niere stattfindet, glomeruläre Filtration genannt).
+
+
+Unter Dialyse wird dabei ein Stoffaustausch über ei ne Membran verstanden, wobei auf der einen Seite Blut/Plasma und auf der anderen Seite der Membran eine Dialyselösung anliegt.
+
+
+Kolff 1945 in Kampen (Niederlande) mit seinem Trommeldialysegerät mit Zellophan- Schläuchen als Dialysemembran. Diese Membran erlaub te eine kontrollierte Blutreinigung von definierten Stoffmengen. Eine technisch überleg ene Parallelentwicklung von Nils Alwall in Lund (Schweden) 1946 erlaubte auch die Ausschwemmung von Ödemflüssigkeit aus Lungen und Gewebe (Ultrafiltration).
+
+
+Es werden extrakorporale (außerhalb des Körpers erf olgende) und nicht-extrakorporale Verfahren unterschieden. Das gebräuchlichste extrak orporale Verfahren ist die Hämodialyse, darüber hinaus werden die Hämofiltration und Hämodi afiltration angewendet. Das nicht- extrakorporale Verfahren ist die Peritonealdialyse. Beide Verfahren werden in Deutschland bei chronischem Nierenversagen im Verhältnis von 20 : 1 durchgeführt. Zu den extrakorporalen Verfahren zählen auch die Hämoperfu sion (bei bestimmten akuten Vergiftungen) und die Apherese-Verfahren, die jedoch keine Nierenersatzverfahren darstellen, sondern zur Behandlung anderer Krankheitsbilder (z.B. Leberersatztherapie) eingesetzt werden. Da für die Durchführung der Verf ahren umfassende Kenntnisse der möglichen Nebenwirkungen erforderlich sind, werden diese meist von Nephrologen oder Intensivmedizinern angewendet.
+
+
+Hier wird nach dem Prinzip des Konzentrationsausgleichs kleinmolekularer Substanzen zweier Flüssigkeiten verfahren, die durch eine semi permeable Membran getrennt sind (Osmose). Von der Filtermembran getrennt befindet sich auf der einen Seite das Blut mit Nephrotoxinen, Elektrolyten wie Kalium und Phosphat sowie harnpflichtigen Substanzen. Auf der anderen Seite der Membran befindet sich eine keimarme, aufbereitete Lösung (Dialysat), deren Wasser bei Online-Zubereitung durch Umkehrosmose aufbereitet wurde, die keine Abfallprodukte enthält und einen an den jewei ligen Bedürfnissen des Patienten orientierten Anteil an Elektrolyten aufweist. Die semipermeable Filtermembran (Dialysemembran) zwischen Blut und Dialyselösung be sitzt Poren, die kleine Moleküle wie Wasser, Elektrolyte und harnpflichtige Substanzen (z. B. Harnstoff, Harnsäure) durchlassen, aber große Moleküle wie Eiweiße und Blutzellen zurü ckhalten.
+
+
+Patienten aufgrund der Häufung harnpflichtiger Subs tanzen im Körper unter ständigem starken Durst leiden, wird die geringe erlaubte Trinkmenge (Restausscheidung in 24 Stunden plus 500 ml) häufig als belastend empfunden.
+
+
+TRP-Kanäle – transient receptor potential channels
+Die Transient Receptor Potential (TRP)-Kanäle sind eine umfangreiche Gruppe membranständiger nichtselektiver Kationenkanäle. Ob wohl es sich dabei um Kationenkanäle mit hoher Sequenzhomologie und Strukturähnlichkeit handelt, variieren sie stark in ihrer Ionenselektivität und Art der Aktivierung [Montell C et al., 2002]. Sie werden sowohl in erregbaren als auch in nichterregbaren Zellen exprimiert [Clapham DE et al., 2001].
+
+TRP-Kanäle wurden in einer Vielzahl von Geweben nac hgewiesen, u.a. im Zentralnervensystem, Herz, Lunge, Endothel, in glatten Muskelzellen und peripheren Blutzellen [Albert AP & Large WA, 2003; Gamberucci A et al., 2002; Groschner K et al., 1998; Riccio A et al., 2002; Vazquez G et al., 2004].
+
+
+Der erste TRP-Kanal wurde 1969 im Zusammenhang mit der visuellen Wahrnehmung eines PLC-abhängigen Vorgangs, bei der Taufliegenart Dros ophila melanogaster beschrieben [Hotta Y & Benzer S, 1969] und 1989 molekularbiologisch identifiziert [Montell C et al., 1989]. Einige Taufliegenmutanten (trp-Mutanten) fielen phänotypisch durch ein verändertes Elektroretinogramm auf [Cosens DJ, 1969], was im Gegensatz zu nicht mutierten Artgenossen, bei einem kontinuierlich andauernden Lichtreiz, ein transient verlaufendes statt ein persistierendes Rezeptorpotential zeigte. Daher stammt die Bezeichnung der Proteingruppe als „transient receptor potential“-Ka näle. Der Elektroretinogrammbefund korrelierte mit dem Fehlen eines anhaltenden Calciumeinstroms in die Lichtsinneszellen. Die genetische Charakterisierung dieser trp-Mutanten fü hrte zur Identifizierung des TRPGens, das für eine porenbildende Untereinheit eines nichtsele ktiven calciumpermeablen Kationenkanals in der Zellmembran der Lichtsinneszellen codiert.
+
+
+Transient receptor potential (TRP)-Unterfamilien
+Nach heutigem Wissensstand existieren sieben TRP-Unterfamilien, welche man anhand ihrer Sequenzhomologien in zwei Gruppen einteilt [Montell C et al., 2002a; Montell C et al., 2002b]. Zur ersten Gruppe der TRP-Kanäle zählen die Canonical bzw. Classical (TRPC), Vanilloid (TRPV), Melastatin (TRPM), no mechanoreceptor potential C (TRPN) und Ankyrin (TRPA) Kanäle, die substantielle Sequenzgemeinsamke iten in den Transmembrandomänen aufweisen. Zur zweiten Gruppe gehören die Polycysti n (TRPP) und Mucolipin (TRPML) Kanäle, die aufgrund von geringen Sequenzgemeinsamk eiten und einer großen extrazellulären Schleife zwischen erster und zweiter Transmembrandomäne, nur entfernt mit den Vertretern der ersten Gruppe verwandt sind [Montell C, 2005]. Die TRPC und TRPM Familien setzen sich aus sieben (TRPC 1 – TRPC 7) bzw. acht (TRPM 1 – TRPM 8) Kanälen zusammen. Die TRPV Familie besteht aus sechs Mitgliedern (TRPV 1 – TRPV 6), die TRPML aus drei und die TRPP Familie aus drei kanalähnlichen und weiter en fünf Mitgliedern, die keine Kanalproteine darstellen. Die TRPA Familie enthält nur ein in Säugern vorkommendes Mitglied (TRPA 1) und die siebte Familie, TRPN, wurde bislang nur in Caenorhabditis elegans, Drosophila und Danio rerio nachgewiesen. [Pedersen SF et al., 2005].
+
+Transient receptor potential Canonical (TRPC)-Subfamilie
+Die TRPC-Kanäle sind nicht-selektive, Ca²+-permeable Kationenkanäle und werden nach Stimulation von G-Protein-gekoppelten Rezeptoren oder Rezeptortyrosinkinasen aktiviert („receptor-operated channel“; ROC), was sie somit z u molekularen Korrelaten desrezeptorvermittelten Ca²+-Einstroms macht. Die zugrundeliegenden direkten Aktivierungsmechanismen werden zur Zeit noch sehr kontrovers diskutiert. Dabei scheint es nicht unerheblich zu sein, dass von allen TRPC-Isoformen, außer bei TRPC5, Spleißvarianten existieren, die sich meist durch Deletionen im N- oder C-Terminus unterscheiden.
+
+Für TRPC1 konnte bislang kein eindeutiger Aktivieru ngsmechanismus nachgewiesen werden. Erste Arbeiten deuteten auf eine speicherabhängige Aktivierung hin (Zitt et al., 1996), die jedoch von anderen Arbeitsgruppen nicht bestätigt w erden konnte (Sinkins et al., 1998; Brereton et al., 2000). In Studien, bei der die Antisense-Strategie genutzt wurde, konnte jedoch eine Reduktion des durch Speicherentleerung ausgelösten Ca²+-Einstroms gezeigt
+TRPC3, TRPC6 und TRPC7 bilden aufgrund ihrer engen strukturellen Verwandtschaft eine eigene Untergruppe und zeigen auch funktionell eine große Übereinstimmung. Alle drei Kanäle werden durch Ni²+, La³+ und Gd³+ blockiert.Erste Arbeiten zu TRPC3 beschrieben einen speicherabhängigen Aktivierungsmechanismus (Z hu et al., 1996; Preuss et al., 1997). Wenig später wurde jedoch eine Stimulation und Ca²+-abhängige Potenzierung von TRPC3 unabhängig von der Entleerung intrazellulärer Speic her gezeigt (Zitt et al., 1997). Darauf folgende Untersuchungen zur Regulation dieser Kanalfamilie bestätigten diesen Befund und ergaben weiterhin, dass TRPC3, TRPC6 und TRPC7 unabhängig von Proteinkinasen C durch Stimulation der PLC und durch Diacylglycerole aktiviert werden (Hofmann et al., 1999; Okada et al., 1999; McKay et al., 2000). Die Mitglieder dieser Kanaluntergruppe werden u.a. in glatter Muskulatur, Gehirn, Herz und Lunge exprimiert (Tabelle 1). Weitere Arbeiten zeigten, dass TRPC6 in glatten Gefäßmuskelzellen wa hrscheinlich den nichtselektiven Kationenstrom nach Stimulation des α1-adrenergen Rezeptors vermittelt (Inoue et al., 2001) und in glatten Muskelzellen aus Ratten (A7r5-Zellen) beim rezeptorvermittelten Einstrom von Ca²+ involviert ist (Jung et al., 2002).
+
+TRPC4 und TRPC5 bilden ebenfalls aufgrund struktureller und funktioneller Ähnlichkeiten eine weitere Kanaluntergruppe innerhalb der TRPC-Subfamilie. Die erste funktionelle Charakterisierung von heterolog exprimiertem bovinem TRPC4 ließ auf einen durch Speicherentleerung aktivierbaren Ca²+-selektiven Kationenkanal schließen (Warnat et al., 1999; Philipp et al., 1996; Philipp et al., 2000). Auch für TRPC5 wurde zunächst eine Aktivierbarkeit durch Speicherentleerung beschrieben (Philipp et al., 1998). In anderen Arbeiten konnten jedoch nicht-selektive Kationenströme in TRPC4- oder TRPC5- exprimierenden Zellen nach Stimulation Gq-koppelnder Rezeptoren aufgezeigt werden (Okada et al., 1998; Obukhov und Nowycky, 2002; Schaefer et al., 2000; Schaefer et al., 2002). Eine weitere Studie zeigte bei Expression von humanem TRPC4 in CHO-Zellen konstitutiv aktive Kationenströme (McKay et al., 20 00). Mit Hilfe von Knock-out Mäusen konnte gezeigt werden, dass die Aktivierung speichervermittelt regulierter Kanalkomplexe (SOCs) und die endotheliale Relaxation der Blutgefä ße in der Abwesenheit von TRPC4 verändert sind (Freichel et al., 2001).
+
+
+Kanaluntereinheiten aufgebaut, wie dies bereits für Vertreter der TRPC- und einige Mitglieder der TRPV-Familie gezeigt werden konnte (Kedei et al., 2001; Hofmann et al., 2002; Hoenderop et al., 2003). Welche Domänen für d ie Zusammenlagerung erforderlich sind, ist bislang noch unbekannt. Zu den hochkonservierten Regionen innerhalb der TRPC- Subfamilie zählen zudem eine coiled-coil Domäne im cytosolischen N-Terminus, ein kurz hinter dem 6. Transmembransegment befindliches Motiv aus sechs Aminosäuren, das als TRP-Box bzw. nach der Abfolge der Aminosäuren als E WKFAR Motiv bezeichnet wird sowie ein prolinreiches Motiv im zytosolischen C-Terminus.
+
+
+Monozyten sind eine Untergruppe der Leukozyten, die im Knochenmark aus ihren Stammzellen, den Monoblasten entstehen. Nach einem bis drei Tagen verlassen sie die Blutbahn und reifen im Gewebe zu Makrophagen heran. Im gefärbten Blutausstrich sind sie an ihrem großen, eingekerbten oder gefalteten Kern zu erkennen. Die Aufgabe der Monozyten ist die Zerstörung körperfremder Strukturen durch P hagozytose und die Aktivierung der erworbenen Immunabwehr mittels Antigenpräsentation. Sie haben eine Lebensdauer von 1 bis 3 Tagen, bevor sie ausdifferenzieren und in die Gewebe einwandern. Dort leben sie als Makrophagen für mehrere Wochen bis Monate weiter.
+
+
+Blutkörperchen (Leukozyten) und machen ca. 3–8 % de r Leukozyten-Population aus. Sie besitzen einen charakteristischen (von griech. monos, „einzig“) großen Kern von meist bohnenartiger Form und verhältnismäßig wenig Zytopl asma. Monozyten sind keine homogene Zellpopulation, sondern es werden verschiedene Subpopulationen unterschieden. Neben dem für Monozyten typischen Oberflächenmarker CD14 gibt es Subpopulationen, die zusätzlich den Marker CD16 tragen. Bei Patienten mi t koronarer Herzerkrankung können vermehrt CD16+ Monozyten nachgewiesen werden. Darüb er hinaus sind CD16+ Prädiktoren zukünftiger kardiovaskulärer Ereignisse bei Dialyse patienten. Da bisher kein Oberflächenmarker bekannt ist, der ausschließlich a uf Monozyten exprimiert wird, müssen Kombinationen von Oberflächenmarkern verwendet werd en, um die Monozyten im Durchflusszytometer eindeutig zu identifizieren.
+
+
+Freisetzung von Ca²+ aus diesen internen Speichern wird durch verschiedene Kanäle kontrolliert, wobei die TRPC Kanäle eine bedeutende Rolle spielen.
+
+
+In ruhenden Zellen beträgt die [Ca²+]i um 50-100 nM. Nach Stimulation der Zelle kann extrazelluläres Ca²+ über plasmamembranäre Kationen kanäle in das Cytosol gelangen. Hierzu gehören spannungsgesteuerte Ca²+-Kanäle („voltage-o perated Ca²+ channels“, VOC), Liganden-gesteuerten Kanäle („ligand-operated chann els“, LOC), über sekundäre Botenstoffe gesteuerte Kanäle („second messenger-operated chann els“, SMOC) und speichervermittelt regulierten Kanäle („store-operated channels“, SOC) .
+
+
+Der Ca²+-Einstrom aus dem extazellulären Medium in das Cytosol wird über Ca²+-permeable Kationenkanäle gesteuert.
+
+
+Calciumchlorid (auch Kalziumchlorid) ist ein Chlorid des Erdalkalimetalls Calcium mit der Summenformel CaCl2. Calcium liegt dabei in der Oxidationsstufe +2 vor, Chlor hat die
+Calciumchlorid ist ein Salz. Calcium und Chlor liegen aufgrund des großen Elektronegativitätsunterschiedes als Ionen vor. Die Bindung erfolgt somit über elektrostatische Wechselwirkungen. Calciumchlorid bildet farblose Kristalle, die eine verzerrte Rutil-Struktur ausbilden. Calciumchlorid bildet in Reinform farblose Kristalle und ist in wasserfreiem Zustand stark hygroskopisch. Es nimmt leicht Wasser aus seiner Umgebung auf und bildet dabei einen Hydrat-Komplex. Das Auflösen in Wasser ist exotherm. Calciumchlorid reagiert mit Wasser unter Bildung eines Hexahydrat-Komplexes und starker Wärmeentwicklung (exotherm, H < 0):Die Kristalle des Hexahydrats lösen sich bei ungefä hr 30 °C im eigenen Kristallwasser. Erhitzen auf ungefähr 200 °C setzt das gebundene Wa sser wieder frei. Das Auflösen in Wasser führt im Gegensatz zu wasserfreiem Calciumch lorid zu einer starken Abkühlung. Beide Calciumchlorid-Formen sind zudem gut löslich in Ethanol.
+
+Wasserfreies Calciumchlorid ist aufgrund seiner Hygroskopie ein wichtiges Trocknungsmittel im Labor, beispielsweise im Exsikkator, und in der technischen Chemie für verschiedenste Gase und Flüssigkeiten. Anwendungsfelder sind die T rocknung von Wohnräumen, der Einsatz als Frostschutzmittel, im speziellen als Frostschutzmittel und Abbindebeschleuniger im Beton, sowie als Staubbindemittel (z.B. auf Baustellen).
+
+
+Die wässrige Lösung sowie die Schmelze leiten auf G rund der (elektrolytischen bzw. thermischen) Dissoziation von Natriumchlorid in seine Ionen elektrischen Strom, reines kristallines Natriumchlorid hingegen nicht.
+
+
+Mit einem Gehalt von 23,3 % Natriumchlorid in wässr iger Lösung bildet es ein eutektisches Gemisch. Dieses erstarrt am eutektischen Punkt von −21,3 °C homogen und ohne Entmischung. Diese Lösung wird Kryohydrat genannt.
+
+
+Als Speisesalz ist Natriumchlorid schon seit Alters her ein wichtiger Bestandteil der menschlichen Ernährung. Es wird zum Würzen von fast allen Speisen benutzt. Seit der Zeit der Industrialisierung spielt jedoch mengenmäßig di e industrielle Verwendung die weitaus größere Rolle. Je nach der Anwendung werden untersc hiedliche Zusatzstoffe beigemischt.
+
+
+Nach der Verwendung wird unterschieden zwischen Industriesalz als Rohstoff der chemischen Industrie, Auftausalz für winterlichen S traßendienst, Gewerbesalz für die verschiedensten industriellen und gewerblichen Zwecke und Speisesalz zum menschlichen Genuss.
+
+
+In der modernen Medizin wird nach starkem Blutverlust, etwa bei einer Operation oder einem Unfall, eine 0,9%ige Lösung von Natriumchlorid in W asser zur Auffüllung des Blutvolumens intravenös verabreicht (isotonische Kochsalzlösung, auch physiologische Kochsalzlösung). Sie ist isoosmotisch mit dem Blutplasma.
+
+
+In der Antike und im Mittelalter galten Medikamente auf Salzbasis als reine Wundermittel. Die Haut Neugeborener wurde zu deren Stärkung mit S alz abgerieben. Es wurde in Wundverbänden, Pflastern, Salben, Pudern und Bädern eingesetzt. Besondere Bedeutung maß man der trocknenden und wärmenden Wirkung des Salze s bei.
+
+
+Man streute Salz in Wunden, um Entzündungen zu verh indern – eine mitunter sehr schmerzhafte Prozedur, die in einer entsprechenden Redewendung („Salz in offene Wunden streuen“) Einzug in die deutsche Sprache gefunden h at.[9] Reines Salz zerstört über Osmose alle Zellen - also auch krankmachende Mikroorganismen wie Bakterien und Pilze, allerdings die Zellen des Verwundeten ebenso. Diese Art der Desinfektion ist also zweischneidig wie das ebenso praktizierte Ausbrennen von Wunden. Der gleiche Wirkmechanismus verhinderte, dass in Kochsalz konservierte Lebensmittel verdarben – also von Mikroorganismen zersetzt wurden.
+
+
+verbrennt mit grüner Flamme zu Bariumoxid und Bariu mnitrid. Beim Erhitzen lässt sich auch das kompakte Metall verbrennen. Mit Wasser reagiert es heftig unter Bildung von Wasserstoff und Bariumhydroxid. Die Reaktion mit Wasser verläuf t heftiger als beim Calcium oder beim Strontium, aber schwächer als beim Natrium. Barium reagiert auch mit fast allen Säuren unter Bildung von Wasserstoff und der entsprechenden Salze. Gegen konzentrierte Schwefelsäure ist es beständig, da sich dabei eine Schutzschicht aus Bariumsulfat auf der Oberfläche des Metalls bildet. Das Metall verbindet sich auch leicht mit den Halogenen und mit Schwefel und bei höheren Temperaturen auch mit Stickstoff un d Wasserstoff. Bei 1300°C reagiert es mit Kohlenstoff zu Bariumcarbid, das ähnlich wie Ca lciumcarbid mit Wasser Ethin bildet. Bariumsalze erzeugen bei der Flammprobe eine typische, gelbgrüne Flammenfarbe.
+
+
+Verwendung:
+Das Metall Barium besitzt nur einen geringen technischen Nutzen. In geringem Umfang wird es in Fernsehröhren oder als Zusatz in Bleilegierun gen zur Härtung verwendet. Von größerer Bedeutung sind die Bariumverbindungen. Bariumnitrat erzeugt in Feuerwerkskörpern und Signalraketen die grüne Farbe. Der Zusatz von Bariu moxid in Gläsern und optischen Instrumenten ("Barytgläser") verändert die Brechkra ft und das Dispersionsvermögen. Barytweiß (Bariumsulfat) ist ein beliebtes weißes P igment für Malerfarben. Es wird auch als Füllstoff in Papieren und Kunststoffen eingesetzt. In der Medizin ist es ein bekanntes Röntgen-Kontrastmittel. Barytgelb (Bariumchromat) i st ein gelbes Pigment für Farben und keramische Erzeugnisse. Aufgrund seiner Giftigkeit wird es heute jedoch nur noch selten eingesetzt. Bariumchlorid dient im analytischen Labor zum Nachweis von Sulfationen. EsBariumbromid (BaBr2)Wie Bariumchlorid löst sich Bariumbromid gut im Was ser auf und ist in wässerigen Lösungen giftig. BaBr 2 wird in der Fotographie benutzt. In der Geschichte wurde Bariumbromid benutzt, um Radium im Prozess der Fraktionskristaliesierung zu reinigen.
+
+1.2Fragestellung
+Patienten mit chronischer Niereninsuffizienz haben eine erheblich gesteigerte Morbidität und Mortalität, besonders aufgrund von kardiovaskulären Ereignissen. Veränderungen des Calcium-Haushalts spielen bei der chronischen Niereninsuffizienz eine herausragende Rolle. Aufgrund ihrer Eigenschaften können die neuerlich b eschriebenen Transient Receptor Potential Canonical Kanäle (TRPC)-Kanäle dabei ursä chlich beteiligt sein.
+
+In den eigenen experimentellen Vorbefunden konnte schon eine gesteigerte TRPC3 Kanal- Protein Expression bei chronischer Niereninsuffizienz nachgewiesen werden. Weiterhin ergaben diese Untersuchungen in vivo als auch in vitro erstmalig Hinweise auf die fundamentale Bedeutung der extrazellulären Calciumk onzentration.
+
+
+In der vorliegenden Arbeit sollen die für die TRPC3 Expression zugrundeliegenden Signaltransduktionswege und die unmittelbaren Auswirkungen auf die zelluläre Funktion mittels biochemischer und molekularer Methodik aufgeklärt werden. Dazu erfolgt die charakterisierung der TRPC-Kanal-Proteine mittels Immunoblotting und in-cell Western essay. Die Funktion der TRPC Kanäle wird Fluoreszen z-spektophotometrisch in einem high- throughput System bestimmt.
+
+
+Neben grundlegenden Erkenntnissen zur Pathophysiologie der chronischen Niereninsuffizienz lassen sich aus der Untersuchung möglicherweise auc h neue Wege für eine therapeutische Beeinflussung der chronischen Niereninsuffizienz ableiten.
+
+
+1.Bestehen Veränderungen der Expression von TRPC-K anälen bei Patienten mit chronischer Niereninsuffizienz?
+3.Welchen Einfluss haben Veränderungen von extraze llulären Elektrolyten auf die Expression von TRPC Kanälen in vitro?Isolation von CD14-postiven Monozyten mit 25µl CD-14 Dynabeads inkubiert, deren Oberfläche mit mit spezifischen monoklonalen Antikö rpern beschichtet ist. Die Zellsuspension wurde 1 Stunde bei 4°C inkubiert. Mittels eines Mag neten wurden die CD-14 Zellen getrennt.
+
+Abbildung 3: A) Vor der Zentrifugation: Histopaque-1077 überschichtet mit Blutzellen; B) nach dem Zentrifug ieren entsteht eine trübe Schicht in Form eines Ringes, w elcher die mononulkäeren Zellen enthält.
+
+
+(Abbildung aus den Verfahrensangaben des Herstellers Sigma)
+In-cell Western assayDie quantitative Bestimmung von TRPC Kanal-Proteinen in Monozyten von Patienten mit chronischer Niereninsuffitienz und gesunden Kontrollpersonen erfolgte durch quantitativen in- cell Western assay unter Verwendung des Odyssey Infrared Imaging System (Li-Cor Bioscience) (Abbildung 4). Bei dieser Methode werden die Proteine direkt in den Zellen nachgewiesen. Der sekundäre Antikörer ist fluoresze nzmarkiert. Mehrere sekundäre Antikörper können gleichzeitig an einen Primärantikörper binde n, was zu einer Signalverstärkung führt. Laut Hersteller fallen im Infrarotbereich unspezifische Hintergrundsignale deutlich geringer aus.
+
+Die Monozyten wurden in 96well Platten mit Triton X 100 permeabilisiert, anschließend mit rabbit-anti-human TRPC3-Antikörpern (1:1000, alomon e labs, Jerusalem,Israel) wie schon vielfach beschrieben, (Clarson et al., 2003; Dalrymple et al., 2004; Kwan et al., 2004; Liu et al., 2007) 2 Stunden inkubiert, gewaschen und dann mit IRDye800CW-infrared fluoescent dye 23
+Background 1(Protein+ 1. Antikörper)Background 2(Protein+ 2. Antikörper)Protein+Referenzprotein(+1. Ak + 2. Ak)Abbildung 5: Beispiel eines durch das Odyssey® System gescannt en In-Cell Western.
+
+Eine Normalisierung der Si gnalintensitäten gegen ei n anderes Protein, ein so genanntes „housekeeping“ Protein ist wichtig, da dadurch Unte rschiede, zum Beispiel in der Zellkonzentration der ver schiedenen Wells oder auch kleine Unterschiede bei Inkubationszeiten, korrigiert werden können. Diese Referenzp roteine gelten als unregulierte Proteine, von denen man an nimmt, das sie in allen Zellen etwa gleicch stark exprimiert werden. Das untersuchte Proteein wird zum Referenzproteinen ins Verhältnis gesetzt.
+
+
+Ausgehend von den isolierten Monozyten, wurden nun je 100µl der präparierten Monozytenlösung in die einzeelnen Wells von 96well P latten verteilt, und mit 150µl Fixing Solution (4,5ml PBS + 0,5ml 35 % Formaldehyd) durch 20 minütiges Inku bieren an der Platte fixiert. Anschließend wurden die Zellen durch viermalig es Waschen mit je 200µl Washing Solution (49,5ml HBSS + 0,5 ml 10 % Triton X100) für jeweils 5 Minuten permeabilisiert und damit für die spätere Zugabe der Antikörper vorbere itet. Mittels eines Magneten, kö nnen, durch die superparamagnetische Dynabeads, welche die Monozyt en festhalten, die zugegebenen Lösungen wieder entfernt werden, ohne d abei die am Boden haftenden Zellen zu verlieren.
+
+
+Zelldurchmesser, Ausbleichen oder Ausströmen des Fa rbstoffs werden mit Hilfe dieser Ratio- Messung eliminiert. Jede F ura-2-AM beladene Monozytenprobe wur de in vier 100 µl umfassende Wells aufgeteilt. Zu den Wells wurde eine Calciumlösung dazuggeben und 180 s fluoreszenzspektrophotometri sch gemessen. Nach 180 s wurden die Monozyten mit 1-Oleoyl- 2-Acetyl-sn-Glycerol (OAG) (Calbiochem, San Diego, CA, USA) stimul iert und für weitere 360s fluoreszenzspektrophotometrisch gemessen.
+Bei der Auswertung eines In-cell Western gilt es, vor der schon beschriebenen Normalisierung der Proteinkonzentrationen, die unspezifische Hintergrundmessung für jedes Protein abzuziehen.
+
+
+Fluoreszenzspektrophotometrie
+Die Untersuchung der intrazellulären Calciumhomöost ase am Beispiel isolierter Monozyten erfolgte durch Fluoreszenzspektrophotometrie. Es wurde ein Fluoreszenzspektrophotometer Fluoroskan Ascent FL von Labysystems, Helsinki, Finnland verwendet. Bei dem angewandten Verfahren handelt es sich um ein optisches Messverfahren zur Konzentrationsbestimmung fluoreszierender Substanzen anhand ihrer Absorption bzw. Extinktion monochromatischen Lichtes. Farbstoffmoleküle, die durch eine Lichtquelle wie z.B. eine Xenon-Lampe angeregt werden, absorbieren Strahlung einer bestimmten Wellenlänge. Das Xenon-Licht wird durch einen Exzit ationsfilter auf eine spezifische Wellenlänge reduziert. Wird die spezifische Wellenl änge von den Farbstoffmolekülen absorbiert, überführt es diese in einen energiereic heren Zustand (Exzitationsstrahlung).
+
+Bei der Rückkehr der Moleküle aus dem angeregten Zu stand in den Grundzustand wird die entsprechende Differenzenergie in Form von Photonen freigesetzt, was als Fluoreszenz bezeichnet wird (Haeckel et al., 1989). Erfolgt diese Rückkehr vom angeregten Zustand in den Grundzustand über mittlere Energiezustände, ent steht ein vollständiges Fluoreszenzspektrum (Hollemann et al., 1985). Ein Teil der Strahlungsenergie, die von den Molekülen absorbiert wird, geht als Bewegungsenergi e verloren. Dies erklärt, dass die Fluoreszenz, die von dem Molekül emittiert wird, ei ne längere Wellenlänge als die Exzitationsstrahlung hat. Die Intensität der von de m Fluoreszenzspektrophotometer in dem Emissionsspektrum gemessenen Fluoreszenz erlaubt einen Rückschluss auf die Anzahl der in der Probe befindlichen Moleküle und somit eine Best immung der Konzentration.
+
+
+In der vorliegenden Arbeit sollte die intrazellulär e, zytosolische Calciumionenkonzentration am Beispiel isolierter Monozyten bei Patienten mit chronischer Niereninsuffizienz fluoreszenzspektrophotometrisch bestimmt werden. Die Ca²+ Messungen wurden mit der fluoreszenzphotometrischen Fura-2-Imaging Methode durchgeführt [Grynkiewicz G et al., 1985]. Fura-2 ist ein Calciumchelator, welcher durch die Bindung von Calciumionen sein Absorptionsmaximum ändert. Das Absorptionsmaximum l iegt für die calciumgebundene Form von Fura-2 bei λ1=340 nm, für die calciumfreie Form bei λ2=380 nm; die maximale
+
+Die Messungen in der vorlieg enden Arbeit wurden mit einer Exzitationsw ellenlänge von 380 nm bei einer Emission von 510 nm durchgeführt.
+
+
+1-Oleoyl-2-Acetyl-sn-Glycerol (OAG)
+OAG ist ein Analog von Diacylglyceride (DAG). Diacylglyceride sin d Bestandteile von Glycerolipiden in der Zellme mbran (z.B. als Vorstufe der Triglyceride). B ei der Spaltung des Phosphoinositids durch Pho sphoinositidase (Phospholipase C) entste hen Phosphatidyl- inositol-4,5-diphosphat (PIP2 ) und Inositol-1,4,5-triphosphat (IP3). IP3 bewirkt die rasche Freisetzung von Ca2+Ionen aus dem endoplasmatischen Retik ulum und dem sarkoplasmatischem Retikulum glatter Muskelzellen. Dadurch erhöht sic h der intrazelluläre Ca2+ -Spiegel.
+
+Abbildung 7: Strukturformel von 1-Oleoyl-2-Acetyl-sn-Glycerol (OAG)
+kontrollierte Ionenkanal ist ein sehr großes Molekül mit mehreren transmembranen Segmenten. Zur Bildung des Kanals lagern sich v ier Untereinheitenzusammen; zur Öffnung des Kanals müssen mindestens drei IP3-Moleküle an Bindungsstellen auf der cytosolischen Seite des Kanals binden.
+
+IP3 ist ein kurzlebiger Boten stoff; er wird innerhalb weniger Sekunden (in Nervenzellen des Riechsystems innerhalb von 100 ms) weiter abgebaut und verhindert so eine zu lange Öffnung der Kanäle. IP 3 kan n zu Inositol-1,3,4,5-tetraphosphat phosphory liert oder auch von Phosphatasen zu Inositol abg ebaut werden.
+
+
+3 Ergebnisse
+PatientencharakterisierungUm Veränderungen von TRPC3 Kanälen bei Patienten mi t chronischer Niereninsuffizienz im Vergleich mit gesunden Kontrollpersonen zu untersuchen wurde zunächst die TRPC Kanal- Expression an Monozyten aus peripherem Blut bei 20 Patienten mit chronischer Niereninsuffizienz (16 Männer, 4 Frauen) und 19 alt ersgleichen gesunden Kontrollpersonen (13 Männer, 6 Frauen) bestimmt.
+
+Die chronische Nierenisuffizienz war durch entsprechende pathologische Serum-, Urin- (einschließlich Proteinurie und renal-bedingte Miro hämaturie), Sonographie-, oder histologische Befunde definiert. Die glomeruläre Fi ltrationsrate, ermittelt aus der MDRD- Formel aus Serumkreatinin, Alter und Geschecht, war unter 60mL/min/1.73/m² in einem Zeitraum von mehr als 3 Monaten, (eGFR; Levey et a. 1999).
+
+
+Ausschlusskriterien waren Lebensalter unter 18 Jahren, Schwangerschaft oder fehlende Zustimmung zur Untersuchung. Ursachen der chronischen Niereninsufizienz waren
+diabetische Nephropathie (n=6; 30%), Nephrosklerose (n=6; 30%), chronische Glomeruonephritis (n=5; 25%) und unbekannt (n=3; 15%). Der Blutdruck wurde dreimal mit einem Sphygmomanometer nach 10 Minuten Ruhe gemessen. Der systolische und diastolische Blutdruck wurden in der Korotkoff Phase I und V bestimmt. Die Patienten oder Kontrollpersonen hatten keine Schmerzen, erhöhte Te mperatur oder andere akute Beschwerden. Alle Patienten und Kontrollpersonen hatten ihre schriftliche Zustimmung zur Durchführung der Untersuchung gegeben. Die Untersuc hung war von der lokalen Ethik Kommission befürwortet worden.
+
+Tabelle 2. Klinische und biochemische Charakteristika der Patienten mit chronischer Niereninsuffizienz und der gesunden Kontrollpersonen. Angegeben sind Mittelwerte ±Standartfehler des Mittelwertes. *p<0.05, im Vergleich mit den gesunden Kontrollpersonen.
+
+
+250
+150100TRPC35010MarkerAbbildung 8: Nachweis von TRPC3 in humanen Monozyten mittels Immunoblotting. Marker zeigt die Auftragung des Proteinmarkers. Der Immunoblot bestätigt das Molekulargewicht von TRPC3 mit 97 kDa.
+
+Die quantitative Bestimmung von TRPC3 Kanal-Proteinen in Monozyten von Patienten mit chronischer Niereninsuffizienz und gesunden Kontrollpersonen erfolgte nun durch quantitativen in-cell Western assay unter Verwendung des Odyssey infrared imaging system (Licor Bioscience). Humane Monozyten wurden in 96well Platten mit rabbit-anti-human TRPC3-Antikörpern für 2 Stunden inkubiert, gewasche n und dann mit IRDye800CW-infrared fluorescent dye-conjugated sheep-anti-rabbit Antikö rpern für eine Stunde bei 4°C inkubiert (1: 1000). Nach dreimaligem Waschen erfolgten die Fluoreszenz-Messungen bei 810 nm Emission mit einer Exzitationswellenlänge von 780 n m. Kontrollversuche wurden in Abwesenheit des primären Antikörpers durchgeführt. Als interner Standard wurden monoclonale goat-anti-human GAPDH-Antikörper (1: 10 00, Santa-Cruz Biotechnology; USA) eingesetzt, welche mit Alexa Fluor-680-allophycocyanin-fluorescent dye-conjugated donkey-anti-goat Antikörpern (1:1000, MoBiTec, Gött ingen) dargestellt wurden, die Emission war 700 nm bei einer Exzitationswellenläng e von 680 nm.
+
+
+Abbildung 9 zeigt den Vergleich der TRPC3 Kanal-Protein-Expression in Monozyten von Patienten mit chronischer Niereninsuffizienz und gesunden Kontrollpersonen. Die TRPC3 Kanal-Protein-Expression war signifikant höher in d en Zellen von Patienten mit chronischer
+Die nicht-parametrische Spearman Korrelation zeigte eine signifikante inverse Korrelation zwischen der glomerulären Filtrationsrate und der T RPC3 Kanal-Protein-Expression auf den Monozyten (Spearman r = -0,41; 95% Konfidenz-Intervall, -0,65 bis -0,10; p < 0.05). Dies weißt darauf hin, dass eine zunehmend eingeschränkt e Nierenfunktion mit einer Steigerung der TRPC3 Kanal-Protein-Expression einhergeht (Abbildung 9). Weiterhin ergab sich eine signifikante inverse Korrelation zwischen der Serum-Calcium-Konzentration und der TRPC3 Kanal-Protein-Expression (Spearman r = -0,34; 95% Konfidenz-Intervall, -0,60 bis -0,02; p < 0,05). Erwartungsgemäß ergab sich auch eine sig nifikante positive Korrelation zwischen der glomerulären Filtrationsrate und der Serum Calc ium-Konzentration (Spearman r = 0,33; 95% Konfidenz-Intervall, 0,00 bis 0,59; p < 0,05), was die Assoziation einer zunehmend eingeschränkten Nierenfunktion mit erniedrigten Ser um Calcium-Konzentrationen belegt.
+
+TRPC3/GAPDH
+1.5units) 1.0 (arbitrary 0.50.00Spearman r=-0.4150100 GFR (ml/Min/1.73m²)Abbildung 10: Korrelation zwischen der glomerulären Filtrationsrate und der TRPC3 Kanal-Protein- Expression auf den Monozyten von Patienten mit chronischer Niereninsuffizienz (gefüllte Kreise) und gesunden Kontrollpersonen (offene Kreise). Spearman r = -0,41; 95% Konfidenz-Intervall, -0,65 bis - 0,10; p < 0.05.
+
+Um jetzt den Effekt der extrazellulären Calcium-Kon zentration in vivo auf die TRPC3 Expression nachzuweisen, wurden TRPC3 Kanal-Proteine auf den Monozyten am Start und
+am Ende einer regulären Hämodialysebehandlung unter sucht. Bei diesen Hämodialysepatienten bestand die Dialysepflichtigke it seit mehr als 3 Monaten. Die Biokarbonat-Dialyse wurde mit einer biokompatiblen Membran routinemäßig dreimal wöchentlich für 4 Stunden durchgeführt. Das Standar ddialysat enthielt 1,75 mmol/l Calcium. Die Dialyse-Dosis, routinemäßig gemessen als kT/V, war größer als 1,2.
+
+0.6
+0.6CaCl2 (mmol/L)0.6Abbildung 12. Effekt der extrazellularen Calcium-Konzentration in vitro auf die TRPC3 Expression. Dosis-abhängige Wirkung von steigenden extrazellulä ren Kationen-Konzentrationen von Calcium (A), Magnesium (B), Barium (C) oder Natrium (D) in vitro auf die Expression des TRPC3 Kanal-Proteins in humanen Monozyten. * p < 0,05 Kruskal-Wallis-test mit Dunn`s multiple comparison post-test.
+
+Die durchgeführten Untersuchungen belegen, dass Pat ienten mit chronischer Niereninsuffizienz eine signifikante Steigerung der TRPC3 Kanal-Protein Expression aufweisen. Die Untersuchungen in vivo als auch in vitro weisen darauf hin, dass als ursächlicher Mechanismus eine Regulation von TRPC3 durch die extrazelluläre Calcium- Konzentration besteht.
+
+
+4 Disskusion
+Die Rolle der TRPC Kanäle wurde bereits in unzählig en Studien beschrieben, wie z. B die TRPC Kanäle bei Nierenerkrankungen: [Woudenberg-Vre nken TE et al.,2009, Hsu YJ, et al.,2007, Jordt SE et al., Ehrlich BE et al.,2007, Montell C et al.,2001, Tepel M., et al.,2001 Nilius et al., 2007, Menè P 2006; Venkatachalam K, Montell C.2007, Maier A, et al.,2009, Wittstock A. et al.,2009, Scholze A, et al.,2009]. Nach dem heutigen Wissensstand könnteFokal Segmentalen Glomerulosklerose identifiziert werden, die sich durch segmentale und/oder globale Vernarbug von Glomeruli auszeichnet: [Reiser et al.,2005, Winn MP et al., 2006]. Auch in anderen Disziplinen, wie in der Pulmonologie Kardiologie u.a. wurden dieTRPC Kanäle erfolgreich experimentiert: [Wang J, et al.,2006, Thilo F, et al.,2009, Liu D, et al.,2006]. Laut einer Studie sind die TRPC6-Kanäle essentiell für hypoxische pulmonaleVasokonstriktion und den alveolaren Gasaustausch: [Weissmann, N t al.,2006]. Eine erhöhte TRPC3 Kanalexpression wurde z.B. in humanen Monozyten bei essentieller Hypertonie Festgestellt: [Liu D, et al., 2006, Liu D, et al., 2007 Thilo F, et al., 2009]. Die Monozyten zeigten nicht nur einen Anstieg der TRPC3-Kanalexpression, sondern auch einen gesteigerten Calciumeinstrom nach der TRPC Kanalaktivierung. Übe r die variable Selektivität der TRP Kanäle liegen ebenfalls interessante Studien vor: [ Golovina VA, et al.,2001, Menè P,2006, Huang CL,2007]. Bei Erkrankungen der Atemwege, wie z.B. Überempfindlichkeitsreaktionen bei allergischem Asthma bronchiale wird eine verstä rkte TRPC6-Kanalexpression beobachtet. Dies hat Auswirkung auf den Tonus und den Depolarisationszustand der glatten Muskulatur der Atemwege: [Welsh DG et al.,2002, Chiba Y&Masawa; M.1995]. Bei pulmonaler Hypertonie wurde ebenfalls eine Veränderung der TRP C- Kanalexpression in Form einer TRPC6- Überexpression festgestellt, die sich auf de n Tonus der glatten Gefäßmuskelzellen auswirkt und die Vasokonstriktion fördert: [Yu Y et al.,2004, Wang J. et al., 2005]. AllerdingsNiereninsuffizienz im Vergleich zur Kontrollgruppe eine signifikant erhöhte TRPC3 Kanal- Protein- Expression aufweisen. Die Arbeit wurde an humanen Monozyten aus Vollblut durchgeführt, die vorher mittels Dynabeads isoliert wurden. Die quantitative Bestimmung von TRPC3 Kanal-Proteinen in Monozyten von Patienten mit chronischer Niereninsuffizienz und 395 ZusammenfassungBei chronischer Niereninsuffizienz handelt es sich um einen langsamen, über Monate oder Jahre voranschreitenden Verlust der Nierenfunktion. Chronisches Nierenversagen wird als das Terminal- oder Endstadium einer chronischen Nierenkrankheit bezeichnet, das durch eine Nierenleistung von 15 % der Norm oder darunter gekennzeichnet ist.
+
+Transient Receptor Potential Canonical (TRPC)-Kanäl e sind membranständige Kationenkanäle und beeinflussen zahlreiche zellulär e Prozesse, indem sie den Calciumeinstrom ermöglichen. Calcium ist als univer seller, intrazellulärer Botenstoff an der Aufrechterhaltung lebensnotwendiger Zellfunktionen beteiligt. TRPC-Kanäle wurden in einer Vielzahl von Geweben nachgewiesen, u.a. in peripheren Monozyten.
+
+
+Die vorliegende Arbeit soll sich mit der Regulation von Transient Receptor Potential Canonial Typ 3-Kanälen bei chronischer Niereninsuff izienz, d.h. mit der Expression der TRPC3-Kanäle in humanen Monozyten sowie deren Einfl uss auf die extrazelluläre Calciumkonzentration befassen. Mit der vorliegenden Arbeit soll u.a. die Frage beantwortet werden ob ein Dialysetherapieverfahren die Expression der TRPC3-Kanäle beeinflusst.
+
+
+Die quantitative Bestimmung von TRPC Kanal-Proteinen in Monozyten von Patienten mit chronischer Niereninsuffizienz und gesunden Kontrollpersonen erfolgte durch quantitativen in-cell Western assay unter Verwendung des Odyssey Infrared Imaging System (Li-Cor Bioscience). Die extrazeluläre Calciumkonzentration wurde durch Anwendung von Fura-2 mittlels Fluoreszenzspektrophotometrie bestimmt.
+
+
+Es wurde eine erhöhte TRPC3 Kanal-expression bei Pa tienten mit chronischer Niereninsuffizienz beobachtet. Zugleich wurde unter Stimulation mit OAG ein signifikant erhöhter Calciumeinstrom in die Zellen festgestellt . In dieser Arbeit ergab sich eine signifikante inverse Korrelation zwischen der Serum-Calcium-Konzentration und der TRPC3 Kanal-Protein-Expression. sowie auch eine signifikante positive Korrelation zwischen der glomerulären Filtrationsrate (GFR) und der Serum Ca lcium-Konzentration.
+
+
+Die Ergebnisse dieser Arbeit belegen eine erhöhte T RPC3 Kanalexpression bei chronischer Niereninsuffizienz, sowie eine positive Korrelation zwischen der glomerulären Filtrationsrate und der Serum Calcium-Konzentration.
+
+
+Schlüsselwörter: Transient Receptor Potential Canon ical Kanäle, intra/extrazelluläres Calcium, chronisches Nierenversagen.
+
+
+8 Literaturverzeichnis
+
+Albert AP, Saleh SN, Large WA. Identification of canonical transient receptor potential
+(TRPC) channel proteins in native vascular smooth muscle cells. Curr Med Chem.
+2009;16(9):1158-65. Review.
+Berra-Romani R, Mazzocco-Spezzia A, Pulina MV, Golovina VA. Ca2+ handling is altered
+when arterial myocytes progress from a contractile to a proliferative phenotype in
+culture. Am J Physiol Cell Physiol. 2008 Sep;295(3):C779-90. Epub 2008 Jul 2.
+Berridge MJ, Lipp P, Bootman MD. Signal transduction. The calcium entry pas de deux.
+Science 2000;287:1604-1605.
+Clapham DE, Runnels LW, Strübing C. The TRP ion channel family. Nat Rev Neurosci. 2001
+Jun;2(6):387-96. Review.
+Cosens DJ, Manning A., Abnormal electroretinogram from a Drosophila mutant. Nature.
+1969 Oct 18;224(5216):285-7. No abstract available.
+Ebashi, S. Calcium ions and muscle contraction. Nature. 1972 Nov 24;240(5378):217-8
+Eder P, Groschner K. TRPC3/6/7: Topical aspects of biophysics and pathophysiology.
+Channels (Austin). 2008 Mar 29;2(2). [Epub ahead of print].
+Gamberucci A, Giurisato E, Pizzo P, Tassi M, Giunti R, McIntosh DP, Benedetti A.
+Diacylglycerol activates the influx of extracellular cations in T-lymphocytes
+independently of intracellular calcium-store depletion and possibly involving
+endogenous TRP6 gene products. Biochem J 2002;364:245-254.
+Goel M, Sinkins WG, Zuo CD, Estacion M, Schilling WP., Identification and localization of
+TRPC channels in the rat kidney. Am J Physiol Renal Physiol. 2006
+May;290(5):F1241-52. Epub 2005 Nov 22.
+Goel M, Sinkins WG, Zuo CD, Hopfer U, Schilling WP. Vasopressin-induced membrane
+trafficking of TRPC3 and AQP2 channels in cells of the rat renal collecting duct. Am
+J Physiol Renal Physiol. 2007 Nov;293(5):F1476-88. Epub 2007 Aug 15.
+Hofmann T, Obukhov AG, Schaefer M, Harteneck C, Gudermann T, Schultz G. Direct
+activation of human TRPC6 and TRPC3 channels by diacylglycerol. Nature
+1999;397:259-263.
+Hofmann T, Obukhov AG, Schaefer M, Harteneck C, Gudermann T, Schultz G. Direct
+activation of human TRPC6 and TRPC3 channels by diacylglycerol. Nature. 1999
+Jan 21;397(6716):259-63.
+Hofmann T, Schaefer M, Schultz G, Gudermann T., Transient receptor potential channels as
+molecular substrates of receptor-mediated cation entry. J Mol Med. 2000;78(1):1425. Review.
+Hsu YJ, Chang YJ, Su LH, Hsu YL., TRP channels in kidney disease. Biochem Biophys.
+Acta. 2007 Aug;1772(8):928-36. Epub 2007 Feb 12. Review.
+Jordt SE, Ehrlich BE. TRP channels in disease. Subcell Biochem. 2007;45:253-71. Review.
+Koch K, Nachweis vom Oxidativen Stress, Dissertation. 2009 Feb.
+
+Liu DY, Maier A, Scholze A, Rauch U, Boltzen U, Zhao ZG, Zhu ZM, Tepel M. High
+glucose enhances transient receptor potential channel canonical type 6-dependent
+calcium influx in human platelets via phosphatidylinositol 3-kinase-dependent
+pathway. Arterioscler Thromb Vasc Biol. 2008;28:746-751. Impact factor 6.883.
+Liu DY, Scholze A, Kreutz R, Wehland von Trebra M, Zidek W, Zhu ZM, Tepel M:
+Spontaneously hypertensive rats show increased store-operated and second messengeroperated calcium influx mediated by transient receptor potential canonical type 3
+(TRPC3) channels. Am J Hypertens 2007;20:1111-1118. Impact factor 3.496
+Liu DY, Scholze A, Zhu ZM, Kreutz R, Wehland von Trebra M, Zidek W, Tepel M.
+Increased transient receptor potential channel TRPC3 expression in spontaneously
+hypertensive rats. Am J Hypertens 2005; Am J Hypertens 2005;18:1503-1507. Impact
+factor 3.382.
+Liu DY, Scholze A, Zhu ZM, Krueger K, Thilo F, Burkert A, Streffer K, Holz S, Harteneck
+C, Zidek W, Tepel M. Transient receptor potential channels in essential hypertension.
+J Hypertens. 2006;24:1105-1114. Impact factor 5.218.
+Liu DY, Thilo F, Scholze A, Wittstock A, Zhao Z, Harteneck C, Zidek W, Zhu ZM, Tepel M.
+Increased store-operated and 1-oleoyl-2-acetyl-sn-glycerol-induced calcium influx in
+monocytes is mediated by transient receptor potential canonical channels in human
+essential hypertension. J Hypertens. 2007;25:799-808. Impact factor 5.218.
+Liu DY, Yang DC, He HB, Chen XP, Cao TB, Feng X, Ma L, Luo Z, Wang L, Zhu ZM,
+Tepel M: Increased transient receptor potential canonical type 3 channels in
+vasculature from hypertensive rats. Hypertension 2009;53:70-76. Impact factor 7.194.
+Llinas, RR, Calcium in synaptic transmission, Sci Am. 1982 Oct;247(4):56-65.
+London GM, Marchais SJ, Guérin AP, Métivier F. Arteriosclerosis, vascular calcifications
+and cardiovascular disease in uremia. Curr Opin Nephrol Hypertens. 2005;14:525-531.
+Menè P., Transient receptor potential channels in the kidney: calcium signaling, transport and
+beyond. J Nephrol. 2006 Jan-Feb;19(1):21-9. Review.
+Montell C, Birnbaumer L, Flockerzi V. The TRP channels, a remarkably functional family.
+Cell. 2002;108:595-598.
+Nilius B, Owsianik G, Voets T, Peters JA. Transient receptor potential cation channels in
+disease. Physiol Rev. 2007;87:165-217.
+Nilius B., TRP channels in disease. Biochim Biophys Acta. 2007 Aug;1772(8):805-12. Epub
+2007 Feb 12. Review.
+Philipp S, Strauss B, Hirnet D, Wissenbach U, Mery L, Flockerzi V, Hoth M. TRPC3
+mediates T-cell receptor-dependent calcium entry in human T-lymphocytes. J Biol
+Chem. 2003 Jul 18;278(29):26629-38. Epub 2003 May 6.
+Raine AE, Bedford L, Simpson AW, Ashley CC, Brown R, Woodhead JS, Ledingham JG.
+Hyperparathyroidism, platelet intracellular free calcium and hypertension in chronic
+renal failure. Kidney Int. 1993;43:700-705.
+Riccio A, Mattei C, Kelsell RE, Medhurst AD, Calver AR, Randall AD, Davis JB, Benham
+CD, Pangalos MN. Cloning and functional expression of human short TRP7, a
+candidate protein for store-operated Ca2+ influx. J Biol Chem. 2002 Apr
+5;277(14):12302-9. Epub 2002 Jan 22.
+Schilling WP, Goel M., Mammalian TRPC channel subunit assembly. Novartis Found Symp.
+2004;258:18-30; discussion 30-43, 98-102, 263-6. Review.
+Scholze A, Maier A, Stocks F, Karamohamad F, Vetter R, Zidek W, Tepel M. Sustained
+increase of extracellular calcium concentration causes arterial vasoconstriction in
+humans. J Hypertens. 2005;23:2049-2054. Impact factor 5.218.
+
+Schwarz EC, Wissenbach U, Niemeyer BA, Strauss B, Philipp SE, Flockerzi V, Hoth M.
+TRPV6 potentiates calcium-dependent cell proliferation. Cell Calcium. 2006
+Feb;39(2):163-73. Epub 2005 Dec 13.
+Slatopolsky E, Brown A, Dusso A. Pathogenesis of secondary hyperparathyroidism. Kidney
+Int Suppl. 1999;73:S14-19.
+Smogorzewski M, Massry SG. Defects in B-cell function and metabolism in uremia: role of
+parathyroid hormone. Kidney Int Suppl. 2001;78:S186-S189.
+Strübing C, Krapivinsky G, Krapivinsky L, Clapham DE., TRPC1 and TRPC5 form a novel
+cation channel in mammalian brain. Neuron. 2001 Mar;29(3):645-55.
+Thilo F, Baumunk D, Krause H, Schrader M, Miller K, Loddenkemper C, Zakrzewicz A,
+Krueger K, Zidek W, Tepel M: Transient receptor potential canonical type 3 (TRPC3)
+channels and blood pressure in humans J Hypertens 2009 ; (in press). Impact factor
+4.364
+Thilo F, Loddenkemper C, Berg E, Zidek W, Tepel M: Increased transient receptor potential
+canonical type 3 (TRPC3) channel in preglomerular arterioles in patients with
+malignant hypertension. Modern Path 2009; 22:426-430. Impact factor 4.286.
+Thilo F, Scholze A, Liu DY, Zidek W, Tepel M. Association of transient receptor potential
+canonical type 3 (TRPC3) channel transcripts with proinflammatory cytokines. Arch
+Biochem Biophys. 2008;471:57-62. Impact factor 2.969.
+Venkatachalam K, Montell C., TRP channels. Annu Rev Biochem. 2007;76:387-417. Review.
+Winn MP, Conlon PJ, Lynn KL, Farrington MK, Creazzo T, Hawkins AF, Daskalakis N,
+Kwan SY, Ebersviller S, Burchette JL, Pericak-Vance MA, Howell DN, Vance JM,
+Rosenberg PB. A mutation in the TRPC6 cation channel causes familial focal
+segmental glomerulosclerosis. Science. 2005;308:1801-1804.
+Winn MP, Conlon PJ, Lynn KL, Farrington MK, Creazzo T, Hawkins AF, Daskalakis N,
+Kwan SY, Ebersviller S, Burchette JL, Pericak-Vance MA, Howell DN, Vance JM,
+Rosenberg PB., A mutation in the TRPC6 cation channel causes familial focal
+segmental glomerulosclerosis. Science. 2005 Jun 17;308(5729):1801-4. Epub 2005
+May 5.
+Wissenbach U, Niemeyer B, Himmerkus N, Fixemer T, Bonkhoff H, Flockerzi V., TRPV6
+and prostate cancer: cancer growth beyond the prostate correlates with increased
+TRPV6 Ca2+ channel expression. Biochem Biophys Res Commun. 2004 Oct
+1;322(4):1359-63. Review.
+Wittstock A, Burkert M, Zidek W, Tepel M, Scholze A., N-acetylcysteine improves arterial
+vascular reactivity in patients with chronic kidney disease. Nephron Clin Pract.
+2009;112(3):c184-9. Epub 2009 May 13.
+Woundenberg-Vrenken TE, Bindels RJ, Hoenderop JG. transient receptor potential channels
+in kidney disease. Nat Rev Nephrol, 2009 Aug; 5(8): 441-9. Epub.
+Wünsch T, Einfluss von Hyperglykämie und oxidativem Stress auf die Expression von
+Transient Receptor Potential Canonical Kanälen
+Zhang LL, Liu DY, Ma LQ, Luo ZD, Cao TB, Zhong J, Yan ZC, Wang LJ, Zhao ZG, Zhu SJ,
+Schrader M, Thilo F, Zhu ZM, Tepel M. Activation of transient receptor potential
+vanilloid type-1 channel prevents adipogenesis and obesity. Circ Res. 2007;100:10631070. Impact factor 9.408.
+Zitt C, Obukhov AG, Strübing C, Zobel A, Kalkbrenner F, Lückhoff A, Schultz G.
+Expression of TRPC3 in Chinese hamster ovary cells results in calcium-activated
+cation currents not related to store depletion. Cell Biol. 1997 Sep 22;138(6):1333-41.

@@ -1,0 +1,4256 @@
+Aus der
+Klinik für Herz-, Thorax- und Gefäßchirurgie
+des Deutschen Herzzentrums Berlin
+
+DISSERTATION
+Determinanten der perioperativen Sterblichkeit von Dialysepatienten,
+bei kardiochirurgischen Eingriffen
+zur Erlangung des akademischen Grades
+Doctor medicinae (Dr. med.)
+
+vorgelegt der Medizinischen Fakultät
+Charité – Universitätsmedizin Berlin
+
+von
+Mohamad Dia
+aus Berlin
+1 von 75
+
+Gutachter/in:
+
+1. Prof. Dr. med. Th. Krabatsch
+2. Priv.-Doz. Dr. med. H. Hausmann
+3. Priv.-Doz. Dr. med. M. Morshuis
+
+Datum der Promotion: 04.02.2011
+
+2 von 75
+
+Zusammenfassung
+Einleitung: In der Herzchirurgie stellen Dialysepatienten eine Risikogruppe mit erhöhter
+perioperativer Sterblichkeit dar. Ziel der vorliegenden Arbeit war es, durch Untersuchung
+eines großen Patientenkollektives von herzoperierten terminal niereninsuffizienten Patienten
+Datenmaterial zu gewinnen, um Determinanten für die perioperative Sterblichkeit dieser
+Population zu identifizieren.
+Methodik: Initiiert und geleitet wurde diese retrospektive multizentrische Untersuchung
+durch die Klinik für Herzchirurgie Universitätsklinikum Schleswig-Holstein, Campus Lübeck
+(Direktor: Prof. Dr. H.-H. Sievers, Studienleiter: Prof. Dr. med. Claus Bartels) unter
+Teilnahme des Deutschen Herzzentrums Berlin (DHZB). Die Studienbetreuung im DHZB
+erfolgte unter der Leiter von Prof. Dr. med. Thomas Krabatsch.
+Das Studiendesign wurde an der Universität Lübeck erarbeitet. Das Haupteinschlusskriterium
+für diese Studie war das Vorliegen einer mindestens drei Monate andauernden,
+dialysepflichtigen terminalen Niereninsuffizienz. Das Studiendesign wurde von dem
+Statistiker Dr. D. R. Robinson, Department of Mathematics, School of Science and
+Technology, University of Sussex, Brighton, England begleitet.
+Ergebnisse: Für die Gesamtpopulation wurden die epidemiologischen Daten von 522
+Patienten (363 Männer und 159 Frauen) erfasst. Das mittlere Lebensalter betrug 61,3 Jahre.
+Die häufigsten Risikofaktoren waren Hypertonie (90,6 %), Diabetes (27,6 %) und
+Nikotinabusus (22,6%). Perioperativ starben 60 von 522 untersuchten Patienten (11,5%). Die
+höchste perioperative Mortalität fand sich in der Gruppe der Patienten, bei denen eine isolierte
+Klappenoperation durchgeführt wurde (16,9%). Im Vergleich dazu verstarben 8,59 %
+(n=28/326) der Patienten bei Koronaroperationen perioperativ, wobei die Mortalität mit der
+Anzahl der Bypässe anstieg. Bei Patienten mit einem Kombinationseingriff (Koronar- und
+Klappenchirurgie) betrug die perioperative Mortalität 16,5 %.
+Schlussfolgerung: In der vorliegenden Arbeit konnte gezeigt werden, dass der Operationstyp
+Klappenoperation eine wichtige Determinante für die perioperativen Sterblichkeit von
+Dialysepatienten bei kardiochirurgischen Eingriffen darstellt. Zudem ist eine größere Anzahl
+an koronaren Bypassgefäßen mit einer höheren perioperative Sterblichkeit verbunden.
+
+3 von 75
+
+1. Einleitung.......................................................................................................... 6
+1.1. Epidemiologie der Erkrankungen von Dialysepatienten ................................................ 7
+1.1.1. Koronare Herzkrankheit ...............................................................................................8
+1.1.2. Erworbene Herzklappenveränderungen......................................................................12
+1.1.3. Weitere kardio-vaskulären Erkrankungen.................................................................. 13
+1.1.4. Diabetes und weitere Erkrankungen........................................................................... 17
+1.2. Multiorganversagen und kardiopulmonaler Bypass...................................................... 19
+1.3. Perioperative Medikation...............................................................................................24
+1.4. Fragestellung der Arbeit.................................................................................................25
+
+2. Methodik......................................................................................................... 27
+2.1. Datenerhebung und Anamnese...................................................................................... 27
+2.2. Datenmanagement..........................................................................................................28
+2.3. Statistik ..........................................................................................................................29
+
+3. Ergebnisse....................................................................................................... 31
+3.1. Epidemiologische Daten................................................................................................ 31
+3.1.2. Risikofaktoren.............................................................................................................32
+3.1.3. Begleiterkrankungen ..................................................................................................33
+3.1.3.1 Vaskuläre Begleiterkrankungen................................................................................33
+3.1.3.2 Herzrhythmusstörungen............................................................................................33
+3.1.3.3 Myokardinfarkt......................................................................................................... 33
+3.1.3.4 Weitere Begleiterkrankungen .................................................................................. 33
+3.1.4. Ursache des Nierenversagens und Dialysebeginn ..................................................... 34
+3.2.1. Kardiale Voroperationen / PTCA............................................................................... 35
+3.2.2. Schweregradeinteilung der Angina pectoris............................................................... 36
+3.2.3. Koronarstatus.............................................................................................................. 36
+3.3.1. Operationstyp..............................................................................................................37
+3.3.2. Notfall-Operation........................................................................................................38
+3.3.3. Minimal-invasive Chirurgie, OPCAB/MIDCAB ...................................................... 38
+3.3.4. Kardioplegie................................................................................................................39
+3.3.6. Anzahl der Koronarbypässe........................................................................................40
+3.3.7. Laborparameter und Medikation.................................................................................40
+3.3.9. Multivariat-Analyse.................................................................................................... 42
+4 von 75
+
+3.3.10. Perioperative Mortalität Score.................................................................................. 44
+
+4. Diskussion.......................................................................................................45
+4.1. Koronaroperation........................................................................................................... 45
+4.2. Herzklappenoperation.................................................................................................... 51
+
+5. Schlussfolgerung............................................................................................. 55
+6. Literaturverzeichnis.........................................................................................57
+7. Lebenslauf....................................................................................................... 68
+8. Danksagung.....................................................................................................69
+9. Anhang............................................................................................................ 70
+9.1. Zentrenverzeichnis....................................................................................... 70
+9.2. Abkürzungsverzeichnis................................................................................ 72
+9.3. Tabellenverzeichnis .....................................................................................74
+10. Erklärung ......................................................................................................75
+
+5 von 75
+
+1. Einleitung
+Die
+
+perioperative
+
+Mortalität
+
+ist
+
+bei
+
+Patienten
+
+mit
+
+terminaler
+
+dialysepflichtiger
+
+Niereninsuffizienz (TDNI) im Vergleich zu Patienten mit ansonsten gleichem Risikoprofil
+erhöht. Wegen dieser Risiken werden chirurgische Eingriffe oft hinausgeschoben und
+Patienten meist spät oder gar notfallmässig operiert. Dadurch steigt das perioperative Risiko
+zusätzlich.
+Seit Jahren nimmt der Zahl der Patienten mit terminaler dialysepflichtiger Niereninsuffizienz
+(TDNI) und der Anteil dieser Patienten mit einer oder mehreren operationspflichtigen
+Herzerkrankungen zu. Die Ursachen dafür liegen in einem Anstieg der klassischen
+kardiovaskulären Risikofaktoren wie arterieller Hypertonie, Diabetes mellitus, Nikotinabusus
+Hyperlipidämie,
+
+Hyperhomozystemie,
+
+Übergewicht
+
+und
+
+Bewegungsmangel.
+
+Der
+
+medizinische Fortschritt wie die verbesserten Dialysetechniken und vielfältige therapeutische
+Möglichkeiten ermöglichen Operationen, gerade bei polymorbiden und älteren Patienten, die
+vor einigen Jahrzehnten noch undenkbar waren.
+Kardiovaskuläre Erkrankungen sind in der Bevölkerung sehr häufig. Daten der letzten Jahre
+belegen, dass mit zunehmender Niereninsuffizienz das kardiovaskuläre Risiko enorm steigt.
+Schon bei milder Niereninsuffizienz ist das kardiovaskuläre Risiko verdoppelt und zwar
+weitgehend unabhängig von klassischen kardiovaskulären Risiken. Die Mortalität bei den
+Patienten mit TDNI liegt etwa 30mal höher als bei nierengesunden Patienten (Mann 2004).
+Patienten mit TDNI zeigen im Vergleich zur Patienten mit normaler Nierenfunktion nach
+einem akuten Myokardinfarkt eine signifikant erhöhte Letalität auf. Die Überlebensrate
+beträgt bei diesen Patienten 46 % nach einem Jahr und 10 % nach fünf Jahren (Herzog et al.
+1998).
+Viele Nierenpatienten weisen stark verkalkte Gefässe auf und sind darum anfälliger für
+kardiovaskuläre Ereignisse. Die Pathogenese der Atherosklerose ist ein multifaktorielles
+Geschehen
+
+mit
+
+genetischer
+
+Prädisposition.
+
+Die
+
+atherosklerotische
+
+Belastung
+
+des
+
+Gefäßsystems bei Dialysepatienten findet sich in der Intima und Media sämtlicher Gefäße
+(Kennedy et al. 2001). Neben einer hohen Inzidenz der klassischen kardialen Risikofaktoren
+werden urämiebedingte Stoffwechselstörungen wie die zusätzliche Insulinresistenz,
+Kalziumphosphatstörungen und Störungen des Säure-Basen-Haushaltes als pathogenetische
+Faktoren diskutiert. Möglicherweise spielen bei der Pathogenese der Atherosklerose bei
+6 von 75
+
+terminaler Niereninsuffizienz auch inflammatorische Faktoren eine entscheidende Rolle. Bei
+diesen Patienten bestehen sowohl eine anhaltende Druckbelastung (renale Hypertonie) als
+auch eine Volumenbelastung mit Steigerung des Herzzeitvolumens aufgrund der kardialen
+Kompensation
+
+der
+
+renalen
+
+Anämie,
+
+der
+
+arteriovenösen
+
+Fisteln
+
+sowie
+
+der
+
+Flüssigkeitsschwankungen zwischen den Dialysetagen.
+In vielen Studien wurde versucht, die existierenden Risikofaktoren in Zusammenhang mit der
+perioperativen Mortalität und Morbidität abzuschätzen (Weerasinghe et al. 2001). Als
+Risikofaktoren
+
+für
+
+erhöhte
+
+Mortalität
+
+und
+
+Morbidität
+
+wurden
+
+immer
+
+erhöhte
+
+Nierenretentionswerte bzw. Niereninsuffizienz gefunden. Bei Patienten mit einem
+präoperativen Kreatinin von mehr als 2 mg/dl kam es perioperativ zu signifikant mehr
+Komplikationen im Vergleich zu Patienten mit einem präoperativen Kreatinin unter 2 mg/dl
+(Hirose et al. 2001).
+
+1.1. Epidemiologie der Erkrankungen von Dialysepatienten
+Die urämische Kardiomyopathie fasst die vielseitigen kardiovaskulären Erkrankungen bei
+terminaler
+
+Niereninsuffizienz
+
+zusammen
+
+(Amore
+
+und Coppo 2002), sowohl die
+
+hypertensiven, ischämischen, metabolischen Läsionen als auch die morphologischen und
+strukturellen Veränderungen am Perikard, Myokard, Endokard und an den Koronargefäßen
+(Joseph und Odenthal 1995). Bereits zu Dialysebeginn weisen 37 % der Dialysepatienten eine
+Herzinsuffizienz auf und ca. 25 % der zunächst kardial Gesunden entwickeln innerhalb von
+41 Monaten unter laufender Dialysebehandlung eine manifeste Herzinsuffizienz (Harnett et
+al. 1995). Die Urämie geht mit einer Vielzahl von atherogenen Risikofaktoren einher und
+greift mit ihren multifaktoriellen Schädigungsmechanismen in alle kardialen Strukturen ein.
+Neben
+
+den
+
+klassischen
+
+Risikofaktoren,
+
+wie
+
+kardiovaskulären
+
+beispielsweise
+
+die
+
+Risikofaktoren
+Dyslipidämie,
+
+existieren
+die
+
+urämiebedingte
+
+Hypoproteinämie,
+
+die
+
+Hyperfibrinogenämie, die Hyperhomozysteinämie und die Hyperphosphatämie. Durch die
+Urämie modifizierte Risikofaktoren, wie beispielsweise die Hämodynamische Überlastung,
+die Anämie, erhöhter oxidativer Stress, eine inadäquate Dialyse und die metabolische Azidose
+(Wanner 2000, Wanner et al 2002). Pathogenetisch wichtige Faktoren für die urämische
+7 von 75
+
+Herzkrankheit sind die anhaltende chronische Druck- bzw. Volumenbelastung, wie sie
+beispielsweise bei der renalen Hypertonie bzw. bei renaler Anämie sind. Dazu kommen als
+weitere
+
+Faktoren
+
+das
+
+Shuntvolumen,
+
+interdialytische
+
+Überwässerung,
+
+die
+
+metabolischhormonellen Veränderungen, die Urämietoxine und die Veränderungen des
+Elektrolyt- und Säure-Basenhaushaltes sowie Wachstumsfaktoren wie Angiotensin II,
+Noradrenalin, Insulin, advanced glycation endproducts und Endothelin (Wanner 2000).
+
+1.1.1. Koronare Herzkrankheit
+Eine Hochrisikogruppe für das Auftreten einer koronaren Herzkrankheit stellen Patienten mit
+eingeschränkter Nierenfunktion bereits im Prädialysestadium dar. Bei Dialysepatienten liegt
+die kardiovaskuläre Mortalität 10- bis 20mal höher als bei der Normalbevölkerung und
+beträgt ca. 9 % pro Jahr (Levey und Eknoyan 1999). Mit 49 % stehen die kardiovaskulären
+Todesursachen bei Dialysepatienten an erster Stelle (Sarnak und Levey 1999). Wenn ein
+Dialysepatient einen Myokardinfarkt erlitten hat, ist seine Lebenserwartung deutlich reduziert.
+Die kardiovaskuläre Mortalität beträgt nach einem Jahr 40,8 %, nach zwei Jahren 51,8 %,
+nach fünf Jahren 70,2 % und nach zehn Jahren 83,3 %. Die kumulative Mortalität liegt noch
+höher und beträgt nach einem Jahr 59,3 %, nach zwei Jahren 73 %, nach fünf Jahren 89,9 %,
+nach zehn Jahren 97,3 % und ist somit 16- bis 19mal so hoch wie in der Normalbevölkerung
+(Herzog et al. 1998).
+Nach einem Myokardinfarkt korreliert die Gesamtmortalität direkt mit dem Grad der
+Nierenfunktionseinschränkung. Die bekannten Risikofaktoren bei Patienten mit gering
+eingeschränkter Nierenfunktion sind für die Prognose wichtiger als die Nierenfunktion selbst.
+Erst ab einer Kreatinin-Clearance unter 40 ml/min liegt die Bedeutung der Urämie als
+Prognosefaktor über die anderen Risikofaktoren (Sorensen et al 2002).
+Die
+
+Ursachen
+
+der
+
+hohen
+
+kardiovaskulären-
+
+und
+
+Gesamtmortalität
+
+bei
+
+chronisch
+
+niereninsuffizienten Patienten sind vielfältig. Niedrige Cholesterinwerte sind dabei ein
+Risikofaktor für erhöhte Mortalität und ein Marker einer Malnutrition (Prichard 1999). Als
+urämiebedingte Faktoren gelten die Azidose, Urämietoxine, erhöhte Homocysteinsäure,
+vermehrte Produktion freier Sauerstoffradikale und oxydiertes LDL-C, rezidivierende
+8 von 75
+
+Infektionen,
+
+Aktivierung
+
+der
+
+Komplementkaskade
+
+und
+
+die
+
+Neigung
+
+zur
+
+Thrombozytenaggregation. Bei der Dialyse selbst spielt die Biokompatibilität der
+Dialysemembran ebenso eine Rolle wie die Reinheit des Dialysates, Endotoxine, Infektionen
+der Zugänge und die „backfiltration“. Gemeinsam führen diese Faktoren zu einer Freisetzung
+proinflammatorischer
+
+Zytokine
+
+und
+
+einer
+
+endothelialer
+
+Dysfunktion
+
+zu
+
+einem
+
+mikroinflammatorischen Milieu mit Akutphasenreaktion. Hierbei steigen als Modulierung
+positive Akutphasenproteine (APR), wie C-reaktives Protein (CRP), Serum- Amyloid A
+(SAA), Fibrinogen und Haptoglobin sowie negative APR, wie Transferrin an und es kommt
+zur
+
+Ausbildung
+
+einer
+
+Hypoalbuminämie.
+
+Vor
+
+dem
+
+Hintergrund
+
+eines
+
+gestörten
+
+Immunsystems und Veränderungen im Kalzium- und Phosphatstoffwechsel, führt diese
+systemische Entzündungsreaktion zur akzelerierten Atheroskleros (Arici und Walls 2001).
+Dialysepatienten zeigen oft ein normales oder gering erhöhtes Gesamt- und LDL-Cholesterin
+(LDL-C). Niedrige Cholesterinwerte sind dabei ein Risikofaktor für erhöhte Mortalität und
+ein Marker einer Malnutrition (Prichard 1999). HDL-Cholesterin (HDL-C) ist bei 20–40 %
+der Patienten erniedrigt und die Triglyzeride in 20–40 % erhöht. Erhöhte Triglyzeride bei
+Patienten mit deutlich eingeschränkter Nierenfunktion sind Folge vermehrter Produktion und
+Akkumulation triglyzeridreicher Lipoproteine. Damit sind ApoB, ApoC-III und ApoE, die
+alle als Komponente triglyzeridreiche Lipoproteine enthalten, erhöht (Quaschnig et al. 2001).
+Bei Dialysepatienten ist sowohl das HDL-C als auch das Apolipoprotein A-1 erniedrigt. Der
+reduzierte
+
+HDL-C-Metabolismus
+
+Cholesterinestertransferproteins
+
+ist
+
+(CETP),
+
+Folge
+oft
+
+einer
+aber
+
+verminderten
+auch
+
+der
+
+Aktivität
+
+des
+
+Lecithin-Cholesterin-
+
+Acyltransferase (LCAT), welche das bestimmende Enzym für die Veresterung des freien
+Cholesterins darstellt. Damit ist letzteres für den reversen Cholesterintransport über das HDLC zur Leber verantwortlich. Der Einfluss einer gestörten Aktivität der LCAT auf die
+Progression der Atherosklerose ist bekannt. Die Urämie induziert im Körper eine
+Akutphasenreaktion. Dies führt zu Veränderungen in der Zusammensetzung des HDL-C,
+welches dadurch von einem antioxydativen zu einem prooxydativen Lipoprotein wird. Unter
+anderem ist dafür eine verminderte Paraoxonaseaktivität im Plasma und im HDL-C
+verantwortlich. Paraoxonase inhibiert die Oxydation von HDL-C wie auch die von
+Lipidperoxydation des LDL-C. Eine verminderte Aktivität dieses Enzyms, wie bei einer
+eingeschränkter Nierenfunktion, führt zu Veränderungen der Struktur und Funktion von
+HDL-C und LDL-C. Diese modifizierten Lipoproteine werden von ihren Rezeptoren nicht
+9 von 75
+
+entsprechend erkannt und zirkulieren daher mit verlängerter Halbwertzeit länger im Plasma,
+bis sie über sogenannte „non saturable scavenger receptor pathways“ aufgenommen und
+metabolisiert werden. Eine verlängerte Halbwertszeit und Zirkulation dieser Lipoproteine im
+Plasma führt zu deren weiteren Modifizierung durch oxydative Prozesse und Glykosilierung.
+Ursache dafür ist die Reaktion von Aldehyd- und Ketongruppen von Kohlehydraten mit
+Aminosäuren unter der Bildung von Glykosilierungsendprodukten (AGE). Diese reagieren
+mit LDL-C, aber auch mit Endothelzellrezeptoren und triggern so einen Entzündungsreiz.
+Außerdem besteht bei eingeschränkter Nierenfunktion eine verminderte renale Clearance der
+AGE (Stenvinkel 2002). Zirkulierende AGE können die Plasma-Clearance von nativem LDLC vermindern und steigern die Oxydation von LDL-C. Die Folgen dieser Akkumulation
+veränderter Lipoproteine sind Schaumzellbildung und Progression der Atherosklerose. Die
+vermehrte Aufnahme von ox-LDL-C durch Monozyten/Makrophagen resultiert aus einer
+erhöhten Expression von Scavenger-Rezeptoren dieser Zellen bei Urämiepatienten (Drüecke
+et al. 2001).
+Die vermehrte Bildung freier Sauerstoffradikale bei Niereninsuffizienz trägt zur Oxydation
+von LDL-C bei. Ox-LDL-C hat eine antigene Wirkung und führt zu einer Bildung von
+Antikörpern (AK). Es ist bekannt, dass diese AK gegen ox-LDL-C, eine pathogenetische
+Rolle bei der Entwicklung atherosklerotischer Veränderungen bei Dialysepatienten spielen
+(Amore und Coppo 2002). Auch wenn das LDL-C insgesamt bei niereninsuffizienten
+Patienten oft kaum erhöht ist, unterscheidet es sich in den Subfraktionen deutlich von jenem
+der Normalbevölkerung. In einer Studie von Rajman et al. (Rajman et al. 1998) wurde LDL-C
+seiner elektrophoretischen Mobilität entsprechend in Subfraktionen aufgeteilt. Untersucht
+wurden Kontrollpatienten, Patienten im Prädialyse- und Dialysestadium, Patienten mit
+Peritonealdialyse und nierentransplantierte Patienten mit annähernd gleich hohem LDL-C.
+Mit dem Schweregrad der Nierenfunktionseinschränkung nahm der prozentuale Anteil an
+„small dense particles“ am Gesamt-LDL-C zu. Das LDL-C wurde atherogener.
+Die endotheliale Dysfunktion ist ein wichtiger Schritt auf dem Weg zur Atherosklerose. Die
+Folgen sind vermehrte Adhäsivität und Permeabilität von mononuklearen Zellen am Endothel
+und die Freisetzung von Zellmarkern und Zytokinen. Die Urämie ist mit erhöhten Spiegeln
+von proinflammatorischen Zytokinen verbunden, welche die Expression und Freisetzung
+verschiedener Adhäsionsmoleküle hinaufregeln können. Zytokine haben eine große
+Bedeutung für das feste Anhaften und die transendotheliale Migration von Leukozyten.
+10 von 75
+
+Erhöhte Werte des von Willebrand- Faktors (vWF) und Thrombomodulins sind Marker einer
+endothelialen Dysfunktion. Die Höhe des vWF-Spiegels korreliert mit dem Ausmaß der
+peripheren Atherosklerose. Thrombomodulin ist ein Indikator der Endothelzellzerstörung. Es
+ist bei Diabetikern, insbesondere bei Vorliegen mikrovaskulärer Komplikationen, erhöht.
+Signifikant erhöhte Werte von vWF und Thrombomodulin findet man auch bei verschiedenen
+Schweregraden der Niereninsuffizienz im Vergleich zu Kontrollpersonen. ICAM-1 und
+VCAM-1, Repräsentanten vom Endothel herleitender Adhäsionsmoleküle, spielen eine große
+Rolle in der Pathogenese der Atherosklerose. sICAM-1 ist oft lange vor der klinischen
+Manifestation einer koronaren Herzkrankheit erhöht (Jacobson et al. 2002).
+Ähnliches gilt für sVCAM-1, sL-Selectin und MCP-1 (monozytenchemotaktisches Protein-1).
+MCP-1 wird von Endothelzellen nach Stimulation durch IL-1β und TNF- α produziert und
+spielt eine wichtige Rolle in der Migration und Aktivierung von Monozyten, T-Zellen und der
+Proliferation von glatten Muskelzellen. MCP-1 steigt aber auch unter einer Therapie mit
+Erythropoietin an (De Marchi et al. 1997). Bei Dialysepatienten konnte gezeigt werden, dass
+ICAM-1,VCAM-1 und MCP-1 schon vor der Hämodialyse im Vergleich zu Kontrollpatienten
+signifikant erhöht sind, wobei der Dialyseprozess selbst zu einem weiteren signifikanten
+Anstieg dieser Parameter führte (Papayianni et al. 2002). In mehreren Studien wurde der
+Anstieg mit der Bioinkompatibilität der Dialysemembran und der Reinheit des Dialysates in
+Zusammenhang gebracht. Zur Progression der Atherosklerose trägt auch die Hämodialyse bei.
+Bei der Urämie sind die klassischen Risikofaktoren Hypertonie, Hyperlipidämie, Diabetes
+mellitus und Nikotinabusus, aber auch urämie- und dialysebedingte Faktoren für das
+Auftreten und Fortschreiten der Atherosklerose verantwortlich.
+Stickstoffmonoxyd
+
+(NO)
+
+wirkt
+
+stark
+
+gefäßerweiternd,
+
+ist
+
+ein
+
+Inhibitor
+
+der
+
+Thrombozytenaktivierung, hemmt gemeinsam mit Prostacyclin die Plättchenaggregation und
+induziert eine Thrombozytendisaggregation. Eine vermehrte Produktion über die induzierbare
+NO-Synthase (iNOS) führt zur klinischen Symptomatik und Progression der Atherosklerose.
+Die „Interleukin-Hypothese“ unterstützt die Annahme der Bedeutung von NO bei der
+intradialytischen Hypotonie. NO ist aber auch ein zytotoxisches Molekül. Es reagiert mit
+Sauerstoffradikalen von Superoxyd z. B. unter Bildung von Peroxynitrit, das schwere
+oxydative Schäden an Lipiden, DNA und Proteinen hervorruft. Peroxynitrit induziert Brüche
+im DNA-Molekül, aktiviert das DNA-Repair-Enzym Poly (ADP)-ribosyltransferase und das
+Tumor-Suppressor-Protein p53, welche eine Apoptose in Gang setzen. Eine Ursache der
+11 von 75
+
+vermehrten NO-Produktion ist der Dialysevorgang. Das vom extrakorporalen Kreislauf der
+Dialysemaschine rückfließende Blut kommt mit Endothelzellen in Kontakt und induziert die
+Freisetzung von Wachstumsfaktoren, Zytokinen, Chemokinen und vasoaktiven Substanzen.
+Die NOS-Aktivität mit Expression der iNOS-Messenger- RNA (mRNA) erhöht sich. Neben
+der Bioinkompatibilität von Dialysemembranen mit der verbundenen Freisetzung von
+Zytokinen, spielt auch bei der Dialyse verwendeten Pufferlösung eine Rolle. Acetathältige
+Puffer erhöhen die NOS-Aktivität, acetatfreie Pufferlösungen zeigen diese Reaktion kaum.
+Somit führt die Hämodialyse zu einer periodischen Stimulation der endothelialen iNOS mit
+einem Anstieg von NO, Induktion einer generalisierten Inflammation, Störung der
+Endothelfunktion bis hin zur Vaskulopathie und Atherosklerose sowie Gefäßverschluss, aber
+auch zur Apoptose (Amore und Coppo 2002).
+Das CRP ist für ein vaskuläres Ereignis von kausaler Bedeutung. Lange vor einem vaskulären
+Ereignis sind die CRP-Spiegel erhöht, CRP aktiviert das Komplementsystem, induziert die
+Expression von Tissue-Faktor sowie von Adhäsionsmolekülen und bindet an enzymatisch
+abgebaute LDL-Partikel (Arici und Walls 2001). Schaumzellen zeigen in atherosklerotischen
+Plaques eine positive Färbung für CRP und es befinden sich Ablagerungen von CRP in den
+fibroelastischen und fibromuskulären Schichten der Intima, gemeinsam mit einem aktivierten
+Komplement. Beim experimentellen Infarktmodell führte eine Injektion von CRP über
+komplementabhängige Mechanismen zu vermehrtem Gewebsuntergang (Griselli et al. 1999).
+Es gibt signifikante Zusammenhänge zwischen erhöhten CRP-Werten und Hypoalbuminämie,
+Malnutrition, Erythropoietinresistenz sowie Morbidität und Mortalität bei Dialysepatienten.
+Ein direkter signifikanter Zusammenhang zwischen der Höhe des CRP-Wertes und der
+Gesamt- wie auch der kardiovaskulären Mortalität konnte nachgewiesen werden (Wanner et
+al. 2002).
+
+1.1.2. Erworbene Herzklappenveränderungen
+Bei
+
+Dialysepatienten
+
+besteht
+
+ein
+
+erhöhtes
+
+Risiko
+
+für
+
+kalzifizierende
+
+Herzklappenerkrankungen. Herzklappenveränderungen werden im Sinne eines degenerativen
+Umbaus und bei atherosklerotischen Gefässprozessen beschrieben. Atherosklerotische
+Prozesse manifestieren sich überwiegend im höheren Lebensalter. Bei Achtzigjährigen
+12 von 75
+
+werden zu 50 % Aortenklappenveränderungen festgestellt, die nicht zwangsläufig mit
+Veränderungen im Strömungsprofil einhergehen Am häufigsten werden die Mitral- und
+Aortenklappe befallen. Die Prävalenz von Mitralklappenerkrankungen bei terminaler
+Niereninsuffizienz wird mit 40 %, Erkrankungen der Aortenklappe mit 28 bis 55 %
+angegeben (Harnett et al. 1995).
+In der Regel führen die kalzifizierenden Herzklappenveränderungen zu Stenosen der Klappen,
+Insuffizienzen treten wesentlich seltener auf. Oft entwickeln sich nur mittelschwere Vitien.
+Eine Progression zu hämodynamisch relevanten Herzfehlern ist selten. Pathogenetisch sind
+die durch den Hyperparathyreoidismus bedingten Veränderungen im Kalzium-PhosphatStoffwechsel (erhöhtes Kalzium- Phosphat-Produkt, Normalbereich unter 5,0 mmol) (Wolf
+und Risler 1997).
+Bei atherosklerotisch veränderten Aortenklappen, die eine operative Intervention erforderlich
+machen, lässt sich in 20 % der Fälle ein Diabetes feststellen. Ebenso zeigte sich bei
+Mitralklappenverkalkungen eine Koinzidenz von ca. 20 % mit Diabetes (Waller et al 1991).
+Beim Dialysepatienten kommt es infolge der urämiespezifischen Veränderungen zu
+frühzeitigerem Auftreten von Klappenveränderungen, im Gegensatz zu Nierengesunden
+(Wolf und Risler 1997).
+
+1.1.3. Weitere kardio-vaskulären Erkrankungen
+Als weitere kardio-vaskuläre Erkrankungen bei Patienten mit terminaler Niereninsuffizienz
+sind vor allem die Endokarditis, die urämische Perikaditis, die linksventrikuläre Hypertrophie,
+die systolische und diastolische Dysfunktion, die Hypertonie und Rhythmusstörungen von
+Bedeutung.
+Die Inzidenz der infektiösen Endokarditis bei Hämodialysepatienten liegt zwischen 2,6 und 6
+%. Beim Hämodialysepatienten tritt eine Endokarditis häufiger auf. Ursache dafür ist eine
+größere Anzahl an Bakteriämien, infolge der Gefäßzugänge (in 26 bis 74 %).
+Prädisponierende Faktoren für eine Infektion des terminalen Niereninsuffizienten sind die
+Urämie mit Funktionseinschränkung der Granulozyten, Monozyten und Lymphozyten,
+13 von 75
+
+Malnutrition
+
+und
+
+immunsuppressive
+
+Therapie.
+
+Manipulationen
+
+oder
+
+Infekte
+
+der
+
+Gefäßzugänge sind die auslösenden Faktoren. In über 70 % aller Endokarditiden werden
+Staphylokokkus aureus oder epidermidis als Erreger nachgewiesen. Die infektiöse
+Endokarditis nach Nierentransplantation ist aufgrund der Immunsuppression mit einer hohen
+Letalität behaftet (Wolf und Risler 1997). Die häufigste Todesursache bei Endokarditis ist die
+Herzinsuffizienz. Die durch den arteriovenösen Shunt bedingte Hyperzirkulation kann die
+hämodynamische Situation noch weiter verschlechtern. Besonders beim Dialysepatienten
+treten in einem Drittel der Fälle systemische Embolien frühzeitig auf. Wichtig ist die
+Entfernung des infizierten Gefäßzuganges. Beim Peritonealdialysepatienten kommt eine
+infektiöse Endokarditis selten vor. Die antibakterielle Aktivität der peritonealen Makrophagen
+und der fehlende direkte Zugang zum Gefäßsystem sind Gründe für die niedrige Inzidenz der
+Endokarditis beim Peritonealdialysepatienten (Marti und Frey 1995).
+Bei 10 bis 20 % aller urämischen Patienten kommt es vor und nach Einleitung der
+Nierenersatztherapie zu einer Perikarditis. Sie ist eine Komplikation der fortgeschrittenen
+Niereninsuffizienz (Kreatinin>440 mmol/l = 5 mg/dl). Unterschieden werden drei Formen der
+Perikarditis (Wolf und Risler 1997):
+1.
+
+Typ 1: Dekompensation der chronischen Niereninsuffizienz nach Einleitung der
+
+Dialysetherapie. Gut rückläufige Verlaufsform (meist innerhalb von 14 Tagen).
+2.
+
+Typ 2: Frühdialyseperikarditis. Oft liegt ein hämorrhagischer Erguss vor. Pathogenese
+
+ist unklar und ein Zusammenhang mit der Heparinapplikation ist möglich (meist in den ersten
+Wochen bis Monaten nach Dialysebeginn).
+3.
+
+Typ 3: Spätdialyseperikarditis: Ist mit einer bakteriellen Allgemeininfektion assoziiert.
+
+Pathogenetisch
+
+gesehen spielen die
+
+Urämietoxine,
+
+immunologische
+
+Faktoren, der
+
+Hyperparathyreoidismus und die Hyperurikämie neben chronischen Infekten eine wichtige
+Rolle. Komplikationen der Perikarditis sind eine Perikardtamponade oder eine konstriktive
+Verlaufsform mit der Perikardverkalkung (meist erst nach 6 Monaten).
+Die linksventrikuläre Hypertrophie ist eine der häufigsten Veränderungen der urämischen
+Herzkrankheiten (Prävalenz von 50 bis 70 %) (Josephs und Odenthal 1995). In Abhängigkeit
+vom Schweregrad der linksventrikulären Hypertrophie besteht eine erhöhte Letalität (Washio
+14 von 75
+
+et al. 1997). Die morphologischen Veränderungen bei der terminalen Niereninsuffizienz
+bestehen vor allem in einer Hypertrophie der Myozyten, interstitiellen Myokardfibrose,
+Reduktion der Kapillarversorgung und einer intramyokardialen Mikroarteriopathie. Dadurch
+entstehen Myozytenuntergänge mit Ausbildung von Myokardnarben. Die Folge der
+progredienten Myokardvernarbung ist das kardiale „remodeling“, welches zu einer
+diastolischen und systolischen Dysfunktion führt. Die Urämie ist eine wichtige und
+eigenständige
+
+Determinante
+
+der
+
+Myokardfibrose.
+
+Das
+
+Ausmaß
+
+der
+
+interstitiellen
+
+Myokardfibrose korreliert mit der Dauer der Langzeitdialyse (Mall 2000).
+Typisch für die urämische Herzerkrankung ist ein hoher Anteil an asymmetrischer
+Septumhypertrophie (Josephs und Odenthal 1995). Die Diskrepanz zwischen Häufigkeit der
+linksventrikulären Hypertrophie bei Hypertonie (Prävalenz 40 %) und Dialysepatienten
+(Prävalenz 70 %) unterstreicht die Bedeutung spezieller urämischer Faktoren (Herzog et al.
+1998). Pathogenetisch wichtig sind Faktoren wie die Druck- und Volumenbelastung, die
+Stimulation des Renin-Angiotensin-Systems und der Sympathikotonus. Über Stimulation von
+Transkriptionsfaktoren,
+
+strukturellen
+
+und
+
+funktionellen
+
+Umwandlungen
+
+und
+
+kompensatorischer Anpassung des Myokards kommt es zur asymmetrischen Hypertrophie
+oder zu einem konzentrischen „remodeling“ (Hampl et al. 2000).
+Die exzentrische linksventrikuläre Hypertrophie durch anhaltende Volumenbelastung ist von
+der
+
+konzentrischen
+
+linksventrikulären
+
+Hypertrophie
+
+zu
+
+unterscheiden,
+
+die
+
+durch
+
+Druckbelastung entsteht. Beide führen zu einer Erhöhung des linksventrikulären
+Massenindex. Prognostische Bedeutung hat ein vergrößerter linksventrikulärer Massenindex
+von mehr als 125 g/m2 (Hampl et al. 2000). Der linksventrikuläre Massenindex ist ein starker
+Prädiktor für den plötzlichen Herztod und die koronare Herzerkrankung (Hampl et al. 2000).
+Bei
+
+niereninsuffizienten
+
+Patienten
+
+bildet
+
+sich
+
+trotz
+
+Blutdrucknormalisierung
+
+die
+
+linksventrikuläre Hypertrophie nur inkomplett zurück, dagegen wurde bei essentieller
+Hypertonie eine Regression unter antihypertensiver Therapie mit ACE-Hemmern, aber auch
+Calciumantagonisten und ß-Blockern gesehen. Dem Schweregrad der renalen Hypertonie im
+prädialytischen Stadium wird eine entscheidende Bedeutung beigemessen (Josephs und
+Odenthal
+
+1995).
+
+Folgen
+
+der
+
+linksventrikulären
+
+Hypertrophie
+
+sind
+
+die
+
+gestörte
+
+linksventrikuläre Compliance, die reduzierte Koronarreserve und die Arrhythmiebereitschaft.
+
+15 von 75
+
+Die erhöhte Arrhythmieneigung entsteht auf dem Boden einer subendokardialen Ischämie und
+einer gestörten Erregungsleitung (Amann und Ritz 1995).
+Bei der Hypertonie des niereninsuffizienten Patienten ist die Natriumretention infolge
+Hypervolämie ein wichtiger Aspekt. Die Retention von Natrium und die damit verbundene
+Zunahme des Plasma- und Extrazellulärvolumens führt zu einer Erhöhung des
+Herzzeitvolumens, autoregulatorisch zu einer Erhöhung des peripheren Gefäßwiderstandes
+und zur Erhöhung der Nachlast (Ritz und Koch 1993). Weitere für die Hypertonieentwicklung
+wichtige Mechanismen sind die Aktivierung des Renin-Angiotensin-Systems und die
+Sympatikusaktivierung. Strukturelle Gefäßwandveränderungen, die zu Störungen der
+arteriellen Compliance führen, sind bei Patienten mit terminaler Niereninsuffizienz häufig
+(Barenbrock et al. 2000). Die Abnahme der arteriellen Compliance ist für einen Anstieg des
+systolischen Blutdrucks und der Blutdruckamplitude verantwortlich (Barenbrock et al. 2000).
+Eine Hypertonie weisen ca. 80–90 % der niereninsuffizienten Patienten auf. Bei renalen
+Erkrankungen ist ein Zielblutdruck von 120/70 mmHg anzustreben (Wang et al. 2001).
+Als systolische Dysfunktion wird die systolische Kontraktionsstörung des linken Ventrikels
+bezeichnet. Sie zählt zu den zuerst beschriebenen kardialen Krankheitsbildern bei der
+terminalen Niereninsuffizienz. Die Inzidenz beträgt 10 bis 20 %. Bei der Mehrzahl der
+dialysepflichtigen Patienten lässt sich als Ursache der systolischen Kontraktilitätsstörung eine
+koronare Herzerkrankung finden. Der Nachweis einer systolischen Dysfunktion muß immer
+Anlaß sein, nach einer kardialen Grunderkrankung zu suchen (Josephs und Odenthal 1995).
+Für die systolische Funktion ist das Dialyseregime von Bedeutung. So kommt es unter der
+Dialysetherapie durch die Ultrafiltration zu einer Abnahme der linksventrikulären
+enddiastolischen
+
+und
+
+endsystolischen
+
+Durchmesser
+
+und
+
+zu
+
+einer
+
+Zunahme
+
+der
+
+linksventrikulären Verkürzungsfraktion (fractional shortening). Die Abnahme der Nachlast
+durch den Volumenentzug führt zur Verbesserung der Myokardfunktion. Weiterhin beeinflußt
+die dialysebedingte Verschiebung der Serumkalizum/Kaliumkonzentrationen die myokardiale
+Kontraktilität. Eine Erhöhung des Serumkalzium/Kaliumquotienten hat einen positiv
+inotropen Effekt (Wolf und Risler 1997).
+Die diastolische Dysfunktion (Compliancestörung) des linken Ventrikels zählt mit einer
+Prävalenz von 35 bis 65 % zu den häufigsten kardialen Folgen der Urämie (Caires et al.
+1998). Die Compliancestörung des linken Ventrikels bei guter systolischer Funktion erklärt
+16 von 75
+
+sich durch die Hypertrophie des Myokards und die Vergrößerung des linken Vorhofes. Die
+diastolische Funktionsstörung, die zu einer unzureichenden Füllung des linken Ventrikels
+führt, kann ein Vorwärts- wie Rückwärtsversagen verursachen. Die interstitielle
+Myokardfibrose führt zu einer myokardialen Steifigkeit, zu einer eingeschränkten
+Dehnbarkeit des linken Ventrikels. Eine ausreichende Auswurfleistung ist nur durch einen
+erhöhten linksventrikulären Füllungsdruck möglich. Dies führt über eine pulmonale
+Kongestion zum klinischen Bild der Dyspnoe, fluid lung bis zum Lungenödem (Josephs und
+Odenthal 1995). Anderseits kann es, bedingt durch den Flüssigkeitsentzug unter einer
+Dialysebehandlung, zum Abfall des linksventrikulären Füllungsdruckes und damit zu
+hypotonen Komplikationen kommen. Die Erhöhung des linksventrikulären Füllungsdruckes
+beeinträchtigt die subendokardiale Koronarperfusion in der Diastole, welche klinisch zur
+Angina pectoris führen kann (auch ohne koronare Herzerkrankung). Die Echokardiographie
+leistet als nicht-invasives Verfahren einen wichtigen Beitrag zur Differentialdiagnostik der
+systolischen/diastolischen Dysfunktion. Zur Beurteilung der diastolischen Funktion wird
+dopplerechokardiographisch das transmitrale Einstromprofil analysiert. Ein Vorteil der
+Peritonealdialyse für die diastolische Funktion gegenüber der Hämodialyse ist nicht
+nachweisbar. Die hohe Inzidenz von Herzrhythmusstörungen beim Dialysepatienten sind
+Ausdruck für kardiale Funktionsstörungen wie vor allem die linksventrikuläre Hypertrophie,
+die koronare Herzerkrankung und die systolische Dysfunktion (Josephs und Odenthal 1995).
+Bei der Dialysetherapie ist häufig mit Rhythmusstörungen zu rechnen. Unter Verwendung
+von Azetat als Dialysatpuffer, treten dreimal mehr Arrhythmien auf als unter Bicarbonat; auch
+hohes Dialysatkalzium wirkt arrhythmogen. Das Dialysat- und Serumkalium spielen eine
+untergeordnete Rolle (Wolf und Risler 1997). Höheres Lebensalter ist ein weiterer
+Risikofaktor.
+
+1.1.4. Diabetes und weitere Erkrankungen
+Als wichtige Erkrankungen bei Patienten mit terminaler Niereninsuffizienz sind der Diabetes,
+der sekundäre Hyperparathyreoidismus, die Hyperhomozysteinämie und die Anämie
+aufzuführen.
+
+17 von 75
+
+In Deutschland erkranken etwa 5 % der Bevölkerung an Diabetes mellitus. 95 % der
+Betroffenen leiden an Diabetes mellitus Typ 2 und 5 % der Erkrankten entwickeln einen
+Diabetes mellitus Typ 1 oder einen Diabetes im Rahmen besonderer Syndrome oder
+somatischer Störungen (Berger und Pieber, 2000). Bei Diabetes mellitus Typ 2 liegt die
+höchste Prävalenzrate geschlechterabhängig bei Männern zwischen dem 30. und 60.
+Lebensjahr. Bei Frauen steigt die Prävalenzrate erst nach dem 60. Lebensjahr an. Jenseits des
+70. Lebensjahres leidet jeder 4. Bürger an Diabetes mellitus Typ 2 (Berger und Trautner
+2000). Bei Diabetikern werden Herzklappenveränderungen im Sinne eines degenerativen
+Umbaus und bei atherosklerotischen Gefässprozessen beschrieben. Atherosklerotische
+Prozesse manifestieren sich überwiegend im höheren Lebensalter. Bei Achtzigjährigen
+werden zu 50 % Aortenklappenveränderungen festgestellt, die nicht zwangsläufig mit
+Veränderungen im Strömungsprofil einhergehen (Branch et al 2002).
+Bei Aortenklappenveränderungen, die zu einem Herzklappenersatz führten, wurde eine
+Koinzidenz mit Diabetes von 10 % festgestellt. Bei atherosklerotisch veränderten
+Aortenklappen, die eine operative Intervention erforderlich machten, fanden sich in 20 % der
+Fälle ein Diabetes. Ebenso zeigte sich bei Mitralklappenverkalkungen eine Koinzidenz von
+ca. 20% mit Diabetes (Waller, 1991)
+Der sekundäre Hyperparathyreoidismus ist bei Patienten mit chronischer Niereninsuffizienz
+häufig. Erhöhte Parathormonspiegel wirken wie „Urämietoxine“ und führen unter anderem
+zur
+
+Anämie,
+
+Osteodystrophie,
+
+kardialen
+
+Funktionsstörungen,
+
+Beeinträchtigung
+
+des
+
+Immunsystems und des autonomen und zentralen Nervensystems (Massry und Smogorzewski
+1994). Eine Assoziation besteht zwischen dem sekundären Hyperparathyreoidismus und dem
+Ausmaß der linksventrikulären Hypertrophie (Schulz et al. 2000). Das Mortalitätsrisiko als
+Folge
+
+erhöhter
+
+kardiovaskulärer
+
+Komplikationen
+
+steigt
+
+durch
+
+einen
+
+erhöhten
+
+Serumphosphatspiegel, beziehungsweise durch ein erhöhtes Kalzium-Phosphat-Produkt. Der
+Parathormonspiegel sollte das zwei- bis dreifache des Normalwertes nicht überschreiten
+(Schulz et al. 2000).
+Die
+
+Hyperhomozysteinämie
+
+ist
+
+sowohl
+
+bei
+
+Dialysepatienten
+
+als
+
+auch
+
+in
+
+der
+
+Normalbevölkerung ein unabhängiger kardiovaskulärer Risikofaktor. Eine Spiegelerhöhung
+dieses Parameters um das zwei- bis vierfache ist bei über 80 % der Hämodialysepatienten
+nachweisbar (Wanner 2000). Als Ursachen ist der durch die Urämie gestörte Stoffwechsel
+und die Ausscheidungsfunktion zu sehen.
+18 von 75
+
+Die
+
+Anämie,
+
+deren
+
+Hauptursache
+
+ein
+
+Erythropoetinmangel
+
+ist,
+
+führt
+
+zu
+
+einer
+
+Volumenbelastung über eine kompensatorische Steigerung des Herzminutenvolumens. Folgen
+sind eine linksventrikuläre Dilatation und Hypertrophie (Wanner 2000). Weiterhin ist sie ein
+Risikofaktor für das Auftreten einer de novo-Herzinsuffizienz (Wanner 2000).
+
+1.2. Multiorganversagen und kardiopulmonaler Bypass
+Die terminal dialysepflichtige Niereninsuffizienz ist ein wichtiger Risikofaktorenkomplex vor
+allem auch für Patienten, bei denen eine Herzoperation während extrakorporaler Zirkulation
+bei Anwendung der Herz-Lungen-Maschine (HLM) durchgeführt werden muss (Horst, 2000).
+Insbesondere die mit der extrakorporalen Zirkulation verbundenen Probleme wie Flüssigkeitsund Elektrolythomöostase, Hämodilution, Antikoagulation und Blutgerinnungsstörungen
+erfordern ein optimales perioperatives Management dieser Patienten. Da die meisten
+Operationen nicht am schlagenden Herzen möglich sind, wird das Herz vorübergehend zum
+Stillstand gebracht. Während dieser Zeit übernimmt die HLM die Pumpfunktion des Herzens
+und der Oxygenator der HLM den Gasaustausch der Lunge. Dabei kommt das Blut mit den
+unphysiologischen Oberflächen des extrakorporalen Kreislaufes in Kontakt. Die Interaktion
+des Blutes mit den Bestandteilen des extrakorporalen Kreislaufes initiiert inflammatorische
+Kaskaden (Riddington et al. 1996), die verschiedenste Organfunktionsstörungen nach sich
+ziehen können.
+In etwa 2 % der Fälle treten nach kardiochirurgischen Eingriffen unter Einsatz der HLM
+ausgedehnte Organfunktionsstörungen im Sinne eines Multiorganversagens (Multiple Organ
+Dysfunction Syndrome, MODS) auf (Christenson et al. 1994), die mit einer Mortalität von
+über 75 % einhergehen. Der Aufwand für die Therapie des MODS ist unter
+sozioökonomischen Gesichtspunkten betrachtet mit einer Kostensteigerung um den Faktor 4
+im Vergleich zum unkomplizierten Verlauf verbunden. Für das Entstehen des MODS nach
+herzchirurgischen Eingriffen werden im wesentlichen zwei Hauptursachen diskutiert,
+einerseits eine Minderperfusion der Niere und des Gastrointestinaltraktes während des
+kardiopulmonalen
+
+Bypasses
+
+und
+
+andererseits
+
+eine
+
+Kontaktaktivierung
+
+und
+
+19 von 75
+
+Mediatorenfreisetzung durch den Kontakt des Blutes mit den unphysiologischen Oberflächen
+der HLM (Boldt et al. 1996).
+Der Einsatz von HLM kann zur Endotoxämie und zur renalen Minderperfusion führen.
+Zudem stellen die Mediatorenfreisetzung und die Kontaktaktivierung erhebliche Risiken dar.
+Die Umstellung der Hämodynamik, Änderungen der Druckverhältnisse im rechten und linken
+Herzen sowie das laminare Flussmuster durch die HLM, führen zu einer Störung
+zentralnervöser und peripherer Regulationsmechanismen (Watkins et al. 1982). Wie beim
+Kreislaufschock und bei erniedrigter Plasmaosmolarität wird im Zusammenhang mit
+herzchirurgischen Operationen Antidiuretisches Hormon (ADH,) aus dem Hypothalamus
+freigesetzt (Levine et al. 1981). Durch die Interferenz mit Barorezeptoren wird die ReninAngiotensin-Aldosteron-Achse aktiviert (Bailey et al. 1975). ADH und Angiotensin II sind
+potente Vasokonstriktoren (Levine et al. 1981) und begünstigen das Auftreten einer
+regionalen intestinalen Sauerstoffminderversorgung. Die Endotoxineinschwemmung ist
+Ausgangspunkt für die Aktivierung verschiedenster inflammatorischer Kaskaden im
+Organismus (Komplementkaskade, Gerinnungskaskade, Fibrinolyse, Kininkaskade). Dadurch
+wird das Syndrom einer systemischen Entzündungsreaktion (Systemic Inflammatory
+Response Syndrome, SIRS) ausgelöst, das zu einer progredienten Schädigung aller Organe,
+d.h. zu einem sekundären MODS führen kann. Klinisch manifestiert sich die systemische
+Entzündungsreaktion durch das Auftreten von Tachypnoe, Tachykardie, Anstieg der
+Körpertemperatur und Leukozytose (The ACPM/SCCM Consensus Conference Committee,
+1992). .
+In mehreren klinischen Studien konnte gezeigt werden, dass Endotoxin im Blut von Patienten
+im Zusammenhang mit Operationen an der HLM nachgewiesen werden kann (Andersen et al.
+1993). Endotoxin kann direkt zu Organfunktionsstörungen führen. Eine endotoxininduzierte
+Zunahme der pulmonalen Endothelpermeabilität fördert die Ausbildung eines interstitiellen
+Lungenödems. Endotoxin führt zu einer Erhöhung des pulmonalvaskulären Widerstandes.
+Gasaustauschstörungen auf der Basis eines Mißverhältnisses zwischen Ventilation und
+Perfusion sind die Folge (Gosh et al. 1993). Eine Koinzidenz einer erhöhten pulmonalen
+Endothelpermeabilität und einer gesteigerten Darmpermeabilität konnte in einer klinischen
+Studie beobachtet werden (Sinclair et al. 1995). Daneben führt Endotoxin im Tierversuch zu
+sepsisähnlichen
+
+regionalen
+
+Veränderungen
+
+der
+
+Hämodynamik
+
+mit
+
+Zunahme
+
+des
+
+20 von 75
+
+Herzzeitvolumens, einer Abnahme des peripheren Widerstandes und zur Erhöhung des
+Blutflusses im Intestinum (Fink et al. 1987).
+Die Exposition des Blutes gegenüber den unphysiologischen Oberflächen der HLM ist eine
+mögliche weitere Ursache für die Freisetzung von proinflammatorischen Mediatoren während
+der extrakorporalen Zirkulation (Cremer et al. 1996, Royston 1996). Der Kontakt mit den
+Fremdoberflächen der HLM triggert die sogenannten Kontaktaktivierungssysteme (Royston
+1996). Die Stimulation des Faktors XII/Kallikrein-Systems aktiviert die intrinsische
+Gerinnungskaskade und die Fibrinolyse. Die Aktivierung von neutrophilen Granulozyten
+führt zur Freisetzung von Sauerstoffradikalen und proteolytischen Enzymen. Durch die
+Komplementaktivierung
+
+kommt
+
+es
+
+zur
+
+Freisetzung
+
+vasoaktiver,
+
+chemotaktischer,
+
+immunregulatorischer und zytolytischer Substanzen, dadurch wird die Zytokinproduktion
+stimuliert. Die Kontaktaktivierung fördert eine vermehrte Thrombinbildung. Thrombin hat
+zahlreiche Einflüsse auf das Endothel, auf Leukozyten und Thrombozyten sowie auf die
+Gerinnung. Durch Fremdoberflächen induzierte Thrombozytenaktivierung und -aggregation
+verursachen Störungen der Mikrozirkulation. Auch die Funktion von neutrophilen
+Granulozyten, Makrophagen, B- und T-Lymphozyten sowie Immunglobulinen wird
+beeinträchtigt (Boldt et al. 1994).
+Im Verlauf und in der Folge des kardiopulmonalen Bypasses kann ein ganzer Komplex von
+Entzündungskaskaden
+
+allein
+
+durch
+
+den
+
+Kontakt
+
+von
+
+Blutbestandteilen
+
+mit
+
+dem
+
+extrakorporalen Kreislauf aktiviert werden, der zur Produktion einer Vielzahl von
+proinflammatorischen Mediatoren führt.. Alle diese Mechanismen sind in der Lage, die
+normale Immunregulation schwer zu stören.
+Während und nach herzchirurgischen Eingriffen unter Einsatz der HLM kann es infolge der
+Endotoxinämie und Kontaktaktivierung zur Freisetzung verschiedenster Mediatoren kommen.
+Diese Mediatorenfreisetzung kann zu einer systemischen inflammatorischen Entzündungsreaktion führen und vielfältige Organfunktionsstörungen an Lunge, Nieren, Intestinum,
+Gehirn und Herz zur Folge haben (Royston 1996).
+Organfunktionsstörungen durch die HLM stehen in einem engen Zusammenhang mit der
+Komplementaktivierung. Erhöhte Spiegel von C3a waren in einer klinischen Studie prädiktive
+Faktoren für postoperative kardiale, pulmonale und renale Dysfunktionen (Kirklin et al.
+21 von 75
+
+1982).
+
+Aktivierte
+
+Komplementfaktoren
+
+führen
+
+zur
+
+Freisetzung
+
+von
+
+Zytokinen,
+
+Anaphylatoxinen und Histamin, zu lokalen Entzündungsreaktionen, zu einer erhöhten
+Gewebspermeabilität, wirken teilweise selbst proteolytisch oder führen zu irreversiblen
+Membranschädigungen und aktivieren neutrophile Granulozyten. Endotoxin in der
+systemischen Zirkulation führt zu erhöhten Spiegeln von Interleukin-6 (IL-6), Interleukin-1
+(IL-1) und Prostaglandin E2 (Moelvig et al. 1988).
+Bei koronarchirurgischen Patienten mit postoperativ erhöhten Spiegeln von Endotoxin, TNF
+und IL-6, wurden vermehrt klinische Zeichen eines SIRS gefunden (Oudemans-van Straaten
+et al. 1996). Im Fall von TNF und IL-1 stehen offenbar die Auswirkungen auf das
+Gefäßsystem im Vordergrund. Es erhöht sich durch diese Mediatoren die Produktion von
+Stickstoffmonoxid, was zu einer Vasodilatation führt (Menaché et al. 1994). Außerdem
+führen TNF und IL-1 zu einer Up-Regulation endothelialer Adhäsionsmoleküle für
+Leukozyten (Gillinov et al. 1993). Auch auf Thrombozyten wurden bei Bypassoperationen
+vermehrt Adhäsionsmoleküle gefunden (Rinder et al. 1994). Diese Adhäsionsmoleküle
+können unter Umständen die Anlagerung von Leukozyten und Thrombozyten an das Endothel
+mit
+
+folgender
+
+Mediatorenfreisetzung
+
+und
+
+die
+
+Bildung
+
+von
+
+Leukozyten-
+
+und
+
+Thrombozytenkonjugaten fördern, welche die Mikrozirkulation beeinträchtigen könnten. Es
+ist bekannt, daß TNF, IL-1 und IL-6 eine Erhöhung der Synthese von Akute-Phase-Proteinen
+in den Hepatozyten bedingen und zu Fieber und Hypermetabolismus führen. Zu den AkutePhase-Proteinen, deren Konzentration in einer akut entzündlichen Phase erhöht gefunden
+wird, zählt neben anderen C-reaktives Protein (CRP), das seinerseits die alternative
+Komplementaktivierung bewirkt. IL-6 scheint bei der zirkulatorischen Dysregulation und bei
+metabolischen Störungen nach herzchirurgischen Eingriffen bedeutsam zu sein (Cremer et al.
+1996).
+Herzchirurgische Eingriffe am kardiopulmonalen Bypass werden meist in Hypothermie
+durchgeführt. Durch eine Reduktion des Stoffwechsels wird der Organismus vor
+Schädigungen infolge einer Gewebeischämie geschützt. Hypothermie ist definiert als eine
+Körpertemperatur unter 35°C. Die Einteilung erfolgt in milde Hypothermie (32 - 35°C),
+mäßige Hypothermie (26 -31°C), tiefe Hypothermie (20 - 25°C) und profunde Hypothermie
+(unter 20°C). Bei niedrigen Körpertemperaturen sind biochemische Reaktionen, insbesondere
+enzymatische Reaktionen, verlangsamt. Der Verbrauch von intrazellulären energiereichen
+Phosphatspeichern läuft bei niedrigen Temperaturen langsamer ab, ebenso sinken während
+22 von 75
+
+der Hypothermie als Ausdruck einer allgemeinen Verminderung der Stoffwechselaktivität der
+Sauerstoffverbrauch und die Kohlendioxidproduktion des Organismus.
+Bei einer Ischämie kann die Schädigung von Erythrozyten, Gefäßendothel, Zellmembranen
+und energieliefernden Mitochondrien abgeschwächt sein. Eine Minderdurchblutung des
+Organismus im Zusammenhang mit herzchirurgischen Operationen wird durch vorbestehende
+pathologische Prozesse, wie koronare Herzkrankheit, kongenitale Vitien, zerebrovaskuläre
+Insuffizienz, Bluthochdruck, periphere arterielle Verschlusskrankheit und diabetische
+Mikroangiopathie
+
+begünstigt.
+
+Technische
+
+Probleme
+
+bei
+
+der
+
+Durchführung
+
+des
+
+kardiopulmonalen Bypasses können mit Low-Flow-Phasen verbunden sein, die zu einer
+inadäquaten systemischen Perfusion führen. Mikro- und Makroembolien sind häufig
+beobachtete Phänomene während der extrakorporalen Zirkulation und können gemeinsam mit
+einer exzessiven Hämodilution, Störungen der regionalen Sauerstoffversorgung hervorrufen.
+Neben den protektiven Wirkungen hat die Hypothermie ungünstige Einflüsse auf den
+Organismus, wie beispielsweise Störungen der Thrombozytenfunktion mit konsekutiven
+Gerinnungsstörungen sowie eine Reduktion des ionisierten Kalziums im Serum, die zu einer
+verminderten Myokardkontraktilität führt. Hypothermie induziert Rhythmusstörungen bis hin
+zum Kammerflimmern und eine direkte Myokarddepression (Mora 1995). Der hypotherme
+Bypass führt zur Freisetzung von ADH, Angiotensin II, Thromboxan A2 und B2 sowie
+Adrenalin. Durch diese vasoaktiven Substanzen können Störungen der regionalen Perfusion
+ausgelöst werden.
+Den Herz-Lungen-Bypass unter Beibehalten der Normothermie durchzuführen basiert auf den
+Nachteilen des hypothermen kardiopulmonalen Bypasses und der Schaffung verbesserter
+apparativer Voraussetzungen (Boldt et al. 1996, Riddington et al. 1996). Erste Ergebnisse aus
+klinischen
+
+Studien
+
+zeigen,
+
+dass
+
+normotherme
+
+Bedingungen
+
+mit
+
+einem
+
+besseren
+
+kardiozirkulatorischen Ergebnis verbunden ist. Von 2383 Patienten benötigte kein Patient
+nach herzchirurgischen Eingriffen in Normothermie eine postoperative mechanische
+Kreislaufunterstützung, wie beispielsweise eine intraaortale Ballonpumpe (Singh et al. 1993).
+Pulmonale Komplikationen und das Auftreten einer Koagulopathie waren im Vergleich zum
+hypothermen Bypass extrem selten. Bei 1,4 % der Fälle traten Blutungskomplikationen auf.
+Thrombozytenaggregationsstörungen und endothelbezogene Störungen der Gerinnung traten
+am normothermen Bypass seltener auf (Boldt et al. 1996). Unter Hypothermie traten bei
+23 von 75
+
+Operationen ein signifikant höherer Blutverlust und eine stärkere Endothelschädigung als bei
+Normothermie auf.
+Die Kreislauffunktion scheint nach einem normothermem Bypass besser zu sein als nach dem
+hypothermen
+
+Bypass.
+
+Das
+
+Auftreten
+
+von
+
+zentralnervösen
+
+Komplikationen
+
+und
+
+neurokognitiven Störungen nach dem normothermem Bypass wird diskutiert (Martin et al.
+1994, Regragui et al. 1996), konnte aber nicht zweifelsfrei bestätigt werden. So wurden in
+einer Studie 2585 normotherm geführte Patienten retrospektiv mit 1605 Patienten verglichen,
+welche sich einem kardiochirurgischen Eingriff in Hypothermie unterzogen. In dieser
+Untersuchung konnte kein Unterschied in der Inzidenz neurologischer Komplikationen
+gezeigt werden (Singh et al. 1995). Obwohl der normotherme Bypass im Vergleich zur
+Hypothermie theoretisch viele Vorteile hat, konnte bisher die Inzidenz des MODS durch die
+Anwendung des normothermen kardiopulmonalen Bypasses nicht gesenkt werden. Die
+Morbidität nach normothermem und hypothermem Bypass scheint etwa gleich hoch zu sein.
+
+1.3. Perioperative Medikation
+Zu der hohen perioperativen Mortalität terminal niereninsuffizienter Patienten tragen viele
+Faktoren bei. Die Verschlechterung der Nierenfunktion ist ein bedeutender Faktor für die
+erhöhte perioperative Mortalität. Niereninsuffiziente Patienten haben zudem eine höhere
+Infektneigung, werden aber häufig nicht oder unterdosiert mit den entsprechenden Antibiotika
+behandelt, da man aufgrund der Nebenwirkungen eine Verschlechterung der Nierenfunktion
+befürchtet. Bei den Elektrolytstörungen ist insbesondere die Hyperkaliämie zu nennen, die
+durch die Gabe von Blutprodukten ausgelöst werden kann. Blutungen sind einerseits wegen
+der bei Niereninsuffizienten Urämie-bedingten Thrombozytopathie ein Problem, andererseits
+haben die niedermolekularen Heparine bei diesen Patienten eine verlängerte Halbwertzeit.
+Fast alle Nierenpatienten sind anfällig für kardiovaskuläre Ereignisse. Medikamente zur
+kardiovaskulären Prävention werden bei ihnen jedoch weniger häufig verordnet. Eine Studie
+mit den Daten von rund 20.000 Bypass-Operationen ergab, dass Patienten mit niedriger
+glomerulärer Filtrationsrate weniger häufig Acetylsalicylsäure, ein Statin, einen Betablocker
+oder ein Sartan erhielten (Gibney et al, 2005)). Dies war mit einer erhöhten Mortalität
+24 von 75
+
+assoziiert und bedeutete, dass man nicht nur mit der Indikationsstellung für eine Operation zu
+zögerlich ist, sondern auch bei der perioperativen Medikation. In zwei weiteren retrospektiven
+Studien wurde untersucht, welchen Effekt Statine oder Betablocker auf die perioperative
+Mortalität niereninsuffizienter Patienten haben (Welten et al, 2007). Dafür betrachtete man
+bei den gleichen 2000 Patienten nach einem grossen gefässchirurgischen Eingriff die 30Tages-Mortalität in Abhängigkeit von der jeweiligen Medikation. Demnach schien ein
+Lipidsenker sowohl bei Patienten mit einer GFR über als auch unter 60 ml/min das
+Mortalitätsrisiko zu senken. Deutlicher ist dies bei den Betablockern zu sehen, deren positiver
+Effekt auf die perioperative Mortalität bei Patienten mit hohem kardiovaskulärem Risiko gut
+etabliert ist.
+
+1.4. Fragestellung der Arbeit
+Dialysepatienten stellen in der Herzchirurgie eine besondere Risikogruppe dar, da die
+Koronargefäße meist diffus sklerosiert sind und der Klappenapparat ausgeprägt kalzifiziert
+ist. Auch führt die Anwendung der Herz-Lungenmaschine zu Risiken, zu Problemen bei der
+Wundheilung und zu erhöhtem Infektionsrisiko beim Patienten. Die maßgeblichen Faktoren
+für die hohe perioperative Mortalität wurden untersucht, ausgewertet, diskutiert und
+Schlussfolgerungen abgeleitet. Zum perioperativen Mortalitätsrisiko von Patienten mit TDNI
+gibt es einige Studien mit sehr unterschiedlicher Qualität. Die Daten sind jedoch limitiert und
+teils widersprüchlich.
+Für die vorliegende Untersuchung wurden Patienten mit terminaler Niereninsuffizienz
+ausgewählt, bei denen ein kardiochirurgischer Eingriff vorgenommen wurde. Sowohl die
+Grunderkrankungen der meist polymorbiden Patienten, als auch die Operationsmethode per se
+stellen Risiken dar, deren Kenntnis für die Evaluierung des perioperativen Risikos von
+signifikanter Bedeutung sind. Ziel der vorliegenden Arbeit ist es, die Determinanten der
+perioperativen Sterblichkeit von Dialysepatienten bei kardiochirurgischen Eingriffen zu
+untersuchen und damit eine individuellere Risiko-Nutzen-Abwägung zu ermöglichen. Hierfür
+wurde im Rahmen einer retrospektiven Studie an 522 Patienten, von denen121 Patienten vom
+Deutschen Herzzentrums Berlin (DHZB) stammten, der peri- und postoperative Verlauf
+untersucht. Initiiert und geleitet wurde diese multizentrische Studie von der Klinik für
+Herzchirurgie.Universitätsklinikum Schleswig-Holstein, Campus Lübeck (Direktor: Prof. Dr.
+
+25 von 75
+
+H.-H. Sievers, Studienleiter: Prof. Dr. med. Claus Bartels). Das Studiendesign stammt von der
+Universität Lübeck.
+Ziel der vorliegenden Untersuchung war es, durch Bearbeitung eines möglichst großen
+Patientenkollektives
+
+von
+
+herzoperierten
+
+terminal
+
+niereninsuffizienten
+
+Patienten
+
+wissenschaftlich relevantes Datenmaterial zu erlangen. Aus den zur Verfügung stehenden
+Daten des untersuchten multizentrischen Patientenkollektives wurden die Determinanten der
+perioperativen Sterblichkeit analysiert.
+
+26 von 75
+
+2. Methodik
+2.1. Datenerhebung und Anamnese
+Zur Erfassung aller Daten erfolgte zunächst eine Sichtung der international verfügbaren
+Literatur über die Patientenpopulation, die sich kardiochirurgischen Eingriffen unterziehen
+mussten.
+Als Einschlusskriterium wurde der Begriff „terminal niereninsuffizient“ gewählt. Dabei wird
+die terminale Niereninsuffizienz als das Vorliegen einer dialysepflichtigen Niereninsuffizienz
+von mindestens drei Monaten definiert. Diese Definition wird gewählt, um ausschliesslich
+dialysepflichtigen Patienten, die an einer chronischen Erkrankung leiden, zu erhalten. Als
+„perioperativ“ wurde der Zeitraum von 30 Tagen initial nach der Herzoperation definiert.
+Die Studie wurde von dem Statistiker Dr. D. R. Robinson, Department of Mathematics,
+School of Science and Technology, University of Sussex, Brighton, England begleitet, der vor
+allem auf die Einhaltung des Studiedesigns bedacht war. Die Erhebungsbögen sind nicht
+Bestandteil dieser Arbeit. Ebenso wurden die postoperativen Ergebnisse nur erwähnt, wenn
+diese für die vorliegende Fragestellung relevant waren.
+•
+
+Allgemeine praeoperative Daten:
+o Nebenerkrankungen ( Diabetes Mellitus, PAVK, pulmonale Erkrankung,
+arterielle Hypertonie, neurologische Erkrankung, Lebererkrankung), familiäre
+Anamnese
+o Herzrhythmusstörungen
+o Kardiale Voroperationen
+o Angina pectoris-Status (CCS)
+o Herzinfarkt-Status
+o Status der Herzinsuffizienz (NYHA),
+o Erhebung der Koronarangiographie gemäß der Klassifikation nach AHA,
+o Erfassung der Herzleistung (EF, Auswurffraktion).
+o Präoperativer Karnofsky-Index
+o Erhebung aller relevanten praeoperativen Laborparameter
+27 von 75
+
+o Erhebung der für den Verlauf der relevanten praeoperativen Medikation
+
+•
+
+Perioperative Daten:
+o Art der Operation (elektiv, Notfall)
+o Daten der extrakorporalen Zirkulation
+o Daten für die Koronarchirurgie
+o Daten für die Klappenchirurgie
+o Transfusionsbedarf, Dialyse vor der Operation
+o Ultrafiltration während oder nach der Operation
+o Gabe von anti-hyperfibrinolytischen Medikamenten
+o Grund der Rethorakotomie (Blutung, Low-output-Syndrom, Tamponade,
+kardiale Ischämie)
+
+•
+
+Postoperative Daten (bis 30 Tage):
+o Intensivaufenthalt
+o Kardiale Komplikation
+o Neurologische Komplikation
+o Pulmonale Komplikation
+o Infektionen
+
+2.2. Datenmanagement
+
+Alle perioperativen Daten wurden den Patientenakten entnommen. Die ausgefüllten CRFBögen
+
+(case
+
+record
+
+form)
+
+wurden
+
+an
+
+das
+
+Studienzentrum
+
+in
+
+Lübeck
+
+zur
+
+Plausibilitätskontrolle der erfassten Daten gesandt. Datenkorrekturen wurden durch die
+medizinische Dokumentarin Frau Schubert und dem Studienleiter nach erneuter Prüfung
+durch das jeweilige Zentrum vorgenommen. Weiterhin wurde in Lübeck für alle Zentren die
+Eingabe der Daten zentral vorgenommen. Die eingegebenen Daten wurden zur statistischen
+Analyse nach England gesandt. Eine Überprüfung der Korrektheit der Daten erfolgte in allen
+28 von 75
+
+Zentren stichprobenweise. Dabei wurden die CRF-Bögen mit den Patientenakten verglichen.
+Im Folgenden sind die demographischen
+
+Daten der untersuchten Patientenpopulation
+
+tabellarisch dargestellt. Die statistisch signifikanten Daten der Patienten werden im Bereich
+„Ergebnisse“ aggregiert und in der „Diskussion“ kritisch betrachtet. Um statistisch
+signifikante und klinisch relevante Aussagen diskutieren zu können, werden in Abstimmung
+mit dem Leiter der multizentrischen Studie die Daten des Gesamtkollektivs hierfür verwendet.
+Zur Vergleichbarkeit der Ergebnisse aus dem Deutschen Herzzentrum Berlin mit dem
+Gesamtkollektiv, wird folgende Darstellung gewählt: Die Daten des Deutschen Herzzentrums
+Berlin (DHZB) werden in Tabellen und Graphiken neben die Ergebnisse des
+Gesamtkollektivs gestellt.
+
+2.3. Statistik
+Die Auswertung der Studie wurde durch den Statistiker Derek R. Robinson, DPhil,
+Department of Mathematics, School of Science and Technology, University of Sussex,
+England vorgenommen. Dieser war in die Planung der Studie und insbesondere in die
+Datenerhebung involviert.
+Verwendete Software
+Die Daten werden mit Minitab, Release 13 (State College, Pennsylvania, USA) bzw. SAS,
+Release 8.02 (Cary, North Carolina, USA), untersucht. Alle Tests sind zweiseitig. Als
+statistisch signifikant wird ein p < 0,05 gewertet. Bei Mehrfach-Testungen wird die Korrektur
+nach Bonferoni zur Ermittlung des Signifikanzniveaus verwendet. Die komplette statistische
+Analyse der Daten wurde durch den begleitenden Statistiker Dr. D. R. Robinson, Department
+of Mathematics, School of Science and Technology University of Sussex, Brighton, England
+durchgeführt.
+Deskriptive Statstik
+Stetige Daten werden als Mittelwert ± Standardabweichung wiedergegeben. Nicht-stetige
+Daten werden als absolute Häufigkeiten und in Prozent angegeben.
+
+29 von 75
+
+Univariate Analyse
+Für den Vergleich der quantitativen Variablen wird der Mann-Whitn-Test verwendet für die
+Häufigkeiten wird der Fisher exact Test (chi square test) verwendet.
+Multivariate Analyse
+Perioperative Ereignisse werden mittels logistischer Regressionsanalyse analysiert. Hierbei
+werden diejenigen Variablen berücksichtigt, die in der univariaten Analyse signifikant oder
+annähernd signifikant (p < 0,10) mit dem zu analysierenden Ereignis assoziiert waren. Die in
+der Regressionsanalyse ermittelten Koeffizienten (Odds ratio) werden anschließend unter
+Berücksichtigung nur von präoperativ ermittelbaren Variablen auf- bzw. abgerundet und zur
+Erstellung eines Risiko-Scores verwendet.
+
+30 von 75
+
+3. Ergebnisse
+3.1. Epidemiologische Daten
+3.1.1. Demographische Daten
+Die epidemiologischen Daten der 522 Patienten wurden erfasst. Das Deutsche Herzzentrum
+Berlin beteiligte sich mit 121 Patienten an dieser Auswertung. Die Daten der untersuchten
+Patienten sind in der Tabelle 1 erfasst.
+
+DHZB
+
+Gesamtkollektiv
+
+n = 121
+
+n = 522
+
+86 ♂ / 35 ♀
+
+363 ♂ / 159 ♀
+
+71,07 % / 28,93 %
+
+69,54 % / 30,46
+
+Alter (Jahre)
+
+59,6 ± 9,9
+
+61,3 ± 10,7
+
+Größe (cm)
+
+171 ± 9,1
+
+169,9 ± 9,8
+
+Gewicht (kg)
+
+71,0 ± 11,7
+
+70,5 ± 13,8
+
+BMI
+
+24,3 ± 3,7
+
+24,3 ± 3,8
+
+Alter bei Beginn der Dialyse
+
+55,4 ± 10,7
+
+57,0 ±12,2
+
+Karnofsky Index praeoperativ
+
+54,2 ± 6,5
+
+57,5 ± 18,5
+
+Geschlecht
+
+Tabelle 1: Epidemiologische Patientendaten.
+
+31 von 75
+
+Durchschnitt ± Standardabweichung,
+BMI: Körpergewicht (kg)/Körpergröße (m²).
+
+3.1.2. Risikofaktoren
+Die Risikofaktoren beider Gruppen wurden erfasst und sind in Tabelle 2 dargestellt. Ein
+erhöhter Blutdruck war der häufigste Risikofaktor (96,7% für die DHZB-Gruppe und 83,9%
+für das Gesamtkollektiv), gefolgt vom Diabetes mellitus (29,2 % für die DHZB-Gruppe und
+27,6% für das Gesamtkollektiv).
+
+DHZB
+
+Gesamtkollektiv
+
+Hypertonus
+
+96,67 % (n = 116)
+
+83,88 % (n = 437)
+
+Myokardinfarkt mind.1
+
+37,5 %
+
+(n = 45)
+
+35,83 % (n= 187)
+
+Periphere arterielle
+Verschlusserkrankung
+
+30 %
+
+(n = 36)
+
+27,26 % (n = 142)
+
+Diabetes mellitus
+
+29,2 %
+
+(n = 35)
+
+27,6 % (n = 144)
+
+Vorhofflimmern
+
+18,4 %
+
+(n = 22)
+
+11,6 %
+
+Cerebrovaskuläre
+Insuffizienz
+
+11,68 %
+
+(n = 14)
+
+18,62 % (n = 97)
+
+COPD
+
+12,50 %
+
+(n = 15)
+
+14,59 % (n = 76)
+
+Lebererkrankungen
+
+9,17 %
+
+(n = 11)
+
+11,90 % (n = 62)
+
+Aktueller Alkoholabusus
+
+4,1 %
+
+(n = 5)
+
+2,7 %
+
+(n = 14)
+
+Hepatitis
+
+9,17 %
+
+(n = 11)
+
+5,95 %
+
+(n = 31)
+
+(n = 59)
+
+Tabelle 2: Risikofaktoren.
+
+32 von 75
+
+3.1.3. Begleiterkrankungen
+
+3.1.3.1 Vaskuläre Begleiterkrankungen
+Die häufigste Begleiterkrankung des peripheren Gefäßsystems war eine periphere arterielle
+Verschlusskrankheit
+
+für
+
+das
+
+Gesamtkollektiv
+
+(27,3%)
+
+sowie
+
+eine
+
+periphere
+
+Durchblutungsstörung Stadium IIb nach Fontaine für die Patientengruppe aus DHZB (35,3%).
+
+3.1.3.2 Herzrhythmusstörungen
+75,80 % der Patienten aus dem DHZB hatten präoperativ einen Sinusrhythmus, 20 %
+Vorhofflimmern und 4,17 % andere Herzrhythmusstörungen. Verglichen mit dem
+Gesamtkollektiv zeigten sich keine Unterschiede, hier sind 83,11 % im Sinusrhythmus, 14,01
+% im Vorhofflimmern und 2,88 % hatten andere Herzrhythmusstörungen.
+
+3.1.3.3 Myokardinfarkt
+In dem untersuchten Kollektiv des DHZB hatten 62,5 % keine Anamnese für einen
+vorangegangenen Infarkt, 30,83 % hatten anamnestisch bereits einen Myokardinfarkt, 6,67 %
+erlebten mehr als einen Myokardinfarkt. Im Gesamtkollektiv zeigen sich vergleichbare Daten:
+64,11 % ohne bisherige Anamnese eines vorangegangenen Myokardinfarktes, 30,13 % mit
+einem bereits durchgemachten Myokardinfarkt sowie 5,76 % mit mehr als einem
+durchgemachten Myokardinfarkt.
+
+3.1.3.4 Weitere Begleiterkrankungen
+Die häufigste Begleiterkrankung in der Gruppe des DHZB war eine chronische
+Atemwegsobstruktion (12,5%), dicht gefolgt von einer cerebro-vaskulären Insuffizienz
+(11,7%). Im Gesamtkollektiv prädominierte eine cerebro-vaskuläre Insuffizienz (18,62%),
+gefolgt von einer chronischen Atemwegsobstruktion (14,6%).
+
+33 von 75
+
+3.1.4. Ursache des Nierenversagens und Dialysebeginn
+Die häufigste Ursache des Nierenversagens war eine chronische Glomerulonephritis für das
+Gesamtkollektiv und ein Diabetes mellitus für die Gruppe aus DHZB, dicht gefolgt von einer
+atherosklerotischen Schrumpfniere (Tabelle 3).
+
+DHZB
+
+Gesamtkollektiv
+
+Chron. Glomerulonephritis
+
+n = 19
+
+5,70 %
+
+n = 99
+
+20,33 %
+
+Diabetes mellitus
+
+n = 28
+
+23,10 %
+
+n = 81
+
+16,63 %
+
+Syst. Lupus erythematosus
+
+n=1
+
+0,83 %
+
+n=7
+
+1,44 %
+
+Maligne Nephrosklerose
+
+n=6
+
+4,96 %
+
+n = 22
+
+4,52 %
+
+Atherosklerotische
+Schrumpfniere
+
+n = 25
+
+20,66 %
+
+n = 65
+
+13,35 %
+
+Maligne Vasculitis
+
+n=1
+
+0,83 %
+
+n=2
+
+0,41 %
+
+Polycystische
+Nierenerkrankung
+
+n = 15
+
+12,4 %
+
+n = 67
+
+13,76 %
+
+Medikamenteninduziertes
+Nierenversagen
+
+n = 10
+
+8,26 %
+
+n = 32
+
+6,57 %
+
+Andere
+
+n = 16
+
+13,22 %
+
+n 112
+
+23 %
+
+Tabelle 3: Primäre Ursache des Nierenversagens.
+
+34 von 75
+
+3.2. Kardiale Daten
+3.2.1. Kardiale Voroperationen / PTCA
+
+Die 94,17 % der Patienten am DHZB und 91,55% im Gesamtkollektiv hatten keine kardialen
+Voroperationen.
+
+Die
+
+häufigste
+
+Voroperation
+
+war
+
+eine
+
+perkutane
+
+transluminale
+
+Coronarangioplastie (Tabelle. 4).
+
+DHZB
+Keine
+
+n = 113
+
+ACVB
+
+n=5
+
+Aortenklappe
+
+n=2
+
+Mitralklappe
+
+Gesamtkollektiv
+94,17 %
+
+N = 477
+
+91,55 %
+
+4,17 %
+
+N = 25
+
+4,80 %
+
+1,67 %
+
+N=5
+
+0,96 %
+
+0
+
+N=7
+
+1,34 %
+
+Multiple
+
+0
+
+N=7
+
+1,34 %
+
+PTCA
+
+n = 25
+
+N = 95
+
+18,27 %
+
+20,83 %
+
+Tabelle 4 Tabelle Kardiale Voroperationen.
+
+35 von 75
+
+3.2.2. Schweregradeinteilung der Angina pectoris
+Die meisten Patienten aus beiden Gruppen wiesen Angina pectoris nur bei schwerer
+körperlicher Belastung auf (34,17 % in der DHZB-Gruppe und 31,29 % im Gesamtkollektiv).
+Die Einteilung der Patienten gemäß der New York Heart Association (NYHA) ergab, dass
+NYHA I die häufigste Klasse war, gefolgt von der NYHA-Klasse III (Tabelle. 8).
+
+DHZB
+
+Gesamtkollektiv
+
+34,17
+%
+11,67
+CCS II
+n = 14
+%
+25.00
+CCS III
+n = 30
+%
+26,67
+CCS IV
+n = 32
+%
+47,50
+NYHA I
+n = 57
+%
+17,50
+NYHA II N = 21
+%
+27,50
+NYHA III N = 33
+%
+NYHA IV N = 9 7,50 %
+CCS I
+
+n = 41
+
+n = 163 31,29 %
+n = 120 23,03 %
+n =118
+
+22,65 %
+
+n = 113 21,69 %
+n = 188 36,22 %
+n = 89
+
+17,15 %
+
+n = 164 31,60 %
+n = 78
+
+15,03 %
+
+Tabelle 5: Angina pectoris (CCS) / NYHA.
+
+3.2.3. Koronarstatus
+Im
+
+Gesamtkollektiv
+
+Dreigefäßerkrankung;
+
+zeigte
+eine
+
+sich
+koronare
+
+mit
+
+26,39
+
+%
+
+am
+
+Zweigefäßerkrankung
+
+häufigsten
+wiesen
+
+eine
+24,05
+
+koronare
+%,
+
+eine
+
+Viergefäßerkrankung 12,90 % der Patienten auf. Bei den Patienten aus DHZB war eine
+koronare Dreigefäßerkrankung mit 30,06 % am häufigsten vertreten, gefolgt von einer
+koronaren Zweigefäßerkrankung mit 23,21 %.
+
+36 von 75
+
+3.3. Perioperative Daten
+3.3.1. Operationstyp
+In der vorliegenden Untersuchung wird die perioperative Mortalität in Abhängigkeit von der
+durchgeführten Herzoperation (Typ) untersucht. Es zeigt sich, dass 8,59 % (n=28/326) der
+Koronaroperationen im Gesamtkollektiv perioperativ verstarben, im Vergleich zu 16,85 %
+(n=15/89) mit einer Einfachklappenoperation. Bei Patienten mit einem Kombinationseingriff
+(Koronar- und Klappenchirurgie) betrug die perioperative Mortalität 16,50 % (n=17/103).
+Ingesamt war die perioperative Mortalität im Gesamtkollektiv bei 11,50% (n= 60/ 522).
+Im DHZB zeigte sich eine höhere Mortalität in allen Gruppen 12,5%
+
+(n = 9/22) der
+
+Koronaroperationen, 40,9 % (n= 9/22) mit einer Einfachklappenoperation und 26,67 %
+(n=4/15) bei Patienten mit einem Kombinationseingriff (Koronar- und Klappenchirurgie).
+Ingesamt war die perioperative Mortalität im DHZB bei 19 % (n= 23/ 121).
+Die erzielten Ergebnisse zeigen, dass es einen statistisch signifikanten Unterschied zwischen
+den verschiedenen Gruppen bezüglich der perioperativen Mortalität gibt (p = 0,009, Χ²-Test).
+Die perioperative Mortalität im DHZB ist oft und scheint häufiger als im Gesamtkollektiv.
+64,8 % der Patienten (n = 73) wurden mindestens einmal bezüglich einer kardialen
+Dekompensation stationär aufgenommen. Im Vergleich dazu wurden nur 34,4 % (n = 179)
+des Gesamtkollektivs mindestens einmal wegen kardialer Dekompensation stationär
+aufgenommen. Außerdem kamen 4,5 % der Patienten des DHZB (n = 5) im kardiogenen
+Schock in die herzchirurgische Abteilung, verglichen mit 2,15 % (n = 11) des
+Gesamtkollektivs.
+Des Weiteren wird der Zusammenhang zwischen perioperativer Letalität und einer
+Doppelklappenoperation untersucht. In der hier vorliegenden Arbeit mit 20 durchgeführten
+Doppelklappenoperationen findet sich kein statistisch signifikanter Zusammenhang zwischen
+perioperativem Tod und einer Zweiklappenoperation (perioperative Mortalität 15,4 %).
+
+37 von 75
+
+3.3.2. Notfall-Operation
+52,5 % (n = 61/117) der Patienten aus dem DHZB mussten innerhalb von 24 Stunden
+operiert werden, d.h. ohne die vorherigen Vorbereitungen, die bei einem Elektiveingriff
+erforderlich sind. Hier war die
+
+perioperative Mortalität
+
+21,3 % (n = 13/61). Bei den
+
+Patienten aus Gesamtkollektiv mussten 41,5 % (n = 215/517) innerhalb von 24 Stunden
+operiert werden. Die perioperative Mortalität war bei 18,1 % (n = 39/215)
+
+3.3.3. Minimal-invasive Chirurgie, OPCAB/MIDCAB
+In der vorliegenden Studie wurde der Einfluss der Herz-Lungen-Maschine auf die Mortalität
+bei Patienten mit terminaler Niereninsuffizienz wurden untersucht. Die nachfolgende Tabelle
+zeigt die perioperative Mortalität der beiden Gruppen aus dem Gesamten Kollektiv.
+
+Anzahl
+Mortalität
+Überlebende Verstorbene
+Patienten
+in %
+mit HLM
+
+468
+
+412
+
+56
+
+11,9 %
+
+ohne HLM
+
+13
+
+13
+
+0
+
+0 %
+
+Tabelle 6: Minimal-invasive Chirurgie.
+
+Die Anzahl der operierten Patienten in OPCAB-Technik war allerdings zu gering, um
+Schlussfolgerungen bezüglich der Komplikationsrate bei diesem Verfahren zu ziehen. Hierbei
+findet sich kein statistisch signifikanter Zusammenhang (p = 0,19, chi square test).
+
+38 von 75
+
+3.3.4. Kardioplegie
+In der vorliegenden Untersuchung wird die perioperative Sterblichkeit in Abhängigkeit von
+der Kardioplegieart untersucht. Es zeigte sich, dass 8,11 % (n=15/170) der Blutkardioplegie
+Gruppe im Gesamtkollektiv perioperativ verstarben, im Vergleich zu 13,97 % (n=44/271) in
+der Kristalloidkardioplegie. (p = 0,05 chi square test)
+
+3.3.5. A. thoracica interna
+Es wurde die perioperative Mortalität in Abhängigkeit von der Verwendung der A. thoracica
+interna untersucht. Es zeigt sich, dass 7,19 % (n=19/264) bei Verwendung der A. thoracica
+interna im Gesamtkollektiv perioperativ verstarben, im Vergleich zu 16,8 % (n=37/219) ohne
+Verwendung A. thoracica interna (Tabelle 7).
+
+A. thoracica Anzahl
+Patienten
+interna
+
+Überlebende Verstorbene
+
+Mortalität in
+%
+
+Ohne IMA
+
+219
+
+182
+
+37
+
+16,8 %
+
+Mit LIMA
+
+258
+
+239
+
+19
+
+7.3 %
+
+Mit RIMA
+
+1
+
+1
+
+0
+
+0%
+
+Beide
+
+5
+
+5
+
+0
+
+0%
+
+Tabelle 7: A. thoracica interna
+
+Es findet sich ein statistisch signifikanter Zusammenhang zwichen perioperative
+Mortalität und Anwendung von arteriellen Grafts (p = 0,007 chi square test).
+39 von 75
+
+3.3.6. Anzahl der Koronarbypässe
+In der vorliegenden Arbeit wird die Frage der perioperativen Mortalität in Abhängigkeit
+von der Anzahl der Koronarvenenbypässe untersucht. Hierbei findet sich perioperativ ein
+statistisch signifikanter Zusammenhang (p = 0,002 Mann-Whitney-test) zwischen einer
+steigenden Anzahl von koronaren Bypassgefäßen und dem perioperativen Tod der
+terminal niereninsuffizienten Patienten (Tabelle 8).
+
+Anzahl
+Anzahl Überlebende Verstorbene
+Venengrafts Patienten
+
+Mortalität
+in %
+
+1
+
+85
+
+78
+
+7
+
+8,2 %
+
+2
+
+164
+
+151
+
+13
+
+7.9 %
+
+98
+
+86
+
+12
+
+12,2 %
+
+26
+
+21
+
+5
+
+19,2 %
+
+8
+
+6
+
+2
+
+25 %
+
+3
+4
+5
+
+Tabelle 8: Anzahl der Koronarbypässe
+
+3.3.7. Laborparameter und Medikation
+Diese Untersuchung erfasst die relevanten praeoperativen Laborparameter sowie die gesamte
+relevante praeoperative Medikation der Patienten. Der statistische Zusammenhang zwischen
+Laborparametern und dem Überleben wird bezüglich der Überlebensrate mittels CoxRegressionsmodell untersucht. Hierbei findet sich keine signifikante Beeinflussung von
+veränderten Laborparametern auf das Überleben und für die im CRF erfassten praeoperativen
+Medikationen.
+
+40 von 75
+
+3.3.8. Prothesenwahl
+
+Die Wahl des Prothesentyps (mechanisch vs. biologisch) ist noch nicht abschließend geklärt.
+Der Einfluss des Prothesentyps auf die perioperative Mortalität bei Patienten mit terminaler
+Niereninsuffizienz wurde in der vorliegenden Studie untersucht.
+
+mechanische Prothese
+
+biologische Prothese
+
+Aortenklappe
+
+Mitralklappe
+
+Beide
+
+(Mortalität in %)
+
+(Mortalität in %)
+
+(Mortalität in %)
+
+17, 6 % (n =20/ 113)
+
+7,1 %
+
+(n = 2/28)
+
+22,2 % (n = 10/45)
+
+19% (n = 30/158)
+
+66,6 % (n = 2/3)
+
+16,1 % (n = 5/31)
+
+Tabelle 9: Prothesenwahl
+
+Es lässt sich in der vorliegenden Untersuchung kein statistisch signifikanter Zusammenhang
+zwischen dem Klappentyp und der perioperativen Mortalität feststellen (chi square test p =
+0,86).
+
+41 von 75
+
+3.3.9. Multivariat-Analyse
+Alle Variablen werden einer univariaten Analyse unterzogen. Alle Variablen mit einem p <
+0,10 werden in die multivariate Analyse einbezogen und sind in der Tabelle 14 dargestellt.
+
+Number of
+missing values
+Age
+0
+Age at start of dialysis
+51
+Karnofsky score
+13
+Leukocytes
+96
+Concentration of red blood cells 4
+FFP
+93
+Transfused units to 5 days
+4
+Transfused units to discharge
+9
+Hours: dialysis to surgery
+42
+Diabetes
+1
+Family history of renal disease 63
+Per.Vasc Dis.
+1
+Steroids
+4
+Complete revasc?
+44
+Kind of dialysis
+36
+Heart diseases: heart rhythm
+1
+previous cardiac Surgery
+1
+Admission due to cardiac
+2
+Decompensation
+Urgency
+5
+Temperature
+8
+Number of vein grafts
+40
+IMA graft
+39
+Aortic valve surgery
+4
+Anti-hyperfibrinolytic drugs
+5
+Previous vascular surgery
+1
+Cardiogener shock
+10
+Temperature
+8
+Number of vein grafts
+40
+IMA graft
+39
+Description
+
+p-value
+(peri)
+0,62
+0,13
+<0,0001
+0,003
+<0,001
+<0,001
+<0,001
+<0,001
+0,32
+0,031
+1,0
+0,0048
+0,50
+0,11
+0,51
+0,015
+0,009
+0,0002
+
+p-value
+(Long-term)
+<.0001
+<.0001
+.010
+.065
+.0024
+.0023
+.0012
+.0028
+.022
+.0066
+.047
+.008
+.037
+.024
+.065
+.001
+.41
+.085
+
+0,008
+0,001
+0,034
+0,007
+0,33
+0,32
+0,007
+<0,001
+0,001
+0,034
+0,007
+
+.003
+.047
+.015
+.001
+.0498
+.052
+.46
+.48
+.047
+.015
+.001
+
+Tabelle 10: Univariat-Analyse.
+
+42 von 75
+
+Der ermittelte p-Wert bei der perioperativen Mortalität basiert auf dem Mann-Whitney test für
+quantitative Variablen und einem Fischer exact test für die anderen Variablen. Für die weitere
+Analyse wurden nur Variablen eingeschlossen, die weniger als 100 fehlende Angaben
+aufwiesen. Danach wurde ein Cox Regressionsmodell mit Rückwärtselimination angewandt.
+
+In der folgenden Tabelle sind die wesentlichen Parameter, die einen Einfluss auf die
+perioperative Mortalität haben, zusammengefasst (Tabbelle. 11).
+95% CI
+
+Parameter
+
+Odds ratio
+
+Diabetes Mellitus
+
+2,3
+
+Ventrikuläre Rhythmusstörungen
+
+3,25
+
+1,14
+
+-
+
+9,28
+
+0,028
+
+Vaskuläre Voroperation
+
+3,36
+
+1,53
+
+-
+
+7,38
+
+0,028
+
+Kardiale Voroperationen
+
+2,42
+
+1,05
+
+-
+
+5,60
+
+0,038
+
+Kardiogener Schock
+
+14,14
+
+3,13
+
+-
+
+63,97
+
+0,001
+
+0,96
+
+-
+
+0,99
+
+Karnofsky Index
+50% ≤ KS ≤ 70%
+
+0,97
+
+Lower - Upper
+1,23 - 4,29
+
+P-value
+0,009
+
+0,001
+
+Tabelle 11: Multivariables Modell. Signifikante Parameter.
+
+43 von 75
+
+3.3.10. Perioperative Mortalität Score
+Aus den zur Verfügung stehenden Daten wurde ein Score-System für die perioperative
+Mortalität entwickelt. Der von dem Statistiker entwickelte Score sieht wie folgt aus:
+
+Variablen
+
+Definition
+
+Score
+
+Diabetes Mellitus
+
+1
+
+Kardiogener Schock
+
+2
+Lown classification ≥ Lown IIIa
+
+Ventrikuläre Rhythmusstörungen
+
+1
+
+Vaskuläre Voroperation
+
+1
+
+Kardiale Voroperationen
+
+1
+50% ≤ KS ≤ 70%
+KS < 50 %
+
+Karnofsky Index
+
+1
+2
+
+Tabelle 12: Perioperative Mortalität Score
+
+Die nachfolgende Tabelle zeigt die perioperative Sterblichkeit aus dem gesamten Kollektiv
+bei Anwendung des Scores.
+
+Anzahl Patienten
+
+Überlebende
+
+Verstorbene
+
+Mortalität in %
+
+0
+
+39
+
+39
+
+0
+
+0%
+
+1
+
+221
+
+212
+
+9
+
+4.1 %
+
+2
+
+155
+
+127
+
+28
+
+18.1 %
+
+3
+
+53
+
+42
+
+11
+
+20.8 %
+
+4
+
+16
+
+8
+
+8
+
+50.0 %
+
+5
+
+3
+
+0
+
+3
+
+100 %
+
+Score
+
+Tabelle 13: Perioperative Sterblichkeit bei Anwendung des Scores.
+
+44 von 75
+
+4. Diskussion
+Dialysepflichtige Patienten haben bei chirurgischen Eingriffen eine besonders hohe
+perioperative Sterblichkeit. Zur Reduktion dieser Risiken ist es wichtig die Determinanten zu
+kennen, die das perioperative Risiko beeinflussen. Aus diesem Grund wurde von der
+Universität Lübeck eine multizentrische Studie ins Leben gerufen. Insgesamt haben sich neun
+herzchirurgische Zentren aus Deutschland zusammengeschlossen und retrospektiv Daten zu
+Patienten mit terminaler Niereninsuffizienz gesammelt, die in diesen Zentren operiert worden
+waren. Ziel der Arbeit war es, die primären Risikofaktoren für die perioperative Mortalität zu
+erfassen. Da die perioperative Letalität für den Vergleich verschiedener Verfahren zur
+Behandlung der zugrundeliegenden Herzerkrankung wichtig ist, wird die perioperative
+Letalität des deutschen Kollektivs auch mit den Ergebnissen aus der Literatur verglichen.
+
+4.1. Koronaroperation
+Das hohe perioperative Risiko ist ein ungelöstes Problem bei terminal niereninsuffizienten
+Patienten, die sich einer Herzoperation unterziehen müssen. Die Ergebnisse der vorliegenden
+Studie zeigen eine insgesamt geringere perioperative Mortalität bei den Patienten, die sich
+einer Koronaroperation unterzogen haben, als die bisherige Literatur erwarten ließ. Von 326
+Patienten verstarben 28 Patienten während der Operation (8,59%). Die Daten sind in puncto
+perioperative Mortalität bei Koronaroperationen niedriger verglichen mit der internationalen
+Literatur. Dennoch bleibt die Frage zu diskutieren, aus welchen Gründen die Mortalität bei
+Patienten mit terminaler Niereninsuffizienz deutlich höher ist als bei nicht nierenerkrankten
+Vergleichsgruppen.
+
+Die
+
+koronar-artherosklerotischen
+
+Plaques
+
+weisen
+
+bei
+
+Patienten
+
+mit
+
+terminaler
+
+Niereninsuffizienz, wie bei Schwarz et al. (2000) beschrieben, eine ausgeprägte
+Mediaverdickung sowie eine signifikante Kalzifikation der Koronarplaques auf.
+Als Schlussfolgerung wurde angenommen, dass kein Unterschied im Durchmesser der
+Koronararterien
+
+vorliegt,
+
+sondern ein Unterschied
+
+in der
+
+Zusammensetzung
+
+der
+
+45 von 75
+
+artherosklerotischen Plaques. Es wird vermutet, dass die Ablagerung von Kalzium in den
+Plaques als Grund für die hohe Komplikationsrate, sowohl bei herzchirurgisch, als auch den
+konservativ-kardiologisch versorgten Patienten herangezogen werden kann.
+In einer regionalen retrospektiven Kohortenstudie über 15500 Patienten, die im Zeitraum von
+1992-1997 in New England koronarchirurgisch versorgt wurden, wurden von Liu et al. (2000)
+die Determinanten der Mortalität und Morbidität untersucht. Die Inhospitalmortalität war bei
+terminal niereninsuffizienten Patienten (1,8% des Gesamtkollektivs) 4,4-mal größer als die
+anderer ACVB-patienten (12.2% vs 3%, p<0,001). Als Schlussfolgerung lässt sich die
+terminale Niereninsuffizienz als statistisch signifikanter unabhängiger Risikofaktor für die
+Inhospitalmortalität nach Bypassoperationen darstellen. Auch in der Multivarianzanalyse
+wurde trotz Adjustierung der Risikofaktoren (Alter, Stadium der Herzinsuffizenz NYHA)
+eine unverändert hohe Sterblichkeit der dialysepflichtigen Patienten nachgewiesen.
+Die Tabelle 16 zeigt alle Studien, die sich mit Patienten befassen, die eine dialysepflichtige
+Niereninsuffizienz aufweisen und bei denen eine aorto-koronare Bypass-Operation
+durchgeführt wurde. Das Gesamtkollektiv in der vorliegenden Studie zeigt mit 522 die größte
+Patientenzahl im Vergleich zu den anderen Patientengruppen. Die Auswertung der Parameter
+wie Alter, Dialysedauer und Beschwerdesymptomatik ergab vergleichbare Resultate. Das
+Durchschnittsalter der dialysepflichtigen Patienten zum Zeitpunkt der aortokoronaren BypassOperation lag zwischen 51 und 67 Jahren.
+Auch die Häufigkeit der perioperativen Komplikationen war in den verschiedenen Studien
+unterschiedlich. Die häufigsten perioperativen Komplikationen in diesen Studien waren, wie
+in unserem Patientengut, die kardialen Komplikationen und die Infektionen.
+
+46 von 75
+
+AUTOR(EN)
+Francis et al. 1980
+Monson et al. 1980
+Laws et al. 1986
+Marshall et al. 1986
+Albert et al. 1987
+Opsahl et al. 1988
+Peper et al. 1988
+Rostand et al. 1988
+Von Zipfel et al. 1988
+Blakemann et al. 1989
+Deutsch et al. 1989
+Schmidt et al. 1989
+Batiuk et al. 1991
+Ko et al. 1993
+Kaul et al. 1994
+Owen et al. 1994
+Rinehart et al 1995
+Jahangiri et al. 1997
+Frenken et al. 1999
+Nakayama et al. 1999
+Ohmoto et al. 1999
+Krabatsch et al. 2005
+Khaitan et al. 2000
+Hirose et al. 2001
+Nishida et al. 2001
+Osaka et al. 2001
+Penta De Peppo et al. 2002
+Naidu et al. 2003
+Jault et al. 2003
+Nakayama et al. 2003
+Nikolsky et al. 2004
+Tabata et al. 2004
+Witczak et al. 2005
+Ariyoshi et al 2006
+Fukumoto et al. 2006
+Kamalakannan et al. 2007
+Kamohara et al. 2007
+Kogan et al. 2008
+
+N
+10
+16
+10
+12
+11
+39
+31
+20
+27
+16
+16
+10
+25
+18
+28
+21
+60
+19
+30
+51
+47
+71
+70
+37
+105
+36
+159
+192
+124
+117
+492
+68
+106
+35
+33
+69
+22
+115
+
+PERI-OP TODESFÄLLE
+1
+2
+1
+1
+1
+1
+4
+2
+1
+1
+2
+4
+3
+1
+2
+2
+1
+2
+4
+7
+4
+10
+2
+5
+4
+6
+11
+21
+13
+13
+1
+16
+2
+34
+2
+21
+
+%
+10
+14,3
+10
+8,3
+3
+3,3
+25
+7,4
+6
+6
+20
+16
+16,7
+3,5
+9,5
+3,3
+5
+6,7
+7,8
+14,9
+5,6
+14,3
+5,4
+4,8
+11
+4
+5,7
+16,9
+11
+2,6
+1,5
+16
+5,7
+49,3
+9,1
+18,3
+
+Tabelle 14: Literaturübersicht über aortocoronare Bypass-Operation
+bei Patienten mit dialysepflichtiger Niereninsuffizienz (peri-OP = perioperativ,
+N= Anzahl der Patienten)
+
+47 von 75
+
+Eine weitere Komplikation, die bei den Patienten unserer Studie häufig auftrat, war die für die
+dialysepflichtigen niereninsuffizienten Patienten bekannte vermehrte Blutungsneigung. Somit
+wurden vermehrte Bluttransfusionen für einige Patienten notwendig. Die meisten Autoren
+berichten, dass ihre Patienten perioperativ, entweder aufgrund kardialer Ursachen oder
+aufgrund einer Sepsis, gestorben sind. Lediglich Batiuk et al. (1991) berichten über
+vorwiegend kardiogene Ursachen der perioperativen Letalität (Batiuk et al. 1991). Auch bei
+anderen Autoren, deren Patienten als perioperative Todesursache eine kardiogene Ursache
+vorlag, hatten die Patienten präoperativ eine gestörte linksventrikuläre Funktion, die zu einer
+schlechteren Prognose führte (Gupta et al. 1993, Olsen et al. 1993). Eine schlechte Prognose
+hatten Patienten, die ebenfalls einen Diabetes mellitus aufwiesen. Der Grund hierfür war, dass
+bei diesen Patienten die koronare Herzerkrankung spät diagnostiziert wurde und häufig auch
+ein stummer Myokardinfarkt vorlag. Zu gleichen Resultaten sind auch andere Arbeitsgruppen
+gekommen, die Diabetiker in ihrem Patientengut hatten (Foley et al. 1997, Koch et al. 1997).
+Der Zeitpunkt der Operation spielt somit eine große Rolle bei allen Patienten mit
+dialysepflichtiger Niereninsuffizienz und koronarer Herzerkrankung.
+35,89 % der 522 Patienten hatten in der vorliegenden Studie vor der Operation einen oder
+mehrere Myokardinfarkte erlitten und viele dieser Patienten hatten somit eine eingeschränkte
+linksventrikuläre Funktion. Über Ähnliches berichten auch andere Studien. Bei 11 der 16
+Patienten (68,8 %) musste eine Notfalloperation durchgeführt werden (Deutsch et al. 1989).
+Ebenfalls mussten 11 der 22 Patienten aus der Untersuchung von Ko et al. (1993) innerhalb
+von 24 Stunden operiert werden, ohne die vorherigen Vorbereitungen, die bei einem
+Elektiveingriff erforderlich sind (Ko et al. 1993). Auch andere Studien zeigen ähnliche
+Ergebnisse. So berichteten Osaka et al. (2001), dass 58 % der 36 untersuchten Patienten eine
+instabile Angina pectoris hatten und 11 dieser Patienten notfallmäßig operiert werden mussten
+(Osaka et al. 2001).
+In der Studie von Nishida et al (2001) hatten 55 der 105 untersuchten Patienten (52 %) einen
+oder mehrere Myokardinfarkte hinter sich, bei 22 Patienten musste ein Notfalleingriff
+durchgeführt werden (Nishida et al. 2001). Die Studie von Khaitan et al. (2000) ergab, dass
+70 % der 70 untersuchten Patienten eine instabile Angina pectoris aufwiesen und 50 % der
+Patienten einen Myokardinfarkt erlitten (Khaitan et al. 2000).
+
+48 von 75
+
+Die o.g. Ergebnisse zeigen, dass der operative Eingriff bei diesen Patienten erst dann erfolgte,
+wenn sämtliche konservativen Maßnahmen keinen Erfolg brachten. Eine frühzeitige BypassOperation könnte hingegen zu besseren OP-Ergebnissen führen. Franga et al. (2000) stellte
+eine perioperative Mortalität von 11,4 % fest (Franga et al. 2000). Die Autoren beobachteten
+eine reduzierte linkventrikuläre Funktion sowie eine mehr distal gelegene fortgeschrittene
+koronare Herzerkrankung als Prädiktor für eine erhöhte operative Mortalität.
+Reinecke et. al. (2006) haben die Ergebnisse zwischen PTCA und Bypass-Operation aus nicht
+randomiserten
+
+Registerdaten
+
+verglichen.
+
+Die
+
+Bypassoperation
+
+war
+
+mit
+
+besseren
+
+Langzeitergebnissen und einer höheren Rate an Beschwerdefreiheit verbunden als die PTCA.
+Letztere hat jedoch eine geringere periprozudurale Sterblichkeit als die ACVB. Eine
+erfolgreiche PCI ist auch bei Hochrisikopatienten (z.B. frischer Infarkt) möglich, die für eine
+operative Revaskularisation nicht oder nur sehr eingeschränkt infrage kommen (Evidenzgrad
+B).
+Tugtekin et. al
+
+analysierten retrospektiv die klinischen Ergebnisse von 73 isoliert
+
+koronarchirurgisch therapierten, terminal niereninsuffizienten dialysepflichtigen Patienten.
+Betrachtet wurde eine On-Pump-Gruppe (43 Patienten) und eine Off-Pump- Gruppe (30
+Patienten) ein. Die Gesamt-Hospitalmortalität lag bei 4,2% (n=3). Davon verstarben zwei
+Patienten (4,6%) aus der On-Pump-Gruppe, sowie ein Patient (3,3%), aus der Off-PumpGruppe. Die Morbidität in beiden Gruppen war vergleichbar. Die durchschnittliche Anzahl an
+implantierten Grafts betrug 3,1±0,9 in der On-Pump und 2,9±0,8 in der Off-Pump-Gruppe.
+Während der Nachbeobachtung (mittlerer Nachbeobachtungszeit 25±19 Monate) verstarben
+13 Patienten (30,2%) der On-Pump-Gruppe, neun davon (69,2%) aufgrund kardialer Ursache.
+Innerhalb der Off-Pump-Gruppe verstarben acht Patienten (26,7%), ebenfalls meist (n=5;
+62,5%) aufgrund kardialer Ursachen.
+Zwar soll die Operation in „Off-pump-Technik das perioperative Risiko mindern, doch gelten
+anderseits sowohl eine dialysepflichtige Niereninsuffizienz wie erheblich wandveränderte
+oder intramural verlaufende Koronargefäße als kontraindikation der Off-Pump-Technik
+Reinecke el. al (2006). Als Kontrindikation gegen die Anwendung der HLM ist jedoch das
+schwere nephrotischen Syndom anzusehen, bei dessen Vorliegen der Off-Pump-Technik im
+Sinne einer Ultima-Ratio-Maßnahme der Vorzug gegeben werden sollte.
+
+49 von 75
+
+In der vorliegenden multizentrischen Studie waren nur wenige Patienten ohne Herz-LungenMaschine operiert worden. Die Anzahl der operierten Patienten ist allerdings zu gering, um
+Schlussfolgerungen bezüglich der Komplikationsrate bei diesem Verfahren zu ziehen.
+Unabhängig von dieser Datenlage sollte die Frage zur Vermeidung der extrakorporalen
+Zirkulation bei Patienten mit terminaler Niereninsuffizienz in prospektiv randomisierten
+Studien untersucht werden.
+Nakayama et.al zeigen in ihrer Studie auf, dass möglicherweise die Verwendung beider A.
+Thoracica internae die Überlebensrate steigern kann.
+Die operative Technik im Einzelnen sollte sich gleichfalls nach den Standards richten, wie sie
+für die Patienten ohne Nierenerkrankung gelten. Dies gilt auch für die bevorzugt unilaterale
+Verwendung der A. thoracica interna. Die bilaterale Verwendung dieses Gefäßes als Routine
+erscheint problematisch: Einerseits ist der erwartete günstige Langzeiteffekt bei diesen
+Patienten sehr fraglich, andererseits konnte eine Erhöhung der perioperativen Morbidität,
+verursacht durch Wundheilungsstörungen, resultieren (Reinecke et. al. 2006).
+Über die Verwendung der A. radialis zur kompletten arteriellen Revaskularisation gibt es im
+Zusammenhang
+
+mit
+
+dialysepflichtiger
+
+Niereninsuffizienz
+
+bisher
+
+keine
+
+relevanten
+
+Publikationen. Das Gefäß wird deshalb wenig benutzt, da es häufig für den unerlässlichen
+Dialysezugang, den Shunt, verwendet oder geschont wird.
+In der vorliegenden Arbeit wird die Frage der perioperativen Mortalität in Abhängigkeit von
+der Verwendung der A. Thoracica interna untersucht. Hierbei findet sich perioperativ ein
+verbessertes Outcome bei Anwendung von arteriellen Grafts.
+In der vorliegenden Arbeit wird die Frage der perioperativen Mortalität in Abhängigkeit von
+der Anzahl der Koronarbypässe untersucht. Hierbei findet sich perioperativ ein statistisch
+signifikanter Zusammenhang (p = 0,002 Mann-Whitney-test) zwischen einer steigenden
+Anzahl von koronaren Bypassgefäßen und dem perioperativen Tod der terminal
+niereninsuffizienten Patienten.
+
+50 von 75
+
+4.2. Herzklappenoperation
+In der vorliegenden Untersuchung werden 89 isolierte Klappenoperationen durchgeführt. Die
+perioperative
+
+Mortalität
+
+beträgt
+
+16,85
+
+%
+
+(n=15).
+
+Die
+
+Mortalität
+
+bei
+
+isolierten
+
+Klappeneingriffen ist vereinbar mit den Ergebnissen aus der Literatur. Alle nachfolgend
+vorzustellenden Publikationen beziehen sich auf Dialysepatienten, die herzchirurgisch
+versorgt werden.
+Horst et al. (2000) berichten über eine Mortalität von 19,3 % für eine isolierte
+Klappenoperation und eine Mortalität von 39,5 % für eine gleichzeitige Klappen- und
+koronare Bypassoperation (Horst et al. 2000).
+Ibrahim et al. (2003) untersuchten retrospektiv die Morbidität und Mortalität von 1570
+Patienten, die sich einer kombinierten Herzklappen- und Bypassoperation unterzogen haben.
+Die multivariable logistische Analyse für Morbidität und Mortalität zeigt, dass das weibliche
+Geschlecht an sich ein unabhängiger Risikofaktor sein kann. Mitrale Klappenoperation, Alter,
+linksventrukuläre Dysfunktion, NYHA-Klassen III und IV. trikuspidale Klappenerkrankung,
+Diabetes, periphere vaskuläre Erkrankung und präoperative Niereninsuffizienz waren
+Risikofaktoren für Mortalität. Beim weiblichen Geschlecht sind Morbidität und Mortalität
+erhöht. Bei Herzklappen- und koronarer Bypassoperation leiden Frauen, die kombinierte
+Verfahren durchmachen, häufiger an einem prämorbiden Zustand, öfter an Herzinsuffizienz
+und gleich häufig an einer Dreigefäßerkrankung (Ibrahim et al. 2003).
+Brinkmann et al. (2002) untersuchen retrospektiv die Mortalität und Morbidität von 72
+Patienten. Die Autoren berichten über eine operative Mortalität von 12 % bei Patienten mit
+isolierten Klappenoperationen und 23 % bei einem Kombinationseingriff. Die durchgeführten
+Operationen als auch die epidemiologischen Daten des untersuchten Kollektivs sind mit den
+hier vorgestellten Ergebnissen vergleichbar. Bei 31 % der Patienten wurde eine kombinierte
+Herzklappenoperation mit einer Herzbypassoperation durchgeführt. Die Überlebensraten
+stellten sich wie folgt dar: 72,8 % nach 3 Monaten, 60,5 % nach einem Jahr, 39,8 % nach 2
+Jahren und lediglich 15,9 % nach 6 Jahren (Kaplan-Meier).
+51 von 75
+
+Die Auswahl der Prothese hatte keinen Einfluss auf das frühe oder späte Überleben. 66 % der
+Patienten erhielten einen mechanischen Klappentyp, 34 % wurden mit einer Bioprothese
+versorgt. Rekonstruktive Maßnahmen an den Herzklappen wurden in geringem Maße
+durchgeführt (Brinkmann et al. 2002).
+Mehlhorn et al. (2002) beschreiben in einem Kollektiv von 39 Herzklappenpatienten eine
+Letalität von 15,4 %. Herzog et al. (2002) berichten von einer Studiengruppe mit 5.858
+Herzklappenpatienten mit TDNI, die in den Vereinigten Staaten von Amerika von 1978 bis
+1998 operiert wurden; hier betrug die Operationsletalität 20,7 %.
+Jede Herzklappenprothese besteht grundsätzlich aus einem Gehäuse, das eine Öffnung für den
+Blutfluss bildet und einen Schlussmechanismus besitzt. Hierbei lassen sich zwei Arten von
+Prothesen unterscheiden: Die mechanischen Herzklappenprothesen und die biologischen
+Herzklappenprothesen, bei denen sich jeweils wieder verschiedene Untergruppen einteilen
+lassen.
+Erstmals wurde eine mechanische Prothese 1960 durch Harken und Starr implantiert, wobei
+es sich noch um eine Klappe handelte, bei der eine Metallkugel in einem Metallkäfig gehalten
+wurde. Diese Klappen hatten sehr schlechte hömodynamische Eigenschaften und deshalb
+werden
+
+in
+
+der
+
+heutigen
+
+Zeit
+
+vorwiegend
+
+zwei
+
+Varianten
+
+verwendet:
+
+Die
+
+Kippscheibenprothese und die Doppelflügelprothese. Mechanische Herzklappenprothesen
+besitzen eine Haltbarkeit, die bei 99 % der Patienten deren Lebenserwartung übersteigt
+(Butchart et al. 2001). Sie haben jedoch den großen Nachteil, dass der Empfänger lebenslang
+Antikoagulantien einnehmen muss, da sich sonst an dem körperfremden Material der Prothese
+Gerinnsel bilden und somit eine hohes Thrombose- und Embolierisiko besteht.
+Die Gruppe der biologischen Prothesen ist durch eine große Heterogenität gekennzeichnet. Es
+gibt die Möglichkeit, defekte Klappen durch Allografts (Homografts) zu ersetzen. Dabei
+handelt es sich um menschliche Herzklappen, die entweder von verstorbenen Spendern oder
+aus explantierten Empfängerherzen im Rahmen der Herztransplantation stammen. Bereits
+1965 erfolgte die erste Implantation einer menschlichen Aortenklappe (Ross 1965). Diese
+Grafts stehen jedoch auf Grund des Spendermangels nur in geringer Anzahl zur Verfügung.
+Herzklappenprothesen tierischen Ursprungs (Xenografts) stehen dagegen kommerziell in
+ausreichender Menge und Größe zur Verfügung und werden sehr häufig als Klappenersatz
+52 von 75
+
+verwendet. Gebräuchlich sind native Herzklappen vom Schwein oder vom Rind. Die erste
+porcine Bioprothese wurde 1965 beim Menschen verpflanzt (Binet et al. 1965).
+Seit 1987 gibt es gerüstfreie biologische Prothesen. Natürliche porcine Herzklappen sind in
+ihrer Dimension und Anatomie den menschlichen Homografts am ähnlichsten. Bei ihnen
+entspricht die Öffnungsfläche nahezu der von natürlichen Herzklappen. Homografts und
+gerüstfreie Xenografts zeigen im allgemeinen gute, den gesunden Herzklappen annähernd
+vergleichbare Blutflusseigenschaften. Deshalb ist das Blutungs- und Thromboserisiko gering
+und eine langfristige Antikoagulation unnötig. Jedoch ist die Haltbarkeit, insbesondere bei
+jüngeren Patienten, eingeschränkt. Die durchschnittliche Haltbarkeit von Homografts von 10
+bis 20 Jahren (Doty et al. 1998) liegt etwa über der von Xenografts mit ca. 15 Jahren
+(Corbineau et al. 2001, Kumar et al. 2003).
+Der Vergleich klinischer Daten von biologischen und mechanischen Herzklappenprothesen
+über einen Zeitraum von bis zu 20 Jahren zeigt, dass der biologische Ersatz besonders bei
+älteren Patienten keinen Vorteil hinsichtlich der Überlebensrate bringt. Jedoch ist bei diesen
+Patienten/Patientinnen die Lebensqualität deutlich besser, da die koagulationsbedingten
+Einschränkungen entfallen und keine Gefahr besteht, an einer durch die Antikoagulation
+bedingten Blutung zu sterben (Sidhu et al. 2001).
+Der klassischen herzchirurgischen Lehre zufolge sollten TDNI-Patienten, die einen
+Klappenersatz benötigen, eine mechanische Prothese erhalten, da die Langlebigkeit
+biologischer Herzklappen aufgrund der verstärkten Kalzifizierung bei Dialysepflichtigkeit
+deutlich herabgesetzt ist (Mehta und Pae 1997). Viele Studien legen jedoch nahe, dass
+biologische Herzklappen die Prothesen der Wahl für Patienten mit einer terminalen
+dialysepflichtigen Niereninsuffizienz sind, da bei niedrigen Lebenserwartung dieser Patienten
+mechanische Prothesen mit signifikant höherem Risiko für schwere, antikoagulationsbedingte
+Blutungen behaftet sind (Brinkmann et al. 2002, Kaplon et al. 2000, Lucke et al. 1997). Lucke
+et al. (1997) zeigten, dass die Inzidenz für postoperative zerebrovaskuläre Zwischenfälle oder
+Blutungen 100 % (10/10) für mechanische gegenüber 0 % (0/9) für biologische Prothesen
+(p<0,001) betrug.
+
+53 von 75
+
+Da die Kalzifizierung in rekonstruierten Herzklappen bei TDNI-Patienten gegenüber
+Patienten mit normaler Nierenfunktion beschleunigt ist, sollten TDNI-Patienten, die einen
+Klappenersatz
+
+benötigen,
+
+eine
+
+biologische
+
+Prothese
+
+erhalten.
+
+Bei
+
+der
+
+niedrigen
+
+Lebenserwartung dieser Patienten ist die Wahrscheinlichkeit des strukturellen Versagens einer
+biologischen Prothese weit geringer als das Risiko für Blutungen oder Schlaganfall bei
+mechanischen Prothesen (Brinkmann et al. 2002, Kaplon et al. 2000, Lucke et al. 1997).
+
+54 von 75
+
+5. Schlussfolgerung
+Ziel der vorliegenden Arbeit war es, den Einfluss der Determinanten auf die perioperative
+Sterblichkeit von Dialysepatienten bei kardiochirurgischen Eingriffen zu untersuchen. Hierfür
+wurde im Rahmen einer retrospektiven Studie an 121 Patienten des DHZB sowie an 522
+Patienten des Gesamtkollektivs, die sich einer Herzoperation unterzogen haben, der
+perioperative Verlauf dokumentiert.
+Die Ergebnisse zeigen eine perioperative Mortalität im Gesamtkollektiv von 11,50 %. In
+Abhängigkeit von der durchgeführten Herzoperation zeigte sich, dass 8,59 % der
+Koronaroperationen im Gesamtkollektiv perioperativ verstarben, im Vergleich zu 16,85 %
+mit einer Einfachklappenoperation. Bei Patienten mit einem Kombinationseingriff (Koronarund Klappenchirurgie) betrug die perioperative Mortalität 16,5 %.
+•
+
+Es wurde auch die Frage der perioperativen Mortalität in Abhängigkeit von der Anzahl
+der Koronarbypässe untersucht. Hierbei fand sich perioperativ ein statistisch signifikanter
+Zusammenhang zwischen einer steigenden Anzahl von koronaren Bypassgefäßen und
+dem perioperativen Tod der terminal niereninsuffizienten Patienten.
+
+•
+
+Es wurde auch die perioperative Mortalität in Abhängigkeit von der Verwendung der A.
+thoracica interna untersucht. Es fand sich perioperativ ein verbessertes Outcome bei
+Anwendung von arteriellen Grafts.
+
+•
+
+In der vorliegenden Studie wurde der Einfluss der Herz-Lungen-Maschine auf die
+Mortalität bei Patienten mit terminaler Niereninsuffizienz untersucht. Die Anzahl der
+operierten Patienten in OPCAB-Technik war leider zu gering, um Schlussfolgerungen
+bezüglich der Komplikationsrate bei diesem Verfahren zu ziehen.
+
+•
+
+Die
+
+Ergebnisse
+
+der
+
+statistischen
+
+Auswertung
+
+des
+
+postoperativen
+
+Verlaufs
+
+(Multivariatanalyse) des Gesamtkollektivs identifizierten folgende Faktoren, die das
+perioperative Überleben der terminal niereninsuffizienten Patienten signifikant negativ
+beeinflussen: Diabetes Mellitus, Ventriküläre Herzrhythmusstörungen (>Lown III a),
+
+55 von 75
+
+vaskuläre Voroperation, kardiale Voroperation, Kardiogener Schock, und karnofsky
+Index < 70%.
+•
+
+Aus den zur Verfügung stehenden Daten wurde ein Score-System für die perioperative
+Mortalität entwickelt, um eine individuellere Risiko-Nutzen-Abwägung zu ermöglichen.
+
+•
+
+Die Autoren beobachteten, wie auch die Ergebnisse aus unserer Studie zeigen, keinen
+signifikanten Unterschied bezüglich der Mortalität in Relation zur Wahl des
+Prothesentyps.
+
+•
+
+Viele Studien zeigen, dass biologische Herzklappen die Prothesen der Wahl für Patienten
+mit einer TDNI sind, aufgrund der niedrigen Lebenserwartung dieser Patienten. Es sei
+denn andere Gründe für eine Antikoagulation liegen vor.
+
+Die
+
+Ergebnisse
+
+der
+
+vorliegenden
+
+Untersuchung
+
+ermöglichen
+
+eine
+
+verbesserte
+
+Operationsindikation sowie eine verbesserte Operationsstrategie. Zudem kann gesagt werden,
+dass bei niereninsuffizienten Patienten nicht zu lange mit einer anstehenden Operation
+gewartet werden darf.
+
+56 von 75
+
+6. Literaturverzeichnis
+1.
+
+Agirbasli M, Weintraub WS, Chang GL, et al. Outcome of coronary revascularization
+in patients on renal dialysis. Am.J.Cardiol. 2000;86:395-399
+
+2.
+
+Albert FW, Seyfert UT, Großmann R, Schmidt U. Role of coronary angiography and
+heart surgery in care of kidney transplantat recipients. Transpl Proceedings
+1987;14.5:3689-3690
+
+3.
+
+Amann K, Ritz E. Strukturelle Veränderungen des Herzens bei Patienten mit
+chronischer Niereninsuffizienz. Spektrum Nephrologie 1995;6/7:8-13
+
+4.
+
+Amore A, Coppo R. Immunological basis of inflammation in dialysis. Nephrol Dial
+Transplant 2002;17/8:16–24
+
+5.
+
+Andersen LW, Landow L, Baek L, Jansen E. Association between gastric
+intramucosal pH and splanchnic endotoxin, antibody to endotoxin, and tumor necrosis
+factor-∝ in patients undergoing cardiopulmonary bypass. Crit Care Med 1993;21:210217
+
+6.
+
+Arici M, Walls J. End-stage renal disease, atherosclerosis, and cardiovascular
+mortality: Is C-reactive protein the missing link? Kidney Int 2001;59:407–414
+
+7.
+
+Ariyoshi T, Eishi K, Yamachika S, et al. Periooperative and mid-term results of
+coronary bypass surgery in patients undergoing chronic dialysis. Ann Thorac
+Cardiovasc Surg 2006;12/4:257-264
+
+8.
+
+Bailey DR, Miller ED Jr, Kaplan JA, Rogers PW. The renin-angiotensin-aldosterone
+system during cardiac surgery with morphine-nitrous oxide anesthesia. Anesthesiology
+1975;42:538-544
+
+9.
+
+Barenbrock M, Hausberg M, Kosch M, Kisters K, Rahn KH. Diagnostik und
+Bedeutung der Gefäßsklerose bei Patienten mit terminaler Niereninsuffizienz. Nierenund Hochdruckkrankheiten 2000;5:207-211
+
+10.
+
+Batiuk TD, Kutz SB, Oh JK. coronary artery bypass operation in dialysis patients.
+Mayo Clin Proc 1991;66:45-53
+
+11.
+
+Berger, M, Trautner. C. Epidemiologie des Diabetes mellitus. In: Berger (Hrsg.):
+Diabetes mellitus, Urban & Fischer Verlag, München-Jena, 2.Auflage 2000, S.15-23
+57 von 75
+
+12.
+
+Berger, M., Pieber. T: Definition und Klassifikation des Diabetes mellitus. In: Berger
+(Hrsg.): Diabetes mellitus, Urban & Fischer Verlag, München-Jena, 2. Auflage 2000,
+S.12-14
+
+13.
+
+Binet JP, Carpentier A, Langlois J, Duran C, Colvec P. Implantation de valves
+heterogenes dans le traitement de cardiopathies aortiques. C R Acad SC
+1965;261:5733–5734
+
+14.
+
+Blakeman BM, Pifare R, sulivan HJ, Montoja A. Cardiac surgery for chronic renal
+dialysis patients. Chest 1989;95:509-511
+
+15.
+
+Boldt J, Knothe Ch, Hammermann H, Stertmann WA, Hempelmann G, Cold or warm
+start of cardiopulmonary bypass - influence on microcirculatory blood flow. Perfusion
+1994;9:11-18
+
+16.
+
+Boldt J, Knothe Ch, Welters I, Dapper FL, Hempelmann G, Normothermic versus
+hypothermic cardiopulmonary bypass: Do changes in coagulation differ? Ann Thorac
+Surg 1996;62:130-135
+
+17.
+
+Branch, Kelley R., K. D. O`Brien, C.M. Otto. Aortic Valve Sclerosis As a Marker of
+Active Atherosclerosis. Curr Cardiol Reports 2002;4:111-7
+
+18.
+
+Brinkman WT, Williams WH, Guyton RA, et al. Valve replacement in patients on
+chronic renal dialysis: implications for valve prosthesis selection, Ann Thorac Surg
+2002;74:37-42
+
+19.
+
+Butchart EG., Li HH., Payne N., Buchan K., Grunkemeier GL. Twenty years'
+experience with the Medtronic Hall valve. J Thorac Cardiovasc Surg. 2001;121(6):
+1090-1100
+
+20.
+
+Caires G, Drumond A, Silva G. Diastolic dysfunction in patients with chronic kidney
+failure on a hemodialsis program. Rev Port Cardiol 1998;17:597-607
+
+21.
+
+Christenson JT, Schmuziger M, Maurice J, Simonet F, Velebit V. Gastrointestinal
+complications after coronary artery bypass grafting. J Thorac Cardiovasc Surg
+1994;108:899-906
+
+22.
+
+Corbineau H, De La Tour B, Verhoye JP, Langanay T, Lelong B, Leguerrier A.
+Carpentier-Edwards supraannular porcine bioprosthesis in aortic position: 16-year
+experience. Ann Thorac Surg. 2001; 71 (5 Suppl): 228 – 231
+
+58 von 75
+
+23.
+
+Cremer J, Martin M, Redl H, et al. Systemic Inflammatory Response Syndrome after
+cardiac operations. Ann Thorac Surg 1996;61:1714-1720
+
+24.
+
+De Marchi S, Cecchin E, Falleti E. Longterm effects of erythropoietin therapy on
+fistula stenosis and plasma concentrations of PDGF and MCP-1 in hemodialysis
+patients. J Am Soc Nephrol 1997;8:1147–1156
+
+25.
+
+Deutsch E, Bernstein RC, Addonizio VP, Kussmaul WG. Coronary artery bypass
+surgery in patients on chronic haemotialysis, Ann Intern Med 1989;110:369-372
+
+26.
+
+Doty JR, Salazar JD, Liddicoat JR, Flores JH, Doty DB. Aortic valve replacement
+with cryopreserved aortic allograft: ten-year experience. J Thorac Cardiovasc Surg
+1998;115(2):371–379
+
+27.
+
+Drüecke TB, Khoa TN, Massy ZA, Witko- Sarsat V, LaCour B, Descamps-Latscha B.
+Role of oxydized low-density lipoprotein in the atherosclerosis of uremia. Kidney Int
+2001;59/78:S114–S119
+
+28.
+
+Fink MP, Fiallo V, Stein KL, Gardiner WM. Systemic and regional hemodynamics
+changes after intraperitoneal endotoxin in rabbits: development of a new model of the
+clinical syndrome of hyperdynamic sepsis. Circ Shock 1987;22:73-81
+
+29.
+
+Foley RN, Culleton BF, Parfrey PS, et al. Cardiac disease in diabetic end stage renal
+disease. Diabetol 1997;40:1307-1312
+
+30.
+
+Francis GS, Sharma B, Collins AJ, Helseth HK, Compty CM. Coronary artery surgery
+in patients with end-stage renal disease. Ann Intern Med 1980;92:499-503
+
+31.
+
+Franga DL, Kratz JM, Crumbley AJ, et al. Early and long-term results of coronary
+artery bypass grafting in dialysis patients, Ann Thorac Surg 2000;70:813-818
+
+32.
+
+Frenken M, Krian A. Cardiovascular operations in patients with dialysis dependent
+renal failure. Ann Thorac Surg 1999;68:887-893
+
+33.
+
+Fukumoto A, Yamagishi M, Doi K, et al. Hemodiafiltration during cardiac surgery in
+patients on chronic hemodialysis. J Card Surg 2006;21(6):553-558
+
+34.
+
+Gibney E.M. et al. Cardiovascular medication use after coronary bypass surgery in
+patients with renal dysfunction: a national Veterans Administration study. Kidney Int
+2005;68(2):826–832
+
+59 von 75
+
+35.
+
+Gillinov AM, Bator JM, Zehr KJ, et al. Neutrophil adhesion molecule expression
+during cardiopulmonary bypass with bubble and membrane oxygenators. Ann Thorac
+Surg 1993;56:847-853
+
+36.
+
+Gosh S, Latimer RD, Gray BM, Harwood RJ, Oduro A. Endotoxin induced organ
+injury. Crit Care Med 1993;21:19-24
+
+37.
+
+Griselli M, Herbert J, Hutchinson WL. C-reactive protein and complement are
+important mediators of tissue damage in acute myocardial infarction. J Exp Med
+1999;190:1733–1739
+
+38.
+
+Gupta S, Dev V, Kumar MV, Dash SC: Left ventricular function in end stage renal
+disease and the impact of hemodialysis. Amer J Cardiol 1993;71:1427
+
+39.
+
+Hampl H, Berweck S, Lange D, Hennig L. Prävention der kardialen Mortalität bei
+Urämikern: Therapeutische Strategien mit besonderer Beachtung der Vollkorrektur
+der renalen Anämie. Nieren- und Hochdruck- Krankheiten 2000;11:566-572
+
+40.
+
+Harnett JD, Foley RN, Kent GM. Congestive heart failure in dialysis patients,
+prevalence, incidence, prognosis and risk factors. Kidney int 1995;47:884-890
+
+41.
+
+Harnett JD, Kent GM, Foley RN. Cardiac function and hematocrit level. Amer J
+Kidney Dis 1995;25:3-7
+
+42.
+
+Herzog CH, Ma JZ, Collins AJ. Poor long term survival after myocardial infarction
+among patients on long-term dialysis. N Engl J Med 1998;339:799–805
+
+43.
+
+Herzog CA, Ma JZ, Collins AJ. Comparative survival of dialysis patients in the United
+States after coronary angioplasty, coronary artery stenting, and coronary artery bypass
+surgery and impact of diabetes Circulation 2002;106:2207-2211
+
+44.
+
+Higashiue S, Nishimura Y, Shinbo M, et al. Coronary artery bypass grafting in
+patients with dialysis-dependent renal failure Artif.Organs 2001;25:263-267
+
+45.
+
+Hirose H et al. Coronary artery bypass grafting for patients with non-dialysisdepedent
+renal
+
+dysfunktion(serum
+
+creatinine>=2.0
+
+mg/dl),
+
+Eur
+
+J
+
+Cardiothorac
+
+Surg
+
+2001;20:565-572
+46.
+
+Hirose H, Amano A, Takahashi A, Ozaki S, Nagano N. Coronary artery bypass
+grafting for haemodialysis-dependent patients. Artific Org 2001;25(4):239-247
+
+60 von 75
+
+47.
+
+Horst M, Mehlhorn U, Hoerstrup SP, suedkamp M, de Vivie ER. Cardica surgery in
+patients with end stage renal disease: a 10-year experience. Ann Thorac Surg
+2000;69:96-101
+
+48.
+
+Ibrahim MF, Paparella D, Ivanov J, Buchanan MR, Brister SJ. Gender-related
+differences in morbidity during combined valve and coronary surgery. J Thorac
+Cardiovasc Surg 2003;126(4):959-964
+
+49.
+
+Jacobson SH, Egberg N, Hylander B, Lundahl J. Correlation between soluble markers
+of endothelial dysfunction in patients with renal failure. Am J Nephrol 2002;22:42–
+47
+
+50.
+
+Jahangiri M, Wright J, Edmodson S, Magee P. Coronary artery bypass graft surgery in
+dialysis patients-Heart 1997;78:343-345
+
+51.
+
+Jault F, Rama A, Bonnet N, et al. Cardiac surgery in patients receiving long term
+hemodialysis. Short and long term results. J Cardiovasc Surg 2003;44(6):725-730
+
+52.
+
+Josephs W, Odenthal HJ. Kardiale Manifestationen der terminalen Niereninsuffizienz.
+DMW 1995;120:141-144
+
+53.
+
+Kamalakannan D, Pai RM, Johnson LB, Gardin JM, Saravolatz LD. Epidemiology
+and clinical outcome of infective endocarditis in hemodialysis patients. Ann Throrac
+Surg 2007;83(6):2081-2086
+
+54.
+
+Kamohara K, Yoshikai M, Yunoki J, et al. Safety of perioperative hemodialysis
+patients with cardiac surgery. Gen Thorac Cardiovasc Surg 2007;55(2):43-49
+
+55.
+
+Kaplon RJ, Cosgrove DM, III, Gillinov AM, et al. Cardiac valve replacement in
+patients on dialysis: influence of prosthesis on survival, Ann Thorac Surg
+2000;70:438-441
+
+56.
+
+Kaul TK, Fields BL, Reddy MA, Kahn DR. Cardiac operations in patients with endstage renal disease. Ann Thorac Surg 1994;57:691-696
+
+57.
+
+Kennedy R et al. Does Renal Failule Cause an Atherosclerotic Milieu in Patients with
+End-Stage Renal Disease?, Am J Med 2001;15:198-204
+
+58.
+
+Khaitan L, Sutter FP, Goldmann SM. Coronary artery bypass grafting in patients who
+require long-term dialysis. Ann Thorac Surg 2000;69:1135-1139
+
+59.
+
+Kirklin JK, Westaby S, Blackstone et al. Complement and the damaging effects of
+cardiopulmonary bypass. J Thorac Cardiovasc Surg 1983;86:845-857
+61 von 75
+
+60.
+
+Ko W, Kreiger KH, Isom OW. cardiopulmonary bypass procedures in dialysis
+patients. Ann Thorac surg 1993;55:677-684
+
+61.
+
+Koch M, Gradaus F, Schoebel FC, Leschke M, Grabensee B. Relevance of
+conventional cardiovascular risk factors for the prediction of coronary artery disease in
+diabetic on renal replacement therapy. Nephrol Dial Transplant 1997;12:1187-1191
+
+62.
+
+Kogan A, Medalion B, Kornowaski R, et al. Cardiac surgery in patients on chronic
+hemodialysis: short and long-term survival. Thorac Cardiovasc Surg 2008;56(3):123127
+
+63.
+
+Krabatsch T, Yeter R, Hetzer R. Coronary surgery in patients requiring chronic
+hemodialysis. Kidney Blood Press Res 2005;28:270-274
+
+64.
+
+Kumar P, Athanasiou T, Mussa S, Wood AJ. Ten year experience with Aspire
+(Tissuemed) porcine bioprosthesis: single centre experience. Cardiovasc Surg.
+2003;11(2):131–137
+
+65.
+
+Laws KH, Merrill WH, Hammon JW, Prager RL, Bender HW. Cardiac surgery in
+patients with chronic renal disease. Ann Thorac Surg 1986;42:152-157
+
+66.
+
+Levey AS, Eknoyan G. Cardiovascular disease in chronic renal disease. Nephrol Dial
+Transplant 1999;14:828–833
+
+67.
+
+Levine FH, Philbin DM, Kono K, et al. Plasma vasopressin levels and urinary sodium
+excretion during cardiopulmonary bypass. Ann Thorac Surg 1981;32:63-67
+
+68.
+
+Liu JY, Birkmeyer NJ, Sanders JH, et al. Risks of morbidity and mortality in dialysis
+patients undergoing coronary artery bypass surgery. Northern New England
+Cardiovascular Disease Study Group, Circulation 2000;102:2973-2977
+
+69.
+
+Lucke JC, Samy RN, Atkins BZ, et al. Results of valve replacement with mechanical
+and biological prostheses in chronic renal dialysis patients. Ann Thorac Surg
+1997;64:129-133
+
+70.
+
+Mall G. Morphologie des Herzens bei Niereninsuffizienz und Hypertonie. Nieren- und
+Hochdruckkrankheiten 2000;58:197-201
+
+71.
+
+Mann J. Cardiovascular risk and renal failure. Dtsch med Wochenschr 2004;
+129:2479-2481
+
+72.
+
+Marshall WG, Rossi NP, Meng RL, Stecher TW. Coronary artery bypass grafting in
+dialysis patients. Ann Thorac Surg 1986;42:12-15
+62 von 75
+
+73.
+
+Marti HP, Frey B. Endokarditis bei Patienten mit terminaler Niereninsuffizienz.
+Spektrum Nephrologie 1995;6:21-23
+
+74.
+
+Martin TD, Craver JM, Gott JP, et al. Prospective, randomized trial of retrograde
+warm blood cardioplegia: myocardial benefit ant. neurologic threat. Ann Thorac Surg
+1994;57:298-304
+
+75.
+
+Massry SG, Smogorzewski M. Mechanism through which parathyroid hormone
+mediats its deleterious effects on organ function in uremia. Semin Nephrol
+1994;14:219-231
+
+76.
+
+Mehlhorn U, Kröner A, Geissler HJ, Südkamp M, de Vivie ER. Herzchirurgie bei
+Patienten
+
+mit
+
+terminaler
+
+dialysepflichtiger
+
+Niereninsuffizienz.
+
+Dt
+
+Ärztebl
+
+2002;99:2774-2778
+77.
+
+Mehta SM, Pae WE. Complications of cardiac surgery. In: Edmunds LH, ed: Cardiac
+surgery in the adult. New York, McGraw-Hill 1997,S369-402
+
+78.
+
+Moelvig J, Baek L, Christensen P, et al. Endotoxin stimulated human monocyte
+secretion of interleukin-1, tumour necrosis factor alpha and prostaglandin E2 show
+stable interindividual differences. Scand J Immunol 1988;27:705-716
+
+79.
+
+Monson BK, Wickstrom PH, Haglin JJ, Francis G, Compty CM, Helseth HK. Cardiac
+operation and end-stage renale diasease. Ann Thor Surg 1980;30(3):267-272
+
+80.
+
+Mora CT. Cardiopulmonary Bypass. Principles and techniques of extracorporeal
+circulation. New York, Springer-Verlag, 1995; p 46
+
+81.
+
+Naidu SS, Selzer F, Jacobs A, et al. Renal insufficiency is an independent predictor of
+mortality after percutaneous coronary intervention. Am J Cardiol 2003;92(10):11601164
+
+82.
+
+Nakayama Y, Sakata R, Ura M, Miyamoto TA. Coronary artery bypass grafting in
+dialysis patients. Ann Thorac Surg 1999;68:1257-1261
+
+83.
+
+Nakayama Y, Sakata R, Ura M, Itoh T. Long-term results of coronary artery bypass
+grafting in patients with renal insufficiency. Ann Thorac Surg 2003;75(2):496-500
+
+84.
+
+Nikolsky E, Mehran R, Turcot D, Aymong ED, Mintz GS et al. Impact of chronic
+kidney disease on prognosis of patients with diabetes mellitus treated with
+percutaneous coronary intervention. Am J Cardiol 2004;94(3):300-305
+
+63 von 75
+
+85.
+
+Nishida H, Uchikawa S, Chikazava G, et al. Coronary artery bypass grafting in 105
+patients with hemodialysis – dependent renal failure. Artif Org 2001;25(4):268-272
+
+86.
+
+Ohmoto Y, Ayabe M, Hara K, et al. Long term outcome of percutaneous transluminal
+coronary artery bypass grafting in patients with end-stage renal disease. Jpn Circ J
+1999;63:981-987
+
+87.
+
+Olsen SP, Kassis E, Niebuhr-Jorgensen U. Coronary artery bypass surgery in patients
+with severe left ventricular disfunction. Thorac Cardiovasc Surg 1993;41:1118-1120
+
+88.
+
+Opsahl JA, Husebye DG, Heiseth HK, Collins AJ: coronary artery bypass surgery in
+patients on maintenance dialysis: Long-term survival. Am J Kidney Dis
+1988;12(4):271-274
+
+89.
+
+Osaka SI, Osawa H, Miyazawa M, Honda J. Immediate and long term results of
+coronary artery bypass operation in hemodialysis patients. Artif Org 2001;25(4):252255
+
+90.
+
+Oudemans-van Straaten HM, Jansen PGM, te Felthuis H, et al. Increased oxygen
+consumption after cardiac surgery is associated with the inflammatory response to
+endotoxemia. Intensive Care Med 1996;22:294-300
+
+91.
+
+Owen CH, Cummings RG, Sell TL, Schwab SJ, Jones RH, Glower DD. Coronary
+artery bypass grafting in patients with dialysis dependent renal failure. Ann Thorac
+Surg 1994;58:1729-1733
+
+92.
+
+Papayianni A, Alexopoulos E, Giamalis P, Gionanlis AB, Koukoudis P, Memmos D.
+Circulating levels of ICAM-1,VCAM-1, and MCP-1 are increased in haemodialysis
+patients: association with inflammation, dyslipiaemia, and vascular events. Nephrol
+Dial Transplant 2002;17:435–441
+
+93.
+
+Penta de Peppo A, Nardi P, de Paulis R, et al. Cardiac surgery in moderate to endstage renal failure: analysis of risk factors. Ann Thorac Surg 2002;74(2):378-383
+
+94.
+
+Peper WA, Taylor PC, Paganini EP, Svenson LG, Ghatas MA, Loop FD. Mortality
+and results after cardiac surgery in patients with end-stage renal disease. Clevel Clin J
+Med 1988;55:63-67
+
+95.
+
+Prichard S. Dyslipidemia as a risk factor for cardiac disease in dialysis patients. Semin
+Dial 1999;12:87–90
+
+64 von 75
+
+96.
+
+Quaschnig T, Krane V, Metzger T, Wanner CH: Abnormalities in uremic lipoprotein
+metabolism and its impact on cardiovascular disease. Am J Kidney Dis 2001;38:14–
+19
+
+97.
+
+Rajman I, Harper L, McParke D, Kendall MJ, Wheeler DC. Low-density lipoprotein
+subfraction profiles in chronic renal failure. Nephrol Dial Transplant 1998;13:2281–
+2287
+
+98.
+
+Regragui I, Birdi I, Izzat MB, et al. The effects of cardiopulmonary bypass
+temperature on neurophysiologic outcome after coronary artery operations: a
+prospective randomized trial. J Thorac Cardiovasc Surg 1996;112:1036-1045
+
+99.
+
+Reinecke H, Brandenburg V, Dominiak P et al. Empfelungen zur Diagnostik und
+Behandlung von Patienten mit koronarer Herzkrankheit und Niereninsuffizienz. Clin
+Res Cardiol 2006;1:103-117
+
+100.
+
+Riddington DW, Wenkatesh B, Boivin CM, et al. Intestinal permeability, gastric
+intramucosal pH, and systemic endotoxemia in patients undergoing cardiopulmonary
+bypass. JAMA 1996;275:1007-1012
+
+101.
+
+Rinder CS, Gaal D, Student LA, Smith BR. Platelet-leucocyte activation and
+modulation of adhesion receptors in pediatric patients with congenital heart disease
+undergoing cardiopulmonary bypass. J Thorac Cardiovasc Surg 1994;107:280-288
+
+102.
+
+Rinehart AL, Herzog CA, Collins AJ, Flack JM, Ma JZ, Opsahl JA. A comparison of
+coronary angioplasty and coronary artery bypass grafting outcomes in chronich
+dialysis patients. Am J Kidney Dis 1995;25(2):281-290
+
+103.
+
+Ritz E, Koch M. Morbidity and mortality due to hypertension in patients with renal
+failure . Am J Kidney Dis 1993;21:113-118
+
+104.
+
+Ross D. Homograft replacement of the aortic valve. J Cardiovasc Surg.
+1965;5(18):89–94
+
+105.
+
+Rostand SG, Kirk KA, Rutsky EA, Pacifico AD. Results of coronary bypass grafting
+in end-stage renal disease. Am J Kidney Dis 1988;12:266-270
+
+106.
+
+Royston D. Systemic inflammatory responses to surgery with cardiopulmonary
+bypass. Perfusion 1996;11:177-189
+
+107.
+
+Sarnak MJ, Levey AS. Epidemiology of cardiac disease in dialysis patients. Semin
+Dial 1999;12:69–66
+65 von 75
+
+108.
+
+Schmidt R, Weidemann H, Weihemüller K, Bücherle ES. Herzchirurgie bei terminal
+niereninsuffizienten und dialysepflichtigen Patienten. Intraoperative Hämofiltration
+zur Vorbeugung einer Hyperhydratation. Zentrlbl Chir 1989;114:306-312
+
+109.
+
+Schulz W et al. Kalzium-Phosphat-Produkt und Gefäß-Mediakalzinose. Nieren- und
+Hochdruckkrankheiten 2000;5:181-190.
+
+110.
+
+Schwarz U, Buzello M, Ritz E, et al. Morphology of coronary atherosclerotic lesions
+in patients with end-stage renal failure, Nephrol Dial Transplant. 2000;15:218-223
+
+111.
+
+Sidhu P, O'Kane H, Ali N, et al. Mechanical or bioprosthetic valves in the elderly: a
+20-year comparison. Ann Thorac Surg. 2001;71(5):257–260
+
+112.
+
+Sinclair DG, Huslam PL, Quinlan GJ, Pepper JR, Evans TW. The effect of
+cardiopulmonary bypass on intestinal and pulmonary endothelial permeability. Chest
+1995;108:718-724
+
+113.
+
+Singh AK, Bert AA, Feng WC, Rotenberg FA. Stroke during coronary artery bypass
+grafting using hypothermic versus normothermic perfusion. Ann Thorac Surg
+1995;59:84-89
+
+114.
+
+Singh AK, Feng WC, Bert AA, Rotenberg FA. Warm body, cold heart: myocardial
+revascularization in 2383 consecutive patients. J Cardiovasc Surg Torino
+1993;34:415-421.
+
+115.
+
+Sorensen CR, Brendorp B, Rask-Madsen C, Køber L, Kjoller E, Torp-Pedersen C. The
+prognostic importance of creatinine clearance after acute myocardial infarction. Eur
+Heart J 2002;23:948–952
+
+116.
+
+Stenvinkel P. Inflammation in end-stage renal failure: could it be treated? Nephrol
+Dial Transplant 2002;17(8):33–8
+
+117.
+
+Tabata M, Takanashi S, Fukui T, et al. Off-pump coronary artery bypass grafting in
+patients with renal dysfunction. Ann Thorac Surg 2004;78(6):2044-2049
+
+118.
+
+The ACPM/SCCM Consensus Conference Committee. Definitions for sepsis and
+organ failure and guidelines for the use of innovative therapies in sepsis. Chest
+1992;101:1644-1655
+
+119.
+
+Tugtekin SM, Kappert U, Alexiou K. et al. Koronarchirurgie bei Patienten mit
+dialysepflichtigerterminaler
+
+Niereninsuffizienz-Ergebnisse
+
+mit
+
+und
+
+ohne
+
+Extrakorporaler Zirkulation. Z Herz- Thorax- Gefäßchir 2007; 21:1–7
+66 von 75
+
+120.
+
+Von Zipfel B, Welz A, Hildebrand A, Hildebrand G. Herzoperationen bei
+Dialysepatienten.
+
+Aortokoronare
+
+Bypassoperationen
+
+und
+
+Herzklappenchirurgie
+
+chronisch Dialysepflichtige. Fortschr Med 1988;35:699-703
+121.
+
+Wang MC, Tseng CC, Tsai WC, Huang JJ. Blood pressure and left ventricular
+hypertrophy in patients of different peritoneal dialysis regimens. Perit Dial Int
+2001;21:36-42
+
+122.
+
+Waller, B.F. Development and progression of aortic valve Stenosis: Atherosclerosis
+Risk Factors - A causal Relationship A Clinical Morphologic Study. Clin. Cardiol.
+1991;14:995-999
+
+123.
+
+Wanner
+
+C.
+
+Pathogenese
+
+der
+
+Arteriosklerose-
+
+welche
+
+Rolle
+
+spielt
+
+die
+
+Niereninsuffizienz. Klinikarzt 2000;29:230-233
+124.
+
+Wanner CH, Zimmermann J, Schwedler S, Metzger T. Inflammation and
+cardiovascular risk in dialysis patients. Kidney Int 2002;61(80):99–102
+
+125.
+
+Washio M et al. Risikofaktoren für die linksventrikuläre Hypertrophie bei chronischen
+Hämodialysepatienten. Clin Nephrol 1997;47:362-367.
+
+126.
+
+Wolf S, Risler T. Kardiale Komplikationen bei terminaler Niereninsuffizienz. In Franz
+HE, Hörl WH (Hrsg): Blutreinigungsverfahren. Stuttgart, New York, Thieme,
+1997;232-243
+
+127.
+
+Watkins WM, Peterson MB, Kong DL , et al. Thromboxane and prostacyclin changes
+during cardiopulmonary bypass with and without pulsatile flow. J Thorac Cardiovasc
+Surg 1982;84:250-256
+
+128.
+
+Weerasinghe A et al. Coronary artery bypass Surgery in non-dialysis-dependent mildto-moderate renal dysfunction, J Thorac Cardiovasc Surg 2001;121:1083-1089
+
+129.
+
+Welten G.M.: Statin therapy is associated with improved outcomes in vascular surgery
+patients with renal impairment. Am Heart J 2007;154(5):954–961
+
+130.
+
+Welten G.M. Beta-blockers improve outcomes in kidney disease patients having
+noncardiac vascular surgery. Kidney Int 2007;72(12):1527–1534
+
+131.
+
+Witczak B, Hartmann A, Svennevig JL. Multiple risk of assessment of cardiovascular
+surgery in chronic renal failure patients. Ann Thorac Surg 2005;79(4):1297-1302
+
+67 von 75
+
+7. Lebenslauf
+Mein Lebenslauf wird aus Datenschutzgründen in der elektronischen Version meiner
+Arbeit nicht mit veröffentlicht
+
+68 von 75
+
+8. Danksagung
+Hiermit möchte ich allen danken, die am Zustandekommen dieser Arbeit beteiligt waren.
+Mein ganz besonderer Dank geht an meinen Betreuer, Prof. Dr. med. Thomas Krabatsch. Der
+mir sowohl während der Datenerhebung als auch beim späteren Niederschreiben der Arbeit
+immer und jederzeit mit Rat und Tat zur Seite gestanden hat.
+Herrn Dr. D. R. Robinson, Department of Mathematics, School of Science and Technology,
+University of Sussex, England, danke ich für die enge Zusammenarbeit bei der statistischen
+Ausarbeitung.
+Ebenso gilt mein Dank Frau Dr. S. Hübler, Leiterin Studienzentrale im DHZB, für die Hilfe
+beim Zugang zu den Patientendaten des DHZB.
+Bei meinen Eltern, Geschwistern möchte ich mich ganz besonders herzlich bedanken für die
+uneingeschränkte, liebevolle und vielseitige Unterstützung während meines Studiums, ohne
+die diese Arbeit so nicht möglich gewesen wäre.
+
+69 von 75
+
+9. Anhang
+9.1. Zentrenverzeichnis
+Klinik für Herzchirurgie
+Universitätsklinikum Schleswig-Holstein
+Campus Lübeck
+Ratzeburger Allee 160
+23538 Lübeck
+Prof. Dr. C. Bartels, Dr. M. Bechtel
+Zentrum für Herzchirurgie
+Universität Erlangen-Nürnberg
+Krankenhausstr. 12
+91054 Erlangen
+Prof. Dr. Th. Fischlein
+Klinik für Kardiologie
+Universitätsklinikum Eppendorf
+Martinistr. 52
+20246 Hamburg
+Dr. H. Nägele, PD Dr. Detter
+Abt. Herzchirurgie
+Ruprecht-Karls-Universität
+Im Neuenheimer Feld 110
+69120 Heidelberg
+Frau Dr. Osswald
+Klinik für Herzchirurgie
+Kerckhoff-Klinik GmbH
+Benekestr. 2 – 8
+61231 Bad Nauheim
+Dr. Markus Schönburg
+70 von 75
+
+Klinik für Herzchirurgie
+Universitätsklinikum Magdeburg
+Lepziger Str. 44
+39120 Magdeburg
+Dr. F. Scholz, Prof. Dr. Huth
+Klinik u. Poliklinik für Herzchirurgie
+Universitätsklinik Rostock
+Schillingallee 35
+18057 Rostock
+PD Dr. Stamm
+Abteilung für Herzchirurgie
+Albertinen-Krankenhaus
+Süntelstr. 11a
+22457 Hamburg
+PD Dr. F.-C. Rieß, Dr. J. Stripling
+Deutsches Herzzentrum Berlin
+Augustenburger Platz 1
+13353 Berlin
+Prof. Dr. Th. Krabatsch
+
+71 von 75
+
+9.2. Abkürzungsverzeichnis
+ACVB
+
+Aorto-koronarer Venenbypass
+
+ADH
+
+Antidiuretisches Hormon
+
+APR
+
+Akutphasenprotein
+
+BMI
+
+Body Mass Index
+
+CCS
+
+Canadian Cardiovascular Society.
+
+CPB
+
+Kardiopulmonaler Bypass
+
+CRF
+
+Case Record Form
+
+CRP
+
+C-reaktives Protein
+
+DHZB
+
+Deutsches Herzzentrum Berlin
+
+DNA
+
+Deoxyribonucleic Acid (Desoxyribonukleinsäure)
+
+EF
+
+Auswurffraktion
+
+HDL
+
+High Density Protein
+
+HLM
+
+Herz-Lungen-Maschine
+
+IL-6
+
+Interleukin-6
+
+IMA
+
+A. thoracica interna
+
+LIMA
+
+Linke A. thoracica interna
+
+RIMA
+
+Rechte A. thoracica interna
+
+iNOS
+
+induzierbare NO-Synthase
+
+KHK
+
+Koronare Herzkrankhheit
+
+LCAT
+
+Lecithin-Cholesterin-Acyltransferase
+
+LDL
+
+Low Density Protein
+
+MODS
+
+Multiple Organ Dysfunction Syndrome
+
+NYHA
+
+New York Heart Association
+
+NO
+
+Stickstoffmonoxyd
+
+OP
+
+Operation
+
+OPCAB
+
+Off Pump Coronary Artery Bypass
+
+MIDCAP
+
+Minimally Invasive Direct Coronary Artery Bypass
+
+PTCA
+
+Perkutane transluminale Koronarangioplastie
+
+RCA
+
+Rechte Koronararterie.
+
+RIVA
+
+Ramus interventricularis anterior
+
+SAA
+
+Serum-Amyloid A
+72 von 75
+
+VCAM-1
+
+Vascular Cell Adhesion Molecule-1
+
+TDNI
+
+Terminale Dialysepflichtige Niereninsuffizienz
+
+TNF
+
+Tumor Necrosis Factor
+
+vWF
+
+von Willebrand Faktor
+
+73 von 75
+
+9.3. Tabellenverzeichnis
+Tabelle 1: Epidemiologische Patientendaten. ....................................................31
+Tabelle 2: Risikofaktoren. .................................................................................32
+Tabelle 3: Primäre Ursache des Nierenversagens...............................................34
+Tabelle 4 Tabelle Kardiale Voroperationen. ......................................................35
+Tabelle 5: Angina pectoris (CCS) / NYHA.........................................................36
+Tabelle 6: Minimal-invasive Chirurgie...............................................................38
+Tabelle 7: A. thoracica interna............................................................................39
+Tabelle 8: Anzahl der Koronarbypässe...............................................................40
+Tabelle 9: Prothesenwahl....................................................................................41
+Tabelle 10: Univariat-Analyse............................................................................42
+Tabelle 11: Multivariables Modell. Signifikante Parameter...............................43
+Tabelle 12: Perioperative Mortalität Score.........................................................44
+Tabelle 13: Perioperative Sterblichkeit bei Anwendung des Scores...................44
+Tabelle 14: Literaturübersicht über aortocoronare Bypass-Operation................47
+
+74 von 75
+
+10. Erklärung
+„Ich, Mohamad Dia, erkläre, dass ich die vorgelegte Dissertation mit dem Thema:
+Determinanten
+
+der
+
+perioperativen
+
+Sterblichkeit
+
+von
+
+Dialysepatienten,
+
+bei
+
+kardiochirurgischen Eingriffen selbst verfasst und keine anderen als die angegebenen
+Quellen und Hilfsmittel benutzt, ohne die (unzulässige) Hilfe Dritter verfasst und auch in
+Teilen keine Kopien anderer Arbeiten dargestellt habe.“
+
+Datum : 01.12.2010
+
+Unterschrift:
+
+75 von 75
+
+

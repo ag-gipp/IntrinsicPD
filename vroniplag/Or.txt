@@ -1,0 +1,1345 @@
+Therapieoptimierungsverfahren bei Patienten mit rezidivierten oder progredienten Keimzelltumoren
+
+1.Allgemeine Einleitung
+Mit dem konsequenten Einsatz von Chirurgie, Strahlentherapie und Chemotherapie kann derzeit bei der Mehrzahl aller Patienten mit Keimzelltumoren auch noch in den metastasierten Krankheitsstadien mit Heilungsraten von bis zu 80% gerechnet werden. Jedoch haben Patienten, die schlecht auf cisplatinhaltige Kombinationschemotherapie ansprechen und keine komplette Remission (CR) oder tumormarkernegative partielle Remission (PRm-) ihrer Erkrankung erreichen, sowie diejenigen Patienten, deren Erkrankung nach cisplatinhaltiger Chemotherapie rezidiviert oder progredient ist, eine deutlich schlechtere Prognose. In dieser Gruppe von Patienten kann mit einer herkömmlichen "Salvagechemotherapie" in Kombination mit chirurgischer Resektion verbliebener Tumormanifestationen zwar noch eine CR Rate von etwa 30-60% erzielt werden, jedoch sind diese Remissionen in der Regel nur kurz anhaltend. Gegenwärtig rezidivieren mehr als 50% der Patienten nach Salvagechemotherapie, weshalb bei diesen Patienten nur mit einer Heilungsrate von bestenfalls etwa 10-30% gerechnet werden kann.
+
+Durch die Möglichkeit, hämatopoetische Vorläuferzellen aus dem Knochenmark oder dem peripherem Blut zu gewinnen, wurde eine Hochdosischemotherapie (HDCT) sowohl mit Einzelsubstanzen als auch in Kombination möglich. Nichols et al. berichteten 1989 erstmals von einer Kombination aus hochdosiertem Carboplatin und Etoposid. Dadurch konnte eine Ansprechrate von 44% und Langzeitremissionen von über 12 Monaten bei 4 von 32 Patienten mit progredienten Keimzelltumoren, die auf konventionell dosierte cisplatinhaltige Salvagechemotherapie nicht oder nur ungenügend angesprochen hatten erreicht werden. Die Ergebnisse mehrerer Folgestudien der interdisziplinären Arbeitsgruppe Hodentumoren in Deutschland und anderer Arbeitsgruppen bestätigten diese ersten Erfahrungen. Darüber hinaus konnten Prognosefaktoren ermittelt werden, die das Ansprechen auf die HDCT vorhersagen können. Eine kürzlich publizierte „matched-pair“ Analyse zeigte einen Vorteil zu Gunsten der HDCT und bildete somit eine wichtige Grundlage zur Durchführung weiterer randomisierter Studien. Neben der Optimierung der Wirksamkeit der HDCT trat in den letzten Jahren auch die Vermeidung bzw. Verringerung von Toxizitäten in den Vordergrund.
+
+
+Die hier vorgelegte Habilitationsschrift beschäftigt sich intensiv mit der Salvagetherapie unter Einbeziehung der HDCT, der Residualtumorresektion nach HDCT und der adjuvanten Chemotherapie beim Nachweis von vitalem unreifem Tumor im Resektat. Darüber hinaus wurde versucht, durch die frühzeitige Verwendung von Paclitaxel im Rahmen der konventionellen Therapie und durch den Austausch von Ifosfamid durch Thiotepa in der HDCT die Ergebnisse der konventionellen Salvagechemotherapie zu verbessern und dosislimitierende Nebenwirkungen zu reduzieren. Aus dem letztgenannten Grund wurde in einer zweiten randomisierten prospektiven Studie das Thiol Amifostin in das Therapiekonzept integriert und der Stellenwert dieser Substanz in Bezug auf die Reduktion von Toxizitäten, Gewinnung von peripheren Blutstammzellen und Einfluss auf die Immunrekonstitution nach konventioneller Chemotherapie und HDCT untersucht.
+
+2.Diagnostik und Therapie von Keimzelltumoren
+2.1.Epidemiologie von Keimzelltumoren
+Hodentumoren treten vor allem bei Männern im Alter zwischen 15-45 Jahren auf. Die Seminome haben dabei gebenüber den Nichtseminomen einen zur höheren Altersgruppe hin leicht verschobenen Häufigkeitsgipfel und können auch bei älteren Männern auftreten 33,87. Hodentumoren sind bezogen auf die Gesamtbevölkerung in Deutschland selten und gehören nicht einmal zu den 20 häufigsten bösartigen Tumoren. In der Altersgruppe der 15-45 jährigen Männer sind Hodentumoren dagegen häufig. Mit einer Inzidenz von ca. 6,5 pro 100000 erkranken etwa 2 500 Männer pro Jahr in Deutschland. Die meisten der Betroffenen werden durch eine korrekt durchgeführte Therapie geheilt 33,51. Jährlich sterben deshalb in Deutschland nur etwa 180-200 Männer an Hodentumoren, was einer Mortalität von etwa 6-8% entspricht. Das junge Alter der betroffenen Männer und die hohen Heilungsraten, die erzielt werden können, machen die Therapie von Hodentumoren, trotz deren Seltenheit, zu einer vordringlichen onkologischen Aufgabe 57,86.
+
+2.2.Diagnose und Beurteilung des Therapieverlaufes
+Die häufigsten Symptome der Betroffenen sind Knoten im Hoden, Grössenzunahme dieser Knoten oder des gesamten Hodens, Ziehen oder Schweregefühl in der Leiste sowie Schmerzen im Hoden oder in der Leiste. Rückenschmerzen, Gewichtsverlust, Hämoptysen oder Dyspnoe sind Symptome einer fortgeschrittenen Metastasierung 33,51. Bei Verdacht muss zumindest eine Palpation und eine Sonographie beider Hoden sowie eine Bestimmung der Tumormarker Alpha-Fetoprotein (AFP) und Humanes Chorion Gonadotropin (HCG) sowie der Laktatdehydrogenase (LDH) im Blut durchgeführt werden 8. Jedoch treten nur ca. 90-95% der Hodentumoren tatsächlich auch im Hoden auf; ca. 5-10% der Hodentumoren entwickeln sich primär extragonadal aus im Körper versprengtem Keimzellgewebe. Deshalb ist der Begriff Keimzelltumor des Mannes, je nach Lokalisation gonadal oder extragonadal, zutreffender und wird deshalb in den folgenden Ausführungen verwandt.
+
+Bestätigt sich der Verdacht eines gonadalen Keimzelltumors, wird der betreffende Hoden über eine inguinale Orchidektomie entfernt und histologisch aufgearbeitet. Die einzige Ausnahme ist eine weit fortgeschrittene Metastasierung, bei der eine Chemotherapie sofort begonnen werden muss und die Orchidektomie zu einem späteren Zeitpunkt nachgeholt wird. Etwa 3-5% der gonadalen Keimzelltumoren treten synchron oder metachron beidseits auf 33,51. Nach inguinaler Orchidektomie sowie bei Verdacht auf einen extragondalen Keimzelltumor wird ein Computertomogramm (CT) des Thorax und des gesamten Abdomens mit oraler und intravenöser (i.v.) Kontrastmittelgabe angefertigt. Ein CT des Kopfes, eine Skelett- szintigraphie sowie gegebenenfalls weitere Untersuchungen erfolgen bei pulmonaler Metastasierung bzw. entsprechender klinischer Symptomatik 8. Diese Untersuchungen legen das Tumorstadium fest. Die Tumormarker AFP und HCG werden vor jedem therapeutischen Eingriff (Operation, Strahlentherapie oder jedem Chemotherapiezyklus) erneut bestimmt. Spätestens bei Therapiende werden die initiale Ausbereitungsdiagnostik, mindestens aber das CT des Thorax und des
+gesamten Abdomens, sowie eine Bestimmung der Tumormarker AFP und HCG wiederholt 8,33,51.
+
+
+2.3Histologische EinteilungHistologisch werden Keimzelltumoren zunächst in reine Seminome, Nichtseminome und reife Teratome unterteilt. Die weitere histologische Unterscheidung der Nichtseminome ist klinisch wenig bedeutsam. Mischtumoren werden wie Nichtseminome behandelt. Das Verhältnis von Seminomen zu Nichtseminomen bzw. Mischtumoren ist etwa 1:1. Reife Teratome sprechen durch ihr langsames Wachstum nicht auf Chemotherapie oder Bestrahlung an und müssen immer operativ entfernt werden. Der Nachweis der Invasion von Blut- oder Lymphgefässen im Hodenresektat ist ein wichtiger Risikofaktor für das Vorliegen einer möglicherweise klinisch okkulten Metastasierung und muss obligat untersucht werden 8.
+
+2.4.Einteilung der Tumorstadien
+Eine differenzierte Einteilung der Tumorstadien ist für die Therapie von Keimzelltumoren ausserordentlich relevant und korreliert eng mit der Prognose der Erkrankung.
+
+Nach der "Lugano Klassifikation" ist die Erkrankung im Stadium I auf den Hoden beschränkt. Im Stadium II liegen Metastasen in den abdominellen Lymphknoten unterhalb des Zwerchfells vor, je nach Grösse wird unterteilt in Stadium IIA mit Grösse der Lymphknoten bis 2 cm, Stadium IIB mit Grösse der Lymphknoten bis 5 cm, Stadium IIC mit Grösse der Lymphknoten bis 10 cm und Stadium IID mit Grösse der Lymphknoten grösser 10 cm. Das Stadium III wird unterteilt in das Stadium IIIA mit Lymphknotenmetastasen auch oberhalb des Zwerchfells, in das Stadium IIIB bei Vorliegen pulmonaler Metastasen und in das Stadium IIIC bei Vorliegen extrapulmonaler Organmetastasen. 8,33,51. Für alle Patienten ab dem Stadium IIC gilt zudem die zusätzliche Risikoklassifikation der "International Germ Cell Cancer Collaborative Group" (IGCCCG) (siehe Tabelle 1) 90.
+
+
+Tabelle 1: Klassifikation nach "IGCCCG" in den metastastasierten Tumorstadien > IIB nach der "Lugano Klassifikation" 90
+Gute Prognose (ca. 56% der Patienten > Stadium IIB)≈ 90% Überlebenschance  Nichtseminomegonadaler oder retroperitonealerPrimärtumor- und "niedrige" MarkerkonstellationAFP < 1000 ng/ml HCG < 5000 U/lLDH < 1,5 fach der Norm- und keine extrapulmonalen Organmetastasen•Seminome-jede Primärlokalisation-und keine extrapulmonalen Organmetastasen8Intermediäre Prognose (ca. 28% der Patienten > Stadium IIB)≈ 78% Überlebenschance• Nichtseminome- gonadaler oder retroperitonealer Primärtumor- und "intermediäre" MarkerkonstellationAFP 1000 - 10.000 ng/mlHCG 5000 – 50.000 U/lLDH 1,5-10 ⋅ der Norm-und keine extrapulmonalen Organmetastasen•Seminome-jede Primärlokalisation-und extrapulmonalen OrganmetastasenSchlechte Prognose (ca. 16% der Patienten > Stadium IIB)≈ 45% Überlebenschance  • Nichtseminome- mediastinaler Primärtumor- oder "hohe" MarkerkonstellationAFP > 10.000 ng/mlHCG > 50.000 U/lLDH > 10 ⋅ der Norm-oder extrapulmonale Organmetastasen2.5.Ergebnissse der PrimärtherapieBei gonadalen Keimzelltumoren erfolgt zunächst die Orchidektomie. Jede weitere Therapie richtet sich erstens nach dem histologischen Subtyp (Seminom versus Nichtseminom), zweitens dem jeweiligen Tumorstadium und drittens in denTumorstadien > IIB nach der "Lugano Klassifikation" nach der jeweils zutreffenden Prognosekategorie der "IGCCCG" Klassifikation 8,33,51,90.
+
+2.5.1Therapie von Patienten mit reinen Seminomen
+Die Standardtherapie von Seminomen im Stadium I und II A/B nach der "Lugano Klassifikation" ist die adjuvante Radiatio, die je nach Stadium paraaortal oder zusätzlich ipsilateral iliakal mit einer Dosis zwischen 26 und 36 Gray erfolgt. Die Tolerabilität der Behandlung ist gut, Rezidive sind selten, treten aber vor allem im Stadium IIB bei bis zu 20% der Patienten auf. Da Rezidive allerdings durch eine dann einsetzende Chemotherapie kurativ behandelt werden können, liegt die Heilungsrate bei Patienten mit Seminomen bis einschliesslich Stadium IIB nach der "Lugano Klassifikation" bei nahezu 100%.
+
+Alle Seminome in Tumorstadien höher als Stadium IIB nach der "Lugano Klassifikation" benötigen eine primäre Chemotherapie. Die Standardbehandlung umfasst drei Zyklen einer Kombinationschemotherapie mit den Medikamenten Cisplatin, Etoposid und Bleomycin (PEB) 189. Lediglich Patienten mit reinem Seminom im Stadium der intermediären Prognose nach der "IGCCCG Klassifikation" erhalten vier Zyklen PEB. Die Überlebenschancen für Patienten mit Seminomen sind in Tabelle 1 angegeben.
+
+2.5.2Therapie von Patienten mit Nichtseminomen
+Eine Standardtherapie von Nichtseminomen in den Tumorstadien bis einschliesslich Stadium IIB nach der "Lugano Klassifikation" kann nicht definiert werden. Mehrere gleichwertige Therapieoptionen stehen zur Verfügung. Neben einer primären ejakulationsprotektiven retroperitonealen Lymphadenektomie mit oder ohne einer adjuvanten Chemotherapie kann auch eine primäre Chemotherapie mit PEB erfolgen. Eine Operation ist dann nur im Sinne einer Residualtumorrektion bei radiologisch nachweisbaren Resttumoren nach Chemotherapie notwendig. Mit jeder dieser Therapiestrategien sollten allerdings auch bei Nichtseminomen bis einschliesslich Stadium IIB nach der "Lugano Klassifikation" etwa 95% aller Patienten dauerhaft von ihrer Tumorerkrankung geheilt werden.
+
+Patienten mit Nichtseminomen in den Tumorstadien > Stadium IIB nach der "Lugano Klassifikation" erhalten nach der Ablatio testis eine primäre Chemotherapie. Dabei werden bei den Patienten mit "guter Prognose" nach der IGCCCG Klassifikation drei Zyklen PEB, bei Patienten mit "intermediärer Prognose" und "schlechter Prognose" vier Zyklen PEB eingesetzt. Allerdings zeigen die in Tabelle 1 angegebenen Überlebenswahrscheinlichkeiten, dass die bisher eingesetzte konventionell-dosierte Therapie bei diesen letztgenannten Patienten noch unzureichend ist. Aus den Resultaten der Primärtherapie ergeben sich daher eindeutig zwei Strategien der Therapieoptimierung. Erstens der Ansatz, die Therapieintensität in den niedrigen Tumorstadien bei Patienten mit hoher Heilungsaussicht zu reduzieren. Zweitens der Versuch, die Therapieergebnisse bei Patienten mit geringer Heilungsaussicht in den
+fortgeschrittenen Tumorstadien mittels einer hochdosierten Chemotherapie zu verbessern 11,130. In einer matched-pair Analyse verglichen Bokemeyer et al. 146Patienten, die eine primäre HDCT erhalten hatten, mit der gleichen Anzahl an Patienten, die eine Standardchemotherapie aus vier cisplatinhaltigen Zyklen erhielten. Nach einer medianen Nachbeobachtungszeit von 21-22 Monaten fand sich sowohl für das ereignisfreie Überleben (75% versus 59%, p= 0,0056) als auch für das Gesamtüberleben (82% versus 71%, p= 0,0184) ein statistisch signifikanter Vorteil zu Gunsten der Hochdosischemotherapie 26.
+
+2.6.Ergebnisse der Salvagechemotherapie
+2.6.1.Definition der Salvagechemotherapie
+Aus den Ergebnissen der Primärtherapie ergibt sich, dass etwa 5-10% aller Patienten und etwa 40-50% aller Patienten mit weit fortgeschrittener Tumorerkrankung beiDiagnosestellung mit der oben dargestellten Primärtherapie nicht dauerhaft geheilt werden können 17,129,153. Dies umfasst Patienten mit primärem Therapieversagenebenso wie Patienten mit Rezidiv nach zunächst erfolgreicher Primärtherapie. Die bei Versagen der Primärtherapie einsetzende Behandlung wird als Salvagetherapie bezeichnet. Dieser Begriff ist dem deutschen Ausdruck Rezidivtherapie insoweit vorzuziehen, als dieser auch für die Behandlung von Patienten mit primärem Therapieversagen zutrifft, die streng genommen kein Rezidiv erleiden. Da auch Möglichkeiten der chirurgischen Salvagetherapie bestehen, wird zwischen einer Salvagechirurgie und einer Salvagechemotherapie unterschieden. Weiterhin ist die Angabe der Zahl bereits fehlgeschlagener Salvagetherapieversuche sinnvoll.
+
+2.6.2.Ergebnisse konventionell-dosierter Salvagechemotherapie
+Prinzipiell existieren zwei Patientengruppen, die eine Salvagechemotherapie benötigen 17. Erstens Patienten, die auf die Primärtherapie nicht oder nur unzureichend ansprechen und trotz adäquat durchgeführter cisplatinhaltiger Therapie progredient sind. Zweitens Patienten, die nach Primärtherapie tumorfrei werden, aber nach einem Zeitintervall rezidivieren. Wie unten ausgeführt, unterscheiden sich diese Patientengruppen hinsichtlich des Ansprechens auf Salvagechemotherapie und hinsichtlich ihrer Prognose erheblich. Die Ergebnisse konventionell-dosierter Salvagechemotherapie sind in Tabelle 2 dargestellt.
+
+Tabelle 2: Ergebnisse
+verschiedener Salvagechemotherapie-Schematabeirefraktären oder rezidivierten PatientenErstautorSubstanzenPat.
+
+CR/NED
+Pat. mitEFS(Jahr der Publikation)Pat.
+
+Rez.
+
+
+(n)
+(n)%(n)Newlands (1977) 125Eto5keine--Wheeler (1986) 189Ifo301/303%jaBosl (1985) 32Cis, Eto, Ifo458/4518%4/89%Hainworth (1985) 78Cis, Eto +/- sonstige4519/4543%10/1920%Pizzocaro (1985) 133Cis, Eto +/- sonstige188/1844%4/822%Loehrer (1986) 108Cis, Ifo, Eto oder Vbl4816/4337%9/1615%Motzer (1990) 117Cis, Ifo, Eto4210/4224%4/1015%Harstrick (1991) 80Cis, Ifo, Eto3016/3053%14/167%Josefsen (1993) 92Versch.
+
+55
+43/5578%29/4325%Ledermann (1994) 103KombinationenVersch.
+
+38
+18/3847%5/1839%Gerl (1995) 68KombinationenVersch.
+
+67
+38/6757%23/3522%Farhat (1996) 59KombinationenVersch.
+
+54
+24/5444%14/2419%McCaffrey (1997) 112KombinationenCis, Ifo, Eto oder Vbl5620/5636%7/2023%Miller (1997) 113Cis, Ifo, Vbl2420/2483%8/2040%Loehrer (1998) 109Cis, Ifo, Vbl13567/13550%35/6724%Motzer (2000) 120Tax, Ifo, Cis3023/3077%2/239%Abkürzungen: n = Anzahl; Pat. = Patienten; CR = komplette Remission; NED = komplette Remission nach Resektion von Resttumoren; Rez. = Rezidive; EFS = ereignisfreies Überleben; Cis = Cisplatin; Eto = Etoposid; Ifo = Ifosfamid; Vbl = Vinblastin; Tax = Paclitaxel; Versch. = Verschiedene.
+
+Je nach Autor und untersuchter Patientengruppe können etwa zwischen 10% und25% aller Patienten mit Versagen der Primärtherapie durch eine konventionell- dosierte Salvagechemotherapie geheilt werden 17,18,88,129,153. Die Interpretationdieser Ergebnisse wird allerdings deutlich erschwert durch die Tatsache, dass in den in Tabelle 2 dargestellten Studien die Primärbehandlung der untersuchten Patientenkollektive sehr heterogen war und nicht nur Patienten im ersten Salvagechemotherapieversuch in diesen Studien eingeschlossen waren 18,104. Hinzu kommt, dass das Patientenkollektiv von Miller et al. ausschliesslich reine Seminome einschloss, die auch in der Salvagesituation eine prognostisch gute Konstellation aufweisen 113. Ebenso verhält es sich mit den analysierten Patienten von Motzer et al., die nur günstige Prognosefaktoren hatten und nur über ein kurzes Zeitintervall nach Ende der Chemotherapie beobachtet wurden 120.
+
+Die aktuell üblichen Medikamentenkombinationen konventionell-dosierter Salvage- chemotherapien sind in Tabelle 3 dargestellt.
+
+
+Tabelle 3:
+Medikamentenkombinationen konventionell-dosierter Salvagechemo-therapien         IndikationMedikamenteDosierungZyklus-Anzahl der(Referenz)dauerZyklen       Cisplatin20 mg/m² Tag 1-580,108,109,112EtoposidPEI75-100 mg/m² Tag 1-521 Tage4 ZyklenIfosfamid1.2g/m²Tag1-5oderCisplatin20 mg/m² Tag 1-5113VinblastinVeIP0.11 mg/kgTag1+221 Tage4 ZyklenIfosfamid1.2g/m²Tag1-5oderPaclitaxelTIP175-250 mg/m² Tag 1120Ifosfamid1,2g/m²Tag2-621 Tage4 ZyklenCisplatin20mg/m²Tag2-62.6.3.Prognosefaktoren für die konventionell-dosierte Salvagechemo- therapieDie grosse Schwankungsbreite der Therapieergebnisse publizierter Studien zur Salvagechemotherapie erklärt sich aus der unterschiedlichen Verteilung von Prognosefaktoren in den Studienkollektiven, die den Therapieerfolg einer konventionell-dosierten Salvagechemotherapie mehr oder weniger wahrscheinlich werden lassen 18,63. Patienten, die keine komplette Remission erreichen, Patienten mit kurzem rezidivfreien Intervall und diejenigen mit grosser Tumormasse im Rezidiv, gemessen entweder am Tumorstadium oder an der Höhe der Tumormarker HCG oder AFP, haben eine deutlich schlechtere Aussicht, mit konventionell-dosierter Salvagechemotherapie geheilt zu werden, als Patienten, bei denen keine dieser12ungünstigen Prognosefaktoren vorlagen 63. Als prognostisch ungünstig gilt auch ein primär extragonadaler mediastinaler Tumor, wenn dieser nur unzureichend auf die Erstlinientherapie anspricht oder rezidiviert 14,154. Ebenfalls eine schlechte Prognose für das Erlangen eines Langzeitüberlebens haben Patienten mit Hirnmetastasen zum Zeitpunkt des Rezidivs 141.
+
+Patienten, die im ersten Salvagetherapieversuch nicht dauerhaft tumorfrei werden, haben wahrscheinlich mit einer weiteren konventionell-dosierten Chemotherapie im
+zweiten oder nachfolgenden Salvagetherapieversuch keine Heilungsaussichten mehr 17,88,129,153. Eine kleine Zahl dieser Patienten mit chemotherapierefraktärenTumoren, gut resektablen Tumormanifestationen und alleiniger Erhöhung des Tumormarkers AFP, kann durch eine radikale chirurgische Intervention, noch eine langfristige Tumorfreiheit erlangen oder sogar geheilt werden. Eine derartige Konstellation liegt jedoch klinisch nur selten vor 124.
+
+2.6.4.Definition und Indikationsstellung der Hochdosischemotherapie (HDCT) als Salvagebehandlung
+Auch wenn ein Teil der Patienten trotz Versagen der Primärtherapie noch geheilt werden kann und Keimzelltumoren somit zu den wenigen soliden Tumoren gehören, bei denen in dieser prognostisch ungünstigen Situation überhaupt noch langfristige Erfolge zu verzeichnen sind, stirbt auch heute noch die Mehrzahl aller Patienten, die eine Salvagechemotherapie benötigen. Ein wesentlicher Schwerpunkt war deshalb seitEnde der 80er Jahre die Entwicklung effektiverer Strategien der Salvagechemotherapie 11,13,17,129,153.
+
+Versuche, durch den alternierenden Einsatz von nicht-kreuzrestistenten Zytostatika die Ergebnissse der Salvagechemotherapie zu verbessern, waren nicht erfolgreich. Diese zum Teil komplizierten Therapieschemata zeigten sich äquieffektiv, waren jedoch toxischer als die oben genannten Kombinationen aus Cisplatin, Etoposid und Ifosfamid (PEI) oder Vinblastin, Ifosfamid und Cisplatin (VeIP). Auch wurde die Dosiseskalation von Cisplatin vor allem durch die starke Ototoxizität und Nephrotoxizität der Substanz begrenzt. Bei allen dosiseskalierten Therapieschemata zeigte sich zudem, dass ohne den supportiven Einsatz hämatopoetischer
+Progenitorzellen aufgrund der dosisbegrenzenden hämatologischen Nebenwirkungen und der dadurch notwendigen Spreizung der Therapieintervalle, eine wesentliche Steigerung der Dosisintensität nicht zu erreichen war 11.
+
+Die Möglichkeit, bei Patienten pluripotente hämatopoetische Progenitorzellen aus dem Knochenmark oder aus dem peripheren Blut (PBPZ) zu gewinnen, diese tiefgefroren zu konservieren und nach einer hochdosierten Therapie zu reinfundieren, mit dem Ziel, trotz einer eventuell myeloablativen Zytostatikadosis eine rasche und stabile hämatopoetische Rekonstitution zu bewirken, erlaubte dagegen eine zum Teil deutliche Dosiseskalation der zytostatischen Therapie. Zytostatika wie Carboplatin, Etoposid, Cyclophosphamid, Ifosfamid und Thiotepa konnten dadurch auf ein Vielfaches der sonst üblichen konventionellen Dosierung gesteigert werden, da auf deren hämatologische Nebenwirkungen keine Rücksicht mehr genommen werden musste. Wie auch bei anderen Malignomen erhoffte man, durch die zum Teil
+massive Dosiseskalation, Resistenzen vor allem bei intensiv vorbehandelten Tumoren überwinden zu können 11,13,88,96,127,129.
+
+2.6.5.Prognosefaktoren für die Hochdosischemotherapie
+Mit zunehmender Erfahrung im Einsatz einer HDCT wurde rasch die Bedeutung vonPrognosefaktoren für das Therapieansprechen nach HDCT bei Patienten mit rezidivierten oder progredienten Keimzelltumoren deutlich 13,14,18,129. Es zeigtesich, dass sehr große Unterschiede in den Erfolgsaussichten einer HDCT für einzelne Patientenkollektive bestanden. Man wollte daher Patienten, die voraussichtlich auch von einer HDCT nicht profitieren würden, den Aufwand und die Toxizität des Verfahrens ersparen. Außerdem erschwerten sehr unterschiedliche Ein- und Ausschlusskriterien unterschiedliche Definitionen klinischer Variablen und dieuneinheitliche Dokumentation des Therapieerfolges die Vergleichbarkeit der Therapieergebnisse 104,190. So war es bis Mitte der 90er Jahre nur inbeschränktem Umfang möglich, eine Einschätzung des tatsächlichen Stellenwertes einer HDCT in verschiedenen klinischen Konstellationen vorzunehmen. Aus diesem Grund wurde in einem multizentrisch angelegten Projekt eine retrospektive Analyse der Charakteristika und der Behandlung von Patienten durchgeführt, die im Rahmen von Therapiestudien eine HDCT erhalten hatten 14. Mittels eines multivariaten Testverfahrens konnten verschieden ungünstige Faktoren ermittelt und ein Prognosescore für das Ansprechen auf die HDCT erstellt werden (Tabelle 8).
+
+Tabelle 4: Einflussgrössen mit multivariat nachgewiesener statistischer Signifikanz auf das Überleben nach HDCT 14
+Einflussgrössenß-coeff. Hazard95 % CI derSign.
+
+Score
+RatioHazard RatioProgrediente Erkrankung #0.4121.511.06 - 2.060.0241Mediastinaler Primärtumor #0.5221.691.06 - 2.690.0291Cisplatin-refraktäre Erkrankung #0.5361.711.19 - 2.460.0041Absolut cisplatin-refraktäre Erkrankung #0.6831.981.28 - 3.06< 0.0022HCG vor HDCT > 1000 U/l #0.8662.381.61 - 3.52< 0.0012Abkürzungen und Erläuterungen: ß-coeff. = Beta-Koeffizient; CI- = Konfidenzintervall; Sign. = Ergebnis der Signifikanztestung mittels der Regression nach Cox; Score = empirisch zugeordneter Scorewert; HCG = humanes Chorion Gonadotropin; # = jeweils zum Zeitpunkt unmittelbar vor Hochdosischemotherapie.
+
+Patienten, die einen Scorewert von 0 hatten, wurden der günstigen Prognosegruppe zugeordnet, Patienten mit einem Wert von 1 und 2 der intermediären und Patienten mit einem Wert > 2 der schlechten Gruppe.
+
+
+Es zeigte sich, dass es möglich war, auf der Grundlage der Ergebnisse der multivariaten Analyse Gruppen von Patienten zu identifizieren, die sich bezüglich der Remissionsraten, des ereignisfreien Überlebens und des Gesamtüberlebens signifikant voneinander unterschieden. Insbesondere Patienten mit "schlechter Prognose" für ein Langzeitüberleben nach HDCT profitierten trotz des intensiven Verfahrens nicht (Abbildung 1).
+
+
+In einer nachfolgend durchgeführten Studie an 46 weiteren Patienten konnten diese Ergebnisse reproduziert werden, was die Validität der Daten der multivariaten Analyse unterstreicht 139.
+
+
+Abbildung 1: Gesamtüberleben nach HDCT in den Patientenkategorien "günstige Prognose" (Scorewert = 0), "intermediäre Prognose" (Scorewert = 1 oder 2) und "schlechte Prognose" (Scorewert > 2) 14Überlebenswahrscheinlichkeit1,00,9 0,80,70,60,50,40,30,20,10,0"günstige Prognose" (n=111)"intermediäre Prognose" (n=92)"schlechte Prognose" (n=79)                                            1234567Jahre nach HDCT2.6.6.Ergebnisse der HDCT als SalvagebehandlungDie ersten Untersuchungen zur HDCT waren dennoch enttäuschend (Tabelle 4). Obwohl noch ein vereinzeltes Ansprechen bei Patienten gesehen wurde, deren Tumoren auf herkömmliche Therapie refraktär waren, profitierten diese Patienten in der Regel nicht von der HDCT 13. Dennoch konnten einige wichtige Informationen gewonnen werden. Durch die autologe Stammzellreinfusion (ASZR) wurde eine HDCT in maximalen Dosierungen sowohl mit Einzelsubstanzen als auch mit Hochdosiskombinationen möglich. Durch die ASZR konnte trotz der hochdosierten Therapie in der Regel eine stabile hämatopoetische Regeneration innerhalb eines klinisch tolerablen Zeitintervalls erzielt werden. Die nicht-hämatologischen Toxizitäten der Niere, des Nervensystems, der Haut und des Gastrointestinaltraktes sowie infektiöse Komplikationen wurden die dosislimitierenden Faktoren.
+
+
+Tabelle 5: Kumulative Ergebnisse einer Intensivierung der Salvagechemotherapie mittels HDCT.
+
+Medikament
+DosierungAnzahlAnzahlCR/NEDanhaltende(mg/m²)ZyklenPatientenRateCR/NEDReferenzEtoposid2400Etoposid600 - 2500 Cyclophosphamid 4500 - 7000Carboplatin900 - 2100Etoposid1200 - 2250Carboplatin1500- 2000Etoposid1200- 1500Cyclophosphamid30-150Carboplatin1350- 2000Etoposid1200- 2400Ifosfamid5000- 1200011 - 21 - 311112/10(20%)024#6/21(28%)#1 (5%)#245#86/245 (35%)# 60/245(24%)#100#34/100 (34%)# 17/100 (17%)#392#83/392 (21%)# 102/392 (26%)#Wolff (1984) 192Blijham (1981) 21 Mulder (1988) 123Nichols (1989) 127Nichols (1992) 128Motzer (1992) 118Broun (1995) 38Lampe (1995) 102Bhatia (2000) 20Motzer (2000) 122Linkesch (1992) 105 Motzer (1996) 119Broun (1991) 35Rosti (1992) 149Siegert (1994) 167Beyer (1996) 14Cyclophosphamid6000Thiotepa4801 - 235n.a.
+
+22/35 (63%)
+Rodenhuis (1999) 147CarboplatinAUC 20Erläuterungen: # zusammengefasste Ergebnisse.
+
+Wie der Tabelle 4 entnommen werden kann, wurden in den neueren Studien zur HDCT bessere Ergebnisse erzielt, nachdem das Medikament Carboplatin in das therapeutische Konzept integriert wurde. Carboplatin war dabei gegenüber Cisplatinfür eine HDCT aufgrund deutlich geringerer Nephrotoxizität und Neurotoxizität überlegen 13,88,129.
+
+So berichteten Nichols et al. 1989 mit der Kombination von hochdosiertem Carboplatin 1500 mg/m² und Etoposid 1200 mg/m² erstmals über eine Ansprechrate von 44% und Langzeitremissionen von über 12 Monaten bei 12% von 32 Patienten mit therapierefraktären Keimzelltumoren, die auf konventionell-dosierte cisplatinhaltige Chemotherapien nicht oder nur ungenügend angesprochen hatten 127. In dieser Studie wurden somit durch ein bis zwei Zyklen dieser HDCT erstmalig Langzeitremissionen bei Patienten beobachtet, die auf konventionell-dosierte cisplatinhaltige Chemotherapie refraktär waren und bis dahin als unheilbar galten. Die Rate an schweren Nebenwirkungen und therapieassoziierter Letalität war mit 22% jedoch ungewöhnlich hoch. Die Ergebnisse anderer Arbeitsgruppen bestätigten diese ersten Erfahrungen mit hochdosiertem Carboplatin und Etoposid. Es wurde zudem gezeigt, dass Carboplatin in noch höherer Dosierung von bis zu 2000 mg/m² verabreicht und als drittes Medikament Cyclophosphamid oder Ifosfamid der
+Hochdosiskombination von Carboplatin und Etoposid hinzugefügt werden kann, ohne dass dies mit einer höheren Letalität einhergehen muss 105,118,119,167.
+
+Obwohl die HDCT die einzige noch kurative Therapiemassnahme bei Patienten mit einem oder mehreren fehlgeschlagenen Salvagetherapieversuchen und/oder refraktärer Erkrankung darstellt, für die eine radikale Chirurgie nicht in Betracht kommt, bleibt angesichts des Fehlens endgültiger und valider Daten der Nutzen
+eines frühen Einsatzes der HDCT im ersten Salvagetherapieversuch umstritten 13,37,88,104,129,190. Aus diesem Grund wurde anhand von bekanntenPrognosefaktoren eine "matched-pair" Analyse durchgeführt, die den Stellenwert einer HDCT im Vergleich zu einer alleinigen konventionell-dosierten Chemotherapie klären sollte. Es fand sich ein Anstieg des Gesamtüberlebens um 9% bis 11% auf 41% bis 43%, und ein Anstieg des ereignisfreien Überlebens von 6% bis 12% auf 30% bis 36% durch den frühzeitigen Einsatz einer HDCT im ersten Salvage- therapieversuch 19. Die Kaplan-Meier Kurven für das Gesamtüberleben und das ereignisfreie Überleben nach Beginn der Salvagechemotherapie sind als Abbildungen 2 und 3 dargestellt.
+
+Im Mai 2002 wurden von Rosti et al. die Ergebnisse der einzigen prospektiven randomisierten Studie vorgestellt (IT94). Diese Studie randomisierte Patienten entweder in einen konventionellen Behandlungsarm bestehend aus vier Zyklen PEI oder in einen Hochdosisarm bestehend aus drei Zyklen PEI und einen konsolidierenden Hochdosis-CEC Zyklus. Nach einer nur kurzen medianen Nachbeobachtungszeit zeigte die vorläufige und rudimentäre Auswertung keinen Unterschied zwischen den beiden Behandlungsstrategien in Bezug auf das Gesamt- und ereignisfreie Überleben 150. Der Vorteil der Studie war, dass es sich um eine prospektive und randomisierte Untersuchung handelte und eine große Gruppe von 280 Patienten eingeschloßen wurde, von denen 263 Patienten auswertbar waren (Arm A, n= 128; Arm B, n= 135). Nachteilig für die Validität der Daten war, dass sich die Patienten über 11 Länder mit unterschiedlichem medizinischem Standard verteilten und der größte Teil der Kliniken nur ein bis zwei Patienten in die Studie einschloßen. Des weiteren fand eine nicht unerhebliche Selektion statt, da die Mehrzahl der Patienten die Randomisierung ablehnte. Darüber hinaus wurden nur Patienten in die Studie aufgenommen, die im ersten Rezidiv der Erkrankung
+17behandelt wurden und nach Primärtherapie eine CR erreicht hatten. Daher sind diese Ergebnisse nicht automatisch auf Patienten übertragbar, die im zweiten oder nachfolgenden Salvageversuch behandelt werden, oder nach Erstlinientherapie nur eine PR erreichten. Zur engültigen Interpretation der Daten muß ein deutlich längeres „follow-up“ und die Analyse der Subgruppen abgewartet werden, zumal bisher nicht veröffentlicht wurde, wieviele Patienten im Fall eines Versagens der konventionellen Salvagechemotherapie doch noch eine HDCT erhalten haben.
+
+Abbildung 2:
+100%Gesamtüberleben90%60%80% 70%das50%für Wahrscheinlichkeit40% 30%20%10%0%0Gesamtüberleben von 55 Patientenpaaren nach konventioneller Chemotherapie und HDCT 1955 HDCT Patienten55 CDCT Patienten61218243036Monate nach TherapiebeginnAbbildung 3: Ereignisfreies Überleben von 55 Patientenpaaren nach konventioneller Chemotherapie und HDCT 19Wahrscheinlichkeit für das ereignisfreie Überleben100%90%                                     80%                              55 HDCT Patienten   70%                                   55 CDCT Patienten60%                                     50%                                     40%                                    30%               20%10%0%                                     612182430360Monate nach Therapiebeginn182.7.
+
+Behandlungsmöglichkeiten im Rezidiv oder Progress nach HDCT
+Die therapeutischen Möglichkeiten für Patienten, die nach einer primären als auch nach einer Salvage-HDCT progredient sind, sind in aller Regel sehr ungünstig. Eine kurative Therapieoption besteht nur noch in wenigen Fällen. Bei einzelnen Patienten, die nach einer primären HDCT erneut progredient sind oder rezidivieren, kann mittels einer erneuten second-line HDCT oder eines operativen Eingriffs eine langanhaltende Remission erreicht werden 100.
+
+Die Behandlungsmöglichkeiten bei Progress oder Rezidiv nach Salvage-HDCT sind gegenüber der Primärsituation tendenziell schlechter. Die Chemotherapie hat bis auf Einzelfälle nur noch einen palliativen Charakter. Medikamente, die in dieser Situation noch eine Wirkung zeigten, waren Paclitaxel, Oxaliplatin, Gemcitabin und orales Etoposid. In der Monotherapie konnten für alle vier Substanzen Ansprechraten von
+20-25% erreicht werden. Allerdings war die Remissionsdauer in der Regel kurz und beschränkte sich auf wenige Wochen 22,27,30,58,61,99. Komplette und dauerhafteRemissionen bildeten die große Ausnahme 136. Aufgrund der nachgewiesenen Aktivität dieser neuen Substanzen lag die Vermutung nahe, dass sich die Wirkungen bei der Kombination von zwei Medikamenten summieren. Eine kürzlich publizierte Studie, in der die Kombination aus Paclitaxel und Gemcitabin getestet wurde, zeigte eine Remissionsrate von von 21% mit 3 kompletten Remissionen. Zwei von diesen Patienten erreichten eine langanhaltende komplette Remission von 15 bzw. 25 Monaten. Ein eindeutiger Vorteil gegenüber der Monotherapie ergab sich aber nicht 85. Eine weitere sinnvolle Kombination besteht aus den Medikamenten Oxaliplatin und Gemcitabin. Aus diesem Grund aktivierte die „German Testicular Cancer Study Group“ eine multizentrische Phase II Studie zur Evaluierung dieser Kombination.
+
+Die einzige kurative Therapieoption stellt bei diesen Patienten in der Regel nur noch die komplette und radikale Resektion aller Tumormanifestationen dar 124. Allerdings kann dies nur erreicht werden, wenn es sich um ein langsam wachsendes Lokalrezidiv handelt, welches gut operabel ist und ausschliesslich den Tumormarker AFP produziert.
+
+
+Bedingt durch die ungünstigen Aussichten im Rezidiv oder Progress nach HDCT kommen für diese oft noch jungen und sich in gutem körperlichen Zustand befindenden Patienten neue und experimentelle Therapieverfahren in Frage.
+
+
+3.Einsatz des Zytoprotektivums Amifostin (Ethyol)
+3.1.Einleitung
+Neben der wirkungsvollen Behandlung der Tumorerkrankung mittels Chemotherapie ist es in den letzten Jahren zunehmend auch die Aufgabe der Onkologie geworden, Toxizitäten durch die zytostatischen Substanzen zu vermeiden oder zu minimieren. Das Ziel ist es daher eine Substanz zu finden, die gesunde Körperzellen weitgehend vor den Nebenwirkungen der Chemotherapie schützt und gleichzeitig die Wirkung des Zytostatikums auf die malignen Tumorzellen nicht vermindert. Neben der Reduktion von Toxizitäten resultiert daraus letztendlich eine größere therapeutische Breite der Medikamente und die Möglichkeit der Dosissteigerung der zytostatischen Substanzen.
+
+Unter diesem Aspekt wird seit einigen Jahren die organische Thiophosphatverbindung Amifostin (Ethyol, Essex Pharma) intensiv untersucht. Amifostin wurde bereits in den 50er Jahren am Walter Reed Militär- Forschungsinstitut der USA entwickelt, um die Soldaten vor möglichen
+19Strahlenschäden zu schützen 171. Für die Therapie von Tumorerkrankungen wurde diese Substanz erst interessant, als man Anfang der 80er Jahre erkannte, dass Amifostin gesunde Körperzellen vor den Folgen einer Radiatio schützen kann ohne die Wirksamkeit auf die Tumorzellen zu vermindern. In Zellkulturen und im Tierversuch lässt sich der radioprotective Effect von Amifostin bei einer großen Anzahl von normalen Körpergeweben nachweisen 171. Darüber hinaus ist Amifostin wirksam bei Linearstrahlung, Kobaltstrahlen und Neutronenstrahlen 3,168. Neben den strahlenprotektiven Eigenschaften von Amifostin liess sich in den nachfolgenden Jahren auch eine protektive Wirkung vor zytotoxischen Substanzen auf gesunde Körperzellen nachweisen 187. In vitro Untersuchungen haben ergeben, dass Amifostin die zytotoxische Wirkung von Paclitaxel, Cisplatin, Carboplatin, Doxorubicin, Melphalan, Mitomycin und Mitoxantron nicht signifikant beeinflusst in ihrer Wirkung auf Ovarialtumorzellen, nicht-kleinzellige Bronchialkarzinomzellen und Mammakarzinomzellen 170,187.
+
+3.2.Chemische und biologische Eigenschaften
+Amifostin wird in Form des phosphorylierten Aminothiols WR 2721 als Prodrug appliziert. Nach Aufnahme in das Zellinnere dephosphoryliert die zellmembranständige alkalische Phosphatase das Aminothiol zum aktiven freien Thiol (WR 1065) (Abbildung 4).
+
+Abbildung 4: Molekülstruktur von Amifostin und des aktiven Thiols 24
+O║H2N – (Ch2)3 – NH(CH2)2 – S – P – OH Î H2N – (CH2) – HN – (CH2)2 - SH║OAmifostindephosphoryliertes Thiol(WR 2721)(WR 1065)inaktivaktivInnerhalb von wenigen Minuten nach der intravenösen Applikation ist über 90% der zugeführten Substanzmenge bereits aus dem Blut eliminiert und in den Intrazellularraum aufgenommen. Amifostin wird in gesunden Zellen sehr rasch aufgenommen und metabolisiert, während die Aufnahme in Tumorzellen deutlich geringer ist, da die Enzymaktivität der alkalischen Phosphatase in Tumorzellen erheblich niedriger ist und der intrazelluläre pH- Wert tiefer liegt 171. Wie in experimentellen Studien gezeigt werden konnte, führt dies zu einer 50-100fachen höheren Anreicherung in Myokardzellen, Hepatozyten, Alveolarzellen und Zellen des Nierengewebes im Vergleich zu neoplastisch veränderten Zellen. Tierexperimentell fand sich beim Einsatz von Amifostin keine reduzierte Wirksamkeit der zytostatischen Substanzen bei Ovarialkarzinomen, Leukämiezellen, Mammakarzinomen, Fibrosarkomen, Gliomen, Melanomen und Bronchialkarzinomen 170.
+
+Wie Amifostin bzw. das freie aktive Thiol seine Schutzwirkung vermittelt, ist nicht vollständig geklärt. Das Thiol fängt Radikale ab, die unter anderem durch die
+20Einwirkung ionisierender Strahlen- und Chemotherapie entstehen. Als Wasserstoffdonator wirkt das Thiol bei der Reparatur von DNA-Schäden mit. Als nukleophile Substanz interagiert es mit positiv geladenen Kohlenstoffatomen, aktiviert Alkylantien und verhindert damit die Alkylierung von Nukleinsäuren.
+
+Amifostin wirkt auch der Komplexbildung von Cisplatin an der DNA entgegen 182,183. Amifostin wirkt vorwiegend präventiv, das heisst, bevor der zelluläre
+Schaden eingetreten ist. Der aktive Metabolit der Substanz, das WR 1065, wird in die Zelle aufgenommen und wirkt der Bindung von hydrolysiertem Cisplatin an der DNAentgegen. Sind bereits Platin-DNA-Verbindungen entstanden, können diese nicht mehr durch WR 1065 aufgebrochen werden 171,183. Dies ist der Grund, warumAmifostin 30 Minuten vor Cisplatin intravenös appliziert werden muss, um seine volle Wirksamkeit zu entfalten 184. Interaktionen zwischen Amifostin und Cisplatin im Serum konnten ausgeschlossen werden 182.
+
+3.3.Dosierung und Nebenwirkungen von Amifostin
+Die übliche Dosierung von Amifostin beträgt 910 mg/m² als Einzelgabe etwa 30 Minuten vor Beginn der Chemotherapie. Sollte es nicht möglich sein, die volle Gabe zu applizieren, können auch 740 mg/m² pro Zyklus eingesetzt werden. Kinder und junge Erwachsene scheinen höhere Dosen von Amifostin zu tolerieren als ältere Erwachsene. Obwohl Dosen bis 2700 mg/m² verabreicht wurden, ist die maximal tolerierte Medikamentendosis bisher nicht erreicht worden 2.
+
+Die häufigsten Nebenwirkungen von Amifostin sind Übelkeit, hypotensive Krisen, und Somnolenz, wobei das Auftreten dieser Komplikationen zum einen abhängig ist von der Höhe der Dosierung und zum anderen von der Infusionsgeschwindigkeit 185. Während bis zu einer Dosis von 250 mg/m² keine Nebenwirkungen beobachtet wurden, stieg die Rate bei zunehmender Dosierung deutlich an. Behandlungsassoziierte Todesfälle wurden auch unter den maximal getesteten Mengen von 2700 mg/m² nicht beobachtet. Ebenfalls stiegen die therapiebedingten Toxizitäten bei einer kontinuierlichen Infusionszeit von 5 bis 120 Minuten im Vergleich zu einer Kurzinfusion über 15 Minuten signifikant an. Durch den Einsatz von Dexamethason, Ondansetron und Lorazepam konnte die Inzidenz der höhergradigen Emesis (WHO Grad 3-4) während der Applikation von 910 mg/m² Amifostine gesenkt werden 158. In seltenen Fällen wurde von einer Hypokalzämie berichtet, die bei einem Patienten zur Tetanie führte 186.
+
+
+3.4.Der Einsatz von Amifostin im Rahmen der zytostatischen Behandlung
+In einer Reihe von Phase II und Phase III Studien wurde die Wirksamkeit von Amifostin im Rahmen verschiedener chemotherapeutischer Konzepte und Tumorerkrankungen getestet. Dabei handelte es sich entweder um Studien, die verschiedene Tumorentitäten eingeschlossen hatten, oder um kleine Studien mit einer geringen Fallzahl. In Ermangelung an Ergebnissen von randomisierten Untersuchungen wurden Vergleiche mit historischen Kontrollen angestellt oder ein crossover Vorgehen gewählt. Die wenigsten Studien haben das gesammte Spektrum der Toxizitäten (Hämato-, Neuro-, Nephro-, sonstige Toxizitäten) untersucht. In den meisten Fällen beschränken sich die Autoren auf eine zytostatisch bedingte Nebenwirkung, so dass für die einzelne Toxizität nur sehr wenige Daten aus randomisierten Untersuchungen zur Verfügung stehen. Ebenfalls sehr insuffizient ist die Datenlage zum Einsatz von Amifostin im Rahmen der Hochdosischemotherapie mit ASZR. Zu dieser Fragestellung existiert nur eine randomisierte Studie, die sich ausschließlich auf die Nephrotoxizität beschränkt, eine Phase II Pilotstudie mit 21 Patienten und eine retrospektive Analyse von 35 Patienten, in der eine historische Kontrolle als Vergleichskollektiv herangezogen wurde. Die beiden letztgenannten Untersuchungen beschränkten sich auf die Hämato- und Nephrotoxizität bzw. auf gastrointestinale Nebenwirkungen. Darüber hinaus existiert keine Metaanalyse, die die Daten aus den letzten 15-20 Jahre zusammenfasst. Aus diesem Grund ist die Aussagekraft der zur Zeit zur Verfügung stehenden Daten unzuverlässig und die Erteilung einer generellen Therapieempfehlung mit Amifostin sehr schwierig. Eine Übersicht über die relevanten Untersuchungen gibt Tabelle 6.
+
+3.5.Die Wirkung von Amifostin auf die Hämatotoxizität
+Die Verminderung der chemotherapieinduzierten Knochenmarktoxizität ist eines der zentralen Themen in der Onkologie. Es verwundert daher nicht, dass die meisten Studien über den Einsatz von Amifostin im Rahmen der Zytostatikatherapie dieses Problem untersucht haben. Die Ergebnisse und die daraus gezogenen Schlußfolgerungen sind aber von Untersuchung zu Untersuchung unterschiedlich. Dies ist nicht zuletzt dadurch bedingt, dass verschiedene Tumorentitäten und damit verbunden auch verschiedene Chemotherapieregime mit einem unterschiedlich ausgeprägten Myelotoxizitätspotential untersucht wurden.
+
+In einer randomisierten Phase II Studie wurden 40 Frauen mit Mammakarzinom mit einer Monotherapie aus Paclitaxel ± Amifostin behandelt. Die Autoren fanden nach vier Zyklen Therapie keinen Unterschied bezüglich der Leuko- und Thrombopenieintensität und der Zytopeniedauer. Zwar war die Einmalgabe von Amifostine vor jedem Chemotherapiekurs mit 910 mg/m² ausreichend hoch dosiert, doch ist der zytotoxische Effekt von 250 mg/m² Paclitaxel begrenzt 67. Ebenfalls keinen protektiven Effekt von Amifostin auf die Knochenmarkfunktion konnte eine Phase III Studie zeigen, in der 84 Patienten mit kleinzelligem Bronchialkarzinom mit einer intensiven Chemotherapie aus Carboplatin, Etoposid und Ifosfamid ± Amifostin behandelt wurden. Nach einer maximalen Anzahl von sechs Zyklen war die Ausprägung der Myelosuppression durch die Zytostatika in beiden Gruppen nahezu identisch 91. In drei weiteren Phase II Studien wurden 18, 25 und 44 Patienten, die entweder an einem Mammakarzinom oder an einem nicht-kleinzelligen Bronchialkarzinom litten, mit Doctaxel, Cisplatin/Vinblastin oder Cisplatin als Monotherapie ± Amifostin behandelt. Im Vergleich mit den bis dahin bekannten Angaben aus der Literatur fanden sich keine Vorteile für den Einsatz von Amifostin 65,73,157. Neben unserer Arbeitsgruppe untersuchten zwei weitere Gruppen denmyeloprotektiven Effekt von Amifostin im Rahmen der HDCT mit ASZR. In einer Phase II Studie wurden 21 Patienten mit soliden und hämatologischen Malignomen mittels Busulfan, Melphalan und Thiotepa intensiv konditioniert. Die Regenerationszeit nach ASZR für die Granulo- und Thrombopoese mit im Median 12 und 11 Tagen war im Vergleich zu den Angaben aus der Literatur nicht verkürzt. Ebenfalls war der Transfusionsbedarf an Erythro- und Thrombozytenkonzentraten mit 6 und 18 Konzentraten im Median nicht geringer als bisher beschrieben 45. In einer randomisierten Studie behandelten Hartmann et al. 40 Patienten mit GCT mittels einer HDCT bestehend aus einem Hochdosis-PEI Schema, ASZR und nachfolgend G-CSF ± Amifostin 25. Zwar kam es bei den Patienten, die Amifostin erhielten, zu einer um 1-2 Tage beschleunigten hämatopoetischen Regeneration, doch wirkte sich dies nur gering auf den klinischen Verlauf der Patienten aus. Während die Anzahl der Fiebertage von vier auf zwei reduziert werden konnte, blieb die Transfusionsbedürftigkeit in beiden Gruppen gleich 81.
+
+Im Gegensatz dazu konnten zwei ältere Phase III Studien einen positiven Effekt von Amifostin nachweisen. Kemp et al. behandelten 142 Patientinnen mit Ovarialkarzinomen mit sechs Zyklen Cisplatin und Cyclophosphamid ± Amifostin. Die Autoren beobachteten durch den Einsatz von Amifostin eine statistisch signifikante Reduktion an neutropenischem Fieber um 62% kumulativ über alle Zyklen. Damit ging ebenfalls eine statistisch signifikante Reduktion der Antibiotika- und der Krankenhaustage einher 95. Eine kleinere Gruppe von 55 vortherapierten Patienten mit verschiedenen soliden Tumoren wurden ausschliesslich mit Carboplatin behandelt und für die prophylaktische Durchführung einer Amifostintherapie randomisiert. Untersucht wurden nur die Auswirkungen auf die Thrombopoese, die zwar unter dem Einsatz von Amifostin statistisch signifikant milder ausfiel, aber klinisch ohne Relevanz war. Während die Patienten, die Amifostin erhielten, einen Abfall der Thrombozyten auf im Median 127 ⋅ 109 /l im peripheren Blut zeigten, fiel das Ergebnis bei Patienten ohne Amifostin mit 88 ⋅ 109 /l zirkulierenden Thrombozyten statistisch gesehen deutlich schlechter aus. Da sich aber beide Medianwerte weit ausserhalb des kritischen blutungsgefährdenden Bereiches fanden, konnte keine klinische Konsequenz gezogen werden. Dennoch scheint, dass Amifostin einen protektiven Effekt auf die Thrombopoese ausüben kann. Ob dasauch bei deutlich niedrigeren Thrombozytenwerten der Fall ist, konnte nicht geklärt werden 40.
+
+3.6.Stimulation der Hämatopoese durch Amifostin
+Im weiterführenden Zusammenhang mit einer Protektion der gesunden Hämatopoese wurde Amifostin in verschiedene Untersuchungen im Rahmen des in vivo und in vitro Tumorzellpurgings eingesetzt. Douay et al. beobachteten neben einer deutlichen Reduktion der Anzahl an Leukämiezellen im Knochenmark nach einer in vitro Behandlung durch Amifostin und Mafosfamid auch eine statistisch signifikante Zunahme der Proliferation an CFU-GM und BFU-E 54. Darüber hinaus konnten List et al. einen in vitro Stimmulationseffekt von Amifostin auf die gesunde Hämatopoese feststellen. Knochenmark von gesunden Spendern wurde mit Amifostin behandelt und in einer Kultur über 14 Tage inkubiert. Im Vergleich zu Knochenmarkkulturen ohne Amifostin fand sich eine deutlich gesteigerte hämatopoetische Aktivität 106.
+
+Die klinische Relevanz dieser Ergebnisse konnten Shpall et al. in einer randomisierten Phase III Studie von 15 Patientinnen mit Mammakarzinomen und 13 Patienten mit Lymphomen belegen, die mittels einer HDCT und autologen Knochenmarktransplantation behandelt wurden. Das vor HDCT gewonnene Knochenmark wurde mit 4-Hydroxyperoxycyclophosphamid (4-HC) ± Amifostin einem in vitro purging unterzogen und anschliessend transplantiert. Patienten, die mit Amifostin vorbehandeltes Knochenmark erhielten, regenerierten statistisch signifikant schneller als jene Patienten, deren Knochenmark nur mit 4-HC versehen wurde 165. Einen direkten Stimmulationseffekt auf die normale Hämatopoese beobachteten List et al. bei 18 Patienten mit Myelodysplastischem Syndrom. Amifostin wurde entweder dreimal pro Woche mit 100, 200 oder 400 mg/m² oder einmal pro Woche mit 740 mg/m² verabreicht. Bei 15 Patienten (83%) konnte ein Ansprechen mit Anstieg der peripheren Blutzellen, vornehmlich der neutrophilen Granulozyten, verzeichnet werden. Etwas geringer ausgeprägt war die Stimulation der Thrombopoese bei 43% der Patienten und die Erythropoese bei 33%. Um einen positiven Effekt zu erzielen, waren ≤ 200 mg/m² Amifostin dreimal pro Woche ausreichend 107.
+
+Eine Steigerung der Mobilisation von peripheren Blutstammzellen durch Amifostin konnten Bokemeyer et al. nachweisen. Die Patienten erhielten entweder G-CSF plus Amifostin oder nur G-CSF. Bei Patienten, die die Kombinationsbehandlung erhielten, konnten statistisch signifikant mehr PBPZ gesammelt werden, als bei Patienten, die nur G-CSF erhalten hatten 29.
+
+Ein vergleichbares Ergebnis erhielten Carlo-Stella et al. mit Patienten, denen sie zur Mobilisation von PBPZ Epirubicin/G-CSF ± Amifostin verabreichten. Die Ausbeute an PBPZ war statistisch signifikant höher bei Patienten, die zusätzlich zur Zytostatikatherapie und zum Wachstumsfaktor noch Amifostin erhalten hatten 43.
+
+Tabelle 6:Phase II/III Studien zum Einsatz von AmifostinAutorAnzahl derStudien-AmifostindosisZytostatikaHämatotoxizitätNeurotoxizitätNephrotoxizitätSonstigePatientendesign(mg/m²)(mg/m²)Toxizitäten         Wooley10Crossover250-1000CYCKein Unterschiedn.u.
+
+n.u.
+
+
+n.u.
+
+
+1983 194
+1000-1352Glover21Crossover740CYCNicht signifikantn.u.
+
+n.u.
+
+
+n.u.
+
+
+1986 69
+1500vermindertMollman28Kontrolle740CDDPn.u.
+
+Nicht signifikant
+n.u.
+
+n.u.
+
+
+1988 114
+20-120vermindertPoplin97Randomisiert910Mitomycin 20Nicht signifikantn.u.
+
+n.u.
+
+
+n.u.
+
+
+1994 137
+vermindertBetticher20Randomisiert683-910CBDCASignifikant fürn.u.
+
+n.u.
+
+
+n.u.
+
+
+1995 9
+600ThrombopoeseKemp242Randomisiert910CYC 1000SignifikantSignifikantSignifikantn.u.
+
+1996 95
+CDDP 100vermindertvermindertvermindertSchiller25Nicht740 oder 910CDDP 120NeutropenieNCI-CTC Grad 3NCI-CTC Grad 3Übelkeit 32%1996 157randomisiertVBL 5NCI-CTC Grad 428%12%Erbrechen 4%92%Budd55Randomisiert910CBDCASignifikant fürn.u.
+
+n.u.
+
+
+n.u.
+
+
+1997 40
+500ThrombopoeseGelmon40Randomisiert910PaclitaxelKein UnterschiedKein Unterschiedn.u.
+
+Kein Unterschied
+1999 67250/17525Tabelle 6:FortsetzungAutorAnzahl derStudien-AmifostindosisZytostatikaHämatotoxizitätNeurotoxizitätNephrotoxizitätSonstigePatientendesign(mg/m²)(mg/m²)Toxizitäten          Chauncey21Historische910HDCTKeinn.u.
+
+Signifikant
+Kein2000 45KontrolleBusulfan12UnterschiedvermindertUnterschiedmg/kgMelphalan 100Thiotepa 500Capelli68Historische740HDCTKein UnterschiedMucositis2000 42KontrolleMelphalansignifikantvermindertJohnson84Randomisiert740CBDCA AUC 6KeinKeinKeinKein2001 91VP16 50UnterschiedUnterschiedUnterschiedUnterschiedIfo 3000Hartmann40Randomisiert910HDCTKeinn.u.
+
+Signifikant
+n.u.
+
+2001 81
+CBDCA 500UnterschiedvermindertVP16 500Ifo 4000Gradishar44Nicht910CDDP 120n.u.
+
+NCI-CTC
+n.u.
+
+n.u.
+
+
+2001 73
+randomisiertGrad 1-452%Freyer18Nicht910Docetaxel 100NeutropenieNCI-CTCNCI-CTCn.u.
+
+2002 65
+randomisiertNCI-CTC Grad > 2Grad 1-2Grad 1-289%28%33%Abkürzungen: n.u., nicht untersucht; CYC, Cyclophosphamid; CDDP, Cisplatin; CBDCA, Carboplatin; VBL, Vinblastin; VP16, Etoposid; Ifo, Ifosfamid; NCI-CTC, National Cancer Institute-Common Toxicity Criteria; HDCT, high-dose chemotherapy; AUC, area under the curve263.7.Die Wirkung von Amifostin auf die NeurotoxizitätDie zytostatikainduzierte Neuropathie stellt sich in aller Regel als periphere sensomotorische Polyneuropathie dar und ist eine Hauptnebenwirkung von Cisplatin. Bei den meisten Patienten wird sie erst ab einer kumulativen Dosierung von 270 mg/m² Cisplatin klinisch evident. Vorwiegend sind die langen sensorischen Fasern betroffen im Sinne einer axonalen Degeneration mit segmentaler Demyelinisierung 115. Hinzu kommt eine starke Anreicherung von Cisplatin in den Hinterwurzelganglienzellen, die mit der applizierten Dosis und der klinischen Symptomatik korreliert 74. Die klinischen Beschwerden äussern sich in Kribbeln und Taubheitsgefühl in den Extremitäten, besonders in den Finger- und Zehengrundgelenken. Darüber hinaus kommt es zu einer reduzierten Propriozeption der Gelenkstellungen, die klinisch mit einer Gehstörung und dem Bild einer sensorischen Ataxie einhergehen kann 28. Zur Aufdeckung der sensorischen Polyneuropathie gilt die Vibrationsschwellenmessung mit der Stimmgabel als besonders sensitiv. Die Objektivierung des Schweregrades der Polyneuropathiedurch neurophysiologische Untersuchungen wie Messung der Nervenleitgeschwindigkeit oder Elektromyographie ist bisher im Rahmen der chemotherapieinduzierten Neuropathie nicht etabliert.
+
+Erstmals in den 80er Jahren wurde in einer Studie beobachtet, dass die Häufigkeit der Neurotoxizität nach cisplatinhaltiger Therapie durch vorherige Gabe von 740 mg/m² Amifostin bei 28 Patienten auf 25% gesenkt werden konnte, im Vergleich zu 41% bei Patienten derselben Serie, die eine cisplatinhaltige Therapie ohne Amifostin erhalten hatten 114.
+
+
+Dennoch gestaltete sich die Frage nach der Wirksamkeit von Amifostin als Neuroprotektivum in den nachfolgenden Jahren als divergent. Von vier Phase III Studien konnten zwei Untersuchungen einen protektiven Effekt aufzeigen, während
+zwei weitere Studien keine Verminderung der Rate an Neurotoxizitäten nachweisen konnten 4,67,91,95.
+
+Die ersten Ergebnisse aus einer randomisierten Studie stammen aus einer Untersuchung von Patientinnen mit Ovarialkarzinom, die eine Chemotherapie mit 1g/m² Cyclophosphamid und 100 mg/m² Cisplatin über sechs Zyklen erhielten. Von den 242 Patientinnen wurden 122 vor jeder Cisplatinapplikation mit 900 mg/m² Amifostin behandelt. Es zeigte sich, dass sowohl die kumulative Inzidenz der Neurotoxizität über alle Zyklen als auch der Schweregrad signifikant geringer waren 127. In einer nachfolgenden Untersuchung stellten Kemp et al. ebenfalls nach fünf bis sechs Zyklen Cisplatin und Cyclophosphamid bei Patienten, die Amifostin erhielten, eine statistisch signifikant geringer ausgeprägte periphere Polyneuropathien und Ototoxizität fest als bei Patienten, die die Chemotherapie ohne Amifostin erhalten hatten 95. Da von beiden Autorengruppen nicht über neurologische Nachsorgeuntersuchungen berichtet wurde, bleibt es unklar, ob sich diese Unterschiede erhalten haben oder einige Wochen nach Therapieende verloren gingen.
+
+
+Johnson et al. behandelten 84 Patienten mit Carboplatin, Etoposid und Ifosfamid und randomisierten 42 Patienten für Amifostin. Die Autoren konnten zwischen den beiden Gruppen im Hinblick auf die Neurotoxizität keinen Unterschied entdecken. Einschränkend muss allerdings angemerkt werden, dass sowohl über Mess- und Untersuchungsmethoden als auch über das Gesamtauftreten der Neurotoxizitäten keine Aussage gemacht wird 91.
+
+
+Eine wesentlich genauere Aufschlüsselung der Daten wird von Gelmon et al. vorgenommen. Diese behandelten 40 Patienten mit einer Monotherapie bestehend
+27aus 250 mg/m² Paclitaxel für sechs Zyklen. Zwanzig Patienten erhielten Amifostin. Erwartungsgemäss traten in beiden Behandlungsgruppen periphere sensorische Polyneuropathien auf, die sich aber in der Anzahl an betroffenen Patienten und Schweregrad nicht unterschieden 67.
+
+Darüber hinaus gibt es eine Reihe von Phase II Studien bei Patienten mit Mammakarzinomen, Melanomen, HNO-Tumoren und nicht-kleinzelligen
+Bronchialkarzinomen, bei denen Amifostin zusätzlich zu einer cisplatinhaltigen Therapie eingesetzt wurde 70,73,134,157. Während üblicherweise eine hochdosiertecisplatinhaltige Therapie mit einer Inzidenz an Neurotoxizitäten von über 50% einhergeht, wurde dies bei zwei Studien nur bei 16-30% der Patienten beobachtet70,134. Dagegen konnten zwei später veröffentlichte Untersuchungen an jeweils 25 und 44 Patienten diese Ergebnisse nicht reproduzieren 73,157.
+
+3.8.Die Wirkung von Amifostin auf die Ototoxizität
+Die cisplatininduzierte Ototoxizität manifestiert sich klinisch als Hörverlust im Hochtonbereich bei 1000-4000 Hz. Hinzu kommt oft ein vom Patienten als sehr belastend empfundener Tinnitus. Manifest werden diese Nebenwirkungen bei ca. 20% der Patienten ab einer Cisplatindosis von 400 mg/m² 157. Mittels Ultra- Hochfrequenz-Audiometrie lässt sich allerdings bereits nach zwei Zyklen Cisplatin bei nahezu allen Patienten eine Verminderung des Hörvermögens nachweisen. Pathophysiologisch liegen der platinassoziierten Ototoxizität Schäden im Bereich der äusseren Haarzellen des Cortischen Organs zugrunde, wobei es zu einer Anreicherung von Cisplatin in den Striae vasculares des Innenohrs kommt.
+
+Die klinischen Daten zur Inzidenz der Ototoxizität unter Chemotherapie und die Protektion durch Amifostin sind rudimentär. In den meisten Studien wurde die Ototoxizität entweder erst gar nicht untersucht oder in den Publikationen nur sehr unzureichend beschrieben. Die Problematik in der Beurteilung der Nebenwirkungen auf das Hörorgan dürfte unter anderem durch die große individuelle Varianz der Toxizitätsschwelle und der subjektiven Messmethoden bedingt sein.
+
+
+Aus diesem Grund gibt es bisher keine Studie, die einen statistisch signifikanten protektiven Effekt von Amifostin auf die Ototoxizität nachweisen konnte. In einer randomisierten Studie bei 74 Patienten mit HNO Tumoren, die mit hochdosiertem Cisplatin behandelt wurden, fand sich nach vorheriger Applikation von Amifostin bei 20% der Patienten eine Ototoxizität im Vergleich zu 30% bei Patienten ohne Amifostin 134.
+
+
+Nicht signifikant waren die Ergebnisse in der bereits erwähnten Ovarialkarzinomstudie mit 8% Ototoxizität in der Amifostingruppe und 13% ohne Amifostin 4. Ebenfalls keinen statistisch relevanten Unterschied fanden Kemp et al., die wegen höhergradiger Ototoxizität bei 9% der Patienten mit Amifostin und 16% der Patienten ohne Amifostin einen Therapieabbruch vornehmen mussten 95.
+
+
+Auf der Basis der vorliegenden Daten scheint eine generelle Prävention der zytostatikainduzierten Ototoxizität mit Amifostin eher unwahrscheinlich zu sein, zumal größere Studien, die objektive Messmethoden wie Bestimmung der otoakustischen Emissionen beinhalten, zur Zeit nicht vorliegen.
+
+
+3.9.Die Wirkung von Amifostin auf die Nephrotoxizität
+Der genaue Mechanismus der zytostatikainduzierten und da speziell der cisplatininduzierten Nephrotoxizität ist weitgehend unklar. Vermutet wird eine Schädigung der Mitochondrien und eine Störung der Proteinsynthese in den28Tubuluszellen der Nephrone 5. Die Nephrotoxizität korreliert mit der applizierten Cisplatindosis und zeigt sich schon nach einmaliger Gabe von 50 mg/m² bei einem Drittel der Patienten mit einem leichten Abfall der glomerulären Filtrationsrate (GFR). Nach einer kumulativen Dosis von 300-400 mg/m² Cisplatin wird ein Abfall der GFR von 15% bei ca. zwei Drittel der Patienten beobachtet. Hinzu kommt bei 10-15% derPatienten ein langfristig anhaltender renaler Magnesiumverlust, der zur dauerhaften Hypomagnesiämie führt 5,171.
+
+Klinische Daten aus randomisierten Studien zum Einsatz von Amifostin als Nephroprotektivum liegen nur in sehr geringem Umfang vor. Kemp et al. konnten als erste bei 242 Patientinnen mit Ovarialkarzinom, die 6 Zyklen einer Chemotherapie mit Cisplatin und Cyclophosphamid erhalten hatten, eine Protekion der Nierenfunktion durch Amifostin nachweisen. Kumulativ über die gesamte Therapie fanden sich im Behandlungsarm mit Amifostin statistisch signifikant weniger Patientinnen mit einem Kreatininanstieg über 1,5 mg/dl, weniger mit einem Abfall der GFR > 40% und weniger nephrotoxizitätsbedingte Therapieabbrüche. Dieser sehr positive Effekt hatte allerdings keine Auswirkungen auf das Überleben der Patientinnen. In beiden Therapiearmen war das mediane Gesamtüberleben mit 31 Monaten gleich 95.
+
+
+In einer kürzlich publizierten Studie konnten Hartmann et al. ebenfalls einen nephroprotektiven Effekt durch Amifostin nachweisen. Vierzig Patienten mit primär fortgeschrittenen metastasierten oder rezidivierten Keimzelltumoren erhielten eine Hochdosischemotherapie mit Carboplatin, Etoposid und Ifosfamid und wurden für den Einsatz von Amifostin randomisiert. Vergleichbar mit den Ergebnissen von Kemp et al. konnte auch hier ein statistisch signifikant geringerer Abfall der GFR bei amifostinbehandelten Patienten gezeigt werden. Zum Auftreten eines akuten Nierenversagens mit oder ohne Dialysepflichtigkeit kam es in beiden Therapiegruppen nicht, so dass die klinischen Auswirkungen für die Patienten gering waren. Über das Gesamtüberleben wird keine Auskunft gegeben 81.
+
+
+Eine dritte Gruppe untersuchte in einer Phase III Studie die Wirksamkeit von Amifostin bei Patienten mit kleinzelligen Bronchialkarzinomen, die eine Polychemotherapie ebenfalls mit Carboplatin, Etoposid und Ifosfamid erhielten. Von 84 Patienten wurden 42 Patienten mit 740 mg/m² Amifostin unmittelbar vor der Zytostatikatherapie vorbehandelt. Es konnte kein Vorteil für den Einsatz von Amifostin ermittelt werden, wobei keine genaueren Angaben über den Verlauf der Nierenfunktionsparameter gemacht werden 91.
+
+
+Die Ergebnisse aus vorliegenden Phase II Studien vorwiegend bei malignen Melanomen, nicht-kleinzelligen Bronchialkarzinomen, Kopf-Hals Tumoren und nach
+HDCT bei verschiedenen Neoplasien, zeigen im Vergleich zu historischen Kontrollen nur einen Trend zur geringeren Nephrotoxizität unter Amifostin 45,70,134,157.
+
+In keiner der bisher vorliegenden Studien konnte die Frage geklärt werden, ob neben einer primären Nephroprotektion auch ein klinisch positiver Effekt von Amifostin bei Patienten mit zytostatikabedingter eingeschränkter Nierenfunktion besteht.
+
+
+3.10.Die Wirkung von Amifostin auf andere Toxizitäten
+Die Datenlage zu chemotherapiebedingten Toxizitäten, die andere Organe als das Knochenmark, das Nervensystem, das Hörorgan und die Nieren betreffen, sind nicht zuletzt durch die untergeordnete klinische Relevanz eher gering. Ergebnisse aus randomisierten Studien liegen nicht vor.
+
+Eine statistisch signifikante Reduktion im Auftreten einer Mukositis und einer zytostasebedingten Diarrhoe wurde bei 35 Patienten mit Lymphomen und Plasmozytomen beobachtet. Die Patienten wurden mit einer melphalanhaltigen HDCT und nachfolgender ASZR behandelt. Im Vergleich zu einer historischen Kontrolle von 33 Patienten, die kein Amifostin erhielten, wurden signifikant weniger Mukositiden WHO Grad 3-4 (21% versus 53%, p= 0,004), weniger Patienten, die eine opioidhaltige Schmerztherapie benötigten (20% versus 68%, p= 0,0001), und weniger Patienten mit einer Diarrhoe Grad 3-4 (3% versus 25%, p= 0,01) ermittelt 42. Chauncey et al. konnten diese eindeutigen Ergebnisse an 21 Patienten mit diversen Neoplasien, die eine HDCT mit Busulfan, Melphalan und Thiotepa mit anschliessender ASZR erhielten, nicht reproduzieren. Anhand der „Oral Mucositis Rating Scale“ wurde bei allen Patienten eine Mukositis Grad 2-4 gemessen. Dieses Ergebnis entsprach den gewonnenen Erkenntnissen aus einer Vergleichsgruppe von 104 zuvor behandelten Patienten 45.
+
+4.Patienten und Methoden
+4.1.Eigene Studien
+Beginnend im Mai 1995 wurde am Virchow Klinikum/ Charité, Campus Virchow Klinikum der Humboldt Universität zu Berlin und zuletzt an der Charité, Campus Mitte, Medizinische Fakultät der Humboldt Universität zu Berlin in sequentiellen Therapiestudien das Konzept der HDCT bei Patienten mit rezidivierten und/oder refraktären Keimzelltumoren untersucht und systematisch weiterentwickelt. Insbesondere standen dabei folgende Ziele im Vordergrund:Studie A• Optimierung des Behandlungskonzeptes der konventionellen Salvagechemotherapie vor HDCT durch die Addition von Paclitaxel zu der Kombination aus Ifosfamid und Cisplatin (TIP).
+
+•Optimierung des Behandlungskonzeptes der HDCT durch die Addition von Thiotepa zu der Kombination aus Carboplatin und Etoposid (CET).
+
+
+•Beschreibung des Nebenwirkungsspektrums und der therapeutischen Effektivität der konventionellen Salvagechemotherapie mit TIP und der HDCT mit CET.
+
+
+Studie B
+•Evaluierung des Einsatzes einer Residualtumorresektion (RTR) nach HDCT.
+
+•Evaluierung der Bedeutung von vitalem unreifen Tumor (VUT) im Resektat nach HDCT.
+
+
+Studie C
+•Optimierung der Mobilisation von peripheren Blutstammzellen nach Paclitaxel und Ifosfamid (TI) durch den Einsatz von Amifostin.
+
+•Verringerung von zytostatikainduzierten Toxizitäten durch die Verwendung von Amifostin während der konventioneller Salvagechemotherapie mit TIP und der HDCT mit CET.
+
+
+•Evaluierung der Bedeutung von Amifostin auf die Lymphozytensubpopulationen unter konventionellen Salvagechemotherapie mit TIP und der HDCT mit CET.
+
+
+In der vorliegenden Arbeit werden die Therapiestudien, die seit Mai 1995 durchgeführt wurden, zusammengefasst, die kontinuierliche klinische Weiterentwicklung des Behandlungskonzeptes bei Patienten mit rezidivierten oder progredienten Keimzelltumoren erläutert und die Bedeutung von Amifostin im Rahmen der HDCT analysiert.
+
+
+4.2.Studienkonzept
+In alle Studien wurden ausschliesslich Patienten aufgenommen, bei denen histologisch oder durch eine eindeutige Konstellation der Tumormarker AFP und HCG ein Keimzelltumor gesichert worden war, und die nach mindestens einer cisplatinhaltigen Primärtherapie einen Progress oder ein Rezidiv ihrer Erkrankung erlitten.
+
+Bei Studienbeginn wurden zunächst ausführliche Untersuchungen durchgeführt, um eine klinische Einschätzung der Tumorerkrankung vornehmen zu können und die Ein- und Ausschlusskriterien zu überprüfen. Alle Studien wurden nur nach ausführlicher vorheriger Aufklärung der Patienten, mit schriftlicher Einwilligungen in
+31die Studienbehandlung sowie in Übereinstimmung mit der Deklaration von Helsinki über die biomedizinische Forschung am Menschen und den Richtlinien der "Good Clinical Practice" durchgeführt 89,196.
+
+4.2.1.Konzept von Studie A
+Bei der ersten klinischen Studie handelte es sich um eine Phase II Untersuchung, mittels derer der Einsatz von Paclitaxel im Rahmen der konventionell-dosierten Salvagechemotherapie und die Verwendung von Thiotepa innerhalb der HDCT geprüft werden sollte. Es wurden drei Zyklen der konventionellen Chemotherapie mit TIP durchgeführt und anschliessend die HDCT mit CET. Zur effektiveren Mobilisierung von PBPZ wurde bei einem Teil der Patienten vor die TIP Zyklen eine Eintagestherapie mit Paclitaxel und Ifosfamid (TI) in Kombination mit G-CSF gestellt. Das Behandlungskonzept ist als Abbildung 5 dargestellt.
+
+Abbildung 5: Schematische Darstellung des Behandlungskonzeptes
+PBPZ⇑ -Apherese⇓ -RescueCET          Rezidiv/TITIPTIPTIPProgress                 Abkürzungen: PBPZ=Separation hämatopoetischer Progenitorzellen aus dem peripheren Blut; TI=Stammzellmobilisation mit Paclitaxel und Ifosfamid; TIP=konventionell-dosierte Chemotherapie mit Paclitaxel, Ifosfamid und Cisplatin; CET = hochdosierte Therapie mit Carboplatin, Etoposid und Thiotepa.
+
+4.2.2.Konzept von Studie B
+Bei Studie B handelte es sich um eine retrospektive Analyse aller Patienten, die nach HDCT eine partielle Remission erreichten und einer RTR unterzogen wurden. Das gewonnene Operationsmaterial wurde auf das Vorhandensein von Nekrose, reifem Teratom und vitalem undifferenzierten Tumor hin untersucht. Die Patienten wurden daraufhin hinsichtlich des histologischen Befundes in zwei Gruppen eingeteilt:•Patienten mit ausschliesslich Nekrose oder Anteilen eines reifen Teratoms im Resektat.
+
+•Patienten mit Anteilen eines VUT im Resektat.
+
+
+In der weiteren Analyse der gewonnenen Daten wurde versucht die Häuigkeit von reifem Teratom bzw. VUT darzustellen und den wesentlichen Manifestationsort zu ermitteln. Darüber hinaus wurde der Frage nachgegangen, ob bei Nachweis von
+ausschließlich nekrotischem Material im Retroperitoneum eine Residualtumorresektion der thorakalen Manifestationen notwendig ist. Ebenfalls wurde mittels einer univariaten Analyse versucht, prädiktive Faktoren, die auf das Vorhandensein von VUT hinweisen zu ermitteln. Abschließend wurden mittels der32Methode von Kaplan und Meier 93 die Überlebenskurven für das Gesamt- und das ereignisfreie Überleben berechnet.
+
+Das Behandlungskonzept ist als Abbildung 6 dargestellt.
+
+
+Abbildung 6: Schematische Darstellung des Behandlungskonzeptes
+PRm-RPRm+⇒Tnach HDCTR  Vitaler unreifer TumorNekrose Reifes TeratomAbkürzungen: PRm-=markernegative partielle Remission; PRm+=markerpositive partielle Remission; HDCT=Hochdosischemotherapie; RTR=Residualtumorresektion4.2.3.Konzept von Studie CBei Studie C handelte es sich um eine prospektive, randomisierte Phase III Studie. Das Behandlungskonzept der Patienten entspricht im wesentlichen dem der Studie A (siehe Abbildung 5). Zusätzlich zur konventionellen Chemotherapie mit TIP und zur HDCT mit CET wurden die Patienten zur Durchführung einer Therapie mit Amifostin randomisiert. Ausserdem erhielten alle Patienten zur PBPZ-Mobilisation einen Eintageszyklus mit TI. Amifostin wurde an jedem Tag TI/TIP unmittelbar vor Therapiebeginn appliziert und zweimal täglich während der HDCT, vor und nach Carboplatin.
+
+Während der Phase der PBPZ-Mobilisation wurde täglich G-CSF (Neupogen) bis zum letzten Tag der Stammzellapherese eingesetzt. Ebenfalls wurden die Gesamtleukozyten und die CD34+ Zellen im peripheren Blut bis zum Abschluss der PBPZ-Apherese gemessen 163. Ab einer Anzahl von 10/µl CD34+ Zellen im PB wurde die Stammzellsammlung begonnen und bis zu einer angestrebten Gesamtmenge von 2,5 x 106 CD34+ Zellen pro kg Körpergewicht des Patienten im Asservat fortgesetzt 162. Die Technik der Apherese von PBPC und die
+Kryokonservierung des gewonnenen PBPZ Produktes wurde andernorts ausführlich beschrieben 162,167.
+
+Vor Beginn eines jeden Chemotherapiezyklus, bei beginnender hämatologischer Regeneration nach HDCT (Gesamtleukozyten > 1000/µl im peripheren Blut) und 6 bzw. 12 Wochen nach Rückgabe der PBPZ wurden die lymphozytären Subpopulationen im peripheren Blut gemessen. Die Technik dafür wurde ebenfalls gesondert beschrieben 164.
+
+
+Zur Beurteilung der Nebenwirkungen und der zytostatikainduzierten Toxizitäten wurden die Patienten vor jedem Therapiezyklus, während HDCT und 6 bzw. 12 Wochen nach Rückgabe der PBPZ befragt und mittels einer modifizierten WHO Toxizitätsskala evaluiert und in Schweregrade von 1 bis 4 eingeteilt 195.
+
+4.3.Patientenkollektiv4.3.1.EinschlusskriterienEs wurden ausschliesslich Patienten in die Studien aufgenommen, bei denen die unten stehenden Einschlusskriterien erfüllt waren:(1)histologisch und/oder durch eindeutigen Nachweis eines Serumtumormarkers gesicherter Keimzelltumor,(2)jeder Progress und jedes Rezidiv eines Keimzelltumors nach mindestens drei cisplatinhaltigen Chemotherapiezyklen, d.h auch Patienten nach vorangegangenen erfolglosen Salvagetherapieversuchen,(3)radiologisch und/oder serologisch messbare Tumormanifestationen,(4)schriftliche Einwilligung nach vorheriger Aufklärung.
+
+4.3.2.Ausschlusskriterien
+Es wurden ausschliesslich Patienten in die Studien aufgenommen, bei denen keines der unten stehenden Ausschlusskriterien zutraf:(1)Karnofskystatus < 60% 94,(2)pathologisch eingeschränkte Organfunktionen definiert als:-Serumkreatinin > 1.3 fache des Normalwertes oder einerKreatininclearance < 70 ml/min (mittels der Formel nach Cockroft 46 bestimmt),-Bilirubin > 1.5 fache oder Serumtransaminasen > 2.0 fache des Normalwertes,-klinisch manifeste Herzerkrankung,-Diffusionsstörung der Lunge mit DLco < 60% des Normalwertes,-Knochenmarkinsuffizienz mit peripheren Leukozytenzahlen < 3000 /µl,und/oder peripheren Thrombozytenzahlen < 100 000 /µl,(3) Patienten mit Rezidiv oder Progress nach vorangegangener HDCT,(4)HIV Erkrankung,(5)Unvermögen zur schriftlichen Einwilligungserklärung,(6)zu erwartende Non-compliance des Patienten.
+
+4.3.3.Ausbreitungsdiagnostik und Untersuchungen im Studienverlauf
+Die Untersuchungen bei Beginn von Studie A und Studie C, im Verlauf und nach Ende der Studientherapie sind in Tabelle 7 dargestellt.
+
+Tabelle 7: Untersuchungen bei Studienbeginn und im Studienverlauf.
+
+
+Therapie
+nach Therapieende        beivor6.
+
+12.
+
+
+3. bis 12.
+
+
+ab 12. Monat
+  BeginnHDCTWocheWocheMonatalle 6 Monatealle 3Monate        AnamneseundXXXXXX       körperlicher BefundXXXXXX       ToxizitätsbeurteilungXXXXXX        34Fortsetzung Tabelle 7Therapienach Therapieende          beivor6.
+
+12.
+
+
+3. bis 12.
+
+
+ab 12. Monat
+ BeginnHDCT WocheWocheMonatalle 6 Monatealle 3Monate          Marker AFP/HCGXXXXXX          RoutinechemielaborXXXXXX          Kreatininclearance #XXXInfektionslabor §XXEKGXX          LungenfunktionXWiederholung nur bei klinischer Indikation      CT SchädelXWiederholung nur bei klinischer Indikation         CT Thorax/AbdomenXXXXXX       SkelettszintigraphieXWiederholung nur bei klinischer Indikation          Sonographie HodenXXX          Abkürzungen und Erläuterungen: CT = Computertomographie; AFP = Alpha-Fetoprotein; HCG = Humanes Chorion Gonadotropin; # = berechnet nach der Formel von Cockroft 21; § = Hepatitisserologie und HIV Serologie; EKG = Elektrokardiographie.
+
+Bei allen Patienten wurden vor Beginn der konventionell-dosierten Studientherapie der bis dahin stattgehabte Krankheitsverlauf, die durchgeführte Behandlung des Keimzelltumors und die allgemeine Anamnese dokumentiert sowie ein sorgfältiger körperlicher Befund erhoben. Zusätzlich wurden eine konventionelle Röntgenaufnahme des Thorax, CT Untersuchungen des Kopfes, des Thorax und des Abdomens, einschliesslich des kleinen Beckens, sowie ein Elektrokardiogramm (EKG) und eine Lungenfunktionsprüfung, einschliesslich einer Bestimmung der Diffusionskapazität der Lunge für Kohlenmonoxid (Dlco), durchgeführt. Bei entsprechendem Verdacht auf Knochenmetastasen wurden zusätzlich entweder eine Skelettszintigraphie, eine Kernspintomographie der betroffenen Region oder beides veranlasst. An laborchemischen Parametern wurden die Tumormarker AFP und HCG bestimmt sowie Routinelaborparameter zur Bestimmung der Knochenmarkfunktion, der Leber- und der Nierenfunktion.
+
+
+Unmittelbar vor sowie 6 und 12 Wochen nach HDCT wurde eine erneute Ausbreitungsdiagnostik durchgeführt, die eine konventionelle Röntgenuntersuchung des Thorax, ein CT des Thorax und des Abdomens, einschliesslich des kleinen Beckens, umfasste sowie zusätzlich radiologische Untersuchungen der Regionen, in denen vor HDCT pathologische Befunde erhoben worden waren. Zudem wurden die Messungen der vor Beginn der konventionell-dosierten Studientherapie bereits untersuchten laborchemischen Parameter, sowohl vor HDCT als auch 6 und 12 Wochen danach, wiederholt. Danach folgten Untersuchungstermine je nach
+35klinischer Situation, in der Regel aber in dreimonatigen Abständen im ersten Jahr und in sechsmonatigen Abständen ab dem zweiten Jahr nach HDCT.
+
+4.4.Konventionell-dosierte Studientherapie
+Ein Teil der Patienten aus Studie A und alle Patienten aus Studie C erhielten zunächst einen Zyklus Chemotherapie mit Paclitaxel und Ifosfamid zur Mobilisierung von peripheren Blutstammzellen. Paclitaxel wurde in einer einmaligen Dosierung von 175 mg/m²/d gelöst in 500 ml G5% über 3 Stunden mittels eines PVC-freien Systems infundiert. Ifosfamid wurde in einer Dosierung von 5 g/m² in 1000 ml NaCl 0,9% gelöst und über 24 Stunden infundiert. Ab dem dritten Tag nach Beginn von TI wurde die Mobilisation von PBPC durch den Einsatz von G-CSF (Neupogen) in einer Dosierung von 5-10 µg/kg Körpergewicht pro Tag bis zur letzten Stammzellapherese unterstützt.
+
+Nach erfolgreicher PBPC-Apherese von mindestens 2,5 x 106 CD34+ Zellen pro kg Körpergewicht wurde die Therapie mit dem ersten Zyklus TIP fortgesetzt. Paclitaxel wurde wiederum in einer Dosierung von 175 mg/m² gelöst in 500 ml G5% am ersten Tag über 3 Stunden mittels eines PVC-freien Systems infundiert. Ifosfamid wurde in einer Dosierung von 1,2 g/m²/d in 250 ml NaCl 0,9% gelöst und über 2 Stunden für insgesamt 5 Tage infundiert. Cisplatin wurde in einer Dosierung von 20 mg/m²/d in 250 ml NaCl 0,9% gelöst und über 1 Stunde für insgesamt 5 Tage infundiert. Im Abstand von 21 Tagen wurde der zweite und der dritte Zyklus in der gleichen Art und Weise angeschlossen.
+
+
+Die randomisierten Patienten aus Studie C erhielten Amifostin in einer Dosierung von 500 mg absolut in 100 ml NaCl 0,9% über 30 Minuten an jedem Chemotherapietag entweder unmittelbar vor Paclitaxel oder Cisplatin.
+
+
+Sofern sich während der konventionellen Chemotherapie keine der unter 4.3.2. genannten Ausschlusskriterien ergeben hatten und ausreichend Progenitorzellen für eine ASCR gewonnen werden konnten, erhielten die Patienten danach einen Zyklus einer HDCT mit CET.
+
+
+4.5.Hochdosierte Studientherapie
+Im Rahmen der HDCT wurde Carboplatin 1500 mg/m² (Carboplat, Bristol Arzneimittel, München), Etoposid 2400 mg/m² (Vepesid, Bristol Arzneimittel, München) und Thiotepa 450-750 mg/m² (Thiotepa“Lederle“, Lederle Arzneimittel GmbH, Münster) verwendet. Bis auf eine Dosisreduktion von Thiotepa veränderte sich die Dosis der Medikamente während des Studienablaufs nicht. Aufgrund des gehäuften Auftretens von Hauttoxizitäten WHO Grad 3-4 unter der anfänglich hohen Dosierung von 750 mg/m² Thiotepa wurde die Dosis auf 450 mg/m² reduziert. Weitere individuelle Dosisanpassungen z.B. bei Auftreten akuter Nephrotoxizität waren jedoch auch bei dieser fixen Medikamentendosierung möglich.
+
+Bezüglich der Applikationsweise wurde Carboplatin in drei Einzeldosierungen von Tag -6 bis Tag -4, in jeweils 250 ml Glucose 5% über eine Stunde infundiert. Etoposid wurde über Perfusor als unverdünntes Konzentrat in vier Einzeldosen von Tag -6 bis Tag -3 als jeweils einstündige Infusion gegeben. Thiotepa wurde ebenfalls in drei Einzeldosen in 250 ml NaCl 0.9% Lösung über eine Stunde gegeben.
+
+
+Einen Tag vor, während der gesamten Dauer der zytostatischen Chemotherapie und danach bis zum Tag der Rückgabe der autologen Blutstammzellen am Tag 0 wurde bei allen Patienten eine forcierte alkalische Diurese mit einem Volumen von 2000 ml/m2 und Furosemidgaben bei Bedarf durchgeführt. Das Applikationsschema der
+36HDCT ist in Tabelle 8 nochmals zusammenfassend dargestellt. Als Bezugspunkt wurde immer der Tag der ASCR am Tag 0 gewählt. Das Auftauen und die Technik der Reinfusion erfolgten unter Standardbedingungen 167.
+
+Tabelle 8: Applikationsschema der HDCT.
+
+
+Medikament
+Tag -6Tag -5Tag -4Tag -3Tag-2Tag -1Tag 0Carboplatin500500500000(in mg/m²)AEtoposid60060060060000S(in mg/m²)ZRThiotepa150 (250)*150 (250)*150 (250)*000(in mg/m²)*die kursiv und in Klammern gedruckten Mengenangabe betrifft die Dosierung, die nur 11 Patienten gegeben wurde.
+
+Abkürzungen: HDCT, Hochdosischemotherapie; ASZR, Rückgabe von autologen Blutstammzellen
+4.6.Supportive TherapieDie Betreuung der Patienten während der konventionell-dosierten Therapie erfolgte unter Standardbedingungen auf einer peripheren hämatologischen/onkologischen Station.
+
+Während der HDCT wurden die Patienten vom Behandlungsbeginn bis zum Tag der Knochenmarkregeneration auf Leukozytenwerte > 1000 /∝l im peripheren Blut in Einzelzimmern mit Umkehrisolation ohne Luftfiltration betreut. Intravenöse Medikamentengaben, Infusionen sowie die zytostatische Chemotherapie wurden über einen, vor HDCT gelegten, doppellumigen, untertunnelten, zentralvenösen Katheter (Hickman, C.R.Bard Ireland Limited, Parkmore, Galway, Ireland) verabreicht. Ab dem Tag -7 bis Tag -2 erhielten alle Patienten Allopurinol (Zyloric, Deutsche Wellcome, Burgwedel) 300 mg per os. Ciprofloxacin (Ciprobay, Bayer, Leverkusen) 3 x 250 mg täglich per os und orales Amphotericin B 2400 mg (Ampho- Moronal, Squibb Heyden, München) pro Tag wurden ebenfalls ab Tag -7 zur Darmdekontamination gegeben. Bei Auftreten von Fieber und systemischer Antibiotikagabe wurde die Dekontamination mit Ciprofloxacin beendet, die Dekontamination mit oralem Amphotericin B zur Vermeidung von Pilzinfektionen jedoch fortgeführt. Bei Fieber > 38.0 oC wurde zunächst mit einer empirischen intravenösen Antibiotikakombination aus Cefotaxim (Claforan, Hoechst, Frankfurt am Main) und Piperacillin (Pipril, Lederle Arzneimittel, Wolfratshausen) begonnen,
+37bei Nichtentfieberung nach 72h wurde intravenös Vancomycin (Vancomycin, Lilly Deutschland, Giessen) hinzugefügt. Die empirische antimikrobielle Therapie wurde der jeweiligen klinischen Situation oder den mikrobiologischen Befunden entsprechend angepasst. Um eine adäquate kalorische Versorgung der Patienten sicherzustellen, erfolgte je nach Bedarf ab dem Tag +1 bis zum Abklingen der Übelkeit und Abheilung einer bestehenden Mucositis eine totale parenterale Ernährung.
+
+Alle Patienten erhielten Transfusionen von Erythrozytenkonzentraten (EK) nach Bedarf, um einen stabilen Hämoglobinwert von > 8,0 g/dl zu erreichen sowie Thrombozytenkonzentrate (TK) von Einzelspendern, um die Thrombozytenwerte im peripheren Blut über 10.000 /∝l zu halten. Alle transfundierten Blutprodukte wurden zur Vermeidung einer transfusionsinduzierten Transplantat-gegen-Wirt Reaktion gefiltert und mit 25 Gray bestrahlt. Alle Patienten erhielten den hämatopoetischen Wachstumsfaktor G-CSF. Dieser wurden als kontinuierliche i.v. Dauerinfusion in einer Dosierung von 5 µg/kg Körpergewicht des Patienten ab dem Tag +1 nach Stammzellrückgabe bis zum Erreichen von Granulozytenzahlen > 1000 /µl im peripheren Blut an zwei aufeinanderfolgenden Tagen appliziert.
+
+
+4.7.Behandlung nach HDCT
+Bei allen Patienten, die nach HDCT eine PRm- erreicht hatten, oder bei denen nach HDCT die Tumormarker AFP oder HCG nur noch geringfügig erhöht nachweisbar waren und deren radiologische Manifestationen chirurgisch resektabel erschienen, wurde, um das Therapieansprechen histologisch zu sichern und eventuell verbliebene reifzellige oder unreifzellige Tumoranteile nach HDCT zu entfernen, eine vollständige Resektion der nach HDCT verbliebenen Tumormanifestationen angestrebt (Studie B). Bei Patienten mit Rezidiv oder Progress nach HDCT erfolgte die individuelle Behandlung.
+
+4.8.Beurteilung des Therapieerfolges
+Eine CR wurde definiert als ein vollständiges Verschwinden aller klinisch, radiologisch oder laborchemisch nachweisbaren Tumormanifestationen. Eine vollständige Resektion vitalen Tumors, von reifzelligem Teratom oder von nekrotischen Tumorresten ohne weitere nachweisbare Tumormanifestationen und bei negativen Tumormarkern AFP und HCG wurde als pathologisch dokumentierte CR (pCR) gewertet. Wurden in dem resezierten Material auch vitale undifferenzierte Tumoranteile nachgewiesen, wurde dies als chirurgisch erzielte CR (sCR) gewertet. Eine PRm- lag bei einer Reduktion radiologisch nachweisbarer Tumormanifestationen um ≥ 50% und bei normalwertigen Tumormarkern AFP oder HCG im Serum vor. Eine markerpositive partielle Remission (PRm+) lag bei einer Reduktion radiologisch nachweisbarer Tumormanifestationen um ≥ 50% und bei fortbestehenden Tumormarkern oder bei einer Reduktion der Serumtumormarker AFP oder HCG um ≥ 90% und einer Reduktion radiologisch nachweisbarer Tumormanifestationen < 50% vor. Eine progrediente Erkrankung (PD) lag bei einer Zunahme radiologisch nachweisbarer Tumormanifestationen um ≥ 25% oder einer Zunahme der Tumormarker AFP oder HCG um mehr als 10% vor. Jede Veränderung radiologisch nachweisbarer Tumormanifestationen oder der Serumtumormarker AFP oder HCG, die nicht einer der zuvor genannten Kategorien entsprach, wurde als stabiler Tumorstatus (SD) gewertet.
+
+4.9.Definitionen der Tumorsensitivität
+Die Sensitivität einer Tumorerkrankung wurde entsprechend der von Nichols, Linkesch und Motzer vorgeschlagenen Klassifikation in Abhängigkeit desTherapieansprechens auf eine cisplatinhaltige Chemotherapie eingeteilt 105,119,127. Eine Tumorerkrankung wurde als sensitiv beurteilt, wenn mindestenseine partielle Remission der Erkrankung für mehr als vier Wochen nach der letzten cisplatinhaltigen Chemotherapie erzielt wurde. Eine Tumorerkrankung wurde als refraktär beurteilt, wenn mindestens eine partielle Remission der Erkrankung erzielt wurde, aber wenn innerhalb von weniger als vier Wochen nach der letzten cisplatinhaltigen Therapie ein erneuter Progress auftrat, oder wenn als bestes Therapieansprechen lediglich eine Stabilisierung der Tumorerkrankung beobachtet wurde. Eine Tumorerkrankung wurde als absolut refraktär beurteilt, wenn noch nicht einmal eine Stabilisierung der Erkrankung durch eine cisplatinhaltige Chemotherapie erzielt werden konnte.
+
+4.10. Dokumentation und statistische Verfahren
+Relevante Patientendaten und Verlaufsparameter wurden in einem Erhebungsbogen schriftlich dokumentiert und nach Plausibilitätskontrolle der dokumentierten Daten in das Datenverwaltungsprogramm dBASE für Windows5.0 (Borland International, Scotts Valley, California, USA) auf einem IBM Personalcomputer eingegeben. Statistische Analysen erfolgten computerisiert mittels des Statistikprogrammes CSS STATISTICA V 5.0 (StatSoft, Tulsa, Oklahoma, USA). Die Darstellung der Wahrscheinlichkeiten für Gesamtüberleben und ereignisfreies Überleben erfolgte nach der von Kaplan und Meier beschriebenen Methode 93. Zur Berechnung der Wahrscheinlichkeiten für das Gesamtüberleben wurde der Tag der Stammzellrückgabe bis zum Todestag bzw. für die nach HDCT lebenden Patienten dem Tag des jeweils letzten Nachuntersuchungstermines herangezogen. Zur Berechnung des ereignisfreien Überlebens wurde die Zeit zwischen Stammzellrückgabe und negativem Ereignis, bzw. für Patienten ohne negatives Ereignis dem Tag des letzten Nachuntersuchungstermines verwendet. Als negatives Ereignis galten in allen Analysen ein Progress oder ein Rezidiv der Tumorerkrankung sowie der Tod eines Patienten, jedwelcher Ursache. Der Vergleich der Wahrscheinlichkeiten für das Gesamtüberleben und das ereignisfreie Überleben erfolgte mittels des Log-Rank Testes nach Mantel 111. Für den Vergleich kategorischer Variablen zwischen Patientengruppen wurde der exakte Test nach Fisher herangezogen. Der Vergleich kontinuierlicher Variablen zwischen Patientengruppen erfolgte mittels des Mann-Whitney U Testes 152. Statistische Signifikanz wurde bei einer Wahrscheinlichkeit p < 0,05 angenommen.
+
+5.Darstellung der Studienergebnisse
+5.1.Studie A: Phase II Studie mit konventioneller und hochdosierter Salvagechemotherapie
+5.1.1.Rationale
+Wie schon weiter oben ausgeführt kann die Durchführung einer HDCT mit Rückgabe autologer Blutstammzellen bei Patienten mit rezidivierten oder progredientenKeimzelltumoren nach einer platinhaltigen Primärtherapie oder konventionellen Salvagechemotherapie noch eine kurative Therapieoption darstellen 36,127,166.
+
+Darüber hinaus scheint die HDCT im ersten Rezidiv die Ansprechraten das Gesamt- und das ereignisfreie Überleben zu verbessern 19,37,167. In Abhängigkeit von Risikofaktoren wie Lokalisation des Primärtumors, Cisplatinsensitivität und Werte des Tumormarkers HCG induziert die HDCT ein Langzeitüberleben bei 10-40% der Patienten. Bei Patienten, die primär cisplatinrefraktär sind oder unter
+Salvagchemotherapie dieses werden, kann in aller Regel auch die HDCT keine Erfolge mehr erzielen 14,127. Aus diesem Grund ist es notwendig, neueMedikamente, die nicht über eine Kreuzresistenz mit Cisplatin verfügen, in das therapeutische Konzept einzubeziehen.
+
+Paclitaxel ist eines der wenigen Medikamente, welches bei Patienten mit rezidivierten oder progredienten Keimzelltumoren nach HDCT sowohl in der Monotherapie, als auch in Kombination mit Cisplatin und Ifosfamid noch ein Ansprechen zeigen kann.
+
+
+Auch bei cisplatinrefraktären Tumoren scheint Paclitaxel die Empfindlichkeit bei einem Teil der Patienten wieder herzustellen 27,120,121,122. Aufgrund der guten
+intrazerebralen Wirkung und der Möglichkeit der Dosiseskalation wurde der Einsatz von Thiotepa erwogen. Wenngleich Studien zur Monotherapie bei Keimzelltumoren fehlen, zeigt das Medikament in Kombination mit Carboplatin und Cyclophosphamid eine gute Wirksamkeit 147.
+
+Aus diesem Grund initiierten wir eine Phase II Studie, die die Wirksamkeit und Verträglichkeit einer Salvagechemotherapie bestehend aus drei Zyklen Paclitaxel, Ifosfamid und Cisplatin (TIP) und einem Zyklus HDCT mit Carboplatin, Etoposid und Thiotepa (CET) mit anschliessender autologen Stammzellrückübertragung evaluieren soll. Ebenfalls sollte das Ansprechen bei Patienten mit cisplatinrefraktären oder absolut refraktären Tumoren analysiert werden. Letzendlich erhofften wir durch den Austausch der Oxazaphosphorine Ifosfamid und Cyclophosphamid durch Thiotepa, die bekannte Rate an Nephrotoxizitäten nach HDCT deutlich senken zu können.
+
+
+5.1.2.Patientenkollektiv
+Zwischen Mai 1995 und Februar 1997 wurden insgesamt 80 Patienten in das oben beschriebene Studienprotokoll eingebracht. Davon wurden 46 Patienten an der Charité Berlin behandelt, 23 Patienten in Tübingen, 4 Patienten in Oldenburg, jeweils 2 Patienten in Nürnberg, Rostock und Homburg und ein Patient in Halle. Es wurden ausschließlich Patienten eingeschlossen, die unter einem nachgewiesenen Keimzelltumor litten und einen eindeutigen Progress oder ein Rezidiv ihrer Erkrankung nach cisplatinhaltiger Therapie hatten. Das Rezidiv oder der Progress der Erkrankung mußte durch den Anstieg eines Tumormarkers und den radiologischen Nachweis belegt sein. Im Falle eines markernegativen Rezidivs/Progress musste eine histologische Sicherung erfolgen.
+
+Weiterhin mussten die Patienten über einen Karnofsky-Status von mindestens 60% verfügen und eine nach der Cockroft Formel berechnete Kreatininklearance von mindestens 70 ml/min haben. Des weiteren sollte keine andere wesentlichen
+40Organdysfunktion vorliegen. Das Studienprotokoll wurde sowohl von der Ethikkommission der Charité Berlin als auch von den Ethikkommissionen der teilnehmenden Studienzentren geprüft und genehmigt. Jeder Patient gab seine schriftliche Einwilligung zur Teilnahme an der Studie.
+
+5.1.3.Ergebnisse
+Die Patientencharakteristika und die Verteilung der bekannten Risikofaktoren sind in Tabelle 9 dargestellt. Im Rahmen der Vortherapie erhielten 79/80 Patienten (99%) Etoposid und 53/80 Patienten (66%) Ifosfamid. Die Studientherapie wurde bei 54/80 Patienten (67%) als erste Salvagechemotherapie und bei 26/80 Patienten (33%) als zweite oder nachfolgende Salvagechemotherapie durchgeführt. Eine primäre HDCT mit 3-4 sequentiellen dosisintensivierten PEI Zyklen erhielten 4/80 Patienten (5%) 121,122. Vor Beginn der Studie war die Mehrzahl der Patienten empfindlich für Cisplatin und konnten als sensitiv eingestuft werden. Darüber hinaus waren 13% der Patienten refraktär und 11% absolut refraktär auf Cisplatin.
+
+Tabelle 9: Patientencharakteristika vor Beginn der Studientherapie.
+
+
+Lokalisation des Primärtumors
+n = 80%  Hoden6784Retroperitoneum ± Mediastinum1012Mediastinum34Zeitpunkt der StudientherapieErste Salvagechemotherapie5467Zweite oder nachfolgende Salvagechemotherapie2633Anzahl an cisplatinhaltigen ZyklenMedian5Range2-14Ansprechen auf Cisplatin 14sensitiv6176refraktär1013absolut refraktär911Vorausgegangene TherapieschemataPEI + dosisintensiviert4860PEB3645PIV68PVB34Andere1924Maximales Ansprechen auf konventionelleStudientherapie vor HDCTCR, pCR, sCR2835PRm-, PRm+, SD, PD5265Zeitraum des besten AnsprechensKeine Remission23< 3 Monate41513 – 12 Monate2126> 12 Monate162041Fortsetzung Tabelle 9Höhe des Tumormarkers HCGn = 80%  < 10 U/L (normal)374610 bis 1000 U/L2430> 1000 U/L1924Höhe des Tumormarkers AFP< 10 ng/nl (normal)516410 bis 1000 ng/ml1822> 1000 ng/ml1114Abkürzungen und Erläuterungen: PEI = Cisplatin, Etoposid, Ifosfamid; PEB = Cisplatin, Etoposid, Bleomycin; PIV = Cisplatin, Ifosfamid, Vinblastin; PVB = Cisplatin, Vinblastin, Bleomycin; Dosisintensiviertes PEI = normal dosiertes Cisplatin plus dosiserhöht Etoposid und Ifosfamid; CR = komplette Remission; pCR = komplette Remission nach Resektion von Nekrose oder reifzelligem Teratom; sCR = komplette Remission nach Resektion von vitalem, undifferenziertem Tumor; PRm- = partielle Remission mit negativen Tumormarkern; PRm+ = partielle Remission mit positiven Tumormarkern; SD = stabile Tumorerkrankung; PD = progrediente Tumorerkrankung; HCG = Humanes Chorion Gonadotropin; AFP = Alpha-Fetoprotein.
+
+5.1.3.1.Ansprechen auf die konventionelle Chemotherapie
+Alle 80 Patienten waren für die Beurteilung des Ansprechens auf TIP auswertbar. Im Median wurden 3 Zyklen TIP (Range: 1-5) verabreicht, 3/80 Patienten (4%) erhielten nur einen Zyklus TIP, 7/80 Patienten (9%) erhielten 2 Zyklen und 66/80 Patienten (83%) erhielten 3 Zyklen TIP. Mehr als 3 Zyklen TIP wurden 4/80 Patienten (5%) verabreicht. Zur Gewinnung von PBPZ wurde bei 23/80 Patienten (29%) ein Zyklus TI den TIP-Zyklen vorangestellt.
+
+Ein gutes Ansprechen (CR, PRm-, PRm+) auf die Studientherapie mit TIP erreichten 74% der cisplatin-sensitiven Patienten (95% CI, 63%-85%) und 80% der cisplatin- refraktären Patienten (95% CI, 55%-100%). Von den Patienten, die als absolut refratär auf Cisplatin eingestuft wurden, erreichten nur 22% ein gutes Ansprechen (95% CI, 0%-50%) (Tabelle 10). Die HDCT erhielten planmäßig 71% von den cisplatin-sensitiven Patienten, 50% von den cisplatin-refraktären Patienten und nur 22% von den absolut refraktären Patienten.
+
+
+5.1.3.2.Ansprechen auf die HDCT
+62/80 Patienten (78%) erhielten eine HDCT. Die übrigen 18 Patienten konnten aus den folgenden Gründen nicht mit der HDCT behandelt werden: Progress der Erkrankung unter TIP (n= 14), Tod durch eine Lungenblutung (n= 1), keine Sammlung von Stammzellen möglich (n= 2), ein Patient lehnte die HDCT ab. Alle diese Patienten verstarben nachfolgend im Tumorprogress (Abbildung 7).
+
+Von den 62 Patienten, die einer HDCT zugeführt werden konnten, erreichten 11 Patienten (18%) eine cCR (95% CI, 8%-27%), 7 Patienten (11%) eine pCR (95% CI, 3%-19%) nach einer Residualtumorresektion von Nekrose/reifem Teratom und 10 Patienten (16%) eine sCR (95% CI, 7%-25%) nach der Resektion von VUT. Eine PRm- als bestes Ansprechen auf die HDCT konnte bei 11/62 Patienten (18%) festgestellt werden (95% CI, 8%-27%) während 2/62 Patienten (3%) eine PRm+ für mehr als 2 und 3 Monate erreichten (95% CI, 0%-8%). Die übrigen 20 Patienten (32%) (95% CI, 20%-44%) erreichten nur eine SD (n= 3) bzw. waren unmittelbar nach HDCT erneut progredient (n= 17). Ein Patient verstarb während der HDCT an
+42einem Multiorganversagen.
+
+Tabelle 10: Ansprechraten auf die Therapie mit TIP im Verhältnis zur Cisplatin-
+empfindlichkeitCisplatinempfindlichkeitAnsprechen auf TI/TIPbei Studienbeginn          cCRPRm-PRm+SDPDNo.
+
+(%)
+No.(%)No. (%)No. (%)No. (%)No. (%)Sensitiv61(76)9(15)19(31)17(28)3(5)13(21) §Refraktär10(13)-4(40)4(40)-2(20)Abs. Refrak.
+
+9
+(11)--2(22)2(22)5(56)             All80(100)9(11)23(29)23(29)5(6)20(25)Abkürzungen und Erläuterungen: HDCT = Hochdosischemotherapie; cCR = klinisch komplette Remission; PRm- = partielles markernegatives Ansprechen; PRm+ = partielles markerpositives Ansprechen; SD = stable disease; PD = progressive disease; abs. refr. = absolut refraktär; § = ein Patient starb an einer intrapulmonalen Einblutung; TI = Paclitaxel und Ifosfamid; TIP = Paclitaxel, Ifosfamid, Cisplatin; CET = Carboplatin, Etoposid, Thiotepa.
+
+Abbildung 7: Verlauf der Patienten innerhalb der StudiePatienten bei Studieneinschlussn = 80KonventionelleChemotherapien=80HDCTkeine HDCTn = 62n = 18lebentotlebentotn = 26n = 36n = 0n = 18       Abkürzungen:HDCT = Hochdosischemotherapie mit CET445.1.3.3.Überleben nach der StudientherapieNach einer medianen Nachbeobachtungszeit von 36 Monaten (Range: 22-46 Monaten) waren noch 26/80 Patienten (33%) am Leben und von diesen 21 Patienten (26%) rezidivfrei (Abbildung 8). Das ermittelte Gesamtüberleben von allen 80 Patienten nach 3 Jahren beträgt 30% und das ereignisfreie Überleben 25%. Von den 40 Patienten, die nach HDCT ein Rezidiv oder einen Progress erlitten, konnten 2 Patienten mittels einer Operation ± Chemotherapie erfolgreich behandelt werden. Zwei weitere Patienten sind mit aktiver Erkrankung am Leben. Für die 62 Patienten, die mittels HDCT behandelt werden konnten, sind in Abbildung 9 und 10 die Überlebenskurven in Abhängigkeit der Prognosegruppen von Beyer undMitarbeitern14 dargestellt.
+
+Abbildung 8: Gesamt- und ereignisfreies Überleben aller 80 Patienten nach Studieneinschluss
+Überlebenswahrscheinlichkeit1,0  0,9  0,8 0,7 0,6 0,5 0,4 0,3 0,2 0,1 0,0Gesamtüberleben (n= 80)Ereignisfreies Überleben (n= 80)1234Jahre nach Einschluss in die Studie45Abbildung 9: Gesamtüberleben aller 62 Patienten, die eine HDCT erhielten in Abhängigkeit der PrognosegruppeÜberlebenswahrscheinlichkeit1,00,90,80,70,6"good risk" (n=40)0,50,40,30,20,1"intermediate risk" (n=13)"poor risk" (n=9)0,01234Jahre nach Einschluss in die StudieAbbildung 10: Ereignisfreies Überleben aller 62 Patienten, die eine HDCT erhielten, in Abhängigkeit der PrognosegruppeÜberlebenswahrscheinlichkeit1,00,90,80,70,60,50,4                                        "good risk" (n=40)  0,3  "poor risk" (n=9)              0,2                                                        0,1         "intermediate risk" (n=13)                                           0,0   1 23  4       Jahre nach Einschluss in die Studie465.1.3.4.Toxizitäten unter der StudientherapieAlle 80 Patienten waren für die Toxizitätsevaluierung unter TIP und alle 62 Patienten für die Erhebung unter der HDCT mit CET auswertbar. Die Hämatotoxizität unter der konventionellen Therapie mit TIP war vergleichbar mit anderen Regimen. Bei 51% der Patienten mussten Erythrozytenkonzentrate und bei 23% der Patienten Thrombozytenkonzentrate verabreicht werden. Eine Neutropenie ≥ 3 Grades trat bei 79% der Patienten auf und führte bedingt durch neutropenisches Fieber bei 10% der Patienten zu einem Krankenhausaufenthalt. Schwere Infektionen oder Organtoxizitäten > 3 Grades traten unter TIP nicht auf. Ein Patient mit einer ausgedehnten intrapulmonalen Metastasierung verstarb nach dem ersten Zyklus TIP aufgrund einer Lungenblutung.
+
+Die relevante Toxizität unter TIP war die periphere Polyneuropathie. Eine sensomotorische Neuropathie ≥ 2 Grades mit Einschränkung der Feinmotorik trat bei 17/76 Patienten (22%) auf und Parästhesien ≥ 2 Grades bei 11/76 Patienten (14%). Vier Patienten waren für die Evaluierung der Neuropathie nicht auswertbar aufgrund inkompletter Daten.
+
+
+Bei den meisten Patienten verschlechterte sich durch die HDCT mit CET die unter TIP aufgetretene Polyneuropathie. Sensomotorische Neuropathien ≥ 2 Grades traten nach HDCT bei 18/62 Patienten (29%) auf, 15% mit einer Grad 4 Toxizität. Parästhesien ≥ 2 Grades erlitten 15/62 Patienten (24%), 7% mit einer Grad 4 Toxizität. Sowohl die sensomotorische Polyneuropathien als auch die Parästhesien persistierten in ihrer Ausprägung über die ersten Wochen nach Abschluss der HDCT und nahmen dann langsam an Intensität ab. Eine Ototoxizität mit relevanter Hörminderung ≥ 2 Grades trat bei 20/62 Patienten (32%) nach der HDCT auf. Vergleichbar mit den peripheren Polyneuropathien persistierte diese in den ersten Wochen nach HDCT.
+
+
+Andere Organtoxizitäten waren nach TIP oder HDCT mit CET moderat ausgeprägt und waren allesamt klinisch nicht relevant. Eine komplett reversible Hepatotoxizität ≥ 3 Grades mit Anstieg der Transaminasen entwickelte sich bei 15% der Patienten. Eine relevante Hauttoxizität Grad 2 oder 3 trat bei 4/12 Patienten (33%) auf, die eine Thiotepadosis von 750 mg/m² erhielten. Daraufhin wurde die Dosis auf 450 mg/m² reduziert, und Hauttoxizitäten Grad 2-3 traten nur noch in 5/50 Patienten (10%) auf.
+
+
+Eine klinisch relevante Nephrotoxizität trat bei zwei Patienten nach HDCT auf. Ein Patient zeigte einen Abfall der Kreatininclearance auf 50 ml/min und ein Patient entwickelte im Rahmen eines Multiorganversagens ebenfalls ein Nierenversagen (Tabelle 11).
+
+
+Während der bisher absolvierten Nachbeobachtungszeit entwickelte ein Patient 30 Monate nach Therapieende ein Myelodysplastisches Syndrom und ein Patient 16 Monate nach Abschluß der HDCT eine akute myeloische Leukämie.
+
+Tabelle 11: Toxizitäten während konventioneller- und nach HochdosischemotherapieToxizität (Grade WHO)StartTI1st TIP2nd TIP3rd TIPHDCT #6 Wo.
+
+12 Wo.
+
+
+%
+%%%%%%%          HämatotoxizitätLeukozyten( ≥ III°)24056697910003Hämoglobin( ≥ III°)42026516310056Thrombozyten( ≥ III°)27405156100226Erythrozyten-Transfusionen02024385110000Thrombozyten-Transfusionen00492310000OrgantoxizitätenKreatininklearance(<70 mL/min)002551967Leber(> II°)000001530Haut(> II°)000032020          48Fortsetzung Tabelle 11Toxizität (Grade WHO)StartTI1.TIP2.TIP3.TIPHDCT #6 Wo.
+
+12 Wo.
+
+
+%
+%%%%%%%         Periphere NeurotoxizitätSensomotorische Neuropathie II°07116147012III°00338774  IV°00000151420ParästhesienII°0030410712III°0003107218IV°00000744OtotoxizitätHörminderung≥ II°67004323827          Abkürzungen: #Ein Patient verstarb im therapieassoziierten Multiorganversagen; WHO, World Health Organisation; Start, Evaluation vor Studienbeginn; TI, Taxol/Ifosfamide; TIP, Taxol/Ifosfamide/Cisplatin; HDCT, Hochdosischemotherapie; Wo., Wochen nach Stammzellrückgabe.
+
+5.2.Studie B: Evaluierung der Residualtumorresektion nach HDCT
+5.2.1.Rationale
+Bei einem Teil der Patienten sind nach adäquater cisplatinhaltiger Primärtherapie noch Tumorresiduen nachweisbar. Während Patienten mit reinem Seminom zunehmend keine Resektion dieser Tumorreste erhalten, werden Patienten mit nichtseminomatösen Keimzelltumoren einer Residualtumorresektion (RTR) zugeführt 52,64. Die auf diese Weise gewonnene Histologie kann ausschliesslich Nekrose, reifes Teratom oder vitalen unreifen Tumor (VUT) ergeben. Während die Resektion von ausschliesslich Nekrose oder reifem Teratom keine weiteren therapeutischen Konsequenzen hat, sollte sich an die operative Entfernung von VUT eine adjuvante cisplatinhaltige Polychemotherapie anschliessen. Dieses Vorgehen entspricht dem heutigen Standard im Rahmen der Primärtherapie. Versuche mittels einer Positronen-Emissions-Tomographie (PET) zwischen VUT, reifem Teratom und Nekrose zu unterscheiden, haben bisher noch keine überzeugenden oder allgemeingültigen Ergebnisse geliefert 50. Darüber hinaus kann die PET nicht zwischen Nekrose und reifem Teratom, welches aufgrund des hohen Risikos eines Lokalrezidivs entfernt werden sollte, unterscheiden. Demgegenüber ist das histologische Resultat aus operativ entfernten residuellen abdominellen Manifestationen als prediktiver Wert für das Auftreten von VUT/reifem Teratom zu verwenden. Während sich bei dem Vorliegen von vitalem Tumor im Abdomen eine RTR der thorakalen Reste anschließen sollte, kann auf diese bei dem Vorhandensein von ausschließlich Nekrose verzichtet werden 173.
+
+Im Vergleich zur Primärtherapie existieren diesbezüglich für die Salvagebehandlung bzw. für das Vorgehen bei Tumorresiduen nach HDCT nur sehr wenige Daten 82,53. Aus diesem Grund ist die Relevanz einer RTR nach Salvagechemotherapie/HDCT und die Inzidenz von VUT im Resektat unklar. Darüber hinaus ist das Vorgehen beim Nachweis von VUT im Resektat völlig offen und sowohl die Durchführung als auch die Art und Weise einer adjuvanten Chemotherapie umstritten.
+
+
+Wir analysierten 57/216 Patienten, die an der Charitè Berlin eine HDCT und nachfolgend eine RTR erhielten. Die Auswertung sollte folgende Punkte klären:
+1.Die Häufigkeit von VUT und von reifem Teratom bei RTR nach HDCT.
+
+2.Das Vorliegen von prediktiven Faktoren, die eine Vorhersage von VUT erlauben.
+
+3.Hinweise für die Notwendigkeit einer adjuvanten Chemotherapie bei VUT
+
+5.2.2.Patientenkollektiv
+Zwischen Juli 1989 und Oktober 1999 wurden 216 Patienten mittels einer HDCT behandelt. Es kamen zwei Regime zum Einsatz. Bis April 1995 erhielten 133/216 Patienten (62%) 2-3 Zyklen Cisplatin 100 mg/m², Etoposid 375 mg/m² und Ifosfamid 6 g/m² (PEI) gefolgt von einer HDCT mit 1500 bis 2000 mg/m² Carboplatin, 1200 bis 2400 mg/m² Etoposid und 0 bis 10 g/m² Ifosfamid. Ab Mai 1995 wurden 83/216 Patienten (48%) nach dem weiter oben schon beschriebenen TIP/CET Protokoll behandelt. Es wurden nur Patienten eingeschlossen, die einen eindeutigen Progress oder ein Rezidiv eines Keimzelltumors nach cisplatinhaltiger Therapie hatten. Das Rezidiv oder der Progress der Erkrankung mußte durch den Anstieg eines Tumormarkers und den radiologischen Nachweis belegt sein. Im Falle eines markernegativen Rezidivs/Progress musste eine histologische Sicherung erfolgen.
+
+Weiterhin mussten die Patienten über einen Karnofsky-Status von mindestens 60% verfügen und eine nach der Cockroft Formel berechnete Kreatininklearance von
+50mindestens 70 ml/min haben. Des weiteren sollte keine andere wesentliche Organdysfunktion vorliegen. Die Studienprotokolle wurden von der Ethikkommission der Charité Berlin geprüft und genehmigt. Jeder Patient gab sein schriftliches Einverständnis zur Teilnahme an der jeweiligen Studie.
+
+Im Anschluß an die HDCT wurde eine erneute Evaluierung der Tumormanifestationen und der Tumormarker vorgenommen. Eine RTR war bei 128/216 Patienten (59%) vorgesehen, da diese eine PRm- oder eine PRm+ erreicht hatten. Von diesen konnten allerdings nur 57 Patienten (45%) mittels einer RTR behandelt werden, da 45 Patienten einen erneuten Progress vor Operation hatten, 14 Patienten als inoperabel eingeschätzt wurden oder sich in einem schlechten Karnofsky-Status befanden und 12 Patienten die Operation ablehnten (Abbildung 11).
+
+
+5.2.3.Ergebnisse
+Die Patientencharakteristika sind in Tabelle 12 dargestellt. Während 37/57 Patienten (65%) nach dem Therapieschema mit PEI/CEI behandelt wurden, erhielten 20/57 Patienten (35%) eine HDCT mit TIP/CET. Nur ein Patient hatte einen primär extragonadalen mediastinalen Keimzelltumor. Die Patientencharakteristika vor Einschluss in die Chemotherapiestudie waren insgesamt vergleichbar mit denen aus anderen Untersuchungen.
+
+Nach der HDCT bzw. unmittelbar vor RTR hatten die meisten Patienten residuelle Tumormanifestationen im Retroperitoneum und in der Lunge/Mediastinum. Sieben Patienten hatten Tumorreste in der Leber, 4 Patienten im Zentralnervensystem und 4 Patienten am Hals. Die Tumormarker HCG, AFP und LDH befanden sich bei der Mehrzahl der Patienten im normalen Bereich und waren bei einem kleineren Teil noch leicht erhöht. Insgesamt wurden 77 chirurgische Eingriffe durchgeführt, 72 komplette Resektionen und 5 inkomplette. An nur einer Tumormanifestation wurden 39/57 Patienten (68%) operiert, 16/57 Patienten (28%) erhielten zwei Operationen und bei 2/57 Patienten (4%) mußte drei RTRs durchgeführt werden. Die chirurgisch entfernten Tumorresiduen befanden sich an folgenden Lokalisationen: bei 36/57 Patienten (63%) im Retroperitoneum, bei 31/57 Patienten (54%) im Thorax, bei 5/57 Patienten (9%) in der Leber, bei 4/57 Patienten (7%) am Hals und bei einem Patienten (2%) im Gehirn. Eine zweite Resektion wurde bei 16/57 Patienten (28%) an den nachfolgenden Manifestationen nicht durchgeführt: bei 3 Patienten im Abdomen, bei 7 Patienten im Thorax, bei 2 Patienten in der Leber und bei 4 Patienten im Gehirn. Die Gründe für das Unterlassen der zweiten RTR waren Tumormanifestationen < 1 cm (n= 9), reduzierter Karnofskystatus (n= 3), Ablehnung durch den Patienten (n= 2) und PD unmittelbar vor der erneuten Operation (n= 2).
+
+
+Die Patientencharkteristika vor RTR sind in Tabelle 13 dargestellt.
+
+Abbildung 11: Verlauf der Patienten innerhalb der StudienPatienten mit HDCTn = 216keine OP-IndikationOP IndikationCR, n= 27PRm-, n= 89SD/PD, n= 53PRm+, n= 39Frühtodesfall, n= 8   operabelinoperabeln= 114n= 14   PD vor OPPR vor OPOP abgelehntn= 45n= 57n= 12Tumormassesingle n= 39multiple n= 18Resektionkomplett n= 52inkomplett n= 5Abkürzungen: HDCT = Hochdosischemotherapie; OP = Operation; CR = komplette Remission; PRm- = markernegative partielle Remission; PRm+ = markerpositive partielle Remission; SD/PD = unveränderte oder tendenziell progredienten Tumorerkrankungen.
+
+Tabelle 12: Patientencharakteristika vor Beginn der Studientherapie.
+
+Patienten
+Prozent(n = 57)(100 %)Lokalisation des PrimärtumorsGonadal4782Retroperitoneum +/- Mediastinum916Mediastinum12Chemotherapie RegimePEI/CE(I)3765TIP/CET2035Ansprechen auf Cisplatin 14sensitiv4782refraktär712absolut refraktär36Höhe des Tumormarkers HCG (in U/L)< 10 (normal)193310 to 10003358> 100059Höhe des Tumormarkers AFP (in ng/mL)< 10 (normal)386710 to 10001730> 100023Level of LDH (in U/L)< 240 (normal)4172> 2401628Lokalisation der MetastasenAbdomen4274Lunge3460Mediastinum1628ZNS611Leber59Hals47Knochen12Andere12Abkürzungen: PEI/CE(I) = Cisplatin, Etoposid, Ifosfamid/Carboplatin, Etoposid ± Ifosfamid; TIP/CET=Paclitaxel, Ifosfamid, Cisplatin/Carboplatin, Etoposid, Thiotepa; HCG = Humanes Chorion Gonadotropin; AFP = Alpha-Fetoprotein, LDH = Lactat Dehydrogenase53Tabelle 13: Patientencharakteristika vor Beginn der Residualtumorresektion.
+
+Patienten
+Prozent(n = 57)(100 %)Lokalisation der MetastasenAbdomen3967Lunge3867Mediastinum1526Leber712ZNS47Hals47Höhe des Tumormarkers HCG (in U/L)< 10 (normal)539310 to 5047> 500Höhe des Tumormarkers AFP (in ng/mL)< 10 (normal)417210 to 50132350 to 10035Höhe des Tumormarkers LDH (in U/L)≤ 240 (normal)5189> 240611Abkürzungen: RTR = Residualtumorresektion; HCG = Humanes Chorion Gonadotropin; AFP = Alpha-Fetoprotein, LDH = Lactat Dehydrogenase5.2.3.1.Histologische ErgebnisseAusschliesslich Nekrose ohne Hinweis auf reifes Teratom oder VUT fand sich bei 23/57 Patienten (40%). Reifes Teratom ohne Nachweis von VUT fand sich bei 8/57 Patienten (14%) und unreife Tumoranteile konnten bei 26/57 Patienten (46%) nachgewiesen werden. Am häufigsten fanden sich die vitalen Karzinomzellen in den retroperitonealen Tumorresiduen. Während sich in der Lunge/Mediastinum VUT nur bei 9/31 Patienten (29%) nachweisen ließ, war VUT bei 14/36 Patienten (39%) in Retroperitoneum vorhanden. Ein statistisch signifikanter Unterschied ergab sich daraus nicht. Nur bei einem Patienten wurde VUT sowohl aus dem retroperitonealen als auch aus einem zervikalen Residuum entfernt. Während sich bei 4 von 5 Patienten mit residuellem Tumor in der Leber nur Nekrosen fanden, wurden bei einem Patienten Zellen eines hepatozellulären Karzinoms nachgewiesen. Die detailierte Aufschlüsselung der histologischen Ergebnisse ist in Tabelle 14 dargestellt.
+
+Tabelle 14: Korrelation von Tumormanifestation und HistologieNekroseReifes TeratomVUT(n= 23)(n= 8)(n= 26)No.
+
+No.
+
+
+%
+No.
+
+%
+No.
+
+%
+        Retro36113110281541 Leber548001*20Lunge/Med311961310929Hals4125125250ZNS1110000*Patient mit hepatozellulärem KarzinomAbkürzungen: VUT, vitaler unreifer Tumor; No, number; Retro, Retroperitoneum; Med, Mediastinum; ZNS, Zentralnervensystem.
+
+5.2.3.2.Prognosefaktoren
+Zur Ermittlung von Prognosefaktoren die das Vorliegen von VUT in Tumorresektat vorhersagen können, wurde eine univariate Analyse durchgeführt. Patienten mit einem Tumorresiduum von > 2 cm hatten ein signifikant höheres Risiko für VUT im Resektat als Patienten mit kleineren Tumorresten [6/9 Patienten (67%) versus 3/22 Patienten (14%), p= 0,036]. Weitere Faktoren hatten keine statistische Signifikanz (Tabelle 15). Zur Durchführung einer multivariaten Analyse der Subgruppen war allerdings das Patientenkollektiv zu klein.
+
+Tabelle 15: Univariate Analyse von Prognosefaktoren  NekroseReifesVUT P-Prognosefaktoren*(n= 23)Teratom(n= 26)Wert(n= 8)No.
+
+No.
+
+
+%
+No.
+
+%
+No%                  Grund für die HDCTerste Salvage4117416151844n.s> erste Salvage16637213850Prognose Score für das Therapieergebnis nach HDCT (nachBeyer et al.14)gut4820427142144n.smittel6350117233schlecht3003100Remissionsstatus vorRTRPRm-4821447152041n.sPRm+9222111667PreoperativeDurch-messer derTumor-massenLunge/Med221777293140,0036≤ 2 cm> 2 cm9222111667Retron.s≤ 2 cm10550110440> 2 cm266239351142Abkürzungen: No, number; VUT, vitaler unreifer Tumor; RTR, Residualtumorresektion; PRm-, partielle markernegative Remission; PRm+, partielle markerpositive Remission; Med, Mediastinum; Retro,retroperitoneumAlle Unterschiede sind signifikant ab einem P-Wert < 0.05 (Mann Whitney U-test)565.2.3.3.Überleben nach RTRNach einer medianen Nachbeobachtungszeit von 87 Monaten (Range: 12-132 Monaten) waren noch 37/57 Patienten (65%) am Leben und 35/57 Patienten (61%) dauerhaft ohne Krankheitsereignis. Zwei Patienten hatten einen Relapse 42 Monate und 4 Monate nach RTR. Diese Patienten konnten allerdings erfolgreich mit einer erneuten Salvagetherapie behandelt werden. Ein Patient erhielt eine Radiatio bis 46 Gy im Bereich seines inguinalen Rezidivs und der andere Patient wurde nach 5 Zyklen Taxol langfristig tumorfrei.
+
+Patienten, bei denen VUT im Tumorresektat nachgewiesen werden konnte, hatten eine deutlich schlechtere Prognose als Patienten, die nur Nekrose oder reifes Teratom hatten. Das Gesamtüberleben nach RTR lag für Patienten mit VUT bei 38% (10/26 Patienten) und für Patienten ohne VUT bei 83% (26/31 Patienten). Ebenfalls hatten die Patienten mit VUT eine schlechteres ereignisfreies Überleben mit 34% (9/26 Patienten) als Patienten, bei den sich nur Nekrose/reifes Teratom fand (83%, 26/31 Patienten). Die Kaplan-Meier Kurven für das Gesamt- und das ereignisfreie Überleben sind in Abbildung 12 und Abbildung 13 dargestellt und zeigen die statistisch signifikanten Unterschiede.
+
+
+Abbildung 12: Gesamtüberleben aller 57 Patienten, die eine RTR erhielten, in Abhängigkeit von der Histologie
+1,00,9Überlebenswahrscheinlichkeit0,80,70,60,5mit adjuvanter Chemotherapie    ohne adjuvante Chemotherapi             0,4p= 0.03007 (Log-Rang-Test)            0,30,2             0,10,00123456789101112Gesamtüberleben in Jahren nach RTRAbkürzung: VUT, vitaler unreifer Tumor57Abbildung 13: Ereignisfreies Überleben aller 57 Patienten, die eine RTR erhielten, in Abhängigkeit von der HistologieÜberlebenswahrscheinlichkeit1,00,90,80,70,60,50,40,30,2nur Nekrose/reifes Teratom0,1 VUT         p= 0.00139 (Log-Rang-Test)0,00123456789101112Ereignisfreies Überleben in Jahren nach RTRAbkürzung: VUT, vitaler unreifer Tumor5.3.Studie C: Evaluierung des Einsatzes von Amifostin im Rahmen der konventionellen Chemotherapie und der HDCT5.3.1.PatientenkollektivZwischen März 1997 und März 1999 wurden 40 Patienten mit rezidivierten oder progredienten Keimzelltumoren in eine prospektive, randomisierte Phase III Studie eingeschlossen. In Gruppe A wurden 20 Patienten mit und in Gruppe B 20 Patienten ohne Amifostin behandelt. Um die Ausprägung vorbestehender Toxizitäten in beiden Therapiearmen weitgehend auszugleichen, wurde die Randomisation stratifiziert nach der Anzahl der zuvor verabreichten cisplatinhaltigen Zyklen (≤ 6 versus > 6 Zyklen) durchgeführt.
+
+Es wurden nur Patienten eingeschlossen, die einen eindeutigen Progress oder ein Rezidiv eines Keimzelltumors nach cisplatinhaltiger Therapie hatten. Das Rezidiv oder der Progress der Erkrankung mußte durch den Anstieg eines Tumormarkers und den radiologischen Nachweis belegt sein. Im Falle eines markernegativen Rezidivs/Progresses musste eine histologische Sicherung erfolgen.
+
+
+Weiterhin mussten die Patienten über einen Karnofsky-Status von mindestens 60% verfügen und eine nach der Cockroft Formel berechnete Kreatininklearance von mindestens 70 ml/min haben. Des weiteren sollte keine andere wesentliche Organdysfunktion vorliegen. Die Studienprotokolle wurden von der Ethikkommission der Charité Berlin geprüft und genehmigt. Jeder Patient gab sein schriftliches Einverständnis zur Teilnahme an der Studie.
+
+
+Vor Beginn der Studientherapie hatten insgesamt 32 Patienten (80%) nur eine Primärtherapie und 8 Patienten (20%) auch zusätzlich eine Salvagechemotherapie
+58erhalten. Im Median erhielten die Patienten 5 Zyklen (Range: 1-11 Zyklen) einer cisplatinhaltigen Therapie mit einer medianen kumulativen Gesamtdosis von 500 mg/m² (Range: 100-1100 mg/m²). Alle Patienten wurden ausserdem mit Etoposid behandelt und 28 Patienten (70%) erhielten Ifosfamid als Teil der Vortherapie. Insgesamt war die Verteilung der Patientencharakteristika zwischen beiden Therapiearmen annähernd gleich (Tabelle 16).
+
+Alle Patienten erhielten eine Stammzellmobilisation mit TI. Die konventionelle Chemotherapie mit TIP musste bei 7 Patienten vorzeitig abgebrochen werden. Nur ein Zyklus TIP wurde bei einem Patienten aus jeder Gruppe verabreicht und nur zwei Zyklen TIP erhielten zwei Patienten aus Gruppe A und 3 Patienten aus Gruppe B. Bei 8 Patienten konnte aus den folgenden Gründen keine HDCT durchgeführt werden: PD unmittelbar vor HDCT (n= 3), schwere Komplikationen unter TIP mit Osteomyelitis (n= 1), Enzephalopathie (n= 1) und Tod im septischen Schock (n= 1). Ein Patient lehnte die HDCT ab. Aus diesen Gründen wurde die HDCT nur bei 17/20 Patienten (85%) aus Gruppe A und bei 15/20 Patienten (75%) aus Gruppe B durchgeführt.
+
+
+Sowohl für die Stammzellmobilisation unter TI als auch für die Toxizitäts- und Immunrekonstitutionsevaluierung unter TIP waren alle 40 Patienten auswertbar. Bezüglich der HDCT waren 32/40 Patienten (80%) auswertbar.
+
+Tabelle 16: Patientencharakteristika vor Beginn der Studientherapie.
+
+Gruppe A
+Gruppe B(n= 20)(n= 20)Alter (Jahre)Median3532Range20-5319-53Anzahl an vorherigenChemotherapregime1 Regime16162 Regime44Anzahl an vorherigencisplatinhaltigen ZyklenMedian55Range3-111-8Kumulative Dosis vonCisplatin (mg/m²)Median500450Range300-1,100100-800Anzahl an Patientenvortherapiert mit≤ 6 Cisplatinzyklen1818> 6 Cisplatinzyklen22Abkürzungen und Erläuterungen: Guppe A, Patienten mit Amifostin; Gruppe B, Patienten ohne Amifostin.
+
+Alle Unterschiede waren statistisch nicht signifikant mit einem P-Wert > 0,05 (Mann Whitney U Test)
+
+5.3.2.Optimierung der Mobilisation von PBPZ durch Amifostin
+5.3.2.1Rationale
+Der Einsatz von PBPZ anstatt von Knochenmark als Stammzellrescue nach HDCT führt zu einer kürzeren Regeneration aller drei Reihen der Hämatopoese 12,83,181. Mit einer Anzahl von 40/µl CD34+ Zellen im peripheren Blut ist es mit einer Stammzellapherese möglich, die Mindestmengen von 2,5 ⋅ 106/kg KG CD34+ Zellen zu sammeln, die eine rasche Regeneration ermöglichen 77,162. Da mit Zunahme der retransfundierten CD34+ Zellen im Stammzellprodukt bis zu einem Wert von 10,0 ⋅ 106/kg KG die Zeit zur Regeneration der Hämatopoese kontinuierlich kürzer wird, ist es wünschenswert, die Qualität des Produktes zu verbessern. Ebenfalls ist es erstrebenswert, die Anzahl und die Dauer der Stammzellapheresen möglichst gering bzw. kurz zu halten, da es sich um ein kostenintensives und für den Patienten belastendes Verfahren handelt.
+
+In vitro Studien haben gezeigt, dass Amifostin die normale Hämatopoese stimuliert und die Entwicklung von frühen Blutstammzellen unterstützt 41,106,107,196. Allerdings sind bis heute keine Daten darüber verfügbar, ob und in welcher Weise Amifostin in vivo die Mobilisation von PBPZ verbessern kann. Aus diesem Grund untersuchten wir in einer randomisierten Studie den Stellenwert von Amifostin in Kombination mit einer Mobilisationschemotherapie bestehend aus Paclitaxel und Ifosfamid in Kombination mit G-CSF. Beurteilungskriterien waren dabei die Anzahl an zirkulierenden CD34+ Zellen im PB, die Zeitdauer vom Beginn der Mobilisation bis zur ersten Sammlung, die Anzahl an Apheresen, die nötig waren, um 2,5 ⋅ 106 CD34+ Zellen zu gewinnen und das Gesamtergebnis der PBPZ-Sammlung.
+
+5.3.2.2.Ergebnisse
+5.3.2.2.1.PBPZ Mobilisation
+Die maximal mobilisierte Anzahl an CD34+ Zellen war in beiden Gruppen gleich. Während in Gruppe A im Median 54,8 CD34+ Zellen/µl PB (Range: 3,6-185,9/µl) mobilisiert wurden, konnten in Gruppe B im Median 40,3 CD34+ Zellen/µl PB (Range: 1,6-150,0/µl) gemessen werden. Die Zugabe von Amifostin zur Mobilisationschemotherapie mit TI resultierte in einer statistisch signifikanten höheren CD34+ Zellmenge im PB an Tag 11 nach Beginn der Mobilisation (63,0/µl versus 14,3/µl CD34+ Zellen; p= 0,04). An Tag 10 ergab sich nur ein nicht-signifikanter Unterschied zugunsten von Gruppe A (103,0/µl versus 46,8/µl CD34+ Zellen; p= 0,1). Der Verlauf der zirkulierenden CD34+ Zellen im PB bis zum Beginn der Separation ist für Gruppe A und Gruppe B in der Abbildung 14 dargestellt. Zwei Patienten aus Gruppe A (10%) und 3 Patienten aus Gruppe B (15%) erreichten unter Mobilisation nicht den Mindestwert von 10 CD34+ Zellen/µl PB, der eine Sammlung als sinnvoll erscheinen lässt.
+
+Kein statistisch signifikanter Unterschied fand sich auch in Bezug auf die Hämatotoxizität unter TI ± Amifostin. Weniger als 1000 neutrophile Granulozyten/µl im PB wurden bei 3 Patienten (15%) aus Gruppe A und bei 4 Patienten (20%) aus Gruppe B gemessen. Werte von unter 500 Neutrophile/µl im PB erreichte je ein Patient aus jeder Gruppe, während kein Patient unter den Wert von 200/µl im PB fiel. Ein neutropenisches Fieber ereignete sich bei jeweils zwei Patienten pro Gruppe.
+
+Abbildung 14: Verlauf der CD34+ Zellen unter der MobilisationCD34+ Zellen/µl im peripheren Blut200180160140120100806040200Tag 8Tag 8Tag 9Tag 9Tag 10 Tag 10 Tag 11 Tag 11 Tag 12 Tag 12+-+-+-+-+-Nach Beginn der ChemotherapieAbkürzungen: +, mit Amifostin; -, ohne Amifostin5.3.2.2.2.StammzellaphereseDie Sammlung der PBPZ konnte in beiden Gruppen im Median an Tag 10 (Range: Tag 8-12) nach Start der Chemotherapie begonnen werden. Sowohl die Anzahl an durchgeführten Apheresen, als auch die Menge des prozessierten Blutvolumen war in beiden Gruppen annähernd gleich (Tabelle 17). Achtzehn Patienten aus Gruppe A und17 Patienten aus Gruppe B erhielten im Median je ein Stammzellapherese (Range: Gruppe A 1-2, Gruppe B 1-3 Apheresen). Bei 5 Patienten, 2 Patienten aus Gruppe A und 3 Patienten aus Gruppe B, wurde keine Apherese durchgeführt, da die erforderliche Anzahl von 10/µl CD34+ Zellen im PB nicht erreicht wurde. Bei drei von diesen Patienten konnte nach dem ersten Zyklus TIP ein suffizientes Apheresat gewonnen werden, während zwei Patienten einer autologen Knochenmarkentnahme zugeführt wurden.
+
+Wie aus Tabelle 18 entnommen werden kann, ergab sich zwischen den beiden Gruppen kein statistisch signifikanter Unterschied im Hinblick auf die gesammelten MNC, CD34+ Zellen und die CFUs. Trotz zwei Apheresen konnte bei 3 Patienten nicht der angestrebte Wert von 2,5 x 106 CD34+ Zellen im Stammzellasservat gesammelt werden.
+
+Tabelle 17: Mobilisation und PBPZ-AphereseGruppe AGruppe B(n= 18)(n= 17)CD34+ cells/µl im PB*Median103,046,8Range(8,1-185,9)(1,3-93,7)Prozessiertes Blutvolumen (Liter)Median1111Range(8-14)(8-14)Anzahl an PBPZ Apheresen1142430Anzahl an Patienten miterster PBPZ-Apherese anTag 866Tag 912Tag 1065Tag 1142Tag 1212Abkürzungen und Erläuterungen: PBPZ, Periphere Blutprogenitor Zellen; n, Anzahl; Guppe A, Patienten mit Amifostin; Gruppe B, Patienten ohne Amifostin.
+
+Alle Unterschiede waren nicht statistisch signifikant mit einem P-Wert > 0,05 (Mann Whitney U Test)
+*CD34+ Zellen im PB am Tag 10 nach Beginn der Chemotherapie63Tabelle 18: Ergebnisse der PBPZ-ApheresenGruppe AGruppe BP-Wert(n=18)(n=17)MNC/kg (⋅108)*2.72.6.18(1.0-6.6)(1.3-8.5)CD34+ cells/kg (⋅106)*3.43.6.82(2.5-9.7)(1.3-52.8)CFU-GM/kg (⋅104)*15.919.3.20(2.7-105.0)(5.9-71.6)Vitalität (%)*8279.87(65-93)(68-94)Abkürzungen und Erläuterungen: MNC, Mononukleäre Zellen; CFU-GM, colony forming units granulocyte-macrophage; Vitalität, Trypan Blau Färbung; n, Anzahl; Guppe A, Patienten mit Amifostin; Gruppe B, Patienten ohne Amifostin.
+
+*Median, Range in Klammern
+5.3.3.Verringerung von zytostatikainduzierten Toxizitäten durch die Verwendung von Amifostin
+5.3.3.1.Rationale
+Bei Patienten mit rezidivierten oder progredienten Keimzelltumoren treten aufgrund der intensiven Vortherapie oftmals erhebliche bzw. dosislimitierende Toxizitäten auf. Dabei handelt es sich um eine Hämatotoxizität Grad 4, eine Nephrotoxizität bis zur Dialysepflichtigkeit, eine Neurotoxizität und Ototoxizität 31. Eine Hämatotoxizität Grad 3-4 erhöht deutlich das Infektionsrisiko und die Gefahr für schwere Blutungen. Neben Zunahme der Hospitalisation im therapiefreien Intervall zwischen den Chemotherapiezyklen kommt es gehäuft zu Therapieunterbrechungen bzw. Verschiebungen, um den Anstieg der peripheren Blutzellen in einen therapiefähigen Bereich abzuwarten. Diese Pausen gefährden allerdings auch den Therapieerfolg bezüglich der Tumorerkrankung. Darüber hinaus schränken die Neuro- und Ototoxizität die Lebensqualität der Patienten oft erheblich ein. Diese Komplikationen treten unter konventionell dosierter Chemotherapie und in besonderem Maße nach HDCT auf. Der Einsatz eines Zellprotektivums, welches die relevanten therapieassoziierten Toxizitäten minimiert, wäre daher wünschenswert.
+
+Aus diesem Grund evaluierten wir an dem zuvor beschriebenen Patientenkollektiv die Häufigkeit und die Qualität von Toxizitäten und den protektiven Einfluss von Amifostin.
+
+
+5.3.3.2.Ergebnisse
+5.3.3.2.1.Myelosuppression und hämatopoetische Regeneration
+Im Hinblick auf eine WHO Grad 4 Leukopenie, Anämie und Thrombozytopenie fand sich zwischen den beiden Therapiearmen A und B kein statistisch signifikanter Unterschied. Ebenso ergab sich kein Unterschied in Bezug auf die Transfusionsbedürftigkeit für64Erythrozyten (46 Transfusionen in Gruppe A versus 83 Transfusionen in Gruppe B, p= 0,1755) und Thrombozyten (72 Transfusionen in Gruppe A versus 115 Transfusionen in Gruppe B, p= 0,2209). Darüber hinaus war die Anzahl an Fiebertagen der Patienten aus Gruppe A (1 Tag, Range: 0-7 Tage) vergleichbar mit denen der Patienten aus Gruppe B (3 Tage, Range: 0-10 Tage). Ein Patient aus Gruppe B verstarb im septischen Schock währen der Phase der Neutropenie nach dem dritten Zyklus TIP. Vergleichbar zwischen den beiden Gruppen war auch das Zeitintervall zwischen den einzelnen Chemotherapiezyklen. Die mediane Zykluslänge vom ersten Tag des ersten TIP Zyklus bis zum ersten Tag des zweiten Zyklus betrug in beiden Armen 22 Tage, nach dem zweiten Zyklus 22 Tage in Gruppe A und 23 Tage in Gruppe B und nach dem dritten Zyklus 23 Tage für Gruppe A und 27 Tage für Gruppe B. Eine Dosisreduktion wurde nicht vorgenommen (Tabelle 19).
+
+Nach der HDCT entwickelten alle Patienten erwartungsgemäß eine Hämatotoxizität Grad 4 und erhielten die zuvor gesammelten PBPZ rückübertragen. Es bestand kein statistisch signifikanter Unterschied zwischen Patienten der Gruppe A und B bezüglich der applizierten CD34+ Zellen/kg KG [3.4 ⋅ 106 (Range: 2,5 ⋅ 9,7) versus 3,8⋅ 106 (Range: 1,3 ⋅ 52,8)], und der CFU-GM/kg KG [17.6 ⋅ 104 (Range: 5,2 ⋅ 105,5) versus 18,7⋅ 104 (Range: 5,9 ⋅ 71,6)]. Weder fand sich ein signifikanter Unterschied im Hinblick auf die Dauer der hämatopoetischen Regeneration nach PBPZ Rückgabe, noch im Hinblick auf Supportivmaßnahmen oder Komplikationen unter HDCT (Tabelle 20).
+
+
+5.3.3.2.2.Neurotoxizität
+Unter TIP entwickelte 1/20 Patienten (5%) der Gruppe A und 4/20 Patienten (20%) der Gruppe B eine sensomotorische Polyneuropathie > 2 Grades. Eine Parästhesie Grad 3 wurde in 2/20 Patienten (10%) der Gruppe A und bei 4/20 Patienten (20%) aus Gruppe B beobachtet. Aus diesem Grund wurde bei 2 Patienten aus Gruppe A und einem Patienten der Gruppe B die Therapie nach dem zweiten Zyklus TIP abgebrochen und gleich die HDCT angeschlossen. Während bei 2/20 Patienten (10%) der Gruppe B eine Ototoxizität >2 Grades diagnostiziert werden konnte, war dies bei Patienten aus Gruppe A nicht der Fall.
+
+Bei Patienten aus beiden Gruppen verschlechterten sich nach der HDCT die zuvor durch TIP induzierten Neurotoxizitäten. Dennoch fand sich weiterhin zwischen den Gruppen kein statistisch signifikanter Unterschied. Allerdings fanden sich bei den Patienten, die kein Amifostin erhielten, 2/15 Patienten (14%) mit einer Polyneuropathie Grad 4 in Form von schweren Parästhesien und sensomotorischen Störungen. Diese Komplikationen traten in dieser Intensität bei Patienten mit Amifostin nicht auf. Aufgrund der geringen Fallzahl war der Unterschied jedoch nicht signifikant (p= 0,21). Die aufgetretenen peripheren Polyneuropathien und die Ototoxizitäten persistierten bei der Mehrzahl der betroffenen Patienten über die ersten 12 Wochen und verbesserten sich danach langsam (Tabelle 19).
+
+
+5.3.3.2.3.Sonstige Toxizitäten
+Die Nephrotoxizität unter TIP war nur moderat ausgeprägt. Eine relevante Funktionseinschränkung der Nieren erforderte bei jeweils 3 Patienten aus jeder Gruppe eine Dosisreduktion der HDCT. Während es bei 3 Patienten aus Gruppe B zu einem vorübergehenden dialysepflichtigen akuten Nierenversagen kam, trat diese Komplikation in Gruppe A nicht auf. Zwei Patienten, jeweils einer aus jedem Studienarm, verstarben unter der HDCT im Multiorganversagen 5 und 16 Tage nach65PBPZ-Rückgabe. Zwei weitere Patienten aus Gruppe B hatten ebenfalls schwerwiegende Nebenwirkungen, ein Patient mit einer Osteomyelitis unter TIP und ein weiterer Patient entwickelte eine Enzephalopathie unter HDCT.
+
+Alle weiteren Nebenwirkungen wie Übelkeit, Erbrechen, Mukositis, Hepato- und Hauttoxizität traten erwartungsgemäß auf, waren moderat ausgeprägt und verschwanden jeweils nach hämatologischer Regeneration. Bekannte unerwünschte Wirkungen von Amifostin wie Emesis oder Hypotension traten in Patienten der Gruppe A weder unter TIP noch unter HDCT auf (Tabelle 19).
+
+
+Tabelle 19: Kumulative maximale Toxizitäten während TIP und CETToxizität(Grad WHO)LeukozytenI-II°III°IV°Thrombozyten I-II°III°IV°HämoglobinI-II°III°IV°StudieneinschlußaTIPaHDCTa12 Wo.aGruppeGruppeGruppeGruppedABABABABn= 20 (%)n= 20 (%)n= 20 (%)n= 20 (%)n= 17 (%)n= 15 (%)n= 14 (%)n= 14 (%)           3 (15)1 (5)1 (5)1 (5)003 (21)3 (21)1 (5)1 (5)4 (20)3 (15)001 (7)2 (14)0011 (55)15 (75)17 (100)15(100)00005 (25)3 (15)001 (7)5 (35)003 (15)4 (20)0001 (7)006 (30)8 (40)17 (100)15(100)007 (35)5 (25)6 (30)4 (20)002 (14)3 (21)005 (25)2 (10)1 (6)2(13)01 (7)009 (45)13 (65)16 (94)13 (87)00           67Fortsetzung Tabelle 19   Studieneinschlußa TIPa HDCTa 12 Wo.aToxizität(Grad WHO)   Gruppe Gruppe Gruppe GruppedABABABABn= 20 (%)n= 20 (%)n= 20 (%)n= 20 (%)n= 17 (%)n= 15 (%)n= 14 (%)n= 14 (%)               Sensomotorische            Neuropathie2 (10)4 (20)12 (60)14 (70)10 (60)6 (42)10 (70)9 (63) I-II°                III°001 (5)3 (15)3 (18)3(21)2 (14)1 (7)             IV°0001 (5)02 (14)03 (21)             Parästhesien3 (15)20 (100)13 (65)14 (70)10 (60)6 (42)10 (70)8 (56)I-II°III°002 (10)4 (20)3 (18)3(21)2 (14)1 (7)IV°000002 (14)03 (21)Hörminderung4 (20)1 (5)8 (40)11 (55)9 (54)6(42)8 (56)10 (70)I-II°III°0002 (10)6 (12)5(35)1 (7)3 (21)             IV°00000000                           68Fortsetzung Tabelle 19   Studieneinschlußa TIPa HDCTa 12 Wo.aToxizität(Grad WHO)   Gruppe Gruppe Gruppeb Grupped   ABAB ABAB    n= 20 (%)n= 20 (%)n= 20 (%)n= 20 (%)n= 17 (%)n= 15 (%)n= 14 (%)n= 14 (%)               Myalgie 2 (10)4 (20) 7 (35)5 (25)17(100)15 (100) 3 (21)2 (14) ≥ II°                Haut2 (10)03 (15)5 (25)6(36)8 (56)02 (14) ≥ II°                Leber001 (5)3 (15)2(12)2 (14)2 (14)0 ≥ II°                Kreatininclearance001 (5)4 (20)2(12)5c (35)2 (14)3 (21)(< 70 ml/min)Abkürzungen und Erläuterungen: WHO, Weltgesundheitsorganisation; TIP, Paclitaxel/Ifosfamid/Cisplatin; HDCT, Hochdosischemotherapie; Wo., Wochen nach autologer Stammzellrückgabe; Guppe A, Patienten mit Amifostin; Gruppe B, Patienten ohne AmifostinaAlle Unterschiede sind nicht signifikant mit einem P-Wert von > 0,05 (Mann Whitney U Test) bOhne zwei Patienten mit einem Frühtodesfall nach HDCTcMit drei Patienten die eine Hämodialyse benötigtendOhne zwei Patienten, die sich nicht zur Nachsorge vorstellten69Tabelle 20: Hämatopoetische Regeneration nach HDCTGruppe AaGruppe BaMann-Whitney test(n= 14)(n= 16)P-WertNeutrophile >500/µl PB (Tage)b910.18(8-12)(7-18)Thrombozyten >20,000/µl PB (Tage)b1212.93(8-16)(8-43)Erythrozytentransfusionen (n)b66.76(4-12)(2-22)Thrombozytentransfusionen (n)b35.16(1-8)(1-14)Fiebertage ≥ 38.0°Cb56.64(1-9)(0-33)Antibiotikatageb1011.46(5-19)(4-60)Parenterale Ernährung (Tage)b810.06(2-17)(6-59)Krankenhaustageb1416.14(11-18)(11-59)Abkürzungen und Erläuterungen: HDCT, Hochdosischemotherapie; PBPZ, Blutstammzellen; n, Anzahl; Guppe A, Patienten mit Amifostin; Gruppe B, Patienten ohne AmifostinaOhne zwei Patienten mit therapieassoziiertem Todesfall während HDCT; bMedian, Range in Klammern705.3.3.2.4.Therapieansprechen und ÜberlebenEin gutes Ansprechen (CR, PRm- oder PRm+) erreichten 15/17 Patienten (85%) aus Gruppe A und 13/15 Patienten (86%) aus Gruppe B. Insgesamt erreichten nach HDCT 8/32 Patienten (25%) eine CR, 17/32 Patienten (54%) eine PRm- und 3/32 Patienten (9%) eine PRm+. Von den verbleibenden Patienten hatten 2/32 (6%) einen Progress und zwei weitere verstarben unter HDCT. Die mediane Nachbeobachtungszeit betrug 18 Monate (Range: 5-32 Monate). Zum Zeitpunkt der letzten Nachsorgeerhebung hatten 12/20 Patienten (60%) von Gruppe A und 14/20 Patienten (70%) der Gruppe B rezidiviert.
+
+5.3.4. Regeneration der Lymphozytensubpopulationen unter der konventionellen Chemotherapie und der HDCT
+5.3.4.1.Rationale
+Die Rekonstitution der Lymphozytensubpopulationen nach HDCT ist in der Vergangenheit mehrfach untersucht worden. Dabei stellte sich heraus, dass die Regeneration der Lymphozyten verzögert abläuft und in einem Zeitintervall von 14 bis 60 Tagen nach PBPZ Rückgabe stattfindet. Besonders betroffen sind davon die CD4+ T-Helferzellen, die nach HDCT mit nachfolgender autologer PBPZ Transplantation als letzte Subpopulation regenerieren 6,148,155,156. Bisher liegen keine Daten darüber vor, wie sich die Immunrekonstitution unter einer konventionellen Chemotherapie und einer HDCT bei vortherapierten Patienten mit Keimzelltumoren verhält.
+
+Aus diesem Grund evaluierten wir das Auftreten von schweren bzw. atypischen Infektionen in den Phasen der hämatopoetischen Regeneration, untersuchten die Lymphozytenregeneration nach TIP und CET und gingen der Frage nach, ob der Einsatz von Amifostin einen Einfluß auf die Immunrekonstitution hat. Es wurde zu diesem Zweck das weiter oben beschriebene Patientenkollektiv im Rahmen der Studie untersucht
+
+5.3.4.2.Ergebnisse
+Die Hämatotoxizität, die Menge und die Qualität der rückübertragenen PBPZ und die Daten zur hämatopoetischen Regeneration wurden schon weiter oben beschrieben.
+
+Im Hinblick auf die Rekonstitution der lymphozytären Subpopulationen fand sich zwischen den Studienarmen kein statistisch signifikanter Unterschied. Zu Studienbeginn war der Medianwert der Gesamtlymphozyten allerdings auch schon niedrig (Abbildung 15), so dass die CD3+/CD4+ Zellen und die CD3+/CD8+ Zellen bei den meisten Patienten den unteren Normalbereich unterschritten (Abbildung 16 und 17). Während die CD19+ B-Lymphozyten (Abbildung 18) und die NK-Zellen (Abbildung 19) einen kontinuierlichen Abfall zeigten, blieben die CD3+/CD4+- und die CD3+/CD8+ T- Lymphozyten auf niedrigem Niveau stabil (Abbildungen 16 und 17). Demzufolge blieb die CD4/CD8 Ratio während TIP weitgehend unbeeinflußt, fiel dann aber unmittelbar von HDCT ab (Abbildung 20).
+
+
+Erwartungsgemäß waren die Lymphozytenwerte nach der HDCT sehr niedrig. Auch nach PBPZ Rückgabe brachte der Einsatz von Amifostin keinen statistisch signifikanten Vorteil. Insgesamt war die Immunrekonstitution nach HDCT deutlich verzögert, da nach 3 Monaten immer noch nicht alle Patienten eine komplette lymphozytäre Regeneration zeigten. Gesamtlymphozytenwerte > 1,0 ⋅ 109/l PB wurden im Median erst am Tag 63 (Range: 10-120 Tage) nach PBPZ Rescue erreicht (Abbildung 15). Während die B- Lymphozyten und die CD3+/CD8+ T-Suppressorzellen sich ähnlich der
+71Gesamtlymphozyten verhielten, zeigten die CD3+/CD4+ T-Helferzellen eine deutlich langsamere Regeneration (Abbildungen 16-18). Demgegenüber kam es bei den CD16+/CD56+ NK-Zellen zur raschen Rekonstitution nach PBPZ Rückgabe (Abbildung 19).
+
+Abbildung 15:
+Gesamtlymphozyten4,54Min-Max    mit Amifostin         /L3,5Min-Max   ohne Amifostin        Lymphozyten3Min.stand.Wert       2,5291,5       x10       1        0,5Start1.TIP2.TIP3.TIPCETnach CET6 Wochen3 MonatenAbbildung 16:T4-Helferzellen1,8Min-Max1,6mit AmifostinMin-MaxLymphozyten/L1,4ohne AmifostinMin.stand.Wert1,21,00,8CD4+0,69               x100,4        0,20Start1.TIP2.TIP3.TIPCETnach CET6 Wochen3 Monaten72Abbildung 17:T8-Suppressorzellen3.52.0Min-Max        1.2mit AmifostinLymphozyten/LMin-Maxohne Amifostin1.0Min.stand.Wert       0.8CD8+0.690.4       x10               0.20Start1.TIP2.TIP3.TIPCETnach CET6 Wochen3 MonatenAbbildung 18:B-Lymphozyten0.25Min-Max        /Lmit Amifostin     Min-Max  Lymphozyten0.2ohne AmifostinMin.stand.Wert0.15CD19+0.19        100.05x               0Start1.TIP2.TIP3.TIPCETnach CET6 Wochen3 Monaten73Abbildung 19: Natürliche Killer (NK) Zellen0.5Min-Max0.45mit AamifostinMin-Max0.4ohne Amifostin/L0.35Min.stand.Wert       Zellen0.30.25NK       0.29       100.15x               0.10.050Start1.TIP2.TIP3.TIPCETnach CET6 Wochen3 MonatenAbbildung 20:CD4/CD8 Ratio5.04.5Min-Maxmit Amifostin4.0Min-Max      ohne Amifostin       RATIO3.5Min.stand.Wert       3.02.5CD4CD82.01.5        1.00.50Start1.TIP2.TIP3.TIPCETnach CET6 Wochen3 Monaten74Anzahl der analysierten Blutproben pro Zeitpunkt:Start, n= 29;1.TIP, n= 31; 2.TIP, n= 30; 3.TIP, n= 25; CET, n= 29; Nach CET, n= 18;6Wochen nach PBPZ-Rescue, n= 29;3Monaten nach PBPZ-Rescue, n= 22Abkürzungen und Erläuterungen: Min, Minimum; Max, Maximum; Min.stand., MinimalerStandard; TI, Paclitaxel/Ifosfamid; TIP Paclitaxel/Ifosfamid/Cisplatin; CET, Carboplatin/Etoposid/Thiotepa756.Zusammenfassung der Studienergebnisse6.1.Historischer ÜberblickIn den vergangenen Jahren wurden grosse Anstrengungen unternommen, die Ergebnisse der Salvagechemotherapie bei Patienten mit rezidivierten oder progredienten Keimzelltumoren zu verbessern, um die infauste Prognose dieserkleinen, aber jungen und sehr therapiemotivierten Gruppe von Patienten abzuwenden 15,17,33,57,120,122,129,153,167. Neben dem Einsatz der SubstanzenCisplatin, Etoposid, Ifosfamid und Bleomycin wurden seit Beginn der 90er Jahre vor allem Konzepte mit dem Einsatz einer HDCT untersucht, welche in der Regel dieVerwendung autologer Stammzellen aus dem Knochenmark oder peripheren Blut erforderten 11,13,36,120,122,127-129,167. Die Möglichkeit, pluripotentehämatopoetische Progenitorzellen nach herkömmlicher Chemotherapie und Stimulation mit rekombinanten hämatopoetischen Wachstumsfaktoren aus dem peripheren Blut zu sammeln und nach einer hochdosierten Therapie zu reinfundieren, erlaubte eine Dosiseskalation der Substanzen Etoposid, Ifosfamid, Cyclophosphamid und des Platinanalogons Carboplatin zum Fünffachen der sonst üblichen Dosierungen. Durch die Rückgabe von autologen Blutstammzellen wurdendie nicht-hämatologischen Nebenwirkungen, insbesondere die Nephro- und die Neurotoxizitäten, die dosisbegrenzenden Faktoren 10,13,96,178. Nichols et al.
+
+konnten erstmals die Durchführbarkeit und den Nutzen einer HDCT bei einer kleinen Gruppe von mehrfach rezidivierten und refraktären Patienten mit Keimzelltumoren klinisch nachweisen. Seither konnte eine Reihe von Fragen bezüglich des Ablaufs, der Dosis und des optimalen Zeitpunktes der HDCT beantwortet werden. Ebenfalls
+konnten Prognosefaktoren ermittelt werden, die den Verlauf des einzelnen Patienten nach HDCT abschätzen lassen 14,15,19,38,141,147,167. Darüber hinaus war jedochnoch nicht das Konzept verfolgt worden, sowohl die konventionell dosierten Zyklen als auch die HDCT um ein neues, nicht kreuzresistentes Zytostatikum zu ergänzen. Wir untersuchten deshalb prospektiv, inwieweit die Hinzugabe von Taxol anstatt von Etoposid zur konventionellen Chemotherapie und die Einbeziehung von Thiotepa in die HDCT das Therapieergebnis verbessern könnte. Eine deutschlandweite multizentrische prospektive Studie sollte die Möglichkeit eröffnen, diesen Fragen nachzugehen 142.
+
+Eine weitere noch offene Frage war der Stellenwert der Residualtumorresektion nach Salvagechemotherapie. Während sich dieses Verfahren nach der Primärtherapie von Patienten mit nicht-seminomatösen Keimzelltumoren weitgehend etabliert hat, ist die Notwendigkeit nach der Rezidivtherapie bisher nicht belegt 52,64. Aus diesem Grund initiierten wir eine retrospektive Analyse von über 200 unizentrisch behandelten Patienten, die eine HDCT erhalten hatten 143.
+
+
+Desweiteren war die therapieassoziierte Morbidität in den publizierten Studien sehr hoch. Neben den hämatologischen Toxizitäten, die mittels der Rückgabe von qualitativ hochwertigen PBPZ viel von ihrem Schrecken verloren haben, gewann vor allem die Verminderung der Neurotoxizitäten und Nephrotoxizitäten an Bedeutung. Zur weiteren Optimierung der Gewinnung von PBPZ und zur Verminderung von therapieassoziierten Toxizitäten führten wir eine prospektive, randomisierte unizentrische Studie mit dem zuvor evaluierten Regime unter Hinzunahme von Amifostin an einem seperaten Patientenkollektiv durch 144-146.
+
+6.2.Phase II Studie zur Optimierung der HDCT
+Da sich der Remissionsstatus als ein unabhängiger Prognosefaktor erwiesen hat, wurde mit der vorliegenden Studie versucht, durch eine Intensivierung des konventionellen Salvageregimes als auch der HDCT die Remissionsrate vor und nach der HDCT zu erhöhen. Aus diesem Grund wurde das Taxan Paclitaxel in der konventionellen Salvagetherapie in Verbindung mit Cisplatin und Ifosfamid eingesetzt. Dadurch sollte die Remissionsrate vor HDCT erhöht werden und die Cisplatinsensibilität bei refraktären Tumoren wieder hergestellt werden. Paclitaxel ist eine der neueren Substanzen, die eine Wirksamkeit speziell bei platinrefraktären Patienten gezeigt hat und einen synergistischen Effekt in Kombination mit Cisplatin und wahrscheinlich auch mit Ifosfamid aufweist 27,120-122. Zur Reduktion der Rate an Nephrotoxizitäten und zur Therapiesteigerung ersetzten wir im Rahmen der HDCT Ifosfamid durch Thiotepa. Dieses, selbst ein Alkylanz, bietet für den Einsatz im Rahmen der HDCT den Vorteil, dass es nur mild ausgeprägte nicht-hämatologische Nebenwirkungen verursacht und somit eine Dosissteigerung um das 10 bis 20-fache der normalen Dosierung möglich ist.
+
+Das untersuchte Therapieregime zeigte mit einem Gesamtansprechen von 69% eine gute Wirksamkeit. Insbesondere cisplatinsensible Patienten profitierten von der Hinzunahme von Paclitaxel zur konventionellen Therapie. Dieses Ergebnis ist vergleichbar mit den Ergebnissen aus anderen Studien, in denen Cisplatin, Etoposid in Kombination mit Vinblastin oder Etoposid zum Einsatz kam bzw. eine höhere Dosierung von Paclitaxel ebenfalls mit Cisplatin und Ifosfamid kombiniert wurde 59,109,112,122. Demgegenüber war die Ansprechrate bei absolut cisplatinrefraktären Patienten mit 22% eher enttäuschend gering. Alternative Regime mit höheren Dosen von Paclitaxel oder mit einer sequentiellen HDCT könnten in
+dieser Hochrisikogruppe von Patienten noch einen kurativen Ansatz verfolgen 122. Die Überlebensraten waren ebenfalls vergleichbar mit denen aus zuvor publizierten Studien. Nach einem Beobachtungszeitraum von mindestens 2 Jahren waren 26% der Patienten kontinuierlich und 30% der Patienten krankheitsfrei. Das Überleben hing maßgeblich von dem Vorhandensein an Prognosefaktoren ab. Vergleichbar mit anderen Studien fand sich in der Gruppe von Patienten mit guter Prognose nach 3 Jahren ein Gesamtüberleben von 53% und ein EFÜ von 47%. Patienten mit intermediärer Prognose zeigten ein Gesamtüberleben von 23% und ein EFÜ von 8% nach 3 Jahren. Keine Langzeitüberlebenden fanden sich in der Gruppe mit schlechter Prognose. Diese Patienten hatten demnach nicht von der HDCT profitiert und sollten neuen Therapiekonzepten zugeführt werden.
+
+Insgesamt war das untersuchte Therapieregime gut durchführbar und von aufgetretenen Toxizitäten überschau- und handhabbar. Während die hämatologischen Toxizitäten vergleichbar waren mit denen aus unserer Vorläuferstudie mit 2-3 Zyklen PEI und einer HDCT mit Carboplatin, Etoposid und Ifosfamid (CEI), fand sich unter TIP/CET eine geringere Rate an Nephrotoxizitäten. Demgegenüber nahmen allerdings die peripheren Neurotoxizitäten an Häufigkeit und Intensität deutlich zu. Schon unter der konventionellen Therapie mit TIP konnte ein Anstieg der Neurotoxizitäten verzeichnet werden. Diese nahm allerdings bei den betroffenen Patienten nach der HDCT mit CET nochmals deutlich zu und erreichte bei 5 Patienten einen Grad 4. Dieser Zustand persistierte über die ersten Wochen nach HDCT und verbesserte sich dann langsam.
+
+Für diese Änderung des Nebenwirkunsspektrums kommen verschiedene Gründe in Frage. Es ist allgemein bekannt, dass Paclitaxel eine Neuropathie der sensiblen und wahrscheinlich auch der motorischen Nervenfasern verursachen kann. Besonders
+77betroffen waren Patienten, die mit Cisplatin oder Vincaalkaloiden vorbehandelt waren, oder in kurzen Intervallen oder über eine nur kurze Infusionszeit Paclitaxel erhielten. Ebenfalls ein erhöhtes Risiko, eine Polyneuropathie zu entwickeln, hatten Diabetiker oder Patienten mit einer Alkoholkrankheit in der Anamnese 44,138,151. In unserem Patientenkollektiv war die Entwicklung einer schweren Grad 4 Polyneuropathie besonders nach der HDCT bzw. unter Verwendung von Carboplatin und Thiotepa ausgeprägt. Während bei den konventionellen Dosierungen von Carboplatin die Neurotoxizität nur sehr mild ausfällt, tritt diese Nebenwirkung im Rahmen der HDCT deutlich weiter in den Vordergrund. Ähnlich verhält es sich mit Thiotepa. Zwar wurde bisher noch nicht über eine periphere Neurotoxizität berichtet, doch ist es bekannt, dass Thiotepa besonders bei höheren Dosierungen eine Toxizität des Zentralnervensystems auslösen kann. Weiterführende neurophysiologische Untersuchungen im Rahmen der HDCT könnten Aufschluss über den genauen Pathomechanismus der therapieassoziierten Neurotoxizitäten geben.
+
+6.3.Retrospektive Analyse der RTR nach HDCT
+In einer retrospektiven Studie von 57 Patienten, die eine RTR nach HDCT erhielten, wurden die gewonnenen Histologien analysiert. Bei nur 42% der Patienten wurde ausschliesslich Nekrose im Resektat gefunden, wohingegen die Mehrzahl derPatienten noch Anteile eines reifes Teratoms oder VUT hatten 53,82. Während Hartmann et al. bei 80% der Patienten noch VUT fanden, konnten Donohue et al. dies nur bei 32% der Patienten feststellen. Zwei weitere Studien konnten dieseResultate bestätigen 64,131. Die Datenlage nach Primärtherapie ist wesentlich umfangreicher und zeigt, dass sich bei etwa 10% der Patienten noch unreifeTumoranteile finden 62,175. Eine Erklärung für diesen Unterschied könnte sein, dass sich nach Primärtherapie im Rezidiv cisplatinrefraktäre Zellklone gebildet haben, die nach Salvagechemotherapie persistieren und dann zu einem erneuten Progress führen.
+
+Während die Resektion von Nekrose im Prinzip unnötig ist, kommt der Entfernung von reifem Teratom oder VUT ein therapeutischer Stellenwert zu. Da es zur Zeit keine zuverlässigen nicht-invasiven diagnostischen Verfahren gibt, um reifes Teratom oder VUT in residuellen Tumormanifestationen nach Salvagechemotherapie messen zu können, ist die RTR aller Patienten mit partieller Remission nach HDCT, insbesondere im Hinblick auf die sehr ungünstige Prognose im Falle eines Progresses, unbedingt indiziert. Zur Vorhersage der Wahrscheinlichkeit von resektionswürdigen Residuen führten wir eine univariate Analyse von Faktoren durch, die mit einem erhöhten Risiko für reifes Teratom/VUT korrelieren könnten. Eine statistische Signifikanz erreichte nur die residuelle Tumormanifestation im Brustkorb mit einem Durchmesser von > 2 cm. Da aber die Patientenzahl in den einzelnen Subgruppen sehr klein war, könnte dieses Ergebniss auch zufallsbedingt sein. Für eine weiterführende multivariate Analyse waren die Patientenzahlen ebenfalls zu klein.
+
+In Übereinstimmung mit den histologischen Ergebnissen nach Primärtherapie fand sich in unserem Resektionsgut der größte Teil an VUT in den retroperitonealen Residuen. Nur bei einem Patienten war VUT neben dem Abdomen auch noch an anderer Stelle nachweisbar. Aus diesem Grund sollte, vergleichbar dem Vorgehen nach der Primärtherapie, bei Vorliegen von retroperitonealen Tumorresiduen nach HDCT diese zuerst operativ entfernt und erst in einer nachfolgenden Sitzung die übrigen Manifestationen saniert werden. Bei dem Nachweis von ausschliesslich Nekrose oder Anteilen von reifem Teratom ist keine weitere Therapie erforderlich. Schwieriger ist das Vorgehen beim Nachweis von VUT. Während es weitgehend akzeptiert ist, im Rahmen der Erstlinienbehandlung zwei weitere konventionell- dosierte Zyklen Chemotherapie (z.B. PEI) zu applizieren, wird die Durchführung einer adjuvanten Chemotherapie im Rahmen der Salvagechemotherapie bzw. nach HDCT kontrovers diskutiert. Die Datenlage dazu ist gering und erlaubt keine definitive Aussage. In zwei retrospektiven Studien wurde dieser Frage nachgegangen und jeweils ein Patientenkollektiv nach konventioneller Chemotherapie analysiert. Ein Vorteil zu Gunsten der adjuvanten Therapie konnte anhand dieser Daten nichtgesehen werden 53,82. Aus diesem Grund haben wir in Zusammenarbeit mit der deutschen Studiengruppe Hodentumoren eine randomisierte Phase III Studie initiiert, die die Durchführung einer oralen Chemotherapie mit Etoposid gegen das "wait and see" Vorgehen testet.
+
+6.4.Der Einsatz von Amifostin im Rahmen der HDCT
+6.4.1.Stammzellmobilisation
+Eine suffiziente Anzahl an PBPZ kann bei Patienten mit Keimzelltumoren nach einer Chemotherapie in Kombination mit einem Wachstumsfaktor gewonnen werden. Schwella et al konnten nachweisen, dass eine Therapie mit Paclitaxel und Ifosfamidplus 10 µg/kg KG G-CSF ein effektives Regime darstellt 163. Die Hinzunahme von Amifostin zu diesem Schema sollte die Qualität des Stammzellproduktes weiter steigern, die Mobilisationsphase zu Gunsten einer antitumoralen Therapie möglichst kurz gestalten und die Belastung des Patienten durch eine lange Apheresedauer bzw. durch wiederholte Apheresen minimieren.
+
+Zwar konnten am Tag 10 bzw. Tag 11 nach Beginn der Chemotherapie bei Patienten, die Amifostin erhielten, im Median mehr zirkulierende PBPZ im PB gemessen werden, doch wirkte sich dieses Phänomen weder auf die Dauer der Mobilisationsphase noch auf die Qualität des Endproduktes oder auf die Anzahl der notwendigen Apheresen aus. Ebenfalls war die Anzahl der Patienten, die nicht ausreichend mobilisierten, in beiden Therapiearmen gleich verteilt. Insgesamt konnte durch den Einsatz von Amifostin keine Verbesserung der Stammzellmobilisation und –separation gemessen werden.
+
+
+6.4.2.Toxizitätsevaluierung
+Im Hinblick auf die Toxizitäten unter TIP und CET konnte zwischen Patienten, die Amifostin erhalten hatten, und Patienten, die ohne Amifostin therapiert wurden, kein statistisch signifikanter Unterschied festgestellt werden. Allerdings waren in der Gruppe von Patienten mit Amifostin hämatologische Toxizitäten Grad 4, schwere Neurotoxizitäten Grad 3-4 und eine relevante Nephrotoxizität ≥ 2° weniger häufig ausgeprägt als in der Vergleichsgruppe. Kein Unterschied konnte in Bezug auf die hämatopoetische Regeneration nach HDCT und die Supportivmassnahmen verzeichnet werden. Amifostin hatte ebenfalls keinen Einfluss auf das Gesamt- und das ereignisfreie Überleben der Patienten.
+
+Es existieren nach wie vor nur wenige Daten zum Einsatz von Amifostin im Rahmen der HDCT bzw. bei Patienten mit Keimzelltumoren. In einer randomisierten Studie behandelten Hartmann et al. 40 Patienten mit GCT mittels einer HDCT ± Amifostin. Zwar kam es bei den Patienten, die Amifostin erhielten, zu einer beschleunigten hämatopoetischen Regeneration, doch wirkte sich dies nur gering auf den klinischen Verlauf aus. Des weiteren konnte eine weniger schwer ausgeprägte Nephrotoxizität
+79mit statistisch signifikantem geringeren Abfall der GFR bei amifostinbehandelten Patienten gemessen werden. Zum Auftreten eines akuten Nierenversagens mit oder ohne Dialysepflichtigkeit kam es in beiden Therapiegruppen nicht, so dass derklinischen Nutzen für die Patienten gering war 81. In Übereinstimmung mit den Ergebnissen von Hartmann et al. konnten wir auch eine geringer ausgeprägte Nephrotoxizität unter HDCT bei Patienten mit Amifostin beobachten. Insbesondere schienen jene Patienten von Amifostin im Rahmen der HDCT zu profitieren, die schon zuvor eine Einschränkung der Nierenfunktion hatten. Ebenso verhielt es sich auch bezüglich der Neurotoxizitäten.
+
+Weitere Daten zum Einsatz von Amifostin existieren nur zur konventionellen Chemotherapie und da zumeist nur als Phase II Studien. Die wenigen randomisierten Phase III Studien liefern divergente Ergebnisse und lassen keine allgemeingültige Empfehlung zu. Im Vergleich zu diesen Untersuchungen hatte unsere Studie verschiedene Vorteile. Es handelte sich um eine prospektive randomisierte unizentrische Phase III Studie, in der ein ausreichend toxisches Chemotherapieregime zum Einsatz kam, damit überhaupt messbare Toxizitäten auftreten konnten. Alle Patienten litten an einem progredienten oder rezidivierten Keimzelltumor und waren einheitlich mit mindestens einem cisplatinhaltigen Regime vorbehandelt und damit besonders prädisponiert für die relevanten Toxizitäten. Wesentliche Begleiterkrankungen wie Diabetes mellitus, Alkoholabusus oder eine hypertensive Nephropathie, die die Ergebnisse verfälschen könnten, lagen in diesem überwiegend jungen Patientenkollektiv nicht vor. Eingeschränkt wurde die Aussagekraft der Studie allerdings durch die kleine Patientenanzahl, die unter TIP bedingt durch Therapieabbrüche weiter reduziert wurde. Dadurch konnten nur größere Toxizitätsunterschiede zwischen den Studiengruppen aufgedeckt werden. Desweiteren war die Einzelgabe von Amifostin mit 500 mg absolut eher niedrig dosiert, doch war die kumulative Dosis über einen Zyklus TIP oder im Rahmen der HDCT deutlich höher als in den zuvor genannten Studien. Die Gründe für dieses Applikationsschema waren die praktikablere Handhabbarkeit und dass bei Initiierung der Studie keine Erfahrungen mit Amifostin in Verbindung mit Taxol bzw einer hochdosierten Chemotherapie vorlagen. Dies könnten unter anderem Gründe dafür sein, warum kein statistisch signifikantes Ergebnis erzielt werden konnte.
+
+
+6.4.3.Immunrekonstitution
+Die Applikation von Amifostin im Rahmen der Salvagetherapie brachte im Hinblick auf die Rekonstitution der Gesamtlymphozyten und deren Subpopulationen keinen Vorteil. Ungünstige Ausgangsbedingungen für die Studie waren die niedrigen Lymphozytenwerte zu Beginn der Therapie, die Patienten, die pro Zyklus im weiteren Therapieverlauf immer weniger wurden, wodurch auch die Anzahl der zu untersuchenden Patientenproben immer geringer ausfielen und die kurze Nachbeobachtungszeit von nur 3 Monaten nach HDCT. Andererseits hatte die Studie im Vergleich zu früheren Untersuchungen Vorteile. Es handelte sich um eine randomisierte Studie mit einem homogenen Patientenkollektiv, welches in der Salvagesituation einheitlich behandelt wurde. Die eingesetzte Chemotherapie war zytotoxisch genug, um einen statistisch signifikanten Unterschied aufdecken zu können.
+
+Während der konventionellen Chemotherapie blieben bis auf die B-Lymphozyten und die NK-Zellen alle anderen lymphozytären Subpopulationen auf niedrigen Werten konstant. Trotz der kontinuierlich niedrigen CD4+ Zellwerte traten keine atypischen Infektionen auf.
+
+
+Erwartungsgemäss entwickelten alle Patienten nach HDCT eine Hämatotoxizität Grad 4 mit Gesamtleukozyten unter 0,5/nl im PB. Demzufolge waren auch die Lymphozytenwerte während dieser Phase sehr niedrig. Trotz der Rückgabe von autologen PBSZ kam es im Vergleich zu anderen Untersuchungen nur zu einer sehr langsamen Regeneration der lymphozytären Subpopulationen. Dieses Phänomen war unabhängig von der Applikation von Amifostin und wurde in beiden Therapiearmen gleichermaßen beobachtet. Die Gesamtlymphozyten erreichten ihren Ausgangswert vor der HDCT im Median erst nach 45 Tagen nach PBPZ-Rückgabe.
+
+Einen medianen Wert von > 1,0 ⋅ 109/l im PB wurde erst nach 63 Tagen erreicht. Die Rekonstitution der CD4+ T-Helferzellen war ebenfalls deutlich verzögert. Diese Beobachtung wurde auch von anderen Autoren in der Vergangenheit gemacht. Während Scambia et al. ebenfalls eine deutlich verzögerte Regeneration der Gesamtlymphozyten erst nach 60 Tagen nach der Transplantation beobachtete, konnten Scheid et al. und Roberts et al. diese schon nach 10 bis 21 Tagen feststellen 148,155,156. Eine mögliche Erklärung für die deutlich protrahierte Regeneration der lymphozytären Zellen könnte zum einen die intensive Vorbehandlung und zum anderen das sehr hämatotoxische Therapieregime mit hochdosiertem Carboplatin, Etoposid und Thiotepa darstellen. Zwar müssen diesen Ergebnissen keine unmittelbaren weiteren therapeutischen Konsequenzen folgen, doch ergeben sich zwei wichtige Informationen. Zum einen ist trotz regenerierter Gesamtleukozyten der Anteil der Lymphozyten nach HDCT über einen längeren Zeitraum gering. Dies sollte bei allen Massnahmen, die die Immunabwehr des Patienten betreffen, bedacht werden. Andererseits ist trotz eines protrahierten Verlaufs bei allen Patienten mit einer Rekonstitution der Lymphopoese zu rechnen. Ausserdem kam es trotz sehr niedriger Werte für die CD4+ T-Helferzellen zu keiner Steigerung der Inzidenz an atypischen Infektionen.
+
+7.Abschliessende Zusammenfassung
+Die Hinzunahme von Paclitaxel in den konventionellen Anteil der Salvagechemotherapie und Thiotepa in die HDCT stellte sich als wirkungsvolles potentiell kuratives Therapieregime heraus. Die Remissionsraten und die Langzeitergebnisse, die mit diesem Schema erzielt wurden, sind vergleichbar mit denen aus früheren Studien. Demgegenüber wurde eine Veränderung im Toxizitätsprofil beobachtet. Während in früheren HDCT-Regimen die Nephrotoxizität einen besonderen Stellenwert einnahm und häufig als therapielimitierende Nebenwirkung auftrat, trat diese in der vorgelegten Studie in den Hintergrund und wurde von einer Zunahme der Neurotoxizitäten verdrängt. Da diese unerwünschte Wirkung von den Patienten subjektiv als sehr belastend empfunden wird und mehrere Monate nach Ende der HDCT persistieren kann, sollte das Toxizitätsprofil bei der Wahl einer HDCT bedacht werden. Ungeachtet dessen kann das hier vorgestellte Regime als Alternative zu anderen HDCT-Schemata dienen. Darüber hinaus unterstreichen diese Untersuchungsergebnisse allerdings auch die uneingeschränkte Notwendigkeit, eine HDCT nur im Rahmen von kontrollierten klinischen Studien durchzuführen.
+
+Eine weitere zentrale Aussage der vorliegenden Habilitationsschrift ist die Notwendigkeit einer Residualtumorresektion nach HDCT. Diese sollte bei Persistenz von retroperitonealen Tumormanifestationen erst dort erfolgen und in einem zweiten oder nachfolgenden Eingriff an den weiteren Lokalisationen. Aufgrund des Nachweises von Karzinomanteilen in den thorakalen Manifestationen bei einem Teil der Patienten mit ausschließlich nekrotischem Gewebe in den retroperitonealen Residuen, sollte eine Sanierung der intrathorakalen Tumorresten unbedingt durchgeführt werden. Darüber hinaus ist das Erreichen einer kompletten Resektion der Tumormanifestationen durch einen auf diesem Gebiet sehr erfahrenen Urologen und Thoraxchirurgen für den Patienten existentiell. Sollte sich dann im Resektionsgut noch vitaler unreifer Tumor finden, ist der Einschluss dieser Patienten in die laufende randomisierte Studie mit oralem Etoposid anzustreben.
+
+
+Der Einsatz von Amifostin im Rahmen der konventionellen und hochdosierten Salvagechemotherapie hat die hohen Erwartungen an diese Substanz leider nicht erfüllt. Es wurde weder eine Verbesserung der Gewinnung von peripheren Blutstammzellen noch der Immunrekonstitution nach konventioneller Chemotherapie oder nach HDCT erreicht. Zwar konnte die Verwendung dieser zytoprotektiven Substanz bei Patienten mit eingeschränkter Nierenfunktion vor HDCT tendenziell der Entwicklung zu einer dialysepflichtigen Niereninsuffizienz vorbeugen, doch ergab sich daraus keine statistische Signifikanz. Ebenfalls schienen die aufgetretenen Neurotoxizitäten unter der konventionellen Chemotherapie und der HDCT durch den Einsatz von Amifostin an Intensität zu verlieren. Diesen eher schwachen Hinweisen für den Nutzen von Amifostin für den einzelnen Patienten stehen die extrem hohen Behandlungskosten gegenüber, die schon für sich alleine die Verabreichung dieser Substanz ausserhalb von Studien deutlich einschränken. Aus diesem Grund kommt der Einsatz von Amifostin nur in einer erneuten prospektiven und randomisierten Studie unter Verwendung höherer Einzelgaben und eines ausführlichen Toxizitäts- und Lebensqualitätsmonitorings in Frage.
+
+
+Zusammenfassend kann gesagt werden, dass die HDCT bei Patienten mit rezidivierten oder progredienten Keimzelltumoren weiterhin eine wichtige therapeutische Komponente darstellt. Daneben kommt der Residualtumorresektion
+82ebenfalls eine entscheidende Bedeutung zu. Neben der Verbesserung der Heilungsaussichten sollte bei der Planung weiterer Studien auch die Verminderung von schwerwiegenden, den Patienten nachhaltig belastenden und den therapeutischen Ablauf gefährdenden Toxizitäten mit einbezogen werden. Des weiteren sollte zukünftig bei der Studienplanung Prognosefaktoren eine grössere Rolle eingeräumt werden.
+
+Literatur
+
+1.Abrams RA, Johnston-Early A, Kramer C, et al. (1981): Amplification of circulating granulocyte-monocyte stem cell nimbers following chemotherapy in patients with extensive small cell carcinoma of the lung. Cancer Res. 41:35-41.
+
+2.Adamson PC, Balis FM, Belasco JE, et al. (1995): A phase I trial of amifostine (WR 2721) and melphalan in children with refractory cancer. Cancer Res. 55:4069- 4072.
+
+
+3.Afzal SMJ, Ainsworth EJ. (1987): Radioprotection of mouse colony forming units-spleen against heavy-charged particle damage by WR 2721. Radiat Res 109:118-126.
+
+
+4.Alberts DS, Noel JK. (1995): Cisplatin-associated neurotoxicity: Can it be prevented? Anticancer Drugs 6:369-383.
+
+
+5.Anand AJ, Bashey B. (1993): Newer insights into cisplatin nephrotoxicity. Ann Pharmacother 27:1519-1525
+6.Ashihara E, Shimazaki C, Yamagata N, et al (1994): Reconstitution of lymphocyte subsets after peripheral blood stem cell transplantation: two-color flow cytometric analysis. Bone Marrow Transplant 13:377-381.
+
+7.Avril MF, Ortoli JC, Fortier-Beaulieu M, et al. (1992): High-dose cisplatin an WR
+2721 in metastatic melanoma. Proc Am Soc Clin Oncol 11:344.
+
+8.Bamberg M, Schmoll HJ, Weissbach L, et al (1997): Interdisziplinäre Konsensus-Konferenz zur "Diagnostik und Therapie von Hodentumoren". Strahlenther Onkol 173:397-406.
+
+
+9.Betticher DC, Anderson H, Ranson M, et al. (1995): Carboplatin combined with amifostine, a bone marrow protectant, in the treatment of non-small cell lung cancer, a randomized phase II study. Br J Cancer 72:1551-1555.
+
+
+10.Beyer J, Grabbe J, Lenz K, et al (1992): Cutaneous toxicity of high-dose carboplatin, etoposide and ifosfamide followed by autologous stem cell reinfusion. Bone Marrow Transplant 10:491-494.
+
+
+11.Beyer J, Bokemeyer C, Schmoll HJ, Siegert W (1994): Treatment intensification in disseminated germ-cell tumors. World J Urol 12:207-213.
+
+
+12.Beyer J, Schwella N, Zingsem J, et al (1995): Hematopoietic rescue after high- dose chemotherapy using autologous peripheral-blood progenitor cells or bone marrow: a randomized comparison. J Clin Oncol 13:1328-1335.
+
+
+13.Beyer J, Bokemeyer C, Schmoll HJ, Siegert W (1996): Hochdosischemotherapie bei Hodentumoren. Onkologe 2:S28-S32.
+
+
+
+14.Beyer J, Kramar A, Mandanas R, et al (1996): High-dose chemotherapy as salvage treatment in germ cell tumors: a multivariate analysis of prognostic factors. J Clin Oncol 14:2638-2645.
+
+15.Beyer J, Kingreen D, Krause M, et al (1997): Long term survival of patients with recurrent or refractory germ cell tumors after high dose chemotherapy. Cancer 79:161-168.
+
+
+16.Beyer J, Rick O, Weinknecht S, et al (1997): Nephrotoxicity after high-dose carboplatin, etoposide and ifosfamide in germ-cell tumors: incidence and implications for hematologic recovery and clinical outcome. Bone Marrow Transplant 20:813-819.
+
+
+17.Beyer J, Bokemeyer C, Schmoll HJ, Siegert W (1998): Salvagetherapie rezidivierter und refraktärer Hodentumoren. Onkologe 4:541-546.
+
+
+18.Beyer J, Schmoll HJ (1998): Prognosefaktoren bei metastasierten seminomatösen und nichtseminomatösen Hodentumoren. Onkologe 4:518-523.
+
+
+19.Beyer J, Stenning S, Gerl A, et al (2002): High-dose versus conventional-dose first-salvage treatment in nonseminoma: a matched-pair analysis. Annals of Oncol 13:599-605.
+
+
+20.Bhatia S, Abonour R, Porcu P, et al. (2000): High-dose chemotherapy as initial salvage chemotherapy in patients with relapsed testicular cancer. J Clin Oncol 18:3346-3351
+21.Blijham G, Spitzer G, Litam J, et al (1981): The treatment of advanced testicular carcinoma with high dose chemotherapy and autologous marrow support. Eur J Cancer 17:433-441.
+
+22.Bokemeyer C, Beyer J, Metzner B, et al. (1996): Phase II study of paclitaxel in patients with relapsed or cisplatin-refractory testicular cancer. Ann Oncol 7:31-34.
+
+
+23.Bokemeyer C, Schmoll HJ, Kuczyk MA, et al (1995): Risk of secondary leukemia following high cumulative doses of etoposide during chemotherapy for testicular cancer. J Natl Cancer Inst 87:58-60.
+
+
+24.Bokemeyer C, Hartmann JT, Kanz L (1997): Prävention cisplatininduzierter Chemotherapietoxizität durch Amifostin. Arzt und Krankenhaus 2:57-56.
+
+
+25.Bokemeyer C, Harstrick A, Beyer J, et al. (1998): The use of doseintensified chemotherapy in the treatment of metastatic nonseminomatous testicular germ cell tumors: German Testicular Cancer Study Group. Semin Oncol 25:24-32.
+
+
+26.Bokemeyer C, Kollmannsberger C, Meisner C, et al. (1999): First-line High-dose chemotherapy compared with standard-dose PEB/VIP chemotherapy in patients with advanced germ cell tumors: a multivariate and matched-pair analysis. J Clin Oncol 17:3450-3456.
+
+
+85
+27.Bokemeyer C, Beyer J, Metzner B, et al. (1996): Phase II study of paclitaxel in patients with relapsed or cisplatin-refractory testicular cancer. Ann Oncol 7:31-34.
+
+28.Bokemeyer C, Frank B, van Rhee J, et al. (1993): Peripheral neuropathy following cancer chemotherapy. Tumordiagn Ther 24:351.
+
+
+29.Bokemeyer C, Hartmann J, Fels L, et al. (1997): Amifostine protects against early cisplatin-induced renal damage and enhances CD34+ cell numbers for PBSC collection. Proc Am Soc Clin Oncol 16:47a
+30.Bokemeyer C, Gerl A, Schöffski P, et al. (1999): Gemcitabine in patients with relapsed or cisplatin-refractory testicular cancer. J Clin Oncol 17:512-516.
+
+31.Bokemeyer C, Berger CC, Kuczyk MA, et al (1996): Evaluation of long-term toxicity after chemotherapy for testicular cancer. J Clin Oncol 14:2923-2932.
+
+
+32.Bosl GJ, Yagoda A, Golbey RB, et al (1985): Role of etoposide-based chemotherapy in the treatment of patients with refractory or relapsing germ cell tumors. Am J Med 78:423-428.
+
+
+33.Bosl G, Motzer RJ (1997): Testicular germ-cell cancer. N Engl J Med 337:242-
+34.Broun ER, Nichols CR, Einhorn LH, Tricot GJK (1991): Salvage therapy with high-dose chemotherapy and autologous bone marrow support in the treatment of primary nonseminomatous mediastinal germ cell tumors. Cancer 68:1513-1515.
+
+35.Broun ER, Nichols CR, Tricot G, et al (1991): High-dose carboplatin/VP-16 plus ifosfamide with autologous bone marrow support in the treatment of refractory germ cell tumors. Bone Marrow Transplant 7:53-56.
+
+
+36.Broun ER, Nichols CR, Kneebone P, et al (1992): Long-term outcome of patients with relapsed and refractory germ cell tumors treated with high-dose chemotherapy and autologous bone marrow rescue. Ann Intern Med 117:124-128.
+
+
+37.Broun ER, Nichols CR, Turns M, et al (1994): Early salvage therapy for germ cell cancer using high dose chemotherapy with autologous bone marrow support. Cancer 73:1716-1720.
+
+
+38.Broun ER, Nichols CR, Mandanas R, et al (1995): Dose escalation study of high-dose carboplatin and etoposide with autologous bone marrow support in patients with recurrent and refractory germ cell tumors. Bone Marrow Transplant 16:353-358.
+
+
+39.Brugger W, Bross K, Frisch J, et al. (1992): Mobilization of peripheral blood progenitor cells by sequential administration of interleukin-3 and granulocyte- macrophage colony-stimulating factor following polychemotherapy with etoposide, ifosfamide and cisplatin. Blood 79:1193-1200.
+
+
+40.Budd GT, Ganapathi R, Adelstein DJ, et al. (1997): Randomized trial of carboplatin plus amifostine versus carboplatin alone in patients with advanced solid tumors. Cancer 80:1134-1140.
+
+41.Buntzel J, Glatzel M, Kuttner K, et al. (1998): Selective cytoprotection with amifostine in concurrent radiochemotherapy of head and neck cancer. Ann Oncol 9:505-509.
+
+
+42.Capelli D, Santini G, De Souza C, et al. (2000): Amifostine can reduzed mucosal damage after high-dose melphalan conditioning for peripheral blood progenitor cell autotransplant: a retrospective study. Br J Haematol 110:300-107.
+
+
+43.Carlo-Stella C, Dodero A, Regazzi E, et al. (1998): Amifostine enhances chemotherapy-elicited peripheral blood progenitor cell mobilisation. Proc Am Soc Clin Oncol 17:78a
+44.Cavaletti G, Bogliun G, Crespi V, et al (1997): Neurotoxicity and ototoxicity of cisplatin plus paclitaxel in comparison to cisplatin plus cyclophosphamide in patients with epithelial ovarian cancer. J Clin Oncol 15:199-206.
+
+45.Chauncey TR, Gooley TA, Lloid ME, et al. (2000): Pilot trial of cytoprotection with amifostine given with high-dose chemotherapy and autologous peripheral blood stem cell transplantation. Am J Clin Oncol 23:406-411.
+
+
+46.Cockroft DW, Gault MH (1976): Prediction of creatinine clearance from serum creatinine. Nephron 16:31-41.
+
+
+47.Cooper MA, Einhorn LH (1995): Maintenance chemotherapy with daily oral etoposide following salvage therapy in patients with germ cell tumors. J Clin Oncol 13:1167-1169.
+
+
+48.Cox DR (1972): Regression models and life-tables. J R Stat Soc (B) 34:187-
+49.Demuynck H, Delforge M, verhoef G, et al. (1993): Comparative study of peripheral blood progenitor cell collection in patients with multiple myeloma after single-dose cyclophosphamide combined with rhGM-CSF of rhG-CSF. Br J Haematol 90:384-392.
+
+50.De Santis M, Bokemeyer C, Becherer A, et al (2001): Predictive impact of 2- Fluoro-2-Deoxy-D-Glucose positron emission tomography for residual postchemotherapy masses in patients with bulky seminoma. J Clin Oncol 19:3740- 3744.
+
+
+51.Dieckmann KP, Kreuser ED (1991): Aktueller Stand der Chemotherapie von Keimzelltumoren. Urologe A 30:45-54.
+
+
+52.Donohue JP, Birhle R, Foster RS (1992): Evolving concepts in surgical management of testis cancer. Cancer Treat Res 59:89-97.
+
+53.Donohue JP, Fox EP, Williams SD, et al (1994): Persistent cancer in postchemotherapy retroperitoneal lymph-node dissection: Outcome analysis. World J Urol 12:190-195.
+
+
+54.Douay L, Hu C, Giarratana MC, et al. (1995): Amifostine improves the antileukemic therapeutic index of mafosfamide: Implications for bone marrow purging. Blood 86:2849-2855.
+
+
+55.Dreger P, Marquardt P, Haferlach T, et al. (1993): Effective mobilization of peripheral blood progenitor cells with „DexaBEAM“ and G-CSF: timing of harvesting and composition of the leukapheresis product. Br J Cancer 68:950-957.
+
+
+56.Dührensen U, Villeval JL, Boyd J, et al (1988): Effects of recombinant human granulocyte colony-stimulating factor on hematopoietic progenitor cells in cancer patients. Blood 72:2074-2081.
+
+
+57.Einhorn LH (1990): Treatment of testicular cancer: a new and improved model. J Clin Oncol 8:1777-1781.
+
+
+58.Einhorn LH, Stender MJ, Williams SD. (1999): Phase II trial of gemcitabine in refractory germ cell tumors. J Clin Oncol 17:509-511.
+
+
+59.Farhat F, Culine S, Theodore C, et al (1996): Cisplatin and ifosfamide with either vinblastine or etoposide as salvage therapy for refractory or relapsing germ cell tumor patients. Cancer 77:1193-1197.
+
+
+60.Fields K, Elfenbein GJ, Lazarus H, et al (1995): Maximum-tolerated doses of ifosfamide, carboplatin, and etoposide given over 6 days followed by autologous stem-cell rescue: toxicity profile. J Clin Oncol 13:323-332.
+
+
+61.Fitzharris BM, Kaye SB, Saverymuttu S, et al. (1980): VP-16 as single agent in advanced testicular tumors. Eur J Cancer 16:1193-1197.
+
+
+62.Fossa SD, Aass N, Ous S, et al. (1989): Histology of tumor residuals following chemotherapy in patients with advanced nonseminomatous testicular cancer. J Urol 142:1239-1242.
+
+
+63.Fossa SD, Stenning SP, Gerl A, et al (1999): Prognostic factors in patients relapsing after platinum-based chemotherapy for malignant non-seminomatous germ cell tumours. Br J Cancer 80:1392-1399.
+
+
+64.Fox EP, Weathers TD, Williams SD, et al (1993): Outcome analysis of patients with persistent nonteratomatous germ cell tumor in postchemotherapy retroperitoneal lymph node dissections. J Clin Oncol 11:1294-1299.
+
+
+65.Freyer G, Hennebert P, Awada A, et al. (2002): Influence of amifostine on th toxicity and pharmacokinetics of docetaxel in metastatic breast cancer patients: a pilot study. Clin Cancer Res 8:95-102.
+
+66.Gale RP, Henon P, Huttner C (1992): Blood stem cell transplantation come of age. Bone Marrow Transplant 9:151-155.
+
+
+67.Gelmon K, Eisenhauer E, Bryce C, et al. (1999): Randomized phase II study of high-dose paclitaxel with or without amifostine in patients with metastatic breast cancer. J Clin Oncol 17:3038-3047.
+
+
+68.Gerl A, Clemm C, Schmeller N, et al (1995): Prognosis after salvage treatment for unselected male patients with germ cell tumours. Br J Cancer 72:1026-1032.
+
+
+69.Glover D, Glick JH, Weiler C, et al. (1986): WR-2721 protects against the hematologic toxicity of cyclophosphamide: a controlled phase II trial. J Clin Oncol 4:584-588.
+
+
+70.Glover D, Glick JH, Weiler C, et al. (1987): WR-2721 and high-dose cisplatin: An active combination in the treatment of metastatic melanoma. J Clin Oncol 5:574-
+71.Goodnough L, Brecher ME, Kanter MH, AuBuchon JP (1999): Transfusion medicine. N Engl J Med 340:438-447.
+
+72.Goren MP, Wright RK, Pratt CB, et al (1987): Potentiation of ifosfamide neurotoxicity, hematotoxicity, and tubular nephrotoxicity by prior cis- diamminedichloroplatinum(II) therapy. Cancer Res 47:1457-1460.
+
+
+73.Gradishar WJ, Stephenson P, Glover DJ, et al. (2001): A phase II trial of cisplatin plus WR-2721 (amifostine) for metastatic breast carcinoma. Cance 92:2517- 2522.
+
+
+74.Gregg RW, Molepo JM, Monpetit VJA, et al. (1992): Cisplatin neurotoxicity: The relationship between dosage, time, and platinum concentration in neurologic tissue, and morphologic evidence of toxicity. J Clin Oncol 10:795-803.
+
+
+75.Groopman JE, Molina JM, Scadden DT, et al. (1989): Hematopoietic growth factors. Biology and clinical applications. N Engl J Med 321:1449-1459.
+
+
+76.Gulati SC (1994): Did we focus on the most important issues in the use of growth factors and stem-cell transplantation. J Clin Oncol 12:650-652.
+
+
+77.Haas R, Möhle R, Frühauf S, et al (1994): Patient characteristics associated with successful mobilizing and autografting of peripheral blood progenitor cells in malignant lymphoma. Blood 83:3787-3794.
+
+
+78.Hainsworth JD, Williams SD, Einhorn LE, Birch R, et al (1985): Successful treatment of resistant germinal neoplasms with VP-16 and cisplatin: results of a Southeastern Cancer Study Group Trial. J Clin Oncol 3:666-671.
+
+79.Harding MJ, Paul J, Gillis CR, Kaye SB (1993): Management of malignant teratoma: does referral to a specialist unit matter? Lancet 341:999-1002.
+
+
+80.Harstrick A, Schmoll HJ, Wilke H, et al (1991): Cisplatin, etoposide, and ifosfamide salvage therapy for refractory or relapsing germ cell carcinoma. J Clin Oncol 9:1549-1555.
+
+
+81.Hartmann JT, von Vangerow A, Fels LM, et al. (2001): A randomized trial of amifostine in patients with high-dose VIC chemotherapy plus autologous blood stem cell transplantation. Br J Cancer 84:313-320.
+
+
+82.Hartmann JT, Schmoll HJ, Kuczyk MA, et al (1997): Postchemotherapy resections of residual masses from metastatic non-seminomatous testicular cell tumors. Ann Oncol 8:531-538.
+
+
+83.Henon PR, Liang H, Beck-Wirth G, et al. (1992): Comparison of hematopoietic and immune recovery after autologous bone marrow or blood stem cell transplants. Bone Marrow Transplant 9:285-291.
+
+
+84.Hildebrandt MO, Blaser F, Beyer J, et al (1998): Detection of tumor cells in peripheral blood samples from patients with germ cell tumors using immunocytochemical and reverse transcriptase_polymerase chain reaction techniques. Bone Marrow Transplant 22:771-775.
+
+
+85.Hinton S, Catalano P, Einhorn L, et al. (2002): Phase II Study of paclitaxel plus gemcitabine in refractory germ cell tumors (E9897): A trial of the Eastern Cooperative Oncology Group. J Clin Oncol 20:1859-1863.
+
+
+86.Hölzel D, Altwein JE (1991): Hodentumoren. Ist der Rückgang der Mortalität in der Bundesrepublik Deutschland zu langsam erfolgt? Deutsch Ärztebl 88:B2694- B2700.
+
+
+87.Hölzel D, Klamert A, Schmidt M. Krebs. Häufigkeiten, Befunde und Behandlungsergebnisse. München: Zuckschwerdt Verlag, 1996.
+
+
+88.Horwich A (1995): Salvage therapy of germ cell tumours. Br J Cancer 71:901-
+89.ICH. Harmonised tripartite guideline for good clinical practice. Richmond, Surrey, UK: Brookwood Medical Publications Ltd, 1997.
+
+90.International Germ Cell Cancer Collaborative Group (1997): International germ cell consensus classification: a prognostic factor-based staging system for metastatic germ cell cancers. J Clin Oncol 15:594-603.
+
+
+91.Johnson PWM, Muers MF, Peak MD, et al. (2001): A randomized trial of amifostine as a cytoprotective agent in patients receiving chemotherapy for small cell lung cancer. Br J Cancer 84:19-24.
+
+92.Josefsen D, Ous S, Hoie J, Stenwig AE, Fossa SD (1993): Salvage treatment in male patients with germ cell tumours. Br J Cancer 67:568-572.
+
+
+93.Kaplan EL, Meier P (1958): Non-parametric estimation from incomplete observations. J Am Stat Assoc 53:457-481.
+
+
+94.Karnofsky DA, Abelmann WH, Craver LF, Burchenal JH (1948): The use of the nitrogen mustards in the palliative treatment of carcinoma. Cancer 1:634-656.
+
+
+95.Kemp G, Rose P, Lurain J, et al. (1996): Amifostine pretreatment for protection against cyclophosphamide-induced and cisplatin-induced toxicities: results of a randomized control trial in patients with advanced ovarian cancer. J Clin Oncol 14:2101-2112.
+
+
+96.Kessinger A, Armitage JO (1991): The evolving role of autologous peripheral stem cell transplantation following high-dose therapy for malignancies. Blood 77:211-
+97.Klumpp TR, Mangan KF, Goldberg SL, et al (1995): Granulocyte colony- stimulating factor accelerates neutrophil engraftment following peripheral-blood stem- cell transplantation: a prospective, randomized trial. J Clin Oncol 13:1323-1327.
+
+98.Kollmannsberger C, Beyer J, Droz JP, et al (1998): Secondary leukemia following high cumulative doses of etoposide in patients treated for advanced germ cell tumors. J Clin Oncol 16:3386-3391.
+
+
+99.Kollmannsberger C, Rick O, Derigs H-G, et al. (2002): Activity of oxaliplatin in patients with relapsed or cisplatin-refractory germ cell cancer: A study of the German Testicular Cancer Study Group. (GTCSG). J Clin Oncol 15:2031-2037.
+
+
+100.Kollmannsberger C, Schleucher N, Rick O, et al. (2002): Analysis of salvage treatment for germ cell cancer patients relapsing after primary high-dose chemotherapy plus autologous stem cell support. J Clin Oncol, submitted.
+
+
+101.Kotasek D, Shepherd KM, Sage RE, et al. (1992): factors affecting blood stem cell collections following high-dose cyclophosphamide mobilization in lymphoma, myeloma, and solid tumors. Bone Marrow Transplant 9:11-17.
+
+
+102.Lampe H, Dearnaley D, Price A, et al (1995): High-dose carboplatin and etoposide for salvage chemotherapy of germ cell tumours. Eur J Cancer 31A:717-
+
+103.Ledermann JA, Holden L, Newlands ES, et al (1994): The long-term outcome of patients who relapse after chemotherapy for non-seminomatous germ cell tumours. Br J Urol 74:225-230.
+
+
+104.Levine EG, Raghavan D (1991): Treatment of refractory testis cancer: salvage or savage chemotherapy? Eur J Cancer 27:932-936.
+
+105.Linkesch W, Krainer M, Wagner A (1992): Phase I/II trial of ultrahigh dose carboplatin, etoposide, cyclophosphamide with ABMT in refractory nonseminomatous germ cell tumors (GCT). Proc Am Soc Clin Oncol 11:196 (abstract 600).
+
+
+106.List AF, Heaton R, Glinsmann-Gibson B, et al. (1998): Amifostine stimulates formation of multipotent and erythroid bone marrow progenitors. Leukemia 12:1596- 1602.
+
+
+107.List AF, Brasfield F, Heaton R, et al. (1997): Stimulation of hematopoiesis by amifostine in patients with myelodysplastic syndrome. Blood 90:3364-3369.
+
+
+108.Loehrer PJ, Einhorn LH, Williams SD (1986): VP-16 plus ifosfamide plus cisplatin as salvage therapy in refractory germ cell cancer. J Clin Oncol 4:528-536.
+
+
+109.Loehrer PJ, Gonin R, Nichols CR, et al (1998): Vinblastine plus ifosfamide plus cisplatin as initial salvage therapy in recurrent germ cell tumor. J Clin Oncol 16:2500- 2504.
+
+
+110.Lohrmann HP, Schreml W, Lang M, et al. (1978): Changes of granulopoiesis during and after adjuvant chemotherapy of breast cancer. Br J Haematol 40:369-381.
+
+
+111.Mantel N (1966): Evaluation of survival data and two new rank order statistics arising in its consideration. Cancer Treat Rep 50:163-170.
+
+
+112.McCaffrey JA, Mazumdar M, Bajorin D, et al (1997): Ifosfamide- and cisplatin- containing chemotherapy as first-line salvage therapy in germ cell tumors: response and survival. J Clin Oncol 15:2559-2563.
+
+
+113.Miller KD, Loehrer PJ, Gonin R, et al. (1997): Salvage chemotherapy with vinblastine, ifosfamide, and cisplatin in recurrent seminoma. J Clin Oncol 15:1427- 1431.
+
+
+114.Mollman JE, Glover DJ, Hogan WM, et al. (1988): Cisplatin neutopathy. Risk factors, prognosis, and protection by WR-2721. Cancer 61:2192-2195.
+
+
+115.Mollman JE. (1990): Cisplatin neurotoxicity. New Engl J Med 11:126-127.
+
+
+116.Morrow GR, Hickok JT, Rosenthal SN (1995): Progress in reducing nausea and emesis. Cancer 76:343-357.
+
+
+117.Motzer RJ, Cooper K, Geller NL, et al (1990): The role of ifosfamide plus cisplatin-based chemotherapy as salvage therapy for patients with refractory germ cell tumors. Cancer 66:2476-2481.
+
+
+118.Motzer RJ, Gulati SC, Crown JP, et al (1992): High-dose chemotherapy and autologous bone marrow rescue for patients with refractory germ cell tumors: Early intervention is better tolerated. Cancer 69:550-556.
+
+119.Motzer RJ, Mazumdar M, Bosl GJ, et al (1996): High-dose carboplatin, etoposide, and cyclophosphamide for patients with refractory germ cell tumors: treatment results and prognostic factors for survival and toxicity. J Clin Oncol 14:1098-1105.
+
+
+120.Motzer RJ, Sheinfeld J, Mazumdar M, et al. (2000): Paclitaxel, ifosfamide, and cisplatin second-line therapy for patients with relapsed testicular germ cell cancer. J Clin Oncol 18:2413-2418.
+
+
+121.Motzer RJ, Bajorin DF, Schwartz LH, et al. (1994): Phase II trial of paclitaxel shows antitumor activity in patients with previously treated germ cell tumors. J Clin Oncol 12:2277-2283.
+
+
+122.Motzer RJ, Mazumdar M, Sheinfeld J, et al. (2000): Sequential dose-intensive paclitaxel, ifosfamide, carboplatin and etoposide salvage therapy for germ cell tumor patients. J Clin Oncol 18:1173-1180.
+
+
+123.Mulder POM, De Vries EGE, Schraffordt Koops H, et al (1988): Chemotherapy with maximally tolerable doses of VP 16-213 and cyclophosphamide followed by autologous bone marrow transplantation for the treatment of relapsed or refractory germ cell tumors. Eur J Cancer Clin Oncol 24:675-679.
+
+
+124.Murphy BR, Breeden ES, Donohue et al (1993): Surgical salvage of chemorefractory germ cell tumors. J Clin Oncol 11:324-329.
+
+
+125.Newlands ES, Bagshawe KD (1977): Epipodophyllin derivative (VP16-213) in malignant teratomas and chorioncarcinomas. Lancet 2: 87.
+
+
+126.Newlands ES, Bagshawe KD, Begent RHJ, et al (1986): Current optimum management of anaplastic germ cell tumours of the testis and other sites. Br J Urol 58: 307-314.
+
+
+127.Nichols CR, Tricot G, Williams SD, et al (1989): Dose-intensive chemotherapy in refractory germ cell cancer-a phase I/II trial of high-dose carboplatin and etoposide with autologous bone marrow transplantation. J Clin Oncol 7:932-939.
+
+
+128.Nichols CR, Andersen J, Lazarus HM, et al (1992): High-dose carboplatin and etoposide with autologous bone marrow transplantation in refractory germ cell cancer: an Eastern Cooperative Oncology Group protocol. J Clin Oncol 10:558-563.
+
+
+129.Nichols CR, Roth BJ, Loehrer PJ, et al (1994): Salvage chemotherapy for recurrent germ cell cancer. Semin Oncol 21:102-108.
+
+
+93
+130.Nichols CR, Catalano PJ, Crawford ED, et al (1998): Randomized comparison of cisplatin and etoposide and either bleomycin or ifosfamide in treatment of advanced disseminated germ cell tumors: an eastern cooperative oncology group, southwest oncology group, and cancer and leukemia group B study. J Clin Oncol 16:1287-1293.
+
+131.Peckham MJ, Horwich A, Easton DF, et al. (1988): The management of advanced tesicular teratoma. Br J Urol 62: 63-68.
+
+
+132.Pettengell R, testa NG, Swindell R, et al. (1993): Transplantation potential of hematopoietic cells released into the circulation during routine chemotherapy for non- Hodgkin´s lymphoma. Blood 82:2239-2248.
+
+
+133.Pizzocaro G, Pasi M, Salvioni R, et al (1985): Cisplatin and etoposide salvage therapy and resection of the residual tumor in pretreated germ cell testicular cancer. Cancer 56:2399-2403.
+
+
+134.Planting AST, Catimel G, de Mulder PHM, et al. (1999): Randomized study of a short course of weekly cisplatin with or without amifostine in advanced head and neck cancer. Ann Oncol 10:693-700.
+
+
+135.Pont J, Holtl W, Weissbach L, et al (1997): Hochdosischemotherapie und Reinfusion von hämatopoetischen Stammzellen bei fortgeschrittenen Keimzelltumoren mit schlechter Prognose - Stand 1996. Urologe A 36:561-564.
+
+
+136.Porcu P, Bhatia S, Einhorn LH. (2000): Results of treatment after relapse from high-dose chemotherapy in germ cell tumors. J Clin Oncol 18:1181-1186.
+
+
+137.Poplin EA, LoRusso P, Lokich JJ, et al. (1994): Randomized clinical trial of mitomycin-C with or without pretreatment with WR-2721 in patients with advanced colorectal cancer. Cancer Chemother Pharmacol 33:415-419.
+
+
+138.Postma TJ, Vermorken JB, Liefting AJM, et al (1995): Paclitaxel-induced neuropathy. Ann Oncol 6:489-494.
+
+
+139.Rick O, Beyer J, Kingreen D, et al (1998): High-dose chemotherapy in germ cell tumours: a large single centre experience. Eur J Cancer 34:1883-1888.
+
+
+140.Rick O, Beyer J, Kingreen D, et al (2000): Successful autologous bone marrow rescue in patients who failed peripheral blood stem cell mobilization. Ann Hematol 79:681-686.
+
+
+141.Rick O, Siegert W, Beyer J. (2001): Chemotherapy in patients with metastatic or relapsed germ-cell tumours. Cancer Treatment Rev 27:283-288.
+
+
+94
+142.Rick O, Bokemeyer C, Beyer J, et al. (2001): Salvage treatment with paclitaxel, ifosfamide and cisplatin (TIP) plus high-dose carboplatin, etoposide and thiotepa (CET) followed by autologous stem cell rescue in patients with relapsed or refractory germ cell cancer. J Clin Oncol 19:81-88.
+
+143.Rick O, Bokemeyer C, Weinknecht S, et al. (2002): Residual tumor resection after high-dose chemotherapy in patients with relapsed or refractory germ cell tumors. Proc Am Soc Clin Oncol 22: abstract 1563.
+
+
+144.Rick O, Schwella N, Beyer J, et al. (2001): PBPC mobilisation with paclitaxel, ifosfamide, and G-CSF with or without amifostine: results of a prospective randomized trial. Transfusion 41:196-200.
+
+
+145.Rick O, Beyer J, Schwella N, et al. (2001): Assessment of amifostine as protection from chemotherapy-induced toxicities after conventional-dose and high- dose chemotherapy in patients with germ cell tumor. Ann Oncol 12:1151-1155.
+
+
+146.Rick O, Beyer J, Schwella N, et al. (2002): Influence of amifostine on reconstitution of lymphocyte subpopulations after conventional- and high-dose chemotherapy in patients with germ cell tumor. Ann Hematol
+147.Rodenhuis S, Westermann A, HoltkampMJ, et al. (1996): Feasibility of multiple courses of high-dose cyclophosphamide, thiotepa, and carboplatin for breast cancer or germ cell cancer. J Clin Oncol 14:1473-1483.
+
+148.Roberts MM, To LB, Gillis D, et al (1993): Immune reconstitution following peripheral blood stem cell transplantation, autologous bone marrow transplantation and allogeneic bone marrow transplantation. Bone Marrow Transplant 12:469-475.
+
+
+149.Rosti G, Albertazzi L, Salvioni R, et al (1992): High-dose chemotherapy supported with autologous bone marrow transplantation (ABMT) in germ cell tumors: a phase two study. Ann Oncol 3:809-812.
+
+
+150.Rosti G, Pico JL, Wandt H, et al (2002) High-dose chemotherapy in the salvage treatment of patients failing first-line platinum chemotherapy fo advanced germ cell tumors; first results of a prospective randomised trial of the European Group for Blood and Morrow Transplantation (EBMT): IT-94 study. Proc Am Soc Clin Oncol 21: abstract 716.
+
+
+151.Rowinsky EK, Eisenhauer EA, Chaudhry V, et al (1993): Clinical toxicities encountered with paclitaxel (TAXOL). Semin Oncol 20:1-15.
+
+
+152.Sachs L. Angewandte Statistik. Heidelberg: Springer-Verlag, 1992.
+
+
+153.Sandler A, Loehrer P: Salvage therapy and autologous bone marrow transplantation, in Horwich A (ed): Testicular cancer. 2 ed. London, Chapman and Hall Medical, 1996, pp 307-318.
+
+
+154.Saxman SB, Nichols CR, Einhorn LH (1994): Salvage chemotherapy in patients with extragonadal nonseminomatous germ cell tumors: the Indiana University experience. J Clin Oncol 12:1390-1393.
+
+155.Scambia G, Panici PB, Pierelli L, et al (1993): Immunological reconstitution after high-dose chemotherapy and autologous blood stem cell transplantation for advanced ovarian cancer. Eur J Cancer 29A:1518-1522.
+
+
+156.Scheid C, Pettengell R, Ghielmini M, et al (1995): Time-course of the recovery of cellular immune function after high-dose chemotherapy and peripheral blood progenitor cell transplantation for high-grade non-Hodgkin`s lamphoma. Bone Marrow Transplant 15:901-906.
+
+
+157.Schiller JH, Storer B, Berlin J, et al. (1996): Amifostine, Cisplatin, and Vinblastine in metastatic non-small cell lung cancer: A report of high response rates and prolonged survival. J Clin Oncol 14:1913-1921.
+
+
+158.Schuchter L, et al. (1995): Ethyol and escalating doses of taxol. Presented at th 8th European Cancer Conference. Paris, France.
+
+
+159.Schwartzberg L, Birch R, Hazelton B, et al. (1992): Peripheral blood stem cell mobilization by chemotherapy with and without recombinant human granulocyte colony-stimulating factor. J Hematother 1:317-327.
+
+
+160.Schwella N, Rick O, Meyer O, et al. (1998): Mobilization of peripheral blood progenitor cells by disease-specific chemotherapy in patients with soft tissue sarcoma. Bone Marrow Transplant 21:863-868.
+
+
+161.Schwella N, Huhn D. (1998): Mobilisation und Separation autologer Blutstammzellen. Der Onkologe 4:639-648.
+
+
+162.Schwella N, Beyer J, Schwaner I, et al (1996): Impact of preleukapheresis cell counts on collection results and correlation of progenitor-cell dose with engraftment after high-dose chemotherapy in patients with germ cell cancer. J Clin Oncol 14:1114-1121.
+
+
+163.Schwella N, Beyer J, Rick O, et al. (1998): Blood progenitor cell mobilization with paclitaxel (Taxol) in patients with germ cell cancer (abstract). Ann Hematol 77 (Suppl 2):161.
+
+
+164.Serke S, Van Leesen A, Huhn D (1998): Quantitative fluorescence flow cytometry: a comparison of the three techniques for direct and indirect immunofluorescence. Cytometry 33:179-187.
+
+
+165.Shpall, EJ, Stemmer SM, Hami L, et al. (1994): Amifostine (WR-2721) shortens the engraftment periode of 4-Hydroperoxycyclophosphamide-purged bone marrow in breast cancer patients receiving high-dose chemotherapy with autologous bone marrow support. Blood 83:3132-3137.
+
+
+166.Siegert W, Beyer J (1998): Germ cell tumors: Dose-intensive therapy. Semin Oncol 25:215-223.
+
+167.Siegert W, Beyer J, Strohscheer I, et al (1994): High-dose treatment with carboplatin, etoposide, and ifosfamide followed by autologous stem-cell transplantation in relapsed or refractory germ cell cancer: a phase I/II study. The German Testicular Cancer Cooperative Study Group. J Clin Oncol 12:1223-1231.
+
+
+168.Sigdestad CP, Grdina DJ, Connor AM, et al. (1986): A comparison of radioprotection from three neutron sources and 60Co by WR 2721 and WR 151327. Radiat Res. 106:224-233.
+
+
+169.Socinski MA, Elias A, Schnipper L, et al (1988): GM-CSF expands the circulating hematopoietic progenitor cell compartment in man. Lancet 2:1194-1198.
+
+
+170.Speicher LA, Krutzsh M, Wymer J, et al (1995): Amifostine does not inhibit the cytotoxic effects of a broad range of standard anticancer drugs against human ovarian and breast cancer cells. Proc Amer Ass Cancer Res 36:1727.
+
+
+171.Spencer CM, Goa KL (1995): Amifostine: A review of ist pharmacodynamic and pharmacocinetic Properties, and therapeutical potential as a rdioprotector and cytotoxic chemoprotector. Drugs 50:1001-1031.
+
+
+172.Spitzer G, Adkins DR, Spencer V, et al (1994): Randomized study of growth factors post-peripheral-blood stem-cell transplant: neutrophil recovery is improved with modest clinical benefit. J Clin Oncol 12:661-670.
+
+
+173.Steyerberg EW, Donohue JP, Gerl A, et al (1997): Residual masses after chemotherapy for metastatic testicular cancer: The clinical implications of the association between retroperitoneal and pulmonary histology. J Urol 158:474-478.
+
+
+174.Steyerberg EW, Keizer HJ, Fossa SD, et al. (1995): Prediction of residual retroperitoneal mass histology after chemotherapy for metastatic nonseminomatous germ cell tumor: multivariate analysis of individual patient data from six study groups. J Clin Oncol 13:1177-1187.
+
+
+175.Steyerberg EW, Gerl A, Fossa SD, et al. (1998): Validity of predictions of residual retroperitoneal mass histology in nonseminomatous testicular cancer. J Clin Oncol 16:269-274.
+
+
+176.Stiff PJ, Murgo AJ, Wittes RE, et al. (1983): Quantification of the peripheral blood colony forming unit-culture rise following chemotherapy. Could leukocytaphereses replace bone marrow for autologous transplantation? Transfusion 23:500-503.
+
+
+177.Thadhani R, Pascual M, Bonventre JV (1996): Acute renal failure. N Engl J Med 334:1448-1460.
+
+
+178.To LB, Haylock DN, Simmons PJ, Juttner CA (1997): The biology and clinical uses of blood stem cells. Blood 89:2233-2258.
+
+179.To LB, Shepperd M, Haylock DN, et al. (1990): Single high-dose of cyclophosphamide enable the collection of high numbers of hemopoietic stem cells from the peripheral blood. Exp Hematol 18:442-447.
+
+
+180.To LB, Haylock DN, Kimber RJ, et al. (1984): High levels of circulating haematopietic stem cells in very early remission from acute non-lymphoblastic leukaemia and their collection and cryopreservation. Br J Haematol 58:399-410.
+
+
+181.To LB, Roberts MM, Haylock DN, et al. (1991): Comparison of haematologic recovery times and supportive care requirements of autologous recovery phase peripheral blood stem cell transplants, autologous bone marrow transplants and allogeneic bone marrow transplants. Bone Marrow Transplant 7:173-181.
+
+
+182.Treskes M, Nijtmans LGJ, Fichtinger-Shepman AMJ, et al (1992): Effects of the modulating agent WR 2721 ans ist main metabolites on the formation and stability of cisplatin-DNA adducts in vitro in comparison to the effects of thiosulphate and diethyldithiocarbamate. Biochem Pharmacol 43:1013-1019.
+
+
+183.Treskes M, Holwerda U, Nijtmans LGJ, et al (1992): The reversal of cisplatin- protein interactions by the modulating agent WR 2721 and ist metabolites WR 1065 and WR 33278. Cancer Chemother Pharmacol 29:467-470.
+
+
+184.Treskes M, Boven E, Holwerda U, et al. (1992): Time dependenceof the selective modulationof cisplatin-induced nephrotoxicity by WR 2721 in the mouse. Cancer Res. 52:2257-2260.
+
+
+185.Turrisi AT, Glover TJ, Hurwitz S, et al. (1986): Final report of the phase I trial of single-dose WR 2721 [S-2-(3-aminopropylamino)-ethylphosphorothioic acid]. Cancer Treat Rep. 70:1389-1393.
+
+
+186.Wadler S, Haynes H, Beitler JJ, et al. (1993): Management of hypocalcemic effects of WR 2721 administered on a daily times five schedule with cisplatin and radiation therapy. J Clin Oncol 11:1517-1522.
+
+
+187.Wang LM, Wang QW, Fernandes DJ, et al (1995): Amifostine protects MRC-5 human lung fobroplasts from taxol toxicity without reducing ist cytotoxic effect against human non-small cell lung cancer cells. Proc Am assoc cancer res 36:288.
+
+
+188.Wheeler C, Loehrer PJ, Williams SD, Einhorn LH (1986): Ifosfamide in refractory male germ cell tumors. J Clin Oncol 4:28-34.
+
+
+189.Williams SD, Birch R, Einhorn LH, et al (1987): Treatment of disseminated germ cell tumors with cisplatin, bleomycin and either vinblastine or etoposide. N Engl J Med 316:1435-1440.
+
+
+190.Williams SD (1992): High dose therapy in germ cell tumors: when, what, and how much. Ann Oncol 3:780-781.
+
+191.Wilson WH, Jain V, Bryant G, et al (1992): Phase I and II study of high-dose ifosfamide, carboplatin, and etoposide with autologous bone marrow rescue in lymphomas and solid tumors. J Clin Oncol 10:1712-1722.
+
+
+192.Wolff SN, Johnson DH, Hainsworth JD, Greco FA (1984): High-dose VP-16-123 monotherapy for refractory germinal malignancies: a phase II study. J Clin Oncol 2:271-274.
+
+
+193.Wong GG, Witek JS, Temple PA, et al. (1985): Human GM-CSF: Molecular cloning of the complemantary DANN and purification of the natural and recombinant proteins. Science 228:810-815.
+
+
+194.Woolley PV, Ayoob MJ, Smith FP, et al. (1983): Clinical trial of the effect of S-2- (3-aminopropylamino)-ethylphosphorothioic acid (WR-2721) (NSC 296961) on the toxicity of cyclophosphamide. I Clin Oncol 1:198-203.
+
+
+195.World Health Organization. WHO handbook for reporting results of cancer treatment. Geneva: WHO Offset Publication, 1979.
+
+
+196.World Medical Organization Declaration of Helsinki. Recommendations guiding physicians in biomedical research involving human subjects. Amended by the 41st World Medical Assembly, Hong Kong, 1989.
+
+
+197.Zeller W, Gutensohn K, Stockschläger M, et al. (1996): Increase of mobilized CD34-positive peripheral blood progenitor cells in patients with Hodgkin´s disease, non-Hodgkin´s lymphoma and cancer of the testis. Bone Marrow Transplant 17:109-
+198.Zsebo KM, Cohen AM, Murdock DC, et al. (1986): Recombinant human granulocyte colony-stimulating factor: molecular and biological characterization. Immunobiology 172:175-184.
+

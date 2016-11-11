@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd">
+      <feature name="vroniplag" etext_number="Aeh" url="http://de.vroniplag.wikia.com/wiki/Aeh'"/>
+      <feature name="language" value="de" />
+    <feature name="realistic-plagiarism" this_offset="1861" this_length="4058" />
+<feature name="realistic-plagiarism" this_offset="6952" this_length="1023" />
+<feature name="realistic-plagiarism" this_offset="7976" this_length="591" />
+<feature name="realistic-plagiarism" this_offset="8801" this_length="625" />
+<feature name="realistic-plagiarism" this_offset="10724" this_length="777" />
+<feature name="realistic-plagiarism" this_offset="12866" this_length="943" />
+<feature name="realistic-plagiarism" this_offset="13812" this_length="2064" />
+<feature name="realistic-plagiarism" this_offset="14456" this_length="2281" />
+</document>

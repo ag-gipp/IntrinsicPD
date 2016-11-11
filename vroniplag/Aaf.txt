@@ -1,0 +1,546 @@
+Prävalenz und Molekulare Charakterisierung von Staphylococcus aureus bei ambulanten Patienten in der Dermatologie
+
+1. EINLEITUNG
+Staphylococcus aureus ist mit seinen Methicillin-resistenten Stämmen ein häufiger Verursacher von Infektionen in Krankenhäusern und anschwellend auch in der Bevölkerung. Bereits 1961 wurde sein Auftreten in Großbritannien entdeckt, lediglich zwei Jahre nach der Introduktion des semisynthetischen Penicillin Methicillin, welches zur Behandlung von Penicillin-resistentem S. aureus genutzt wurde [1]. Zum ersten großen Auftakt von MRSA kam es 1967 in einem Krankenhaus in Boston [2,3].
+
+Die MRSA-Prävalenz ist seither weltweit anhaltend gestiegen. Allerdings ist die Verteilung sowohl national als auch regional sehr heterogen.
+
+
+Einzig in den USA starben im Jahr 2006 circa 19.000 Menschen an MRSA-Infektionen. Im Jahr 2005 reichte die Zahl der stationär behandelten MRSA-Infektionen bis zu 278.000. Im Vergleich zu 1999 in dem 127.000 Fälle beschrieben wurden, zeigte sich eine Verdopplung [4,5]. Schätzungsweise sterben in Deutschland zwischen 700 und 1.500 Personen an einer MRSA- Infektion jährlich. Die Zahl der Infizierten liegt deutlich höher, nämlich bei 40.000 – 50.000.
+
+
+Infektionen mit S. aureus führen zu einem Anstieg der Morbidität und Mortalität der Patienten durch schwerwiegende Erkrankungen wie Sepsis, Endokarditis oder Staphylococcal Scaled Skin Syndrome. Zudem kommt es zu einem Anstieg der Kosten für das Gesundheitssystem. Daher hat die Ergründung dieses Keims eine große Bedeutung in der gegenwärtigen Forschung [6], vor allem dadurch dass bei dem MRSA die Therapieoptionen stark beschränkt sind.
+
+
+1.1. Methicillin-resistenter S. aureus
+MRSA ragt durch Resistenzen gegenüber allen Betalaktamantibiotika heraus. Weiterhin können Resistenzen gegenüber Fluorchinolone, Aminoglykoside oder Makrolide die Gefährlichkeit dieses Erregers steigern. Definitionsgemäß gilt die Resistenz als minimale Oxacillin- Hemmkonzentration von ≥ 4 µg/mL. Zuzuschreiben ist die Resistenz dem mecA-Gen, das auf dem Staphylococcal Cassetten Chromosome mec (SCCmec) zu finden ist, einem mobilen genetischen Element. Durch den Repressor MecI und den Tranducer MecRi wird das mecA-Gen reguliert [55]. Momentan sind sieben SCCmec-Typen bekannt. Das mecA-Gen kodiert für ein modifiziertes Penicillin-Bindeprotein das PBP2a. Das umgewandelte Protein hat eine geringeAffinität, Betalaktamantibiotika in die Zellwand des Bakteriums einzufügen [7], womit die Wirkung des Antibiotikums verschwindet. Die phänotypische Resistenzausprägung ist oftmals different und wird durch die Gene bla (Betalaktamase) und fem (factors essential for methicillin resistance) geregelt [8].
+
+Außergewöhnlich ist, dass die durch MRSA verursachten Infektionen, nicht die Methicillin- sensiblen Staphylococcus aureus (MSSA) – Infektionen ersetzten, sondern begleitend hinzugekommen sind [9,10].
+
+
+Die Bezeichnung MRSA und ORSA (Oxacillin-resistenter Staphylococcus aureus) werden synonym gebraucht, wobei in Deutschland die Resistenz auf Oxacillin getestet wird.
+
+
+Bei Einzelpersonen ist die Kolonisation oder Infektion mit MRSA nicht meldepflichtig. Allerdings ist bei Annahme eines endemischen Zusammenhangs von gehäuften nosokomialen Infektionen, dies laut § Abs. 3 des Infektionsschutzgesetzes dem Gesundheitsamt zu melden [11].
+
+
+1.2. Epidemiologie und Übertragungswege
+Nach der Entdeckung vom MRSA SCCmec Typ I im Jahr 1961, kam es in den 1960er Jahren zur Expansion in Europa und später in den 1970er Jahren weltweit. SCCmec Typ II wurde ebenfalls nach seiner Entdeckung 1982 in Japan weltweit dokumentiert. Gegenwärtig sind weitere SCCmec Typen bekannt, nämlich die Typen III, IV, V, VI, und VII [12, 13, 54], die sich im Größenbereich von 20,9 bis 66,9 kb bewegen.
+
+Die SCCmec Typen I-III werden hauptsächlich mit Healthcare-Associated (HA-) MRSA in Verbindung gebracht. Die Bezeichnung HA-MRSA bedeutet, dass das Bakterium erst nach einem Krankenhausaufenthalt von über 48 Stunden erworben wurde. Die Typen IV, V und VII sind mit Community-Acquired (CA-) MRSA vereinigt. Allerdings wurden schon in einigen Studien Abweichungen davon gefunden. Besonders in den USA treten die CA-MRSA vermehrt in Krankenhäusern auf [12, 14, 15]. Viele differente Theorien befassen sich mit dem Thema der MRSA-Entstehung. Am naheliegendsten ist, dass das SCCmec wiederholt in mehrere, verschiedene S. aureus-Stämme übergegangen ist [19, 20].
+
+
+Die Prävalenz von MRSA ist in der weltweiten Übersicht ungleich verteilt. In Japan, den USA, Spanien, Italien und in südeuropäischen Staaten liegt sie bei 30-80 % und ist damit sehr hoch; in Skandinavien (<1 %) und den Niederlanden (<0,5 %) ist sie sehr niedrig [21, 22, 23]. Bei einer Studie die 1990 begonnen hat, über die Resistenzlage in Europa, an der die Arbeitsgemeinschaft „Empfindlichkeitsprüfungen und Resistenz“ der Paul-Ehrlich Gesellschaft beteiligt ist, zeigt sich ein Anstieg der MRSA-Prävalenz in Deutschland von 1,7 % im Jahr 1990 über 15,2 % 1998 auf 22,6 % im Jahr 2004 [24, 25]. Der Anteil von MRSA in Blutkulturen ist ebenfalls gestiegen [22]. Die Wahrscheinlichkeit, HA-MRSA-Träger zu sein, ist nicht für alle Personen gleichmäßig verteilt, gewisse Risikofaktoren müssen vorhanden sein. Dazu zählen eine positive MRSA- Anamnese oder der Kontakt zu einem MRSA-Träger, ein mindestens 24-stündiger Aufenthalt in einem Altenheim oder Krankenhaus. Zudem sind chronisch offene Wunden oder Ulzera, Antibiotikaeinnahme, chronische Pflegebedürftigkeit, sowie tiefe Weichteilinfektionen, ein liegender Katherer und Dialysepflichtigkeit Risikofaktoren einer MRSA-Besiedlung [26, 96]. Für eine CA-MRSA-Infektion spielen andere Risikofaktoren eine Rolle. Dazu gehören Häftlinge, Teilnehmer von Teamsportarten, Kinder, Wehrdienstleistende sowie Tätowierte [27, 28, 29, 30].
+
+
+Das natürliche Reservoir für S. aureus ist der Mensch, wobei 20 % der Bevölkerung immer, 20 % nie und 60 % intermittierend von einer MRSA-Kolonisation betroffen sind [31]. Hauptsächlich in Krankenhäusern wird MRSA über die Hände der Mitarbeiter übertragen. Grund dafür ist vor allem die unzureichende Hygiene. Dadurch kommt es zu einer MRSA- Verschleppung von den Trägern auf andere Patienten [32].
+
+
+1.2.1. HA-MRSA
+HA-MRSA hat eine große Bedeutung was die nosokomialen Infektionen betrifft. Im Jahr 2008 kam es in der EU, Norwegen und Island zu über 380,000 nosokomialen Infektionen. Darunter wurden 44% durch HA-MRSA hervorgerufen [67]. Besonders häufig tritt HA-MRSA auf Intensiv-Stationen auf. In 2007 wurde vom HELICS Netzwerk (teilgenommen haben 13 EU- Länder) berichtet dass 17% der Pneumonie-Fälle durch S. aureus verursacht wurden, 33% davon durch MRSA. Von den Bakteriämien waren 11% durch S. aureus bedingt, davon 42% durch MRSA [67]. Trotzdem hat sich gemäß der europäischen Überwachungssystemen EARSS und HELICS, die Prävalenz von HA-MRSA in den letzten fünf Jahren verringert [68].
+
+1.2.2. CA-MRSA
+CA-MRSA trat erstmalig in den 1990er Jahren in Australien und den USA unter der unterprivilegierten, einheimischen Gemeinschaft, Schulkinder, Häftlingen, Soldaten, Sportlern und Männern die Sex mit Männer haben (MSM) auf [69]. Risikofaktoren um eine Infektion mit CA-MRSA zu erlangen sind enger Kontakt mit Menschen die kolonisiert sind, oder mit Menschen die aus Ländern kommen mit einer hohen CA-MRSA-Prävalenz, mangelhafte Hygiene, Sportarten mit Körperkontakt [70, 71].
+
+Es unterscheidet sich sowohl genotypisch als auch phänotypisch von HA-MRSA, beinhaltet unterschiedliche Risikofaktoren und seine Resistenz beschränkt sich auf Betalaktamantibiotika. Ein besonderes Merkmal des CA-MRSA ist das Panton-Valentine-Leukozidin Gen, welches Grund für nekrotische Wunden darstellen kann [16, 17, 18]. Die nekrotisierende Pneumonie geht mit einer Letalität von 75% einher. Der Anteil von CA-MRSA bei MRSA liegt aktuell in Deutschland bei 1-2% [72].
+
+
+1.2.3. LA-MRSA
+Die Mehrheit der Tierhaltung in Europa ist mit MRSA kolonisiert. Die Auswirkung auf das Gesundheitssystem ist noch unklar [68]. Die EFSA (European Food Safety Authority) hat in einer aktuellen Erfassung MRSA in Schweinefarmen von 17 EU-Ländern isoliert [73]. Der MRSA-Stamm der aus der Mehrheit der Schweine isoliert wurde war Tetrazyklin-resistent und gehörte zu MLST CC398 [73]. Dieser Bakterienstamm konnte bei Rind und Geflügel ebenfalls isoliert werden [74, 75]. Personen die im engem Kontakt mit MRSA-positiven Tieren sind, sind zu 23-38% ebenfalls mit MRSA kolonisiert [76, 77, 78].
+
+1.3. Klinik und Therapie von MRSA
+ MRSA-Infektionen besitzen viele Gesichter und können eine große Reihe von klassischen
+Infektionskrankheiten bewirken. Zu benennen sind Krankheitsbilder wie Lebensmittelvergiftungen, Furunkel oder Endokarditis. Einige der Erkrankungen führen nicht selten zu lebensbedrohlichen Situationen.
+
+Eine MRSA-Kolonisation bleibt symptomlos. Es kommt lediglich zu einer Vermehrung der Erreger auf der Schleimhaut des Patienten, ohne dass eine Erkrankung ausgelöst wird. Passieren allerdings die Bakterien die Haut- und Schleimhautbarriere und gelangen somit in die Blutbahn,
+oder haben Zugang zum angrenzenden Gewebe, kann dies schwerwiegende Folgen mit sich tragen. Die Virulenzfaktoren des MRSA sowie die Abwehrkräfte des Trägers entscheiden ob es zu einer Infektion kommt oder nicht. Es wurde gezeigt dass bei einer MRSA-Besiedlung das Risiko an eine MRSA-Infektion zu erkranken viermal höher ist als ohne eine MRSA- Kolonisation [34]. Aus diesem Grunde, wird bei jedem MRSA-Träger eine Dekolonisation vorgenommen.
+
+Die Erkrankungen die durch Staphylokokken verursacht werden, werden in toxinbedingte und invasive Prozesse gegliedert. In der Gruppe der Toxin-vermittelten Erkrankungen spielt ein Toxin eine wesentliche Rolle bei der Schädigung. Als Krankheitsbilder die zu dieser Gruppe gehören sind zu benennen die Staphylokokken-Enteritis und die Staphylokokken-Enterokolitis. Die invasiven Erkrankungen, bei der die Schädigung durch den charakteristischen S. aureus- Stamm und die Summe seiner Virulenzfaktoren geschaffen wird, sind lokale Infektionen der Haut und Schleimhaut, wie Furunkel und Mastitis puerperalis, ausserdem sind zu benennen Infektionen innerer Organe, wie Endokarditis, Osteomyelitis sowie Fremdkörperinfektionen. Eine Zwischenform zwischen toxinbedingt und invasiv hervorgerufene Krankheitsbilder stellen das Toxic Schock Syndrom und das staphylokokkenbedingte Lyell-Syndrom dar [35, 36, 37]. Jegliches oberflächliche oder tiefe Einrücken des MRSA kann zu einer Bakteriämie führen und so eine Endokarditis oder Sepsis hervorrufen. In einer Zeitspanne von 1995-2002 wurden in den USA im Rahmen einer Studie über 24.000 Patienten mit nosokomialer Bakteriämie untersucht. Die Studie zeigte einen Anstieg der Bakteriämien die durch MRSA verursacht wurden von 22% im Jahr 1995 auf 57% im Jahr 2001 [38]. Man vermutet dass eine MRSA-Bakteriämie häufiger zum Tode führt als eine MSSA-Bakteriämie [39].
+
+
+Die Bakteriämie kann zu einer infektiösen Endokarditis führen. Sie wird in einem akuten oder subakuten Verlauf eingeteilt. Risikofaktoren die diese Infektion begünstigen liegen vor bei älteren Menschen, Personen die intravenöse Drogen applizieren, stationären Patienten sowie Personen mit prothetischen Herzklappen. Bei der akuten Form treten Symptome auf wie allgemeines Krankheitsgefühl, Fieber, Schüttelfrost, BSG-Erhöhung und Milzvergrößerung. Die subakute Endokarditis ist charakterisiert durch eine schleichende Entwicklung über Wochen und Monate mit einen starken Appetit- und Gewichtsverlust, einer Anämie und Hämaturie, sowie Gelenkschmerzen und Trommelschlegelfinger. Diagnostiziert wird sie durch das klinische Bild, Laborparameter und den Erregernachweis in Blutkulturen. Die Mortalität bei einer durch MRSA
+verursachten Endokarditis ist deutlich höher als die durch MSSA [40]. Zudem ist die Mortalitätsrate der infektiösen Endokarditis beträchtlich hoch und steigt noch mehr an wenn sie durch S. aureus verursacht wird [41, 42].
+
+S. aureus ist ausserdem an der Spitze der Krankheitserreger von nosokomialen Haut- und Weichteilinfektionen. Im Rahmen einer Studie aus den USA und Kanada waren 30 % der aus infizierten Wunden gewonnene S. aureus-Isolate resistent gegen Methicillin, wohingegen es drei Jahre zuvor nur 24 % waren [43, 44]. Im Regelfall werden Ulzera durch eine durch Sauerstoffmangel verursachten Nekrose hervorgerufen. Die Sauerstoffmangelnekrose kann Folge einer chronischen Beinveneninsuffizienz sein, oder aber durch eine arteriellen Verschlusskrankheit oder neuropathischer Ursache im Rahmen eines Diabetes mellitus verursacht worden sein [45]. Das Ulcus befindet sich typischerweise im Bereich des Innenknöchels, es ist rundförmig und solitär und bereitet nur wenig Schmerzen. Bei schon bestehendem Ulcus kann es häufig zu einer MRSA-Infektion oder -Besiedlung kommen. Ulzera neigen zur Ausbreitung und zu Rezidiven. Die Relation zwischen nasaler MRSA-Kolonisation und Ulzera die durch Diabetes verursacht wurden, wurde von Stanaway et al. untersucht. Die Studie ergab dass die Besiedlung mit MRSA in der Nase ein essentieller Risikofaktor für eine Infektion des Ulcus darstellt [46].
+
+
+Vor jeder Behandlung einer MRSA-Kolonisation wird zunächst ein Kolonisationsstatus erhoben. In Abhängigkeit von der Lokalisation wird eine Sanierung für fünf bis sieben Tage begonnen, worauf eine Pause für circa drei Tage folgt, um falsch negativen Resultate durch antibakterielle Substanzen zu entgehen. Demzufolge werden an drei aufeinanderfolgenden Tagen von vorher besiedelten Stellen Abstriche entnommen. Weil es bei bis zu 50 % der Patienten zu einer Rekolonisation kommt, werden im Laufe eines Jahres drei Kontrollabstriche gemacht (nach 1, 3- 6 und 12 Monaten). Nach dem letzten negativen Abstrich kann ein Patient als MRSA-frei bezeichnet werden [26].
+
+
+Therapeutisch wird eine nasalen MRSA-Kolonisation mit eine topisch angewendeten antibiotischen Nasensalbe behandelt, da man durch eine systemische Anwendung zu geringe Wirkstoffspiegel an Haut- und Schleimhaut erreichen würde. Zudem müssen desinfizierende Haarshampoos benutzt werden. Für die Haut- und Schleimhautoberfläche werden Antiseptika empfohlen [52]. Letztendlich sind allgemeine hygienische Maßnahmen einzuhalten, wie z.B. das regelmäßige Wechseln von Textilien und Hygieneartikeln (z.B. Handtücher und Zahnbürste) [47].
+
+
+Bei einer MRSA-Infektion wird mit systemischen Antibiotika gearbeitet. Aufgrund der Resistenz aller MRSA gegen Betalaktamantibiotika und der zusätzlichen Resistenzen der HA-MRSA gegen einer Reihe weiterer Antibiotikagruppen müssen Resereveantibiotika zum Einsatz kommen, wie die Glykopeptide Teicoplanin und Vancomycin. Diese Antibiotika müssen angesichts ihrer geringen Bioverfügbarkeit intravenös verabreicht werden. Bedauerlicherweise zeigen schon einige kürzlich entdeckte MRSA-Stämme, die vor allem in den USA anzutreffen sind, Resistenzen gegen Glykopeptiden [48, 49]. Es sind die sogenannten Vancomycin-resistente Staphylocoocus aureus -Stämme (VRSA). Aus diesem Grund entsteht die Notwendigkeit bei Infektionen mit Glykopeptid-intermediären S. aureus Stämmen (GISA) andere Antibiotika wie Linezolid, Quinupristin/Dalfopristin, Daptomycin, oder Tigecyclin anzuwenden. Allerdings sind Linezolid-Resistenzen ebenfalls beschrieben worden [50].
+
+
+Ein interessantes Therapiemuster ist die Anwendung von Maden an Ulzera zur MRSA- Bekämpfung. Bowling et al. haben im Rahmen einer Studie mit 13 MRSA besiedelten Ulzera durch Madentherapie 12 von denen dekolonisiert [51]. Angesichts der zum Teil gravierenden Krankheitsbilder und den immer mehr beschränkten Therapieoptionen, besteht akuter Handlungsbedarf, im Rahmen von Screeningverfahren, das konsequente Einhalten von Hygienemaßnahmen durch das Personal im Krankenhaus, Kontaktisolierungsmaßnahmen von MRSA-Trägern und deren Dekolonisierung.
+
+
+1.4. Pathogenitätsfaktoren
+Eine ganze Reihe von strukturellen und sezernierten Virulenzfaktoren spielen bei der Pathogenese von MRSA-Infektionen eine Rolle. Eine Funktion kann durch mehrere Faktoren ausgelöst werden und vice versa kann ein Faktor mehrere Pathogenitätsfunktionen aufweisen. Durch verschiedene Toxine und Oberflächenproteine wird die Virulenz des Erregers determiniert. Verschiedene MRSA-Stämme enthalten andere Toxine und Adhäsionsproteine, somit können sie sich in der Fähigkeit zur Biofilmbildung und Phagozytose differenzieren.
+
+Die für die Virulenz und Resistenz verantwortlichen Gene, sind auf dem etwa 28000Bp großen, ringförmigen Chromosom und den extrachromosomalen Elementen zu finden, bestehend aus Prophagen, Plasmiden und Transposons [37].
+
+
+1.4.1. Zelloberflächenstrukturen
+Unter dem Begriff „microbial surface components recognizing adhesive matrix molecules“ (MSCRAMMs) werden die Adhäsionsfaktoren von MRSA zusammengefasst: Diese Adhäsionsfaktoren bewirken eine Anhaftung an das Gewebe. Zu der Gruppe der MSCRAMMs gehören die Fibronektin-Bindeproteine A und B, der Clumpingfaktor (Fibrinogenrezeptor), das Elastin-Bindeprotein und das Kollagen-Bindeprotein. Höchstwahrscheinlich sind die MSCRAMMs bei dem Beginn von Knochen-, Gelenks-, und endovaskulären Infektionen relevant [53].
+
+Begleitend zeigt sich ein weiterer wichtiger Virulenzfaktor, das 42kD schwere Protein A. Dieses Protein wirkt der Phagozytose entgegen, indem es an den Fc-Teil von Antikörpern anheftet. Ferner hat die Mehrheit der S. aureus-Stämme eine Polysaccharidkapsel (meist Serotyp 5 oder 8), die gleichfalls antiphagozytotisch wirkt. Ein Biofilm kann durch Bildung interzellulären Adhäsins aus Poly-N-Acetylglucosamin gebildet werden, in dem Mikrokolonien („Small Colony Variants“, SCV) wachsen. Diese Mikrokolonien zeichnen sich durch eine stark verminderte Stoffwechselaktivität, ein verzögertes Wachstum sowie eine geringe Koloniegröße aus. Der Biofilm bewirkt dass die Erreger vor der körpereigenen Abwehr geschützt werden und verleiht Ihnen somit eine erhöhte Persistenz [35].
+
+
+1.4.2. Extrazelluläre Produkte
+S. aureus produziert das sogenannte Fibrolysin womit er ein zuvor schützendes Fibringerinnsel auflöst und sich somit weiter im Gewebe vermehren kann. Für das Einrücken und Zerstören des Gewebes bei einer Infektion, produziert der Erreger Nukleasen, Phospholipase C, Hyaluronidasen, Proteasen, Lipasen, und Metalloproteasen. Zudem produziert S. aureus das Toxin Leukozidin, das Granulozyten und Makrophagen beschädigt. Dadurch wird das Toxin zu einem bedeutsamen Virulenzfaktor, da es das Immunsystem schwächt. Eines davon ist das Exotoxin Panton-Valentine-Leukozidin, welches in der Regel bei CA-MRSA anzutreffen ist. DasToxin bildet Poren in der Zellwand von Leukozyten und ist mit rezidivierend auftretenden Furunkeln, Abszessen und nekrotisierender Pneumonie assoziiert [53].
+
+S. aureus besitzt Hämolysine die in α, β, γ und δ eingeteilt werden. Durch das α-Hämolysin gehen die Thrombozyten, die Endothelzellen, und einigen Epithelzellen zugrunde; die Hämolysine β und γ wirken zytotoxisch und hämolysierend. Zudem bilden bestimmte S. aureus- Stämme Exfoliativproteine, welche zu einer Abtrennung der Dermis zwischen dem Stratum spinosum und Stratum granulosum führen können und dadurch das Staphylococcal Scaled Skin Syndrome hervorrufen.
+
+
+Die von S. aureus produzierenden Enterotoxine werden in A, B, C 1-3, D, E, G und H unterschieden. Für Menschen sind die Enterotoxine A und B von großer Wichtigkeit und fallen durch Lebensmittelvergiftungen auf. Durch ihre hohe Hitzestabilität sind die Toxine in der Lage trotz eines Erhitzens auf 100°C zu persistieren. Häufige Quellen der Erkrankung sind Milch- und Eiprodukte, sowie Schweinefleisch [35, 36].
+
+
+Bestimmte S. aureus-Stämme besitzen das chromosomal kodierte Toxic Schock Syndrom Toxin (TSST), welches bei Lymphozyten eine vermehrte Ausschüttung von Zytokinen bewirkt und damit ein toxisches Schocksyndrom hervorrufen kann.
+
+
+1.5. Antibiotikaresistenz
+Nachdem 1941 Penicillin vermehrt verwendet wurde, kam es 1945 zur Isolierung des ersten Penicillin-resistenten S. aureus Stammes. Der Stamm besaß eine β-Laktamase als Resistenzmechanismus. 1960 kam es zur Introduktion von Oxacillin. Dieses Antibiotikum besaß Isoxazolyl-Seitenkette, welche als Substrat für die Betalaktamase galt. Das Oxacillin war somit nicht angreifbar. Schon ein Jahr später, 1961, kam es zur Isolierung des ersten Oxacillin- und Methicillin-resistenten S. aureus Stammes. 1997 traten erstmalig in USA und Japan, 1998 erstmalig in Deutschland, MRSA-Stämme auf, die eine verminderte Resistenz gegen Glykopeptide aufwiesen (GISA- Glykopeptid-intermediärer-Staphylococcus aureus). Im Jahr 2002 trat in den USA wie befürchtet der erste Vancomycin-resistente Staphylococcus aureus (VRSA) auf. Im Genom dieses Stammes war das vanA-Gen der Enterokokken nachzuweisen [66].
+
+Die Paul-Ehrlich-Gesellschaft berichtet über eine konstante Zunahme des Anteils von MRSA an S. aureus in den letzten Jahren, von 1,7% 1990 über 12,7% 1995, über 15,2% 1998 (PEG; www.p-e-g.de).
+
+
+Die erste Resistenz des S. aureus wurde durch das bla-Gen vermittelt. Es kodiert für eine β- Laktamase, welche den Penicillan-Ring spaltet und somit inaktiviert. Dadurch ist S. aureus gegen Penicillin, Amoxicillin, Piperacillin und Mezlocillin resistent. Mit der Einführung der „Penicillinasefesten“ Penicilline (Oxacillin, Methicillin), der Cephalosporine und der Carbapeneme hatte sich die Resistenzproblematik gelöst. S. aureus bildete daraufhin das zusätzliche Penicillin-Binde-Protein 2a, zu dem die β-Laktam Antibiotika nur eine geringe Affinität besitzen. Die Kodierung des PBP2a erfolgt durch das mecA-Gen welches durch mehrere Faktoren reguliert wird (blaR, blaI, femA-F, mecI, agr, sar, aux, sigB, fmt, Ilm). Die Multiresistenz des MRSA kommt dadurch zustande, dass neben dem mecA-Gen sich noch zusätzliche mec-assoziierte DNA gebildet hat. Der flexible Einbau von genetischen Elementen ermöglicht somit die Multiresistenz. Resistenzen bestehen ausserdem gegen Tetrazykline, Aminoglykoside sowie Erythromycin (ermA-Gen). Punktmutationen im Angriffspunkt der Chinolone und Rifampicine bewirken ebenfalls Resistenzen gegen diese Antibiotika [66].
+
+
+Die SCCmec Typen II und III weisen im Gegensatz zu den SCCmec Typen I, IV, V, VI und VII nicht nur eine Resistenz gegen Betalaktam-Antibiotika auf, sondern auch gegenüber weiteren Chemotherapeutika, da sie zusätzlich zu mecA weitere Resistenzgene auf Plasmiden und Transposons besitzen. So besitzt SCCmec II durch das Plasmid pUB110 eine Resistenz gegen mehrere Aminoglykoside und aufgrund des Transposons Tn554 auch gegenüber einigen Makroliden, Linkosamiden und Streptogramin. Tetrazykline und Cadmium zeigen aufgrund des pI128 und ΨTn554 keine Wirkung bei der Anwendung bei SCCmec Typ III [55].
+
+
+1.6. Diagnostik
+Zur MRSA-Diagnostik wird zunächst ein Abstrich aus Nase und einer etwaigen Wunde entnommen. Dieser wird auf ein MRSA-Screeningmedium ausgestrichen. Der Nährboden wird nun für 48 Stunden bebrütet, wobei die erste Beurteilung bereits nach 24 Stunden stattfindet. Ein sicher negatives Ergebnis liegt jedoch erst nach 48 Stunden vor.
+
+Für den MRSA-Nachweis muss sichergestellt werden, dass es sich um Staphylococcus aureus handelt. Dazu wird ein Koagulase-Agglutinationstest durchgeführt, bei dem nach Vermischung einiger Bakterienkolonien mit fibrinogenhaltigem Plasma, eine Gerinnung stattfindet die makroskopisch sichtbar ist, wenn es sich um S. aureus handelt. Bei Auswahl des Test-Kits muss darauf geachtet werden, dass zusätzlich auch Antikörper gegen Kapselpolysaccharide oder weitere Makromoleküle der Zellwand gerichtet sind, da einige MRSA-Stämme den Verklumpungsfaktor nicht oder nur schwach exprimieren. Eine weitere Variante zur Unterscheidung von Koagulase-positiven und Koagulase-negativen Staphylokokken lässt sich durch Sequenzierung der 16S RNA aufzeigen, darüber hinaus ist die Unterscheidung durch die Gene für die β-Untereinheit der RNA-Polymerase und Hitze-Schock-Protein 60 möglich. Bei der PCR erfolgt der S. aureus-Nachweis durch Beweis einer Sequenz, die die Koagulase-negativen Staphylokokken nicht aufweisen sowie durch das nuc-Gen.
+
+
+Zum Nachweis der Resistenz sollten sowohl kulturelle als auch molekularbiologische Verfahren eingesetzt werden. Der Latexagglutinationstest ist ein MRSA Schnelltest, der die Oxacillinresistenz mit fast 90 %iger Sicherheit angibt. Auch durch die Automatensysteme Phoenix und VITEK®-2 kann das Methicillinresistenzgen bereits nachgewiesen werden [56, 57, 58]. Der mecA-Gennachweis erfolgt mittels der PCR, wobei auch weitere Resistenzgene durch die Multiplex-PCR nachgewiesen werden können [59].
+
+
+Bei einem positiven Befund sollte eine Genotypisierung durchgeführt werden. Dies kann durch die Pulsfeldgel-Elektrophorese, die Multilocussequenz-, die SCCmec- oder die spa-Typisierung erfolgen [55].
+
+
+1.7. Zielsetzung der Arbeit
+Trotz steigender Inzidenz von MRSA und damit verbundenen erhöhten Kosten für das Gesundheitssystem, lassen die Screeningverfahren für Detektion und Eradikation des Keimes zu wünschen übrig. Von besonderer Bedeutung ist die Übertragung von MRSA durch das Krankenhauspersonal, welches nicht regelmäßig auf den Keim getestet wird.
+
+In der folgenden Arbeit wurden im Zeitraum von 13 Monaten Abstrichproben gesammelt, die von ambulanten Patienten der dermatologischen Tagesklinik des Universitätsklinikums Münster
+ stammen. Die Patienten wiesen einen, oder mehrere Risikofaktoren für eine MRSA-Besiedlung auf.
+
+
+Zielsetzung ist, die Prävalenz von S. aureus und MRSA bei ambulanten Patienten der dermatologischen Tagesklinik des Universitätsklinikums Münster, mit chronischen Wunden und Hauterkrankungen, sowie die Prävalenz von MRSA unter den S. aureus – Isolaten zu erfassen.
+
+
+Gleichzeitig sollen diagnostische Verfahren zum Nachweis von MRSA sowie MSSA verglichen werden - Kulturanzucht, Real-Time PCR nach Huletsky, PCR-based Assay nach Martineau - bezüglich Sensitivität, Spezifität und Übereinstimmung der Ergebnisse.
+
+
+Es wurde außerdem eine spa-Typisierung durchgeführt um die Inzidenz der spa-Typen in der dermatologischen Tagesklinik des Universitätsklinikums Münster und mögliche Abweichungen von der allgemeinen spa-Häufigkeit nachzuweisen. Zudem wurde die Sensitivität und Spezifität der diagnostischen Verfahren zur MRSA- bzw. MSSA –Detektion in Korrelation mit den spa- Typen erfasst.
+
+
+2. MATERIALIEN UND METHODEN
+2.1. Materialien
+2.1.1. Verbrauchsmaterialien Abstrichtupfer: Technical service consultans, Heywood (Großbritannien)
+ Einmalimpfschlingen: 10µl loops, Nunc, Roskilde (Dänemark)
+ Pastorex Staph Plus: Bio-Rad, Marnes-la-Coquette (Frankreich)
+ VITEK® 2 Antibiogramm-Karten, BioMérieux (Frankreich)
+2.1.2. Nährmedien Columbia-Agar mit Schaftblut Plus: Oxoid GmbH, Wesel
+ MRSA-Select: Bio-Rad, Marnes-la-Coquette (Frankreich)
+Enschede-Bouillon: Herstellung im Laboratorium Microbiologie Twente Achterhoek, Enschede, Niederlande; Pepton-Mannitol-Bouillon mit 1mg/ml Ceftizoxime und 5mg/ml Aztreonam2.1.3. Software Sequenzanalyse: RidomTraceEdit-1.0 Ridom GmbH, Würzburg, http://www.ridom.de
+2.2. Methoden2.2.1. ScreeningverfahrenFür die Studie wurden ambulante Patienten der dermatologischen Tagesklinik des Universitätsklinikums Münster die eine oder mehrere der u.g. dermatologischen Erkrankungen aufwiesen, untersucht: -chronische offene Wunden
+ -diabetische Ulzera
+ -Akne inversa
+ -atopische Dermatitis
+ -Rhinophym
+ -Rosacea
+ -M. Darier
+ -M. Hailey-Hailey
+ Folgende Risikofaktoren wurden bei den Patienten erfragt:
+ -MRSA-Anamnese
+ -Krankenhausaufenthalt > 24 h innerhalb der letzten 6 Monate vor Abstrichentnahme
+-Aufenthalt in einem Alten-/Senioren-/Pflegeheim > 24 h innerhalb der letzten 6 Monate vor Abstrichentnahme -Kontakt zu MRSA-Trägern
+ -Berufstätig im Gesundheitswesen
+ -Antibiotische Therapie innerhalb der letzten 6 Monate vor Abstrichentnahme
+ -chronische Pflegebedürftigkeit
+ -Katheter (DK, SPDK, PEG etc.)
+ -Dialysepflichtigkeit
+ -Virusinfekt (Hepatitis, HIV)
+ -Immunsuppression
+ -Organtransplantation
+
+2.2.2. TestverfahrenBei den Patienten wurden jeweils ein Abstrich aus Nase und einer aus der Wunde - falls vorhanden – entnommen.
+Für diese Studie wurden insgesamt 832 Abstriche von 207 Patienten im Zeitraum von Januar 2007 bis Februar 2008 in der dermatologischen Tagesklinik des Universitätsklinikums Münster entnommen. Ein erneuter Abstrich bei dem gleichen Patienten konnte nach mindestens sechs Wochen wiederholt werden. Bei MRSA-positiven Befunden wurde bei jeder Wiederaufnahme der Person ein Abstrich durchgeführt.
+
+
+2.2.3. Bakterienanzucht
+Nach Abnahme des Abstrichs, bei dem mindestens 103 Bakterien gewonnen werden, wurde der Tupfer in einem geeigneten Transportmedium befördert und auf Columbia-Blut- und auf MRSA- Select-Agarplatten ausgestrichen. Daraufhin folgte eine 48-stündige Bebrütung bei 37°C, wobei nach 24 Stunden die erste Beurteilung von etwaigen Kolonien stattfand. Zeigte sich ein Wachstum von S. aureus wurde ein Pastorex Staph-Plus-Test durchgeführt, um dies zu verifizieren. Die Resistenztestung erfolgte mittels Vitek® 2 Antibiogramm-Karten.
+
+Die Abstrichtupfer wurden nach Bestreichung der Agarplatten in die Enschede-Bouillon gegeben, um die Bakterien zu inkubieren. Die angereicherte Bouillon wurde dann für das PCR- Testverfahren verwendet.
+
+
+2.2.4. Real-Time PCR nach Huletsky
+Der genotypische MRSA-Nachweis erfolgte mithilfe der Real-Time PCR nach Huletsky, nach dem Verfahren wie bei Huletsky et al. beschrieben, bei der MRSA direkt von nicht sterilenklinischen Proben, die eine Mischung von Staphylokokkenarten enthalten in weniger als eine Stunde ermittelt werden kann [60].
+
+2.2.5. PCR-based Assay nach Martineau
+Zum genotypischen Nachweis der MSSA wurde die PCR-basierte Untersuchung nach Martineau, wie bei Martineau et al. beschrieben, durchgeführt. Hierbei werden Staphylokokken im Genstadium durch „targeting“ des tuf -Gens detektiert, welches für den Elongationsfaktor Tu kodiert. Die PCR Untersuchung nach Martineau kann sowohl für das detektieren von Gensequenzen von Staphylokokken, als auch für das detektieren von Staphylokokken-Stämmen (S. aureus, S. epidermidis, S. saprophyticus, S. haemolyticus, S. hominis) benutzt werden [64].
+
+2.2.6. Sequenzanalyse
+ Die Typisierung der S. aureus – Isolate erfolgte wie beschrieben von Harmsen et al. von 2003 [93].
+
+
+2.2.7. Ridom StaphType Software:
+Die spa-Typisierung wurde mittels der StaphType Software der Firma Ridom determiniert (Ridom GmbH). Die Software enthält drei Baukasten: den Sequenzbearbeiter, die Datenbank und den Baukasten mit dem Befunderzeuger. Nachdem die Eingangsdaten bereitgestellt sind, fügt die Software jeder aufgerufenen Base eine Eigenschaft zu, die einer Sequenzdefekt- Wahrscheinlichkeit entspricht.
+
+Unter Berücksichtigung des Qualitätswerts, erstellt die Software eine Sequenzübereinstimmung, erkennt automatisch die spa-Wiederholungen und bestimmt einen spa-Typ. In mindestens 90 % der Fälle ist keine weitere manuelle Bearbeitung notwendig. Für die verbliebenen Sequenzen kann ein wandlungsfähiger, graphischer Programmieradapter benutzt werden, der diese manuell mithilfe eines integrierten Expertensystems bearbeitet. Sequenzinformationen die vor oder nach dem Repetierbereich liegen werden für die spa-Kodierung nicht berücksichtigt. Dennoch, sucht die Software nach 5‘ und 3‘ Ende-Sequenzen in der korrekten Distanz um zu gewährleisten dass kein führendes oder endendes Repeat fehlt. Sobald das Bearbeiten der Sequenzen beendet ist, können die Ergebnisse der spa-Typisierung sowie zusätzliche epidemiologisch relevante Daten
+in einem relationalem Datenbanksystem gespeichert werden. Die Informationen aus der Datenbank können leicht über die Boole-Funktion in tab-delimited spreadsheet Format erneuert und exportiert werden. Zudem wird die Integrität der Datenbank auf regelmäßiger Basis kontrolliert und der Inhalt der Datenbank kann gesichert werden um somit Datenverluste zu verhindern. Der Inhalt ist aufgrund des Datenschutzes kryptographisch gesichert. Zuletzt können verschiedene konfigurierbare Berichte erschaffen werden. Diese Berichte werden intern als schreib- und fälschungsgeschützte pdf-Dateien gespeichert. Um diese Dateien anzusehen und ggf. zu drucken muss die frei erhältliche Adobe Acrobat Software (5.0 Version oder höher) installiert werden.
+
+Ridom StaphType benutzt numerische spa repeats und Typ Kodierungen. Um sicher zu gehen dass eine einheitliche Terminologie bezüglich der Kodierung benutzt wird, wird dieses von der Software synchronisiert, entweder direkt über das http Protokoll oder Dateien-basiert (z.B. über e-mail) mit einer beigefügten Webseite die als operative Quelle für alle neue spa repeats oder Typ Kodierungen funktioniert. Falls erwünscht, können alle neuen spa repeats und Typen mit gleichen Qualitätskriterien (z.B., spa-Typen werden von Chromatogrammen abgeleitet und 5‘ und 3‘ Enden werden eindeutig entdeckt) während der Synchronisierung auf dem Server übertragen werden um eine endgültige Kennzeichnung zu bekommen. Dafür, werden repeats und spa-Typen die von anderen Benutzern seit der letzten Synchronisierung entdeckt wurden auf die Ridom StaphType Kundensoftware übertragen. Außerdem, falls der Benutzer es erlaubt, können lokale spa-Typ Frequenzen ebenfalls auf dem Server übertragen werden. Der Server gibt seinerseits globale Frequenzdateien zurück. Die Webseite (http://www.ridom.de/spaserver/) ist für jeden zugänglich und spa repeat Sequenzen (FASTA format) sowie spa-Typen können hier heruntergeladen werden. Eingaben über Chromatogramme, über neue spa repeats und Typen zur Einbeziehung in die Referenzen-Datenbank sind möglich. Daher, haben Benutzer die nicht mit Ridom StaphType arbeiten Zugang zur gleichen, einheitlichen Terminologie [63].
+
+
+3.ERGEBNISSE
+3.1.Prävalenz„Die Prävalenz gibt die Wahrscheinlichkeit an, dass eine zufällig ausgewählte Person an einem gewissen Stichtag an der betrachteten Krankheit erkrankt ist. Die Prävalenz ist somit eine sogenannte Gliederungszahl (Prozentzahl) und als Anteil (Proportion) Erkrankter an der Gesamtpopulation interpretierbar“[94].
+
+3.1.1. MRSA-Prävalenz
+In unserer Studie wurden über 13 Monate ambulante Patienten der dermatologischen Tagesklinik des Universitätsklinik Münster über Screeningverfahren (Nasen- und Wundabstrich) auf MRSA bzw. S. aureus untersucht. Von den insgesamt 207 untersuchten Patienten hatten mindestens einmal in diesem Zeitraum 25 Patienten einen oder mehrere MRSA- positive Abstriche aus Wunde oder Nase. Dies ergibt eine Prävalenz von 12 %.
+
+3.1.2. S. aureus-Prävalenz
+Von den insgesamt 207 untersuchten Patienten hatten mindestens einmal in diesem Zeitraum 48 Patienten einen oder mehrere S. aureus - positive Abstriche aus Wunde oder Nase. Dies ergibt eine Prävalenz von 23 %.
+
+3.1.3. MRSA-Prävalenz unter S. aureus-Isolaten
+ Unter den 48 S. aureus – Isolaten waren 25 MRSA – positiv. Dies ergibt eine Prävalenz von 52 %.
+
+
+3.2.Sensitivität und Spezifität der molekularen Methoden zur MRSA-Detektion
+3.2.1.Real-Time PCR nach Huletsky: Tabelle 3.2.1.: MRSAMSSA   Sensitivität96,7 %25 %   Spezifität94,8 %90 %   Tab. 3.2.1.: Sensitivität und Spezifität der Real-Time PCR nach Huletsky im Vergleich zur Bakterienkultur3.2.2.PCR-based Assay nach Martineau: Tabelle 3.2.2.: MRSAMSSA   Sensitivität100 %100 %   Spezifität46,4 %44,5 %   Tab. 3.2.2.: Sensitivität und Spezifität der PCR-based Assay nach Martineau im Vergleich zur Bakterienkultur3.3. Spa-Typ VerteilungIm Zeitraum von 13 Monaten wurden insgesamt 832 Abstriche von 207 Patienten abgenommen. Von den 207 Patienten konnte bei 48 zu mindestens einem Zeitpunkt MRSA oder S. aureus in Wunde oder Nase nachgewiesen werden. Eine spa-Typisierung der Isolate wurde durchgeführt. Die Verteilung der spa-Typen unter den Patienten zeigte sich wie folgt:Abbildung 3.3.
+
+Abb. 3.3.: Spa- Typ Verteilung in der Hautklinik Münster
+Tabelle 3.3.
+
+spa-Typ
+FrequenzProzentzahlMRSAMSSAt001 1
+ 2,10 %
+ 1 (100 %)
+ 0
+t002 2
+ 4,20 %
+ 0
+ 2
+t003 4
+ 8,30 %
+ 3 (66,6 %)
+ 1
+t004 4
+ 8,30 %
+ 4 (100 %)
+ 0
+t008 4
+ 8,30 %
+ 3 (66,6 %)
+ 1
+t009 1
+ 2,10 %
+ 0
+ 1
+t011 2
+ 4,20 %
+ 2 (100 %)
+ 0
+t012 2
+ 4,20 %
+ 0
+ 2
+t026 1
+ 2,10 %
+ 0
+ 1
+t032 11
+ 22,90 %
+ 11 (100 %)
+ 0
+t068 1
+ 2,10 %
+ 1 (100 %)
+ 0
+t078 1
+ 2,10 %
+ 0
+ 1
+t084 2
+ 4,20 %
+ 0
+ 2
+t091 3
+ 6,30 %
+ 0
+ 3
+t159 2
+ 4,20 %
+ 0
+ 2
+t2115 1
+ 2,10 %
+ 0
+ 1
+t2242 1
+ 2,10 %
+ 0
+ 1
+t232 1
+ 2,10 %
+ 0
+ 1
+t3273 1
+ 2,10 %
+ 0
+ 1
+t458 1
+ 2,10 %
+ 0
+ 1
+t469 1
+ 2,10 %
+ 0
+ 1
+t764 1
+ 2,10 %
+ 0
+ 1
+Total 48
+ 100 %
+ 25
+ 23
+Tab. 3.3.: Spa- Typ Verteilung in der Hautklinik Münster
+3.4.Methodenvergleich Tabelle 
+3.4.1.:Kultur Huletsky
+Martineau       TOTALnegativpositivnegativpositiv      CNS17134017      MRSA61259061      no Staph72669531358368      S. aureus28217028      TOTAL832731101358474      Tab. 3.4.1.: Vergleich der diagnostischen Verfahren Bakterienkultur, PCR-based Assay nach Martineau, Real-TimePCR nach HuletskyTabelle 3.4.2.:nspa-TypMRSA/MSSA Kultur  HULETSKYMARTINEAU            MRSAMSSAPositivnegativpositivnegativ1t032MRSA27 (100%)0 27 (100%)0 27 (100%)02t008MRSA18 (94,7%)1(5,3%)18 (94,7%)1(5,3%)19 (100%)03t003MRSA4(75%)1(25%)4(80%)1(20%)5 (100%)04t004MRSA5(100%)0 5(100%)0 5 (100%)05t002MSSA0 4(100%)0 4(100%)4 (100%)06t091MSSA0 4(100%)4(100%)0 4 (100%)07t001MRSA3(100%)0 3(100%)0 3 (100%)08t011MRSA3(100%)0 1(33%)2(67%)3 (100%)09t084MSSA0 3(100%)1(33%)2(67%)3 (100%)010t012MSSA0 2(100%)0 2(100%)2 (100%)011t159MSSA0 2(100%)0 2(100%)2 (100%)012t764MSSA0 2(100%)0 2(100%)2 (100%)013t009MSSA0 1(100%)1(100%)0 1 (100%)014t026MSSA0 1(100%)0 1(100%)1 (100%)015t068MRSA1(100%)0 1(100%)0 1 (100%)016t078MSSA0 1(100%)0 1(100%)1 (100%)017t232MSSA0 1(100%)0 1(100%)1 (100%)018t458MSSA0 1(100%)0 1(100%)1 (100%)019t469MSSA0 1(100%)0 1(100%)1 (100%)020t2115MSSA0 1(100%)0 1(100%)1 (100%)021t2242MSSA0 1(100%)0 1(100%)1 (100%)022t3273MSSA0 1(100%)1(100%)0 1 (100%)0Tab. 
+
+3.4.2. : Übersicht der Verfahren zur MRSA/MSSA-Detektion in Korrelation mit spa-Typ
+Abbildung 3.5.:Abb. 3.5. : Korrelation MRSA/MSSA und spa-Typ
+4. DISKUSSION
+4.1. MRSA-Prävalenz
+Der S. aureus hat sich schon früh an die sich ändernden Umweltbedingungen angepasst. Mittlerweile gehört er mit seinen Resistenzen zu den gefährlichsten Krankenhauskeimen. Schon in der Vergangenheit wurden die Risikofaktoren für eine Besiedlung mit MRSA untersucht.
+
+In der Arbeit von K. Kröncke „Molekularepidemiologische Untersuchung zur Prävalenz und Persistenz von Methicillin-resistenten Staphylococcus aureus bei ambulanten Patienten mit Hauterkrankungen“ [99] bei der identischen Patientengut untersucht wurde, lag die Prävalenz ebenfalls bei 12 %.
+
+
+In einer 2008 von KISS (The Hospital Infection Surveillance System) durchgeführten Studie mit 184 Krankenhäuser in Deutschland und über 3 Millionen registrierten Patienten wurde die MRSA-Prävalenz bei 75 % gemessen [79]. Daraus ergibt sich eine deutlich höhere Prävalenz im Vergleich zu unserem Ergebnis. Allerdings wurden in unsere Studie die Hauptrisikoträger wie intensivpflichtige Patienten, Patienten mit Dauerkatheter, dialysepflichtige Patienten nicht stark vertreten.
+
+
+Bei o.g. Arbeit von K. Kröncke [99] wurden aus dem selben Patientengut die Risikofaktoren für eine MRSA/MSSA-Besiedlung untersucht: An erster Stelle befand sich der Risikofaktor chronisch offene Wunden/Ulzera der bei 81% der Patienten mit MRSA/ MSSA nachgewiesen wurde. Als zweithäufigster Risikofaktor wurde die Antibiotikaeinnahme innerhalb der letzten sechs Monate vor Abstrichentnahme beschrieben. Zusätzliche Risikofaktoren wie ein Krankenhausaufenthalt >24 Stunden in den letzten 6 Monaten vor Abstrichabnahme, MRSA- Anamnese, Immunsuppression, Akne inversa, atopische Dermatitis und Kontakt zu MRSA- Trägern schienen in o.g. Arbeit das Risiko einer MRSA-Besiedlung deutlich zu erhöhen.
+
+
+Ein weiterer wichtiger Risikofaktor für eine MRSA-Besiedlung ist der Aufenthalt in einer Pflegeinrichtung. Geriatrische Institutionen beherbergen ein hohes MRSA-Reservoir, da hier der Einsatz von Dauerurethralkathetern, Magensonden, Tracheostomas, sowie der Anteil von dialysepflichtigen Patienten, Immunsupprimierten etc. sehr hoch ist. Talon et al. zeigten in epidemiologischen Studien dass der Prozentsatz von MRSA-Trägern bei Aufnahme in eine Geriatrie deutlich niedriger lag (11,6%) als bei Entlassung (18,7%) [86]. Daten zeigen sogar dass bei einem Krankenhaus mit hohem geriatrischem Anteil der Prozentsatz für MRSA auf 25 oder mehr ansteigt [85].
+
+In Belgien wurden epidemiologische Studien durchgeführt wo ein Zusammenhang zwischen der MRSA-Inzidenz und dem Gebrauch von Ceftazidim, Cefsulosin, Amoxicillin/Clavulansäure und Fluorchinolonen festzustellen war [84]. Wahio M et al. haben 1998 eine Risikoerhöhung für eine MRSA-Kolonisation in Zusammenhang mit der vorangegangenen Gabe von Cephalosporinen der 3. Generation feststellen können [87].
+
+
+Ebenfalls ein großes Problem im Gesundheitssystem sind die immer häufiger auftretenden diabetischen Ulzera bei Patienten und die damit zusammenhängenden Krankenhausaufenthalte. Beide Faktoren erhöhen das Risiko einer Besiedlung mit nosokomialen MRSA-Keimen stark. Die Publikation von Tentolouris et al. im Jahr 2005 hat gezeigt das von den 84 untersuchten Patienten mit diabetischen Ulzerationen fast 50 % mit MRSA besiedelt waren [80].
+
+
+4.2. Spa-Typ - Verteilungsmuster
+Am häufigsten trat der spa-Typ t032 mit 22,9 % auf. Dies entspricht nicht der Häufigkeit im Ridom spa-Server [66], die für t032 bei 10,75 % liegt.
+
+Der spa-Typ t003, auch bekannt als Rhein-Hessen Epidemiestamm, der im Ridom spa-Server mit 13 % am häufigsten vorkommt, belegte in unserer Studie mit 8,3 % zusammen mit den spa- Typ t004 und t008 den zweiten Platz. Spa-Typ t008 kommt im Ridom spa-Server mit 6,52 % am dritthäufigsten vor, t004 mit 1,5 % belegt nur noch Platz neun.
+
+
+Spa-Typ t002 fällt in unserer Studie mit 4,2 % in etwa gleich aus mit dem Ridom spa-Server, bei den t002 5,67 % ausmacht.
+
+
+Der spa-Typ t011 zeigt eine Häufigkeit von 4,2 %. Er gehört zudem zu der klonalen Linie CC398. Diese klonale Linie gehört zu der LA-MRSA-Gruppe und wird in Deutschland bei kolonisiertem Tierbestand angetroffen [97]. Die in der Arbeit ermittelte Häufigkeit von LA- MRSA der klonalen Linie CC398 stimmt mit der für die Region beschriebene Häufigkeit überein [98].
+
+
+4.3.Vergleich der diagnostischen Verfahren zur MRSA-Detektion: Bakterienkultur, PCR- based Assay nach Martineau, Real-Time PCR nach Huletsky auf Sensitivität und Spezifität
+ Sensitivität: „Die Sensitivität gibt die Wahrscheinlichkeit an, dass der Kranker als solcher erkannt bzw. dass eine tatsächlich exponierte Person auch als solche eingestuft wird“ [94].
+ Sensitivität = positiv erkannt/tatsächlich positiv
+ Spezifität: „Beobachtet man Anzahlen von positiven und negativen Klassifizierungen bei gleichzeitiger Kenntnis des wahren Sachverhaltes, so erhält man die Spezifität“ [94].
+ Spezifität = negativ erkannt/tatsächlich negativ
+4.3.1. Real-Time PCR nach Huletsky und Bakterienkultur
+Die molekularen Methoden für einen schnellen Nachweis von MRSA basieren auf den Nachweis des mecA Gens. Diese Methoden können aber nicht für den direkten Nachweis von MRSA aus einem unsterilen Wundabstrich benutzt werden ohne einer vorausgegangenen Isolation oder Anreicherung von MRSA, da die Proben nicht nur ein Bakterium aufweisen, sondern mehrere, u.a. koagulasenegative Staphylokokken und S. aureus, welche auch mecA-Gen-Träger sind. Die Real-Time PCR nach Huletsky erlaubt einen direkten Nachweis von MRSA aus unsterilen klinischen Proben welche mehrere Staphylokokken-Spezies enthalten in weniger als eine Stunde[60].Aus der Publikation von Huletsky et al. wo erstmalig die Real-Time PCR für den schnellen Nachweis von MRSA aus Mischproben vorgestellt wurde, ergibt sich folgendes: Sensitivität für MRSA: 98,7 %
+ Spezifität für MRSA: 96,9 %
+ Sensitivität für MSSA: 95,4 %
+ Spezifität für MSSA: 98,4 %
+Die Ergebnisse aus unserer Studie (s. Tabelle 3.2.1) weichen von o.g. Ergebnissen ab. Diese Ergebnisse zeigen dass das Schnelltest-Verfahren nach Huletsky zwar mit sehr hoher Wahrscheinlichkeit die tatsächlich mit MRSA kolonisierten Patienten erkennen kann aber auch mit einem Prozentsatz von 3,3 falsch positive Ergebnisse mit sich bringt. Im deutschen Gesundheitssystem entstehen jährlich mehrere Millionen Euro an Kosten in Verbindung mitMRSA-Isolationen, Reserveantibiotika, längere Krankenhausaufenthalte und Eradikationstherapien. Untersuchungen haben gezeigt dass im Rahmen des deutschen DRG (diagnosis-related groups) es im Durchschnitt bei einem MRSA-Patienten zu einem Verlust fürdas Krankenhaus von ungefähr 5700 Euro kommt. Dies entspricht einen Tagesverlust von ungefähr 600 Euro [88]. Würde man die o.g. Ergebnisse in Betracht ziehen, würde es heissen dass 3 von 100 MRSA-Patienten falsch positiv gewertet werde und somit eine Kostensteigerung von 17100 Euro für das Krankenhaus bedeuten. Dazu kommt dass eine MRSA-Kulturanzucht zwischen 5 und 10 Euro kostet, und eine PCR-Detektion bei ca. 20 Euro liegt, also das doppelte. Um einen direkten Vorteil aus dem Schnelltestverfahren zu gewinnen, müsste man die Kosten mit beiden Verfahren balancieren.
+
+4.3.2. PCR-based Assay nach Martineau und Bakterienkultur
+Die PCR-based Assay nach Martineau ist ein Verfahren welches spezifisch für den Nachweis von S. aureus benutzt werden kann. In der Publikation von Martineau et al. 1998 wurden auf der Basis von gekreuzten Proben mit zufällig ausgewählten Klonen aus einer S. aureus genetischen Bank ein chromosomales DNA-Fragment identifiziert, welches spezifisch für S. aureus ist und welches alle 82 S. aureus-Isolate die getestet wurden auch als solche erfasst hat. Dieses 442-Bp Fragment wurde sequenziert und für den Entwurf eines Sets von PCR Amplifikations-Primer eingesetzt. Die PCR Assay war zudem spezifisch und universell für die Identifizierung aus Bakterienkulturen mit 195 klinischen Stämmen von S. aureus welche aus einer Vielzahl von anatomischen Gebieten isoliert wurden und aus Krankenhäuser weltweit beschaffen wurden. Diese PCR-based Assay kann innerhalb einer Stunde durchgeführt werden [89].
+
+In den durchgeführten Tests in unserer Studie wurden die PCR-based Assay nach Martineau mit der Bakterienkultur auf Sensitivität und Spezifität verglichen (s. Tabelle 3.2.2).
+
+
+Die PCR-based Assay nach Martineau gibt nur die Aussage ob es sich im Isolat um S. aureus handelt oder nicht. Die richtig positiven S. aureus – Isolate wurden in unserer Arbeit auch als solche erkannt, allerdings wurden die richtig negativen S. aureus – Isolate nur mit einer Wahrscheinlichkeit von ca. 45 % auch als solche erkannt. Dieser Test ist als etabliertes Schnelltestverfahren in einer gesundheitlichen Einrichtung nach o.g. Ergebnissen vermutlich nicht geeignet.
+
+
+4.4.Vergleich Bakterienkultur, Real-Time PCR nach Huletsky, PCR-based Assay nach Martineau und Korrelation mit spa-Typen
+4.4.1.Vergleich Bakterienkultur, Real-Time PCR nach Huletsky und Korrelation mit spa- Typen:Beeindruckend ist der Unterschied bezüglich der Sensitivität und Spezifität der Real-Time PCR nach Huletsky in Bezug auf die verschiedenen spa-Typen.
+
+Bei den spa-Typen t032, t008, t003, t004, t002, t001, t012, t159, t764, t026, t068, t078, t232, t458, t469, t2115, t2242, t3273 zeigen sich eine Sensitivität und Spezifität von 100%.
+
+
+Da die spa-Typen t032, t008, t003, t004, t002, t001 zu den elf wichtigsten bisher synchronisierten spa-Typen auf dem Ridom spa-Server und zu den häufigsten in Deutschland vorkommenden Stämmen gehören (Barnimer Epidemiestamm, USA300, Rhein-Hessen- Epidemiestamm, Berliner Epidemiestamm, Süddeutscher Epidemiestamm), ist es von großer Bedeutung dass die Spezifität und Sensitivität der Real-Time PCR nach Huletsky hoch ist. Diese spa-Typen gehören in unserer Studie ebenfalls zu den zehn häufigsten spa-Typen (s. Tab. 3.3.). Die o.g. Fakten sprechen für eine Etablierung des Schnelltestverfahrens nach Huletsky wenn davon auszugehen ist dass die o.g. spa-Typen auch weiterhin zu den am häufigsten vorkommenden spa-Typen gehören werden.
+
+
+Interessant ist, dass der spa-Typ t091 in der Kulturanzucht zu 100% MSSA war, sich aber in der Real-Time PCR nach Huletsky zu 100% als MRSA zeigte. Dieser spa-Typ gehört zu der klonalen Linie ST-7. Er tritt sehr häufig in den Niederlande auf, wobei er dort ebenfalls als MSSA gilt [90]. In unserer Studie gehört er zu den zehn häufigsten spa-Typen.
+
+
+Der spa-Typ t084 der ebenfalls gehäuft in Holland auftritt und als MSSA gilt [90] wird mittels Real-Time PCR nach Huletsky mit einer Sensitivität von 66% und einer Spezifität von 66% auch als solcher erkannt. In unserer Studie gehört er ebenfalls zu den zehn häufigsten spa-Typen.
+
+
+Die Häufigkeit dieser beiden spa-Typen ist am ehesten geographisch zu erklären, da Münster ca. 70 km von der holländischen Grenze entfernt liegt. Da die Spezifität und Sensitivität der Real- Time PCR nach Huletsky für die beiden spa-Typen nicht sehr hoch ist, könnte man daraus schließen dass für die an Holland angrenzenden Regionen eine Etablierung der Real-Time PCR nach Huletsky nicht profitabel wäre.
+
+
+Der Schweine-assoziierte Klon t011 erzielt eine sehr niedrige Sensitivität (33%) und eine Spezifität von 0% unter dem Schnelltestverfahren nach Huletsky. Bei Patienten die in der Landwirtschaft tätig sind oder sehr engen Kontakt zu Tieren haben, ist dieses Schnelltestverfahren zum MRSA-Nachweis nicht geeignet.
+
+
+4.4.2. Vergleich Bakterienkultur, PCR-based Assay nach Martineau und Korrelation mit
+spa-Typen:Die PCR-based assay nach Martineau welche spezifisch für den Nachweis von S. aureus eingesetzt werden kann, zeigt für alle spa-Typen eine Sensitivität von 100%. Allerdings wird bei diesem Schnelltest-Verfahren nicht zwischen MRSA und MSSA unterschieden. Dieser Schnelltest ist besser geeignet für ein zeitnahes Ergebnis über die Kolonisation eines Patienten. Allerdings ist es nicht realistisch bei jedem positiven Ergebnis den Patienten zu isolieren, da eine große Anzahl der Bevölkerung mit MSSA kolonisiert ist. Dieser Test scheint zu unspezifisch zu sein. Würde man allerdings den Test mit einem Fragebogen über die Risikofaktoren des Patienten kombinieren, wäre wahrscheinlich die Selektion von MRSA-Patienten höher.
+
+4.5. Korrelation MRSA/MSSA und spa-Typ
+Die spa-Typen t003 und t008 sind die einzigen in unserer Studie die sowohl als MRSA als auch als MSSA vorkommen. Der spa-Typ t003 gehört zu der klonalen Linie ST-5 und ST-225. Die klonale Linie ST-225 ist sehr weit verbreitet und geht wahrscheinlich von einem Ausgangsstamm aus [91]. Zu der klonalen Linie ST-5 gehört ebenfalls der spa-Typ t002, der allerdings nur als MRSA auftritt.
+
+Der spa-Typ t008 gehört zu der klonalen Linie ST-8 und wird alternativ auch als CA-MRSA bezeichnet.
+
+
+Die o.g. Ergebnisse sprechen für eine unabhängige Evolution bei gleicher klonaler Linie an verschiedenen Orten und zu verschiedenen Zeiten wie bei Witte et al. 2008 beschrieben [92].
+
+
+4.6. Fazit und Ausblick
+Zusammenfassend lässt sich sagen dass ein molekulares Schnelltestverfahren zur Detektion von MRSA mit hoher Sensitivität und Spezifität äußerst wichtig ist. Die Real-Time PCR nach Huletsky zeigt zwar eine hohe Sensitivität für MRSA allerdings versagt sie bei dem spa-Typ t091 indem sie diesen spa-Typ falsch positiv als MRSA erkennt, obwohl er in der Kultur als MSSA gilt. Weitere Untersuchungen müssen erfolgen um herauszufinden warum es so ist. Die PCR-based Assay nach Martineau hat eine sehr hohe Sensitivität, allerdings erkennt diese nur S. aureus ohne zwischen MRSA und MSSA unterscheiden zu können. Zudem liegt die Spezifität nur bei ca. 45 %. Dazu kommt dass ein neues S. aureus-Isolat bei Menschen und Rindern in England und Dänemark entdeckt wurde, welches resistent gegenüber Methicillin ist, mit einem neuen mecA homolog, dem mecA LGA251, welches nicht auf Standard-PCR-Tests für mecA reagiert [95]. Dieser neu entdeckter S. aureus-Stamm könnte einen Rückschlag bedeuten für die bisher entwickelten Schnelltestverfahren zur MRSA-Detektion. Durch kommerzielle Testsysteme kann keine hohe Spezifität und Sensitivität für den Nachweis von MRSA erreicht werden. Neue Testverfahren müssen vermutlich entwickelt werden, welche durch höhere Sensitivität und Spezifität die alten ersetzen können. Ein PCR-Test welches das mecA-Gen sowie das mecA LGA251 erkennt mit hoher Spezifität und Sensitivität könnte als neues Schenlltestverfahren etabliert werden.
+
+5. LITERATURVERZEICHNIS
+ 1.Jevons MP, Coe AW, Parker MT. Methicillin resistance in staphylococci. Lancet 1963; 1:904-
+ 2.Barber M. Methicillin resistant staphylococci. J Clin Path 1961; 14:385-93
+3.Barrett FF, McGehee RF Jr, Finland M. Methicillin-resistant Staphylococcus aureus at Boston City Hospital. Bacteriologic and epidemiologic observations. N Engl J Med 1968; 279;441-4484.Klevens et al.: Invasive Methicillin-Resistant Staphylococcus aureus Infections in the United States. JAMA 298/15/2007. S. 17635.Klein E, Smith DL, Laxmiranayan R. Hospitalizations and deaths caused by Methicillin- resistant Staphylococcus aureus, United States, 1999-2005. Emerg Infect Dis 2007; 13(12):1840- 18466.Noskin GA, Rubin RJ, Schentagg JJ, et al. The burden of Staphylococcus aureus infections on hospitals in the United States: an analysis of the 2000 and 2001 Nationwide Impatient Sample Database. Arch Intern Med 2005; 165:1756-17617.Chambers HF. Methicillin Resistance in Staphylococci: Molecular and biochemical basis and clinical implications. Clin Microbiol Rev 1997; 10(4):781-91 8.Lowy FD. Staphylococcus aureus infections. N Engl J Med 1998; 339:520-532
+9.Stamm AM, Long MN, Belcher B. Higher overall nosocomial infection rate because of increased attack rate of the methicillin-resistant Staphylococcus aureus. Am J Infect 1993; 21:70-7410.Boyce JM, White RL, Spruill EY. Impact of methicillin-resistant Staphylococcus aureus on the incidence of nosocomial staphylococcal infections. J Infect Dis 1983; 148(4):76311.Robert-Koch-Institut. Erkrankungen durch Staphylococcus aureus unter besonderer Berücksichtigung der MRSA. Epidemiologisches Bulletin 25. Februar 2000; S. 5 12.Ito T, Ma XX, Takeuchi F et al. Novel type V staphylococcal cassette chromosome mec
+driven by a novel cassette chromosome recombinase ccrC. Antimicrob Agents Chemother 2004; 48:2637-265113.van Duijkeren E, Wolfhagen MJ, Box AT et al. Human-to-dog transmission of methicillin- resistant Staphylococcus aureus. Emerg Infect Dis 2004; 10:2235-223714.Daum RS, Ito T, Hiramatsu K, et al. A novel methicillin-resistance cassette in community- acquired methicillin-resistant Staphylococcus aureus isolates of diverse genetic backrounds. J Infect Dis 2002; 186:1344-134715.Chung M, Dickinson G, De Lencastre H, Tomasz A. International clones of methicillin- resistant staphylococcus aureus in two hospitals in Miami, Florida. J Clin Microbiol 2005; 43:421-42616.Udo EE, Pearman JW, Grubb WB. Genetic analysis of community isolates of methicillin- resistant Staphylococcus aureus in Western Australia. J Hosp Infect 1993; 25:97-10817.Lina P, Piemont Y, Godail-Gamot F, Bes M, Peter MO, Gauduchon V, Vandenesch F, Etienne J. Involvement of Panton-Valentine leukocidin-producing Staphylococcus aureus in primary skin infections and pneumonia. Clin Infect Dis 1999; 29(5):1128-113218.Vandenesch F, Naimi T, Enright MC, Lina G, Nimmo GR, Heffernan H, et al. Community acquired methicillin-resistant Staphylococcus aureus carrying Panton-Valentine leukocidin genes: worldwide emergence. Emerge Infect Dis 2003; 9:978-984 19.Enright MC, Robinson DA, Randle G et al. The evolutionary history of methicillin-resistant
+ Staphylococcus aureus (MRSA). Proc Natl Acad Sci USA 2002; 99:7687-7692
+20.Musser JM, Kapur V. Clonal analysis of methicillin-resistant Staphylococcus aureus strains from intercontinental sources: association of the mec gene with divergent phylogenetic lineages implies dissemination by horizontal transfer and recombination. J Clin Microbiol 1992; 30:2058- 2063 21.Voss A, Milatovic D, Wallrauch Schwarz C, Rosdahl VT, Braveny I. Methicillin-resistant
+ Staphylococcus aureus in Europe. Eur J Clin Microbiol Infect Dis 1994; 13(1):50-55
+22.http://www.earss.rivm.nl23.Panlilio A, Culver DH, Gaynes RP, Bannerjee S, Henderson TS, Tolson TS, et al. Methicillin-resistant Staphylococcus aureus in U.S. hospitals, 1975-1991. Infect Control Hosp Epidemiol 1999; 20:473-47724.Kresken M, Hafner D, Witte W, Reinert R. Resistenzentwicklung bei Staphylokokken und anderen grampositiven Erregern gegenüber Chemotherapeutika im mitteleuropäischen Raum. Chemotherapie Journal 1999; 8:136-14525.Kresken M, Hafner D, Schmitz FJ, Wichelhaus A. Resistenzsituation bei klinisch wichtigen Infektionserregern gegenüber Antibiotika in Deutschland und im mitteleuropäischen Raum. Bonn: Paul-Ehrlich-Gesellschaft für Chemotherapie e.V. 2004. www.p-e-g.de26.http://www.mrsa-net.org27.Campbell KM, Vaughn AF, Russell KL, et al. Risk factors for community-associated methicillin-resistant Staphylococcus aureus infections in an outbreak of disease among military trainees in San Diego, California, in 2002. J Clin Microbiol 2004; 42:4050-405328.Methicillin-resistant Staphylococcus aureus infections in correctional facilities – Georgia, California, and Texas, 2001-2003. MMWR Morb Mortal Wkly Rep 2003; 52:992-99629.Methicillin-resistant Staphylococcus aureus skin infections among tattoo recipients-Ohio, Kentucky, and Vermont, 2004-2005. MMWR Morb Mortal Wkly Rep 2006; 55:677-679 30.Herold BC, Immergluck LC, Maranan MC, et al. Community-acquired methicillin-resistant
+Staphylococcus aureus in children with no identified predisposing risk. J Am Med Assoc 1998; 279:593-59831.Kluytmans J, van Belkum A, Verbrugh H: Nasal carriage of Staphylococcus aureus: epidemiology, underlying mechanisms, and associated risks. Clin Microbiol Rev 1997; 10:505-32.Mulligan ME, Murray-Leisure KA, Ribner BS, Standiford HC, John JF, Korvick JA et al. Methicillin-resistant Staphylococcus aureus: a consensus review of the microbiology,pathogenesis, and epidemiology with implications for prevention and management. Am J Med 1993; 94:313-328 33.Khanna T, Friendship R, Dewey C, Weese JS. Methicillin-resistant Staphylococcus aureus
+ colonization in pigs and pig farmers. Vet Microbiol 2007; 128:298-303
+34.Safdar N, Bradley EA. The risk of infection after nasal colonization with Staphylococcus aureus. Am J Med 2008; 121(4):310-21535.Köhler, Eggers, Fleischer, Marre, Pfister, Pulverer. Medizinische Mikrobiologie. München 2001, ISBN 3437416405, S. 250-257. 36.Hof H, Dörries R. Medizinische Mikrobiologie. Stuttgart 2005, ISBN 3131253134, S. 297-
+ 37.Lowy FD. Staphylococcus aureus Infections. N Engl J Med 1998 ; 339 :520-532
+38.Wisplinghoff H, Bischoff T, Tallent SM, et al. Nosocomial bloodstream infections in US hospitals: analysis of 24719 cases from a prospective nationwide surveillance study. Clin Infect Dis 2004; 39:309 39.Selvey LA, Whitby M, Johnson B. Nosocomial methicillin-resistant Staphyloccocus aureus
+bacteremia: is it any worse than nosocomial methicillin-sensitive Staphylococcus aureus bacteremia? Infect Control Hosp Epidemiol 2000; 21(10):645-64840.Hill EE, Peetermans WE, Vanderschueren S, Claus P, Herregods MC, Herijgers P. Methicillin-resistant versus methicillin-sensitive Staphylococcus aureus infective endocarditis. Eur J Microbiol Infect Dis 2008; (Epub ahead of print)41.Fernandez-Guerrero ML, Verdejo C, Azofra J, de Gorgolas M. Hospital-acquired infectious endocarditis not associated with cardiac surgery: an emerging problem. Clin Infect Dis 1995; 20(1):16-2342.Krecki R, Drozdz J, Ibata G, Lipiec P, Ostrowski S, Kasprzak J, Krzeminska-Pakula M. Clinical profile, prognosis and treatment of patients with infective endocarditis- a 14-year follow-up study. Pol Arch Med Wewn 2007; 117(11-12):512-52043.Rennie RP, Jones RN, Mutnick AH. SENTRY Program Study Group (North America). Occurrence and antimicrobial susceptibility patterns of pathogens isolated from skin and soft tissue infections: report from the SENTRY Antimicrobial Surveillance Program (United States and Canada, 2000). Diagn Microbiol Infect Dis 2003; 45(4):287-29344.Doern GV, Jones RN, Pfaller MA, et al. and the SENTRY study group (North America). Bacterial pathogens isolated from patients with skin and soft tissue infections: frequency of occurance and antimicrobial susceptibility patterns from the SENTRY Antimicrobial Surveillance Program (United States and Canada, 1997). Diagn. Microbiol Infect Dis 1999; 34:65-72 45.Sterry W, Paus R. Checkliste Dermatologie. Stuttgart 2005, ISBN 3136970055, S. 563-565
+ 46.Stanaway S, Johnson D, Moulik P, Gill G. Methicillin-resistant Staphylococcus aureus
+(MRSA) isolation from diabetic foot ulcers correlates with nasal MRSA carriage. Diabetes Res Clin Pract 2007; 75(1):47-50 47.Kipp F, Friedrich AW, Becker K, von Eiff C. Bedrohliche Zunahme Methicillin-resistenter
+ Staphylococcus-aureus-Stämme. Dtsch Ärztebl 2004; 101:A 2045-2050
+48.Chang S, Sievert SM, Hageman JC, Boulton ML, Tenover FC, Downes FP et al. Infection with Vancomycin-resistant Staphylococcus aureus containing the vanA resistance Gene. N Engl J Med 2003; 348:1342-134749.Courvalin P. Vancomycin resistance in gram-positive cocci. Clin Infect Dis 2006; 42(suppl1):25-3450.Tsiodras S, Gold HS, Sakoulas G, Eliopoulos GM, Wennersten C, Venkataraman L, Moellering RC, Ferraro MJ. Linezolid resistance in a clinical isolate of Staphylococcus aureus. Lancet 2001; 358(9277):207-20851.Bowling FL, Salgami ES, Boulton AJM. Larval Therapy: A Novel Treatment in Eliminating Methicillin-Resistant Staphylococcus aureus From Diabetic Foot Ulcers. Diabetes Care 2007; 30:370-37152.Perkins D, Hogue JS, Fairchok M, Braun L, Viscount HB. Mupirocin resistance screening of methicillin-resistant Staphylococcus aureus isolates at Madigan Army Medical Center. Mil Med. 2008 Jun;173(6):604-8. 53.Gordon RJ, Lowy FD. Pathogenesis of Methicillin-Resistant Staphylococcus aureus
+ Infection. Clin Infect Dis 2008; 46(Suppl 5): S.350-359.
+
+
+54.Takano T, Higuchi W, Otsuka T, Baranovich T, Enany S, Saito K, Isobe H, Dohmae S, Ozaki K, Takano M, Iwao Y, Shibuya M, Okubo T, Yabe S, Shi D, Reva I, Teng LJ, Yamamoto T. Novel characteristics of community-acquired methicillin-resistant Staphylococcus aureus
+strains belonging to multilocus sequence type 59 in Taiwan. Antimicrob Agents Chemother. 2008 Mar; 52(3):837-45.
+
+Berger-Bächi B, Rohrer S. Factors influencing methicillin resistance in staphylococci. Arch Microbiol. 2002 Sep; 178(3):165-71.Epub 2002 Jun 19.
+
+
+55.Deurenberg RH, Stobberingh EE. The evolution of Staphylococcus aureus. Infect Gebet Evol. 2008 Jul 29.
+
+
+56.Ligozzi M, Bernini C, Bonora MG, De Fatima M, Zuliani J, Fontana R. Evaluation of the VITEK 2 system for identification and antimicrobial susceptibility testing of medically relevant gram-positive cocci. J Clin Microbiol. 2002 May;40(5):1681-6.
+
+
+57.Menozzi MG, Eigner U, Covan S, Rossi S, Somenzi P, Dettori G, Chezzi C, Fahr AM. Two- center collaborative evaluation of performance of the BD phoenix automated microbiology system for identification and antimicrobial susceptibility testing of gram-negative bacteria. I Clin Microbiol. 2006 Nov;44(11):4085-94. Epub 2006 Sep 27.
+
+
+58.Robert-Koch-Institut: Staphylokokken-Erkrankungen, insbesondere Infektionen durch MRSA. Ergänzt und aktualisiert im Februar 2007; Erstveröffentlichung im Epidemiologischen Bulletin 08/2000.
+
+
+59.Grisold AJ, Leitner E, Muchlbauer C et al.: Detection of methicillin-resistant Staphylococcus aureus and simultaneous confirmation by automated nucleic acid extraction and real-time PCR. J Clin Microbiol 2002; 40:2392-2397.
+
+
+60.Huletsky A, Giroux R, Rossbach V, Gagnon M, Vaillancourt M, Bernier M, Gagnon F, Truchon K, Bastien M, Picard FJ, van Belkum A, Quellette M, Roy PH, Bergeron MG. New real-time PCR assay for rapid detection of methicillin-resistant Staphylococcus aureus directly from specimens containing a mixture of staphylococci. J Clin Microbiol.2004 May;42(5):1875-
+61.Der Experimentator, Molekularbiologie/Genomics. 6.Auflage 2009. Spektrum Akademischer Verlag. Autor: Cornel Mühlhardt62.Sanger F, Nicklen S and Coulson AR (1977) DNA sequencing with chain-terminating inhibitors. Proc Natl Acad Sci USA, 74(12):5463-7. 63.Journal of Clinical Microbiology, Dec. 2003, p 5442-5448. Typing of methicillin-resistant
+staphylococcus aureus in a University Hospital Setting by Using Novel Software for spa Repeat Determination and Database Management. Dag Harmsen, Heike Claus, Wolfgang Witte, Jörg Rothgänger, Hermann Claus, Doris Turnwald and Ulrich Vogel.
+
+64.Journal of Clinical Microbiology, July 2001, p.2541-2547. Development of a PCR-Assay or Identification of Staphylococci at Genus and Species Level. Francis Martineau, Picard FJ, Danbing Ke, Paradis S, Paul H Roy, Marc Ouelette, Michel G Bergeron
+65.Werle E et al. (1994)Convenient single step, one tube purification of PCR products for direct sequencing. Nucl.Acids Res.22, 4354-4355. 66.Ridom spa-Server
+67.European Centre of Disease Prevention and Control/European Medicines Agency (ECDC/EMEA). Joint technical report The bacterial challenge: time to react. Stockholm: ECDC/EMEA;2009.Available from: http://www.ecdc.europa.eu/en/publications/Publications/0909_TER_The_Bacterial_Challenge_T ime_to_React.pdf68.R Köck et al. Methicillin-resistant Staphylococcus aureus (MRSA): burden of disease and control challenges in Europe69.Tenover FC, Goering RV. Methicillin-resistant Staphylococcus aureus strain USA300: origin and epidemiology. J Antimicrob Chemother. 2009;64(3):441-6.
+
+70.Ellington MJ, Perry C, Ganner M, Warner M, McCormick S, Hill RL, et al. Clinical and molecular epidemiology of ciprofloxacin-susceptible MRSA encoding PVL in England and Wales. Eur J Clin Microbiol Infect Dis. 2009; 28 (9):113-21
+71.Diederen BM, Kluytmans JA, The emergence of infections with community-associated methicillin resistant Staphylococcus aureus. J Infect. 2006;52(3):157-6872.Witte W, Strommenger B, Cuny C, Heuck D, Nuebel U. Methicillin-resistant Staphylococcus aureus containing the Panton-Valentine leucocidin gene in Germany in 2005 and 2006. J Antimicrob Chemother.. 2007;60(6):1258-63.
+
+73.European Food Safety Authority (EFSA). Analysis of the baseline survey on the prevalence on methicillin-resistant Staphylococcus aureus (MRSA) in holdings with breeding pigs, in the EU, 2008 – Part A: MRSA prevalence estimates. EFSA Journal 2009;7(11):1376.
+
+
+74.Monecke S, Kuhnert P, Hotzel H, Slickers P, Ehricht R. Microarray based study on virulence-associated genes and resistance determinants of Staphylococcus aureus isolates from cattle. Vet Microbiol. 2007;125(1-2):128-40.
+
+
+75.Nemati M, Hermans K, Lipinska U, Denis O, Deplano A, Struelens M, etal. Antimicronial resistance of old and recent Staphylococcus aureus isolates from poultry: first detection of livestock-associated methicillin-resistant strain ST398. Antimicrob Agents Chemother. 2008;52(10):3817-9.
+
+
+76.van Rijen MM, Van Keulen PH, Kluytmans JA. Increase in a Dutch hospital of methicillin- resistant Staphylococcus aureus related to animal farming. Clin Infect Dis. 2008;46(2):261-3.
+
+
+77.Voss A, Loeffen F, Bakker J, Lkaassen C, Wulf M. Methicillin-resistant Staphylococcus aureus in pig farming. Emerg Infect Dis. 2005;11(12):1965-6.
+ 78.Denis O, Suetens C, Hallin M, Catry B, Ramboer I, Dispas M, et al. Methicillin-resistant
+Staphylococcus aureus ST398 in swine farm personnel, Belgium. Emerg Infect Dis. 2009;15(7):1098-101.
+
+79.Christine Geffers, Dr. med and Petra Gatmeier, Prof. Dr. med. Nosocomial Infections and Multidrug-resistant Organisms in Germany. Epidemiological Data from KISS (The Hospital Infection Surveillance System)
+80.Prevalence of methicillin-resistant S. aureus in infected and uninfected diabetic foot ulcers, N Tentolouris, G Petrikkos, N Vallianou, C Zachos, GL Daikos, P Tsapogas, G. Markou, N Katsilambros, Clinical Microbiology and Infection, Vol. 12, February 2006 81.König A, Lehmann C, Rompel R, Happle R. Cigarette smoking as a triggering factor of hidradenitis suppurativa. Dermatology 1999; 198: 261-4
+ 82.Jemec GB. Body weight in hidradenitis suppurativa. In: Marks R, Plewig G: Acne and related disordes. Martin Dunitz, London: 1989: 378-6
+ 83.Fitzsimmons JS, Guilbert PR. A family study of hidradenitis suppurativa. J Med Genet 1985;
+ 22: 367-73
+84.Crowcroft NS, Ronveaux O, Monnet DL, Mertens R (1999) Methicillin-resistant Staphylococcus aureus and antimicrobial use in Belgian hospitals. Infect Control Hosp Epidemiol (1):31-3685.MRSA: Resistenzmechanismen, Epidemiologie, Risikofaktoren, Prophylaxe, Therapie. P. Heizmann, W.R. Heizmann, R. Hetzer. Z Herz- Thorax- Gefäßchir 19:78-88 (2005). DOI 10.1007/s00398-005-0486-086.Talon DR, Bertrand X (2001) Methicillin-resistant Staphylococcus aureus in geriatric patients: usefulness of screening in a chronic-care setting. Infect Control Hosp Epidemiol 22: 505-50987.Washio M, Kiyohara C, Arai Y, Aoyagi K, Okada K, Fujishima M, Maeda M, Ito Y (1998) Methicillin-resistant Staphyloccus aureus (MRSA) and Pseudomonas aeruginosa isolation from pharyngeal swab cultures among the Japanese elderly at admission to a geriatric hospital. Public Health 112:415-41788.Rapid detection of methicillin-resistant Staphylococcus aureus directly from clinical samples: methods, effectiveness and cost considerations. Erno Stürenburg; LADR GmbH, MVZ Dr. Kramer & Colleagues, Geesthacht, Germany89.Martineau F, Picard FJ, Roy PH, Ouellette M, Bergeron MG. Species Specific and Ubiquitous-DNA-Based Assays for Rapid Identification of Staphylococcus aureus. Journal of Clinical Micorbiology, Mr. 1998, p618-62390.Nulens E, Stobberingh EE, van Dessel H, Sebastian S, van Tiel FH, Beisser PS, Deurenberg RH. Molecular Characterization of Staphylococcus aureus Bloodstream Isolates in a Dutch University Hospital between 1999 and 2006. J. Clin. Microbiol. doi:10.1128/JCM.00808-08 91.Friedrich AW, Witte W. Typisierung von multiresistenten Erregern (MRE)- praktische Anwendung im krankenhaushygienischen Alltag
+ 92.Witte W, Cuny C, Klare I et al. Emergence and spread of antibiotic-resistant Gram-positive bacterial pathogens. Int J Med Microbiol 2008; 298: 365 – 377
+ 93.Harmsen D, Claus H, Witte W, Rothgänger J, Claus H, Turnwald D, Vogel U. Typing of Methicillin-Resistant Staphylococcus aureus in a University Hospital setting by using novel software for spa repeat determination and database management. Journal of Clinical Microbiology, Dec. 2003, p 5442-5448 Vol. 41, No. 12.
+ 94.Epidemiologische Methoden, Lothar Kreienbrock, Siegfried Schach, 2., durchgesehene Auflage
+ 95.Garcia-Álvarez L, Holden MTG, Lindsay H, Webb CR, Brown DFJ, Curran MD, Walpole E, Brooks K, Pickard DJ, Teale C, Parkhill J, Bentley SD, Edwards GF, Girvan EK, Kearns AM, Pichon B, Hill RLR, Larsen AR, Skov RL, Peacock SJ, Maskell DJ, Holmes MA; Methicillin- resistant Staphylococcus aureus with a novel mecA homologue in human and bovine polulations in the UK and Denmark: a descriptive study. Lancet Infect Dis 2011; 11:595-603
+96.Harinstein L, Schafer J, D`Amico F. Risk factors associated with the conversion of methicillin-resistant Staphylococcus aureus colonisation to healthcare-associated infection. Department of Pharmacy, Cleveland Clinic, Cleveland, Ohio, USA. J Hosp Infect. 2011 Nov,79(3):194-7. 97.Factors associated with the occurrence of MRSA CC398 in herds of fattening pigs in Germany. Alt A, Fetsch A, Schroeter A, Guerra B, Hammerl JA, Hertwig S, Senkov N, Geinets A, Mueller-Graf C, Braeunig J, Kaesbohrer A, Appel B, Hensel A, Tenhagen BA. BMC Veterinary Researsch 2011, 10 November 2011
+98.The Epidemiology of Methicillin-Resistant Staphylococcus aureus (MRSA) in Germany. Köck R, Mellmann A,1Schaumburg F, Friedrich A W, Kipp F, Becker K. Dtsch Arztebl Int. 2011 November; 108(45): 761–767 99.K. Kröncke „Molekularepidemiologische Untersuchung zur Prävalenz und Persistenz von Methicillin-resistenten Staphylococcus aureus bei ambulanten Patienten mit Hauterkrankungen“
+
+6. ABKÜRZUNGSVERZEICHNIS Bp
+ Basenpaare
+ PBP 2
+ Penicillin Bindeprotein 2
+ BSG
+ Blutkörperchensenkungsgeschwindigkeit
+ CA-MRSA
+ „Community-acquired“ MRSA
+ LA-MRSA
+ “Livestock-associated” MRSA
+ HA-MRSA
+ „Healthcare-associated“ MRSA
+ DNA
+ Desoxyribonukleinsäure
+mecA Gen, welches für die Methicillinresistenz kodiert
+ MBP
+ Mega base pair (1 Million base pairs)
+ MRSA
+ Methicillin-resistenter Staphylococcus aureus
+ MSCRAMM
+ microbial surface components recognizing adhesive matrix molecules
+ MSSA
+ Methicillin-sensibler Staphylococcus aureus
+ VRSA
+ Vancomycin resistenter Staphylococcus aureus
+ PCR
+ Polymerasekettenreaktion
+S.aureusStaphylococcus aureus SCCmec
+ Resistenzgenkassette des Staphylococcus aureus ; beinhaltet mecA-Gen
+Spa staphylococcus protein A
+bla Betalaktamase-Gen
+fem factor essential for methicillin resistance
+ kb
+ Kilobasen
+ PVL
+Panto-Valentine Leukozidin EFSA
+ European Food Safety Authority
+ EARSS
+ European Antimicrobial Resistance Surveillance Network
+ MLST
+ Multilocus sequence typing
+ Tab.
+ Tabelle
+ Abb.
+ Abbildung
+ kD
+ kilodalton
+ SCV
+ small colony variants
+ DRG
+ diagnosis-related groups
+

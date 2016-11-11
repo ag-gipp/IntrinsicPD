@@ -1,0 +1,966 @@
+Validation of shRNA clones for gene silencing in 293FT cells
+
+ 1. Introduction
+ 1
+1.Introduction1.1 dsRNA, siRNA, miRNA and shRNA1.1.1 dsRNADouble-stranded RNA (dsRNA) is RNA with two complementary strands, similar to the DNA. dsRNA forms the genetic material of some viruses. In eukaryotes, it acts as a trigger to initiate the process of RNA interference (RNAi) and presents as an intermediate step in the formation of siRNA (small interfering RNAs). Recently, dsRNA has been found to induce gene expression at the transcriptional level, a phenomenon named “small RNA induced gene activation RNAa”. Such dsRNA is called “small activating RNA (saRNA)”.
+
+1.1.2 siRNA
+Small interfering RNAs (siRNAs), sometimes known as short interfering RNA or silencing RNAs, represent a class of 20-25 nucleotide-long double-stranded RNA molecules that play a variety of roles in biology.
+
+siRNAs have a well defined structure: a short (usually 21-nt) double-strand of RNA (dsRNA) with 2-nt 3’ overhangs on either end. Each strand has a 5’ phosphate group and a 3’ hydroxyl (-OH) group. This structure is the result of processing by Dicer, an enzyme that converts either long dsRNA or hairpin RNAs into siRNAs (Baulcombe et al, 1999).
+
+Most notably, siRNAs are involved in the RNA interference (RNAi) pathway where the siRNA interferes with the expression of a specific gene (Tuschl et al, 2001). In addition to their role in the RNAi pathway, siRNAs also act in RNAi-related pathways, as an antiviral mechanism or in shaping the chromatin structure of a genome. siRNAs can also be exogenously (artificially) introduced into cells by various transfection methods to bring about the specific knockdown of a gene of interest. Essentially any gene of which the sequence is known can thus be targeted based on sequence complementarity with tailored siRNA. This has made siRNA an important tool for gene function and drug target validation studies in the post-genomic era.
+
+1.1.3 miRNA
+The vast majority of genomic DNA does not encode protein sequences and was considered “junk” that only contributes to the evolution of genes due to recombination events. However, very recently this concept had to be completely rewritten. Hundreds of short RNAs have been identified that stem from these “noncoding” regions and many more are likely to exist. These microRNAs (miRNAs) are important regulators of gene expression.
+
+In genetics, miRNAs are single-stranded RNA molecules of about 21-23 nucleotides in length, which regulate gene expression. miRNAs are encoded by genes that are transcribed from DNA but not translated into protein (non-coding RNA); instead they are processed from primary transcripts known as pri-miRNAs to short stem-loop structures called pre-miRNAs and finally to function miRNAs. Mature miRNA molecules are partially complementary to one or more messenger RNA (mRNA) molecules, and their main function is to down-regulate gene expression.
+
+1.1.3.1 Formation and processing of miRNA
+The genes encoding miRNAs are much longer than the processed mature miRNA molecule; miRNAs are first transcribed as primary transcripts or pri-miRNAs with a cap and poly-A tail and processed to short, 70-nucleotide stem-loop structures known as pre-miRNAs in the cell nucleus. This processing is performed in animals by a protein complex known as the Microprocessor complex, consisting of the nuclease Drosha and the double-stranded RNA binding protein Pasha (Denli et al, 2004). These pre-miRNAs are then processed to mature miRNAs in the cytoplasm by interaction with the endonuclease Dicer, which also initiates the formation of the RNA-induced silencing complex (RISC) (Bernstein et al, 2001). This complex is responsible for the gene silencing observed due to miRNA expression and RNA interference. The pathway in plants varies slightly due to the lack of Drosha homologs; instead, Dicer homologs alone affect several processing steps (Kurihara and Watanabe, 2004).
+
+It has been shown that the efficient processing of pre-miRNAs by Drosha requires the presence of extended single-stranded RNAs on both 3'- and 5'-ends of hairpin molecules (Zeng et al, 2005). This study showed that these motifs could be of different composition while their defined length is of high importance for processing to take place. Findings were confirmed in another work by Han et al (2004). Using bioinformatics tools the folding of 321 human and 68 fly pri-miRNAs was analysed. 280 human and 55 fly pri-miRNAs were selected for further study excluding those molecules where folding showed the presence of multiple loops. All human and fly pri-miRNAs contained very similar structural regions, which the authors called ‘'basal segments'’, ‘'lower stem'’, '’upper stem'’ and ‘'terminal loop'’. Based on the encoding position of miRNAs, in the 5'-strand (5'-donors) or 3'-strand (3'-donors), thermodynamic profiles of pri-miRNAs were determined (Zeng et al, 2005). Subsequent experiments showed that Drosha complex cleaves RNA molecules ~2 helical turns away from the terminal loop and ~1 turn away from basal segments. In most analyzed molecules this region contains unpaired nucleotides and the free energy of the duplex is relatively high compared to lower and upper stem regions (Zeng and Cullen, 2005).
+
+Most pre-miRNAs don't have a perfect double-stranded RNA (dsRNA) structure topped by a terminal loop. There are few possible explanations for such selectivity. One could be that dsRNAs longer than 21 base pairs activate an interferon response and the anti-viral machinery in the cell. Another plausible explanation could be that the thermodynamical profile of pre-miRNAs determines which strand will be incorporated into the Dicer complex. Indeed, the aforementioned study by Han et al. demonstrated very clear similarities between pri-miRNAs encoded in respective (5'- or 3'-) strands.
+
+When Dicer cleaves the pre-miRNA stem-loop, two complementary short RNA molecules are formed, but only one becomes integrated into the RISC complex. This strand is known as the guide strand and is selected by the argonaute protein, the catalytically active RNase in the RISC complex, on the basis of the stability of the 5' end (Preall et al, 2006). The remaining strand, known as the anti-guide or passenger strand is degraded as a RISC complex substrate (Gregory et al, 2005). After integration into the active RISC complex, miRNAs base pair with their complementary mRNA molecules and induce mRNA degradation by argonaute proteins. It is as yet unclear how the activated RISC complex locates the mRNA targets in the cell, though it has been shown that the process is not coupled to ongoing protein translation from the mRNA (Sen et al, 2005).
+
+1.1.3.2 Cellular functions of miRNA
+The miRNAs appear to be important for gene regulation. An individual miRNA is complementary to a part of one or more messenger RNAs (mRNAs). Animal miRNAs are usually complementary to a site in the 3' UTR whereas plant miRNAs are usually complementary to coding regions of mRNAs. The annealing of the miRNA to the mRNA then inhibits protein translation, but sometimes facilitates cleavage of the mRNA. This is thought to be the primary mode of action of plant miRNAs. In such cases, the formation of the double-stranded RNA through the binding of the miRNA triggers the degradation of the mRNA transcript through a process similar to RNAi, though in other cases it is believed that the miRNA complex blocks the protein translation machinery or otherwise prevents protein translation without causing the mRNA to be degraded. miRNAs may also target methylation of genomic sites which correspond to targeted mRNAs. miRNAs function in association with a complement of proteins collectively termed the miRNP (micro-ribonucleic protein).
+
+This effect was first described for the worm C. elegans in 1993 (Lee et al., 1993). As of 2002, miRNAs have been confirmed in various plants and animals, including C. elegans, human and the plant Arabidopsis thaliana. Genes have been found in bacteria that are similar in the sense that they control mRNA abundance or translation by binding a mRNA by base pairing, however they are not generally considered to be miRNAs because the Dicer enzyme is not involved.
+
+In plants, similar RNA species termed short-interfering RNAs are used to prevent the transcription of viral RNA. While this siRNA is double-stranded, the mechanism seems to be closely related to that of miRNAs, especially taking the hairpin structures into account. siRNAs are also used to regulate cellular genes, as miRNAs do.
+
+
+1.1.4 shRNA
+Short hairpin RNAs (shRNAs) are a sequence of RNAs that makes a tight hairpin turn and are transcribed by RNA polymerase Ⅲ. It uses a vector introduced into cells and utilizes the U6 promoter to ensure that the shRNA is always expressed and can be cleaved by the cellular machinery into siRNA, which is then bound to the RISC silencing gene expression via RNAi (Brummelkamp et al., 2002; Lee et al., 2002; Miyagishi and Tiara, 2002; Paddison, et al. 2002; Paul et al., 2002; Sui et al., 2002; Cao et al, 2005; Harper et al., 2005; McIntyre and Fanning, 2006). In direct comparisons, RNAi via shRNA was much more effective than antisense oligodeoxynucleotides (ODNs) targeted to the same gene (Miyagashi et al., 2003) and showed a longer duration of the inhibitory effect on the corresponding mRNA level (Bertrand et al., 2002).
+
+Meanwhile, RNA polymerase Ⅲ-based shRNA expression vector systems have been established to induce RNAi in mammalian cells (Brummelkamp et al., 2002; Lee et al., 2002; Miyagishi and Tiara, 2002; Paul et al., 2002; Yu et al., 2002). Although these vectors provide certain advantages over chemically synthesized siRNAs, some disadvantages still remain, including transient shRNA expression and low transfection efficiency, especially in primary non-dividing cells. Because mammals apparently lack mechanisms that amplify silencing in worms and plants, siRNA –induced gene inactivation seems to be transient (Hannon, 2002). To overcome these limitations, shRNA delivery systems using lentiviral vectors have been developed. These systems produce shRNAs intracellularly and often rely on promoters dependent on RNA polymerase Ⅲ, such as U6 (Abbas et al., 2002; Qin et al., 2003). The U6 promoter efficiently expresses shRNAs which undergo Dicer processing into 21-nucleotide duplex dsRNA in mammalian cultured cells and RNA polymerase Ⅲ promoters are active in all mammalian tissues (Wall and Shi, 2003). One of the advantages of using the lentivirus system over a plasmid-based expression system is to maintain the transferred shRNAs stably integrated into the host chromosomal DNA without time-consuming drug-selection procedures. Another advantage to the lentivirus-mediated gene delivery system is its highly efficient transduction ability. This is of particular importance for post-mitotic primary non-dividing cells, such as stem cells, dendritic cells and neurons (Naldini et al., 1996; Pfeifer et al, 2002; Scherr and Eder, 2002; Stewart et al., 2003; Rubinson et al, 2003; Hironori Nishitsuji et al., 2004). shRNAs can also be made for use in plants and other systems, and are not necessarily driven by a U6 promoter. In plants the traditional promoter for strong constitutive expression (in most plant species) is the cauliflower mosaic virus 35S promoter (CaMV35S), in which case RNA polymerase Ⅱ is used to express the transcript destined to initiate RNAi.
+
+1.2 RNA interference
+RNA interference (RNAi) was a term coined by Fire and coworkers to describe the inhibition of gene expression by double-stranded RNAs (dsRNAs) when introduced into nematode worms (Caenorhabditis elegans). Following on from the studies of Guo and Kemphues (1995), who had found that sense RNA was as effective as antisense RNA for suppressing gene expression in worms, Fire et al. (1998) applied single-stranded antisense RNA and double stranded RNA in their experiments. To their surprise, they found that dsRNA was more effective in producing interference than was either strand individually. After injection into adult C. elegans, single-stranded antisense RNA had a modest effect in diminishing specific gene expression, whereas double-stranded mixtures caused potent and specific interference.
+
+Today we know that RNAi is a multistep process involving the generation of small interfering RNAs (siRNAs) in vivo through the action of the RNase III endonuclease “Dicer”. The resulting 21- to 23-nt siRNAs mediate the degradation of their complementary RNA (Shi, 2003).
+
+A major breakthrough in the elucidation of the underlying mechanism was the biochemical analysis of RNAi using Drosophila embryo or cell extracts (Tuschl et al., 1999; Hammond et al., 2000; Zamore et al., 2000), which led to the identification of the dsRNA processing enzyme Dicer (Bernstein et al., 2001a) as well as the RNA induced silencing complex, RISC (Hammond et al., 2000), which executes RNAi by using the small dsRNA species generated by Dicer as guidance molecules to target the homologous, endogenous mRNA for degradation (Elbashir et al., 2001b,c; Zamore et al., 2000). These discoveries led to the rapid improvement of RNAi tools, tailored to the needs of the various experimental systems, and triggered intense genetic and biochemical research into the molecular basis and regulation of RNAi (Hammond et al., 2001b; Tijsterman et al., 2002). It became clear that RNAi is a highly conserved mechanism that functions in many different cellular pathways from regulating gene expression to fighting infection and the dangers of mobile genetic elements.
+
+1.2.1 Mechanism of RNAi
+The genetic and biochemical analysis of RNAi has led to a model, in which RNAi can be divided into two distinct phases: an initiation and an execution phase. The initiation phase involves the processing of dsRNA into siRNA. In the execution phase, siRNAs are then incorporated into large ribonucleoprotein complexes. These effector complexes interfere with gene expression by using the small RNA strand to identify their complementary mRNA, which becomes cleaved and degraded. In a related pathway, short non-coding single stranded RNAs, which are derived from partially complementary dsRNA precursor molecules, are used to regulate the translation of mRNAs harbouring complementary sequences in their 3’UTRs (Fig. 1).
+
+1.2.1.1 Initiation phase: dsRNA processing into siRNAs
+The goal of the initiation step of RNAi is the generation of siRNAs from long dsRNAs or mature miRNAs from their primary transcripts. This is achieved by the action of two families of RNase III-dependent genes, Dicer and Drosha. RNase III enzymes fall into three classes (Nicholson, 2003). Class I enzymes, found in bacteria and yeast, contain a single RNase III domain joined to a dsRBD (dsRNA binding domain proteins). Class II and III enzymes contain two RNase III catalytic domains. Class III enzymes are further characterized Fig. 1. Mechanism of RNAi (adopted from Cullen BR., 2004). The processing pathway proceeds from transcription through nuclear processing, nuclear export, cytoplasmic processing by Dicer and finally to incorporation into RISC. This results in the initial primary miRNA transcript (pri-miRNA) being processed to a pre-miRNA and finally to a miRNA duplex intermediate, one strand of which then serves as a substrate for RISC incorporation. The assembled RISC can then target mRNAs bearing a perfectly complementary target site for degradation or can inhibit the translation of an mRNA that contains multiple, partly mismatched target sites. Entry points for designed siRNAs are shown at the left of the figure. These include synthetic siRNA duplexes and shRNAs, transcribed from expression plasmids, which closely mimic pre-miRNAs. Finally, artificial miRNA genes can also be used to express novel siRNAs. by a helicase domain and a PAZ (Piwi/Argonaute/Zwille) domain. This last domain is also present in Argonaute family proteins, already known to be essential for RNAi, which led to the proposal that Class III enzymes are the initiator of RNAi (Bass, 2000).
+
+The generation of a siRNA from dsRNA potentially requires four endonucleolytic reactions. It has been revealed that Dicer acts as a monomer, using two endonucleolytic reactions to generate one new terminus (Zhang et al, 2004). This would occur if Dicer binds to an existing terminus and makes a cut ~21 nucleotides from the end (Schütze, 2004). If however the enzyme can not initiate processing from the end and is forced to cut internally, the reaction becomes significantly delayed. Once binding of Dicer occurred and a single new terminus is created, further processing occurrs at normal rates, since the enzyme now has terminal ends from which to process.
+
+MicroRNAs (miRNAs) are transcribed by RNA polymerase II as long primary transcripts (Kim, 2005). The active miRNA species, termed the mature RNA, is present in a stem–loop structure within the primary transcript. The stem–loop can be located in an exon or in an intron. For example, the miRNAs miR-106b, miR-93, and miR-25 are located within an intron of the protein coding gene mcm-7. After transcription, the miRNAs are processed from the primary transcript, and the spliced mRNA is exported and translated . Sequential processing of the primary transcript by the RNase III enzymes Drosha and Dicer liberates the mature RNA. Drosha cleavage releases the stem–loop, termed the precursor, which is exported from the nucleus in an exportin-5/RAN-GTPase-dependent manner. In the cytoplasm, the precursor is processed into a siRNA-like structure by Dicer. Drosha generates a 2 nt 3’ overhang terminus on the precursor which is recognized by the PAZ domain of Dicer, analogous to the recognition of dsRNA termini. The double stranded miRNA is incorporated into RISC in a similar manner as siRNAs.
+
+
+Drosha is a Class II enzyme. This enzyme assumes a pseudo-dimer catalytic core similar to Dicer (Han et al, 2004). The substrates of Drosha, miRNA primary transcripts, are structurally distinct from Dicer substrates. Drosha does not process from a dsRNA terminus. Rather, data suggests that primarily the stem–loop structure is recognized. In particular, the loop size appears to be important for recognition (Zeng et al, 2005). In addition, unstructured sequences flanking the stem–loop are essential for processing (Chen et al, 2004; Zeng et al, 2005). It is not evident how Drosha is able to recognize these sequences, as they are outside of the dsRNA stem. Possibly other unidentified cofactors play a role. Conserved sequence elements have been found in flanking regions of C. elegans miRNAs (Ohler et al, 2004).
+
+1.2.1.2 Execution phase: assembly of siRNA containing silencing complexes
+Dicer-generated siRNAs are then incorporated into a large multiprotein complex, which is involved in various gene-silencing modes, and is called the RNA induced silencing complex, or RISC (Hammond et al, 2000; Nykanen et al, 2001). Processing of dsRNA and assembly of a functional RISC likely occurs in the cytoplasm, as Dicer is a cytosolic enzyme and RISC activity can be purified from the cytosol (Billy et al, 2001). R2D2, a Drosophila gene related to the C. elegans RNAi gene RDE-4, has been implicated in the transfer of siRNAs into the RISC (Liu et al, 2003). Generation of siRNAs from dsRNA in Drosophila embryo extracts, unwinding of the siRNA duplex, and incorporation into the RISC requires ATP (Nykanen et al, 2001). In contrast, human Dicer does not seem to rely on ATP for processing of dsRNA into siRNA molecules (Zhang et al., 2002).
+
+Chromatographic purification of RISC nuclease activity from Drosophila cells revealed several RISC components. The first identified component was Argonaute2 (Ago2) (Hammond et al, 2001). This protein is a member of a gene family conserved in most eukaryotic and several prokaryotic genomes. The C. elegans homolog, rde-1, was previously identified in a genetic screen for RNAi-deficient mutants, reinforcing its connection with RNAi (Tabara et al, 1999). Structurally, this protein family is characterized by two domains, the PAZ domain and the PIWI domain. Structures for both domains have been solved. Additional RISC components with unknown roles in RNAi have also been identified. These include the RNA binding protein VIG, the Drosophila homolog of the Fragile X protein, dFXR, helicase proteins, and Tudor-SN (Ishizuka et al, 2002; Caudy et al, 2003). This last protein has five staphylococcal nuclease (SNase) domains and a Tudor domain.
+
+In humans, there are four closely related Argonaute family members, named Ago1-4. All four bind siRNAs and miRNAs at similar levels, and are widely expressed. Only Ago2, however, is present in a cleavage-competent RISC-complex (Meister et al, 2004). Similarly, siRNA-mediated knockdown, or targeted knockout, of Ago2 impaired RNAi of a reporter, while knockdown of Ago1, 3, 4 had no effect. The crystal structure of an Argonaute family member from Pyrococcus furiosus has been revealed (Song et al, 2004). The structure displayed an RNaseH fold for the signature PIWI domain. The crystal structure of a second archaean argonaute, Archaeoglobus fulgidus Piwi (AfPiwi), confirmed the RNaseH fold (Parker et al, 2004). The final demonstration that Slicer activity was contained within Ago2 was the reconstitution of minimal RISC with bacterially expressed, purified Ago2 and a single-stranded siRNA (Rivas et al, 2005).
+
+1.2.2 Therapeutic applications of RNAi
+The therapeutic applications of RNAi are potentially enormous. The genetic etiology of many disorders has now been defined and, in some cases, has been targeted by RNAi in in vitro and in vivo model systems. Because the specificity of RNAi is governed by sequence complementarity between the siRNA and the target RNA, the most obvious application would be to treat diseases in which genetic polymorphisms within the disease-inducing gene in a particular lesion or tumor can be targeted for degradation without affecting RNA from wild-type alleles. 
+
+1.2.2.1 Cancer
+There are two general abnormalities in cancer cells that exhibit a dysregulation of the cell cycle resulting in uncontrolled growth and are resistant to death as a result of abnormalities in one or more proteins that mediate apoptosis (Nam and Parang, 2003). The goals for RNAi approaches for cancer therapy are therefore to silence the expression of a cell cycle gene and/or an anti-apoptotic gene in the cancer cells thereby stopping tumor growth and killing the cancer cells. To selectively eliminate cancer cells without damaging normal cells, the RNAi needs to be targeted to a gene specifically involved in the growth or survival of the cancer cell, or the siRNAs would be selectively delivered into the cancer cells.
+
+The translocation of the Philadelphia chromosome (Ph) generates a fusion gene called BCR-ABL. The translation product of this gene creates a constitutively active protein tyrosine kinase that induces and maintains leukemic transformation in chronic myelogenous leukemia and Ph-positive acute lymphoblastic leukemia. The siRNAs specific for the BCR-ABL transcript have been shown to silence the oncogenic fusion transcripts without affecting expression levels of normal c-ABL and c-BCR transcripts (Scherr et al, 2003; Wohlbold et al, 2003).
+
+Pancreatic and colon carcinomas, in which RAS genes are often mutated, provide another example for potential RNAi applications. In many cases, the RAS oncogenes contain point mutations that differ by a single-base mutation from their normal counterparts. The use of retroviral vectors to introduce interfering RNAs specific for an oncogenic variant of KRAS (called K-RASV12) reduced the level of K-RASV12 transcripts and resulted in a loss of anchorage-independent growth and tumorigenicity (Brummelkamp et al, 2002). Studies of this kind provided proof-of-concept data for RNAi-based strategies aiming to reverse tumorigenesis.
+
+1.2.2.2 Infectious diseases
+The ability of RNAi to inhibit the replication or cellular uptake of viruses and other infectious agents has been clearly demonstrated in cell culture studies and, therefore, holds promise for the treatment of human patients. The ability of HIV-1 to infect cells and replicate can be severely compromised by targeting viral genes using siRNAs. Examples include the suppression of HIV-1 replication in human cells transfected with siRNA directed against the tat and the rev gene (Capodici et al, 2002; Jacque et al, 2002; Lee et al, 2002a; Novina et al, 2002). Transfection of human cells with siRNAs directed against different genes in the poliovirus genome resulted in resistance of the cells to infection with poliovirus (Gitlin et al., 2002). The ability of siRNAs targeting the gene encoding the death receptor Fas to protect mice from liver failure and fibrosis in two models of autoimmune hepatitis was tested by Song and colleagues (Song et al., 2003). Intravenous injection of Fas siRNA specifically reduced Fas protein levels in the livers of mice during a 10-day period. Fas siRNA treatment abrogated hepatocyte necrosis and inflammatory infiltration and markedly reduced serum concentrations of transaminases demonstrating a clear hepatoprotective effect of the siRNA therapy.
+
+1.2.2.3 Neurodegenerative disorders
+RNAi has been proven to be a successful experimental approach to alleviate symptoms of diseases in transgenic animal models. For example, in inducible mouse models of spinocerebellar ataxia type 1 (SCA1) and Huntington disease, the repression of the mutant allele partially alleviates disease phenotype. Adeno-associated virus (AAV) expressing shRNA directed against transgenic mutated human ataxin and injected into cerebellum profoundly improved motor coordination, restored cerebellar morphology, and resolved characteristic ataxin-1 inclusions in Purkinje cells of SCA1 mice (Xia et al, 2004). Amyotrophic lateral sclerosis (ALS) is another devastating neurodegenerative disease, which is generally sporadic but in a small number of cases is caused by the expression of a mutated form of Cu/Zn superoxide dismutase (SOD1). Although the mutant SOD1 is toxic, the wild-type SOD1 performs important functions. Therefore, a selective down-regulation of the mutated isoform would be desirable. A specific siRNA covering the sequence containing the point mutation has been tested in experimental models of SOD dysfunction and showed that such an approach is feasable (Ding et al, 2003). However, there are multiple forms of mutant SOD1 and not all mutant types have been selectively inhibited by RNAi. An alternative approach has been designed in which RNAi is used to inhibit both wild-type together with the mutated form of SOD1. The wild-type SOD1 function is then replaced by an engineered SOD1 gene resistant to the RNAi (Xia et al, 2005).
+
+1.2.2.4 Drawbacks of RNAi therapeutics
+Delivery is probably the single biggest obstacle to the development of RNAi-based therapeutic agents. Trigger RNAs (dsRNAs from which siRNAs are derived by the action of Dicer) can be expressed from vectors or delivered as artificial siRNAs. A variety of strategies to express interfering RNAs with the use of plasmid and virus vector-based cassettes have been explored (Li et al, 2002; Dykxhoorn et al, 2003). Well-documented hazards of inserting foreign vector sequences into chromosomal DNA include insertional activation and inactivation of cellular genes. Direct (intravenous) administration of siRNAs would require siRNAs that are modified to be resistant to nucleases and perhaps conjugated with a ligand to target the siRNA to specific tissues. In mice, intravenous introduction of Fas siRNAs leads to specific silencing of Fas mRNA in the liver (Song et al, 2003), so in principle, unmodified siRNAs can be taken up by the liver and perhaps other tissues. It is not clear, however, whether there are selective tissue sites for the uptake of siRNAs and whether the lymphoid system or the brain, for instance, is accessible by this route. Furthermore, the silencing effect of siRNAs is short-lived, because the siRNAs eventually decay within the cell. In addition to the danger of using vectors that integrate into the genome, the expression or injection of siRNAs may also have unwanted biologic side effects. Researchers are continually finding new cellular processes in which RNAi is involved. Therefore, a stoichiometric excess of a virus-specific siRNA, for example, could saturate RNAi and interrupt the pathway’s normal functions in the cell. Interferons, which form part of the host’s defense against viral infection, are activated by long dsRNA (more than 500 bp). It is now apparent that siRNAs (Sledz et al, 2003) as well as shRNAs expressed from DNA vectors (Bridge et al, 2003) can trigger the activation of interferons. However, there is no evidence that the activation of interferons by short RNAs influences the degree or specificity of RNA silencing. In addition, these effects have to be reconciled with the manufacturing in cells of many thousands of copies of pre-miRNAs (Lagos et al, 2001) that do not appear to activate interferons.
+
+1.3 Transfection
+Transfection describes the introduction of foreign DNA into eukaryotic cells. Transfection typically involves opening transient “holes” or gates in the cell plasma membrane, to allow the uptake of extracellular molecules, typically supercoiled plasmid DNA, but also siRNA, among others. Cells that have been manipulated to accept foreign DNA (cells with “holes”) are called “competent cells”.
+
+The primary challenge for gene transfection is to develop a method that delivers a gene (transgene) to selected cells where proper gene expression can be achieved. An ideal gene delivery method needs to meet 3 major criteria: (1) it should protect the transgene against degradation by nucleases in intercellular matrices, (2) it should bring the transgene across the plasma membrane and into the nucleus of target cells, and (3) it should have no detrimental effects (Gao et al, 2007).
+
+Viral vectors are able to mediate gene transfer with high efficiency and the possibility of long-term gene expression, and satisfy 2 out of 3 criteria. The acute immune response, immunogenicity, and insertion mutagenesis have raised serious safety concerns about some commonly used viral vectors. The limitation in the size of the transgene that recombinant viruses can carry and issues related to the production of viral vectors present additional practical challenges. Methods of nonviral gene delivery have also been explored using physical (carrier-free gene delivery) and chemical approaches (synthetic vector-based gene delivery). Physical approaches, including needle injection (Wolff et al, 1990), electroporation (Heller et al, 2005), gene gun (Yang et al, 1990; Yang and Sun, 1995), ultrasound (Lawrie et al, 2000), and hydrodynamic delivery (Liu et al, 1999; Zhang et al, 1999), employ a physical force that permeates the cell membrane and facilitates intracellular gene transfer. The chemical approaches (Mahato and Kim, 2002; Liu et al, 2003; Neu et al, 2005) use synthetic or naturally occurring compounds as carriers to deliver the transgene into cells. Although significant progress has been made in the basic science and applications of various nonviral gene delivery systems, the majority of nonviral approaches are still much less efficient than viral vectors, especially for in vivo gene delivery.
+
+1.3.1 Transfection by needle injection of naked DNA
+Simple injection of plasmid DNA directly into a tissue without additional help from either a chemical agent or a physical force is able to transfect cells. Local injection of plasmid DNA into the muscle (Wolff et al, 1990), liver (Zhang et al, 1997), skin (Choate and Khavari, 1997), or airway instillation into the lungs (Meyer et al, 1995), lead to a low-level of gene expression. Specific or nonspecific receptors on the cell surface that bind and internalize DNA have been implicated as a mechanism. Nevertheless, gene transfer with naked DNA is attractive to many researchers because of its simplicity and lack of toxicity. However, a broad application of naked DNA–mediated gene transfer to gene therapy may not be conceivable because DNA, being large in size and highly hydrophilic, is efficiently kept out of the cells in a whole animal by several physical barriers. These include the blood endothelium, the interstitial matrices, the mucus lining and specialized ciliate/tight junction of epithelial cells, and the plasma membrane of all cells. In addition, DNA degradation by intra- and extracellular nuclease activities further reduces the chance that DNA entering nuclei will be intact and functional.
+
+1.3.2 Transfection by physical methods
+Physical approaches have been explored for transfection into cells in vitro and in vivo. Physical approaches induce transient injuries or defects on cell membranes, so that DNA can enter the cells by diffusion. Gene delivery employing mechanical (particle bombardment or gene gun), electric (electroporation), ultrasonic, hydrodynamic (hydrodynamic gene transfer), or laser-based energy has been explored in recent years.
+
+1.3.2.1 Transfection by gene gun
+Particle bombardment through a gene gun is an ideal method for transfection of skin, mucosa, or surgically exposed tissues within a confined area (Yang et al, 1990). DNA is deposited on the surface of gold particles, which are then accelerated by pressurized gas and expelled onto cells or a tissue. The momentum allows the gold particles to penetrate a few millimeters deep into a tissue and to release DNA into cells on the path. Such a simple and effective method of gene delivery is expected to have important applications as an effective tool for DNA based immunization. Further improvements could include chemical modification of the surface of the gold particles to allow higher capacity and better consistency for DNA coating, and fine-tuning of the expelling force for precise control of DNA deposition into cells in various tissues.
+
+1.3.2.2 Transfection by electroporation
+Electroporation is a versatile method that has been extensively tested in many types of tissues in vivo (Heller et al, 2005), among which skin and muscles are the most extensively investigated, although the system should work in any tissues into which a pair of electrodes can be inserted. Gene transfer by electroporation showed less variation in efficiency across species than did direct DNA injection. The amount of DNA and how well the injected plasmid DNA distributes within the treated tissue prior to electroporation appear to have an important impact on transfection efficiency.
+
+Several major drawbacks exist for in vivo application of electroporation. First, it has a limited effective range of ~1cm between the electrodes, which makes it difficult to transfect cells in a large area of tissues. Second, a surgical procedure is required to place the electrodes deep into the internal organs. Third, high voltage applied to tissues can result in irreversible tissue damage as a result of thermal heating (Durieux et al, 2004). Ca2+ influx due to disruption of cell membranes may induce tissue damage because of Ca2+-mediated protease activation (Gissel and Clausen, 2001). The possibility that the high voltage applied to cells could affect the stability of genomic DNA is an additional safety concern. However, some of these concerns may be resolvable by optimizing the design of electrodes, their spatial arrangement, the field strength, and the duration and frequency of electric pulses.
+
+
+1.3.2.3 Ultrasound-facilitated transfection
+The discovery that ultrasound can facilitate gene transfer at cellular (Kim et al, 1996) and tissue levels (Liang et al, 2004) expands the methodology of gene transfer by physical methods. A 10- to 20-fold enhancement of reporter gene expression over that of naked DNA has been achieved. Unlike electroporation, which moves DNA along the electric field, ultrasound creates membrane pores and facilitates intracellular gene transfer through passive diffusion of DNA across the membrane pores (Koch et al, 2000). The transfection efficiency of this system is determined by several factors, including the frequency, the output strength of the ultrasound applied, the duration of ultrasound treatment (Huber et al, 1999), and the amount of plasmid DNA used.
+
+Consequently, the size and local concentration of plasmid DNA play an important role in determining the transfection efficiency. Efforts to reduce DNA size for gene transfer by methods of standard molecular biology or through proper formulation could result in further improvement. Interestingly, significant enhancement has been reported in cell culture and in vivo when complexes of DNA and cationic lipids have been used (Anwer et al, 2000). Since ultrasound can penetrate soft tissue and be applied to a specific area, it could become an ideal method for noninvasive gene transfer into cells of the internal organs. Evidence supporting this possibility has been presented: in one study, plasmid DNA was co-administered with a contrast agent to blood circulation, and this was followed by ultrasound treatment of a selected tissue (Unger et al, 2001). So far, the major problem for ultrasound-facilitated gene delivery is low gene delivery efficiency.
+
+1.3.2.4 Hydrodynamic transfection
+Hydrodynamic gene delivery is a simple method that introduces naked plasmid DNA into cells in highly perfused internal organs, such as the liver, with an impressive efficiency (Liu et al, 1999). This simple, reproducible, and highly efficient method for gene delivery has been used to express proteins of therapeutic value such as hemophilia factors (Miao et al, 2003), alpha-1 antitrypsin (Alino et al, 2003), cytokines (Jiang et al, 2001), hepatic growth factors (Yang et al, 2001), and erythropoietin (Maruyama et al, 2004) in mouse and rat models. Depending on the plasmid construct and the regulatory elements driving expression of the transgene, the level of gene expression in some cases has reached or exceeded the physiological level.
+
+1.3.3 Transfection by chemical methods
+By far the most frequently studied strategy for nonviral gene delivery is the formulation of DNA into condensed particles by using cationic lipids or cationic polymers. The DNA containing particles are subsequently taken up by cells via endocytosis, macropinocytosis, or phagocytosis in the form of intracellular vesicles, from which a small fraction of the DNA is released into the cytoplasm and migrates into the nucleus, where transgene expression takes place.
+
+1.3.3.1 Cationic lipid-mediated transfectionSince 1987, it was first reported that a double chain monovalent quaternary ammonium lipid, N-[1-(2,3-dioleyloxy)propyl]-N,N,N-trimethylammonium chloride, effectively binds and delivers DNA to cultured cells (Felgner et al, 1987), hundreds of new cationic lipids have been developed. These lipids differ by the number of charges in their hydrophilic head group and by the detailed structure of their hydrophobic moiety. Although some cationic lipids alone exhibit good transfection activity, they are often formulated with a noncharged phospholipid or cholesterol as a helper lipid to form liposomes. Upon mixing with cationic liposomes, plasmid DNA is condensed into small quasi-stable particles called lipoplexes. DNA in lipoplexes is well protected from nuclease degradation. Lipoplexes are able to trigger cellular uptake and facilitate the release of DNA from the intracellular vesicles before reaching destructive lysosomal compartments.
+
+Most of our understanding of lipid-mediated gene delivery derives from characterization work on lipoplexes prepared in low-salt solution and transfection tests on cells in the absence of interfering substances such as serum. Under these conditions, the transfection efficiency of lipoplexes is affected by (1) the chemical structure of the cationic lipid, (2) the charge ratio between the cationic lipid and the DNA, (3) the structure and proportion of the helper lipid in the complexes, (4) the size and structure of the liposomes, (5) the total amount of the lipoplexes applied, and (6) the cell type. The first 4 factors determine the structure, charge property, and transfection activity of the lipoplexes. The remaining 2 define the overall toxicity to the treated cells, and the susceptibility of the cells to a particular lipid-based transfection reagent. The chemical structure of the cationic lipid has a major impact on the transfection efficiency. In general, multivalent lipids with long and unsaturated hydrocarbon chains tend to be more efficient than monovalent cationic lipids with the same hydrophobic chains. Transfection typically requires that the cationic lipid be in slight excess over DNA such that the lipoplexes have net positive charges on the surface. Spontaneous lipid mixing in endosomes becomes more profound when a non-bilayer-forming lipid such as dioleoylphosphatidylethanolamine (DOPE) is used as the helper lipid, rather than a bilayer-forming lipid, dioleoylphosphatidylcholine. Inclusion of DOPE is believed to increase membrane fluidity and facilitate lipid exchange and membrane fusion between lipoplexes and the endosomal membrane.
+
+Lipoplexes form spontaneously when cationic liposomes are mixed with DNA. The process involves an initial rapid association of polycationic liposomes and polyanionic DNA through electrostatic interaction, followed by a slower lipid rearrangement process (Pedroso et al, 2001). The structure of lipoplexes is influenced by multiple factors, including the charge ratio, the concentration of individual lipids and DNA, the structure of the cationic lipid and the helper lipid, the physical aggregation state of the lipids (multilamellar or unilamellar liposomes, or micelles), the salt concentration, and the method of preparation. Lipoplexes come in various forms, including fully condensed lipid/DNA complexes, partially condensed lipid/DNA complexes, DNA sandwiched between cationic lipid bilayers, lipid-coated DNA arranged in a hexagonal lattice, or partially condensed DNA surrounded by a lipid bilayer (Lin et al, 2003). The simplest way to prepare lipoplexes is to mix diluted solutions of plasmid DNA and preformed liposomes. The resulting lipoplexes are generally heterogeneous in size and morphology. The heterogeneity is primarily due to the relatively large sizes of DNA and liposomes, and the multivariant nature of the interaction between the DNA and liposomes. Alternative methods involving forms of lipid assembly other than liposomes have been designed to overcome these problems. For example, direct addition of DNA solution to a dried film of cationic lipid and DOPE promotes entrapment of DNA within multilamellar liposomes, rather than sandwiching of DNA between liposomes.
+
+
+Toxicity related to gene transfer by lipoplexes has been observed. Acute inflammation reactions have been reported in animals treated with airway instillation or intravenous injection of lipoplexes. Detailed toxicological studies on one of the Genzyme Lipid formulations, GL-67/DOPE, revealed that the cationic lipid contributes significantly to the toxicity observed (Ruiz et al, 2001). Similar toxic effects are also noticeable in systemic gene delivery via the tail vein with other types of cationic lipids. Symptoms include acute pulmonary hypotension, induction of inflammatory cytokines, tissue infiltration of neutrophils in lungs, decrease in white cell counts, and in some cases tissue injury in liver and spleen (Yew and Scheule, 2005). In humans, various degrees of adverse inflammatory reactions, including flu like symptoms with fever and airway inflammation, were noted among subjects who received aerosolized GL67 liposomes alone or lipoplexes. These early clinical data suggested that these lipoplexes formulations are inadequate for use in humans.
+
+1.3.3.2 Transfection mediated by cationic polymer
+Synthetic and naturally occurring cationic polymers constitute another category of DNA carriers that have been used widely for gene delivery. Over the years, a significant number of cationic polymers in linear or branched configuration have been explored as carriers for in vitro and in vivo gene delivery. These include polyethylenimine (PEI) (Chemin et al, 1998), polyamidoamine (Rudolph et al, 2000) and polypropylamine dendrimers (Schatzlein et al, 2005), polyallylamine, cationic dextran (Hosseinkhaini et al, 2004), chitosan, cationic proteins (polylysine, protamine, and histones), and cationic peptides (Park et al, 2003). Although most cationic polymers share the function of condensing DNA into small particles and facilitating cellular uptake via endocytosis through charge-charge interaction with anionic sites on cell surfaces, their transfection activity and toxicity differ dramatically. One drawback in the use of PEI as a transfection reagent relates to its nonbiodegradable nature (Fischer et al, 2003).
+
+1.3.3.3 Transfection by lipid-polymer hybrid system
+The reported lipid-polymer hybrid systems include DNA precondensed with polycations, then coated with either cationic liposomes, anionic liposomes, or amphiphilic polymers with or without helper lipids (Lee et al, 2006).
+
+When anionic, DOPE-rich liposomes are added to DNA-polycation complexes, an extensive reorganization of the lipid membranes takes place following the initial contact, resulting in lipid-polymer-DNA complexes with anionic lipid coatings. This strategy overcomes the surface charge issue associated with cationic lipid-polymer-DNA complexes. The cytotoxicity of the complexes is reduced, making the receptor-mediated targeting possible without interference of nonspecific charge-charge interaction.
+
+1.4 293FT cell lines
+Human Embryonic Kidney cells, also known as HEK cells, HEK 293 or just 293 cells, are a cell line originally derived, as their name indicates, from embryonic human kidney. HEK cells are very easy to grow and transfect very readily and so are widely-used in cell biology research. They are also used by biotechnology industry to produce therapeutic proteins and viruses for gene therapy.
+
+1.4.1 Origins of 293 cells
+293 cells were generated by transformation of cultures of normal human embryonic kidney cells with sheared adenovirus 5 DNA in the laboratory of Alex Van der Eb in Leiden, Holland in the early 1970s. They are called HEK for human embryonic kidney, while the number 293 roots from numbering of experimentsIn 1977, Frank Graham and coworkers at McMaster University successfully transformed primary human embryo kidney (HEK) cells with DNA from human adenovirus type 5 (HAd5), using a calcium phosphate precipitation technique. The viral DNA was prepared by repeatedly forcing a solution of it through a 22 gauge needle, which effectively sheared it into small fragments, later to be incorporated by the HEK cells. Two of 8 studies, each averaging 20 HEK cultures, produced successfully transformed HEK cells. In these two experiments, after one month of exposure to the viral DNA fragments, a single morphologically transformed colony appeared in one culture (Graham et al, 1977).
+
+Isolation of the transformed colonies proved difficult. After approximately 75 days, however, a few morphologically transformed cells were observed. These were selected by reducing the serum content of the culture from 10% to 2% for several weeks. Once the transformed cells were established, at about passage 6, the serum content was returned to 10%. Then followed a crisis phase, which lasted over 3 months, during which the cells growth rate declined substantially. This phase continued until passage 16 when a sharp decrease in population doubling time occurred. This phenomenon also occurred in sublines that had been frozen at passage 6. Following the establishment of the HEK 293 line, cells were maintained in Eagle medium supplemented with 10% calf serum and tryptose phosphate broth, and have been subcultured for over 100 passages.
+
+The process of transformation using sheared HAd5 DNA makes the HEK 293 line very sensitive to human adenovirus, and permissive to adenovirus DNA. Adenoviruses which have traditionally been difficult to cultivate and assay (e.g., human Ads 40 and 41) are more readily cultivated using HEK 293 cells. This high susceptibility is probably due to the fact that HEK 293 cells constitutively express HAd5-specific E1 proteins.
+
+Subsequent analysis has shown that the transformation was brought about by an insert consisting of -4.5 kilo bases from the left arm of the viral genome, which became incorporated into human chromosome 19 (Louis et al, 1997).
+
+For many years it was assumed that HEK 293 cells were generated by transformation of either a fibroblastic, endothelial or epithelial cell all of which are abundant in kidney. However the fact that the cells originated from cultured kidney cells does not clearly indicate the exact cellular origin of the HEK 293, as embryonic kidney cultures may contain small numbers of almost all cell types of the body. In fact Graham and coworkers more recently provided evidence that HEK 293 cells and several other human cell lines generated by adenovirus transformation of human embryonic kidney cells have many properties of immature neurons, suggesting that the adenovirus was taken up and transformed a neuronal lineage cell in the original kidney culture (Shaw et al, 2002).
+
+1.4.2 Applications of 293 cells
+As an experimentally transformed cell line, HEK cells are not a particularly good model for normal cells, cancer cells, or any other kind of cell that is a fundamental object of research. However, they are extremely easy to work with, being straightforward to culture and to transfect, and so can be used in experiments in which the behaviour of the cell itself is not of interest. Typically, these experiments involve transfection in a gene (or combination of genes) of interest, and then analyzing the expressed protein; essentially, the cell is used simply as a test tube with a membrane. The widespread use of this cell line is due to its extreme transfectability by the calcium phosphate method, achieving efficiencies approaching 100% as determined by FACS using a 2 x PBS buffer. A lower efficiency might be achievable with an HBS buffer.
+
+An important variant of this cell line is the 293T cell line that contains, in addition, the SV40 large T antigen, that allows for episomal replication of transfected plasmids containing the SV40 origin of replication. This allows for amplification of transfected plasmids and extended temporal expression of the desired gene products. Note that any similarly domesticated cell line can be used for this fort of work; Hela, COS and Chinese Hamster Ovary cell are common alternatives. Examples of such experiments include: A study of the effects of drug on sodium channels; testing of an inducible RNAi system; testing of an isoform-selective protein kinase C agonist; investigation of the interaction between two proteins; analysis of a nuclear export signal in a protein (He et al, 1998).
+
+A more specific use of HEK cells is in the propagation of adenoviral vectors. Viruses offer an extremely efficient means of delivering genes into cells, since this is what they have evolved to do, and are thus of great use as experimental tools. However, as pathogens, they also present a degree of danger to the experimenter. This danger can be avoided by the use of viruses which lack key genes, and which are thus unable to replicate after entering a cell. In order to propagate such viral vectors, a cell line that expresses the missing genes is required. Since HEK cells express a number of adenoviral genes, they can be used to propagate adenoviral vectors in which these genes (typically, E1 and E3) are deleted, such as AdEasy. Another application of 293, especially 293T, cells is commonly used for the production of lentiviral and retroviral vectors. Various retroviral and lentiviral packaging cell lines are based on these cells.
+
+1.5 The aim of this study
+A major problem of the current discussion of osteoporosis arises from the fact that the age-related increase of adipose tissues in bone marrow and the simultaneous decrease of osteoblasts may contribute to bone-associated diseases like osteoporosis and osteopenia. Besides the possibility of a decreased capability of human mesenchymal stem cells (hMSCs), the multipotential cells that can differentiate into osteoblasts and adipocytes, to differentiate into osteoblasts, transdifferentiation of committed osteoblasts into adipocytes could at least partly account for the age-related shift towards adipogenic degeneration. In this process, we want to know which gene or genes may contribute to the age-related expansion of adipose tissue in human bone marrow.
+
+In our laboratory, a cell culture system of human mesenchymal stem cells was established that allows not only for osteogenic and adipogenic differentiation but also for transdifferentiation of committed precursors and/or differentiated cells between both cell lineages (Schilling et al, 2007a). Comparing transdifferentiated adipocytes with committed osteoblasts and vice versa by microarray analyses revealed a large number of regulated transcripts, many of them associated with signal transduction, metabolism, and transcription but mostly distinct from established inducing factors of normal adipogenic and osteogenic differentiation, respectively (Schilling et al., 2007a and 2007b). Some of selected genes were analyzed by RT-PCR which comfirmed the data of the microarray analyses.
+
+Furthermore, it was noticed that mRNA species that are regulated during the initiation of transdifferentiation could represent possible control factors for the
+transdifferentiation process. Microarray analyses comparing transdifferentiated human mesenchymal stem cells with normally differentiated human mesenchymal stem cells exhibited large numbers of reproducibly regulated genes for both, adipogenic and osteogenic transdifferentiation. In order to evaluate the relevance of individual genes, our laboratory designed a scoring scheme to rank genes according to reproducibility, regulation level, and reciprocity between the different transdifferentiation directions. Therefore, members of several signaling pathways like FGF, IGF, and Wnt signaling showed explicitly differential and reciprocal expression patterns. Additional bioinformatic analyses of microarray data allowed us to identify potential key factors associated with transdifferentiation of adipocytes and osteoblasts, respectively (Schilling et al, 2007b).
+
+In general, the aim of this study was to: (1) develop a strategy of work (2) select gene products to be targeted by shRNA; (3) select shRNA clones; (4) establish PCR for targeted genes; (5) perform shRNA knockdown approach;
+(6) analyze the silencing effect by RT-PCR.
+
+2.Materials
+2.1 shRNA bacterial glycerol stocks
+Fig. 2. Map for the pLKO.1 lentiviral vector. It derives from pRRLSIN.cPPT.PGK/GFP/WRPE and contains elements for efficient viral packaging and shRNA expression. These include Ψ, the lentiviral packaging site; RRE, the Rev-responsive element; cPPT. RSV/5'LTR is a hybrid of the Rous Sarcoma virus promoter and the HIV 5'LTR. SIN 3'LTR is the HIV 3'LTR with a self-inactivating U3 deletion. Expression of the shRNA is driven by the human U6 promoter (hU6). The lentiviral vector also contains the mammalian selection marker puromycin resistance gene (PAC) under the control of the PGK promoter as a mammalian selection marker. pUCori is the bacterial origin of replication of the plasmid, F1 ori is the single-stranded phage F1 origin of replication, and AmpR is the ampicillin resistance gene.
+
+shRNA bacterial glycerol stocks were purchased from SIGMA (Munich, Germany) and stored in a -80℃ refrigerator. Each shRNA clone is constructed within the lentivirus plasmid vector pLKO.1-Puro (Stewart et al, 2003; Moffat et al, 2006; Root et al, 2006) followed by transformation into Escherichia coli. The pLKO.1-Puro vector backbone (Fig. 2), as a self-inactivating lentiviral vector, derives from pRRLSIN.cPPT.PGK/GFP/WRPE and contains elements for efficient viral packaging and shRNA expression.
+
+2.2 Cell line
+The human embryonic kidney 293FT (HEK293FT) cell line was purchased from Invitrogen™ (Karlsruhe, Germany) and was stored in liquid nitrogen. Cells were thawed in prewarmed, complete medium, which was replaced every 2-3 days and consisted of DMEM (high glucose) supplemented with 2mM L-glutamine, 10％ heat inactivated FBS, 1U/ml penicillin, 100µg/ml streptomycin, 0.1mM MEM non-essential amino acids, according to manufacturer’s instructions. At above 80% confluence, cells were subcultured after exposure to trypsin/EDTA. Viability and cell density was determined by trypan blue stain (0.4%). The splitting ratio was 1:10.
+
+2.3 Chemicals
+Yeast extractSigma Aldrich GmbH, Munich, GermanyTryptoneSigma Aldrich GmbH, Munich, GermanyNaClSigma Aldrich GmbH, Munich, GermanyAgaroseSigma Aldrich GmbH, Munich, GermanyNaOHSigma Aldrich GmbH, Munich, GermanyAmpicillinPAA, Cölbe, GermanyNaAc anhydrateSigma Aldrich GmbH, Munich, Germany100% EthanolAppliChem, GmbH, GermanyHPLC-H2OAppliChem, GmbH, GermanyBoric acidSigma Aldrich GmbH, Munich, GermanyEDTAAppliChem, GmbH, Germany Glycerol (absolute)AppliChem, GmbH, GermanyBromophenol blueSigma Aldrich GmbH, Munich, GermanyXylene cyanoleSigma Aldrich GmbH, Munich, Germany2.4 Experimental KitsNucleoSpin® Plasmid Mini Kit Düren, GermanyNucleoSpin® Plasmid Midi Kit Düren, GermanyBig Dye Terminator v1.1 Cycle Sequencing KitApplied Biosystems,Darmstadt, Germany  NucleoSEQ Kit Düren, GermanyHiSpeed Plasmid Midi and Maxi Kit Qiagen, Hilden, GermanyNucleoSpin® RNA Ⅱ Mini Kit Düren, GermanyTurboGFP vectorSigma Aldrich GmbH, Munich, GermanyPECLAB KitPECLAB Biotechnology GmbH, Germany2.5 ReagentsTemplate Suppression Reagent (TSR)Applied Biosystems, Darmstadt,Germany  DMEM (high glucose) PAA, Cölbe, GermanyFBS Gibco, Karlsruhe, GermanyL-glutamine PAA, Cölbe, GermanyPenicillin/streptomycin PAA, Cölbe, GermanyMEM non-essential amino acids (NEAA)PAA, Cölbe, GermanyTrypan blue stain (0.4%)Sigma Aldrich GmbH, Munich, GermanyTrypsin/EDTA PAA, Cölbe, GermanyLipofectamine 2000 InvitrogenTM, Karlsruhe, GermanyRandom hexamers Bioline, Luckenwalde, Germanyβ- mercaptoethanol AppliChem, GmbH, Germany10x NH4 buffer Bioline, Luckenwalde, Germany dNTPs Bioline, Luckenwalde, GermanyTaq-polymerase (5000U/ml) Bioline, Luckenwalde, Germany50mM MgCl2 Bioline, Luckenwalde, Germany5x reaction buffer for cDNA synthesisBioline, Luckenwalde, GermanyBioScript reverse transcriptase (200U/µl)Bioline, Luckenwalde, Germany10% SDSSigma Aldrich GmbH, Munich, Germany3M Na-Acetate (store at room temperature)49.22g NaAc anhydrate Dissolve to 200ml distilled H2O. Adjust pH to 4.3 with 1N NaOH.
+
+Luria-Bertani (LB) Ampicillin liquid medium (store at 4℃)
+Dissolve the following in 800ml distilled H2O: 10g tryptone5g yeast extract10g NaClAdjust the pH to 7.0 with 1N NaOH.
+
+Adjust the volume to 1000ml with distilled H2O. Sterilize by autoclaving.
+
+Add 1µl ampicillin per 1ml LB medium.
+
+Luria-Bertani (LB) Ampicillin solid medium (store at 4℃)
+Dissolve the following in 800ml distilled H2O: 10g tryptone5g yeast extract10g NaCl15g agaroseAdjust the pH to 7.0 with 1N NaOH.
+
+Adjust the volume to 1000ml with distilled H2O. Sterilize by autoclaving.
+
+Add 1µl ampicillin per 1ml LB medium.
+
+Transfer medium to plate.
+
+293FT cell culture medium: DMEM (high glucose)PAA, Cölbe, Germany10% FBSGibco, Karlsruhe, Germany0.1mM MEM non-essential amino acids (NEAA)PAA, Cölbe, Germany6mM L-glutaminePAA, Cölbe, Germany1% Penicillin/streptomycinPAA, Cölbe, Germany10x TBE buffer (store at room temperature): Dissolve the following in 800ml distilled H2O: 108g Tris 55g Boric acid 9.05g EDTA Adjust the pH to 8.3 with 1N NaOH.
+
+Adjust the volume to 1000ml with distilled H2O.
+ 
+Sterilize by autoclaving.
+ 
+0.5x TBE buffer (store at room temperature): Dilute 10x TBE buffer 20-fold.
+
+10ml 10x loading dye (store at 4℃): Dissolve the following in 4ml distilled H2O: 3ml glycerol (absolute)
+2ml 0.5M EDTA pH 8.0 1ml 10% SDS5mg bromophenol blue 5mg xylene cyanole100bp DNA-ladder (100-3000bp)/ 1kb DNA-ladder (250-10000bp) (store at -20℃):100µl 100bp/ 1kb DNA-ladder Plus100µl 6x loading buffer (from PECLAB Kit)400µl 50nM EDTAAdjust pH to 8.0 with 1N NaOH.
+
+PCR master mix (1 reaction):
+  HPLC- H2O 21.9µl AppliChem, GmbH, Germany10x NH4 Buffer 3µlBioline, Luckenwalde, GermanydNTPs (10mM) 1µlBioline, Luckenwalde, Germany50mM MgCl2 1µlBioline, Luckenwalde, GermanyTaq-polymerase (5000U/ml) 0.1µlBioline, Luckenwalde, GermanyPrimer forward (5pmol/µl) 1µl Operon, Köln, GermanyPrimer reverse (5pmol/µl) 1µl Operon, Köln, GermanyTotal volume of master mix for 1 sample: 29µl.
+ 
+cDNA synthesis master mix (1 reaction): 5x reaction buffer 4µlBioline, Luckenwalde, GermanydNTPs (10mM) 1µlBioline, Luckenwalde, GermanyHPLC- H2O 2.75µl AppliChem, GmbH, GermanyBioScript reverse transcriptase (200U/µl) 0.25µlBioline, Luckenwalde,Germany  Total volume of master mix for 1 sample: 8µl.
+ 
+2.6 Primers
+All primer sequences were created using the online software at http://www.bioinformatics.nl/cgi-bin/primer3plus/primer3plus.cgi developed by the Whitehead Institute for Biomedical Research (Rozen and Skaletsky, 2000) (Table. 1). Primer oligo-nucleotides were purchased from Operon (Köln, Germany).
+
+2.7 Consumables
+Polypropylene round-bottom tubeFALCON®, NJ, USA6-well flat bottom culture plateGreiner-bio-one GmbH, Frickenhausen,Germany  75cm2 Carrel flask TPP®, Switzerland1.5ml Eppendorf centrifuge tubeEppendorf, Hamburg, Germany15ml conical tubeGreiner-bio-one GmbH, Frickenhausen, Germany50ml conical tubeGreiner-bio-one GmbH, Frickenhausen, GermanyCuvette Bio-Rad, USA10µl white tips Roth, Germany200µl yellow tips Roth, Germany1000µl blue tips Roth, Germany2ml single-use syringe B/BRAUN Melsungen AG, Germany5ml single-use syringe B/BRAUN Melsungen AG, Germany10ml single-use syringe B/BRAUN Melsungen AG, GermanyPCR tubesGreiner-bio-one GmbH, Frickenhausen, Germany2.8 Apparatus–20℃ RefrigeratorBOSCH, Germany–80℃ RefrigeratorBOSCH, Germany37℃ CO2 IncubatorHeraeus, GermanyWater bathLauda, GermanyCentrifugeHeraeus, GermanyLaminar flow cabinetHeraeus, GermanyShaking incubatorHeraeus, Germany PTC-200 Peltier thermal cyclerBiozym, Hessisch Oldendorf, GermanyUV spectrophotometry Eppendorf, Hamburg, GermanyDPU 414 THERMAL PRINTER Seiko Instruments Inc, JapanABI PRISM 310 Genetic AnalyzerApplied Biosystems, Darmstadt,GermanyFluorescence phase contrast microscopeZeiss, GermanyHeating block VWR, GermanyLTF Bio ID software LTF, Wasserburg, Germany 
+
+3. Methods 
+3.1 Culturing clonal cell linesThe E. coli were inoculated onto freshly prepared Luria-Bertani (LB) ampicillin medium plate by using a sterile loop. The plates were incubated into a humidified atmosphere for 15-20 hours at 37℃.
+
+A single E. coli colony was isolated from the plate using autoclaved tip to 5ml polypropylene round-bottom tube, which contained 1.5ml LB medium and 1.5µl ampicillin. E. coli colony was incubated at 37℃ with constant shaking (200-250 rpm) overnight.
+
+3.2 Purification and sequencing of plasmid DNA
+Plasmid DNA was purified by NucleoSpin® Plasmid Mini Kit according to the manufacturer’s protocol. With the NucleoSpin plasmid method, the pelleted bacteria were resuspended (buffer A1) and plasmid DNA was liberated from the E. coli host cells by SDS/alkaline lysis (buffer A2). The resulting lysate was neutralized and appropriate conditions for binding of plasmid DNA to the silica membrane of the NucleoSpin Plasmid QuickPure column by buffer A3 were created. SDS precipitated and cell debris was then pelleted by a centrifugation step, the supernatant was loaded onto the column. Contaminations like salts, metabolites, nucleases and soluble macromolecular cellular components were removed by only a single washing step with buffer AQ. Pure plasmid DNA was finally eluted under low ionic strength conditions with slightly alkaline buffer AE (5mM Tris-Cl, pH 8.5).
+
+To determine the nucleotide order in the plasmid, the sequence was analyzed using the Big Dye Terminator v1.1 Cycle Sequencing Kit and the ABI PRISM 310 Genetic Analyzer according to the manufacturer’s instructions. This method labeled the terminators instead of labeling the primer in the method of Sanger dideoxy chain termination. The major advantage of this approach is that the complete sequencing set can be performed in a single reaction, rather than four different reactions needed in the labeled-primer approach. The dye terminator method was accomplished by labeling each of the dideoxynucleotide chain-terminators with a separate fluorescent dye, which fluoresced at a different wavelength and was therefore easier to perform compared to the Sanger’s method.
+
+3.2.1 Mini-purification of plasmid DNA
+3.2.1.1 Cultivate and harvest bacterial cellsUsing 1.5ml of a saturated E. coli LB culture, cells were pelleted in a standard benchtop microcentrifuge for 30s at 11000x g. The supernatant was discarded carefully. As much of the supernatant as possible should be removed.
+
+3.2.1.2 Cell lysis
+250µl buffer A1 was added. The cell pellet was resuspended by vigorous vortexing. No cell clumps should remain in the suspension before the addition of buffer A2.
+
+250µl buffer A2 was added. Mix the pellet gently by inverting the tube 6-8 times. Do not vortex. The pellet was incubated at room temperature for a maximum of 5min. Do not vortex because chromosomal DNA might be released by mechanical shearing.
+
+300µl buffer A3 was added. Mix gently by inverting the tube 6-8 times. Do not vortex.
+
+3.2.1.3 Clarification of lysateThe lysate was centrifuged for 5min at 11000x g at room temperature.
+
+3.2.1.4 Bind DNA
+NucleoSpin Plasmid QuickPure column was placed in a 2ml collecting tube and the supernatant was loaded from the last step onto the column. The supernatant was centrifuged for 1min at 11000x g. The flow-through was discarded.
+
+3.2.1.5 Wash silica membrane
+NucleoSpin Plasmid QuickPure column was placed back into the 2ml collecting tube and 450µl buffer AQ was added. The column was centrifuged for 3min at 11000x g. The flow-through was discarded.
+
+3.2.1.6 Dry silica membrane
+The drying of the NucleoSpin Plasmid QuickPure column was performed by the 3min centrifugation in the last step.
+
+3.2.1.7 Elute and detect highly pure DNA
+The column was place in a 1.5ml Eppendorf tube and 50µl buffer AE was added. The column was incubated 1min at room temperature and was centrifuged for 1min at 11000x g.
+
+Plasmid yield was detected by using 4µl aliquotes plus 46µl HPLC-H2O by UV spectrophotometry with an A260/280 ratio approaching 2.0 that indicates the purity of the plasmid.
+
+3.2.2 Sequencing PCR
+DNA sequencing reaction was run by using a PTC-200 Peltier thermal cycler in a total volume of 20µl including 4µl Big Dye Terminator v1.1 Ready Reaction Mix; 2µl Big Dye Sequencing v1.1 buffer; 1µl primer LKO.1 (5’-GACTATCATATGCTTACCGT-3’) (5pmol/µl); 150-300ng DNA; HPLC- H2O, which plus the volume of DNA equals to 13µl. The sequencing reaction steps were as follows: 4min at 94℃, 24 cycles of 94℃ for 30s, 50℃ for 1min and 60℃ for 1min, with a final 72℃ step for 5min.
+
+3.2.3 Clean-up of sequencing-PCR products
+Clean-up of sequencing reaction products was performed by using the NucleoSEQ Kit. (1) Dried gel resin in NucleoSEQ column was spin down 30s at 3500rpm; (2)600µl HPLC- H2O was added and vortexed to hydrate the gel matrix. Air bubbles was removed by vortexing or tapping the column; (3) gel matrix was incubated at 4℃ or room temperature at least 30min; (4) the settled gel matrix was resuspended by inverting of vortexing the spin column several times. Air bubbles should not be visible; (6) the column was cut closure at the bottom and spun 2min at 3500rpm, collection vial was discarded; (7) column was place onto an Eppendorf tube; (8)20µl Seq-PCR products were carefully loaded drop-wise onto the center of the gel resin,; (9) the sample was eluted by centrifuging the column for 5min at 3500rpm, the column was discarded, sample was dried or used directly.
+
+3.2.4 Ethanol precipitation
+Ethanol precipitation steps of the sequencing reaction products were as follows: (1) 3µl 3M Na-Acetate and 80µl 100％ ethanol was added, vortexed briefly and incubated 15min at room temperature; (2) the products were spun 20min at 13000rpm, supernatant was discarded and then 250µl 70％ ethanol was added and vortexed briefly; (3) the products were spun 10min at 13000rpm, supernatant was spun as above and the DNA pellet was dried for at least 10min; (4) 15µl TSR was added to the dried pellet; (5) the DNA was denatured in PTC-200 Peltier thermal cycler at 94℃ for 4min and then the products was placed on ice for 3min and was spun about 10s at 6000rpm.
+
+3.2.5 Sequencing samples in sequencerThe samples were placed in the ABI PRISM 310 Genetic Analyzer and the analysis of the sequencing reaction was performed according to the manufacturer.
+
+3.2.6 Clarify the target gene
+The sequences were checked at: www.sigma-aldrich.com/missionsearch using RefSeq accession numbers to identify the correct sequence of the insert of every shRNA clone.
+
+3.2.7 Midi-purification of plasmid DNA
+Validated plasmid DNA was purified by HiSpeed Plasmid Midi and Maxi Kit according to the manufacturer’s instructions for further transfection. The Midi plasmid purification protocols were based on a modified alkaline lysis procedure, followed by binding of plasmid DNA to Anion-Exchange Resin under appropriate low-salt and pH conditions. RNA, proteins, dyes, and low-molecular-weight impurities were removed by a medium-salt wash. Plasmid DNA was eluted in a high salt buffer and then concentrated and desalted by isopropanol precipitation.
+
+3.2.7.1 Cultivate and harvest bacterial cells
+A single colony was picked from a freshly streaked selective LB plate and used to inoculate a starter culture of 2-5 ml LB medium containing the selective antibiotic (ampicillin). The culture was incubated for approx. 8 h at 37°C with vigorous shaking (300 rpm). Then the starter culture was diluted 1/500 to 1/1000 into 50 ml selective LB medium and grown at 37°C for 12-16h with vigorous shaking (300 rpm). The culture should reach a cell density of approximately 3-4 x 109 cells per milliliter, which typically corresponds to a pellet wet weight of approximately 3g/liter. The bacterial cells were harvested by centrifugation at 6000 x g for 15 min at 4°C. All traces of supernatant were removed by inverting the open centrifuge tube until all medium has been drained.
+
+3.2.7.2 Cell lysis
+The bacterial pellet was resuspended in 6ml buffer P1, to which RNase A was added. For efficient lysis to occur it was important to use a vessel that was large enough to allow complete mixing of the lysis buffers. The bacteria should be resuspended completely by vortexing or pipetting up and down until no cell clumps remain. 6 ml or Buffer P2 was added, mixed thoroughly by vigorously inverting the sealed tube 4-6 times and incubated at room temperature for 5 min. The mixture should not be vortexed, as this would result in shearing of genomic DNA. The lysate should appear viscous. The lysis reaction should not proceed for more than 5 min.
+
+During the incubation the QIAfilter Cartridge was prepared: The cap was screwed onto the outlet nozzle of the QIAfilter Midi Cartridge. The QIAfilter Cartridge was placed into a convenient tube.
+
+
+3.2.7.3 Clarification of lysate
+6 ml or chilled Buffer P3 was added to the lysate, mixed immediately and thoroughly by vigorously inverting the tube 4-6 times. The lysate should not be incubated on ice.
+
+After addition of Buffer P3, a fluffy white precipitate containing genomic DNA, proteins, cell debris, and KDS became visible. The buffers must be mixed completely. If the mixture appeared still viscous and brownish, more mixing was required to completely neutralize the solution. It was important to transfer the lysate into the QIAfilter Cartridge immediately in order to prevent later disruption of the precipitate layer. The lysate was incubated at room temperature for 10 min. This 10 min incubation at room temperature was essential for optimal performance of the QIAfilter Cartridge. Do not agitate the QIAfilter Cartridge during this time. A precipitate containing proteins, genomic DNA, and detergent would float and form a layer on top of the solution. This ensured convenient filtration without clogging.
+
+A HiSpeed Midi or Tip was equilibrated by applying 4 ml Buffer QBT and the column was allowed to empty by gravity flow. Flow of buffer will begin automatically by reduction in surface tension due to the presence of detergent in the equilibration buffer. The HiSpeed Tip was allowed to drain completely.
+
+The cap was removed from the QIAfilter outlet nozzle. The plunger was gently inserted into the QIAfilter Midi Cartridge and the cell lysate was filtered into the previously equilibrated HiSpeed Tip until all of the lysate has passed through the QIAfilter Cartridge, but did not apply extreme force. Approximately 15 ml of the lysate was generally recovered after filtration.
+
+3.2.7.4 Bind and wash DNA
+The cleared lysate was allowed to enter the resin by gravity flow. The HiSpeed Midi Tip was washed with 20 ml or Buffer QC. Buffer QC was allowed to move through the HiSpeed Tip by gravity flow.
+
+3.2.7.5 Elute and precipitate DNA
+The DNA was eluted by 5 ml or Buffer QF. The eluate was collected in a 15ml conical tube. The DNA was precipitated by adding 3.5 ml room temperature isopropanol to the eluted DNA and was mixed and incubated at room temperature for 5 min. All solutions should be at room temperature in order to minimize salt precipitation. During the incubation the plunger was removed from a 20 ml syringe and the QIAprecipitator Midi Module was attached onto the outlet nozzle. The QIAprecipitator was placed over a waste bottle, the eluate/isopropanol mixture was transfered into the 20 ml syringe, and the plunger was inserted. The eluate/isopropanol mixture was filtered through the QIAprecipitator using constant pressure. The QIAprecipitator was removed from the 20 ml and the plunger was pulled out. The QIAprecipitator was reattached and 2 ml 70% ethanol was added to the syringe. The DNA was washed by inserting the plunger and pressing the ethanol through the QIAprecipitator using constant pressure. Then the QIAprecipitator was removed from the 20 ml syringe and the plunger was pulled out. The QIAprecipitator was attached to the 20 ml syringe again, the plunger was inserted, and the membrane was dried by pressing air through the QIAprecipitator quickly and forcefully. Repeat this step.
+
+The outlet nozzle of the QIAprecipitator was dried with absorbent paper to prevent ethanol carryover. The plunger was removed from a new 5 ml syringe and the QIAprecipitator was attached onto the outlet nozzle. The outlet of the QIAprecipitator was held over a 1.5 ml collection tube. 1 ml of Buffer TE was added to the 5 ml syringe. The plunger was inserted and the DNA was eluted into the collection tube using constant pressure.
+
+Plasmid yield was detected by using 4µl probes plus 46µl HPLC-H2O by UV spectrophotometry with A260/280 ratio, indicating the purity of plasmid.
+
+3.3 Culture 293FT cells
+3.3.1 Thawing and culture cells293FT cells were stored in liquid nitrogen and were thawed quickly in a 37℃ water bath. Just before the cells were completely thawed, the outside of the vial was decontaminated with 70% ethanol. Subsequently, the cells were transfered to a sterile 15ml tube containing PBS. The cells were briefly centrifuged at 150-200x g and resuspended in 2ml complete medium without antibiotic. Then cells were transferred to T-75cm2 flask containing 10ml prewarmed, complete medium. The cells were incubated overnight at 37℃ for allowing the cells to attach to the bottom of the flask. The next day, the medium was aspirated off and was replaced with fresh, complete medium, which was replaced every 2-3 days. Since L-glutamine slowly decays over time, the complete medium needs to be supplemented with 2mM L-glutamine. This ensured that the concentration of L-glutamine in complete medium will not get too low over time due to its slow degradation.
+
+3.3.2 Subculturing cells
+At about 80-90％ confluence, cell density should be above 5 x 105, cells were subcultured after exposure to trypsin/EDTA. Viability and cell density was determined by trypan blue stain (0.4%).
+
+3.3.2.1 Determining viability and cell density
+The surface of hemocytometer chamber and cover lip were cleaned with 70% ethanol carefully. The coverlip was breathed to humidify and was placed on the chamber plate, so called Newton rings should become visible and cover lip needs to fit well. 50µl cells was incubated in the 50µl 0.4% trypan blue solution (final concentration: 0.2%) for 1-2minutes. 10µl of this suspension was pipetted to the chamber and the chamber was placed under the phase contrast microscope, 10x objective focus was used. Living cells were counted in 4 large squares and the viability was calculated: Cells/ml = (sum of living cells/ numbers of large squares) x 104x 2. Cells viability should be at least 95% for healthy log-phase cultures.
+
+3.3.2.2 Subculturing cells
+All medium was removed from the flask and the cells were washed once with 10ml PBS to remove excess medium and serum. 2ml of trypsin/EDTA solution was added to the monolayer and incubated 1-5min at room temperature until cells detach. The cells were checked under a microscope and it was confirmed that most of cells have detached. Viable and total cells were determined and cells were seeded at the density 2-5x 104 /cm2.
+
+3.4 RNAi transfection by Lipofectamine 2000
+Before transfection, the subcultured cells should be at passage 10 or lower. Complexes were preparered using a DNA (µg) to Lipofectamine™ 2000 (µl) ratio of 1:2 to 1:3 for cell lines.
+
+One day before transfection, 0.5-2x 105 cells in 2ml of growth medium without antibiotics were plated per 6-well plate so that cells will be 90-95% confluent at the time of transfection. For each transfection sample, complexes were prepared as follows: Dilute 4µg DNA in 250µl DMEM (high glucose) without serum. Mix gently. Mix Lipofectamine™ 2000 gently before use, then dilute it 10µl in 250µl DMEM (high glucose). Incubate for 5 minutes at room temperature. After the 5 minute incubation, combine the diluted DNA with diluted Lipofectamine™ 2000 (total volume = 500µl). Mix gently and incubate for 20 minutes at room temperature (solution may appear cloudy). Add the 500µl of complexes to each well containing cells and medium. Mix gently by rocking the plate back and forth. Incubate cells at 37°C in a CO2 incubator for 18-48 hours prior to testing for transgene expression.
+
+The TurboGFP Control Vector was used as a positive transfection control and untreated cells, that provided a reference point for comparing all other samples, were employed as negative control.
+
+3.5 Total RNA isolation and reverse transcriptase polymerase chain reaction (RT-PCR)
+3.5.1 Total RNA isolationTotal cellular RNA was isolated from cells that underwent transfection and controls, which were obtained from confluent untransfected cells, at the time of 2, 4, 6 days after transfection respectively, by using the NucleoSpin® RNAⅡMini Kit. One of the most important aspects in the isolation of RNA is to prevent the degradation of RNA during the isolation procedure. With the NucleoSpin RNA methods, cells are lysed by incubation in a solution containing large amounts of chaotropic ions. This lysis buffer immediately inactivated RNases – which are present in virtually all biological materials – and created appropriate binding conditions which favored the adsorption of RNA to the silica membrane. Contaminating DNA, which was also bound to the silica membrane, was removed by an rDNase solution which was directly applied onto the silica membrane during the preparation. Simple washing steps with two different buffers removed salts, metabolites and macromolecular cellular components. Pure RNA was finally eluted under low ionic strength conditions with RNase-free water. The purity of RNA was analyzed by using 2µl probes plus 48µl HPLC-H2O by UV spectrophotometry.
+
+350µl buffer RA1 and 3.5µl β-mercaptoethanol were added to the cell pellet or to ground tissue and vortexed vigorously. Viscosity and the lysate were removed and cleared by filtration through NucleoSpin Filter units: NucleoSpin® Filter units (violet ring) were placed in a collecting tube, the mixture and centrifuge were applied for 1 min at 11,000 x g. In case of visible pellet formation (depending on sample amount and nature) the supernatant was transferred without any formed pellet to a new 1.5 ml centrifuge tube. The Filter unit was discarded and 350µl ethanol (70%) was added to the homogenized lysate and mixed by pipetting up and down (5 times). For each preparation, one NucleoSpin RNA II column (light blue ring) was placed in a 2 ml centrifuge tube. Lysate was pipetted up and down 2-3 times and the lysate was loaded to the column and centrifuged for 30 s at 11,000x g. The column then was placed in a new collecting tube. 350µl MDB (Membrane Desalting Buffer) was added and centrifuged at 11,000 x g for 1 min to dry the membrane. 95µl DNase reaction mixture was applied directly onto the center of the silica membrane of the column and incubated at room temperature for 15 min. 200µl buffer RA2 was added to the NucleoSpin RNA II column and centrifuged for 30 s at 11,000x g. The column was then placed into a new collecting tube. 600µl buffer RA3 was added to the column centrifuged for 30s at 11,000 x g. Flowthrough was discarded and the column was placed back into the collecting tube. 250 µl buffer RA3 was added to the column and centrifuged for 2 min at 11,000 x g to dry the membrane completely. The column was then placed into a nucleasefree 1.5 ml microcentrifuge tube. The RNA was eluted in 60µl RNase-free H2O and centrifuged at 11,000 x g for 1 min.
+
+3.5.2 cDNA synthesis
+cDNA was synthesized from identical amounts of 1µg total RNA using BioScript reverse transcriptase and random hexamers according to the manufacturer's instructions.
+
+Appropriate volume of HPLC- H2O was pipetted into autoclaved 1.5ml Eppendorf tubes. RNA-suspension was added, RNA plus water should be exactly 11µl. 1µl (1µg/µl) random hexamers were added per reaction. The tubes should be placed into a heating block at 70℃ for 5min then on ice for
+5min, spun briefly. For 1 sample, 4µl 5x reaction buffer, 1µl 10mM dNTPs, 2.75µl HPLC- H2O, 0.25µl 200U/µl BioScript reverse transcriptase were added respectively. Samples were placed at room temperature for 10min then in a heating block at 42℃ for 60min then place at 70℃ for 10min andcentrifuged briefly and 30µl HPLC- H2O was added.
+
+3.5.3 PCR
+PCR reactions were run in a volume of 30µl containing 1µl cDNA for the house keeping gene eukaryotic translation elongation factor 1 alpha (EF 1ɑ) applying 35-45 amplification cycles (Schütze et al., 2005b). For each sample, the PCR reaction master mix consisted of 0.5 units BIOTAQ DNA polymerase, 1mM NH4 reaction buffer with 1.7mM MgCl2, 0.3mM dNTPs, 5pmol forward and 5pmol reverse primer plus 1µl cDNA. PCR reaction steps were as follows: 3min at 94℃, 35-45cycles of 94℃ for 30s, 48-60℃ for 1min and 72℃ for 1min, with a final 72℃ step for 5min.
+
+3.6 Gel electrophoresis and densitometry
+3.6.1 Gel electrophoresisThe appropriate percent content of agarose in the gel depends on the size of the PCR-products that were to be separated in gel electrophoresis.
+
+Appropriate amount of agarose was weighted in Erlenmeyer flask and 100ml or 50ml of 0.5% TBE-buffer was added. Agarose was then heated in a microwave oven until the agarose was completely dissolved. 5µl ethidiumbromide per 100ml was added to gel solution. The gel was poured and a comb was inserted. After 30min, when the gel hardened it was placed into an electrophoresis chamber and the comb was removed.
+
+Then 1.5µl of 10% DNA-loading-dye and 10µl PCR-products were placed into an eppendorf tube. 10µl of sample was pipetted into each slot of the gel and 5µl DNA-ladder was added into one of the slot. Gel running conditions: 145V for about 45min.
+
+PCR-bands were monitored and semiquantitatively analyzed using the LTF BioCaptMW software (LTF, Wasserburg, Germany).
+
+3.6.2 Densitometry
+Densitometry is the quantitative measurement of optical density in light-sensitive materials, such as photographic film, due to exposure to light. Optical density is a result of the darkness of a developed picture and can be expressed absolutely as the number of dark spots (i.e., silver nitrate grains in developed films) in a given area. PCR product intensities densitometry was performed using an LTFdensitometer and the bioprofile software (LTF, Wasserburg, Germany)
+
+4.Results 
+4.1 Strategy of workThe goal of the project was to establish knock down of mRNA in human mesenchymal stem cells. Since these cells are difficult to transfect, a viral approach is needed to achieve sufficient expression of e. g. shRNA in a high percentage of cells to allow for an efficient silencing of corresponding mRNAs. For this purpose for every gene product of interest, a number of shRNA clones have to be tested to detect an individual shRNA with sufficient efficacy.
+
+Lentiviral systems for shRNA approaches have recently become available. The principal advantage of the lentiviral system is that it allows gene silencing in nondividing cells and therefore expands the usefulness of the RNAi-based gene silencing system. Lentivirus-delivered shRNAs are capable of specific, highly stable and functional silencing of gene expression in a variety of cell types.
+
+The MISSION-consortium (in association with Sigma Inc.) was established with the goal to silence every human and mouse mRNA by a lentiviral shRNA strategy and to provide the individual clones to the academic community at a reduced rate. It was claimed that MISSION™ shRNAs are expressed within the cell from a plasmid and serve as potent gene silencing agents that allow for long-term gene knockdown. The plasmids expressing the shRNAs can be used either directly for transfection to achieve transient gene knock-down or as lentiviral particles after transfection of 293 cells along with packaging and envelope plasmids for long-term experiments by integration into the host genome. Features of the MISSION shRNA-clones are: (1) easy - avoid handling of RNAs and Dicer treatment; (2) comprehensive, average of 3-5 shRNA constructs per target gene; (3) economical, vector-based system provides a renewable resource compared to siRNA; (4) flexible, transient or stable silencing (puromycin selection) for long term expression or phenotypic studies; (5) solutions, lentiviral system for transduction of difficult cell lines (non-dividing cells and primary cells); (6) quality, all clones are sequence verified; (7) controls provides in parallel (GFP, scrambled shRNA etc).
+
+Since the viral transfection of MSCs is a time consuming process that involves transfection of 293 FT cells plus transduction of target cells, for this thesis the following approach was chosen: genes of interest were checked for expression in 293FT cells by RT-PCR. These gene products can be silenced in 293FT cells simply by transfection of shRNA clones and efficacy was subsequently tested by RT-PCR. Beyond this thesis then the project can proceed with effective clones to transduce primary MSCs with individual shRNA clones identified as effective silencing tool in this thesis.
+
+4.2Selection of gene products to be targeted by shRNA
+Bioinformatic analysis of microarray experiments, that compared transdifferentiated human mesenchymal stem cells with normally differentiated human mesenchymal stem cells exhibited large numbers of reproducibly regulated genes for both, adipogenic and osteogenic transdifferentiation. Subsequent bioinformatical tools were used to allow for a ranking of regulated genes according to reproducibility of regulation, extend of regulation. The top 40 gene products of this ranking represent the top potential key factors associated with transdifferentiation of adipocytes and osteoblasts, respectively.
+
+From the homepage of the MISSION at the time of beginning of the project we selected 8 genes to be targeted by shRNA clones (Table 1). This selection was from the previously mentioned ranking list and according to data available in the literature as well as the availability of shRNA clones from the MISSION project. These genes can all be expressed in 293T cells according to the literature in the homepage of the MISSION. Each gene is represented by a target set that consists of an average of 4-5 individual constructs or clones targeting different regions of the gene sequence.
+
+4.3 Preparation of shRNA clones and sequencing
+Totally, eight shRNA clone sets that consisted of 4-5 individual clones with different shRNA constructs, were isolated from glycerol stocks and sequenced. From altogether 39 clone constructs received, 26 plasmids with clones hairpin constructs were gained (Fig.3; Table 2). Apart from one clone set, the remaining 7 clone sets are represented by at least 2 distinct shRNA clones, respectively.
+
+After checking the sequences, we knew that these 26 constructs hairpin sequences were targeted to 8 different mRNAs respectively, (coding for 7 known proteins and 1 hypothetical protein). Most regions that the shRNA targeted were in the CDS, except 4 hairpin sequences that targeted in the 3’-UTR.
+
+Fig 3. Example of one of sequences of the shRNA. The vector map of this shRNA is CCGGGCTATCTTACAGACGCATGAACTCGAGTTCATGCGTCTGTAAGATAGCTTTTTG. In the map, sense stem sequence is GCTATCTTACAGACGCATGAA and aniti-sense stem sequence is TTCATGCGTCTGTAAGATAGC. The loop sequence is CTCGAG.
+
+Table 1. Primer sequences and conditions of RT-PCR_______________________________________________________________________________________________________________GeneForward primerReverse primerAnnealingLengthAnnotation ID 5’-3’ sequence5’-3’ sequencetemp(°C)(bp) _______________________________________________________________________________________________________________House keeping gene (EF 1α)     Eukaryotic translation elongation     factor 1 alpha 1AGGTGATTATCCTGAACCATCC AAAGGTGGATAGTCTGAGAAGC54235NM_001402Genes for known proteins     Baculoviral IAP repeat-containing 3 (BIRC 3) GGGAAGAGGAGAGAGAAAGAGCCAGTGGCTGCAATATTTCCTT52243NM_001165DAN-damage-inducible transcript 4 (DDIT 4)GTTTGACCGCTCCACGAGCATCAGGTTGGCACACAAGT58166NM_019058Dimethylarginine dimethylaminohydrolase 1     (DDAH 1)GCAGATGGGTTGCATTTGAAGGCCCTTTGTTGGGGATATTTAG56189NM_012137Phospholipase C, beta 4 (PLCB 4)AAGCAAATGTGACCCCTCAGTCAACTTGCGTGCAGTGTAA57240NM_000933Regulator of G-protein signaling 4 (RGS 4)AGTCCCAAGGCCAAAAAGATACGGGTTGACCAAATCAAGA55220NM_005613Serpin peptidase inhibitor, clade E     (nexin, plasminogen activator inhibitor     type 1),member 1 (SERPINE1)CCGAGGAGATCATCATGGACGGAGTTTCTTCTTTCCCGATG57202NM_000602Synaptopodin 2 (SYNPO 2)ACCAAGGCCAAAGTTCTCAGCGAGAGGAGACTTTGCTGC62234NM_133477Gene for a hypothetical protein     Hypothetical protein LOC 340061     (LOC 340061)CACCATGCCCCACTCCAGCCTGAGAGAAATCCGTGCGGAGAGG55189NM_198282_______________________________________________________________________________________________________________ 
+4.4 RT-PCR of genes of interest in 293FT cellsIn order to know whether these genes of interest are expressed in 293FT cells, and therefore could be targeted by shRNA transfections, we used RNA isolated from 293FT cells and primers showed in table 1 to perform RT-PCR. It was confirmed that all these genes of interest were expressed in 293FT cells.
+
+Fig 4. Examples of some genes of interest were expressed in 293FT cells. From left to right, the bands represent SERPINE1, SNF1LK2, PDE4b, DDIT4, BIRC3, PLCB4, ID4, EPHA2, DDAH1, RGS4, COFEB.
+
+4.5 RNAi transfection by Lipofactamine 2000
+Before transfection, the 293FT cells should reach 90-95% confluence. Otherwise, the cells would die because Lipofectamine is toxic. We found that the cells grew slowly when adding the Lipofactamine 2000 in transfections.
+
+Using a plasmid encoding the green fluorescent protein the transfection efficacy was controlled over time to establish the appropriate transfection conditions according to length of treatment and concentration of lipofectamine and plasmid DNA for the 293 cells.
+
+From several experiments the following conditions were established to achieve optimal transfection efficacy as is presented in fig. 4. 4µg DNA and 10µl Lipofectamine™ 2000 were diluted in 250µl DMEM (high glucose) without serum, respectively. After the 5 minute incubation, combine the diluted DNA with diluted Lipofectamine™ 2000 (total volume = 500µl). Mix gently and incubate for 20 minutes at room temperature. 500µl of complexes were added to each sample. Cells were incubated at 37°C in a CO2 incubator for 18-48 hours prior to testing for transgene expression. After 1 day of transfection, there was a little cells turning green in the positive control well where there was Turbo-GFP vector. While after 2 days of transfection, the cells turn green sharply (Fig. 5).
+
+A
+BCFig.4. Phase-contrast images of Turbo-GFP visualized by white light and by fluorescent light after transfection. (A), (B) and (C) indicate images 2, 4, 6 days after transfection respectively.
+
+4.6 RT-PCR after transfection
+From the 26 constructs sequences, we found that there was one construct
+   Table 2. Hairpin sequences.
+
+    GeneSequence RegionTRCnumber_______________________________________________________________________________________________________________BIRC 3CCGGGCAGAGTCATCAATTATCCATCTCGAGATGGATAATTGATGACTCTGCTTTTTtarget in CDSTRCN 0000003775 CCGGGCACTACAAACACAATATTCACTCGAGTGAATATTGTGTTTGTAGTGCTTTTTtarget in 3’’-UTRTRCN 0000003776 CCGGCCGTCAAGTTCAAGCCAGTTACTCGAGTAACTGGCTTGAACTTGACGGTTTTTtarget in CDSTRCN 0000003777 CCGGGCTCTTATTCAAACTCTCCATCTCGAGATGGAGAGTTTGAATAAGAGCTTTTTtarget in CDSTRCN 0000003779DDAH 1CCGGGCTCAATATAGTAGAGATGAACTCGAGTTCATCTCTACTATATTGAGCTTTTTGtarget in CDSTRCN 0000051863 CCGGGTCTAGTGAATCTGCACAGAACTCGAGTTCTGTGCAGATTCAGTAGACTTTTTGtarget in CDSTRCN 0000051864 CCGGCTGAAATCTTGGCTGATACTTCTCGAGAAGTATCAGCCAAGATTTCAGTTTTTGtarget in CDSTRCN 0000051866 CCGGCCTTAAGATCATGCAACAGATCTCGAGATCTGTTGCATGATCTTAAGGTTTTTGtarget in CDSTRCN 0000051867DDIT 4CCGGGCTATCTTACAGACGCATGAACTCGAGTTCATGCGTCTGTAAGATAGCTTTTTGtarget in 3’’-UTRTRCN 0000062418PLCB 4CCGGCCTCTGAACAAAGCGGAGAAACTCGAGTTTCTCCGCTTTGTTCAGAGGTTTTTtarget in 3’’-UTRTRCN 0000007009 CCGGCGCTGACATCAGATCACAAATCTCGAGATTTGTGATCTGATGATGTCAGCGTTTTTtarget in CDSTRCN 0000007012 CCGGCCTGAGATCAATCATACACAACTCGAGTTGTGTATGATTGATCTCAGGTTTTTtarget in CDSTRCN 0000007013RGS 4CCGGGCCAATATAATGGGCTGCAAACTCGAGTTTGCAGCCCATTATATTGGCTTTTTtarget in CDSTRCN 0000014308 CCGGGAGCCTACAATAACCTGCTTTCTCGAGAAAGCAGGTTATTGTAGGCTCTTTTTtarget in CDSTRCN 0000014309 CCGGACCATCTAAACTAAGTCCCAACTCGAGTTGGGACTTAGTTTAGATGGTTTTTTtarget in CDSTRCN 0000014311SERPINE 1CCGGCGATGGCCATTACTACGACATCTCGAGATGTCGTAGTAATGGCCATCGTTTTTGtarget in CDSTRCN 0000052269 CCGGGCATCTGTACAATTAGCTCATCTCGAGATGAGCTCCTTGTACAGATGCTTTTTGtarget in CDSTRCN 0000052270 CCGGCAGACAGTTTCAGGCTGACTTCTCGAGAAGTCAGCCTGAAACTGTCTGTTTTGtarget in CDSTRCN 0000052271 CCGGCATCATCAATGACTGGGTGAACTCGAGTTCACCCAGTCATTGATGATGTTTTTGtarget in CDSTRCN 0000052272SYNPO 2CCGGCCCATGAATAGAACGGCCAAACTCGAGTTTGGCCGTTCTATTCATGGGTTTTTTGtarget in CDSTRCN 0000139276 CCGGCCAGACCCTAACTTGTCACATCTCGAGATGTGACAAGTTAGGGGTCTGGTTTTTTGtarget in CDSTRCN 0000139658 CCGGCCACGACTTCTTACCAAAGAACTCGAGTTCTTTGGTAAGAAGTCGTCGTGGTTTTTTGtarget in CDSTRCN 0000141357LOC 340061CCGGCATGGTCATATTACATCGGATCTCGAGATCCGAGATCCGATGTAATATGACCATGTTTTTTGtarget in CDSTRCN 0000160281 CCGGGTCCAGGACTTGACTTGACATCTTAACTCGAGTTAAGATGTCAAGTCCTGGACTTTTTTGtarget in 3’’-UTRTRCN 000016134 hairpin sequence (TRCN0000007013) targeted in the coding sequence of the gene PLCB4 that can knock down the targeted gene (Fig.6). Our experiment showed that optimal knockdown at the mRNA level was usually reached at 48-96 hours after transfection. This correlates with results reported by Krueger, et al (2007) (Fig 7).
+
+A
+900500Days of transfection2d4d6d2d4d6d2d4d6dConstruct hairpin sequence 7013  7012  7009           B         900         500         Days of transfection2d4d6d2d4d6d2d4d6dHouse keeping gene EF-1α  EF-1α EF-1α Fig. 6. A: transfection of three different hairpin sequence targeted in gene PLCB4. B: EF-1α as the house keeping gene and control. RNA samples were isolated at the indicated days of transfection. RT-PCR was run at the annealing temperature of 48℃, 45cycles and 3µl cDNA for PLCB4 as well as an annealing temperature of 54℃, 35cycles and 1µl cDNA for EF-1α which reported the quality of the cDNA and served as a house keeping gene.
+
+120.0%
+  100.0%  80.0%    700960.0% 7012  701340.0%  20.0%  0.0%  2d4d6dFig 7. Densitometry analysis of these three clones. Data showed that optimal knockdown at the mRNA level was usually reached at 48-96 hours after transfection in clone 7009.
+
+5.Discussion
+The goal of this project is to establish knock down of mRNAs in human mesenchymal stem cells. Genes to be targeted stem from a project that identified candidate genes for controlling transdifferentiation events in adipogenic and osteogenic transdifferentiation processes. Using a list of the top 40 ranked gene products 8 gene targets were selected for gene silencing. Since the viral transfection of MSCs is a time consuming process, genes of interest were checked for expression in 293FT cells by RT-PCR. These gene products can be silenced in 293FT cells simply by transfection of shRNA clones. The efficacy of this approach was tested by RT-PCR.
+
+5.1 Turbo-GFP is a useful tool for in vivo imaging
+5.1.1 Characteristics of GFPsFour decades ago, GFP was discovered in the Pacific Northwest jellyfish Aequorea victoria (Johnson et al, 1962) where it acts as a secondary emitter in a bioluminescent system based on the Ca2+-dependent photoprotein aequorin. But it was not until 1994, that this protein attracted attention after cloning and successful heterologous expression of the gfp gene (GenBank accession no. U17997) (Chalfie et al, 1994). GFP and its mutants soon became popular tools for cell and molecular biology and, during the past few years, the great spectral and phylogenetic diversity of GFP-like proteins has been characterized in marine organisms; furthermore, several useful mutant variants of GFPs have been generated. Together with engineered mutant variants, FPs are a family of homologous 25-30 kDa polypeptides and now available for the entire visible spectrum: from 450 to 650 nm. A novel green-FP, the-non-aggregating mutant of fast maturating Copepoda GFP – named TurboGFP and the monomeric mutant mAG1 (Azami Green) (Karasawa et al, 2003) of Galaxeidae coral GFP have also been produced recently.
+
+5.1.2 Applications of GFPs
+FPs are widely used as noninvasive probes to study different biological models from individual cells to whole organisms. The use of FPs enables the tracking of every step of the protein of interest: expression, localization, movement, interaction and activity in the cell, tissue or organism. The main applications of FPs are: visualization of target-gene promoter up- and down-regulation, protein labeling, detection of protein–protein interactions, tracking protein movement and monitoring cellular parameters using FP-based fluorescent sensors.
+
+5.1.2.1 Monitoring of gene expression
+The gene encoding a FP is cloned under the control of the target promoter, whereby activity of the promoter can be monitored by the magnitude of the fluorescent signal. Although this approach has a reduced sensitivity compared with enzyme-based assays, it has certain advantages and a much wider range of applications when using specially designed FP variants. The oligomeric state of an FP is important when applied to protein labeling but it does not have a negative effect on monitoring of promoter activity. Therefore, many new FPs are suitable for these applications, making it possible to detect the activity of several different promoters with up to 4-5 distinct fluorescent colors, simultaneously.
+
+Moreover, FPs allow time-scale monitoring of promoter activity. The first approach is to use destabilized FPs (Li et al, 1998) to obtain a fluorescent signal only during the period of promoter activity. Here, fast-maturating FPs are desirable to provide a minimal delay between the promoter activation and fluorescent signal appearance. The second approach is to use the so-called Timer FP, which is capable of a gradual change in fluorescence color over time: from blue to green, and then to red (Terskikh et al, 2000); therefore Timer provides retrospective information about the length of time the promoter is active.
+
+Recently, a novel technique to detect promoter activity has been developed using a so-called split FP. This is a FP expressed as two separate parts but capable of reconstituting to the whole functional protein when cloned fewer than two promoters of interest; the fluorescent signal occurs only when both promoters are active. Moreover, by combining separate parts, each carrying point mutations responsible for spectral shifts, one can obtain information about the combinations of promoters of interest active in a system (Zhang et al, 2004).
+
+5.1.2.2 Protein labeling
+The most widely used FP application is probably protein tagging, achieved by cloning a FP in frame with the target protein at either its N- or C-terminus. Numerous experiments with GFP mutants have demonstrated that most fusion proteins created this way are fully functional; however, in each particular case, the researcher must determine whether the function of the FP-tagged protein remains natural. An oligomeric state becomes crucial when fusing GFP-like proteins to a protein of interest and, in most cases, attempts to use tetrameric FPs to label cellular proteins result in aggregation of the chimera and disturbance to the target protein function and localization. Although several other solutions have been proposed to avoid this complication, the answer lies in developing monomeric FPs with the desired spectral characteristics (Ando et al, 2004).
+
+5.1.2.3 Protein mobility
+Over the past few years, considerable progress has been made in developing the so-called photoactivatable FPs. These proteins are capable of a many-fold increase in fluorescence intensity at certain excitation/emission wavelengths, in response to irradiation with specific light. This property can be used to ‘switch-on’ a fluorescent signal, using a beam of focused light, and then track the movement of labeled cells, organelles or individual proteins. Until recently, photobleaching techniques, such as fluorescence recovery after photobleaching (FRAP), fluorescence loss in photobleaching (FLIP), flurescence correlation spectroscopy (FCS) and fluorescence resonance energy transfer (FRET) were the major tools to study protein mobility (Schmid and Neumeier, 2005). Photoactivatable FPs provide a more precise, direct and less damaging way to study movement of proteins.
+
+In our research, the Turbo-GFP, an improved variant of the green fluorescent protein copGFP cloned from the copepoda Pontellina plumata, control vector is an 8347 base pair lentiviral plasmid vector that contains a gene encoding Turbo-GFP, under the control of the CMV promoter. It is useful as a positive transfection control in experiments using the shRNA clones.
+
+5.2 PLC-β4 is a multifunction protein
+Phospholipase C (PLC) constitutes a large family of mammalian hydrolytic phosphodiesterase enzymes that participate in phosphatidylinositol (PIP2) metabolism and lipid signaling pathways in a calcium dependent manner. Currently, the superfamily consists of six sub-families comprising a total of 13 separate isoforms that differ in their mode of activation, catalytic regulation, cellular localization, membrane binding avidity, and tissue distribution. All are capable of catalyzing the hydrolysis of PIP2 into two important second messenger molecules, which go on to alter cell responses such as proliferation, differentiation, apoptosis, cytoskeleton remodeling, vesicular trafficking, ion channel conductance, endocrine function and neurotransmission (Wu et al., 2000; Rhee, 2001).
+
+Recently, it was revealed that PLC is normally located in the inner leaflet of the plasma membrane, where it can regulate transmembrane proteins, including ion channels and transporters (Ma and Eaton, 2005). However, it was reported that nuclear phosphoinositides are involved in cell growth and differentiation and it is becoming increasingly clear that in the nucleus polyphosphoinositides may act by themselves to influence pre-mRNA splicing and chromatin structure (Martelli et al., 2004).
+
+5.2.1 Structure of PLC-β4
+The molecular size of PLC-β isozymes is in the range of 120-150 kDa. The amino acid sequences of PLC isozymes are relatively nonconserved with the exception of two regions, known as the X and Y domains, which form the catalytic core (Rhee et al, 1997). In domain organization, PLC-β4 posses X and Y domains in the form of a distorted triose phosphate isomerase (TIM) barrel with a highly disordered, charged, and flexible intervening linker region. Meanwhile, PLC-β4 posses 4 EF hand domains, and a single C2 domain that flank the X and Y catalytic core and presents a long C-terminal extension immediately subunits, which may also play a role in nuclear localization.
+
+5.2.2 Activation of PLC-β4 by Gɑq subunits
+PLC-β4 function as effector enzymes for receptors belonging to the rhodopsin superfamily of transmembrane proteins that contain seven transmembrane spanning (heptahelical) segments (Ji et al, 1998). They are activated by a wide range of stimuli, from photons and tiny odorant molecules, to full-sized proteins and require specific combinations of Gɑ subunits to couple to their effectors. In the standard G protein model of PLC-β4 activation, binding of agonist triggers receptor-catalyzed exchange of GTP for bound GDP on the ɑ -component of the heterotrimer. The GTP-charged subunit then dissociates in the plane of the membrane, increasing its catalytic activity and thereby amplifying the initial receptor stimulus.
+
+PLC-β4 was first isolated from cerebellum and retina (Min et al, 1993; Jiang et al, 1994). Its mRNA is highly concentrated in cerebellar Purkinje and granule cells, the median geniculate body, whose axons terminate in the auditory cortex, and the lateral geniculate nucleus, where most retinal axons terminate in a visuotopic representation of each half of the visual field. Because PLC-β4 is widely distributed on the cell membrane and nucleus and highly concentrated in neuron tissues, which composed most of 293FT cells, it seems that this may be why PLC-β4 is easily silenced in our experiment.
+
+5.3 Possible reasons for low efficiency of RNAi
+In MISSION technical bulletin, it was claimed that each clone set consists of 3-5 constructs that have been designed against each target gene using a proprietary algorithm and therefore, a range of knockdown efficiency, with at least one construct from each gene set being > 70%, can be expected when using these clones. But In this thesis, from all 26 constructs hairpin sequences only one hairpin sequence silenced a target gene. Why is the efficiency of RNAi low? Apart from technical reasons, there may be several other reasons.
+
+5.3.1 Drawbacks of shRNA
+Paddison et al. (2002) showed that shRNA were somewhat less potent silencing triggers than that were siRNAs. siRNAs homologous yielded 90-95% suppression of gene expression, whereas suppression levels achieved with shRNAs ranged from 80-90% on average because of mammalian cells contain several endogenous systems that were predicted to hamper the application of RNAi. Chief among these is a dsRNA-activated protein kinase, PKR, which effects a general suppression of translation via phosphorylation of EIF-2α.
+
+The mechanism of action from the shRNA constructs is not well-known. Hall et al. (2002) discovered that a shRNA driven by the U6 promoter but with strand reversal, such that an accessible anti-sense 3 terminus was not available, still remarkably restrain the target gene expression. Therefore, these shRNAs might not require primer extended amplification. Maybe gene silencing involving heterochromatin modification which has been found to occur with RNAi in fission yeast (Volpe et al., 2002), could be involved. It is also of interest that the shRNA constructs that silence gene expression effectively in mammalian cells do not contain introns and polyadenylation signals. Consequently, they may have to function in the nucleus or are efficiently transported to the cytoplasm despite lacking these than ones without in plants (Cao et al., 2005), but maybe, for other reasons.
+
+Moreover, McIntyre and Fanning (2006) revealed that shRNA vector construction can be disturbed by high mutation rates and ensuing sequencing is often problematic. shRNA expression vectors are constructed by one of three different methods. The most common method requires the synthesis, annealing and ligation of two complementary oligonucleotides into an expression vector. The frequency of false positives determined by sequencing is high, about 20-40% high (Miyagishi et al, 2004). The unreliability of this method is in part due to the difficulty in synthesizing long oligonucleotides (> 35 bases) and this method requires two long oligonucleotides then the chance of mutation is doubled. The second strategy is a PCR approach in which a promoter sequence serves as the template. Although it is advantageous that only single long oligonucleotides is required, the strong secondary structure predicted to form within this primer can lead to the amplification of false products (Castanotto et al., 2005). The third method comprises several techniques relating to primer extension. Each is based on the principle of a polymerase extending the 3’ end of overlapping oligonucleotides. Nevertheless, this method reduces the cost of oligonucleotides and does not need purification but may cause off-set by a high rate of polymerase-induced mutations in both the initial extension and repeated cycling steps. In order to reduce mutations, conducting all reactions as single-step extensions and replacing Taq polymerase with an enzyme better able to counter the secondary structure of the hairpin template were adopted. Another reported strategy to alleviate sequencing difficulties is to include mismatched bases within the shRNA stem (Yu et al., 2003).
+
+5.3.2 Target gene-specific characteristics influence the RNAi efficiency
+Target gene-specific characteristics such as the accessibility of the corresponding target sequences to the RNAi appear to have a significant influence on the knockdown efficacy, making certain targets easy or difficult to knock down by using siRNA. It has been reported that low-abundant genes are less susceptible to siRNA-mediated knockdown (Hu et al., 2004). However, recently, Krueger et al. (2007) tested several thousand siRNAs for target genes from various gene families and showed that target genes from high or moderate to low expression levels were silenced equally well. Moreover, it was revealed that the localization of siRNA target sites on the transcript and siRNA concentration were not responsible for low silencing capacity of siRNA (Krueger et al., 2007). The performance of siRNA showing moderate silencing of < 70% knockdown threshold was almost unaffected by increasing the siRNA concentration used for transfection, by changing the cell type, or by increasing or decreasing the time point of analysis. In this thesis, at least 3 clones per gene target were verified and some had 4 shRNA hairpin sequences which targeted one gene product respectively, but we failed to silence most of the target genes. This may indicate that the level of silencing achieved was not exclusively dependent on the siRNA sequences.
+
+In our experiment, because PLC-β4 is widely distributed in neuron tissues and 293FT cells generated by adenovirus transformation of human embryonic kidney cells have many properties of immature neurons, suggesting that the adenovirus was taken up and transformed a neuronal lineage cell in the original kidney culture (Shaw et al, 2002), PLC-β4 is easy knocked down in 293FT cells by shRNA.
+
+
+5.3.3 Limitations of the gene delivery system
+Although chemical gene delivery method with liposomes are most efficacious in all gene delivery systems, this method also has some drawbacks.
+
+5.3.3.1 Mechanism and structure of cationic lipids
+Plasmid-based gene delivery systems utilize various types of synthetic gene carriers to condense and protect plasmid DNA (pDNA) from premature degradation during storage and transportation from the site of administration to the site of gene expression (Mahato, 2005). Gene carriers are also used to facilitate endosomal release, while avoiding DNA degradation in the lysosomal compartment. Plasmid DNA is condensed into a highly organized structure through a complex self-assembly process. Commonly utilized synthetic gene carriers are cationic lipids, polymers and peptides that condense pDNA by virtue of their electrostatic interactions with the anionic phosphate backbone of the nucleic acid chain.
+
+Commercially available cationic lipids used as liposome formulation of alone for gene delivery include DOTMA, DOSPA (LipofectAMINE), and DOTAP. Most cationic lipids used as transfection reagents have three parts: (1) a hydrophobic lipid anchor group; (2) linker group, such as an ester, amide or carbamate; and (3) a positively charged head-group, which interacts with pDNA, leading to its condensation.
+
+5.3.3.2 Cytotoxicity of cationic lipids
+Despite early excitement, there are serious limitations in the use of most existing cationic lipids systems, including high toxicity on repeated use and induction of immunostimulation and complement activation. Although PEGylation can reduce the levels of compliment activation and binding to plasma proteins, transfection efficiencies of PEGylated cationic lipids are significantly reduced (Han et al, 2000).
+
+5.3.3.3Enhanced immunostimulatory activity of nucleic acids complexed as lipoplexes
+Intravenous administration of pentammonio lipid pcTG90:DOPE lipoplexes in mice may cause an immune response that prevents a subsequent administration of lipoplexes into mice after a relatively short interval (Meyer et al, 1999). Repeated systemic gene expression can be achieved upon readministration with a minimal time interval of 14 days between two injections. When administered 6 days apart, subsequent gene expression is inhibited by an initial lipoplex administration containing the pDNA but uninhibited when free pDNA was first injected. Expression of the transgene was monitored in the serum of animals.
+
+There are several ways by which the immunostimulatory effects of vector CpG motifs may be reduced (Schuele, 2000). These include methylation of cytosine bases in these motifs, addition of neutralising sequences, elimination of CpG motifs, immunosuppression using chemical or biological approaches, targeting of vectors away from cells of the reticuloendothelial system, and inhibition of endosomal acidification.
+
+6. Summary and possible future research6.1 SummaryEight shRNA sets of bacterial glycerol stocks harboring sequence-verified shRNA lentiviral plasmid vectors for human genes were employed for validation. The aim of this project was to establish knock down of mRNAs in human mesenchymal stem cells. Genes to be targeted stem from a project that identified candidate genes for controlling transdifferentiation events in adipogenic and osteogenic transdifferentiation processes. Using a list of the top 40 ranked gene products 8 gene targets were selected for gene silencing. Since the viral transfection of MSCs is a time consuming process, genes of interest were checked for expression in 293FT cells by RT-PCR. These gene products can be silenced in 293FT cells simply by transfection of shRNA clones. Bacterial cultures were amplified in LB culture medium from the glycerol stocks for use in purification of the shRNA plasmid DNA, which was then transfected in 293FT cells by Lipofectamine 2000. Subsequently, after 2, 4, 6 days of transfection, RT-PCR was performed to authenticate the RNAi efficiency. Of all 8 shRNA clone sets, 1 clone silenced the respective target gene, PLCB4. Our results indicate that optimal knockdown at the mRNA level was reached at 48-96 hours after transfection and the level of silencing achieved was not exclusively dependent on the siRNA sequences. Target gene-specific characteristics such as the accessibility of the corresponding target sequences to the RNAi appear to have a significant influence on the knockdown, making certain targets easy or difficult to knock down. dsRNA-activated protein kinase, PKR, which effects a general suppression of translation via phosphorylation of EIF-2α, and cytotoxicity and enhanced immunostimulatory activity of nucleic acids complexed as lipoplexes hamper the application of RNAi. According to the MISSION technical bulletin, a range of knockdown efficiency, with at least one construct from each gene set being >70%, can be expected when using these clones. But In this thesis, from all 26 constructs hairpin sequences only one hairpin sequence silenced a target gene.
+
+6.2 Possible future research
+6.2.1 Viral deliveryDue to their intrinsic mechanism for gene transduction, viruses readily function as vectors in a cost-effective and delivery-efficient way.
+
+Lentiviruses, a subclass of retroviruses, have emerged as appealing vectors for in vivo application and are widely used for proof of concept experiments. While safety concerns still exist, lentiviruses are free of some of the major disadvantages hindering use of retroviruses. Namely, there is no risk of insertional mutagenesis and lentiviruses are able to efficiently transduce primary and non-dividing cells, thereby abolishing two major shortcomings of retroviruses for in vivo use. Additionally, lentiviruses can accommodate large amounts of data in their genomes, and are less immunogenic than adenoviral vectors.
+
+
+If possible, one could use lentiviral vectors to increase the efficiency of transfection and RNAi.
+
+
+6.2.2 Photoactivatable FPs
+If possible, one could use photoactivatable fluorescent proteins to label the PLCB4 or other proteins which are important in the transdifferentiation of MSCs between adipocyte and osteoblast differentiation directions in order to elucidate the function of proteins and reveal molecular mechanisms
+
+7.Reference
+Abbas-Terki T, Blanco-Bose W, Déglon N, Pralong W, Aebischer P. Lentiviral-mediated RNA interference. Hum Gene Ther. 2002 Dec 10;13(18):2197-2201.
+
+Aliño SF, Crespo A, Dasí F. Long-term therapeutic levels of human alpha-1 antitrypsin in plasma after hydrodynamic injection of nonviral DNA. Gene Ther. 2003 Sep;10(19):1672-1679.
+
+
+Ando R, Mizuno H, Miyawaki A. Regulated fast nucleocytoplasmic shuttling observed by reversible protein highlighting. Science. 2004 Nov 19;306(5700):1370-1373.
+
+
+Anwer K, Kao G, Proctor B, Anscombe I, Florack V, Earls R, Wilson E, McCreery T, Unger E, Rolland A, Sullivan SM. Ultrasound enhancement of cationic lipid-mediated gene transfer to primary tumors following systemic administration. Gene Ther. 2000 Nov;7(21):1833-1839.
+
+
+Aronin N. Target selectivity in mRNA silencing. Gene Ther. 2006 Mar;13(6):509-516.
+
+
+Bass BL. Double-stranded RNA as a template for gene silencing. Cell. 2000 Apr 28;101(3):235-238.
+
+
+Bernstein E, Caudy AA, Hammond SM, Hannon GJ. Role for a bidentate ribonuclease in the initiation step of RNA interference. Nature. 2001 Jan 18;409(6818):363-366.
+
+
+Bertrand JR, Pottier M, Vekris A, Opolon P, Maksimenko A, Malvy C. Comparison of antisense oligonucleotides and siRNAs in cell culture in vivo. Biochem Biophys Res Commun. 2002 Aug 30;296(4):1000-4.1000–1004.
+
+
+Billy E, Brondani V, Zhang H, Müller U, Filipowicz W. Specific interference with gene expression induced by long, double-stranded RNA in mouse embryonal teratocarcinoma cell lines. Proc Natl Acad Sci U S A. 2001 Dec 4;98(25):14428-14433.
+
+
+Brummelkamp TR, Bernards R, Agami R. A system for stable expression of short interfering RNAs in mammalian cells. Science. 2002 Apr 19;296(5567):550-553.
+
+
+Brummelkamp TR, Bernards R, Agami R. Stable suppression of
+
+tumorigenicity by virus-mediated RNA interference. Cancer Cell. 2002 Sep;2(3):243-7.
+
+Cao W, Hunter R, Strnatka D, McQueen CA, Erickson RP. DNA constructs designed to produce short hairpin, interfering RNAs in transgenic mice sometimes show early lethality and an interferon response. J Appl Genet. 2005;46(2):217-225.
+
+
+Capodici J, Karikó K, Weissman D. Inhibition of HIV-1 infection by small interfering RNA-mediated RNA interference. J Immunol. 2002 Nov 1;169(9):5196-5201.
+
+
+Castanotto D, Scherer L. Targeting Cellular Genes with PCR Cassettes Expressing Short Interfering RNAs. Methods Enzymol. 2005;392:173-185.
+
+
+Caudy AA, Ketting RF, Hammond SM, Denli AM, Bathoorn AM, Tops BB, Silva JM, Myers MM, Hannon GJ, Plasterk RH. A micrococcal nuclease homologue in RNAi effector complexes. Nature. 2003 Sep 25;425(6956):411-414.
+
+
+Chalfie M, Tu Y, Euskirchen G, Ward WW, Prasher DC. Green fluorescent protein as a marker for gene expression. Science. 1994 Feb 11;263(5148):802-805.
+
+
+Chang K, Elledge SJ, Hannon GJ. Lessons from Nature: microRNA-based shRNA libraries. Nat Methods. 2006 Sep;3(9):707-714.
+
+
+Chemin I, Moradpour D, Wieland S, Offensperger WB, Walter E, Behr JP, Blum HE. Liver-directed gene transfer: a linear polyethlenimine derivative mediates highly efficient DNA delivery to primary hepatocytes in vitro and in vivo. J Viral Hepat. 1998 Nov;5(6):369-375.
+
+
+Chen CZ, Li L, Lodish HF, Bartel DP. MicroRNAs modulate hematopoietic lineage differentiation. Science. 2004 Jan 2;303(5654):83-86.
+
+
+Choate KA, Khavari PA. Direct cutaneous gene delivery in a human genetic skin disease. Hum Gene Ther. 1997 Sep 20;8(14):1659-1665.
+
+
+Collins RE, Cheng X. Structural domains in RNAi. FEBS Lett. 2005 Oct 31;579(26):5841-5849.
+
+
+Cullen BR. Derivation and function of small interfering RNAs and microRNAs. Virus Res. 2004 Jun 1;102(1):3-9.
+
+
+Denli AM, Tops BB, Plasterk RH, Ketting RF, Hannon GJ. Processing of primary microRNAs by the Microprocessor complex. Nature. 2004 Nov 11;432(7014):231-235. Epub 2004 Nov 7.
+
+Ding H, Schwarz DS, Keene A, Affar el B, Fenton L, Xia X, Shi Y, Zamore PD, Xu Z. Selective silencing by RNAi of a dominant allele that causes amyotrophic lateral sclerosis. Aging Cell. 2003 Aug;2(4):209-217.
+
+Durieux AC, Bonnefoy R, Busso T, Freyssenet D. In vivo gene electrotransfer into skeletal muscle: effects of plasmid DNA on the occurrence and extent of muscle damage. J Gene Med. 2004 Jul;6(7):809-816.
+
+
+Dykxhoorn DM, Novina CD, Sharp PA. Killing the messenger: short RNAs that silence gene expression. Nat Rev Mol Cell Biol. 2003 Jun; 4(6), 457–467.
+
+
+Elbashir SM, Harborth J, Lendeckel W, Yalcin A, Weber K, Tuschl T. Duplexes of 21-nucleotide RNAs mediate RNA interference in cultured mammalian cells. Nature. 2001 May 24;411(6836):494-498.
+
+
+Elbashir SM, Lendeckel W, Tuschl T. RNA interference is mediated by 21- and 22-nucleotiode RNAs. Genes Dev. 2001 Jan 15; 15(2):188-200.
+
+
+Elbashir SM, Martinez J, Patkaniowska A, Lendeckel W, Tuschl T. Functional anatomy of siRNAs for mediating efficient RNAi in Drosophila melanogaster embryo lysate. EMBO J. 2001 Dec 3;20(23):6877-88.
+
+
+Felgner PL, Gadek TR, Holm M, Roman R, Chan HW, Wenz M, Northrop JP, Ringold GM, Danielsen M. Lipofection: a highly efficient, lipid-mediated DNA-transfection procedure. Proc Natl Acad Sci U S A. 1987 Nov;84(21):7413-7417.
+
+
+Filipowicz W. RNAi: the nuts and bolts of the RISC machine. Cell. 2005 Jul 15;122(1):17-20.
+
+
+Fire A, Xu S, Montgomery MK, Kostas SA, Driver SE, Mello CC. Potent and specific genetic interference by double-stranded RNA in Caenorhabditis elegans. Nature. 1998 Feb 19;391(6669):806-811.
+
+
+Fischer D, Li Y, Ahlemeyer B, Krieglstein J, Kissel T. In vitro cytotoxicity testing of polycations: influence of polymer structure on cell viability and hemolysis. Biomaterials. 2003 Mar;24(7):1121-1131.
+
+
+Gao X, Kim KS, Liu D.. Nonviral gene delivery: what we know and what is next. AAPS J. 2007 Mar 23;9(1):E92-104.
+
+
+Gissel H, Clausen T. Excitation-induced Ca(2+) influx in rat soleus and EDL muscle: mechanisms and effects on cellular integrity. Am J Physiol Regul Integr Comp Physiol. 2000 Sep;279(3):R917-924.
+
+
+Gitlin L, Karelsky S, Andino R. Short interfering RNA confers intracellular antiviral immunity in human cells. Nature. 2002 Jul 25;418(6896):430-434.
+
+Graham FL, Smiley J, Russell WC, Nairn R. Characteristics of a human cell line transformed by DNA from human adenovirus type 5. J Gen Virol. 1977 Jul;36(1):59-74.
+
+Guo S, Kemphues KJ. par-1, a gene required for establishing polarity in C. elegans embryos, encodes a putative Ser/Thr kinase that is asymmetrically distributed. Cell. 1995 May 19;81(4):611-20.
+
+
+Hall IM, Shankaranarayana GD, Noma K, Ayoub N, Cohen A, Grewal SI. Establishment and maintenance of heterochromatin domain. Science. 2002 Sep 27;297(5590):2232-2237.
+
+
+Hamilton AJ, Baulcombe DC. A species of small antisense RNA in posttranscriptional gene silencing in plants. Science. 1999 Oct 29;286(5441):950-952.
+
+
+Hammond SM. Dicing and slicing: the core machinery of the RNA interference pathway. FEBS Lett. 2005 Oct 31;579(26):5822-5829.
+
+
+Hammond SM, Bernstein E, Beach D, Hannon GJ. An RNA-directed nuclease mediates post-transcriptional gene silencing in Drosophila cells. Nature. 2000 Mar 16;404(6775):293-296.
+
+
+Hammond SM, Boettcher S, Caudy AA, Kobayashi R, Hannon GJ. Argonaute2, a link between genetic and biochemical analyses of RNAi. Science. 2001 Aug 10;293(5532):1146-1150.
+
+
+Han J, Lee Y, Yeom KH, Kim YK, Jin H, Kim VN. The Drosha-DGCR8 complex in primary microRNA processing. Genes Dev. 2004 Dec 15;18(24):3016-3027.
+
+
+Han S, Mahato RI, Sung YK, Kim SW. Development of biomaterials for gene therapy. Mol Ther. 2000 Oct;2(4):302-17.
+
+
+Hannon GJ. RNA interference. Nature. 2002 Jul 11;418(6894):244-251.
+
+
+Harper SQ, Staber PD, He X, Eliason SL, Martins IH, Mao Q, Yang L, Kotin RM, Paulson HL, Davidson BL. RNA interference improves motor and neuropathological abnormalities in a Huntington's disease mouse model. Proc Natl Acad Sci U S A. 2005 Apr 19;102(16):5820-5825.
+
+
+Harrison T, Graham F, Williams J. Host-range mutants of adenovirus type 5 defective for growth in HeLa cells. Virology. 1977 Mar;77(1):319-329.
+
+
+He TC, Zhou S, da Costa LT, Yu J, Kinzler KW, Vogelstein B. A simplified system for generating recombinant adenoviruses. Proc Natl Acad Sci U S A. 1998 Mar 3;95(5):2509-2514.
+
+Heller LC, Ugen K, Heller R.. Electroporation for targeted gene transfer. Expert Opin Drug Deliv. 2005 Mar;2(2):255-68.
+
+Hosseinkhani H, Azzam T, Tabata Y, Domb AJ. Dextran-spermine polycation: an efficient nonviral vector for in vitro and in vivo gene transfection. Gene Ther. 2004 Jan;11(2):194-203.
+
+
+Hu X, Hipolito S, Lynn R, Abraham V, Ramos S, Wong-Staal F. Relative gene-silencing efficiencies of small interfering RNAs targeting sense and antisense transcripts from the same genetic locus. Nucleic Acids Res. 2004 Aug 27;32(15):4609-4617.
+
+
+Huber PE, Jenne J, Debus J, Wannenmacher MF, Pfisterer P. A comparison of shock wave and sinusoidal-focused ultrasound-induced localized transfection of HeLa cells. Ultrasound Med Biol. 1999 Nov;25(9):1451-1457.
+
+
+Ishizuka A, Siomi MC, Siomi H. A Drosophila fragile X protein interacts with components of RNAi and ribosomal proteins. Genes Dev. 2002 Oct 1;16(19):2497-2508.
+
+
+Jacque JM, Triques K, Stevenson M. Modulation of HIV-1 replication by RNA interference. Nature. 2002 Jul 25;418(6896):435-438.
+
+
+Ji TH, Grossmann M, Ji I. G protein-coupled receptors. I. Diversity of
+receptor-ligand interactions. J Biol Chem. 1998 Jul 10;273(28):17299-17302.
+
+Jiang H, Wu D, Simon MI. Activation of phospholipase C beta 4 by heterotrimeric GTP-binding proteins. J Biol Chem. 1994 Mar 11;269(10):7593-6.
+
+
+Jiang J, Yamato E, Miyazaki J.Intravenous delivery of naked plasmid DNA for in vivo cytokine expression. Biochem Biophys Res Commun. 2001 Dec 21;289(5):1088-1092.
+
+
+Johnson FH, Shimomura O , Saiga Y , Gershman LC , Reynolds GT, Waters JR. Quantum efficiency of Cypridina luminescence, with a note on that of Aequorea. J Cell Comp Physiol. 1962;60:85-104.
+
+
+Karasawa S, Araki T, Nagai T, Mizuno H, Miyawaki A. Cyan-emitting and orange-emitting fluorescent proteins as a donor/acceptor pair for fluorescence resonance energy transfer. Biochem J. 2004 Jul 1;381(Pt 1):307-312.
+
+
+Kim HJ, Greenleaf JF, Kinnick RR, Bronk JT, Bolander ME. Ultrasound-mediated transfection of mammalian cells. Hum Gene Ther.
+
+1996 Jul 10;7(11):1339-1346.
+
+Kim VN. MicroRNA biogenesis: coordinated cropping and dicing. Nat Rev Mol Cell Biol. 2005 May;6(5):376-385.
+
+
+Koch S, Pohl P, Cobet U, Rainov NG. Ultrasound enhancement of liposome-mediated cell transfection is caused by cavitation effects. Ultrasound Med Biol. 2000 Jun;26(5):897-903.
+
+
+Krueger U, Bergauer T, Kaufmann B, Wolter I, Pilk S, Heider-Fabian M, Kirch S, Artz-Oppitz C, Isselhorst M, Konrad J. Insights into effective RNAi gained from large-scale siRNA validation screening. Oligonucleotides. 2007 Summer;17(2):237-250.
+
+
+Kurihara Y, Watanabe Y. Arabidopsis micro-RNA biogenesis through Dicer-like 1 protein functions. Proc Natl Acad Sci U S A. 2004 Aug 24;101(34):12753-12758. Epub 2004 Aug 16.
+
+
+Lagos-Quintana M, Rauhut R, Lendeckel W, Tuschl T. Identification of novel genes coding for small expressed RNAs. Science. 2001 Oct 26;294(5543):853-858.
+
+
+Lawrie A, Brisken AF, Francis SE, Cumberland DC, Crossman DC, Newman CM. Microbubble-enhanced ultrasound for vascular gene delivery. Gene Ther. 2000 Dec;7(23):2023-2027.
+
+
+Lee LK, Williams CL, Devore D, Roth CM. Poly(propylacrylic acid) enhances
+cationic lipid-mediated delivery of antisenseoligonucleotides.Biomacromolecules. Biomacromolecules. 2006 May;7(5):1502-1508.
+
+Lee NS, Dohjima T, Bauer G, Li H, Li MJ, Ehsani A, Salvaterra P, Rossi J. Expression of small interfering RNAs targeted against HIV-1 rev transcripts in human cells. Nat Biotechnol. 2002 May;20(5):500-505.
+
+
+Lee RC, Feinbaum RL, Ambros V.The C.elegans heterochronic gene lin-4 encodes small RNAs with antisense complementarity to lin-14. Cell. 1993 Dec 3;75(5):843-854.
+
+
+Li H, Li WX, Ding SW. Induction and suppression of RNA silencing by an animal virus. Science. 2002 May 17;296(5571):1319-1321.
+
+
+Li X, Zhao X, Fang Y, Jiang X, Duong T, Fan C, Huang CC, Kain SR. Generation of destabilized green fluorescent protein as a transcription reporter. J Biol Chem, 1998;273, 34970-34975.
+
+
+Liang HD, Lu QL, Xue SA, Halliwell M, Kodama T, Cosgrove DO, Stauss HJ,
+
+Partridge TA, Blomley MJ. Optimisation of ultrasoundmediated gene transfer (sonoporation) in skeletal muscle cells. Ultrasound Med Biol. 2004 Nov;30(11):1523-1529.
+
+Lin AJ, Slack NL, Ahmad A, George CX, Samuel CE, Safinya CR. Three-dimensional imaging of lipid gene-carriers: membrane charge density controls universal transfection behavior in lamellar cationic liposome-DNA complexes. Biophys J. 2003 May;84(5):3307-3316.
+
+
+Lipardi C, Wei Q, Paterson BM. RNAi as random degradative PCR: siRNA primers convert mRNA into dsRNAs that are degraded to generate new siRNAs. Cell. 2001 Nov 2;107(3):297-307.
+
+
+Liu D, Ren T, Gao X. Cationic transfection lipids. Curr Med Chem. 2003 Jul;10(14):1307-1315.
+
+
+Liu F, Song Y, Liu D. Hydrodynamics-based transfection in animals by systemic administration of plasmid DNA. Gene Ther. 1999 Jul;6(7):1258-1266.
+
+
+Louis N, Evelegh C, Graham FL. Cloning and sequencing of the cellular-viral junctions from the human adenovirus type 5 transformed 293 cell line. Virology. 1997 Jul 7;233(2):423-429.
+
+
+Ma HP, Eaton DC. Acute regulation of epithelial sodium channel by anionic phospholipids. J Am Soc Nephrol. 2005 Nov;16(11):3182-3187.
+
+
+Mahato RI (Ed.), Biomaterials for delivery and targeting of proteins and nucleic acids, CRC Press, Boca Raton, FL, 2005.
+
+
+Mahato RI, Smith LC, Rolland A. Pharmaceutical perspectives of nonviral gene therapy.Adv Genet. 1999;41:95-156.
+
+
+Martelli AM, Manzoli L, Cocco L. Nuclear inositides: facts and perspectives. Pharmacol Ther. 2004 Jan;101(1):47-64.
+
+
+Maruyama H, Higuchi N, Kameda S, Miyazaki J, Gejyo F. Rat liver-targeted naked plasmid DNA transfer by tail vein injection. Mol Biotechnol. 2004 Feb;26(2):165-172.
+
+
+McIntyre GJ, Fanning GC. Design and cloning strategies for constructing shRNA expression vectors. BMC Biotechnol. 2006 Jan 5;6:1.
+
+
+Meister G, Landthaler M, Patkaniowska A, Dorsett Y, Teng G, Tuschl T. Human Argonaute2 mediates RNA cleavage targeted by miRNAs and siRNAs. Mol Cell. 2004 Jul 23;15(2):185-197.
+
+
+Meyer KB, Thompson MM, Levy MY, Barron LG, Szoka FC Jr. Intratracheal
+
+gene delivery to the mouse airway: characterization of plasmid DNA expression and pharmacokinetics. Gene Ther. 1995 Sep;2(7):450-460.
+
+Meyer O, Schughart K, Pavirani A, Kolbe HV. Multiple systemic expression of human interferon-beta in mice can be achieved upon repeated administration of optimized pcTG90-lipoplex. Gene Ther. 2000 Sep;7(18):1606-11.
+
+
+Miao CH, Ye X, Thompson AR. High-level factor VIII gene expression in vivo achieved by nonviral liver-specific gene therapy vectors. Hum Gene Ther. 2003 Sep 20;14(14):1297-1305.
+
+
+Min DS, Kim DM, Lee YH, Seo J, Suh PG, Ryu SH. Purification of a novel phospholipase C isozyme from bovine cerebellum. J Biol Chem. 1993 Jun 5;268(16):12207-12.
+
+
+Miyagishi M, Hayashi M, Taira K. Comparison of the suppressive effects of antisense oligonucleotides and siRNAs directed against the same targets in mammalian cells. Antisense Nucleic Acid Drug Dev. 2003 Feb;13(1):1-7.
+
+
+Miyagishi M, Sumimoto H, Miyoshi H, Kawakami Y, Taira K. Optimization of an siRNA-expression system with an improved hairpin and its significant suppressive effects in mammalian cells. J Gene Med. 2004 Jul;6(7):715-723.
+
+
+Miyagishi M, Taira K. U6 promoter-driven siRNAs with four uridine 3’ overhangs efficiently suppress targeted gene expression in mammalian cells. Nat Biotechnol. 2002 May;20(5):497-500.
+
+
+Moffat J, Grueneberg DA, Yang X, Kim SY, Kloepfer AM, Hinkle G, Piqani B, Eisenhaure TM, Luo B, Grenier JK, Carpenter AE, Foo SY, Stewart SA, Stockwell BR, Hacohen N, Hahn WC, Lander ES, Sabatini DM, Root DE. A lentiviral RNAi library for human and mouse genes applied to an arrayed viral high-content screen. Cell. 2006 Mar 24;124(6):1283-1298.
+
+
+Naldini L, Blömer U, Gage FH, Trono D, Verma IM. Efficient transfer, integration, and sustained long-term expression of the transgene in adult rat brains injected with a lentiviral vector. Proc Natl Acad Sci U S A. 1996 Oct 15;93(21):11382-11388.
+
+
+Naldini L, Blömer U, Gallay P, Ory D, Mulligan R, Gage FH, Verma IM, Trono D. In vivo gene delivery and stable transduction of nondividing cells by a lentiviral vector. Science. 1996 Apr 12;272(5259):263-267.
+
+
+Nam NH, Parang K. Current targets for anticancer drug discovery. Curr Drug Targets. 2003 Feb;4(2):159-179.
+
+
+Neu M, Fischer D, Kissel T. Recent advances in rational gene transfer vector
+
+design based on poly(ethylene imine) and its derivatives. J Gene Med. 2005 Aug;7(8):992-1009.
+
+Nicholson AW. The ribonuclease III superfamily: forms and functions in RNA maturation, decay, and gene silencing (Hannon GJ., Ed.), RNAi: A Guide to Gene Silencing, 2003 vol. 8, pp. 149–174, Cold Spring Harbor Laboratory Press, Cold Spring Harbor, NY.
+
+
+Nishitsuji H, Ikeda T, Miyoshi H, Ohashi T, Kannagi M, Masuda T. Expression of small hairpin RNA by lentivirus-based vector confers efficient and stable gene-suppression of HIV-1 on human cells including primary non-dividing cells. Microbes Infect. 2004 Jan;6(1):76-85.
+
+
+Novina CD, Murray MF, Dykxhoorn DM, Beresford PJ, Riess J, Lee SK, Collman RG, Lieberman J, Shankar P, Sharp PA.siRNA-directed inhibition of HIV-1 infection. Nat Med. 2002 Jul;8(7):681-6.
+
+
+Nykänen A, Haley B, Zamore PD. ATP requirements and small interfering RNA structure in the RNA interference pathway. Cell. 2001 Nov 2;107(3):309-321.
+
+
+Ohler U, Yekta S, Lim LP, Bartel DP, Burge CB. Patterns of flanking sequence conservation and a characteristic. RNA. 2004 Sep;10(9):1309-1322.
+
+
+Paddison PJ, Caudy AA, Bernstein E, Hannon GJ, Conklin DS. Short hairpin RNAs (shRNAs) induce sequence-specific silencing in mammalian cells. Genes Dev. 2002 Apr 15;16(8):948-958.
+
+
+Paddison PJ, Cleary M, Silva JM, Chang K, Sheth N, Sachidanandam R, Hannon GJ. Cloning of short hairpin RNAs for gene knockdown in mammalian cells. Nat Methods. 2004 Nov;1(2):163-167.
+
+
+Park YJ, Liang JF, Ko KS, Kim SW, Yang VC. Low molecular weight protamine as an efficient and nontoxic gene carrier: in vitro study. J Gene Med. 2003 Aug;5(8):700-711.
+
+
+Parker JS, Roe SM, Barford D. Crystal structure of a PIWI protein suggests mechanisms for siRNA recognition and slicer activity. EMBO J. 2004 Dec 8;23(24):4727-4737.
+
+
+Paul CP, Good PD, Winer I, Engelke DR. Effective expression of small interfering RNA in human cells. Nat Biotechnol. 2002 May;20(5):505-508.
+
+
+Pedroso de Lima MC, Simões S, Pires P, Faneca H, Düzgüneş N.Cationic lipid-DNA complexes in gene delivery: from biophysics to biological applications. Adv Drug Deliv Rev. 2001 Apr 25;47(2-3):277-294.
+
+
+Pfeifer A, Ikawa M, Dayn Y, Verma IM.Transgenesis by lentiviral vectors: lack
+
+of gene silencing in mammalian embryonic stem cells and preimplantation embryos. Proc Natl Acad Sci U S A. 2002 Feb 19;99(4):2140-2145.
+
+Qin XF, An DS, Chen IS, Baltimore D. Inhibiting HIV-1 infection in human T cells by lentiviral-mediated delivery of small interfering RNA against CCR5. Proc Natl Acad Sci U S A. 2003 Jan 7;100(1):183-188.
+
+
+Rebecchi MJ, Pentyala SN. Structure, function , and control of Phosphoinositide-specific Phospholipase C. Physiol Rev. 2000 Oct;80(4):1291-1335.
+
+
+Rhee SG, Bae YS. Regulation of phosphoinositide-specific phospholipase C isozymes. J Biol Chem. 1997 Jun 13;272(24):15045-8.
+
+
+Rhee SG. Regulation of Phosphoinositide-specific Phospholipase C. Annu. Rev. Biochem. 2001. 70:281-312.
+
+
+Rivas FV, Tolia NH, Song JJ, Aragon JP, Liu J, Hannon GJ, Joshua-Tor L. Purified Argonaute2 and an siRNA form recombinant human RISC. Nat Struct Mol Biol. 2005 Apr;12(4):340-349.
+
+
+Root DE, Hacohen N, Hahn WC, Lander ES, Sabatini DM. Genome-scale loss-of-function screening with a lentiviral RNAi library. Nat Methods. 2006 Sep;3(9):715-719.
+
+
+Rozen S, Skaletsky H. Primer3 on the WWW for general users and for biologist programmers. Methods Mol Biol. 2000;132:365-386.
+
+
+Rubinson DA, Dillon CP, Kwiatkowski AV, Sievers C, Yang L, Kopinja J, Rooney DL, Zhang M, Ihrig MM, McManus MT, Gertler FB, Scott ML, Van Parijs L. A lentivirus-based system to functionally silence genes in primary mammalian cells, stem cells and transgenic mice by RNA interference. Nat Genet. 2003 Mar;33(3):401-406.
+
+
+Rudolph C, Lausier J, Naundorf S, Müller RH, Rosenecker J. In vivo gene delivery to the lung using polyethylenimine and fractured polyamidoamine dendrimers. J Gene Med. 2000 Jul-Aug;2(4):269-278.
+
+
+Ruiz FE, Clancy JP, Perricone MA, Bebok Z, Hong JS, Cheng SH, Meeker DP, Young KR, Schoumacher RA, Weatherly MR, Wing L, Morris JE, Sindel L, Rosenberg M, van Ginkel FW, McGhee JR, Kelly D, Lyrene RK, Sorscher EJ. A clinical inflammatory syndrome attributable to aerosolized lipid-DNA administration in cystic fibrosis. Hum Gene Ther. 2001 May 1;12(7):751-761.
+
+
+Schatzlein AG, Zinselmeyer BH, Elouzi A, Dufes C, Chim YT, Roberts CJ, Davies MC, Munro A, Gray AI, Uchegbu IF. Preferential liver gene expression with polypropylenimine dendrimers. J Control Release. 2005
+
+Jan 3;101(1-3):247-258.
+
+Scherr M, Battmer K, Winkler T, Heidenreich O, Ganser A, Eder M. Specific inhibition of bcr-abl gene expression by small interfering RNA. Blood. 2003 Feb 15;101(4):1566-1569.
+
+
+Scherr M, Eder M. Gene transfer into hematopoietic stem cells using lentiviral vectors. Curr Gene Ther. 2002 Feb;2(1):45-55.
+
+
+Scheule RK. The role of CpG motifs in immunostimulation and gene therapy. Adv Drug Deliv Rev. 2000 Nov 15;44(2-3):119-34.
+
+
+Schilling T, Küffner R, Klein-Hitpass L, Zimmer R, Jakob F, Schütze N. Microarray analyses of transdifferentiated mesenchymal stem cells. J Cell Biochem. 2007b Jul 3
+Schilling T, Nöth U, Klein-Hitpass L, Jakob F, Schütze N. Plasticity in adipogenesis and osteogenesis of human mesenchymal stem cells. Mol Cell Endocrinol. 2007a Jun 15;271(1-2):1-17.
+
+Schmid JA, Neumeier H. Evolutions in science triggered by green fluorescent protein (GFP). Chembiochem. 2005 Jul;6(7):1149-1156.
+
+
+Schütze N. siRNA technology. Mol Cell Endocrinol. 2004 Jan 15;213(2):115-119.
+
+
+Schutze N, Noth U, Schneidereit J, Hendrich C, Jakob F. Differential expression of CCN-family members in primary human bone marrow-derived mesenchymal stem cells during osteogenic, chondrogenic and adipogenic differentiation. Cell Commun Signal. 2005 Mar 17;3(1):5.
+
+
+Sen GL, Wehrman TS, Blau HM. (2005) mRNA translation is not a prerequisite for small interfering RNA-mediated mRNAs cleavage. Differentiation. 2005 Jul;73(6):287-293.
+
+
+Shaw G, Morse S, Ararat M, Graham FL. Preferential transformation of human neuronal cells by human adenoviruses and the origin of HEK 293 cells. FASEB J. 2002 Jun;16(8):869-871. Epub 2002 Apr 10.
+
+
+Sijen T, Fleenor J, Simmer F, Thijssen KL, Parrish S, Timmons L, Plasterk RH, Fire A. On the role of RNA amplification in dsRNA-triggered gene silencing. Cell. 2001 Nov 16;107(4):465-476.
+
+
+Sledz CA, Holko M, de Veer MJ, Silverman RH, Williams BR. Activation of the interferon system by short-interfering RNAs. Nat Cell Biol. 2003 Sep;5(9):834-839.
+
+
+Song E, Lee SK, Wang J, Ince N, Ouyang N, Min J, Chen J, Shankar P,
+
+Lieberman J. RNA interference targeting Fas protects mice from fulminant hepatitis. Nat Med. 2003 Mar;9(3):347-351.
+
+Song JJ, Smith SK, Hannon GJ, Joshua-Tor L. Crystal structure of Argonaute and its implications for RISC slicer activity. Science. 2004 Sep 3;305(5689):1434-1437.
+
+
+Stewart SA, Dykxhoorn DM, Palliser D, Mizuno H, Yu EY, An DS, Sabatini DM, Chen IS, Hahn WC, Sharp PA, Weinberg RA, Novina CD. Lentivirus-delivered stable gene silencing by RNAi in primary cells. RNA. 2003 Apr;9(4):493-501.
+
+
+Sui G, Soohoo C, Affar el B, Gay F, Shi Y, Forrester WC, Shi Y. A DNA vector-based RNAi technology to suppress gene expression in mammalian cells. Proc Natl Acad Sci U S A. 2002 Apr 16;99(8):5515-5520.
+
+
+Tabara H, Sarkissian M, Kelly WG, Fleenor J, Grishok A, Timmons L, Fire A, Mello CC. The rde-1 gene, RNA interference, and transposon silencing in C. elegans. Cell. 1999 Oct 15;99(2):123-132.
+
+
+Terskikh A, Fradkov A, Ermakova G, Zaraisky A, Tan P, Kajava AV, Zhao X, Lukyanov S, Matz M, Kim S, Weissman I, Siebert P. “Fluorescent timer”: protein that changes color with time. Science. 2000 Nov 24;290(5496):1585-1588.
+
+
+Tijsterman M, Ketting RF, Plasterk RH. The genetics of RNA silencing. Annu Rev Genet. 2002;36:489-519. Epub 2002 Jun 11.
+
+
+Tuschl T, Zamore PD, Lehmann R, Bartel DP, Sharp PA. Targeted mRNA degradation by double-stranded RNA in vitro. Genes Dev. 1999 Dec 15;13(24):3191-3197.
+
+
+Unger EC, Hersh E, Vannan M, Matsunaga TO, McCreery T. Local drug and gene delivery through microbubbles. Prog Cardiovasc Dis. 2001 Jul-Aug;44(1):45-54.
+
+
+Volpe TA, Kidner C, Hall IM, Teng G, Grewal SI, Martienssen RA. Regulation of heterochromatic silencing and histone H3 lysine-9 methylation by RNAi. Science. 2002 Sep 13;297(5588):1833-1837.
+
+
+Wall NR, Shi Y. Small RNA: can RNA interference be exploited for therapy? Lancet. 2003 Oct 25;362(9393):1401-1403.
+
+
+Wohlbold L, van der Kuip H, Miething C, Vornlocher HP, Knabbe C, Duyster J, Aulitzky WE. Inhibition of bcr-abl gene expression by small interfering RNA sensitizes for imatinib mesylate (STI571). Blood. 2003 Sep 15;102(6):2236-2239.
+
+Wolff JA, Malone RW, Williams P, Chong W, Acsadi G, Jani A, Felgner PL . Direct gene transfer into mouse muscle in vivo. Science. 1990 Mar 23;247(4949 Pt 1):1465-1468.
+
+Wu D, Huang CK, Jiang H. Roles of phospholipid signaling in chemoattractant-induced responses. J Cell Sci. 2000 Sep;113 ( Pt 17):2935-2940.
+
+
+Xia H, Mao Q, Eliason SL, Harper SQ, Martins IH, Orr HT, Paulson HL, Yang L, Kotin RM, Davidson BL. RNAi suppresses polyglutamine-induced neurodegeneration in a model of spinocerebellar ataxia. Nat Med. 2004 Aug;10(8):816-820.
+
+
+Xia XG, Zhou H, Zhou S, Yu Y, Wu R, Xu Z. An RNAi strategy for treatment of amyotrophic lateral sclerosis caused by mutant Cu, Zn superoxide dismutase. J Neurochem. 2005 Jan;92(2):362-7.
+
+
+Yang J, Chen S, Huang L, Michalopoulos GK, Liu Y. Sustained expression of naked plasmid DNA encoding hepatocyte growth factor in mice promotes liver and overall body growth. Hepatology. 2001 Apr;33(4):848-859.
+
+
+Yang NS, Burkholder J, Roberts B, Martinell B, McCabe D. . In vivo and in vitro gene transfer to mammalian somatic cells by particle bombardment. Proc Natl Acad Sci USA. 1990 Dec;87(24):9568-9572.
+
+
+Yang NS, Sun WH. . Gene gun and other non-viral approaches for cancer gene therapy. Nat Med. 1995 May;1(5):481-483.
+
+
+Yew NS, Scheule RK. Toxicity of cationic lipid-DNA complexes. Adv Genet. 2005;53:189-214.
+
+
+Yu JY, DeRuiter SL, Turner DL. RNA interference by expression of short-interfering RNAs and hairpin RNAs in mammalian cells. Proc Natl Acad Sci U S A. 2002 Apr 30;99(9):6047-6052.
+
+
+Yu JY, Taylor J, DeRuiter SL, Vojtek AB, Turner DL. Simultaneous inhibition of GSK3alpha and GSK3beta using hairpin siRNA expression vectors. Mol Ther. 2003 Feb;7(2):228-236.
+
+
+Zamore PD, Haley B. Ribo-gnome: the big world of small RNAs. Science. 2005 Sep 2;309(5740):1519-1524.
+
+
+Zamore PD, Tuschl T, Sharp PA, Bartel DP. RNAi: double-stranded RNA directs the ATP-dependent cleavage of mRNA at 21 to 23 nucleotide intervals. Cell. 2000 Mar 31;101(1):25-33.
+
+
+Zeng Y, Cullen BR. Efficient processing of primary microRNA hairpins by Drosha requires flanking nonstructured RNA sequences. J Biol Chem. 2005
+
+Jul 29;280(30):27595-27603.
+
+Zeng Y, Yi R, Cullen BR. Recognition and cleavage of primary microRNA precursors by the nuclear processing enzyme Drosha. EMBO J. 2005 Jan 12;24(1):138-148.
+
+
+Zhang G, Budker V, Wolff JA. High levels of foreign gene expression in hepatocytes after tail vein injections of naked plasmid DNA. Hum Gene Ther. 1999 Jul 1;10(10):1735-1737.
+
+
+Zhang H, Kolb FA, Brondani V, Billy E, Filipowicz W. Human Dicer preferentially cleaves dsRNAs at their termini without a requirement for ATP. EMBO J. 2002 Nov 1;21(21):5875-5885.
+
+
+Zhang H, Kolb FA, Jaskiewicz L, Westhof E, Filipowicz W. Single processing center models for human Dicer and bacterial RNase III. Cell. 2004 Jul 9;118(1):57-68.
+
+
+Zhang G, Vargo D, Budker V, Armstrong N, Knechtle S, Wolff JA. Expression of naked plasmid DNA injected into the afferent and efferent vessels of rodent and dog livers. Hum Gene Ther. 1997 Oct 10;8(15):1763-1772.
+
+
+Zhang S, Ma C, Chalfie M. Combinatorial marking of cells and organelles with reconstituted fluorescent proteins. Cell. 2004 Oct 1;119(1):137-144.
+ 8. Abbreviations
+
+8. AbbreviationsµgmicrogramµlmicroliterµmmicrometerAmprampicillin resistantbpbase paircDNAcomplementary DNACLcationic liposomeDMEMDulbecco’s modified Eagle’s mediumDMSOdimethyl sulfoxideDNAdeoxyribonucleic aciddNTPsdeoxynucleotide triphosphatesDOPCdi-oleoyl phosphatidylcholineDOPEdi-oleoyl phosphatidylethanolamineDOSPAdi-oleyloxy spermine-carboxamido propanammonium trifluoroacetateDOTAPdi-oleoyl trimethylammonium propanedsRBDdsRNA binding domain proteinsdsRNAdouble strand RNAEBethidium bromideEDTAethylene diamine tetraacetic acidFACSfluorescence activated cell sortingFBSfetal bovine serumFCSflurescence correlation spectroscopy 8. 
+FLIPfluorescence loss in photobleachingFRETfluorescence resonance energy transferFRAPfluorescence recovery after photobleachingGFPgreen fluorescent proteinHPLC-H2OHigh Performance Liquid Chromatography waterHEK cellsHuman Embryonic Kidney cellsLBLuria-Betani mediumMDBMembrane Desalting BufferMEMminimum essential mediummgmilligrammmmillimetermMmillimolarmiRNAmicro-ribonucleic acidmiRNPmicro-robonucleic proteinmRNAmessenger ribonucleic acidMSCsmesenchymal stem cellsNEAAnon-essential amino acidsngnanogramntnucleotideODoptical densityPBSphosphate-buffered salinePCRpolymerase chain reactionPEIpolyethyleneimineRNAribonucleic acidRNAaseribonucleaserpmround per minute 8. Abbreviations
+ 87
+RTroom temperature; reverse transcriptionRT-PCRreverse transcription PCRsaRNAsmall activating RNASDSsodium dodecyl sulfatesiRNAsmall interfering RNARISCRNA-induced silencing complexRNAiRNA interferenceTBETris-Boric acid, EDTA bufferTETris-HCl, EDTATrisTris (hydroxymethyl) aminomethaneTSRTemplate Suppression ReagentUVultraviolet 

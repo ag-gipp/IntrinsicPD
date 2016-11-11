@@ -1,0 +1,940 @@
+Aus dem Universitätsklinikum Münster
+Klinik & Poliklinik für Neurochirurgie
+Direktor: Univ.-Prof. Dr. med. Hansdetlef Wassmann
+
+The effects of somatostatin on spreading depression in rat
+neocortical tissues
+
+INAUGURAL – DISSERTATION
+zur
+Erlangung des doctor medicinae dentium
+der Medizinischen Fakultät
+der Westfälischen Wilhelms-Universität Münster
+
+vorgelegt von
+Cornelia Larissa Granz
+aus Hagen
+2009
+
+
+I.
+
+Introduction
+
+Spreading depression (SD), is a physiological/pathophysiological phenomenon which manifests as a
+propagating wave of neuronal hyperexcitability followed by a transient wake of depression, first
+identified in the cerebral cortex of rabbits (Leao, 1944; Gorji, 2001). The SD phenomenon is exclusive to the central nervous system and appears to influence both the neuronal and the glial cells. SD
+can be initiated by different stimuli and so can be directly studied in various in vivo and in vitro
+experimental models. It was first induced by applying a brief tetanus of faradic stimulation to the
+rabbit cortex (Leao, 1944; Bures, Buresova & Kriva´nek, 1974; Fig. 1). However, such stimuli
+could lead to convulsive activity spreading from the stimulated area and so subsequent authors preferred to employ direct current (DC) stimuli (Leao & Morrison, 1945; Ochs, 1962). Mechanical
+stimulation, for example, by stroking of the cortical surface with a blunt instrument, a falling weight
+or even lightly tapping the cortex also initiates SD (Lea˜o, 1944; Zachar & Zacharova´, 1963). More
+recent studies have achieved more reliable and reproducible induction of SD by rapidly inserting
+and retracting hypodermic steel needles (Kaube and Goadsby, 1994; Lambert et al., 1999; Ebersberger et al., 2001). However, one of the most common models of SD initiation is KCl application
+to the neuronal tissues (Wernsmann et al., 2006; Dehbandi et al., 2008). This model has been proven to be the most reliable stimulus leading to reproducible events on earlier occasions in both nonimaging and imaging studies (Martins-Ferreira et al., 2000; Bradley et al., 2001). In any case, changes in extracellular K+ concentration themselves might be involved in such pathophysiological
+processes in human brain tissue (Mayevsky et al., 1996; Nicholson & Sykova, 1998).
+
+Other methods of SD induction are including: (1) metabolic inhibitors such as NaCN and NaN that
+poison oxidative metabolism and NaF and iodoacetate that primarily interfere with glycolysis; (2)
+the Na+-K+ ATP-ase inhibitor ouabain has also been used in cortical brain slices; (3) applications of
+the excitatory amino acids glutamate and aspartate may elicit SD ; (4) local cooling may initiate SD
+by depressing energy metabolism below a critical level but has proven an irreproducible experimental method. Furthermore, cooling itself raises the threshold for electrically or mechanically induced
+SD.; (5) there are isolated reports of high-frequency electrical stimulation combined with the administration of pharmacological agents producing SD (Smith et al., 2006).
+
+6
+
+Fig. 1: Aristides Azevedo Pacheco Leão. Journal of Nourophysiology, 1944, Changes of
+bioelectrical activities recorded from a rabbit during propagation of spreading depression
+(SD). Traces reveal propagation of flattening epileptiform field potentials induced by spreading of cortical SD as well as spreading recovery of these activities.
+
+SD probably starts with a cellular efflux of K+, leading to depolarization and a period of relative
+electrical silence. The subsequent energy-dependent restitution of ion gradients eventually restores
+normal neuronal activities. The ionic activity, however, results in a wave of neuronal depolarization
+propagating away from the elicitation site at a velocity of 3 mm/min. Because the depolarizationrestoration process takes 1.5 min, the wave is only
+
+5 mm deep (James et al., 2001).
+
+SD involves a temporary localized redistribution of different ions between intracellular and
+extracellular spaces. This ion redistribution is energy dependent. During eliciting of SD the
+concentration of extracellular K+ [K+]o, rapidly rises (up to 60mM), causing brief neuronal
+excitation then depolarization and a period of electrical silence during which DC potential at the
+brain surface falls. In tandem, [Na+]o and [Cl−]o levels decrease as these ions enter cells.
+Consequently, water enters cells, the extracellular space is reduced, and cells swell. Ca2+ ions also
+move inwards, but slightly later than the outward movement of K+, suggesting that Ca2+ movements
+follow K+ fluxes. Additional negative ion species move outwards to maintain electrical balance, the
+excitatory neurotransmitter glutamate probably being the most important (Somjen et al., 2001).
+
+7
+
+No explanation of the propagation of SD has been suggested that accounts for all the facts presently
+proven. The hypothesis that gained wide acceptance is that the spread of SD probably involves the
+release and diffusion of the chemical mediators, most likely K+ and glutamate into the interstitial
+fluid. In the isolated chick retina, human neocortical tissue and cat brain, NMDA receptor
+antagonists block SD completely. By contrast, in rat hippocampus, glutamate and Ca2+ facilitate SD
+initiation, whereas NMDA antagonists and low Ca2+]o delay its onset but fail to block SD
+completely. Given the widespread potential signaling capacities of Ca2+ waves, observations of the
+interactions between astrocytes and neurons in cell culture have suggested that Ca2+ waves play a
+role in SD initiation and propagation.
+Both volume-activated ion channels and glial cells probably play important roles in the restoration
+of normal cellular homeostasis. The former are stimulated during cell swelling, and the latter provide spatial buffering that prevents increased levels of [K+]o and [Glu−]o during normal neuronal
+activity. However, they might also prolong SD: volume-activated ion channels release glutamate
+during SD; and although gliotoxins prolong SD, they also reduce glutamate efflux from glial cells.
+SD appears more difficult to evoke in brains of larger animals in which the ratio of glia to neurones
+tends to be higher, suggesting that glial cells are important for limiting SD activity. Such limiting
+forces might be greater in the more complexly folded human brain, and could explain the paucity of
+literature accounts of SD during neurosurgery.
+
+1. Clinical relevance of SD
+
+Processes similar to SD in animal cortex are thought to take place in a number of neuropathological
+conditions in humans. These conditions include migraine with aura, brain trauma, ischemia/infarction, epilepsy, hemorrhage and transient global amnesia (see Gorji, 2001 for a recent review on clinical aspects of SD). Direct modulation of electrical activity of cortical neurons by the
+locally spreading wave can lead to neurological symptoms (e.g. the aura phase of migraine). These
+same neuronal processes can also alter the neurochemistry of subcortical structures, modulating
+oxygen distribution, cell survival in these structures and behavior. This problem has not been addressed before, mainly because SD induces such a short depression in each cortical loci, that transient neurochemical changes cannot be examined with conventional approaches, for example by
+microdialysis.
+
+8
+
+a) SD and migraine with aura
+SD and migraine with aura: A few years before, Lashley (1941) explained the visual aura associated
+with his own ophthalmic migraine attacks as bright scintillations moving across his visual field
+leaving a blind area in his visual field. Mapping the trajectory of this scotoma across his visual field
+gave a predicted velocity over a retinotopically organised visual cortex of approximately 3 mm/min
+(Lashley, 1941; Milner, 1958). This report accordingly suggested a possible physiological mechanism for migraine aura in the visual cortex. Thus, one may suggest that the scintillations represent
+the excitatory phase, while the pursuing blind spot is the inhibitory process of a SD event. Similar
+conclusions were suggested from blood flow studies (Lauritzen, 1984) that demonstrated that the
+oligaemia associated with the spread of SD from the occipital cortex showed a very similar propagation velocity to that of the SD itself. Magnetoencephalographic studies in human revealed that the
+magnetic signals were seen in migraine patients but not in patients suffering from other forms of
+headache or normal controls. Three distinctive signal patterns; suppression of spontaneous cortical
+activity, slow field changes and large-amplitude waves, were observed strictly in migraine patients.
+In some patients with migraine, magnetic signals were also recorded between attacks. The same
+magnetic fields appeared during the propagation of SD in the cortex of anesthetized animals (Welch
+et al, 1993). A recent study strongly supports the link between SD and the aura period in human
+visual cortex. High-field functional magnetic resonance imaging (MRI) was used to detect blood
+oxygenation level-dependent (BOLD) changes during visual aura in three migraineurs. A focal increase in BOLD signals developed first in extrastriate cortex and spread at the velocity of 3.5 ± 1.1
+mm/min over occipital cortex. These initial BOLD features were consistent with scintillations and
+paralleled by decreases in the stimulus-driven MR oscillations. Increasing in BOLD signals was
+followed by a decrease in the mean MR signal. This phase appeared to correspond to the localized
+scotoma and MR stimulus-induced response remained suppressed. Within 15±3 min, both BOLD
+signals and MR stimulus-induced response recovered. During periods with no visual stimulation,
+but while the subject was experiencing scintillations, BOLD signal followed the retinotopic progression of the visual percept. Spreading BOLD signal changes as CSD did not cross prominent
+sulci (Hadjikhani et al., 2001). The most common symptoms during the aura phase in migraine are
+visual. As mentioned, spreading oligemia and excitation wave of aura symptoms start in occipital
+lobe and propagate anteriorly. Altering the ionic makeup of the extracellular fluid reversibly raises
+or lowers the susceptibility to SD. Glial cells act as spatial buffer explicitly for potassium by taking
+potassium up and carrying it from regions of high concentration to neighbouring regions of low
+concentration. In human the lowest glial-neuronal ratio is in the primary visual cortex (Fig. 2; Gorji,
+2001).
+
+9
+
+Spreading depression
+Horizontal propagation
+Front of excitation
+
+Zone of depression
+
+DC4
+
+Vertical propagation
+
+I
+II
+
+DC3
+
+III
+
+IV
+
+DC2
+V
+
+2
+mV
+VI
+
+DC1
+
+10 s
+
+KCl
+
+Fig. 2: Above row: a schematic pattern of propagation of spreading depression in human brain.
+Lower row: Traces recorded from human tissues. Vertical propagation of spreading depression
+reveals a very slow velocity of DC-negative deflection.
+
+b) SD and epilepsy
+SD and epilepsy: regional cerebral blood flow (rCBF) changes in epilepsy have some similarities to
+those changes in migraine. The human brain frequently has been observed during convulsive
+seizure. An initial pallor preceding and during the early phase of epileptic attack was reported while
+the latter part of the fit and post-convulsive state were accompanied by widespread vasodilatation of
+cerebral vessels. The dilated vessels were first cyanotic, and then for several hours bright red.
+Positron emission tomography shows a significant reduction of rCBF and oxygen consumption in
+interictal period and an increased local blood flow in the ictal state in epileptic focus. The small but
+significant reduction in both of those observed in cerebral hemisphere homolateral to the
+hypoperfused and hypometabolic areas (Bernardi et al., 1983). Ictal scans revealed a focal or
+multifocal increase in rCBF and oxygen consumption in an active seizure focus (Olesen, 1986).
+
+10
+
+SD is a well-known phenomenon in experimental epilepsy. SD has been observed in a variety of in
+vitro and in vivo epilepsy models in different animal species. Reduction of extracellular Mg2+
+concentrations, activation of NMDA receptors, blocking of K+ channels, e.g., by 4-aminopyridine,
+increased extracellular K+, blocking of Na+–K+ ATPase, e.g., by ouabain, blocking of Ca2+
+channels, e.g., by NiCl2, blocking of GABA receptors, e.g., by picrotoxin, are the common
+pathways for eliciting epileptiform burst discharges and SD in experimental models (Gorji, 2001).
+By all aforementioned mechanisms SD appears spontaneously between epileptiform ictal events.
+SD can be elicited in susceptible area by a single discharge of an epileptic focus (spike triggered
+SD). Epileptiform field potentials usually suppress during SD occurrence and reappear in few
+minutes (Koroleva and Bures, 1983). CSD penetration into epileptic foci established in different
+models of epilepsy. However, it should be noted that SD does not enter electrically or
+pharmacologically elicited foci of epileptic activity with high rates of interictal discharges which
+resulted in anomalous SD propagation. This abnormal SD conduction may account for periodic
+changes of ictal and interictal activity found in some types of focal epilepsy (Koroleva and Bures,
+1983). SD was observed in association with epilepsy in patients suffering from brain vascular
+disorders (Fabricius et al., 2008).
+c) SD and cerebrovascular diseases
+SD and cerebrovascular diseases: SD was observed in patients suffering from brain
+ischemia/infarction, brain haemorrhage, and subarachnoid haemorrhage. The damage to cerebral
+tissue depends on a complex series of physiological responses and degradative cellular cascades
+involving a dynamic interplay among the various cells in the region of damaged tissue.
+Experimental studies of focal ischemic stroke in animals and human support the concept that there
+is a core of severe ischemia, the ‘ischemic core’ which is surrounded by a region of reduced
+perfusion, the ‘ischemic penumbra’. Within the ischemic core, failure of oxygen and glucose
+delivery leads to rapid depletion of energy stores and cell death. Central to the hypothesis of
+neuronal salvage is the concept of the ischemic penumbra. The penumbra is an area which
+metabolic capacity is suppressed but destruction is not yet inevitable (Olesen et al., 1986). The
+etiology of progressive cell injury and death in the penumbra zone has been clarified in some
+extent. Evidence suggests that SD plays a role in the ischemia–infarction tissue damage process.
+Excitotoxicity results from excessive release and impaired uptake of excitatory neurotransmitter
+glutamate. It is hypothesized that excessive amount of glutamate increases intracellular calcium
+preferentially via NMDA-receptor-mediated channels. A profound increase in extracellular
+potassium occurs in the ischemic core. There is a suggestion that the high potassium concentration
+11
+
+in the ischemic focus initiates diffusion of K+ into the adjacent normally perfused cortex and
+triggers SD waves propagating from the rim of the focus to the surrounding intact tissue during the
+early stages of focal ischemia (Nedergaard and Astrup, 1986). Local reduction of tissue glucose
+content, caused by the increased demands and reduced supply of glucose in the area, might further
+reduce the threshold for elicitation of SD. In subsequent minutes and hours, further SD waves can
+be generated from the boundary of the focus provided that the chemical gradient is steep enough to
+support sufficiently intensive diffusion of active substances into the intact cortex (Hossmann, 1996).
+A SD wave initiated from a single point at the periphery of the focus spreads away from it but may
+turn around and enter the penumbra zone in a different area of the focus. Generation of SD is
+limited to an approximately 2-h period after ischemia, followed by a shorter interval of increased
+SD susceptibility which disappear 3–4 h after the onset of focal ischemia (Koroleva et al., 1998).
+Such SD waves significantly longer than those occurring in intact cortex and can be potentially
+harmful because they are accompanied by additional release of glutamate and influx of calcium into
+the neurons. In normal brain tissue, repeated SD waves do not induce any morphological or
+metabolic damage. However, it is believed that when SD repeatedly collapses ionic gradients,
+activation of NMDA receptors and gap junctions propagates SD and triggers a massive Ca2+ influx,
+which in energy-compromised neurons is enough to initiate a cell death cascade (Somjen et al.,
+1990). The tissue fully recovers when SD induced by elevating K+ in rat hippocampal slices, but in
+slices that are metabolically compromised by oxygen/glucose deprivation, cellular damage develops
+only where SD has propagated. After propagating SD in oxygen/glucose-deprived tissues, the
+evoked CA1 field potential is permanently lost, the cell bodies of involved neurons swell and their
+dendritic regions increase in opacity (Obeidat and Andrew, 1998).
+
+SD can serve as a marker of normal function of SD-prone cerebral tissue. It disappears in cortical
+regions in which neuronal density was reduced by ischemia and can be used for appreciation of
+delayed recovery or deterioration in the penumbra zone after focal ischemia. Several studies showed
+that in focal brain ischemia SD increases the ischemic volume. The pathogenic importance of periinfarct depolarizations for the progression of ischemic injury is supported by the close linear
+correlation between number of SD and the duration of elevated potassium with infarct volume and
+reduction of infarct size and neuronal loss in penumbra area by application of NMDA and nonNMDA receptor antagonist and by hypothermia (Mies et al., 1993; Mies et al., 1994).
+
+12
+
+2. Somatostatin
+Since its discovery three decades ago, somatostatin has attracted much attention because of its
+functional role in the regulation of a wide variety of physiological functions in the brain, pituitary,
+pancreas, kidney, gastrointestinal tract, thyroid, adrenals, and immune system. Somatostatin actions
+include inhibition of endocrine and exocrine secretions, modulation of neurotransmission, motor as
+well as cognitive functions, cell proliferation, cell survival, angiogenesis, inhibition of intestinal
+motility, absorption of nutrients and ions, and vascular contractility. In addition, the peptide
+controls the proliferation of normal and tumour cells (Weckbecker et al., 2003). The biological
+effects of somatostatin are mediated via high-affinity plasma membrane receptors, which are widely
+distributed throughout many tissues ranging from the central nervous system to the pancreas and
+intestine, and also in pituitary, lung, kidney, thyroid, and immune cells (Lahlou et al., 2004).
+
+The mechanisms whereby somatostatin receptors transduce agonist-induced messages into
+intracellular responses under different conditions and in different cells are complex. Somatostatin
+receptors (sst1-sst5) are encoded by five different genes located on varied chromosomes. These
+receptors activate a variety of intracellular signaling mechanisms and thereby regulate a complex
+array of cellular functions. The biological effects of somatostatin are mediated through this family
+of five G-protein coupled receptors with a high degree of sequence similarity and which have been
+cloned in the early 1990s. They are encoded by five separate genes, located on five different
+chromosomes, intronless except for sst2, which is alternatively spliced to generate two isoforms
+named sst2A and sst2B observed mainly in rat and mouse. They all bind natural peptides,
+somatostatin 14, somatostatin 28 and cortistatin with similar high affinity (nM range). Only sst5
+displays a 10-fold higher affinity for somatostatin 28 (Patel, 1999). Because of naturally occurring
+somatostatins have short half-lives in circulation (1–3 min), synthetic derivatives have been
+designed to produce more stable compounds. Among the many hundreds of somatostatin analogs
+that have been synthesized, two analogs are in common clinical use for the treatment of patients
+with acromegaly and gastroenteropancreatic (GEP) endocrine tumors: octreotide and lanreotide. A
+third, vapreotide (Sanvar®) which has been well characterized in preclinical studies for its negative
+effect on cell proliferation is under clinical trials (Gonzalez-Barcena et al., 2003).
+
+13
+
+Fig. 3: Chemical structure of somatostatin hormone.
+
+3. Somatostatin in brain
+Somatostatin receptors express in various sites in the brain. Somatostatin is produced by
+neuroendocrine neurons of the periventricular nucleus of the hypothalamus. These neurons project
+to the median eminence, where somatostatin is released from neurosecretory nerve endings into the
+hypothalamo-hypophysial portal circulation. These blood vessels carry somatostatin to the anterior
+pituitary gland, where somatostatin inhibits the secretion of growth hormone from somatotrope
+cells. The somatostatin neurons in the periventricular nucleus mediate negative feedback effects of
+growth hormone on its own release; the somatostatin neurons respond to high circulating levels of
+growth hormone by increasing the release of somatostatin. It is also produced by several other
+populations that project to other regions of the brain. In particular, there are populations of
+somatostatin neurons in the arcuate nucleus, the hippocampus and the brainstem nucleus of the
+solitary tract.
+14
+
+The boundaries of the neocortical areas can be determined by the distribution pattern of neurons
+expressing somatostatin mRNA in rat neocortex. The occipital region was stratified, with intensely
+labelled cells for somatostatin in layers II/III and VI and faintly labelled cells in layer V. The
+parietal region carried a similar stratification, but more space between intensely labelled cells in
+layers III and V and between layers V and VI gave the region a three-tiered appearance. The
+temporal lobe displayed intensely labelled cells dispersed throughout layers III and VI and many in
+layer V as well as those faintly labelled without any differences among the laminae. The
+distribution of the cells hybridized for somatostatin mRNA formed two configurations within the
+frontal region. It was difficult to identify any lamination in the first area, whereas the second area
+demonstrated stratification reminiscent of the parietal region (Garrett et al., 1994).
+
+Both excitatory and inhibitory activities have been associated with somatostatin in in vivo and in
+vitro experiments. At the cell membrane level, however, the overwhelming evidence indicates that
+somatostatin is an inhibitory neuropeptide. It inhibits cyclic adenosine 3-5-monophosphatase, block
+calcium efflux, and open potassium channels (Jacquin et al., 1988). Excitatory activiactivity could
+be due to presynaptic modulation of other inhibitory or excitatory neurotransmitters. The ionic
+mechanism whereby somatostatin directly induces membrane depolarisation is unclear (Koch et al.,
+1988; Scharfman and Schwartzkroin, 1988).
+
+Somatostatin was suggested to be an effective therapy in many different neurological as well as
+psychological disorders. Somatostatin was reported to express therapeutic effects in SD related
+neurological disorders such as migraine (Goadsby, 2005), epilepsy (Binaschi et al., 2003), and
+cerebrovascular disorders (Cervia et al., 2008). The aim of this study was to investigate the effect of
+somatostatin on the characteristic features of cortical SD. Therefore, we investigated the effects of
+different concentration of somatostatin on SD in rat neocortical tissues.
+
+15
+
+II. Material and methods
+The experiments were performed on adult rat (250-350g) somatosensory neocortical slices. The
+brain was removed under deep methohexital anaesthesia and placed in cold (1–4°C) artificial
+cerebrospinal fluid (ACSF) pre-equilibrated with 5% CO2 in O2 to give a pH of 7.4. The ACSF
+contained (in mM): NaCl 124, KCl 4, CaCl2 1.0, NaH2PO4 1.24, MgSO4 1.3, NaHCO3 26 and
+glucose 10. The somatosensory neocortices were dissected and cut into slices of 500
+
+m thickness.
+
+The slices were incubated in ACSF solution for >1 h at 28°C. After 30-min incubation, CaCl2 was
+elevated to 2.0 mM. Slices were transferred to an interphase-type experimental chamber and
+superfused with ACSF at 32°C (1.5–2 ml/min).
+1. Electrophysiological recordings
+Extracellular field potentials were recorded with glass microelectrodes (150 mmol/l NaCl; 2–10
+M ) connected to the amplifier by an Ag/AgCl–KCl bridge in the third and the fifth layers of
+neocortical tissues. Field potentials were traced by an ink-writer and recorded by a digital
+oscilloscope.
+2. Induction of neocortical SD
+
+SD was elicited by KCl microinjection. A glass electrode filled with 2 M KCl was fixed in a special
+holder connected with plastic tube to a pressure injector and the tip inserted into the sixth layer of
+the neocortical slices. A high-pressure pulse was applied to inject an amount of K+ in the tissue sufficient to induce cortical SD (tip diameter: 2
+
+m; injection pressure 0.5–1.0 bar applied for 200–
+
+300 ms, two injections, 1–3 nl per pulse). Cortical SD-like events were evaluated with respect to
+their amplitude, duration and velocity rates. SD duration was defined as the interval between the
+time of half-maximal voltage shift during onset and recovery of the negative DC potential deflection.
+
+3. Long-term potentiation
+
+Single pulses of electrical stimulation were applied through a bipolar platinum electrode attached to
+the white matter perpendicular to the recording electrodes. Evoked field excitatory postsynaptic
+potentials (fEPSP) were recorded in the third layer of neocortical slices. The fEPSP was elicited by
+adjusting the intensity of stimulation to 50% of that at which population spikes after fEPSP began
+16
+
+to appear. The amplitude of fEPSP 1 ms after the onset was measured for data analysis. In long-term
+potentiation (LTP) experiments, the cortex was sequentially stimulated once every minute. Ten
+trains of four pulses (pulse duration 0.1 msec; interpulse interval 50 msec; intensity 5 V) were
+repeated at intervals of 10 msec. LTP was operationally defined as the mean change in fEPSP
+amplitude in response to five stimuli given 30 min after tetanic stimulation compared with the mean
+response to five test pulses applied immediately before the stimulation. Thus % potentiation =
+[(posttetanus amplitude of fEPSP/baseline amplitude of fEPSP) 1] 100. Tetanic stimulation was
+applied 60 min after application of drug.
+4. Experimental protocols
+The experimental protocol consisted of four periods as follows: (a) control period, neocortical slices
+were superfused with ACSF (30 min), tested for spontaneous SD; (b) KCl injection, induction of
+SD (SD1); (c) application of somatostatin (100-1000 nM) before the second injection of KCl (SD2);
+(d) washout of somatostatin with ASCF (45 min, second control period), third injection of KCl
+(SD3). Only a single concentration of somatostatin was used in a given slice. In control
+experiments, DMSO (0.5%) was added to the bath solution after the first KCl injection (60 min) and
+washed with ASCF (45 min) after the second and before the third KCl application.
+5. Drugs
+Somatostatin purchased from Sigma-Aldrich.
+
+6. Statistical analysis
+All data are given as mean ± SEM. The data were statistically analysed using the Mann–Whitney
+Rank Sum test. Multiple comparisons were performed by analysis of variance test (ANOVA) for
+repeated measures followed by a Holm-Sidak’s test. Significance was established when the
+probability values were less than 0.05. The investigations were approved by the local ethics
+committee (Tierversuchsgenehmigung, Bezirksregierung Münster, Deutschland, AZ: 50.0835.1.0,
+G79/2002).
+
+17
+
+III. Results
+1. The effect of somatostatin on SD
+Focal application of KCl in the sixth layer of neocortical tissues elicited negative DC waves
+followed by positive waves (amplitude of 14.4 ± 1.6 mV; duration of 108 ± 4 sec). Negative DCdeflections were preceded by small positive waves in some slices. The cortical SD waves
+propagated opposite to the direction of the ACSF flow at propagation velocity of 3.5 ± 0.2 mm /
+min. The effects of four different concentrations of somatostatin (100, 250, 500, 1000 n ; n = 8 for
+each concentration) were tested on KCl-induced SD in neocortical slices. The ratio between the
+second and the first DC potential fluctuations (SD2/SD1) was calculated in control slices and slices
+treated with somatostatin. Sixty minutes of somatostatin application at all concentrations did not
+significantly change duration as well as velocity of SD. However, somatostatin at all concentrations
+dose-dependently decreased the amplitude of negative depolarisation potential shifts occurring after
+the second KCl application (SD2). Somatostatin decreased the SD amplitude to 30.1 ± 4.4 %, 59.2
+± 10.6 %, 66 ± 6.6 %, 92.8 ± 4.7 % of the baseline level after application of 100 n , 250 n , 500
+n ,1
+
+M , respectively (Fig. 4; P ≤ 0.001; ANOVA test, Holm-Sidak’ method). After washout of
+
+somatostatin, the amplitude of the negative DC waves (SD3) returned to the initial levels (SD1; Fig.
+4).
+2. The effect of somatostatin on LTP
+A conditioning tetanic stimulation was delivered to the white substance of neocortical slices
+followed by pulses with stimulation parameters identical to control values. The evoked fEPSP was
+stable for at least 30 min before application of tetanic stimulation (less than 10% variation; Fig. 5).
+Administration of tetanic stimulation produced a rapid and stable enhancement of the amplitude of
+the fEPSP in all tested preparations (n = 6, 153 ± 10 % control; Fig. 6). LTP lasted as long as the
+fEPSP were recorded (at least for 90 min). The potentiation rose within 1–2 min and stabilized
+within 5 minutes after the train of stimulations. Application of somatostatin (500 nM; n = 12) sixty
+min before tetanic stimulation significantly suppressed LTP induction in all tested slices (131 ± 4 %
+baseline, Mann–Whitney Rank Sum test; P ≤ 0.001, Fig. 5).
+
+18
+
+A
+SD 1
+
+SD 2
+
+SD 3
+
+SD amplitude suppression (%)
+
+B
+100
+
+80
+
+60
+
+40
+
+20
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+somatostatin concentration (nanomol/ l)
+
+Fig. 4: Effects of somatostatin on cortical spreading depression (SD) in somatosensory
+neocortical tissues. A: Recording of DC potential shifts in the third layer of a neocortical
+slice before (A1), during (A2), and after (A3) application of somatostatin (500 nM). Field
+potentials were recorded by an ink-writer. SD was elicited by KCl microinjection. B: The
+curve indicates the plot of percentage decreases of SD amplitude vs. somatostatin concentrations (n = 8 for each concentration). Somatostatin dose-dependently decreased the
+amplitude of SD. The percentage of SD amplitude reduction was measured by division of
+19
+
+the amplitude of SD induced after application of somatostatin to the amplitude of SD elicited before superfusion of the substance. Values represent mean ± SEM. Significance was
+determined by ANOVA test followed by Dunn’s post-test (B; P ≤ 0.001).
+
+20
+
+fEPEP amplitude (% baseline)
+
+A
+160
+
+140
+
+120
+
+Somatostatin
+Control
+
+100
+
+80
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Time ( min)
+
+B
+
+Somatostatin
+
+Control
+
+0.2 mV
+5 ms
+
+Fig. 5: The effect of somatostatin on long-term potentiation (LTP) of the evoked field excitatory postsynaptic potentials (fEPSP) in neocortical preparations. (A) Tetanic stimulation
+(Ten trains of four pulses; pulse duration 0.1 msec; interpulse interval 50 msec; intensity 5
+V) produces a rapid and stable potentiation in the amplitude of the evoked field potentials,
+calculated as a percentage of baseline mean response amplitude. Open triangles, open
+square, and closed circles show the evoked fEPSP after application of somatostatin (500
+nmol/l), and control, respectively. Arrow shows the time of tetanic stimulation, 60 min after
+21
+
+application of substances. Application of somatostatin significantly inhibited LTP of the
+evoked field potentials (Mann–Whitney Rank Sum test, P = 0.001), calculated as a percentage of baseline mean response amplitude. B: Representative examples of the evoked
+field potentials before and after tetanic stimulation in somatostatin and ACSF (control) affected slices.
+
+22
+
+IV. Discussion
+The present study indicates a dose dependent suppression of the amplitude of the neocortical SD in
+the presence of somatostatin. However, somatostatin did not change the duration and the velocity of
+the propagation of SD. The data point to the involvement of somatostatin in initiation of neocortical
+SD. Furthermore, administration of somatostatin significantly suppressed LTP. This indicates that
+somatostatin modulates synaptic activities in rat somatosensory neocortical.
+Somatostatin is widely distributed throughout the central nervous system and in the periphery (Epelbaum et al., 1994). Regional differences in the concentration of somatostatin and its receptors
+have been found in the CNS, with the highest levels in the hypothalamus, cortex and limbic areas
+(Epelbaum, 1986; Thoss et al., 1997). The demonstration of a neuronal, Ca2+- and tetrodotoxindependent release of somatostatin (Iversen et al., 1978; Lee and Iversen 1981; Vezzani et al., 1993),
+its coexistence in neurons with classical neurotransmitters (Hokfelt, 1991) and its ability to affect
+neuronal activity and ionic currents (Scharfman, 1993) suggest that this neuropeptide has neurotransmitter and/or neuromodulator activities in the CNS. Somatostatin has been implicated in a variety of central functions ranging from neuroendocrine regulation to the control of cognition and locomotion, and changes in SRIF levels have been linked to numerous neurological disorders such as
+Parkinson’s as well as Alzheimer’s disease, epilepsy, migraine, and cerebrovascular diseases (Epelbaum et al., 1994; Goadsby, 2005; Binaschi et al., 2003; Cervia et al., 2008).
+
+Somatostatin system is activated during hyperexcitation of neuronal circuits. Although some early
+studies suggested that somatostatin had augmenting actions on seizures (Higuchi et al. 1983; Perlin
+et al. 1987), the hypothesis of somatostatin being acted as an antiepileptic substance originates from
+the several evidences. 1. The peptide is preferentially released during high-frequency neuronal activities (Bartfai et al., 1988; Hokfelt 1991; Vezzani et al., 1993). 2. Marked changes in the expression of somatostatin mRNA, the levels of the peptide and its receptors occur after experimentally
+induced epileptiform burst discharges (Pitkanen et al., 1986; Sloviter 1987; Marksteiner and Sperk
+1988; Pérez et al., 1995; Piwko et al., 1996; Schwarzer et al., 1996) and in human epileptic tissue
+obtained during epilepsy surgery (Perlin et al., 1987; Nagaki et al., 1988; de Lanerolle et al.,. 1989;
+Deutch et al., 1991; Spencer and Spencer 1994). 3. Intracerebral injections of somatostatin affect
+seizures and epileptogenesis in experimental animals (Perlin et al., 1987; Mazarati and Telegdy
+1992; Monno et al., 1993; Piwko et al., 1996). The data indicate association between somatostatin
+and epilepsy suggest that peptidergic systems may be an interesting target for pharmacological at-
+
+23
+
+tempts to control pathological hyperactivity in neurons, pointing out new directions for the development of anticonvulsant treatments (Vezzani and Hoyer, 1999).
+Somatostatin has been shown to block the release of numerous vasoactive peptides, including
+Calcitonin Gene-Related Peptide and vasoactive intestinal polypeptide e et al.(Fassler et al., 1990;
+Helyes, 2001). Neurons containing somatostatin are found in the regions of the central and
+peripheral nervous system involved in nociception, such as peripheral sensory fibres, dorsal horn of
+the spinal cord, trigeminal nucleus caudalis, periaqueductal gray and the hypothalamus (Schindler et
+al., 1997). Intravenous somatostatin (25 µg/min for 20 min) was compared with treatment with
+ergotamine (250 µg intramuscularly), or placebo in a double-blind trial comprising 72 attacks in
+eight patients (Sicuteri et al., 1984). Infusion of somatostatin reduced the maximal pain intensity
+and the duration of pain to a level comparable with intramuscular ergotamine. In a randomized,
+double-blind study subcutaneous somatostatin was compared with ergotamine (Geppetti et al.,
+1985). Five patients were treated for three attacks by each of the drugs. Subcutaneous somatostatin
+and ergotamine were equally beneficial as regards effects on maximal pain intensity and the pain
+area, but somatostatin was less effective in reduction of the duration of headache. Octreotide, a
+somatostatin analogue with a half-life of approximately 1.5 h has been reported as an anti-headache
+substance. Episodic and chronic cluster headache response rate with subcutaneous octreotide was
+52% while that with placebo was 36% (Matharu et al., 2004).
+
+The primary cause of neuronal death in retinal diseases is ischaemia, a condition that can be
+considered a final common pathway for injury in different retinal pathologies (Quigley et al., 1995;
+Levin and Louhab 1996). The peptide somatostatin plays important physiological roles, mostly
+inhibitory, which have formed the basis for the clinical use of SRIF compounds (Weckbecker et al.,
+2003; Cervia and Bagnoli 2007), and it may protect the retina against ischaemia in a variety of
+retinal diseases (Cervia et al., 2008). In non-neuronal cells, somatostatin has been shown to enhance
+death ligand- and mitochondria-mediated apoptosis (Guillermet et al., 2003), indicating that
+conserved signaling pathways in programmed cell death can be influenced by somatostatin
+receptors. Intracerebral applications of SSTR ligands before middle cerebral artery occlusion affect
+the infarct volume in a dose-dependent manner (Rauca et al., 1999), suggesting that somatostatin
+may influence neurodegeneration after brain ischemia. Activation and upregulation of somatostatin
+receptors type 2 in perifocal pyramidal neurons after focal ischemia were reported. Upregulation of
+these receptors is most likely the result of both somatostatin-derived and heterologous signals and
+may counteract somatostatin desensitization. Excessive activation of somatostatin receptors type 2
+
+24
+
+in perifocal neurons by endogenous ligands is likely to account for the larger infarcts in wild-type
+mice than in somatostatin receptors type 2 -deficient mice (Stumm et al., 2004).
+SD is believed to play a crucial role in migraine with aura, cerebrovascular diseases, and epilepsy.
+In the present study, somatostatin significantly suppresses neocortical SD. Several other antimigraine and anti-epileptic drugs such as Topiramate, valproate, propranolol, amitriptyline, and
+methysergide also have inhibitory effects on SD (Ayata et al., 2006). Therefore, somatostatin may
+express its therapeutic effects on abovementioned disorders by its inhibitory effects on neocortical
+SD.
+
+LTP is an experimental phenomenon, which can be used to demonstrate the repertoire of longlasting modifications of which individual synapses are capable (Collingridge & Singer 1990,
+Malenka & Bear 2004). In the present investigations, neocortical slices perfused with somatostatin
+exhibited a pronounced, persisting, and significant suppression of LTP. In hippocampal CA1 area,
+somatostatin activates postsynaptic K+ currents in pyramidal neurons (Moore et al., 1988; Schweitzer et al., 1998) to hyperpolarize neurons away from their threshold for firing. Somatostatin inhibits
+glutamatergic excitatory postsynaptic currents at CA1 Schaeffer collateral synapses, while not
+affecting GABAergic inhibitory postsynaptic currents (Boehm and Betz 1997; Tallent and Siggins
+1997). In CA3, somatostatin inhibits excitatory postsynaptic currents generated at associational/commissural synapses (Tallent and Siggins 1999). In line with our results, it has been reported that is released during high-frequency activation of somatostatin containing interneurons and
+acts to prevent LTP in lateral perforant pathway (Baratta et al., 2002). However some other studies
+have suggested that somatostatin facilitates LTP at some synapses in the hippocampus. An in vitro
+study in guinea pig demonstrated that SST augmented mossy fiber LTP in CA3 neurons (Matsuoka
+et al. 1991). In dentate, a previous in vivo study in rat suggested facilitation by SST of medial perforant path LTP (Nakata et al. 1996). Several inhibitory neuropeptides depress LTP in different
+brain structures. In vitro studies have shown nociceptin (Yu and Xie 1998), dynorphin (Terman et
+al. 1994) to depress LTP at lateral perforant pathway synapses. These peptides likely have a presynaptic site of action in inhibiting glutamate releases, although they could also act postsynaptically
+(Yu and Xie 1998). Neuropeptide Y inhibits N-type Ca2+ currents and Ca2+ transients in dentate
+granule cells (McQuiston et al. 1996); thus, like somatostatin, this is a possible mechanism through
+which this peptide could attenuate LTP.
+
+SD induces an LTP-like effect in rat neocortical slices (Footitt and Newberry 1998) and facilitates
+LTP induction in human neocortical tissues (Berger et al., 2008). Both inhibition of LTP induction
+25
+
+and SD generation were observed by drug manipulation in rat neocortical tissues (Muller et al.,
+2006). Conversely, facilitation of LTP induction and enhancement of SD occurrence was observed
+under both female hormones estrogen and progesterone application in rat somatosensory neocortical
+tissues (Sachs et al, 2007). Modulation of LTP responses was also observed remote from the SD
+propagation site in hippocampal tissues (Wernsmann et al. 2006). The inhibition of LTP after administration of somatostatin and reduction of synaptic efficacy may be responsible for its inhibitory
+effects on SD.
+
+V. Conclusion
+Somatostatin receptors seem to be involved in the pathophysiological mechanisms of different neurological and psychological disorders. Somatostatin therapeutic effects were observed in some SDrelated neurological disorders such as migraine and epilepsy. These therapeutic effects may be due
+to its modulatory action on neocortical SD. Furthermore, present data indicate the importance of
+somatostatin receptors in neocortical synaptic efficacy which may be involved in its suppressive
+action on SD.
+
+26
+
+VI. References
+Ayata C, Jin H, Kudo C, Dalkara T, Moskowitz MA (2006) Suppression of cortical spreading depression in migraine prophylaxis. Ann Neurol 59(4):652-61.
+Baratta MV, Lamp T, Tallent MK (2002) Somatostatin depresses long-term potentiation and Ca2+
+signaling in mouse dentate gyrus. J Neurophysiol 88(6):3078-86.
+
+Bartfai T, Iverfeldt K, Fisone G, Serfözö P (1988) Regulation of the release of coexisting
+neurotransmitters. Annu Rev Pharmacol Toxicol 28:285-310.
+
+Berger M, Speckmann EJ, Pape HC, Gorji A (2008) Spreading depression enhances human
+neocortical excitability in vitro. Cephalalgia 28(5):558-62.
+Bernardi S, Trimble MR, Frackowiak RS, Wise RJ, Jones T (1983) An interictal study of partial
+epilepsy using positron emission tomography and the oxygen - 15 inhalation technique. J Neurol
+Neurosurg Psychiatry 46(6):473-7.
+Bertherat J, Turpin G, Rauch C, Li JY, Epelbaum J, Sassolas G, Schaison G (1994) Presence of
+somatostatin receptors negatively coupled to adenylate cyclase in ectopic growth hormone-releasing
+hormone- and alpha-subunit-secreting tumors from acromegalic patients responsive to octreotide. J
+Clin Endocrinol Metab. 79(5):1457-64.
+
+Binaschi A, Bregola G, Simonato M (2003)On the role of somatostatin in seizure control: clues
+from the hippocampus. Rev Neurosci14(3):285-301.
+
+Boehm S, Betz H (1997) Somatostatin inhibits excitatory transmission at rat hippocampal synapses
+via presynaptic receptors. J Neurosci 17(11):4066-75.
+
+Bradley DP, Smith MI, Netsiri C, Smith JM, Bockhorst KH, Hall LD, Huang CL, Leslie RA,
+Parsons AA, James MF (2001) Diffusion-weighted MRI used to detect in vivo modulation of
+cortical spreading depression: comparison of sumatriptan and tonabersat. Exp Neurol 172(2):34253.
+
+Buresová O, Bures J (1973) Modification of cortical evoked responses during classically
+conditioned visual discrimination in the rabbit. Physiol Bohemoslov.;22(6):581-7.
+
+Cervia D, Bagnoli P (2007) An update on somatostatin receptor signaling in native systems and new
+insights on their pathophysiology. Pharmacol Ther 116(2):322-41.
+
+Cervia D, Martini D, Ristori C, Catalani E, Timperio AM, Bagnoli P, Casini G (2008) Modulation
+of the neuronal response to ischaemia by somatostatin analogues in wild-type and knock-out mouse
+retinas. J Neurochem 106(5):2224-35.
+27
+
+Christenson J, Alford S, Grillner S, Hökfelt T (1991) Co-localized GABA and somatostatin use
+different ionic mechanisms to hyperpolarize target neurons in the lamprey spinal cord. Neurosci
+Lett 134(1):93-7.
+Collingridge GL, Singer W (1990) Excitatory amino acid receptors and synaptic plasticity. Trends
+Pharmacol Sci 11(7):290-6.
+de Lanerolle NC, Kim JH, Robbins RJ, Spencer DD (1989)Hippocampal interneuron loss and
+plasticity in human temporal lobe epilepsy. Brain Res 495(2):387-95.
+Dehbandi S, Speckmann EJ, Pape HC, Gorji A (2008) Cortical spreading depression modulates
+synaptic transmission of the rat lateral amygdala. Eur J Neurosci. 27(8):2057-65.
+Deutch C, Spencer S, Robbins R, Cicchetti D, Spencer D (1991) Interictal spikes and hippocampal
+somatostatin levels in temporal lobe epilepsy. Epilepsia 32(2):174-8.
+
+Dournaud P, Cervera-Pierot P, Hirsch E, Javoy-Agid F, Kordon C, Agid Y, Epelbaum J (1994)
+Somatostatin messenger RNA-containing neurons in Alzheimer's disease: an in situ hybridization
+study in hippocampus, parahippocampal cortex and frontal cortex. Neuroscience 61(4):755-64.
+
+Ebersberger A, Schaible HG, Averbeck B, Richter F (2001) Is there a correlation between spreading
+depression, neurogenic inflammation, and nociception that might cause migraine headache? Ann
+Neurol 49(1):7-13.
+
+Epelbaum J, Dournaud P, Fodor M, Viollet C (1994) The neurobiology of somatostatin. Crit Rev
+Neurobiol 8(1-2):25-44.
+
+Epelbaum J, Lamour Y, Enjalbert A, Hamon M, Dutar P, Kordon C (1986) Modifications in the
+cortical regional distribution of choline acetyltransferase, somatostatin and somatostatin binding
+sites in the normal rat and following lesion of the nucleus basalis. Brain Res 23;371(2):376-9.
+Fabricius M, Fuhr S, Willumsen L, Dreier JP, Bhatia R, Boutelle MG, Hartings JA, Bullock R,
+Strong AJ, Lauritzen M (2008) Association of seizures with cortical spreading depression and periinfarct depolarisations in the acutely injured human brain. Clin Neurophysiol 119(9):1973-84.
+Fassler JE, O'Dorisio TM, Mekhjian HS, Gaginella TS (1990) Octreotide inhibits increases in shortcircuit current induced in rat colon by VIP, substance P, serotonin and aminophylline. Regul Pept
+29(2-3):189-97.
+
+Fodor M, Csaba Z, Kordon C, Epelbaum J (1994) Growth hormone-releasing hormone,
+somatostatin, galanin and beta-endorphin afferents to the hypothalamic periventricular nucleus. J
+Chem Neuroanat. 8(1):61-73.
+Footitt DR, Newberry NR (1998) Cortical spreading depression induces an LTP-like effect in rat
+neocortex in vitro. Brain Res 781(1-2):339-42.
+
+28
+
+Garrett B, Finsen B, Wree (1994) A Parcellation of cortical areas by in situ hybridization for somatostatin mRNA in the adult rat: frontal, parietal, occipital, and temporal regions. Anat Embryol
+(Berl) 190(4):389-98.
+Gehrmann J, Mies G, Bonnekoh P, Banati R, Iijima T, Kreutzberg GW, Hossmann KA (1993)
+Microglial reaction in the rat cerebral cortex induced by cortical spreading depression. Brain Pathol
+3(1):11-7.
+
+Goadsby PJ (2005) New targets in the acute treatment of headache. Curr Opin Neurol 18(3):283-8.
+
+González-Barcena D, Schally AV, Vadillo-Buenfil M, Cortez-Morales A, Hernández L V,
+Cardenas-Cornejo I, Comaru-Schally AM (2003) Response of patients with advanced prostatic
+cancer to administration of somatostatin analog RC-160 (vapreotide) at the time of relapse. Prostate
+1;56(3):183-91.
+
+Gorji A (2001); Spreading depression: a review of the clinical relevance. Brain Res Brain Res Rev.
+38(1-2):33-60.
+Guillermet J, Saint-Laurent N, Rochaix P, Cuvillier O, Levade T, Schally AV, Pradayrol L, Buscail
+L, Susini C, Bousquet C (2003) Somatostatin receptor subtype 2 sensitizes human pancreatic cancer
+cells to death ligand-induced apoptosis. Proc Natl Acad Sci U S A. 7;100(1):155-60.
+Hadjikhani N, Sanchez Del Rio M, Wu O, Schwartz D, Bakker D, Fischl B, Kwong KK, Cutrer
+FM, Rosen BR, Tootell RB, Sorensen AG, Moskowitz MA (2001) Mechanisms of migraine aura
+revealed by functional MRI in human visual cortex. Proc Natl Acad Sci U S A 10; 98 (8): 4687-92.
+Helyes Z, Pintér E, Németh J, Kéri G, Thán M, Oroszi G, Horváth A, Szolcsányi J (2001) Antiinflammatory effect of synthetic somatostatin analogues in the rat. Br J Pharmacol 134 (7):1571-9.
+Higuchi T, Sikand GS, Kato N, Wada JA, Friesen HG (1983) Profound suppression of kindled
+seizures by cysteamine: possible role of somatostatin to kindled seizures. Brain Res 288(1-2):35962
+
+Hossmann KA (1996) Periinfarct depolarizations. Cerebrovasc Brain Metab Rev 8(3):195-208.
+Iversen LL, Iversen SD, Bloom F, Douglas C, Brown M, Vale W (1978) Calcium-dependent release
+of somatostatin and neurotensin from rat brain in vitro. Nature 273(5658):161-3.
+Jacquin T, Champagnat J, Madamba S, Denavit-Saubié M, Siggins GR (1988) Somatostatin
+depresses excitability in neurons of the solitary tract complex through hyperpolarization and
+augmentation of IM, a non-inactivating voltage-dependent outward current blocked by muscarinic
+agonists. Proc Natl Acad Sci U S A.;85(3):948-52.
+
+Kaube H, Goadsby PJ (1994) Anti-migraine compounds fail to modulate the propagation of cortical
+spreading depression in the cat. Eur Neurol 34:30-5.
+
+29
+
+Koch BD, Blalock JB, Schonbrunn A (1988) Characterization of the cyclic AMP-independent
+actions of somatostatin in GH cells. I. An increase in potassium conductance is responsible for both
+the hyperpolarization and the decrease in intracellular free calcium produced by somatostatin. J Biol
+Chem 263(1):216-25.
+Kohno K, Mies G, Djuricic B, Hossmann KA (1994) NBQX reduces threshold of protein synthesis
+inhibition in focal ischaemia in rats. Neuroreport 5(17):2342-4.
+Koroleva VI, Bures J (1982) Stimulation induced recurrent epileptiform discharges block cortical
+and subcortical spreading depression in rats. Physiol Bohemoslov 31(5):385-400.
+
+Koroleva VI, Vinogradova LV, Korolev OS (1998) The persistent negative potential provoked in
+different structures of the rat brain by a single wave of spreading cortical depression. Zh Vyssh
+Nerv Deiat Im I P Pavlova. 48(4):654-63.
+
+Lahlou H, Guillermet J, Hortala M, Vernejoul F, Pyronnet S, Bousquet C, Susini C (2004)
+Molecular signaling of somatostatin receptors. Ann N Y Acad Sci 1014:121-31
+Lambert GA, Michalicek J, Storer RJ, Zagami AS (1999) Effect of cortical spreading depression on
+activity of trigeminovascular sensory neurons. Cephalalgia 9(7):631-8.
+Lashley KS (1941) Pattern of cerebral integration indicated by scotomas of migraine. Arch. Neurol.
+Psychiatr. 46:331.
+
+Lauritzen M (1984) Long-lasting reduction of cortical blood flow of the brain after spreading
+depression with preserved autoregulation and impaired CO2 response. J Cereb Blood Flow Metab.
+4(4):546-54.
+
+Leao AAP (1944) Spreading depression of activity in the cerebral cortex. J. Neurophysiol. 7: 359–
+390.
+
+Leao AAP, Morrison RS (1945) Propagation of spreading cortical depression. J. Neurophysiol.
+8:33–45.
+
+Lee CM, Iversen LL (1981) Release of somatostatin from extra-hypothalamic rat brain slices:
+inhibition by dopamine and morphine. Brain Res 219(2):355-61.
+Levin LA, Louhab A (1996) Apoptosis of retinal ganglion cells in anterior ischemic optic neuropathy. Arch Ophthalmol. 114(4):488-91.
+Lewis I, Bauer W, Albert R, Chandramouli N, Pless J, Weckbecker G, Bruns C (2003 )A novel
+somatostatin mimic with broad somatotropin release inhibitory factor receptor binding and superior
+therapeutic potential. J Med Chem 5;46(12):2334-44.
+
+Malenka RC, Bear MF (2004) LTP and LTD: an embarrassment of riches. Neuron 44(1):5-21.
+30
+
+Maranhão-Filho P, Vincent M (2009) Professor Aristides Leão. Much more than spreading
+depression. Headache 49(1):110-6.
+Marksteiner J, Sperk G (1988) Concomitant increase of somatostatin, neuropeptide Y and glutamate
+decarboxylase in the frontal cortex of rats with decreased seizure threshold. Neuroscience.
+26(2):379-85.
+Martins-Ferreira H, Nedergaard M, Nicholson C (2000) Perspectives on spreading depression.
+Brain Res Brain Res Rev. 32(1):215-34.
+
+Matharu MS, Levy MJ, Meeran K, Goadsby PJ (2004) Subcutaneous octreotide in cluster headache:
+randomized placebo-controlled double-blind crossover study. Ann Neurol 56(4):488-94.
+
+Matsuoka N, Kaneko S, Satoh M (1991) Somatostatin augments long-term potentiation of the
+mossy fiber-CA3 system in guinea-pig hippocampal slices. Brain Res 553(2):188-94.
+
+Mayevsky A, Doron A, Manor T, Meilin S, Zarchin N, Ouaknine GE (1996) Cortical spreading
+depression recorded from the human brain using a multiparametric monitoring system. Brain Res.
+18;740(1-2):268-74.
+
+Mazarati AM, Telegdy G (1992) Effects of somatostatin and anti-somatostatin serum on picrotoxinkindled seizures. Neuropharmacology 31(8):793-7.
+
+McQuiston AR, Petrozzino JJ, Connor JA, Colmers WF (1996) Neuropeptide Y1 receptors inhibit
+N-type calcium currents and reduce transient calcium increases in rat dentate granule cells. J
+Neurosci 16(4):1422-9.
+
+Mies G, Iijima T, Hossmann KA (1993) Correlation between peri-infarct DC shifts and ischaemic
+neuronal damage in rat. Neuroreport 4(6):709-11.
+
+Mies G, Kohno K, Hossmann KA (1994) Prevention of periinfarct direct current shifts with
+glutamate antagonist NBQX following occlusion of the middle cerebral artery in the rat. J Cereb
+Blood Flow Metab. 14(5):802-7.
+
+MILNER PM (1958) Note on a possible correspondence between the scotomas of migraine and
+spreading depression of Leão. Electroencephalogr Clin Neurophysiol 10(4):705
+
+Moore SD, Madamba SG, Joëls M, Siggins GR (1988) Somatostatin augments the M-current in
+hippocampal neurons. Science 239(4837):278-80.
+
+Müller M, Pape HC, Speckmann EJ, Gorji A (2006) Effect of eugenol on spreading depression and
+epileptiform discharges in rat neocortical and hippocampal tissues. Neuroscience 140(2):743-51.
+31
+
+Müller M, Somjen GG (2000) Na(+) dependence and the role of glutamate receptors and Na(+)
+channels in ion fluxes during hypoxia of rat hippocampal slices. J Neurophysiol 84(4):1869-80.
+Nagaki S, Fukuyama Y, Kato N, Ikeda M, Higuchi T, Takahashi K, Naruse H (1988)
+Immunoreactive somatostatin contents in the cerebrospinal fluid of children with various types of
+epilepsy. Jpn J Psychiatry Neurol 42(3):651-2.
+Nakata A, Saito H, Nishiyama N (1996) Facilitatory role of somatostatin via muscarinic cholinergic
+system in the generation of long-term potentiation in the rat dentate gyrus in vivo. Brain Res 723(12):135-40.
+Nedergaard M, Vorstrup S, Astrup J (1986) Cell density in the border zone around old small human
+brain infarcts. Stroke 17(6):1129-37.
+
+Nicholson C, Syková E (1998) Extracellular space structure revealed by diffusion analysis. Trends
+Neurosci 21(5):207-15.
+Obeidat AS, Andrew RD (1998) Spreading depression determines acute cellular damage in the hippocampal slice during oxygen/glucose deprivation. Eur J Neurosci 10(11):3451-61.
+Ochs S, Dowell AR, Russell IS (1962) Mescaline convulsive spikes triggered by direct cortical
+stimulation. Electroencephalogr Clin Neurophysiol 14:878-84.
+
+Olesen J (1986) Regional cerebral blood flow (rCBF) studies in migraine and epilepsy. Funct
+Neurol 1(4):369-74.
+
+Patel YC (1999) Somatostatin and its receptor family. Front Neuroendocrinol 20(3):157-98.
+
+Pérez J, Hoyer D (1995) Co-expression of somatostatin SSTR-3 and SSTR-4 receptor messenger
+RNAs in the rat brain. Neuroscience 64(1):241-53.
+
+Perlin JB, Lothman EW, Geary WA 2nd (1987) Somatostatin augments the spread of limbic
+seizures from the hippocampus Ann Neurol. 21(5):475-80.
+
+Pitkänen A, Sirviö J, Jolkkonen J, Riekkinen P (1986) Somatostatin-like immunoreactivity and
+somatostatin receptor binding in rat brain before and after pentylenetetrazol-induced convulsion.
+Neuropeptides 7(1):63-71.
+
+Piwko C, Thoss VS, Samanin R, Hoyer D, Vezzani A (1996) Status of somatostatin receptor
+messenger RNAs and binding sites in rat brain during kindling epileptogenesis. Neuroscience. 1
+75(3):857-68.
+
+32
+
+Quigley HA, Nickells RW, Kerrigan LA, Pease ME, Thibault DJ, Zack DJ. (1995) Retinal ganglion
+cell death in experimental glaucoma and after axotomy occurs by apoptosis. Invest Ophthalmol Vis
+Sci. 36(5):774-86.
+
+Rauca C, Schäfer K, Höllt V (1999) Effects of somatostatin, octreotide and cortistatin on ischaemic
+neuronal damage following permanent middle cerebral artery occlusion in the rat. Naunyn
+Schmiedebergs Arch Pharmacol 360(6):633-8.
+
+Sachs M, Pape HC, Speckmann EJ, Gorji A (2007) The effect of estrogen and progesterone on
+spreading depression in rat neocortical tissues. Neurobiol Dis 25(1):27-34.
+
+Scharfman HE (1993) Characteristics of spontaneous and evoked EPSPs recorded from dentate
+spiny hilar cells in rat hippocampal slices. J Neurophysiol. 70(2):742-57.
+
+Scharfman HE, Schwartzkroin PA (1988) Further studies of the effects of somatostatin and related
+peptides in area CA1 of rabbit hippocampus. Cell Mol Neurobiol 8(4):411-29.
+
+Schindler M, Sellers LA, Humphrey PP, Emson PC (1997)Immunohistochemical localization of the
+somatostatin SST2(A) receptor in the rat brain and spinal cord. Neuroscience. 76(1):225-40.
+
+Schwarzer C, Sperk G, Samanin R, Rizzi M, Gariboldi M, Vezzani A (1996) Neuropeptidesimmunoreactivity and their mRNA expression in kindling: functional implications for limbic
+epileptogenesis Brain Res Brain Res Rev 22(1):27-50.
+Schweitzer P, Madamba SG, Siggins GR (1988) Somatostatin increases a voltage-insensitive K+
+conductance in rat CA1 hippocampal neurons. J Neurophysiol. 79(3):1230-8.
+Sicuteri F, Fanciullacci M, Geppetti P, Renzi D, Caleri D, Spillantini MG (1985) Substance P
+mechanism in cluster headache: evaluation in plasma and cerebrospinal fluid. Cephalalgia.
+5(3):143-9.
+
+Sicuteri F, Geppetti P, Marabini S, Lembeck F (1984) Pain relief by somatostatin in attacks of
+cluster headache. Pain 18(4):359-65.
+
+Sloviter RS, Nilaver G (1987) Immunocytochemical localization of GABA-, cholecystokinin-,
+vasoactive intestinal polypeptide-, and somatostatin-like immunoreactivity in the area dentata and
+hippocampus of the rat. J Comp Neurol 256(1):42-60.
+
+Smith JM, Bradley DP, James MF, Huang CL (2006) Physiological studies of cortical spreading
+depression. Biol Rev Camb Philos Soc. 81(4):457-81.
+
+33
+
+Somjen GG, Aitken PG, Balestrino M, Herreras O, Kawasaki K (1990) Spreading depression-like
+depolarization and selective vulnerability of neurons. A brief review. Stroke 21(11 Suppl):III17983.
+
+Stumm RK, Zhou C, Schulz S, Endres M, Kronenberg G, Allen JP, Tulipano G, Höllt V (2004)
+Somatostatin receptor 2 is activated in cortical neurons and contributes to neurodegeneration after
+focal ischemia. J Neurosci 24(50):11404-15.
+Tallent MK, Siggins GR (1997) Somatostatin depresses excitatory but not inhibitory neurotransmission in rat CA1 hippocampus. J Neurophysiol 78(6):3008-18.
+Tallent MK, Siggins GR (1999) Somatostatin acts in CA1 and CA3 to reduce hippocampal epileptiform activity. J Neurophysiol 81(4):1626-35.
+Terman GW, Wagner JJ, Chavkin C (1994) Kappa opioids inhibit induction of long-term potentiation in the dentate gyrus of the guinea pig hippocampus. J Neurosci 14(8):4740-7.
+Thoss VS, Piwko C, Hoyer D (1996) Somatostatin receptors in the rhesus monkey brain:
+localization and pharmacological characterization Naunyn Schmiedebergs Arch Pharmacol
+353(6):648-60.
+
+Thoss VS, Piwko C, Probst A, Hoyer D (1997) Autoradiographic analysis of somatostatin SRIF1
+and SRIF2 receptors in the human brain and pituitary. Naunyn Schmiedebergs Arch Pharmacol
+355(2):168-76.
+
+Urban L, Neill KH, Crain BJ, Nadler JV, Somjen GG (1990) Effects of transient forebrain ischemia
+in area CA1 of the gerbil hippocampus: an in vitro study. Adv Exp Med Biol.;268:491-500.
+Vezzani A, Hoyer D (1999) Brain somatostatin: a candidate inhibitory role in seizures and epileptogenesis. Eur J Neurosci 11(11):3767-76.
+Vezzani A, Ruiz R, Monno A, Rizzi M, Lindefors N, Samanin R, Brodin E (1993) Extracellular
+somatostatin measured by microdialysis in the hippocampus of freely moving rats: evidence for
+neuronal release. J Neurochem. 60(2):671-7.
+
+Weckbecker G, Lewis I, Albert R, Schmid HA, Hoyer D, Bruns C ( 2003) Opportunities in
+somatostatin research: biological, chemical and therapeutic aspects. Nat Rev Drug Discov.
+2(12):999-1017.
+Welch KM, Barkley GL, Tepley N, Ramadan NM (1993) Central neurogenic mechanisms of migraine. Neurology 43(6 Suppl 3):S21-5.
+Wernsmann B, Pape HC, Speckmann EJ, Gorji A (2006) Effect of cortical spreading depression on
+synaptic transmission of rat hippocampal tissues. Eur J Neurosci. 23(5):1103-10.
+Yu TP, Xie CW (1998) Orphanin FQ/nociceptin inhibits synaptic transmission and long-term potentiation in rat dentate gyrus through postsynaptic mechanisms. J Neurophysiol 80(3):1277-84.
+34
+
+Zachar J, Zacharova D (1963) Mechanism of the origin of spreading cortical depression . Lek Pr
+3:3-11
+
+35
+
+36
+
+

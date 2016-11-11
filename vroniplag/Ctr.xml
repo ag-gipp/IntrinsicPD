@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd">
+      <feature name="vroniplag" etext_number="Ctr" url="http://de.vroniplag.wikia.com/wiki/Ctr'"/>
+      <feature name="language" value="de" />
+    <feature name="realistic-plagiarism" this_offset="97" this_length="7373" />
+<feature name="realistic-plagiarism" this_offset="9436" this_length="1998" />
+<feature name="realistic-plagiarism" this_offset="12770" this_length="649" />
+<feature name="realistic-plagiarism" this_offset="16336" this_length="1810" />
+<feature name="realistic-plagiarism" this_offset="20764" this_length="391" />
+<feature name="realistic-plagiarism" this_offset="23558" this_length="1210" />
+<feature name="realistic-plagiarism" this_offset="28155" this_length="799" />
+<feature name="realistic-plagiarism" this_offset="29061" this_length="2939" />
+<feature name="realistic-plagiarism" this_offset="32125" this_length="2020" />
+<feature name="realistic-plagiarism" this_offset="34765" this_length="3002" />
+<feature name="realistic-plagiarism" this_offset="37785" this_length="616" />
+<feature name="realistic-plagiarism" this_offset="40690" this_length="2005" />
+<feature name="realistic-plagiarism" this_offset="45788" this_length="488" />
+<feature name="realistic-plagiarism" this_offset="46568" this_length="1211" />
+<feature name="realistic-plagiarism" this_offset="51502" this_length="606" />
+<feature name="realistic-plagiarism" this_offset="56136" this_length="1099" />
+<feature name="realistic-plagiarism" this_offset="57962" this_length="574" />
+</document>

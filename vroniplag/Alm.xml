@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd">
+      <feature name="vroniplag" etext_number="Alm" url="http://de.vroniplag.wikia.com/wiki/Alm'"/>
+      <feature name="language" value="de" />
+    <feature name="realistic-plagiarism" this_offset="128" this_length="5205" />
+<feature name="realistic-plagiarism" this_offset="6520" this_length="892" />
+<feature name="realistic-plagiarism" this_offset="7321" this_length="769" />
+<feature name="realistic-plagiarism" this_offset="8572" this_length="490" />
+<feature name="realistic-plagiarism" this_offset="9747" this_length="837" />
+<feature name="realistic-plagiarism" this_offset="10773" this_length="614" />
+<feature name="realistic-plagiarism" this_offset="11431" this_length="597" />
+<feature name="realistic-plagiarism" this_offset="12103" this_length="1002" />
+<feature name="realistic-plagiarism" this_offset="13133" this_length="601" />
+<feature name="realistic-plagiarism" this_offset="13741" this_length="524" />
+<feature name="realistic-plagiarism" this_offset="14833" this_length="96" />
+<feature name="realistic-plagiarism" this_offset="15360" this_length="1214" />
+<feature name="realistic-plagiarism" this_offset="18503" this_length="579" />
+<feature name="realistic-plagiarism" this_offset="19083" this_length="6630" />
+<feature name="realistic-plagiarism" this_offset="28256" this_length="315" />
+<feature name="realistic-plagiarism" this_offset="28576" this_length="6592" />
+</document>

@@ -1,0 +1,4837 @@
+Aus dem Universitätsklinikum Münster Klinik und Poliklinik D – Direktor: Univ.-Prof. Dr. med. H. Pavenstädt – Über die Interaktion der humanen Ionenkanäle TRPC3 und TRPC6 mit dem Multi-PDZ-Domänen Protein PATJ im menschlichen Podozyten INAUGURAL – DISSERTATION zur Erlangung des doctor medicinae der Medizinischen Fakultät der Westfälischen Wilhelms-Universität Münster vorgelegt von Sandro Lorenz aus Zerbst 2009 
+
+1 EINLEITUNG_
+
+1.1 Allgemeine Einführung: Niere und Podozyten
+Die Niere hat exkretorische, endokrine und metabolische Funktionen. Der Verlust der
+exkretorischen Nierenfunktion kann ohne Nierenersatztherapie nur wenige Tage
+überlebt werden, weil lebenswichtige Regelfunktionen ausfallen. Diese umfassen:
+Regulation von Osmolarität und Wasserhaushalt    Aufrechterhaltung des Elektrolythaushalts    Kontrolle des Säure-Basen-Haushalts    Ausscheidung von Stoffwechselendprodukten und harnpflichtigen Substanzen
+Weniger akut wirkt der Ausfall endokriner und metabolischer Funktionen. Dazu zählen
+die Synthese und Freisetzung von Erythropoetin, Renin, Prostaglandinen, 1,25Cholekalziferol und der Abbau von niedermolekularen Peptidhormonen wie Glukagon,
+Insulin, Parathormon und Angiotensin II. Über die Regelmechanismen des Salz- und
+Wasserhaushalts und die bedarfsadaptierte Synthese und Freisetzung von vasoaktiven
+Hormonen kommt den Nieren eine zentrale Funktion in der Blutdruckregulation zu.
+Um Stoffwechselendprodukte ausscheiden zu können, wird das Blut zunächst gefiltert,
+wobei der so genannte Primärharn entsteht. Dieser Primärharn wird in einem dem Filter
+nachgeschalteten Tubulussystem zu großen Teilen rückresorbiert. Die funktionellen
+Untereinheiten der Nieren sind Nephrone. Diese setzen sich aus dem Glomerulum,
+einem kapillaren Gefäßknäuel, und dem Tubulussystem mit den zugehörigen
+Blutgefäßen zusammen (Vgl. Abb. 1.1).
+Das Glomerulum stellt die eigentliche Filtrationsbarriere für Proteine dar. Der
+Primärharn entsteht, indem das Blutplasma der Kapillaren in die Bowmannsche Kapsel
+abgepresst und von dort weiter in das Tubulussystem geleitet wird. Dabei werden
+innerhalb des Glomerulums drei Schichten passiert, die sich aus dem fenestrierten
+Endothel der Kapillaren, der glomerulären Basalmembran (GBM) und den Podozyten
+usammensetzen (Vgl. Abb.1.1). Bei den Podozyten handelt es sich um viszerale
+Epithelzellen, die eine eindrucksvolle Zytoarchitektur aufweisen (Vgl. Abb. 1.2). Die
+primären Fußfortsätze der Podozyten teilen sich in sekundäre Fußfortsätze, welche
+reißverschlussgleich mit den Fußfortsätzen benachbarter Podozyten ineinander greifen.
+Zwischen diesen interdigitierenden sekundären Fußfortsätzen liegt die Schlitzmembran,
+ein hoch spezialisierter Zell-Zell-Kontakt.
+
+Die  Schädigung der  Podozyten  und  der  Schlitzmembran  führt  zu  einem  Funktionsverlust des Nierenfilters, der mit einer schweren Proteinurie einhergeht. Das
+daraus resultierende nephrotische Syndrom gehört zu den häufigsten klinischen
+Syndromen im Bereich der Nephrologie und ist gekennzeichnet durch eine erhöhte
+Eiweißausscheidung, Hyperlipidämie, Hypoalbuminämie und Ödeme. Dies findet sich
+im Wesentlichen bei drei definierten Krankheitsbildern: Minimal-change-Disease,
+membranöse Glomerulonephritis und fokale segmentale Glomerulonephritis (FSGS),
+welche alle durch eine Schädigung des Podozyten hervorgerufen werden und zu einer
+Verschmelzung der Fußfortsätze führen (Walz, 2003). Die Bemühungen, die
+molekularen Vorgänge innerhalb des Podozyten im Detail zu verstehen, haben deshalb
+während der letzten Dekade stark zugenommen. Ziel dieser Grundlagenforschung ist es,
+tiefere Einblicke in die Funktionsweise des Nierenfilters zu gewinnen.
+
+Abb. 1.1: Schematischer Aufbau der Säugerniere. Die Abbildung zeigt einen Querschnitt durch die
+Niere (links), ein heraus vergrößertes Glomerulum inklusive zu- und abführendem Gefäß und den sich
+anschließenden proximalen Tubulus (Mitte links). Weiter vergrößert stellt sich der Teil einer Kapillare mit
+aufliegenden Podozyten dar (Mitte rechts) sowie die Dreischichtung der glomerulären Filtrationsbarriere
+aus fenestriertem Endothel, glomerulärer Basalmembran (GBM) und Podozyten, zwischen deren
+Fußfortsätzen die Schlitzmembran ausgebildet wird (rechts) (Tryggvason et al., 2006).
+
+
+
+1.1.1 Podozyten und Schlitzmembran
+Podozyten bestehen aus einem großen Zellkörper und Fortsätzen, mit denen die Zellen
+an der GBM haften; die Zellkörper selbst berühren die GBM nicht, sie flottieren im
+Ultrafiltrat des Kapselraums (Abb. 1.2). Der Zellkern liegt nahe der dem Kapselraum  zugewandten  Zell-  membran, der ausgedehnte „subnukleäre“ Zytoplasmaraum enthält den stark entwickelten Golgi-Apparat, ausgedehnte Areale aus rauem und glattem endoplasmatischen 
+Retikulum und viele lysosomale Elemente. Vom Zellkörper ziehen zunächst
+kräftige Fortsätze (Primärfortsätze) zur GBM; dort spalten sie sich in die Fußfortsätze auf, 
+die mit ihrer basalen Seite an der GBM haften. Diese in ihrer Form eher fingerförmigen Fortsätze (der Name Fußfortsatz bezieht sich auf das Schnittbild)
+
+Abb. 1.2: Rasterelektronenmikroskopisches Bild der
+interdigitieren sehr regelmäßig mit Außenseite einer Glomeruluskapillare. Zu sehen ist ein
+Podozyt, von dessen Körper zunächst Primärfortsätze den Fußfortsätzen eines anderen entspringen, die sich in die fingerförmigen Fußfortsätze
+aufspalten; zwischen letzteren erkennt man die
+Podozyten. Die interdigitierende Filtrationsschlitze. (Foto: Brunhilde Hähnel, Institut für
+Textur der Fußfortsätze bildet die Anatomie und Zellbiologie der Universität Heidelberg)
+äußere Schicht der Filtrationsbarriere (Abb. 1.3a). Die Verankerung der Fußfortsätze an
+der GBM erfolgt durch Integrine (α3/β1-Integrine, die an Laminin 5-2-1 binden) und
+durch Dystroglykan, das ebenfalls an Laminin 5-2-1 und an Agrin bindet (Raats et al.,
+2000; Regele et al., 2000). Integrine und Dystroglykan sind im Zytoplasma über
+Adaptermoleküle (Talin, Vinculin, Paxillin, Utrophin) mit dem Aktinfilamentsystem
+verknüpft. An dieser Stelle findet sich auch eine Integrin-assoziierte Kinase (Blattner &
+Kretzler, 2005). Dadurch wird einerseits eine mechanisch stabile und möglicherweise
+dynamische Verbindung zwischen GBM und Zytoskelett der Podozyten geschaffen,
+andererseits ermöglichen diese Verbindungen ein „inside-out-“ und ein „outside-insignalling“ und damit auch die Übertragung von mechanischen Signalen aus der GBM
+in die Fußfortsätze (Pavenstädt et al., 2003). Zwischen den Fußfortsätzen bleiben mäandrierende Spalten offen, die sog. Filtrationsschlitze. Sie haben eine Tiefe von 300-500
+Abb. 1.3: Transmissionselektronenmikroskopische
+Bilder.
+a) Glomeruluskapillare mit
+Mesangium (M), GBM,
+Porenendothel (E)
+und
+Podozytenschicht (P). Beachte, dass der Zellkörper
+des Podozyten nicht direkt
+auf der GBM aufsitzt, sondern sozusagen an seinen
+Fortsätzen hängend im
+Harnraum flottiert und b)
+Detailbild der Filtrationsbarriere bestehend aus dem
+Endothel mit offenen Poren,
+der GBM mit Lamina rara
+interna, Lamina densa und
+Lamina rara externa und der
+zwischen den Podozytenfüßchen
+ausgespannten
+Schlitzmembran.
+(Foto: Hiltraud Hosser,
+Institut für Anatomie und
+Zellbiologie der Universität
+Heidelberg)
+
+nm und eine Breite von 3040 nm. Diese Schlitze werden in der Tiefe von der ungefähr    nm  dicken  Schlitzmembran überbrückt (Abb. 1.3b, 1.4). Dies ist eine extrazelluläre Proteinstruktur mit einem außerordentlich regelmäßigen submikroskopischen  Aufbau.
+
+Die Schlitzmembran ähnelt
+ultrastrukturell einer Adherensverbindung. An ihrem
+Aufbau sind die Proteine
+Nephrin, Neph1, 2 und 3, PCadherin und FAT beteiligt.
+
+Dies sind transmembranäre Proteine mit langen extrazellulären Domänen, von denen
+man annimmt, dass sie aus gegenüberliegenden Fußfortsätzen aufeinander zulaufen,
+sich überlappen und einander binden und dabei eine spezifische Porenstruktur die
+Schlitzmembran ausbilden.
+Der Aufbau der Schlitzmembran ähnelt einer Zonula adherens aus sich in der Mitte
+überlappenden, transmembranären Proteinen; dazu gehören bis zum heutigen
+Kenntnisstand die Proteine Nephrin, Podocin, CD2AP, ZO-1, Neph1-3, P-Cadherin,
+Densin-180 und FAT1/FAT2 (Ahola et al., 2003; Donoviel et al., 2001; Huber &
+Benzing, 2005; Ihalmo et al., 2003; Inoue et al., 2001; Kim et al., 2003; Reiser et al.,
+2000; Roselli et al., 2002; Sellin et al., 2002; Shih et al., 1999). An der direkten
+Überbrückung der Filtrationsschlitze sind dabei die Proteine Nephrin, Neph1-3, PCadherin und FAT1/FAT2 maßgeblich beteiligt (Vgl. Abb. 1.4). Mutationen der Gene
+dieser Schlitzmembrankomponenten können über die Schädigung der Podozyten zum
+nephrotischen Syndrom führen (Roselli et al., 2004; Tsukaguchi et al., 2002). Aus
+diesem Grund liegt der Fokus
+der nephrologischen Forschung
+verstärkt auf der Untersuchung
+der  Schlitzmembranproteine  und der Funktion der einzelnen Komponenten in dem Gesamtnetzwerk. Die Schlitzmembran ist der einzige Zell-Zell-Kontakt von Podozyten und weist Gemeinsamkeiten zu anderen Zell-Zell-Kontakten wie tight Abb. 1.4: Schema der Filtrationsbarriere. Zeichnung: Rolf Nonnenmacher, Institut für Anatomie und Zellbiologie der Universität Heidelberg.  junctions  oder  adherens  junctions auf (Lee et al., 2002; Reiser et al., 2000). Epitheliale
+tight junctions stellen nicht nur Barrieren dar, welche die apikobasale Zellpolarität
+aufrecht erhalten, sondern fungieren zusätzlich als regulatorische Organisationszentren,
+die Einfluss auf Zellwachstum, Proliferation und Differenzierungsprozesse nehmen
+(Lee et al., 2006). Neben diesen funktionellen Gemeinsamkeiten zu der Schlitzmembran
+wird in den Fußfortsätzen von Podozyten das tight junction-assoziierte Protein ZO-1
+(Zonula Occludens-1) exprimiert (Schnabel et al., 1990). Die von der Schlitzmembran
+gebildeten interzellulären  Filtrationsschlitze  ähneln  adherens  junctions,  die 
+gleichermaßen Zellmembranen in einem vergleichbaren Abstand von 25 nm
+überbrücken. Adherens junctions dienen der Zell-Zell-Adhäsion und sind durch linker
+Proteine an das Aktin-Zytoskelett assoziiert. Die linker Proteine der Schlitzmembran
+sind unter anderem Catenine, ZO-1, CD2AP (CD2 associating protein), CASK und
+MAGI-2 (Lehtonen et al., 2005).
+
+Die Funktion des dynamischen Multiproteinkomplexes, der die Schlitzmembran
+aufbaut, ist nicht auf die Filtration beschränkt. Er dient des Weiteren als Plattform der
+Signaltransduktion und als regulatorisches
+Organisationszentrum bei Umstrukturierungen
+des Aktin-Zytoskeletts (Vgl. Abb. 1.5),
+(Benzing, 2004; Huber & Benzing, 2004). Die
+Fußfortsätze der Podozyten bilden keine
+statische Einheit; vielmehr handelt es sich um hoch  dynamische  Strukturen,  die  einen  kontraktilen Apparat aus Aktin, Myosin-II, αAktinin-4, Talin und Vinculin beinhalten (Drenckhahn & Franke, 1988). Durch den Abb. 1.5: Schematische Darstellung der Filtrationsfluss sind Podozyten Scherkräften Schlitzmembran (SD). Die SD ist ein spezialisierter  Zell-Zell-Kontakt,  der  ausgesetzt, die durch stetige Reorganisationen Bestandteil des glomerulären Filters der Nieren  ist. Neben dieser Filterfunktion dient die SD  des Aktin-Zytoskeletts und die Verankerung als Plattform der Signaltransduktion und als regulatorisches Zentrum bei der Reorganisation
+in der GBM kompensiert werden (Endlich & des Aktin-Zytoskeletts (Benzing, 2004).
+Endlich, 2006; Endlich et al., 2001; Friedrich et al., 2006). Alle Formen des nephrotischen Syndroms resultieren durch
+Veränderungen des Zytoskeletts der Podozyten in einem charakteristischen Ablösen der
+Fußfortsätze. Im Zuge dieser pathologischen Veränderung verlieren die Podozyten ihre
+Fähigkeit, sich durch migratorische Prozesse entlang der GBM zu bewegen (Reiser et
+al., 2004).
+
+1.2 Die TRP-Protein-Familie
+1.2.1 Entdeckung
+
+Im Gegensatz zur Sehkaskade der Wirbeltiere, bei dem Transducin eine cGMPspezifische Phosphodiesterase aktiviert, ist das Zielproteine für das lichtaktivierte
+Rhodopsin stimulierte G-Protein in Wirbellosen eine Phospholipase C (Bloomquist et
+al., 1988).
+Während in den Stäbchen des Wirbeltierauges die Abnahme der cGMP-Konzentration
+nach Belichtung dazu führt, dass ein im Dunkeln offener CNG-Kanal („cyclic
+nucleotide gated“, Dunkelstrom) schließt, und die Membran hyperpolarisiert, führt
+Belichtung im Komplexauge von Insekten zur Öffnung eines Kanals und damit zur
+Depolarisation der Membran (Hardie & Raghu, 2001). Das Komplexauge der
+Drosophila Mutante trp ist im Gegensatz zum Wildtyp nicht in der Lage, bei Belichtung
+ein dauerhaftes Signal zu generieren. Das Rezeptorpotential ist transient, folglich die
+Bezeichnung „transient receptor potential“ (Cosens & Manning, 1969). Die trpdefizienten Fliegen werden durch intensives Licht geblendet, da der lang anhaltende
+Ca2+-Einstrom und damit die Adaptation ausbleiben. Obwohl diese Mutante bereits seit
+1969 bekannt ist, wurde das Gen erst 1989 von Montell und Rubin kloniert (Montell &
+Rubin, 1989). Das von trp kodierte Protein weist acht hydrophobe Segmente auf. Hardie
+und Minke haben 1992 gezeigt, dass es sich bei Trp um einen indirekt durch Licht
+aktivierten Ca2+- permeablen Ionenkanal handelt. Unabhängig davon wurde ein CaMbindendes Protein aus dem Kopf-Bereich von Drosophila isoliert (Trp-like = Trpl), das
+eine hohe Homologie zu Trp aufwies und bei dem es sich ebenfalls um einen
+Kationenkanal handelt (Phillips et al., 1992). Im Gegensatz zu Trp handelt es sich bei
+Trpl um einen nicht-selektiven Kationenkanal. Während Trp für die lang anhaltende
+Depolarisation bei Dauerbelichtung verantwortlich ist, vermittelt Trpl die initiale
+Depolarisation, die im Elektroretinogramm der trp-Mutante beobachtet werden kann.
+Die Doppelmutation trp und trpl zeigt keine elektrische Antwort auf Belichtung mehr
+(Niemeyer  et  al.,  1996).  Sowohl  +  Trp  als  auch  Trpl  sind  homolog  zu  2+  spannungsgesteuerten Na - und Ca -Kanälen, ihnen fehlt jedoch die für die Spannungsregulation  notwendigen  positiv  geladenen  Aminosäuren  in  der  Transmembranhelix S4. 
+
+1.2.2 Grundlagen und Nomenklatur
+Die transient receptor potential-Kanäle stellen eine große Gruppe der verschiedenen
+Ionenkanäle dar, die für den Austausch von Ionen über die impermeable
+Plasmamembran aller Körperzellen zur gezielten Veränderung des Kationenhaushaltes
+verantwortlich sind. Obwohl es sich bei den TRP-Kanälen um Kationenkanäle mit
+hoher Sequenzhomologie und Strukturähnlichkeit handelt, variieren sie stark in ihrer
+Ionenselektivität und Art der Aktivierung (Montell et al., 2002). Sie werden sowohl in
+erregbaren als auch in nicht erregbaren Zellen exprimiert (Clapham et al., 2001).
+Aufgrund struktureller Ähnlichkeit lassen sich die einzelnen TRP-Kanalproteine sieben
+Familien zuordnen (Tab. 1.1): Der TRPC („Canonical“)-Familie, der TRPV
+(„Vanilloid“)-Familie, der TRPM („Melastatin“)-Familie, der TRPP („Polycystin“)Familie, der TRPML („Mucolipin“)-Familie, der TRPA („Ankyrin“)-Familie und der
+TRPN („NOMPC“)-Familie. In Geweben von Säugern existieren Mitglieder aller
+Familien mit Ausnahme von TRPN.
+
+Tab. 1.1: Die sieben TRP-Genfamilien mit Angabe der Zahl ihrer (publizierten) Mitglieder. In
+Hefe (Saccharomyces cerevisiae) wurde ein TRP-verwandtes Gen identifiziert, das aber keiner der
+sieben Familien zuzuordnen ist. Das TRPC2-Gen ist beim Menschen ein Pseudogen, weshalb die TRPCFamilie vom Mensch lediglich sechs, die von der Maus aber sieben Mitglieder umfasst (TRPC1 bis
+TRPC7). Die aufgeführten Gene wurden bisher in den Genomen von Drosophila melanogaster (Fliege),
+Caenorhabditis elegans (Wurm), Ciona intestinalis (Seescheide) bzw. Fugu rubripes (Kugelfisch)
+identifiziert. Anders als in Fugu wurden in Danio rerio (Zebrafisch) bisher zwei Mitglieder von TRPA
+und ein Mitglied von TRPN identifiziert (Flockerzi & Wissenbach, 2005).
+
+Die ganze TRP-Familie gehört zur Überfamilie der nicht-selektiven Kationenkanäle. In
+dieser Familie finden sich ebenfalls spannungsabhängige K+-, Na+- und Ca2+-Kanäle,
+genauso wie durch zyklische Nukleotide beeinflusste (cyclic nucleotid gated, CNG) und
+durch Hyperpolarisation aktivierte Kanäle (hyperpolarisation activated cyclic
+nucleotide gated, HCN) (Benham et al., 2002). Alle diese TRP-Kanäle verfügen über
+sechs Transmembrandomänen. Zwischen dem fünften und sechsten Segment befindet
+sich eine hydrophobe Schleife, die dem Kanal die Funktion eines Selektivitätsfilters
+ermöglicht (Porenprinzip). C- und N-terminales Ende liegen intrazellulär. Je nach TRPSubgruppe weist das N-terminale Ende eine unterschiedliche Anzahl von AnkyrinWiederholungen auf, wohingegen das C-terminale Ende über unterschiedlich Prolinreiche Regionen verfügt (siehe Abb. 1.6). Die Größe der Proteine variiert von 500
+Aminosäuren bei Mitgliedern der TRPC Familie bis zu 2000 Aminosäuren bei
+Mitgliedern der TRPM-Familie (Clapham et al., 2003; Minke & Cook, 2002; Montell,
+2001).
+
+Abb. 1.6: Struktureller Aufbau der verschiedenen, bei Säugern zu findenden, TRP-Kanäle und
+Polycystin 1. ER, endoplasmatisches Retikulum; GSK3, Glykogensynthasekinase-3; PKD, polycystic
+kidney disease; TRP, transient receptor potential-Kanäle (TRPA, TRPC, TRPM, TRPML, TRPP, TRPV)
+(Giamarchi et al., 2006).
+
+Die Entdeckung der TRP-Familie als Ionenkanalproteine führte zu einem erweiterten
+molekularen Verständnis der Calcium-regulierten Signalübertragungsmechanismen.
+Folgende funktionelle Eigenschaften der TRP-Proteine tragen dazu bei (Clapham et al.,
+2003):
+TRP-Kanäle sind nicht nur permeabel für monovalente, sondern auch für divalente
+Kationen wie Ca2+-, Ba2+-, und Mn2+-Ionen (Dietrich et al., 2005). Sie sind weniger
+selektiv für Calciumionen gegenüber Natriumionen mit PCa/PNa ≤ 10. Ausnahmen bilden
+TRPM4 und TRPM5, die ausschließlich selektiv für monovalente Kationen sind, sowie
+TRPV5 und TRPV6, die nur für Ca2+ mit PCa/PNa ≥ 100 durchlässig sind. Sie zeigen im
+Gegensatz zu spannungsabhängigen (voltage-gated) Calcium- oder Natriumkanälen
+keine Spannungsabhängigkeit, sondern depolarisieren die Zellen nach dem Öffnen vom
+jeweiligen Ruhepotential (bei den meisten Säugetierzellen um -70 mV) auf annährend 0
+mV. Durch diese Depolarisation erhöhen sie den einwärtsgerichteten Ionenstrom und
+führen so zum Anstieg der intrazellulären Ca2+- und/oder Na+-Konzentration. Der
+initiale Öffnungsmechanismus der TRP-Kanäle ist uneinheitlich. Es existieren zwei
+mögliche Mechanismen, der Speicher-unabhängige und der Speicher-gesteuerte
+Öffnungsmechanismus. Beide wurden teilweise für dasselbe TRP-Protein beschrieben
+(Harteneck et al., 2000). Im Folgenden sollen die molekularen Mechanismen der
+Speicher-unabhängigen  sowie  der  Speicher-gesteuerten  Kanalöffnungsvorgänge
+
+gegenübergestellt werden:
+1. Der Speicher-unabhängige (store-independent) Öffnungsmechanismus:
+Bei diesem Modell erfolgt die Aktivierung oder Modulation der TRP-Kanäle
+unabhängig von der Leerung intrazellulärer Calciumspeicher G-Protein- oder
+Tyrosinkinase-vermittelt, was zur Aktivierung der Phospholipase C (PLC) führt.
+PLC führt zur Spaltung von Phosphatidyl-Inositol-4, 5-Bisphosphat (PIP2) in
+Inositol-1, 4, 5-Trisphosphat (IP3) und Diacylglycerol (DAG). Beide dieser second
+messenger sind in der Lage, einerseits über Interaktion mit dem IP 3-Rezeptor,
+andererseits direkt second-messenger-vermittelt TRP-Kanäle zu öffnen. Der genaue
+Mechanismus ist unbekannt (Clapham et al., 2001; Hofmann et al., 1999; Minke &
+Cook, 2002; Montell, 2001).
+2. Der Speicher-gesteuerte (store-operated) Öffnungsmechanismus:
+Bei diesem Modell kommt es zur Kanalaktivierung in Abhängigkeit vom
+Füllungszustand der intrazellulären Calciumspeicher (Birnbaumer et al., 1996;
+Putney, 1977; Putney & McKay, 1999).
+Folgende drei Theorien für den Mechanismus der Speicher-gesteuerten Kanalöffnung
+bestehen (Clapham, 2003; Putney & McKay 1999; Zitt et al., 2002):
+a. In der einen Theorie wird davon ausgegangen, dass ein Calcium Influx Factor
+(CIF) existiert, der bei Speicherentleerung freigesetzt wird, zur Plasmamembran
+diffundiert und dort die TRP-Kanäle aktiviert.
+b. Eine weitere Theorie beinhaltet das secretion-like coupling model, das besagt,
+dass ein TRP-Kanal in intrazellulären Vesikeln gespeichert vorliegt und dabei
+über einen IP3-Rezeptor des ER gebunden ist. Bei Entleerung des ER und der
+konsekutiven Aktivierung des IP3-Rezeptors werden die in Vesikeln
+vorliegenden TRP-Kanäle zur Plasmamembran transportiert, integriert und
+aktiviert.
+c. Die  dritte  Theorie,  das  conformation  coupling  model,  besagt,  dass  Calciumspeicher und TRP-Kanal über den IP3-Rezeptor des ER miteinander
+verbunden sind. Bindet IP3 an den Rezeptor, wird gespeichertes Calcium
+freigesetzt und der TRP-Kanal erfährt eine Konformationsänderung, die zur
+Kanalöffnung und so zum Einstrom der Ionen über die Plasmamembran führt.
+
+1.2.3 Physiologische Bedeutung
+Intrazelluläres Calcium dient als Vermittler bei einer Vielzahl von physiologischen
+Signalprozessen. Um dieser Rolle nachkommen zu können, müssen Aufnahme und
+Freisetzung eng kontrolliert werden. Hierbei spielt der Inositol-Lipid-Weg (PIP2Kaskade), welcher zu den am weitesten verbreiteten Signalübertragungsprozessen
+  gehört,  eine  entscheidende  Rolle.  Ausgehend  von  plasmamembranaler  Rezeptoraktivierung kommt es über G-Protein vermittelte Phospholipase C-(PLC)
+Aktivität zu einer Spaltung von Phosphatidylinositol-4, 5-bisphosphat (PIP2) in das
+lösliche Inositol-1, 4, 5-trisphosphat (IP3) und das membrangebundene Diacylglycerin
+(DAG) (Berridge & Irvine, 1989). Der nachfolgende biphasische Anstieg der
+zytosolischen Ca2+-Konzentration beruht auf unterschiedlichen Vorgängen. Bei den sog.
+speicherabhängigen Ca2+-Kanälen, auch SOC-Kanäle (store operated calcium channels)
+genannt, vermittelt zunächst IP3 die Freisetzung von Calcium aus intrazellulären
+Speichern. In der Folge kommt es nun zu einem Einstrom über membrangebundene
+Calciumkanäle, welche durch die Entleerung dieser Speicher aktiviert werden. In nichterregbaren Zellen, wie den Epithelien des Verdauungstraktes, stellt dieser Weg den
+Hauptanteil der Ca2+-Aufnahme dar, während in erregbaren Zellen der Einstrom in der
+Regel über spannungsabhängige Ca2+-Kanäle stattfindet (Parekh & Penner, 1997).
+Speicherunabhängige Ca2+-Kanäle hingegen reagieren entweder auf den Anstieg des
+zytosolischen Calciums, z. B. auch durch, aber nicht aufgrund der Entleerung
+intrazellulärer Speicher, oder aber diese werden durch andere Signalkaskaden wie den
+DAG-Zweig des Inositol-Lipid-Weges aktiviert (Putney & McKay, 1999). Zurzeit sind
+die Proteine der TRP Familie die einzigen Inositol-vermittelten Calciumkanäle, welche
+sowohl speicherabhängige als auch speicherunabhängige Sensitivitäten beinhalten
+(Minke & Cook, 2002).
+
+Die Abhängigkeit ihrer Aktivierung von der PLC ist für die TRP-Proteine der
+Säugetiere nur eingeschränkt gegeben. Während dieses für einige Kanäle, vor allem aus
+der TRPC-Familie, zutrifft, werden andere über Faktoren wie Hitze, Kälte oder
+Veränderungen des Zellvolumens aktiviert. Interessanterweise sprechen einzelne Kanäle
+dabei oft auf ein weites Spektrum unterschiedlichster Stimuli an (Montell et al., 2002a).
+Die eigentlichen Funktionsabläufe im Gewebe, an welchen die TRP-Kanäle direkt oder
+indirekt beteiligt sind, erweisen sich, soweit bereits bekannt, als ebenso vielfältig wie
+die Lokalisationen der Proteine im Körper. TRP-Kanäle sind in vielen Organen,
+hauptsächlich im Gehirn, aber auch in Herz, Lunge, Leber, Milz, Niere, Darm, Hoden,
+Prostata, Ovarien, Plazenta, Uterus und vaskulärem Gewebe nachgewiesen worden.
+
+Dabei waren sie sowohl in neuronalen Zellen als auch in endothelialen,
+hämatopoetischen und epithelialen Zellen sowie in glatten Muskelzellen vertreten.
+Während die klassischen Proteine TRP und TRPL bei der Phototransduktion von
+Drosophila melanogaster eine entscheidende Rolle spielen, sind z. B. TRPC2-Kanäle
+für die Signaltransduktion der Pheromonerkennung im Vomeronasalorgan und bei der
+Akrosomreaktion im Spermium einiger Säugetiere von Bedeutung (Liman et al., 1999;
+Jungnickel et al., 2001). Mitglieder der TRPV-Subfamilie sind beteiligt an Funktionen
+wie Hitze- und Schmerzperzeption (TRPV1 bis TRPV4), Osmorezeption (TRPV4) oder
+epithelialer Calciumaufnahme. TRPM-Proteine schließlich sind von potentieller
+Bedeutung bei der Regulation des Zellzyklus, für das Geschmacks- (TRPM5) oder
+Kälteempfinden (TRPM8) (Strotmann et al., 2000; Voets & Nilius, 2003).
+1.2.4 canonical TRP-Kanäle
+Die menschliche TRP-Familie mit der größten Ähnlichkeit zu den Drosophila-TRPs ist
+die so genannte klassische TRPC-Subfamilie (canonical). Die TRPC-Gruppe ist die am
+häufigsten und bisher besten untersuchte TRP-Subgruppe und Schwerpunkt dieser
+Arbeit. Man unterscheidet vier Untergruppen anhand ihrer Sequenzhomologie und
+funktioneller Ähnlichkeiten: TRPC1; TRPC4, 5; TRPC3, 6, 7 und TRPC2 (Clapham et
+al., 2001; Vennekens et al., 2002).
+TRPC1 ist das erste humane TRP-Protein, das identifiziert wurde und zeigt wie auch
+die folgenden TRP-Proteine ein ubiquitäres Vorkommen. Es konnte nachgewiesen
+werden, dass die Expression von TRPC1
+alleine keine messbaren Ionenströme auslöst, sondern erst in
+Verbindung mit andeAbb. 1.7: TRPC Familienmitglieder, angenommener struktureller
+Aufbau. C- und N-terminale Bindungsstellen für Regulation und ProteinProtein Interaktionen (Pedersen et al., 2005).
+
+ren TRPC-Proteinen.
+TRPC4, 5 beinhalten
+eine C-terminale Se-
+quenz, die in anderen TRP-Molekülen nicht isoliert werden konnte und dafür spricht,
+dass diese Kanäle Teile noch wenig verstandener multimolekularer Signalkomplexe
+sind. TRPC3, 6, 7 zeigen eine besonders hohe Expression in glatten Muskelzellen und
+Herzmuskelzellen. Mit immunhistochemischen Verfahren sowie in situ-Hybridisierung
+konnte die Expression von TRPC1 sowie 3, 4, 5 und 6 in Endothelzellen sowie in
+glatten Gefäßmuskelzellen nachgewiesen werden, wohingegen TRPC7 sich nur in Endothelzellen zeigt (Yip et al., 2004). An Endothelzellen von TRPC6-knock-out-Mäusen
+stellte sich die besondere Funktion dieses Proteins bezüglich der Regulation des
+Gefäßtonus dar. Bei ausgeschaltetem TRPC6-Protein zeigte sich eine Hochregulation
+des TRPC3-Proteins. Damit einher ging ein Anstieg des basalen TRPC-abhängigen
+Kationeneinstromes, eine verstärkte Vasokonstriktion nach Agonistengabe sowie
+erhöhte Blutdruckwerte (Bergdahl et al., 2005; Dietrich et al., 2005). Diesbezüglich
+zeigten Liu et al. (2005) eine verstärkte Expression von TRPC3 in Monozyten
+hypertensiver Ratten.
+TRPC2 ist das TRPC-Protein mit der geringsten Ähnlichkeit zu den anderen
+Mitgliedern dieser Proteingruppe. Es wurde als humanes Pseudogen eingeordnet
+(Vannier et al., 1999). In anderen, nicht-humanen Säugetierspezies wurde TRPC2 mit
+den Funktionen des Vomeronasalorganes und der Spermafunktion in Verbindung
+gebracht (Hofmann et al., 2000).
+1.2.5 Aktivierung von TRPC-Kanälen
+Neben einer Ca2+-abhängigen kompetitiven Regulation durch IP3-Rezeptoren und
+Calmodulin ist auch eine Steuerung durch andere Proteine denkbar, die das Signal vom
+Oberflächenrezeptor oder vom Ca2+-Speicher zum TRPC-Kanal leiten. Dazu können
+Adapterproteine ebenso wie das Aktin-Zytoskelett gehören, die eine korrekte
+Lokalisation der TRPC-Kanäle ermöglichen.
+In Drosophila Photorezeptoren bindet TRP an das Adapterprotein INAD („inactivation
+no after potential D“), das ebenfalls mit NORPA („no receptor potential A“), eine für
+Drosophila melanogaster spezifische PLC, interagiert, so dass die photorezeptorspezifische Phospholipase C, und das Kanalprotein TRP zusammengeführt werden, wobei
+zwei PDZ-Domänen von INAD mit NORPA und eine mit dem C-Terminus von TRP
+interagieren (van Huizen et al., 1998). Darüber hinaus gibt es Hinweise, dass der
+Rezeptor Rhodopsin, das gekoppelte G-Protein, der Effektor NORPA (PLC) und der
+
+
+Kanal TRPC auf speziellen subzellulären Membrandomänen lokalisiert sind. Für GProteine  wiederum  liegen  Hinweise  auf  eine  direkte  Interaktion  
+mit  Zytoskelettproteinen vor (van Huizen et al., 1998). Als erster Ansatz zur Untersuchung der  Situation  in  Säugerzellen  wurde die Bindung von 
+TRPCs an das  Drosophila  Gerüstprotein  INAD untersucht. Dabei war eine Ko-Immunpräzipitation  mit  TRPC1, 4 und 5 möglich, jedoch
+nicht mit TRPC3, 6 und 7. Eine
+Bindung an TRPC2 wurde nicht
+untersucht (Goel et al., 2002).
+Daher wurde vorgeschlagen, dass Abb. 1.8: Der Drosophila Signalkomplex. TRP = auch in Wirbeltieren PDZ- transient receptor potential channel; 
+CaM = Calmodulin, PKC = Proteinkinase C, PLC = Phospholipase C, INAD =  Domänen enthaltende Proteine eine inactivation no after potential D, 
+PDZ = postsynaptic  density/discs-large/zonula occludens domain, NINAC =  Verbindungsstelle für die Bildung neither inactivation nor afterpotential (Montell, 2005). eines Signalkomplexes sowie für  die korrekte Lokalisation von TRPC-Proteinen darstellen. TRPC4 und TRPC5 binden
+über ihren C-Terminus in HEK293 Zellen und im Gehirn erwachsener Mäuse an die
+erste PDZ-Domäne des Na+-H+-Austausch-regulierenden-Faktors („Na+-H+-exchange
+regulatory factor“, NHERF), welcher ebenfalls an die endogene PLCβ bindet. NHERF
+ist ein zwei PDZ-Domänen enthaltendes Protein, das mit dem Zytoskelett über
+Interaktionen mit Mitgliedern der Ezrin/Radixin/Moesin-Familie assoziiert ist. Es ist
+also möglich, das NHERF TRPC4- und TRPC5-enthaltende Kanäle mit PLCβIsoenzymen verbindet und beide mit dem Aktin-Zytoskelett verknüpft, wodurch die
+Verteilung und Regulation der Kanäle moduliert werden könnte (Tang et al., 2000). Die
+entfernt verwandten Ca2+-Kanalproteine TRPV5 und TRPV6 binden ebenfalls über eine
+konservierte Sequenz im C-Terminus spezifisch mit Hilfsproteinen, in diesem Fall
+Annexin2 und S100A10, die eine entscheidende Rolle beim Transport („routing“) von
+TRPV5 und TRPV6 zur Plasmamembran spielen (van de Graaf et al., 2003).
+
+Auch der Zustand des Aktin-Zytoskeletts selbst hat einen Einfluss auf den IP3R-TRPCKomplex. Die Kopplung zwischen dem IP3RII mit hTRPC1 in Blutplättchen wurde
+durch die Stabilisierung des kortikalen Aktin-Zytoskeletts verhindert, wohingegen die
+gleichen Reagenzien in HEK293-Zellen zur Internalisierung von hTRPC3 führten, die
+Bindung zum IP3R jedoch nicht beeinflussten (Lockwich et al., 2001; Rosado & Sage,
+2001). Die Kopplung des IP3R an hTRPC1 in Blutplättchen fand nur statt, wenn die
+intrazellulären Ca2+-Speicher direkt oder durch Rezeptorstimulation entleert waren, und
+wurde durch Wiederauffüllen der Speicher gelöst (Rosado & Sage, 2001; Rosado et al.,
+2002). Verschiedene TRPC-Proteine werden also über verschiedene Mechanismen
+reguliert, wobei sich das Kopplungsmodell und das sekretionsähnliche Modell
+gegenseitig ergänzen anstatt ausschließen. Der Mechanismus kann darüber hinaus auch
+vom Zelltyp und spezifisch exprimierten Adaptermolekülen beeinflusst werden.
+Die Interaktion zwischen dem IP3R und TRPC3 in HEK293-Zellen kann zwar durch
+eine Modifikation des Zytoskeletts nicht unterbunden werden, jedoch kommt es zur
+Internalisierung der TRPC3-IP3R-Komplexe nach Bildung einer festen Aktinschicht
+unter der Plasmamembran. Daher könnte es zu einer sekretionsähnlichen Aktivierung
+der Kationenströme kommen, indem die durch feste Bindung an den IP3R konstitutiv
+aktiven TRPC3-Kanäle nach Rezeptorstimulation in die Plasmamembran transportiert
+werden (Lockwich et al., 2001). 
+
+Die verschiedenen Modelle zur Aktivierung
+rezeptorgesteuerter Ca2+-Kanäle sind demnach nicht strikt getrennt, sondern stellen
+Grenzfälle dar, für die es zahlreiche Mischfälle gibt. Je nachdem wie der TRPC-Kanal
+zusammengesetzt ist und wie stark die Bindung der beteiligten TRPC-Proteine an den
+IP3R, an CaM (Calmodulin), das Aktin-Zytoskelett und an Adapterproteine ist, können
+die resultierenden Kanäle auf unterschiedliche Weise reguliert werden, wobei
+verschiedene Wege sich überschneiden, ergänzen oder parallel verlaufen können.
+Die weite Verbreitung von PDZ-Domänen und die Anwesenheit von PDZ Sequenzen in
+vielen Proteinen macht es zunächst sehr schwierig PDZ Proteine zu identifizieren, die
+auch tatsächlich mit säugerhomologen TRP-Kanälen interagieren. Ein humanes
+Homologon von INAD, bestehend aus 1524 Aminosäuren und fünf enthaltenen PDZDomänen, wurde im Zuge dieser Bemühungen gefunden und als hINADL (human
+INAD-like protein) bezeichnet (Philipp et al., 1997). Im Zuge weiterer Forschungen
+wurde hINADL als Bindungspartner von PALS (protein associated with LIN7)
+ausgemacht und zu PATJ (Pals1-associated tight junctions) umbenannt (Roh et al.,
+2002). PATJ/hINADL ist in tight junctions lokalisiert, insbesondere in der apikalen
+Plasmamembran von polarisierten epithelialen Zellen (Lemmers et al., 2002).
+Bisher bestätigte Interaktionspartner der TRPC Mitglieder sind in der nachfolgenden
+Tabelle (Tab. 1.2) zusammengefasst.
+
+Tabelle 1.2: Charakterisierung der Mitglieder der TRPC Familie. (Modifiziert nach
+Pedersen et al., 2005)
+Name
+
+Selekti-
+
+Leitfähig-
+
+Vermuteter Aktivie-
+
+Vermutete
+
+vität
+
+keit [pS]
+
+rungsmechnismus
+
+Protein-
+
+PCa/ PNa
+
+Bindungspartner
+
+TRPC1
+
+Nicht-
+
+(ENSG00000144935)
+
+selektiv
+
+
+PLC, Speicherentleerung,
+
+TRPC4,
+
+OAG (in Abwesenheit von
+
+TRPC5,
+
+2+
+
+extrazellulärem Ca ),
+
+TRPC3, CaM,
+
+mechanisch (Zug)
+
+IP3R, Enkurin,
+Homer,
+Caveolin-1
+
+TRPC2
+
+2,7
+
+42
+
+(ENSMUSG00000058020)
+TRPC3
+
+1,7
+
+66
+
+(ENSG00000138741)
+
+PLC, DAG, Speicherent-
+
+CaM, IP3R,
+
+leerung?
+
+Enkurin
+
+PLC, DAG, OAG, src TK,
+
+TRPC6,
+
+IP3, Speicherentleerung
+
+TRPC7, CaM,
+IP3R,
+RyR, TrkB?,
+NCX1,
+Caveolin-1
+
+TRPC4
+
+1,1
+
+30-41
+
+(ENSG00000100991)
+
+PLC, GTPS, mikromola-
+
+TRPC1,
+
+rem La3+, Speicherentlee-
+
+TRPC5, CaM,
+
+rung?
+
+IP3R,
+NHERF, ZO-1
+
+TRPC5
+
+9
+
+64
+
+(ENSG00000072315)
+
+PLC, GTPS, rezeptorre-
+
+TRPC1,
+
+guliert, mikromolarem
+
+TRPC4, CaM,
+
+La or Gd , Speicher-
+
+NHERF,
+
+entleerung?, [Ca2+]o,
+
+Enkurin,
+
+3+
+
+3+
+
+Erhöhung von [Ca ]i,
+
+Stathmin2,
+
+PIP5K, Rac, PI3K
+
+Synaptotagmin
+
+PLC, DAG, OAG, src TK,
+
+TRPC3,
+
+2+
+
+TRPC6
+
+5
+
+28-37
+
+−
+
+(ENSG00000137672)
+
+20-HETE, AlF4 ,
+
+TRPC7, CaM,
+
+Flufenamat
+
+Fyn,
+MxA
+
+TRPC7
+(ENSG00000069018)
+
+2
+
+?
+
+PLC, DAG, OAG, 20-
+
+TRPC3,
+
+HETE, Speicherentleerung
+
+TRPC6, CaM
+
+1.3 Das Protein PATJ
+Die ursprünglich murinen  entdeckte Proteinsequenz  Variante  von  PATJ,  CIPP  der  (channel  interacting PDZ domain protein), (Kurschner et al.,
+1998), beinhaltet vier so genannte PDZ-Domänen.
+Inzwischen ist bekannt, dass es sich bei der von
+Kurschner et al. 1998 gefundenen Sequenz um eine
+Verkürzungsmutante handelt und CIPP wie PATJ Abb. 1.9: Dreidimensionale scheDarstellung einer PDZzehn PDZ-Domänen beinhaltet. PDZ-Domänen matische
+Domäne (DHRs,  discs-large  homology  regions;  GLGF (http://pawsonlab.mshri.on.ca/).
+repeats, Gly-Leu-Gly-Phe) sind Protein-Protein-Interaktionsmodule, die in der Sequenz
+von Gerüstproteinen vermehrt anzutreffen sind. Der Name dieser ca. 90 Aminosäuren
+langen Module leitet sich von Mitgliedern der MAGUK-Proteinfamilie ab, in denen sie
+erstmals beschrieben wurden: PSD-95 (postsynaptic density 95)/DLG (discs-large)/ZO1 (Ponting, 1997; Saras & Heldin, 1996). Die meisten der bisher bekannten
+Bindungsmotive von PDZ-Domänen bestehen aus den letzten vier C-terminalen
+Aminosäuren des Interaktionspartners, wobei Aminosäurereste bis hin zu Position -8 die
+Bindung beeinflussen können (Hung & Cheng, 2002; Kozlov et al., 2000; Niethammer
+et al., 1998; Songyang et al., 1997). Inzwischen sind auch interne Bindungsmotive von
+PDZ-Domänen bekannt (Penkert et al., 2004). Aufgrund der unterschiedlichen
+Bindungsspezifität wurden PDZ-Domänen in drei Gruppen klassifiziert (Vgl. Tab. 1.3)
+(Hung & Cheng, 2002).
+
+Tab.
+
+1.3:
+
+Klassifizierung
+
+der
+
+PDZ-Domänen
+
+anhand
+
+der
+
+Konsensusbindungssequenz.
+Klasse
+
+C-terminale AS-Sequenz des Liganden
+
+І
+
+X-S/T-X-Ф
+
+ІІ
+
+X-Ф-X-Ф
+
+ІІІ
+
+X-D/E-X-Ф
+
+AS: Aminosäure, X: unspezifische AS, Ф: hydrophobe AS (V, L, I)
+
+Die letzte Aminosäure des C-Terminus wird in allen drei Klassen durch einen
+hydrophoben Aminosäurerest wie Leucin, Valin oder Isoleucin dargestellt (Songyang et
+al., 1997).
+Neben den zehn PDZ-Domänen besitzt PATJ mit einer N-terminalen L27-Domäne ein
+weiteres Protein-Protein-Interaktionsmodul. Jede L27-Domäne setzt sich aus drei
+Helices zusammen, die mit anderen L27-Domänen Heterodimere bildet und auf diese
+Weise zur Ausbildung multipler Proteinkomplexe beiträgt (Li et al., 2004).
+Da PATJ von entscheidender Bedeutung bei der Entwicklung von Zellpolarität ist (Shin
+et al., 2005; Shin et al., 2006), wurde in dieser Arbeitsgruppe ein Yeast Two-Hybrid
+Screen mit den letzten vier C-terminalen PDZ-Domänen der murinen Variante, CIPP,
+und  einer  humanen  Podozyten  cDNA  Bank  durchgeführt  um  potentielle  Interaktionspartner identifizieren zu können.
+
+1.4 Klinische Bedeutung der TRP-Kanäle in der Nephrologie
+Defekte in Ionenkanälen sind in vielen Fällen die Ursache von verschiedensten
+Erkrankungen, sogenannten Kanalopathien. Von den über 300 diversen Ionenkanälen,
+die im menschlichen Genom angelegt sind, konnten nur recht wenige für einen direkten
+ätiopathologischen  Zusammenhang  mit  Erkrankungen  herangezogen  werden.
+
+Nichtsdestotrotz steigt diese Zahl stetig. Kanalopathien sind definiert als genetische
+Defekte in Genen, welche für diese Kanäle kodieren. Bis jetzt konnten drei TRP-Kanäle
+(TRPC6, TRPM6 und TRPP2) als ätiopathologische Ursache von heriditären
+nephrologischen Krankheitsbildern identifiziert werden. Aber auch bei multifaktoriellen
+Geschehnissen sind TRP-Kanäle wichtige Ansatzpunkte für die Erklärung und
+Entwicklung von Krankheitsmodellen.
+1.4.1 Fokal-segmentale Glomerulosklerose (FSGS)
+Beachtung hat in jüngster Zeit der kationenselektive Ionenkanal TRPC6 erhalten
+(Reiser et al., 2005; Winn et al., 2006). Mutationen dieses Kanals, die zu einer erhöhten
+Aktivität führen („gain-in-function“), bewirken eine erbliche (familiäre) autosomaldominante Form einer langsam progredienten FSGS. TRPC6 ist an der Schlitzmembran
+lokalisiert und soll dort durch das mechanosensitive Podocin, einem weiteren
+Schlitzmembran-Protein, in seiner Öffnungswahrscheinlichkeit reguliert werden.
+TRPC6 gehört zu der Familie der TPP („transient receptor potential“)-Ionenkanäle und
+transportiert Calcium selektiv von extra- nach intrazellulär. Dadurch erhöht sich
+intrazellulär die Calciumkonzentration, wodurch nicht nur verschiedene spezifische
+Transkriptionsfaktoren aktiviert werden, sondern auch das Zytoskelett reguliert wird.
+Bislang wird angenommen, dass es sich bei Podozyten um terminal entdifferenzierte
+Zellen handelt, die nicht effizient proliferieren können und somit ein Podozytenverlust
+nicht durch regenerative Zellteilung ausgeglichen werden kann. Bei der FSGS kommt
+es initial zu einer phänotypischen Dysregulation des Podozyten mit Verplumpung der
+Fußfortsätze, konsekutivem Verlust der Filtrationsschlitze („Effacement“) und letztlich
+zum fortschreitenden Zellverlust durch Ablösung von der glomerulären Basalmembran
+und Zelltod. Es gibt zahlreiche Hinweise aus dem Bereich der experimentellen
+Tiermodelle, die diese Dysregulation mit einem Verlust von Differenzierungsmarkern,
+Zellproliferation und Zelltod durch Apoptose in Verbindung bringen.
+Die primäre, hereditäre FSGS ist eine häufige Ursache für das nephrotische Syndrom
+(NOS) im Erwachsenenalter. In der Literatur schwanken die Angaben zwischen 1035 % der biopsierten Fälle. Die ererbten Formen gehen mit einem steroid-resistenten
+NOS einher und führen rasch zur terminalen Niereninsuffizienz.
+
+1.4.2 Hypomagnesämie und sekundäre Hypocalcämie
+Das Syndrom der primären Hypomagnesiämie und sekundären Hypocalcämie (HSH) ist
+ein sehr seltener kombinierter intestinaler und renaler Transportdefekt, der sich im
+Säuglingsalter manifestiert. Die primäre intestinale Hypomagnesiämie mit sekundärer
+Hypocalcämie (HSH) oder hypomagnesiämische Tetanie ist durch sehr niedrige Mg2+Serumspiegel, normale Mg2+-Ausscheidung in der Niere und Hypocalcämie
+charakterisiert. Es ist eine schwere Krankheit, die unbehandelt zum Tode führt. Als
+Ursache wird ein Defekt der Mg2+-Aufnahme im Darm angenommen. Die
+Neugeborenen leiden unter Unruhe, Zittern, Tetanie und Krampfanfällen. In einer
+Familie von blutsverwandten Beduinen wurde eine Kopplung der HSH mit Markern auf
+Chromosom 9q gefunden. Eine Patientin mit HSH und X-Autosom-Translokation hatte
+den autosomalen Bruchpunkt in 9q12-q22.2. Dieser HOMG-Lokus wurde durch
+Untersuchung weiterer Familien von ursprünglich 14 cM auf 1 cM eingeengt, bis durch
+den Nachweis von Mutationen im TRPM6-Gen die Ursache gefunden war
+(Schlingmann et al., 2002; Walder et al., 2002). Molekulargenetische Studien bei
+Patienten mit Hypomagnesiämie und sekundärer Hypocalcämie (HSH) konnten zum
+ersten Mal eine Komponente des aktiven transzellulären Magnesiumtransportes in Darm
+und distalem Konvolut (DCT) der Niere identifizieren: TRPM6 bildet zusammen mit
+seinem engen Homolog TRPM7 einen Magnesium-permeablen Ionenkanal, der für die
+Aufnahme von Magnesium in das Darmepithel und die Tubuluszelle des distalen
+Konvulutes verantwortlich ist.
+
+1.4.3 Autosomal dominante polyzystische Nierenerkrankung
+Bei etwa 80-90 % der ADPKD-Patienten (autosomal dominant polcystic kidney
+disease) liegt eine Mutation im TRPP1-Gen (PKD1) zugrunde, während 10-15 % der
+Patienten eine Mutation im TRPP2-Gen (PKD2) aufweisen (Sutters & Germino, 2003).
+Die Genprodukte (Polycystin 1 und 2) sind transmembranäre Glykoproteine, die im
+Bereich ihrer C-Termini miteinander interagieren. Die Entstehung der Zysten folgt
+dabei der sog. „two-hit hypothesis“, wonach zu der Keimbahnmutation, in einem der
+beiden Gene, ein zweites, somatisches Mutationsereignis im gleichen oder aber auch
+dem anderen (Transheterozygotie) PKD-Gen die Suppressorfunktion beider Proteine
+inaktiviert („loss of heterozygosity, LOH“) (Somlo & Markowitz, 2000). Die bislang
+identifizierten Mutationen in den beiden PKD-Genen beinhalten alle Mutationstypen
+und sind über den gesamten Genbereich verteilt. Genotyp-Phänotyp Korrelationen sind
+nur begrenzt möglich. Eine Mutationsanalytik bei PKD1 wird zum einen durch die
+Größe des Gens von 46 kodierenden Exonen (Transkript 14,2 kb, Protein 4302 AS) und
+zum anderen dadurch erschwert, dass weiter proximal auf Chromosom 16 die ersten 33
+Exone des PKD1-Gens in mehreren homologen Kopien vorliegen, die eine spezifische
+Amplifikation erschweren (Wu & Somlo, 2000).
+Der entsprechende Pathomechanismus postuliert, dass TRPP2 den Transkriptionsfaktor
+Id2 im Zytoplasma bindet. Normalerweise findet eine Assoziation zwischen
+phosphoryliertem TRPP2 mit TRPP1 statt und verhindert somit die Translokation von
+Id2 in den Nukleus durch Bindung desselbigen am C-Terminus. TRPP1/TRPP2
+Mutationen erlauben es jedoch Id2 in den Nukleus zu dissoziieren, wo dieses dann mit
+E-Proteinen  interagiert.  E-Proteine  aktivieren  physiologischerweise    Wachstumssupressor-Gene. Wenn Id2 aber nun spezifische E-Proteine bindet, wird die
+Funktion der Aktivierung von Wachstumssupressions-Proteinen ausgeschaltet, was zur
+Initiierung der G1/S Phase führt. Dieser
+Mechanismus  könnte  hyperproliferativen  den  Charakter  der  ADPKD erklären (Li et al., 2005).
+Die autosomal dominante polyzystische
+Nierenerkrankung (ADPKD) ist eine der
+häufigsten monogenen Erbkrankheiten.
+Die ADPKD ist durch die Ausbildung
+flüssigkeitsgefüllter
+Nephronabschnitten  Zysten  in  allen  charakterisiert.  Zysten können darüber hinaus auch in anderen Organen wie der Leber und dem Pankreas auftreten, verursachen hier
+
+Abb. 1.10: Modell über den Pathomechanismus
+
+jedoch im Allgemeinen keine klinischen der ADPKD. (Modifiziert nach Gomez, 2005 und Li
+Symptome (Delmas, 2004; Delmass et  et al., 2005)  al. 2004; Grantham, 1993; Somlo & Markowitz, 2000). Mittels Ultraschalluntersuchung
+der Nieren können im Alter von 20 Jahren etwa 95 % der Anlageträger und bis zum 30.
+Lebensjahr praktisch alle Anlageträger identifiziert werden. Die meisten Anlageträger
+entwickeln klinisch relevante Symptome in der 3.-4. Lebensdekade. Ein terminales
+Nierenversagen tritt bei Patienten mit PKD1 durchschnittlich etwa 15-20 Jahre früher
+auf als bei Patienten mit PKD2 (ca. 55. versus ca. 75. Lebensjahr). Obgleich der
+Schweregrad der Erkrankung innerhalb einer Familie meist ähnlich verläuft, sind
+intrafamiliär variable Verläufe dennoch gut bekannt. Frühmanifestationen der ADPKD
+werden bei etwa 1-2 % der Anlageträger beobachtet. Hauptsymptome im
+Erwachsenenalter sind eine arterielle Hypertonie, Harnwegsinfektionen, Hämaturie,
+Komplikationen  der  Mitralklappenprolaps,  Niereninsuffizienz, Insuffizienzen)  und  Beteiligungen der  des  (großen)  
+Herzens  (häufig  arteriellen  Gefäße  (Aneurysmen). Dieser sog. vaskuläre Phänotyp zeigt oftmals eine familiäre Häufung und 
+schließt Hirnbasisaneurysmen ein.
+
+1.4.4 TRPC-Kanäle und die arterielle Hypertonie
+Die funktionelle Bedeutung, insbesondere der TRPC-Kanäle für die Endothelfunktion
+wird über ihre Ca2+-Permeabilität erklärt. Sie gelten als wichtige Regulatoren der Ca2+abhängigen
+ Synthese  vasodilatierender  Faktoren  wie  Stickstoffmonoxid  und
+möglicherweise der EDHF-Signalgebung.
+
+Abb. 1.11: Regulation der
+Endothelfunktion durch Ionenkanäle. cAMP = zyklisches
+Adenosinmonophsophat, cGMP =
+zyklische
+Guanosinmonophosphat, COX = Zyklooxygenase; DAG = Diazylglycerol;
+ER = endoplasmatisches Retikulum, EDHF = endotheliumderived hyperpolarising factor;
+IKCa1 und SKCa3 = Ca2+-aktitivierte Kaliumkanäle; IP3 =
+Inositoltrisphosphat; MSC =
+mechanosensitive
+Kationenkanäle; NOS = NO-Synthase, NO =
+Stickstoffmonoxid;
+PGI2
+=
+Prostazyklin; TRPC = canonical
+TRP-Kanäle, TRPV = vanilloid
+TRP-Kanäle (Maier et al. 2005)
+
+Bezugnehmend auf die Charakterisierung von TRPC-Kanälen als speichergesteuerte
+Kanäle in den meisten nicht-erregbaren Zelltypen, stellen neueste Studien eine direkte
+Verbindung zwischen defekten TRP Proteinen und einer verminderten Vasorelaxation
+her. Dies wurde unter anderem gezeigt an Aorten und Endothelzellen von TRPC4
+defizienten Mäusen (Freichel et al., 2001). Interessanterweise ist dieses Phänomen
+verknüpft mit einer reduzierten Stickoxidsynthese und der daraus resultierenden
+Abschwächung der L-Nitro-Arginin induzierten Vasorelaxation. In dem gleichen
+Modell konnte auch eine verringerte Thrombin-induzierte mikrovaskuläre Permeabilität
+festgestellt  werden,  begleitet  von  einer  abgeschwächten  Zellmotilität  und  Stressfasermorphologie (Tiruppathi et al., 2002).
+Dies ist ein weiterer Beweis das TRP-Kanäle und ihr speichergesteuerter
+Aktivierungsmechanismus eine wichtige Funktion für die Kontraktilität von vaskulären
+glatten Muskelzellen und/oder die endothelialen Funktionen dieser Zellen spielen mit
+einer möglichen Verbindung zur arteriellen Hypertonie. Die Rolle von TRPC6 bei der
+Kontrolle des Gefäßwiderstandes und demzufolge auch für den systemischen Blutdruck,
+wurde bereits nachgewiesen. So konnten, in Experimenten, durch -Adrenrezeptoren
+aktivierte Calciumströme detektiert werden und Antisense-Oligodesoxynukleotide von
+TRPC6 führten zu einer reduzierten Depolarisation von arteriellen, glatten Muskelzellen
+(Welsh et al., 2002).
+Anti-TRPC6 Oligodesoxynukleotide verhindern Kationen-Flüsse, bedeutsam bei der
+druckinduzierten  myogenen  Depolarisation,  ähnlich  einer  mikroosmolaren  Konzentration von Gadolinium, einem Inhibitor für mono- oder divalenten
+Kationenkanäle (Fantozzi et al., 2003). Studien an vaskulären, glatten Muskelzellen von
+spontan-hypertensiven Ratten (SHR) und Wistar Kyoto normosensitiven Ratten
+(WKY), zeigen eine unterschiedliche Regulation von TRP-Kanal Proteinen und ihrer
+Induktion durch Vasokonstriktoren, wie AngiotensinII (ANGII). Der TRPM7 Gehalt ist
+geringer in SHR Zellen verglichen mit ihrer WKY Kontrolle, was zu einer Abnahme
+von intrazellulärem Mg2+, einem zweiwertigen Kation, das selektiv durch diese Kanäle
+internalisiert wird, führte. TRPM6 ist hochreguliert durch ANGII, während der
+Vasokonstriktor keinen Einfluss auf den TRPM7 Spiegel in SHR-VSMC ausüben kann,
+was zu einer reduzierten Translokation von Annexin1 führt, einem spezifischen TRPM7
+Substrat, involviert in enzymatischen Kaskaden der Apoptose (Touyz et al., 2005). Dies
+könnte das Proliferations/Apoptose-Verhältnis in VSMC, mit Effekten für die zelluläre
+Komposition von Gefäßen in hypertensiven Ratten, beeinflussen (Landsberg & Yuan,
+2004).
+Darüber hinaus bietet die Regulation der Expression und/oder die Steuerung der TRPKanäle durch ANGII weitere Hinweise für ihre Verwicklung in der Signaltransduktion
+durch Vasokonstriktoren, teilweise durch persistierenden Ca2+- (und vielleicht Mg2+-)
+Influx, folgend der initialen Freisetzung von Ca2+ aus intrazellulären Speichern. Die
+Überexpression von TRPC3 und TRPC6 in VSMC von Patienten mit primärer,
+pulmonaler Hypertonie könnte ein Hinweis auf die pathogenetische Beteiligung dieser
+Kanäle bei der Entität darstellen (Fantozzi et al., 2003; Yu et al., 2004). Bisweilen ist
+die systemische, essentielle, arterielle Hypertonie stark verknüpft mit einer
+zunehmenden Sensitivität für Vasokonstriktoren und veränderten [Ca2+]i Antworten.
+Auch dort besteht die Möglichkeit der Mitwirkung von TRPC-Kanälen. Überdies ist das
+Proliferationsverhalten von VSMC sensibel für [Ca2+]i, was erkennbar ist an einem
+beeinträchtigtem Zellwachstum beim Entfernen von extrazellulärem Ca2+ oder der
+Blockierung von spannungsgesteuertem Ca2+-Influx. Erhöhte [Ca2+]i stattdessen
+beschleunigen den Zellzyklus und die Gentranskription. Die Beziehung zwischen der
+TRPC6 Expression und dem Eintritt von VSMC in die S und G2/M Phasen des
+Zellzyklus, gezeigt von Yu et al., 2004, deutet darauf hin, dass kapazitativer
+Calciumeinstrom einen Mechanismus für die Kontrolle von Hypertrophievorgängen von
+VSMC und vielleicht auch von Myokardzellen, bedeutsam für die pulmonale und
+systemische Hypertonie, hat (Freichel et al., 2001; Tiruppathi et al., 2002; Yu et al.,
+2004).
+
+1.5 Aufgabenstellung und Ziele
+Ziel dieser Arbeit war es TRPC3 als wichtigen Vertreter der „kanonischen“ TRPKanalfamilie auf seine potentielle Interaktion mit dem humanen multi-PDZ Protein
+PATJ zu untersuchen. Eine Interaktion von TRPC1, TRPC4 und TRPC5 mit dem
+Drosophila Gerüstprotein INAD ist bereits bekannt. Im Zuge der weiteren Forschung
+wurde das Säugerhomologon von INAD gefunden, welches zunächst als hINADL
+(human INAD-like protein) bezeichnet und später in das schon vorgestellte
+Adapterprotein PATJ umbenannt wurde (siehe 1.2.5). Für TRPC4 als auch für TRPC5
+konnte darüber hinaus  gezeigt werden, dass NHERF, ein zwei PDZ-Domänen  enthaltendes Protein, die beiden Kanäle zusammen mit der PLC und dem AktinZytoskelett verknüpft und somit eine Adapterfunktion innehat, wodurch die Verteilung
+und Regulation der Kanäle moduliert werden könnte.
+In der aufgestellten Arbeitshypothese sollte nun die wahrscheinliche Interaktion von
+TRPC3 mit PATJ untersucht und verifiziert werden und im Anschluss daran eine
+genauere Eingrenzung der spezifischen Bindungsregionen erfolgen. Das bedeutet zum
+einen für TRPC3, ob nun der C-Terminus oder der N-Terminus, die beide
+zytoplasmatisch gelegen sind, an der Interaktion maßgeblich beteiligt sind, und zum
+anderen für PATJ welche PDZ-Domäne(n) die Bindung ausmacht bzw. ausmachen.
+
+2.
+
+Material
+
+2.1
+
+Geräte
+
+Gerät
+
+Typbezeichnung
+
+Hersteller
+
+Autoklav
+
+Varioklav
+
+H+P Labortechnik
+GmbH
+
+Brutschränke Bakterien, Hefen
+
+B5050
+
+Heraeus
+
+Brutschränke Zellkultur
+
+Heracell 240
+
+Heraeus
+
+Elektrophoresekammern
+
+Model B1
+
+Peqlab Biotechnologie
+
+(Agarosegele)
+
+GmbH
+
+Elektrophoresekammern (PAA-Gele)
+
+Novex Mini-Cell
+
+Invitrogen
+
+Entwickler
+
+Optimax X-Ray
+
+PROTEC
+
+Film Processor
+
+Medizintechnik
+
+Fluoreszenzkamera
+
+AXIOCAM MRC
+
+Zeiss
+
+Fluoreszenzmikroskop
+
+AXIOVERT 100
+
+Zeiss
+
+Geldokumentationssystem
+
+Lumi-Imager F1
+
+Roche
+
+PCR-Gerät
+
+GeneAmp® PCR-
+
+Applied Biosystems
+
+System 2700
+pH-Meter
+
+RS-232-C
+
+Schott
+
+Photometer
+
+Smart Spec TM
+
+BioRad
+
+
+Gerät
+
+Typbezeichnung
+
+Hersteller
+
+Schüttelinkubator Bakterien, Hefen
+
+Certomat® IS
+
+B. Braun Biotech
+International
+
+Spannungsquellen
+
+Power Pac HCTM
+
+BioRad
+
+Sterilwerkbank
+
+HERAsafe
+
+Heraeus
+
+Thermostaten
+
+Thermomixer
+
+Eppendorf
+
+comfort
+UV-Tisch (Transiluminator)
+
+IL-200-M
+
+H. Saur Laborbedarf
+D-Reutlingen
+
+Videokamera
+
+XC-ST70C
+
+Hamatsu/Sony
+
+Vortexer
+
+VortexGenie2
+
+Scientific Industries,
+Inc. N.Y. USA
+
+Waagen
+
+ScoutTMPro
+
+OHAUS
+
+Explorer®Pro
+Western-Blot-Apparatur
+
+Semidry
+
+BioRad
+
+Transfercell
+Zentrifugen
+
+Mikro 200 R
+
+Hettich
+
+Allegra TM X-22R
+
+Beckman
+
+Multifuge 3S-R
+
+Heraeus
+
+
+2.2
+
+Chemikalien und Laborbedarf
+
+Bezeichnung
+
+Hersteller
+
+1 kb DNA ladder
+
+Promega
+
+100 bp DNA ladder
+
+Promega
+
+2-Propanol
+
+Roth
+
+6 x Loading Dye Solution
+
+Promega
+
+Agarose
+
+Roth
+
+Ammoniumchlorid
+
+Roth
+
+Ammoniumper(oxodi)sulfat (APS)
+
+Sigma
+
+Bromphenolblau
+
+BioRad
+
+Coomassie brilliant blue R-250
+
+Sigma
+
+Crystal Clear Mounting Medium
+
+Sigma
+
+D-Glucose Monohydrat
+
+AppliChem
+
+Dimethylsulfoxid (DMSO)
+
+Sigma
+
+Dithio-1,4-threitol (DTT)
+
+Sigma
+
+Essigsäure
+
+Roth
+
+Ethanol
+
+Roth
+
+Ethidiumbromid
+
+AppliChem
+
+Ethylendiamintetraacetat (EDTA)
+
+Omnilab
+
+Bezeichnung
+
+Hersteller
+
+Glutathion Sepharose
+
+Amersham Biosciences
+
+Glycerin
+
+Roth
+
+Glycin
+
+AppliChem
+
+Hefe-Extrakt
+
+Sigma
+
+Isopropyl-β-D-thiogalactopyranosid (IPTG), dioxanfrei
+
+Roth
+
+Kaliumdihydrogenphosphat (KH2PO4 x 2 H2O)
+
+Aldrich
+
+Calciumchlorid (CaCl2)
+
+Sigma
+
+LB-Broth Powder
+
+Sigma
+
+Luminol
+
+Fluka
+
+Methanol
+
+Roth
+
+N, N, N´, N´-Tetramethylendiamin (TEMED)
+
+Sigma, Fluka
+
+Natriumchlorid
+
+Fluka
+
+Natriumdihydrogenphosphat-Dihydrat (NaH2PO4 x 2
+
+Fluka
+
+H2O)
+Natriumdodecylsulfat (SDS)
+
+AppliChem
+
+Natriumorthovanadat (Na3VO4)
+
+Sigma
+
+Paraformaldehyd (PFA)
+
+Fluka
+
+PEG 4000
+
+Roth
+
+Bezeichnung
+
+Hersteller
+
+PMSF
+
+AppliChem
+
+Ponceau S Lösung
+
+Sigma
+
+Precision Plus Protein Dual Colour Standard
+
+BioRad
+
+Salzsäure (HCl) 37 %
+
+Roth
+
+Tris(hydroxymethyl)aminomethan (Tris, Trizma® Base)
+
+Sigma
+
+Triton® X-100
+
+Sigma
+
+Vectashield Hard Set™
+
+Axxora
+
+Wasserstoffperoxid (H2O2) 30 %
+
+Sigma
+
+β-Mercaptoethanol (β-ME)
+
+Sigma
+
+2.3 Puffer und Lösungen
+
+Alle Puffer, Lösungen und Medien werden mit Reinstwasser angesetzt. Puffer und
+Lösungen für molekular- und mikrobiologische Arbeiten sowie die Zellkultur werden
+für 30 Min bei 121 °C autoklaviert oder sterilfiltriert. Die Lagerung erfolgt, wenn nicht
+anders angegeben, bei RT (Raumtemperatur).
+
+Bezeichnung
+1 x PBS
+
+Zusammensetzung/Hersteller
+Dulbecco´s Phosphate buffered Saline mit und ohne
+Ca2+ und Mg2+, PAA
+
+2 x HEBS-Lösung
+
+HEPES acid 10 g, NaCl 16 g, KCl 0.74 g, Na2HPO4
+x H2O 0.25 g, Glucose 2 g, 10 ml 10 x PBS, mit
+H2O auf 1l auffüllen, pH 7.05 einstellen,
+Gebrauchslösung: 4 °C, dauerhafte Lagerung:
+-20 °C
+
+AA-Stammlösung
+
+40 % Acrylamid/Bis-Acrylamid Solution, Roth,
+4°C
+
+Alexa Fluor® 594 Phalloidin
+
+Molecular Probes, Eugene, Oregon, USA, -20 °C,
+Invitrogen
+
+Calciumchloridlösung
+
+0.25 M
+
+Columnbuffer
+
+200 mM NaCl, 20 mM Tris/HCl pH 7.4, 1 mM
+EDTA, 4 °C
+
+Coomassie-Gebrauchslösung
+
+Coomassie-Stammlösung mit H2O 1:10 verdünnen
+
+Coomassie-Stammlösung
+
+0.6 % (w/v) Coomassie brilliant blue, 10 %
+Essigsäure in H2O
+
+Bezeichnung
+Fixierlösung
+
+Zusammensetzung/Hersteller
+25 % Isopropanol, 10 % Essigsäure in H2O
+
+(Fixing Solution)
+Hepes 1M
+
+PAA, 4 °C (dauerhafte Lagerung -20 °C)
+
+IP-Puffer Gebrauchslösung
+
+IP-Puffer Stammlösung + 0.25 mM PMSF (in
+EtOH) + 5 mM Na3VO4, frisch ansetzen
+
+IP-Puffer Stammlösung
+
+1 % Triton X-100, 20 mM Tris/HCl pH 7.5, 25
+mM NaCl, 50 mM NaF, 15 mM EDTA, 4 °C
+
+Kollagen A
+
+1 mg/ml Biochrom, 4°C
+
+Laemmli-Probenpuffer 2x
+
+20 % (v/v) Glycerol, 125 mM Tris/HCl pH 6.8,
+10 % (w/v) SDS, 0.2 % (w/v) Bromphenolblau, 5 %
+(v/v) β-ME in H2O, -20 °C
+
+Na3VO4
+
+100 mM Stammlösung, Sigma , -20 °C
+
+(Tyrosin-PhosphataseInhibitor)
+Paraformaldehyd (PFA)
+
+2 % (w/v) Paraformaldehyd, 4 % (w/v) Saccharose
+in 1 x PBS, -20 °C
+
+PMSF
+
+10mg/ml PMSF in EtOH Stammlösung, AppliChem
+
+(Phenylmethansulfonylfluorid)
+
+-20°C
+
+Protein-Laufpuffer 10x
+
+2 M Glycin, 0.5 % (w/v) SDS, 250 mM Trizma
+
+(10 x Running buffer)
+
+Base
+
+Bezeichnung
+Protein-Laufpuffer 1 x
+
+Zusammensetzung/Hersteller
+10 x Protein-Laufpuffer mit H2O 1:10 verdünnen
+
+(1 x Running buffer)
+STET-Puffer
+
+8 % (w/v) Saccharose, 50mM EDTA, 5 % (v/v)
+TritonX-100, 50 mM Tris/HCl pH 8
+
+TAE-Puffer
+
+AppliChem
+
+TBS-T
+
+10 mM Tris pH 7.4, 0.05 % Tween 20, 150 mM
+
+(Tris Buffered Saline +
+
+NaCl
+
+Tween)
+Transfer-Puffer 10 x
+
+144 g Glycin, 30 g Trizma Base, mit H2O auf 1l
+auffüllen
+
+Transfer-Puffer 1x
+
+1/10 10x Transfer-Puffer, 1/5 Methanol, mit H2O
+auffüllen
+
+Trypsin-EDTA
+
+PAA, Gebrauchslösung 4 °C, dauerhafte Lagerung 20 °C
+
+X-Gal-Gebrauchslösung
+
+10 ml Z-Puffer, 167 µl X-Gal-Stammlösung, 27 µl
+β-ME, -20 °C
+
+X-Gal-Stammlösung
+
+20 mg/l 5-Brom-4-chlor-3-indoyl- β-Dgalaktopyranosid in DMF, vor Licht schützen,
+-20 °C
+
+Z-Puffer
+
+10.7 g Na2HPO4 x 2H2O, 5.5 g NaH2PO4 x 2H2O,
+0.75 g KCl, 0.246 g MgSO4 x 4H2O, mit H2O auf 1l
+auffüllen, pH 7.0
+
+
+
+2.3.1 Home made ECL
+Zur Analyse von Western Blots werden die benötigten Lösungen für die
+Peroxidasereaktion  der  verstärkten  Chemilumineszenz  enhanced  (ECL,  chemiluminescence) selbst hergestellt.
+Die Lösungen A und B sind bei 4°C zwei Tage stabil. Sie werden in einem Verhältnis
+von 1:1 zusammengegeben. Für eine PVDF-Membran ist ein Volumen von 1 ml Home
+made ECL ausreichend. Das lichtsensitive Luminol und die Coumaridinsäure werden in
+DMSO gelöst und aliquotiert bei -20°C gelagert.
+
+Tabelle 2.1
+
+Home made ECL
+
+Komponenten
+
+H2O
+
+Pipettiervolumen
+
+Pipettiervolumen
+
+Finale
+
+Lösung A
+
+Lösung B
+
+Konzentration
+
+8.7 ml
+
+9 ml
+
+1 ml
+
+1 ml
+
+100 mM
+
+---
+
+6 µl
+
+1.5 %
+
+250 mM Luminol
+
+200 µl
+
+---
+
+2.5 mM
+
+90 mM
+
+88 µl
+
+---
+
+0.4 mM
+
+1 M Tris/HCl pH 8.5
+30 % H2O2
+
+Coumaridinsäure
+
+
+2.4 Medien
+
+Alle nachfolgend angeführten Medien werden, soweit nicht anders angegeben,
+autoklaviert bzw. sterilfiltriert. Die Lagerung der Medien und Agarplatten erfolgt bei
+4 °C.
+
+2.4.1 Medien zur Kultivierung von Bakterien
+2.4.1.1 LB-Medium/Agarplatten
+Für die Flüssigkultur von Bakterien in Luria-Bertani-Medium (LB-Medium) werden 20
+g LB-Broth (Sigma) in H2O gelöst. Als Selektionsantibiotika werden je nach Bedarf
+nachträglich 100 µg/ml Ampicillin oder 35 µg/ml Kanamycin zugesetzt.
+LB-Agarplatten werden analog dem LB-Medium hergestellt unter Zusatz von 20 g/l
+Agar.
+
+2.4.1.2 SOB-Medium
+2 % (w/v) BactoTM-Trypton (Difco), 0.5 % (w/v) Hefe-Extrakt und 10 mM NaCl
+werden mit 2.5 mM KCl versetzt.
+
+2.4.1.3 SOC-Medium
+SOB-Medium wird mit 20 mM Glukose, 10 mM MgCl2 und 10 mM MgSO4 versetzt
+und aliquotiert bei -20°C gelagert.
+
+2.4.1.4 TYM-Medium
+2 % (w/v) BactoTM-Trypton (Difco), 0.5 % (w/v) Hefe-Extrakt und 10 mM MgSO4,
+werden mit 100 mM NaCl versetzt.
+
+2.4.1.5 TfB1
+15 % (v/v) Glycerin, 10 mM CaCl2, 100 mM KCl, 50 mM MnCl2 und 30 mM KOAc
+werden sterilfiltriert.
+
+2.4.1.6 TfB2
+15 % (v/v) Glyzerin, 75 mM CaCl2, 10 mM KCl und 100 mM Na-MOPS (Roche)
+werden auf pH 7.0 eingestellt und sterilfiltriert.
+
+2.4.2 Medien zur Kultivierung von Hefen
+
+2.4.2.1 YPAD-Medium/Agar-Platten
+In einem Liter H2O werden 10 g BactoTMYeast Extract (DIFCO), 20 g BactoTM-Pepton
+(BD), 20 g Glukose und 100 mg Adeninsulfat gelöst und autoklaviert. Für
+entsprechende Agarplatten wird vor dem Autoklavieren 20 g/l Agar hinzugefügt.
+
+2.4.2.2 SD-Selektionsmedium/Agar-Platten
+6.7 g synthetic drop-out (DIFCO, Hefe-Basis-Medium) werden in 850 ml H2O gelöst
+und der pH-Wert auf 5.8 eingestellt. Für die Herstellung entsprechender Agarplatten
+wird 20 g Agar hinzugefügt. Nach dem Autoklavieren werden 50 ml einer
+Glukoselösung (40 %) und 100 ml 10x drop-out-Lösung zugesetzt. Die Aminosäuren
+Histidin, Leucin und Tryptophan stellen den synthetischen drop in dar und können
+sekundär zugesetzt werden.
+10x drop-out-Lösungen
+300 mg/l
+
+L-Isoleucin
+
+1500 mg/l
+
+L-Valin
+
+200 mg/l
+
+L-Adeninhemisulfat
+
+200 mg/l
+
+L-Arginin x HCl
+
+200 mg/l
+
+L-Methionin
+
+300 mg/l
+
+L-Lysin x HCl
+
+500 mg/l
+
+L-Phenylalanin
+
+2000 mg/l
+
+L-Threonin
+
+300 mg/l
+
+L-Tyrosin
+
+200 mg/l
+
+L-Uracil
+
+100x Stammlösungen
+2 g/l
+
+L-Histidin
+
+10 g/l
+
+L-Leucin
+
+2 g/l
+
+L-Tryptophan
+
+2.4.2.3 3-AT-Lösung
+Einige Hefestämme wachsen trotz Mutation im His3-Gen in geringem Maße auf
+histidindefizientem Medium. Aus diesem Grund wird das Medium mit dem
+kompetitiven Inhibitor dieses Enzyms, 3-Amino-1, 2, 4-triazol (3-AT), ergänzt, indem
+25-100 mM 3-AT zugegeben werden, wobei die Konzentration experimentell ermittelt
+werden muss.
+
+2.4.3 Medien zur Kultivierung eukaryoter Zellen
+Bezeichnung
+AB8 („MOIN“)
+
+Zusammensetzung/Hersteller
+RPMI 1640 (PAA) + 5 % FCS + 0.8 % Supplements
+
+Zellkulturmedium
+COS-7 Zellkulturmedium
+
+DMEM (+ 4 mM L-Glutamin + Glucose 4.5 g/l)
+PAA + 10 % FCS
+
+FCS
+
+BioChrom AG
+
+HEK 293T
+
+DMEM (+L-Glutamin+high Glucose 4.5 g/l) PAA +
+
+Zellkulturmedium
+
+10 % FCS
+
+MDCK Zellkulturmedium
+
+DMEM (+L-Glutamin + high Glucose 4.5 g/l) PAA +
+10 % FCS
+
+
+Bezeichnung
+Supplements, 1x
+
+Zusammensetzung/Hersteller
+0,1 % nicht-essentielle Aminosäuren Bio Whittaker
+100 µM Natriumpyruvat
+10 µg/ml Insulin-Transferrin-Natrium-Selenit
+(Roche)
+5 mM HEPES
+
+2.5 Verbrausmaterialien und Kits
+
+Bezeichnung
+
+Hersteller
+
+Bakterien Kulturröhrchen
+
+Sarstedt
+
+Blottingpapier
+
+Schleicher & Schüll
+
+Deckgläser
+
+VWR
+
+Flexi-Strip Schaber
+
+BiWeX, Tilburg Holland
+
+Objektträger
+
+VWR
+
+Petrischalen für die Mikrobiologie
+
+Greiner
+
+Pipettenspitzen
+
+Sarstedt
+
+Plasmid Miniprepkit, Wizard® Plus SV Minipreps
+
+Qiagen
+
+Serologische Piptetten
+
+BD Falcon
+
+PureLinkHiPure Plasmid Filter Maxiprep Kit
+
+Invitrogen
+
+PVDF-Immobilon Membran (0.45µm)
+
+Millipore
+
+Bezeichnung
+
+Hersteller
+
+Reaktionsgefäße („Eppis”)
+
+Eppendorf, Roth
+
+Sterilfilter
+
+Millipore
+
+Zentrifugenröhrchen
+
+BD Falcon
+
+2.6 Enzyme
+
+Die angeführten Enzyme werden bei -20 °C gelagert.
+Enzym
+
+Hersteller
+
+Calf Intestine Alkaline Phosphatase, (CIAP), 1.000 U
+
+Promega
+
+Pfu Turbo DNA Polymerase
+
+Stratagene
+
+GoTaq DNA Polymerase
+
+Promega
+
+Lysozym
+
+Roth
+
+Proteinase K (PNK)
+
+Promega
+
+RNase A
+
+AppliChem
+
+Restriktionsendonukleasen
+
+NEB, Promega
+
+T4 DNA Ligase
+
+MBI Fermentas
+
+T4 Polynukleotid Kinase
+
+Promega
+
+2.7 Antikörper
+
+Spezifität
+
+Spezies
+
+IF
+
+WB
+
+Hersteller
+
+HA (12CA5)
+
+Maus
+
+-
+
+1:10 000
+
+Roche
+
+HA (3F10)
+
+Ratte
+
+-
+
+1:10 000
+
+Roche
+
+FLAG (M2)
+
+Maus
+
+-
+
+1:10 000
+
+Sigma
+
+hPATJ
+
+Kaninchen
+
+-
+
+1:1000
+
+Zur Verfügung
+gestellt von André
+Le Bivic, Marseille,
+Frankreich
+
+hPATJ
+
+Kaninchen
+
+-
+
+1:1000
+
+Zur Verfügung
+gestellt von Yair
+Horesh, Bar-Ilan,
+Israel
+
+Ziege--
+
+Ziege
+
+1:1000
+
+Molecular Probes,
+Invitrogen
+
+Kaninchen
+Alexa 488
+Ziege--Maus
+
+Ziege
+
+1:1000
+
+Invitrogen
+
+Alexa 594
+Ziege--Maus
+
+Ziege
+
+1:200
+
+Cy3
+
+Dianova, Jackson
+ImmunoLabs
+
+Cy2
+Ziege--Maus
+
+Molecular Probes,
+
+Ziege
+
+1:200
+
+Dianova, Jackson
+ImmunoLabs
+
+Spezifität
+Ziege--Maus
+
+Spezies
+
+IF
+
+Ziege
+
+WB
+
+1:20000
+
+Ziege
+
+1:100
+
+Ziege
+
+1:20000
+
+Dianova, Jackson
+ImmunoLabs
+
+Peroxidase
+
+2.8 Dianova, Jackson ImmunoLabs
+
+TRITC
+Ziege--Ratte
+
+Dianova, Jackson
+ImmunoLabs
+
+Persoxidase
+Ziege--Ratte
+
+Hersteller
+
+Bakterien (Escherichia coli)
+Stamm
+
+Genotyp
+
+Referenz
+
+BL21
+
+F–ompT gal dcm lon hsdSB(rB- mB-)
+
+Invitrogen
+
+DH5α
+
+F-Ф80 lacZΔM15 Δ(lacZYA-
+
+Invitrogen
+
+argF)U169 deoR recA1 endA1
+hsdR17(rk-, mk+) phoA supE44 thi-1
+gyrA96 relA1 λTOP10
+
+F-mcr AΔ (mrr-hsdRMS-mcrBC) Ф80
+
+Invitrogen
+
+lacZΔM15 Δ lacX74 recA1 araD139
+galU galK Δ(ara-leu)7697 rpsL
+(StrR)endA1 nuG
+
+Hefen (Saccharomyces cerevisiae)
+
+2.9 Stamm
+MAV 203
+
+Genotyp
+
+Referenz
+
+MATα, leu2-3, 112, trp1-901,
+R
+
+Invitrogen
+R
+
+his3Δ200, ade2-101, cyh2 , can1 ,
+gal4Δ, gal80 Δ, HIS3UASGAL1::HIS3
+LYS2, GAL1::lacZ, SPAL10::URA3
+
+2.10 Eukaryotische Zellen
+Zellinie
+HEK 293T
+
+Beschreibung
+Humane embryonale
+
+Referenz
+ATCC-Nr.CRL-1573
+
+Nierenepithelzellen (Human
+Embryonic Kidney) Kultivierung:
+37°C
+AB8
+
+Immortalisierte humane Podozyten;
+
+(„MOIN”)
+
+Kultivierung Proliferation: 33°C
+
+Saleem et al., 2002
+
+Kultivierung Ausdifferenzierung: 37°C
+
+2.11 Plasmide und Vektoren
+Name
+
+Beschreibung
+
+Referenz
+
+mod.pGEX.4T3.hPATJ
+
+PDZ-Domänen 7-10 von h.PATJ; Katja Brinkmann, AG
+
+PDZ 7-10
+
+(AS 1301-1891) GST-Tag
+
+mod.pGEX.4T3.hPATJ
+
+PDZ-Domänen 8-10 von h.PATJ; Katja Brinkmann, AG
+
+PDZ 8-10
+
+(AS 1509-1891) GST-Tag
+
+mod.pGEX.4T3.hPATJ
+
+PDZ-Domänen 9-10 von h.PATJ; Eva
+
+PDZ 9-10
+
+(AS 1609-1891) GST-Tag
+
+Pavenstädt, Münster
+
+Pavenstädt, Münster
+Schurek,
+
+AG
+
+Pavenstädt, Münster
+
+pGEX.4T1.hPATJ
+
+PDZ-Domänen 7-8 von h.PATJ; Sandro Lorenz, AG
+
+PDZ 7-8
+
+GST-Tag
+
+pGEX.4T1.hPATJ
+
+PDZ-Domäne 7 von h.PATJ; Sandro Lorenz, AG
+
+PDZ 7
+
+GST-Tag
+
+pGEX.4T1.hPATJ
+
+PDZ-Domäne 8 von h.PATJ; Sandro Lorenz, AG
+
+PDZ 8
+
+GST-Tag
+
+pDBLeu
+
+Matchmaker Y2H-System, bait- Invitrogen
+
+Pavenstädt, Münster
+
+Pavenstädt, Münster
+
+Pavenstädt, Münster
+
+Vektor
+pDBLeu.h.PATJ
+
+PDZ-Domäne 10 von h.PATJ; Mark
+
+Schlüter,
+
+AG
+
+PDZ 10
+
+(AS 1760-1891)
+
+pDBLeu.h.PATJ
+
+PDZ-Domäne 7 von h.PATJ; (AS Mark
+
+PDZ 7
+
+1301-1420)
+
+pDBLeu.h.PATJ
+
+PDZ-Domäne 7-10 von h.PATJ; Mark
+
+PDZ 7-10
+
+(AS 1301-1891)
+
+pDBLeu.h.PATJ
+
+PDZ-Domäne 7-8 von h.PATJ; Mark
+
+PDZ 7-8
+
+(AS 1301-1606)
+
+pDBLeu.h.PATJ
+
+PDZ-Domäne 8 von h.PATJ; (AS Mark
+
+PDZ 8
+
+1509-1606)
+
+pDBLeu.h.PATJ
+
+PDZ-Domäne 8-10 von h.PATJ; Mark
+
+PDZ 8-10
+
+(AS 1509-1891)
+
+pDBLeu.h.PATJ
+
+PDZ-Domäne 9-10 von h.PATJ; Mark
+
+PDZ 9-10
+
+(AS 1609-1891)
+
+Pavenstädt, Münster
+
+pDest22
+
+Gateway Destination prey-Vektor
+
+Invitrogen
+
+pDest32
+
+Gateway Destination bait-Vektor
+
+Invitrogen
+
+pDest32
+
+PDZ-Domäne 9 von h.PATJ
+
+Mark
+
+Pavenstädt, Münster
+Schlüter,
+
+AG
+
+Pavenstädt, Münster
+Schlüter,
+
+AG
+
+Pavenstädt, Münster
+Schlüter,
+
+AG
+
+Pavenstädt, Münster
+Schlüter,
+
+AG
+
+Pavenstädt, Münster
+Schlüter,
+
+AG
+
+Pavenstädt, Münster
+Schlüter,
+
+Schlüter,
+
+AG
+
+AG
+
+Pavenstädt, Münster
+
+pGEX.4T3, modifiziert prokaryoter
+
+Expressionsvektor; Christian
+
+Reinhardt,
+
+(mod.)
+
+exprimiert GST
+
+AG Walz, Freiburg
+
+pcDNA3.h.TRPC3
+
+Mit HA-Tag
+
+Christina Schäfer, AG
+Pavenstädt, Münster
+
+pcDNA3.h.TRPC3
+
+Mit FLAG-Tag
+
+Christina Schäfer, AG
+Pavenstädt, Münster
+
+pcDNA3.1.h.DRD5
+
+Konstrukt
+
+von
+
+J.
+
+E.
+
+Jones, Miriam
+
+Georgetown University School of AG
+
+Kaufmann,
+Pavenstädt,
+
+Medicine; zur Expression des Münster
+humanen Dopaminrezeptors D5
+mit HA-tag (AY_136750)
+pENTR.h.TRPC3.NT
+
+N-Terminus von TRPC3
+
+Sandro Lorenz, AG
+Pavenstädt, Münster
+
+pENTR.h.TRPC3.CT
+
+C-Terminus von TRPC3
+
+Sandro Lorenz, AG
+Pavenstädt, Münster
+
+pENTR.h.TRPC6.NT
+
+N-Terminus von TRPC6
+
+Sandro Lorenz, AG
+Pavenstädt, Münster
+
+pENTR.h.TRPC6.CT
+
+C-Terminus von TRPC6
+
+Sandro Lorenz, AG
+Pavenstädt, Münster
+
+pENTR.h.TRPC6.CT
+
+C-Terminus von TRPC6, wobei Sandro Lorenz, AG
+
+4AS
+
+die letzen 4 Aminosäuren fehlen
+
+Pavenstädt, Münster
+
+pET28a.h.TRPC3.CT
+
+C-Terminus von TRPC3
+
+Sandro Lorenz, AG
+Pavenstädt, Münster
+
+pET28a.h.TRPC3.NT
+
+N-Terminus von TRPC3
+
+Sandro Lorenz, AG
+Pavenstädt, Münster
+
+pDEST32h.TRPC3.NT
+
+N-Terminus von TRPC3
+
+Sandro Lorenz, AG
+Pavenstädt, Münster
+
+pDEST32-
+
+C-Terminus von TRPC3
+
+h.TRPC3.CT
+pDEST32-
+
+Pavenstädt, Münster
+N-Terminus von TRPC6
+
+h.TRPC6.NT
+pDEST32-
+
+C-Terminus von TRPC6
+
+N-Terminus von TRPC3
+
+C-Terminus von TRPC3
+
+h.TRPC6.CT
+
+Sandro Lorenz, AG
+Pavenstädt, Münster
+
+N-Terminus von TRPC6
+
+h.TRPC6.NT
+pDEST22-
+
+Sandro Lorenz, AG
+Pavenstädt, Münster
+
+h.TRPC3.CT
+pDEST22-
+
+Sandro Lorenz, AG
+Pavenstädt, Münster
+
+h.TRPC3.NT
+pDEST22-
+
+Sandro Lorenz, AG
+Pavenstädt, Münster
+
+h.TRPC6.CT
+pDEST22-
+
+Sandro Lorenz, AG
+
+Sandro Lorenz, AG
+Pavenstädt, Münster
+
+C-Terminus von TRPC6
+
+Sandro Lorenz, AG
+Pavenstädt, Münster
+
+
+2.12 Software und Internetprogramme
+Software/Programm
+
+Anbieter/Hersteller
+
+Adobe Acrobat Reader
+
+Adobe Systems, Inc.
+
+Adobe Photoshop CS3
+
+Adobe Systems, Inc.
+
+BLAST
+
+http://www.ncbi.nlm.nih.gov/BLAST/
+
+COREL DRAW 12
+
+COREL Corporation Ltd.
+
+MS Excel 2003
+
+Microsoft, Inc.
+
+MS Office 2003
+
+Microsoft, Inc.
+
+Windows XP
+
+Microsoft, Inc.
+
+3. Methoden
+
+3.1 Molekularbiologische Methoden
+Die Standard-Methoden wurden dem Handbuch „Molecular Cloning“ von J. Sambrook,
+E. F. Fritsch und T. Maniatis, Cold Spring Harbour Laboratory Press, 1989, entnommen
+und gegebenenfalls wie beschrieben modifiziert. Andere Quellen sind im Folgenden
+angegeben.
+
+3.1.1 Konzentrationsbestimmung von Nukleinsäuren
+Die Konzentration von DNA bzw. RNA wird photometrisch durch die Messung der
+Absorption bei 260 nm bestimmt. Als Referenz dient das Lösungsmittel, in dem die
+Nukleinsäure in einer sinnvollen Verdünnung vorliegt. Eventuelle Verunreinigungen
+der Nukleinsäuren mit Protein werden durch den Quotienten der Absorption bei 260 nm
+und 280 nm überprüft. Der Quotient OD260nm/OD280nm sollte zwischen 1.7 und 2.1
+liegen.
+
+3.1.2 Polymerasekettenreaktion (PCR)
+(Mullis et al. 1986)
+Die Technik der Polymerasekettenreaktion (polymerase chain reaction) wird eingesetzt,
+um spezifische DNA-Abschnitte mithilfe eines Sets von zwei DNA-Oligonukleotiden
+(Primern) in einem Thermocycler zu amplifizieren. In Tabelle 3.3 sind nachfolgend
+verschiedene PCR-Bedingungen aufgelistet. Die amplifizierte DNA kann anschließend
+in einem Agarosegel durch elektrophoretische Auftrennung analysiert oder für eine
+Klonierung aufgereinigt werden. Die Reaktionsansätze für Sequenzierungsreaktionen
+werden nach erfolgter PCR im Sequenzierungslabor des Universitätsklinikum Münster
+abgeben und dort analysiert.
+
+3.1.3 Restriktionsanalyse
+Es werden 250 ng bis 1 µg DNA mit 1 bis 4 U der entsprechenden
+Restriktionsendonuklease mit dem für diese vorgesehenen Puffer versetzt und nach
+Angaben des Herstellers behandelt. Üblicherweise wird der Restriktionsansatz für 1 h
+bei 37 °C inkubiert und anschließend für 10 Min bei 70 °C hitzeinaktiviert.
+
+3.1.4 Agarose-Gelelektrophorese
+(McDonell et al. 1977)
+Die elektrophoretische Auftrennung von DNA-Fragmenten erfolgt in Agarosegelen
+(0.5-2 % w/v Agarose in 1x TAE-Puffer) mit 0.005 % Ethidiumbromidlösung bei 100130 V.
+3.1.5 Aufreinigung von DNA-Fragmenten
+Zur  Aufreinigung  von  DNA-Fragmenten  oder  PCR-Reaktionslösungen  aus  Agarosegelen wird das Gel Extraction Kit und das PCR Purification Kit von Qiagen
+nach Herstellerangaben verwendet. Dazu wird die Probe (verdaute Insert- oder VektorDNA bzw. PCR-Ansatz) in einem Agarosegel elektrophoretisch aufgetrennt und
+anschließend auf einem UV-Tisch aus dem Gel geschnitten. Die erfolgreiche
+Aufreinigung der DNA wird durch erneutes Auftragen eines Aliquots der Gel eluierten
+DNA verifiziert, wobei gleichzeitig eine Abschätzung der DNA-Menge erfolgt.
+
+3.1.6 Ligation von DNA-Fragmenten
+Um DNA-Fragmente zu klonieren werden die aus Agarosegelen aufgereinigte InsertDNA und Vektor-DNA in einem Mol-Verhältnis von 1:3 (bei kohäsiven Enden) in
+einem Volumen von 20 µl mit 2 U T4-DNA-Ligase und einer entsprechenden Menge
+T4-Ligase-Puffer versetzt und über Nacht bei 16 °C inkubiert.
+Anschließend wird der Bakterien-Stamm DH5α mit der Ligationsreaktion transformiert.
+
+3.1.7 Plasmidpräparation
+Um eine erfolgreiche Klonierung sicher zu stellen, werden einzelne Klone der
+transformierten  Bakterien  in  Flüssigkultur  (LB-Medium  mit  entsprechendem  Antibiotikum) angeimpft und O/N bei 37 °C und 250 rpm inkubiert. Die
+Plasmidpräparation erfolgt nach Angaben des Herstellers (Wizard® Plus SV Minipreps,
+Promega). Die aufgereinigten Plasmide werden einer Restriktionsanalyse unterzogen.
+Zeigen die DNA-Fragmente die erwarteten Größen, schließt sich eine Sequenzierung
+dieser positiven Klone an.
+
+3.1.8 Plasmidpräparation über Ionenaustauschersäulen
+Zur Isolierung hochreiner Plasmid-DNA für Sequenzierungen oder Transfektionen
+wurden käuflich erworbene Maxi-, Midi- und Minipräparations-„Kits“ der Firmen
+Macherey-Nagel oder Qiagen bezogen und nach Herstellerangaben verwendet.
+
+3.1.9 Plasmidpräparation mit STET-Puffer
+Neben den kommerziellen Reaktionspaketen (Kits) bieten sich so genannte „Quick and
+Dirty“-Methoden an, um den Erfolg einer Klonierung im größeren Maßstab
+kostengünstig zu untersuchen. Dabei werden die Bakterienzellen analog zu den
+Reagenzien eines Kits zunächst lysiert. Es folgt eine alkoholische Fällung der PlasmidDNA, die anschließend in einem basischen Puffer gelöst und durch Restriktionsanalyse
+untersucht wird.
+
+Von 5 ml O/N Kulturen wird pro Ansatz ca. 1 ml in ein 1.5 ml Reaktionsgefäß
+überführt und für 30 Sek bei 10 000 rpm zentrifugiert. Das entstandene Pellet wird in
+480 µl STET-Puffer mit 20 µl Lysozym (10 mg/ml) resuspendiert und für 5 Min bei RT
+inkubiert. Anschließend wird für 5 Min bei 95 °C inkubiert und für 15 Min bei RT und
+14 000 rpm zentrifugiert. Das entstandene Pellet wird entfernt und der Überstand mit
+500 µl Isopropanol versetzt und vermischt. Nach einer Zentrifugation für 15 Min bei RT
+und 14 000 rpm wird der Überstand entfernt und das entstandene Pellet in 50 µl 10 mM
+Tris/HCl pH 8 resuspendiert. Zu dem folgenden Restriktionsverdau wird zusätzlich 100
+µg/ml RNase A gegeben.
+
+3.1.10 Fällen von DNA
+Die zu fällende DNA wird vorgelegt und, falls nötig, mit Wasser auf mindestens 50 μl
+aufgefüllt. Zur Präzipitation wird die Lösung mit 1/10 Volumen 3 M NaOAc/HOAc pH
+= 4.7 und 2.5 x Volumen kaltem 100 % Ethanol versetzt. Die Mischung wird zunächst
+für 1 h bei –70 °C inkubiert und anschließend für mindestens 30 Min bei 14000 rpm
+und 4 °C zentrifugiert. Die ausgefallene DNA wird zweimal mit kaltem 70 % Ethanol
+gewaschen und im Vakuum für 5 – 10 Min getrocknet. Bei Bedarf wird die DNA
+schließlich in dem gewünschten Puffer durch Inkubation für 10 – 15 Min bei 65 °C
+gelöst oder zur Sequenzierung an MWG BIOTECH geschickt.
+
+3.2 Proteinbiochemische Methoden
+3.2.1 Proteinexpression und Proteingewinnung im prokaryoten System
+Das bakterielle Expressionssystem bietet den Vorteil, in kurzer Zeit große
+Proteinmengen gewinnen zu können. Bakterien sind jedoch nur in der Lage, Proteine
+bis zu einem Molekulargewicht von ca. 70 kD zu exprimieren, ohne dass es zu
+Degradationen dieses Proteins kommt.
+3.2.1.1 GST-pulldown
+Der GST-pulldown ist eine biochemische in vitro Methode die sich eignet, um ProteinProtein-Interaktionen
+ zu  untersuchen.  Dazu  wird  ein  rekombinantes  GST-  Fusionsprotein im bakteriellen Expressionssystem hergestellt und an GlutathionSepharose (GS-beads) immobilisiert. Es folgt die Inkubation dieses Fusionsproteins mit
+einem Zellysat, das den potentiellen Interaktionspartner enthält. Der Nachweis dieser
+potentiellen Interaktion wird durch Western Blot Analyse ermittelt.
+Die Expression des rekombinanten GST-Fusionsproteins erfolgt durch das pGexVektorsystem. Dieser bakterielle Expressionsvektor enthält das Gen Glutathion-STransferase (GST), hinter welches das gewünschte Gen kloniert wird. Die
+Proteinexpression resultiert in einem Fusionsprotein, das mit hoher Affinität an
+Glutathion bindet. Im Versuch wird diese Affinität genutzt, um das Fusionsprotein an
+einer Glutathion-Sepharose-Matrix zu immobilisieren und dadurch von den endogenen
+bakteriellen Proteinen zu trennen.
+
+3.2.1.2 Herstellung rekombinanter GST-Fusionsproteine
+Der E. coli-Stamm BL21 wird mit 100 ng Plasmid-DNA transformiert. Von den
+gewachsenen Kolonien wird ein Klon in 50 ml LB-Medium mit entsprechendem
+Antibiotikum vorkultiviert und zum Animpfen einer 1 l Hauptkultur benutzt. Die
+Hauptkultur wird bei einer OD600nm von 0.6 mit 1 mM IPTG versetzt und für 2-3 h bei
+30 °C weiter kultiviert. Durch Zentrifugation bei 4 500 rpm für 20 Min bei 4 °C werden
+die Bakterienzellen pelletiert und anschließend in 15 ml Column-Puffer resuspendiert.
+Es folgt ein Einfrierschritt zur weiteren Lyse der Bakterienzellwände und zum
+Aufbrechen eventueller Einschlusskörperchen (inclusion bodies) in flüssigem
+Stickstoff. Die lysierten, schockgefrorenen Bakterien werden auf Eis aufgetaut, einer
+Ultraschallbehandlung (3 x 30 Sek 50 %) unterzogen und erneut bei 12 000 rpm und
+4 °C für 20 Min zentrifugiert. Der entstandene Überstand („crude lysate“) wird zum
+Schutz vor Proteasen mit 0.25 mM PMSF versetzt.
+
+3.2.1.3 Konzentrationsbestimmung der GST-Fusionsproteine
+Zur Konzentrationsbestimmung des rekombinanten Fusionsproteins wird 1 ml crude
+lysate mit 20 µl equilibrierter Glutathion Sepharose inkubiert. Nach 1h Inkubation bei
+4 °C O/H folgen drei Waschschritte mit Column-Puffer. Das rekombinante GSTFusionsprotein ist nun an der Glutathion-Sepharose immobilisiert und wird mit 20 µl 2x
+Laemmli-Probenpuffer für 5 Min bei 95 °C eluiert.
+Zusammen mit einer BSA-Standardreihe (1, 2.5 und 5 µg Protein) wird die Probe
+mittels SDS-PAGE aufgetrennt, um anschließend mit einer Coomassie-Färbung die
+Konzentration zu ermitteln. Das übrige crude lysate kann direkt für einen pulldown
+eingesetzt oder bis zu seiner Verwendung bei -20 °C gelagert werden.
+
+3.2.1.4 Durchführung des GST-pulldowns
+Für den GST-pulldown werden 1-10 µg des GST-Fusionsproteins an 20 µl equilibrierter
+Glutathion-Sepharose immobilisiert und nach fünfmaligem Waschen mit Column-Puffer
+mit Zell- oder Gewebelysat (50-100 µg Gesamtprotein) versetzt. Es schließt sich eine
+Inkubation von 3-5 h bei 4 °C O/H an. Nach weiteren fünf Waschschritten mit IP-Puffer
+wird die Probe mit 20 µl 2x Laemmli-Probenpuffer für 5 Min bei 95 °C eluiert und
+durch SDS-PAGE aufgetrennt. Im Anschluss folgt eine Western Blot Analyse.
+
+3.2.2 Proteinexpression und Proteingewinnung im eukaryoten System
+Für die Gewinnung endogen exprimierter Proteine aus kultivierten, eukaryoten Zellen
+kann je nach gewünschter Proteinzusammensetzung eine Fraktionierung erfolgen oder
+ein Volllysat hergestellt werden. Um die Proteine zu gewinnen, werden die Zellen einer
+konfluenten 10 cm Kulturschale zunächst mit 1 x PBS (4 °C) gewaschen. Mit einem
+Zellschaber werden die Zellen in 10 ml 1 x PBS (4 °C) mechanisch von der
+Kulturschale gelöst und in ein 15 ml Zentrifugenröhrchen überführt. Nach einer
+Zentrifugation bei 4 °C für 5 Min und 1 000 rpm wird das entstandene Zellpellet auf Eis
+in 300 µl IP-Puffer (Gebrauchslösung, frisch angesetzt) lysiert. Während einer 30 Min
+Inkubation auf Eis erfolgt eine mechanische Homogenisierung des Lysats mit einer 1 ml
+Spritze mit Kanüle (20G). Es schließt sich eine Zentrifugation für 15 Min bei 4 °C und
+18 000 rpm an. Der Überstand mit den löslichen Proteinen kann bei -20 °C gelagert
+oder für ein Experiment eingesetzt werden.
+Um größere Mengen eines gewünschten Proteins zu gewinnen, das ein zu hohes
+spezifisches Molekulargewicht für das bakterielle Expressionssystem hat, können
+eukaryote Zellen mit einem geeigneten Expressionsvektor transfiziert werden. Diese
+verstärkt exprimierten, posttranslational modifizierten Proteine werden analog zu den
+endogen exprimierten Proteinen gewonnen. Die Proteine werden 24-48 h nach der
+Transfektion gewonnen.
+
+3.2.2.1 Expression und Aufreinigung von HIS-Proteinen aus E. coli BL21[D3]
+Benötigte Puffer:
+
+
+1 M IPTG
+
+
+
+Lyse-Puffer (50 mM NaH2PO4 300 mM NaCI, 10 mM Imidazol, pH = 8,0)
+
+
+
+Waschpuffer (50 mM NaH2PO4 300 mM NaCI, 20 mM Imidazol, pH = 8,0)
+
+
+
+Lysozym
+
+
+
+Elutionspuffer (50 mM NaH2PO4 >4, 300 mM NaCI, 250 mM Imidazol, pH
+= 8,0)
+
+Durchführung:
+Die bakterielle Proteinexpression kann in verschiedenen Maßstäben durchgeführt
+werden,  einem  rein  analytischen  Maßstab  zur  Expressionskontrolle  (5  ml  Kulturvolumen), oder aber einem größeren Maßstab zur eigentlichen Aufreinigung des
+Proteins (50-500 ml Kulturvolumen). Im Folgenden wird die Expression für den 500
+ml-Maßstab beschrieben:
+Zunächst erfolgt das Animpfen einer Vorkultur von 20 ml LB-Medium, plus dem
+entsprechendem Antibiotikum, mit dem E.coli BL21-Stamm, der das zu exprimierende
+Fusionsprotein kodiert auf einem Plasmid trägt, angeimpft, bei 37 °C und 250 rpm
+inkubiert.
+
+Am darauffolgenden Tag werden 500 ml 2YT Medium (+ Antibiotikum) mit 10 ml aus
+dieser Vorkultur angeimpft und für etwa 3 h (bis zum Erreichen einer OD6oo nm von
+0,6-0,8) bei 37 °C und 250 rpm geschüttelt. Vor der Induktion der Expression werden
+100 µl der Bakteriensuspension als Negativkontrolle entnommen, in der Tischzentrifuge
+pelletiert und anschließend in 100 µl 1 x SDS-Probenpuffer resuspendiert. Die
+Hauptkultur wird im Anschluss für etwa 10 min auf Eis inkubiert.
+Danach erfolgt die Zugabe von IPTG bis zu einer Endkonzentration von 1 mM (500 µl
+1 M IPTG in 500 ml Kultur) und eine weitere Inkubation für 2-4 h bei 37 °C und 200
+rpm.
+
+Die  Induktionsbedingungen  wurden  bei  der  Expression  verschiedener  Fusionsproteine jeweils in Vorversuchen (5 ml-Ansätze) ausgetestet und wenn nötig
+optimiert werden. Es wird für die Kontrolle der Expression erneut eine 100 µl Probe der
+Bakteriensuspension entnommen, in der Tischzentrifuge pelletiert und in 100 µl 2x
+Laemmli-Probenpuffer resuspendiert.
+
+Im Anschluss wird die Bakteriensuspension für 30 min bei 4000 x g und 4 °C pelletiert.
+Das resultierende Pellet kann bei -20 °C bis zur weiteren Verarbeitung gelagert werden.
+Zur Kontrolle der Expression wird mit je einem Aliquot der 100 µl-Proben, die vor und
+nach der Induktion entnommen wurden, eine SDS-PAGE durchgeführt. Nach
+anschließender Coomassiefärbung des Gels sollte in der Bahn mit der induzierten Probe
+im Vergleich zu der nicht-induzierten Probe eine zusätzliche Proteinbande auftreten, die
+in der berechneten Hohe des exprimierten Fusionsproteins liegt.
+
+3.2.2.2 Aufreinigung HIS-markierter Proteine unter Einsatz von Ni2+-NTA
+Agarose
+Die Aufreinigung HIS-markierter Fusionsproteine wird mittels Ni2+-NTA Agarose
+(Qiagen, Hilden) durchgeführt. Das Ni2+-NTA (Nitrilotriacetic acid) liegt an Agarose
+gebunden vor und besitzt eine hohe Affinität (KD = 10-13 M-1, pH = 8,0) zu den 6
+Histidinresten im Fusionsprotein aufweist. Somit können unspezifisch gebundene
+Proteine unter sehr schonenden Bedingungen ausgewaschen werden. Die spezifisch
+gebundenen Fusionsproteine werden durch Zugabe von Imidazol als kompetitivem
+Liganden von der Ni2+-NTA Matrix verdrängt und eluiert.
+Durchführung:
+
+Das nach der Induktion der Hauptkultur erhaltene Bakterienpellet wird in 40 ml kaltem
+Lysis-Puffer (50 mM NaH2P04, 300 mM NaCl, 10 mM Imidazol, pH = 8,0)
+resuspendiert. Danach wird Lysozym bis zu einer Endkonzentration von 1 mg/ml
+zugegeben und nach gutem Durchmischen die Suspension für 30 min auf Eis inkubiert.
+Der Zellaufschluss wird durch 6-8 Ultraschallstöße von ca. 10 sec vorgenommen. Im
+Anschluss wird die Probe bei 10.000 x g für 30 min bei 4 °C zentrifugiert und der
+erhaltene Überstand auf Eis gelagert (,,crude lysate"). Parallel zur Zentrifugation der
+Probe wird die Ni2+-NTA-Agarose vorbereitet, indem sie zweimal mit Lysepuffer
+gewaschen und abzentrifugiert wird (2 min, bei 600 x g bzw. max. 2.000 rpm 4 °C).
+Anschließend wird die Agarose im gleichen Volumen Puffer oder PBS aufgenommen,
+so dass man eine 50 %-ige Suspension erhält. Für die Kopplung des HIS-markierten
+Fusionsproteins an die Ni2+-NTA-Agarose werden die trocken gesaugten Ni2+-NTAPartikel mit dem Überstand der Probe für 1 h bei 4 °C im Überkopfschütter inkubiert
+(40 µl 50 %-ige Suspension für 1 ml Zelllysat).
+Nach einer Zentrifugation bei 600 x g und 4 °C für 10 min wird der Überstand
+abgenommen und die Ni2+-NTA-Partikel werden zweimal mit Waschpuffer (50 mM
+NaH2P04,300 mM NaCl, 20 mM Imidazol, pH = 8,0) gewaschen, indem sie 10 min in
+diesem bei 4 °C auf dem Überkopfschütter inkubiert werden (kann verkürzt werden,
+wenn wenig unspezifische Proteine binden). Im Anschluss daran werden die Ni2+-NTAPartikel noch 2 x in Waschpuffer resuspendiert und wieder abzentrifugiert. Im
+Anschluss erfolgt die Elution der gebundenen Fusionsproteine durch Zugabe von 4 x je
+1 ml Elutionspuffer (50 mM NaH2P04, 300 mM NaCl, 250 mM Imidazol, pH = 8,0) auf
+die Säule. Die nach dem Durchfluss gewonnenen Proteinfraktionen werden in
+Eppendorfgefäßen zu je 0,5 ml gesammelt und bei 4 °C oder -20 °C gelagert. Die
+Lagerungstemperatur der Proteinlösung wird ermittelt, indem zunächst ein Aliquot der
+Lösung abgenommen wird und bei -20 °C eingefroren und wieder aufgetaut wird.
+Kommt es zum Ausfall des Proteins in der Lösung, empfiehlt sich eine Verdünnung der
+Proteinlösung und/oder die Lagerung bei 4 °C.
+
+3.2.3 SDS-Polyacrylamid-Gelelektrophorese (SDS-PAGE)
+(Laemmli, 1970) Um  Proteine  nach  ihrer  molekularen  Größe  aufzutrennen,  werden  SDS-  Polyacrylamidgele (SDS-PAA-Gele) mit diskontinuierlichem Puffersystem verwendet.
+Trenn- und Sammelgele werden nach den in Tabelle 3.2 angegebenen Rezepturen
+hergestellt. Die Lösung für das Trenngel wird in eine Gelkassette gegossen und mit
+Isopropanol überschichtet. Nach dem das Trenngel vollständig polymerisiert ist, wird
+das Isopropanol entfernt. Das Sammelgel wird gegossen und ein Plastikkamm mit der
+gewünschten Anzahl an Taschen platziert wird.
+Bevor das Gel mit den Proteinproben beladen wird, werden diese in LaemmliProbenpuffer für 5 Min bei 95 °C denaturiert. Ein Proteingrößenstandard (Marker,
+Precision Plus Protein Dual Colour Standard, BioRad) wird neben den Proben
+aufgetragen. Die Elektrophorese erfolgt bei 10 mA im Sammelgel und 20 mA im
+Trenngel unter Verwendung von 1x Protein-Laufpuffer.
+Tabelle 3.1 Rezepturen für SDS-PAA-Gele
+Komponenten
+30 % Acrylamid/Bis Solution
+H2O
+1 M Tris/HCl pH 6.8
+1.5 M Tris/HCl pH 8.8
+10 % SDS
+10 % APS
+TEMED
+Gesamtvolumen
+
+Trenngel (10 %)
+3.3 ml
+4.0 ml
+2.5 ml
+100 µl
+100 µl
+4 µl
+10 ml
+
+Sammelgel (5 %)
+900 µl
+2.7 ml
+1.3 ml
+50 µl
+50 µl
+5 µl
+5 ml
+
+3.2.4 Coomassie-Färbung von Proteingelen
+Nach der Gelelektrophorese wird das Gel für 5-10 Min in Fixierlösung und für 30 Min
+(bis O/N) in der Coomassie-Gebrauchslösung inkubiert. Im Anschluss wird das Gel mit
+Destaining Solution entfärbt, bis Proteinbanden sichtbar werden. Mit Hilfe eines
+Durchlicht Scanners erfolgt eine Aufnahme des Gels.
+
+3.2.5 Western Blot
+Zur Durchführung eines „semi-dry“ Western Blots wird ein 3 mm starkes
+Whatmanpapier in Größe des Gels in Transferpuffer getränkt. Darauf wird eine in
+Methanol equilibrierte PVDF-Membran gelegt. Als nächstes wird das SDS-PAA-Gel
+auf der Membran platziert, worauf sich wieder ein Whatmanpapier anschließt. Diese
+Mehrfachschichtung wird, gut in Transferpuffer getränkt und frei von Luftblasen, auf
+die Anode der Blotkammer gelegt, welche sodann mit der Kathode verschlossen wird.
+Da die negativ geladenen Proteine aus dem Gel auf die Membran transferiert werden
+sollen, ist darauf zu achten, dass die Membran zwischen Gel und Anode zu liegen
+kommt. Der Proteintransfer erfolgt bei 12 V für 2 h. Zur Überprüfung des erfolgten
+Transfers wird die Membran in Ponceau-S-Lösung inkubiert und mit H20 gewaschen,
+bis eindeutige Proteinbanden zu erkennen sind. Nach einer vollständigen Entfärbung der
+Membran wird mit der Antikörper-Detektion fortgefahren.
+
+3.2.6 Immunologischer Nachweis
+Bevor es zum Einsatz von Antikörpern kommt wird die PVDF-Membran zur
+Absättigung freier Proteinbindungsstellen für 1,5 h bei RT oder O/N bei 4 °C in 10 %
+Milchpulver geblockt. Die nachfolgenden Waschschritte, die Verdünnung der BSALösung und die der Antikörper, erfolgt in TBS-T.
+Es folgt der immunologische Nachweis durch Inkubation mit dem spezifisch bindenden
+Primärantikörper für 1,5 h bei RT. Nach dreimaligem Waschen für 5 Min folgt eine
+Inkubation mit dem peroxidasekonjugierten Sekundärantikörper. Nach erneutem,
+intensivem Waschen der Membran, erfolgt die Detektion mit Hilfe von Lumi Light
+Plus von Roche. Das durch die Peroxidasereaktion entstehende Licht wird mit einem
+Röntgenfilm detektiert.
+
+3.2.7 Entfernung membrangebundener Antikörper
+Zur Entfernung von auf Membranen gebundenen Antikörpern („Stripping“) wird der
+Blot 30 Min mit Stripping-Puffer bei 70 °C unter leichtem Schütteln inkubiert. Nach
+intensivem Waschen mit PBS-T oder TBS-T (min. sechsmal 15 Min, auch üN bei 4 °C
+möglich) kann eine erneute immunologische Detektion durchgeführt werden.
+
+3.2.8 Immunfluoreszenz
+Im Gegensatz zu der Phalloidin-Färbung des Aktin-Zytoskeletts beruht die Methode der
+Immunfluoreszenz, analog zum Western Blot, auf der Anfärbung von Proteinen durch
+spezifische Antikörper. Der Primär-Antikörper wird in einer sinnvollen Verdünnung
+eingesetzt. Nach einer einstündigen Inkubation bei RT folgt dreimaliges Waschen mit
+1x PBS, woran sich eine weitere einstündige Inkubation mit dem lichtsensitiven,
+Fluoreszenzfarbstoff-gekoppelten Sekundär-Antikörper, der gleichermaßen in der
+Blocklösung verdünnt wird, anschließt. Das weitere Procedere, einschließlich der
+Dokumentation und der Auswertung, erfolgt analog der Phalloidin-Färbung.
+
+
+3.3 Zellbiologische und Mikrobiologische Methoden
+3.3.1 Anzucht, Kultivierung und Lagerung von Hefen, Bakterien und eukaryoten
+Zellen
+3.3.1.1
+
+Hefen (Saccharomyces cerevisiae)
+
+Die Kultivierung von Hefen erfolgt in YPAD-Medium bei 250 rpm oder auf YPADAgarplatten bei 30 °C. Um mit einer Kultivierung zu beginnen, wird eine geringe
+Menge einer Glyzerinkultur des gewünschten Hefestammes mit einer sterilen Impföse
+auf eine YPAD-Agarplatte überführt. Es folgen ein Vereinzelungsausstrich und eine
+Inkubation bei 30 °C. Nach 2-4 Tagen kann eine einzelne Hefekolonie in
+Flüssigmedium überführt und in Kultur genommen werden. Die Flüssigkulturen werden
+täglich mit frischem Medium versorgt, um die Wachstumsphase der Hefezellen zu
+erhalten. Analog zu der Kultivierung auf diesem so genannten Vollmedium, können die
+Hefezellen zur Selektion auf SD-Medium kultiviert werden.
+Auf Agarplatten kann eine Lagerung bei 4 °C erfolgen, wobei zur langfristigen
+Lagerung der Hefezellen bei -80 °C eine Glyzerinkultur hergestellt wird. Dazu wird zu
+einer über Nacht (O/N) gewachsenen Flüssigkultur 25 % (v/v) Glyzerin zugesetzt.
+
+3.3.1.2 Bakterien (Escherichia coli)
+Bakterien werden gleichermaßen als Flüssigkultur in LB-Medium bei 250 rpm oder auf
+LB-Agarplatten bei 37 °C kultiviert (Material, 2.4.1). Die Zugabe eines entsprechenden
+Antibiotikums erfolgt zur Selektion transformierter Bakterien. Eine kurzfristige
+Lagerung kann ebenfalls bei 4 °C erfolgen, für eine dauerhafte Lagerung wird analog zu
+den Hefen eine Glyzerinkultur hergestellt.
+
+3.3.1.3 Kultivierung eukaryoter Zellen
+Die verwendeten Zelllinien werden in 10 cm Gewebekulturschalen unter sterilen
+Bedingungen mit einem entsprechenden Nährmedium kultiviert. Sobald die Zellen
+einen konfluenten Zellrasen (Monolayer) gebildet haben, werden sie in einem
+sinnvollen Verhältnis geteilt und weiter kultiviert. Diese Passagierung (= Splitten)
+erfolgt alle 2-3 Tage, wobei durch Zugabe von Trypsin das Ablösen der Zellen
+eingeleitet wird. Dazu wird das Medium abgenommen und die Zellen werden einmal
+gewaschen, indem pro 10 cm Kulturschale ca. 10 ml vorgewärmtes 1x PBS vorsichtig
+in die Kulturschale gegeben wird. Es folgt eine Inkubation mit 1 ml Trypsin/EDTA pro
+10 cm Kulturschale für 2-3 Min bei 37 °C. Nachdem sich die Zellen abgelöst haben,
+wird die Wirkung des Trypsins durch Zugabe von 9 ml vorgewärmten Mediums
+neutralisiert. Die Zellen werden resuspendiert und auf neue Kulturschalen verteilt, in
+denen ein entsprechendes Volumen vorgewärmten Mediums vorgelegt wurde. Die
+immortalisierten Podozytenzelllinien wurden mit einem temperatursensitiven Large TAntigen transformiert, wodurch die Proliferation dieser Zellen ausschließlich auf die
+Kultivierung bei 33 °C beschränkt ist. Aus diesem Grund werden nur bei 33 °C
+kultivierte Podozyten geteilt. Zur Differenzierung werden die Podozyten für 10-14 Tage
+bei 37 °C (humane Podozyten) bzw. 38 °C (murine Podozyten) kultiviert. Die
+Kultivierung und Passagierung der HEK 293T Zellen erfolgt bei 37 °C.
+
+3.3.1.4 Einfrieren eukaryoter Zellen
+Die dauerhafte Lagerung eukaryoter Zellen erfolgt in Kryoröhrchen in flüssigem
+Stickstoff. Für das Einfrieren werden ca. 107 Zellen nach einmaligem Waschen mit 1 x
+PBS wie beschrieben abgelöst und in dem entsprechenden Kulturmedium resuspendiert.
+Es folgt eine Zentrifugation für 5 Min bei 1 000 rpm bei 4 °C. Das Zellpellet wird in 1
+ml kaltes Medium mit 10 % (v/v) DMSO resuspendiert und in Kryoröhrchen überführt.
+Die Lagerung erfolgt zunächst für 24 h bei -20 °C, um das langsame Einfrieren der
+Zellen zu gewährleisten. Anschließend werden die Zellen für weitere 24 h in -80 °C
+transferiert. Für die dauerhafte Konservierung werden die Zellen in flüssigen Stickstoff
+überführt.
+
+3.3.1.5 Auftauen eukaryoter Zellen
+Die Zellen werden bei 37 °C schnell aufgetaut, in vorgewärmtes Medium überführt und
+für 5 Min bei 1000 rpm bei RT zentrifugiert. Der Überstand wird entfernt und das
+entstandene  Zellpellet  in  entsprechendem  Medium  resuspendiert,  in  eine  Zellkulturschale überführt und bei 33 °C (Podozyten) bzw. 37 °C (HEK 293T) in Kultur genommen. 
+
+3.3.2 Das Yeast Two-Hybrid System
+Das von Fields und Song entwickelte Yeast Two-Hybrid (Y2H) System dient der
+Identifizierung von Protein-Protein-Interaktionen. Es handelt sich dabei um ein in vivo
+Modell, bei dem in der Hefe ein bekanntes Protein als Köder (bait) eingesetzt wird, um
+neue Interaktionspartner zu identifizieren. Als potentielle Beute (prey) kann eine
+Genbank (cDNA library) oder ein anderes bekanntes Protein angeboten werden, die in
+ihrer Proteinexpression auf spezifische Gewebe oder Zelltypen beschränkt sein kann.
+Die  Methode  beruht  auf  dem  modularen  Aufbau  des  endogenen  Transkriptionsaktivators GAL 4 der Hefe. Dieser setzt sich aus einer DNA bindenden (DB) und einer DNA aktivierenden (DA) Domäne zusammen. Die räumliche Nähe
+dieser beiden Domänen führt zu einer Bindung und anschließenden Aktivierung der
+Reportergene lacZ und His3, die unter der Kontrolle von GAL4 stehen. Für den Yeast
+Two-Hybrid Screen werden diese beiden Domänen getrennt und durch verschiedene
+Vektoren exprimiert, wobei das bait zusammen mit der DB exprimiert wird. Die preyVektoren exprimieren zufällige Fusionsproteine aus der Genbank und der DNA
+aktivierenden Domäne. Die bait-Vektoren kodieren zusätzlich für ein Enzym des
+Leucin Anabolismus, die prey-Vektoren für eine Tryptophan-Auxotrophie. Die
+Transformation dieser Vektoren in Hefezellen ermöglicht ein Wachstum auf
+Selektionsmedium, das kein Leucin und/oder Tryptophan enthält (SD-L-T). Einige
+Hefestämme wachsen trotz Mutation im His3-Gen in geringem Maße auf
+histidindefizientem Medium. Aus diesem Grund wird Medium ohne Histidin (SD-L-TH) mit dem kompetitiven Inhibitor dieses Genprodukts, 3-Amino-1, 2, 4-triazol (3-AT),
+ergänzt, indem 25-50 mM 3-AT zugegeben werden. Wachsen die ko-transformierten
+GAL 4-defizienten kompetenten Hefezellen auch auf SD-L-T-H + 3-AT Agarplatten,
+kann ein so genannter β-Galaktosidase Filter Assay durchgeführt werden. Die
+Hefekolonien, die in diesem Assay eine Blaufärbung zeigen, exprimieren das
+Reportergen, was als Hinweis für eine Protein-Protein-Interaktion gedeutet werden
+kann.
+
+3.3.2.1 Herstellung kompetenter Hefezellen
+Ein Volumen von 50 ml YPAD-Medium wird mit einer O/N Flüssigkultur des zu
+transformierenden Hefestammes angeimpft und auf eine OD600nm von 0.2 eingestellt. Es
+folgt eine Inkubation bei 250 rpm und 30 °C bis eine OD600nm von 0.6-0.8 erreicht ist.
+Die Hefezellen werden bei RT für 3 Min und 2000 rpm zentrifugiert und das
+entstandene Pellet  in  sterilem  H 2O  resuspendiert.  Nach  einem  weiteren 
+Zentrifugationsschritt bei gleichen Bedingungen wird das Pellet in 3-5 ml 50 % (w/v)
+PEG 4000 resuspendiert. Die kompetenten Hefezellen sollten innerhalb der nächsten
+Stunde transformiert werden, um eine hohe Effizienz zu erzielen.
+
+3.3.2.2 Transformation von Hefen
+Für einen 30 µl Transformationsansatz werden 100 ng pro Plasmid-DNA eingesetzt. Zu
+diesem Ansatz werden 720 µl der kompetenten Hefezellsuspension, 108 µl 1 M
+Lithiumacetat und 135 µl H2O gegeben. Nach guter Durchmischung folgt eine
+Inkubation von 30 Min bei 30 °C und 250 rpm. Im Anschluss daran werden die
+Hefezellen für 30 Min einem Hitzeschock bei 42 °C ausgesetzt, 5 Min auf Eis inkubiert
+und für 3 Min bei RT und 2000 rpm zentrifugiert. Das entstandene Pellet wird in 100 µl
+H2O resuspendiert und auf entsprechenden SD-Selektionsplatten ausgestrichen. Die
+Platten werden für 2-4 Tage im Brutschrank bei 30 °C inkubiert.
+
+3.3.2.3 β-Galaktosidase Filter Assay
+Der β-Galaktosidase Assay beruht auf der Expression des Reportergens lacZ, das für βGalaktosidase kodiert, welche die Hydrolyse von X-Gal (5-bromo-4-chloro-3-indoyl-βD-galaktopyranosid) zu einem blauen Indigo-Farbstoff katalysieren kann. Für die
+Durchführung des β-Gal-Assays werden je Ansatz zwei Filterpapiere vorbereitet, die
+einen geringfügig kleineren Durchmesser aufweisen als die SD-Selektionsplatten, auf
+denen die zu testenden Hefen wachsen. Pro Ansatz wird je ein Filterpapier in einem
+geeigneten Gefäß mit X-Gal-Gebrauchslösung inkubiert. Für ein Ø 10 cm Gefäß sind
+2.5 ml der X-Gal-Gebrauchslösung ausreichend. Das zweite Filterpapier wird direkt auf
+die Hefekolonien gelegt und gleichmäßig angedrückt. Sobald sich ein Abdruck der
+Hefekolonien auf dem Filterpapier zeigt, wird dieses für 10 Sek. in flüssigen Stickstoff
+eingetaucht, um die Hefezellen aufzubrechen. Das gefrorene Filterpapier wird bei RT
+aufgetaut und mit der Seite des Hefe-Abdrucks auf das in X-Gal-Lösung getränkte
+Filterpapier gelegt. Wenn nach 2-3 h eine Blaufärbung optisch einwandfrei zu erkennen
+ist, enthalten die Zellen zwei interagierende Proteine.
+
+3.3.3 Transformation von Bakterien
+
+3.3.3.1 Herstellung chemisch kompetenter Bakterien
+Der E. coli Stamm wird auf einer LB-Agarplatte ausgestrichen und O/N bei 37 °C
+inkubiert. 10 ml TYM-Medium werden mit einer Kolonie angeimpft und bei 37 °C und
+250 rpm für ca. 4-5 h inkubiert, bis eine OD600nm von 0.5-0.6 erreicht ist. Die Vorkultur
+wird mit TYM-Medium auf 100 ml aufgefüllt und weiter für ca. 1.5 h inkubiert. Die
+Kultur wird anschließend mit 400 ml TYM-Medium aufgefüllt, für eine weitere Stunde
+inkubiert und anschließend für 10 Min in einem Eiswasserbad unter Schwenken
+abgekühlt. Die Bakterien werden für 10 Min bei 4 °C und 2500 x g in einer
+vorgekühlten Zentrifuge geerntet. Es folgt eine Resuspension der Bakterien in 100 ml
+vorgekühltem TfB1 und eine neuerliche Zentrifugation für 10 Min bei 4 °C und 2500 x
+g. Die Bakterien werden in 10 ml eiskaltem TfB2 resuspendiert und in 300 µl Aliquots
+in flüssigem Stickstoff schockgefroren. Die Aliquots werden bei -80 °C überführt, was
+eine dauerhafte Lagerung ermöglicht. Es wird je ein Aliquot auf einer LB-Platte mit
+Kanamycin und Ampicillin ausgestrichen und O/N bei 37 °C inkubiert, um eine
+unerwünschte Ausbildung spontaner Antibiotikaresistenzen auszuschließen. Durch die
+Transformation von 1 ng einer bekannten Plasmid-DNA wird die Kompetenz der
+hergestellten Bakterien ermittelt, wobei ein Wert von 107 Kolonien/µg DNA erreicht
+werden sollte.
+
+3.3.3.2 Transformation
+Für die Transformation mit Plasmid-DNA wird ein Aliquot des kompetenten E. coli
+Stammes auf Eis aufgetaut, mit der Plasmid-DNA (Bakterien : Plasmid-DNA 10:1)
+versetzt und für 30 Min auf Eis inkubiert. Anschließend wird ein Hitzeschock für 45
+Sek bei 42 °C durchgeführt. Nach einer weiteren Inkubationszeit von 1 Min auf Eis
+wird die Bakteriensuspension mit 300 µl LB/Glucose für 1 h bei 37 °C und 250 rpm
+regeneriert. Die Selektion erfolgt nach dem Ausstreichen der Bakterien auf LBAgarplatten, die ein entsprechendes Antibiotikum beinhalten.
+
+3.3.4 Transfektion eukaryoter Zellen
+
+3.3.4.1 Transiente Transfektion von HEK 293T-Zellen
+Die transiente Transfektion von HEK 293T-Zellen erfolgt mittels Calcium-PhosphatDNA-Präzipitaten. Die Zellen werden am Abend vor der Transfektion so geteilt, dass
+sie am nächsten Morgen zu ungefähr 60 % konfluent sind. Für die Transfektion einer 10
+cm Zellkulturschale werden 500 µl 0.25 M Calciumchlorid (RT) und 10 µg PlamidDNA vorgelegt. Unter Vortexen wird 500 µl 2 x HEBS (4 °C) tropfenweise
+dazugegeben. Anschließend wird die Transfektionslösung gleichmäßig tropfenweise,
+unter schwenken, auf den Zellen verteilt und die Zellkulturschale vorsichtig
+geschwenkt. Die Zellen werden im Zellkulturbrutschrank inkubiert. Nach 8 h erfolgt ein
+Mediumwechsel, der die Transfektionsreaktion beendet. 24-48 h nach der Transfektion
+können die Zellen für die Protein- oder RNA-Gewinnung lysiert oder für andere
+Versuche eingesetzt werden.
+
+3.3.4.2 Transiente Transfektion von MDCK Zellen
+Um eine möglichst hohe Transfektionseffizienz erreichen zu können, wurde das
+Transfektionsreagenz Lipofectamin 2000 von Invitrogen eingesetzt. Die Transfektion
+erfolgte nach dem Protokoll des Herstellers. Die eingesetzte DNA Menge belief sich
+jeweils auf 2,5 µg des entsprechenden Plasmids. Als Transfektionskontrolle diente ein
+Vektor, der für das gelb fluoreszierende Protein YFP kodiert. Da für die sich daran
+anschließenden Immunfluoreszenzstudien insbesondere die Zell-Zell-Kontakte wichtig
+waren sollten die Zellen nach abgeschlossener Transfektion zwar konfluent genug sein
+um genügend Zell-Zell-Verbindungen explorieren zu können, aber dennoch nur als
+Monolayer vorliegen. Empirisch ergab sich eine optimale Konfluenzrate von ca. 60 %
+am Transfektionstag.
+
+3.3.4.3 Transiente Transfektion von COS-7 Zellen (Seed & Aruffo, 1987)
+Die transiente Transfektion von COS-M7 erfolgt mittels DEAE-Dextran (modifiziert
+nach einer persönlichen Mitteilung von Brian Seed). Die Zellen werden einen Tag vor
+der Transfektion so geteilt, dass sie am Tag der Transfektion zu etwa 70 – 80 %
+konfluent sind.
+
+Die Zellen einer 140 mm Schale werden mit 10 ml Transfektionsmedium (DMEM,
+10 % NU-Serum, 400 μg/ml DEAE-Dextran, 100 μM Chloroquin, 10 bis 20 μg GesamtDNA) versetzt und für 4 h bei 37 °C inkubiert. Anschließend erfolgt für 2 Min ein
+DMSO-Schock (10 ml PBS, 10 % (v/v) DMSO). Die Zellen werden im Kulturmedium
+(50 μg Gms/ml) weiterkultiviert. Nach einem Tag wird das Medium gewechselt und
+nach  48-72  h  nach  der  Transfektion  die  Immunpräzipitation  oder  die  Immunfluoreszenzmikroskopie durchgeführt.
+
+3.3.4.4Immunfluoreszenzmikroskopie von MDCK Zellen
+
+Alle bei der Prozedur verwendeten Puffer werden mit PBS/0.5 M CaCl 2 angesetzt und
+ausgenommen dem Fixierungsschritt finden alle Vorgänge bei RT statt. Nach erfolgter
+Transfektion werden die Zellen einmal mit PBS/0.5 M CaCl2 gewaschen und für 30 Min
+mit 2 % PFA (frisch angesetzt und pH-neutral) und 4 % Sucrose fixiert. Nach
+dreimaligem waschen wird für 30 Min mit 100 mM Glycin geblockt und für 10 Min mit
+0,3 % Triton X-100 permeabilisiert. Anschließend werden die Zellen 30 Min mit 2 %
+BSA(m/v)/2 % FCS geblockt. Die Inkubation mit dem ersten Antikörper erfolgt für eine
+Stunde in 2 % BSA(m/v)/2 % FCS. Danach folgt ein dreimaliger Waschschritt mit
+PBS/0.5 M CaCl2 für je 5 Minuten. Die Inkubation mit dem Sekundärantikörper erfolgt
+ebenfalles einstündig, aber diesmal alleinig mit PBS/0.5 M CaCl2. Danach folgen dann
+die Abschlusswaschschritte je dreimal für 5 Min mit PBS/0.5 M CaCl2. Abschießend
+werden die Deckgläschen einmal für 5 Sekunden in ddH2O gespült und dann in einer
+1:1 Mischung aus Crystal Mount Medium (Sigma) und VectaMount H 5000 (Vector)
+eingebettet, mit einem Deckgläschen verschlossen und dunkel gelagert bis zur
+Auswertung am nächsten Tag.
+
+4.Ergebnisse
+
+Ziel dieser Arbeit war es, die potentielle Interaktion des Proteins TRPC3 mit PATJ zu
+untersuchen und näher zu charakterisieren. Dabei lag ein Schwerpunkt auf der
+Eingrenzung der an der Interaktion beteiligten PDZ-Domänen von PATJ. Es wurden
+sowohl in vitro als auch in vivo Versuche durchgeführt. Zunächst wurden GSTpulldown Assays zur allgemeinen Interaktionsbestätigung eingesetzt, dann folgte eine
+Yeast Two-Hybrid Interaktionsstudie sowie Ko-Immunfluoreszenzexperimente.
+
+4.1 Die Interaktion von TRPC3 mit PATJ
+Die Vordaten aus Ko-Immunpräzipitationsstudien, welche eine Wechselwirkung
+zwischen PATJ und TRPC3 sehr wahrscheinlich machten, sollten mit den
+nachfolgenden Experimenten überprüft und auf distinkte Bereiche eingegrenzt werden.
+Um die Interaktionsstudien innerhalb einer Spezies zeigen zu können, wurde mit dem
+humanen Homologon von CIPP, PATJ, und humanem TRPC3 sowie TRPC6 gearbeitet.
+
+4.2 GST-pulldown Assay
+Für die GST-pulldown Experimente wurden zuerst verschiedene Verkürzungsmutanten
+von PATJ als GST-Fusionsprotein eingesetzt (Vgl. Methoden, 3.2.1) und TRPC3 durch
+transiente Transfektion in HEK 293T Zellen exprimiert. Dabei sind TRPC3-Konstrukte
+mit verschiedenen Erkennungsepitopen (tag) eingesetzt worden. Die transient
+transfizierten COS-7 Zellen wurden nach 24 h lysiert. Das Zelllysat wurde anschließend
+mit den GST-Fusionsproteinen inkubiert. Die Proben wurden auf einem SDS-PAA Gel
+aufgetrennt und einer Western Blot Analyse unterzogen.
+
+In Abbildung 4.1 ist eine schematische Darstellung des Proteins PATJ und der im GSTpulldown eingesetzten Verkürzungsmutanten dargestellt.
+
+Abb. 4.1: Schematische Darstellung des humanen Gerüstproteins PATJ und den im GST pulldown
+Assays eingesetzten Verkürzungsmutanten. Die Abbildung zeigt schematisch die Domänenstruktur
+von PATJ mit einer N-terminalen L27-Domäne und zehn PDZ-Domänen (oben). Des Weiteren sind
+PATJ-Verkürzungsmutanten mit den PDZ-Domänen (von oben) 7-10, 8-10, 9-10, 10, 9, 8, 7 und 7-8
+dargestellt.
+
+Die folgende Abbildung 4.2 zeigt die Aufnahme eines Coomassie gefärbten SDS-PAA
+Gels. Dargestellt sind die, für den GST-pulldown exprimierten, GST-Fusionsproteine
+
+Ma
+rke
+r
+PA
+TJ.
+P
+P A DZ 710TJ.
+GS
+PD
+T(
+Z8
+PA
+81
+-10
+TJ.
+kD
+-GS
+PD
+)
+Z9
+T(
+PA
+61
+-10
+TJ.
+kD
+-GS
+PD
+)
+T
+Z
+(52
+PA
+10GS
+TJ.
+T ( kD)
+PD
+37 k
+Z7
+PA
+-GS
+D)
+TJ.
+T(
+PD
+34 k
+Z8
+PA
+-GS
+D)
+TJ.
+PD
+T(
+Z7
+3
+-8-G 4 kD)
+ST
+(56
+kD
+)
+
+PATJ.PDZ7-10, 8-10 und 9-10, 10, 7, 8, 7-8.
+
+250 kD
+150 kD
+100 kD
+75 kD
+50 kD
+37 kD
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Abb. 4.2: Aufnahme eines Coomassie gefärbten SDS-PAA-Gels mit rekombinant exprimierten,
+affinitätsgereinigten GST-Fusionsproteinen. Die Abbildung zeigt Verkürzungsmutanten von PATJ, die
+rekombinant als GST-Fusionsproteine exprimiert wurden. Zu sehen sind GST.PATJ.PDZ-Domäne 7-10
+(Spur 2), 8-10 (Spur 3), 9-10 (Spur 4), 10 (Spur 5), 7 (Spur 6), 8 (Spur 7) und 7-8 (Spur 8). Ein
+Proteinmarker mit angegebenen Größen in kD wurde in Spur 1 aufgetragen.
+
+h .T
+RP
+C3
+AC
+-F la
+9 .C
+g/
+yt 2
+-F
+- Fl
+h .T
+ag
+la g
+RP
+X
+C3
+PA
+- Fl
+h .T
+T
+ag
+J.P
+RP
+X
+DZ
+C3
+GS
+7- 1
+- Fl
+h .T
+T
+ag
+0- G
+RP
+XP
+ST
+C3
+AT
+- Fl
+h .T
+ag
+J.P
+X
+D
+RP
+Z7
+PA
+C3
+- 10
+TJ
+- Fl
+h .T
+-GS
+.PD
+a
+g
+RP
+X
+Z
+T
+C3
+PA
+8- 1
+- Fl
+h .T
+TJ
+0-G
+ag
+.
+RP
+P
+S
+DZ
+T
+XP
+C39- 1
+AT
+Fla
+0-G
+h .T
+J.P
+g
+RP
+XP
+DZ
+ST
+C3
+AT
+7- G
+- Fl
+J.P
+ST
+ag
+DZ
+XP
+8- G
+AT
+ST
+J.P
+DZ
+7- 8
+- GS
+T
+
+Blot: anti-Flag
+
+I P:
+
+A
+250 kD
+150 kD
+
+h.TRPC3
+
+100 kD
+75 kD
+50 kD
+37 kD
+
+1 2
+
+B
+
+3 4 5 6 7
+
+8
+
+250 kD
+
+9
+Ladekontrolle:
+anti-GST staining
+
+150 kD
+100 kD
+75 kD
+50 kD
+37 kD
+
+Abb.
+
+4.3:
+
+Die
+
+Western
+
+Blot
+
+Analyse
+
+eines
+
+GST-pulldowns
+
+zeigt
+
+die
+
+Interaktion
+
+GST.h.PATJ.PDZ7/FLAG.h.TRPC3 bzw. GST.h.PATJ.PDZ8/FLAG.h.TRPC3. FLAG.TRPC3 und
+FLAG.AC9.CYT2 wurden jeweils durch transiente Transfektion in COS-7 Zellen exprimiert. Nach 24 h
+wurden die Zellen lysiert. Rekombinant hergestelltes GST und GST-Fusionsproteine der PATJ.PDZDomänen 7-10, 8-10, 9-10, 7, 8 und 7-8 wurden an einer Glutathion-Sepharose Matrix immobilisiert und
+mit FLAG.TRPC3 inkubiert. In einem weiteren Ansatz wurden die GST-Fusionsproteine mit
+FLAG.TRPC3 bzw. FLAG.AC9.CYT2 (Negativkontrolle, Spur 2) inkubiert. Die Proben wurden in einem
+SDS-PAA-Gel aufgetrennt und mittels Western Blot auf eine PVDF Membran transferiert. Die Detektion
+der Proteinbanden erfolgte nach Inkubation mit einem FLAG-spezifischen Antikörper durch die ECLReaktion.
+
+Abbildung 4.3 zeigt das Ergebnis einer Western Blot Analyse nach einem GSTpulldown Assay. Ausschließlich in Spur 7 (GST.PATJ.PDZ7/FLAG.TRPC3) und in
+Spur 8 (GST.PATJ.PDZ8/FLAG.TRPC3) wurden, durch den FLAG-spezifischen
+Antikörper, Proteinbanden detektiert.
+Zu Abbildung A: In der ersten Spur wurde als Positivkontrolle eine Immunpräzipitation
+von FLAG.TRPC3 mit einem spezifischen -FLAG Antikörper (M2) durchgeführt. Als
+Negativkontrolle diente, in Spur 2, FLAG.AC9.CYT2, welches an Stelle des
+FLAG.TRPC3  mit  GST.PATJ.PDZ7-10  inkubiert  wurde,  wobei  keine 
+Wechselwirkungen zu erwarten waren. In den Spuren 4-9 sind die verschiedenen
+GST.PATJ.PDZ-Domänen auf eine mögliche Interaktion mit FLAG.TRPC3 ausgetestet
+worden. Ausschließlich in den Spuren mit GST.PATJ.PDZ7 und GST.PATJ.PDZ8
+konnte h.TRPC3 nachgewiesen werden.
+Zu Abbildung B: In den Spuren 2 und 4-9 wurde die Expressionskontrolle der GSTFusionsproteine und in Spur 3 GST aufgetragen. Im Anschluss an die -FLAG
+Antikörper Reaktion wurde die PVDF Membran durch stripping für ein GST-staining
+vorbereitet, um die Expression der GST.PATJ-Fusionsproteine bzw. GST kontrollieren
+zu können.
+
+In diesem GST-pulldown Assay wurde FLAG.TRPC3 mit GST.PATJ.PDZ7 und
+GST.PATJ.PDZ8 gefällt, wodurch die Interaktion zwischen TRPC3 und PATJ deutlich
+wird. Ein Interaktionsnachweis von GST.PATJ.PDZ7-8 konnte nicht erbracht werden.
+Eine mögliche Erklärung ist eine zum TRPC3 inadäquate Tertiärstruktur, wenn beide
+PDZ-Domänen zusammen vorliegen.
+
+4.2.1 Reverser GST-pulldown Assay
+Um eine härtere Evidenz für die PATJ/TRPC3 Interaktion zu erhalten und mögliche,
+vom experimentellen Aufbau her resultierende unspezifische Interferenzen ausschließen
+zu können, wurde die Struktur des Experimentes nun umgedreht, indem zuerst eine
+
+Immunpräzipitation von FLAG.h.TRPC3 mit einem -FLAG Antikörper (M2)
+durchgeführt wurde, eine sich anschließende Kopplungsreaktion und Immobilisierung
+mit Protein G Sepharose folgte und die schlussendliche Inkubation, mit den
+rekombinant hergestellten GST-Fusionsproteinen, eingeleitet wurde, die nun wiederum
+spezifisch detektiert werden sollten.
+
+RP
+C3
+-F g
+AC
+ag
+9.C
+XG
+y t2
+ST
+h .T
+-F la
+gX
+RP
+C3
+PA
+-Fl
+h .T
+TJ.
+ag
+RP
+PD
+X
+C3
+Z7
+P
+AT
+-F l
+h .T
+-10
+ag
+J.P
+-GS
+RP
+X
+DZ
+C3PA
+T
+7-G
+F
+T
+l
+h .T
+ag
+J.P
+S
+T
+DZ
+RP
+XP
+C3
+AT
+8-G
+-F l
+J
+S
+h .T
+.
+ag
+PD
+T
+RP
+X
+Z1
+C3
+PA
+0- G
+F
+T
+h .T
+la g
+J.P
+ST
+RP
+DZ
+X
+C3
+P
+7
+A
+-F la
+-8TJ
+h .T
+GS
+gX
+.P D
+T
+RP
+Z
+P
+C3
+AT
+7
+-F la
+1
+J
+0
+.P D
+-GS
+gX
+Z8
+T
+PA
+1
+0-G
+TJ.
+PD
+ST
+Z9
+-10
+-GS
+T
+
+Blot: anti-GST
+
+h .T
+
+A
+250 kD
+150 kD
+100 kD
+75 kD
+50 kD
+37 kD
+
+h.PATJ.PDZ 7
+h.PATJ.PDZ 8
+
+25 kD
+20 kD
+
+1 2 3 4 5 6 7 8
+
+B
+
+9
+Ladekontrolle:
+anti-FLAG staining
+
+Abb. 4.4: Die Western Blot Analyse eines reversen GST-pulldowns zeigt die Interaktion
+GST.h.PATJ.PDZ 7/FLAG.h.TRPC3 bzw. GST.h.PATJ.PDZ 8/FLAG.h.TRPC3. FLAG.TRPC3 und
+FLAG.AC9.CYT2 wurden jeweils durch transiente Transfektion in COS-7 Zellen exprimiert. Nach 24 h
+wurden die Zellen lysiert. Die Lysate wurden mit -FLAG Antikörper inkubiert und an eine Protein G
+Sepharose Matrix gebunden. Im Anschluss daran wurden rekombinant exprimiertes GST und GSTFusionsproteine der PATJ.PDZ-Domänen 7-10, 8-10, 9-10, 7, 8 und 7-8 zu den Lysat-AntikörperSepharose-Komplexen gegeben. Die Proben wurden in einem SDS-PAA-Gel aufgetrennt und mittels
+Western Blot auf eine PVDF Membran transferiert. Die Detektion der Proteinbanden erfolgte nach
+Inkubation mit einem GST-spezifischen Antikörper durch die ECL-Reaktion.
+
+Zu Abbildung A: In der ersten Spur wurde FLAG.TRPC3 allein mit rekombinantem
+GST inkubiert um eine mögliche unspezifische Wechselwirkung aufdecken zu können.
+FLAG.AC9.CYT2 diente in der zweiten Spur als Negativkontrolle, die unauffällig
+ausfiel. Die Spuren 3 bis 9 waren den GST-PATJ-Fusionsproteinen vorbehalten. In Spur
+3 und 4 konnten jeweils GST.PATJ.PDZ7 und GST.PATJ.PDZ8 konnten nachgewiesen
+werden.
+
+Zu Abbildung B: Die Spuren 1 und 3-9 sowie die zweite Spur dienten der
+Expressionskontrolle von FLAG.TRPC3 (Spuren 1 und 3-9) bzw. FLAG.AC9.CYT2
+(Spur 2). Im Anschluss an die -GST Antikörper Reaktion wurde die PVDF Membran
+durch stripping für ein FLAG-staining vorbereitet, um die Expression von
+FLAG.TRPC3 bzw. FLAG.AC9.CYT2 bewerten zu können.
+
+Die Abbildung 4.4 zeigt auch diesmal eine spezifische Interaktion von h.TRPC3 mit
+h.PATJ. Auch bei einer Umstrukturierung der Versuchsbedingungen kristallisieren sich
+abermals die PATJ-Domänen 7 und 8 als exklusive Bindungspartner mit dem humanen
+TRPC3 Kanalprotein heraus. Da sowohl die Positiv- als auch die Negativkontrollen in
+dem Experiment unauffällig ausfallen, ist das Ergebnis aussagekräftig und valide.
+
+4.3 Yeast Two-Hybrid Interaktionsstudie
+Die Daten aus den GST-pulldown Assays zur Interaktion von TRPC3 mit PATJ.PDZ7
+und PATJ.PDZ8 sollten nun auch mit einer in vivo Methodik untersucht werden, bei der
+zwei Proteine isoliert von anderen zellulären Proteinen untersucht werden können.
+Außerdem wurde ebenfalls, das zum TRPC3 stark homologe, TRPC6 auf eine mögliche
+Interaktion getestet. Um die Interaktionsstudien innerhalb einer Spezies zeigen zu
+können, wurde jeweils nur mit humanen Konstrukten gearbeitet. Zunächst wurden KoTransformationsexperimente im Hefesystem durchgeführt, in denen verschiedene
+Verkürzungsmutanten von PATJ (PDZ-Domänen 7-10 und L27-PDZ4) (Abb. 4.1) und
+TRPC3-N-Terminus bzw. TRPC3-C-Terminus als auch TRPC6-N-Terminus bzw.
+TRPC6-C-Terminus eingesetzt wurden. Sowohl der C- als auch der N-Terminus der
+TRPC Familienmitglieder sind zytoplasmatisch gelegen und weisen diverse funktionelle
+Bindungsregionen auf (siehe Abb. 1.7). Das ist der Grund warum nicht etwa eine full
+length Variante der TRPC Proteine eingesetzt wurde. Zudem wäre das Gesamtprotein
+viel zu groß gewesen.
+
+4.3.1 Herstellung der Bait und Prey Plasmide
+Zunächst wurden mit dem Invitrogen pENTR TOPO Cloning Kit die folgenden
+Konstrukte hergestellt für die anschließende Kreierung der bait und prey Plasmide.
+
+Tabelle 4.1: pENTR-Konstrukte
+Größe Insert
+
+Spaltstellen
+
+pENTR-h.TRPC3.NT
+
+1046 bp
+
+AscI/PacI
+
+pENTR-h.TRPC3.CT
+
+536 bp
+
+AscI/PacI
+
+pENTR-h.TRPC6.NT
+
+1185 bp
+
+AscI/PacI
+
+pENTR-h.TRPC6.CT
+
+614 bp
+
+AscI/PacI
+
+Konstrukt
+
+Die in Tabelle 4.1 hergestellten Konstrukten wurden anschließend jeweils in pDEST™
+32 (bait) und pDEST™ 22 (prey) kloniert.
+
+Tabelle 4.2: pDEST32- und pDEST22-Konstrukte
+Konstrukt
+
+Größe Insert
+
+Spaltstellen
+
+pDEST32-h.TRPC3.NT
+
+1046 bp
+
+AscI/PacI
+
+pDEST32-h.TRPC3.CT
+
+536 bp
+
+AscI/PacI
+
+pDEST32-h.TRPC6.NT
+
+1185 bp
+
+AscI/PacI
+
+pDEST32-h.TRPC6.CT
+
+614 bp
+
+AscI/PacI
+
+pDEST22-h.TRPC3.NT
+
+1046 bp
+
+AscI/PacI
+
+pDEST22-h.TRPC3.CT
+
+536 bp
+
+AscI/PacI
+
+pDEST22-h.TRPC6.NT
+
+1185 bp
+
+AscI/PacI
+
+pDEST22-h.TRPC6.CT
+
+614 bp
+
+AscI/PacI
+
+4.3.2 β-Galaktosidase Filter Assay
+Tabelle 4.3 und Tabelle 4.4 fassen die verschiedenen Ansätze der Ko-Transformationen
+zusammen. Als Positivkontrolle diente ein in der Arbeitsgruppe identifizierter Klon 4.1,
+der in einem Y2H Screen mit PATJ eine starke Interaktion aufwies. Die erfolgreiche
+Ko-Transformation wurde durch Kultivierung der Hefezellen auf synthetischem dropout Medium ohne Leucin und ohne Tryptophan (SD-L-T) sichergestellt (Vgl.
+Methoden, 3.2.2). Die Interaktion wurde durch Wachstum auf SD-L-T-H sowie im
+-Galaktosidase Filter Assay untersucht.
+
+Tabelle 4.3: Ko-Transformationen des Hefestammes MAV 203 mit TRPC3
+bait („Köder“)
+
+prey („Beute“)
+
+pDEST32/pDBLeu
+
+pDest22
+
+pDBLeu-
+
+pDest22-h.TRPC3-NT
+
+SD –T
+
+SD –T –L
+
+β-Gal-
+
+–L
+
+–H 3-AT
+
+Assay
+
+(50 mM)
+++
+
+-
+
+-
+
+PATJ.PDZ.7-10
+pDBLeu
+
+pDest22-h.TRPC3-NT
+
+++
+
+-
+
+-
+
+pDEST32-
+
+pDest22-h.TRPC3-NT
+
+++
+
++/-
+
+-
+
+++
+
+-
+
+-
+
+++
+
+-
+
+-
+
+++
+
+-
+
+-
+
+++
+
++/-
+
+-
+
++
+
+-
+
+-
+
+h.PATJ.L27-PDZ4
+pDEST32
+
+pDest22-h.TRPC3-NT
+
+pDBLeu-
+
+pDest22-h.TRPC3-CT
+
+h.PATJ.PDZ.7-10
+pDBLeu
+
+pDest22-h.TRPC3-CT
+
+pDEST32-
+
+pDest22-h.TRPC3-CT
+
+h.PATJ.L27-PDZ4
+pDEST32
+
+pDest22-h.TRPC3-CT
+
+
+Tabelle 4.4: Ko-Transformationen des Hefestammes MAV 203 mit h.TRPC6
+bait („Köder“)
+
+prey („Beute“)
+
+pDEST32/pDBLeu
+
+pDest 22
+
+pDBLeu-
+
+pDest22-h.TRPC6-NT
+
+h.PATJ.PDZ.7-10
+pDBLeu
+
+pDest22-h.TRPC6-NT
+
+pDEST32-
+
+pDest22-h.TRPC6-NT
+
+SD –T
+
+SD –T –L
+
+β-Gal-
+
+–L
+
+–H 3-AT
+
+Assay
+
+(50 mM)
+++
+
+-
+
+-
+
+++
+
+-
+
+-
+
+++
+
++
+
+-
+
+++
+
+-
+
+-
+
++
+
+-
+
+-
+
++
+
+-
+
+-
+
++
+
++/-
+
+-
+
+++
+
+-
+
+-
+
+++
+
++
+
+++
+
+h.PATJ.L27-PDZ4
+pDEST32
+
+pDest22-h.TRPC6-NT
+
+pDBLeu-
+
+pDest22-h.TRPC6-CT
+
+h.PATJ.PDZ.7-10
+pDBLeu
+
+pDest22-h.TRPC6-CT
+
+pDEST32-
+
+pDest22-h.TRPC6-CT
+
+h.PATJ.L27-PDZ4
+pDEST32
+
+pDest22-h.TRPC6-CT
+
+pDEST32-
+
+Klon 4.1 (Kontrolle)
+
+h.PATJ.L27-PDZ4
+Legende:
+SD-L-T: Das Wachstum (++) von Hefekolonien auf SD-L-T stellt die erfolgreiche Transformation von
+bait- und prey-Plasmid sicher; SD-L-T-H + 50 mM 3-AT: Normales (+) bzw. schwaches (+/-)
+Wachstum von Hefekolonien auf SD-L-T-H; β-Gal-Assay: Blaufärbung (++) bzw. keine Farbreaktion (-)
+der Hefekolonien nach einem β-Galaktosidase Filter Assay.
+
+Das β-Galaktosidase Filter Assay wurde mit ko-transformierten Hefekolonien
+durchgeführt, die auf SD-L-T-H + 50 mM 3-AT Medium gewachsen waren. Eine
+Blaufärbung der Hefekolonien konnte ausschließlich bei der Positivkontrolle,
+PATJ.L27-PDZ4/Klon 4.1 beobachtet werden. Festzuhalten bleibt, dass alle
+hergestellten Ko-Transformationen erfolgreich verlaufen sind, da bei allen Konstrukten
+ein Wachstum auf dem SD-T-L-Medium stattgefunden hat. Das β-Galaktosidase Filter
+Assay blieb jedoch ohne ein auswertbares Ergebnis. Zu bedenken ist dabei, dass von der
+Seite des Proteins PATJ die PDZ-Domänen 5-6 nicht getestet werden konnten, da kein
+entsprechendes Konstrukt zur Verfügung stand.
+
+4.4 Ko-Immunfluoreszenz
+
+Um eine mögliche Ko-Lokalisation von PATJ und TRPC3 untersuchen zu können
+wurden sowohl COS-7 Zellen als auch MDCK Zellen auf Deckgläschen kultiviert, mit
+PATJ- und TRPC3-Konstrukten transient tansfiziert und anschließend fixiert (Vgl.
+Methoden, 3.2.8). Es wurden von PATJ EYFP- als auch FLAG-getaggte Konstrukte
+und von TRPC3 HA- und FLAG-getaggte Konstrukte transfiziert, um gewährleisten zu
+können, dass  bei  Fluoreszenzfarbstoffe  den eingesetzt  Doppelfärbungen werden  konnten  unterschiedliche und  um  sekundäre  tag-spezifische
+Wechselwirkungen ausschließen zu können, wie eventuelle Veränderungen bei der
+Distribution der Proteine innerhalb der Zelle. Für PATJ stand darüber hinaus ein
+spezifischer PATJ-Antikörper zur Verfügung.
+
+PATJ-FLAG
+
+TRPC3-HA
+
+Merge
+
+D
+
+Negativkontrolle
+
+Abb. 4.5: Ko-Immunfluoreszenzfärbung von FLAG.h.PATJ und HA.h.TRPC3 in transfizierten
+COS-7 Zellen. Die mit jeweils beiden Konstrukten transient transfizierten COS-7 Zellen wurden auf
+Deckgläschen kultiviert. Die Zellen wurden fixiert und mit einem spezifischen -FLAG Antikörper und
+einem spezifischen -HA inkubiert. Anschließend folgte eine Behandlung der Zellen mit zwei
+unterschiedlichen  Fluoreszenzfarbstoff-markierten  Zweitantikörpern.  Mit  einer  an  ein  Fluoreszenzmikroskop angeschlossenen Kamera wurde das Ergebnis dokumentiert. Die Gelbfärbung in
+den erstellten Merge-Bildern zeigen die Areale an, in denen eine Ko-Lokalisation beider Proteine
+vorliegt.
+
+PATJ-EYFP
+
+Merge
+
+TRPC3-FLAG
+
+A
+
+Negativkontrolle
+
+Abb. 4.6: Ko-Immunfluoreszenzfärbung von EYFP.h.PATJ und FLAG.h.TRPC3 in kultivierten
+COS-7 Zellen. Von der Methodik entspricht diese Färbung der Vorherigen Abb. 4.4. Die mit jeweils
+beiden Konstrukten transient transfizierten COS-7 Zellen wurden auf Deckgläschen kultiviert, fixiert und
+anschließend nur mit einem spezifischen -FLAG Antikörper inkubiert. Das PATJ-EYFP Konstrukt
+besitzt eine Autofluoreszenzaktivität. Des Weiteren folgte eine Behandlung der Zellen mit einem
+Fluoreszenzfarbstoff-markierten  Zweitantikörper.  Mit  einer  an  ein  Fluoreszenzmikroskop
+ angeschlossenen Kamera wurde das Ergebnis dokumentiert. Die Gelbfärbung in den erstellten MergeBildern zeigen die Areale an, in denen eine Ko-Lokalisation beider Proteine vorliegt.   endogenes PATJ  TRPC3-FLAG  Merge  Negativkontrolle
+
+Abb. 4.7: Ko-Immunfluoreszenzfärbung von endogenem h.PATJ und FLAG.h.TRPC3 in
+kultivierten MDCK Zellen. Bei dieser Färbung wurden die, auf Deckgläschen kultivierten, MDCK
+Zellen mit einem FLAG.h.TRPC3 Konstrukt transfiziert. Die Zellen wurden fixiert und mit einem
+spezifischen PATJ Antikörper und einem spezifischen -FLAG Antikörper inkubiert. Anschließend
+folgte eine Behandlung der Zellen mit zwei unterschiedlichen Fluoreszenzfarbstoff-markierten
+Zweitantikörpern. Mit einer an ein Fluoreszenzmikroskop angeschlossenen Kamera wurde das Ergebnis
+dokumentiert. Die Gelbfärbung in den erstellten Merge-Bildern zeigen die Areale an, in denen eine KoLokalisation beider Proteine vorliegt.
+Sowohl in den transfizierten COS-7 Zellen als auch in den MDCK Zellen konnten
+TRPC3 und PATJ mit spezifischen Antikörpern nachgewiesen werden (Abb. 4.5, 4.6,
+4.7). Als Negativkontrolle wurde ein Teil der transfizierten Zellen alleinig mit dem
+Fluoreszenzfarbstoff-markierten Zweitantikörper inkubiert, um unspezifische Signale
+ausschließen zu können. Insbesondere in Abb. 4.7, welche mit einem PATJspezifischen Antikörper durchgeführt wurde, ist die PATJ-typische distinkte
+Lokalisation an den Zell-Zellkontakten zu erkennen. Diese Lokalisation wird ebenfalls
+bei der TRPC3 Färbung deutlich. Die Differenz-Darstellung zeigt eine partielle KoLokalisation. In COS-7 Zellen (Abb. 4.5 und 4.6) ist eher eine nukleäre bzw.
+perinukleäre Anreicherung zu sehen. Als mögliche Erklärung könnten Faltungsdefekte,
+bei den durch Transfektion und mit einem Markierungsepitop versehenen Proteinen,
+verantwortlich gemacht werden, so dass die Proteine teilweise artifiziell im
+endoplasmatischen Retikulum und Golgi Apparat reteniert bleiben. Aber auch mit der
+Veränderung der Tertiärstruktur verbundene Störungen, bei Distrubutions- und
+Redistributionsprozesse, innerhalb der Zelle, wären in Betracht zu ziehen.
+
+5.Diskussion
+
+Im Folgenden werden die im Ergebnisteil vorgestellten Daten zu der Interaktion
+TRPC3/PATJ, und deren mögliche Bedeutung diskutiert. Des Weiteren werden
+mögliche Erklärungsansätze für die Interpretation der erlangten Ergebnisse besprochen.
+
+5.1 Die Interaktion von TRPC3 mit PATJ
+Aus Vorarbeiten zu den Proteinen der TRPC Familie wurde antizipierbar, dass neben
+einer Ca2+-abhängigen kompetitiven Regulation durch IP3-Rezeptoren und Calmodulin
+auch eine Steuerung durch andere Proteine möglich ist, die das Signal vom
+Oberflächenrezeptor oder vom Ca2+-Speicher zum TRPC-Kanal leiten. Dazu können
+Adapterproteine ebenso wie das Aktin-Zytoskelett gehören, die eine korrekte
+Lokalisation der TRPC-Kanäle ermöglichen.
+Das im ursprünglichen Drosophila Signalkomplex entscheidende Gerüstprotein INAD
+(„inactivation no after potential“), welches die Ausbildung dieses Komplexes gar erst
+ermöglicht und reguliert, ist ein PDZ-Domänen enthaltendes Adapterprotein, wobei
+zwei PDZ-Domänen von INAD mit NOPRA (PLC) und eine mit dem C-Terminus von
+TRP interagieren (van Huizen et al., 1998). Einige Mitglieder der TRPC Familie
+wurden daraufhin, in Ko-Immunpräzipitationsversuchen, positiv auf eine Interaktion,
+ebenfalls mit INAD, getestet (Goel et al., 200).
+Adapterproteine haben keine intrinsische katalytische oder signalgebende Aktivität,
+aber sie besitzen Motive und Domänen, die in der Lage sind, Protein-Protein- und
+Protein-Lipid-Wechselwirkungen zu vermitteln. Durch die zahlreichen Interaktionen,
+die durch Adaptoren stabilisiert werden, wird der Aufbau von großen Signalkomplexen
+möglich. Diese ermöglichen wiederum die Aktivierung von wichtigen Effektoren,
+einschließlich der Phospholipase γ (PLCγ) und der Phospholipase  (PLC), der
+Phosphatidylinosit-3-OH-Kinase (PI3-K) und Guanin-Nukleotid-Austauschfaktoren
+(GEF), die extrazelluläre Signale für die Signalleitung („signaling“) von kleinen
+GTPasen (G-Proteinen), die Reorganisation des Zytoskeletts und die Genexpression,
+weiterleiten. Die Modulation der Funktion eines Proteins durch Adaptermoleküle kann
+auf zwei verschiedenen Wegen erfolgen. Einerseits kann die Wirkungsweise direkt
+manipuliert werden, indem durch den Adapter Bindestellen blockiert oder zwei Proteine
+in räumliche Nähe gebracht werden. Andererseits können Adaptermoleküle die
+Lokalisation eines Enzyms, Transkriptionsfaktors oder Kanalproteins beeinflussen und
+so das Zielprotein regulieren.
+
+Folglich fokussierte sich die Anstrengung auf die Suche nach in Vertebraten
+vorhandenen PDZ-Domänen enthaltenden Gerüstproteinen. Der Anfang wurde gemacht
+mit der Entdeckung eines humanen Homologons von INAD, bestehend aus 1524
+Aminosäuren und fünf PDZ-Domänen, welches als hINADL (human INAD-like
+protein) bezeichnet wurde (Philipp et al., 1997). Im Zuge weiterer Forschungen wurde
+hINADL als Bindungspartner von PALS (protein associated with LIN7) ausgemacht
+und zu PATJ (Pals1-associated tight junctions) umbenannt (Roh et al., 2002).
+PATJ/hINADL ist in tight junctions lokalisiert; insbesondere in der apikalen
+Plasmamembran von polarisierten epithelialen Zellen (Lemmers et al., 2002). Indem
+Gerüstproteine wie PATJ über Protein-Protein-Interaktionsdomänen andere Proteine
+rekrutieren, können in definierten Arealen innerhalb der Zelle multiple Proteinkomplexe
+ausgebildet werden. Dabei werden Proteine, die PDZ-Domänen beinhalten, selbst durch
+Syntheseleistungen,  Degradationsereignisse,  subzelluläre  Verteilung  und  posttranslationale Modifikationen reguliert (Kin & Sheng, 2004).
+In der Arbeitsgruppe lag bereits ein besonderer Schwerpunkt auf der Suche nach
+weiteren Interaktionspartnern von PATJ. Noch vor der Entdeckung des humanen PATJ
+beschrieben Kurschner et al., in ihrer 1998 veröffentlichten Arbeit, das murine
+Homologon CIPP (channel-interacting PDZ domain protein), ein bis dato unbekanntes
+Protein (Kurscher et al., 1998). Die Untersuchung verschiedener muriner Gewebe ergab
+die Expression von CIPP-mRNA in der Niere und dem Gehirn. Interaktionen zwischen
+CIPP.PDZ 2 (die PATJ.PDZ 8 entspricht) und verschiedenen K+-Kanälen (Kir 4.1/4.2,
+inward rectifying K+ channel), dem NMDA-Rezeptor 2A (N-methyl-D-aspartateglutamate receptor 2A) und dem neuronalen Zelloberflächenmolekül Neurolignin
+wurden identifiziert. Abgesehen von Neurolignin, dessen Aminosäuresequenz mit
+TTRV abschließt, enden die C-Termini der genannten CIPP.PDZ 2 Interaktionspartner
+mit einem XSXV-Motiv. Demnach handelt es sich bei CIPP.PDZ 2 (PATJ.PDZ 8) um
+eine PDZ-Domäne der Klasse I (Vgl. Tab. 1.1).
+
+Obwohl PATJ zehn PDZ-Domänen besitzt, konnten bisher nur zwei direkte
+Interaktionspartner identifiziert werden (Shin et al., 2006). Das tight junction-assoziierte
+Protein ZO-3 bindet über die C-terminale Sequenz TDL an PATJ.PDZ6, einer PDZDomäne der Klasse I (Vgl. Tab. 1.1) (Lemmers et al., 2002; Roh et al., 2002). Claudine
+stellen eine Familie transmembranärer Proteine dar, die an der Calcium-unabhängigen
+Zell-Zell-Adhäsion beteiligt sind. Claudin-1, ein Mitglied dieser Proteinfamilie, bindet
+über die letzten C-terminalen Aminosäuren (KD)YV an PATJ.PDZ 8, wodurch diese
+sich der Klasse III zuordnen lässt (Vgl. Tab. 1.1) (Roh et al., 2002; Shin et al., 2006).
+Um nun die sehr wahrscheinliche Interaktion zwischen TRPC3 und PATJ untersuchen
+zu können, und um die für die Bindung verantwortliche(n) PDZ-Domäne bzw. PDZDomänen von PATJ zu ermitteln, wurden GST-pulldown Experimente durchgeführt.
+Diese in vitro Untersuchungen ergaben, im Unterschied, zu den im Hefesystem
+generierten Daten, eine reproduzierbare Bindung von TRPC3 an die PDZ-Domänen 7
+und 8 von PATJ, auch bei Veränderung der Versuchsanordnung. Im Allgemeinen
+können mit pulldown Experimenten starke Protein-Protein-Interaktionen nachgewiesen
+werden, da schwache Bindungen durch die diversen Waschschritte zerstört würden.
+Deshalb wäre zu erwarten gewesen, dass die Daten im Hefesystem bestätigt würden. Im
+Hefesystem  rekombinant  exprimierte  Proteine  werden  nur  unvollständig posttranslational modifiziert, wobei es sich um eine in vivo Methode zur Untersuchung
+von Protein-Protein-Interaktionen handelt.
+
+Als ein dritter Zugangsweg zur Bestätigung der Interaktion von TRPC3/PATJ wurden
+Immunfluoreszenzstudien mit transfiziertem PATJ und TRPC3, durchgeführt. Diese
+zeigten eine Ko-Lokalisation der Proteine in renalen Epithelzellen (MDCK-Zellen),
+einem Modellsystem für polarisierte Zellen.
+
+
+5.2 Grenzen des Yeast two-hybrid Modells
+
+Das  unterschiedliche  Bindungsverhalten  erscheint  zunächst  kontrovers;  die  dreidimensionale Struktur eines Proteins kann durch Verkürzungsmutanten jedoch
+erheblich verändert sein. Bei Bindungsstudien, in denen beide Interaktionspartner bis
+auf die Bindungsmotive minimal verkürzt exprimiert werden, kann es zu
+Verschiebungen der Ladung und so der räumlichen Struktur der Proteinfragmente
+kommen, was in einem veränderten Interaktionsverhalten resultieren kann. In diesem
+Zusammenhang zeigten Stiffler et al. 2006, dass Bindungsstudien verschiedene
+Resultate ergaben, wenn einzelne PDZ-Domänen eines Proteins im Vergleich zu
+Verkürzungsmutanten, die mehrere PDZ-Domänen beinhalteten, eingesetzt wurden
+(Stiffler et a., 2006).
+
+Obgleich das Yeast two-hybrid System erfolgreich zur Identifizierung neuer
+Bindungspartner diverser Proteine eingesetzt wurde, besitzt es dennoch Nachteile und
+Grenzen. Da der Interaktionsnachweis im Nukleus der Hefe erfolgt, können die
+untersuchten Fusionsproteine toxisch für die Zelle sein. Des Weiteren können viele in
+die Transkriptionsmaschinerie eingreifende Proteine im klassischen Yeast two-hybrid
+System nicht verwendet werden, da sie autoaktivierend wirken und somit das System
+kurzschließen. Zum anderen besteht die Möglichkeit, dass Interaktionen, die
+normalerweise im Zytosol oder an der Zellmembran stattfinden, im Kern der Hefe nicht
+erfolgen (Colas and Brent, 1998). So zeigte sich bei dem Versuch, alle möglichen
+Protein-Protein-Interaktionen des Hefe-Genoms mit Hilfe des Yeast two-hybrid Systems
+zu identifizieren, dass Proteine membranständigen Ursprungs mit einem Anteil von nur
+8 % aller entdeckten Wechselwirkungen deutlich unterrepräsentiert sind (Uetz et al.,
+2000). Auch ist es möglich, dass sich Proteine im Milieu des Zellkernes anders falten
+als in dem Bereich der Zelle, in dem sie üblicherweise auftreten. Zudem sind die
+posttranslationalen Modifikationen der Hefe teilweise unterschiedlich zu denen anderer
+eukaryotischer Organismen. Diese veränderte Faltung beeinflusst Struktur und
+Oberflächeneigenschaften der Proteine, wodurch es zu falschen Versuchsergebnissen
+kommen kann.
+
+5.3 Variabilität der Mitglieder der TRPC-Subfamilie
+
+Als ein weiterer Erklärungsansatz dienen die verschiedenen Modelle zur Aktivierung
+rezeptorgesteuerter Ca2+-Kanäle, welche demnach nicht strikt getrennt, sondern
+Grenzfälle darstellen, für die es zahlreiche Mischfälle gibt. Je nachdem wie der TRPCKanal zusammengesetzt ist und wie stark die Bindung der beteiligten TRPC-Proteine an
+den IP3R, an CaM, das Aktin-Zytoskelett und an Adapterproteine ist, können die
+resultierenden Kanäle auf unterschiedliche Weise reguliert werden, wobei sich
+verschiedene Wege überschneiden, ergänzen oder parallel verlaufen können. Die
+TRPC-Kanäle sind nahezu in allen Geweben und Organen exprimiert und ein
+spezifischer Zelltyp beinhaltet meist mehrere TRPC Mitglieder (Montell, 2005; Montell
+et al., 2002a). Die TRPC-Kanäle sind tetramer aufgebaut, d.h. vier Untereinheiten
+bilden einen funktionellen Kanal. Eine größere Komplexität, in der funktionellen
+Charakterisierung der Kanäle, ergibt sich, darüber hinaus, aus der Tatsache, dass die
+Mitglieder der TRPC Familie nicht nur als Homotetramere, sondern auch als
+Heterotetramere auftreten können. Dies ist sowohl in vivo als auch bei einer heterologen
+Expression möglich.
+So kann TRPC1 Heterotetramere mit TRPC4 und 5 bilden und die TRPC Subfamilien
+TRPC4/5 und TRPC3/6/7 können wiederum Heterotetramere untereinander ausbilden.
+Die Frage der Zusammensetzung, der in der Natur vorkommenden TRPC-Kanäle, ist
+nicht  geicht  zu  beantworten,  da  sich  die  Untereinheiten  in  heterologen  Expressionssystemen signifikant anders verhalten könnten als in nativen Zellen. Des
+Weiteren gibt es kaum wirklich spezifische Antikörper. Deshalb sind die Daten dazu in
+der gesamten Literatur teilweise widersprüchlich (Goel & Sinkins, 2002; Hofmann et
+al., 2002; Schilling & Goel, 2004; Strubing et al., 2001; Strubing et al., 2003).
+Verschiedene TRPC-Proteine scheinen also über verschiedene Mechanismen reguliert
+zu werden, wobei sich das Kopplungsmodell und das sekretionsähnliche Modell
+gegenseitig ergänzen anstatt auszuschließen. Der Mechanismus kann darüber hinaus
+auch vom Zelltyp und spezifisch exprimierten Adaptermolekülen beeinflusst werden.
+
+
+6.Zusammenfassung
+
+Ziel dieser Arbeit war es die Interaktion zwischen dem PDZ-Domänen enthaltenden
+Gerüstprotein PATJ und dem zur TRP-Ionenkanalfamilie gehörenden TRPC3 Kanal zu
+untersuchen. GST-pulldown Experimente als auch Ko-Immunpräzipitationsversuche
+konnten eine Bindung beider Partner zeigen. Das eingesetzte in vivo Verfahren konnte
+die Interaktion zwar nicht zeigen, aber dies scheint eher methodisch bedingt zu sein.
+Im Rahmen dieser Arbeit konnte eine wichtige Verknüpfung zweier unterschiedlicher
+Proteine hergestellt werden, die in der aktuellen Forschung hohes Interesse genießen.
+Auf der einen Seite stellt die transient receptor potential Ionenkanalfamilie eine der
+großen und wichtigen zellulären Ionenkanalgruppen dar, mit ubiquitärer Verbreitung in
+den meisten Zellen und Geweben bei Vertebraten. Zurzeit sind 29 TRP Isoformen,
+aufgeteilt in sieben Untergruppen, in Vertebraten ausgemacht worden. Ihre
+mannigfaltigen physiologischen Funktionen und insbesondere ihr pathophysiologisches
+Potential, bei speziellen Kanalopathien (siehe Kapitel 1.4), sind noch weitgehend
+unerforscht. Auf der anderen Seite dann PATJ, ein zehn PDZ-Domänen beinhaltendes
+Protein, bei dem bisher nur zwei direkte Interaktionspartner identifiziert werden
+konnten (Shin et al., 2006).
+
+Die Suche nach einem Zusammenhang beider Proteine, im Kontext des humanen
+Podozyten, einer polarisierten Epithelzelle im Glomerulus der Niere, ist die
+Hauptanstrengung in dieser Arbeit gewesen. Es konnte gezeigt werden, dass PATJ
+direkt mit TRPC3 interagieren kann und somit höchstwahrscheinlich eine Rolle in der
+Regulierung und Steuerung von TRPC3 spielt.
+
+
+7.Ausblick
+
+Im Rahmen weiterer Forschungen bezüglich neuer Regulations- und Bindungspartner
+von TRPC3 sind zusätzliche interessante und vielversprechende Kandidaten gefunden
+worden. Da es sich bei den Aktivierungs- und Steuerungsprozessen der TRPC
+Familienmitglieder um äußerst komplexe Vorgänge handelt, wird es noch einiger
+Anstrengung bedürfen, vollständige Gesamtmodelle entwickeln zu können.
+
+7.1 Homer1
+In einer Arbeit von Kim et al. konnte gezeigt werden, dass das Binden von IP3 am IP3Rezeptor die Bindung von Homer1 (H1) am IP3-Rezeptor inhibierte und somit zu einer
+Abspaltung des TRPC3-H1b/c-IP3Rs Komplexes führte (Kim et al. 2006). H1 reguliert
+also die Translokations- und Wiedergewinnungsrate von TRPC3 zur bzw. von der
+Plasmamembran. Zur gleichen Zeit konnte in einer vorherigen Arbeit validiert werden,
+dass der IP3-Rezeptor (Kiselyov et al, 1998) und seine N-terminale Domäne (Kiselyov
+et al. 1999), durch IP3-aktiviertes, TRPC3 binden konnte. TRPC3- und IP3Rinteragierende Domänen wurden anschließend identifiziert und charakterisiert (Boulay
+et al., 1999). Da die Bindung von IP3 am IP3-Rezeptor zu einer Dissoziation von H1
+vom IP3-Rezeptor und einer reduzierten Interaktion des IP3-Rezeptors mit TRPC3
+führte, werden Homer (H1) nun zwei verschiedene Rollen bei der Kontrolle der TRPC3
+Aktivität zugesprochen: Zum einen die Bahnung der TRPC3 Translokation und
+Wiederaufnahme von der Plasmamembran und zum anderen die Verstärkung und  Abschwächung der Interaktion zwischen TRPC3 und dem IP3-Rezeptor.
+TRPC-Kanäle werden also über Translokationsprozesse reguliert, welche auch durch
+Homer1 kontrolliert sind. Die Studie zeigte, dass in ruhenden Zellen sowohl heterolog
+exprimiertes als auch natives TRPC3 in TRPC3-H1b/c-IP3R Komplexen vorliegt,
+welche zum Teil an der Plasmamembran und in intrazellulären Vesikeln lokalisiert sind.
+Rezeptoraktivierung und Bindung von IP3 am IP3-Rezeptor verursachen eine
+Dissoziation dieser Komplexe. Diese Dissoziation resultiert in einer massiven
+Translokation von TRPC3 zur Plasmamembran und der Wiederaufnahme nach
+Beendigung der Stimulation (Kim et al., 2006). Abbildung 6.1 illustriert den möglichen
+Regulationsmechanismus.
+
+Abb. 7.1: Rolle von Homers bei der TRPC Regulation. a) zeigt das potentielle Modell, durch welches
+Homer1 die Aktivität von TRPC-Kanälen steuert. TRPC-Kanäle und IP3-Rs besitzen Homer-bindende
+Liganden. Im Ruhezustand sind die TRPC-Kanäle, durch einen (alle TRPC-Kanäle, außer TRPC1) bzw.
+zwei (TRPC1) Liganden, am langen H1b/c und IP 3-Rezeptor gebunden. In diesem Komplex unterdrückt
+H1b/c die Interaktion zwischen den Kanälen, so dass diese inaktiv bleiben. Bei Erregung der Zelle wird
+H1a hochreguliert und ersetzt H1b/c. Diese Änderung führt zu einer spontanen Aktivierung der Kanäle.
+b) zeigt das potentielle Model, durch welches Homer1 die Translokation der TRPC-Kanäle reguliert. Der
+intrazelluläre, vesikuläre Pool von TRPC-Kanälen existiert in TRPC-H1b/c-IP3R Komplexen. Eine
+Zellstimulation generiert hohe IP3 Konzentrationen. Die Bindung von IP3 am IP3-R löst die Bindung von
+IP3-Rs mit H1b/c, wobei H1b/c mit den TRPC-Kanälen verbunden bleibt. Das Resultat in eine
+Aktivierung von TRPC-Kanälen und ermöglicht gleichzeitig die Reassoziation von IP 3-Rs mit H1b/c und
+die Wiederaufnahme des Komplexes nach Beendigung der Zellstimulation. Eine Speicherentleerung und
+H1a können ebenfalls für eine Dissoziation der TRPC-H1b/c-IP3-R Komplexe sorgen und somit für eine
+Aktivierung der TRPC-Kanäle und ein entsprechenden Ca2+ Influx sorgen.
+
+7.2 STIM1
+Ein weiterer Kandidat für die Regulierung der TRPC-Kanäle ist das stromal interacting
+molecule 1 (STIM1). Es konnte gezeigt werden das STIM1 in der Lage ist TRPC1,
+TRPC4 und TRPC5 zu binden, jedoch nicht TRPC3, TRPC6 und TRPC7 (Huang et al.,
+2006). Zusätzlich wurde entdeckt, das STIM1 natives TRPC1 in Thrombozyten bindet
+(Lopez et al., 2006) und in Komplexen in der Form von TRPC1-STIM1-Orail vorliegt
+(Ong et al., 2007).
+
+STIM1 ist also in der Lage TRPC1, TRPC4 und TRPC5 auf direktem Wege zu steuern.
+Darüber hinaus kann STIM1 über eine indirekte Wirkung, TRPC3 und TRPC6 durch
+Beeinflussung der Komposition der Heterotetramere mit TRPC1, TRPC4 und TRPC6,
+regulieren. Für TRPC7 konnte keinerlei Wechselwirkung mit STIM1 festgestellt
+werden (Juan et al., 2007). STIM1 scheint nicht obligatorisch für die TRPCKanalfunktion zu sein. Allerdings ist STIM1 obligatorisch für die Aktivierung der
+TRPC-Kanäle durch eine Rezeptorstimulation (Juan et al., 2007). Diese neuen
+Erkenntnisse lassen vermuten, dass alle TRPC-Kanäle, mit Ausnahme von TRPC7, als
+SOCs fungieren und einen großen Teil des Rezeptor-stimulierten Ca2+ Influxes
+vermitteln.
+
+7.3 RNF24
+In einer aktuellen Studie von Lussier et al. wurde in einem Yeast two-hybrid screen ein
+neues Protein gefunden, welches eine spezifische Interaktion mit TRPC6 und weiteren
+Mitgliedern dieser Familie eingehen konnte (Lussier et al., 2007). Insbesondere die
+ARD (Ankyrin-repeats domain) von TRPC6 interagierte mit RNF24, einem neuen
+RING-H2 Motiv Protein, das hauptsächlich im Golgi-Apparat verbreitet ist. Diese
+Interaktion verursacht eine intrazelluläre Retention der TRPC-Kanäle ohne dabei
+Einfluss auf ihr Aktivitätsniveau zu nehmen.
+Es konnte bereits gezeigt werden das ARDs eine entscheidende Rolle bei der
+Lokalisation der TRPC-Kanäle spielen. So konnte Wedel zeigen, dass eine
+Deletionsmutante von TRPC3, bei der die ersten 199 Aminosäuren fehlten, also die
+gesamte ARD, intrazellulär reteniert blieb und keine Kanäle in der Plasmamembran zu
+finden waren (Wedel et al, 2003).
+Diese Studien legen nahe, dass die Ankyrin-repeats domain von TRPC-Kanälen,
+genauer die ersten Ankyrin-ähnlichen Wiederholungen, eine wichtige Funktion beim
+Targeting  und  der  Regulation  der  TRPC-Kanäle  inne  haben. 
+
+8.Bibliographie
+
+1.
+
+Ahola H, Heikkila E, Astrom E, Inagaki M, Izawa I, Pavenstadt H,
+Kerjaschki D, Holthofer H (2003): „A novel protein, densin, expressed by
+glomerular podocytes.”
+J Am Soc Nephrol 14: 1731-1737
+
+2.
+
+Benham CD, Davis JB, Randall AD (2002): „Vanilloid and TRP channels: a
+family of lipid-gated cation channels.”
+Neuropharmacology 42 (7): 873-888
+
+3.
+
+Benzing T (2004): „Signaling at the slit diaphragm.”
+J Am Soc Nephrol 15: 1382-1391
+
+4.
+
+Bergdahl A, Gomez M, Wihlborg AK, Erlinge D, Eyjolfson A, Xu SZ, Beech
+D, Dreja K, Hellstrand P (2005): „Plasticity of TRPC expression in arterial
+smooth muscle: correlation with store-operated Ca2+ entry.”
+Am J Physiol Cell Physiol 288: 872-880
+
+5.
+
+Berridge MJ, Irvine RF (1989): „Inositol phosphates and cell signalling.”
+Nature 341: 197-205
+
+6.
+
+Birnbaumer L, Zhu X, Jiang M, Boulay G, Peyton M, Vannier B, Brown D,
+Platano D, Sadeghi H, Stefani E, Birnbaumer M (1996): „On the molecular
+basis and regulation of cellular capacitative Ca2+ entry: roles for Trp proteins.”
+Proc Natl Acad Sci USA 93: 15195-15202
+
+7.
+
+Blattner S, Kretzler M (2005): „Integrin-linked kinase in renal disease:
+connecting cell-matrix interaction to the cytoskeleton.”
+Curr Opin Nephrol Hypertens 14: 404-410
+
+8.
+
+Bloomquist B, Shortridge R, Schneuwly S, Perdew M, Montell C, Steller H,
+Rubin G, Pak W (1988): „Isolation of a putative phospholipase C gene of
+Drosophila, norpA, and its role in phototransduction.”
+Cell 54: 723-733
+
+9.
+
+Boulay G, Brown DM, Qin N, Jiang M, Dietrich A, Zhu MX, Chen Z,
+Birnbaumer M, Mikoshiba K, Birnbaumer L (1999): „Modulation of Ca(2+)
+entry by polypeptides of the inositol 1,4, 5-trisphosphate receptor (IP3R) that
+bind transient receptor potential (TRP): evidence for roles of TRP and IP3R in
+store depletion-activated Ca(2+) entry.”
+Proc Natl Acad Sci USA 96: 14955-14960
+
+10.
+
+Clapham DE, Runnels LW, Strubing C (2001): „The TRP ion channel
+family.”
+Nat Rev Neurosci 2: 387-396
+
+11.
+
+Clapham DE, Montell C, Schultz G, Julius D (2003): „International Union of
+Pharmacology. XLIII. Compendium of voltage-gated ion channels: transient
+receptor potential channels.”
+Pharmacol Rev 55 (4): 591-596
+
+12.
+
+Colas P, Brent R (1998): „The impact of two-hybrid and related methods in
+biotechnology.”
+Trends Biotechnol 16: 355-363
+
+13.
+
+Cosens D, Manning A (1969): „Abnormal electroretinogram of a Drosophila
+mutant.”
+Nature 224: 285-287
+
+14.
+
+Delmas P (2004): „Polycystins: from mechanosensation to gene regulation.”
+Cell 118: 145-148
+
+15.
+
+Delmas P, Padilla F, Osorio N, Coste B, Raoux M, Crest M (2004):
+„Polycystins, calcium signaling, human diseases.“
+Biochem Biophys Res Commun 322: 1374-1383
+
+16.
+
+Dietrich A, Mederos Y, Schnitzler M, Gollasch M, Gross V, Storch U,
+Dubrovska G, Obst M, Yildirim E, Salanova B, Kalwa H, Essin K,
+Pinkenburg O, Luft F, Gudermann T, Birnbaumer L (2005): „Increased
+vascular smooth muscle contractility in TRPC6-/-Mice.”
+Mol Cell Bio 25: 6980-6989
+
+17.
+
+Donoviel DB, Freed DD, Vogel H, Potter DG, Hawkins E, Barrish JP,
+Mathur BN, Turner CA, Geske R, Montgomery CA, Starbuck M, Brandt
+M, Gupta A, Ramirez-Solis R, Zambrowicz BP, Powell DR 2001:
+„Proteinuria and perinatal lethality in mice lacking NEPH1, a novel protein with
+homology to Nephrin.”
+Mol Cell Biol 21: 4829-4836
+
+18.
+
+Drenckhahn D, Franke RP (1988): „Ultrastructural organization of contractile
+and cytoskeletal proteins in glomerular podocytes of chicken, rat, and man.”
+Lab Invest 59: 673-682
+
+19.
+
+Endlich N, Kress KR, Reiser J, Uttenweiler D, Kriz W, Mundel P, Endlich
+K (2001): „Podocytes respond to mechanical stress in vitro.”
+J Am Soc Nephrol 12: 413-422
+
+20.
+
+Endlich N, Endlich K (2006): „Stretch, tension and adhesion – adaptive
+mechanisms of the actin cytoskeleton in podocytes.”
+Eur J Cell Biol 85: 229-234
+
+
+21.
+
+Fantozzi I, Zhang S, Platoshyn O, Remillard CV, Cowling RT, Yuan JX
+(2003): “Hypoxia increases AP-1 binding activity by enhancing capacitative
+Ca2+ entry in human pulmonary artery endothelial cells.”
+Am J Physiol Lung Cell Mol Physiol 285: L1233-45
+
+22.
+
+Freichel M, Suh SH, Pfeifer A, Schweig U, Trost C, Weissgerber P, Biel M,
+Philipp S, Freise D, Droogmans G, Hofmann F, Flockerzi V, Nilius B 2001):
+„Lack of an endothelial store-operated Ca2+ current impairs agonist-dependent
+vasorelaxation in TRP4-/- mice.”
+Nat Cell Biol 3: 121-7
+
+23.
+
+Friedrich C, Endlich N, Kriz W, Endlich K (2006): „Podocytes are sensitive
+to fluid shear stress in vitro.“
+Am J Physiol Renal Physiol 291: F856-F865
+
+24.
+
+Giamarchi A, Padilla F, Coste B, Raoux M, Crest M, Honoré E, Delmas P
+(2006): „The versatile nature of the calcium-permeable cation channel TRPP2.”
+EMBO Rep 7 (8): 787-93
+
+25.
+
+Goel M, Sinkins WG, Schilling WP (2002): „Selective Association of TRPC
+Channel Subunits in Rat Brain Synaptosomes.“
+J Biol Chem 277 (50): 48303-48310
+
+26.
+
+Gomez T. (2005): „channels for pathfinding.”
+Nature 434: 835-838
+
+27.
+
+Grantham JJ (1993): „Polycystic kidney disease: hereditary and acquired.”
+Adv Intern Med 38: 409-420
+
+28.
+
+Hardie R, Minke B (1992): „The trp gene is essential for a light-activated Ca2+
+channel in Drosophila photoreceptors.“
+Neuron 8: 643-651
+
+29.
+
+Hardie R, Raghu P (2001): „Visual transduction in Drosophila.“
+Nature 413: 186-193
+
+30.
+
+Harteneck C, Plant TD, Schultz G (2000): „From worm to man: three
+subfamilies of TRP channels.”
+Trends Neurosci 23: 159-166
+
+31.
+
+Hofmann T, Obukhov AG, Schaefer M, Harteneck C, Gudermann T,
+Schultz G (1999): „Direct activation of human TRPC6 and TRPC3 channels by
+diacylglycerol.”
+Nature 397: 259-263
+
+32.
+
+Hofmann T, Schaefer M, Schultz G, Gudermann T (2000): „Cloning,
+expression and subcellular localization of two novel splice variants of mouse
+transient receptor potential channel 2.“
+Biochem J 351: 115-122
+
+33.
+
+Hofmann T, Schaefer M, Schultz G, Gudermann T (2002): „Subunit
+composition of mammalian transient receptor potential channels in living cells.”
+Proc Natl Acad Sci USA 99: 7461–7466
+
+34.
+
+Huang GN, Zeng W, Kim JY, Yuan YP, Han L, Muallem S, Worley PF
+(2006): „STIM1 carboxyl-terminus activates native SOC, I(crac) and TRPC1
+channels.”
+Nat Cell Biol 8: 1003-1010
+
+35.
+
+Huber TB, Benzing T (2005): „The slit diaphragm: a signalling platform to
+regulate podocyte function.”
+Curr Opin Nephrol Hypertens 14: 211-216
+
+36.
+
+Hung AY, Sheng M (2002): „PDZ domains: structural modules for protein
+complex assembly.”
+J Biol Chem 277: 5699-5702
+
+37.
+
+Ihalmo P, Palmen T, Ahola H, Valtonen E, Holthofer H (2003): „Filtrin is a
+novel member of nephrin-like proteins.”
+Biochem Biophys Res Commun 300: 364-370
+
+38.
+
+Inoue T, Yaoita E, Kurihara H, Shimizu F, Sakai T, Kobayashi T, Ohshiro
+K, Kawachi H, Okada H, Suzuki H, Kihara I, Yamamoto T (2001): „FAT is
+a component of glomerular slit diaphragms.”
+Kidney Int 59: 1003-1012
+
+39.
+
+Jungnickel MK, Marrero H, Birnbaumer L, Lemos JR, Flormann HM
+(2001): „Trp2 regulates entry of Ca2+ into mouse sperm triggered by egg ZP3.”
+Nat Cell Biol 3 (5): 499-502
+
+40.
+
+Kim JM, Wu H, Green G, Winkler CA, Kopp JB, Miner JH, Unanue ER,
+Shaw AS (2003): „CD2-associated protein haploinsufficiency is linked to
+glomerular disease susceptibility.”
+Science 300: 1298-1300
+
+41.
+
+Kim E, Sheng M (2004): „PDZ domain proteins of synapses.”
+Nat Rev Neurosci 5: 771-781
+
+42.
+
+Kim JY, Zeng W, Kiselyov K, Yuan JP, Dehoff MH, Mikoshiba K, Worley
+PF, Muallem S (2006): „ Homer 1 mediates store- and inositol 1,4,5trisphosphate receptor-dependent translocation and retrieval of TRPC3 to the
+plasma membrane.”
+J Biol Chem 281: 32540-32549
+
+43.
+
+Kiselyov K, Xu X, Mozhayeva G, Kuo T, Pessah I, Mignery G, Zhu X,
+Birnbaumer L, Muallem S (1998): „Functional interaction between InsP3
+receptors and store-operated Htrp3 channels.”
+Nature 396: 478-482
+
+44.
+
+Kiselyov K, Mignery GA, Zhu MX, Muallem S (1999): „The N-terminal
+domain of the IP3 receptor gates store-operated hTrp3 channels.”
+Mol Cell 4: 423-429
+
+45.
+
+Kozlov G, Gehring K, Ekiel I (2000): „Solution structure of the PDZ2 domain
+from human phosphatase hPTP1E and its interactions with C-terminal peptides
+from the Fas receptor.”
+Biochemistry 39: 2572-2580
+
+46.
+
+Kurschner C, Mermelstein PG, Holden WT, Surmeier DJ (1997): „CIPP, a
+novel multivalent PDZ domain protein, selectively interacts with Kir4.0 family
+members, NMDA receptor subunits, neurexins, and neuroligins.”
+Mol Cell Neurosci 11: 161-172
+
+47.
+
+Landsberg JW, Yuan JX (2004): „Calcium and TRP channels in pulmonary
+vascular smooth muscle cell proliferation.”
+News Physiol Sci 19: 44-50
+
+48.
+
+Lee DB, Huang E, Ward HJ (2006): „Tight junction biology and kidney
+dysfunction.”
+Am J Physiol Renal Physiol 290: F20-F34
+
+49.
+
+Lehtonen S, Ryan JJ, Kudlicka K, Iino N, Zhou H, Farquhar MG (2005):
+„Cell junction-associated proteins IQGAP1, MAGI-2, CASK, spectrins, and
+alpha-actinin are components of the nephrin multiprotein complex.”
+Proc Natl Acad Sci USA 102: 9814-9819
+
+50.
+
+Lemmers C, Medina E, Delgrossi MH, Michel D, Arsanto JP, Le BA (2002):
+„hINADl/PATJ, a homolog of discs lost, interacts with crumbs and localizes to
+tight junctions in human epithelial cells.”
+J Biol Chem 277: 25408-25415
+
+51.
+
+Liman ER, Corey DP, Dulac C (1999): „Trp2: a candidate transduction
+channel for mammalian pheromone sensory signaling.”
+Proc Natl Acad Sci USA 96 (10): 5791-5796
+
+52.
+
+Li X, Luo Y, Starremans PG, McNamara CA, Pei Y, Zhou J (2005):
+„Polycystin-1 and polycystin-2 regulate the cell cycle through the helix-loophelix inhibitor Id2.”
+Nat Cell Biol 7: 1102-1112
+
+53.
+
+Li Y, Karnak D, Demeler B, Margolis B, Lavie A (2004): „Structural basis for
+L27 domain-mediated assembly of signaling and cell polarity complexes.”
+EMBO J 23: 2723-2733
+
+54.
+
+Lockwich T, Singh BB, Liu X, Ambudkar IS (2001): „Stabilization of
+Cortical Actin Induces Internalization of Transient Receptor Potential 3 (Trp3)associated Caveolar Ca2+ Signaling Complex and Loss of Ca2+ Influx without
+Disruption of Trp3-Inositol Trisphosphate Receptor Association.“
+J Biol Chem 276 (45): 42401-42408
+
+55.
+
+Lopez JJ, Salido GM, Pariente JA, Rosado JA (2006): „Interaction of STIM1
+with endogenously expressed human canonical TRP1 upon depletion of
+intracellular Ca2+ stores.”
+J Biol Chem 281: 28254-28264
+
+56.
+
+Lussier MP, Lepage PK, Bousquet SM, Boulay G (2007): „RNF24, a new
+TRPC interacting protein, causes the intracellular retention of TRPC.”
+Cell Calcium
+
+57.
+
+Maier T, Grgic I, Bush C, Hoyer J, Kohler R (2005): „Endotheliale
+Ionenkanäle – neue Targets der Hypertonietherapie.”
+Dtsch Med Wochenschr 130: 2637-2639
+
+58.
+
+Minke B, Cook B (2002): „TRP channel proteins and signal transduction.”
+Physiol Rev 82 (2), 429-472
+
+59.
+
+Montell C (2005): „Drosophila TRP channels.”
+Eur J Physiol 451: 19-28
+
+60.
+
+Montell C, Rubin G (1989): „Molecular characterization of the Drosophila trp
+locus: a putative integral membrane protein required for phototransduction.”
+Neuron 2: 1313-1323
+
+61.
+
+Montell C, Birnbaumer L, Flockerzi V (2002a): „The TRP channels, a
+remarkably functional family.”
+Cell 108: 595-598
+
+62.
+
+Montell C, Birnbaumer L, Flockerzi V, Bindels RJ, Bruford EA, Caterina
+MJ, Clapham DE, Harteneck C, Heller S, Julius D, Kojima I, Mori Y,
+Penner R, Prawitt D, Scharenberg AM, Schultz G, Shimizu N, Zhu MX
+(2002b): „A unified nomenclature for the superfamily of TRP cation channels.“
+Mol Cell 9 (2): 229-231
+
+63.
+
+Niemeyer B, Suzuki E, Scott K, Jalink K, Zuker C (1996): „The Drosophila
+light-activated conductance is composed of the two channels TRP and TRPL.”
+Cell 85: 651-659
+
+64.
+
+Niethammer M, Valtschanoff JG, Kapoor TM, Allison DW, Weinberg RJ,
+Craig AM, Sheng M (1998): „CRIPT, a novel postsynaptic protein that binds
+to the third PDZ domain of PSD-95/SAP90.”
+Neuron 20: 693-707
+
+65.
+
+Ong HL, Cheng KT, Liu X, Bandyopadhyay BC, Paria BC, Soboloff J, Pani
+B, Gwack Y, Srikanth Y, Singh BB, Gill D, Ambudkar IS (2007): „Dynamic
+assembly of TRPC1/STIM1/Orai1 ternary complex is involved in store operated
+calcium influx: evidence for similarities in SOC and CRAC channel
+components.”
+J Biol Chem
+
+66.
+
+Parekh AB, Penner R (1997): „Store depletion and calcium influx.”
+Physiol Rev 77 (4): 901-930
+
+67.
+
+Pavenstadt H, Kriz W, Kretzler M (2003): „Cell biology of the glomerular
+podocyte.”
+Physiol Rev 83: 253-307
+
+68.
+
+Pedersen S, Owsianik G, Nilius B (2005): „TRP channels: an overview.”
+Cell Calcium 38: 233-252
+
+69.
+
+Penkert RR, DiVittorio HM, Prehoda KE (2004): „Internal recognition
+through PDZ domain plasticity in the Par-6-Pals1 complex.”
+Nat Struct Mol Biol 11: 1122-1127
+
+70.
+
+Phillips A, Bull A, Kelly L (1992): „Identification of a Drosophila gene
+encoding a calmodulin-binding protein with homology to the trp
+phototransduction gene.”
+Neuron 8: 631-642
+
+71.
+
+Philipp S, Flockerzi V (1997): „Molecular characterization of a novel human
+PDZ domain protein with homology to INAD from Drosophila melanogaster.”
+FEBS Lett 413 (2): 243-8
+
+72.
+
+Ponting CP (1997): „Evidence for PDZ domains in bacteria, yeast, and plants.”
+Protein Sci 6: 464-468
+
+73.
+
+Putney JW (1977): „Muscarinic, alpha-adrenergic and peptide receptors
+regulate the same calcium influx sites in the parotid gland.”
+J Physiol 268: 139-149
+
+74.
+
+Putney JW, McKay RR (1999): „Capacitative calcium entry channels.”
+Bio Essays 21: 38-46
+
+75.
+
+Raats C, van den Born J, Bakker M, Oppers-Walgreen B, Pisa PJ, Dijkman
+HB, Assmann KJ, Berden JH (2000): „Expression of agrin, dystroglycan, and
+utrophin in normal renal tissue and in experimental glomerulopathies.”
+Am J Pathol 156 (5): 1749-1765
+
+76.
+
+Regele H, Fillipovic E, Langer B, Poczewski H, Kraxberger I, Bittner RE,
+Kerjaschki D (2000): „Glomerular expression of dystroglycans is reduced in
+minimal change nephrosis but not in focal segmental glomerulosclerosis.“
+J Am Soc Nephrol 11 (3): 403-412
+
+77.
+
+Reiser J, Kriz W, Kretzler M, Mundel P (2000): „The glomerular slit
+diaphragm is a modified adherens junction.”
+J Am Soc Nephrol 11: 1-8
+
+78.
+
+Reiser J, Oh J, Shirato I, Asanuma K, Hug A, Mundel TM, Honey K,
+Ishidoh K, Kominami E, Kreidberg JA, Tomino Y, Mundel P (2004):
+„Podocyte migration during nephrotic syndrome requires a coordinated interplay
+between cathepsin L and alpha3 integrin.“
+J Biol Chem 279: 34827-34832
+
+79.
+
+Reiser J, Polu KR, Moller CC, Kenlan P, Altintas MM, Wei C, Faul C,
+Herbert S, Villegas I, Avila-Casado C, McGee M, Sugimoto H, Brown D,
+Kalluri R, Mundel P, Smith PL, Clapham DE, Pollak MR (2005): „TRPC6 is
+a glomerular slit diaphragm-associated channel required for normal renal
+function.”
+Nat Genet 37: 739-744
+
+80.
+
+Roh MH, Liu CJ, Laurinec S, Margolis B (2002): „The carboxyl terminus of
+zona occludens-3 binds and recruits a mammalian homologue of discs lost to
+tight junctions.”
+J Biol Chem 277: 27501-27509
+
+81.
+
+Rosado JA, Sage SO (2001): „Activation of store-mediated calcium entry by
+secretion-like coupling between the inositol 1,4,5-trisphosphate receptor type II
+and human transient receptor potential (hTrp1) channels in human platelets.“
+Biochem J 356: 191-198
+
+82.
+
+Rosado JA, Brownlow SL, Sage SO (2002): „Endogenously expressed Trp1 is
+involved in store-mediated Ca 2+ entry by conformational coupling in human
+platelets.”
+J Biol Chem 277 (44): 42157-42163
+
+83.
+
+Roselli S, Gribouval O, Boute N, Sich M, Benessy F, Attie T, Gubler MC,
+Antignac C (2002): „Podocin localizes in the kidney to the slit diaphragm area.”
+Am J Pathol 160: 131-139
+
+
+84.
+
+Roselli S, Heidet L, Sich M, Henger A, Kretzler M, Gubler MC, Antignac C
+(2004): „Early glomerular filtration defect and severe renal disease in podocindeficient mice.”
+Mol Cell Biol 24: 550-560
+
+85.
+
+Saras J, Heldin CH (1996): „PDZ domains bind carboxy-terminal sequences of
+target proteins.”
+Trends Biochem Sci 21: 455-458
+
+86.
+
+Schilling WP, Goel M (2004): „Mammalian TRPC channel subunit assembly.”
+Novartis Found Symp 258: 18–30, discussion 30–43, 98–102, 263–266
+
+87.
+
+Schlingmann KP, Weber S, Peters M, Niemann Nejsum L, Vitzthum H,
+Klingel K, Kratz M, Haddad E, Ristoff E, Dinour D, Syrrou M, Nielsen S,
+Sassen M, Waldegger S, Seyberth HW, Konrad M (2002):
+„Hypomagnesemia with secondary hypocalcemia is caused by mutations in
+TRPM6, a new member of the TRPM gene family.”
+Nat Genet 31: 166-170
+
+88.
+
+Schnabel E, Anderson JM, Farquhar MG (1990): „The tight junction protein
+ZO-1 is concentrated along slit diaphragms of the glomerular epithelium.”
+J Cell Biol 111: 1255-1263
+
+89.
+
+Sellin L, Huber TB, Gerke P, Quack I, Pavenstadt H, Walz G (2003):
+„NEPH1 defines a novel family of podocin interacting proteins.”
+FASEB J 17: 115-117
+
+90.
+
+Shih NY, Li J, Karpitskii V, Nguyen A, Dustin ML, Kanagawa O, Miner
+JH, Shaw AS (1999): „Congenital nephrotic syndrome in mice lacking CD2associated protein.”
+Science 286: 312-315
+
+91.
+
+Shin K, Straight S, Margolis B (2005): „PATJ regulates tight junction
+formation and polarity in mammalian epithelial cells.”
+J Cell Biol 168: 705-711
+
+92.
+
+Shin K, Fogg VC, Margolis B (2006): „Tight junctions and cell polarity.”
+Annu Rev Cell Dev Biol 22: 207-235
+
+93.
+
+Somlo S, Markowitz GS (2000): „The pathogenesis of autosomal dominant
+polycystic kidney disease: an update.”
+Curr Opin Nephrol Hypertens 9: 385-394
+
+94.
+
+Songyang Z, Fanning AS, Fu C, Xu J, Marfatia SM, Chishti AH, Crompton
+A, Chan AC, Anderson JM, Cantley LC (1997): „Recognition of unique
+carboxyl-terminal motifs by distinct PDZ domains.”
+Science 275: 73-77
+
+95.
+
+Stiffler MA, Grantcharova VP, Sevecka M, MacBeath G (2006):
+„Uncovering quantitative protein interaction networks for mouse PDZ domains
+using protein microarrays.”
+J Am Chem Soc 128: 5913-5922
+
+96.
+
+Strotmann R, Harteneck C, Nunnenmacher K, Schultz G, Plant TD (2000):
+„OTRPC4, a nonselective cation channel that confers sensitivity to extracellular
+osmolarity.”
+Nat Cell Biol 2 (10): 695-702
+
+97.
+
+Strubing C, Krapivinsky G, Krapivinsky L, Clapham DE (2001): „TRPC1
+and TRPC5 form a novel cation channel in mammalian Brain.”
+Neuron 29: 645–655
+
+98.
+
+Strubing C, Krapivinsky G, Krapivinsky L, Clapham DE (2003):
+„Formation of novel TRPC channels by complex subunit interactions in
+embryonic brain.”
+J Biol Chem 278: 39014–39019
+
+99.
+
+Sutters M, Germino GG (2003): „Autosomal dominant polycystic kidney
+disease: molecular genetics and pathophysiology.”
+J Lab Clin Med 141: 91-101
+
+100.
+
+Tang Y, Tang J, Chen Z, Trost C, Flockerzi V, Li M, Ramesh V, Zhu MX
+(2000): „Association of Mammalian Trp4 and Phospholipase C Isozymes with a
+PDZ Domain-containing Protein, NHERF.“
+J Biol Chem 275 (48): 37559-37564
+
+101.
+
+Tiruppathi C, Minshall RD, Paria BC, Vogel SM, Malik AB (2002): „Role of
+Ca2+ signaling in the regulation of endothelial permeability.”
+Vascul Pharmacol 39: 173-85
+
+102.
+
+Touyz RM, He Y, Montezano AC, Yao G, Chubanov V, Gudermann T,
+Callera GE (2005): „Differential regulation of TRPM6/7 cation channels by
+ANG II in vascular smooth muscle cells from spontaneously hypertensive rats.”
+Am J Physiol Regul Integr Comp Physiol 290: R73-8
+
+103.
+
+Tryggvason K, Patrakka J, Wartiovaara J (2006): „Hereditary proteinuria
+syndromes and mechanisms of proteinuria.”
+N Engl J Med 354: 1387-1401
+
+104.
+
+Tsukaguchi H, Sudhakar A, Le TC, Nguyen T, Yao J, Schwimmer JA,
+Schachter AD, Poch E, Abreu PF, Appel GB, Pereira AB, Kalluri R, Pollak
+MR (2002): „NPHS2 mutations in late-onset focal segmental
+glomerulosclerosis: R229Q is a common disease-associated allele.”
+J Clin Invest 110: 1659-1666
+
+105.
+
+Uetz P, Giot L, Cagney G, Mansfield TA, Judson RS, Knight JR, Lockshon
+D, Narayan V, Srinivasan M, Pochart P, Qureshi-Emili A, Li Y, Godwin B,
+Conover D, Kalbfleisch T, Vijayadamodar G, Yang M, Johnston M, Fields
+S, Rothberg JM (2000): „A comprehensive analysis of protein-protein
+interactions in Saccharomyces cerevisiae.”
+Nature 403: 623-627
+
+106.
+
+van de Graaf SFJ, Hoenderop JGJ, Gkika D, Lamers D, Prenen J, Rescher
+U, Gerke V, Staub O, Nilius B, Bindels RJM (2003): „Functional expression
+the epithelial Ca2+ channels (TRPV5 and TRPV6) requires association of the
+S100A10-annexin 2 complex.“
+EMBO J 22 (7): 1478-1487
+
+107.
+
+van Huizen R, Miller K, Chen DM, Li Y, Lai ZC, Raab RW, Stark WS,
+Shortridge RD, Li M (1998): „Two distantly positioned PDZ domains mediate
+multivalent INAD-phospholipase C interactions essential for G protein-coupled
+signalling.”
+EMBO J 17 (8): 2285-2297
+
+108.
+
+Vannier B, Peyton M, Boulay G, Brown D, Qin N, Jiang M, Zhu X,
+Birnbaumer L (1996): „Mouse trp2, the homologue of the human trpc2
+pseudogene, encodes mTrp2, a storedepletion-activated capacitative Ca2+ entry
+channel.”
+Proc Natl Acad Sci USA 96: 2060-2064
+
+109.
+
+Vennekens R, Voets T, Bindels RJM, Droogmans G, Nilius B (2002):
+„Current understanding of mammalian TRP homologues.”
+Cell Calcium 31: 253-264
+
+110.
+
+Voets T, Nilius B (2003): „TRPs make sense.”
+J Membr Biol 192: 1-8
+
+111.
+
+Walder RY, Landau D, Meyer P, Shalev H, Tsolia M, Borochowitz Z,
+Boettger MB, Beck GE, Englehardt RK, Carmi R, Sheffield VC (2002):
+„Mutation of TRPM6 causes familial hypomagnesemia with secondary
+hypocalcemia.”
+Nat Genet 31: 171-174
+
+112.
+
+Walz G (2003): „Der Internist“
+Springer Verlag
+
+113.
+
+Wedel BJ, Vazquez G, McKay RR, Bird GS, Putney JW (2003): „A
+calmodulin/inositol 1,4,5-trisphosphate (IP3) receptor-binding region targets
+TRPC3 to the plasma membrane in a calmodulin/IP3 receptorindependent
+process.”
+J Biol Chem 278: 25758-25765
+
+114.
+
+Welsh DG, Morielli AD, Nelson MT, Brayden JE (2002): „Transient receptor
+potential channels regulate myogenic tone of resistance arteries.”
+Circ Res 90: 248-50
+
+115.
+
+Winn MP, Daskalakis N, Spurney RF, Middleton JP. (2006): „Unexpected
+role of TRPC6 channel in familial nephritic syndrome: does it have clinical
+implications?”
+J Am Soc Nephrol 17: 378-387
+Wu G, Somlo S (2000): „Molecular genetics and mechanism of autosomal
+dominant polycystic kidney disease.”
+Mol Genet Metab 69: 1-15
+
+116.
+
+117.
+
+Yip H, Chan WY, Leung PC, Kwan HY, Liu C, Huang Y, Michel V, Yew D,
+Yao X (2004): „Expression of TRPC homologs in endothelial cells and smooth
+muscle layers of human arteries.”
+Histochem Cell Biol 122: 553-561
+
+118.
+
+Yuan JP, Zeng W, Huang GN, Worley PF, Muallem S (2007): „STIM1
+heteromultimerizesTRPCchannels to determine their function as storeoperated
+channels.”
+Nat Cell Biol 9: 636-645
+
+119.
+
+Yu Y, Fantozzi I, Remillard CV, Landsberg JW, Kunichika N, Platoshyn O,
+Tigno DD, Thistlethwaite PA, Rubin LJ, Yuan JX (2004): „Enhanced
+expression of transient receptor potential channels in idiopathic pulmonary
+arterial hypertension.”
+Proc Natl Acad Sci USA 101: 13861-6
+
+120.
+
+Zitt C, Halaszovich CR, Luckhoff A (2002): „The TRP family of cation
+channels: probing and advancing the concepts on receptor-activated calcium
+entry.”
+Prog Neurobiol 66: 243-264
+
+102

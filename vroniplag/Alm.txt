@@ -1,0 +1,416 @@
+Analyse der Korrelation des Transrektalen Ultraschalls (TRUS) mit dem korrespondierenden histologischen Befund in der Prostata
+
+1.Einleitung
+1.1Verbreitung und Ursachenfaktoren des Prostatakarzinoms
+1.1.1Epidemiologie
+Das Prostatakarzinom ist in den westlichen Industrieländern der am häufigsten diagnostizierte maligne Tumor des älteren Mannes und die dritthäufigste zum Tode führende Neubildung [Jemal et al. 2005, Luboldt et al. 2001].
+
+In den USA erhöhte sich die Zahl der Neuerkrankungen von ehemals 64.000 im Jahre 1979 auf 244.000 im Jahre 1995 [Parker et al. 1997].
+
+
+Heute liegt die Inzidenz bei über 235.000 Fällen pro Jahr. Diese Zahl übersteigt weit die Häufigkeit anderer neu entdeckter Malignome: Bronchialkarzinom 92.000, Kolon- und Rektumkarzinom 71.000, Blasenkarzinom 50.000 Erkrankte pro Jahr (American Cancer Society 2006).
+
+
+In der Bundesrepublik Deutschland ist seit Ende der 80er Jahre ebenfalls ein kontinuierlicher Anstieg der Inzidenz zu verzeichnen, jedoch weniger deutlich als in den USA. Erkrankten 1991 etwa 16.000 Männer an einem Prostatakarzinom, waren es 1995 20.000 Neuerkrankungen [Hölzel et al. 1995].
+
+
+Derzeit werden jährlich etwa 58.000 Prostatakarzinome diagnostiziert. Damit ist die Prostata mit ca. 25,4% inzwischen die häufigste Lokalisation bösartiger Neubildungen beim Mann und hat damit 1998 erstmals das Bronchialkarzinom als führenden Tumor der Männer abgelöst [Arbeitsgemeinschaft Bevölkerungsbezogener Krebsregister in Deutschland 2008].
+
+
+Der Anstieg der Erkrankungsraten beruht neben dem zunehmenden Alter der Patienten auch auf der Einführung und Anwendung neuer spezifischer Methoden in der Diagnostik, insbesondere der Bestimmung des prostataspezifischen Antigens (PSA) [Smart et al. 1997].
+
+
+In den USA ist das Prostatakarzinom zur zweithäufigsten Todesursache geworden. Über 27.350 amerikanische Männer sterben jährlich an den Folgen des Karzinoms [American Cancer Society 2006], in Deutschland sind es jährlich etwa 11.000 Patienten. Bei den zum Tode führenden Krebserkrankungen steht das Prostatakarzinom in Deutschland somit mit
+7ca. 10% an dritter Stelle. Das mittlere Erkrankungsalter liegt bei 71 Jahren, 5 Jahre höher als für Krebs insgesamt. [Arbeitsgemeinschaft Bevölkerungsbezogener Krebsregister in Deutschland 2008].
+
+1.1.2Ätiologie und Pathogenese
+Die genaue Ätiologie des Prostatakarzinoms ist nicht abschließend geklärt. Es ist von einem multifaktoriellen Geschehen auszugehen, wobei folgende Einflussgrößen diskutiert werden:1.1.2.1.Ethnographische FaktorenDie schwarze Bevölkerung der USA erkrankt im Gegensatz zu anderen Bevölkerungsgruppen häufiger. So liegt die alterskorrigierte Inzidenz bei schwarzen Amerikanern bei 90/100.000 pro Jahr, bei weißen Amerikanern und Nordwesteuropäern bei 40-60/100.000 und bei Asiaten bei 2-10/100.000 pro Jahr [Keeley, Gomella 1996].
+
+Die unterschiedliche Häufigkeit des Prostatakarzinoms zwischen den ethnischen Gruppen wird von einigen Autoren auf eine abweichende Androgenkonzentration zurückgeführt [Wu et al. 1995].
+
+
+1.1.2.2.Diätische Faktoren
+Neben der rein ethnographischen Prädisposition scheinen auch Einflüsse der Umwelt und diätische Faktoren wie Verzehr fettreicher, faserarmer Nahrung, niedriger Konsum von Getreide, grüngelbem Gemüse und Soja in der Ausbildung eines Prostatakarzinoms bedeutend zu sein. So unterliegen Asiaten, die in die USA immigrierten, dem gleichen Erkrankungsrisiko wie die einheimische amerikanische Bevölkerung [Wingo et al. 1995, Whittemore et al. 1995].
+
+Auch der Body-Mass-Index (BMI) scheint einen Einfluss auf das Prostatakarzinom aufzuzeigen. In einer Studie von Moul et al. wurden bei Patienten mit einem BMI über 30 kg/m² häufiger pT3-Karzinome mit einem höheren Anteil von Lymphknotenmetastasen gefunden als bei Männern mit einem BMI unter 30 kg/m² . Des Weiteren waren adipöse Patienten zum Zeitpunkt der initialen Diagnosestellung deutlich jünger. [Amling et al. 2001].
+
+1.1.2.3.Genetische Faktoren
+Eine positive Familienanamnese ist mittlerweile als Risikofaktor für die Entstehung eines Prostatakarzinoms anerkannt [Kalish et al. 2000, Walsh et al. 1997, Waterbor et al. 1995]. Das Risiko, an einem Prostatakarzinom zu erkranken, ist umso höher, je mehr Fälle in der eigenen Familie zu finden sind [Villers et al. 1997]. Ebenso ist das Risiko vom Verwandtschaftsgrad abhängig. Sind Verwandte des 1. Grades (Vater oder Bruder) erkrankt, ist das Risiko am höchsten [Steinberg et al. 1990]. Außerdem wird das Erkrankungsrisiko umso größer, je jünger der Angehörige bei Diagnosestellung war [Carter et al. 1992].
+
+Über eine schlechtere Prognose für ein familiär gehäuft auftretendes Prostatakarzinom konstatieren viele Arbeitsgruppen [Wilson et al. 1984, Kupelian et al. 1997]. Dieser Zusammenhang konnte allerdings in aktuelleren Studien nicht belegt werden [Bratt et al. 1998, Bauer et al. 1998].
+
+
+1.1.2.4.Sexuelle Aktivität
+Eine große epidemiologische Studie aus Australien und Neuseeland zeigte einen reziproken Zusammenhang der sexuellen Aktivität mit der Wahrscheinlichkeit, an einem Prostatakarzinom zu erkranken. Je früher die erste Ejakulation des Befragten eintrat und je höher die Ejakulationsfrequenz pro Woche, v.a. in der zweiten und dritten Lebensdekade, desto niedriger liegt das relative Risiko, an einem Prostatakarzinom zu erkranken [Giles et al. 2003].
+
+1.2Prognose des Prostatakarzinoms
+Prognosefaktoren zur Vorhersage eines Rezidivs sind nach radikaler Prostatektomie der Gleason-Score des Prostatektomiepräparats, der Umfang der Kapselpenetration und der Status der chirurgischen Absetzungsränder [Kupelian et al. 1996].
+
+Aktuelle Studien zeigen nach radikaler Prostatektomie bei klinisch organbegrenztem Prostatakarzinom tumorspezifische Überlebensraten von über 90%. [Catalona et al. 1999]. Die aktuarische Wahrscheinlichkeit, innerhalb von 10 Jahren nach einer radikalen Prostatektomie bei klinisch organbegrenztem Prostatakarzinom ein biochemisches Rezidiv (= Wideranstieg des PSA) zu erleiden, liegt bei etwa 25 - 50% [Wirth und Fröhner 2000].
+
+
+Hat das Prostatakarzinom die Kapsel des Organs überschritten (Stadium T3), sinkt die Heilungswahrscheinlichkeit beträchtlich. Ein langfristig rezidivfreies Überleben kann durch die radikale Prostatektomie allein kaum erzielt werden [Gerber et al. 1997]. Gelingt es jedoch, den kapselüberschreitenden Tumor mit negativen Absetzungsrändern zu resezieren, so ist dennoch mit Heilungsraten von etwa 50% zu rechnen [Iselin et al. 1999].
+
+
+1.3Anatomie der Prostata
+1.3.1Morphologie und Lage
+Die Prostata ist ein ca. 3 cm langes, 4 cm breites und 2 cm dickes, kompaktes Organ und wiegt bei ausgewachsenen jungen Männern etwa 20-30 g [Benninghoff 2002]. Jenseits des40.Lebensjahres beginnt eine allmähliche Umstrukturierung der Prostata: Teile der Transitionszone verdicken sich, die periphere Zone hingegen bildet sich eher zurück [Lippert 2000].
+
+Die Prostata ist an ihrer nach oben gerichteten Basis mit dem Boden der Harnblase verwachsen. Nach kaudal verjüngt sich die Drüse und hat somit eine leicht konische Form. Ihrer nach unten gerichteten Spitze, Apex, erreicht das Diaphragma urogenitale. Die Ampulle des Rektums liegt ihrer Facies posterior durch ein rektovesikales Septum getrennt von dorsal an. Das Ligamentum puboprostaticum fixiert ihre Facies anterior ventral an der Symphyse. Durch die Prostata zieht der erste Abschnitt der Harnröhre, die Pars prostatica
+10urethrae. Die Ductus ejaculatorii dringen vom hinteren oberen Rand in die Prostata ein und ziehen in einem Winkel von etwa 40° schräg nach vorn unten. Sie haben ihre Öffnungen auf dem Colliculus seminalis [Benninghoff 2002].
+
+Die Prostata wird zum größten Teil von einer derben bindegewebigen Kapsel umgeben. Apikal und anterior sowie basal ist diese jedoch nicht bzw. unvollständig ausgebildet [McNeal 1980]. Fasern quergestreifter Muskulatur, ausgehend vom Diaphragma urogenitale, dehnen sich v.a. apikal und anterior zwischen peripheren Anteilen der Prostatadrüsen aus [Kost et al. 1964]. Seitlich wird die Prostata vom anterioren Blatt der lateralen periprostatischen Faszie umgeben. Das posteriore Blatt dieser Faszie geht dorsal von Prostata und Samenblasen und ventral des Rektums in eine lockere fibroadipöse von glatten Muskelfasern durchzogene Schicht, die Denonvillier-Faszie über. Diese bedeckt auch die Samenblasen und Anteile der Vasa deferentia. Sie endet kaudal am Apex, wo sie in Bindegewebe der posterioren Raphe der quergestreiften Muskulatur des Sphincter urethrae externus übergeht und sich in glatte Muskelfasern des M. rectourethralis erstreckt. An Apex und Basis der Prostata, speziell in der Mittellinie sowie an den Samenblasen und an den Ducti ejaculatorii, besteht eine Kontinuität von fibromuskulären Fasern zur Denonvillier-Faszie [Villers et al. 1993].
+
+
+An der Grenze zwischen lateraler und posteriorer Prostataoberfläche beinhaltet die laterale periprostatische Faszie die paarigen neurovaskulären Bündel, die sich – in Längsrichtung der Prostata verlaufend – zu den Corpora cavernosa des Penis erstrecken [Walsh et al. 1983]. Abzweigende superiore und inferiore Nervenfaszikel breiten sich in die lateralen Abschnitte der Denonvillier-Faszie aus. Der größte Teil der Prostata wird aus dem oberen Nervenbündel versorgt, das mit 3 Stämmen dorsolateral im Bereich der Prostatabasis vom Gefäßnervenbündel abzweigt. Ein kleineres Nervenbündel versorgt den Apex der Prostata [Villers et al. 1993]. Autonome Ganglien und Nervenfaszikel finden sich schwerpunktmäßig in den neurovaskulären Bündeln bzw. im periprostatischen Fettgewebe[Mc Neal 1969], von wo aus sie ein Netzwerk an der Prostataoberfläche bilden, die Prostatakapsel durchdringen und feinfrasig verzweigt im Prostataparenchym enden [Bostwick 1997].
+
+1.3.2Anatomische Unterteilung
+Die Prostata wird nach McNeal anatomisch unterteilt in eineZentrale Zone, dorsokranial gelegen, mit weitlumigen Drüsen und aufgelockertem Stroma; Transitionszone (TZ) oder präprostatisches Segment bzw. periurethrale Mantelzone, mediolateral der Urethra gelegen, mit englumigen Drüsen und straffem Stroma; Periphere Zone (PZ) mit lockerem Stroma und Drüsen wie in der Transitionszone (sie umgibt die zentrale Zone);Aglanduläre StromazoneAbbildung 1: Anatomische Unterteilung der Prostata (modifiziert nach McNeal 1965)1.3.3Arterien, Venen, Lymphe, NervenDie Prostata wird dorsal und lateral von Ästen der A. rectalis media und der A. vesicalis inferior versorgt. Ventral enthält sie Äste von der A. pudenda interna. Die Drüsenkapsel enthält ein arterielles Geflecht. Kleine Gefäße erreichen das Drüsenparenchym und die periurethrale Zone.
+
+Die Venen der Prostata haben Anschluss an den ausgedehnten Plexus vesicoprostaticus im kleinen Becken, de über die Vv. vesicales die V. iliaca interna erreicht.
+
+Die Lymphgefäße verlassen die Prostata über die versorgenden Arterien und schließen sich dem Ductus deferens an. Verbindungen bestehen zu Lymphbahnen der Harnblase und des Rektums. Regionäre Lymphknotenstationen sind die Nodi lymphoidei iliaci externi und interni.
+
+Die Nervenversorgung der Prostata erfolgt durch den Plexus prostaticus, der eine Fortsetzung des Plexus hypogastricus inferior ist und zahlreiche Nervenzellen enthält. Sympathische Fasern stammen aus dem Sakralmark. Sensorische Fasern, die teils von Vater-Pacinischen Körperchen stammen, projizieren hauptsächlich ins Sakralmark [Benninghoff 2002].
+
+
+1.3.4Tumorausbreitung und Metastasierung
+McNeal (1965) konnte durch Untersuchungen der Morphologie der Prostata zeigen, dass fast alle Adenokarzinome (70%) in den peripheren Drüsen der Prostata entstehen. Histogenetisch handelt es sich um Adenokarzinome des Epithels der tubulo-alveolären Drüsen. Es entsteht sehr häufig multifokal [Jewett 1980].
+
+Diese Verteilung wurde 2000 von Chen et al. erneut überprüft. Obwohl in den 35 Jahren zwischen der ersten und dieser Veröffentlichung ein klinischer Stadienshift hin zu nicht tastbaren Tumoren stattfand, blieb die durchschnittliche Verteilung im Wesentlichen wie vorbeschrieben [Chen 2000].
+
+Abbildung 2: Tumorausbreitung der Prostata (modifiziert nach McNeal 1965)Die Ausbreitung des Karzinoms erfolgt zuerst in der äußeren und mittleren Organzone. Der periurethrale, innere Drüsenbereich wird erst gegen Ende der intraprostatischen Ausbreitung infiltriert [Kastendieck, 1980]. Die Kapsel ist hingegen schon sehr früh betroffen [Byar et al. 1972], ein Kapseldurchbruch mit Infiltration des Rektums wird aber durch die Denonvillier´sche Faszie verzögert [Byar et al. 1972]. Die Wahrscheinlichkeit einer Tumorausdehnung in Samenblasen, Blasenboden und regionäre Lymphknoten nimmt aber mit Penetration der Kapsel zu [McCollough 1977]. Zudem bestimmt eine Tumorausdehnung außerhalb der Kapsel auch die Prognose, da ein Kapseldurchbruch erst im fortgeschrittenen Tumorstadium auftritt [Byar 1972].
+
+Das Prostatakarzinom metastasiert sowohl lymphogen als auch hämatogen. Die hämatogene Metastasierung tritt im Allgemeinen später ein als die lymphogene. Dabei ist bevorzugt das Skelettsystem betroffen, aber auch Lunge und Leber, seltener andere Organsysteme [Saitoh 1984].
+
+2.Das Prostatakarzinom
+2.1Pathologie der Prostata:
+2.1.1Klassifikation der Prostatakarzinome
+Bei 95% der Prostatakarzinome handelt es sich um sogenannte gewöhnliche Tumoren, aus dem drüsigen Teil der Prostata entstehend (sog. Adenokarzinome). Diese werden von den ungewöhnlichen (5%) unterschieden [Jocham/Miller]. An ungewöhnlichen Tumoren sind zu erwähnen:1Muzinöses AdenoCa2Adeno-zystisches Ca3BasallzellCa4Neuroendokrines differenziertes AndenoCa/Karzinoid5Kleinzelliges Ca6Undifferenziertes(weist an keiner Stelle eine Differenzierung im Sinne der genannten Karzinomtypen auf)7Duktales Ca8Übergangszell Ca9PlattenepithelCa152.1.2GradingDie im Vordergrund stehenden Adenokarzinome zeigen große Unterschiede in Struktur und Zytologie. Diese bedingen den Grad der Bösartigkeit des Tumors (Grading). Um diese Unterschiede, wie auch die unterschiedlichen biologischen Verhaltensweisen miteinander vergleichen zu können, wurden verschiedene Klassifikationssysteme entwickelt. Drei histologische Gradingsysteme haben sich in der Praxis durchgesetzt.
+
+1.Gleason – System
+2.Grading nach Mostofi/WHO3.Gradingsystem des Pathologischen - Urologischen ArbeitskreisesEin Vergleich dieser Systeme ist in Tabelle 1 wiedergegeben.
+
+Tabelle 1: Vergleich derzeit verwendeter Gradingsysteme des ProstatakrebsesGleason:Patholog-Mostofi/WHOPrognose:urolog,Arbeitskreis     1.
+
+Sehr gut differenziertes
+G1aGrad 1GünstigAdenokarzinom     2.
+
+Gut differenziertes
+G1bGünstigAdenokarzinom     3.
+
+Mäßig differenziertes
+G2aGrad 2GünstigAdenokarzinom(glandulär)     4.
+
+Mäßig differenziertes
+G2bGrad 3UngünstigAdenokarzinom(kribriform)    5. schlecht differenziertesG3aUngünstigAdenokarzinom     6.
+
+Undifferenziertes
+UngünstigAdenokarzinom     2.1.3Formen des ProstatakarzinomsMan kann zwischen Karzinomträgern und Karzinomkranken unterscheiden.
+
+Aus Autopsiestudien ist bekannt, dass 55% der 80jährigen ein klinisch inapparentes Prostatakarzinom aufweisen (sogenanntes latentes Karzinom), ohne je manifest daran zu erkranken.
+
+
+Zufällig entdeckte maligne Tumoren, beispielsweise im Rahmen einer Adenomoperation, werden als inzidentelle Karzinome bezeichnet.
+
+
+Als okkulte Tumoren werden Karzinome beschrieben welche erstmals durch Metastasen auffällig werden.
+
+2.2Diagnostik
+Das Proststakarzinom ist ein Tumor der lange klinisch unbemerkt bleiben kann. Das Fehlen von pathognomonischen Zeichen im Frühstadium ist ein Grund hierfür. Das Adenokarzinom der Prostata entsteht zumeist in der peripheren Zone der Drüse [Mc Neal 1969]. Erst wenn der langsam wachsende Tumor die Harnröhre erreicht kommt es zu obstruktiven Miktionsbeschwerden / Hämaturie. Von ossären Metastasen verursachte Kreuzschmerzen sind charakteristisch [Saitoh 1984]. Der frühzeitigen Diagnostik kommt daher ein besonderer Stellenwert zu.
+
+2.2.1Digital rektale Untersuchung (DRU)
+Die DRU ist fester Bestandteil der klinischen Prostatakarzinomdiagnostik.
+
+Sie erfolgt in Steinschnittlage, Seitenlage oder beim vorgebeugten Patienten.
+
+
+Beurteilt werden können der Sphinctertonus, Hämorrhidalveränderungen, Rectumampulle, sowie die Größe, Konstizenz, Abgrenzbarkeit, und Druckschmerzhaftigkeit der Prostata. Als karzinomsuspekt gelten verhärte, knotige Strukturen. Differentialdiagnostisch müssen jedoch gutartige Veränderungen wie granulomatöse Prostatitis, Prostatatuberkulose, Prostatasteine und andere seltene Prostatapathologien abgegrenzt werden.
+
+
+Eine Prostatastanzbiopsie ist daher bei suspektem Tastbefund obligat.
+
+
+Die Sensitivität der DRU liegt bei unterschiedlichen Studien zwischen 69%-92%, die Spezifität bei 48%-89%.
+
+
+2.2.2Prostata Spezifische Antigen (PSA)
+Das PSA wurde erstmals von Wang et al. 1979 isoliert Das Prostataspezifische Antigen (PSA) gilt als zentraler diagnostischer Parameter in Diagnose und Verlaufskontrolle des Prostatakarzinoms. Es handelt sich um ein Kallikrein, das KLK3, innerhalb der Familie der18Glykoprotein-Serin-Proteasen und hat ein Molekulargewicht von 34.000. Das Protein wird in normalem, hyperplastischem und malignem Prostatagewebe gebildet und dient der Verflüssigung des Samensekretes. Es handelt sich nicht um einen karzinomspezifischen, sondern um einen gewebsspezifischen Marker. Eine Erhöhung des PSA- Wertes kann durch ein Adenom, einen entzündlichen Prozess oder ein Karzinom bedingt sein. Die Tumorzelle produziert im Gegensatz zur Epithelzelle einen 10mal höheren PSA Wert. Nach Manipulation an der Prostata kann das Serum PSA ebenfalls ansteigen. Nach TURP bis auf das 53fache, variabel ist der Effekt nach DRU oder sexueller Aktivität. Das PSA hat eine Halbwertszeit von ca.1, 5 Tagen Ob die PSA Sensitivität bzw. Spezifität durch PSA Dichte(=PSA-Wert/Prostatagewicht) und PSA Anstiegsgeschwindigkeit (=PSA- Veränderung/Zeit) verbessert werden kann wird momentan nicht einheitlich beurteilt. Die Messung des freien PSA´s (Molekül liegt im Serum zu etwa 80% gebunden vor) kann insbesondere im „Graubereich“(PSA zwischen 4 und 10ng/ml) hilfreich bei der Unterscheidung benigne Prostatahyperplasie(BPH) und Tumor sein, indem es die Spezifität erhöht.
+
+Zur frühzeitigen Entdeckung des Prostatakarzinoms und damit Verbesserung der Heilungsaussichten und Überlebenszeit ist die „diagnostische Trias“ (DRU, PSA und Sonographie) sinnvoll.
+
+
+Bei konstant erhöhtem PSA-Wert, entsprechend der Altersnorm, sollte eine Prostatastanzbiopsie durchgeführt werden.
+
+
+2.2.3Transrektaler Ultraschall (TRUS)
+Die transrektale Ultraschallsonographie wird in Seitenlage, oder in Steinschnittlage durchgeführt. Watanabe brachte in den 70er-Jahren erstmals ein funktionsfähiges Sonographiesystem zur Anwendung. Die TRUS dient der Diagnosefindung, Volumetrie und Verlaufsbeobachtung. Noch Anfang der 80er-Jahre galt ein hyperechogener Bereich als typisches Malignitätskriterium. In den letzten Jahren konnte jedoch durch eine Vielzahl von Studien belegt werden, dass das Erscheinungsmuster des Prostatakarzinoms in der Mehrzahl hypoechogen, jedoch ebenso auch iso- oder hyperechogen sein kann. Die Häufigkeit des nichthypoechogenen Prostatakarzinoms wird derzeit in der Literatur mit ca. 35% angegeben (Loch et al.2000, Norberg et al.1997). Der häufigste Befund eines Prostatakarzinoms in der transrektalen Sonographie ist das echoarme, oft unregelmäßig begrenzte Areal, das zumeist im Bereich der peripheren Zone lokalisiert ist.
+
+Weitere Malignitätskriterien sind das Überragen des auffälligen Areals über die als heller Saum gut nachweisbare Prostatakapsel sowie die Ausdehnung des suspekten Bereichs in den echoreichen Rektumwall. Finden sich hypoechogene Strukturen in der Übergangszone, die vom umgebenden Gewebe deutlich abgrenzbar sind, kann auch hier ein Prostatakarzinom vorliegen, obwohl gerade die Übergangszone ohnehin schon eine strukturgemischte Echodichte zeigt.
+
+
+Die Lappenasymmetrie stellt ein weiteres Kriterium dar. Sie lässt sich in den meisten Fällen am besten in der Mittellinie unter transversaler Schnittführung erkennen. Eine Vielzahl von Studien kommt hinsichtlich Sensitivität und Spezifität der rektalen Sonographie bei der Diagnostik des Prostatakarzinoms zu höchst unterschiedlichen Ergebnissen. Der gemeinsame Nenner ist jedoch die gute Sensitivität bei nur geringer Spezifität.
+
+
+2.2.4Prostatastanzbiopsie
+Grundsätzlich besteht eine Indikation zur Durchführung einer Biopsie der Prostata, wenn bei klinischer Notwendigkeit zur Klärung der Dignität des Organs ein suspekter PSA-Wert, ein digital rektal suspekter Tastbefund oder auch ein suspekter transrektaler Ultraschallbefund in Kombination mit suspekten anderen Befunden besteht. Zurzeit gilt die Sextantenbiopsie der Prostata als Goldstandard in der invasiven Diagnostik des Prostatakarzinoms. [Nakagawa et al. 1997, Imai et al. 1994, Ogawa et al. 1996, Hammerer et al 1995, Wolf et al 1997]. Hierbei werden aus dem Apex, der Mitte und der Basis bds. jeweils ein Stanzzylinder entnommen und histologisch untersucht. Komplikationen dieses invasiven diagnostischen Untersuchungsverfahrens sind Hämaturie, Prostatitis und Schmerzen durch die Entnahme der Biopsiezylinder.
+
+Die transrektale Biopsie der Prostata hat einen hohen diagnostischen Wert. Lee et al. berichteten 1989 erstmals von der Ultraschall gesteuerten transrektalen Prostatabiopsie . In den letzten Jahren wurden mehrere Biopsieprotokolle mit mehr Biopsien pro Sitzung veröffentlicht [Chen et al. 1997, Chen et al. 2000; Philip et al. 2004]. Neueste Konzepte enthalten computergestützte Verfahren, um die Detektion bei der Biopsie zu erhöhen [Chen et al. 1997]. Die meisten dieser Arbeiten vergleichen die beobachteten Ergebnisse jedoch nicht mit dem pathologischen Befund des Präparates nach radikaler Prostatektomie. Chen et al. [Chen et al. 1997] untersuchten wie schon zuvor McNeal et al. [McNeal et al. 1992] Prostatapräparate nach radikaler Prostatektomie auf deren Durchsetzung mit Tumor. Die Digitalisierung der Großflächenpräparate erlaubte eine dreidimensionale Computerauswertung. Auf diese Weise entwickelte Chen ein virtuelles Biopsieschema mit insgesamt zehn Biopsien, welches in der Summation seiner pathologischen Präparate die höchste Detektionsrate erreichte.
+
+2.2.5Computertomographie und Magnetresonaztomographie
+Die Computertomografie (CT) und die Magnetresonanztomografie (MRT) eignen sich nicht zur Erfassung des Prostatakarzinoms wenn die Organgrenzen noch nicht überschritten sind [Hricak 1991]. Die Abgrenzung zur BPH ist auch schwierig [ Ling et al.1986]. Die diagnostische Zuverlässigkeit in Bezug auf das T-Stadium erreicht lediglich 56% [Bretan und Williams 1987]. Bei der Suche nach Mikrometastasen ist das CT ebenfalls nicht geeignet [Campbell´s Urology]. Demgegenüber ist die Rate falsch-positiver Lymphknotenmetastasen niedrig, sie erreicht eine Spezifität von nahezu 100% [Altwein et al. 1994]. Wenn die Vermutung durch hohes PSA oder Tumorvolumen auf Lymphknotenmetastasen besteht, ist es empfehlenswert das CT einzusetzen. Vergleichbare Ergebnisse liefert das MRT [Hammerer und Huland 1991].
+
+2.2.6Knochenszintigraphie
+Die wichtigste Untersuchung für die Erkennung von Fernmetastasen ist die Knochenszintigraphie. Die Sensitivität beträgt nahezu 100% [Kurth 1991]. Die Spezifität wird durch differentialdiagnostische Abgrenzungen gegenüber entzündlichen oder degenerativen Erkrankungen eingeschränkt. Durch gezielte Röntgenaufnahmen können differentialdiagnostische Erkrankungen ausgeschlossen werden [Hautmann 1997].
+
+3.Material und Methoden
+In der Urologischen Klinik der Charité - Universitätsmedizin Berlin Campus Benjamin Franklin wurde eine ultraschallgesteuerte Zehnfachbiopsie der Prostata nach dem Modell von Chen [Chen 1997] zur Detektion eines Prostatakarzinoms durchgeführt. Die Indikation zur Durchführung der Biopsie wurde gestellt, wenn bei klinischer Notwendigkeit zur Klärung der Dignität des Organs ein erhöhter PSA-Wert, ein digital-rektal suspekter Tastbefund oder ein auffälliger transrektaler Ultraschallbefund vorlag. Gerinnungsstörungen oder die Einnahme gerinnungshemmender Medikamente waren Ausschlusskriterien der Studie. Ab dem Vorabend des geplanten Eingriffs wurde eine Antibiose mit Cotrimoxazol oder Ciprofloxacin verabreicht. Zwei erfahrene Urologen führten die Ultraschalluntersuchungen sowie die Biopsien durch.
+
+Die transrektale Ultraschalluntersuchung erfolgte mit Hilfe eines KRETZ→ Combison 530 Gerätes sowie einem 7.5 MHz TRUS Schallkopf.
+
+
+Für jede Biopsie wurde das Echo im TRUS bestimmt und dokumentiert. Unterschieden wurde zwischen folgenden Signalen: homogen, echoreich, echoarm, zystisch und gemischt.
+
+
+Das histologische Ergebnis jeder einzelnen Biopsie wurde mit dem Ultraschallbefund in Korrelation gebracht.
+
+
+Zur Durchführung der Biopsie selbst wurde eine Biopsienadel Modell TRU-CUT der Firma Storz mit der dazugehörigen Bioptic Gun verwendet.
+
+
+Zur Überprüfung einer Korrelation zwischen den TRUS-Befunden und der Histologie wurde der zweiseitige Lambda-Test angewandt sowie der Kontingenzkoeffizient berechnet. Ein zweiseitiger p-Wert <0,05 wurde als signifikant gewertet.
+
+4.Ergebnisse
+Zwischen Januar 2000 und Februar 2001 wurden 187 Patienten mit geplanter Biopsie der Prostata in die Studie eingebracht.
+
+1841 von 1870 Biopsien aller Patienten waren auswertbar. 1841 der dabei erfassten 1870 Ultraschallbilder waren eindeutig dokumentiert und es lag ein histologischer Befund dieser Lokalisation vor. Diese 1841 Befunde wurden für die weitere Analyse verwandt.
+
+
+Das Alter der Patienten lag im Median bei 65,4 Jahren, das PSA im Median bei 7,9 ng/ml. Bei 21 der Patienten handelte es sich um eine wiederholte Biopsie. Die epidemiologischen Daten sind in Tabelle 2 dargestellt.
+
+
+Tabelle 2: Epidemiologische Daten: Alter, PSA, Prostatavolumen
+VolumenVolumenAlterPSAdigital rektalim TRUSNGültig187187187187Fehlend0000Mittelwert65,825,534,336,7Median65,47,930,030,0Standardabweichung7,8143,815,320,3Minimum40,90,210,014,0Maximum82,01817,0100,0160,0      24Sowohl bei der digital-rektalen Untersuchung, als auch im transrektalen Ultraschall wurde eine Prostataorgangröße von im Median 30 Gramm festgestellt. Bei 64 Patienten war der digitale Tastbefund suspekt. Der TRUS-Befund war bei 148 Patienten nicht homogen.
+
+Als Komplikationen traten in 24% der Fälle gering- bis mäßiggradige Hämaturien auf. In keinem Fall wurde eine Blasenspülung oder die Gabe von Blutkonserven nötig. Zwei der 187 Patienten (1,1%) entwickelten eine fieberhafte Prostatitis, die einen stationären Aufenthalt, verbunden mit der intravenösen Gabe zweier Antibiotika (Cefotiam + Gentamycin) notwendig machte. In keinem Fall kam es zum Auftreten eines Prostataabszesses. Weitere Komplikationen wurden nicht beobachtet.
+
+
+Bei 66/187 (35,3%) der Patienten wurde ein Karzinom festgestellt. Der digital-rektale Tastbefund war bei 34 dieser Patienten (51,5%) auffällig, 62/66 (93,9%) wiesen erhöhte PSA-Werte auf. Bei 49 (74,2%) der 66 Karzinompatienten zeigte der TRUS suspekte Signale. Nur bei 2/66 (3%) Karzinompatienten lagen neben dem nichthomogenen TRUS keine weiteren auffälligen Befunde (DRU, PSA) vor. Bei 99 von 121 Patienten (81,1%) mit benignen Erkrankungen war der Ultraschallbefund suspekt. Die Sensitiviät des TRUS zur Detektion eines Prostatakarzinoms lag bei 15%, die Spezifität bei 84%. Tabelle 3 stellt die festgestellten Diagnosen dar, Tabelle 4 das Verhältnis zwischen den verschiedenen TRUS-Signalen und Histologien.
+
+Tabelle 3 : Histologische BefundeGültigeHäufigkeitProzentProzenteBPH67836,336,8BPH + akute Prostatitis120,60,7BPH + chronische Prostatitis67336,036,6Akute Prostatitis10,10,1Chronische Prostatitis241,31,3Pin I924,95,0Pin II723,93,9Pin III170,90,9Prostatakarzinom G1211,11,1Prostatakarzinom G21467,87,9Prostatakarzinom G31055,65,7Gesamt184198,4100Fehlend291,6Gesamt1870100Tabelle 4: Korrelation Histologie / TRUS-SignalAnzahlTRUS-SignalHomogenZystischEchoreichEchoarmGemischtGesamtHBPH4709595711678iBPH + akute Prostatitis9120012sBPH + chronische Prostatitis43394114923673tAkute Prostatitis000011oChronische Prostatitis14600424lPin I5921101192 oPin II527130072  Pin III13040017  g  Prostatakarzinom G113350021  i  Prostatakarzinom G2119121212146  e  Prostatakarzinom G342114804105    Gesamt122425030318461841          Die Korrelation zwischen einem Ultraschallsignal und einem histologischen Befund war nicht signifikant. Die symmetrische Lambda-Korrelation lag bei 0,22 (p<0,001), der Kontingenzkoeffizient bei 0,29 (p<0,001). Weder eine maligne, noch eine benigne Erkrankung ließ sich durch das Ultraschallsignal allein vorhersagen.
+
+5.Diskussion
+Die Sextantenbiopsie gilt als Goldstandard in der invasiven Diagnostik des Prostatakarzinoms. Lee et al. propagierte den transrektalen Ultraschall ursprünglich nicht allein zur Führung der Biopsienadel, sondern auch zur Prostatakarzinomentdeckung [Lee 1989]. Die Ultraschallauflösung sowie die digitale Nachbearbeitung der Befunde spielt bei der Detektion eine maßgebliche Rolle. Zur Sensitivität und Spezifität sowie zum prädiktiven Wert des TRUS gibt es jedoch divergierende Angaben. Den Daten zufolge erhöht der TRUS in Kombination mit anderen Verfahren und Parametern (PSA, DRU) die Sensitivität zur Detektion eines Prostatakarzinoms um nur 3%. Isoliert betrachtet, z.B. in Fällen mit niedrigem PSA und unauffälligem DRU, ermittelten auch andere Autoren wenig eindeutige Ergebnisse [Yamamoto 2001, Ciatto 2001, Babaian 1993, Lee 1989, Simak 1993]. Einzelne Autoren berichten jedoch von einer sehr guten Sensitivität [Renty 1996, Tang 2001]. Insbesondere zur Bestätigung suspekter digital-rektaler Befunde kann der TRUS eine wichtige Rolle spielen [Tzai 1995]. Die vorliegende Arbeit zeigt, dass der konventionelle transrektale Ultraschall allein keinerlei Vorhersage eines histologischen Befundes erlaubt. Es fand sich keine signifikante Korrelation zwischen einem Ultraschall- und einem histologischen Ergebnis. Weist der TRUS keine Homogenität auf, so kann nur eine Biopsie weiteren Aufschluss über die Dignität bringen. Insofern bestätigt die Studie die Aussage anderer Autoren [Oyen 1993]. Insbesondere ergibt die gezielte Biopsie sog. suspekter Areale keine Erhöhung der Sensitivität. Die Gesamtsensitivität des TRUS zur Detektion eines Karzinoms liegt nach den Daten dieser Arbeit bei 15%. Werden die Patienten abgezogen, bei denen weitere suspekte Faktoren bestehen, ergibt sich eine Erhöhung der Detektionsrate um 3% durch den TRUS allein. Histologisch zeigten sich in keinem der sonografisch auffälligen Areale signifikant mehr Karzinome als in sonografisch unauffälligen Bereichen. Immerhin besteht jedoch eine rel. hohe Spezifität des Verfahrens von 84%. Ein unauffälliger TRUS könnte zur Vermeidung einer Biopsie beitragen, wenn keine weiteren Faktoren (DRU u. PSA) hinzukommen. In der vorliegenden Arbeit traf diese Konstellation jedoch nur für 1/187 Patienten (0,5%) zu. De la Rosette et al. fanden eine Spezifität zur Vorhersage einer Prostatitis von 94,6%, die Sensitivität lag jedoch nur bei 50% [De la Rosette 1995]. Weitere Angaben zur Prädiktion eines benignen histologischen27Befundes gibt es bislang nicht. Der TRUS liefert wichtige Informationen über anatomische Konformation und Größe des Organs [Grossfeld 2000] sowie zusätzliche Angaben bei lokal fortgeschrittenen Tumoren. Die Sensitivität zur Erkennung eines lokal organüberschreitenden Wachstums wird zwar von Colombo et al. als zu niedrig [Colombo 1999], durch mehrere andere Autoren [Rorvik 1994, Vijverberg 1992, Lee 1998] hingegen als relativ hoch beschrieben. Insofern ist die Untersuchung vor einer radikalen Prostatektomie weiterhin indiziert. Technische Neuerungen des TRUS wie der Einsatz einer (Power)-Duplexsonografie [Bogers 1999, Okihara 2000, Maruzzi 2000], der 3D- Sonografie [Chin 1999] oder der farbkodierten 3D-Sonografie [Merkle 2002] können möglicherweise sinnvolle Ergänzungen sein. Der konventionelle transrektale Ultraschall ist hingegen in Klinik und Praxis weit verbreitet. Diese Technik ist jedoch nicht geeignet, ein Prostatakarzinom oder eine bestimmte benigne Histologie allein aufgrund des Ultraschallsignals vorherzusagen.
+
+Um die diagnostischen Möglichkeiten des transrektalen Ultraschalls ( TRUS ) in der Prostatakarzinom-Früherkennung und –Stadieneinteilung zu erhöhen, wurde eine Artifizielle Neuronale Netzwerkanalyse ( ANNA ) von T.Loch et al 2000 eingesetzt [Loch 2000], die zusätzliche subvisuelle , graustufendifferente Informationen des TRUS erfassen und auswerten kann. Dieser Ansatz erscheint vielversprechend, da Artifizielle Neuronale Netzwerke die im Ultraschallbild vorhandenen komplexen Datenformationen erkennen können, sie gleichsam „lernen“ und diese dann bei noch nicht gesehenen Datenformationen wiedererkennen und korrekt klassifizieren können.
+
+6.Fazit
+Die Sensitiviät des konventionellen TRUS zur Detektion eines Prostatakarzinoms liegt bei 15%, die Spezifität bei 84%. Es besteht keinerlei signifikante Korrelation zwischen TRUS- Signal und histologischem Befund. Der konventionelle transrektale Ultraschall ist daher nicht zur Vorhersage der Histologie geeignet. Die relativ hohe Spezifität kann jedoch ein zusätzlicher Hinweis zur Vermeidung einer überflüssigen Biopsie sein.
+
+7.Zusammenfassung
+Einleitung: Die Prostatasextantenbiopsie gilt als Goldstandard in der invasiven Diagnostik des Prostatakarzinoms. Die Vorhersagekraft des konventionellen transrektalen Ultraschalls bleibt bislang unklar. Dies wird durch die vorliegende Studie prospektiv untersucht.
+
+Material und Methodik: In der urologischen Klinik der Charité – Universitätsmedizin Berlin wurde eine Ultraschall gesteuerte Zehnfachbiopsie der Prostata durchgeführt. Im Rahmen der vorliegenden Arbeit wurde das Echo im TRUS für jede Biopsie bestimmt und mit dem histologischen Befund korreliert. Unterschieden wurde zwischen folgenden Ultraschallsignalen: Homogen, Echoreich, Echoarm, Zystisch und Gemischt.
+
+
+Ergebnisse: Zwischen Januar 2000 und Februar 2001 wurden 187 Patienten mit geplanter Zehnfachbiopsie der Prostata in die Studie eingeschlossen. In allen Fällen ergaben sich auswertbare Ergebnisse. Bei 49/66 (74,2%) der Karzinompatienten bestanden suspekte Signale im TRUS, Bei 34/66 (51,5%) fand sich digital rektal ein suspekter Befund, bei 62/66 (93,9%) bestand ein erhöhtes PSA. Nur bei 2/66 (3%) Karzinompatienten lagen neben dem nichthomogenen TRUS keine weiteren suspekten Faktoren (DRU, PSA) vor. Innerhalb der Gruppe der Patienten mit benignen Erkrankungen lag bei 99/121 (81,1%) ein suspekter Ultraschallbefund vor. Insgesamt wurden 1841 histologische Befunde mit dem jeweiligen TRUS-Signal in Beziehung gesetzt. Es bestand keinerlei signifikante Korrelation zwischen einem Ultraschallsignal und einem histologischen Ergebnis. Weder eine Malignität, noch eine benigne Erkrankung ließ sich durch das Ultraschallsignal allein vorhersagen.
+
+
+Fazit: Die Sensitiviät des konventionellen TRUS zur Detektion eines Prostatakarzinoms liegt bei 15%, die Spezifität bei 84%. Es besteht keinerlei signifikante Korrelation zwischen TRUS-Signal und histologischem Befund. Der konventionelle transrektale Ultraschall ist daher nicht zur Vorhersage der Histologie geeignet.
+
+8.Literaturverzeichnis
+Altwein JE, Faul P, Rübben H. Beeinflußt eine abwartende Therapie Überleben und Progression beim Prostatakarzinom? (1994)Urologe B 34: 159-164.
+
+American Cancer Society 2006
+Amling C.L., Kane C.J., Riffenburgh, R.H. et al. Relationship between obesity and race in predicting adverse pathologic variables in patients undergoing radical prostatectomy. Urology 2001; 58(5):72-728.
+
+Arbeitsgemeinschaft Bevölkerungsbezogener Krebsregister in Deutschland. Krebs in Deutschland – Häufigkeiten und Trends, 4. überarbeitete, aktualisierte Ausgabe Saarbrücken, 2008.
+
+
+Babaian RJ, Dinney CP, Ramirez EI, et al: Diagnostic testing for prostate cancer
+detection: less is best. Urology 1993; 41: 421-425Bauer JJ, Srivastava S, Connelly RR et al. Significance of familial history of prostate cancer to traditional prognostic variables, genetic biomarkers, and recurrence after radical prostatectomy. Urology 1998; 51(6):970-6.
+
+Benninghoff A, Drenckhahn D (Hrsg). Makroskopische Anatomie, Histologie, Embryologie, Zellbiologie, Band 1, 16. Auflage, Urban & Fischer Verlag München und Jena 2002; 824-27.
+
+
+Bogers HA, Sedelaar JP, Beerlage HP, et al: Contrast-enhanced three-dimensional
+power Doppler angiography of the human prostate: correlation with biopsy outcome.
+
+Urology 1999; 54: 97-104
+Bostwick DG. Neoplasms of the prostate. In: Bostwick DG, Eble JN (eds). Urological surgical pathology. Mosby, St. Louis, Baltimore, Boston, 1997; 343-421.
+
+
+Bratt O, Kristoffersson U, Olsson H, Lundgren R. Clinical course of early onset prostate cancer with special reference to family history as a prognostic factor. Eur Urol 1998; 34(1):19-24.
+
+Bretan PN, Williams RD. Imaging techniques in the diagnosis an pelvic staging of prostatic cancer. In Bruce AW, TrachtenbergJ(eds) Andenocarcinoma of the prostate. Springer, Berlin (1987), pp 83-106.
+
+
+Byar DP, Mostofi FK, VA Cooperative Urological Research Group. Carcinoma of the prostate: prognostic evaluation of certain pathological features in 208 radical prostatectomies. Cancer 1972; 30:5-13.
+
+
+Campbell´s Urology, Eigth Edition, Volume 4, 2002, Page 3055-3073
+Carter BS, Beaty TH, Steinberg GD, Childs B, Walsh PC. Mendelian inheritance of familial prostate cancer. Proc Natl Acad Sci USA 1992; 89:3367-3371.
+
+Catalona WJ, Carvalhal GF, Mager DE, Smith DS. Potency, continence and complication rates in 1870 consecutive radical retropubic prostatectomies. J Urol 1999; 162:433-438.
+
+
+Catalona WJ, Ramos CG, Carvalhal GF. Contemporary results of anatomic radical prostatectomy. CA Cancer J Clin. 1999; 49(5):282-96.
+
+
+Ciatto S, Bonardi R, Lombardi C, et al: Predicting prostate biopsy outcome by findings at digital rectal examination, transrectal ultrasonography, PSA, PSA density and free-to- total PSA ratio in a population-based screening setting. Int J Biol Markers 2001; 16: 179-182
+Chen ME, Troncoso P, Johnston DA, Tang K, Babaian RJ: Optimization of prostate biopsy strategy using computer based analysis. J Urol 1997 Dec;158(6):2168-75.
+
+
+Chen ME, Johnston DA, Tang K, Babaian RJ, Troncoso P: Detailed mapping of prostate carcinoma foci. Cancer 2000 Oct 15;89(8):1800-9.
+
+Chin JL, Downey DB, Elliot TL, et al: Three dimensional transrectal ultrasound imaging of
+the prostate: initial experience with an emerging technology. Can J Urol 1999; 6: 720-726Colombo T, Schips L, Augustin H, et al: Value of transrectal ultrasound in preoperativestaging of prostate cancer. Minerva Urol Nefrol 1999; 51: 1-4De la Rosette JJ, Giesen RJ, Huynen AL, et al: Automated analysis and interpretation oftransrectal ultrasonography images in patients with prostatitis. Eur Urol 1995; 27: 47-53Gerber GS, Thisted RA, Chodack GW et al. Results of radical prostatectomy in men with locally advanced prostate cancer: Multi-institutional pooled analysis. Eur Urol 1997; 32:385-390.
+
+Giles GG, Severi G, English DR, McCredie MRE, Borland R, Boyle P and Hopper JL. Sexual factors and prostate cancer. BJU Int 2003; 92:211-216.
+
+
+Grossfeld GD, Coakley FV: Benign prostatic hyperplasia: clinical overview and value of
+diagnostic imaging. Radiol Clin North Am 2000; 38: 31-47Hammerer P, Huland H. Zur Diagnostik des lokalisierten Prostatakarzinoms: Screeningund präoperatives Staging, (1991) Urologe a30: 378-386.
+
+Hammerer P, Henke RP, Hubner D, et al: Preoperative assessment of tumor
+aggressiveness in localized prostatic carcinoma. Urologe A 1995; 34: 413-418.
+
+Hautmann R, Huland H: Prostatkarzinom. Urologie. Springer Verlag Berlin, Heidelberg
+1997: 65-66.
+
+Hricak H, The prostate gland. MRI of the pelvis. A text atlas. Deutscher Ärtzteverlag, Köln 1991; 249f.
+
+
+Hölzel D. Prostatakarzinom - Ist die Früherkennung in einer Sackgasse? Deutsches Ärzteblatt 1995; 92:1353-1363.
+
+
+
+Imai K, Ogura H, Ichinose Y, et al: The significance of six sextant biopsy for prostatecancer. Nippon Hinyokika Gakkai Zasshi 1994; 85: 460-465.
+
+Iselin CE, Robertson JE, Paulson DF. Radical perineal prostatectomy: oncological outcome during a 20-year period. J Urol 1999; 161:163-168
+Jemal A, Murray T, Ward E, Samuels A, Tiwari RC, Ghafoor A, Feuer EJ, Thun MJ. Cancer statistics, 2005. CA Cancer J Clin 2005; 55(1):10-30.
+
+Jewett HJ. Radical perineal prostatectomy for palpable, clinically localized, non-obstructive
+cancer: experience at the Johns Hopkins Hospital 1909-1963. J Urol 1980; 124(4):492-4.
+
+Jocham/Miller (Hrsg.): Praxis der Urologie, 3. überarbeitete Auflage 2008, Thieme-Verlag
+Stuttgart.
+
+Kalish LA, McDougal WS, McKinlay JB. Family history and the risk of prostate cancer. Urology 2000; 1;56(5):803-806.
+
+
+Kastendieck H, Bressel M, Henke A, Hüsselmann H. Häufigkeit regionärer Lypmhknotenmetastasen beim operablen Prostatakarzinom. DMW 1980; 105:1348-1354.
+
+
+Keeley FX, Gomella LG. Chapter 1: Epidemiology of prostate cancer. In: Ernsthoff MS, Heaney JA, Peschel RE, Urologic cancer. Blackwell, Cambridge / MA, Oxford, London 1996; 2-14.
+
+
+Kost LV, Evans GW. Occurrence and significance of striated muscle within the prostate. J Urol 1964; 92:703-704.
+
+
+Kupelian P, Katcher J, Levin H, Zippe C, Klein E. Correlation of clinical and pathologic factors with rising prostate-specific antigen profiles after radical prostatectomy alone for clinically localized prostate cancer. Urology 1996; 48:249-260.
+
+
+
+Kupelian PA, Kupelian VA, Witte JS, Macklis R, Klein EA. Family history of prostate cancer in patients with localized prostate cancer: an independent predictor of treatment outcome. J Clin Oncol. 1997; 15(4):1478-80.
+
+Kurth KH, Rübben H: Prostata, in: Urologie, Altwein JE, Rübben H., Enke Verlag 1991: 218-243.
+
+
+Lee F, Torp-Pedersen ST, Siders DB: Use of transrectal ultrasound in diagnosis, guided
+biopsy, staging, and screening of prostate cancer. Urology 1989; 33: 7-12.
+
+Lee F, Torp-Pedersen S, Littrup PJ, et al: Hypoechoic lesions of the prostate: clinical relevance of tumor size, digital rectal examination, and prostate-specific antigen. Radiology 1989; 170: 29-32
+Lee F, Torp-Pedersen ST, McLeary RD: Diagnosis of prostate cancer by transrectalultrasound. Urol Clin North Am 1989; 16: 663-673Lee F, Bahn DK, Siders DB, et al: The role of TRUS-guided biopsies for determination ofinternal and external spread of prostate cancer. Semin Urol Oncol 1998; 16: 129-136Ling D, Lee JKT, Heiken JP, Balfe DM, Glazer HS: Prostate Carcinoma and benignprostatic hyperplasia: Instability of MR Imagining to distinguish between the two diseases. Radiology 158 (1986); 103.
+
+Loch T, Leuschner I, Genberg C, Weichert-Jacobsen K, Küppers F, Retz M, Lehmann J, Yfantis E, Evans M, Tsarev v; Stöckle M: Weiterentwicklung des transrektalen Ultraschalls; Artifizielle neuronale Netzwerkanalyse (ANNA) in der Erkennung und Stadieneinteilung des Prostatakarzinoms. Der Urologe[A]4 2000 39: 341-347.
+
+
+Luboldt HJ, Swoboda A, Borgermann C, Fornara P, Rubben H. Clinical usefulness of free PSA in early detection of prostate cancer. Onkologie 2001; 24(1):33-37.
+
+
+Maruzzi D, Marin A, Lenardon O, et al: [Color Doppler and ultrasound-guided prostate
+biopsy in the diagnosis of prostatic neoplasm]. Arch Ital Urol Androl 2000; 72: 174-18135McCullough DL, McLaughlin AP, Gitters RF. Morbidity of pelvic lymphadenectomy and radical prostatectomy for prostate cancer. J Urol 1977; 117:206-207.
+
+McNeal JE. Morphogenesis of prostatic carcinoma. Cancer 1965; 18(12):1659-1666.
+
+
+McNeal JE. Origin and development of carcinoma of the prostate. Cancer 23, 1969; 24.
+
+
+McNeal JE. Anatomy of the prostate: a historical survey of divergent views. Prostate 1980; 1:3-13.
+
+
+McNeal JE: Cancer volume and site of origin of adenocarcinoma in the prostate:
+relationship to local and distant spread. Hum.Pathol., 23: 258, 1992.
+
+Merkle W: [Colour Doppler Transrectal 3D-Sonography of the Prostate - First
+Experiences]. Aktuelle Urologie 2002; 33: 53-57Mostofi FK. Grading of prostatic carcinoma. Cancer Chemotherapy Reports 1975; 59(1):111-117.
+
+Nakagawa S, Watanabe M, Nomoto T, et al: Mass screening for prostatic cancer.
+
+
+Hinyokika Kiyo 1997; 43: 447-452.
+
+
+Norberg M, Egevad L, Holmberg L, Sparen P, Norlen BJ, Busch C: The sextant protocol for ultrasound-guided core biopsies of the prostate underestimates the presence of cancer. Urology 1997 Oct;50(4):562.
+
+
+Ogawa O, Shichiri Y, Ohnishi H, et al: Usefulness of ultrasound-guided prostate biopsy in
+the diagnosis and treatment of localized prostate cancer. Hinyokika Kiyo 1996; 42: 805- 810.
+
+Okihara K, Kojima M, Nakanouchi T, et al: Transrectal power Doppler imaging in the
+detection of prostate cancer. BJU Int 2000; 85: 1053-1057Oyen RH, Van de Voorde WM, Van Poppel HP, et al: Benign hyperplastic nodules thatoriginate in the peripheral zone of the prostate gland. Radiology 1993; 189: 707-71136Parker SL, Tong T, Bolden S, Wingo PA. Cancer statistics, 1997. CA Cancer J Clin 1997; 47(1):5-27.
+
+Philip J, Ragavan N, DeSouza J, Foster CS, Javlé P. Effect of peripheral biopsies in maximising early prostate cancer detection in 8-, 10- or 12-core biopsy regimens. BJU Int 2004; 93: 1218–1222.
+
+
+Renty P, D'Hauwers K, Van Camp C, et al: Value of transrectal prostatic echography, prostate-specific antigen and rectal examination in the diagnosis of prostate cancer. Relationship with the result of prostatic biopsies. Acta Urol Belg 1996; 64: 7-12
+Rorvik J, Halvorsen OJ, Servoll E, et al: Transrectal ultrasonography to assess localextent of prostatic cancer before radical prostatectomy. Br J Urol 1994; 73: 65-69Saitoh H, Hida M, Shimbo T, Nakamura K, Yamagata J, Satoh T. Metastatic patterns of prostatic cancer. Correlation between sites and number of organs involved. Cancer 1984; 54:3078-3084.
+
+Simak R, Eisenmenger M, Hainz A, et al: Is transrectal ultrasonography needed to rule out prostatic cancer with normal findings at digital rectal examination and normal serum prostate- specific antigen? Eur Urol 1993; 24: 474-478
+Smart CR. The results of prostate carcinoma screening in the U.S. as reflected in the surveillance, epidemiology, and end results program. Cancer 1997; 80:1835-1844.
+
+Steinberg GS, Carter BS, Beaty TH, Childs B, Walsh PC. Family history and the risk of prostate cancer. Prostate 1990; 17:337-347.
+
+
+Tang J, Li S, Xu J: [Transrectal ultrasound examination of the prostate in 100 cases of
+prostate cancer]. Zhonghua Zhong Liu Za Zhi 2001; 23: 228-229Tzai TS, Lin JS, Yeh YC, et al: The role of transrectal ultrasonography on the palpable andimpalpable abnormal prostate. Eur Urol 1995; 27: 142-14537Vijverberg PL, Giessen MC, Kurth KH, et al: Is preoperative transrectal ultrasonography of value in localised prostatic carcinoma? A blind comparative study between preoperative transrectal ultrasonography and the histopathological radical prostatectomy specimen. Eur J Surg Oncol 1992; 18: 449-455Villers A, McNeal JE, Freiha FS, Boccon-Gibod L, Stamey TA. Invasion of Denonvilliers´ fascia in radical prostatectomy specimens. J Urol 1993; 149:793-798.
+
+Villers A, Soulie M, Haillot O, Boccon-Gibod L. Prostate cancer screening (III): risk factors, natural history, course without treatment. Characteristics of detected cancers. Prog Urol 1997; 7(4):655-61.
+
+
+Walsh PC, Lepor H, Eggleston JC. Radical prostatectomy with preservation of sexual function: anatomical and pathological considerations. Prostate 1983; 4:473-485.
+
+
+Walsh PC, Partin AW. Family history facilitates the early diagnosis of prostate carcinoma. Cancer 1997; 80(9):1871-1874.
+
+
+Waterbor JW, Bueschen AJ. Prostate cancer screening (United States). Cancer Causes Control 1995; 6(3):267-274.
+
+
+Whittemore AS, Wu AH, Kolonel LN et al. Family history and prostate cancer risk in black, white, and Asian men in the United States and Canada. Am J Epidemiol 1995; 141(8):732- 40.
+
+
+Wilson JM, Kemp IW, Stein GJ. Cancer of the prostate. Do younger men have a poorer survival rate? Br J Urol 1984; 56(4):391-396.
+
+
+Wingo PA, Tong T, Bolden S. Cancer statistics , 1995. CA Cancer J Clin 1995; 45(1):8-30.
+
+
+Wirth M, Fröhner M. PSA-Anstieg nach radikaler Prostatektomie. Urologe A 2000; 39:3-8.
+
+
+
+Wolff JM, Borchers H, Jakse G: Determination of local tumour extension in cases ofcarcinoma of the prostate. Arch Esp Urol 1997; 50: 546-553.
+
+Wu AH, Whittemore AS, Kolonel LN et al. Serum androgens and sex hormone-binding globulins in relation to lifestyle factors in older African-American, white, and Asian men in the United States and Canada. Cancer Epidemiol Biomarkers Prev 1995; 4(7):735-741.
+
+
+Yamamoto T, Ito K, Ohi M, et al: Diagnostic significance of digital rectal examination and transrectal ultrasonography in men with prostate-specific antigen levels of 4 NG/ML or less. Urology 2001; 58: 994-998
+399.LebenslaufMein Lebenslauf wird aus datenschutzrechtlichen Gründen in der elektronischen Version meiner Arbeit nicht veröffentlicht.
+
+
+4110. Erklärung„Ich, Alexander Moschkowitsch, erkläre, dass ich die vorgelegte Dissertation mit dem Thema: „ Analyse der Korrelation des Transrektalen Ultraschalls (TRUS) mit dem korrespondierenden histologischen Befund in der Prostata“ selbst verfasst und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt, ohne die Hilfe Dritter verfasst und auch in Teilen keine Kopien anderer Arbeiten dargestellt habe.“DatumUnterschrift42DanksagungIch danke Herrn Prof. Dr. med. K .Miller für die Überlassung des Themas.
+
+Herrn Priv.- Doz. Dr. med. M. Schostak möchte ich für die ausgezeichnete Betreuung danken. In enger Zusammenarbeit und konstruktiver Diskussion half er mir unermüdlich. Mein besonderer Dank gilt meiner Familie für die vielfältige Unterstützung.

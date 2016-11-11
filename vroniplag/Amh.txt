@@ -1,0 +1,930 @@
+Aus dem Universitätsklinikum Münster
+Institut für Physiologie I
+Direktor: Univ.-Prof. Dr H. C. Pape
+
+The effects of dopamine receptors on spreading depression
+in rat neocortical tissues
+INAUGURAL - Dissertation
+
+Zur
+Erlangung des doctor medicinae
+
+der Medizinischen Fakultät
+der Westfälischen Wilhelms-Universität Münster
+
+Anna Maria Haarmann
+aus Werl
+2009
+
+1
+
+Gedruckt mit Genehmigung der Medizinischen Fakultät der Westfälischen WilhelmsUniversität Münster
+
+2
+
+Dekan: Univ.-Prof. Dr. Wilhelm Schmitz
+1. Berichterstatter: Prof. Dr. med. Ali Gorji
+2. Berichterstatter: PD. Dr. med. Ch. Greiner
+Tag der mündlichen Prüfung: 20.11.2009
+
+3
+
+Aus dem Universitätsklinikum Münster
+Institut für Physiologie I
+Direktor: Univ.-Prof. Dr H. C. Pape
+Referent: Prof. Dr. med. A. Gorji
+Koreferent: PD. Dr. med.Ch. Greiner
+ZUSAMMENFASSUNG
+Einfluß von Dopamin auf die Spreading depression
+Anna Maria Haarmann
+Bei der spreading Depression(SD) handelt es sich um eine, sich mit einer Geschwindigkeit von 25mm/ min über den gesamten Cortex ausbreitende Depolarisationswelle, die von einer Abflachung
+bioelektrischer Aktivität begleitet wird.
+Es ist anzunehmen, dass die spreadind depression Einfluss auf mehrere klinische Symptome wie
+Migräne, Kopfschmerzen oder vorübergehende globale Amnesie hat.
+Dopamin ist ein essentieller Neurotransmitter, der wichtige modulierende Aufgaben übernimmt. Bei
+Patienten, die an Migräne leiden, besteht eine Hypersensivität für Dopamin, viele dafür typische
+Symptome können durch diesen Neurotransmitter getriggert werden.
+Spreading depression führt zu einer Freisetzung von Dopamin .
+Offensichtlich besteht also ein Zusammenhang zwischen spreading depression mit der konsekutiven
+Freisetzung von Dopamin und den klinischen Manifestationen der Migräne.
+Die vorliegende Arbeit untersucht, in wie weit Dopaminagonisten bzw. – antagonisten Einfluß auf die
+spreading depression nehmen.
+Die Experimente wurden am somatosensorischen Neocortex erwachsener Ratten durchgeführt.
+Dabei wurden extrazelluläre Feldpotentiale abgeleitet und durch die Applikation von KCL eine
+spreading depression ausgelöst. Anschließend wurde der Einfluß sowohl von D2 Antagonisten als
+auch –Agonisten auf die SD untersucht.
+Eine anschließende Versuchsreihe untersuchte den Einfluss von D2 Antagonisten bzw.-Agonisten auf
+evozierte exitatorische postsynaptische Feldoptentiale (EPSP), um so zu klären, ob ein Einfluss auf
+die längerfristige Modifikation synaptischer Übertragung besteht.
+Die Resultate aus oben beschriebenen Versuchen ergaben, dass die Inhibition von D2 Rezeptoren- im
+vorliegendem Fall durch Sulpiride- zu einer signifikanten Suppression der spreading depression führt.
+Auch die synaptische Übertragung wird durch D2 Antagonisten beeinflusst.
+Zusammenfassend ist festzuhalten, dass die Blockade von D2 Rezeptoren eine wichtige Rolle in der
+Behandlung von z. B. Migräne mit Aura spielt, der therapeutische Effekt mag in der Inhibition der
+neocortikalen SD liegen.
+
+Tag der mündlichen Prüfung: 20.11.2009
+
+4
+
+Introduction
+Spreading depression (SD) is a propagating wave of depolarisation associated by a depression
+of the neuronal bioelectrical activity for a period of minutes. SD could be initiated by
+different methods in animal models. SD is an "all-or-none" type process and propagates in the
+manner of a wave through gray matter. SD appears first at the stimulated site and spreads out
+in all directions at the velocity of 2–3 mm/min, so that increasingly distant areas undergo
+successively a similar temporary depression. A crucial manifestation of SD is a propagating
+negative potential with an amplitude of 10–30 mV and a duration of more than 0.5–1 min,
+which may be preceded or succeeded by a positive fluctuation of variable amplitude and
+duration. Underlying this cellular depolarisation is a dramatic change in the distribution of
+micromilieu ions between extra- and intracellular compartments. Potassium and proton
+release from the cells, while sodium, calcium and chloride enter together with water causing
+cells to swell and the volume of the extracellular compartment to be decreased. SD is
+accompanied by an increase of glucose utilization and O2 consumption. Recovery of SD
+depends on energy metabolism.
+The first paper on SD, titled "Spreading depression of activity in the cerebral cortex" appeared
+in 1944, written by a young Brazilian investigator, Aristides Leão, working at the Harvard
+laboratory. Leão wanted to study the electrocorticogram (ECoG) of experimental epilepsy in
+anesthetized rabbits, but he was distracted from his original goal by an unexpected flattening
+of the ongoing normal bioelectrical activity that took the place of the anticipated epileptiform
+field potentials.The silencing of the ECoG trace crept slowly over the cortex, from one
+recording electrode pair resting on the cortical surface to the one beside it. According to Leão,
+SD and propagating focal seizures were related phenomena, generated by the same cellular
+elements, an inference later supported by others.
+This phenomenon has been studied in vivo in several animal species and in vitro in brain
+slices and in retinal preparations under different experimental conditions. It has been also
+observed in human neocortical tissue in vitro and in human hippocampus as well as striatum
+and neocortex in vivo. SD can be regularly initiated if the tissue susceptibility is artificially
+raised. Hypoglycemia and hypoxia as well as changing the extracellular ionic micromilieu by
+applying solutions with increased K+, decreased NaCl or with the Cl− of the latter replaced by
+certain other anions lower the threshold.
+
+5
+
+Fig. 1: Aristides Azevedo Pacheco Leão. Journal of Nourophysiology, 1944, Changes of
+bioelectrical activities recorded from a rabbit during propagation of spreading depression
+(SD). Traces reveal propagating flattening of epileptiform field potentials induced by
+spreading of cortical SD as well as propagating recovery of these activities.
+
+Conversely, the susceptibility of SD initiation is lowered or the occurrence of SD is prevented
+in previously susceptible tissue by solution with increased Mg2+ or NaCl, or with the Na+
+replaced by certain other cations. SD also is triggered by various modes of mechanical,
+chemical and electrical stimulation.
+The unparalleled increase in extracellular potassium concentration ([K+]o) is accompanied by
+a precipitous drop in extracellular chloride concentration ([Cl ]o), extracellular sodium
+concentration ([Na+]o), and extracellular calcium concentration ([Ca2+]o), suggesting that K+
+leaving neurons is exchanged against Na+ and Ca2+ that are entering and increased up to 60
+mM. [Ca2+]o decreases from its normal level of 1.2-1.5 mM to <0.3 mM. Cations are not
+exchanged one for one between intra- and extracellular solutions, for the reduction in [Na+]o is
+greater than the increase in [K+]o. The concomitant drop in [Cl ]o indicates that some of the
+Na+ entering the cells is accompanied by Cl . It has been suggested that the deficit in
+extracellular anions is made up by anions leaving the cytosol. Organic anions, including
+glutamate, have been shown to be released during SD, although some of the glutamate
+originates from glial cells. An exact and complete balance sheet of all ingredients displaced
+during SD is yet to be completed, however, so much larger than that of the interstitial
+6
+
+compartment that neurons need to give up but a fraction of the K+ they contain to achieve a
+many fold rise in [K+]o. Calculations based on the simultaneously recorded levels of [Na+]o
+and [K+]o and the known fractional volume of the interstitial space in hippocampal tissue
+indicate that a much reduced but still substantial trans-membrane potassium concentration
+gradient remains standing during SD.
+The unusual magnitude of the changes in extracellular ion concentrations created the
+impression that intra- and extracellular ion concentrations equilibrate during SD, and this idea
+was bolstered by the nearly complete depolarization of neurons during SD. The volume of the
+cytosol is, however, so much larger than that of the interstitial space that cells need to give up
+but a fraction of the K+ they contain to achieve a many fold rise in [K+]o. Calculations based
+on the simultaneously recorded levels of [Na+]o and [K+]o and the known fractional volume of
+the interstitial space in hippocampus indicate that a much reduced but still substantial
+transmembrane K+ concentration gradient remains standing during SD.
+No explanation of the propagation of SD has been suggested that accounts for all the facts
+presently proven. The hypothesis that gained wide acceptance is that the propagation of SD
+probably involves the release of different chemical mediators, most likely K+ and glutamate
+into the interstitial fluid. Given the widespread potential signalling capacities of Ca2+ waves,
+observations of the interactions between astrocytes and neurons in cell culture have suggested
+that Ca2+ waves may also play a role in SD propagation.
+
+7
+
+Spreading depression
+Horizontal propagation
+Front of excitation
+
+Zone of depression
+
+DC4
+
+I
+
+Vertical propagation
+
+II
+
+DC3
+
+III
+
+IV
+
+DC2
+V
+
+2
+mV
+
+VI
+
+DC1
+
+10 s
+
+KCl
+
+Figure 2. Propagation of cortical spreading depression and its electrophysiological
+recordings.
+
+Clinical relevance of SD
+SD belongs in the domain of the pathophysiology of the brain, and there are reasons to believe
+that it is involved in different clinical disorders, including migraine, cerebrovascular diseases,
+head injury and transient global amnesia. Processes similar to spreading depression in animal
+cortex are thought to take place in a number of pathological conditions in humans. These
+disorders include brain trauma, ischemia/infarction, migraine, epilepsy, hemorrhage and
+transient global amnesia. Direct alterations of electrical activity of cortical neurons by the
+locally spreading wave can lead to clinical symptoms (e.g. the aura phase of migraine). These
+same neuronal processes can also alter the neurochemistry of subcortical structures,
+modulating oxygen distribution, cell survival in these structures and behavior. This problem
+8
+
+has not been addressed before, mainly because SD induces such a short depression in each
+cortical loci, that transient neurochemical changes cannot be examined with conventional
+approaches, for example by microdialysis.
+
+The designation migraine with aura denotes the syndrome of headache associated with
+characteristic sensory, motor, or visual symptoms, usually gradually developed over 5–20 min
+and lasting less than 60 min. The most common symptoms in aura phase are visual arising
+from dysfunction of occipital lobe neurons. The positive (stimulative) neurological symptoms,
+e.g., flashing lights are usually followed by negative (suppressive) ones, e.g., scotoma or
+hemianopia in this phase. Magnetoencephalographic studies in human revealed that the
+magnetic signals were seen in migraine patients but not in patients suffering from other forms
+of headache or normal controls. Three distinctive signal patterns; suppression of spontaneous
+cortical activity, slow field changes and large-amplitude waves, were observed strictly in
+migraine patients. In some migraine patients, magnetic signals were also recorded between
+attacks. The same magnetic fields appeared during the propagation of SD in the cortex of
+anesthetized animals. High-field functional MRI was used to detect blood oxygenation leveldependent (BOLD) changes during visual aura in three migraineurs. A focal increase in
+BOLD signals developed first in extrastriate cortex and spread at the velocity of 3.5 ± 1.1
+mm/min over occipital cortex. These initial BOLD features were consistent with scintillations
+and paralleled by decreases in the stimulus-driven MR oscillations. Increasing in BOLD
+signals was followed by a decrease in the mean signal. This phase appeared to correspond to
+the localized scotoma and MR stimulus-induced response remained suppressed. Within 15 ± 3
+min, both BOLD signals and MR stimulus-induced response recovered. During periods with
+no visual stimulation, but while the subject was experiencing scintillations, BOLD signal
+followed the retinotopic progression of the visual percept. Spreading BOLD signal changes as
+neocortical SD did not cross prominent sulci.
+Recent investigations provide early insights into mechanisms that lead to trigeminovascular
+activation. SD is the first endogenous event identified upstream to trigeminovascular
+activation that appears to be noxious in experimental models. Neocortical SD, originally
+described by Leão. The slow spread of SD at 3–5 mm/min matches the propagation velocity
+of wave fronts in the Belousov–Zhabotinsky reaction, that is, a thermodynamic chemical
+reaction that shows the properties of a nonlinear chemical oscillator even in a Petri dish.
+9
+
+Unlike an epileptic seizure, which spreads asynchronously to activate adjacent brain, SD
+begins within a synchronously activated brain space.
+In experimental animals, SD stimulates ipsilateral trigeminal axons that surround cortical
+blood vessels. SD causes a breakdown of the blood–brain barrier by mechanisms dependent
+on matrix metalloproteinase-9. Furthermore, neocortical SD causes ipsilateral extravasation of
+plasma proteins in dura mater, serving as an experimental marker of trigeminal nerve
+activation; it also induces c-Fos expression within the trigeminal nucleus caudalis. These
+findings and a transcription MRI study suggest that intense cortical perturbations like repeated
+SD can open the blood–brain barrier, thereby activating the trigeminovascular system. SD
+releases chemicals such as H+, K+, nitric oxide, and neurotransmitters into the extracellular
+space. It has been hypothesized that released molecules reach the pial surface by diffusion and
+accumulate in proximity to trigeminovascular afferents. Extracellular K+ levels about 60
+mmol/l were measured in the pial space during SD.
+Consistent with an upstream role for SD, prolonged application of migraine prophylactic
+drugs suppresses SD in rats as a proposed mechanism of action. In line with the growing
+clinical recognition that prolonged administration of prophylactic drugs is important to
+achieve maximum therapeutic efficacy, treatment extension beyond 3–4 weeks also
+maximizes the inhibitory effects of topiramate, valproate, methysergide, amitriptyline, and
+propranolol on SD.
+Dopamine
+Dopamine is an essential neurotransmitter in a wide variety of animals, including both
+invertebrates and vertebrates. In the brain, this phenethylamine functions as a
+neurotransmitter, activating the five types of dopamine receptors; D1, D2, D3, D4 and D5, and
+their variants. Dopamine is produced in several areas of the brain, including the substantia
+nigra and the ventral tegmental area Dopamine is also a neurohormone released by the
+hypothalamus.
+Dopamine has many functions in the brain, including important roles in behavior and
+cognition, motor activity, motivation and reward, inhibition of prolactin production (involved
+in lactation), sleep, mood, attention, and learning. Dopaminergic neurons (i.e., neurons whose
+primary neurotransmitter is dopamine) are present chiefly in the ventral tegmental area of the
+midbrain, the substantia nigra pars compacta, and the arcuate nucleus of the hypothalamus
+10
+
+.
+Figure 3. Chemical structure of Dopamine
+The distributions of the transcripts encoding the five dopamine receptors have been
+determined in the human striatum and selected regions of the neocortex. In the prefrontal
+cortex as well as the temporal neocortex D1 and D4 receptor mRNAs are the most abundant,
+although the other three transcripts are seen at lower levels. In the occipital neocortex, D1
+receptor mRNA is the most abundant, D3 the rarest, while the other three transcripts are
+present at modest levels of expression (Meador-Woodruff et al., 1996).
+Dopamine and spreading depression
+It has been shown that SD changed neuronal activity and consequently modulated
+extracellular dopamine in the terminal fields during stimulation of the prefrontal cortex
+(Murase et al., 1993, Taber and Fibiger, 1995, Karreman and Moghaddam, 1996 and Rossetti
+et al., 1998). There is a pronounced release of dopamine during both spreading depression and
+anoxia. In spreading depression, the sharp increase of potassium concentration that follows an
+initial smaller and slower increase of potassium is accompanied by the release of dopamine in
+in vivo experiments (Moghaddam et al., 1987). Cortical stimulation increases basal levels of
+dopamine in the caudate (Strafella et al., 2001) and in the nucleus accumbens (Tucci et al.,
+2000; You et al., 1998). In line with these data, blockade of the prefrontal cortex activity by
+tetrodotoxin (Karreman and Moghaddam, 1996) or by local anesthetics (Murase et al., 1993)
+decreased basal dopamine levels in the nucleus accumbens. The mechanisms by which SD
+11
+
+can modulate the dopaminergic presynaptic terminals in striatum are unknown. There is
+evidence that cortex can enhance dopamine release in striatum via activation of glutamatergic
+neurotransmission (Cheramy et al., 1986, Cheramy et al., 1990, Kilpatrick and Phillipson,
+1986, Leviel et al., 1990 and Romo et al., 1986). Other data favour an opposite view on the
+role of glutamate in impulse-dependent dopamine release (Wu et al., 2000 and Zhang and
+Sulzer, 2003) and have proposed more complicated interactions via H2O2 (Avshalumov et al.,
+2003). Another study indicates elevation of evoked dopamine release in the nucleus
+accumbens and a decrease in the nucleus caudatus resulting from depression of the cortical
+activity induced by SD. These findings suggest that in the nucleus caudatus dopaminergic
+presynaptic terminals are under cortical tonic activating control, but in the mesolimbic
+terminal fields in the nucleus accumbens, they are under tonic depression. Therefore, SD in
+the cortex, may modulate neurotransmitter release in subcortical structures and may have a
+general impact on the redistribution of the oxygen supply in these subcortical areas.
+In spite of these studies, the ole of dopamine in initiation and propagation of cortical SD still
+needed to be clarified. The dopaminergic system has also been explored for a potential role in
+susceptibility to different neurological disorders. Several dopaminergic candidate genes have
+been investigated in different migraine case–control cohorts with varying results (Del Zompo
+et al.,1998; Mochi et al., 2003). Most migraine symptoms can be induced by dopaminergic
+stimulation. Moreover, there is dopamine receptor hypersensitivity in migraineurs, as
+demonstrated by the induction of yawning, nausea, vomiting, hypotension, and other
+symptoms of a migraine attack by dopaminergic agonists at doses that do not affect nonmigraineurs. Bromocriptine, a dopamine agonist, produces a predictable dose-related series of
+clinical signs. Yawning is the first to appear. Increasing the dose induces mood changes,
+nausea, gastrokinetic changes, hypotension, vomiting, and lastly dyskinesia. Migraine patients
+yawned four times more often per hour and showed a higher incidence of headache than
+controls after 0.25 mg sublingual apomorphine, another dopamine agonist (Del Bene et al.,
+1994). In a large subgroup of migraineurs, dopamine acts as an endogenous protagonist in the
+pathophysiology of the disorder. Antagonism of this protagonist neurotransmitter therefore
+results in symptomatic relief of both the headache and associated symptoms (Peroutka, 1997).
+Prochlorperazine and Domperidone D2 receptor antagonists have a high degree of efficacy in
+the acute treatment of migraine (Amery and Waelkens, 1983; Coppola et al., 1995). Neurons
+containing D1 receptor may play a role in modulating trigeminovascular nociception. These
+neurons offer an important target to understanding pathophysiology of migraine and may
+offer new directions for therapy. The aim of this study was to investigate the effect of D1 and
+12
+
+D2 receptors on the characteristic features of cortical SD. Therefore, we investigated the
+effects of inhibition of both D1 and D2 receptors on SD in rat neocortical tissues.
+Material and methods
+The experiments were performed on adult rat (250-350g) somatosensory neocortical slices.
+The brain was removed under deep methohexital anaesthesia and placed in cold (1–4°C)
+artificial cerebrospinal fluid (ACSF) pre-equilibrated with 5% CO2 in O2 to give a pH of 7.4.
+The ACSF contained (in mM): NaCl 124, KCl 4, CaCl2 1.0, NaH2PO4 1.24, MgSO4 1.3,
+NaHCO3 26 and glucose 10. The somatosensory neocortices were dissected and cut into slices
+of 500 µm thickness. The slices were incubated in ACSF solution for >1 h at 28°C. After 30min incubation, CaCl2 was elevated to 2.0 mM. Slices were transferred to an interphase-type
+experimental chamber and superfused with ACSF at 32°C (1.5–2 ml/min).
+Electrophysiological recordings
+Extracellular field potentials were recorded with glass microelectrodes (150 mmol/l NaCl; 2–
+10 M ) connected to the amplifier by an Ag/AgCl–KCl bridge in the third and the fifth layers
+of neocortical tissues. Field potentials were traced by an ink-writer and recorded by a digital
+oscilloscope.
+Induction of neocortical SD
+SD was elicited by KCl microinjection. A glass electrode filled with 2 M KCl was fixed in a
+special holder connected with plastic tube to a pressure injector and the tip inserted into the
+sixth layer of the neocortical slices. A high-pressure pulse was applied to inject an amount of
+K+ in the tissue sufficient to induce cortical SD (tip diameter: 2 µm; injection pressure 0.5–1.0
+bar applied for 200–300 ms, two injections, 1–3 nl per pulse). Cortical SD-like events were
+evaluated with respect to their amplitude, duration and velocity rates. SD duration was defined
+as the interval between the time of half-maximal voltage shift during onset and recovery of the
+negative DC potential deflection.
+
+Long-term potentiation
+
+13
+
+Single pulses of electrical stimulation were applied through a bipolar platinum electrode
+attached to the white matter perpendicular to the recording electrodes. Evoked field excitatory
+postsynaptic potentials (fEPSP) were recorded in the third layer of neocortical slices. The
+fEPSP was elicited by adjusting the intensity of stimulation to
+
+50% of that at which
+
+population spikes after fEPSP began to appear. The amplitude of fEPSP 1 ms after the onset
+was measured for data analysis. In long-term potentiation (LTP) experiments, the cortex was
+sequentially stimulated once every minute. Ten trains of four pulses (pulse duration 0.1 msec;
+interpulse interval 50 msec; intensity 5 V) were repeated at intervals of 10 msec. LTP was
+operationally defined as the mean change in fEPSP amplitude in response to five stimuli
+given 30 min after tetanic stimulation compared with the mean response to five test pulses
+applied immediately before the stimulation. Thus % potentiation = [(posttetanus amplitude of
+fEPSP/baseline amplitude of fEPSP) 1] 100. Tetanic stimulation was applied 60 min after
+application of drug.
+Experimental protocols
+The experimental protocol consisted of four periods as follows: (a) control period, neocortical
+slices were superfused with ACSF (30 min), tested for spontaneous SD; (b) KCl injection,
+induction of SD (SD1); (c) application of D2 dopamine receptor agonist quinpirole (10-200
+µM), or the dopamine D2 dopamine receptor antagonist sulpiride (0.1-10 µM, 60 min) before
+the second injection of KCl (SD2); (d) washout of quinpirole or sulpiride with ASCF (45 min,
+second control period), third injection of KCl (SD3). Only a single concentration of quinpirole
+or sulpiride was used in a given slice. In control experiments, DMSO (0.5%) was added to the
+bath solution after the first KCl injection (60 min) and washed with ASCF (45 min) after the
+second and before the third KCl application.
+Drugs
+Quinpirole or sulpiride both purchased from Sigma-Aldrich.
+Statistical analysis
+All data are given as mean ± SEM. The data were statistically analysed using the Mann–
+Whitney Rank Sum test. Multiple comparisons were performed by analysis of variance test
+(ANOVA) for repeated measures followed by a Holm-Sidak’s test. Significance was
+established when the probability values were less than 0.05. The investigations were approved
+14
+
+by the local ethics committee (Tierversuchsgenehmigung, Bezirksregierung Münster,
+Deutschland, AZ: 50.0835.1.0, G79/2002).
+
+15
+
+Results:
+The effect of D2 dopamine receptor agonist quinpirole on SD
+Focal application of KCl in the sixth layer of neocortical tissues induced negative DC
+deflections followed by positive waves (amplitude of 15.6 ± 1.9 mV; duration of 113 ± 5 sec).
+Negative DC-fluctuations were sometimes preceded by small positive waves. These cortical
+SD waves propagated opposite to the direction of the ACSF flow at propagation velocity of
+3.1 ± 0.1 mm / min. The effect of five different concentrations of D2 dopamine receptor
+agonist quinpirole (10, 20, 50, 100, 200 µΜ; n = 6 for each concentration) was tested on
+potassium-evoked SD in neocortical tissues. The ratio between the second and the first DC
+potential waves (SD2/SD1) was calculated in control slices and slices treated with quinpirole.
+Sixty minutes of quinpirole application at 10 µM did not significantly change different
+characteristics of SD, i.e. amplitude, duration, and propagation velocity. Quinpirole at higher
+concentrations dose-dependently increased the amplitude and the duration of negative
+depolarisation potential shifts occurring after the second KCl application (SD2). The
+amplitude as well as the duration of SD2 and the SD2/SD1 ratio significantly increased after
+superfusion of quinpirole at 20-200 µM (Fig. 4; P ≤ 0.001; ANOVA test, Holm-Sidak’
+method). Quinpirole increased the SD amplitude and duration between 23 ± 4 to 80 ± 7 % and
+between 18 ± 5 to 59 ± 5 % of the baseline level, respectively. Quinpirole did not change the
+velocity of negative DC potential propagation at all different concentrations. After washout of
+the compound, the amplitude, the duration, and the velocity of the propagation of the negative
+DC waves (SD3) returned close to the initial levels (SD1; Fig. 4).
+The effect of dopamine D2 dopamine receptor antagonist sulpiride on neocortical SD
+Sulpiride at 1-10 µM dose-dependently decreased the amplitude of negative DC potentials
+occurring after the second KCl application (SD2; Fig. 5; P ≤ 0.001; ANOVA test).
+Application of sulpiride for sixty minutes reduced the SD amplitude to 38 ± 5 % of the
+baseline level (SD2/SD1 ratio). Sulpiride at these concentrations also significantly and dosedependently decreased the mean duration of cortical SD to 48 ± 6 % of the baseline value.
+Sulpiride at all different concentration did not change the speed of the DC-wave propagation.
+Sulpiride at 0.1 µM did not affect SD. After washout of the compound, the amplitude of the
+deflection of DC potentials (SD3) returned close to the initial levels (SD1; Fig. 5).
+
+16
+
+A
+SD 1
+
+SD 2
+
+SD 3
+
+B
+
+SD amplitude enlargement (%)
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+180
+
+200
+
+Quinpirole concentration (micromol/ l)
+
+Figure 4. Effects of quinpirole on cortical spreading depression (SD) in somatosensory
+neocortical tissues. A: Recording of DC potential shifts in the third layer of a neocortical slice
+before (A1), during (A2), and after (A3) application of quinpirole (50 µM). Field potentials
+were recorded by an ink-writer. SD was elicited by KCl microinjection. B: The curve
+indicates the plot of percentage enlargement of SD amplitude vs. quinpirole concentrations (n
+= 6 for each concentration). Quinpirole dose-dependently increased the amplitude of SD. The
+17
+
+percentage of SD amplitude enlargement was measured by division of the amplitude of SD
+induced after application of sulpiride to the amplitude of SD elicited before superfusion of the
+substance. Values represent mean ± SEM. Significance was determined by ANOVA test
+followed by Dunn’s post-test (B; P ≤ 0.001).
+
+18
+
+A
+SD 1
+
+SD 2
+
+SD 3
+
+B
+
+SD amplitude reduction (% )
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+Sulpiride concentration ( micromol/l)
+
+Figure 5. Effects of sulpiride on cortical spreading depression (SD) in somatosensory
+neocortical tissues. A: Recording of DC potential shifts in the third layer of a neocortical slice
+before (A1), during (A2), and after (A3) application of sulpiride (5 µM). Field potentials were
+19
+
+recorded by an ink-writer. SD was elicited by KCl microinjection. B: The curve indicates the
+plot of percentage decreases of SD amplitude vs. sulpiride concentrations (n = 6 for each
+concentration). Sulpiride dose-dependently decreased the amplitude of SD. The percentage of
+SD amplitude reduction was measured by division of the amplitude of SD induced after
+application of sulpiride to the amplitude of SD elicited before superfusion of the substance.
+Values represent mean ± SEM. Significance was determined by ANOVA test followed by
+Dunn’s post-test (B; P ≤ 0.001).
+
+The effect of quinpirol and sulpiride on LTP
+A conditioning tetanic stimulation was delivered to the white substance of neocortical slices
+followed by pulses with stimulation parameters identical to control values. The evoked fEPSP
+was stable for at least 30 min before application of tetanic stimulation (less than 10%
+variation; Fig. 6). Administration of tetanic stimulation produced a rapid and stable
+enhancement of the amplitude of the fEPSP in all tested preparations (n = 6, 164 ± 12 %
+control; Fig. 6). LTP lasted as long as the fEPSP were recorded (at least for 90 min). The
+potentiation rose within 1–2 min and stabilized within 5 minutes after the train of
+stimulations. Application of sulipride (5 µM; n = 10) sixty min before tetanic stimulation
+significantly suppressed LTP induction in all tested slices (122 ± 3 % baseline, Mann–
+Whitney Rank Sum test; P ≤ 0.001, Fig. 6). However, Application of quinpirole (50 µM; n =
+10) sixty min before tetanic stimulation did not significantly change the LTP induction in
+compare with control tissues (147 ± 6 % baseline, Mann–Whitney Rank Sum test; P = 0.08,
+Fig. 6).
+
+20
+
+A
+fEPEP amplitude (% baseline)
+
+300
+
+250
+
+200
+
+150
+
+100
+CTRL
+Quinpirol
+Sulipride
+
+50
+
+0
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Time ( min)
+
+B
+
+Sulipride
+
+Quinpirol
+
+CTRL
+
+0.2 mV
+5 ms
+
+Figure 6. The effect of D2 dopamine receptor agonist quinpirole and the dopamine D2
+dopamine receptor antagonist sulpiride on long-term potentiation (LTP) of the evoked field
+excitatory postsynaptic potentials (fEPSP) in neocortical preparations. (A) Tetanic stimulation
+(Ten trains of four pulses; pulse duration 0.1 msec; interpulse interval 50 msec; intensity 5 V))
+produces a rapid and stable potentiation in the amplitude of the evoked field potentials,
+calculated as a percentage of baseline mean response amplitude. Open triangles, open square,
+and closed circles show the evoked fEPSP after application of sulipride (5 µmol/l), quinpirole
+21
+
+(50 µmol/l) and control, respectively. Arrow shows the time of tetanic stimulation, 60 min
+after application of substances. Application of sulipride significantly inhibited LTP of the
+evoked field potentials (Mann–Whitney Rank Sum test, P = 0.001), calculated as a percentage
+of baseline mean response amplitude. B: Representative examples of the evoked field
+potentials before and after tetanic stimulation in sulipride, quinpirole, and ACSF (control)
+affected slices.
+
+22
+
+Dsicussion
+
+The present data reveal a dose dependent suppression of the amplitude and duration of the
+neocortical SD in the presence of the dopamine D2 dopamine receptor antagonist sulpiride. In
+contrary, D2 dopamine receptor agonist quinpirole dose dependently enhanced the amplitude
+and duration of the neocortical SD. The data point to the involvement of D2 dopamine
+receptor in initiation of neocortical SD. Furthermore, application of D2 dopamine receptor
+antagonist significantly suppressed LTP, whereas, D2 dopamine receptor agonist did not
+change LTP. This indicates the modulatory effect of this receptor-type on the somatosensory
+neocortical synaptic transmission.
+Dopamine is widely distributed in the central nervous system and serves a variety of functions
+in the mature brain, including control of movement, cognition, endocrine responses, and
+reward. Dysfunction of dopaminergic system plays an important role in many neurological
+and psychiatric disorders, including schizophrenia, Parkinson's disease, attention-deficit
+hyperactivity disorder, and drug addiction (Arnsten and Li, 2005; Biederman and Faraone,
+2005; Kalivas and Volkow, 2005). Dopamine receptors are G protein-coupled receptors,
+characterized by an extracellular N-terminal region, intracellular C-terminal region, and seven
+membrane-spanning regions. There are two subfamilies of DA receptors, D1 receptors and D2
+receptors, based on their pharmacological profiles and sequence homology (Lachowicz and
+Sibley, 1997; Missale et al., 1998). D1 receptors, including the D1 and D5 receptor subtypes,
+catalyze synthesis of cAMP. D2 receptors, including the D2, D3, and D4 receptor subtypes,
+inhibit cAMP synthesis. The receptors also affect activation of potassium channels and
+mitogen-activated protein kinases (Neve et al., 2004; Beaulieu et al., 2005). Several studies
+have identified binding partners for the D2 receptor including coreceptors, signaling
+molecules, and scaf-folding proteins (Smith et al., 1999; Macey et al., 2004; Negyessy and
+Goldman-Rakic, 2005; So et al., 2005; Liu et al., 2006 , 2007; Rashid et al., 2007; Kim et al.,
+2008).
+The D2 dopamine receptor has been one of the most extensively investigated gene in
+neurological as well as psychological disorders. A higher D2 A1 allelic frequency and
+prevalence was reported in alcoholics when compared to controls. Variants of the D2 gene
+have also been associated with cocaine, nicotine and opioid dependence and obesity. The D2
+
+23
+
+gene has also been implicated in schizophrenia, posttraumatic stress disorder, movement
+disorders and migraine (Noble, 2003).
+A huge amount of data suggests that dopaminergic activation is a primary pathophysiologic
+component in certain subtypes of migraine (Peroutka, 1997). This has led to an examination
+of D2 variants in this disorder. In one study the NcoI D2 C to T polymorphism located in exon
+6 was assessed in individuals having migraine with aura and without aura (Peroutka, 1997).
+Individuals having migraine with aura had a significantly higher frequency of the D2 C allele
+than did control or migraine without aura individuals. No D2 C allele frequency difference
+was found, however, between the latter two groups. The association of NcoI DRD2 variants in
+comorbid migraine with aura, anxiety and depression was also reported (Peroutka, 1998). The
+D2 C allele frequency was significantly higher in individuals with migraine without aura,
+anxiety disorders or major depression than in individuals who had none of these disorders.
+Another group (Del Zompo et al.,1998) utilized the Transmission Disequilibrium Test and the
+dinucleotide repeat alleles within intron 2 of the D2 gene to test for association with patients
+affected by migraine without aura. Although no difference was observed in D2 repeat allelic
+distribution in the overall sample, allelic distribution differed significantly in a subgroup of
+dopaminergic migraineurs. Another D2 gene polymorphism (promoter -141C Ins/Del),
+however, was not found to be associated with migraine (Maude et al., 2001). Furthermore, a
+significant and independent association was found of SNPs in the insulin receptor and the D2
+SNP93 with migraine subjects (McCarthy et al., 2001).
+SD is believed to play a crucial role in migraine with aura. In 1945, Leão and Morison
+hypothesized that the slow march of the negative (suppressive) neurological symptoms, e.g.,
+scotoma or hemianopia appeared after positive (stimulative) ones, e.g., flashing lights in the
+visual or sensory sphere is related to the SD phenomenon (Leão and Morison 1945). SD
+consists of a wave of neuronal activation followed by a suppression of neuronal activity that
+propagates slowly across the surface of the brain. SD-like waves were recorded from human
+neocortex during the aura phase of migraine attacks (Welch et al. 1993; Hadjikhani et al.
+2001). Furthermore, increasing evidence suggesting the intense perturbations generate the
+cellular, molecular, and vascular changes in brain akin to SD could cause the headaches of
+aura-induced migraine (Moskowitz et al. 1993; Bolay et al. 2002; Gorji et al. 2004). It has
+been shown that sulpiride is an effective substance in the treatment of migraine headache
+(Piccini et al., 1990; Siniachkin et al., 1997). In the present study, sulpiride suppressed
+24
+
+characteristic features of SD. This suggests that blocking effect of D2 dopamine receptor
+antagonist, sulpiride on neocortical SD may be responsible for its efficacy in migraine
+headache. Several other anti-migraine substances such as Topiramate, valproate, propranolol,
+amitriptyline, and methysergide also have inhibitory effects on SD (Ayata et al., 2006).
+LTP is an experimental phenomenon, which can be used to demonstrate the repertoire of
+long-lasting modifications of which individual synapses are capable (Collingridge & Singer
+1990, Malenka & Bear 2004). In the present experiments, neocortical slices perfused with
+sulpiride exhibited a pronounced, persisting, and significant suppression of LTP, whereas, D2
+receptors agonist, quinpirol did not change LTP. Induction of LTP in the synaptic pathway
+from the basolateral amygdala to the dentate gyrus is regulated by D2 dopamine receptors
+(Abe et al., 2009). In line with our data, it has been reported that blocking of D2 dopamine
+receptors led to the inhibition of LTP (Abe et al., 2008). It has been suggested that the role of
+dopamine D2 receptors in the induction of LTP is modulatory and depends on GABAergic
+inhibition (Abe et al., 2009). SD induces an LTP-like effect in rat neocortical slices (Footitt
+and Newberry 1998) and enhances LTP induction in human neocortical tissues (Berger et al.,
+2008). Both inhibition of LTP induction and SD generation were observed by drug
+manipulation in rat neocortical tissues (Muller et al., 2006). Conversely, enhancement of LTP
+induction and facilitation of SD occurrence was observed under female hormones application
+in rat somatosensory neocortical tissues (Sachs et al, 2007). Modulation of LTP responses was
+also observed remote from the SD propagation site in hippocampal tissues (Wernsmann et al.
+2006). The inhibition of LTP after administration of dopamine D2 receptors and reduction of
+synaptic efficacy may be responsible for its suppressive effect on SD.
+Conclusion
+D2 dopamine receptors seem to participate in the pathophysiological mechanisms of migraine
+attacks as well as other neurological and psychological disorders. Inhibition of D2 dopamine
+receptors plays an important role in the treatment of these disorders including migraine with
+aura. The therapeutic effects of blocking D2 dopamine receptors in migraine attacks may be
+due to its inhibitory action on neocortical SD. In addition, present data indicate the
+importance of D2 receptors in neocortical synaptic efficacy which may be involved in its
+inhibitory action on SD.
+
+25
+
+References
+
+Abe K, Fujimoto T, Akaishi T, Misawa M. (2009) Stimulation of basolateral amygdaloid serotonin 5HT(2C) receptors promotes the induction of long-term potentiation in the dentate gyrus of
+anesthetized rats. Neurosci Lett. 451:65-8. Epub 2008 Dec 24.
+
+Abe K, Niikura Y, Fujimoto T, Akaishi T, Misawa M. (2008) Involvement of dopamine D2 receptors
+in the induction of long-term potentiation in the basolateral amygdala-dentate gyrus pathway of
+anesthetized rats. Neuropharmacology. 55:1419-24.
+
+Arnsten AF, Li BM. (2005) Neurobiology of executive functions: catecholamine influences on
+prefrontal cortical functions. Biol Psychiatry. 1;57:1377-84.
+
+Amery WK, Waelkens J. (1983) Prevention of the last chance: an alternative pharmacologic treatment
+of migraine. Headache. 23:37-8.
+
+Avshalumov MV, Chen BT, Marshall SP, Peña DM, Rice ME. (2003) Glutamate-dependent inhibition
+of dopamine release in striatum is mediated by a new diffusible messenger, H2O2. J Neurosci.
+1;23:2744-50.
+
+Ayata C, Jin H, Kudo C, Dalkara T, Moskowitz MA.(2006) Suppression of cortical spreading
+depression in migraine prophylaxis. Ann Neurol.59:652-61
+
+Beaulieu JM, Sotnikova TD, Marion S, Lefkowitz RJ, Gainetdinov RR, Caron MG.( 2005) An
+Akt/beta-arrestin 2/PP2A signaling complex mediates dopaminergic neurotransmission and behavior.
+Cell. 29;122:261-73.
+
+26
+
+Berger M., Normann C. (2008) Neuroenhancement: status quo and perspectives. Eur Arch Psychiatry
+Clin Neurosci. 258 Suppl 5:110-4.
+
+Biederman J, Faraone SV. (2005) Attention-deficit hyperactivity disorder. Lancet. 16-22;366:237-48.
+
+Bolay H, Reuter U, Dunn AK, Huang Z, Boas DA, Moskowitz MA. (2002) Intrinsic brain activity
+triggers trigeminal meningeal afferents in a migraine model. Nat Med. 8:136-42.
+
+Chéramy A, Romo R, Godeheu G, Baruch P, Glowinski J. (1986) In vivo presynaptic control of
+dopamine release in the cat caudate nucleus--II. Facilitatory or inhibitory influence of L-glutamate.
+Neuroscience. 19:1081-90.
+
+Chéramy A, Barbeito L, Romo R, Godeheu G, Glowinski J. (1986) Involvement of cortico-striatal
+"glutamatergic" neurons in the presynaptic control of dopamine release in the cat caudate nucleus.
+Clin Neuropharmacol. 9 Suppl 4:500-2.
+
+Chéramy A, Barbeito L, Godeheu G, Desce JM, Pittaluga A, Galli T, Artaud F, Glowinski J. (1990)
+Respective contributions of neuronal activity and presynaptic mechanisms in the control of the in vivo
+release of dopamine. J Neural Transm Suppl. 1990;29:183-93.
+
+Collingridge GL, Singer W. (1990) Excitatory amino acid receptors and synaptic plasticity. Trends
+Pharmacol Sci. 1990 Jul;11(7):290-6
+
+Coppola M, Yealy DM, Leibold RA. (1995) Randomized, placebo-controlled evaluation of
+prochlorperazine versus metoclopramide for emergency department treatment of migraine headache.
+Ann Emerg Med. 26:541-6.
+
+Del Bene E, Poggioni M, De Tommasi F. (1994) Video assessment of yawning induced by sublingual
+apomorphine in migraine. Headache. 34:536-8.
+
+27
+
+Del Zompo M, Cherchi A, Palmas MA, Ponti M, Bocchetta A, Gessa GL, Piccardi MP. (1998)
+Association between dopamine receptor genes and migraine without aura in a Sardinian sample.
+Neurology. 51:781-6.
+
+Footitt DR, Newberry NR. (1998) Cortical spreading depression induces an LTP-like effect in rat
+neocortex in vitro. Brain Res. 19;781:339-42.
+
+Gorji A, Scheller D, Straub H, Tegtmeier F, Köhling R, Höhling JM, Tuxhorn I, Ebner A, Wolf P,
+Werner Panneck H, Oppel F, Speckmann EJ. (2001) Spreading depression in human neocortical slices.
+Brain Res. 6;906:74-83.
+
+Hadjikhani N, Sanchez Del Rio M, Wu O, Schwartz D, Bakker D, Fischl B, Kwong KK, Cutrer FM,
+Rosen BR, Tootell RB, Sorensen AG, Moskowitz MA.( 2001) Mechanisms of migraine aura revealed
+by functional MRI in human visual cortex.
+Proc Natl Acad Sci U S A. 10;98:4687-92.
+
+Kalivas PW, Volkow N, Seamans J. (2005) Unmanageable motivation in addiction: a pathology in
+prefrontal-accumbens glutamate transmission.Neuron. 3;45:647-50.
+
+Karreman M, Moghaddam B. (1996) The prefrontal cortex regulates the basal release of dopamine in
+the limbic striatum: an effect mediated by ventral tegmental area.J Neurochem. 66:589-98.
+
+Kilpatrick IC, Phillipson OT. (1986) Thalamic control of dopaminergic functions in the caudateputamen of the rat--I. The influence of electrical stimulation of the parafascicular nucleus on dopamine
+utilization. Neuroscience. 19:965-78.
+
+Kim JH, Cho EY, Min C, Park JH, Kim KM. (2008) Characterization of functional roles of DRY
+motif in the 2nd intracellular loop of dopamine D2 and D3 receptors. Arch Pharm Res. 31:474-81.
+
+Lachowicz JE, Sibley DR. (1997) Molecular characteristics of mammalian dopamine receptors.
+Pharmacol Toxicol. 81:105-13.
+
+28
+
+Leviel V, Gobert A, Guibert B. (1990) The glutamate-mediated release of dopamine in the rat
+striatum: further characterization of the dual excitatory-inhibitory function. Neuroscience. 39:305-12.
+
+Liu Y, Teeter MM, DuRand CJ, Neve KA. (2006) Identification of a Zn2+-binding site on the
+dopamine D2 receptor. Biochem Biophys Res Commun. 20;339:873-9.
+
+Macey TA, Gurevich VV, Neve KA. (2004) Preferential Interaction between the dopamine D2
+receptor and Arrestin2 in neostriatal neurons. Mol Pharmacol. 66:1635-42.
+
+Malenka RC, Bear MF. (2004) LTP and LTD: an embarrassment of riches.Neuron. 30;44:5-21.
+
+Maude S, Curtin J, Breen G, Collier D, Russell G, Shaw D, Clair DS. (2001) The -141C Ins/Del
+polymorphism of the dopamine D2 receptor gene is not associated with either migraine or Parkinson's
+disease. Psychiatr Genet. 11:49-52.
+
+Meador-Woodruff JH, Damask SP, Wang J, Haroutunian V, Davis KL, Watson SJ. (1996) Dopamine
+receptor mRNA expression in human striatum and neocortex. Neuropsychopharmacology. 15:17-29.
+
+McCarthy LC, Hosford DA, Riley JH, Bird MI, White NJ, Hewett DR, Peroutka SJ, Griffiths LR,
+Boyd PR, Lea RA, Bhatti SM, Hosking LK, Hood CM, Jones KW, Handley AR, Rallan R, Lewis KF,
+Yeo AJ, Williams PM, Priest RC, Khan P, Donnelly C, Lumsden SM, O'Sullivan J, See CG, Smart
+DH, Shaw-Hawkins S, Patel J, Langrish TC, Feniuk W, Knowles RG, Thomas M, Libri V,
+Montgomery DS, Manasco PK, Xu CF, Dykes C, Humphrey PP, Roses AD, Purvis IJ. (2001) Singlenucleotide polymorphism alleles in the insulin receptor gene are associated with typical migraine.
+Genomics. 78:135-49. Erratum in: Genomics 79:271.
+
+Missale C, Nash SR, Robinson SW, Jaber M, Caron MG. (1998) Dopamine receptors: from structure
+to function. Physiol Rev. 78:189-225.
+
+Mochi M, Cevoli S, Cortelli P, Pierangeli G, Soriani S, Scapoli C, Montagna P. (2003) A genetic
+association study of migraine with dopamine receptor 4, dopamine transporter and dopamine-betahydroxylase genes. Neurol Sci. 23:301-5.
+
+29
+
+Moghaddam B, Schenk JO, Stewart WB, Hansen AJ. (1987) Temporal relationship between
+neurotransmitter release and ion flux during spreading depression and anoxia. Can J Physiol
+Pharmacol. 65:1105-10.
+
+Moskowitz MA, Macfarlane R. (1993) Neurovascular and molecular mechanisms in migraine
+headaches. Cerebrovasc Brain Metab Rev. Fall;5:159-77.
+
+Müller M, Pape HC, Speckmann EJ, Gorji A. (2006) Effect of eugenol on spreading depression and
+epileptiform discharges in rat neocortical and hippocampal tissues. Neuroscience. 30;140:743-51.
+
+Murase S, Grenhoff J, Chouvet G, Gonon FG, Svensson TH. (1993) Prefrontal cortex regulates burst
+firing and transmitter release in rat mesolimbic dopamine neurons studied in vivo. Neurosci Lett.
+157:53-6.
+
+Negyessy L, Goldman-Rakic PS. (2005) Subcellular localization of the dopamine D2 receptor and
+coexistence with the calcium-binding protein neuronal calcium sensor-1 in the primate prefrontal
+cortex. J Comp Neurol. 8;488:464-75.
+
+Noble EP. (2003) D2 dopamine receptor gene in psychiatric and neurologic disorders and its
+phenotypes. Am J Med Genet B Neuropsychiatr Genet. 1;116B:103-25
+
+Peroutka SJ. (1997) Dopamine and migraine. Neurology. 49:650-6.
+
+Peroutka SJ, Price SC, Wilhoit TL, Jones KW. (1998) Comorbid migraine with aura, anxiety, and
+depression is associated with dopamine D2 receptor (DRD2) NcoI alleles. Mol Med. 4:14-21.
+
+Piccini P, Nuti A, Paoletti AM, Napolitano A, Melis GB, Bonuccelli U. (1990) Possible involvement
+of dopaminergic mechanisms in the antimigraine action of flunarizine. Cephalalgia. 10:3-8.
+
+Rashid AJ, So CH, Kong MM, Furtak T, El-Ghundi M, Cheng R, O'Dowd BF, George SR.
+
+( 2007)
+
+D1-D2 dopamine receptor heterooligomers with unique pharmacology are coupled to rapid activation
+of Gq/11 in the striatum. Proc Natl Acad Sci U S A. 9;104:654-9.
+
+30
+
+Romo R, Chéramy A, Godeheu G, Glowinski J. (1986) In vivo presynaptic control of dopamine
+release in the cat caudate nucleus--III. Further evidence for the implication of corticostriatal
+glutamatergic neurons. Neuroscience. 194:1091-9.
+
+Rossetti ZL, Marcangione C, Wise RA. (1998) Increase of extracellular glutamate and expression of
+Fos-like immunoreactivity in the ventral tegmental area in response to electrical stimulation of the
+prefrontal cortex. J Neurochem. 704:1503-12.
+
+Siniachkin MS, Veĭn AM, Voznesenskaia TG, Gerber VD. (1997) Sulpiride in the prophylactic
+treatment of migraine . Zh Nevrol Psikhiatr Im S S Korsakova. 97:28-32.
+
+Smith FD, Oxford GS, Milgram SL. (1999) Association of the D2 dopamine receptor third
+cytoplasmic loop with spinophilin, a protein phosphatase-1-interacting protein. J Biol Chem.
+9;274:19894-900.
+
+So CH, Varghese G, Curley KJ, Kong MM, Alijaniaram M, Ji X, Nguyen T, O'dowd BF, George SR.
+(2005) D1 and D2 dopamine receptors form heterooligomers and cointernalize after selective
+activation of either receptor. Mol Pharmacol. 68:568-78.
+Strafella AP, Paus T. (2001) Cerebral blood-flow changes induced by paired-pulse transcranial
+magnetic stimulation of the primary motor cortex. J Neurophysiol. 85:2624-9.
+
+Sachs M, Pape HC, Speckmann EJ, Gorji A. (2007) The effect of estrogen and progesterone on
+spreading depression in rat neocortical tissues. Neurobiol Dis. 25:27-34.
+Taber MT, Fibiger HC. (1995) Electrical stimulation of the prefrontal cortex increases dopamine
+release in the nucleus accumbens of the rat: modulation by metabotropic glutamate receptors. J
+Neurosci. 15:3896-904.
+
+Tucci S, Contreras Q, Paez X, Gonzalez L, Rada P, Hernandez L. (2000) Medial prefrontal transection
+enhances social interaction. II: neurochemical studies. Brain Res. 29;887:259-65.
+
+Welch KM, Barkley GL, Tepley N, Ramadan NM. (1993) Central neurogenic mechanisms of
+migraine. Neurology. 43:S21-5.
+
+31
+
+Wernsmann B, Pape HC, Speckmann EJ, Gorji A. (2006) Effect of cortical spreading depression on
+synaptic transmission of rat hippocampal tissues. Eur J Neurosci. 23:1103-10.
+
+Wu Y, Pearl SM, Zigmond MJ, Michael AC. (2000) Inhibitory glutamatergic regulation of evoked
+dopamine release in striatum. Neuroscience. 96:65-72.
+
+You ZB, Tzschentke TM, Brodin E, Wise RA. (1998) Electrical stimulation of the prefrontal cortex
+increases cholecystokinin, glutamate, and dopamine release in the nucleus accumbens: an in vivo
+microdialysis study in freely moving rats. J Neurosci. 15;18(:6492-500.
+
+Zhang H, Sulzer D. (2003) Glutamate spillover in the striatum depresses dopaminergic transmission
+by activating group I metabotropic glutamate receptors. J Neurosci. 19;23:10585-92.
+
+32
+
+Lebenslauf
+
+

@@ -1,0 +1,2960 @@
+Aus der Universitätsklinik Freiburg
+Universitäts-Notfallzentrum
+der Albert-Ludwigs-Universität Freiburg im Breisgau
+
+Schädigung der endothelialen Glykokalyx beim
+Postreanimationssyndrom
+
+INAUGURAL-DISSERTATION
+zur Erlangung des Medizinischen Doktorgrades
+der Medizinischen Fakultät
+der Albert-Ludwigs-Universität Freiburg im Breisgau
+
+vorgelegt 2012
+von Lyubomira Rabadzhieva
+geboren in Plovdiv, Bulgarien
+
+Dekan: Prof. Dr. Dr. h.c. Hubert Erich Blum
+1. Gutachter: PD Dr. Hans-Jörg Busch
+2. Gutachter: PD Dr. Torben Pottgießer
+Jahr der Promotion: 2014
+
+Meinen Eltern
+
+Inhaltsverzeichnis
+
+Inhaltsverzeichnis
+
+1 Einleitung .......................................................................................................... 1
+1.1 Herzkreislaufstillstand und kardiopulmonale Reanimation ......................... 1
+1.1.1 Häufigkeit und Relevanz ....................................................................... 1
+1.1.2 Definition und zugrundeliegende Ursachen .......................................... 2
+1.1.3 Therapie ................................................................................................. 2
+1.1.4 Komplikationen ................................................................................... 10
+1.1.5 Prognose .............................................................................................. 10
+1.2 Das Postreanimationssyndrom ................................................................... 11
+1.2.1 Pathophysiologie ................................................................................. 13
+1.2.1.1 Globale Folgen der Ischämie und Sauerstoffschuld ................... 13
+1.2.1.2 Ischämische Hirnschädigung und IschämieReperfusionsschaden ............................................................................... 14
+1.2.1.3 Myokardiale Dysfunktion ........................................................... 14
+1.2.1.4 Inflammationsreaktion ................................................................ 15
+1.2.1.5 Gerinnungsaktivierung ................................................................ 15
+1.2.1.6 Zusätzliche Faktoren für schlechtes neurologisches Outcome ... 15
+1.3 Die endotheliale Glykokalyx ....................................................................... 17
+
+2 Zielsetzung ..................................................................................................... 19
+
+3 Material und Methoden ................................................................................. 20
+3.1 Patientenkollektiv ....................................................................................... 20
+3.2 Genehmigung ............................................................................................. 21
+
+Inhaltsverzeichnis
+3.3 Material ...................................................................................................... 23
+3.3.1 Blutentnahme ...................................................................................... 23
+3.3.2 ELISA.................................................................................................. 23
+3.3.3 Elektronische Datenverarbeitungssysteme ......................................... 24
+3.4 Methoden .................................................................................................... 24
+3.4.1 Blutentnahme ...................................................................................... 24
+3.4.2 ELISA-Technik ................................................................................... 25
+3.4.2.1 Sandwich-ELISA ........................................................................ 27
+3.4.2.1.1 Syndecan-1-ELISA ............................................................. 28
+3.4.2.1.2 Heparansulfat-ELISA.......................................................... 29
+3.4.2.2 Kompetitiver ELISA ................................................................... 30
+3.4.2.2.1 Hyaluronsäure-ELISA ........................................................ 31
+3.4.3 Quantifizierung der Plasmaproteinkonzentration ............................... 32
+3.5 Statistik ....................................................................................................... 32
+
+4 Ergebnisse ...................................................................................................... 35
+4.1 Patientenrekrutierung und Patientencharakterisietung .............................. 35
+4.2 Plasmaspiegel von Syndecan-1, Heparansulfat und Hyaluronsäure in der
+frühen und intermediären Phase des Postreanimationssyndroms .................... 37
+4.3 Plasmakonzentrationen der Glykokalyxkomponenten bei NichtÜberlebenden und Überlebenden ..................................................................... 39
+4.4 Korrelation zwischen der Plasmakonzentration der
+Glykokalyxkomponenten und der Dauer der Reanimation ............................. 41
+4.5 Korrelation zwischen den Plasmakonzentrationen der
+Glykokalyxkomponenten und anderen Laborparametern ................................ 42
+
+Inhaltsverzeichnis
+5 Diskussion........................................................................................................ 44
+5.1 Patientenkollektiv ....................................................................................... 44
+5.2 Das Postreanimationssyndrom ................................................................... 45
+5.2.1 Definition, Pathogenese und Therapie ................................................ 45
+5.2.2 Rolle der endothelialen Glykokalyx ................................................... 46
+5.3 Ausblick...................................................................................................... 50
+5.4 Limitationen ............................................................................................... 52
+
+6 Zusammenfassung .......................................................................................... 54
+7 Abbildungsverzeichnis ................................................................................... 55
+8 Tabellenverzeichnis ........................................................................................ 57
+
+9 Literaturverzeichnis ....................................................................................... 58
+
+10 Quellenangaben zum zitierten Bildmaterial .............................................. 77
+11 Abkürzungsverzeichnis ................................................................................ 79
+12 Einverständniserklärung ............................................................................. 84
+13 Danksagung ................................................................................................... 86
+14 Lebenslauf ..................................................................................................... 88
+15 Erklärung ...................................................................................................... 91
+
+1 Einleitung
+
+1 Einleitung
+1.1 Herzkreislaufstillstand und kardiopulmonale Reanimation
+1.1.1 Häufigkeit und Relevanz
+Okklusive Herzgefäßerkrankungen sind in der westlichen Welt die Todesursache
+Nummer eins. Obwohl die Mortalität der koronaren Herzkrankheit seit den 70er Jahren
+des vorigen Jahrhunderts langsam sinkt, gewinnen ischämische Herzkrankheiten und
+der Schlaganfall weltweit gesehen jedoch zunehmend an Bedeutung.
+Laut Reanimationsregister der DGAI (Deutsche Gesellschaft für Anästhesiologie und
+Intensivmedizin) werden europaweit durchschnittlich mindestens 230 000
+Reanimationen pro Jahr registriert, dies ergibt eine Häufigkeit von über 50
+Reanimationen auf 100 000 Einwohner jährlich [42]. Mehr als die Hälfte dieser Fälle
+ereignet sich außerhalb der Klinik (out-of-hospital cardiac arrest) [93].
+Für die Versorgung dieser Patienten ist ein hoher technischer, personeller und
+finanzieller Aufwand notwendig, die durch Rettungsdienste und Herzkatheter/Intensivstationen, sowie anschließende Rehabilitationskliniken geleistet werden. Dem
+steht eine eher geringe 1-Jahres-Überlebenswahrscheinlichkeit von ungefähr 15 bis
+20 % gegenüber, die sich seit Jahrzehnten trotz der Fortschritte in der
+intensivmedizinischen Behandlung kaum anheben ließ [95]. Ca. 70 % der Patienten,
+die nach überlebtem Herzstillstand auf Intensivstation aufgenommen werden,
+versterben vor der Entlassung. Unter den Überlebenden zeigen nur 68 % der
+Erwachsenen und 58 % der Kinder ein gutes neurologisches Outcome [70].
+Die in Personal und Kosten sehr aufwändige Behandlung und das mit fast unverändert
+hoher Sterblichkeit behaftete Krankheitsbild [70] sind eine medizinische und
+ökonomische Herausforderung. Vor allem die Frage nach einer besseren
+intensivmedizinischen Weiterbehandlung nach Reanimation und die Suche nach
+angemessenen Prognosekriterien als Entscheidungshilfe zur Änderung des
+Therapieziels sind von großer aktueller Bedeutung.
+
+1
+
+1 Einleitung
+1.1.2 Definition und zugrundeliegende Ursachen
+
+Ein Herzkreislaufstillstand tritt ein, wenn Bewusstlosigkeit (mind. 10-15 Sekunden),
+eine fehlende Atemtätigkeit von 30-60 Sekunden und das Nichtvorhandensein eines
+kardialen Kreislaufs vorliegen (Pulslosigkeit).
+Die häufigste Ursache eines Kreislaufstillstands ist in westlichen Industrienationen mit
+über 80 % der plötzliche Herztod, bedingt durch Herzinfarkt oder
+Herzrhythmusstörungen. In ca. 55 % ist der plötzliche Herztod die Erstmanifestation
+einer bisher nicht bekannten Herzerkrankung. Weitere innere Erkrankungen wie
+Lungenerkrankungen, Erkrankungen des Gehirns (Schlaganfall) und andere haben
+einen Anteil am Kreislaufstillstand von etwa 9 %. In weiteren 9 % sind äußere
+Einwirkungen wie Unfall, Ersticken, Vergiftung, Ertrinken, Suizid oder Stromunfall
+die Ursache des Kreislaufstillstandes [48].
+In über 80 % der Fälle liegt einem Herzkreislaufstillstand eine kardiale Ursache
+zugrunde: KHK/Herzinfarkt (70 %), Kardiomyopathien (10 %), hypertensive
+Herzkrankheit (5 %), Myokarditis, Vitien, primäre elektrische Erkrankungen des
+Herzens (Ionenkanalerkrankungen bei jüngeren Patienten), Hypo- oder Hyperkaliämie,
+schwere Azidose, Perikardtamponade, Hypothermie. Bei einer kardialen Genese ist die
+Prognose besser als bei einer nicht-kardialen [81].
+
+1.1.3 Therapie
+
+Durchführung der Reanimation. Die Indikation zur kardiopulmonalen Reanimation
+(CPR) ist bei Herzkreislaufstillständen jeglicher Ursache gegeben, wenn die
+begründete Hoffnung besteht, eine Stabilisierung des kardiozirkulatorischen und des
+respiratorischen Systems sei möglich und die zerebrale Schädigung reversibel.
+Unter einer Herz-Lungen-Wiederbelebung oder Reanimation versteht man das
+Durchführen von Maßnahmen, die einen Atem- und Kreislaufstillstand versuchen
+aufzuheben. Dabei lassen sich Basismaßnahmen, die im Rahmen der lebensrettenden
+Sofortmaßnahmen durchgeführt werden, von erweiterten Maßnahmen unterscheiden.
+Basismaßnahmen, die sowohl von Laien als auch von professionellen Helfern
+durchgeführt werden müssen, umfassen das Erkennen des Kreislaufstillstandes,
+Absetzen eines Notrufes, Freimachen der Atemwege, Beatmung des Patienten und die
+Durchführung einer Herzdruckmassage sowie das Anwenden eines automatisierten
+externen Defibrillators (AED). Das Ziel dieser Maßnahmen ist die Versorgung
+lebenswichtiger Organe mit Sauerstoff.
+2
+
+1 Einleitung
+Erweiterte Maßnahmen, die von Mitarbeitern des Rettungsdienstes, Notarzt und
+medizinischem Fachpersonal im Krankenhaus durchgeführt werden, haben zum Ziel,
+den Kreislaufstillstand zu beenden und eine regelmäßige Herzaktion
+wiederherzustellen. Dabei kommen die Gabe von Medikamenten, die Intubation, die
+Defibrillation und äußere (transkutane) Herzschrittmacher zum Einsatz.
+Die Durchführung der Reanimation wird in wissenschaftlich basierten Richtlinien
+beschrieben. Aktuell sind die Reanimationsrichtlinien des European Resuscitation
+Council (ERC) von 2010. Die praktische Umsetzung und Durchführung kann in
+verschiedenen Ländern, medizinischen Institutionen und Hilfsorganisationen davon
+abweichen.
+
+Basismaßnahmen. Den aktuellen Leitlinien zufolge wird bei einem beobachteten
+Herzkreislaufstillstand ein Notruf abgesetzt und dann unverzüglich mit der
+Herzdruckmassage (30 Kompressionen) in einer Frequenz von 100 pro Minute
+begonnen. Das Verhältnis Herzdruckmassage zu Beatmung sollte 30:2 betragen und so
+lange durchgeführt werden, bis professionelle Hilfe den Patienten erreicht oder sich
+wiederkehrende Lebenszeichen einstellen [33]. Nach der Diagnose eines
+Herzkreislaufstillstandes durch professionelle Helfer finden neben den
+Basismaßnahmen (Basic Life Support, BLS) auch erweiterte Reanimationsmaßnahmen
+(Advanced Life Support, ALS) in Form von Defibrillatoren, Medikamentengabe und
+anderen intensivmedizinischen Behandlungsformen statt. Siehe dazu Abbildung 1 auf
+der folgenden Seite.
+
+Erweiterte Maßnahmen nach EKG-Analyse. Ziel der erweiterten Maßnahmen, auch
+als advanced life support (ALS, Begriff des European Resuscitation Council) oder
+advanced cardiac life support(ACLS, Bezeichnung der American Heart Association)
+bezeichnet, ist die Wiederherstellung eines physiologischen Herzrhythmus des
+Patienten. Dergleichen sind die Atemwegssicherung mittels Intubation, Anlage
+eines venösen Zuganges, die medikamentöse Basistherapie sowie die Therapie
+reversibler Ursachen des Kreislaufstillstandes. Bei der Therapie wird zudem zwischen
+defibrillierbaren und nicht-defibrillierbaren Formen des Herzkreislaufstillstands
+unterschieden. Bei einem defibrillierbaren Rhythmus, meist Kammerflimmern, hat die
+schnelle Anwendung eines Defibrillators oberste Priorität [33]. Auch die Gabe
+von antiarrhythmischen Medikamenten kommt in Frage.
+Der Ablauf der Maßnahmen wird in den Richtlinien des ERC als Algorithmus
+beschrieben, wodurch eine standardisierte und einheitliche Durchführung ermöglicht
+wird. Siehe dazu Abbildung 2 auf Seite 6.
+
+3
+
+1 Einleitung
+Besonders für die Maßnahmen der erweiterten Therapie ist die Unterscheidung von
+tachysystolischen hyperdynamen (defibrillierbaren, elektrisch aktiven) und
+asystolischen hypodynamen (nicht-defibrillierbaren, elektrisch inaktiven)
+Kreislaufstillständen wichtig. Bei der hyperdynamen Form zeigen das Myokard und
+das Erregungsleitungssystem des Herzens eine Aktivität, die jedoch ungeordnet ist. Es
+findet keine koordinierte Herzarbeit und damit kein wesentlicher Auswurf von Blut in
+den Kreislauf mehr statt. Pulslose ventrikuläre Tachykardie (VT), Kammerflattern und
+Kammerflimmern (VF) sind mögliche Ursachen dieser Art des Kreislaufstillstandes.
+Sie geht nach einigen Minuten unweigerlich in die hypodyname Form über, bei der
+keine elektrische Aktivität mehr nachweisbar ist und die als Asystolie bezeichnet wird.
+Eine Sonderform ist die elektromechanische Entkoppelung (EMD = „weak action“ =
+Hyposystolie, PEA = pulslose elektrische Aktivität), bei der zwar eine geordnete
+elektrische Aktivität beobachtet wird, diese jedoch keine Auswurfleistung in Form
+einer Pulswelle mehr bewirkt.
+
+Abbildung 1: BLS nach den Richtlinien des ERC
+4
+
+1 Einleitung
+Defibrillation. Die Defibrillation ist bei Kammerflimmern, Kammerflattern und
+pulsloser elektrischer Aktivität das Mittel der Wahl, bei Asystolie jedoch nicht
+angezeigt. Bei Defibrillatoren mit biphasischem Impuls wird ein Schock von 150–
+360 J appliziert, bei älteren, monophasischen Geräte ein Schock von 360 J. Durch
+diesen Stromstoß kann die ungeordnete elektrische Aktivität des Herzmuskels
+durchbrochen und ein Neustart mit regulärem Rhythmus ermöglicht werden. Direkt
+nach einer jeden Defibrillation wird zunächst mit Herzdruckmassage und Beatmung
+im Verhältnis 30:2 für zwei Minuten fortgefahren. Erst dann wird eine erneute
+Rhythmus- und Pulskontrolle durchgeführt. Bei pulsloser elektrischer Aktivität oder
+bei Asystolie mit P-Wellen im EKG kann der Einsatz eines transkutanen
+Schrittmachers erwogen werden.
+Eine Entwicklung der letzten Jahre ist die zunehmende Verbreitung von
+automatisierten Defibrillatoren an öffentlichen Plätzen. Diese automatisierten externen
+Defibrillatoren (AED) verfügen über eine automatisierte Rhythmuserkennung und
+ermöglichen mittels akustischer Anleitung auch dem Ersthelfer, eine Defibrillation
+durchzuführen. Das Gerät diagnostiziert selbstständig und gibt dem Anwender genaue
+Anweisungen. Ist eine Defibrillation notwendig, braucht der Helfer nur der Ansage
+folgend den Auslöseknopf zu drücken.
+Atemwegssicherung. Die endotracheale Intubation gilt als Goldstandard bei der
+Atemwegssicherung im Rahmen der Reanimation. Dabei wird ein Tubus durch Mund
+oder Nase zwischen den Stimmlippen des Kehlkopfes hindurch in die Luftröhre
+geschoben. Vorteile der Intubation sind Schutz vor Aspiration von Mageninhalt und
+die Möglichkeit der kontrollierten manuellen oder maschinellen Beatmung. Da die
+endotracheale Intubation einen erhöhten Schwierigkeitsgrad aufweist, sollen laut
+Richtlinien nur geübte und erfahrene Helfer diese Methode anwenden. Als
+Alternativen werden der Einsatz von Larynxtubus, Combitubus oder Larynxmaske
+empfohlen.
+Für die Intubation sollte die Herz-Lungen-Wiederbelebung (HLW) nicht oder nur kurz
+unterbrochen werden. Ein Intubationsversuch soll nicht länger als 10 Sekunden
+dauern. Die korrekte Lage des Tubus muss klinisch (Atemgeräusch über den Lungen)
+oder durch den Nachweis von CO2 (Kapnometrie) in der ausgeatmeten Luft überprüft
+werden. Nach erfolgreicher Intubation wird die Herzdruckmassage kontinuierlich, die
+Beatmung mit einer Frequenz von 10/min fortgeführt.
+
+5
+
+1 Einleitung
+
+Abbildung 2: ALS nach den Richtlinien des ERC
+
+Medikamente. Die Medikamentengabe erfolgt bevorzugt intravenös, da dieser
+Zugang schnell und sicher ist. Eine Alternative ist die Gabe über einen
+intraossären Zugang durch Punktion des Knochenmarks, die oft bei kleinen Kindern
+6
+
+1 Einleitung
+angewandt wird. Die Gabe von Medikamenten durch den Tubus (endobronchiale
+Applikation) wird nicht empfohlen, da eine sichere Resorption und ein Anstieg des
+Plasmaspiegels nicht gewährleistet sind. Eine intrakardiale Gabe direkt in das Herz ist
+veraltet und wird ebenfalls nicht durchgeführt.
+Adrenalin ist das Standardmedikament der Reanimation. Es wird aufgrund seiner αadrenergen vasokonstriktorischen Eigenschaften gegeben, die zu einer Verengung der
+peripheren Blutgefäße führen, was die Durchblutung des Herzens und des Gehirns
+verbessert (1 mg alle 3 bis 5 Minuten). Bei Kammerflimmern oder
+Kammertachykardie und dreimaliger erfolgloser Defibrillation wird das
+Antiarrhythmikum Amiodaron (300 mg) gegeben. Es hat das zuvor übliche
+Lidocain in den Empfehlungen abgelöst.
+Die 2010 aktualisierten Reanimationsrichtlinien empfehlen bei einer Asystolie oder
+einer pulslosen elektrischen Aktivität keine Gabe von Atropin mehr, da ein Benefit
+durch die Blockierung des parasympathischen Nervensystems (Parasympathikolyse)
+nicht nachgewiesen werden konnte [33].
+Die früher praktizierte „Pufferung“ der Azidose des Kreislaufs im Rahmen eines
+Kreislaufstillstandes mit Natriumbikarbonat ist routinemäßig nicht mehr gerechtfertigt.
+Bei schweren Azidosen kann die Gabe von kleinen Dosen erwogen werden. Bei
+speziellen Rhythmusstörungen kann weiterhin die Gabe von Magnesiumsulfat in
+Betracht kommen. Für den Einsatz eines Thrombolytikums bei Verdacht auf einen
+Herzinfarkt liegen nur ungenügende Daten vor; er sollte jedoch bei Verdacht
+auf Lungenembolie erwogen werden.
+
+Kausale Therapie. Neben den Reanimationsmaßnahmen, die eine symptomatische
+Therapie darstellen, muss auch versucht werden, die reversiblen Ursachen des
+Kreislaufstillstandes zu diagnostizieren und ursächlich zu behandeln. Zu den
+reversiblen Ursachen zählen eine ungenügende Sauerstoffversorgung des Patienten
+(Hypoxie), ein Mangel an Blutvolumen (hypovolämischer Schock), Unterkühlung
+(Hypothermie) und metabolische Störungen, insbesondere eine Hypo- oder
+Hyperkaliämie. Als weitere kurzfristig im Rahmen einer Reanimation therapierbare
+Ursachen gelten eine Herzbeuteltamponade, Vergiftung, Thromboembolien
+(Herzkranz- oder Lungengefäße) sowie ein Spannungspneumothorax.
+Zu den möglichen, daraus abgeleiteten Maßnahmen zählen der Einsatz von
+Thrombolytika bei einem Herzinfarkt oder einer Lungenembolie, die Behandlung
+eines akuten Blutverlustes durch Infusionstherapie, weiterhin die Korrektur von
+Elektrolytstörungen, das Aufwärmen von unterkühlten Patienten, die Verabreichung
+von Antidota bei Vergiftungen, die Entlastung von Spannungspneumothoraces sowie
+die Therapie weiterer spezieller Krankheitsbilder, z. B. akute obstruktive
+7
+
+1 Einleitung
+Atemwegserkrankungen (Asthmaanfall) oder Anaphylaxien. Diese Maßnahmen
+werden in der Postreanimationsphase fortgesetzt.
+
+Postreanimationsphase. Die Versorgungsphase nach einer erfolgreichen Reanimation
+(Postreanimationsphase, post-resuscitation care) beginnt mit dem Wiedereinsetzen
+eines spontanen Kreislaufes (return of spontaneous circulation, ROSC). Sie beinhaltet
+eine weitere präklinische Stabilisierung, den Transport in ein geeignetes Zentrum
+sowie eine erweiterte intensivmedizinische Behandlung und Überwachung. Die
+Maßnahmen in dieser Phase beeinflussen die Prognose signifikant.
+Im Vordergrund stehen in dieser Phase kausale Therapiemaßnahmen wie z. B.
+eine Reperfusionstherapie nach Herzinfarkt oder die operative Versorgung von
+Verletzungen. Daneben erfolgt die symptomatische Behandlung der
+Herzkreislauffunktion, um eine ausreichende Versorgung mit Sauerstoff, insbesondere
+des Gehirns, sicherzustellen. Dazu ist unter Umständen eine Beatmungstherapie
+unter Sedierung, eine Schrittmachertherapie sowie der vielfältige Einsatz von
+Medikamenten notwendig. Daneben werden weitere wichtige Körperparameter
+überwacht und Störungen gegebenenfalls behandelt.
+Herzkatheterinterventionen. Wird hinter dem erlittenen Herzkreislaufstillstand eine
+kardiale Ursache vermutet oder ist die Ursache unklar, ist unverzüglich eine
+Koronarangiographie zur Klärung des auslösenden Faktors durchzuführen und bei
+Verschluss der Koronararterien eine Koronarangioplastie (perkutane transluminale
+Koronarangioplastie, PTCA) anzuschließen.
+Vordringliches Therapieziel ist die möglichst rasche Eröffnung des betroffenen und in
+dieser Situation meist verschlossenen Herzkranzgefäßes. Diese Wiederherstellung der
+Durchblutung wird Reperfusionstherapie genannt. Je früher diese erfolgt, umso besser
+kann die Ischämieausdehnung verhindert werden.
+Als Reperfusionstherapie sind zwei Behandlungsverfahren etabliert:
+
+
+Primär-/Akut-PCI (auch Direkt-PTCA oder Primär-PTCA): mechanische
+Öffnung (Rekanalisation) des Gefäßes mit anschließender Ballondilatation mit
+oder ohne Stentimplantation mittels Herzkatheter.
+
+
+
+Konservative Therapie mit Aktivatoren der Fibrinolyse (Lysetherapie
+oder Thrombolyse): intravenöse Gabe eines gerinnselauflösenden
+Medikamentes. Dieses Thrombolytikum/Fibrinolytikum kann vom Notarzt
+bereits am Einsatzort verabreicht werden (prästationäre Lyse) und führt durch
+den frühen Behandlungsbeginn zu besseren Ergebnissen als eine
+Therapieeinleitung im Krankenhaus.
+8
+
+1 Einleitung
+Bei gleichzeitiger Verfügbarkeit ist die Primär-PCI in einem erfahrenen Zentrum die
+bevorzugte Strategie. Da aber weniger als 20 % der deutschen Krankenhäuser über die
+Möglichkeit zur Primär-PCI verfügen, muss die Entscheidung zur optimalen Therapie
+im Einzelfall getroffen werden. Viele Notärzte sind mit 12-Kanal-EKG-Geräten und
+Medikamenten für eine Lysetherapie ausgerüstet, so dass sie heute sofort nach
+Diagnosestellung in Abhängigkeit von der Dauer der Ischämiezeit, dem
+Patientenzustand, der Verfügbarkeit eines erfahrenen Herzkatheterteams und der
+Transportentfernung die bestmögliche Reperfusionstherapie auswählen können.
+An einer selektierten Patientengruppe mit ST-Streckenhebung und myokardialem
+Infarkt nach out-of-hospital-cardiac arrest konnte ein primäres Überleben nach
+perkutaner koronarer Intervention (PCI) von 88 % nachgewiesen werden, während das
+1-Jahres-Überleben mit 72 % angegeben wird [62].
+
+Hypothermiebehandlung. Zur Minderung des zerebralen Schadens wird für
+bewusstlose Erwachsene nach einer überlebten Reanimation eine Abkühlung auf 32–
+34 °C für 12–24 Stunden empfohlen (therapeutische Hypothermie).
+Nachdem man im Tiermodell nachweisen konnte, dass die Anwendung einer
+Hypothermiebehandlung bei Hunden nach induziertem Herzkreislaufstillstand das
+Überleben dieser ohne funktionelle oder histologische zerebrale Schädigungsmuster
+erreichen kann [8], ist gemäß den Leitlinien die Hypothermietherapie ein wichtiger
+Faktor. Eine Studie untersuchte detailliert die Effekte einer hypothermen Behandlung
+bei Patienten nach Herzkreislaufstillstand und kam zu dem Schluss, dass mit Erreichen
+einer Zieltemperatur von in der Harnblase gemessenen 32-34 °C für durchschnittlich
+24 Stunden sowohl eine Verbesserung des neurologischen Outcomes, als auch eine
+Erhöhung der Überlebenswahrscheinlichkeit nach sechs Monaten [50] erzielt werden
+konnte. Basierend auf dieses Wissen hat die milde therapeutische Hypothermie auch
+Einzug in die internationalen Leitlinien gefunden [33]. Die Wiederaufwärmphase muss
+langsam und kontrolliert erfolgen (empfohlen werden 0,2 °C pro Stunde) [11].
+Insgesamt werden in Deutschland im Durchschnitt mehr als die Hälfte aller Patienten
+nach einer Reanimation nicht mit einer Hypothermie behandelt. Für eine
+Hypothermiebehandlung stehen mehrere Systeme zur Verfügung, die mittels invasiver
+und nicht invasiver Methoden sowohl getrennt, als auch in Kombination angewandt
+werden können. Zur ersten Gruppe gehören gekühlte Infusionslösungen und Kühlung
+durch endovaskuläre Katheter, zur zweiten Gruppe Kühlmatten, Eispacks und
+Kühlzelte.
+Die endovaskuläre Hypothermiebehandlung ist effektiver und besser steuerbar.
+Darüber hinaus ist durch diese Methode auch die Wiederaufwärmphase leichter zu
+kontrollieren [34].
+
+9
+
+1 Einleitung
+In der Literatur beschriebene Nebenwirkungen der Kühlung sind neben Infektionen
+und Koagulopathien auch Arrhythmien, diese treten allerdings unter einem guten
+Monitoring und einer Temperatur über 32 °C relativ selten auf [5].
+Die Hypothermiebehandlung ist neuroprotektiv, da sie das Auftreten eines Hirnödems
+verhindern kann. Bei einer Reduktion von 1 °C oberhalb von 28 °C trägt sie zu einer
+Verringerung des zerebralen Stoffwechsels um 6 % bei. Dies beinhaltet vor allem
+chemische Vorgänge, die zu Zelltod und zur Produktion freier Radikale, erregender
+Neurotransmitter und Kalziumverschiebungen führen können [77].
+
+1.1.4 Komplikationen
+Durch die Reanimationsbehandlung selbst häufig verursachte Komplikationen sind
+zum einen Frakturen der Rippenbögen und oder des Sternums, dadurch eventuell auch
+bedingte Verletzungen an der Lunge (z.B. Pneumothorax). Zum anderen können auch
+innere Organe wie Leber, Milz, Magen, Herz und Gefäße beschädigt werden. Diese
+Komplikationen werden, da oftmals unvermeidlich, in Kauf genommen, müssen
+jedoch frühzeitig diagnostiziert und nach Möglichkeit therapiert werden.
+Darüber hinaus können als Folgeerkrankung im Rahmen des Herzkreislaufstillstandes
+neurologische Schäden in unterschiedlichem Ausmaß auftreten, einerseits kann es
+unter bestimmten Bedingungen zu einer Restitutio ad integrum, auf der anderen Seite
+aber auch zu einem hypoxischen Hirnschaden mit starker Einschränkung der
+Lebensqualität kommen. Eine erhöhte Infektanfälligkeit kann ebenfalls auftreten.
+Auch die bei kardialer Ursache im Rahmen der PTCA erfolgten koronaren
+Gefäßaufweitungen können sich durch Restenosierungen wieder verschließen und den
+Verlauf aggravieren.
+
+1.1.5 Prognose
+Die Überlebensraten bei einem Herzkreislaufstillstand hängen von vielen Faktoren ab.
+Die zugrundeliegende Ursache, Alter und Vorerkrankungen des Betroffenen wie auch
+der Zeitpunkt bis zur Einleitung von Reanimationsmaßnahmen sind unter anderen für
+diese Rate entscheidend, weswegen allgemeine Aussagen zur Prognose schwierig sind.
+Die langfristige Prognose nach einer primär erfolgreichen Reanimation wird von der
+Grunderkrankung bestimmt.
+
+10
+
+1 Einleitung
+Von den menschlichen Organen reagieren die Nervenzellen des Gehirns am
+empfindlichsten auf Sauerstoffmangel. Schon drei bis fünf Minuten nach Beginn des
+Kreislaufstillstands besteht die Gefahr von bleibenden Hirnschäden. Deshalb sind
+neben dem Überleben die neurologischen Folgeschäden ein weiterer wichtiger Aspekt
+bei der Wiederbelebung [70]. Eine Vielzahl von Patienten, die einen
+Kreislaufstillstand überlebt haben, trägt solche Schäden davon.
+Voraussagen über neurologische Schäden nach überlebtem Herzkreislaufstillstand sind
+schwer zu treffen. Verlässliche diagnostische Verfahren gibt es nicht. Mit
+Einschränkungen weisen hohe Serumkonzentrationen der Neuron-spezifischen
+Enolase (NSE) und der S-100-Proteine auf ein schlechteres Outcome hin.
+Die Zeit, die bis zum Beginn von Reanimationsmaßnahmen vergeht, ist der wichtigste
+der die Prognose beeinflussenden Faktoren. Pro Minute, die bis zum Beginn der HerzLungen-Wiederbelebung vergeht, verringert sich die Überlebenswahrscheinlichkeit
+des Patienten um etwa 10 %. So sind bei Herzdruckmassage mit Beatmung und einer
+Defibrillation innerhalb der ersten drei bis fünf Minuten Überlebensraten von 50–75 %
+möglich [81], die danach stark abfallen.
+Da in den europäischen Ländern die Zeit bis zum Eintreffen des Rettungsdienstes
+meist bei acht Minuten oder mehr liegt, sind die Maßnahmen von anwesenden Laien
+für das Überleben des Patienten entscheidend. Ein schneller Notruf, ein schneller
+Beginn von Basismaßnahmen und erweiterten Maßnahmen, insbesondere der
+Defibrillation, verdoppeln bis verdreifachen insgesamt die Überlebensquote sowohl
+bei Erwachsenen als auch bei Kindern.
+Die Ursache des Kreislaufstillstandes ist ein weiterer wichtiger prognostischer Faktor.
+Während kardiale Ursachen eine Gesamtüberlebensrate von etwa 7 % aufweisen (bis
+zur Entlassung aus dem Krankenhaus), liegt diese bei den anderen Ursachen bei nur
+etwa 2 %. Eine besonders schlechte Erfolgsquote haben Reanimationen bei
+Kreislaufstillständen, die durch Traumata verursacht sind.
+
+1.2 Das Postreanimationssyndrom
+In den letzten Jahrzehnten hat sich zwar die Wahrscheinlichkeit der Rückkehr eines
+Spontankreislaufs nach Herzstillstand und Reanimation deutlich erhöht, die
+Sterblichkeit in den ersten Tagen danach hat sich hingegen nicht wesentlich verändert.
+So betrug die Sterblichkeit innerhalb des Krankenhauses nach einer außerklinischen
+Reanimation im Jahr 1953 etwa 50 % und im Jahr 2006 etwa 60 % [70].
+11
+
+1 Einleitung
+Diese hohe Mortalitätsrate nach initialer Wiederherstellung der spontanen
+Blutzirkulation (return of spontaneous circulation, ROSC) ist unter anderem auf einen
+pathophysiologischen Prozess zurückzuführen, der als Postreanimanionssyndrom
+bezeichnet wird. Dieser Begriff beschreibt im Wesentlichen den globalen IschämieReperfusionsschaden, der als Antwort auf die Ganzkörperischämie entsteht.
+Neumar und Mitarbeiter haben den zeitlichen Verlauf beim Postreanimationssyndrom
+beschrieben und in verschiedenen Phasen unterteilt. In den ersten 20 Minuten nach
+ROSC besteht die erste Phase, unmittelbar nach der erfolgreichen Wiederbelebung. In
+den nächsten 6-12 Stunden befinden sich die Patienten in der frühen Phase. Danach bis
+72 Stunden nach Reanimation besteht die intermediäre Phase. Schließlich erfolgen die
+Erholungs- und die Rehabilitationsphase.
+
+Abbildung 3: Phasen des Postreanimationssyndroms, übernommen von Neumar et
+al. 2008
+Die vorliegende Studie hat intensiv die Veränderungen im Blutplasma in der frühen
+und intermediären Phase des Postreanimationssyndroms bei den eingeschlossenen
+Patienten untersucht.
+12
+
+1 Einleitung
+1.2.1 Pathophysiologie
+
+Das Postreanimationssyndrom ist gekennzeichnet durch vier klinische
+Hauptmanifestationen [70]:
+ neurologische Schädigung
+ myokardiale Dysfunktion
+ systemischen Ischämie-Reperfusionsschaden, der bis zu Multiorganversagen
+führen kann
+ zugrundeliegende Ursachen für den Herzkreislaufstillstand
+Auf pathophysiologischer Ebene schließt diese Schädigung
+Mikrozirkulationsdysfunktion, vaskuläres Leck mit Ödembildung und verstärkte
+Adhäsion von Thrombozyten und Leukozyten an das Endothel ein, was in einer
+Sepsis-ähnlichen Entzündungsreaktion resultiert [70].
+Diese pathophysiologische Schädigung kann eine hämodynamische
+Postreanimationsinstabilität auslösen, die bei den betroffenen Patienten akute
+Organhypoperfusion, systemische Multiorgandysfunktion oder erneuten
+Myokardinfarkt hervorrufen kann und schließlich zum Tod führen kann. Letztendlich
+bleibt die Assoziation zwischen den hämodynamischen
+Postreanimationsveränderungen und dem klinischem Outcome der Patienten spärlich
+erforscht und nur ungenügend verstanden, weswegen dieses Gebiet zukünftig
+weiterhin hohe Priorität in der Forschung nach überlebtem Herzstillstand haben wird.
+Im Folgenden werden die Hauptmanifestationen des Postreanimationssyndorms näher
+beschrieben.
+
+1.2.1.1 Globale Folgen der Ischämie und Sauerstoffschuld
+Während der Herzdruckmassage wird die Perfusion und Sauerstoffsättigung im Blut
+auf niedrigem Niveau erhalten. Trotzdem sinkt die gemischt-venöse Oxygenierung ab
+und die periphere Sauerstoffschuld nimmt zu. Diese Situation bleibt zunächst aufgrund
+von Mikrozirkulationsstörungen und myokardialer Dysfunktion auch nach
+erfolgreicher Wiederbelebung erhalten.
+Sauerstoffschuld ist definiert als die Differenz zwischen vorhergesagtem
+Sauerstoffverbrauch und tatsächlichem Verbrauch multipliziert mit der Zeitdauer und
+stellt eine Größe für ungenügende Sauerstoffversorgung dar. Angesammelte
+Sauerstoffschuld führt zu Endothelaktivierung und systemischer
+Inflammationsreaktion [53] und ist ein Prädiktor für das Auftreten von
+Multiorganversagen und Tod.
+13
+
+1 Einleitung
+Die Aktivierung des Gerinnungssystems ohne entsprechende Aktivierung der
+Fibrinolyse führt auch global zu einer relevanten Störung der Mikrozirkulation („noreflow syndrome“). Außerdem kommt es durch die gestörte Vasoregulation und durch
+das vaskuläre Leck zur Abnahme des intravasalen Volumens und folglich zur
+systemischen Hypotonie.
+
+1.2.1.2 Ischämische Hirnschädigung und Ischämie-Reperfusionsschaden
+Der Herzkreislaufstillstand mit nachfolgender kardiopulmonaler Reanimation ist der
+Zustand eines Ganzkörper-Ischämie-Reperfusionsschadens.
+Die Schädigung des Gehirns ist nach primär erfolgreicher Wiederbelebung in bis zu
+70 % der Fälle für die hohe Mortalität verantwortlich. Sie wird in „No-Flow“- und
+„Re-Flow“-Phase unterteilt [101]. Beide Phasen, die Ischämie und die Reperfusion,
+sind für sich gesehen gewebsschädigend.
+„No-Flow“-Phase, Ischämie: Die neuronale Schädigung beginnt unmittelbar nach
+dem Herzkreislaufstillstand. Das Fehlen von Sauerstoffreserven bzw. der Möglichkeit
+des Gehirns zur anaeroben Verstoffwechselung führt zu intrazellulären ATP-Mangel,
+zum Zusammenbruch der Na+/K+-Pumpe und kann zur Zellnekrose führen, wenn die
+Reanimationszeit der Neurone überschritten wird. Darüber hinaus wird durch die
+Ischämie in den vulnerablen Neuronen eine Apoptose eingeleitet, die unter anderem
+für den verzögerten Zelltod im Hippocampus verantwortlich ist.
+„Re-Flow“-Phase, Reperfusion: Der Zusammenbruch der zerebralen
+Autoregulationsmechanismen führt zu einer direkten Abhängigkeit der Perfusion vom
+mittleren systemischen Druck (MAP). Zudem wird in der Reperfusionsphase eine
+Reihe von metabolischen Kaskaden ausgelöst, die über vielfältige Signalwege den
+Zelluntergang durch Nekrose verstärken.
+Die weitere Gewebsschädigung während der Reperfusionsphase nennt man auch
+Sauerstoffparadoxon: es kommt trotz der Wiederdurchblutung zum Fortbestehen der
+pathologischen Prozesse der Ischämiephase. Es werden vermehrt Sauerstoffradikale
+gebildet und Zytokine freigesetzt, die Neutrophile aktivieren können. Diese wiederum
+bilden vermehrt Adhäsionsmoleküle aus und wandern durch das Endothel in das
+Gewebe ein. Die Leukozytenmigration schädigt das Endothel, führt zu einer erhöhten
+Permeabilität und Thrombogenese in den kleinen Gefäßen [49].
+
+1.2.1.3 Myokardiale Dysfunktion
+Eine myokardiale Dysfunktion kann einerseits Ausdruck der zugrundeliegenden
+Ursache (beispielsweise eines Myokardinfarktes) sein, andererseits kann eine
+myokardiale Dysfunktion durch Ischämie und Reperfusion bedingt sein. Diese wird
+14
+
+1 Einleitung
+bereits Minuten nach dem Wiedererlangen des Spontankreislaufs evident und äußert
+sich durch eine Reduktion der Auswurffraktion des linken Ventrikels und in einer
+Erhöhung des enddiastolischen Druckes [54].
+
+1.2.1.4 Inflammationsreaktion
+Der Ganzkörper-Ischämie-Reperfusionsschaden verursacht eine generalisierte
+Aktivierung von immunologischen und koagulatorischen Kaskaden, was wiederum
+das Risiko eines Multiorganversagens und einer Infektion erhöht. Dieser Zustand hat
+viele Gemeinsamkeiten mit einer Sepsis bzw. einem SIRS (systemisches
+inflammatorisches Response-Syndrom) [2]: schon drei Stunden nach Rückkehr des
+Spontankreislaufs (ROSC) sind die Serumkonzentrationen verschiedener Zytokine,
+löslicher Adhäsionsmoleküle und Endotoxine erhöht. Die Ausprägung dieser
+Veränderungen korreliert mit dem Outcome [1].
+
+1.2.1.5 Gerinnungsaktivierung
+Die Balance zwischen Koagulation/Antikoagulation und Fibrinolyse/Antifibrinolyse
+ist nach Reanimation gestört. Eine vermehrte Gerinnung findet statt, gemessen an
+einer Zunahme des Thrombin/Antithrombin-Komplexes, während Faktoren der
+Antikoagulation wie Antithrombin, Protein C und S erniedrigt sind [2]. Eine
+Aktivierung des Gerinnungssystems ohne adäquate Aktivierung der endogenen
+Fibrinolyse ist ein wichtiger Mechanismus, der zu Mikrozirkulationsstörungen
+beitragen kann. Intravaskuläre Fibrinbildung und Mikrothrombosen sind durch die
+gesamte Mikrozirkulation verteilt, was eine potenzielle Rolle für eine
+Fibrinolysetherapie aufzeigt [70]. Diese Veränderungen des Gerinnungssystems, die
+auch im Rahmen der Sepsis beobachtet werden [89], sind eng mit der
+Endothelfunktion verknüpft: während die Endotheloberfläche etwa durch
+Thrombomodulin und Heparansulfat im Ruhezustand antikoagulatorisch wirkt, werden
+diese Proteine im Zustand der Aktivierung von der Zelloberfläche abgespalten und die
+Endothelzellen synthetisieren verstärkt Tissue Factor [45].
+
+1.2.1.6 Zusätzliche Faktoren für schlechtes neurologisches Outcome
+Jede Temperaturerhöhung um 1 °C über die Normaltemperatur führt zu einer
+Verschlechterung des neurologischen Ergebnisses und zu einer Erhöhung der
+Mortalität [110]. Patienten mit einer Temperatur >39 °C in den ersten 72 h nach
+15
+
+1 Einleitung
+Wiederherstellung eines Spontankreislaufes haben ein signifikant erhöhtes Risiko für
+Hirntod.
+Erhöhte postischämische Blut-Glukose-Konzentrationen aggravieren die ischämische
+Hirnschädigung [65].
+Krämpfe, als Ausdruck zerebraler Schädigung, scheinen nicht nur ein Hinweis für
+schlechte Prognose zu sein, sondern verschlechtern diese selbst [3], [56].
+
+Zusammenfassend lässt sich festhalten, dass als pathophysiologische Grundlage des
+Postreanimationssyndroms die Aktivierung und Koaktivierung dreier Systeme
+betrachtet werden kann: des Endothels, des Gerinnungs- und des
+Inflammationssystems.
+
+Abbildung 4: Schematische Darstellung des Postreanimationssyndroms,
+emedicalppt.blogspot.com
+
+16
+
+1 Einleitung
+1.3 Die endotheliale Glykokalyx
+
+Die oberflächliche endotheliale Schutzschicht Glykokalyx ist komplex aufgebaut aus
+negativ geladenen Glykoproteinen, Proteoglykanen und Glykosaminoglykanen, sowie
+assozierten Plasmaproteinen und kleidet die Innenseite aller Blutgefäße aus [86]. Sie
+kann 100-750 nm von der Dicke des Endothels betragen. Die Glykosaminoglykane
+Heparansulfat und Hyaluronsäure stellen zwei von den Hauptkomponenten der
+Glykokalyx der endothelialen Zellen und Syndecan-1 repräsentiert das wichtigste
+Proteoglykan.
+
+Abbildung 5: Schematische Darstellung der Glykokalyx, übernommen von Reitsma
+et al. 2007
+
+Die endotheliale Glykokalyx ist ein entscheidender Modulator für die
+Gefäßpermeabilität, Leukozytenadhäsion, Mechanotransduktion und
+Stickstofffreisetzung. Neulich konnte auch ihre Rolle für die Entstehung von
+Inflammationsreaktionen nachgewiesen werden (u. a. bei der Atherosklerose) [73].
+Ihre Bedeutung für die Entstehung des Postreanimationssyndroms war aber
+weitgehend unbekannt.
+Die Dicke der oberflächlichen Endothelialschicht hängt von verschiedenen Faktoren
+ab, dazu zählen die ausgeglichene Biosynthese und der Abbau als Antwort auf
+multiple Stressoren wie Ischämie, Oxidations-Reduktions-Prozesse, Hyperglykämie,
+Änderungen in den Scherkräften [66].
+17
+
+1 Einleitung
+Die Dicke der endothelialen Glykokalyx wird u. a. bei gefäßchirurgischen Eingriffen
+mit lokaler oder globaler Ischämie oder bei septischem Schock beeinträchtigt [15],
+[85].
+Die Morphologie der Glykokalyx wird auch in wachsenden Kollateralarterien
+verändert. Die Arbeitsgruppe von Grundmann konnte feststellen, dass die Glykokalyx
+eine essentielle Rolle als Modulator bei Scherspannung hat und die Neubildung von
+Kollateralen fördert [44].
+Zusammenfassend konnte in früheren Studien auf die Rolle der endothelialen
+Glykokalyx für die vaskuläre Permeabilität und für Inflammation hingewiesen werden,
+ihre Bedeutung bei der Entstehung des Postreanimationssyndroms blieb aber weiterhin
+unbekannt, was weitere Forschung auf diesem Gebiet angeregt hat und in dieser Arbeit
+untersucht werden sollte.
+
+18
+
+2 Zielsetzung
+
+2 Zielsetzung
+Aufgrund der Rolle des Postreanimationssyndroms und der neuen therapeutischen
+Möglichkeiten hat sich diese Studie zum Ziel gesetzt, einen Beitrag zum besserem
+Verständnis der Zusammenhänge der dem Postreanimationssyndrom
+zugrundeliegenden pathophysiologischen Vorgänge zu leisten, was für die
+Verbesserung der Therapie und damit der Überlebenswahrscheinlichkeit dieser
+Patienten von Bedeutung sein kann.
+In den letzten Jahren ist die Rolle der Glykokalyx als endotheliale Oberflächenschicht
+für die Gefäßpermeabilität und bei Entzündungsprozessen hervorgetreten. Unter der
+Annahme, dass diese pathophyliologischen Vorgänge auch eine Rolle bei der
+Entstehung des Postreanimationssyndroms spielen, ist das Ziel der vorliegenden
+Arbeit, bei Patienten nach kardiopulmonaler Reanimation das Ausmaß der
+Endothelschädigung und –dysfunktion festzustellen, in dem die Beeinträchtigung der
+Glykokalyx als Endothelzellschutzschicht erforscht wird. Vor allem sollen die frei
+zirkulierenden Glykokalyxkomponenten als Biomarker für ihre Schädigung untersucht
+werden.
+Für diese Fragestellung wurden im Blutplasma von Patienten nach überlebtem
+Herzkreislaufstillstand sowie von hämodynamisch stabilen Kontrollpatienten mit ACS
+das Proteoglykan Syndecan-1 und die Glykosaminoglykane Heparansulfat und
+Hyaluronsäure als zirkulierende Glykokalyxbestandteile untersucht und miteinander
+verglichen.
+Die Hypothese der Arbeit ist, dass im Rahmen des Postreanimationssyndroms erhöhte
+Plasmakonzentrationen der frei zirkulierenden Glykokalyxkomponenten als Hinweis
+auf die Schädigung dieser endothelialen Oberflächenschicht vorliegen.
+Es wird außerdem vermutet, dass die Glykokalyxbestandteile nicht nur passive
+Biomarker sind, sondern durch das Außmaß der Glykokalyxbeeinträchtigung mit
+klinischen Parametern und mit dem Outcome von diesen Patienten korrelieren, was die
+Glykokalyx als wichtiger pathogenetischer Faktor beim Postreanimationssyndrom
+hervortreten lässt.
+Darüber hinaus soll ein Zusammenhang zwischen der Höhe der
+Plasmakonzentrationen der Glykokalyxkomponenten und der Prognose nach
+Reanimation untersucht werden, was diese endotheliale Oberflächenschicht als ein
+potentieller therapeutischer Angriffspunkt in der Behandlung des
+Postreanimationssyndroms darstellt.
+19
+
+3 Material und Methoden
+
+3 Material und Methoden
+3.1 Patientenkollektiv
+In der Studie wird über zwei unterschiedliche Patientenkollektive (jeweils eine
+Postreanimations- und eine Kontrollgruppe) berichtet. Diese beiden Kollektive wurden
+nach ähnlichen Ein- und Ausschlusskriterien ausgewählt, die im Folgenden erläutert
+werden. Im Ergebniskapitel (Kapitel 4) werden die beiden Patientenkollektive
+charakterisiert und es wird jeweils der Vergleich zwischen Postreanimations- und
+Kontrollgruppe gezogen. In die Studie wurden von Juni 2009 bis März 2010 25
+reanimierte Patienten und 12 Kontrollpatienten eingeschlossen.
+Postreanimationsgrupppe. Es wurden Patienten eingeschlossen, die nach einem
+überlebten Herzkreislaufstillstand auf die internistische Intensivstation der
+Universitätsklinik Freiburg aufgenommen wurden und die zum Zeitpunkt der
+Reanimation mindestens 18 Jahre alt waren. Die ausgewählten Patienten wurden im
+Anschluss wenn möglich aufgeklärt bzw. es wurde ein ausführliches Gespräch über
+die Studie mit den Angehörigen durchgeführt. Jeder Patient oder die Angehörigen
+haben nach der Aufklärung eine Einverständniserklärung für die Beteiligung an dieser
+Studie und eine Einwilligung in die beiden erforderlichen Blutentnahmen
+unterschrieben.
+Ausgeschlossen wurden Patienten, die kürzer als 5 Minuten reanimiert wurden,
+da unter diesen Umständen kaum mit der Entstehung eines Postreanimationssyndroms
+gerechnet werden kann [70]. Außerdem wurden Patienten mit neoplastischen oder
+entzündlichen Grunderkrankungen, mit Autoimmunerkrankungen oder nach
+Organtransplantation ausgeschlossen. Patienten mit einer Sepsis mussten auch aus der
+Studie herausgenommen werden, da in den letzten Jahren gezeigt werden konnte, dass
+schwere Inflammationsprozesse zu einer zusätzlichen Schädigung der endothelialen
+Glykokalyx führen [1], [2]. Siehe dazu Tabelle 1 auf der folgenden Seite.
+Kontrollgruppe. Als Kontrollpatienten wurden Patienten der kardiologischen
+Intensiv- oder Normalstationen gewählt, die eine kardiologische Grunderkrankung
+hatten und aktuell stationär mit akutem neu aufgetretenem Koronarsyndrom behandelt
+wurden, bei denen während des stationären Aufenthalts eine Koronarangiographie zur
+weiteren Abklärung durchgeführt wurde. Hintergrund der Entscheidung für die
+Auswahl des Kontrollkollektivs war die Annahme, dass die überwiegende Mehrheit
+der reanimierten Patienten ebenfalls eine kardiologische Grunderkrankung hat, die
+letztendlich zur Reanimationspflichtigkeit geführt hat und eine vergleichbare Therapie
+erfordert hat.
+20
+
+3 Material und Methoden
+Alle Kontrollpatienten wurden umfangreich über die zwei notwendigen
+Blutentnahmen und die Risiken aufgeklärt. Die Aufklärung beinhaltete auch die
+wichtigsten Informationen zur Studie. Durch die einfache, laienhafte Darstellung
+konnte jeder Patient die grundsätzliche Zielsetzung der Studie verstehen.
+Alle ausgewählten Patienten haben sich bereit erklärt, an der Studie teilzunehmen.
+Jeder Patient hat nach der Aufklärung eine Einverständniserklärung für die Beteiligung
+an dieser Studie als Kontrollpatient und eine Einwilligung in die beiden erforderlichen
+Blutentnahmen unterschrieben.
+Von der Studie wurden Minderjährige, Patienten mit neoplastischer oder entzündlicher
+Grunderkrankung sowie mit anderen schwerwiegenden Nebenerkrankungen
+(internistisch, neurologisch, infektiös etc.) ausgeschlossen. Siehe dazu Tabelle 2 auf
+der folgenden Seite.
+Einschlusskriterien
+
+Ausschlusskriterien
+
+ CPR > 5 min
+
+ (fortgeschrittene) Malignomerkrankung
+
+ > 18 Jahre
+
+ schwere akute oder chronische
+Entzündungsvorgänge
+ beginnende Sepsis oder septischer Schock
+ schweres Schädel-Hirn-Trauma,
+polytraumatiesierte Patienten
+ Organtransplantation/Immunsupression
+
+Tabelle 1: Ein- und Ausschlusskriterien der Postreanimationsgruppe
+
+3.2 Genehmigung
+
+Die Studie wurde von der Ethikkomission des Universitätsklinikums Freiburg
+genehmigt und entspricht den Vorschriften der Deklaration von Helsinki.
+
+21
+
+3 Material und Methoden
+Einschlusskriterien
+ Alter > 18 Jahre
+
+Ausschlusskriterien
+ schwere entzündliche oder neoplastische
+Erkrankungen
+
+ Mündigkeit
+ Organtransplantation/Immunsuppression
+ schriftliche
+Einverständniserklärung
+zur Studienbeteiligung und
+Einwilligung in die beiden
+erforderlichen
+Blutentnahmen
+
+ Autoimmunerkrankungen
+ andere schwerwiegende
+Nebenerkrankungen (neurologisch,
+rheumatologisch, infektiös etc.)
+
+ Patienten mit ACS, bei
+denen innerhalb von 6 h
+eine Koronarangiographie
+durchgeführt worden ist
+ kardiologische
+Grunderkrankung, die
+aktuell stationär behandelt
+wird
+
+Tabelle 2: Ein- und Ausschlusskriterien der Kontrollgruppe
+
+22
+
+3 Material und Methoden
+3.3 Material
+3.3.1 Blutentnahme
+Material
+Monovette Citrat 5 ml grün
+
+Sarstedt AG& Co., Nümbrecht
+
+Monovette EDTA 10 ml rot
+
+Sarstedt AG& Co., Nümbrecht
+
+Monovette Serum 10 ml grau
+
+Sarstedt AG& Co., Nümbrecht
+
+Multi-Adapter für S-Monovette
+
+Sarstedt AG& Co., Nümbrecht
+
+Venenpunktionskanüle 21 G 20 mm
+
+Sarstedt AG& Co., Nümbrecht
+
+Sterican (lila Kanüle) 0,55 x 25 mm
+
+B.Braun, Melsungen AG, Melsungen
+
+sterile NaCl Lösung 0,9% (10 ml)
+
+B.Braun, Melsungen AG, Melsungen
+
+Geräte
+Zentrifuge (Laborraum)
+
+Multifuge 3s Heraeus, Hanau
+
+Zentrifuge (Kühlraum)
+
+J2HS Beckmann Coulter, Krefeld
+
+Zentrifugenbecher
+(Mehrwegbecher, autoklaviert)
+
+Beckman und Coulter, Krefeld
+
+3.3.2 ELISA
+
+Material
+Syndecan-1-ELISA (sCD138)
+
+Diaclone, Besoncon, France
+
+Heparansulfat-ELISA
+
+Seikagaku BioBusiness Corporation, Tokio, Japan
+23
+
+3 Material und Methoden
+Hyaluronsäure-ELISA
+
+Echelon Salt Lake City, Utah, USA
+
+Geräte
+Photometer
+
+Molecular Devices, Sunnyvale, USA SpectraMax-Plus
+
+Photometer Software
+
+Molecular Devices, Sunnyvale, USA SoftProMax 3.0
+
+3.3.3 Elektronische Datenverarbeitungssysteme
+Excel
+
+von Microsoft für Windows XP®
+
+GraphPad Prism 4
+
+für Windows XP®
+
+3.4 Methoden
+3.4.1 Blutentnahme
+
+Kontrollpatienten. Den Kontrollpatienten wurde nach einem umfassenden
+Aufklärungsgespräch und deren Zustimmung im Abstand von ungefähr 24 bis 48
+Stunden zweimal jeweils ca. 20 ml venöses Blut entnommen. Die Blutentnahme von
+einem Citratröhrchen, einem Serumröhrchen, einem EDTA-Röhrchen und einem
+Heparinröhrchen Vollblut erfolgte bei den Kontrollpatienten nach Anlegen eines
+Stauschlauchs und gründlicher Desinfektion von ca. 30 Sekunden mittels eines
+Buttery-Blutentnahmesystems aus einer peripheren Vene. Es wurde darauf geachtet,
+dass der Grad der Stauung dabei möglichst gering gehalten wurde, um
+Zellveränderungen zu vermeiden.
+Auch wurden intensive Einwirkung von Hitze oder Kälte, sowie mechanische
+Manipulationen vermieden, um artefizielle Veänderungen zu verhindern. Die
+24
+
+3 Material und Methoden
+entnommenen Blutproben wurden sofort ins Labor transportiert und für die
+vorgesehenen Untersuchungen vorbereitet.
+Die Röhrchen wurden bei 1000 g und 4 °C für 10 min zur Gewinnung von Plasma
+zentrifugiert und bei -20 °C eingefroren.
+
+Reanimierte Patienten. Bei den reanimierten Patienten wurde im Abstand von 6 - 72
+Stunden zweimal Blut entnommen. Die erste Probengewinnung erfolgte in einem
+zeitlichen Intervall von 6 Stunden nach Reanimation, in der sogenannten frühen Phase
+des Postreanimationssyndroms, die zweite Blutentnahme zwischen 48 und 72 Stunden
+nach Reanimation, in der intermediären Phase.
+Das Blut wurde aus einem arteriellen Zugang (Arteria femoralis oder Arteria radialis)
+entnommen. Nach initialem Verwerfen von ca. 5 ml Blut wurde bei der ersten
+Blutentnahme mittels Adapter Blut in ein EDTA-Röhrchen, ein Serum-Röhrchen, zwei
+Citrat-Röhrchen sowie in ein Heparinröhrchen abgenommen. Anschließend wurde das
+System vollständig mit dem eingebauten Spülsystem gereinigt und mit einer sterilen
+arteriellen Verschlusskappe versehen. Die Röhrchen wurden bei 1000 g und 4 °C für
+10 min zentrifugiert, das Plasma wurde in Eppendorf-Gefäßen pipettiert und bei
+-20 °C für weitere Messungen eingefroren.
+
+3.4.2 ELISA-Technik
+ELISA (enzyme-linked immunosorbent assay) ist ein antikörperbasiertes
+Nachweisverfahren (Assay) und gehört zu den enzymatischen
+Immunadsorptionsverfahren. Die Basis eines ELISAs ist eine enzymatische
+Farbreaktion.
+Die Antigen-Antikörper-Reaktion kann photometrisch mit einer chromogenen
+Substanz (Farbstoffsubstrat) ausgewertet werden und dient zur quantitativen
+Bestimmung von Proteinen, Viren oder niedermolekularen Substanzen (z. B.
+Hormone) in einer Probe (Blutserum, Milch, Urin etc.).
+Hierbei macht man sich die Eigenschaft spezifischer Antikörper zunutze, die an den
+nachzuweisenden Stoff (Antigen) binden. Ein Antikörper wird zuvor mit einem
+Enzym markiert. Die durch das Reporterenzym katalysierte Reaktion dient als
+Nachweis für das Vorhandensein des Antigens. Das sogenannte Substrat wird vom
+Enzym umgesetzt, das Reaktionsprodukt kann üblicherweise durch Farbumschlag,
+eventuell auch durch Chemolumineszenz nachgewiesen werden.
+Die Signalstärke ist eine mit einem Photometer sehr genau bestimmbare Funktion der
+Antigenkonzentration, so dass ELISA auch für quantitative Nachweise verwendet
+werden kann. Als Reporterenzyme werden meistens die Meerrettichperoxidase (HRP,
+25
+
+3 Material und Methoden
+horseradish peroxidase), die alkalische Phosphatase (AP) oder seltener auch die
+Glukoseoxidase (GOX) verwendet. Im Falle der alkalischen Phosphatase wird als
+Farbstoffsubstrat (Chromogen) z. B. p-Nitrophenylphosphat (pNPP) zugegeben,
+während bei der Peroxidase meistens o-Phenylendiamin (oPD) verwendet wird. Die
+alkalische Phosphatase spaltet den Phosphatrest vom farblosen Nitrophenylphosphat
+ab und es entsteht p-Nitrophenol, welches schwach gelb ist.
+Die Konzentrationsänderung des durch die enzymatische Reaktion entstandenen
+Farbstoffs kann nach dem Lambert-Beerschen Gesetz mit einem Photometer verfolgt
+werden. Die Intensität der Farbe steigt dabei mit der Konzentration des entstandenen
+Substrates und damit auch der Konzentration des zu bestimmenden Antigens in der
+Probe im Vergleich mit einer Verdünnungsreihe mit bekannten Konzentrationen
+(Standardreihe).
+Lambert-Beersches Gesetz. Das Lambert-Beersche Gesetz beschreibt die
+Abschwächung der Intensität einer Strahlung bei dem Durchgang durch ein Medium
+mit einer absorbierenden Substanz, in Abhängigkeit von der Konzentration der
+absorbierenden Substanz und der Schichtdicke. Das Gesetz bildet die Grundlage der
+modernen Photometrie als analytische Methode.
+Die Extinktion
+durch
+
+(Absorbanz des Materials für Licht der Wellenlänge ) ist gegeben
+
+mit
+
+
+
+
+
+
+
+: Intensität des transmittierten Lichtes (Einheit: W·m-2)
+: Intensität des einfallenden (eingestrahlten) Lichtes (Einheit: W·m-2)
+: Stoffmengenkonzentration der absorbierenden Substanz in der Flüssigkeit
+(Einheit: mol·l−1)
+: dekadischer Extinktionskoeffizient (oft auch als spektraler
+Absorptionskoeffizient bezeichnet) bei der Wellenlänge . Dieser ist eine für
+die absorbierende Substanz spezifische Größe und kann unter anderem
+vom pH-Wert oder vom Lösungsmittel abhängen.
+: Schichtdicke des durchstrahlten Körpers (Einheit: m)
+
+Es kann zwischen Sandwich-ELISA, kompetitivem Immunassay und AntikörperELISA unterschieden werden.
+
+26
+
+3 Material und Methoden
+
+Abbildung 6: Funktionsprinzip eines Photometers. Extinktion eines Lichtstrahls
+durch eine Küvette der Dicke l, www.spinger-online.de
+
+3.4.2.1 Sandwich-ELISA (Antigen-ELISA)
+Diese ELISA-Technik verwendet zwei Antikörper (AK), die beide spezifisch an das
+nachzuweisende Antigen binden. Hierbei ist es wichtig, dass beide Antikörper an
+unterschiedlichen Stellen (Epitope) an das Antigen binden.
+Der erste Antikörper (coat antibody oder capture antibody) wird an eine feste Phase
+(Mikrotiterplatten mit 96 Wells, genannt Vertiefungen) gebunden. Die Probe mit dem
+nachzuweisenden Antigen wird dann in die Wells gegeben und eine Zeit lang
+inkubiert. Während dieser Zeit bindet der an die Platte gebundene Antikörper das in
+der Probe vorhandene Antigen.
+Nach Ablauf der Inkubationsphase wird die Platte gewaschen. Die ungebundenen
+Bestandteile der Probe werden dadurch entfernt. Es bleibt nur das am Coat-Antikörper
+gebundene Antigen zurück.
+Im nächsten Schritt wird ein zweiter Antikörper zur Detektion (detection antibody)
+zugegeben, der ein anderes Epitop als der Capture-Antikörper erkennt und an dessen
+Ende ein Reporterenzym gebunden ist. Dieser zweite Antikörper bindet ebenfalls an
+das Antigen, und es entsteht der Antikörper-Antigen-Antikörper-Komplex. Daher
+stammt auch der Name „Sandwich-ELISA“.
+Durch erneutes Waschen der Platte wird der überschüssige Detektionsantikörper
+ausgewaschen. Nach diesem Schritt kann das Antigen detektiert und quantifiziert
+werden: es wird ein zum Enzym passendes chromogenes Substrat zugegeben. Dieses
+wird vom Enzym zu einem Reaktionsprodukt umgesetzt, dessen Nachweis durch
+Farbumschlag, Fluoreszenz oder Chemoluminiszenz erfolgen kann. Für quantitative
+Nachweise wird üblicherweise eine Serie mit bekannten Antigenkonzentrationen
+(Standardreihe) durchgeführt, um eine Kalibrierungskurve für das gemessene Signal
+27
+
+3 Material und Methoden
+(optische Extinktion, emittierte Intensität) zu erhalten.
+
+Abbildung 7: Funktionsprinzip des Sandwich-ELISAs
+Sandwich-ELISA. (1) coat-Antikörper, an den Boden der Mikrotiterplatte gebunden
+(nicht dargestellt); (2) Zugabe der Probe und Inkubation; (3) Zugabe des
+Detektions-Antikörpers; (4) Zugabe und Komplexbildung von enzyme-linked
+Antikörper – Antigen – Antikörper; (5) Zugabe eines zum Enzym passenden
+Substrats, das zu einem nachweisbaren Reaktionsprodukt umgesetzt wird,
+Biochemie. Löffler/Petrides. Springer-Verlag
+
+3.4.2.1.1 Syndecan-1-ELISA
+Die Plasmakonzentrationen der Glykokalyxkomponente Syndecan-1 (sCD138) wurden
+mittels Sandwich-ELISA gemessen (Diaclone, Besoncon, France).
+Der Syndecan-ELISA wurde auf einer 96-Mikrotiterplatte durchgeführt. Neben einer
+Standardreihe erfolgten die übrigen Messungen in Doppelbestimmungen. Es fanden
+aufgetaute thrombozytenarme Plasmaproben aus Citratblut von Reanimierten und
+Kontrollpatienten Verwendung, die nach einem Zentrifugationsschritt (1000 g für 10
+Minuten) als Aliquote bei -20° C eingefroren worden waren.
+Alle Proben waren vor dem ELISA bei Raumtemperatur aufgetaut. Wiederholtes
+Auftauen und Einfrieren wurden vermieden. Vor dem Test wurden alle Reagenzien
+gründlich durchmischt.
+Protokoll. Nach Pipettieren der Standardreihe und Erreichen der vorgesehenen
+Syndecan-Konzentration und Pipettieren der Plasmaproben in Doppelbestimmung von
+den Reanimierten und Kontrollen wurden je 50 µl biotinyliertes Anti-Syndecan
+hinzugefügt. Die Mikrotiterplatte wurde danach für 1 Stunde bei Raumtemperatur
+28
+
+3 Material und Methoden
+inkubiert. Nach der Inkubation und nach Aspirieren des Überstandes wurde dreimal
+mit Waschpuffer gewaschen, um das nicht-gebundene Enzym zu entfernen.
+Die Streptavidin-Peroxidase (aus 0,5 ml HRP und 5 µl Streptavidin-HRP ) wurde
+vorbereitet und zu jeder Probe wurden je 100 µl hinzugefügt. Nach erneuter 30minütiger Inkubation bei Raumtemperatur und wiederholtem dreimaligem Waschen
+wurden jeweils 100 µl 3,5,3´,5´-Tetramethylbenzidin-Substratlösung (TMBSubstratlösung) dazu gegeben und für 12-15 Minuten inkubiert, um die Auslösung der
+Farbreaktion zu indizieren, deren Intensität direkt proportional zu der Konzentration
+von Syndecan-1 in der Probe ist.
+Die Enzym-Substrat-Reaktion wurde danach durch die sofortige Zugabe von je 100 µl
+Schwefelsäure (H2SO4) gestoppt. Sofort erfolgte die photometrische Messung der
+Adsorption bei 450 nm.
+Laut Hersteller ist ein Referenzbereich für die Syndecan-1-Konzentration von Seren
+gesunder Probanden zwischen 80 +/- 43 ng/ml angegeben. Bei der Testung der Werte
+von Blutplasma verglichen mit Serum existiert nach Angaben des Herstellers kein
+signifikanter Unterschied.
+
+3.4.2.1.2 Heparansulfat-ELISA
+Die Plasmakonzentrationen von Heparansulfat wurden mit einem Sandwich-ELISA
+unter Verwendung von zwei spezifischen monoklonalen Antikörpern (Seikagaku
+BioBusiness Corporation, Tokio, Japan) nach Vorbehandlung des Plasmas mit
+Actinase E nach den Anweisungen des Herstellers gemessen. Dieser ELISA-Kit ist
+speziell für Heparansulfat und zeigt keine Kreuzreaktion mit Hyaluronsäure,
+Chondroitinsulfat und Keratinsulfat. Er weist auch keine Interaktion mit hoch- oder
+niedermolekularem Heparin auf, das Teil der pharmakologischen Behandlung von
+Überlebenden nach einem Herzstillstand ist.
+Protokoll. Ähnlich dem Syndecan-1-ELISA waren alle Reagenzien bei
+Raumtemperatur vor dem Gebrauch aufgetaut. Sowohl die Standardreihe, als auch die
+Plasmaproben aus Citratblut von den Reanimierten und den Kontrollen wurden in
+Doppelbestimmungen durchgeführt.
+Das Waschpuffer, die Waschlösung, die Plasmaproben und der biotinylierte
+Antikörper wurden vorbereitet. Die Antikörper-beschichteten Mikrostreifen wurden in
+die Platte gesetzt und alle Wells fünfmal mit jeweils 300 µl verdünnter Waschlösung
+pro Well gewaschen. Nach jedem Waschschritt wurde die Platte auf
+Papierhandtüchern ausgeklopft.
+Nach dem Waschen wurden 100 µl Reaktionspuffer zu jedem Well, je 20 µl für die
+Standardreihe mit der entsprechenden Heparansulfat-Konzentration (8, 4, 2, 1, 0,5 und
+29
+
+3 Material und Methoden
+0,25 µg/mL), je 20 µl für die zwei leeren Kontrollproben (0 µg/mL Heparansulfat) und
+je 20 µl von den Plasmaproben zugegeben. Nach vorsichtigem Durchmischen wurde
+die Mikrotiterplatte für 18-24 Stunden bei 2-8 °C inkubiert (primäre Reaktion).
+Nach der Inkubation wurde erneut wie beschrieben fünfmal gewaschen. 100 µl HRPkonjugiertes Streptavidin und 100 µl rekonstituierter biotinylierter Antikörper wurden
+zu jedem Well gegeben und vorsichtig durchmischt. Danach erfolgte die zweite
+Inkubation für 60 Minuten bei Raumtemperatur (sekundäre Reaktion).
+Nach der zweiten Inkubation wurde erneut fünfmal gewaschen. 100 µl 3,5,3´,5´Tetramethylbenzidin-Substratlösung (TMB-Substratlösung) wurden zu jedem Well
+hinzugefügt und durchmischt. Es erfolgte eine erneute Inkubation für 30 Minuten bei
+Raumtemperatur (Farbreaktion).
+Nach dem Inkubationsschritt wurden jeweils 100 µl Stopp-Lösung zugegeben und
+durchmischt. Sofort erfolgte die photometrische Messung der Adsorption bei 450 nm.
+Laut Hersteller sind Konzentrationen von Heparansulfat in Seren gesunder Probanden
+kleiner 8 µg/mL als normal angegeben. Bei der Testung der Werte von Blutplasma
+verglichen mit Serum existiert nach Angaben des Herstellers kein signifikanter
+Unterschied.
+
+3.4.2.2 Kompetitiver ELISA
+Dieser enzymgekoppelter Immunadsorptionstest wird häufig angewendet. Hierbei wird
+zur Detektion kein zweiter, markierter Antikörper verwendet, sondern ein markiertes
+Kompetitor-Antigen (eine synthetische Verbindung, die dem Analyten strukturell
+ähnlich ist und auch am Antikörper bindet) eingesetzt. Es kommt dadurch zur
+Kompetition (Konkurrenz) zwischen Analyt und Kompetitor um einen Bindungsplatz
+am Antikörper. Das Signal verhält sich hier umgekehrt zur Analyt-Konzentration:
+wenn wenig Analyt vorhanden ist, werden fast alle Antikörperbindestellen von
+markiertem Kompetitor besetzt und es erfolgt eine starke Farbreaktion; andererseits
+wenn die Analytkonzentration hoch ist, werden die meisten Bindungsstellen am
+Antikörper von ihm besetzt, das markierte Kompetitor ist an der Reaktion wenig
+beteiligt und es erfolgt eine schwache Farbreaktion.
+Zusammengefasst verhält sich die Konzentration des untersuchten Agens umgekehrt
+proportional zur Intensität der Farbreaktion.
+Die verwendeten Nachweissysteme (Enzyme/Substrate) sind meist die gleichen wie
+beim Sandwich-ELISA.
+
+30
+
+3 Material und Methoden
+3.4.2.2.1 Hyaluronsäure-ELISA
+Die Plasmakonzentrationen von Hyaluronsäure wurden mit einem kompetitiven
+ELISA-Test (Echelon Salt Lake City, Utah, USA) gemäß den Anweisungen des
+Herstellers gemessen. Die Konzentrationen von Hyaluronsäure in den Proben wurden
+unter Verwendung einer Standardkurve von bekannten Mengen dieses
+Glykosaminoglykans bestimmt.
+Der benutzte ELISA-Test ist ein kompetitiver Immunassay, bei dem die Intensität der
+photometrisch gemessenen Farbreaktion umgekehrt proportional zur HyaluronsäureKonzentration in den Proben ist. Die Proben, die zu bestimmen sind, müssen vor dem
+ELISA-Test und der kompetitiven Bindung erst mit dem Detektor inkubiert werden.
+Für die Detektion des an der Platte gebundenen Hyaluronsäure-Detektors werden ein
+Enzym-verknüpfter Antikörper und die photometrische Messung benutzt. Als
+Reporterenzym für die Enzym-/Substrat-Reaktion wird die alkalische Phosphatase
+oder pNPP-Phosphatase benutzt. Die photometrische Messung erfolgt bei 405 nm.
+Dieser Immunassay ist relativ unabhängig vom molekularen Gewicht des
+Hyaluronsäure-Moleküls (mit Ausnahme im Bereich, wenn weniger als 25 Dimere
+vorhanden sind).
+Protokoll. Die Inkubationsplatte wurde vorbereitet. Die Standardreihe (1600, 800,
+400, 200, 100 und 50 ng/mL), die leeren Kontrollen, die Nulkontrollen und die
+Plasmaproben wurden entsprechend pipettiert. Zu den leeren Kontrollen wurde
+Verdünnungsmittel hinzugefügt. Mit Ausnahme der leeren Kontrollen wurden in jedes
+Well 50 µl vom Detektor pipettiert. Nach vorsichtigem Durchmischen wurde die Platte
+mit Plastikfolie bedeckt und für 1 Stunde bei 37 °C inkubiert.
+Nach der Inkubation wurden jeweils 100 µl von jeder Probe aus der Inkubationsplatte
+in die entsprechenden Wells der Detektionsplatte übertragen. Danach erfolgte eine
+erneute Inkubation für 30 Minuten bei 4 °C. Nach dem Inkubationsschritt wurde der
+Inhalt der Platte ausgeschüttet und die Platte wurde viermal mit 300 µl Waschlösung
+gewaschen. Dabei wurde die Platte nach jedem Waschschritt gut auf
+Papierhandtüchern ausgeklopft. Nach dem Waschen wurden 100 µl Enzym zu jedem
+Well der Detektionsplatte gegeben. Die Platte wurde danach erneut für 30 Minuten bei
+37 °C inkubiert.
+Nach der Inkubation wurde wie durchgeführt gewaschen und es wurden 100 µl
+Substratlösung zu jedem Well pipettiert. Die Platte wurde bei Raumtemperatur im
+Dunkeln inkubiert.
+Danach erfolgte eine erste photometrische Messung der Adsorption bei 405 nm zum
+Zeitpunkt 15 Minuten nach Inkubationsbeginn. Je nach Verhältnis zwischen der
+Nullkontrolle für Hyaluronsäure von der Standardreihe und der Kontrolle mit einer
+Hyaluronsäure-Konzentration von 1600 ng/mL wurde die notwendige Länge der
+Inkubation bestimmt. Als das OD0/OD1600-Verhältnis >3,0 erreicht wurde, konnte die
+31
+
+3 Material und Methoden
+Inkubation durch die Zugabe von 50 µl Stopp-Lösung zu jedem Well unterbrochen
+werden. Der entsprechende Zeitpunkt konnte durch Messungen 15, 30 und 45 Minuten
+nach Beginn der Inkubation bestimmt werden.
+Laut Hersteller ist ein Referenzbereich für die Hyaluronsäure-Konzentration von Seren
+gesunder Probanden kleiner 120 ng/ml angegeben. Bei der Testung der Werte von
+Blutplasma verglichen mit Serum existiert nach Angaben des Herstellers kein
+signifikanter Unterschied. Es ist zu beachten, dass die Plasmaspiegel von
+Hyaluronsäure bei diversen Erkrankungen erhöht sind, unter anderem Hepatitis (>160
+ng/mL) und Zirrhose (>250 ng/mL).
+
+3.4.3 Quantifizierung der Plasmaproteinkonzentration
+
+Die absoluten Plasmaproteinkonzentrationen wurden mit dem Bradford Assay (BioRad, Munich, Germany) gemäß den Anweisungen des Herstellers gemessen. Die
+Proteinkonzentrationen wurden unter Verwendung einer Standardkurve bekannter
+Mengen an Rinderserumalbumin bestimmt.
+
+3.5 Statistik
+Um die Hämodilution infolge der Therapie von den Patienten zu berücksichtigen,
+wurden die Konzentrationen der Glykokalyxkomponenten zu den individuellen
+absoluten Plasmaproteinkonzentrationen bezogen und als Verhältnis der Konzentration
+dargestellt [µg/g Protein].
+Die statistische Auswertung wurde mit Prism 4 für Windows durchgeführt. Als
+Voraussetzung der statistischen Tests gilt eine annähernde Symmetrie der Differenzen,
+jedoch müssen die Ergebnisse nicht normalverteilt sein.
+Da die Normalverteilung der Daten mit dem Kolmogorow-Smirnow-Test nicht
+überprüft wurde, wurden die Ergebnisse als Box-Plots dargestellt und zeigen die
+Mittelwerte mit Interquartilabstand (IQR), minimalen und maximale Werten.
+Nicht-parametrische Analyse wurde für alle statistischen Tests verwendet.
+
+32
+
+3 Material und Methoden
+Bei wiederholten Messungen von nicht-normalverteilten Daten (z.B. für den zeitlichen
+Verlauf der Plasmakonzentrationen der Glykokalyxkomponenten) wurde ein
+Wilcoxon-Test angewendet.
+Zum Vergleich zwischen der Gruppe der Reanimierten und der Gruppe der Kontrollen
+wurde ein Mann-Whitney-Test verwendet.
+Die Korrelation zwischen Schädigung der Glykokalyx und klinischen Parametern der
+Patienten wurden mit dem Rangkorrelationskoeffizienten nach Spearman berechnet.
+Alle Tests waren zweiseitig. P-Werte <0,05 wurden als statistisch signifikant
+angenommen.
+Wilcoxon-Test für verbundene Stichproben
+Der Wilcoxon-Test wird als nicht-parametrischer Test unter die Rangsummentests
+subsummiert, da eine bestimmte Verteilungsform der Messergebnisse nicht
+vorausgesetzt wird. Auch für kleinere Stichprobengrößen ist dieser Test geeignet.
+Der Wilcoxon-Test ist einzusetzen bei gepaarten Messungen, sogenannten repeated
+measures, das heißt, wenn das Gleiche am gleichen Ort unter verschiedenen
+Bedingungen gemessen werden soll, wie zum Beispiel die unterschiedlichen
+Plasmakonzentrationen der Glykokalyxkomponenten bei Patienten sofort (bis zu 6
+Stunden) nach überlebtem Herzkreislausstillstand und nach einem Intervall von 48 bis
+72 Stunden.
+Mann-Whitney-U-Test für nicht verbundene Stichproben
+Der U-Test von Mann-Whitney, auch als Wilcoxon-Test für zwei unverbundene
+Stichproben bezeichnet, vergleicht als Rangsummentest die zwei Mediane
+miteinander. Dieser Mann-Whitney-U-Test ist einzusetzen bei ungepaarten
+Messergebnissen, wie in unserem Fall der Vergleich zwischen Ausmaß der
+Glykokalyx-Schädigung bei Patienten nach einem Herzkreislaufstillstand und bei
+nicht-reanimierten Kontrollpatienten.
+Rangkorrelationskoeffizient nach Spearman
+Ein Rangkorrelationskoeffizient ist ein parameterfreies Maß für Korrelationen, das
+heißt, er misst, wie gut eine beliebige monotone Funktion den Zusammenhang
+zwischen zwei Variablen beschreiben kann, ohne irgendwelche Annahmen über die
+Wahrscheinlichkeitsverteilung der Variablen zu machen. Er benötigt nicht die
+Annahme, dass die Beziehung zwischen den Variablen linear ist. Der
+Rangkorrelationskoeffizient ist robust gegenüber Ausreißern.
+33
+
+3 Material und Methoden
+Der Rangkorrelationskoeffizient nach Spearman Rho geht von einer
+Gleichabständigkeit (= Äquidistanz) der Skalenwerte/Ränge aus. Er wurde benutzt, um
+einen Vergleich zwischen den unterschiedlichen Konzentrationen der
+Glykokalyxkomponenten als Maß für die Schädigung der Glykokalyx und den
+klinischen Charakteristika der Patienten zu ziehen.
+
+34
+
+4 Ergebnisse
+
+4 Ergebnisse
+4.1 Patientenrekrutierung und Patientencharakterisierung
+Es wurden 25 Patienten nach erfolgreicher kardiopulmonaler Reanimation und 12
+Kontrollpatienten in die Studie eingeschlossen. Von den reanimierten Patienten waren
+18 (72 %) Männer. Insgesamt haben 15 reanimierte Patienten überlebt und konnten
+entlassen werden (60 %). Die restlichen 10 reanimierten Patienten sind während des
+Krankenhausaufenthalts verstorben, die meisten auf der Intensivstation (40 %).
+Unter den 12 Kontrollpatienten gab es 9 Männer (75 %). Alle Kontrollpatienten
+zeigten Symptome des akuten Koronarsyndroms, davon haben 7 von den 12 Patienten
+einen Myokardinfarkt erlitten, die restlichen 5 wiesen eine instabile Angina pectoris
+ohne Infarzierung auf. Alle Kontrollpatienten sind hämodynamisch stabil gewesen und
+haben überlebt. Siehe dazu Tabelle 3 auf der folgenden Seite.
+Das durchschnittliche Alter von den reanimierten Patienten lag bei 70,5 (IQR
+56,8/75,8) Jahren, das von den Kontrollpatienten war mit 70 Jahren (IQR 60,5/74)
+nicht signifikant unterschiedlich.
+Kammerflimmern und ventrikuläre Tachykardie waren der häufigste primär gefundene
+kardiale Rhythmus bei den reanimierten Patienten (n=18, 72 %), gefolgt von Asystolie
+und pulsloser elektrischer Aktivität, PEA (n=7, 28 %).
+Die Dauer der Hypoxiezeit vor der mechanischen kardiopulmonalen Reanimation
+betrug zwischen 0 und 15 Minuten, durchschnittlich 4,5 Minuten. Die Gesamtdauer
+der mechanischen kardiopulmonalen Reanimation betrug zwischen 10 und 75
+Minuten, durchschnittlich 28 Minuten (IQR 17,5/45). Davon fand bei 6 von den
+Reanimierten eine Laien-CPR zwischen 4 und 20 Minuten vor dem Eintreffen des
+Notarztes statt, damit liegt die durchschnittliche Laien-Reanimation bei 2 Minuten und
+45 Sekunden. Die Profi-Reanimation betrug zwischen 0 und 75 Minuten. Von allen 25
+Patienten wurde 1 Patient nur durch Laien für 20 Minuten reanimiert.
+Bei 21 von den reanimierten Patienten (84 %) konnte eine kardiale Ursache für den
+Herzstillstand festgestellt werden. 20 Reanimierte (80 %) wurden einer
+Koronarangiographie unterzogen und 22 (88 %) wurden mittels leichte Hypothermie
+neuroprotektiv behandelt.
+Von den Reanimierten wurden 23 (92 %) mit Vasopressoren therapiert und 5 (20 %)
+mit Statinen. Statine bekamen auch 10 von den Kontrollpatienten (83 %).
+Bei einem Teil der reanimierten Patienten wurden im Verlauf verschiedene
+Organsysteme beeinträchtigt: 15 Reanimierte (60 %) zeigten ein akutes
+Nierenversagen, 7 (28 %) ein akutes Herzversagen und 1 (4 %) ein akutes
+Leberversagen.
+35
+
+4 Ergebnisse
+Gruppe der Reanimierten
+25
+
+Kontrollgruppe
+12
+
+Alter
+(durchschnittlich mit
+Interquartilabstand)
+
+70,5
+(56,8/75,8)
+
+70
+(60,5/74)
+
+Geschlecht (männlich)
+
+18 (72 %)
+
+9 (75 %)
+
+28 (17,5/45)
+
+Entfällt
+
+18 (72 %)
+7 (28 %)
+
+Entfällt
+Entfällt
+
+Anzahl der Patienten
+
+Dauer der CPR (min)
+Initialer Rhythmus
+
+VF/VT
+Asystolie/PEA
+
+22 (88 %)
+
+Therapeutische
+Hypothermie
+durchgeführt?
+Ursachen für den
+Herzstillstand
+
+kardial
+nicht-kardial
+
+21 (84 %)
+4 (16 %)
+20 (80 %)
+
+Koronarangiographie
+durchgeführt
+
+Entfällt
+
+Entfällt
+Entfällt
+12 (100 %)
+
+Outcome
+
+Überlebende
+
+15 (60 %)
+
+12 (100%)
+
+Medikation
+
+Vasopressoren
+Statine
+
+23 (92 %)
+5 (20 %)
+
+0 (0 %)
+10 (83 %)
+
+Organversagen
+
+Akutes Nierenversagen 15 (60 %)
+Akutes Leberversagen
+1 (4 %)
+Akutes Herzversagen
+7 (28 %)
+
+0 (0 %)
+0 (0 %)
+0 (0 %)
+
+Komorbidität
+
+KHK
+pAVK
+Lungenerkrankungen
+Niereninsuffizienz
+Leberinsuffizienz
+
+Kardiovaskuläre
+Risikofaktoren
+
+Hypertonie
+Diabetes mellitus
+Dyslipidämie
+Rauchen
+
+15 (60 %)
+0 (0 %)
+4 (16 %)
+3 (12 %)
+0 (0 %)
+
+11 (92 %)
+3 (25 %)
+3 (25 %)
+0 (0%)
+0 (0%)
+
+7 (28 %)
+7 (28 %)
+5 (20 %)
+4 (16 %)
+
+9 (75 %)
+0 (0 %)
+7 (58 %)
+3 (25 %)
+
+Tabelle 3: Patientencharakteristika
+36
+
+4 Ergebnisse
+Wichtige Nebenerkrankungen bei den Reanimierten waren KHK bei 15 Patienten (60
+%), Lungenerkrankungen bei 4 Patienten (16 %) und Niereninsuffizienz bei 3
+Patienten (12 %). 11 Kontrollpatienten (92 %) wiesen auch eine KHK auf, 3
+Kontrollpatienten (25 %) eine pAVK und 3 Kontrollpatienten (25 %)
+Lungenerkarankungen.
+Wichtige kardiovaskuläre Risikofaktoren waren Hypertonie bei 7 reanimierten
+Patienten (28 %) und 9 Kontrollpatienten (75 %), Diabetes mellitus bei 7 Reanimierten
+(28 %), Dyslipidämie bei 5 Reanimierten (20 %) und 7 Kontrollpatienten (58 %) und
+Rauchen bei 4 Reanimierten (16 %) und 3 Kontrollen (25 %).
+Die erste Blutentnahme bei den reanimierten Patienten erfolgte innerhalb der ersten 6
+Stunden (durchschnittlich 2 Stunden und 51 Minuten) nach erfolgreicher
+kardiopulmonaler Reanimation und Rückkehr des Spontankreislaufs (erste, frühe
+Phase des Postreanimationssyndroms). Zwischen 48 und 72 Stunden (durchschnittlich
+51 Stunden und 12 Minuten) wurde die zweite Blutentnahme durchgeführt
+(intermediäre Phase des Postreanimationssyndroms). Siehe dazu Tabelle 3 auf der
+folgenden Seite.
+
+4.2 Plasmaspiegel von Syndecan-1, Heparansulfat und
+Hyaluronsäure in der frühen und intermediären Phase des
+Postreanimationssyndroms
+
+In der vorliegenden Studie wurde festgestellt, dass die Plasmakonzentrationen der frei
+zirkulierenden Glykokalyxkomponenten bei den Patienten nach kardiopulmonaler
+Reanimation signifikant höher im Unterschied zu den Kontrollpatienten sind.
+Interessanterweise hat sich gezeigt, dass sich die Konzentrationen des Proteoglykans
+Syndecan-1 einerseits und der Glykosaminoglykane Heparansulfat und Hyaluronsäure
+andererseits zeitlich unterschiedlich bezüglich der ersten und zweiten Blutentnahme
+verhalten haben. Die Plasmaspiegel von Syndecan-1 bei den reanimierten Patienten
+waren in der frühen Phase des Postreanimationssyndroms ca. viermal höher im
+Vergleich zu den Kontrollpatienten, gefolgt von einer relativen Verminderung in der
+intermediären Phase. Sowohl in den Proben von der ersten, als auch in denjenigen von
+der zweiten Blutentnahme (in der frühen und in der intermediären Phase des
+Postreanimationssyndroms) waren die Plasmaspiegel von Syndecan-1 bei den
+37
+
+4 Ergebnisse
+Reanimierten signifikant höher als bei den Kontrollpatienten (frühe Phase: P < 0,001,
+intermediäre Phase: P < 0,005).
+
+Abbildung 8: Syndecan-1-Plasmakonzentrationen bei den reanimierten Patienten
+(N=25) und Kontrollpatienten (N=12) in der frühen und intermediären Phase des
+Postreanimationssyndroms
+Es konnte für die Glykosaminoglykane Heparansulfat und Hyaluronsäure kein
+signifikanter Unterschied in den Konzentrationen bei den Reanimierten im Vergleich
+zu den Kontrollen in der frühen Phase gefunden werden.
+
+Abbildung 9: Heparansulfat-Plasmakonzentrationen bei den reanimierten Patienten
+(N=25) und Kontrollpatienten (N=12) in der frühen und intermediären Phase des
+Postreanimationssyndroms
+
+38
+
+4 Ergebnisse
+
+Abbildung 10: Hyaluronsäure-Plasmakonzentrationen bei den reanimierten
+Patienten (N=25) und Kontrollpatienten (N=12) in der frühen und intermediären
+Phase des Postreanimationssyndroms
+Im Gegenteil dazu zeigten beide Glykokalyxkomponenten signifikant höhere
+Plasmaspiegel in der intermediären Phase bei den reanimierten Patienten im Vergleich
+zu den Kontrollen (P < 0,05). Siehe dazu wiederholt Abbildung 9 und 10 auf der
+vorigen Seite.
+
+4.3 Plasmakonzentrationen der Glykokalyxkomponenten bei
+Nicht-Überlebenden und Überlebenden
+
+Potentielle Überlebende und Nicht-Überlebende. Es konnte ein signifikanter
+Unterschied in den Plasmakonzentrationen von Syndecan-1 und Heparansulfat
+zwischen potentiellen Überlebenden und Nicht-Überlebenden gefunden werden.
+Nicht-Überlebende haben signifikant höhere Konzentrationen der beiden
+Glykokalyxkomponenten in der intermediären Phase im Vergleich zu den
+Überlebenden gezeigt (P < 0,05), was als Korrelation zwischen dem Ausmaß der
+Schädigung der endothelialen Glykokalyx und dem klinischen Outcome gedeutet
+werden kann. In der frühen Phase des Postreanimationssyndroms konnte kein
+39
+
+4 Ergebnisse
+signifikanter Unterscheid gefunden werden. Siehe dazu Abbildung 11 und 12 auf der
+folgenden Seite.
+Es konnten keine signifikanten Unterschiede für Hyaluronsäure weder in der frühen
+noch in der intermediären Phase festgestellt werden.
+
+Abbildung 11: Syndecan-1-Plasmakonzentrationen bei den Nicht-Überlebenden
+(N=10) und Überlebenden (N=15) in der frühen und intermediären Phase des
+Postreanimationssyndroms
+
+Abbildung 12: Heparansulfat-Plasmakonzentrationen bei den Nicht-Überlebenden
+(N=10) und Überlebenden (N=15) in der frühen und intermediären Phase des
+Postreanimationssyndroms
+40
+
+4 Ergebnisse
+4.4 Korrelation zwischen der Plasmakonzentration der
+Glykokalyxkomponenten und der Dauer der Reanimation
+In Zusammenhang mit der signifikanten Erhöhung der Syndecan-1Plasmakonzentrationen nach sofortigem Überleben im Rahmen eines Herzstillstands
+konnte das Proteoglykan als einziger Parameter der Glykokalyx eine signifikante
+Korrelation zur Dauer der kardiopulmonalen Reanimation vor Rückkehr des
+Spontankreislaufs zeigen (R=0,5, P < 0,05); je länger die Wiederbelebung gedauert
+hat, desto höher war der Syndecan-1-Plasmaspiegel.
+
+Abbildung 13: Korrelation zwischen der Syndecan-1-Plasmakonzentration und
+der Dauer der CPR in der frühen Phase des Postreanimationssyndroms
+
+Es konnte keine Korrelation zwischen den Plasmakonzentrationen der anderen
+Glykokalyxkomponenten und der Dauer der kardiopulmonalen Reanimation
+nachgewiesen werden.
+Es konnte auch kein Zusammenhang zwischen den Plasmaspiegeln der
+Glykokalyxkomponenten und der geschätzten Dauer der Hypoxiezeit vor der
+kardiopulmonalen Reanimation festgestellt werden.
+Darüber hinaus sind die Plasmakonzentrationen bei Patienten mit Kammerflimmern
+oder ventrikulärer Tachykardie nicht signifikant unterschiedlich von den
+
+41
+
+4 Ergebnisse
+Plasmakonzentrationen bei Patienten mit Asystolie oder pulsloser elektrischer
+Aktivität.
+Dadurch, dass nur bei 3 von den reanimierten Patienten keine milde therapeutische
+Hypothermie durchgeführt wurde, konnte die Wirkung dieser neuroprotektiven
+Behandlung auf die Parameter für die Schädigung der Glykokalyx nicht eingeschätzt
+werden.
+
+4.5 Korrelation zwischen den Plasmakonzentrationen der
+Glykokalyxkomponenten und anderen Laborparametern
+
+Es konnte in vorherigen Studien demonstriert werden, dass einige im Blut
+zirkulierende Faktoren mit Parametern für die Schädigung der endothelialen
+Glykokalyx korrelieren [51]. Experimentell konnte eine direkte schädigende Wirkung
+des Entzündungsmediators TNF-α auf die endotheliale Oberflächenschicht
+nachgewiesen werden [19], [72]. Es konnte für das Patientenkollektiv von der
+vorliegenden Studie keinen Zusammenhang zwischen den Plasmakonzentrationen von
+den zirkulierenden Glykokalyxkomponenten und den Plasmakonzentrationen von den
+Entzündungsparametern C-reaktivem Protein und TNF-α gefunden werden. Allerdings
+konnte eine negative Korrelation zwischen dem Syndecan-1-Plasmaspiegel in der
+frühen Phase des Postreanimationssyndroms und der Aktivität des Proteaseinhibitors
+Antithrombin III als ein potentiell schützender Faktor für die Glykokalyx festgestellt
+werden (R= -0,7, P < 0,01). Siehe dazu Abbildung 14 auf der folgenden Seite.
+
+In der Zusammenfassung der Patientendaten wurde in der vorliegenden Studie auf
+mehrere Parameter im Plasma der Patienten, sowohl bei den Reanimierten, als auch
+bei den Kontrollen geachtet, um mögliche Korrelationen mit dem Ausmaß der
+Schädigung der Glykokalyx nicht zu übersehen. Es konnten keine weiteren
+signifikanten Unterschiede in der frühen und intermediären Phase des
+Postreanimationssyndroms, zwischen den Reanimierten und den Kontrollpatienten und
+zwischen den potentiellen Überlebenden und den Nicht-Überlebenden gefunden
+werden.
+
+42
+
+4 Ergebnisse
+
+Abbildung 14: Korrelation zwischen der Syndecan-1-Plasmakonzentration und der
+Antithrombin III-Aktivität bei den reanimierten Patienten (N=25) in der frühen
+Phase des Postreanimationssyndroms
+
+43
+
+5 Diskussion
+
+5 Diskussion
+Neulich konnte die Schlüsselrolle der endothelialen Glykokalyx für die vaskuläre
+Permeabilität und bei Inflammationsprozessen hervortreten, ihre Bedeutung für die
+Entstehung und Pathogenese des Postreanimationssyndroms, eines Sepsis-ähnlichen
+Zustands, bleibt aber weitgehend unbekannt.
+Ziel der vorliegenden Arbeit war es, das Ausmaß der Schädigung der endothelialen
+Oberflächenschicht Glykokalyx nach einem überlebten Herzkreislaufstillstand und die
+mögliche Korrelation mit der Entwicklung des Postreanimationssyndroms und mit der
+Prognose von diesen Patienten zu untersuchen.
+Im Folgenden werden zunächst die Studienpopulationen diskutiert und im Anschluss
+die Ergebnisse der Arbeit in Bezug auf die Beeinträchtigung der
+Endothelschutzschicht Glykokalyx erörtert und im Kontext der zu diesem Thema
+bisher veröffentlichten Studien diskutiert.
+
+5.1 Patientenkollektiv
+
+Patienten, die einen Herzkreislaufstillstand durch eine erfolgreiche Reanimation
+überlebt haben, bilden eine sehr heterogene Gruppe. Theoretisch kann jede Krankheit
+letztlich Anlass für einen Herzstillstand und eine Reanimationspflichtigkeit darstellen.
+In dieser Studie wurde eine erste Vorauswahl dadurch getroffen, dass nur Patienten
+eingeschlossen wurden, die auf die internistische Intensivstation der Universitätsklinik
+Freiburg aufgenommen wurden. Damit wurden vor allem traumatische Ursachen
+ausgeschlossen. In der Mehrzahl der Fälle war die Ursache kardiogen, daher wurden
+als Kontrollgruppe kardiologische Patienten ausgewählt. Es ist jedoch anzumerken,
+dass es auch andere internistische Ursachen gab, die nicht unbedingt in dieser
+Kontrollgruppe abgebildet werden können.
+Die Reanimations- und Kontrollgruppen waren vergleichbar in den relevanten
+Basisdaten wie Alter, Geschlecht und Vor- und Begleiterkrankungen. Lediglich in
+einigen wenigen Punkten gab es signifikante Unterschiede: so war der Anteil der
+Patienten mit KHK in der Kontrollgruppe signifikant höher als in der
+Reanimationsgruppe (siehe Tabelle 3 im Kapitel Ergebnisse). Es gab auch
+Unterschiede im kardiovaskulären Risikoprofil zwischen reanimierten Patienten und
+Kontrollpatienten. Diese Unterschiede sind durch die Beschränkung der Kontrollen auf
+kardiologische Patienten zu erklären.
+44
+
+5 Diskussion
+Auffällig waren auch signifikante Unterschiede in den Laborwerten. Diese
+Unterschiede sind wahrscheinlich durch die Umstände und Folgen der Reanimation
+und vor allem der darauf folgenden intensiven Therapiemaßnahmen erklärbar.
+Erhebliche Schwierigkeiten bei der Auswahl geeigneter Kontrollpatienten für ein
+Kollektiv reanimierter Patienten bedingt die spezielle Therapie nach einer
+Reanimation. Diese beinhaltet zahlreiche intensive Maßnahmen, die möglicherweise
+Einfluss auf die untersuchten pathophysiologischen Geschehnisse haben, so etwa die
+Gabe von Katecholaminen und Sedativa, die Intubation und Beatmung, die induzierte
+milde therapeutische Hypothermie, die Versorgung mit verschiedenen Gefäßkathetern
+sowie anderen intensivmedizinischen Maßnahmen. Eine Möglichkeit wäre nun, andere
+Patienten der Intensivstation als Kontrollen auszuwählen. Dabei ergeben sich jedoch
+neue Probleme: fast alle dieser Patienten müssten durch ihre, meist fortgeschrittene,
+Grunderkrankung ausgeschlossen werden. Es wurde daher für diese Studie
+beschlossen, Patienten von kardiologischen Normalstationen auszuwählen. Die
+Blutabnahme erfolgte dann nach der Koronarangiographie, die bei jedem der
+Kontrollpatienten durchgeführt wurde.
+Es bleibt festzuhalten, dass dieses Kontrollkollektiv aus den oben genannten Gründen
+nicht ideal ist, jedoch fehlt bisher auch in anderen Reanimationsstudien ein
+überzeugenderer Ansatz. Die meisten der Autoren verwenden als Kontrollen sogar
+gesunde Probanden, welche aus den oben genannten Gründen als alleinige Kontrollen
+für die vorliegende Studie ungeeignet schienen [1], [37].
+Eine weitere Besonderheit der Studienpopulation „Reanimierte Patienten“ ist die
+Schwierigkeit der retrospektiven Datenerfassung. So sind einige wichtige
+Informationen über die Ursachen und den Hergang des Herzstillstandes, wie zum
+Beispiel die Dauer der Hypoxie, im Nachhinein schwierig oder nur ungenau zu
+rekonstruieren, die aber für das weitere pathologische Geschehen sowie für die
+Prognoseeinschätzung sehr wichtig wären [70].
+
+5.2 Das Postreanimationssyndrom
+
+5.2.1 Definition, Pathogenese und Therapie
+
+Zum ersten Mal wurde der Zustand nach Reanimation in den 70er Jahren von Dr.
+Negovsky als „Postreanimationskrankheit“ definiert [68]. Die Rückkehr der spontanen
+45
+
+5 Diskussion
+Blutzirkulation nach einer kompletten dauerhaften Ganzkörperischämie als ein nichtnatürlicher pathophysilogischer Zustand nach kardiopulmonaler Wiederbelebung
+wurde schon damals als ein komplexer Prozess mit definierten zugrundeliegenden
+Ursachen und zeitlichem Verlauf beschrieben.
+2008 definierten Neumar und Mitarbeiter den Begriff „Postreanimationssyndrom“
+[70]. Das Postreanimationssyndrom ist als komplexe Kombination aus
+pathophysiologischen Prozessen zu betrachten, darunter Hirnschädigung,
+myokardialer Dysfunktion und systemischer Ischämie-Reperfusionsantwort. Dieser
+Zustand ist oft von einem vierten Faktor kompliziert: der unbekannten pathologischen
+Ursache, die zum Herzstillstand geführt hat [70].
+Das Verständnis dieser komplexen Vorgänge ist wichtig für das therapeutische
+Vorgehen nach CPR und schließt sowohl die Behandlung der Ursachen, als auch der
+Folgen vom Herzstillstand ein.
+Adrie und Mitarbeiter konnten die erfolgreiche kardiopulmonale Reanimation
+aufgrund der hohen Plasmaspiegel von zirkulierenden Zytokinen und Endotoxin und
+der Dysregulation von ihrer Produktion in diesen Patienten mit dem immunologischen
+Status von Patienten mit Sepsis vergleichen [1]. Die Postreanimationsanomalien nach
+einem Herzstillstand ahmen die immunologischen Veränderungen und die
+Gerinnungsstörungen nach, die bei Patienten mit schwerer Sepsis zu beobachten sind.
+Diese Feststellungen tragen dazu bei, dass therapeutische Ansätze, die erfolgreich bei
+Patienten mit einer schweren Sepsis verwendet wurden, auch bei Patienten mit
+kardiopulmonaler Reanimation nach Herzstillstand erforscht werden [2].
+Es konnte von Kilgannon und Mitarbeitern nachgewiesen werden, dass Überlebende
+mit Hypotension nach einem Herzstillstand im Vergleich zu normotensiven
+Überlebenden eine erhöhte Mortalitätsrate aufweisen, was als potentielles
+therapeutisches Target beim Postreanimationssyndrom betrachtet werden kann [55]. In
+der Postreanimationsphase hat sich die therapeutische leichte Hypothermie als klinisch
+effektiv erwiesen; sie verbessert das neurologische Outcome und senkt die
+Mortalitätsrate [10], [50].
+
+5.2.2 Rolle der endothelialen Glykokalyx
+In der vorliegenden Arbeit konnte nachgewiesen werden, dass es zu einer verstärkten
+Schädigung der endothelialen Glykokalyx bei unmittelbaren Überlebenden nach einem
+Herzstillstand kommt. Darüber hinaus konnte der unterschiedliche zeitliche Verlauf
+der Plasmaspiegel von drei Hauptkomponenten der Glykokalyx beschrieben werden.
+Diese Beobachtungen konnten zum ersten Mal direkt auf die Rolle der endothelialen
+46
+
+5 Diskussion
+Oberflächenschicht als potentieller pathophysiologischer Faktor bei der Entwicklung
+des Postreanimationssyndroms hinweisen.
+
+Entdeckung der endothelialen Glykokalyx und ihre Bedeutung. Das
+Vorhandensein dieser endothelialen Oberflächenschicht, die das Lumen der
+Blutgefäße auskleidet, konnte zum ersten Mal vor ca. 70 Jahren in Zusammenhang mit
+der Regulation der Gefäßpermeabilität postuliert werden [26]. Erst in der jüngeren
+Vergangenheit konnte diese Struktur mithilfe von modernen Färbungen und
+fortgeschrittenen bildgebenden Verfahren visualisiert werden [104]. In den
+anschließenden Studien konnte die Schlüsselrolle dieser kohlenhydratreichen
+Oberflächenschicht als Modulator der vaskulären Homöostase und Integrität
+nachgewiesen werden.
+
+Funktionen der Glykokalyx. Die Funktionen der endothelialen Glykokalyx in der
+Zellbiologie sind zahlreich und wurden in letzter Zeit umfassend erforscht [6].
+Basierend auf früheren Beobachtungen für die Abhängigkeit der endothelialen NOFreisetzung von der Integrität der Glykokalyx [63], konnte neulich gezeigt werden,
+dass die arterielle Glykokalyx eine wichtige Rolle für das Scher-Stress-abhängige
+Wachstum von Blutgefäßkollateralen spielt [44].
+Es ist bekannt, dass die endotheliale Glykokalyx eine schützende Funktion für die
+Gefäßwände hat, ihre Schädigung und Dysfunktion als Antwort auf atherogene Stimuli
+erhöhen die vaskuläre Vulnerabilität und können als wichtige Schritte in der
+Pathogenese der Atherosklerose betrachtet werden [73], [103].
+
+Visualisierung. Viele wissenschaftliche Berichte haben früher die
+Elektronenmikroskopie zur direkten Visualisierung und Quantifizierung der
+endothelialen Glykokalyx bei Tieren benutzt. Siehe dazu Abbildung 15 auf der
+folgenden Seite.
+
+47
+
+5 Diskussion
+
+Abbildung 15: Elektronenmikroskopische Aufnahmen von Mikrogefäßen von
+Meerschweinchenherzen, speziell angefärbt, um die endotheliale Glykokalyx zu
+präsenterieren. A: nach 15-minütiger blutfreien Perfusion; B: nach zusätzlicher 20minütiger warmer (37 °C) globaler Stop-flow-Ischämie, die Glykokalyx kann nicht
+mehr visualisiert werden. Modifiziert übernommen von Rehm et al. 2007
+
+Glykokalyxkomponenten. In letzter Zeit haben mehrere Studien die Messungen von
+zirkulierenden Glykokalyxkomponenten im Blutplasma validiert und entwickelt, um
+die Untersuchung dieser endothelialen Oberflächenschicht in klinischen Studien zu
+ermöglichen.
+Insbesondere die Gruppe von Becker und Mitarbeitern hat diese Methode benutzt, um
+die bedeutende Schädigung der endothelialen Glykokalyx bei Patienten mit globaler
+oder regionaler Ischämie während einer Operation [85] zu demonstrieren und sie mit
+klinischen Parametern zu korrelieren [15].
+Nelson und Mitarbeiter konnten zirkulierende Glykosaminoglykane (Heparansulfat
+und Hyaluronsäure) in Zusammenhang mit der Mortalität bei Patienten mit septischem
+Schock bringen [69], während Johansson und Mitarbeiter eine Korrelation zwischen
+der Konzentration des Proteoglykans Syndecan-1 als Glykokalyxkomponente und der
+Mortalität bei Polytraumapatienten finden konnten [51].
+
+Korrelation zwischen den Ergebnissen der Studie und früheren Beobachtungen.
+Die Ergebnisse der vorliegenden Arbeit von Patienten mit Postreanimationssyndrom
+48
+
+5 Diskussion
+korrespondieren gut mit früheren Berichten, allerdings konnten Unterschiede in
+diesem Patientenkollektiv gefunden werden: in direktem Vergleich mit Patienten, die
+während einer Herzoperation auf Herz-Lungen-Maschine angewiesen waren [15], ist
+die Erhöhung der Plasmaspiegel der Glykokalyxkomponenten bei den Patienten von
+der vorliegenden Studie relativ gering und eher mit dieser der Off-Pumpen-Gruppe
+vergleichbar.
+Ähnlich ist der zeitliche Verlauf der Plasmaspiegel in der Studie mit diesem der
+letzteren Patientengruppe vergleichbar, mit einem früheren Peak der Syndecan-1Konzentrationen und mit einem späteren Peak der Konzentrationen für Heparansulfat
+und Hyaluronsäure.
+Eine wahrscheinliche Erklärung für den geringen Anstieg dieser Plasmaspiegel in der
+Studie ist der relativ späte Zeitpunkt der ersten Blutentnahme, länger als 1 Stunde nach
+dem Herstillstand. Die Glykokalyxkomponenten werden ziemlich schnell im
+Blutplasma deaktiviert und bisherige Berichte konnten eine nahezu Normalisierung
+der Syndecan-1-Plasmaspiegel bereits 1 Stunde nach Benutzung der Herz-LungenMaschine zeigen [15].
+Die signifikante Erhöhung der Plasmaspiegel aller drei Glykokalyxkomponenten
+während der intermediären Phase des Postreanimationssyndroms ist eher mit der
+andauernden Schädigung bei diesem systemischen entzündungsähnlichen Zustand
+vergleichbar und weniger als ein Rückstand des initialen IschämieReperfusionsschadens anzusehen.
+Es konnte kürzlich eine Studie über die Freisetzung von aktivierten endothelialen
+Mikropartikeln (EMPs) als Marker für erhebliche Schädigung des Endothels in einem
+ähnlichen Patientenkollektiv mit Postreanimationssyndrom abgeschlossen werden
+[35]. Mikropartikel sind kleine Membranvesikel, die von Blut- und Endothelzellen bei
+ihrer Aktivierung oder Apoptose abgespalten werden. In dieser Studie wurden im Blut
+erfolgreich reanimierter Patienten die Konzentrationen von zirkulierenden
+Endothelzellen als Biomarker für Endothelschädigung, sowie die Konzentrationen von
+Mikropartikeln thrombozytärer, endothelialer und leukozytärer Herkunft sowie
+Konjugaten aus endothelialen Mikropartikeln und Monozyten bzw. Thrombozyten
+bestimmt und mit Kontrollpatienten verglichen. Reanimierte Patienten wiesen früh
+nach Reanimation signifikant mehr zirkulierende Endothelzellen als Kontrollpatienten
+auf. Ihre Konzentration korrelierte zudem signifikant mit der Dauer der Reanimation.
+Patienten mit hoher Konzentration an zirkulierenden Endothelzellen hatten ein
+signifikant geringeres 20-Tage-Überleben als Patienten mit geringerer Konzentration
+an zirkulierenden Endothelzellen.
+Weiterhin hat sich in dieser Studie früh nach Reanimation eine signifikante Erhöhung
+von leukozytären Mikropartikeln sowie Konjugaten aus Monozyten und endothelialen
+Mikropartikeln gezeigt, die mindestens 24 Stunden angehalten hat. Nach 24 Stunden
+konnte zusätzlich eine signifikante Erhöhung von endothelialen und thrombozytären
+49
+
+5 Diskussion
+Mikropartikeln festgestellt werden. Die Konjugate aus Thrombozyten und
+endothelialen Mikropartikeln waren lediglich früh nach Reanimation signifikant erhöht
+gewesen.
+Diese Befunde sprachen für eine massive Endothelschädigung nach Reanimation, eine
+frühe und mindestens 24 Stunden anhaltende Inflammationsreaktion sowie eine im
+Verlauf einsetzende Endothel- und Gerinnungsaktivierung. Die Ergebnisse wiesen auf
+eine zentrale Bedeutung des Endothels im Postreanimationssyndrom hin. So spielten
+Mikropartikel, insbesondere endothelialen Ursprungs, möglicherweise eine
+Schlüsselrolle als Bindeglied zwischen Endothelschädigung, -apoptose und –
+aktivierung und Monozyten- bzw. Thrombozytenaktivierung im Rahmen des
+Postreanimationssyndroms.
+In der vorliegenden Studie ist der zeitliche Verlauf von zirkulierenden endothelialen
+Mikropartikeln vergleichbar mit den Beobachtungen für zirkulierende
+Glykokalyxkomponenten und auch als Ausdruck der anhaltenden endothelialen
+Schädigung länger als 24 Stunden nach kardiopulmonaler Reanimation zu
+interpretieren.
+
+5.3 Ausblick
+Klinische Bedeutung. Neben dem potentiellen Einsatz als Biomarker für die
+endotheliale Schädigung, konnte die Glykokalyx in letzter Zeit als möglicher
+therapeutischer Angriffspunkt für Medikamente hervortreten, die erzielen, diese
+endotheliale Oberflächenschicht zu schützen oder wiederherzustellen.
+Zusätzlich zu den potentiellen Optionen für den Schutz der Glykokalyx und für ihre
+Rekonstruktion [6] ist die Applikation von Antithrombin III zu erwähnen. Neben
+seinen Funktionen als endogenes Antikoagulans hat dieser Proteaseinhibitor auch
+entzündungshemmende Wirkung [36] und ist in der Lage die endotheliale Glykokalyx
+in experimentellen Modellen mit Ischämie-Reperfusionsschaden [20] vor
+entzündungsähnichen Reaktionen zu schützen [19]. Siehe dazu Abbildung 16 auf der
+folgenden Seite.
+Es konnte in früheren Studien einen Zusammenhang zwischen dem Plasmaspiegel von
+C-reaktivem Protein und der Schädigung der Glykokalyx gefunden werden [30]:
+Devaraj und Mitarbeiter konnten eine signifikante Reduktion der Glykokalyxdicke in
+Endothelzellen finden, die mit C-reaktivem Protein inkubiert wurden.
+Außerdem konnten Nieuwdorp und Mitarbeiter nachweisen, dass entzündliche
+Aktivität, die zum Teil durch TNF-α vermittelt wird, auch zur Schädigung der
+50
+
+5 Diskussion
+endothelialen Glykokalyx beim Menschen führt, was als Folge der vaskulären
+Vulnerabilität durch die Inflammation betrachtet werden kann [71], [72].
+Für Hydrocortison und Antithrombin III konnte auch beschrieben werden, dass sie die
+Glykokalyx schützen, in dem sie dem schädigenden Einfluss von TNF-α als
+Entzündungsmediator entgegenwirken [19]. Siehe dazu Abbildung 16 auf der
+folgenden Seite.
+
+Abbildung 16: Elektronenmikroskopische Darstellung der Glykokalyx von
+Meerschweinchenherzen: (A) intakte Glykokalyx nach 20-minütiger Perfusion, (B)
+die fast vollständig abgebaute endotheliale Glykokalyx nach 20-minütiger warmer
+Ischämie mit konsekutiver Reperfusion und (C) die Glykokalyx nach
+Vorbehandlung mit Antithrombin III und 20-minütiger warmer Ischämie und
+Reperfusion. Die Glykokalyx in (C) ist weitgehend intakt. Übernommen von
+Chappell et all. 2009
+Interessanterweise zeigten hohe Plasmaspiegel von Antithrombin III in der
+vorliegenden Studie eine signifikante negative Korrelation mit den Syndecan-1Plasmaspiegeln in der frühen Phase des Postreanimationssyndroms als mögliche
+potentielle protektive Wirkung von Antithrombin III auf die endotheliale Glykokalyx
+in diesem Patientenkollektiv.
+Obwohl die aktuellen Leitlinien die Anwendung von Antithrombin III für die
+Behandlung von Sepsis nicht empfehlen, könnten modifizierte Formen dieses
+51
+
+5 Diskussion
+Proteaseinhibitors, der die Bindungsaffinität an die Glykokalyx steigert, theoretisch
+dazu beitragen, diese wichtige endotheliale Oberflächenschicht auch im klinischen
+Umfeld besser aufrechtzuerhalten [6].
+
+Die endotheliale Glykokalyx als potentielles Behandlungsziel? Es konnte in der
+vorliegenden Studie demonstriert werden, dass es zu einer Schädigung der
+endothelialen Glykokalyx bei unmittelbaren Überlebenden nach Herzstillstand kommt
+und dass diese endotheliale Oberflächenschicht ein potentieller therapeutischer
+Angriffspunkt in der Behandlung des Postreanimationssyndroms darstellt.
+Unter den untersuchten zirkulierenden Glykokalyxkomponenten zeigte das
+Proteoglykan Syndecan-1 eine starke Korrelation mit der Dauer der kardiopulmonalen
+Reanimation und mit der Mortalität, was zur diagnostischen Beurteilung des
+Endothelschadens in diesem Patientenkollektiv beitragen könnte.
+Erste therapeutische Versuche, die endotheliale Glykokalyx bei verschiedenen
+Krankheitszuständen zu schützen, werden gegenwärtig in experimentellen Studien
+evaluiert. Die Ergebnisse der hier vorliegenden Studie stellen die unmittelbaren
+Überlebenden nach einem Herzstillstand als potentielle Begünstigte einer solchen
+Therapie dar und begründen damit weitere Forschung auf diesem Gebiet in größeren
+Patientenpopulationen.
+
+5.4 Limitationen
+Die Ergebnisse der vorliegenden Studie unterliegen den Einschränkungen einer
+Beobachtungsstudie und erlauben deswegen keine Rückschlüsse auf kausale
+Beziehungen zwischen den einzelnen Befunden. Eine Limitation der vorliegenden
+Studie ist auch in der heterogenen Studienpopulation und den daraus resultierenden
+Schwierigkeiten bei der Auswahl eines Kontrollkollektivs zu sehen.
+Bei der Patientenauswahl wurde nach Möglichkeit darauf geachtet, Patienten mit
+möglichst großer Homogenität auszusuchen. Dies war vor allem bei den Patienten
+nach erfolgreicher Wiederbelebung schwierig, trotzdem konnten bei der Auswahl des
+Patientenkollektivs Patienten mit schweren Nebenerkrankungen ausgeschlossen
+werden. Ob auch Nebenerkrankungen wie Diabetes mellitus, Nikotinabusus und
+Erkrankungen anderer Organsysteme Einfluss auf zellulärer Ebene auf die
+Glykokalyx und die Plasmakonzentrationen von ihren Komponenten haben können, ist
+noch nicht vollständig geklärt und unterliegt weiteren experimentellen Studien.
+52
+
+5 Diskussion
+Darüber hinaus, obwohl die Ergebnisse in guter Übereinstimmung mit früheren
+Berichten über ähnliche Krankheitszustände sind, wurden die Daten in einem
+limitierten Kollektiv gesammelt und müssen in der Zukunft für größere
+Patientengruppen überprüft werden.
+Außerdem sind die Verfahren für die Beurteilung der endothelialen Glykokalyx bei
+Patienten auf Intensivstation derzeit auf die Messung von zirkulierenden
+Glykokalyxkomponenten als indirekter Parameter beschränkt, so dass die Lokalisation
+der Glykokalyxschädigung und der verantwortliche Zelltyp nicht beurteilt werden
+können.
+
+53
+
+6 Zusammenfassung
+
+6 Zusammenfassung
+Die hohe Sterblichkeit nach einer erfolgreichen kardiopulmonalen Reanimation ist zum
+Teil durch das Postreanimationssyndrom bedingt, einen Sepsis-ähnlichen Zustand. Es
+konnte in früheren Studien auf die Rolle der endothelialen Glykokalyx für vaskuläre
+Permeabilität und für Inflammation hingewiesen werden, ihre Bedeutung bei der
+Entstehung des Postreanimationssyndroms blieb aber weiterhin unbekannt.
+Ziel dieser Arbeit war die komplexe Struktur dieser Oberflächenschicht näher zu
+erforschen und besonders die Veränderungen in den Konzentrationen ihrer frei
+zirkulierenden Bestandteile im Blutplasma von reanimierten Patienten und
+hämodynamisch stabilen Kontrollpatienten zu untersuchen. Im Blutplasma 25 erfolgreich
+reanimierter Patienten wurden die Konzentrationen von Syndecan-1, Heparansulfat und
+Hyaluronsäure als Biomarker für ihre Schädigung und Dysfunktion bestimmt und mit
+denen von 12 Kontrollpatienten verglichen. Reanimierte Patienten wiesen signifikant
+höhere Plasmakonzentrationen der frei zirkulierenden Glykokalyxkomponenten im
+Unterschied zu den Kontrollpatienten ohne Postreanimationssyndrom. Die Plasmaspiegel
+von Syndecan-1 bei den reanimierten Patienten waren sowohl in der frühen Phase als auch
+in der intermediären Phase des Postreanimationssyndroms signifikant höher im Vergleich
+zu den Kontrollpatienten. Für die Plasmakonzentrationen von Heparansulfat und
+Hyaluronsäure konnten signifikant höhere Plasmaspiegel nur in der intermediären Phase
+festgestellt werden.
+Darüber hinaus konnte ein signifikanter Unterschied in den Plasmakonzentrationen von
+Syndecan-1 und Heparansulfat zwischen potentiellen überlebenden und nichtüberlebenden Patienten gefunden werden. Letztendlich verstorbene Patienten hatten
+signifikant höhere Konzentrationen der beiden Glykokalyxkomponenten in der
+intermediären Phase im Vergleich zu den letztendlich überlebenden Patienten gezeigt, was
+als Korrelation zwischen dem Ausmaß der Schädigung der endothelialen Glykokalyx und
+der Überlebenswahrscheinlichkeit gedeutet werden kann. Syndecan-1 zeigte nach
+sofortigem Überleben eines Herzstillstands nicht nur eine signifikante Erhöhung der
+Plasmakonzentration, sondern als einziger Parameter der Glykokalyx auch eine
+signifikante Korrelation zur Dauer der kardiopulmonalen Reanimation vor Rückkehr des
+Spontankreislaufs. Außerdem konnte eine negative Korrelation zwischen dem Syndecan1-Plasmaspiegel in der frühen Phase des Postreanimationssyndroms und der Aktivität des
+Proteaseinhibitors Antithrombin III als ein potentiell schützender Faktor für die
+Glykokalyx festgestellt werden.
+Zum ersten Mal konnte in der vorliegenden Studie demonstriert werden, dass es zu einer
+Schädigung der endothelialen Oberflächenschicht bei Patienten nach erfolgreicher
+kardiopulmonaler Reanimation kommt, was zum besseren Verständnis der Entstehung des
+Postreanimationssyndroms beiträgt. Die gewonnenen Erkenntnisse könnten Grundlage
+weiterer Studien sein mit dem Ziel, die Glykokalyxschädigung beim
+Postreanimationssyndrom näher zu erforschen, hieraus neue Therapieansätze zu
+entwickeln und letztlich die Prognose nach erfolgreicher Reanimation zu verbessern.
+54
+
+7 Abbildungsverzeichnis
+
+7 Abbildungsverzeichnis
+Abbildung 1. BLS nach den Richtlinien des ERC ..................................................... 4
+Abbildung 2. ALS nach den Richtlinien des ERC .................................................... 6
+Abbildung 3. Phasen des Postreanimationssyndroms ............................................... 12
+Abbildung 4. Schematische Darstellung des Postreanimationssyndroms .......... 16
+Abbildung 5. Schematische Darstellung der Glykokalyx ....................................... 17
+Abbildung 6. Funktionsprinzip eines Photometers .................................................. 27
+Abbildung 7. Funktionsprinzip des Sandwich-ELISAs .......................................... 28
+Abbildung 8. Syndecan-1-Plasmakonzentrationen bei Reanimierten und
+Kontrollen .............................................................................................................................. 38
+Abbildung 9. Heparansulfat-Plasmakonzentrationen bei Reanimierten und
+Kontrollen .............................................................................................................................. 38
+Abbildung 10. Hyaluronsäure-Plasmakonzentrationen bei Reanimierten und
+Kontrollen .............................................................................................................................. 39
+Abbildung 11. Syndecan-1-Plasmakonzentrationen bei Nicht-Überlebenden und
+Überlebenden ........................................................................................................................ 40
+
+55
+
+7 Abbildungsverzeichnis
+Abbildung 12. Heparansulfat-Plasmakonzentrationen bei Nicht-Überlebenden
+und Überlebenden................................................................................................................ 40
+Abbildung 13. Korrelation zwischen der Syndecan-1-Plasmakonzentration und
+der Dauer der CPR .............................................................................................................. 41
+Abbildung 14. Korrelation zwischen der Syndecan-1-Plasmakonzentration und
+der Antithrombin III-Aktivität ......................................................................................... 43
+Abbildung 15. Elektronenmikroskopische Aufnahmen der Glykokalyx von
+Mikrogefäßen von Meerschweinchenherzen bei Ischämie ....................................... 48
+Abbildung 16. Elektronenmikroskopische Darstellung der Glykokalyx von
+Meerschweinchenherzen bei Ischämie nach Vorbehandlung mit Antithrombin
+III ............................................................................................................................................. 51
+
+56
+
+8 Tabellenverzeichnis
+
+8 Tabellenverzeichnis
+
+Tabelle 1. Ein- und Ausschlusskriterien der Postreanimationsgruppe .................. 21
+
+Tabelle 2. Ein- und Ausschlusskriterien der Kontrollgruppe .................................. 22
+
+Tabelle 3. Patientencharakteristika ................................................................................ 36
+
+57
+
+9 Literaturverzeichnis
+
+9 Literaturverzeichnis
+
+[1] Adrie C, Adib-Conquy M, Laurent I, Monchi M, Vinsonneau C, Fitting C,
+(2002) Successful cardiopulmonary resuscitation after cardiac arrest as a "sepsislike" syndrome. Circulation, 106 (5): p. 562-8.
+
+[2] Adrie C, Laurent I, Monchi M, Cariou A, Dhainaou JF, Spaulding C, (2004)
+Postresuscitation disease after cardiac arrest: a sepsis-like syndrome? Curr Opin Crit
+Care, 10(3): p. 208-12.
+
+[3] Ainslie KM, Garanich JS, Dull RO, Tarbell JM, (2005) Vascular smooth
+muscle cell glycocalyx influences shear stress-mediated contractile response. J Appl
+Physio, 98(1): p. 242-9.
+
+[4] Ando J, Yamamoto K, (2009) Vascular mechanobiology: endothelial cell
+responses to fluid shear stress. Circ J, 73(11): p. 1983-92.
+
+[5] Arrich J (2007) Clinical application of mild therapeutic hypothermia after
+cardiac arrest. European Resuscitation Council Hypothermia After Cardiac Arrest.
+Registry Study Group. Crit Care Med Apr, 35(4): p. 1041-7.
+
+58
+
+9 Literaturverzeichnis
+[6] Becker BF, Chappell D, Bruegger D, Annecke T, Jacob M, (2010) Therapeutic
+strategies targeting the endothelial glycocalyx: acute deficits, but great potential.
+Cardiovascular research, 87(2): p. 300-10.
+
+[7] Becker BF, Chappell D, Jacob M, (2010) Endothelial glycocalyx and coronary
+vascular permeability: the fringe benefit. Basic Res Cardiol, 105(6): p. 687-701.
+
+[8] Behringer W, Safar P, Wu X, Kentner R, Radovsky A, Kochanek PM, Dixon
+CE, Tisherman SA, (2003) Survival without brain damage after clinical death of 60120 mins in dogs using suspendedanimation by profound hypothermia. Crit Care Med,
+31(5): p. 1523-31.
+
+[9] Beresewicz A, Czarnowska E, Maczewski M, (1998) Ischemic
+preconditioning and superoxide dismutase protect against endothelial dysfunction and
+endothelium glycocalyx disruption in the postischemic guinea-pig hearts. Mol Cell
+Biochem, 186(1-2): p. 87-97.
+
+[10] Bernard SA, Gray TW, Buist MD, Jones BM, Silvester W, Gutteridge
+G, Smith K, (2002) Treatment of comatose survivors of out-of-hospital cardiac arrest
+with induced hypothermia. N Engl J Med, 346(8): p. 557-63.
+
+[11] Bernard S, (2006) Therapeutic hypothermia after cardiac arrest. Neurol Clin,
+24(1): p. 61-71.
+
+59
+
+9 Literaturverzeichnis
+[12] Bingmei M. Fu, Bin Chen, Wenhao Chen, (2003) An electrodiffusion model for
+effects of surface glycocalyx layer on microvessel permeability. Am J Physiol Heart
+Circ Physiol, 284: p. 1240-50.
+
+[13] Bode L, Eklund EA, Murch S, Freeze HH, (2005) Heparan sulfate depletion
+amplifies TNF-alpha-induced protein leakage in an in vitro model of protein-losing
+enteropathy. Am J Physiol Gastrointest Liver Physiol, 288(5):p. 1015-23.
+
+[14] Brands J, Spaan JA, Van den Berg BM, Vink H, VanTeeffelen JW, (2010)
+Acute attenuation of glycocalyx barrier properties increases coronary blood volume
+independently of coronary flow reserve. Am J Physiol Heart Circ Physiol, 298(2): p.
+515-23.
+
+[15] Bruegger D, Schwartz L, Chappell D, Jacob M, Rehm M, Vogeser M, (2011)
+Release of atrial natriuretic peptide precedes shedding of the endothelial glycocalyx
+equally in patients undergoing on- and off-pump coronary artery bypass surgery.
+Basic research in cardiology, 106(6): p. 1111-21.
+
+[16] Carey DJ, (1997) Syndecans: multifunctional cell-surface co-receptors.
+Biochem J, 327(1): p. 1-16.
+
+[17] Chang WT, Ma MH, Chien KL, Huang CH, Tsai MS, Shih FY, Yuan A, Tsai
+KC, Lin FY, Lee YT, Chen WJ, (2007) Postresuscitation myocardial dysfunction:
+correlated factors and prognostic implications. Intensive Care Med, 33(1): p. 88-95.
+
+60
+
+9 Literaturverzeichnis
+[18] Chaowalit N, Yipintsoi T, Tresukosol D, Kanjanavanit R, Kiatchoosakun S,
+(2009) Prognostic value of selected presenting features of acute coronary syndrome in
+predicting in-hospital adverse events: insight from the Thai Acute Coronary Syndrome
+Registry. Intern Med, 48(9): p. 639-46.
+
+[19] Chappell D, Hofmann-Kiefer K, Jacob M, Rehm M, Briegel J, Welsch U,
+(2009) TNF- alpha induced shedding of the endothelial glycocalyx is prevented by
+hydrocortisone and antithrombin. Basic research in cardiology, 104(1): p. 78-89.
+
+[20] Chappell D, Jacob M, Hofmann-Kiefer K, Rehm M, Welsch U, Conzen P,
+(2009) Antithrombin reduces shedding of the endothelial glycocalyx following
+ischaemia/reperfusion. Cardiovascular research, 83(2): p. 388-96.
+
+[21] Chappell D, Jacob M, Paul O, Rehm M, Welsch U, Stoeckelhuber M,
+Conzen P, Becker BF, (2009) The glycocalyx of the human umbilical vein endothelial
+cell: an impressive structure ex vivo but not in culture. Circ Res, 104(11): p. 1313-7.
+
+[22] Chappell D, Westphal M, Jacob M, (2009) The impact of the glycocalyx on
+microcirculatory oxygen distribution in critical illness. Current opinion in
+anaesthesiology, 22(2): p. 155-62.
+
+[23] Chiu JJ, Chien S, (2011) Effects of disturbed flow on vascular endothelium:
+pathophysiological basis and clinical perspectives. Physiol Rev, 91(1): p. 327-87.
+
+61
+
+9 Literaturverzeichnis
+[24] Cizmeci-Smith G, Carey DJ, (1997) Thrombin stimulates syndecan-1 promotor
+activity and expression of a form of syndecan-1 that binds antithrombin III in vascular
+smooth muscle cells. Arterioscler Thromb Vasc Biol, 17(11): p. 2609-16.
+
+[25] Constantinescu AA, Vink H, Spaan JA, (2003) Endothelial cell glycocalyx
+modulates immobilization of leukocytes at the endothelial surface. Arterioscler
+Thromb Vasc Biol, 23(9): p. 1541-7.
+
+[26] Danielli JF, (1940) Capillary permeability and oedema in the perfused frog. J
+Physiol, 98(1): p. 109-29.
+
+[27] Davies PF, (1995) Flow-mediated endothelial mechanotransduction. Physiol
+Rev, 75(3): p. 519-60.
+
+[28] Desjardins C, Duling BR, (1990) Heparinase treatment suggests a role for the
+endothelial cell glycocalyx in regulation of capillary hematocrit. Am J Physiol,
+258(3): p. 647-54.
+
+[29] Deutsche Herzstiftung, http://www.herzstiftung.de/
+
+[30] Devaraj S, Yun JM, Adamson G, Galvez J, Jialal I, (2009) C-reactive protein
+impairs the endothelial glycocalyx resulting in endothelial dysfunction. Cardiovasc
+Res, 84(3): p. 479-84.
+
+62
+
+9 Literaturverzeichnis
+[31] Dewey CF Jr, Bussolari SR, Gimbrone MA Jr, Davies PF, (1981) The
+dynamic response of vascular endothelial cells to fluid shear stress. J Biomech Eng,
+103(3): p. 177-85.
+
+[32] Dokken BB, Hilwig WR, Teachey MK, Panchal RA, Hubner K, Allen D,
+(2010) Glucagon-like peptide-1 (GLP-1) attenuates post-resuscitation myocardial
+microcirculatory dysfunction. Resuscitation, 81(6): p. 755-60.
+
+[33] European Resuscitation Council (ERC), https://www.erc.edu/
+
+[34] Fink K, Schwab T, Bode C, Busch HJ, (2008) Endovascular or surface
+cooling?: therapeutic hypothermia after cardiac arrest. Anaesthesist, 57(12): p. 115560.
+
+[35] Fink K, Schwarz M, Feldbrugge L, Sunkomat JN, Schwab T, Bourgeois N,
+(2010) Severe endothelial injury and subsequent repair in patients after successful
+cardiopulmonary resuscitation. Crit Care, 14(3): p. R104.
+
+[36] Florian JA, Kosky JR, Ainslie K, Pang Z, Dull RO, Tarbell JM, (2003)
+Heparan sulfate proteoglycan is a mechanosensor on endothelial cells. Circ Res,
+93(10): p. 136-42.
+
+63
+
+9 Literaturverzeichnis
+[37] Gando S, Nanzaki S, Morimoto Y, Kobayashi S, Kemmotsu O, (2000) Out-ofhospital cardiac arrest increases soluble vascular endothelial adhesion molecules and
+neutrophil elastase associated with endothelial injury. Intensive Care Medicine,
+26(1): p. 38–44.
+
+[38] Gazmuri RJ, Weil MH, Bisera J, Tang W, Fukui M, McKee D, (1996)
+Myocardial dysfunction after successful resuscitation from cardiac arrest. Crit Care
+Med, 24(6): p. 992-1000.
+
+[39] Giantsos-Adams K, Lopez-Quintero V, Kopeckova P, Kopecek
+J, Tarbell JM, Dull R, (2011) Study of the therapeutic benefit of cationic copolymer
+administration to vascular endothelium under mechanical stress. Biomaterials, 32(1):
+p. 288-94.
+
+[40] Gouverneur M, Berg B, Nieuwdorp M, Stroes E, Vink H, (2006)
+Vasculoprotective properties of the endothelial glycocalyx: effects of fluid shear stress.
+J Intern Med, 259(4): p. 393-400.
+
+[41] Gouverneur M, Spaan JA, Pannekoek H, Fontijn RD, Vink H, (2006) Fluid
+shear stress stimulates incorporation of hyaluronan into endothelial cell glycocalyx.
+Am J Physiol Heart Circ Physiol, 290(1): p. H458-2.
+
+[42] Gräsner J-T, Messelken M, Scholz J, Fischer M (2008) Das
+Reanimationsregister der DGAI. Anästh Intensivmed, 43(10): p. 706-9.
+
+64
+
+9 Literaturverzeichnis
+[43] Granger DN, (1999) Ischemia-reperfusion: mechanisms of microvascular
+dysfunction and the influence of risk factors for cardiovascular disease.
+Microcirculation, 6(3): p. 167-78.
+
+[44] Grundmann S, Schirmer SH, Hekking LH, Post JA, Ionita MG, de Groot D,
+van Royen N, van den Berg B, Vink H, Moser M, Bode C, de Kleijn D,
+Pasterkamp G, Piek JJ, Hoefer IE, (2009) Endothelial glycocalyx dimensions are
+reduced in growing collateral arteries and modulate leucocyte adhesions in
+arteriogenesis. J Cell Mol Med, 13(9B): p. 3463-74.
+
+[45] Hack CE, Zeerleder S, (2001). The endothelium in sepsis: Source of and a
+target for inflammation. Critical Care Medicine, 29(7 Suppl): p. S21-S27.
+
+[46] Hansson GK, (2005) Inflammation, atherosclerosis, and coronary artery disease.
+N Engl J Med, 352(16): p. 1685-95.
+
+[47] Henry CB, Duling BR, (2000) TNF-alpha increases entry of macromolecules
+into luminal endothelial cell glycocalyx. Am J Physiol Heart Circ Physiol, 279(6): p.
+H2815-23.
+
+[48] Herold G (Hg.) (2010). Herzkreislaufstillstand in Innere Medizin: Eine
+vorlesungsorientierte Darstellung. Köln.
+
+65
+
+9 Literaturverzeichnis
+[49] Hughes SF, Cotter MJ, Evans SA, Jones KP, Adams RA, (2006) Role
+of leucocytes in damage to the vascular endothelium during ischaemia-reperfusion
+injury. Br J Biomed Sci, 63(4): p. 166-70.
+
+[50] Hypothermia after Cardiac Arrest Study Group, (2002) Mild therapeutic
+hypothermia to improve the neurologic outcome after cardiac arrest. N Engl J Med,
+346(8): p. 549-56.
+
+[51] Johansson PI, Stensballe J, Rasmussen LS, Ostrowski SR, (2011) A high
+admission syndecan-1 level, a marker of endothelial glycocalyx degradation, is
+associated with inflammation, protein C depletion, fibrinolysis, and increased
+mortality in trauma patients. Annals of surgery, 254(2): p. 194-200.
+
+[52] Jones AE, Shapiro NI, Kilgannon JH, Trzeciak S, (2008) Goal-directed
+hemodynamic optimization in the post-cardiac arrest syndrome: a systematic review.
+Resuscitation, 77(1): p. 26-9.
+
+[53] Karimova A, Pinsky DJ, (2001) The endothelial response to oxygen
+deprivation: biologyand clinical implications. Intensive Care Medicine, 27(1): p. 19–
+31.
+
+[54] Kern KB, Hilwig RW, Rhee KH, Berg RA, (1996) Myocardial dysfunction
+after resuscitation from cardiac arrest: an example of global myocardial stunning. J
+Am Coll Cardiol, 28(1):232–40.
+
+66
+
+9 Literaturverzeichnis
+[55] Kilgannon JH, Roberts BW, Reihl LR, Chansky ME, Jones AE, Dellinger
+RP, Parrillo JE, Trzeciak S, (2008) Early arterial hypotension is common in the
+post-cardiac arrest syndrome and associated with increased in-hospital mortality.
+Resuscitation, 79(3): p. 410-6.
+
+[56] Krumholz A, Stern BJ, Weiss HD, (1988) Outcome from coma after
+cardiopulmonary resuscitation: relation to seizures and myoclonus. Neurology, 38(3):
+p. 401–5.
+
+[57] Laurent I, Monchi M, Chiche JD, Joly LM, Spaulding C, Bourgeois
+B, Cariou A, Rozenberg A, Carli P, Weber S, Dhainaut JF, (2002)
+Reversible myocardial dysfunction in survivors of out-of-hospital cardiac arrest. J Am
+Coll Cardiol, 40(12): p. 2110-6.
+
+[58] Leiderman KM, Miller LA, Fogelson AL, (2008) The effects of spatial
+inhomogeneities on flow through the endothelial surface layer. J Theor Biol, 252(2):
+p. 313-25.
+
+[59] Li S, Huang NF, Hsu S, (2005) Mechanotransduction in endothelial cell
+migration. J Cell Biochem, 96(6): p. 1110-26.
+
+[60] Liu M, Yang J, (2009) Electrokinetic effect of the endothelial glycocalyx layer
+on two-phase blood flow in small blood vessels. Microvasc Res, 78(1):14-9.
+
+67
+
+9 Literaturverzeichnis
+[61] Liu X, Fan Y, Deng X, (2011) Mechanotransduction of flow-induced shear
+stress by endothelial glycocalyx fibers is torque determined. ASAIO J, 57(6): p. 48794.
+
+[62] Marcusohn E, Roguin A, Sebbag A, Aronson D, Dragu R, Amikam S, Boulus
+M, Grenadier E, Kerner A, Nikolsky E, Markiewicz W, Hammerman
+H, Kapeliovich M, (2007) Primary percutaneous coronary intervention after out-ofhospital cardiac arrest: patients and outcomes. Isr Med Assoc J, 9(4): p. 257-9.
+
+[63] Mochizuki S, Vink H, Hiramatsu O, Kajita T, Shigeto F, Spaan JA, (2003)
+Role of hyaluronic acid glycosaminoglycans in shear-induced endothelium-derived
+nitric oxide release. Am J Physiol Heart Circ Physiol, 285(2): p. H722-6.
+
+[64] Moon JJ, Matsumoto M, Patel S, Lee L, Guan JL, Li S, (2005) Role of cell
+surface heparan sulfate proteoglycans in endothelial cell migration and
+mechanotransduction. J Cell Physiol, 203(1): p. 166-76.
+
+[65] Müllner M, Sterz F, Binder M, Schreiber W, Deimel A, Laggner AN, (1997)
+Blood glucose concentration after cardiopulmonary resuscitation influences functional
+neurological recovery in human cardiac arrest survivors. J Cereb Blood Flow Metab,
+17(4): p. 430-6.
+
+[66] Mulivor AW, Lipowsky HH, (2004) Inflammation- and ischemia-induced
+shedding of venular glycocalyx. Am J Physiol Heart Circ Physiol, 286(5): p. H167280.
+68
+
+9 Literaturverzeichnis
+[67] Naess AC, Steen PA, (2004) Long term survival and costs per life year gained
+after out-of-hospital cardiac arrest. Resuscitation, 60(1): p. 57-64.
+
+[68] Negovsky VA, (1972) The second step in resuscitation--the treatment of the
+'post-resuscitation disease'. Resuscitation, 1(1): p. 1-7.
+
+[69] Nelson A, Berkestedt I, Schmidtchen A, Ljunggren L, Bodelsson M, (2008)
+Increased levels of glycosaminoglycans during septic shock: relation to mortality and
+the antibacterial actions of plasma. Shock, 30(6): p. 623-7.
+
+[70] Neumar RW, Nolan JP, Adrie C, Aibiki M, Berg RA, Böttiger BW, Callaway
+C, Clark RS, Geocadin RG, Jauch EC, Kern KB, Laurent I, Longstreth WT
+Jr, Merchant RM, Morley P, Morrison LJ, Nadkarni V, Peberdy MA, Rivers
+EP, Rodriguez-Nunez A, Sellke FW, Spaulding C, Sunde K, Vanden Hoek T,
+(2008) Post-cardiac arrest syndrome: epidemiology, pathophysiology, treatment, and
+prognostication. A consensus statement from the International Liaison Committee on
+Resuscitation (American HeartAssociation, Australian and New Zealand Council on
+Resuscitation, European Resuscitation Council, Heart and Stroke Foundation of
+Canada, InterAmerican Heart Foundation, Resuscitation Council of Asia, and the
+Resuscitation Council of Southern Africa); the American Heart Association
+Emergency Cardiovascular Care Committee; the Council on Cardiovascular Surgery
+and Anesthesia; the Council on Cardiopulmonary, Perioperative, and Critical Care;
+the Council on Clinical Cardiology; and the Stroke Council. Circulation, 118(23): p.
+2452-83.
+
+69
+
+9 Literaturverzeichnis
+[71] Nieuwdorp M, Meuwese MC, Mooij HL, Ince C, Broekhuizen LN, Kastelein
+JJ, Stroes ES, Vink H, (2008) Measuring endothelial glycocalyx dimensions in
+humans: a potential novel tool to monitor vascular vulnerability. J Appl Physiol,
+104(3): p. 845-52.
+
+[72] Nieuwdorp M, Meuwese MC, Mooij HL, van Lieshout MH, Hayden A, Levi
+M, (2009) Tumor necrosis factor-alpha inhibition protects against endotoxin-induced
+endothelial glycocalyx perturbation. Atherosclerosis, 202(1): p. 296-303.
+
+[73] Nieuwdorp M, Meuwese MC, Vink H, Hoekstra JB, Kastelein JJ, Stroes ES,
+(2005) The endothelial glycocalyx: a potential barrier between health and vascular
+disease. Curr Opin Lipidol, 16(5): p. 507-11.
+
+[74] Nikmanesh M, Shi ZD, Tarbell JM, (2012) Heparan sulfate proteoglycan
+mediates shear stress-induced endothelial gene expression in mouse embryonic stem
+cell-derived endothelial cells. Biotechnol Bioeng, 109(2): p. 583-94.
+
+[75] Nishinaga M, Shimada K, (1994) Heparan sulfate proteoglycan of endothelial
+cells: homocysteine suppresses anticoagulant active heparan sulfate in cultured
+endothelial cells. Rinsho Byori, 42(4): p. 340-5.
+
+[76] Noble MI, Drake-Holland AJ, Vink H, (2008) Hypothesis: arterial glycocalyx
+dysfunction is the first step in the atherothrombotic process. QJM, 101(7): p. 513-8.
+
+70
+
+9 Literaturverzeichnis
+[77] Nolan JP, Morley PT, Vanden Hoek TL, Hickey RW, Kloeck WG, Billi
+J, Böttiger BW, Morley PT, Nolan JP, Okada K, Reyes C, Shuster M, Steen
+PA, Weil MH,Wenzel V, Hickey RW, Carli P, Vanden Hoek TL, Atkins D, (2003)
+International Liaison Committee on Resuscitation. Therapeutic hypothermia after
+cardiac arrest: an advisory statement by the advanced life supporttask force of the
+International Liaison Committee on Resuscitation. Circulation, 108(1): p. 118-21.
+
+[78] Nolan JP, Soar J, Zideman DA, Biarent D, Bossaert LL, Deakin C, Koster
+RW, Wyllie J, Böttiger B, (2010) ERC Guidelines Writing Group. European
+Resuscitation Council Guidelines for Resuscitation 2010 Section 1. Executive
+summary. Resuscitation, 81(10): p. 1219-76.
+
+[79] Osborn EA, Rabodzey A, Dewey CF Jr, Hartwig JH, (2006) Endothelial actin
+cytoskeleton remodeling during mechanostimulation with fluid shear stress. Am J
+Physiol Cell Physiol, 290(2): p. C444-52.
+
+[80] Pal N, Kertai MD, Lakshminarasimhachar A, Avidan MS, (2010)
+Pharmacology and clinical applications of human recombinant antithrombin. Expert
+opinion on biological therapy, 10(7): p. 1155-68.
+
+[81] Pell JP, Sirel JM, Marsden AK, Ford I, Walker NL, Cobbe SM, (2003)
+Presentation, management, and outcome of out of hospital cardiopulmonary arrest:
+comparison by underlying aetiology. Heart, 89(8): p. 839-42.
+
+71
+
+9 Literaturverzeichnis
+[82] Pries AR, Kuebler WM, (2006) Normal endothelium. Handb Exp Pharmacol,
+(176 Pt 1): p. 1-40.
+
+[83] Pries AR, Secomb TW, Gaehtgens P, (2000) The endothelial surface layer.
+Pflugers Arch, 440(5): p. 653-66.
+
+[84] Pries AR, Secomb TW, (2005) Microvascular blood viscosity in vivo and the
+endothelial surface layer. Am J Physiol Heart Circ Physiol, 289(6): p. H2657-64.
+
+[85] Rehm M, Bruegger D, Christ F, Conzen P, Thiel M, Jacob M, (2007)
+Shedding of the endothelial glycocalyx in patients undergoing major vascular surgery
+with global and regional ischemia. Circulation, 116(17): p. 1896-906.
+
+[86] Reitsma S, Slaaf DW, Vink H, van Zandvoort MA, oude Egbrink MG, (2007)
+The endothelial glycocalyx: composition, functions, and visualization. Pflugers Arch,
+454(3): p. 345-59.
+
+[87] Rubio-Gayosso I, Platts SH, Duling BR, (2006) Reactive oxygen
+species mediate modification of glycocalyx during ischemia-reperfusion injury. Am J
+Physiol Heart Circ Physiol, 290(6): p. H2247-56.
+
+72
+
+9 Literaturverzeichnis
+[88] Ruiz-Bailén M, Aguayo de Hoyos E, Ruiz-Navarro S, Díaz-Castellanos
+MA, Rucabado-Aguilar L, Gómez-Jiménez FJ, Martínez-Escobar S, Moreno
+RM, Fierro-Rosón J, (2005) Reversible myocardial dysfunction after
+cardiopulmonary resuscitation. Resuscitation, 66(2): p. 175-81.
+
+[89] Schouten M, Wiersinga WJ, Levi M, van der Poll T, (2008) Inflammation,
+endothelium, and coagulation in sepsis. J Leukoc Biol, 83(3): p. 536–545.
+
+[90] Seal JB, Gewertz BL, (2005) Vascular dysfunction in ischemia-reperfusion
+injury. Ann Vasc Surg, 19(4): p. 572-84.
+
+[91] Shi ZD, Tarbell JM, (2011) Fluid flow mechanotransduction in vascular smooth
+muscle cells and fibroblasts. Ann Biomed Eng, 39(6): p. 1608-19.
+
+[92] Shimada K, Kobayashi M, Kimura S, Nishinaga M, Takeuchi K, Ozawa T,
+(1991) Anticoagulant heparin-like glycosaminoglycans on endothelial cell surface.
+Jpn Circ J, 55(10): p. 1016-21.
+
+[93] Spooner PM, Zipes DP, (2002) Sudden death predictors: an inflammatory
+association. Circulation, 105(22): p. 2574-6.
+
+73
+
+9 Literaturverzeichnis
+[94] Stiell IG, Wells GA, Field B, Spaite DW, Nesbitt LP, De Maio VJ, Nichol
+G, Cousineau D, Blackburn J, Munkley D, Luinstra-Toohey L, Campeau
+T, Dagnone E,Lyver M; Ontario Prehospital Advanced Life Support Study
+Group, (2004) Advanced cardiac life support in out-of-hospital cardiac arrest. N Engl
+J Med, 351(7): p. 647-56.
+
+[95] Strauss M, Gitt AK, Becker T, Kleemann T, Schiele R, Darius H, (2008)
+Prehospital cardiac arrest: a marker for higher mortality in patients with acute
+myocardial infarction and moderately reduced left ventricular function: results from
+the MITRA plus registry. Clin Res Cardiol, 97(10): p. 748-52.
+
+[96] Sunde K, Pytte M, Jacobsen D, (2007) Implementation of a standardised
+treatment protocol for post resuscitation care after out-of-hospital cardiac arrest.
+Resuscitation, 73(1): p. 29–39.
+
+[97] Tarbell JM, Ebong EE, (2008) The endothelial glycocalyx: a mechanosensor and -transducer. Sci Signal, 1(40): pt8.
+
+[98] Tarbell JM, Pahakis MY, (2006) Mechanotransduction and the glycocalyx. J
+Intern Med, 259(4): p. 339-50.
+
+[99] Tarbell JM, (2010) Shear stress and the endothelial transport barrier.
+Cardiovasc Res, 87(2): p. 320-30.
+
+74
+
+9 Literaturverzeichnis
+[100] Tkachenko E, Rhodes JM, Simons M, (2005) Syndecans: new kids on the
+signaling block. Circ Res, 96(5): p. 488-500.
+
+[101] Tulder R, Vorauer N, Schreiber W, (2010) Therapy strategies for postresuscitation care. Notfall Rettungsmed, 13(1): p. 212–218.
+
+[102] van den Berg BM, Spaan JA, Rolf TM, Vink H, (2006) Atherogenic region
+and diet diminish glycocalyx dimension and increase intima-to-media ratios at murine
+carotid artery bifurcation. Am J Physiol Heart Circ Physiol, 290(2): p. H915-20.
+
+[103] van den Berg B, Vink H, (2006) Glycocalyx perturbation: cause or
+consequence of damage to the vasculature? Am J Physiol Heart Circ Physiol, 290(6):
+p. H2174-5.
+
+[104] van den Berg BM, Vink H, Spaan JA, (2003) The endothelial glycocalyx
+protects against myocardial edema. Circ Res, 92(6): p. 592-4.
+
+[105] Van Teeffelen JW, Brands J, Stroes ES, Vink H, (2007) Endothelial
+glycocalyx: sweet shield of blood vessels. Trends Cardiovasc Med, 17(3): p. 101-5.
+
+[106] Wang W, (2007) Change in properties of the glycocalyx affects the shear rate
+and stress distribution on endothelial cells. J Biomech Eng, 129(3): p. 324-9.
+
+75
+
+9 Literaturverzeichnis
+[107] Ward BJ, Donnelly JL, (1993) Hypoxia induced disruption of the cardiac
+endothelial glycocalyx: implications for capillary permeability. Cardiovasc Res,
+27(3): p. 384-9.
+
+[108] Weinbaum S, Tarbell JM, Damiano ER, (2007) The structure and function of
+the endothelial glycocalyx layer. Annu Rev Biomed Eng, 9: p. 121-67.
+
+[109] Weinbaum S, Zhang X, Han Y, Vink H, Cowin SC, (2003)
+Mechanotransduction and flow across the endothelial glycocalyx. Proc Natl Acad Sci
+U S A, 100(13): p. 7988-95.
+
+[110] Zeiner A, Holzer M, Sterz F, (2001) Hyperthermia after cardiac arrest is
+associated with an unfavorable neurologic outcome. Arch Intern Med, 161(16): p.
+2007–2012.
+
+[111] Zhao Y, Chien S, Weinbaum S, (2001) Dynamic contact forces on leukocyte
+microvilli and their penetration of the endothelial glycocalyx. Biophys J, 80(3): p.
+1124-40.
+
+76
+
+10 Quellenangaben zum zitierten Bildmaterial
+
+10 Quellenangaben zum zitierten Bildmaterial
+
+ALS nach den Richtlinien des ERC, European Resuscitation Council (ERC),
+https://www.erc.edu/
+
+BLS nach den Richtlinien des ERC, European Resuscitation Council (ERC),
+https://www.erc.edu/
+
+Elektronenmikroskopische Aufnahmen von Mikrogefäßen von
+Meerschweinchenherzen bei Ischämie, modifiziert übernommen von Rehm et al.,
+Rehm M, Bruegger D, Christ F, Conzen P, Thiel M, Jacob M, et al. Shedding of the
+endothelial glycocalyx in patients undergoing major vascular surgery with global and
+regional ischemia. Circulation. 2007;116:1896-906.
+
+Elektronenmikroskopische Darstellung der Glykokalyx von Meerschweinchenherzen
+bei Ischämie unter Vorbehandlung mit Antithrombin III, übernommen von Chappell et
+al., Chappell D, Jacob M, Hofmann-Kiefer K, Rehm M, Welsch U, Conzen P, et al.
+Antithrombin reduces shedding of the endothelial glycocalyx following
+ischaemia/reperfusion. Cardiovascular research. 2009;83:388-96.
+
+Funktionsprinzip des Sandwich-ELISAs, Biochemie. Löffler/Petrides. Springer-Verlag
+
+Funktionsprinzip eines Photometers, http://www.spinger-online.de/
+
+77
+
+10 Quellenangaben zum zitierten Bildmaterial
+Phasen des Postreanimationssyndroms, übernommen von Neumar et al., Neumar RW,
+Nolan JP, Adrie C, Aibiki M, Berg RA, Böttiger BW, Callaway C, Clark RS,
+Geocadin RG, Jauch EC, Kern KB, Laurent I, Longstreth WT Jr, Merchant RM,
+Morley P, Morrison LJ, Nadkarni V, Peberdy MA, Rivers EP, Rodriguez-Nunez A,
+Sellke FW, Spaulding C, Sunde K, Vanden Hoek T. Post-cardiac arrest syndrome:
+epidemiology, pathophysiology, treatment, and prognostication. A consensus
+statement from the International Liaison Committee on Resuscitation (American
+HeartAssociation, Australian and New Zealand Council on Resuscitation, European
+Resuscitation Council, Heart and Stroke Foundation of Canada, InterAmerican Heart
+Foundation, Resuscitation Council of Asia, and the Resuscitation Council of Southern
+Africa); the American Heart Association Emergency Cardiovascular Care Committee;
+the Council on Cardiovascular Surgery and Anesthesia; the Council on
+Cardiopulmonary, Perioperative, and Critical Care; the Council on Clinical
+Cardiology; and the Stroke Council. Circulation. 2008 Dec 2;118(23):2452-83. Epub
+2008 Oct 23.
+
+Schematische Darstellung der Glykokalyx, übernommen von Reitsma et al., Reitsma
+S, Slaaf DW, Vink H, van Zandvoort MA, oude Egbrink MG. The endothelial
+glycocalyx: composition, functions, and visualization. Pflugers Arch. 2007
+Jun;454(3):345-59. Epub 2007 Jan 26.
+
+Schematische Darstellung des Postreanimationssyndroms, emedicalppt.blogspot.com
+
+78
+
+11 Abkürzungsverzeichnis
+
+11 Abkürzungsverzeichnis
+
+µg
+
+Mikrogramm
+
+µl
+
+Mikroliter
+
+ACS
+
+akutes Koronarsyndrom
+
+AED
+
+automatisierter externer Defibrillator
+
+AK
+
+Antikörper
+
+ALS
+
+Advanced Life Support
+
+Aqua dest.
+
+Aqua destillata
+
+AP
+
+Alkalische Phosphatase
+
+BE
+
+Blutentnahme
+
+BLS
+
+Basic Life Support
+
+bzw.
+
+beziehungsweise
+
+ca.
+
+circa
+
+CPR
+
+kardiopulmonale Reanimation
+
+CRP
+
+C-reaktives Protein
+79
+
+11 Abkürzungsverzeichnis
+DGAI
+
+Deutsche Gesellschaft für Anästhesiologie und
+Intensivmedizin
+
+d.h.
+
+das heißt
+
+EKG
+
+Elektrokardiogramm
+
+ELISA
+
+enzyme-linked immunosorbent assay
+
+EMD
+
+elektromechanische Dissoziation/Entkoppelung
+
+EMP
+
+endotheliale Mikropartikel
+
+ERC
+
+European Resuscitation Council
+
+ESC
+
+Europäische Gesellschaft für Kardiologie
+
+et al.
+
+et alii
+
+etc.
+
+et cetera
+
+g
+
+Erdbeschleunigung
+
+GOX
+
+Glukoseoxidase
+
+h
+
+Stunden
+
+HLW
+
+Herz-Lungen-Wiederbelebung
+
+HRP
+
+horseradish peroxidase, Meerrettichperoxidase
+
+80
+
+11 Abkürzungsverzeichnis
+H2SO4
+
+Schwefelsäure
+
+i.v.
+
+intravenös
+
+J
+
+Joule
+
+kDA
+
+Kilo-Dalton
+
+KHK
+
+koronare Herzkrankheit
+
+LPS
+
+Lipopolysaccharide
+
+MAP
+
+mittlerer arterieller Druck
+
+mg
+
+Milligramm
+
+MI
+
+Myokardinfarkt
+
+min
+
+Minuten
+
+ml
+
+Milliliter
+
+nm
+
+Nanometer
+
+O2
+
+Sauerstoff
+
+oPD
+
+o-Phenylendiamin
+
+NO
+
+Stickstoffmonoxid
+
+NSE
+
+Neuron-spezifische Enolase
+81
+
+11 Abkürzungsverzeichnis
+NSTEMI
+
+non ST-segment-elevation myocardial infarction
+
+o. a.
+
+oder ähnlich
+
+pAVK
+
+periphere arterielle Verschlusskrankheit
+
+PBS
+
+phosphate buffered saline
+
+PCI
+
+perkutane koronare Intervention
+
+PEA
+
+pulslose elektrische Aktivität
+
+pNPP
+
+p-Nitrophenylphosphat
+
+PTCA
+
+perkutane transluminale Koronarangioplastie
+
+ROSC
+
+return of spontaneous circulation
+
+rpm
+
+Umdrehungen pro Minute
+
+sec
+
+Sekunden
+
+SIRS
+
+systemisches inflammatorisches Response-Syndrom
+
+ST-Elevation
+
+Anhebung der ST-Strecke im Elektrokardiogramm
+
+STEMI
+
+ST-segment-elevation myocardial infarction
+
+TMB-Substratlösung
+
+Tetramethylbenzidin-Substratlösung
+
+TNF-α
+
+Tumornekrosefaktor α
+82
+
+11 Abkürzungsverzeichnis
+U
+
+Unit
+
+u. s. w.
+
+und so weiter
+
+VF
+
+Kammerflimmern
+
+VT
+
+ventrikuläre Tachykardie
+
+z. B.
+
+zum Beispiel
+
+Z. n.
+
+Zustand nach
+
+83
+
+12 Einverständniserklärung
+
+12 Einverständniserklärung
+Einverständniserklärung der Kontrollpatienten
+
+Information für Patienten und Angehörige:
+
+Liebe Patientin/lieber Patient, liebe Angehörige,
+sehr geehrte Damen und Herren,
+
+Neueste Erkenntnisse der medizinischen Forschung deuten darauf hin, dass nach
+überlebtem Herzkreislaufstillstand schwere Gerinnungsstörungen und
+Entzündungsreaktionen im Körper auftreten können, welche die Genesung
+beeinträchtigen können.
+In unserer Arbeitsgruppe werden diese schweren Folgen genauer untersucht, um mehr
+über die Zusammenhänge, welche sich nach der Wiederaufnahme des Körperkreislaufs
+nach Herzstillstand abspielen, zu erfahren und daraus bessere Therapiemöglichkeiten
+für dieses schwere Krankheitsbild entwickeln zu können.
+Um diesbezüglich weitere Erkenntnisse zu gewinnen, bitten wir Sie hiermit um Ihre
+Zustimmung zur zusätzlichen Entnahme von jeweils 20 ml Blut. Es werden zwei
+Blutentnahmen innerhalb von 24-48 Stunden aus einer peripheren Vene abgenommen.
+Weiterhin werden zu Forschungszwecken (und ausschließlich dafür) bestimmte, für
+die Erkrankung und deren Verlauf relevante, im Rahmen des Krankenaufenthaltes
+erhobene medizinische Daten (Laborwerte, Untersuchungsergebnisse, Alter,
+Geschlecht, o.ä.) in einer Datenbank gespeichert, um weitere Erkenntnisse über den
+Verlauf, prognostische Faktoren und mögliche zukünftige Therapieansätze zu
+ermitteln. Im Rahmen der uns obliegenden ärztlichen Schweigepicht werden alle
+Daten vertraulich behandelt und nur anonymisiert und unter strikter Beachtung aller
+Datenschutzbestimmungen aufgezeichnet.
+Ihre Entscheidung hat keinen Einuss auf Ihre Behandlung bzw. die Ihrer/Ihres
+Angehörigen.
+Bei weiteren Fragen wenden Sie sich bitte an Ihren betreuenden Arzt/Ärztin oder auch
+direkt an einen studienbetreuenden Arzt/Ärztin.
+
+Mit freundlichen Grüßen
+84
+
+12 Einverständniserklärung
+Einverständniserklärung für Blutentnahmen:
+
+Name und Vorname des Patienten
+
+Geburtsdatum
+
+Ich bin mit der Entnahme von 2 x 20 ml Blut im Abstand von 24-48 Stunden
+einverstanden. Alle während meines Krankenhausaufenthaltes erhobenen Daten und
+Untersuchungsergebnisse dürfen außerdem für wissenschaftliche Zwecke ausgewertet
+werden. Inhalt, Vorgehensweise, Risiken und Ziele des oben genannten Projektes hat
+mir
+Frau/ Herr
+ausreichend erklärt. Ich hatte Gelegenheit Fragen zu stellen und habe hierauf
+ausreichend Antwort erhalten. Ich hatte genügend Zeit mich für, oder gegen eine
+Teilnahme zu entscheiden. Mir ist bekannt, dass meine Teilnahme freiwillig ist und ich
+auch bei Ablehnung die gleiche Behandlung erfahre, wie bei Zustimmung.
+
+Ort, Datum Unterschrift Patient/-in gesetzlicher Betreuer
+
+Ort, Datum Unterschrift aufklärender Arzt/Ärztin
+
+Einverständniserklärung der reanimierten Patienten
+
+Da eine Aufklärung der reanimierten Patienten nicht möglich war, ist auf das EthikVotum zu verweisen.
+
+85
+
+13 Danksagung
+
+13 Danksagung
+
+An erster Stelle möchte ich mich herzlich bei Herrn PD Dr. Hans-Jörg Busch für die
+freundliche Überlassung des Themas, sowie für die kritische Durchsicht des
+Manuskripts bedanken. Herrn PD Torben Pottgießer danke ich freundlichst für die
+Übernahme der Zweitkorrektur.
+Von Herzen möchte ich mich bei Herrn Dr. Sebastian Grundmann für die engagierte
+Betreuung meiner Arbeit und die unkomplizierte, sehr angenehme Zusammenarbeit
+bedanken. Er war stets als Ansprechpartner für mich da, hat mich jederzeit unterstützt
+und mir nicht zuletzt durch seine genaue und konstruktive Kritik beim Verfassen der
+Arbeit sehr geholfen.
+Dem gesamten ärztlichen und pflegerischen Team von der Intensivstation Heilmeyer,
+den Stationen de la Camp und Frerichs III danke ich für die Bereitschaft und die
+Untersützung bei der Probenbeschaffung zu jeder Tages- und Nachtzeit.
+Ich danke den Laborteams der Arbeitsgruppen Grundmann, Moser und von zur
+Mühlen für die freundliche Zusammenarbeit und für viele organisatorische
+Hilfestellungen. Frau Franziska Blum und Frau Sheena Kreuzaler danke ich für die
+geduldige und freundliche Mitarbeit und für die Hilfsbereitschaft bei jeder
+Fragestellung.
+Mein ganz besonderer Dank gilt Frau Natascha Bourgeois, die mir bei allen
+labortechnischen Fragen und Problemen kompetent geholfen und mich geduldig in
+neue Methoden eingeführt hat. Bei meinen Versuchen und bei der Probenbeschaffung
+stand sie mir immer wieder auch kurzfristig und außerhalb der normalen Arbeitszeiten
+unterstützend zur Seite.
+Ich bedanke mich bei allen Patienten und Kontrollprobanden für die Teilnahme an der
+Studie.
+All meinen Freunden danke ich für die schöne Studienzeit, meiner Schwester und
+meinem Freund für die Hilfe und die Geduld.
+Herzlich möchte ich mich bei der Stiftungsverwaltung Freiburg und der
+Adelhausenstiftung für die finanzielle Unterstützung bedanken.
+86
+
+13 Danksagung
+Ganz besonders danke ich meinen Eltern für ihr Vertrauen, die Ermöglichung dieses
+Studiums und ihre liebevolle Unterstützung.
+
+87
+
+14 Lebenslauf
+
+14 Lebenslauf
+Die Seiten 88-90 (Lebenslauf) enthalten persönliche Daten. Sie sind deshalb nicht
+Bestandteil der Online-Veröffentlichung.
+
+88
+
+15 Eidesstattliche Erklärung
+
+15 Eidesstattliche Erklärung
+
+Ich erkläre hiermit, dass ich die vorliegende Arbeit ohne unzulässige Hilfe Dritter und
+ohne Benutzung anderer als der angegebenen Hilfsmittel angefertigt habe. Die aus
+anderen Quellen direkt oder indirekt übernommenen Daten und Konzepte sind unter
+Angabe der Quelle gekennzeichnet. Insbesondere habe ich hierfür nicht die
+entgeltliche Hilfe von Vermittlungs- beziehungsweise Beratungsdiensten
+(Promotionsberater oder anderer Personen) in Anspruch genommen. Niemand hat von
+mir unmittelbar oder mittelbar geldwerte Leistungen für Arbeiten erhalten, die im
+Zusammenhang mit dem Inhalt der vorgelegten Dissertation stehen.
+Die Arbeit wurde bisher weder im In- noch im Ausland in gleicher oder ähnlicher
+Form einer anderen Prüfungsbehörde vorgelegt.
+
+Freiburg, den 05. Juli 2013
+
+Lyubomira Rabadzhieva
+
+91
+
+

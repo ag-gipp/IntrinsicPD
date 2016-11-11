@@ -1,0 +1,757 @@
+Präventions- und Interventionsstudien in experimentellen Schlaganfallmodellen in der Ratte
+
+1. Einleitung
+1.1. Schlaganfall
+Der Schlaganfall ist eine der Hauptursachen für Tod oder Behinderung in den Industrieländern (1.) und belegt in der Bundesrepublik Deutschland in der Todesursachenstatistik den 3. Platz (2.).
+
+Laut der World Health Organisation (WHO) ist der Schlaganfall als ein Krankheitsbild definiert, bei dem sich die klinischen Zeichen einer fokalen oder globalen Störung zerebraler Funktionen rasch bemerkbar machen, mindestens 24 Stunden anhalten oder zum Tode führen und offensichtlich nicht auf andere als vaskuläre Ursachen zurückgeführt werden können. In der Literatur wird diese Definition insofern erweitert, als dass es sich hierbei um ein akut einsetzendes fokales oder globales neurologisches Defizit aufgrund einer umschriebenen oder globalen Durchblutungsstörung im Gehirn handelt, wobei die Durchblutungsstörung sowohl durch einen Durchblutungsmangel als auch durch eine Blutung auftreten kann. Generell kann beim Schlaganfall zwischen ischämischen Schlaganfällen, spontanen intrazerebralen Hämatomen, Subarachnoidalblutungen sowie Hirnvenen- und Sinusvenenthrombosen unterschieden werden (3.).
+
+
+Der ischämische Schlaganfall, für den in Deutschland eine Inzidenz von 137 Fällen pro 100.000 Einwohner im Zeitraum von 1994-1996 kalkuliert wurde (4.), entsteht durch ein abruptes Sistieren der zerebralen Blutversorgung infolge des Verschlusses eines versorgenden Gefäßes. Als Ursache für einen ischämischen Hirninsult führt die Deutsche Schlaganfalldatenbank in der Reihenfolge sinkender Häufigkeit Gerinnungsthromben infolge kardialer Embolien, gefolgt von durch Makroangiopathien bedingte arterioarteriellen Embolien und Mikroangiopathien, welche zu lakunären Infarzierungen führen, auf (5.). Gemessen an der Gesamtzahl sind 90% aller Schlaganfälle auf eine ischämische Genese zurückzuführen (1.).
+
+
+Epidemiologisch gilt der Schlaganfall nicht nur als Hauptursache für Behinderung im Erwachsenenalter (6.; 7.), sondern repräsentiert auch den häufigsten Grund einer erworbenen Epilepsie im fortgeschrittenen Alter und bedingt am zweithäufigsten die Entwicklung einer Demenz (8.). Generell lässt sich eine Altersabhängigkeit für das Auftreten eines Schlaganfalls feststellen. So sind mehr als 70-75 % der Patienten älter als 65 Jahre (7.; 9.). Im Jahr 2005 waren weltweit 6 Millionen (Mio.) Todesfälle auf einen Schlaganfall zurückzuführen, was einen relativen Anteil von ca. 10 % aller Todesfälle bedeutet (6.). Im zeitlichen Verlauf versterben weltweit ein Viertel der Patienten nach einem Monat, ein Drittel nach 6 Monaten und die Hälfte innerhalb eines Jahres (10.). In Deutschland sterben rund 15
+%der Patienten innerhalb von 3 Monaten an den Folgen eines Schlaganfalls. Diese können in direktem Zusammenhang mit dem Infarkt stehen, insbesondere als vom Infarkt5hervorgerufene ödematöse Raumforderung, oder sekundär zum Tode führen. Als sekundäre Ursachen hervorzuheben sind v. a. Pneumonie, Lungenarterienembolie, Einblutung und ein zweiter Schlaganfall (3.).
+
+1.2. Schlaganfall und Risikofaktoren
+Der wichtigste Risikofaktor, unabhängig vom Typ des Schlaganfalls, ist der arterielle Bluthochdruck (11.; 12). Zwischen dem Anstieg des arteriellen Drucks und der Risikoerhöhung besteht ein linearer Zusammenhang. So bedingt eine Erhöhung des Blutdrucks um 10 mmHg je nach Literatur eine Risikoerhöhung von 10-30 %. Liegt der Blutdruck dauerhaft über 120/80 mmHg, verdoppelt sich das Lebenszeitrisiko für das Auftreten eines Schlaganfalls (11.; 12.). Darüber hinaus spielen auch andere Herz-Kreislauf- Erkrankungen eine wichtige Rolle. Leidet ein Patient an einer Koronaren Herzkrankheit (KHK), ist das Risiko für einen Schlaganfall 2-fach erhöht (8.). Besteht dagegen ein Vorhofflimmern (VHF), verfünffacht sich das Risiko (8.; 11.). Ferner kann eine hochgradige Karotisstenose das Risiko einer Minderperfusion des Gehirns erhöhen (11.). Weitere Faktoren, die nachweislich einen Schlaganfall begünstigen sind: Diabetes mellitus (D. m.) mit einer 1,8- bis 6-fachen Risikoerhöhung (8.; 11.; 12.), Body Mass Index (BMI) über 25 (13.; 14.), abdominelle Adipositas, metabolisches Syndrom (11.; 15.), Hypercholesterinämie (16.), niedriges high density lipoprotein (HDL) bei Männern (17.) und geringe Einnahme von Vitamin D (18.). Demgegenüber senken körperliche Aktivität (8.; 15.; 19.) und eine Ernährung mit viel Obst und Gemüse das Schlaganfallrisiko (20.). Eine besondere Stellung hat in kürzerer Zeit die transitorisch ischämische Attacke (TIA) als eigenständiger Risikofaktor eingenommen. TIAs sind kurze, nicht länger als 24 h dauernde, Episoden, die durch ein neurologisches Defizit als Ergebnis einer fokalen zerebralen oder retinalen Ischämie gekennzeichnet sind. 85-95 % der Episoden halten weniger als 60 min an. Der übrige Anteil bildet sich innerhalb von 24 h zurück (11.). Man geht davon aus, dass ca. 8 % der Patienten mit einer TIA in den folgenden 8-15 Tagen einen Schlaganfall erleiden, Innerhalb von 3 Monaten sind es 20 % (21.). Jährlich ist das relative Risiko für einen Insult nach einer TIA 2-5-fach erhöht (22.). Analog zur TIA repräsentiert auch ein bereits überlebter Schlaganfall einen eigenständigen Risikofaktor. Nach einem Jahr erleiden 8-15 % der Überlebenden einen erneuten Schlaganfall, nach 5 Jahren sind es 30-40 %, nach 10 Jahren bereits 55 % (12.).
+
+1.3. Pathopysiologie des Schlaganalls
+Die ischämische Hirnschädigung ist Resultat einer komplexen Abfolge von pathophysiologischen Ereignissen, die sich über Raum und Zeit erstrecken und nur schwer voneinander abzugrenzen sind, da sie sich gegenseitig beeinflussen und voneinander abhängen. Wesentliche Mechanismen dieser biochemischen Kaskade sind Exzitotoxizität (Zellschädigung durch Übererregung), Periinfarkt Depolarisationen, Azidotoxizität, Inflammation, programmierter Zelltod und Nekrose (23.; 24). Abbildung 1: Zeitlich versetzte Abfolge der Schädigung durch anoxische Depolarisation,
+ Exzitotoxizität, Peri-Infart-Depolarisation, Inflammation und Apoptose (Quelle: 24.).
+
+
+Im Folgenden werden die wichtigsten Vorgänge nach einem ischämischen Schlaganfall kurz erklärt.
+
+
+Exzitotoxizität: Das Gehirn ist essentiell von Glukose und Sauerstoff abhängig (20% des totalen Sauerstoffverbrauchs), um durch oxidative Phosphorilierung die nötige Energie zu gewinnen (25.; 26.). Bereits kurze Unterbrechungen des Blutkreislaufs und der damit verbundenen Energieversorgung führen im Gehirn zu einem Verlust des notwendigen Membranpotentials in Neuronen und Gliazellen. Die Repolarisation der Zellen bleibt aus, Kalium tritt aus während Natrium einströmt. Es kommt zur Depolarisation der Zellen mit anschließender Aktivierung der spannungsabhängigen Kalziumkanäle; Kalzium strömt in die Zellen, während Aminosäuren ausströmen, insbesondere Glutamat, in den extrazellulären Raum (25.). In der Zelle werden durch Kalzium abhängige Proteasen, Lipasen und DNasen aktiviert (26.). Außerhalb der Zelle führt die Akkumulation von Glutamat im extrazellulären Raum aufgrund seiner exzitatorischer Wirkung zu einem Einstrom von Natrium und Chlor in die Zelle. Als Folge strömt H2O passiv in die Neuronen, weil der Einstrom von Na+- und Cl—- Ionen erheblich größer ist als der Ausstrom von Kalium. Die nachfolgende Entstehung eines zytotoxischen Ödems führt schließlich zum Tod der Zelle, zur Nekrose. Da die Nekrose auf eine Übererregung der Zelle zurückzuführen ist spricht man hier von Exzitotoxizität.
+
+Im Randgebiet des ischämischen Infarkts der sogenannten Penumbra bleibt eine geringe Energieversorgung über Kollateralgefäße erhalten, so dass die Nekrose der Zellen hauptsächlich im Kerngebiet des Schlaganfalls stattfindet (23.).
+
+Peri-Infarkt Depolarisation: Da die Repolarisation der Zellen energieabhängig ist, kann sich bei länger anhaltender Ischämie über exzitatorischen Aminosäuren, wie Glutamat, die Depolarisation der Zellen in die Penumbra fortsetzen und auch in diesem Bereich zum Zelluntergang führen und somit das Infarktareal ausweiten (25.).
+
+
+Azidotoxizität: Metabolisch stellen die Zellen im Ischämiegebiet auf anaeroben Metabolismus um und so kommt es zur Ansammlung von Laktat. Da der Blutfluss sistiert, kann das angefallene Laktat nicht abtransportiert werden und es kommt zum pH-Abfall. Dieser aktiviert sog. ASICs (acid sensing ion channels), die für Kalzium permeabel sind. Dies führt ebenso wie bei der Exzitotoxizität nachfolgend zum Ödem mit Zelluntergang. Es wird sogar vermutet, dass der azidotoxische Kalziumeinstrom mit nachfolgender Nekrose und Apoptose eine größere Rolle spielt als die durch Glutamat vermittelte Exzitoxizität (27.).
+
+
+Inflammation: Das Immunsystem und das zentrale Nervensystem stehen in einem bilateralen Zusammenspiel, sowohl im experimentellen als auch im klinischen Schlaganfall kommt es zu einer akuten gefolgt von einer prolongierenden Entzündungsreaktion (28.; 25.).
+
+
+Bereits nach wenigen Stunden reagiert das Gehirn auf eine Ischämie mit einer Entzündungreaktion, die durch die Expresssion einer Reihe proinflammatorischer Mediatoren charakterisiert ist, die zur Verschlechterung des Zustandes nach Ischämie beitragen, die Infarktgröße negativ beeinflussen und die neurologischen Schäden verschlimmern (28.; 29). So wird durch Interleukin-1 nicht nur die Exzitoxizität durch die NMDA-Rezeptoren gesteigert (30.), sondern gleichzeitig die neutrophile Infiltration (30.; 31). Durch den Tumor-Nekrose- Faktor-α (TNFα) wird die Aggregation der neutrophilen Granulozyten stimuliert und der Zusammenbruch der Blut-Hirn-Schranke (25.). Nach einem Schlaganfall wurden im Serum hohe Konzentrationen von TNFα nachgewiesen, die mit der Größe des Infarkts korrelieren (30.; 32.). Durch die Gabe eines TNFα neutralisierenden Antikörpers konnte die Gehirnschädigung verringert werden (33.; 34). Auch die nach einem Schlaganfall erhöhten Plasmakonzentrationen von Interleukin-6 korrelieren mit der Größe des Infarkts und den neurologischen Schäden (30.; 35.). Andererseits hat Interleukin-6 eine positive Wirkung und aktiviert einen Interleukin-1 Antagonisten (36.).
+
+
+Dem TGF-β1 konnten bisher nur positive Eigenschaften zugeordnet werden. So wirkt er nach einer Ischämie neuroprotektiv (30.; 37.), reduziert zirkulierende neutrophile Granulozyten (38.) und wirkt protektiv gegen die durch Glutamat vermittelte Exzitoxizität (30.;
+839.). Weiterhin kommt es zu einer Freisetzung von freien Radikalen und proteolytischen Enzymen durch die neutrophilen Granulozyten (25.).
+
+Über die weitere Aktivierung von Astrozyten und Mikrogliazellen, die Schädigung der Blut- Hirn-Schranke und die Verstärkte Produktion freier Radikale wird der lokale Zellschaden getriggert durch die Sezernierung von Zytokinen. Gehirnzellen, die einer übermäßigen Glutamat-Rezeptor-Aktivierung, Kalzium-Überschuss, freien Radikalen oder mitochondrialen- sowie DNA-Schäden ausgesetzt sind, können durch Apoptose oder Nekrose absterben (29). Abschließend kann festgestellt werden, dass inflammationsbedingte Vorgänge wesentlich zur Gehirnschädigung beitragen, obwohl auch positive Effekte nachgewiesen werden können, abhängig von der schon bestehenden Gewebezerstörung und der Stärke der Immunantwort oder direkt über verschiedene neuroprotektive Signalwege (40.; 41. Nawash).
+
+
+Abbildung 2: Das Konzept der Penumbra
+Topographisch-pathologisch lassen sich in den geschädigten Gebieten verschiedene Zonen unterscheiden, deren Vorhandensein sich mit den regionalen Versorgungsverhältnissen erklären lassen. In der Kernzone (core zone) eines Schlaganfalls, wo die Perfusion lang anhaltend unterbrochen wurde und nicht durch Kollateralkreisläufe zumindest teilweise aufrechterhalten werden konnte, finden sich die schwersten strukturellen Schäden aufgrund des Untergangs ganzer Zellpopulationen. Dieser Bereich wird als eigentliches Infarktgebiet bezeichnet. In der Randzone, wo durch Kollateralen eine, wenn auch reduzierte, Durchblutung gewährleistet werden kann, finden sich dagegen noch funktionsfähige Gliazellen und Neuronen. In dieser auch als Penumbra bezeichneten Randzone kommt es zu zeitabhängigen Schadensmustern an den Zellen, welche letztlich einen Einfluss auf die Infarktgröße und das Ausmaß an klinischen Defiziten haben (42.; 43.). Um die Penumbra herum, und damit noch distaler von der Kernzone, kann dann noch das Gebiet der benignen Oligämie benannt werden, im welchen die zellulären Funktionen über eine suffiziente Versorgung mittels Kollateralen so gesichert sind, dass sich die Zellen nach Reperfusion9spontan erholen (44.). Aus diesem Drei-Zonen-Modell des Infarktgebietes resultiert auch die therapeutische Rationale für die Akuttherapie des Schlaganfalls, welche die Penumbra in den Mittelpunkt des Geschehens rückt. Kann die Reperfusion vor dem Untergang der Zellen in der Penumbra wiederhergestellt werden, resultiert daraus eine geringere Infarktgröße und damit unter Umständen auch ein geringer ausgeprägtes klinisches Bild der entsprechenden neurologischen Störung. Hier greift auch das pathophysiologische Konzept der Neuroprotektion, bei dem davon ausgegangen wird, dass durch geeignete Pharmaka die Umwandlung der Penumbra in Infarktgebiet vermindert werden kann.
+
+1.4. Schlaganfall und Renin-Angiotensin-System (RAS)
+Seit der Entdeckung des Renins in der Niere des Kaninchens 1898 durch Tigerstedt und Bergman (45.) ist das RAS als wichtiger Modulator von Blutdruck und Volumenhomöostase bekannt. Das RAS stellt eine Kaskade enzymatischer Reaktionen dar, in der die Biosynthese von Angiotensin II (Ang II), dem Haupteffektorpeptid, mit dem geschwindigkeitsbestimmenden Schritt, der enzymatischen Abspaltung des Dekapeptids Angiotensin (Ang I) von Angiotensinogen durch Renin beginnt. Durch die Umwandlung von Ang I in Ang II durch das Angiotensin Konversionsenzym (ACE), kann Ang II seine zellulären Effekte hauptsächlich über zwei Rezeptoren vermitteln, den Angiotensin-1-Rezeptor (AT-1R) und Angiotensin-2-Rezeptor (AT2-R) (29.; 45.).
+
+Die klassischen peripheren Wirkungen des Haupteffektorpeptids Ang II sind Vasokonstriktion, Hormonfreisetzung wie Aldosteron aus der Nebenniere und Vasopressin, Aktivierung des Sympathikus und renale Salz-und Wasserretention (45.). Weiterhin ist AngII in pathophysiologische Prozesse wie der vaskulären und kardialen Hypertrophie, der Inflammation, der Atherosklerose, der Glomerulosklerose und Schlaganfall involviert.
+
+
+Diese Wirkungen sind überwiegend über den AT1-R vermittelt (46.; 47.). Im adulten Organismus ist der AT-1R stärker exprimiert als der AT2-R, der gegenregulatorisch wirkt.
+
+
+Alle Komponenten des RAS werden im Vertebratengehirn exprimiert, einschließlich Angiotensinogen, Renin, ACE, Ang I und II, sowie die AT1-R und AT2-R (45.). Die intrazellulären Signalwege beider Angiotensinrezeptoren wurden detailliert beschrieben (45.; 46.).
+
+
+Zusätzlich zu den peripheren Wirkungen, fungiert Ang II lokal im Gehirn als Neurotransmitter und /oder Neuromodulator und beeinflusst die Blutdruckregulation und Wasser- und Elektrolythomeostase (48.) über die Aktivierung des autonomen Nervensystems und die Baroreflexsensivität (49.-52.), über die Kontrolle der Hypothalamus-Hypophysen-Achse die Vasopressionausschüttung und die Durstregulation und die Natriurese (53.-57.). Unter pathologischen Bedingungen wie Schlaganfall, Schädigung des Ischias Nerv oder des Nervus Optikus, die Huntington Krankheit und die Alzheimer Erkrankung wurde eine Überexpression des AT2-R im Gehirn beschrieben(58.-62.).
+
+Abbildung 3:
+Schematische Übersicht des Renin-Angiotensin-Systems und RAS InhibitorenAngiotensinogen!Asp+Arg+Val+Tyr+Ile+His+Pro+Phe+His+Leu+Leu+Val+Tyr+Ser)Renin)  Renininhibitoren)Angiotensin!I!Asp+Arg+Val+Tyr+Ile+His+Pro+Phe+His+Leu)Angiotensin+konver?erendes)Enzym)  ACE+Inhibitoren)Angiotensin!II!Asp+Arg+Val+Tyr+Ile+His+Pro+Phe)AT1+Antagonisten)   !AT1!  AT2!• Pro!Inﬂamma.on!• An.EInﬂamma.on!• Vasokonstrik.on!• Vasodilata.on!• Prolifera.on!• Regenera.on!• Sympathikusak.vierung!• Diﬀerenzierung!• Kardiovaskuläre!  • Endorganschäden!  ROS!  Ang II spielt durch seine blutdrucksteigernden Wirkungen eine wesentliche Rolle in der Schlaganfallentstehung. Neben der Bedeutung des arteriellen Hypertonus als Risikofaktor allgemein (63.), vermittelt Ang II über den AT1-R negative und über den AT-2 R positive Wirkungen s. Abb 3.
+
+In der Klinik findet die pharmakologische Blockierung des RAS derzeit über 3 Mechanismen Anwendung. Die Hemmung des ACE durch ACE-Inhibitoren, die Blockierung von AT1-R. durch ARBs und die Renin-Inhibition (64.).
+
+
+ACE-Inhibitoren wie Ramipril reduzieren durch Hemmung der Ang I-Konversion in Ang II dessen Effekte, können sie aber nicht aufheben. Ursächlich sind lokale RAS, die unabhängig Ang II bilden können und von ACE-Inhibitoren nicht erfasst werden. Dieser Umstand wird auch als Escape-Mechanismus beschrieben. Ein weiterer Escape-Mechanismus führt zu einer gesteigerten Aldosteron-Produktion im Rahmen einer Therapie mit ACE-Inhibitoren. Des Weiteren fungiert das ACE als Kininase II. Infolge der Hemmung durch ACE-Inhibitoren verringert sich somit der Abbau von Bradykinin BK, welches über seinen Rezeptor und der nachgeschalteten Aktivierung des NO-Systems zusätzlich zu einer Vasodilatation führt und folglich zu den antihypertensiven Eigenschaften der ACE-Inhibitoren beiträgt. Demgegenüber steht die Gefahr eines Angioödems und Hustens, welche bei dispositionierten Patienten durch BK ausgelöst werden können. Dieser Nachteil wird durch die anderen RAS-blockierenden Substanzgruppen umgangen (65.). Studien belegen die gute Wirksamkeit der ACE-Inhibitoren als Antihypertensiva. Daneben werden dieser Substanzgruppe auch weitere Wirkungen zugeschrieben, z. B. Verbesserung der Endothelfunktion, Renoprotektion bei Diabetikern, Rückbildung einer linksventrikulären Hypertrophie und weitere kardioprotektive Effekte (64). Die HOPE-Studie zeigte, dass eine Behandlung mit dem ACE-Hemmer Ramipril bei Menschen auch bei einer nur geringen Reduktion des Blutdruckes das relative Risiko eines Schlaganfalles um 32% senkte; das relative Risiko eines tödlichen Schlaganfalls wurde sogar um 61% gesenkt. Weitere Untersuchungen ergaben, dass ACE-Hemmer den Metabolismus des ischämischen Gehirns bei SHR verbesserten und bei normotensiven Ratten ebenfalls das Ausmaß neurologischer Ausfälle nach zerebraler Ischämie verringerten (66.; 67.).
+
+Mitte der 90-er Jahre wurde mit Irbesartan der erste, nicht auf Peptidstruktur-basierte, Angiotensin-Rezeptor-Blocker (ARB) zugelassen. Darauf folgten weitere, z. B. Candesartan, Eprosartan, Valsartan oder Telmisartan. Diese neueren ARBs bieten im Vergleich zu ACE- Inhibitoren den Vorteil, selektiv den AT1-R. kompetitiv und reversibel zu blockieren. In der Folge kann Ang II den nicht besetzten AT2-R. aktivieren. Darüber hinaus können die oben beschriebenen Escape-Mechanismen umgangen werden, da die Blockierung des RAS direkt am Rezeptor erfolgt. Welche klinische Relevanz diese Effekte haben, muss durch weitere Studien untersucht werden (46.). Neben der Blutdruck-senkenden Wirkung werden den Sartanen auch Blutdruck-unabhängige pleiotrope Effekte zugeschrieben. So konnten antiinflammatorische (69.) und, im Rahmen der diabetischen Nephropathie, renoprotektive Wirkungen gezeigt werden (70.; 71.). Ebenso wurde ein Inzidenzrückgang von neu aufgetretenem Typ-2-Diabetes in hypertensiven Patienten beobachtet (72.; 73). Ursache dieses Phänomens könnte die Eigenschaft der Aktivierung von Peroxisom-Proliferator- aktivieren γ-Rezeptoren (PPAR-γ) einiger Sartane sein. Von allen Sartanen zeigt Telmisartan die größte Potenz der PPAR-γ-Aktivierung (74). Folge dieser Aktivierung ist die vermehrte Bildung von Adiponektin, welches die periphere Insulinsensitivität verbessert (74.; 75).
+
+
+In tierexperimentellen Studien in hypertensiven Ratten (76.; 77.) sowie in zahlreichen klinischen Studien (72.; 78.-81.) wurde gezeigt, dass eine langanhaltende antihypertensive Behandlung mit ARB´s die Inzidenz von Schlaganfällen reduziert. Darüberhinaus zeigt die Blockierung des AT1-R mittels ARB´s blutdruckunabhängige neuroprotektive Effekte in Schlaganfallmodellen in normotensiven Ratten (59.; 82.-85.). Das die neuroprotektiven Effekte über den AT2-R vermittelt werden, bestätigen Iwai et al. in AT2-R defizienten Mäusen, die im Vergleich zu Wildtypmäusen nach Schlaganfall vergrößerte Infarktgebiete und größere neurologische Schäden aufweisen (86.).
+
+Ein weiteres Behandlungskonzept stellt die Kombination von ACE-Inhibitoren und ARBs dar. Durch die Kombination sollen sich die Vorteile beider Substanzgruppen addieren bzw. Nachteile wie das Escape-Phänomen kompensiert werden. So konnte die Val-HeFT-Studie zeigen, dass die Aldosteronspiegel im Plasma in der Kombinationsgruppe signifikant geringer waren als in der Standardmedikationsgruppe (87.). Mit der Ongoing Telmisartan Alone and in Combination With Ramipril Global Endpoint Trial (ONTARGET)- Studie sollte zum einen beantwortet werden, inwieweit der ARB Telmisartan eine vergleichbare Effizienz wie der ACE-Hemmer Ramipril in der Prävention von kardiovaskulären Komplikationen beim Hochrisikopatienten hat, sowie, ob die Kombinationstherapie aus Ramipril und Telmisartan bei diesen Patienten der Monotherapie mit Ramipril überlegen ist (88.). In der ONTARGET- Studie konnte bestätigt werden, dass die Senkung des Blutdrucks in der Ramipril-Gruppe mit der in der Telmisartan-Gruppe vergleichbar war. Die Blutdrucksenkung in der Kombinationsgruppe war noch etwas stärker, verglichen mit den beiden Monotherapien (88.). Eine Behandlung mit Telmisartan oder der Kombination resultierte während der gesamten Studie in tieferen Blutdruckwerten als in der Ramipril-Gruppe. Unterschiedlich hingegen waren die Verträglichkeitsprofile von Ramipril und Telmisartan. Eine Behandlung mit Ramipril zeigte ein verstärktes Auftreten von Husten und Angioödemen im Vergleich zu Telmisartan. Im Gegensatz dazu kam es unter Telmisartan-Behandlung öfter zu hypotensiven Symptomen als unter Ramipril. Der bis dahin oft diskutierte Punkt, ob Telmisartan ein besseres Tolerabilitätsprofil als Ramipril hat, konnte mit diesen Ergebnissen bestätigt werden. Bezüglich der primären Endpunkte, wie Herzinfarkt, zerebrovaskuläre Ereignisse oder Klinikaufenthalt nach Herzinsuffizienz, haben Telmisartan und Ramipril eine vergleichbare Wirkung. Auch die totale Mortalität, sowie die kardiovaskuläre Mortalität sind in beiden Monotherapien fast gleich.
+
+
+Überraschend waren die Ergebnisse der Kombinationstherapie in der ONTARGET-Studie. Die stärkere Blutdrucksenkung in dieser Gruppe führte nicht, wie erwartet, zu einer zusätzlichen Reduktion der kardiovaskulären Komplikationen. Darüber hinaus hatte die duale RAS-Blockade keinen zusätzlichen Effekt – dafür traten unter dieser Therapie häufiger Nebenwirkungen, wie Hypotonie (P<0.001), Hyperkaliämie (P<0.001) sowie akutes Nierenversagen (P<0.001), als unter Telmisartan oder Ramipril allein auf (88). Die Gründe für ein Fehlen additiver nützlicher Effekte mit der Kombinationstherapie, abgesehen von der
+13stärkeren systolischen Blutdrucksenkung im Vergleich zur Monotherapie mit dem ACE- Hemmer, blieben unbekannt (29.; 88.).
+
+Die dritte mit dem RAS interferierende Substanzgruppe stellen die Renin-Inhibitoren dar, deren einziger bisher zugelassene Vertreter Aliskiren ist. Durch die Hemmung der Reninaktivität ist es möglich die Umsetzung von Angiotensinogen zu Ang I und damit den limitierenden Schritt der Ang II-Produktion zu blockieren. Mehrere Studien über die Wirksamkeit Aliskirens bei arterieller Hypertonie zeigten im Vergleich zu anderen Antihypertensiva vergleichbare Wirkungen (89.-96.). Inwieweit Aliskiren Endorganschäden verhindern kann und ob eine Kombination mit anderen RAS-blockierenden Medikamenten zusätzlichen Nutzen bringt sowie die Frage nach pleiotropen Effekten werden zukünftige Studien beantworten (89.). In Schlaganfallstudien wurde Aliskiren bisher nicht untersucht.
+
+
+Vielversprechende Ergebnisse konnten bisher mit dem selektiven AT2-R-Agonisten Compound 21 (C21) erzielt werden. Diese nicht auf Peptidstruktur-basierende Substanz bietet die Möglichkeit einer oralen Applikation. In Tier- und Zellkulturmodellen konnte gezeigt werden, dass die selektive Aktivierung durch C21 das Auswachsen von Neuriten bewirkt. Zudem wurden Studien durchgeführt, die C21-vermittelte kardioprotektive, neuroprotektive, antiinflammatorische und protektive Wirkungen zeigen (97.; 98.).
+
+
+1.5. Schlaganfall und Thiozolidone
+Hypertonie und Typ 2 Diabetis Mellitus sind Schlüsselsymptome für das Metabolische Syndrom und zwei der wichtigsten Risikofaktoren für die Entstehung von kardiovaskulären Erkrankungen, welche folglich zum Schlaganfall führen können.
+
+Die Thiozolidone Rosiglitazone und Pioglitazone sind von der FDA für die Behandlung des Typ2 Diabetis mellitus als Antidiabetika zugelassen. Diese Substanzen sind PPARγ- Agonisten und haben im Patienten die makrovaskulären Ereignisse einschließlich Schlaganfall gesenkt.
+
+
+Inflammatorische Prozesse, die bereits kurz nach Arterienverschluß im Gehirn auftreten, spielen bei der Infarktentstehung und –ausbreitung eine ganz entscheidende Rolle (24.).
+
+
+Für PPARγ-Liganden, wie etwa das Antidiabetikum Pioglitazon, sind ebenfalls anti- entzündliche und neuroprotektive Wirkungen in-vitro und in-vivo beschrieben worden (99.). Die Thiazolidindione (z.B. Pioglitazon) werden bereits bei Schlaganfall-Risikopatienten (Diabetes mellitus) zur klinischen Therapie eingesetzt (100.; 101).
+
+
+PPARγ ist ein im Zellkern vieler Zellen befindlicher hormoneller Rezeptor, der unter anderem die Transkription von an der Entzündung beteiligten Genen reguliert. Im Gehirn ist PPARγ in Astrozyten, Mikrogliazellen und Neuronen exprimiert. Die Aktivierung von PPARγ im Gehirn durch Thiazolidindione (Pioglitazon) konnte mit einer neuroprotektiv wirkenden, verminderten
+14Sekretion von neurotoxischen Faktoren durch Mikrogliazellen in Einklang gebracht werden. Versetzt man etwa Monozyten mit PPARγ-Liganden, so resultiert eine Inhibition der Expression von folgenden Entzündungsmediatoren: IL-1β, IL-6, TNFα und MCP-1 (102; 103.). Zusammenfassend betrachtet inhibieren PPARγ-Liganden die Expression von inflammatorischen Genen. Die Kombination von ARB´s mit PPARγ-Liganden (Pioglitazon) könnte synergistische anti-inflammatorische Effekte auf die neurologische Entwicklung nach fokaler zerebraler Ischämie haben.
+
+1.6. Schlaganfall und Endothelinsystem
+Das Endothelinsystem spielt bei der Regulierung des Blutdrucks und beim Schlaganfall eine wichtige Rolle.
+
+Endothelin (ET) wurde initial charakterisiert als vasokonstriktorisches Peptid, welches von Endothelzellen produziert wird. ET wird aus der Proform Big-Endothelin durch das Endothelin Konversions Enzym (ECE) gebildet. Die Wirkung wird vermittelt über zwei Rezeptoren ETA und ETB. Neben der Lokalisation im Gefäßbett, findet man die Endothelin Rezeptoren auch im ZNS (104.). Die Rolle des ET´s im ZNS und neuronalen Erkrankungen wie Schlaganfall war schon Gegenstand von Untersuchungen (104.-107.). ET-1, eine Isoform des Endothelins, wird im Cortex, Hippokampus, Mittelhirn, Medulla, Kleinhirn und Rückenmark und Dorsalganglien exprimiert (108.). ET-1 ist ein potenter Vasokonstriktor in zerebralen Arterien und Arteriolen (109.), dies reduziert den zerebralen Blutfluss und führt dadurch zu einem vergrößerten Infarktvolumen und einem erhöhten Ausmaß der neurologischen Ausfälle (109.). Im Schlaganfallmodell MCAO wurden erhöhte Endothelinspiegel gefunden, die in die Pathogenese, des durch Ischämie induzierten Schadens involviert sind (110.). Ebenso erhöhten sich im Menschen nach Schlaganfall die ET-Plasmaspiegel von 3,68 pmol/l auf 19,63 pmol/l (111.).
+
+
+Stenman et al. konnten nachweisen, dass ET-B Rezeptoren nach einem Schlaganfall vermehrt auf der betroffenen Seite in glatten Muskelzellen exprimiert werden (112.), wodurch es zu einer verstärkten Kontraktion der Gefäße und zu einer verminderten Durchblutung des versorgenden Hirnareals kommt. Die Ursachen für die Vermehrte Expression der ET-B Rezeptoren kann einerseits die bei einem Schlaganfall entstehende Inflammation (112.; 113.) sein und/oder die Dehnung der Gefäße aufgrund des entstehenden Ödems (114.).
+
+
+Die Blockade der ETA- oder ETB Rezeptoren führt zu einer Verringerung des neurologischen Schaden nach einem akuten Schlaganfall (115.-117.). Durch die Blockade der Rezeptoren kann der Abfall des cerebralen Blutflusses nach einem Schlaganfall verringert und damit die Reperfusion der ischämischen Gebiete verbessert werden (105.; 117.). Durch die kombinierte ETA- und ET-B-Rezeptor Blockade konnten die Schädigungen des Gehirns nach einem Schlaganfall um 30% reduziert werden (106.). Da der ET-B Rezeptor auch an dem Abbau von ET-1 beteiligt ist, führt eine Blockade dieses Rezeptors auch immer zu einem Anstieg der ET-1 Plasma Konzentration, was eine Erklärung sein könnte warum bei einer Hemmung nur dieses Rezeptors oft die gewünschte Wirkung ausblieb (119., 120).
+
+Da ET-1 in die Schadenskaskade nach Ischämie involviert ist und man durch Blockade dieses Systems das Vorkommen und die Schäden eines Schlaganfalls positiv beeinflussen kann, erscheint es sinnvoll durch Blockierung des ECE die ET-1 Produktion zu verringern, ohne die abbauende Wirkung des ETB-Rezeptors zu beeinflussen (121.). Es steht hierfür ein Medikament mit einer solchen Wirkung zur Verfügung SLV338 (122.).
+
+
+1.7 Schlaganfall und neutrale Endopeptidase
+Die neutrale Endopeptidase (NEP) ist ein membranständiges extrazellulär ausgerichtetes Enzym, das die Ringsturktur der natriuretischen Peptide zerstört und so diese abbaut (123.). Sie gehört ebenso wie das ECE zur Familie M 13 der Metalloendopeptidasen, deren Gemeinsamkeit ist, dass sie als Co-Faktor Zink binden (124.). Damit ist auch die NEP am Abbau von ET-1 beteiligt (125.). Über negative Rückkopplung wird die NEP-Expression durch cGMP gesteigert und somit auch der Abbau natriuretischer Peptide.
+
+Natriuretische Peptide sind eine Gruppe von verschiedenen Peptidhormonen atriales natriuretisches Peptid (ANP), brain natriuretisches Peptid (BNP), dem C-Typ natriuretisches Peptid (CNP), dem dendroaspis natriuretisches Peptid (DNP) und Urodalatin, die große Ähnlichkeit in Struktur und Wirkung aufweisen. Die Ringstruktur aus 17 Aminosäuren ist bei den unterschiedlichen natriuretischen Peptiden zu großen Teilen identisch und wurde als der Teil identifiziert, der für die Rezeptorerkennung und dadurch für die Wirkung verantwortlich ist (123.; 126.; 127). Die Bildung der natriuretischen Peptide erfolgt hauptsächlich in den Kardiomyozyten, bei ANP in denen des Atriums, bei BNP auch in Kardiomyozyten des Ventrikels (127.-129.). Zu einem geringen Teil wird ANP auch in den Nieren, dem Nebennierenmark und dem ZNS synthetisiert (130.; 131.). BNP zusätzlich in kardialen Fibroblasten und obwohl es dort entdeckt wurde nur zu einem sehr geringen Teil im ZNS (131.). Die Freisetzung der natriuretischen Peptide wird hauptsächlich durch eine erhöhte Dehnung des Vorhofes bzw. der linken Kammer ausgelöst (123.; 132), aber auch durch verschiedene Stimuli, z.B. Ischämie und Hypoxie, ET-1, Ang II und Interleukine (133.), gehemmt wird die Freisetzung durch NO und Adrenomedullin (134.). Die Wirkungen, Natriurese, Diurese und Vasodilatation werden über zwei Rezeptoren vermittelt, den natriuretischen Peptid Rezeptor-A (NRP-A) und den natriuretischen Peptid Rezeptor-B (NRP-B). Beide Rezeptoren werden in Niere, Herz, Gehirn, dem Endothel, der Lunge, den Augen, den Nebennieren, der Plazenta und dem Gastrointestinaltrakt exprimiert (123.; 135).
+
+Es sind transmembranöse Guanylatzyklase-Rezeptoren, die bei Aktivierung die Synthese von cGMP steigern. Die Bindung zwischen Ligand und Rezeptor wird durch eine Dephosphorilierung des Rezeptors wieder gelöst, dies kann durch den Ligand selbst ausgelöst werden oder durch Ang II oder ET-1 provoziert werden, was eine Wirkungsabschwächung der natriuretischen Peptide zur Folge hat (136.). Besonders bei Krankheiten, bei denen diese Substanzen erhöht sind z.B. bei Herzinsuffizienz oder Schlaganfall spielt dieser Vorgang eine wichtige Rolle. Die Wirkung der natriuretischen Peptide ist vielfältig. Sie sind an der Regulierung des Blutdrucks beteiligt und dementsprechend auch an Krankheiten, die mit hohem Blutdruck einhergehen oder durch ihn bedingt sind. Bei Herzinsuffizienz kommt es z.B. durch die erhöhte Wandspannung zu einer deutlich vermehrten Freisetzung der natriuretischen Peptide. BNP ist einer der wichtigsten prognostischen Faktoren bei dieser Krankheit, da seine Plasma Konzentration mit dem Schweregrad der Erkrankung korreliert (137.; 138.). Hohe BNP Konzentrationen sind Anzeichen für ein Myokardinfarkt, linksventrikuläres Herzversagen und sogar Mortalität (139.). Auch bei Vorgängen, die während oder anschließend an einen Schlaganfall ablaufen spielen natriuretische Peptide eine Rolle, und die BNP Konzentrationen sind nach einem Schlaganfall erhöht (140.). Akdemir zeigte, dass ANP den intrakraniellen Druck nach einer zerebralen Ischämie durch Verringerung des Gehirnödems senken kann (141.). Es stellt wegen seiner zusätzlich vasodilatierenden und diuretischen Wirkung einen möglichen protektiven Wirkstoff dar (141.). In Dahl-Salz sensitiven Ratten konnte durch ANP die Mortalität auf Grund von Schlaganfall verringert werden und der Blutdruckanstieg wird verzögert (142.).
+
+Eine Blockade der NEP führt zu einem Anstieg der natriuretischen Peptide, gleichzeitig wird dadurch aber auch der Abbau von ET-1 vermindert. Durch SLV338 wird nicht nur die NEP gehemmt, sondern auch das ECE, so dass es schon zu einer verminderten Produktion von ET-1 kommt (122).
+
+
+1.8 Schlaganfall und Antibiotikatherapie
+Dass Antibiotika in der Lage sind, die Mortalität nach einem Schlaganfall zu senken, ist aus tierexperimentellen Untersuchungen und aus der klinischen Praxis bekannt. So ist beschrieben, dass es infolge eines Schlaganfalls zu einem als „stroke induced immunosuppression syndrome (SIDS)“ bekannten Phänomen der schnellen und langwirksamen Suppression der zellulären Immunantwort kommen kann (143.; 144.), die für das Auftreten lebensbedrohlicher Infektionen wie Pneumonien in der akuten Phase nach Schlaganfall verantwortlich ist. Tierexperimentelle Untersuchungen konnten beispielsweise17einen protektiven Effekt von Moxifloxacin in der Dosis von 600 mg/kg KG in einem Modell des induzierten Schlaganfalls in der Maus zeigen (145.).
+
+Betrachtet man die Möglichkeiten einer pharmakologischen Intervention nach einem Schlaganfall, so muss man konstatieren, dass sich diese zur heutigen Zeit auf die Option einer raschen medikamentösen Revaskularisierung mittels Fibrinolytika beschränken (146.). Trotz vieler Jahre intensiver Forschung ist man einem Wirkstoff, der in der Akutphase nach einem Schlaganfall gegeben werden kann und der die Mortalität, das Ausmaß des neurologischen Schadens oder die Größe des geschädigten Areals positiv im Sinne des Patienten beeinflussen kann, noch nicht näher gekommen. Zwar verbesserte eine Vielzahl von Stoffen die neurologische Situation im Tierversuch, doch erwiesen sich diese potentiellen Medikamente letztendlich nicht als effektiv im klinischen Test (145.; 147.; 148) oder vermochten die akute Mortalität im Tierversuch beziehungsweise in einer klinischen Studie nicht zu verbessern (145.; 148.).
+
+
+Bei der Überlegung, wie eine Substanz wirken muss, damit sie die Mortalität, das Ausmaß des neurologischen Schadens oder die Größe des durch den Schlaganfall geschädigten Areals positiv beeinflussen kann, kommt man grundsätzlich auf zwei verschiedene, mögliche Strategien. Während die erste Strategie über eine schnelle Wiederherstellung der Perfusion nach einem ischämischen Verschluss auf eine Reduktion des neurologischen Schadens und die Größe der infarzierten Areals zielt (149.), hat die zweite Strategie weniger die Ursache des ischämischen Infarkts, sondern vielmehr die biochemischen und metabolischen Veränderungen, die in Folge des sistierten Blutflusses im Schadensgebiet auftreten, im Visier (150.).
+
+
+Bei diesen biochemischen und metabolischen Veränderungen handelt es sich um eine Vielzahl komplexer und miteinander verknüpfter Prozesse der Apoptose, der Inflammation, des oxidativen Stresses, der neurovaskulären Schädigung, der Genese elektrophysiologischer Abnormitäten sowie der durch Glutamat vermittelten Exzitotoxizität (24.; 150.). Über eine exogen vermittelte Beeinflussung dieser Prozesse müsste den Neuronen die Möglichkeit gegeben werden, eine ischämische Phase und deren Folgen besser zu tolerieren, so dass sich auf diesem als Neuroprotektion bezeichneten Wege die Schäden nach einem Schlaganfall reduzieren lassen.
+
+
+Eine weitere Möglichkeit, die zwar weniger Einfluss auf das Ausmaß des neurologischen Schadens und die Größe des Infarktvolumens hat, dafür aber bei der Mortalität infolge von Begleitinfektionen nach einem Schlaganfall eine umso bedeutendere Rolle spielt, ist eine effektive antibiotische Wirkung der potentiellen Substanz, welche die klinischen Folgen einer durch den Schlaganfall induzierten Immunsuppression senken kann (145.).
+
+
+Gerade der an erster Stelle genannte Mechanismus der Neuroprotektion ist über die Jahre durch eine Vielzahl von Untersuchungen genauer beleuchtet worden (150.). Eine wichtige
+18Komponente im Konzept der Neuroprotektion ist dabei die Prävention oder Reduktion exzitotoxischer Effekte, die durch erhöhte extrazelluläre Konzentrationen des exzitatorisch wirkenden Glutamats bedingt sind (151.; 152.).
+
+Da sich durch einige Veröffentlichungen in der letzten Zeit die Hinweise gemehrt haben, dass Ceftriaxon über eine Modulation des GLT-1-Systems im Gehirn eine potentielle Neuroprotektion vermitteln kann (153.; 154.), wurde in dieser Arbeit unter anderem untersucht, welchen Einfluss Ceftriaxon auf die Akutmortalität, die neurologische Situation und die Größe des infarzierten Areals nach einem Schlaganfall in vivo hat.
+
+
+1.9. Experimentelle Schlaganfallmodelle in der Ratte
+1.9.1 Middle Cerebral Artery Occlusion (MCAO) in WistarrattenDie operative Induktion eines Schlaganfalls in der Ratte durch Okklusion der mittleren Zerebralarterie mit anschließender Reperfusion (MCAO) simuliert die Situation im Patienten nach ischämischen Schlaganfall und wird eingesetzt um die verschiedenen Abläufe, die während und nach einem Schlaganfall auftreten, zu untersuchen oder zur Überprüfung der Wirksamkeit neuer Substanzen. Die hier mittels Faden erzeugte fokale Ischämie mit anschließender Reperfusion ist neuropathologisch durch einen Infarkt im Mediastromgebiet gekennzeichnet. Die normotensive männliche Wistarrate wird für die Wirksamkeitsprüfung und Toxizitätsprüfung im Rahmen der klinischen Zulassung von Substanzen eingesetzt und stellt somit ein gutes Modell zur Untersuchung von blutdruckunabhängigen neuroprotektiven Substanzen dar. Weiterhin soll die Vorbehandlung die Situation im Patienten nachstellen, der aufgrund von Hypertonie unter einer solchen Medikation steht, wenn er einen Schlaganfall erleidet. Eingeschränkt muss jedoch eingeräumt werden, dass die Patienten häufig multimorbide sind während das Versuchstier vor Versuchsbeginn gesund ist und keine anderen Vor- oder Begleiterkrankungen hat, die ggf. die Wirkung der zu untersuchenden Substanz beeinflussen können. Alle Versuche wurden erst nach vorheriger Genehmigung durch das LAGeSo und die §15 Kommission durchgeführt. Hier wurden humane Endpunkte als Abbruchkriterien definiert. Entsprechend dieser Endpunkte und in Übereinstimmung mit der Literatur liegt die Akutmortalität in unserem MCAO Model in der Wistarratte in den unbehandelten Schlaganfallgruppen im Mittel bei 30%.
+
+Es sind verschiedenen Methoden bekannt, um einen Hirninfarkt im Tier zu induzieren(155.; 156.), die alle folgende Bedingungen erfüllen müssen: die Methode muss reproduzierbar sein; d.h. bei gleicher Operation soll der Infarkt eine ähnliche Größe und Lokalisation im Gehirn haben, zwischen den einzelnen Tieren und mit der Situation im Menschen vergleichbar und dabei möglichst schonend für das Tier sein. Nach Berücksichtigung dieser Faktoren hat sich der intraluminale Verschluss der mittleren Zerebralarterie (intraluminal middle cererbral artery occlusion MCAO) durchgesetzt und ist heute die am häufigsten angewendete Methode bei Untersuchungen zur fokalen zerebralen Ischämie (157.). Die MCAO ist leicht durchführbar, das Gewebe außerhalb des Infarkts wird relativ wenig geschädigt und die Tiere entwickeln ausreichend große, vergleichbare Infarkte mit deutlicher Penumbra, was diese Methode besonders für Wirksamkeitsstudien neuer Substanzen bedeutsam macht (158.). Die MCAO wurde erstmals 1986 von Koizumi et al. beschrieben und ist inzwischen häufig modifiziert und verbessert worden(155.; 159.). Grundprinzip dieser Operationsmethode ist es, durch einen in der A. carotis interna vorgeschobenen monofilen Nylonfaden den Abgang der A. cerebri media zu verschließen, so dass es in deren Versorgungsgebiet zu einer Ischämie kommt. Die Dicke des Fadens, wie weit er vorgeschoben wird, ob eine Reperfusion stattfindet, indem man nach einem definierten Zeitraum den Faden wieder entfernt, wie lange diese Zeitspanne ist oder ob es ein permanenter Verschluss der Arterie ist, sind die Parameter, die die Größe und Lage des Schlaganfalls beeinflussen (160.) und in verschiedenen Studien unterschiedlich gewählt werden. Neben der gewählten Operationsmethode, konnte auch ein Einfluss der Anästhesie (161.; 162.) und des gewählten Rattenstammes (163.) auf die experimentellen Ergebnisse nachgewiesen werden. In den hier vorliegenden Interventionsstudien wurde ein 4-0 monofiler Nylonfaden gewählt, dessen Spitze abgerundet und mit Kunststoff umhüllt und 18 mm weit distal der Bifurcation der A. carotis communis in die A. carotis interna vorgeschoben wurde. Nach 90 min. wurde der Faden herausgezogen und es fand eine Reperfusion des geschädigten Gebiets statt (84.). Durch diese Reperfusion kommt es zu ähnlichen Vorgängen im Rattengehirn, wie sie im Menschen nach einem vorübergehenden Media- Infarkt ablaufen. Da sowohl der Pathomechanismus durch den Verschluss eines Gefäßes als auch die pathologische Anatomie eine weitgehende Übereinstimmung mit dem ischämischen Schlaganfall beim Menschen aufweisen, wird den Modellen der fokalen zerebralen Ischämie gegenüber denen der globalen Ischämie eine größere Relevanz beigemessen und das Modell eignet sich für Interventionsstudien.
+
+1.9.2MCAO bei doppelt transgenen Ratten (humanes Renin und humanes Angiotensinogen)
+Um die neuroprotektiven Effekte des Renin-Inhibitors Aliskiren untersuchen zu können wurden doppelt-transgene Ratten (dTGR) verwendet, da Aliskiren hochspezifisch für humanes-Renin ist. Die doppelt-transgenen Ratten (dTGR) sind ein humanisiertes Modell (164.; 165). Das humane „stroke induced immunosuppression syndrome (SIDS)“ -Konstrukt, bestehend aus dem gesamten humanen AOGEN-Gen mit fünf Exons und 4 Introns, wird am205´-Ende von 1.3 kB und am 3´-Ende von 2.4 kB flankiert. Das humane Reninkonstrukt besteht aus dem gesamten genomischen Bereich des Reningens mit 10 Exons und 9 Introns und wird von 3.0 kB der 5´-Region des Promotors und 1.2 kB der 3´-Sequenz umgeben (166.). Sprague-Dawley-Ratten dienten hierfür als Wildtypstamm. Die dTGR gingen aus einer Kreuzung der homozygoten humanen AOGEN-Linie und der homozygoten humanen Renin-Linie hervor. Neben der Expression des eigenen RAS exprimieren die dTGR zusätzlich humanes Angiotensinogen und humanes Renin. Ratten, die entweder humanes Renin oder humanes Angiotensinogen exprimieren, sind normoton. Humanes Angiotensinogen wird nur von humanem Renin gespalten, während Angiotensinogen von Ratten nur als Substrat von Ratten-Renin dient. Da das aus beiden Systemen entstehende Ang I identisch ist und anschließend auf gleiche Art in Ang II umgewandelt wird, besitzen die dTGR enorm hohe Ang II-Spiegel (167.) und entwickeln unbehandelt Bluthochdruck, Niereninsuffizienz mit ausgeprägter Albuminurie, Vaskulopathie und schwere linksventrikuläre Hypertrophie. Im Alter von sieben bis acht Wochen versterben diese Tiere (167.; 168). Durch den Schweregrad der Organschädigung ist dieses Modell in besonderer Weise geeignet, um die Pathogenese von Ang II-bedingten Organ- und Gefäßschäden, ebenso wie Renin-Inhibitoren, zu untersuchen. Aliskiren hat in diesem Modell bereits gezeigt, dass es die aufgrund erhöhter Ang II-Spiegel auftretenden kardiovasculären und renalen Endorganschäden verhindern kann (169.). Schlaganfallstudien sind bisher in diesem Model nicht durchgeführt worden. Es wurde analog zu 1.9.1 operativ eine transiente 90 minütige ischämie mit anschließender Reperfusion mittels Fadenmodell durchgeführt.
+
+1.9.3Stroke prone spontaneously hypertensive rat (SHR-SP)
+Das Model der SHR-SP ist einzigartig, um kardiovaskuläre Krankheiten zu studieren. Der Phänotyp der SHR-SP ist polygen und mit einer Überaktivität des Renin-Angiotensin Systems assoziiert. Mit einer Inzidenz von über 80% in der 30. Lebenswoche können spontan multiple zerebrovaskuläre Läsionen verschiedenen Ausmaßes auftreten.
+
+Bei den SHR-SP handelt es sich um einen Inzuchtstamm mit genetisch fixiertem Bluthochdruck und einer Salzsensitivität, die gehäuft zu Schlaganfällen führt (170.; 171). Dieser Stamm wurde aus spontan hypertensiven Ratten in Kyoto ab 1970 von Yomori und Okamoto als SHR-SP-Ratten herausgezüchtet. Hierbei wurde eine selektive Inzucht von SHR-Nachkommen vorgenommen, deren Eltern an einem Schlaganfall verstorben waren (171.). Die SHR wiederum stammen ursprünglich von spontan hypertensiven Wistar Kyoto Ratten ab (172.). Die Ratten entwickeln schrittweise im jungen erwachsenen Alter von 12-15 Wochen eine arterielle Hypertonie, die bis zu 220- 240 mmHg in der 20 Lebenswoche erreichen kann. Daraus resultiert schließlich ein Multisystemendorganschaden mit vaskulärer
+21und kardialer Hypertrophie, Myokardfibrose, Glomerulosklerose und Schlaganfall, an denen sie versterben (173.). Durch eine Salzdiät mit 4% NaCl und 0,75% Kalium im Futter und 1% NaCl im Trinkwasser wird die Manifestation zerebraler Infarkte auf über 80% forciert (170.; 171.). Histologische Untersuchungen von Gehirnen der SHR-SP zeigten Veränderungen in den zerebralen Gefäßen, die als fibrinoide Nekrose bezeichnet und wahrscheinlich durch eine vermehrte Aktivität von Makrophagen ausgelöst werden (174.; 175.). Die gleichen Veränderungen konnten auch beim Schlaganfall im Menschen nachgewiesen werden (176.). Genauere Untersuchungen zur Pathologie des Schlaganfalls in SHR-SP zeigten, dass es zu einer deutlichen Reduzierung des zerebralen Blutflusses kommt, sogar noch bevor erste neurologische Störungen auftreten (177.). Später kommt es weiterhin zu einer gestörten Permeabilität der Gefäße durch Anschwellen der Perizyten (178), ebenso wie endotheliale Dysfunktion, z.B. einer verminderten Antwort der Gefäße auf vasodilatatorische Substanzen (179.). Durch diese pathogenetische Ähnlichkeit zwischen der Entwicklung eines Schlaganfalls und dessen späterem Verlauf in SHR-SP und Mensch eignet sich dieses Tiermodell gut für Studien zur Schlaganfall Prävention.
+
+2. Eigene Arbeiten
+2.1.Die Vorbehandlung mit Candesartan verbessert im Vergleich zu Ramipril die neurologischen Schäden nach Schlaganfall und stimuliert das Neurotrophin BDNF/TrkB System.
+
+Krikov M*, Thone-Reineke C*, Müller S, Villringer A, Unger T. Candesartan but not ramipril pretreatment improves outcome after stroke and stimulates neurotrophin BNDF/TrkB system in rats. J Hypertens. 2008 Mar;26(3):544-52
+Viele Studien belegen, dass mit Hilfe der Blockierung des RAS mit ACE-Inhibitoren oder ARBs die Inzidenz von Schlaganfällen verringert werden kann (66.; 72.; 78.-81.). Darüber hinaus zeigen tierexperimentelle Untersuchungen, dass insbesondere ARBs Blutdruck- unabhängige, neuroprotektive Wirkungen vermitteln, welche die
+Schlaganfallpathophysiologie beeinflussen können (59.; 82.-86.). Unter dieser Vorstellung könnte die Therapie mit einem ARB der Therapie mit einem ACE-Inhibitor überlegen sein. Im Rahmen dieser Interventionsstudie sollen die neuroprotektiven blutdruckunabhängigen Effekte vom ARB Candesartan im Vergleich mit dem ACE-Hemmer Ramipril auf den neurologischen Status im Zusammenhang mit dem Neurotrophinsystem nach fokaler zerebraler Ischämie bei Ratten untersucht werden.
+
+2.2.Vergleich zwischen Mono-und Kombinationstherapie mit Candesartan und Pioglitazon in der transienten fokalen zerebralen Ischämie in der RatteU, Unger T, Thoene-Reineke C. Comparison between single and combined treatment with candesartan and pioglitazone following transient focal ischemia in rat brain. Brain Res. 2008 May 7;1208:225-33.
+
+In den letzten Jahren wurde in verschiedenen Studien gezeigt, dass die systemische Behandlung mit ARB´s (59.; 82.-86.) oder PPAR-γ-Liganden (180.; 181.) verschiedene positive Effekte in der zerebralen Ischämie hat.
+
+
+In der vorliegenden Arbeit sollen durch die Vorbehandlung mit dem AT1-Rezeptorblocker Candesartan und dem Insulinsensitizer und PPAR-γ-Liganden Pioglitazon, vor der Induktion eines Schlaganfalls durch die Okklusion der mittleren zerebralen Arterie, mögliche Verbesserungen des neurologischen Schadens und eine Reduzierung der Infarktgröße gezeigt werden. Zusätzlich sollen durch eine kombinierte Behandlung mit Candesartan und Pioglitazon mögliche synergistische Effekte auf die neurologischen Auswirkungen und das Infarktvolumen nach dem Schlaganfall demonstriert werden. Es wurden zugrunde liegende Mechanismen des möglichen Synergismus zwischen AT1-Rezeptorblockade und PPAR-γ- Aktivierung untersucht. Weiterhin soll gezeigt werden, dass die Verbesserung des neurologischen Schadens und die Reduzierung der Infarktgröße aus einer Inhibierung proinflammatorischer Mediatoren (TNF-α, CXCL-1 und NF-кB) resultiert. Um die molekularen Mechanismen zwischen dem Renin-Angiotensin-System und PPAR-γ näher zu identifizieren, wurden mittels eines Inflammationsmodells in in vitro (Astrozyten)-Studien weitere Untersuchungen durchgeführt.
+
+2.3.Präventions- und Interventionsstudien mit Telmisartan, Ramipril und der Kombinationstherapie in Schlaganfallmodellen der Ratte.
+
+Thoene-Reineke C, Rumschüssel K, Schmerbach K, Krikov M, Wengenmayer C, Godes M, Mueller S, Villringer A, Steckelings U, Namsolleck P, Unger T. Prevention and intervention studies with telmisartan, ramipril and their combination in different rat stroke models. PLoS One. 2011;6(8):e23646. Epub 2011 Aug 25.
+
+
+In klinischen Studien in Patienten mit Hypertonie oder einem erhöhten kardiovaskulären Risiko wurden die Effektivität von ARB´s und ACE Hemmern in der primären und sekundären Schlaganfallprävention belegt (66.; 72.; 79.-81.). Durch die Kombination aus ARB´s und ACE Hemmern sollen sich die Vorteile beider Substanzgruppen addieren bzw. Nachteile wie das Escape-Phänomen kompensiert werden.
+
+
+Unter dieser Vorstellung könnte die Kombinationstherapie aus Telmisartan und Ramipril der jeweiligen Monotherapie überlegen sein. Hinsichtlich der Schlaganfallinzidenz konnte die ONTARGET-Studie keinen Unterschied zwischen beiden Substanzgruppen feststellen. Zudem erbrachte die Kombinationstherapie aus beiden Substanzgruppen keinen zusätzlichen Nutzen (88.). Jedoch war es anhand der Studienergebnisse nicht möglich, Aussagen über Unterschiede bezüglich der neurologischen Auswirkungen zwischen den Gruppen zu machen.
+
+
+In der vorliegenden Studie werden Kopf an Kopf, die Effekte des AT1-Rezeptor Blockers Telmisartan und des ACE Inhibitors Ramipril und deren Kombinationstherapie untersucht. Analog zur Ontarget Studie wird in der Präventionsstudie in SHR-SP Ratten die Schlaganfallinzidenz analysiert und darüber hinaus in einer Interventionsstudie der akuten zerebralen Ischämie in normotensiven Ratten die mögliche Neuroprotektion.
+
+
+In der Präventionsstudie zeigt sich analog zur ONTARGET-Studie, dass in allen Behandlungsgruppen gleichermaßen die Schlaganfallinzidenz signifikant reduziert wird, das Überleben verlängert wird und der neurologische Schaden verringert wird. In der Interventionsstudie im akuten Schlaganfallmodell in normotensiven Ratten ist Telmisartan und die Kombinationstherapie aus Telmisartan und Ramipril der Monotherapie mit Ramipril hinsichtlich der neurologischen Schäden, dem Infarktvolumen, der Inflammation und dem neuronalen Überleben überlegen.
+
+
+Telmisartan, Ramipril und die Kombinationstherapie haben gleichermaßen positive Effekte hinsichtlich der Schlaganfallinzidenz, wenn der determinierende Faktor Blutdruck gleichermaßen gesenkt wird.
+
+
+Dagegen sind im akuten Schlaganfallmodell Telmisartan und die Kombinationstherapie aus Telmisartan und Ramipril der Monotherapie mit Rampirl hinsichtlich der Neuroprotektion überlegen.
+
+2.4.Die Effekte von Aliskiren im Schlaganfall in humanen Renin und Angiotensinogen doppelt transgenen RattenSchmerbach K, Pfab T, Zhao Y, Culman J, Mueller S, Villringer A, Muller DN, Hocher B, Unger T, Thoene-Reineke C. Effects of aliskiren on stroke in rats expressing human renin and angiotensinogen genes. PLoS One. 2010 Nov 29;5(11):e15052.
+
+Renininhibitoren wurden primär als Antihypertensiva entwickelt. Sie reduzieren sowohl in hypertensiven Tiermodellen als auch im Patienten mit essentieller Hypertonie, den mittleren arteriellen Blutdruck oder den systolischen und diastolischen Blutdruck ohne Einfluss auf die Herzrate (90.; 91.).
+
+
+Die Protease Renin spielt eine Schlüsselrolle im RAS, da sie die Hydrolyse von Angiotensinogen zu Ang I katalysiert. Renininhibitoren stellen einen neuen Therapieansatz zur Behandlung der Hypertension und des Schlaganfalls dar, da sie den ersten Umsatz limitierenden Schritt im RAS blockieren; im Vergleich zum ACE-Hemmer kann dieser katalysierende Schritt nicht umgangen werden, somit haben die Renininhibitoren möglicherweise ein größeres antihypertensives Potential im Vergleich zum ACE-Hemmer (29.; 90.); Renininhibitoren sind sehr spezifisch, da Angiotensinogen das einzige Substrat für Renin darstellt. Aliskiren ist ein potenter und selektiver Renininhibitor. Aliskiren ist in gebräuchlichen Dosierungen spezifisch für humanes Renin, darum kann dieses nur in einem humanisierten Modell mit überexprimierendem humanen Renin und Angiotensinogen wie den dTGR h-REN x h-AOGEN Ratten (DTGR) untersucht werden. DTGR entwickeln maligne Hypertonie mit Endorganschäden und werden nicht älter als 8 Wochen (169.). In DTGR wurde bisher der Schlaganfall noch nicht induziert. In dieser experimentellen Studie wird erstmals in DTGR der Schlaganfall untersucht und es ist die erste Untersuchung zum Aliskiren im Schlaganfall. Es sollen die möglichen neuroprotektiven Effekte der systemischen Vorbehandlung mit Aliskiren im Vergleich zu Candesartan in Bezug auf Mortalität, neurologische Auswirkungen und Inflammation untersucht werden.
+
+2.5.Ein neuer Therapieansatz in der primären Schlaganfallprävention: Verbessertes Überleben durch simultane Inhibierung des Endothelin Konversions Enzyms und der neutralen Endopeptidase in SHR-SP.
+
+Wengenmayer C, Krikov M, Mueller S, Lucht K, Villringer A, Hocher B, Unger T, Thoene- Reineke C. Novel therapy approach in primary stroke prevention: simultaneous inhibition of endothelin converting enzyme and neutral endopeptidase in spontaneously hypertensive, stroke-prone rats improves survival. Neurol Res. 2011 Mar;33(2):201-7.
+
+
+Eine der Hauptursachen des Schlaganfalls und damit auch der Haupteinsatzbereich für neue Medikamente ist der Bluthochdruck (182.).
+
+
+Ein in die Blutdruckregulation eingreifendes System ist das Endothelin System. Endothelin-1 (ET-1) ist einer der potentesten Vasokonstriktoren und damit auch mitverantwortlich in der Entwicklung des hohen Blutdrucks und Endorganschäden (183.). Ebenfalls an der Regulierung des Blutdrucks beteiligt sind die natriuretischen Peptide: ANP, BNP und CNP. Sie wirken vasodilatativ und damit blutdrucksenkend und hemmen die Endothelinfreisetzung. In verschiedenen Studien wurden für ET-1 negative und für die natriuretischen Peptide positive Effekte bei zerebrovaskulären Erkrankungen nachgewiesen (110.; 111.; 140.-142.).
+
+
+Da das Endothelin synthetisierende Enzym ECE und die natriuretische Peptide abbauende, neutrale Endopeptidase beide zu den Zink-Metalloproteasen gehören und strukturell eng miteinander verwandt sind, ist es möglich, beide mit einer Substanz zu hemmen und so die Konzentration von Endothelin1 zu senken und die der natriuretischen Peptide zu erhöhen. In dieser Präventionsstudie soll erstmals die simultane Inhibierung des Endothelin Konversionsenzyms und der neutralen Endopeptidase durch SLV 338 im primären Schlaganfall untersucht werden.
+
+2.6.Das Beta-Lactam-Antibiotikum Ceftriaxon verbessert dramatisch das Überleben, erhöht die Glutamataufnahme und induziert Neurotrophine im Schlaganfall. Thöne-Reineke C, Neumann C, Namsolleck P, Schmerbach K, Krikov M, Schefe JH, Lucht K, Hörtnagl H, Godes M, Müller S, Rumschüssel K, Funke-Kaiser H, Villringer A, Steckelings UM, Unger T. The beta-lactam antibiotic, ceftriaxone, dramatically improves survival, increases glutamate uptake and induces neurotrophins in stroke. J Hypertens. 2008 Dec;26(12):2426-35.
+
+Eine lokale Ischämie im Gehirn führt zu einem Anstieg der extrazellulären Glutamatkonzentration (25.; 26.). Durch einen verstärkten Transport des Glutamats aus dem Extrazellulärraum kann die exzitotoxische Wirkung des Glutamats auf Neurone verringert werden. Durch Rothstein et al. ist beschrieben worden, dass Ceftriaxon neuroprotektive Eigenschaften im Gehirn entwickeln kann, welche auf eine Expressionssteigerung des astrozytären Glutamattransporters GLT-1 zurückzuführen seien (153.). Diese Untersuchungen wurden im Kontext der amyotrophen Lateralsklerose im Mausmodel durchgeführt und diskutiert. In der vorliegenden Arbeit wurde der Einfluss von Ceftriaxon auf den GLT-1 in einer Interventionsstudie der fokalen zerebralen Ischämie in der Ratte untersucht und weitere zugrunde liegende Mechanismen in in vitro Studien in primären Astrozyten untersucht.
+
+
+3. Diskussion
+Der Schlaganfall stellt zurzeit eine der größten globalen medizinischen, gesundheitspolitischen und sozioökonomischen Aufgaben dar (1.; 2.); er bleibt im aktuellen WHO-Bericht weltweit die dritthäufigste Todesursache nach koronarer Herzkrankheit (KHK) und malignen Neoplasien und die häufigste Ursache für Langzeitbehinderung (2.).
+
+Die einzige zugelassene, kausal wirksame Therapie des akuten Schlaganfalls, die rekanalisierende Therapie mittels rtPA, kann zur Zeit bei höchstens ein bis zwei Prozent aller betroffenen Menschen durchgeführt werden und muss innerhalb der ersten drei Stunden nach Schlaganfall erfolgen (184.).
+
+
+In Interventionsstudien des experimentellen Schlaganfalls wurden in den letzten 15 Jahren neuroprotektive Ansätze entwickelt (185.). Heute weiß man, dass Mechanismen wie Exzitotoxizität, Inflammation und Apoptose im Rahmen einer komplexen Schadenskaskade verlaufen und vielversprechende Angriffspunkte für eine neuroprotektive Therapie des Schlaganfalles darstellen können (24.; 185.). Gleichermaßen ist heute hinlänglich bekannt, dass kardiovaskuläre Ereignisse wie der Schlaganfall in direkter Beziehung zu arterieller Hypertonie stehen (11.; 12). Vor allem hypertoniebedingte Strukturumbildungen und funktionelle Veränderungen der Blutgefässe erhöhen das Risiko für einen Schlaganfall enorm (12). Daher ist die oberste Prämisse in der Prävention des Schlaganfalls, die antihypertensive Behandlung mit dem Ziel der Reduktion des mittleren arteriellen Blutdrucks.
+
+
+Das RAS spielt eine herausragende Rolle innerhalb der kardiovaskulären Homöostase und Blutdruckregulation (45.). Ang II, das Haupteffektorpeptid des RAS, übt seine pathologischen Effekte nahezu ausschließlich über den AT1-Rezeptor aus. Dabei führt eine AT1-Rezeptoraktivierung nicht nur zu Hypertonie, sondern auch zu Inflammation, Zellproliferation, linksventrikulärer Hypertrophie, Bildung freier Sauerstoff-Radikale, endothelialer Dysfunktion und anderen pathologischen Prozessen (45.). Dieser ungünstigen Wirkung von Ang II am AT1-Rezeptor kann möglicherweise zum Teil über eine AT2-Rezeptorstimualtion entgegen gewirkt werden. Heute stellt die pharmakologische Blockade des RAS eine der effektivsten und meist verbreiteten therapeutischen Ansätze in der Behandlung kardiovaskulärer und renaler Erkrankungen dar. Diese Blockade wird durch verschiedene Wirkmechanismen erreicht – zum einen durch Inhibierung der Ang II-Bildung mit ACE-Hemmern, Blockade der Ang II-Effekte am AT1-Rezeptor mit ARBs, durch direkte Renin-Inhibition oder durch Stimulierung des AT2-Rezeptors mit der neuen, noch in der Entwicklung befindlichen Substanz C21. Eine Folge der Inhibierung des
+79RAS an den verschiedenen Punkten entlang der Kaskade sind allerdings auch Effekte auf andere Komponenten des Systems, die möglicherweise zu einer unvollständigen Blockade des RAS führen und damit zu ungünstigen Auswirkungen auf den Patienten. Eine Möglichkeit zur Lösung dieses Problems stellen Kombinationsbehandlungen dar, und eine andere sind neue Indikationen für bewährte Wirkstoffe (29).
+
+In der ersten Originalarbeit wurde der AT-1 Antagonist Candesartan im direkten Vergleich zum ACE-Hemmer Ramipril in equipotenten subhypertensiven Dosen in einer Interventionsstudie im ischämischen Schlaganfallmodell der Ratte untersucht. Hier zeigte sich der AT-1 Antagonist gegenüber dem ACE-Hemmer hinsichtlich des neurologischen Schadens und des Schlaganfallvolumens als überlegen. Seine Wirkung war assoziiert mit einer Aktivierung des Neurotrophin BDNF/TrkB Systems. In der zweiten Orginalarbeit wurde der AT-1 Antagonist Candesartan und der PPARgamma-Aktivator Pioglitazon sowie die Kombination beider Substanzen in einer Interventionsstudie im MCAO-Modell der Ratte untersucht. Die Kombinationstherapie war hinsichtlich der Infarktvolumina und des neurologischen Schadens den jeweiligen Monotherapien nicht überlegen. Es scheint hier keinen Synergismus zwischen beiden Substanzklassen zu geben.
+
+
+In der dritten Orginalarbeit wurden in Analogie zur ONTARGET-Studie spontan- hypertensive Ratten (SHR) – stroke prone für zwölf Wochen mit äquipotenten Dosen Telmisartan, Ramipril oder ihrer Kombination behandelt. Der Blutdruck in den unbehandelten Tieren stieg bis auf maximal 239 mmHg an, wobei er in allen Behandlungsgruppen stabil zwischen 140 und 150 mmHg blieb. Auf zusätzliche neuroprotektive Effekte der Kombinationsgruppe gab es innerhalb dieser Studie keine Hinweise. Am Studienende waren 50% der Tiere der Kontrollgruppe verstorben, während im Gegensatz dazu die Tiere aller Behandlungsgruppen die gesamte Studiendauer überlebten. Durch eine MRT-gestützte Bildgebung konnten in einigen Gehirnen von Kontrolltieren hyperintense Läsionen und Einblutungen dokumentiert werden. In allen Behandlungsgruppen waren über die gesamte Studiendauer keine pathologischen Veränderungen im Gehirn feststellbar. Die mit ischämischen Schlaganfällen einhergehenden neurologischen Defizite waren in der Kontrollgruppe signifikant ausgeprägter als die in den Behandlungsgruppen. Eine Kombinationsbehandlung aus ACE-Hemmer und ARB wies in der Präventionsstudie keine zusätzlichen positiven Effekte hinsichtlich Neuroprotektion und Mortalität im Vergleich zu den entsprechenden Monotherapien auf. Dagegen zeigten sich in der Interventionsstudie im MCAO-Modell Telmisartan und die Kombination aus Temisartan und Ramipril der Monotherapie mit Ramipril überlegen.
+
+Die vierte Studie dieser Arbeit war eine Interventionsstudie im akuten experimentellen Schlaganfallmodell, die auf mögliche neuroprotektive Effekte einer systemischen Behandlung mit antihypertensiven Dosen von Aliskiren im Vergleich zu Candesartan in doppelt-transgenen (hRen- und hAOGEN-)Ratten abzielte. Beide Behandlungsoptionen konnten die Akutmortalität des Schlaganfalls im Vergleich zur Kontrollgruppe mit 33.3% auf unter 10% senken. Durch eine fünftägige Vor- und eine siebentägige Nachbehandlung mit Aliskiren verbesserten sich die neurologischen Funktionen der Tiere nach dem Schlaganfall im Vergleich zu Candesartan signifikant. Die innerhalb der ersten 24 Stunden aufgetretenen Krampfanfälle in unbehandelten Tieren konnten durch Aliskiren oder Candesartan vollständig verhindert werden. In der Region des ischämischen Kerns war Aliskiren in der Lage, die nach einem Schlaganfall auftretenden inflammatorischen Prozesse zu reduzieren, wie exemplarisch für die Markergene CXCL-1, TNF-α und IL-6 gezeigt werden konnte. Ein direkter Vergleich legt nahe, dass bei doppelt-transgenen Ratten eine Behandlung mit Aliskiren vor- und während einer zerebralen Ischämie mindestens ebenso effektiv ist wie Candesartan. Die verbesserten neurologischen Funktionen in der Aliskirengruppe waren blutdruck-unabhängig und können zum Teil durch die primären anti-inflammatorischen Mechanismen erklärt werden.
+
+Ein anderes in die Blutdruckregulation und den Schlaganfall eingreifendes System ist das Endothelinsystem. Einen völlig neuen präklinischen Ansatz stellt die fünfte Orginalarbeit dar. Hier wird durch den kombinierten ECE/NEP Hemmer SLV338 ein neuer therapeutischer Ansatz für die primäre Schlaganfallprävention aufgezeigt. Dieser Wirktstoff hemmt die Bildung von ET-1 durch Hemmung des ECE; gleichzeitig bewirkt es durch Hemmung der neutralen Endopeptidase einen Anstieg der natriuretischen Peptide. Es zeigte sich im SHR-SP Präventionsmodell, dass durch die Behandlung mit SLV338 die Mortalität signifikant gesenkt werden konnte und zwar unabhängig vom Blutdruck. Dieses Ergebnis ist vielversprechend und muss in weiteren Studien verifiziert werden, insbesondere der zugrunde liegende Wirkmechanismus.
+
+
+Die einmalige Nachbehandlung mit Ceftriaxon in klinischer Dosierung im akuten Schlaganfallmodell in Wistar Ratten führte zu einer signifikanten Reduktion der akuten Schlaganfallmortalität und zu einer Verbesserung des Schlaganfall-bedingten neurologischen Defizits, bedingt durch eine verringerte Exzitotoxizität, da die Aktivierung des GLT1 Transporters zu einer verminderten Glutamattoxizität führt. Darüber hinaus kam es zur Stimulierung des Neurotrophinsystems und zu einem signifikanten Anstieg überlebender Neurone in der Penumbra.
+
+Die sechste Orginalarbeit stellt hier ein erfolgversprechendes Ergebnis dar, das in einer klinischen Studie verifiziert werden sollte. Pleiotrop-neuroprotektive Effekte sind im Schlaganfall auch bei anderen Antibiotika beschrieben (186.; 187.).
+
+Die Frage, warum in tierexperimentellen Studien pharmakologisch wirksame Substanzen in klinischen Studien am Menschen nicht überzeugen, wird in den letzten Jahren in der Literatur häufig diskutiert. Dabei werden vor allem zwei wesentliche Gründe als Ursachen für das Scheitern klinischer Neuroprotektionsstudien genannt: zum einen bildet die Auswahl der tierexperimentellen Modelle und das Design prä- klinischer Studien die klinische Situation des Schlaganfallpatienten nicht hinreichend ab – damit sind die verwendeten Tiermodelle nicht ausreichend auf den Menschen übertragbar. Zum anderen werden beim Design klinischer Studien die Ergebnisse prä-klinischer Studien nicht hinlänglich berücksichtigt oder gar fehlinterpretiert. Werden zukünftige experimentelle Schlaganfallmodelle sorgfältiger geplant, durchgeführt, ausgewertet und interpretiert und die ohnehin unendlich komplexen Prozesse im Gehirn nach Schlaganfall bedacht, rückt eine pharmakologische Neuroprotektion möglicherweise in greifbare Nähe.
+
+4. Zusammenfassung
+In dieser kumulativen Habilitationsschrift werden insgesamt 6 Orginalarbeiten der Autorin zum Thema Präventions- und Interventionsstudien im experimentellen Schlaganfall der Ratte vorgestellt.
+
+In der ersten Interventionsstudie an Wistarratten, die einer Middle Cerebral Artery Occlusion (MCAO) unterworfen wurden, führte die systemische Vorbehandlung mit subantihypertensiven Dosen des ARB Candesartan zur Neuroprotektion nach fokaler zerebraler Ischämie assoziiert mit einer Aktivierung des Neurotrophin BDNF/TrkB Systems, während der ACE Hemmer Ramipril in subantihypertensiven Dosierungen diese Effekte nicht zeigte. Daraus kann gefolgert werden, dass Hypertoniker, die unter Langzeittherapie stehen in Bezug auf die Neuroprotektion von einem ARB besser profitieren als von einem ACE-Hermmer, was durch klinische Studien belegt ist (72.; 78.-80.).
+
+
+In einer weiteren Interventionsstudie an Wistarratten mit MCAO erwies sich die Kombinationstherapie aus Candesartan und Pioglitazone als gleichermaßen effektiv wie die jeweilige Monotherapie. Die Behandlung mit Candesartan, Pioglitazon und der Kombination beider Substanzen reduzierte den neurologischen Schaden 24 h und 48 h nach MCAO sowie das Infarktvolumen und die zerebrale Inflammation. Daraus kann man schließen, dass ein direkt synergistischer neuroprotektiver Effekt zwischen ARB und TZD unwahrscheinlich ist und Patienten mit Diabetes mellitus und oder metabolischem Syndrom, die einen Schlaganfall erleiden, von dieser Kombinationstherapie hinsichtlich einer Verbesserung der Schlaganfall-Symptomatik nicht profitieren.
+
+
+In der Präventionsstudie an SHR-SP zeigten sich Telmisartan, Ramipril und die Kombinationstherapie mit diesen beiden Substanzen nicht unterschiedlich hinsichtlich Schlaganfallinzidenz und neurologischer Schäden. Die Kombinationstherapie war der jeweiligen Monotherapie nicht überlegen, wobei jedoch niedrigere Dosierungen der Einzelsubstanzen in der Kombinationstherapie zum gleichen Erfolg führten. Andererseits waren Telmisartan und die Kombination aus Telmisartan und Ramipril in der Interventionsstudie an Wistarratten mit MCAO der Monotherapie mit Ramipril im Bezug auf die Neuroprotektion überlegen.
+
+
+In der Interventionsstudie mit doppelt transgenen Ratten, die das humane Renin und Angiotensinogen überexprimieren, zeigt ein direkter Vergleich zwischen dem ARB Candesartan und dem Renininhibitor Aliskiren in diesem Tiermodell gleich gute Ergebnisse in Bezug auf die Verbesserung der neurologischen Defizite nach
+83Schlaganfall. Die Ergebnisse sind Blutdruck-unabhängig und sprechen für eine Neuroprotektion durch antiinflammatorische Wirkungen.
+
+Betrachtet man alle Ergebnisse der Studien, die in das RAS eingreifen, kann man schlussfolgern, dass in Bezug auf die Schlaganfallprävention eine erfolgreiche Blutdrucksenkung oberstes Ziel sein muss und die Substanzklassen hier gleichermaßen erfolgreich sind. Ist man aber unter Therapie als Risikopatient und erleidet einen Schlaganfall, dann ist das Gehirn möglicherweise unter ARB Behandlung bzw. Kombinationsbehandlung aus ARB und ACE besser geschützt als unter alleiniger Behandlung mit einem ACE-Hemmer. Die Kombinationstherapien aus TZD und ARB bzw. ACE und ARB erweisen sich gegenüber den Monotherapie mit ARB als nicht effizienter. Aliskiren ist in dem artifiziellen doppelttransgenen Rattenmodell dem ARB Candesartan als gleichwertig anzusehen. ARBs sind möglicherweise durch Ihre indirekten Wirkungen am AT2 Rezeptor den anderen Substanzklassen des RAS überlegen; dies wird bestätigt durch neueste Ergebnisse mit den neuen selektiven AT2 Agonisten Compound 21.
+
+
+In der Präventionsstudie in SHR-SP zeigt sich der kombinierte ECE/NEP Hemmer SLV338 als neuer therapeutischer Ansatz für die primäre Schlaganfallprävention, indem er die Schlaganfallinzidenz und signifikant die Mortalität senkte. Die Mechanismen sind offensichtlich blutdruckunabhängig und müssen in weiteren tierexperimentellen Studien untersucht werden.
+
+
+Schließlich führte in der Interventionsstudie an Wistar Ratten mit MCAO eine einmalige Nachbehandlung mit dem Antibiotikum Ceftriaxon zu einer massiven Reduktion der akuten Schlaganfallmortalität und zur Verbesserung des neurologischen Schadens. Es ist eine mögliche neue therapeutische Option zur Schlaganfallbehandlung. Ceftriaxon stimuliert das Neurotrophinsystem und die GLT1 Transporteraktivität, was in einem erhöhten Überleben der Neuronen in der Penumbra resultiert (188.). Ein derartiges Ergebnis, einer Schlaganfallbehandlung mit einem Antibiotikum ist im Tiermodell noch nicht gezeigt worden. Die Substanz ist klinisch geprüft und als Antibiotikum seit Jahren erfolgreich im Einsatz. Es wäre lohnenswert dieses Ergebnis in einer klinischen Studie an Schlaganfallpatienten zu verifizieren.
+
+5.Literaturangabe aus dem freien Text1.Thom T, Haase N, Rosamond W, Howard VJ, Rumsfeld J, Manolio T, Zheng ZJ, Flegal K, O'Donnell C, Kittner S, Lloyd-Jones D, Goff DC Jr, Hong Y, Adams R, Friday G, Furie K, Gorelick P, Kissela B, Marler J, Meigs J, Roger V, Sidney S, Sorlie P, Steinberger J, Wasserthiel-Smoller S, Wilson M, Wolf P; American Heart Association Statistics Committee and Stroke Statistics Subcommittee. Heart disease and stroke statistics--2006 update: a report from the American Heart Association Statistics Committee and Stroke Statistics Subcommittee. Circulation. 2006;113(6):e85-151.
+
+2.Statistisches Bundesamt 2010. Gesundheit. Todesursachen in Deutschland. Fachserie 12, Reihe 4. Artikelnummer: 2120400097004.
+
+
+3.Eschenfelder CC, Zeller JA, Stingele R. Schlaganfall: Ursachen und Klassifikation. Hamostaseologie. 2006;26(4):298-308.
+
+
+4.Kolominsky-Rabas PL, Heuschmann PU. Incidence, etiology and long-term prognosis of stroke. Fortschr Neurol Psychiatr. 2002;70(12):657-62.
+
+
+5.Grau AJ, Weimar C, Buggle F, Heinrich A, Goertler M, Neumaier S, Glahn J, Brandt T, Hacke W, Diener HC. Risk factors, outcome, and treatment in subtypes of ischemic stroke: the Germanstroke data bank. Stroke. 2001;32(11):2559-66.
+ 6.Maher P. Salgado KF, Zivin JA, Lapchak PA. A novel approach to screening for new neuroprotective compounds for the treatment of stroke. Brain Res. 2007: 1173:117-125.
+
+
+7.Lakhan SE, Kirchgessner A, Hofer M. Inflammatory mechanism in ischemic stroke: therapeutic approaches. J Transl Med 2009; 7:97.
+
+
+8.Guidelines for management of ischemic stroke and transient ischemic attack 2008. Cerebrovasc. Dis. 2008; 25(5):457-507
+ 9.Rothwell PM. Incidence, risk factors and prognosis of stroke and TIA: the need for high-quality, large-scale epidemiological studies and meta-analyses. Cerebrovasc. Dis. 2003;16 Suppl 3:2-10.
+
+
+10.Donnan GA, Fisher M, Macleod M, Davis SM. Stroke. Lancet 2008; 371(9624):1612- 1623.
+
+
+11.Fischer M. Stroke and TIA:epidemiology, risk factors, and the need for early intervention. Am J Manag Care 2008; 14(6 Suppl 2):204-211.
+
+
+12.Lüders S, Schrader J. [Prevention of stroke: What is evidence based?]. Internist 2009; 50(12):1337-1344.
+ 13.Kurth T, Gaziano JM, Berger K et al. Body mass index and the risk of stroke in men. Arch Intern. Med. 2002; 162(22):2557-2562.
+
+
+14.KurthT, Gaziano JM, Rexrode KM et al. Prospective study of body mass index and risk of stroke in apparently healthy women. Circulation 2005; 111(15):1992-1998.
+
+
+15.Rundek T, Sacco RL. Risk factors management to prevent first stroke. Neurol Clin 2008;26(4):1007-1045.
+ 16.Leppälä JM, Virtamo J, Fogelholm R, Albanes D, Heinonen OP: Different risk factors
+for different stroke subtypes: association of blood pressure, cholesterol, and antioxidants. Stroke 1999; 30(12):2535-2540.
+
+17.Lüders. Drug therapy for the secondary prevention of stroke in hypertensive patients:current issues and options. Drugs 2007; 67(7):955-963.
+
+
+18.Marniemi J, Alanen E, Impivaara O et al. Dietary and serum vitamis and minerals as predictors of myocardial infarction and stroke in elderly subjects. Nutr Metab Cardiovasc Dis 2005; 15(3):188-197.
+
+
+19.Lee CD, Folsom AR, Blair SN. Physical activity and stroke risk: a meta-analysis. Stroke 2003; 34(10):2475-2481.
+
+
+20.Joshipura KJ, Ascherio A, Manson JE, et al. Fruit and vegetable intake in relation to risk of ischemic stroke. JAMA 1999; 282(13):1233-1239.
+
+
+21.Streifler Jy. Early stroke risk after a transient ischemic attack: can it be minimized? Stroke 2008; 39(6):1655-1656.
+
+22.Sacco RL. Risk factors for TIA and TIA as a risk factor for stroke. Neurology 2004; 62(8Suppl 6):7-11.
+
+23.Gonzalez, RG, Hirsch JA, Koroshetz WJ, Lev MH und Schäfer P. Acute Ischemic Stroke. Imaging and Intervention. 2006 Springer
+24.Dirnagl U, Iadecola C, Moskowitz MA. Pathobiology of ischemic stroke: an integrated view. Trends Neurosci. 1999;22(9):391-39725.Doyle EP, Simon RP, Stenzel-Poore MP. Mechanisms of ischemic brain damage. Neuropharmacology. 2008; 55:310-318.
+
+26.Edvinsson L and Krause D. Cerebral Blood Flow and Metabolism. 2002; Lippincott Williams and Wilkins.
+
+
+27.Simon RP. Acidotoxicitiy trumps excitotoxicity in ischemic brain. Arch Neurol. 2006; 63:1368-1371.
+
+
+28.Iadecola C. et al. Cerebral ischemia and inflammation. Curr. Opin. Neurol. 2001; 14:89-94.
+ 29.Dissertation Kristin Schmerbach; Vergleich neuroprotektiver Effekte von systemisch verabreichten Pharmaka, die in das Renin-Angiotensin-System eingreifen, in genetisch hypertensiven Ratten. 2012; HU-Berlin.
+
+
+30.Huang J, Upadhyay UM and Tamarogo RJ. Inflammation in stroke and focal cerebral ischemia. Surg. Neurol; 2006; 66:232-245.
+
+
+31.Yamasaki Y, Matsuo Y, Zagorski J, Matsuura N, Ondodera H, Itoyama Y, Kogure K. New therapeutic possibility of blocking cytokine-induced neutrophil chemoattractant on transient ischemic brain damage in rats. Brain Res. 1997; 759:103-111.
+ 32.Zaremba J, Skrobanski P, Losy J. Tumor necrosis factor-alpha is increased in the cerebrospinal fluid and serum of ischaemic stroke patients and correlates with the volume of evolving brain infarct. Biomed. Pharmacother. 2001; 55:258-263.
+
+
+33.Nawashiro H, Martin D, Hallenbeck JM. Inhibition of tumor necrosis factor and amelioration of brain infarction in mice. J Cereb Blood Flow Metab. 1997a; 17: 229- 232.
+
+
+34.Nawashiro H, Martin D, Hallenbeck JM. Neuroprotective effects of TNF binding protein in focal cerebral ischemia. Brain Res. 1997b; 778:265-271.
+
+
+35.Tarkowski E, Rosengren L, Blomstrand C, Wikelso C, Jensen C, Ekholm S, Tarkowski A. Early intrathecal production of interleukin-6 predicts the size of brain lesion in stroke. Stroke 1995; 26:1393-1398.
+
+
+36.Schindler R, Mancilla J, Endres S; GhorbaniR, Clarks SC and Dinarello CA. Correlations and interactions in te production of interleukin-6 (IL-6), IL-1 and tumor necrosis factor (TNF) in human blood mononuclear cells. IL-6 suppresses IL-1 and TNF. Blood1990; 75:40-47.
+
+
+37.McNeill H. Williams C, Guan J, Dragunow M, Lawlor P, Sirimanne E, NikolicsK, Gluckmann P. Neuronal rescue with transforming groth factor-beta 1 after hypoxic- ischaemic brain injury. Neuroreport 1994; 5: 901-904.
+ 38.Mori E, Del Zoppo GJ, Chambers JD, Copeland BR, Arfors KE. Inhibition of polymorphonuclear leukocyte adherence suppresses no-reflow after focal cerebral ischemia in baboons. Stroke 1992; 23:712-718.
+
+
+39.Ruocco A, Nicole O; Docagne F, Ali C; Chazalviel L, Momesli S, Yablosnsky F, Roussel S, Mackenzie ET, Vivien D and Boussion A. A transforming growth factor- beta agonist unmasks the neuroprotective role of this endogenous cytokine in excitotoxic and ischemic brain injury. J. Cereb Blood Flow Metab. 1999; 19:1345- 1353.
+
+
+40.Nawashiro H, Brenner M, Fukui S, Shima K, Hallenbeck JM. High susceptibility to cerebral ischemia in GFAP-null mice. J Cereb Blood Flow Metab. 2000; 20:1040- 1044.
+
+
+41.Zhang ZG, Zhang L, Jiang Q, Zhang R, Davies K, Powers C, Bruggen N, Chopp M. VEGF enhances angiogenesis and promotes blood brain barrier leakage in the ischemic brain. J Clin Invest. 2000; 106:829-838
+42.Astrup J, Siesjo BK, Symon L. Thresholds in cerebral ischemia-the ischemic penumbra. Stroke. 1981;12(6):723-5.
+
+43.Heiss WD. Ischemic penumbra: evidence from functional imaging in man. J Cereb Blood Flow Metab. 2000;20(9):1276-9344.Bandera E, Botteri M, Minelli C, Sutton A, Abrams KR, Latronico N. Cerebral blood flow threshold of ischemic penumbra and infarct core in acute ischemic stroke: a systematic review. Stroke. 2006;37(5):1334-9.
+
+45.De Gasparo M, Catt KJ, Inagami T, Wright JW, Unger T. International Union of Pharmakology. XXIII. Th angiotensin II receptors. Pharmacol. Rev. 2000; 52:415-472.
+ 46.Kaschina E and Unger T. Angiotensin AT1/AT2 Receptor: Regulation, Signalling and
+ Function. Blood Pressure, 2003, 12: 70-88.
+
+
+47.Culman J, Blume A, Gohlke P et al. The renin-angiotensin system in the brain: possible therapeutic implications of AT1-receptor blockers. J Hum Hyperten 2002, 16:64-70.
+
+
+48.McKinley MJ, Albiston AL, Allen AM et al. The brain renin-angiotensin system: location and physiological roles. Int J Biochem Cell Biol 2003, 35(6):901-18.
+ 49.Unger Th, Becker H, Petty M et al. Differential effects of central angiotensin II and substance P on sympathetic nerve activity in conscious rats: implications for cardiovascular adaption to behavioral responses. Circ Res 1985, 56:563-575.
+ 50.Unger Th, Badoer E, Ganten D et al. Brain angiotensin: Pathways and Pharmacology.
+ Circulation 1988 77: I40-I54
+51.Gelband CH, Sumners C, Lu D et al. Angiotensin receptors and norepinephrine neuromodulation: Implication of functional coupling. Regul Pept 1998, 73: 141-147 52.Averill DB, Diz Di. Angiotensin peptides and baroreflex control of sypathetic ouflow: Pathways and mechanisms of the medulla oblongata. Brain Res Bull 2000, 51:119- 128.
+
+
+53.Montani JP and Van Vliet BN: General Physiology and Pathophysiology of the Renin- Angiotensin-System in Handbook of Experimental Pharmacology 163/II Angiotensin Vol. II. Edited by Unger T and Schölkens BA. Berlin, Heidelberg, New York: Springer Verlag; 2004: 3-29.
+
+
+54.Lenkei Z, Palkovits M, Corvol P et al. Expression of angiotensin type-1 (AT1) and type-2 (AT2) receptor mRNAs in the adult rat brain: A functional neuroanatomical review. Front Neuronendocrinol 1997, 18:383-439.
+
+
+55.Fitzsimons Jt. Angiotensin, thirst, and sodium appetite. Physiol Rev 1998, 78:583- 686.
+
+
+56.Rohmeiss P, Demmert G, Rettig R et al.. Centrally administered atrial natriuretic factor inhibits central angiotensin-induced natriuresis. Brain Res 1989, 502:198-203
+ 57.Unger Th, Horst JP, Bauer M et al. Natriuretic action of central angiotensin II in
+ conscious rats. Brain Res 1989, 486: 33-38. 5. Blume A, Herdegen T, Unger T.
+
+
+Angiotensin peptides and inducible transcription factors. J Mol Med 1999, 77: 339- 357.
+
+
+58.Zhu YZ, Chimon GN, Zhu YC, Lu Q, Li B, Hu HZ et al. Expression fo angiotensin II AT2 receptor in the acute phase of stroke in rats. Neuroreport 2000; 11:1191-1194.
+ 59.Li J, Culman J, Hörtnagl H, Zaho Y, Gerova N, Timm M et al. Angiotensin AT2 recepro protects against cerebral ischemia-induced neuronal injury. FASEB J 2005, 19;617-619.
+
+
+60.Gallinat S, Yu M, Drost A, Unger T, Herdegen T. Sciatic nerve transection evokes lasting up regulation of angiotensin AT2 and AT1 receptor mRNA in adult rat dorsal root ganglia and sciatic nerves. Mol Brain Res. 1998, 57:111-122.
+
+
+61.Lucius R, Gallinat S, Rosenstiel P, Herdegen T, Sievers J, Unger T. The Angiotensin II type 2 (AT2) receptor promotes axonal regeneration in the optic nerve of adult rats. J Exp Med 1998, 188: 661-670.
+
+
+62.Ge J, Barnes NM. Alterations in angiotensin AT1 and AT2 receptor subtype levels in brain regions from patients with neurodegenerative disorders. Eur J Pharmacol 1996, 297:299-306.
+ 63.Schrader J. Schlaganfall und Hypertonie. Internist 50,423-432 (2009).
+
+
+64.Fyhrquist F, Saijonmaa O. Renin-angiotensin system revisited. J. Intern. Med 2008 Sep;264(3):224-236.
+
+
+65.Unger T, Jakobsen A, Heroys J, Ralph A, Rees T, Shaw M. Targeting cardiovascular protection: the concept of dual renin-angiotensin system control. Medscape J Med 2008;10 Suppl:S4. 66.The Heart Outcomes Prevention Evaluation Study Investigators. Effects of ramipril on cardiovascular and microvascular outcomes in people with diabetes mellitus. Results of the HOPE study and MICRO-HOPE substudy. Lancet 2000; 355:253-259.
+
+
+67.Xu J, Scholz A, Rösch N, Blume A, Unger T, Kreutz R, Culman J, Gohlke P. Low- dose lithium combined with captopril prevents stroke and improves survival in salt- loaded, stroke-prone spontaneously hypertensive rats. J Hypertens.
+ 2005;23(12):2277-85.
+
+
+68.Unger T, Schupp M. Telmisartan: from lowering blood pressure to end-organ protection. Future Cardiol 2005 Jan;1(1):7-15.
+ 69.Schieffer B, Bünte C, Witte J, et al. Comparative effects of AT1-antagonism and angiotensin-converting enzyme inhibition on markers of inflammation and platelet aggregation in patients with coronary artery disease. J. Am. Coll. Cardiol 2004 Juli;44(2):362-368.
+
+
+70.Brenner BM, Cooper ME, de Zeeuw D, et al. Effects of losartan on renal and cardiovascular outcomes in patients with type 2 diabetes and nephropathy. N. Engl. J. Med 2001 Sep;345(12):861-869.
+
+
+71.Lewis EJ, Hunsicker LG, Clarke WR, et al. Renoprotective effect of the angiotensin- receptor antagonist irbesartan in patients with nephropathy due to type 2 diabetes. N. Engl. J. Med 2001 Sep;345(12):851-860.
+
+
+72.Dahlöf B, Devereux RB, Kjeldsen SE, et al. Cardiovascular morbidity and mortality in the Losartan Intervention For Endpoint reduction in hypertension study (LIFE): a randomised trial against atenolol. Lancet 2002 März;359(9311):995-1003.
+
+
+73.Elliott WJ, Meyer PM. Incident diabetes in clinical trials of antihypertensive drugs: a network meta-analysis. Lancet 2007 Jan;369(9557):201-207.
+
+
+74.Schupp M, Janke J, Clasen R, Unger T, Kintscher U. Angiotensin type 1 receptor blockers induce peroxisome proliferator-activated receptor-gamma activity. Circulation 2004 Mai;109(17):2054-2057.
+
+
+75.Clasen R, Schupp M, Foryst-Ludwig A, et al. PPARgamma-activating angiotensin type-1 receptor blockers induce adiponectin. Hypertension 2005 Juli;46(1):137-143.
+
+
+76.Stier CT, Adler LA, Levin S. Stroke preventing by losartan in stroke-prone spontaneously hypertensive rats. J Hypertension Suppl., 1993; 11: 37-42.
+ 77.Kim Itsuyama S, Yamamoto E, Tanaka T, Zhan Y, Izumi Y, Izumiya Y et al.. Critical role of angiotensin II in excess salt-induced brain oxidative stress of stroke-prone spontaneously hypertensive rats. Stroke 2005; 36: 1083-1088.
+
+
+78.Lithell H, Ansson L, Skoog I, Elmfeldt D, Hofmann A, Olofsson B et al. for the SCOPE Study group. The Study on Cognition and Prognosis in the Elderly (SCOPE) principal results of a randomised double-blind intervention trail. J Hypertension 2003:; 21:875- 886.
+
+
+79.Schrader J, Luders S, Kulschewski A, Hammersen F, Plate K, Berger J et al. for the Moses study group. Morbidity and Mortality After Stroke, Eprosartan Compared with Nitrendipine for Secondary Prevention: prinzipal results of a prospective randomised controlled study (MOSES). Stroke 2005; 36:1218-1226.
+
+
+80.Schrader J, Lüders S, Kulschewski A, Berger J, Zidek W, Treib. J et al. on behalf of ACESS Study Group. The ACESS Study evaluation of Acute Candesartan Cilexetil Therapy in Stroke Surviviours. Stroke 2003, 34:1699-1703.
+
+
+81.Diener HC. Prevention regimen for affectively avoiding second strokes (PRoFESS): rationale and design. Cerebrovas. Dis. 2000; 10:147-150.
+
+
+82.Dai WJ, Funk A, Herdegen T, Unger T, Culman J. Blockade of central angiotensin AT1 receptors improved neurological outcome and reduces expression of AP-1 transcription factors after focal brain ischemia in rats. Stroke 1999; 30:2391-2398.
+
+
+83.Lou M, Blume A, Zhao Y, Gohlke P, Deutschl G, Herdegen T, Unger T, Culman J. Sustained blockade of brain AT1 receptors before and after focal cerebral ischemia
+88alleviates neurologic deficits and reduces neuronal injury, apoptosis, and inflammatory responses in the rat. J Cereb Blood Flow Metab. 2004; 24:536-547.
+
+84.Groth W, Blume A, Gohlke P, Unger T, Culman J. Chronic pretreatment with candesartan improves recovery from focal cerebral ischemia in rats. J Hypertens 2003; 21: 2175-2182.
+
+
+85.Lu Q, Zhu YZ, Wong PT.Angiotensin receptor gene expression in candesartan mediated neuroprotection. Neuroreport 2004; 15:2643-2646.
+
+
+86.Iwai M, Liu HW, Chen R, Ide A, Okamoto S, Hata R et al. Possible inhibition of focal cerebral ischemia by angiotensin II type 2 receptor stimulation. Circulation 2004; 110:843-848.
+
+
+87.Krum H, Carson P, Farsang C, et al. Effect of valsartan added to background ACE inhibitor therapy in patients with heart failure: results from Val-HeFT. Eur. J. Heart Fail 2004 Dez;6(7):937-945.
+ 88.ONTARGET Investigators. Yusuf S, Teo KK, Pogue J, Dyal L, Copland I, Schumache H, Dagenais G, Sleight P, Anderson C. Telmisartan, ramipril, or both in patients at high risk for vascular events. N. Engl. J. Med. 358,1547-1559 (2008).
+
+
+89.Verdecchia P, Angeli F, Mazzotta G, Gentile G, Reboldi G. The renin angiotensin system in the development of cardiovascular disease: role of aliskiren in risk reduction. Vasc Health Risk Manag 2008;4(5):971-981.
+
+
+90.Stanton A, Jensen C, Nussberger J, O'Brien E. Blood pressure lowering in essential hypertension with an oral renin inhibitor, aliskiren. Hypertension 2003 Dez;42(6):1137-1143.
+
+
+91.Gradman AH, Schmieder RE, Lins RL, Nussberger J, Chiang Y, Bedigian MP. Aliskiren, a novel orally effective renin inhibitor, provides dose-dependent antihypertensive efficacy and placebo-like tolerability in hypertensive patients. Circulation 2005 März;111(8):1012-1018.
+
+
+92.Uresin Y, Taylor AA, Kilo C, et al. Efficacy and safety of the direct renin inhibitor aliskiren and ramipril alone or in combination in patients with diabetes and hypertension. J Renin Angiotensin Aldosterone Syst 2007 Dez;8(4):190-198.
+
+
+93.Andersen K, Weinberger MH, Egan B, et al. Comparative efficacy and safety of aliskiren, an oral direct renin inhibitor, and ramipril in hypertension: a 6-month, randomized, double-blind trial. J. Hypertens 2008 März;26(3):589-599.
+
+
+94.Oparil S, Yarows SA, Patel S, Fang H, Zhang J, Satlin A. Efficacy and safety of combined use of aliskiren and valsartan in patients with hypertension: a randomised, double-blind trial. Lancet 2007 Juli;370(9583):221-229.
+ 95.Strasser RH, Puig JG, Farsang C, Croket M, Li J, van Ingen H. A comparison of the tolerability of the direct renin inhibitor aliskiren and lisinopril in patients with severe hypertension. J Hum Hypertens 2007 Okt;21(10):780-787.
+
+
+96.Villamil A, Chrysant SG, Calhoun D, et al. Renin inhibition with aliskiren provides additive antihypertensive efficacy when used in combination with hydrochlorothiazide. J. Hypertens 2007 Jan;25(1):217-226.
+
+
+97.Steckelings UM, Rompe F, Kaschina E, et al. The past, present and future of angiotensin II type 2 receptor stimulation,” Journal of the Renin-Angiotensin- Aldosterone System: JRAAS, 2010, 11: 67-73.
+
+
+98.McCarthy CA, Vinh A, Callaway JK, Widdop RE. Angiotensin AT2 receptor stimulation causes neuroprotection in a conscious rat model of stroke. Stroke. 2009; 40(4):1482- 9.
+
+
+99.Feinstein DL. Therapeutic potential of peroxisome proliferator-activated receptor agonists for neurological disease. Diabetes Technol Ther. 2003;5(1):67-73. Review
+100.Avogaro A, Federici M, Betteridge J, Bonadonna R, Campbell IW, Schernthaner GH, Staels B, Farinaro E, Crepaldi G. Which is the eligible patient to be treated with pioglitazone? The expert view. J Endocrinol Invest. 2011 Nov;34(10):781-7.
+
+101.Erdmann E, Spanheimer R, Charbonnel B; PROactive Study Investigators. Pioglitazone and the risk of cardiovascular events in patients with Type 2 diabetes receiving concomitant treatment with nitrates, renin-angiotensin system blockers, or
+89insulin: results from the PROactive study (PROactive 20). J Diabetes. 2010 Sep;2(3):212-20.
+
+102.Plutzky J. The potential role of peroxisome proliferator-activated receptors on inflammation in type 2 diabetes mellitus and atherosclerosis. Am J Cardiol. 2003 Aug 18;92(4A):34J-41J. Review.
+
+
+103.Hsueh WA, Law R. The central role of fat and effect of peroxisome proliferator- activated receptor-gamma on progression of insulin resistance and cardiovascular disease. Am J Cardiol. 2003 Aug 18;92(4A):3J-9J. Review.
+
+
+104.Davenport AP, Battistini B. Classification of endothelin receptors and antagonistsin clinical development. Clin Sci (Lond) 2002; 103 Suppl 48:1-3.
+
+
+105.Barone FC, Ohlstein EH, Hunter AJ, Campbell CA, Hadingham SH, Parsons AA, Yang Y, Shohami E. Selective antagonism of endothelin-A-receptors improves outcome in both head trauma and focal stroke in rat. J Cardiovasc Pharmacol. 2000 Nov;36(5 Suppl 1):S357-61.
+ 106.Barone FC, White RF, Elliott JD, Feuerstein GZ, Ohlstein EH. The endothelin receptor antagonist SB 217242 reduces cerebral focal ischemic brain injury. J Cardiovasc Pharmacol. 1995;26 Suppl 3:S404-7.
+
+
+107.Barone FC, Willette RN, Yue TL, Feurestein G. Therapeutic effects of endothelin receptor antagonists in stroke. Neurol Res. 1995 Aug;17(4):259-64. Review.
+
+
+108.Shaw MD, Vermeulen M, Murray GD, Pickard JD, Bell BA, Teasdale GM. Efficacy and safety of the endothelin, receptor antagonist TAK-044 in treating subarachnoid hemorrhage: a report by the Steering Committee on behalf of the UK/Netherlands/Eire TAK-044 Subarachnoid Haemorrhage Study Group. J Neurosurg. 2000 Dec;93(6):992-7.
+
+
+109.Reid JL, Dawson D, Macrae IM. Endothelin, cerebral ischaemia and infarction. Clin Exp Hypertens. 1995 Jan-Feb;17(1-2):399-407. Review
+110.Giuffrida R, Bellomo M, Polizzi G, Malatino LS. Ischemia-induced changes in the immunoreactivity for endothelin and other vasoactive peptides in the brain of the Mongolian gerbil. J Cardiovasc Pharmacol. 1992;20 Suppl 12:S41-4.
+
+111.Giannopoulos S, Kosmidou M, Hatzitolios AI, Savopoulos CG, Ziakas A, Karamouzis M. Measurements of endothelin-1, C-reactive protein and fibrinogen plasma levels in patients with acute ischemic stroke. Neurol Res. 2008 Sep;30(7):727-30. Epub 2008 May 16.
+ 112.Stenman E, Malmsjö M, Uddman E, Gidö G, Wieloch T, Edvinsson L. Cerebral ischemia upregulates vascular endothelin ET(B) receptors in rat. Stroke. 2002 Sep;33(9):2311-6.
+
+
+113.Leseth KH, Adner M, Berg HK, White LR, Aasly J, Edvinsson L. Cytokines increase endothelin ETB receptor contractile activity in rat cerebral artery. Neuroreport. 1999 Aug 2;10(11):2355-9.
+
+
+114.Cattaruzza M, Dimigen C, Ehrenreich H, Hecier M. Stretch-induced endothelin B receptor-mediated apaptosis in vascular smooth muscle cell. Faseb J 2000; 14: 991-8.
+
+
+115.Dawson DA, Sugano H, McCarron RM, Hallenbeck JM, Spatz M. Endothelin receptor antagonist preserves microvascular perfusion and reduces ischemic brain damage following permanent focal ischemia. Neurochem Res. 1999 Dec;24(12):1499-505.
+
+
+116.Zhang Y, Belayev L, Zaho W, Irving EA, Busto R, Ginsberg MD. A selective endothelin ET (A) receptor antagonist, SB 234551, improves cerebral perfusion following permanent focal cerebral sichemia in rats. Brain Res. 2005; 1045:150-156.
+
+
+117.Matsuo Y, Mihara S, Ninomiya M, Fujimoto M. Protective effect of endthelin type A receptor antagonist on brain edema and injury after transient middle cerebral artery occlusion in rats. Stroke 2001; 32: 2143-8.
+
+
+118.Roux S, Loffler BM, Gray GA, sprecher U, Clozel M, Clozel JP. The role of endothelin in experimental cerebral vasospasm. Neurosurgery 1995; 37: 78-85.
+
+119.Chuquet J, Benchenane K, Toutain J, Mackenzie ET, Roussel S, Touzani O. Selective blockade of endothelin-B receptors exacerbates ischemic brain damage in the rat. Stroke 2002; 33: 3019-25. 120.Patel TR, McCulloch J. Failure of an endothelin antagonist to modify hypoperfusionj after transient global ischaemia in the rat. J Cereb Blood Flow Metab. 1996; 16:490-9.
+
+
+121.Dhaun N, Goddard J, Kohan DE, Pollock DM, Schiffrin EL, Webb DJ. Role of endothelin-1 in clinical hypertension: 20 years on. Hypertension 2008; 52:452-9.
+
+
+122.Dissertation Christina Wengenmayer. Interventions- und Päventionsstudien mit kombinierten ECE/NEP-Hemmern an Schlaganfallmodellen in Ratten. 2009; FU Berlin; Journal-Nr.: 3360
+123.Mair J. Review: Biochemistry of B-type natriuretic peptide-where are we now? Cin Chem Lab Med 2008;124.Devault A, Sales V, Nault C, Beaumont A, Roques B, Crine P, Boileau G.. Exploration of the catalytic site of endopeptidase 24.11 by site-directed mutagenesis. Histidine residues 583 and 587 are essential for catalysis. FEBS Lett. 1988; 231: 54- 8.
+
+125.Abassi ZA, Golomb E, Bridenbaugh R, Keiser HR. Metabosim of endothelin-1 and big endothelin-1 by recombinant neutral endopeptidase EC.3.4.24.11. Br J Pharmacol. 1993; 109: 1024-8.
+
+
+126.Inagami T, Misono KS, Fukumi H, Maki M, Tanaka I Takayanagi R, Imada T, Grammer RT, Naruse M, Naruse K, Et AL. Structure and physiological actions of rat natriuretic factor. Hypertension 1987; 10:113-7.
+
+
+127.Suzuki T, Yamazaki T, Yazaki Y. The role of the natriuretic peptides in the cardiovascular system. Cardiovasc Res. 2001; 51:489-94.
+
+
+128.Currie MG, Geller DM, Cole BR, Boylan JG, Yusheng W, Holmberg SW, Needleman P. Bioactive cardiac substances:potent vasorelaxant activity in mammalian atria. Science 1983; 221: 71-3.
+
+
+129.Hasegawa K, Fujiwara H, Doyama K, Miyamae M, Fujiwara T, Suga S,Mukoyama M, Nakao K, Imura H, Sasayama S. Ventricular expression of brain natriuretic peptide in hypertrophic cardiomyopathy. Circulation 1993; 88:372-80.
+
+
+130.Forssmann WG, Richter R, Meyer M. The endocrine heart and natriuretic peptides: histochemistry, cell biology, and functional aspects of the renal urodilatin system. Histochem Cell Biol 1998; 110:335-57.
+ 131.Saper CB, Standaert DG, Currie MG, Schwartz D, Geller DM, Needleman P. Atriopeptin-immunoreactive neurons in the brain: presence in cardiovascular regulatory areas. Science 1985; 227:1047-9.
+
+
+132.Levin ER, Gardner DG, Samson WK. Natriuretic peptides. N Engl J 1998; 339:321-8.
+
+
+133.LaPointe MC. Molecular regulation of the brain natriuretic peptide gene. Peptides 2005; 26:944-56.
+ 134.Sato A, Canny BJ, Autelitano DJ. Adrenomedullin stimulates cAMP accumulation and inhibits atrial natriuretic peptide gene expression in cardiomyocytes. Biochem Biophys Res Commun 1997; 230:311-4.
+
+
+135.Hollister AS, Rodeheffer RJ, White FJ, Potts JR, Imada T, Inagami T. Clearance of atriuretic factor by lung, liver, and kidney in human subjects and the dog. J Clin Invest 1989; 83:623-8.
+
+
+136.Tremblay J, Desjardins R, Hum D, Gutkowska J, Hamet P. Biochemistry and physiology of the natriuretic peptide receptor guanylyl cyclases. Mol Cell Biochem. 2002; 230:31-47.
+
+
+137.Yamada y, Goto J, Yokota M. Brain natriuretic peptide is a sensitive indicator of impaired left-ventricular function in elderly patients with cardiovascular disease. Cardiology 1997; 88:401-7.
+
+
+138.Cowie MR, Mendez GF. BNP and congestive heart failure. Prog Cardiovasc Dis 2002; 44:293-321.
+
+139.Rubattu S, Sciarretta S, Valenti V, Stanzione R, Volpe M. Natriuretic peptides: an update on bioactivity, potential therapeutic use, and implication in cardiovascular diseases. Am J Hypertens 2008; 21: 733-41. 140.Di Angelantonio E, De Castro S, Toni D, Sachhetti ML, Biraschi F, Prencipe M, Fiorelli M. Determinants of plasma levels of brain natriuretic peptide after acute ischemic stroke or TIA. J Neurol Sci 2007; 260:139-42.
+
+
+141.Akdemir G. Lür MS, Dujovny M, Misra M. Intraventricular atrial natriuretic peptide for acute intracranial hypertension. Neurol Res 1997; 19:515-20.
+ 142.Lin KF, Chao J, Chao L. Atrial natriuretic peptide gene delivery reduces
+stroke-induced mortality rate in Dahl salt-sensitive rats. Hypertension 1999; 33:219- 24.
+
+143.Meisel C, Schwab JM, Prass K, Meisel A, Dirnagl U. Central nervous system injury-induced immune deficiency syndrome. Nat Rev Neurosci. 2005 Oct;6(10):775-
+ 86.Review.
+
+
+144.Prass K, Meisel C, Höflich C, Braun J, Halle E, Wolf T, Ruscher K, Victorov IV, Priller J, Dirnagl U, Volk HD, Meisel A. Stroke-induced immunodeficiency promotes spontaneous bacterial infections and is mediated by sympathetic activation reversal by poststroke T helper cell type 1-like immunostimulation. J Exp Med. 2003 Sep 1;198(5):725-36.
+
+
+145.Meisel C, Prass K, Braun J, Victorov I, Wolf T, Megow D, Halle E, Volk HD, Dirnagl U, Meisel A. Preventive antibacterial treatment improves the general medical and neurological outcome in a mouse model of stroke. Stroke. 2004 Jan;35(1):2-6.
+
+
+146.Stingele R, Eschenfelder ChC Zeller J. [Therapy of acute stroke]. Hamostaseologie. 2006 Nov;26(4):316-25.
+
+
+147.Cheng YD, Al-Khoury L, Zivin JA. Neuroprotection for ischemic stroke: two decades of success and failure. NeuroRx. 2004 Jan;1(1):36-45. Review.
+
+
+148.Onal MZ, Fisher M.Acute ischemic stroke therapy. A clinical overview. Eur Neurol. 1997;38(3):141-54. Review.
+ 149.Schaller B, Graf R. Cerebral ischemia and reperfusion: the pathophysiologic concept as a basis for clinical therapy. J Cereb Blood Flow Metab. 2004 Apr;24(4):351-71. Review. Erratum in: J Cereb Blood Flow Metab. 2007 Jun;27(6):1095.
+
+
+150.Mehta SL, Manhas N, Raghubir R. Molecular targets in cerebral ischemia for developing novel therapeutics. Brain Res Rev. 2007 Apr;54(1):34-66. Epub 2007 Jan
+ 12.Review.
+
+
+151.Hazell AS. Excitotoxic mechanisms in stroke: an update of concepts and treatment strategies. Neurochem Int. 2007 Jun;50(7-8):941-53. Epub 2007 May 10. Review.
+ 152.Dissertation Christian Neumann
+153.Rothstein JD, Patel S, Regan MR, Haenggeli C, Huang YH, Bergles DE, Jin L, Dykes Hoberg M, Vidensky S, Chung DS, Toan SV, Bruijn LI, Su ZZ, Gupta P, Fisher PB. Beta-lactam antibiotics offer neuroprotection by increasing glutamate transporter expression. Nature. 2005 Jan 6;433(7021):73-7.
+
+154.Chu K, Lee ST, Sinn DI, Ko SY, Kim EH, Kim JM, Kim SJ, Park DK, Jung KH, Song EC, Lee SK, Kim M, Roh JK. Pharmacological Induction of Ischemic Tolerance by Glutamate Transporter-1 (EAAT2) Upregulation. Stroke. 2007 Jan;38(1):177-82.
+ Epub 2006 Nov 22.
+
+
+155.Koizumi J, Yoshida Y, Nakazawa T, Ooneda G. Experimental studies of ischemic brain edema I: a new experimental model of cerebral embolism in rats in which recirculation can be introduced in the ischaemic area. Jpn J Stroke 1986; 8:1-8.
+
+
+156.Overgaard K, Sereghy T, Boysen G, Pedersen H, Høyer S, Diemer NH. A rat model of reproducible cerebral infarction using thrombotic blood clot emboli. J Cereb Blood Flow Metab. 1992 May;12(3):484-90.
+
+
+157.Bardutzky J, Shen Q, Henninger N, Bouley J, Duong TQ, Fisher M. Differences in ischemic lesion evolution in different rat strains using diffusion and perfusion imaging. Stroke. 2005 Sep;36(9):2000-5. Epub 2005 Jul 21.
+
+
+92
+158.Cam E. Occlusion of the Middle Cerebral Artery: A new method of focal cerebral ischaemia in rats. 2004; Pferdeklinik und Veterinär-Anatomisches Institut. Zürich, Vetsuisse-Fakultät Universität Zürich. 159.Takano K, Tatlisumak T, Bergmann AG, Gibson DG 3rd, Fisher M.
+
+
+Reproducibility and reliability of middle cerebral artery occlusion using a silicone- coated suture (Koizumi) in rats. J Neurol Sci. 1997 Dec 9;153(1):8-11.
+
+
+160.Bouley J, Fisher M, Henninger N. Comparison between coated vs. uncoated suture middle cerebral artery occlusion in the rat as assessed by perfusion/diffusion weighted imaging. Neurosci Lett. 2007 Feb 2;412(3):185-90. Epub 2006 Nov 22
+161.Baughman VL, Hoffman WE, Miletich DJ, Albrecht RF, Thomas C.Neurologic outcome in rats following incomplete cerebral ischemia during halothane, isoflurane, or N2O. Anesthesiology. 1988 Aug;69(2):192-8. 162.Soonthon-Brant V, Patel PM, Drummond JC, Cole DJ, Kelly PJ, Watson M. Fentanyl does not increase brain injury after focal cerebral ischemia in rats. Anesth Analg. 1999 Jan;88(1):49-55.
+
+
+163.Walberer M, Stolz E, Müller C, Friedrich C, Rottger C, Blaes F, Kaps M, Fisher M, Bachmann G, Gerriets T. Experimental stroke: ischaemic lesion volume and oedema formation differ among rat strains (a comparison between Wistar and Sprague-Dawley rats using MRI). Lab Anim. 2006 Jan;40(1):1-8.
+
+
+164.Gross V, The renin-angiotensin system and renal function in transgenic (mRen2)27 rats. Exp Nephrol. 1996; 4 Suppl 1: 20-6.
+
+
+165.Bader M, Ganten D. Transgenic rats: tools to study the function of the renin- angiotensin system. Clin Exp Pharmacol Physiol Suppl. 1996; 3: S81-7
+166.Wagner J, Thiele F, Ganten D. The renin-angiotensin system in transgenic rats. Pediatr Nephrol. 1996; 10: 108-12167.Bader M, Peters J, Baltatu O, Muller DN, Luft FC, Ganten D. Tissue renin- angiotensin systems: new insights from experimental animal models in hypertension research. J Mol Med. 2001; 79: 76-102 168.Mervaala EM, Muller DN, Park JK, Schmidt F, Lohn M, Breu V, Dragun D, Ganten D, Haller H, Luft FC. Monocyte infiltration and adhesion molecules in a rat model of high human renin hypertension. Hypertension. 1999; 33: 389-95;
+169.Luft FC, Mervaala E, Muller DN, Gross V, Schmidt F, Park JK, Schmitz C, Lippoldt A, Breu V, Dechend R, Dragun D, Schneider W, Ganten D, Haller H. Hypertension-induced end-organ damage : A new transgenic approach to an old problem. Hypertension. 1999; 33: 212-8170.Nagaoka A, Iwatsuka H, Suzuoki Z, Okamoto K. Genetic predisposition to stroke in spontaneously hypertensive rats. Am J Physiol. 1976 May;230(5):1354-9.
+
+171.Okamoto K, Yamori Y, Nagaoka A. Establishment of the stroke-prone spontaneously hypertensive Rats (SHR). Circ Res 1974; 34/35:143-153.
+
+
+172.Okamoto K and Aoki K. Development of a strain of spontaneously hypertensive rats. Jpn Circ 1963; 27:282-93.
+
+
+173.Kashgarian M. Pathology of small blood vessel disease in hypertension. Am J Kidney Dis. 1985 Apr;5(4):A104-10. Review.
+
+
+174.Nagaoka A, Shino A, Shibota M, Fujita T, Iwatsuka H. Pathogenesis of cerebral stroke in stroke-prone spontaneously hypertensive rats; importance of renal perfusion pressure [proceedings]. Jpn Heart J. 1979 Sep;20(5):712. No abstract available
+175.Ogata J, Fujishima M, Tamaki K, Nakatomi Y, Ishitsuka T, Omae T.Stroke- prone spontaneously hypertensive rats as an experimental model of malignant hypertension. A pathological study. Virchows Arch A Pathol Anat Histol. 1982;394(3):185-94.
+
+176.Tournier-Lasserve E, Joutel A, Melki J, Weissenbach J, Lathrop GM, Chabriat H, Mas JL, Cabanis EA, Baudrimont M, Maciazek J, et al. Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy maps to chromosome 19q12. Nat Genet. 1993 Mar;3(3):256-9.
+
+
+93
+177.Mies G, Hermann D, Ganten U, Hossmann KA. Hemodynamics and metabolism in stroke-prone spontaneously hypertensive rats before manifestation of brain infarcts. J Cereb Blood Flow Metab. 1999 Nov;19(11):1238-46. 178.Tagami M, Nara Y, Kubota A, Fujino H, Yamori Y. Ultrastructural changes in cerebral pericytes and astrocytes of stroke-prone spontaneously hypertensive rats. Stroke. 1990 Jul;21(7):1064-71
+179.Volpe M, Iaccarino G, Vecchione C, Rizzoni D, Russo R, Rubattu S, Condorelli G, Ganten U, Ganten D, Trimarco B, Lindpaintner K. Association and cosegregation of stroke with impaired endothelium-dependent vasorelaxation in stroke prone, spontaneously hypertensive rats. J Clin Invest. 1996 Jul 15;98(2):256- 61.
+
+180.Zhao Y, Patzer A, Gohlke P, Herdegen T, Culman J. The intracerebral application of the PPARgamma-ligand pioglitazone confers neuroprotection against focal ischaemia in the rat brain. Eur J Neurosci. 2005 Jul;22(1):278-82
+181.Sundararajan S, Gamboa JL, Victor NA, Wanderi EW, Lust WD, Landreth GE. Peroxisome proliferator-activated receptor-gamma ligands reduce inflammation and infarction size in transient focal ischemia. Neuroscience. 2005;130(3):685-96.
+
+182.Dahlöf B. Prevention of stroke in patients with hypertension. Am J Cardiol. 2007 Aug 6;100(3A):17J-24J. Epub 2007 May 25. Review.
+
+
+183.Schiffrin EL. Vascular endothelin in hypertension. Vascul Pharmacol. 2005 Jun;43(1):19-29. Review.
+
+
+184.Adams HP Jr, del Zoppo G, Alberts MJ, Bhatt DL, Brass L, Furlan A,
+Grubb RL, Higashida RT, Jauch EC, Kidwell C, Lyden PD, Morgenstern LB, Qureshi AI, Rosenwasser RH, Scott PA, Wijdicks EF; American Heart Association/American Stroke Association Stroke Council; American Heart Association/American Stroke Association Clinical Cardiology Council; American Heart Association/American Stroke Association Cardiovascular Radiology and Intervention Council; Atherosclerotic Peripheral Vascular Disease Working Group; Quality of Care Outcomes in Research Interdisciplinary Working Group. Guidelines for the early management of adults with ischemic stroke: a guideline from the American Heart Association/American Stroke Association Stroke Council, Clinical Cardiology Council, Cardiovascular Radiology and Intervention Council, and the Atherosclerotic Peripheral Vascular Disease and Quality of Care Outcomes in Research Interdisciplinary Working Groups: The American Academy of Neurology affirms the value of this guideline as an educational tool for neurologists. Circulation. 2007; 115(20):e478-534.
+
+185.Dirnagl U. Inflammation in stroke: the good, the bad, and the unknown. Ernst Schering Res. Found. Workshop. 2004; 47: 87-99.
+ 186.Liu Z, Fan Y, Won SJ, Neumann M, Hu D, Zhou L, Weinstein PR, Liu. Chronic treatment with minocycline preserves adult new neurons and reduces functional impairment after focal cerebral ischemia. Stroke. 2007; 38(1):146-52.
+
+
+187.Lampl Y, Boaz M, Gilad R, Lorberboym M, Dabby R, Rapoport A, Anca- Hershkowitz M, Sadeh M. Minocycline treatment in acute stroke: an open-label, evaluator-blinded study. Neurology. 2007; 69(14):1404-10.
+
+
+188.Sironi L, Gelosa P, Tremoli E; Cimino M. The hard way to acute stroke treatment. J of Hypertension 2008; 26:2274-2275.
+
+
+94
+DanksagungMein erster Dank gilt meinen Eltern, meinem Mann und meinen Kindern, Freunden und Kollegen, die mir immer Rückhalt gegeben haben und häufig auf mich verzichten mussten.
+
+Mein größter Dank gilt meinem Mentor Prof. Thomas Unger und meinem Fachvertreter Prof. Ulrich Kintscher, die mir ihr Vertrauen und wissenschaftlichen Beistand bei der Durchführung der Projekte geschenkt haben und die durch die guten Arbeitsbedingungen am Institut für Pharmakologie / Center for Cardiovascular Research erst die Voraussetzungen zur Erstellung dieser Arbeit gegeben haben.
+
+
+Den Mitarbeitern meiner Arbeitsgruppe Herrn Maxim Krikov, Frau Kristin Schmerbach, Frau Christina Wengenmayer, Herrn Christian Neumann, Frau Kristin Lucht, Herrn Kay Rumschüssel, Herrn Pawel Namsolleck, Herrn Matthias Zimmerman, die durch Ihren Einsatz die Ergebnisse dieser Arbeit im Rahmen Ihrer Diplom- und Doktorarbeiten erst möglich gemacht haben.
+
+
+Der Arbeitsgruppe von Prof. Unger insbesondere Frau Steckelings, Frau Kaschina, Herrn Funke-Kaiser und allen Mitarbeitern des CCR danke ich für die kollegiale Zusammenarbeit, wissenschaftliche Diskussionen und Unterstützung.
+
+
+Danken möchte ich Berthold Hocher und den Mitarbeitern aus seiner Arbeitsgruppe Michael Godes, Thiemo Pfab, Phillipp Kalk für die jahrelange wissenschaftlich gute Zusammenarbeit.
+
+
+Prof. Arno Villringer und Frau Susanne Müller, ohne deren Unterstützung die MRT Bildgebung nicht möglich gewesen wäre.
+
+
+Abschließend gebührt mein Dank allen wissenschaftlichen Kooperationspartnern der in dieser Arbeit versammelten Projekte, sowie allen Organisationen und Firmen, welche durch finanzielle Unterstützung diese Arbeiten ermöglichten.
+
+
+95
+Erklärung § 4 Abs. 3 (k) der HabOMed der Charité
+ Hiermit erkläre ich, dass
+-weder früher noch gleichzeitig ein Habilitationsverfahren durchgeführt oder angemeldet wurde.
+
+-die vorgelegte Habilitationsschrift ohne fremde Hilft verfasst, die beschriebenen Ergebnisse selbst gewonnen sowie die verwendeten Hilfsmittel, die Zusammenarbeit mit anderen Wissenschaftlern/Wissenschaftlerinnen und mit technischen Hilfskräften sowie die verwendete Literatur vollständig in der Habilitationsschrift angegeben wurden.
+ -mir die geltende Habilitationsordnung bekannt ist.
+ ……………………
+ ……………………………
+ Datum
+ Unterschrift
+96

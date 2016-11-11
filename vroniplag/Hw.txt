@@ -1,0 +1,1775 @@
+Aus dem Institut für Biochemie und Molekularbiologie
+der Medizinischen Fakultät der Charité – Universitätsmedizin Berlin
+
+DISSERTATION
+Charakterisierung funktioneller Aminosäuren der UDP-NAcetylglucosamin-2-Epimerase/N-Acetylmannosaminkinase
+
+zur Erlangung des akademischen Grades
+Doctor medicinae (Dr. med.)
+
+vorgelegt der Medizinischen Fakultät der Charité –
+Universitätsmedizin Berlin
+
+von
+Heinrich Wieland
+aus München
+
+1. EINLEITUNG
+
+1.1. Struktur von Sialinsäuren
+Die Familie der Sialinsäuren umfaßt mehr als 50 natürlich vorkommende Mitglieder (Angata
+und Varki, 2002). Ihr gemeinsamer Vorläufer ist die Neuraminsäure, welche aus einem
+Grundgerüst von neun Kohlenstoffatomen besteht. Dieses Molekül wird am C9-Atom
+carboxyliert, was dem Molekül unter physiologischen Bedingungen eine negative Ladung
+verleiht, und am C5-Atom entweder N-acyliert oder –glycolyliert. Als O-Substituenten an den
+Hydroxylgruppen von C4, C7, C8 und C9 konnten Acetyl-, Lactolyl-, Methyl-, Sulfonyl-, und
+Phosphorylgruppen nachgewiesen werden, wodurch sich die große Vielfalt unter den
+Sialinsäuren ergibt. Die unsubstituierte Form, die Neuraminsäure, kommt in der Natur nicht vor.
+
+OR8
+9
+
+OH
+
+RO
+5
+
+O
+RHN
+7
+RO
+
+4
+
+C O O-
+
+RO
+
+Abbildung 1: Das Grundgerüst der Sialinsäuren
+Sialinsäuren sind N-acylierte (R2 = Acetyl- oder Glycolylgruppen) Derivate der Neuraminsäure
+mit Acetyl-, Lactoyl-, Methyl-, Sulfonyl- und Phosphonylgruppen als mögliche O-Substituenten
+(R1, R3, R4, R5). Bei Neu5Ac, der häufigsten Sialinsäure, liegen alle Hydroxylfunktionen
+unmodifiziert vor.
+
+Biosynthetischer Vorläufer aller Sialinsäuren und gleichzeitig ihr häufigster Vertreter ist die NAcetylneuraminsäure (Neu5Ac). Die Sialinsäuren werden terminal durch Sialyltransferasen auf
+das nicht reduzierende Ende von Oligosacchariden in 2,3- bzw. 2,6-Verknüpfung übertragen.
+Sie sind sowohl in N-Glycanen als auch in O-Glycanen und Glycolipiden zu finden und werden
+dann als Ganglioside bezeichnet (bestehend aus einem hydrophoben Anteil, dem Ceramid, und
+einem hydrophilen Anteil, der Oligosaccharid-Kette) welche Oligosialylierungen mit 2,8Verknüpfung aufweisen. Ganglioside sind Moleküle, welche im Gewebe sämtlicher Vertebraten
+vorkommen.
+
+1
+
+N-Glycane besitzen eine gemeinsame Core-Struktur aus zwei N-Acetylglucosaminen (GlcNAc)
+und drei Mannoseresten. Über einen N-Acetylglucosaminrest wird diese Core-Struktur an
+Asparagin in der Konsensussequenz –Asn-Xxx-Ser/Thr von Glycoproteinen gebunden. Es lassen
+sich drei Arten des variablen Strukturteils unterscheiden: mannosereiche N-Glycane besitzen
+neben der Core-Struktur nur noch Mannosereste; die des komplexen Typs besitzen zusätzlich NAcetyllactosamineinheiten, Fucosen und Sialinsäuren; der hybride Typ stellt eine Mischform des
+mannosereichen und des komplexen Typs dar. Die Strukturen der O-Glycane sind über einen NAcetylgalactosaminrest an Serin oder Threonin von Glycoproteinen gebunden.
+
+Abbildung 2: Grundstruktur eines typischen triantennären, komplexen N-Glycans.
+Die für alle N-Glycane gemeinsame Kernstruktur (GlcNAc2Man3) ist grau unterlegt. ...Asn-XSer/Thr... ist das Aminosäure-Sequenzmotiv für die N-Glycosylierung. Neben dem in dieser
+Abbildung gezeigten triantennären Glycan sind bei Kohlenhydratstrukturen des komplexen Typs
+zusätzlich mono- und biantennäre Formen möglich.
+
+2
+
+1.2. Vorkommen von Sialinsäuren
+Sialinsäuren kommen in unterschiedlichen Variationen in allen höheren Organismen vor. Die
+größte Vielfalt an Sialinsäuren besitzen Deuterostomen. Bei ihnen kommen, im Gegensatz zu
+Vertebraten, welche in der Regel nur O-acetylierte und eventuell noch O-lactoylierte Varianten
+besitzen, alle Varianten der O-Modifkation vor (Angata und Varki, 2002). Unter den einzelnen
+Wirbeltierarten kann sich die Vielfalt der Sialinsäuren stark unterscheiden. Humanes Gewebe
+beispielsweise enthält nur drei verschiedene Typen von Sialinsäuren, während allein in der
+Speicheldrüse des Rindes 14 unterschiedliche Arten nachgewiesen wurden. Besonders
+interessant in diesem Zusammenhang ist das Fehlen von Neu5Gc beim Menschen. Bis zu
+unseren nächsten Verwandten, den Schimpansen, kommt diese Sialinsäure in allen Wirbeltieren
+vor. Beim Menschen bewirkt ein Defekt im CMP-Neu5Ac-Hydroxylase-Gen, der zur Expression
+eines inaktiven Proteins führt, das Fehlen von Neu5Ac im humanen Gewebe (Irie et al., 1998).
+In fötalem Gewebe, sowie in Tumoren konnten jedoch geringe Mengen von Neu5Gc
+nachgewiesen werden (Varki, 2001).
+Bei Insekten konnte die Expression von Sialinsäuren in bestimmten Entwicklungsstadien
+nachgewiesen werden (Malykh et al., 1999; Roth et al., 1992). Unter bestimmten Bedingungen
+können Insektenzellen (Sf9-Zellen), welche zur rekombinanten Produktion von Proteinen
+benutzt werden, ebenfalls sialylierte Oligosaccharide synthetisieren (Watanabe et al., 2002).
+Hierbei stellt sich jedoch die Frage, ob die Sialinsäuren von den Insekten selbst hergestellt
+werden, da eine Analyse des
+
+inzwischen komplett sequenzierten Genoms von Drosophila
+
+melanogaster ergab, daß es potentielle Gene für eine GlcNAc- bzw. eine N-Acetylmannosamin
+(ManNac)-Kinase, eine Neu5Ac-9-Phosphat-Synthetase, eine CMP-Neu5Ac-Synthetase, einen
+CMP-Neu5Ac-Transporter und Sialyltransferasen gibt (Angata und Varki, 2002), jedoch fehlen
+Homologien für die Gene der GlcNAc-2-Epimerase bzw. der UDP-GlcNAc-2-Epimerase. Da
+diese beiden Enzyme in der Lage sind, ManNAc zu synthetisieren, scheinen Insekten für die
+Biosynthese von Sialinsäuren auf exogenes ManNAc oder Neu5Ac angewiesen zu sein. Möglich
+wäre, daß die Zucker über die Nahrung aufgenommen werden, oder daß sie von symbionten
+Bakterien im Darm der Insekten stammen (Angata und Varki, 2002). Eine weitere Möglichkeit,
+sich Sialinsäuren zunutze zu machen, ohne diese jedoch selbst vollständig synthetisieren zu
+können, ist bei Trypanosomen bekannt (Trypanosoma brucei rhodensei und brucei gambiensi,
+Erreger der Schlafkrankheit), besonders bei Trypanosoma cruzi (Erreger der Chagas-Krankheit).
+Diese übertragen die Sialinsäuren mit Hilfe von Transialidasen von Zellen des Wirtsorganismus
+auf eigene Glycokonjugate (Übersicht bei Colli, 1993).
+
+3
+
+Die meisten Bakterien, die Sialinsäuren besitzen, sind pathogen für Menschen und Tiere, so zum
+Beispiel E. coli und Neisseria meningitidis. Dies führte zu der Hypothese, daß die Bakterien
+ihren
+
+Sialinsäurestoffwechsel
+
+durch
+
+horizontalen
+
+Gentransfer
+
+von
+
+den
+
+jeweiligen
+
+Wirtsorganismen erworben haben (Varki, 1992). Andererseits exprimieren auch einige nichtpathogene Bakterien, wie beispielsweise einige Rhodobacter-Spezies, Sialinsäuren (Krauss et
+al,,1992), was zusammen mit der schwachen Sequenzhomologie der funktionell verwandten
+Gene der Sialinsäurebiosynthese von Bakterien und Vertebraten eher für die Entstehung des
+Zuckers
+
+während
+
+eines
+
+frühen
+
+Stadiums
+
+der
+
+Evolution
+
+in
+
+einem
+
+gemeinsamen
+
+Vorläuferorganismus spricht (Angata und Varki, 2002).
+
+1.3. Biosynthese von Sialinsäuren
+Die Biosynthese der Sialinsäuren endet mit der Synthese des aktivierten Nucleotidzuckers CMPNeu5Ac, zuvor fünf enzymatische Schritte: Zunächst wird UDP-GlcNAc von der UDP-GlcNAc2-Epimerase/ManNAc-Kinase in zwei enzymatischen Reaktionen in ManNAc-6-Phosphat
+umgewandelt. Dabei entsteht zunächst, über das Intermediat [N-Acetyl]-2-Amidoglucal,
+ManNAc (UDP-GlcNAc-2-Epimerase). Die benötigte Reaktionsenergie entsteht durch das
+Abspalten des UDP. ManNAc wird nun phosphoryliert, wobei ATP als Phosphatdonator dient
+(ManNAc-Kinase) und ManNAc-6-Phosphat entsteht. Dieses wird im nächsten Schritt durch die
+Neu5Ac-9-Phosphat-Synthease zu ManNAc-9-Phosphat. Für diese Neu5Ac-9-Reaktion wird
+Phosphoenolpyruvat benötigt. Als nächstes wird das Phosphat von der Neu5Ac-9-PhosphatPhosphatase abgespalten, und es entsteht Neu5Ac, welches durch die CMP-Neu5Ac-synthetase,
+unter CTP-Verbrauch, in den aktivierten Nucleotidzucker CMP-Neu5Ac umgewandelt wird.
+Die ersten vier Schritte werden im Cytosol katalysiert. Der letzte Schritt, die Bildung des CMPNeu5Ac, erfolgt im Gegensatz zu allen anderen Nukleotidzuckern, im Kern. Die biologische
+Bedeutung dieses überraschenden Vorganges ist noch unbekannt.Die Nucleotidzucker CMPNeu5Ac, erfolgt im Kern. Die Nukleotidzucker CMP-Neu5Ac und CMP-Neu5Gc werden mittels
+eines spezifischen Transporters aus dem Cytosol durch einen Antiport mit CMP in die GolgiVesikel
+
+transportiert
+
+(Abeijon
+
+et
+
+1997).
+
+al.,
+
+Der
+
+entsprechende
+
+eukaryontische
+
+Nucleotidzuckertransporter ist kloniert und molekular charakterisiert worden (Eckhardt et al.
+,1996). Neu5Ac wird im trans-Golgi bzw. im trans-Golgi-Reticulum durch verschiedene
+Sialyltransferasen, welche CMP-Neu5Ac oder CMP-Neu5Gc als Substrat benötigen, auf die Nund O- Glycane von Glycoproteinen und auf Glycosphingolipide übertragen (Kornfeld und
+
+4
+
+Kornfeld, 1985). Über die Zell- und Substratspezifität dieser etwa 25 Sialyltransferasen ist erst
+wenig bekannt. Erst nach diesem Schritt werden die verschiedenen Modifikationen an den
+Hydroxylgruppen der Neu5Ac durch Acetyl-, Lactoyl-, Methyl- und Sulfonyltransferasen
+eingeführt, was zu der großen Vielfalt der Sialinsäuren führt. Einzige Ausnahme ist die Neu5Gc,
+deren N-Acetylrest bereits auf der Ebene von CMP-Neu5Ac durch die CMP-Neu5Achydroxylase hydroxyliert wird (Shaw und Schauer, 1988). Für den Abbau und die
+Wiederverwertung von Sialinsäuren aus Glycokonjugaten sind intrazelluläre, meist lysosomale
+hydrolytische Enzyme notwendig.
+Neuerdings ist es gelungen, die N- Acetylseitenkette der Sialinsäure mit einem einfachen
+Vorgehen biochemisch zu modifizieren. Statt des physiolpgischen Vorläufers der Neu5Ac, NAcetylmannosamin, wurde ein um eine Methylengruppe verlängerter Vorläufer, das NPropanoylmannosamin, in vitro bzw. in vivo zur entsprechenden N-Propanoylneuraminsäure
+metabolisiert und in Glycokonjugate eingebaut (Kayser et al., 1992). Auch N-Acyl-homologe
+Mannosaminderivate wurden metabolisiert, wodurch die Anzahl der biologisch aktiven
+Sialinsäuren deutlich erhöht wurde (Keppler et al., 2001). Dieses Verfahren wurde in
+modifizierter Forn von mehreren Gruppen in unterschiedlichen Ländern übernommen. Am
+erfolgreichsten von den Gruppen um Bertozzi und Yorema, welche reaktive Oligosaccharide auf
+Zelloberflächen exprimieren konnten. Diese konnten unter physiologischen Bedingungen
+kovalente Bindungen mit Molekülen, welche eine komplementäre reaktive Gruppe tragen,
+eingehen (Mahal et al., 1997)
+
+1.4. Funktion der Sialinsäuren
+Aufgrund ihrer Variabilität tragen Sialinsäuren entscheidend zur Strukturvielfalt von
+Glycokonjugaten bei. Deshalb lassen sich zahlreiche biologischen Funktionen direkt mit
+Sialinsäuren in Verbindung bringen. Sie eignen sich aufgrund ihrer physikalischen Eigenschaften
+und ihres sauren Charakters besonders für einige spezifische Funktionen. Beispielsweise können
+sie biologisch aktive Strukturen mit terninalen Galaktosen maskieren und somit deren Erkennung
+durch Asialglycoproteinrezeptoren der Leber verhindern (Ashwell et al., 1989, Kelm und
+Schauer, 1997). Außerdem sorgt ihre negative Ladung für das Abstoßen von Zellen
+untereinander oder von der extrazellulären Matrix. Zahlreiche Tumoren überexprimieren
+Sialinsäuren auf ihren Oberflächen, was zum Entzug vor der Erkennung durch das Immunsystem
+
+5
+
+führt und mit einer erhöhten Malignität in Verbindung gebracht wird (Bhavanadan, 1991;
+Hakomori, 1989). Zu diesem Zweck nutzen Zellen des Wilms-Tumor sogar Polysialinsäuren
+(Roth et al., 1988).
+Aber auch bei physiologischen Prozessen spielen Polysialinsäuren eine wichtige Rolle, so zum
+Beispiel bei der Vermittlung der Abstoßung neuronaler Zellen im Embryonalstadium (Hoffman
+und Edelman, 1983). Die variable Polysialierung neuronaler Zellen reguliert die Plastizität des
+neuronalen Systems während der Entwicklung und hilft außerdem bei Lernvorgängen und der
+Ausbildung des Gedächtnisses (Bruses und Rutishauser, 2001).
+Aufgrund ihrer Lage auf den Oberflächen von Zellen sind Sialinsäuren an unterschiedlichen
+Adhäsionsvorgängen beteiligt. Wichtig für die Vermittlung dieser Vorgänge sind spezifisch
+bindende Lektine. So wird zum Beispiel das Rolling, welches das Einwandern der Leukozyten in
+aktiviertes Gefäßendothel initiiert, durch die Interaktion von Selektinen mit der Oberfläche der
+Leukozyten gesteuert. Hierbei dient das Sialyl-Lewisx-Antigen, welches peripher Neu5Ac
+besitzt, als Rezeptor für E-Selektin.
+
+NeuAc
+
+α2-3
+
+Gal
+Fuc
+
+β1-4
+
+GlcNAcβ1α1-3
+
+Sialyl-Lex -Antigen
+Die größte Familie Sialinsäure-bindender Lektine in Säugetieren bilden die Siglecs. Beim
+Menschen sind 13 verschiedene Siglecs gefunden worden. Die meisten befinden sich auf den
+Zellen des Immunsystems. Näher untersucht wurde zum Beispiel Siglec1/Sialoadhäsin, welches
+ausschließlich von Makrophagen exprimiert wird und die Interaktion dieser Zellen mit anderen
+Zellen des Immunsystems über die Bindung 2,3-gebundener Sialinsäuren reguliert (Hartner et
+al., 2001). Siglec2/CD22 ist an der homophilen Interaktionen von B-Zellen beteiligt und bindet
+ausschließlich 2,6-verknüpfte Sialinsäuren (Tedder et al., 1997).
+Andererseits nutzen auch Pathogene Sialinsäuren als Bindungspartner auf ihren Zielzellen. So
+sind virale Hämagglutinine sialinsäurebindende Lektine, welche die Agglutination von
+Erythrozyten vermitteln können. Das Hämagglutinin des Influenza A-Virus ist das derzeit am
+besten untersuchte. Seine Spezifität für bestimmte Sialinsäuretypen ist streng abhängig von der
+
+6
+
+Sialylierung der Wirtszelle, z.B. von Mensch, Huhn oder Schwein (Suzuki et al., 2000). So kann
+es durch Kreuzinfektionen von Influenza A-Viren, insbesondere bei Haustieren untereinander
+und mit Menschen, verstärkt durch horizontalen Gentransfer unter den Virusspezies vorkommen,
+so daß sich tierische Viren an humane Zellen anpassen und so zu saisonalen Epidemien führen
+(Ito et al., 1998). Influenzaviren besitzen noch ein zweites Sialinsäure-bindendes Protein, eine
+Neuraminidase, welche nach der Reifung den über das Hämagglutin an die Wirtszelle
+gebundenen Virus von der Plasmamembran abtrennt und so die Infektion neuer Zellen erlaubt
+(Taylor, 1996). Spezifische Inhibitoren der Neuraminidase konnten zu marktfähigen
+Medikamenten wie Relenza und Zanamvir weiterentwickelt werden (v. Itzstein et al.1993, Cheer
+und Wagstaff, 2002).
+Mittels „Biochemical Engeneering“ der N-Acyl-Seitenkette der NANA konnte die entscheidende
+Rolle der sialylierten Rezeptoren der Wirtszellen für Wechselwirkungen mit verschiedenen
+Viren gezeigt werden. Synthetisch N-Acyl-modifizierte D-Mannosamine können von Zellen
+aufgenommen und sowohl in vitro als auch in vivo zu entsprechenden N-Acyl-modifizierten
+Neuraminsäuren metabolisiert werden. Solche erfolgreich in Zellen eingebrachte DMannosamine sind beispielsweise N-Propanoyl- (ManNProp), N-Butanoyl- (ManNBut), NPentanoyl- (ManNPent) D-Mannosamin. Alle diese Verbindungen werden im SialinsäureBiosynthesepfad metabolisiert und in Sialoglycokonjugaten der Zelloberfläche eingebaut, wobei
+sie je nach Zell-Typ 10-85% der normalen Sialinsäuren ersetzen. Die Verwendung dieser
+Verbindungen in verschiedenen biologischen Systemen hat wichtige und unerwartete Funktionen
+der N-Acyl Seitenkette von Sialinsäuren offenbart, so zum Beispiel die ausschlaggebende Rolle
+für die Wechselwirkung von Polyoma- oder Influenza A-Viren mit den sialylierten Rezeptoren
+der Wirtszelle (Keppler et al., 2000).
+Adhäsine, die Sialinsäure-bindenden Lektine pathogener Bakterien, vermitteln ebenfalls die
+Bindung des Mikroorganismus an die Wirtszelle (Ofek und Sharon, 1990). Da die Expression
+der Adhäsine oft stammspezifisch erfolgt, werden meist auch definierte Gewebe infiziert. In
+einigen Fällen können auch Toxine von Mikroorganismen Sialinsäuren binden. Choleratoxin
+bindet zum Beispiel mit seinen fünf B-Untereinheiten Ganglioside der Plasmamembran vom Typ
+GM1 und kann nach dieser Fixierung die toxisch wirkende A-Untereinheit in das Cytosol der
+Zelle transferieren (Richards et al., 1979). Botulinustoxin und Diphtherietoxin nutzen ebenfalls
+die Bindung an Ganglioside innerhalb ihres Infektionsmechanismus (Schengrund et al., 1991).
+Für die biologische Funktion einiger Glycoproteine ist die Präsenz von Sialinsäuren
+unabdingbar. So führt zum Beispiel die Desialylierung des Somatostatinrezeptors zu einer
+wesentlich schlechteren Ligandenbindung (Rens-Domiano und Reisine, 1991). Ebenso ist die
+7
+
+Asialoform des Nukleoporins p62, welches den aktiven Proteintransport vom Cytosol in den
+Zellkern unterstützt, in seiner Aktivität stark reduziert (Emig et al., 1995). Für Erythropoetin
+wurden ähnliche Beobachtungen gemacht (Wasley et al., 1991); dies ist allerdings auf die stark
+verminderte Halbwertzeit des Asialoproteins im Blut zurückzuführen (Egrie und Brown, 2001).
+Die Zirkulationszeit von Blutzellen wird ebenfalls durch ihren Gehalt an terminalen Sialinsäuren
+reguliert: Mit der Zeit verlieren Erythrozyten und Thrombozyten Sialinsäuren oder
+Sialoglycoproteine und werden dann von Zellen des reticuloendothelialen Systems erkannt und
+abgebaut (Kluge et al., 1992; Schlepper-Schäfer et al., 1980). Des Weiteren erkennen in der
+Leber
+
+lokalisierte
+
+Asialoglycoproteinrezeptoren
+
+Serumglycoproteine
+
+und
+
+Antigen-
+
+Antikörperkomplexe nach Verlust ihrer Sialinsäuren, so daß sie endocytiert und in den
+Lysosomen abgebaut werden können (Ashwell und Harford, 1982). Ob die Zellen
+beziehungsweise Glycoproteine ihre Sialinsäuren durch nicht-enzymatische Hydrolyse oder
+durch Sialidasen verlieren, wurde bis heute nicht geklärt.
+Autoantikörper gegen Ganglioside konnten bei einigen autoimmunen Funktionsstörungen
+nachgewiesen werden, beispielsweise beim Guillain-Barré-Syndrom, bei multipler Sklerose,
+Lupus erythematodes, Haschimoto Thyreioiditis und auch beim Diabetes mellitus Typ I. Hier
+konnten Autoantikörper und T- Lymphozyten gegen verschiedene Insel-Antigene lange vor dem
+Auftreten
+
+klinischer Anzeichen im Blutkreislauf nachgewiesen werden. Während dieser
+
+Prodromalphase werden wahrscheinlich die pankreatischen β-Inselzellen zerstört. Unter den
+Ziel-Autoantigenen sind einige Proteine, andere aber saure Glycolipide wie die Ganglioside
+GT3, GD4 und vor allem GM2-1. Es wird spezifisch in den Inselzellen des Pankreas exprimiert.
+Es wurde nachgewiesen, daß GM2-1 ein Ziel für IgG-Antikörper darstellt, welche mit dem
+Entstehen von Diabetes mellitus bei Verwandten ersten Grades von Typ I-Diabetikern in
+Verbindung gebracht werden (Miasi et al., 1997). Das Guillain-Barré-Syndrom wird häufig mit
+einer Campylobacter jejuni-Infektion in Verbindung gebracht. Dieses Bakterium besitzt eine
+Lipopolysaccharid-Struktur, welche den Zucker-Epitopen von Sialinsäure-haltigen Glycolipiden
+und Gangliosiden ähnlich sind und dadurch das primäre Antigen für Anti-Gangliosid-Antikörper
+darstellen können (Fredmann 1998).
+
+8
+
+1.5. Erbkrankheiten aufgrund defekter Sialinsäure-Synthese
+Einige Erbkrankheiten zeigen, wie vielfältig Sialinsäuren in unserem Organismus vorkommen
+und wie wichtig sie für die Entwicklung und für das physiologische Funktionieren unseres
+Organismus sind.
+Sialurie ist eine seltene autosomal dominant erbliche Stoffwechselkrankheit, welche eine
+Anhäufung von freien Sialinsäuren im Cytoplasma und deren vermehrte Ausscheidung im Urin
+(mehrere Gramm freier Neu5Ac pro Tag) zur Folge hat. Die bisher untersuchten Patienten
+weisen eine Punktmutation von Arginin-263 beziehungsweise Arginin-266 der UDP-GlcNAc-2Epimerase/ManNAc-Kinase auf (Sepalla et al., 1999). Die Mutationen treten heterozygot auf,
+der Gendefekt wird also dominant vererbt (Leroy et al., 2001). Der Überproduktion von Neu5Ac
+liegt ein Verlust des Feedback-Mechanismus der UDP-GlcNAc-2-Epimerase durch das
+Endprodukt CMP-Neu5Ac zugrunde (Seppala et al., 1991; Weiss et al., 1989, Kornfeld et al.,
+1964). Die Krankheit manifestiert sich innerhalb weniger Monate nach der Geburt mit
+Hepatomegalie und psychomotorischer Retardierung (Ferreira et al., 1999; Enns et al., 2001).
+Die erbliche Einschlusskörper-Myopathie (hereditary inclusion body myopathy, HIBM) ist eine
+einzigartige Gruppe von neuromuskulären Störungen, mit Manifestation im Erwachsenen alter,
+langsam fortschreitende distale und proximale Schwäche und einer typischen Muskel-Pathologie
+mit geriffelten Vakuolen und filamentösen Einschlüssen. Die Myopathie betrifft hauptsächlich
+die Beinmuskulatur, wobei die Verteilung ungewöhnlich ist, da der M. quadriceps femoris nicht
+betroffen ist. Dieses spezielle Verteilungsmuster, welches Quadrizeps-aussparende Myopathie
+(quadriceps-sparing myopathy, QSM) genannt wird, wurde sowohl bei Juden, welche aus dem
+Mittleren Osten stammten, wie auch bei Nicht-Juden aus dieser Region entdeckt. Das Gen,
+welches für die HIBM bei Juden aus dem Mittleren Osten verantwortlich ist, wurde auf dem
+Chromosom 9p12-13 lokalisiert. Genomische Untersuchungen bei 104 Betroffenen aus 47
+Familien deuten auf ein einziges Gründerchromosom für diese Gruppe. Dagegen zeigen einzelne
+nicht-jüdische Familien aus Indien, den USA, Japan und den Bahamas mit Fällen von QSM,
+welche ebenfalls im Zusammenhang mit der gleichen 9p12-13 Region drei verschiedene
+Haplotypen (Literatur). Nachdem andere potentielle Gene ausgeschlossen worden waren, wurden
+die Mutationen in dem Gen der UDP-GlcNAc-2-Epimerase/ManNAc-Kinase von HIBMPatienten entdeckt.
+
+9
+
+1.6. Die UDP-GlcNAc-2-Epimerase/ManNAc-kinase
+Die ersten beiden Schritte der Sialinsäurebiosynthese, nämlich die Umwandlung von UDPGlcNAc zu ManNAc-6-Phosphat unter Freisetzung von UDP über ManNAc, werden von der
+UDP-GlcNAc-2-Epimerase/ManNAc-Kinase katalysiert. Da gezeigt wurde, daß es sich hierbei
+um ein bifunktionelles Enzym handelt (Hinderlich et al., 1997; Stäsche et al., 1997; Effertz et
+al., 1997) bezieht sich der ältere Teil der vorhandenen Literatur auf getrennte Enzyme
+beziehungsweise Enzymaktivitäten. Entdeckt wurde die UDP-N-Acetylglucosamin-2-Epimerase
+von Cardini und Leloir (1957). Sie beschrieben jedoch, daß sie UDP-GlcNAc in GalNAc spaltet.
+Kurz darauf wurde aber von Comb und Roseman (1958) richtiggestellt, daß es sich bei dem
+Reaktionsprodukt um ManNAc handelt. Erst 1997 gelang es, eine stabile und homogene
+Fraktion aus Rattenleber zu gewinnen (Hinderlich et al., 1997).
+Die Enzyme der Sialinsäure-Biosynthese konnten in allen bisher untersuchten Geweben
+nachgewiesen werden, wobei jedoch ihr Expressionsniveau stark variiert (van Rinsum et al.,
+1983; van Rinsum et al., 1984; Corfield et al., 1985). Gewebe mit einer hohen Produktionsrate
+von Serumglycoproteinen und Mucinen, wie zum Beispiel Leber, Darmmucosa oder
+Speicheldrüse, zeigen hohe Expressionsraten einiger Enzyme, vor allem aber des
+Schlüsselenzyms, der UDP-GlcNAc-2-Epimerase. Hepatomgewebe, welches nicht zur Sekretion
+von Proteinen fähig ist, zeigt im Gegensatz dazu eine stark verminderte Expression von
+Enzymen der Sialinsäurebiosynthese (Harms et al., 1973). Dies deutet darauf hin, daß
+Serumglycoproteine einen Großteil der neu synthetisierten Proteine für sich beanspruchen.
+Bisher wurde die UDP-GlcNAc-2-Epimerase/ManNAc-Kinase aus Ratte (Stäsche et al., 1997),
+Maus (Horstkorte et al., 1999) und Mensch (Lucka et al., 1999) kloniert. Es zeigte sich, daß die
+Homologie der Aminosäuresequenz sehr hoch ist: von 722 Aminosäuren sind zwischen Ratte
+und Maus vier, zwischen Ratte und Mensch zehn und zwischen Maus und Mensch zwölf
+unterschiedlich. Punktmutationen konservierter Aminosäuren führen zu einem selektiven Verlust
+der Enzymaktivität der jeweils betroffenen Domäne, ohne die Aktivität der anderen zu
+beeinflussen (Effertz et al., 1999). Sequenzvergleiche mit Zuckerkinasen beziehungsweise
+bakteriellen UDP-GlcNAc-2-Epimerasen legen zwei funktionelle Domänen nahe, eine Nterminale Epimerase- und eine C-terminale Kinase-Domäne. Die Domänen lassen sich auch
+getrennt funktionell exprimieren (Blume et al., 2004), was auf zwei relativ autarke Domänen
+schließen lässt. Eine Funktion welche der Zusammenschluß von UDP-GlcNAc-2-Epimerase und
+ManNAc-Kinase zu einem bifunktionellen Enzym haben könnte, ist daß bei niedrigen ManNAc-
+
+10
+
+Konzentrationen das ManNAc vom Epimerase-Zentrum zum Kinase-Zentrum „herübergereicht“
+werden kann.
+Das gereinigte Enzym aus Rattenleber kommt in Anwesenheit von UDP-N-Acetylgucosamin
+bevorzugt als Tetramer vor (Ghaderi et al., 2007). Kornfeld et al. (1964) konnten zeigen, daß die
+UDP-GlcNAc-2-Epimerase durch CMP-Neu5Ac Feedback-inhibiert wird. Hinzu kommt, daß
+das Enzym durch die Proteinkinase C phosphoryliert und dadurch aktiviert wird (Horstkorte et
+al., 2000). Diese komplexen Regulationsmechanismen zeigen, daß die UDP-GlcNAc-2Epimerase ein Schlüsselenzym der
+
+Neu5Ac-Biosynthese ist. Solche Regulationsmechanismen
+
+weden bei der ManNAc-Kinase nicht beobachtet.
+Durch Arbeiten an hämatopoetischen Zellinien, welche keine Expression der UDP-GlcNAc-2Epimerase mehr aufwiesen, konnte die zentrale Rolle des Enzyms für die Regulation der
+Sialierung von Glycoproteinen und Glycolipiden der Plasmamembran gezeigt werden (Keppler
+et al., 1999). Solche Zellen sind nicht mehr in der Lage, eigenständig Sialinsäuren zu bilden und
+weisen zahlreiche funktionelle Defekte auf, wie etwa das Fehlen der homophilen Interaktion von
+CD22 oder von P-Selektin mit seinen Liganden (Keppler et al., 1999). Wird die UDP-2GlcNAc-Epimerase/ManNAc-Kinase durch gezielte Mutagenese in der Maus ausgeschaltet,
+sterben die Embryonen spätestens am Tag 8,5 der Embryonalentwicklung (Schwarzkopf et al.,
+2002). Diese Ergebnisse beweisen die essentielle Rolle der Sialinsäuren für die
+Embryonalentwicklung,
+Der Reaktionsmechanismus der UDP-GlcNAc-2-Epimerase ist relativ gut untersucht. Sie
+benötigt im Gegensatz zu anderen Epimerasen (z. B. die UDP-GlcNAc-4-Epimerase) kein
+Coenzym, wie etwa NADH, für die katalytische Reaktion, welche höchstwahrscheinlich in drei
+Schritten erfolgt (Tanner 2002). Im ersten Schritt wird das nicht-azide Wasserstoffatom am C2
+durch eine Base abstrahiert, dann erfolgt die Elimination von UDP und schließlich die
+stereospezifische Re-Addition des Wasserstoffatoms an C2 und die Addition von OH an C1.
+Acetamidoglucal wurde schon früh als wichtiges Zwischenprodukt postuliert (Sommer und Ellis,
+1972), und die Entdeckung des Metaboliten im Urin von Sialurie-Patienten belegte den
+beschriebenen Mechanismus (Kamerling et al., 1979).
+Der zweite Schritt der Neu5Ac-Biosynthese, die Phosphorylierung von ManNAc am C6-Atom,
+wird von der ManNAc-Kinase katalysiert. Entdeckt wurde sie von Gosh und Roseman (1961),
+eine erste Charakterisierung und partielle Anreicherung des Enzyms, welches sich instabil
+verhielt, erfolgte durch Kundig et al. (1966). Eine stabile homogene Fraktion aus Rattenleber zu
+gewinnen, gelang erst Hinderlich et al. (1997). Wie bei einem bifunktionellen Enzym zu
+erwarten, sind subzelluläre Lokalisation und Gewebeverteilung identisch mit der UDP-GlcNAc11
+
+2-Epimerase (van Rinsum et al., 1983). Des weiteren wurde in Hepatomen eine stark verringerte
+Aktivität, bei erhaltener Kinaseaktivität, nachgewiesen (Harms et al., 1973), ebenfalls ein früher
+Hinweis darauf, daß es sich bei der UDP-GlcNAc-2Epimerase/ManNAc-Kinase nicht um zwei
+einzelne sondern um ein bifunktionelles Enzym handelt.
+Die ManNAc-Kinase ist spezifisch für ManNAc als Substrat, sie kann aber auch ManNAcDerivate phosphorylieren, die an ihrer N-Acetylseitenkette modifiziert sind. So können sowohl
+ManNGc (Kundig et al., 1966) als auch ManNAc-Derivate mit verlängerten N-Acylresten
+(Kayser et al., 1992) in die Neu5Ac-Biosynthese eingeschleust werden.
+
+12
+
+2. ZIELSETZUNG DER VORLIEGENDEN ARBEIT
+Die UDP-GlcNAc-2-Epimerase ist das Schlüsselenzym der Sialinsäurebiosynthese. Daher ist es
+für viele Untersuchungen wichtig, die Struktur des Enzyms und insbesondere seines aktiven
+Zentrums zu kennen. Da von dem Enzym bis heute keine Kristallstruktur vorliegt, wird in dieser
+Arbeit ein anderer Ansatz gewählt. Zur Umsetzung des Substrats UDP-GlcNAc in der Epimerase
+scheint es plausibel, daß der bei allen Wirbeltieren konservierte Tryptophanrest W204 (Abb. 3)
+mit seiner hydrophoben Seitenkette durch Interaktion mit dem Pyranosering des Zuckers oder
+mit dem Riboseteil des Nucleotids UDP im aktiven Zentrum des Enzyms für den Angriff einer
+Base optimal ausrichtet. Ziel dieser Arbeit ist es daher, die Rolle dieses Tryptophanrestes bei der
+Enzymkatalyse durch Vergleich der Aktivität von Mutanten der UDP-GlcNAc-2-EpimeraseDomäne zu analysieren. Zu diesem Zweck sollte die cDNA für die Mutanten W204A, W204I,
+W204F und W204H hergestellt werden, die mutierten Proteine exprimiert und deren
+enzymatische Aktivität bestimmt werden. Zur Expression des Wildtyps und der Mutanten wird
+die Hefe S. cerevisiae benutzt, da dieser Organismus in der Lage ist, Proteine von der Größe der
+UDP-GlcNAc-2-Epimerase/ManNAc-Kinase zu exprimieren und eine nur geringe endogene
+Aktivität aufweist.
+
+1.Mensch
+
+DYMSIIRMWLG__DDVKSKDY
+
+2.Schimpanse
+
+DYMSIIRMWLG__DDVKSKDY
+
+3.Pongo
+
+DYMSIIRMWLG__DDVKSKDY
+
+4.Ratte
+
+DYMSIIRMWLG__DDVKCKDY
+
+5.Maus
+
+DYMSIIRMWLG__DDVKCKDY
+
+6.Hamster
+
+DYMSIIRMWLG__DDVKCKDY
+
+7.Huhn
+
+DYMSIIRMWLGSKEMVRVMRK
+
+8.Fugu
+
+DYMSIIRMWLG__DNVKEHDY
+
+9.Zebrafisch
+
+DYMSIIRMWLG__DDVKEQDY
+
+Abbildung 3: Das konservierte Tryptophan-204 innerhalb der Proteinsequenz der
+Epimerase bei verschiedenen Wirbeltieren.
+
+13
+
+3. ERGEBNISSE
+
+3.1. Auswahl der Mutanten des Tryptophan-204 der UDP-GlcNAc-2-Epimerase
+Eine Rolle des Tryptophan-Restes 204 bei der Enzymkatalyse der UDP-N-GlcNAc-2-Epimerase
+erscheint bei einem Vergleich mit UDP-Glucose-Glycosyltransferasen aus Bakterien möglich.
+So wurde gezeigt, daß ein konservierter Tryptophanrest in die Bindung von UDP-Glucose durch
+die Glycosyltransferase des Cytotoxins aus Clostridien involviert ist (Busch et al., 2000). In
+Analogie dazu könnte W204 der Epimerase den UDP-GlcNAc-Rest im aktiven Zentrum des
+Enzyms binden und korrekt orientieren. Hierbei könnte der Tryptophan-Ring direkt mit dem
+inneren hydrophoben Anteil des GlcNAc-Pyranose-Ringes interagieren und ihn so für die
+Epimerase-Reaktion im aktiven Zentrum ausrichten. Träfe dies zu, so sollte der Austausch des
+W204-Restes mit kleineren Seitengruppen (z. B. Alanin), oder raumgreifenden hydrophoben
+Seitengruppen (z.B. Ile), die eine spezifische Bindung mit dem GlcNAc-Ring nicht erlauben, zur
+Erniedrigung der spezifischen Aktivität des Enzyms führen. Es besteht allerdings auch die
+Möglichkeit, daß lediglich die aromatischen Eigenschaften des Indolrings des Tryptophans für
+die Bindung wichtig sind. Somit sollte der Austausch gegen eine andere aromatische Gruppe,
+etwa des Phenylalanins oder des Histidins, zu einer geringeren oder keiner Aktivitätsminderung
+führen (Strukturformeln der Aminosäuren siehe Abb. 4) Zur Analyse des Beitrags des
+Tryptophan-Restes 204 zum Reaktionsmechanismus des Enzyms sollte daher die Aktivität von
+Punktmutanten der UDP-GlcNAc-2-Epimerase, in denen W204 gegen die Aminosäurereste von
+Alanin, Phenylalanin, Isoleucin und Histidin ausgetauscht wurde mit dem Wildtyp verglichen
+werden. Dazu sollen die Punktmutationen (Abb. 5) durch gerichtete Mutagenese in die cDNA
+des Gens der UDP-GlcNAc-2-Epimerase/ManNAc-Kinase eingeführt werden (Abb. 6).
+
+3.2. Generierung der Punktmutanten durch gerichtete Mutagenese
+Zur Einführung der Punktmutationen wurde die Methode der Site-Directed-Mutagenesis
+verwendet (Abb. 6). Bei dieser Methode werden degenerierte Primer in einer PCR eingesetzt, die
+die Mutation mittig tragen. Die für die Herstellung der einzelnen Mutanten spezifischen als
+Primer verwendeten Oligonucleotide sind im Methodenteil aufgelistet. Die PCR amplifiziert den
+kompletten Vektor. Parentale cDNA wird anschließend durch DpnI-Verdau entfernt. Mit den
+PCR-Produkten werden superkompetente E.coli-Zellen transformiert und auf Selektionsmedium
+14
+
+gezüchtet. Einzelne Kolonien werden expandiert, deren Plasmide gereinigt und der
+Sequenzanalyse unterworfen. „Richtige“ Plasmide werden dann vermehrt um größere Mengen
+an DNA für weitere Versuche zur Verfügung zu haben.
+
+197
+
+204
+
+211
+
+Wildtyp Tyr Met Ser
+
+Ile
+
+Ile
+
+Arg Met Trp Leu Gly Asp Asp Val Lys Cys
+
+W204A Tyr Met Ser
+
+Ile
+
+Ile
+
+Arg Met Ala Leu Gly Asp Asp Val Lys Cys
+
+W204I
+
+Tyr Met Ser
+
+Ile
+
+Ile
+
+Arg Met Ile
+
+W204F Tyr Met Ser
+
+Ile
+
+Ile
+
+Arg Met Phe Leu Gly Asp Asp Val Lys Cys
+
+W204H Tyr Met Ser
+
+Ile
+
+Ile
+
+Arg Met His
+
+Leu Gly Asp Asp Val Lys Cys
+Leu Gly Asp Asp Val Lys Cys
+
+Abbildung 4: Position der Mutationen im Vergleich zum Wildtyp
+Ausschnitt der Aminosäuresequenz der UDP-GlcNAc-2-Epimerase/ManNAc-Kinase sowie der
+zu untersuchenden Mutanten. Dargestellt sind die Aminosäuren 197 bis 211, die Mutation ist
+jeweils unterstrichen.
+
+1)
+
+2)
+
+3)
+
+4)
+
+5)
+
+Abbildung 5: Darstellung der Aminosäuren Tryptophan, Alanin, Isoleucin, Phenylalanin
+und Histidin in Strukturformeln.
+
+15
+
+Abbildung 6: Prinzip der QuickChangeTM Site-Directed-Mutagenesis.
+Doppelsträngige Plasmid-DNA wird bei 95 °C denaturiert, so daß sich nach dem Auftrennen der
+Doppelstrang-DNA Oligonukleotidprimer, mit der einzuführenden Mutation, anlagern können.
+Ausgehend von diesen Primern werden von der PfuTurbo-DNA-Polymerase komplementäre
+Stränge synthetisiert. Anschließend wird die parentale, methylierte und nicht mutierte DNA
+selektiv durch die Endonuklease Dpn I abgebaut. Die circuläre, doppelsträngige DNA mit der
+eingeführten Mutation wird in kompetente E. coli-Zellen transformiert.
+
+16
+
+Die cDNA der UDP-GlcNAc-2-Epimerase/ManNAc-Kinase lag bereits kloniert im Vektor
+pFastBac vor (Abb. 7). Mit ihm wurden verschiedene Site-Directed-Mutagenesis-PCR´s für die
+Herstellung der Punktmutanten W204A, W204F, W204H und W204I durchgeführt. Abb. 8 zeigt
+die erhaltenen PCR-Produkte für W204A, W204F und W204I. Trotz vielfacher Versuche war es
+leider nicht möglich, die cDNA für die Mutante W204H zu gewinnen. Daher musste auf die
+Herstellung dieser Mutante verzichtet werden. Die erhaltenen PCR-Produkte wurden in E.coli
+transformiert und die amplifizierten Plasmide isoliert. Anschließend wurde das Gen der UDPGlcNAc-2-Epimerase/ManNAc-Kinase
+
+in
+
+allen
+
+Fällen
+
+komplett
+
+sequenziert,
+
+um
+
+die
+
+entstandenen Mutationen nachzuweisen und eventuelle ungewollte Mutationen auszuschließen.
+
+Xho
+4199
+
+UDP-GlcNAc-2Epimerase/ManNAc-Kinase
+
+BamHI
+4127
+EcoRI
+5602
+
+pFastBac
+BamHI
+6364
+KpnI
+6388
+
+Abbildung 7: Der Vektor pFastBac
+Dargestellt ist der Vektor mit dem Gen der UDP-GlcNAc-2-epimerase/ManNAc-Kinase als
+Insert zwischen den Schnittstellen für BamHI.
+
+17
+
+Abbildung 8: Auftrennung der Vektoren pFastBac/UDP-GlcNAc-2-Epimerase/ManNAcKinase nach Site-Directed-Mutagenesis durch Agarosegelelektrophorese.
+Die Mutanten W204F (1), W204A (2) und W204I (3) der UDP-GlcNAc-2-Epimerase. Die
+cDNA war in den Vektor pFastBac kloniert.
+
+3.3. Pilotexpression der UDP-GlcNAc-2-Epimerase/ManNAc-Kinase in S. cerevisiae
+Bei pFastBac handelt es sich um einen Vektor für die Proteinexpression in Insektenzellen mit
+Hilfe des Baculovirussystems. Dieses System ist technisch sehr aufwendig und wird in erster
+Linie
+
+für
+
+die
+
+Expression
+
+großer
+
+Proteinmengen
+
+genutzt.
+
+Da
+
+für
+
+die
+
+angestrebte
+
+Charakterisierung der Mutanten nur geringe Enzymmengen benötigt werden, wurde wegen der
+leichteren Zugänglichkeit und Kostengünstigkeit in dieser Arbeit das Expressionssystem der
+Hefe S. cerevisiae benutzt. Um die Funktionalität des Systems zu überprüfen, wurde zunächst
+eine Pilotexpression des Wildtyp-Enzyms durchgeführt. Dafür wurde die cDNA der UDPGlcNAc-2-Epimerase/ManNAc-Kinase über das Restriktionsenzym BamH I in den high-copy-E.
+coli/Hefe-Shuttlevektor pYES2 (Abb. 9) umkloniert. Um sicherzustellen, daß beim Klonieren
+keine Fehler aufgetreten sind und sich die kodierende Sequenz der UDP-GlcNAc-2Epimerase/ManNAc-Kinase im richtigen Leserahmen befindet, wurde das Konstrukt
+sequenziert.
+
+18
+
+Xho
+592
+
+UDP-GlcNAc-2Epimerase/ManNAc-Kinase
+EcoRI
+1995
+
+BamHI
+520
+
+pYES
+
+BamHI
+2757
+EcoRI
+2788
+Xho
+2812
+
+Abbildung 9: Der Vektor pYES2.
+Dargestellt sind die zur Klonierung der UDP-GlcNAc-2-Epimerase/ManNAc-Kinase-Domäne
+verwendeten Schnittstellen BamHI. Das Restriktiosenzym EcoRI wurde verwendet, um die Lage
+des Inserts im Vektor zu prüfen.
+
+Anschließend wurde der pYES2/2epi-Vektor in den S. cerevisiae-Stamm INVSc1 transformiert.
+Als Kontrollen wurden zusätzlich der Leervektor und ein pYES2/lacZ-Konstrukt (Invitrogen),
+das zur Expression der -Galactosidase führt, transformiert. Die Selektion der transgenen
+Hefezellen erfolgte durch die Abwesenheit von Uracil im Medium. Der Uracil-auxotrophe
+Hefestamm INVSc1 kann Uracil durch einen Defekt im URA3-Gen nicht mehr selbst
+synthetisieren. Dieser Defekt wird durch die Anwesenheit des pYES2-Vektors, der das URA3Gen trägt, komplementiert. Die transgenen Hefen wurden in größeren Mengen in Uracildefizientem Medium angezogen. Bei einer OD600 von etwa 1,0 wurde mit 2% Galactose
+induziert, so daß das UDP-GlcNAc-2-Epimerase/ManNAc-Kinase-Gen abgelesen werden
+konnte. Zu den Zeitpunkten 0, 2, 4, 6, 8, 10 und 24 h nach der Galactose-Induktion wurde
+jeweils ein Aliquot der Hefezellen geerntet und mit Glasperlen mechanisch aufgeschlossen.
+Nach Zentrifugation wurde der proteinhaltige Überstand auf Enzymaktivitäten untersucht und
+die Anwesenheit der UDP-GlcNAc-2-Epimerase/ManNAc-Kinase bzw. der -Galactosidase in
+
+19
+
+einem SDS-Polyacrylamidgel versucht nachzuweisen. Der pYES2/lacZ-Vektor enthält das lacZGen, das für die -Galactosidase codiert, ein Enzym, das von verschiedenen Galactosederivaten
+hydrolytisch Galactose abspaltet. Die Aktivität dieses Enzyms kann in einem -Gal-Assay
+nachgewiesen werden. In den mit dem pYES2/lacZ-Vektor transformierten Hefen konnte mit
+diesem Assay -Galactosidase-Aktivität detektiert werden. Gleichzeitig wurden mittels MorganElson-Test in den mit pYES2/2epi transformierten Hefen UDP-GlcNAc-2-EpimeraseAktivitäten nachgewiesen. Damit läßt sich die UDP-GlcNAc-2-Epimerase/ManNAc-Kinase
+auch in S. cerevisiae als aktives Protein exprimieren. Um die maximale Proteinausbeute in
+Abhängigkeit von der Galactose-Induktion zu ermitteln, wurden zu verschiedenen Zeitpunkten
+Aliquots der Hefezellen geerntet und auf UDP-GlcNAc-2-Epimerase/ManNAc-Kinase bzw. Galactosidase untersucht. Werden jeweils die gemessenen Enzymaktivitäten auf die
+Proteinmengen bezogen, d.h. die spezifischen Enzymaktivitäten ermittelt, so läßt sich kein
+Zusammenhang zwischen der Galactose-Induktionszeit und der jeweiligen spezifischen
+Enzymaktivität erkennen. Nach einer sechsstündigen Galactose-Inkubation konnte eine
+geringfügig höhere Enzymkonzentration detektiert werden als zu den anderen Zeitpunkten. Aus
+den jeweiligen Aktivitätsbestimmungen konnte die Menge an überexprimiertem löslichem
+Protein pro Liter Hefekultur ermittelt werden. Da keine Relation zwischen der Zeit der
+Galactose-Induktion und der spezifischen Aktivität der Enzyme beobachtet wurde, wurde dieser
+Wert exemplarisch für t = 6 h ermittelt, wo die jeweiligen Kulturen eine OD600 von etwa 3
+hatten. Für die -Galactosidase lag dieser Wert bei etwa 90 µg/L Kultur und für die UDPGlcNAc-2-Epimerase/ManNAc-Kinase bei etwa 34 µg/L Kultur. Die Firma Invitrogen gibt für
+die Expression von Proteinen in pYES-Systemen Werte von 0,1-100 mg/L an. Die
+Proteinexpression ist somit unter sub-optimalen Expressionsbedingungen durchgeführt worden,
+da die für die UDP-GlcNAc-2-Epimerase/ManNAc-Kinase erzielten Proteinmengen mit 34 µg/L
+weit unter den erwarteten Werten von mindestens 100 µg/L liegt und dieser Wert auch nicht mit
+der -Galactosidase erzielt wurde. Da in den Hefezellen jedoch UDP-GlcNAc-2-EpimeraseAktivität nachgewiesen wurde, wurde dieses System für die nachfolgenden Versuche verwendet.
+
+20
+
+3.4. Klonierung der Gene der mutierten UDP-GlcNAc-2-Epimerase/ManNAc-Kinase in
+pYES2.
+Um die Mutanten der UDP-GlcNAc-2-Epimerase in S. cerevisiae zu exprimieren, wurde ihre
+cDNA ebenfalls mittels der Restriktionsendonuklease BamHI aus dem Vektor pFastBac
+ausgeschnitten. Die Gene wurden in der Agarose-Gelelektrophorese vom Vektor getrennt. Die
+2,2 kb-Fragmente wurden aus dem Gel ausgeschnitten und durch Gelelution gereinigt.
+Anschließend wurden die Gene in das für Hefen kompetente Plasmid pYES2/CT ligiert. Da die
+Umklonierung nur mit einem Restriktionsenzym erfolgte, musste die korrekte Lage des Inserts
+im Vektor überprüft werden. Dies geschah durch den Restriktionsverdau mit EcoRI (Abb. 9). Es
+befindet sich eine Schnittstelle im Insert in Position 1932 und eine weitere im Vektor in Position
+2725. Daraus folgt, daß bei korrekter Positionierung des Inserts Fragmente von knapp 800
+Basenpaare entstehen, bei falsch gerichteter Lage im Vektor beträgt die Größe der Fragmente ca.
+1400 Basenpaare. Diese DNA-Fragmente ließen sich dann in der Agarose-Gelelektrophorese
+nachweisen (Abb. 10). Für jede der drei Mutanten wurde mindestens ein Klon gefunden, der die
+korrekte Oriententierung aufwies. Des weiteren wurde durch Restriktionsverdau mit BamHI
+gezeigt, daß der pYES2-Vektor jeweils das komplette UDP-GlcNAc-2-Epimerase-Gen mit 2,2
+kb enthielt (Abb. 11).
+
+Abbildung 10: Restriktionsverdau des pYES2-Plasmids zur Kontrolle der Ligation und
+Analyse durch Agarosegelelektrophorese.
+Dargestellt sind die Gene der mutierten UDP-GlcNAc-2-Epimerase/ManNAc-Kinase in dem
+Vektor pYES2 nach Restriktionsverdau durch EcoRI. (1) W204A, (2) W204F, (3) W204I. Bei
+korrekter Lage des Gens ist eine Bande von 800 bp zu erwarten.
+
+21
+
+Abbildung 11: Nachweis der cDNAs für die mutierten Gene der UDP-GlcNAc-2Epimerase/ManNAc-Kinase durch Agarosegelelektrophorese.
+Die mittels der Restriktionsendonuclease BamHI aus dem Vektor pFastBac ausgeschnittenen
+cDNAs der Mutanten W204A1, W204I2 und W204F3 besteht aus ca. 2200 Basenpaaren, der
+Vektor aus ca. 4800 Basenpaaren.
+
+3.5. Expression der Mutanten der UDP-GlcNAc-2-Epimerase in S. cerevisiae
+Als erster Schritt erfolgte die Transformation der cDNAs sowohl der Mutanten als auch des
+Wildtyps in dem pYES-Vektor in Hefezellen nach der von M. Pein modifizierten
+Gefriermethode von R. J. Dohmen et al. (1991). Dafür wurden zunächst kompetente Hefezellen
+hergestellt (d. h. Zellen die fähig sind, freie zirkuläre DNA aufzunehmen) und diese mit den
+Plasmid-DNAs der verschiedenen Mutanten und des Wildtyps versetzt (siehe Material und
+Methoden). Die transformierten Zellen wurden auf Agarplatten mit Minimalmedium ausplattiert
+und vier Tage bis zum Erscheinen von Kolonien bei 30C inkubiert. Von den erhaltenen
+Transformanten wurden einzelne Klone als Strichkolonien auf Agar-Platten mit Minimalmedium
+subkultiviert. Diese Klone wurden nun wiederum in einem Schüttelinkubator vermehrt und bei
+einer OD600 mit 2% Galactose zur Proteinexpression induziert. Die Zellen wurden 6 h nach der
+Galactose-Induktion
+
+durch
+
+Zentrifugation
+
+22
+
+geerntet
+
+und
+
+mit
+
+Glasperlen
+
+mechanisch
+
+aufgeschlossen. Nach Abzentrifugation von Debris und nicht aufgeschlossenen Zellen wurde in
+den Überständen der Gesamtproteingehalt bestimmt und Aliquots dieser cytosolischen Fraktion
+zur Aktivitätsbestimmung mittels des radioaktiven UDP-GlcNAc-2-Epimerase-Assays eingesetzt
+(Tab. 1). Aus den Ergebnissen wird ersichtlich, daß die Mutante W204A keinerlei Aktivität mehr
+aufweist. Bei der Mutante W204F zeigt sich eine deutliche, aber im Vergleich zum Wildtyp
+reduzierte Aktivität. Die Mutante W204I schließlich weist zwar noch geringfügige Aktivität auf,
+welche jedoch nur knapp über der Nachweisgrenze liegt.
+
+Tabelle 1: Spezifische UDP-GlcNAc-2-Epimerase-Aktivität der UDP-GlcNAc-2-Epimerase
+Mutanten-Klone.
+Die Proteine wurden in S. cerevisiae exprimiert. Es wurden jeweils 4 unabhängige Experimente
+durchgeführt. Die Ergebnisse zeigen den Mittelwert ± Standardabweichung aus diesen
+Experimenten.
+
+Protein
+Wt
+Mock
+W204A
+W204F
+W204I
+
+Spezifische UDP-GlcNAc-2Epimerase-Aktivität
+( U/ g)
+25,5  15,7
+<1
+<1
+8,2  5,1
+3,2  4,2
+
+23
+
+4. DISKUSSION
+Für biochemische Untersuchungen zur Struktur-Funktionsbeziehung aktiver Zentren von
+Proteinen ist Voraussetzung, das entsprechende Protein und Mutanten des Proteins
+exprimieren.
+
+Zu
+
+Beginn
+
+dieser
+
+Arbeit
+
+war
+
+bekannt,
+
+daß
+
+die
+
+zu
+
+UDP-GlcNAc-2-
+
+Epimerase/ManNAc-Kinase aus Rattenleber sich in Insektenzellen funktionell exprimieren ließ,
+dies galt aber nicht für Expressionssysteme mit Bakterien- oder Hefezellen. Frühere
+Expressionsversuche mit Bakterien schlugen fehl, so daß es sich anbot, Expressionsversuche mit
+Hefezellen durchzuführen. Nach den hier gezeigten weiteren Arbeiten (Blume et al., 2004) ist es
+mittlerweile möglich, die UDP-GlcNAc-2-Epimerase-ManNAc-Kinase in allen drei Systemen
+funktionell zu exprimieren. Damit lagen Voraussetzungen vor, das aktive Zentrum des Enzyms
+mittels ortspezifischen Austauschs seines zentralen Tryptophanrests im aktiven Zentrum zu
+untersuchen.
+Die Rolle von Tryptophan im aktiven Zentrum von Enzymen, die Zucker- beziehungsweise
+UDP-Zuckermoleküle binden, wurde in einigen Arbeiten untersucht. Von Interesse war hierbei
+besonders die Seitenkette des Tryptophans bezüglich der Wechselwirkung mit dem Pyranosebzw. dem Furanosering oder an das Nucleotid. So hatten zum Beispiel Aktories et al. (2000) die
+Rolle eines konservierten Tryptophan-Restes in der Bindung von UDP-Glucose bei großen
+Cytotoxin-Glycosyltransferasen von Clostridien untersucht. Dabei stellte sich heraus, daß ein
+Austausch von W102 mit Alanin die Aktivität der Glycosyltransferase um das 1000-Fache
+reduzierte, während ein Austausch mit Tyrosin nur eine Reduktion der Aktivität um das 100Fache zur Folge hatte. Diese Ergebnisse indizierten, daß Tyrosin die Funktion des Tryptophans
+partiell kompensiert und daß diese Funktion darin bestehen könnte, UDP-Glucose an das große
+clostridiale Cytotoxin zu binden.
+Eine neuere Arbeit über die Rolle von Tryptophanen im aktiven Zentrum bezüglich der Bindung
+von Substrat und Katalyse bei -1,3 Galactosyltransferasen beschreibt (Zhang et al., 2004), daß
+die Bindungsstelle für Disaccharide als Substrat von vier Tryptophanen eingekreist wird. Um
+ihre jeweilige Rolle bezogen auf Spezifität und enzymatische Aktivität zu untersuchen, wurden
+die verschiedenen Tryptophane gegen Glycin beziehungsweise gegen Tyrosin ausgetauscht. Es
+stellte sich heraus, daß den einzelnen Tryptophanen verschiedene Aufgaben wie Bindung oder
+Umsetzung des Substrates zukommen. Kristallographische Untersuchungen einzelner Mutanten
+ergaben aber, daß die Mutationen keinen Effekt auf die Struktur des Enzyms haben.
+
+24
+
+Da es sich bei dem Trp-204 der UDP-GlcNAc-2-Epimerase/ManNAc-Kinase um das einzige
+Tryptophan in der Epimerasedomäne des Enzyms handelt, ist davon auszugehen, daß es für die
+Enzymaktivität essentiell ist. Eine mögliche Hypothese ist, daß das Tryptophan mit seiner
+hydrophoben Seitenkette mit dem Zucker-Ring interagiert und diesen somit in dem aktiven
+Zentrum des Enzyms für die Katalyse ausrichtet. Würde dies zutreffen, so müsste eine
+Punktmutation der Aminosäuresequenz in dieser Position zu einem erheblichen oder kompletten
+Verlust der Enzymaktivität führen, je nach dem, ob die ausgetauschte Aminosäure eine
+Seitenkette von ähnlicher Größe und Polarität wie die des Tryptophans aufweist. Dies läst sich
+durch die hier gezeigten Ergebnisse beweisen: Phenylalanin mit seinem hydrophoben BenzolRing weist noch deutlich messbare Aktivität auf, bei Isoleucin ist sie stark reduziert, bei Alanin
+ist Aktivitätsverlust komplett.
+Prinzipiell scheinen zwei Möglichkeiten der Interaktion plausibel: zum einen könnte der
+Nucleotidzucker über den Zuckerring an die Epimerase gebunden werden oder aber über das
+UDP, wobei sie die wahrscheinlichere ist. Dafür sprechen vor allem SättigungstransferDifferenz-NMR-Messungen (Blume et al., 2004), mit denen ein Epitop-Mapping des Substrats
+UDP-Glucose möglich war. Dabei stellte sich heraus, daß die Protonen des Uracil-Ringes der
+Oberfläche der UDP-GlcNAc-2-Epimerase am nächsten sind (siehe Abb. 12). Erstaunlicherweise
+wird UDP, welches ein Produkt aus der Epimerase-Reaktion ist, stärker gebunden wird als UDPGlcNAc, welches das Substrat der Epimerase-Reaktion darstellt.
+
+Abbildung 12: Epitop-Mapping von UDP-GlcNAc durch STD-NMR mit Angabe der
+Beteiligung der Protonen an der Bindung an die Epimerase in % (Blume et al., 2004).
+
+25
+
+Um sichere Aussagen treffen zu können, wo genau das Substrat an der UDP-GlcNAc-2Epimerase/ManNAc-Kinase bindet, wäre die Röntgenstrukuranalyse des Enzyms am
+angebrachtesten. Dieses Vorhaben wird aber durch mehrere Umstände erschwert. Zum einem ist
+die UDP-GlcNAc-2-Epimerase/ManNAc-Kinase nach dem Lysieren der Zellen schlecht löslich
+und erlaubt daher kaum, die Mengen an hochgereinigtem Protein zu gewinnen, die zur
+Kristallisation benötigt werden. Zum anderen bilden sich neben Hexameren auch verschiedene
+höhere Aggregate (D. Ghaderi, noch unveröffentlichte Dissertation), aus denen es nicht möglich
+ist, Kristalle zu züchten. Daher erscheint es notwendig und zweckmäßig, weitere biochemische
+Untersuchungen zur Struktur/Funktionsbeziehung des Enzyms anzustellen. Dazu könnten die im
+Folgenden geschilderten Methoden der Stellen-spezifischen Photoaffinitätsmarkierung hilfreich
+sein (Fischer et al., 2000). Dies war bisher ausschließlich in vitro möglich. Seit kurzem ist
+dieses Konzept jedoch experimentell auch auf in vivo- Ansätze erweitert worden (Chin et al.,
+2003), so daß in vivo-Untersuchungen zur Bindung des Substrats in der Hefe S. cerevesiae
+möglich erscheinen. Sie könnten Antworten auf die Frage liefern, wo genau das Substrat am
+Enzym bindet. Mit dieser Methode ist es möglich, einzelne Aminosäuren stellenspezifisch durch
+photoaktive Aminosäuren auszutauschen. Die Methode funktioniert ähnlich der Site-DirectedMutagenesis, indem mittels PCR das Codon für die zu untersuchende Aminosäure durch ein
+amber-Stopcodon ausgetauscht wird. Die dazu notwendige amber-tRNA wird durch in vitroTranslation als run-off- Produkt hergestellt. Dieses kann nun mit der gewünschten Aminosäure,
+welche chemisch an das Diribonucleotid CA gebunden wurde, durch Ligation beladen werden
+(Brunner, 1993; Martoglio et al., 1995). In in vitro-Transkriptions/Translations-Ansätzen läßt
+sich dann durch Zugabe der halbsynthetisch beladenen amber-Suppressor tRNA das amberStopcodon so effizient reprimieren, daß bis zu 50% eines in vitro-Translatats das „full length“Protein mit der photolabilen Aminosäure darstellen.
+Die in den letzten ein bis zwei Jahren entwickelte in vivo-Methode ermöglicht es, den Einbau
+unnatürlicher Aminosäuren genetisch zu codieren und in Proteinen der eukaryoten Zellen von S.
+cerevisiae zu exprimieren (Chin et al.; 2003). Dafür werden ein Codon, tRNA und AminoacyltRNA-Synthetase benötigt, welche mit keiner der Komponeneten der Translationsmaschienerie
+der Hefe kreuzreagieren. Hierfür bietet sich das amber-Suppressor- Tyrosyl-tRNA-SynthetasetRNA_CUA Paar von E. coli an, da die Tyrosyl-tRNA-Synthetase von E. coli effizient tRNA
+CUA aminoacyliert, wenn beide in dem Genom von S. cerevisiae codiert sind, wobei
+cytoplasmatischen tRNAs von S.cerevisiae nicht aminoacyliert werden. Des weiteren ist die
+Tyrosyl-tRNA_CUA ein schlechtes Substrat für die Aminoacyl-tRNA- Synthetase von S.
+
+26
+
+cerevisiae, wird aber prozessiert und aus dem Zellkern in das Zytoplasma exportiert, wo es
+effektiv an der Proteintranslation teilnimmt. Wichtig in diesen Zusammenhang ist auch, daß die
+Tyrosyl-tRNA-Synthetase von E. coli keinen proofreading-Mechanismus besitzt und deshalb
+unnatürliche Aminosäuren, welche an die tRNA ligiert vorliegen, nicht ausschließt. Es wurden
+verschiedene Aminosäure-Seitengruppen im aktiven Zentrum der Tyrosyl-tRNA Synthetase von
+E. coli, welche sich innerhalb von 6,5 Å Entfernung von der Para-Position des Aryl-Ringes von
+gebundenem Tyrosin befanden, nach dem Zufallsprinzip mutiert und anschließend selektioniert
+(Chin et al.,2003).
+Auf diese Art können verschiedene neuartige Aminosäure-Analoga mit bestimmten
+Eigenschaften, welche sich für wissenschaftliche Untersuchungen von Proteinen eignen,
+eingebaut werden. Zum Beispiel könnten photolabile Aminosäuren wie p-Benzoyl-Lphenylalanin oder p-Azido-L-phenylalanin (siehe Abb. 13) mit W204 der UDP-GlcNAc-2Epimerase/ManNAc-Kinase ausgetauscht werden. Diese Aminosäuren sind photolabil. Das
+bedeutet, daß sie nach Belichtung kovalent mit ihrer unmittelbaren Nachbarschaft reagieren.
+Dies ist in den meisten Fällen Wasser. Handelt es sich aber um ein organisches Molekül, das sich
+näher als 3 Å an der photaktivierbaren Gruppe befindet, wie ein Substrat in einem EnzymSubstrat-Komplex, so wird dieses kovalent gebunden. Hierbei bietet das Benzoyl-phenylalaninDerivat den Vorteil, nach Photoreaktion mit Wasser dieses wieder abzuspalten, wodurch sein
+photoaktivierbarer
+
+Zustand
+
+regeneriert
+
+wird.
+
+Ein
+
+solcher
+
+Ansatz
+
+erscheint
+
+umso
+
+vielversprechender, als nach den hier beschriebenen Ergebnissen der Aktivitätserhalt des
+Enzyms nach Substitution des W204 umso größer ist, je unpolarer und größer die substituierende
+Seitenkette ist. Die Reaktion mit dem Substrat kann dann durch Peptide-Mass-Fingerprint
+analysiert werden. Dazu werden die Zellen nach Photoreaktion lysiert und UDP-GlcNAc-2Epimerase/ManNAc-Kinase immunpräzipitiert. Nach Auftrennung des Imunpräzipitats durch
+SDS-Gelelektrophorese kann das Protein im Gel verdaut und anschließend eine Interaktion
+zwischen der photolabilen Aminosäure in der Position 204 mit dem Substrat mittels
+Massenspektrometrie nachgewiesen werden. Dazu dient das Auftreten eines Signals, dessen
+Masse sich aus der molekularen Masse eines Peptides um die Position 204, entsprechend der
+Spezifität der verwendeten Protease, plus der Masse des Substrates UDP-N-Acetylglucosamin
+oder UDP zusammensetzt. Der Anteil des Substratmoleküls, der mit der Position 204 interagiert,
+kann dann möglicherweise in einem Tandem-Massenspektrometer nach Fragmentierung
+nachgewiesen werden.
+
+27
+
+a)
+
+b)
+O
+N3
+
+H2N
+
+COOH
+
+H2N
+
+COOH
+
+Abbildung 13: Die Strukturformeln der unnatürlichen Aminosäuren p-Benzoyl-Lphenylalanin (a) und p-Azido-L-phenylalanin (b).
+
+5. ZUSAMMENFASSUNG
+Da die essentielle Aminosäure Tryptophan in dem Epimerase-Anteil der UDP-GlcNAc-2Epimerase/ManNAc-Kinase
+
+nur
+
+einmal
+
+vorkommt
+
+und
+
+Arbeiten
+
+an
+
+bakteriellen
+
+Glycosyltransferasen gezeigt haben, daß Tryptophan für die mit seiner hydrophoben, polaren
+Seitenkette für die Bindung von Zuckermolekülen oder UDP geeignet zu sein scheint, lag es
+nahe anzunehmen, daß W204 für den Reaktionsmechanismus der UDP-GlcNAc-2Epimerase/ManNAc-Kinase von Bedeutung ist.
+Mittels Site-Directet-Mutagenesis wurde W204 jeweils gegen die Aminosäuren Phenylalanin,
+Isoleucin und Alanin ausgetauscht und die Enzymaktivität gemessen. Der Versuch, W204 gegen
+Histidin auszutauschen, schlug trotz vielfacher Versuche fehl, da sich das Codon an dieser Stelle,
+vermutlich aufgrund der zu niedrigen Schmelztemperatur des DNA-Stranges, nicht in das
+Genom der UDP-GlcNAc-2-Epimerase/ManNAc-Kinase einfügen ließ.
+Ersatz von Tryptophan durch Alanin schaltete die Enzymaktivität völlig aus. Mit Phenylalanin
+anstelle von Tryptophan war noch Aktivität nachweisbar, was sich wahrscheinlich durch die an
+Polarität und Größe dem Tryptophan nahe kommende Ähnlichkeit erklärt. Für Isoleucin ist es
+
+28
+
+fraglich, ob die geringe Aktivität, die noch nachgewiesen wurde, reell ist, oder ob sie durch
+Hintergrundstrahlung oder ähnliche Störfaktoren in den Messungen zustande kam.
+
+6. MATERIALIEN UND METHODEN
+
+6.1. Materialien
+6.1.1.Vektoren
+pYES2 Invitrogen (Niederlande)
+pFastBac GibcoBRL (USA)
+
+6.1.2. Bakterienstamm
+INV£\F': F- endA1 recA1 hsdR17 (rk-, mk+) supE44 thi-1 gyrA96
+
+6.1.3. Hefestamm
+INVSc1: MATa his3D1 leu2 trp1-289 ura3-52
+
+6.1.4. Medien und Kultivierung der Zellen
+Zum Ansetzen von Lösungen und Medien wird destilliertes entionisiertes Wasser verwendet.
+Stammlösungen und Flüssigmedien für die sterile Anzucht werden 20 min bei 200 kPa
+autoklaviert bzw. hitzelabile Lösungen sterilfiltriert (Satorius- Membranfilter, Porengröße
+0,2µm).
+
+29
+
+6.1.4.1. Bakterien
+Bakterien werden bei 37 °C im Schüttelinkubator (225 rpm; Novotron; Infors, Schweiz) oder im
+Brutschrank (Model B; Memmert, Deutschland) kultiviert. Bakterien können bei –80 °C
+eingefroren und so für Jahre gelagert werden. Dafür werden Kulturen bis zur Sättigung
+angezogen, Glycerin bis zu einer Konzentration von 20% (v/v) zugegeben und die Zellen in
+flüssigem Stickstoff eingefroren, bevor sie bei –80 °C gelagert werden. Eingefrorene Zellen
+können wieder in Kultur genommen werden, indem sie auf Eis aufgetaut werden und in Medium
+resuspendiert werden.
+LB-Medium: 10 g/l Pepton (GibcoBRL, USA)
+5 g/l Hefeextrakt (GibcoBRL, USA)
+10 g/l NaCl
+15 g/l Agar (nur bei Festmedien)
+SOC-Medium: 20 g/l Pepton (GibcoBRL, USA)
+5 g/l Hefeextrakt (GibcoBRL, USA)
+0,5 g/l NaCl
+4 g/l MgCl2
+3,6 g/l Glucose
+186 mg/l KCl
+.
+Nach dem Autoklavieren wird bei Selektivmedien noch 50 mg/ml Ampicillin zugegeben.
+
+6.1.4.2. Hefen
+Hefezellen werden bei 30 °C im Schüttelinkubator (140 rpm; RFI-150; Infors, Schweiz) oder im
+Brutschrank (Heraeus, Deutschland) kultiviert. Hefen können bei –80 °C eingefroren und so für
+Jahre gelagert werden. Dafür werden Hefekulturen über Nacht angezogen, auf eine berechnete
+Zelldichte von OD600 50-100 eingestellt, Glycerin mit einer Konzentration von 15% (v/v)
+zugegeben und die Zellen in flüssigem Stickstoff eingefroren, bevor sie bei –80 °C gelagert
+werden. Eingefrorene Zellen können wieder in Kultur genommen werden, indem sie auf Eis
+aufgetaut werden und in Medium resuspendiert werden.
+
+30
+
+YPD-Medium: 20 g/l Pepton
+10 g/l Hefeextrakt
+20 g/l Agar (nur bei Festmedien)
+Nach dem Autoklavieren wird noch folgende Lösung zugegeben:
+100 ml/l 20% (w/v) Glucose
+
+Saccharomyces cerevisiae:
+Minimalmedium: 1,155 g/l Dropout-Powder (s.u.)
+(Uracil-) 20 g/l Bacto-Agar (nur bei Festmedien)
+Nach dem Autoklavieren werden noch folgende Lösungen zugegeben:
+100 ml 20% Raffinose
+10 ml Yeast-Nitrogen-Base ohne Aminosäuren (Difco), 6,7 g / 100 ml
+8,3 ml Histidin, 240 mg / 100 ml
+8,3 ml Leucin, 720 mg / 100 ml
+8,3 ml Tryptophan, 480 mg / 100 ml
+Dropout-Powder: 2,5 g Adenin (Hemisulfat)
+1,2 g L-Arginin (HCl)
+6,0 g L-Asparatat
+6,0 g L-Glutamat (Na-Salz)
+1,8 g L-Lysin (HCl)
+1,2 g L-Methionin
+3,0 g L-Phenylalanin
+22,5 g L-Serin
+12,0 g L-Threonin
+1,8 g L-Tyrosin
+9,0 g L-Valin
+(enthält kein Uracil, Histidin, Tryptophan und Leucin)
+
+6.1.5. Primer
+Alle Primer wurden von MWG Biotech (Deutschland) bezogen.
+Mutagenese-Primer: Veränderte Nukleotide sind unterstrichen.
+
+31
+
+W204A 5'-GC ATC ATT CGG ATG GCG CTA GGT GAT GAT GTA AAT G-3'
+W204F 5'-GC ATC ATT CGG ATG TTC CTA GGT GAT GAT GTA AAT G-3'
+W204H 5'-GC ATC ATT CGG ATG CAC CTA GGT GAT GAT GTA AAT G-3'
+W204I 5'-GC ATC ATT CGG ATG ATT CTA GGT GAT GAT GTA AAT G-3'
+Sequenzier-Primer:
+pFastBac 5'-CCC CGG ATG AAG TGG TTC G-3' 5' IRD 800
+42f 5'-CTG ATA CAG GAG TGG AA-3' 5' IRD 800
+53f 5'-GTG ATC AAC CTG GGC AC-3' 5' IRD 800
+64f 5'-CAG CCA TGG TAG AGT CAG TG-3' 5' IRD 700
+
+6.1.6. Chemikalien
+Alle Chemikalien wurden, soweit nicht anders erwähnt, von Sigma (Deutschland), Roth
+(Deutschland), ICN (Deutschland), Roche (Deutschland), Calbiochem (Deutschland) oder Merck
+(Deutschland) bezogen. Enzyme wurden, soweit nicht anders erwähnt, von GibcoBRL (USA)
+bezogen.
+
+6.1.7. Geräte
+Cleanbench Faster 1 BioFlow-Technik
+Uniflow UVUB 1200 Kendro
+Gel-Dokumentations-Apparatur Gel-Print 2000i MWG-Biotech
+Filmentwicklungsmaschine Curix 60 Agfa AG
+Flachbettgelelektrophoresekammer B1A, B2 BioRad
+Kühlzentrifuge Centricon H-401 Kontron Instr.
+Mikroskop TMS Nikon
+Power-Supply Power-Pac 1000 BioRad
+SDS-PAGE-System Mini-Protrean II BioRad
+Spektralphotometer Ultrospec 3000 Pharmacia
+Thermoblock Thermomixer Compact Eppendorf
+Tischzentrifuge Biofuge 13 Heraeus
+
+32
+
+Zentrifuge Megafuge 1.0 Heraeus
+
+6.2. Methoden
+6.2.1. Allgemeine molekularbiologische Methoden
+
+6.2.1.1. Präparation von Plasmid-DNA
+Alle Plasmidpräparationen werden mit dem „Plasmid Purification Kit“ der Firma Qiagen
+(Deutschland) durchgeführt. Die Methode geht auf die alkalische Lyse nach Birnboim und Doly
+(1979) zurück. Für eine Mini-Plasmidpräparation (30-50 µg DNA) werden von einer E.
+coliÜbernachtkultur in selektivem LB-Medium 2 ml in ein Eppendorf-Reaktionsgefäß überführt
+und 10 min bei 20000 x g zentrifugiert. Das erhaltene Bakterienpellet wird in 200 µl Puffer I,
+versetzt mit 100 mg/l RNase A, unter leichtem Vortexen gut resuspendiert. Anschließend werden
+200 µl Puffer II zugegeben, durch vorsichtiges Schwenken wird der Ansatz gut gemischt und 5
+min bei RT inkubiert. Die stark alkalische Pufferlösung II lysiert die Zellen und setzt dadurch die
+Plasmid-DNA frei. Nach Zugabe von 200 µl des Neutralisations-Puffers III wird der Ansatz
+mindestens 15 min auf Eis inkubiert. Durch die hohe Salzkonzentration dieser Lösung werden
+die Proteine und die chromosomale DNA gefällt, während die Plasmid-DNA gelöst bleibt. Durch
+eine 15-minütige Zentrifugation bei 20000 x g werden die zellulären Proteine und die
+chromosomale DNA pelletiert. Der Überstand mit der Plasmid-DNA wird nochmals für 15 min
+zentrifugiert. Anschließend wird die Plasmid-DNA im Überstand mit 450 µl (0,7 Volumen) 2Propanol gefällt und nach 30-minütiger Inkubation bei –20 °C durch Zentrifugation für 15 min
+bei 20000 x g pelletiert. Um restliche Salze zu entfernen, wird das DNA-Pellet mit 500 µl kaltem
+70% (v/v) Ethanol gewaschen. Das Präzipitat wird anschließend getrocknet, in 30 µl Wasser
+oder TE-Puffer (10 mM Tris- HCl, pH 7,5 / 1 mM EDTA) aufgenommen und quantifiziert bzw.
+analysiert. Um größere Mengen (100 bzw. 500 µg) High-Copy-Plasmid-DNA zu isolieren,
+werden 25 ml bzw. 100 ml E. coli-Übernachtkulturen angesetzt und das Plasmid wie oben
+beschrieben isoliert. Bevor die Plasmid-DNA mit 2-Propanol gefällt wird, erfolgt bei diesen
+Midi- bzw. Maxi-Plasmidpräparationen eine weitere Reinigung der DNA über ein AnionenAustauscher-Harz, an das Plasmid-DNA bei geringen Salzkonzentrationen und niedrigem pHWert bindet. Verunreinigungen, wie z.B. Proteine, werden bei mittleren Salzkonzentrationen
+entfernt. Mit Hochsalzpuffer wird die Plasmid-DNA eluiert, durch 2-Propanol gefällt und mit
+
+33
+
+kaltem 70% (v/v) Ethanol gewaschen, um restliche Salze zu entfernen. Das Präzipitat wird
+anschließend getrocknet, in 60 µl bzw. 150 µl Wasser oder TE-Puffer (10 mM Tris-HCl, pH 7,5
+/ 1 mM EDTA) aufgenommen und quantifiziert bzw. analysiert.
+
+6.2.1.2. Fällung von DNA
+DNA läßt sich durch Ethanol oder 2-Propanol fällen. Dafür werden 2 Volumina 2-Propanol bzw.
+1/10 Volumen 3 M Natriumacetat-Puffer, pH 4,8, und 2,5 Volumina Ethanol zugegeben, der
+Ansatz durch vortexen gut gemischt und 30 min bei –20 °C inkubiert. Die gefällte DNA wird
+anschließend 10 min bei 20000 x g pelletiert und das Pellet mit kaltem 70% (v/v) Ethanol
+gewaschen. Das trockene Pellet wird in 5-20 µl Wasser oder TE-Puffer (10 mM Tris-HCl, pH
+7,5 / 1 mM EDTA) aufgenommen.
+
+6.2.1.3. Bestimmung von DNA-Konzentrationen
+DNA-Konzentrationen werden spektralphotometrisch durch Absorptionsmessungen bei 260 nm
+ermittelt. Ein Extinktionswert von 1,0 entspricht dabei 50 µg Doppelstrang-DNA/ml Lösung.
+Wird gleichzeitig die Absorption bei 280 nm gemessen, dem Absorptionsmaximum von
+Proteinen, so kann aus dem Verhältnis 260 nm zu 280 nm die Reinheit der DNA-Probe bestimmt
+werden. Saubere DNA ist frei von Proteinen und RNA und hat ein Verhältnis der Wellenlängen
+260 nm / 280 nm von ca. 1,8. Eine weitere Möglichkeit DNA-Mengen zu quantifizieren, besteht
+in der Abschätzung der Bandenintensität auf Agarosegelen, im Vergleich zu bekannten DNAMengen.
+
+6.2.1.4. DNA-Spaltungen mit Restriktionsendonukleasen
+Restriktionsendonukleasen erkennen spezifische Sequenzen von 4-8 bp und führen in
+doppelsträngige DNA Strangbrüche ein, wobei überhängende 3' bzw. 5' Enden (sticky ends) oder
+glatte
+
+Enden
+
+(blunt
+
+end)
+
+entstehen.
+
+Die
+
+Spaltung
+
+von
+
+DNA-Doppelsträngen
+
+mit
+
+Restriktionsendonukleasen wird für die Analyse, Klonierung und Fragmentisolierung von DNA
+eingesetzt. Restriktionsspaltungen werden unter den vom Hersteller empfohlenen Bedingungen
+durchgeführt. Ein Reaktionsansatz enthält zwischen 1 und 40 µg DNA. Pro Restriktionsansatz
+34
+
+werden etwa eine Einheit (U) Enzym pro µg DNA eingesetzt. Anschließend werden die
+erhaltenen Fragmente mit Hilfe der Agarose-Gelelektrophorese analysiert.
+
+6.2.1.5. Agarose-Gelelektrophorese
+Mit der Agarose-Gelelektrophorese können DNA-Moleküle nach ihrer Größe aufgetrennt
+werden. Die Wanderungsgeschwindigkeit linearer DNA-Moleküle ist dabei umgekehrt
+propotional zum Logarithmus ihres Molekulargewichtes. Bei ringförmiger DNA können auch
+coiled- und supercoiled-Strukturen auftreten, welche aufgrund ihrer höheren Kompaktheit
+schneller wandern und in den Gelen deshalb bei scheinbar kleineren Molekulargewichten
+detektiert werden. Mit Agarosegelen können DNA-Moleküle im Bereich von 500-8000 bp
+identifiziert werden. Agarose-Gelelektrophoresen werden zur Größenbestimmung von DNAFragmenten nach Restriktionsspaltung, zur Isolierung von DNA-Fragmenten und zur
+Qualitätskontrolle von DNA verwendet. Die elektrophoretische Auftrennung erfolgt in
+horizontalen 0,8 bis 1,5%igen (w/v) Agarose-Gelen. Die Agarose wird durch Kochen in TAEPuffer (40 mM Tris-HCl / 5 mM Natriumacetat / 1 mM EDTA, pH 7,9) gelöst und in die
+entsprechenden Gelschlitten gegossen. Nach dem Abkühlen und Erstarren der Agarose wird das
+Gel in die mit TAE-Puffer gefüllte Elektrophoresekammer gelegt. Die Proben werden vor dem
+Auftragen mit 1/5 Volumen Bromphenolblau-Probenpuffer (20% (w/v) Ficoll 400 / 1% (w/v)
+SDS / 0,02% (w/v) Bromphenolblau in TAE-Puffer) versetzt. Das Auftragsvolumen beträgt etwa
+5-20 µl pro Probentasche. Als Größenstandard werden 10 µl des 1 kb-DNA-Markers (GibcoBRL, USA) aufgetragen. Die Elektrophorese wird anschließend bei 0,5 V / cm durchgeführt, bis
+2
+
+der Farbmarker die gewünschte Laufstrecke zurückgelegt hat. Das Gel wird dann für 5-10 min in
+einem Ethidiumbromidbad (0,5 µg/ml Ethidiumbromid in TAE-Puffer) inkubiert und die DNA
+unter UV-Licht (254 nm) sichtbar gemacht.
+
+6.2.1.6. Isolierung von DNA-Fragmenten mittels Gelelution
+DNA kann aus Agarose-Gelen durch Verflüssigung der Agarose in Spezialpuffer herausgelöst
+und anschließend über QIAgen-Säulen des „QlAquick Gel Extraction Kits“ (Qiagen,
+Deutschland) gereinigt werden. Der im Kit enthaltene Puffer QG ermöglicht das Schmelzen der
+Agarose bei relativ niedrigen Temperaturen. Gleichzeitig führen die im Puffer enthaltenen Salze
+
+35
+
+zu einer leichten Modifikation der Nucleinsäure-Struktur, so daß anschließend eine optimale
+Bindung an die Silicagel-Membran der Säulen möglich ist. Die DNA-Bindung an das
+Säulenmaterial ermöglicht die Reinigung von unerwünschten Primern und Verunreinigungen,
+wie Salzen, Enzymen, nicht inkorporierte Nucleotiden, Agarose, Ethidiumbromid, Ölen oder
+Detergenzien durch den ethanolhaltigen PE-Puffer. Die Elution erfolgt anschließend mit 30 µl
+Wasser. Die Isolierung von DNA-Fragmenten aus Agarosegelen wird entsprechend den
+Anweisungen des Herstellers durchgeführt.
+
+6.2.1.7. Ligation von DNA-Fragmenten
+Die Verknüpfung von DNA-Fragmenten mit überhängenden oder glatten Enden mittels einer
+Ligase wird als Ligation bezeichnet. Bei der Standardligation wird durch Bildung von
+Phosphodiesterbindungen zwischen benachbarten 3'-Hydroxyl- und 5'-Phosphatgruppen
+linearisierter Vektor mit isolierten DNA-Fragmenten verknüpft, die durch Restriktionsspaltung
+und anschließende Gelelektrophorese mit Gelelution isoliert worden sind. Für die Ligation
+werden Vektor und Insert im Verhältnis von mindestens 1:3 eingesetzt. Der Ansatz wird mit 1 µl
+T4-DNA Ligase (20 U; GibcoBRL, USA) pro 10 µl Ansatz bei RT für 5-15 min inkubiert und
+anschließend vollständig zur Transformation von Bakterien eingesetzt.
+
+6.2.1.8. Dephosphorylierung von DNA
+Linearisierte Vektoren, deren Enden symmetrisch sind, zeigen eine hohe Religationsrate. Um bei
+Religationen mit DNA-Fragmenten die Selbstligationsrate des Vektors zu verringern, wird
+vorher das linearisierte Plasmid mit bakterieller alkalischer Phosphatase aus E. coli behandelt.
+Diese alkalische Phosphatase katalysiert die Abspaltung der 5'-terminalen Phosphatgruppe von
+DNA, die bei Ligationen als Energielieferant benötigt wird, wodurch die Religationsrate des
+Vektors stark verringert wird. Die Dephosphorylierung der DNA wird entsprechend den
+Anweisungen des Herstellers (GibcoBRL, USA) durchgeführt. Die in 100 µl 10 mM Tris-HCl,
+pH 8,0, gelöste DNA (1 pmol) wird nach der Zugabe von 1 µl bakterieller alkalischer
+Phosphatase 1 h bei 65 °C inkubiert. Anschließend wird die DNA mit dem „QIAquick PCR
+Purification Kit“ (Qiagen, Deutschland) gereinigt und in 20 µl Wasser aufgenommen.
+
+36
+
+6.2.1.9. Herstellung kompetenter E. coli-Zellen
+Kompetente Zellen sind Zellen, die fähig sind, freie, zirkuläre DNA aufzunehmen. Durch
+Behandlung mit CaCl2 wird die Zellmembran für DNA-Moleküle durchlässig (Dagert und
+Ehrlich, 1979). Zur Herstellung von kompetenten Zellen werden 2 ml LBMedium mit einer
+Einzelkolonie von Inv/F' angeimpft und bei 37 °C bis zur Sättigung kultiviert. 1 ml dieser
+Vorkultur wird in 100 ml LB überimpft und bis zu einer OD600 von 0,2-0,3 angezogen. Die
+Zellen werden durch Zentrifugation (3000 x g, 5 min, 4 °C) sedimentiert und in 20 ml kaltem
+100 mM CaCl2 resuspendiert. Nach 30-minütiger Inkubation auf Eis wird 5 min bei 3000 x g und
+4 °C zentrifugiert, das Zellpellet in 1 ml kaltem 100 mM CaCl2 resuspendiert und nochmals für
+mindestens 1 h auf Eis inkubiert. Die Zellen werden direkt zur Transformation eingesetzt oder
+nach Zugabe von 20% (v/v) Glycerin bei –80 °C gelagert.
+
+6.2.1.10. Transformation von Plasmid-DNA in Escherichia coli
+Als Transformation wird die Aufnahme von Fremd-DNA und somit die genetische Veränderung
+von Bakterien bezeichnet. Dabei wird zu 100 µl kompetenten Zellen der Ligationsansatz oder
+etwa 100 ng Plasmid-DNA pipettiert und vorsichtig gemischt. Die Proben werden anschließend
+30 min auf Eis inkubiert. Durch die nachfolgende 45-sec- Inkubation bei 42 °C im Wasserbad
+wird die Aufnahme der DNA durch die Bakterienzellen erleichtert. Die Zellen werden
+anschließend nochmals 2 min auf Eis inkubiert und danach in 250 µl LB-Medium oder alternativ
+SOC-Medium für 1 h schüttelnd bei 37 °C inkubiert, damit sich die Bakterienzellen regenerieren
+können. Aliquots von 50 bis 200 µl werden auf vorgewärmten Agarplatten mit Selektivmedium
+ausplattiert und über Nacht bei 37 °C inkubiert.
+
+6.2.1.11. Sequenzanalyse
+Zur
+
+Kontrolle
+
+von
+
+Klonierungsschritten
+
+und
+
+zur
+
+Sequenzanalyse
+
+generell
+
+werden
+
+Sequenzierungen durchgeführt. Alle Sequenzierungen werden nach der Kettenabbruchmethode
+(Sanger et al., 1992) durchgeführt. Bei der Sequenzierung mit Fluoreszenz-markierten
+Sequenzierprimern werden 4 pmol Sequenzierprimer mit 1,2 µg DNA auf vier Nukleotidmixe
+(„Thermo SequenaseTM Primer Cycle Sequencing Kit“; Amersham, Deutschland) verteilt und die
+37
+
+Ansätze mit einem Gesamtvolumen von 6 µl einem Cycle-Sequencing mit 25 Zyklen (20 sec
+95°C / 20 sec 60 °C / 10 sec 72°C) unterzogen. Anschließend wird 1 µl des zuvor mit 4 µl
+Gelladepuffer gestoppten Reaktionsmixes auf ein 6%iges Polyacrylamid-Gel aufgetragen und in
+einerautomatischen Sequenziereinrichtung (LI-COR 4200; MWG-Biotech, Deutschland)
+analysiert.
+
+6.2.1.12. Polymerase-Ketten-Reaktion (PCR)
+Mit Hilfe der Polymerase-Ketten-Reaktion (PCR) kann eine ausgewählte DNA-Sequenz in vitro
+exponentiell amplifiziert werden, z.B. um die Anwesenheit eines bestimmten DNA-Fragments
+nachzuweisen. Zur Synthese werden eine DNA-Sequenz, die als Template bezeichnet wird, und
+zwei Oligonukleotidprimer benötigt, die die zu amplifizierende Region flankieren. Die PCR wird
+mit dem „AmpliTaq DNA Polymerase with GeneAmp Kit“ (Perkin Elmer, USA) nach
+Anweisungen des Herstellers durchgeführt. Ein Standardansatz für eine PCR sieht dabei wie
+folgt aus:
+Template 10-100 ng
+Primer je 20 pmol
+dNTPs je 2 mM
+MgCl2 1,5 mM
+Puffer 10 x PCR-Buffer II
+Taq-Polymerase 0,5 µl/50 µl Ansatz
+Die Reaktion wird in einem Touch-Down-Thermocycler (Hybaid) mit folgendem
+Programm durchgeführt:
+3 min 95 °C
+30 x (30 sec 95 °C / 30 sec 55 °C / 2 min 72 °C)
+7 min 72 °C
+Ein Aliquot von 5 µl wird zur Analyse auf ein Agarosegel aufgetragen.
+
+6.2.1.13. Herstellung von Punktmutanten
+Zur Generierung von Mutanten wird der „QuickChangeTM Site-Directed-Mutagenesis Kit“ von
+Stratagene (USA) eingesetzt. Zur Konstruktion jeder Mutante sind zwei zueinander revers
+
+38
+
+komplementäre Oligonukleotidprimer erforderlich, die die gewünschte Mutation möglichst
+mittig tragen. Die Primersequenzen sind unter Materialien/Primer (2.1.6) beschrieben. Als
+Template-DNA dient der pFASTBACHTA/2epi-Vektor, der ausgehend von den Mutationsprimern
+von der PfuTurbo-DNA-Polymerase repliziert wird. Die Amplifikationsreaktionen werden in
+einem Touch-Down-Thermocycler (Hybaid) unter folgenden Bedingungendurchgeführt:
+30 sec 95 °C
+16 x (30 sec 95 °C / 1 min 55 °C / 14 min 68 °C)
+Anschließend wird die parentale Template-DNA mit der Restriktionsendonuklease Dpn I
+abgebaut, die spezifisch methylierte und hemimethylierte DNA abbaut (1 h, 37 °C, 10 U). Die
+amplifizierte DNA mit den Mutationen wird in superkompetente Inv/F' Zellen (Invitrogen,
+Niederlande) transformiert.
+
+6.2.2. Expression von rekombinantem Protein in S. cerevisiae
+Die Überexpression von rekombinantem Protein in der Hefe S. cerevisiae erfolgt nach den
+Anweisungen des Herstellers des Expressionsvektors pYES2 (Invitrogen, Niederlande).
+Sämtliche Expressionsexperimente werden mit dem Hefestamm INVSc1 (Invitrogen,
+Niederlande) durchgeführt.
+
+6.2.2.1. Herstellung kompetenter S. cerevisiae-Hefezellen
+Für die Aufnahme von Fremd-DNA durch die Hefezellen werden zunächst kompetente Zellen
+hergestellt. Dafür werden 5 ml Vollmedium mit einer Einzelkolonie von INVSc1 angeimpft und
+bei 30 °C bis zur Sättigung kultiviert. 4 ml dieser Vorkultur werden in 100 ml Vollmedium
+übergeimpft und bis zu einer OD600 von etwa 1 angezogen. Die Zellen werden durch
+Zentrifugation (3000 x g, 5 min, 4 °C) sedimentiert und mit 20 ml 1 M Sorbitol / 10 mM TricinNaOH, pH 8,4 / 3% (v/v) Ethylenglycol gewaschen. Die sedimentierten Zellen werden in 4 ml 1
+M Sorbitol / 10 mM Tricin-NaOH, pH 8,4 / 3% (v/v) Ethylenglycol resuspendiert und mit 100 µl
+zerschallter Heringssperma-DNA (10 mg/ml, zerschallt auf eine mittlere Fragmentgröße von 7
+kb) sowie mit 100 µl einer sterilfiltrierten 1 M Histamin-Lösung versetzt. Aliquots von 200 µl
+werden bei -70 °C für mindestens 2 h eingefroren.
+
+39
+
+6.2.2.2. Transformation von Plasmid-DNA in S. cerevisiae
+Als Transformation wird die Aufnahme von Fremd-DNA und somit die genetische Veränderung
+von Organismen bezeichnet. Die S. cerevisiae-Zellen werden mittels der von M. Pein
+modifizierten Gefriermethode von R.J. Dohmen et. al. (1991) transformiert. Dafür werden die
+gefrorenen kompetenten S. cerevisiae-Zellen mit 2,5 µg Plasmid-DNA versetzt. Alle Ansätze
+werden 5 min bei 37 °C geschüttelt, mit 1,2 ml 40% (v/v) PEG 3350 (Sigma) / 200 mM TricinNaOH, pH 8,4, gemischt und ohne weiteres Schütteln 1 h bei 30 °C inkubiert. Nach
+Sedimentation bei 13000 x g für 5 sec werden die Zellen zweimal mit je 1 ml 0,15 M NaCl / 10
+mM Tricin-NaOH, pH 8,4, gewaschen, anschließend in 200 µl 0,15 M NaCl/10 mM TricinNaOH, pH 8,4, aufgenommen, auf Agar-Platten mit Minimalmedium ausplattiert und etwa 4
+Tage bis zum Erscheinen von Kolonien bei 30 °C inkubiert. Von den erhaltenen Transformanten
+werden einzelne Klone als Strichkolonien auf Agar-Platten mit Minimalmedium subkultiviert
+und für die beschriebenen Experimente eingesetzt.
+
+6.2.2.3. Ermittlung der optimalen Expressionsbedingungen
+Um die optimalen Bedingungen für eine maximale Expression von rekombinantem Protein zu
+ermitteln, werden zunächst Pilotexpressionen durchgeführt. Einzelne Klone werden in 5 ml
+Minimalmedium bis zur Sättigung bei 30 °C kultiviert. Mit 500 µl dieser Vorkultur werden 50
+ml Minimalmedium beimpft und bis zu einer OD600 von 1 bei 30 °C kultiviert. Durch Zugabe von
+2% (w/v) Galactose wird die Proteinexpression induziert. Um die optimalen Bedingungen für
+maximale Expression von rekombinantem Protein zu ermitteln, werden zu verschiedenen
+Zeitpunkten jeweils 5 ml Aliquots abgenommen, die OD600 ermittelt und die Hefezellen durch
+Zentrifugation für 5 min bei 3000 x g und 4 °C pelletiert. Der Medienüberstand und die Zellen
+werden bis zur weiteren Analyse bei -70 °C gelagert, wobei die Zellen zuvor noch mit 500 µl
+Wasser gewaschen werden. Die gefrorenen Zellen werden in Lysepuffer (10 mM
+Natriumphosphat, pH 7,5 / 1 mM EDTA / 1 mM DTT / 1 mM PMSF) resuspendiert, so daß eine
+berechnete OD600 von 50-100 eingestellt wird. Anschließend wird ein gleiches Volumen an
+„acid-washed 0,5 mm glass beads“ (Sigma, Deutschland) zugegeben. Die Zellsuspension wird
+für 30 sec gevortext und anschließend 30 sec auf Eis inkubiert. Dieser Vorgang wird siebenmal
+wiederholt, damit die Zellen komplett lysiert sind. Zelltrümmer und unlösliche Komponenten
+
+40
+
+werden im Anschluß bei 20000 x g und RT für 10 min abzentrifugiert. Der cytosolische
+Überstand wird abgenommen und für weitere Analysen verwendet. Das Pellet wird in 50 µl
+SDS-Probenpuffer (s. 2.2.6.3) resuspendiert.
+
+6.2.2.4. Expression von rekombinantem Protein in S. cerevisiae
+Die Expressionen werden unter den ermittelten Bedingungen für eine optimale Proteinausbeute
+durchgeführt. Einzelne Kolonien werden in 5 ml Minimalmedium bis zur Sättigung bei 30 °C
+kultiviert. Mit 1 ml dieser Vorkultur werden 100 ml Minimalmedium beimpft und bis zu einer
+OD600 von 1 bei 30 °C kultiviert. Durch Zugabe von 2% (v/v) Galactose wird die
+Proteinexpression induziert. Nach 6 h werden die Hefezellen durch Zentrifugation für 5 min bei
+3000 x g und 4 °C pelletiert und das Zellpellet bei -20 °C gelagert oder direkt lysiert, indem die
+Zellen in 1 ml Lysepuffer (10 mM Natriumphosphat, pH 7,5 / 1 mM EDTA / 1 mM DTT / 1 mM
+PMSF) resuspendiert werden und ein gleiches Volumen an „acid-washed 0,5 mm glass beads“
+(Sigma, Deutschland) zugegeben wird. Die Zellen werden, wie unter 2.2.3.3 beschrieben,
+mechanisch durch Scherkräfte aufgebrochen und Zelltrümmer und unlösliche Komponenten bei
+20000 x g und 4 °C für 10 min abzentrifugiert. Der cytosolische Überstand wird abgenommen
+und für die beschriebenen Experimente eingesetzt.
+
+6.2.2.5. Lyse von Hefezellen
+Die geernteten Hefezellen von 1 ml Hefekultur werden in 100 µl Lysepuffer (10 mM
+Natriumphosphatpuffer, pH 7,5 / 1 mM DTT / 1 mM EDTA / 1 mM PMSF) resuspendiert und
+ein gleiches Volumen an „acid-washed 0,5 mm glass beads“ (Sigma, Deutschland) zugegeben.
+Die Zellsuspension wird für 30 sec gevortext und anschließend 30 sec auf Eis inkubiert. Dieser
+Vorgang wird achtmal wiederholt, damit die Zellen komplett lysiert sind. Zelltrümmer und
+unlösliche Komponeten werden im Anschluß bei 20000 x g und 4 °C für 30 min abzentrifugiert.
+Der cytosolische Überstand wird abgenommen und für weitere Analysen verwendet. Das Pellet
+wird in 100 µl Lysepuffer resuspendiert und den gleichen Analysen unterzogen.
+
+41
+
+6.2.3. Allgemeine proteinbiochemische Methoden
+
+6.2.3.1. Proteinbestimmung nach Bradford
+Die Proteinbestimmung wird nach der Methode von Bradford (1976) durchgeführt, bei der der
+Farbstoff Coomassie-Brillantblau mit Proteinen unter Komplexbildung reagiert. 20 µl
+proteinhaltige Probe werden mit 1 ml Bradford-Reagenz (10% (v/v) Phosphorsäure / 5% (v/v)
+Ethanol / 0,1% (w/v) Coomassie G-250) versetzt und 3 min bei RT inkubiert. Anschließend wird
+die Extinktion bei 578 nm bestimmt. Als Proteinstandard dient Rinderserumalbumin.
+
+6.2.3.2. UDP-GlcNAc-2-Epimerase-Assays
+Zum Nachweis der UDP-GlcNAc-2-Epimerase-Aktivität werden zum einen der nichtradioaktive
+UDP-GlcNAc-2-Epimerase-Assay
+
+mit
+
+anschließendem
+
+colorimetrischen
+
+Nachweis
+
+des
+
+entstandenen ManNAc zum anderen der sehr viel empfindlichere radioaktive UDP-GlcNAc-2Epimerase-Assay durchgeführt. Nichtradioaktiver UDP-GlcNAc-2-Epimerase-Assay 1: 100 µl
+Probe/Wasser werden mit 45 µl 200 mM Natriumphosphatpuffer, pH 7,5, 45 µl 50 mM MgCl2
+und 2,5 µl 100 mM UDP-GlcNAc gemischt und in der Regel für 30 min bei 37 °C inkubiert. Die
+Reaktion wird durch 1-minütige Inkubation bei 100 °C gestoppt. Die denaturierten Proteine aus
+dem Enzymreaktionsansatz werden durch Zentrifugation bei 20000 x g für 1 min pelletiert. Das
+entstandene ManNAc wird mittels Morgan-Elson-Test (Reissig et al., 1955), mit dem spezifisch
+N-Acetylhexosamine detektiert werden, nachgewiesen. Nach der Zentrifugation werden 150 µl
+des Überstandes mit 30 µl 0,8 M H2BO3-Puffer, pH 9,1 (mit KOH eingestellt), gemischt und für
+3 min bei 100 °C inkubiert. Anschließend werden 800 µl Farbreagenz (1% (w/v) 4Dimethylaminobenzaldehyd / 1,25% (v/v) 10 M HCl in Essigsäure) zugegeben und für 30 min
+bei 37 °C inkubiert. Die Extinktion wird bei 578 nm gemessen. Nichtradioaktiver UDP-GlcNAc2-Epimerase-Assay 2: Für einige zeitabhängige Aktivitätsmessungen wird ein modifizierter
+UDP-GlcNAc-2-Epimerase-Assay
+
+verwendet.
+
+In
+
+diesem
+
+Epimerase-Assay
+
+2
+
+werden
+
+unterschiedliche Probenvolumina mit 260 µl 200 mM Tris-HCl, pH 8,1 / 65 mM MgCl, 10 µl
+100 mM UDP-GlcNAc, 40 µl frisch angesetztem 100 mM Phosphoenolpyruvat, 20 µl frisch
+angesetztem 15 mM NADH und 2 µl Pyruvat-Kinase/Lactat-Dehydrogenase (2 U) in einem
+Gesamtvolumen von 800 µl gemischt. Die Enzymreaktion wird bei 37 °C im Photometer bei 340
+nm verfolgt. Als Kontrolle wird ein Ansatz ohne Enzym gemessen und die ermittelten
+Werte später von den Werten der Enzymreaktion abgezogen. Radioaktiver UDP-GlcNAc-2-
+
+42
+
+Epimerase-Assay: Beim radioaktiven Assay werden zusätzlich zu den Komponenten des
+nichtradioaktiven UDP-GlcNAc-2-Epimerase- Assays 1 12,5 nCi UDP-[14C]-GlcNAc in den
+Enzymreaktionsansatz gegeben. In der Regel wird die Enzymreaktion für 30 min bei 37 °C
+inkubiert, anschließend werden 350 µl Ethanol zugegeben, wodurch die Proteine denaturiert
+werden, d.h. die Reaktion gestoppt wird. Das entstandene 14C-ManNAc wird durch absteigende
+Papierchromatographie von UDP-[14C]-GlcNAc abgetrennt. Die Proben werden auf Whatman
+3MMChr-Chromatographiestreifen (Herolab, Deutschland) von 2 x 48 cm aufgetragen. Die
+Chromatographie wird für 16-20 h mit 70% 1-Propanol / 100 mM Natriumacetat, pH 5,0,
+durchgeführt. Die getrockneten Chromatographiestreifen werden anschließend in 2,5 cm lange
+Stücke geschnitten und die Radioaktivität mit 5 ml Ultima Gold XR (Packard, Niederlande) in
+einem Tri-Carb 1900 CA Flüssigszintillationszähler (Packard, Niederlande) bestimmt. Der RfWert für UDP-GlcNAc und ManNAc beträgt unter diesen Bedingungen 0,08 bzw. 0,55.
+
+LITERATUR
+Angata, T., und Varki, A. (2002). Chemical diversity in the sialic acids and related alpha-keto
+acids: an evolutionary perspective. Chem Rev 102, 439-69
+Bhavanandan, V. P. (1991). Cancer-associated mucins and mucin-type glycoproteins.
+Glycobiology 1, 493-503.
+Blume A, Benie AJ, Stolz F, Schmidt RR, Reutter W, Hinderlich S, Peters T (2004)
+Characterization of ligand binding to the bifunctional key enzyme in the sialic acid biosynthesis
+by NMR: I. Investigation of the UDP-GlcNAc 2-epimerase functionality.
+J Biol Chem. 279, 55715-21.
+Blume A, Ghaderi D, Liebich V, Hinderlich S, Donner P, Reutter W, Lucka L. (2004)
+UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase, functionally expressed in
+and purified from Escherichia coli, yeast, and insect cells.
+Protein Expr Purif. 35,387-96.
+Birnboim, H. C., Doly, J. (1979) A rapid alkine extraction procedure for screening
+recombinant plasmid DNA. Nucleic Acids Res. 7, 1513-1523
+Brunner J. (1993). New photolabeling and crosslinking methods.
+Annu Rev Biochem. 62, 483-514
+Bruses, J. L., und Rutishauser, U. (2001). Roles, regulation, and mechanism of polysialic acid
+function during neural development. Biochimie 83, 635-43.
+
+43
+
+Cardini, C. E., und Leloir, L. F. (1957). Enzymatic formation of acetylgalactosamine. J Biol
+Chem 225, 317-24.
+Cheer, S. M., und Wagstaff, A. J. (2002). Zanamivir: an update of its use in influenza. Drugs 62,
+71-106.
+Colli, W. (1993). Trans-sialidase: a unique enzyme activity discovered in the protozoan
+Trypanosoma cruzi. FASEB J 7, 1257-64.
+Comb, D. G., und Roseman, S. (1958a). Glucosamine metabolism. IV. Glucosamine 6-phosphate
+deaminase. J. Biol. Chem. 232, 807-27.
+Corfield, A. P., Clamp, J. R., und Wagner, S. A. (1985). The metabolism of sialic acids in
+isolated rat colonic mucosal cells. Biochem J 226, 163-74.
+Dagert, M., Ehrlich, S.D. (1979) Prolonged incubation in calcium chloride improves
+the competence of Escherichia coli cells. Gene 6, 23-28
+Dohmen, R. J., Strasser, A. W. M., Höner, C. B., Hollenberg, C.P. (1991) An
+efficient transformation procedure enabling longterm storage of competent cells of
+various yeast genera. Yeast 7, 691-692
+Eckhardt, M., Mühlenhoff, M., Bethe, A., und Gerardy-Schahn, R. (1996). Expression cloning of
+the Golgi CMP-sialic acid transporter. Proc Natl Acad Sci U S A 93, 7572-6.
+Effertz, K., Hinderlich, S., und Reutter, W. (1999). Selective loss of either the epimerase or
+kinase activity of UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase due to
+site-directed mutagenesis based on sequence alignments. J Biol Chem 274, 28771-8.
+Egrie, J. C., und Brown, J. K., (2001). Development and characterization of novel erythropoiesis
+stimulating protein (NESP). Nephrol Dial Transplant 16, 3-13.
+Emig, S., Schmalz, D., Shakibaei, M., und Buchner, K. (1995). The nuclear pore complex
+protein p62 is one of several sialic acid-containing proteins of the nuclear envelope. J Biol Chem
+270, 13787-93.
+Enns, G. M., Seppala, R., Musci, T. J., Weisiger, K., Ferrell, L. D., Wenger, D. A., Gahl, W. A.,
+und Packman, S. (2001). Clinical course and biochemistry of sialuria. J Inherit Metab Dis 24,
+328-36.
+Ferreira, H., Seppala, R., Pinto, R., Huizing, M., Martins, E., Braga, A. C., Gomes, L.,
+Krasnewich, D. M., Sa Miranda, M. C., und Gahl, W. A. (1999). Sialuria in a Portuguese girl:
+clinical, biochemical, and molecular characteristics. Mol Genet Metab 67, 131-7.
+Fischer Kirk D., J. Bernd Helms, Liyun Zhao and Felix T. Wieland (2000). Site-Specific
+Photocrosslinking to Probe Interactions with Arf1 with Proteins involved in Budding of COPI
+Vesicles. Methods 20, 455-64
+
+44
+
+Ghaderi, D., Strauss, H. M., Reinke S., Cirak, S., Reutter W., Lucka, L., Hinderlich S. (2007).
+Evidence for Dynamic Interplay of Different Oligomeric States of UDP-N-acetylglucosamine 2epimerase/N-acetylmannosamine Kinase by Biophysical Methods. J. Mol. Biol.
+Ghosh, S., und Roseman, S. (1965). The sialic acids. V. N-Acyl-D-glucosamine 2-epimerase. J
+Biol Chem 240, 1531-6.
+Hakomori, S. (1989). Aberrant glycosylation in tumors and tumor-associated carbohydrate
+antigens. Adv Cancer Res 52, 257-331.
+Harms, E., Kreisel, W., Morris, H. P., und Reutter, W. (1973). Biosynthesis of Nacetylneuraminic acid in Morris hepatomas. Eur J Biochem 32, 254-62
+Hartnell, A., Steel, J., Turley, H., Jones, M., Jackson, D. G., und Crocker, P. R. (2001).
+Characterization of human sialoadhesin, a sialic acid binding receptor expressed by resident and
+inflammatory macrophage populations. Blood 97, 288-96.
+High S, Martoglio B, Görlich D, Andersen SS, Ashford AJ, Giner A, Hartmann E, Prehn S,
+Rapoport TA, Dobberstein B, et al.(1995) Site-specific photocross-linking reveals that Sec61p
+and TRAM contact different regions of a membrane-inserted signal sequence.
+J Biol Chem.268:26745-51
+Hinderlich, S., Stäsche, R., Zeitler, R., und Reutter, W. (1997). A bifunctional enzyme catalyzes
+the first two steps in N-acetylneuraminic acid biosynthesis of rat liver. Purification and
+characterization of UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase. J Biol
+Chem 272, 24313-8.
+Hoffman, S., und Edelman, G. M. (1983). Kinetics of homophilic binding by embryonic and
+adult forms of the neural cell adhesion molecule. Proc Natl Acad Sci U S A 80, 5762-6.
+Horstkorte, R., Nöhring, S., Wiechens, N., Schwarzkopf, M., Danker, K., Reutter, W., und
+Lucka, L. (1999). Tissue expression and amino acid sequence of murine UDP-Nacetylglucosamine-2-epimerase/N-acetylmannosamine kinase. Eur J Biochem 260, 923-7.
+Horstkorte, R., Nöhring, S., Danker, K., Effertz, K., Reutter, W., und Lucka, L. (2000). Protein
+kinase C phosphorylates and regulates UDP-N-acetylglucosamine-2-epimerase/Nacetylmannosamine kinase. FEBS Lett 470, 315-8.
+Irie, A., Koyama, S., Kozutsumi, Y., Kawasaki, T., und Suzuki, A. (1998). The molecular basis
+for the absence of N-glycolylneuraminic acid in humans. J Biol Chem 273, 15866-71
+Ito, T., Couceiro, J. N., Kelm, S., Baum, L. G., Krauss, S., Castrucci, M. R., Donatelli, I., Kida,
+H., Paulson, J. C., Webster, R. G., und Kawaoka, Y. (1998). Molecular basis for the generation
+in pigs of influenza A viruses with pandemic potential. J Virol 72, 7367-73.
+v. Itzstein, M., Wu, W.Y., Kok, G.B., Pegg, M.S., Dyason, J.C., Jin, B., Van Phan,T., Smythe,
+M.L., White, H.F., Oliver, S.W. (1993). Rational design of potent sialidase-based inhibitors of
+influenca virus replication. Nature 363, 401-2
+
+45
+
+Jason, W., Chin, T., Ashton Cropp, J. christopherAnderson, Mridul Mukherji, Zhiwen Zhang,
+Peter G. Schultz (2003). An Expanded Eukariotic Genetic Code. Science 15, 964-66.
+Kamerling, J. P., Strecker, G., Farriaux, J. P., Dorland, L., Haverkamp, J., und Vliegenthart, J. F.
+(1979). 2-Acetamidoglucal, a new metabolite isolated from the urine of a patient with sialuria.
+Biochim Biophys Acta 583, 403-8.
+Kayser, H., C.C.Geilen, C. Paul, R. Zeitler, W. Reutter (1992).
+Incorporation of N-acyl-amino-2-deoxy-hexoses into glycosphingolipids of the
+pheochromocytoma cell line PC 12.
+FEBS Lett. 301, 137-40.
+Kayser, H., Zeitler, R., Kannicht, C., Grunow, D., Nuck, R., und Reutter, W. (1992).
+Biosynthesis of a nonphysiological sialic acid in different rat organs, using N-propanoyl-Dhexosamines as precursors. J Biol Chem 267, 16934-8.
+Kelm, S., und Schauer, R. (1997). Sialic acids in molecular and cellular interactions. Int Rev
+Cytol 175, 137-240.
+Keppler, O., R. Horstkorte, M Pawlita, C Schmidt, W. Reutter (2001).
+Biochemical engineering of the N-acyl side chain of sialic acid: biological implications.
+Glycobiology 11, 11R-!8R.
+Keppler, O. T., Hinderlich, S., Langner, J., Schwartz-Albiez, R., Reutter, W., und Pawlita, M.
+(1999). UDP-GlcNAc 2-epimerase: a regulator of cell surface sialylation. Science 284,
+1372-6.
+Kluge, A., Reuter, G., Lee, H., Ruch-Heeger, B., und Schauer, R. (1992). Interaction of rat
+peritoneal macrophages with homologous sialidase-treated thrombocytes in vitro: biochemical
+and morphological studies. Detection of N-(O-acetyl)glycoloylneuraminic acid. Eur J Cell Biol
+59, 12-20.
+Kornfeld, S., Kornfeld, R., Neufeld, E., und O´Brien, P. J. (1964). The feedback control of sugar
+nucleotide biosynthesis in liver. Proc Natl Acad Sci USA 52, 371-9.
+Krauss, J. H., Himmelspach, K., Reuter, G., Schauer, R., und Mayer, H. (1992). Structural
+analysis of a novel sialic-acid-containing trisaccharide from Rhodobacter capsulatus 37b4
+lipopolysaccharide. Eur J Biochem 204, 217-23.
+Kundig, W., Gosh, S., und Roseman, S. (1966). The sialic acids. VII. N-Acyl-D-mannosamine
+kinase from rat liver. J Biol Chem 241, 5619-26.
+Leroy, J. G., Seppala, R., Huizing, M., Dacremont, G., De Simpel, H., Van Coster, R. N.,
+Orvisky, E., Krasnewich, D. M., und Gahl, W. A. (2001). Dominant inheritance of sialuria, an
+inborn error of feedback inhibition. Am J Hum Genet 68, 1419-27.
+Lucka, L., Krause, M., Danker, K., Reutter, W., und Horstkorte, R. (1999). Primary structure and
+expression analysis of human UDP-N-acetylglucosamine-2-epimerase/N-acetylmannosamine
+kinase, the bifunctional enzyme in neuraminic acid biosynthesis. FEBS Lett 454, 341-4.
+
+46
+
+Mahal, L.K., Yarema, K.J. und Bertozzi, C.R. (1997). Engeneering chemical reactivity on cell
+surfaces through oligosaccharide biosynthesis. Science 276, 1125-8
+Malykh, Y. N., Krisch, B., Gerardy-Schahn, R., Lapina, E. B., Shaw, L., und Schauer, R. (1999).
+The presence of N-acetylneuraminic acid in Malpighian tubules of larvae of the cicada Philaenus
+spumarius. Glycoconj J 16, 731-9
+Ofek, I., und Sharon, N. (1990). Adhesins as lectins: specificity and role in infection. Curr Top
+Microbiol Immunol 151, 91-113
+Reissig, J. L., Strominger, J. L., Leloir, L.F. (1955) A modified colorimetric method
+for the estimation of N-acetylamino sugars. J. Biol. Chem. 217, 959-966
+Rens-Domiano, S., und Reisine, T. (1991). Structural analysis and functional role of the
+carbohydrate component of somatostatin receptors. J Biol Chem 266, 20094-102.
+Richards, R. L., Moss, J., Alving, C. R., Fishman, P. H., und Brady, R. O. (1979). Choleragen
+(cholera toxin): a bacterial lectin. Proc Natl Acad Sci U S A 76, 1673-6.
+Roth, J., Kempf, A., Reuter, G., Schauer, R., und Gehring, W. J. (1992). Occurrence of sialic
+acids in Drosophila melanogaster.
+Roth, J., Zuber, C., Wagner, P., Taatjes, D. J., Weisgerber, C., Heitz, P. U., Goridis, C., und
+Bitter-Suermann, D. (1988). Reexpression of poly(sialic acid) units of the neural cell adhesion
+molecule in Wilms tumor. Proc Natl Acad Sci U S A 85, 2999-3003
+Sanger, F., Nicklen, S., Coulson, A. R. (1992) DNA sequencing with chainterminating
+inhibitors. 1977 (classical article). Biotechnology 24, 104-108
+Schengrund, C. L., DasGupta, B. R., und Ringler, N. J. (1991). Binding of botulinum and tetanus
+neurotoxins to ganglioside GT1b and derivatives thereof. J Neurochem 57, 1024-32.
+Schlepper-Schäfer, J., Kolb-Bachofen, V., und Kolb, H. (1980). Analysis of lectin-dependent
+recognition of desialylated erythrocytes by Kupffer cells. Biochem J 186, 827-31.
+Schwarzkopf, M., Knobeloch, K. P., Rohde, E., Hinderlich, S., Wiechens, N., Lucka, L., Horak,
+I., Reutter, W., und Horstkorte, R. (2002). Sialylation is essential for early development in mice.
+Proc Natl Acad Sci U S A 99, 5267-5270.
+Shaw, L., und Schauer, R. (1988). The biosynthesis of N-glycoloylneuraminic acid occurs by
+hydroxylation of the CMP-glycoside of N-acetylneuraminic acid. Biol Chem Hoppe Seyler 369,
+477-86.
+Seppala, R., Tietze, F., Krasnewich, D., Weiss, P., Ashwell, G., Barsh, G., Thomas, G. H.,
+Packman, S., und Gahl, W. A. (1991). Sialic acid metabolism in sialuria fibroblasts. J Biol Chem
+266, 7456-61.
+
+47
+
+Seppala, R., Lehto, V. P., und Gahl, W. A. (1999). Mutations in the human UDP-Nacetylglucosamine 2-epimerase gene define the disease sialuria and the allosteric site of the
+enzyme. Am J Hum Genet 64, 1563-9.
+Weiss, P. und Ashwell, G. (1989). Ligand induced modulation of the hepatic receptor for
+asialglycoproteins. Evidence for the role of hyposialylation. Biol Chem 264: 11572-4.
+Sommar, K. M., und Ellis, D. G. (1972b). Uridine diphosphate N-acetyl-D-glucosamine 2epimerase from rat liver. II. Studies on the mechanism of action. Biochim Biophys Acta 268,
+590-5.
+Stäsche, R., Hinderlich, S., Weise, C., Effertz, K., Lucka, L., Moormann, P., und Reutter, W.
+(1997). A bifunctional enzyme catalyzes the first two steps in N-acetylneuraminic acid
+biosynthesis of rat liver. Molecular cloning and functional expression of UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase. J Biol Chem 272, 24319-24.
+Suzuki, Y., Ito, T., Suzuki, T., Holland, R. E., Jr., Chambers, T. M., Kiso, M., Ishida, H., und
+Kawaoka, Y. (2000). Sialic acid species as a determinant of the host range of influenza A
+viruses. J Virol 74, 11825-31.
+Tanner, M. E. (2002). Understanding Nature's Strategies for Enzyme-Catalyzed Racemization
+and Epimerization. Acc Chem Res 35, 237-46.
+Taylor, G. (1996). Sialidases: structures, biological significance and therapeutic potential. Curr
+Opin Struct Biol 6, 830-7.
+Tedder, T. F., Tuscano, J., Sato, S., und Kehrl, J. H. (1997). CD22, a B lymphocyte-specific
+adhesion molecule that regulates antigen receptor signaling. Annu Rev Immunol 15, 481-504.
+van Rinsum, J., van Dijk, W., Hooghwinkel, G. J., und Ferwerda, W. (1984). Subcellular
+localization and tissue distribution of sialic acid-forming enzymes. N-acetylneuraminate-9phosphate synthase and N-acetylneuraminate 9-phosphatase. Biochem J 223, 323-8.
+Varki, A. (1992). Diversity in the sialic acids. Glycobiology 2, 25-40. Science 256, 673-5.
+Varki, A. (2001). N-glycolylneuraminic acid deficiency in humans. Biochimie 83, 615-22.
+Wasley, L. C., Timony, G., Murtha, P., Stoudemire, J., Dorner, A. J., Caro, J., Krieger, M., und
+Kaufman, R. J. (1991). The importance of N- and O-linked oligosaccharides for the biosynthesis
+and in vitro and in vivo biologic activities of erythropoietin. Blood 77, 2624-32.
+Watanabe, S., Kokuho, T., Takahashi, H., Takahashi, M., Kubota, T., und Inumaru, S. (2002).
+Sialylation of N-glycans on the recombinant proteins expressed by a baculovirus-insect cell
+system under beta-N-acetylglucosaminidase inhibition. J Biol Chem 277, 5090-3.
+Weiss, P., Tietze, F., Gahl, W. A., Seppala, R., und Ashwell, G. (1989). Identification of the
+metabolic defect in sialuria. J Biol Chem 264, 17635-6.
+
+48
+
+Yingnan Zhang, Ashlesha Desphande, Zhihong Xie, RamanathanNatesh, K. Ravi Acharya and
+Keith Brew (2004). Roles of active sites tryptophans in substrate binding and catalysis by -1,3
+galactosyltransferase. Glycobiologie 14, 12095-1302.

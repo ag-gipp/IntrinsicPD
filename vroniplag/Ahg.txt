@@ -1,0 +1,1748 @@
+Fahrsimulatoruntersuchung und Vigilanztests bei Patienten mit obstruktivem Schlafapnoe-Syndrom vor und unter CPAP-Therapie
+
+1.Einleitung
+„Methought I heard a voice cry ‘Sleep no more! Macbeth does murder sleep´- the innocent sleep, Sleep that knits up the ravell’d sleave of care, The death of each day’s life, sore labour’s bath, Balm of hurt minds, great nature’s second course, Chief nourisher in life’s feast-“ (Shakespeare, 1608, Macbeth, Akt II, Szene 2)Schlaf ist schon vor langer Zeit als unersetzbarer Teil des menschlichen Lebens erkannt worden. Beispielsweise lässt Shakespeare Macbeth den Schlaf unter ande- rem als „Hauptgang“ im „Festmahl des Lebens“ preisen und zeigt damit die im- mense Bedeutung die dem Schlaf schon vor 400 Jahren beigemessen wurde.
+
+Auch die heutige Schlafmedizin sieht den Schlaf oder genauer den erholsamen Schlaf als essentielle Vorraussetzung für Gesundheit und Leistungsfähigkeit im Alltag an. So war das Motto des Kongresses der Deutschen Gesellschaft für Schlafforschung und Schlafmedizin (DGSM) im Jahr 2005 „Der Traum vom er- holsamen Schlaf“.
+
+
+Nicht erholsamer Schlaf kann viele Gründe haben und zu schweren Beeinträchti- gungen im alltäglichen Leben führen: Aufmerksamkeitsdefizite sind ein häufiger Grund für oft schwere Arbeits- und Verkehrsunfälle. Nicht selten ist dieses Defizit der Aufmerksamkeit auf eine schlafbezogene Atmungsstörung (SBAS) zurückzu- führen, hierbei besonders auf das obstruktive Schlafapnoesyndrom (OSAS).
+
+
+Konsequenz aus vielen Untersuchungen zum erhöhten Unfallrisiko bei vorhande- nen SBAS ist die Empfehlung in der Begutachtungs-Leitlinie der Verkehrsmedi- zin beim Bundesminister für Verkehr und beim Bundesministerium für Gesund- heit (1996), dass Patienten mit unbehandelten schlafbezogenen Atmungsstörungen (Schlafapnoe-Syndrom) und Tagesmüdigkeit nicht am Straßenverkehr teilnehmen sollten.
+
+1.1Schlafbezogene Atmungsstörungen
+Die schlafbezogenen Atmungsstörungen (SBAS) dienen als Sammelbegriff für verschiedene Schlafstörungen die alle mit einer Atmungsstörung im Schlaf ein- hergehen.
+
+Als eine Schlafhypopnoe wird eine im Schlaf auftretende Verminderung des At- mungsgasstroms um mehr als 50 % des Ausgangswertes von mehr als 10 Sekun- den Dauer definiert.
+
+
+Analog dazu wird als Schlafapnoe als ein im Schlaf auftretender Stillstand des Atmungsflusses von mindestens 10 Sekunden Dauer bezeichnet (Fischer, 1992).
+
+
+Es werden vier wesentliche, schlafbezogene, respiratorische Ereignisse unter- schieden: Hypopnoe, zentrale Apnoe, obstruktive Apnoe und gemischte Apnoe (Tab. 1).
+
+
+Tab. 1: Definitionen atmungsmechanischer Parameter bei der
+Polysomnographie (- = fehlt, + = vorhanden/gesteigert) (nach Rasche et al., 1999)
+Dauer > 10 SekundenAtmungsgasstromAtmungsanstrengung   Hypopnoe< 50 %+/-   Obstruktive Apnoe-+   Zentrale Apnoe--   Gemischte Apnoe-+/-   Die zentrale Apnoe entsteht durch ein Ausbleiben der Atmungsmuskeltätigkeit bzw. einer Störung des zentralen Atmungsimpulses, während die viel häufigere obstruktive Apnoe auf einen Verschluss der oberen Luftwege bei vorhandener Aktivität der Atmungsmuskulatur zurückzuführen ist.
+
+Ferner sind auch Mischformen nachweisbar, die als gemischte Apnoe bezeichnet werden (Clarenbach et al., 1991).
+
+
+Die Definitionen der respiratorischen Ereignisse bilden die Grundlage der Eintei- lung der SBAS in der Internationalen Klassifikation von Schlafstörungen (ICSD-2)welche die SBAS („Sleep Related Breathing Disorders“) folgendermaßen ein- teilt:
+Zentrale Schlafapnoe-Syndrome 1.primär zentrale Schlafapnoe
+ 2.zentrale Schlafapnoe mit Cheyne Stokes Atmungsmuster
+ 3.zentrale Schlafapnoe bei Höhenaufenthalt
+4.zentrale Schlafapnoe bei internistischen / neurologischen Erkrankungen (außer Cheyne Stokes-Atmung) 5.zentrale Schlafapnoe bei Drogen- oder Medikamentengebrauch
+ 6.primäre Schlafapnoe in der frühen Kindheit
+Obstruktive Schlafapnoe-Syndrome 7.obstruktive Schlafapnoe, Erwachsene
+ 8.obstruktive Schlafapnoe, Pädiatrie
+Schlafbezogene Hypoventilation / hypoxämische Syndrome 9.schlafbezogene nicht-obstruktive alveoläre Hypoventilation, idiopathisch
+ 10.Kongenitales zentrales alveoläres Hypoventilations-Syndrom
+Schlafbezogene Hypoventilation / Hypoxämie bei internistischen / neuro-logischen Erkrankungen11.Schlafbezogene Hypoventilation / Hypoxämie bei Gefäß- oder Lungenpa- renchymerkrankungen12.Schlafbezogene Hypoventilation / Hypoxämie bei obstruktiver Atemwegs- erkrankung13.Schlafbezogene Hypoventilation / Hypoxämie bei neuromuskulären Er- krankungen oder ThoraxerkrankungenAndere Schlafbezogene Atmungsstörungen14.Schlafapnoe / schlafbezogene Atmungsstörung, unklassifiziert (ICSD-2, American Academy of Sleep Medicine, 2005) (Deutsche Übersetzung: Duchna, 2006)
+
+Bis auf das Obstruktive Schlafapnoesyndrom des Erwachsenen (Nr. 7 der Klassi- fikation) und des Kindes (Nr. 8) sind alle in der Klassifikation enthaltenen SBAS solche ohne Obstruktion der oberen Atemwege.
+
+Diese entstehen in der Regel im Rahmen verschiedener, vor allem internistischer und neurologischer, Grunderkrankungen (Rasche et al., 1999). Im Zentrum der Pathogenese der zentralen SBAS steht die Dysfunktion des Atmungsantriebs oder der Atmungsmuskulatur.
+
+
+Ausnahmen bilden die primären alveolären Hypoventilationen (Nr. 9 und 10), das primäre zentrale Schlafapnoesyndrom (Nr. 1) und das durch periodische Atmung in großer Höhe (Nr. 3) oder Medikamente bzw. Drogen (Nr. 5) induzierte zentrale Schlafapnoesyndrom.
+
+
+Die zentralen Schlafapnoe-Syndrome (Nr. 1 bis 6), von dem man per definitionem erst ab einem Anteil von mehr als 55% zentraler Apnoen spricht, sind sehr selten und stellen weniger als 10% der gesamten Schlafapnoesyndrome dar (Roehrs et al., 1985).
+
+
+Die in der Praxis am häufigsten vorkommende SBAS ist das obstruktive Schla- fapnoe-Syndrom (OSAS) des Erwachsenen (Nr. 7 der ICSD-Klassifikation).
+
+
+1.1.1 Obstruktives Schlafapnoe-Syndrom
+1.1.1.1Epidemiologie
+Nach Young et al. (1993) beträgt die Prävalenz des klinisch manifesten obstrukti- ven Schlafapnoe-Syndroms (OSAS) in einer Altersgruppe von 30 bis 60 Jahren 2% bei Frauen und 4% bei Männern. Nach der AWMF-Leitlinie zur obstruktiven Schlafapnoe (1997) liegt die Prävalenz des behandlungsbedürftigen OSAS bei über 1% der Gesamtbevölkerung, wobei vor allem Männer der Altersgruppe über 40 Jahre betroffen sind.
+
+In einer Untersuchung von Young et al. (1997) liegt der Anteil nicht diagnosti- zierter mittel- bis schwergradiger Schlafapnoe-Syndrome bei über 80%. Frauen stellen sich seltener zur Verifizierung eines OSAS vor, als die Prävalenzdaten erwarten lassen (Orth et al., 1996). Frauen erkranken in der Regel erst ab dem Klimakterium, insgesamt etwa 7-mal seltener als Männer.
+
+In neueren Studien wurde besonders unter Berufskraftfahrern eine beträchtlich höhere Prävalenz gefunden.
+
+
+Pack et al. (2002) fanden bei ihrer Studie eine Prävalenz des Schlafapnoe- syndroms von 17,6 % unter Berufskraftfahrern in den USA.
+
+
+Howard et al. (2004) stellten ebenfalls eine hohe Prävalenz von SBAS (59,6%) und OSAS (16%) (dort definiert als SBAS plus ausgeprägte Tagesmüdigkeit) un- ter Berufskraftfahrern in den USA fest.
+
+
+Unbehandelte Schlafapnoe-Syndrome verursachen in den USA schätzungsweise bis zu 3.4 Milliarden US-Dollar zusätzliche medizinische Kosten (Kapur et al., 1999).
+
+
+1.1.1.2Pathophysiologie
+Auch bei Gesunden nimmt im Schlaf der Widerstand der oberen Atemwege ins- gesamt zu, der pharyngeale Widerstand steigt sogar um das zweifache gegenüber dem Wachzustand an (Hudgel et al., 1983).
+
+Jede weitere Erhöhung des extrathorakalen Atemwegswiderstandes durch Adipo- sitas oder Formen der intrathorakalen Atemwegsobstruktion wie z.B. die chro- nisch obstruktive Atemwegserkrankung (COPD) führen zunächst im REM-Schlaf zu Ventilationsstörungen mit BGA-Veränderungen, da die Atemarbeit nicht ent- sprechend geleistet werden kann.
+
+
+Schlafbezogene Atmungsstörungen führen im Rahmen von Hypoventilationen, Veränderungen des oberen Atemwegswiderstandes und von Apnoen zu unter- schiedlichen Graden der Störung der Schlafstruktur, was eine entsprechende Ta- gesbefindlichkeit zur Folge hat (Schläfke et al., 1999).
+
+
+Begünstigend für SBAS wirken enge anatomische Verhältnisse im Oro- und Hy- popharynx, z.B. durch stammbetonte Fettverteilung mit Zunahme des Halsum- fangs (Stradling, 1995), Makroglossie, vergrößerte Gaumenmandeln oder Retrognathie oder auch das Schlafen in Rückenlage.
+
+Durch einen erhöhten Atemwegswiderstand in der Nase, vorkommend bei Nasen- septumdeviation, hyperplastischen Nasenmuscheln oder Nasenpolypen, wird bei geschlossenem Mund der inspiratorisch wirkende Unterdruck im Pharynxbereich größer, was ebenfalls die Kollapsneigung verstärkt.
+
+Als neuromuskulärer Faktor muss die auch physiologisch vorkommende funktio- nelle Tonusabnahme der Muskulatur im Schlaf berücksichtigt werden, die am stärksten im REM-Schlaf und geringfügiger im Tiefschlaf ausgeprägt ist.
+
+
+Von Schlafapnoe-Patienten kann sie nur unzureichend kompensiert werden. Letz- tere ist die wohl wichtigste Komponente für den Kollaps der oberen Atemwege und letztlich die Erklärung für die nur während des Schlafs auftretenden Okklusi- onen (Soler et al., 1995).
+
+
+Weitere begünstigende Faktoren zur Entwicklung eines OSAS sind abendlicher Alkoholkonsum und die Einnahme von Sedativa oder ähnlichen Medikamenten. Als wichtigsten Faktor beschreibt Stradling (1995) neben der Verteilung der Adi- positas das zunehmende Alter. Nach White (1995) liegen bei älteren Menschen engere Atemwege mit erhöhter Kollapsneigung vor.
+
+
+Soler et al. (1995) beschreiben im Zusammenhang der Pathogenese des OSAS einen sogenannten „Schlaf-Apnoe-Aufwach-Zyklus“, der sich folgendermaßen darstellt:
+Nach Obstruktion der oberen Atemwege führt eine fortgesetzte periodische Akti- vierung der Atmungsmuskulatur bei gleichzeitig sistierender Ventilation zu ver- stärkten intrathorakalen Druckschwankungen, so dass der alveoläre Sauerstoffpar- tialdruck und konsekutiv die arterielle Sauerstoffsättigung absinken bzw. der arte- rielle Kohlensäuregehalt ansteigt. Die Veränderungen der Blutgase haben einen stimulierenden Effekt auf Chemorezeptoren, was zu einer weiteren Aktivierung der Atmungsmuskulatur mit zunehmenden intrathorakalen Druckschwankungen führt. Schließlich wird von der Formatio reticularis ausgehend eine Weckreaktion, ein sogenanntes Arousal, induziert, welche zu einer Tonisierung der Schlund- und Halsmuskulatur führt und die Atemwege wieder freigibt.
+
+Nach White (1995) ist das Arousal die letzte respiratorische Reaktion auf die Ap- noe, ohne die es zu schweren Hypoxämien oder sogar zum Tod kommen kann. Nach einigen tiefen Atemzügen kommt es zu einer Normalisierung der Blutgase, und der Patient schläft wieder ein. Dieser Zyklus kann sich bis zu 30-mal pro Stunde Schlaf bzw. bis zu 500-mal pro Nacht ereignen.
+
+Die obstruktive Schlafapnoe wird also nicht nur durch den Schlaf induziert, son- dern übt ihrerseits eine schlafstörende Wirkung aus, was zu einer Fragmentierung des physiologischen Schlafablaufs mit Reduktion des REM- und des Tiefschlafs und einer Zunahme der Wachphasen führt (AWMF-Leitlinie, 1997; Soler et al., 1995; Grote, Schneider, 1996).
+
+
+1.1.1.3Symptome und Folgeerkrankungen
+Starkes unregelmäßiges Schnarchen und / oder eine erhöhte Tagesmüdigkeit und imperativer Schlafdrang sind die Leitsymptome der SBAS (Peter et al., 1992).
+
+Ursache des Schnarchens sind Schwingungen des Gaumensegels und der lateralen Pharynxwände bei fehlender oder zu geringer Tonisierung der oberen Atemwege (Pirsig et al., 1988), während die Hypersomnie am Tage durch die massive Schlaffragmentierung bedingt ist.
+
+
+Weitere häufige Symptome sind schlafbezogene Atempausen, unruhiger Schlaf, Nachtschweiß, morgendliche Abgeschlagenheit, Kopfdruck und Konzentrations- störungen.
+
+
+Als fakultative Symptome sind Libidoverlust, Potenzstörungen und depressive Verstimmungszustände zu nennen.
+
+
+Häufig assoziierte internistische Erkrankungen sind Adipositas, arterielle und pulmonalarterielle Hypertonie, apoplektischer Insult, koronare Herzkrankheit, rechts- und linksventrikuläre Dysfunktionen, Herzinsuffizienz, Polyglobulie und Herzrhythmusstörungen (Peter et al., 1992; Sanner et al., 1999;).
+
+
+Das OSAS muss als eigenständiger Risikofaktor für die Entwicklung kardio- vaskulärer Erkrankungen angesehen werden, da es diese aggravieren oder sogar primär verursachen kann (Calverly, 1995; Sanner et al., 1999; Peppard et al., 2000; Shahar et al., 2001).
+
+
+Nach Sanner et al. (1999) sind die intrathorakalen Druckschwankungen, die rezi- divierenden Hypoventilationen und die zentralen Weckreaktionen die drei wesentlichen Pathomechnismen, welche für die Beeinflussung des Herz- Kreislaufsystems verantwortlich sind.
+
+An endokrinologischen Erkrankungen ist bei Schlafapnoe-Patienten eine erhöhte Insulin-Resistenz festzustellen (Burmann-Urbanek et al., 1999), und ferner wird vermutet, dass die obstruktive Schlafapnoe eine Ursache des gastroösophagealen Reflux (GÖR) ist (Rasche et al., 1999).
+
+
+1.1.1.4Diagnostik
+ Den Schweregrad eines OSAS kann man durch verschiedene Indizes quantifizieren.
+
+
+Als Apnoe-Index (AI) bezeichnet man die Anzahl von Apnoen, als Apnoe- Hypopnoe-Index (AHI) die Anzahl von Apnoe- und Hypopnoe-Episoden pro Stunde Schlaf.
+
+
+Hierzu wird die Gesamtzahl der Apnoen bzw. der Apnoen und Hypopnoen wäh- rend der Schlafzeit einer Nachtmessung ermittelt und durch die Gesamtschlafzeit (in Stunden) dividiert, wozu jedoch eine gleichzeitige Registrierung der Schlaf- stadien erfolgen muss.
+
+
+Bei einem AHI 40/h liegt ein behandlungsbedürftiges OSAS vor (AWMF- Leitlinie, 1997).
+
+
+Bei der Diagnostik der SBAS hat sich ein gestuftes Vorgehen bewährt wie es in Tabelle 2 zu sehen ist:
+Tab. 2: Stufendiagnistik bei SBAS (AWMF-Leitlinie, 1997) Stufe Anamnese des Schlaf-/Wachverhaltens, Differentialanamnese der Dys-
+1:somnien.(=Erkrankungen, die zu Schlafstörungen führen). Standardisierte Fragebögen sind hilfreich. Körperliche Untersuchung. Stufe klinische Untersuchung, insbesondere im Hinblick auf Stoffwechseler-
+2:krankungen, Herz-Kreislauferkrankungen, Ventilationsstörungen, neuro- logische und psychiatrische Erkrankungen. Bei Verdacht auf die o.g. Er- krankungen sind zur Risikoabschätzung ergänzende apparative und labor- chemische Untersuchungen sinnvoll (je nach Indikation Blutgase, Lun- genfunktion, Atemmuskelfunktion, EKG, Langzeit-EKG, Langzeit-Blutdruck, Ergometrie, u.ä., Routinelabor, basaler TSH-Wert, HNO- ärztliche Untersuchung, Mund-, Kiefer- und Gesichtschirurgische Unter- suchung bei Verdacht auf kraniofaziale Dysmorphie, Bestimmungen von Parametern und funktionelle Analyse im hormonellen System). Stufe Ist die Dyssomnie nicht zweifelsfrei durch o.g. Untersuchungen der Stufe
+3:1 und 2 zu klären, sollte ein ambulantes nächtliches Monitoring zuhause erfolgen. Bei Tagesschläfrigkeit und eindeutiger Anamnese für schlafbe- zogene Atmungsstörungen können polysomnographische Messungen zum Nachweis oder Ausschluß einer SBAS auch ohne vorherige Stufe 3 erfol- gen. Stufe Zur Differentialdiagnose von Dyssomnien, insbesondere zur Abgrenzung
+4:von primärem Schnarchen und behandlungsbedürftigen periodischen nächtlichen Beinbewegungen, sind polysomnographische Messungen indiziert, ebenso zur Differenzierung von anderen Formen von Schlaf- Wachstörungen (z.B. PLMS, RLS, Narkolepsie).
+
+Bei Begutachtungen und/oder bestehender Eigen- oder Fremdgefährdung sind Vigilanztestungen zur Quantifizierung der Hypersomnie/Insomnie mittels standardisierter Fragebögen, in der Regel auch durch Messungen der Hypersomnie mittels des Multiple Sleep Latency Tests (MSLT) oder Maintenance of Wakefulness Tests (MWT), Reaktionszeittests, Fahrsimu- lationstests u.ä. notwendig.
+
+
+1.1.1.5Therapie
+Diagnose und Therapie sollten sich nicht ausschließlich auf messtechnische Pa- rameter stützen, sondern sich auch an der klinischen Symptomatik orientieren, so dass ein individuelles Risikoprofil erstellt werden kann. Ähnlich wie in der Dia- gnostik hat sich auch bei der Therapie des OSAS ein gestuftes Vorgehen bewährt, dass sich vornehmlich nach dem Schweregrad der Erkrankung und dem Ausmaß des subjektiv empfundenen Leidensdrucks des Patienten richtet (Orth et al., 1999). Ein Stufenschema zur Therapie ist in Tabelle 3 dargestellt. 9
+Tab. 3: Stufentherapie schlafbezogener Atmungsstörungen (Rasche, Sanner,1999)Stufe 1 •Verhaltensmedizinische Beratung
+ •Behandlungen von Begleiterkrankungen
+-Erkrankungen, die eine SBAS aggravieren (z.B. COPD, Herzinsuffizienz)-Erkrankungen, die durch eine SBAS verschlechtert werden (z.B. arterielle Hyertonie)Stufe 2•Medikamentöse Therapie (z.B. Theophyllin, selektive Serotonin-reuptake- Inhibitoren)Stufe 3 •Apparative Therapie (nasale Überdruck(be)atmung)
+Sonstige Therapie (außerhalb der Stufentherapie): •Nicht-operative Maßnahmen
+ -Nasale/transtracheale Sauerstofftherapie
+ -„Orale Applikatoren“
+ •Operative Maßnahmen
+ -z.B. Adenotomie, Tonsillektomie
+ -Umstellungsosteotomien
+ -Uvulovelopalatopharyngeoplastik (UPPP)
+ -Tracheotomie
+ -Stimulation des N. hypoglossus (experimentell)
+Die verhaltensmedizinischen Maßnahmen, insbesondere die Gewichtsreduktion und die Einhaltung von Schlafhygiene sollten weitergehende Therapieformen stets flankieren. Theophyllin ist nach Smith et al. (2002) in der Therapie des OSAS nicht eindeutig wirksam und findet in der Praxis keine Anwendung.
+
+Als Mittel der Wahl hat sich in der Behandlung des OSAS die Therapie mit „Con- tinuous Positive Airway Pressure“ (Kontinuierliche Überdruckbeatmung, CPAP) etabliert, deren Ziel es ist, die im Schlaf gestörte Atmung zu normalisieren. Die CPAP-Therapie, die mittels einer Nasen- oder Nasen-Mund-Maske appliziert wird, verhindert den Kollaps des Oropharynx im Schlaf, da durch den kontinuier- lichen Überdruck eine pneumatische Schienung erreicht wird. Durch Verhinderung von Apnoen, Hypopnoen und thorakalen Druckschwankungen verringern sich die Arousal-Reaktionen, die Schlafarchitektur normalisiert sich und die Ta- gesmüdigkeit nimmt ab (Issa et al., 1986). Wilcox et al. (1993) wiesen eine signi- fikante Senkung des systolischen und diastolischen Blutdrucks nach eingeleiteter CPAP-Therapie nach. Die individuelle Therapieeinstellung und die regelmäßigen Kontrollen sollten in einem Schlaflabor unter polysomnographischer Kontrolle erfolgen.
+
+Die Nebenwirkungen sind in der Regel nur von lokaler Natur, gut therapierbar und führen nur selten zu einem Therapieabbruch. In einer Übersichtsarbeit von Orth et al. (2006) wurden die allgemeinen Nebenwirkungen mit einer Häufigkeit von 43 bis 88 % angegeben. Beeinträchtigungen durch Geräuschentwicklung äu- ßerten 15 – 60% und Reizung der Augen 1 bis 24 % der Patienten unter CPAP- Therapie. Probleme im Zusammenhang mit Anwendung der CPAP-Maske zeigen sich bei 24 – 66 % der Patienten und Eintrocknung der Nasenschleimhäute / Rhi- nitis bei 30 – 70 %. Diese Maskenprobleme können teilweise durch Applikation von Warmluftbefeuchtern oder Kinnbändern behoben werden (Orth et al., 2006).
+
+
+Als absolute Kontraindikation sind unkooperative Patienten anzusehen. Als relati- ve Kontraindikationen gelten lokale Faktoren, die eine Therapie erschweren oder unmöglich machen wie z.B. eine laxe Epiglottis oder Tumoren des Nasen- Rachen-Raums (Sanner, Rasche, 1999).
+
+
+Die objektive Compliance wird definiert als die tatsächliche Nutzungszeit des CPAP-Gerätes, während die subjektive Compliance die vom Patienten angegebe- ne Tragzeit darstellt. Die subjektive wird von den Patienten im Vergleich zur ob- jektiven Compliance meist überschätzt (Delguste et al., 2000).
+
+
+Ungefähr 70 % der Patienten nutzen das CPAP-Gerät während 70 % der Nächte für mindestens vier Stunden pro Nacht (Orth et al., 2006). Nach Soler et al. (1995) sind Motivation und (subjektive und objektive) Compliance bei Patienten mit aus- geprägtem OSAS und starker Beeinträchtigung im Alltag am höchsten. Weitere Prädiktoren für eine gute CPAP-Langzeitcompliance sind die Patientenzufrieden- heit mit dem diagnostischen und therapeutischen Procedere und die intensive Patientenschulung (Orth et al., 2006) Aber der wichtigste Faktor die Motivation zur Nutzung des CPAP-Gerätes dauerhaft zu aufrecht zu erhalten ist der Mensch, also das Personal der schlafmedizinischen Abteilung, wie in einer Cochrane-Analyse von 24 randomisierten kontrollierten Studien mit insgesamt 1007 Patienten he- rausgefunden wurde (Haniffa et al., 2004).
+
+Letztendlich ist das Ziel der Therapie die Reduktion der Tagesmüdigkeit und die Zunahme der Leistungsfähigkeit (Sullivan und Grunstein, 1994).
+
+
+1.2Vigilanz und Aufmerksamkeit
+Bei der Vigilanz als eine der Aufmerksamkeitskomponenten handelt es sich um ein hypothetisches Konstrukt, für das bislang keine einheitlichen Begriffsdefiniti- on besteht.
+
+Gegenwärtig wird in der wissenschaftlichen Literatur ein Aufmerksamkeitskon- zept favorisiert, welches auf Posner und Rafael (1987) zurückgeführt werden kann (Weeß et al., 1998).
+
+
+Es wird unterschieden zwischen der der Aufmerksamkeit vorausgehenden zent- ralnervösen Aktivierung oder auch Alertness genannt, der selektiven Aufmerk- samkeit, der geteilten Aufmerksamkeit und der Vigilanz. Die zentralnervöse Ak- tivierung wird noch in eine tonische und eine phasische Komponente differenziert (Becker et al., 1996; Weeß et al., 1998).
+
+
+Abb. 1: Modell der der Leistungsfähigkeit zugrunde liegenden Aufmerksam-
+keitskomponenten (Weeß et al., 1998). Als zentralnervöse Aktivierung oder auch „Alertness“ wird die generelle neurona- le Bereitschaft des zentralen Nervensystems auf interne und externe Stimuli zu 12
+reagieren definiert (Weeß et al., 1998). Die Alertnessfunktion gilt also als Maß für den Aktiviertheitszustand des Organismus.
+
+Die tonische Alertness beschreibt den physiologischen Wachheitszustand und ist unter anderem von der Tageszeit bestimmt und unterliegt nicht der bewussten Kontrolle.
+
+
+Die phasische Alertness ist als Zunahme der Aktiviertheit oder Wachheit auf ei- nen Reiz hin zu sehen. Sie beschreibt z.B. die Fähigkeit eines Individuums, bei ruhigem Sitzen durch Zurufen seine allgemeine Wachheit (tonische Komponente) vorübergehend zu erhöhen (Becker et al., 1996; Sturm, 1997; Weeß et al., 1998).
+
+
+Die selektive Aufmerksamkeit bezeichnet die Fähigkeit, sich aus vielen einströ- menden Reizen den relevanten zuzuwenden und sie selektiv zu erfassen.
+
+
+Die geteilte Aufmerksamkeit beschreibt die Fähigkeit zur schnellen, automatisier- ten und kontrollierten sowie zur seriellen und parallelen Informationsverarbeitung wie z.B. beim Autofahren. D.h. sie wird auf zwei oder mehr Reize gleichzeitig gerichtet oder verteilt (Becker et al., 1996; Weeß et al., 1998).
+
+
+Nach Sturm (1997) kann man unter dem Oberbegriff längerfristige Aufmerksam- keit zwischen Vigilanz und Daueraufmerksamkeit unterscheiden. Die Dauerauf- merksamkeit bezeichnet die längerfristige Aufrechterhaltung der Aufmerksamkeit bei hoher Reizfrequenz, während die Vigilanz als Fähigkeit gesehen wird, auch bei sehr eingeschränkten Reizbedingungen über einen sehr langen Zeitraum hin- weg aufmerksam zu bleiben. Hohe Anforderungen an die Vigilanz stellen z.B. Überwachungsaufgaben oder Nachtfahrten auf wenig befahrenen Autobahnen dar.
+
+
+1.2.1 Neuropsychologische Defizite bei SBAS
+SBAS haben neben der nächtlichen Symptomatik auch beträchtliche Konsequen- zen am Tage.
+
+So tritt als ein Hauptsymptom des OSAS eine exzessive Tagesschläfrigkeit (ex- cessive daytime sleepiness (EDS) mit teilweise imperativem Schlafdrang auf.
+
+
+Es wird davon ausgegangen, dass die bei Schlafstörungen häufig anzutreffende verminderte Schlafqualität infolge von Tiefschlaf- oder REM-Suppression, vermehrter nächtlicher Arousal-Reaktionen oder verlängerter Wachphasen zu einer reduzierten Erholungsfunktion des Nachtschlafes führt (Weeß et al., 1998).
+
+Nach Jennum et al. (1993) beeinflussen Insomnie und Schläfrigkeit die kognitiven Funktionen.
+
+
+Patienten mit EDS-Beschwerden haben besondere Probleme in Situationen kör- perlicher Ruhe und bei lang andauernden monotonen Konzentrationsaufgaben (Schwarzenberger-Kesper et al., 1987). In einer Studie von Kales (1985) zeigen 76% der OSAS-Patienten kognitive Defizite in den Bereichen Denken, Auffas- sungsvermögen, Gedächtnis, Kommunikation und der Fähigkeit neue Informatio- nen zu lernen. Naëgelé et al. (1995) untersuchten verschiedene kognitive Funktio- nen bei Schlafapnoe-Patienten, mit dem Ergebnis, dass sie bei exekutiven Funkti- onen, die den Erwerb von Informationen für die Gedächtnisverarbeitung beinhal- ten, beeinträchtigt waren. Cassel et al. (1989) konnten bei Schlafapnoe-Patienten eine verminderte non-verbale Leistungs- und Verarbeitungsgeschwindigkeit fest- stellen. Kotterba et al. (1998) fanden bei OSAS-Patienten eine Beeinträchtigung der zentralnervösen Aktivierung (alertness), der selektiven Aufmerksamkeit und der Daueraufmerksamkeit. Barbé et al. (1998) wiesen bei Schlafapnoe-Patienten eine verminderte Vigilanz nach.
+
+
+Als Ursache der kognitiven und neuropsychologischen Defizite werden die EDS selbst, die Schlaffragmentierung und Arousals oder die nächtlichen Hypoxämien diskutiert (Findley et al., 1986; Greenberg et al., 1987; Guilleminault et al., 1988; Colt et al., 1991; Bédard et al., 1991; Roehrs et al., 1995).
+
+
+1.3Neuropsychologische Untersuchungsmethoden
+Aufgabe der neuropsychologischen Untersuchungen ist es, den aktuellen neuro- psychologischen Status wiederzugeben und dessen Verlauf zu dokumentieren.
+
+Hierzu stehen verschiedene Testverfahren, welche unterschiedliche Aspekte erfas- sen können, zur Verfügung. Typische Aufgaben zur Untersuchung der Aufmerk- samkeitsaktivierung sind einfache visuelle oder auditive Reaktionsaufgaben, wel- che mit oder ohne Vorgabe eines Warnreizes vor dem Reaktionsstimulus dargebo- ten werden. Die Reaktionszeitdifferenz zwischen diesen beiden Bedingungen gilt als Maß für die kurzfristige phasische Aufmerksamkeitsaktivierung. Reaktionszeiten ohne vorherigen Warnreiz repräsentieren die tonische Alertness, welche auch noch mit dem multiplen Schlaf-Latenz-Test (MSLT), dem Maintenance of Wake- fulness Test („Mehrfach Wachbleibe Test“ (MWT)) oder mittels einer Pupil- lographie gemessen werden kann.
+
+Aufgaben zur selektiven Aufmerksamkeit erfordern rasche Selektionsprozesse sowohl auf der Reiz- als auch auf der Stimulusseite. Hierzu werden oft Wahl- Reaktions-Aufgaben bzw. Reaktionszeittests mit hoher zeitlicher Anforderung verwendet.
+
+
+Die meisten Verfahren zur Überprüfung der geteilten Aufmerksamkeit sind soge- nannte Dual-Task-Aufgaben bzw. Tests mit Anforderungen an verschiedene Sin- nesmodalitäten unter hoher zeitlicher Belastung. Es wird die Fähigkeit geprüft, flexibel mit konkurrierenden Informationen umzugehen und das richtige Antwort- schema auszuwählen. Vigilanztests müssen definitionsgemäß sehr eintönig sein und sollten eine Mindestdauer von 30 Minuten aufweisen (Sturm, 1997; Weeß et al., 1998). Zur Ergänzung der verschiedenen Aufmerksamkeitstests kann man noch andere Verfahren wie z.B. Intelligenztests verwenden.
+
+
+In der vorliegenden Untersuchung wurde eine neuropsychologische Testbatterie zusammengestellt, die besonders der Testung auch der kurzfristigen Vigilanz die- nen sollte. Die Vigilanz wird u.a. mit der Testbatterie zur Aufmerksamkeitsprü- fung (TAP) von Zimmermann und Fimm (1994) untersucht.
+
+
+1.4Straßenverkehrsunfälle und Müdigkeit am Steuer
+Einige schwere Katastrophen und Unfälle waren die Folge von beeinträchtigter Leistungsfähigkeit aufgrund von Schläfrigkeit und Schlafmangel.
+
+Bekannte Beispiele sind die Explosion der Challenger, die Havarie der Exxon Valdez und die Reaktorunfälle in Three Mile Island und Tschernobyl (Mitler et al., 1988; Charles et al., 2000).
+
+
+Die Gesamtkosten für schlafbezogene Unfälle in den USA werden von Leger (1994) auf 43-56 Milliarden US-Dollar geschätzt. Eine besondere Stellung neh- men Straßenverkehrsunfälle ein. Sie sind die häufigste Unfallursache mit Todes- folge. Neben Alkohol am Steuer stellen Müdigkeit bzw. Einschlafen während des Fahrens die Hauptursache dar. So sind 24% aller tödlichen Unfälle auf bayrischen Autobahnen im Jahre 1991 auf Einschlafen am Steuer zurückzuführen und die Gesamtkategorie „Vigilanz / Bewusstseinsstörung“ wies sogar einen Anteil von 38% auf (Langwieder et al., 1994). Amerikanische und japanische Studien gehen sogar von bis zu 50% vigilanzbedigten Unfällen aus (Lauber et al., 1988; Seko et al., 1986).
+
+Nach Aldrich (1989) beträgt die Inzidenz von schlafbezogenen Autounfällen we- gen exzessiver Tagesschläfrigkeit 3-7%. Demnach ist Einschlafen am Steuer ein wichtiger Faktor für das erhöhte Unfallrisiko von Schlafapnoe-Patienten.
+
+
+Verschiedene Studien haben gezeigt, dass Patienten, die an einem Schlafapnoe- Syndrom leiden, ein stark erhöhtes Unfallrisiko im Vergleich zu Normkollektiven aufweisen und eine relevante Verkehrsgefährdung für sich und andere Teilnehmer darstellen (Aldrich et al., 1989; Cassel et al., 1991; Findley et al., 1991; Barbé et al., 1998; Terán-Santos et al., 1999; Horstmann et al., 2000).
+
+
+George et al. (1999) untersuchten die Unfallraten und die Anzahl von Verkehrs- vergehen von OSAS-Patienten mit dem Ergebnis, dass die Unfallhäufigkeit und die Anzahl von Verkehrsverstößen während einer Periode von fünf Jahren im Vergleich zu einer Kontrollgruppe erhöht war (χ2=7,7; p<0,01).
+
+
+Nach Young et al. (1997) ist das relative Risiko, einen Unfall innerhalb von 5 Jahren zu verursachen, für Männer mit einer schlafbezogenen Atmungsstörung um den Faktor 3 erhöht. Mehrere Untersuchungen belegen ein um das mindestens 2- bis 3fach, bis zu 7fach erhöhtes Unfallrisiko (George et al., 1987; Findley et al., 1988).
+
+
+Sassani et al. (2004) stellten in einer Metaanalyse von Publikationen der Jahre 1980 bis 2003 fest, dass sich im Jahr 2000 in den USA mehr als 800.000 OSAS- bedingte Autounfälle ereigneten. Diese Unfälle verursachten Kosten von US $ 15,9 Milliarden und es wurden 1.400 Menschen getötet. In einer hypothetischen Gegenrechnung kam Sassani zu dem Ergebnis, dass die Behandlung der beteilig- ten OSAS-Patienten mit CPAP US $ 3,18 Milliarden gekostet hätte. Somit hätten durch die CPAP-Therapie $ 11,1 Milliarden im Jahr 2000 gespart und 980 Men- schenleben gerettet werden können.
+
+1.4.1 Berufskraftfahrer
+Eine besondere Gruppe stellen in diesem Zusammenhang Berufskraftfahrer und Lastkraftwagenfahrer dar, da sie beruflich sehr viel Zeit auf der Straße verbringen und zudem in der Regel größere Fahrzeuge mit teilweise gefährlicher Ladung oder anderen Personen führen, so dass im Falle eines Unfalls wahrscheinlich be- trächtlichere Schäden und Verletzungen auftreten können. Diese Personen haben durch ihren Beruf und dem damit verbundenen Lebenswandel ein erhöhtes Risiko, an einem OSAS zu erkranken. So haben LKW-Fahrer z.B. einen sehr unregelmä- ßigen Schlaf-Wach-Rhythmus und leiden oft an einer Adipositas (Stradling, 1989; Stoohs et al., 1995).
+
+1994 untersuchten Stoohs et al. den Einfluss von SBAS und Adipositas bei kom- merziellen Fahrern von großen Lastzügen. Fahrer mit SBAS verursachen doppelt so viele Unfälle pro gefahrenen 1000 Meilen, als solche ohne SBAS, wobei eine Adipositas die Unfallrate noch erhöht.
+
+
+Durch übermüdungsbedingte Fahruntüchtigkeit verursachte Unfälle und damit verbundene Straftaten dürften unter Berufskraftfahren ein Ausmaß angenommen haben, welches mit der Trunkenheitskriminalität vergleichbar ist (Meyer, 1990).
+
+
+Howard et al. (2004) stellte eine hohe Prävalenz von SBAS (59,6%) und OSAS (16%) (dort definiert als SBAS plus ausgeprägte Tagesmüdigkeit) unter Berufs- kraftfahrern fest. Die von Pack et al. (2002) bei ihrer Studie gefundene Prävalenz des Schlafapnoesyndroms lag bei 17,6 % unter Berufskraftfahrern in den USA.
+
+
+Dies alles unterstreicht die Relevanz des Problems von Schlafapnoesyndrom unter Berufskraftfahrern.
+
+
+1.5Fahrsimulatoruntersuchungen
+Patienten mit unbehandeltem OSAS realisieren beim Führen ihrer Kraftfahrzeuge nicht ihre verminderte Fähigkeit, sicher zu fahren und dass sie somit ein Risiko für andere Verkehrsteilnehmer darstellen (Cassel et al., 1990).
+
+Daher sind geeignete diagnostische Mittel notwendig, die die Fahrtüchtigkeit un- tersuchen können.
+
+Die in Kapitel 1.3 beschriebenen neuropsychologischen Tests oder Methoden wie z.B. die Messung der Blinzeldauer als Indikator für gesteigerte Schläfrigkeit (Häkkänen et al., 1999) können nicht die komplexe Situation einer Autofahrt rea- listisch simulieren.
+
+So werden z.B. konventionelle Vigilanztests normalerweise vor einem Computer absolviert, wo der Proband auf einen Reiz mit einem Tastendruck reagieren soll. Diese Tests sind sehr sensitiv für psychomotorische Depression, aber sie können nicht die Bedingungen einer Autofahrt simulieren (Haraldsson et al., 1990).
+
+
+Aus diesem Grunde sind vermehrt sogenannte Fahrsimulatoren zum Einsatz ge- kommen. Nur mit ihnen können Situationen im Straßenverkehr annähernd realis- tisch dargestellt werden, ohne den Patienten und andere zu gefährden.
+
+
+Der von Findley entwickelte „Steer Clear-Test“ wird an einem Personal Computer (PC) durchgeführt. Auf einem Bildschirm wird ein fahrendes Auto auf einer zwei- spurigen Autobahn mit intermittierend auftauchenden Hindernissen dargestellt. Das Ziel ist es, über einen Zeitraum von dreißig Minuten Zusammenstöße durch Fahrbahnwechsel, die man mit einem Tastendruck initiieren kann, zu vermeiden (Findley et al. 1989; 1995; 1999; Flemmons et al., 1993). Es wurde ein Zusam- menhang zwischen schlechten Leistungen im Steer Clear Simulator und einer er- höhten Unfallrate in den fünf Jahren vor der Messung gefunden. Auch war die Leistung der OSAS Patienten per se schlechter als die von gesunden Kontrollper- sonen (Findley et al., 1995).
+
+
+Während dieser Test aber eher einem konventionellen Vigilanztest entspricht, bietet der „Driving Vigilance Test“ von Haraldsson et al. (1990) schon realisti- schere Bedingungen. In einer Fahrerkabine, die einem gängigen PKW entspricht, werden verschiedene Kräfte simuliert, die auch bei einer reellen Autofahrt zu spü- ren sind. Der Proband soll 90 Kilometer auf einer schmalen, einspurigen, kurvigen Straße bei Dämmerung zurücklegen. Während der Fahrt soll die Testperson auf unterschiedliche Lichtreize, die auf dem Bildschirm generiert werden, mit Brems- reaktionen oder Drücken auf einen Signalknopf reagieren. Es werden die Brems- reaktionszeit, seitliche Abweichungen von der Fahrbahnmitte bzw. Abkommen von der Fahrbahn gewertet.
+
+
+Bei dem von George et al. (1996; 1997) angewandten DADT (divided attention driving test) besteht der Simulator aus einer Lenksäule mit Lenkrad, an dem vier Knöpfe angebracht sind und einem Videodisplay. Die Probanden haben die Auf- gabe, die Fahrbahn zu halten, indem sie ein Kreuz im Bereich einer Zielbox auf dem Bildschirm platzieren (sog. Tracking). Ferner leuchten verschiedene Ziffern auf, wobei abhängig von Position und Ziffer einer der Knöpfe gedrückt werden muss (sog. Visual search). Ausgewertet werden die Variabilität im Fahrbahnhal- ten, mittlere Reaktionszeit und die Anzahl richtig erkannter Ziffern.
+
+Randerath et al. (1997) benutzten das Programm „Carda“, das in etwa dem Steer- Cleer-Test entspricht. Es wird das Bild einer Straße mit Mittelstreifen und Rand- begrenzung dargestellt. Über einen Zeitraum von 30 Minuten werden für jeweils 20 Millisekunden Hindernisse in Form von Rechtecken dargestellt, auf die man innerhalb von einer Sekunde mit einem Tastendruck reagieren soll. Gewertet wurden fehlende und unbegründete Reaktionen.
+
+
+Der computergestützte Fahrsimulator „STISIM®“ (Risser et al., 2000) besteht aus einer Simulationskabine mit gängigen Autositzen, Lenkrad, Gas- und Bremspeda- len, einem Monitor mit dem Bild einer zweispurigen Straße und einer begleiten- den Geräuschkulisse, die einer realen Fahrsituation annähernd entspricht.
+
+
+Die Simulation enthält Kreuzungen, Kurven, Verkehrsampeln, Fußgänger und allgemeinen Straßenverkehr. Die Probanden werden angewiesen, mit einer Ge- schwindigkeit von 55 Meilen pro Stunde über einen Zeitraum von 60 Minuten zu fahren. Registriert werden Abweichungen der Position, der Geschwindigkeit, der Lenkbewegungen und die Anzahl der Unfälle in Zeitabschnitten von 10 Minuten.
+
+
+Der in der vorliegenden Studie benutzte Fahrsimulator entpricht am ehesten dem STISIM®-Programm, wobei die Darstellung noch mehr Realitätsnähe zeigt und mehr Parameter erfasst werden. Eine genauere Beschreibung erfolgt im Methodik- Teil unter Kapitel 2.4.
+
+
+Auch in dem in der vorliegenden Untersuchung benutzten Fahrsimulator sind während der einstündigen Simulation Reaktionen auf die Verkehrslage meist nach Phasen, in denen keine Ereignisse auftraten, gefordert. Genau diese Situation ist zur Testung von OSAS-Patienten auch sinnvoll, da sie gerade in länger dauernden monotonen Phasen die Aufmerksamkeit vermindern oder dazu neigen einzuschla- fen.
+
+1.6Rechtliche Aspekte
+Der § 315c des Deutschen Strafgesetzbuches (2006) besagt, dass wer im Straßen- verkehr ein Fahrzeug führt, obwohl er nicht in der Lage ist, das Fahrzeug sicher zu führen, infolge geistiger oder körperlicher Mängel und dadurch Leib oder Le- ben eines anderen Menschen oder fremde Sachen von bedeutendem Wert gefähr- det, wird mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe bestraft.
+
+Darüber hinaus wurde in einem Urteil des Oberlandesgerichts Hamm das Einni- cken am Steuer als „besonders schweren Verkehrsverstoß“ bezeichnet. Dieser könne als grobe Fahrlässigkeit eingestuft werden, was die Versicherung von ihrer Leistungspflicht befreie (OLG Hamm, 1998).
+
+
+Trotzdem liegen in Deutschland bislang für die Beurteilung der Fahrtüchtigkeit keine allgemein gültigen Richtlinien oder Gesetze vor. Somit gibt es auch für Pa- tienten mit schlafbezogenen Atmungsstörungen keine Gesetze oder Regelungen hinsichtlich der Einschätzung der Fahrtüchtigkeit, es gibt nur Empfehlungen.
+
+
+Die Begutachtungs-Leitlinien zur Kraftfahrereignung der Bundesanstalt für Stra- ßenwesen (2000) empfiehlt, Patienten mit unbehandelten schlafbezogenen At- mungsstörungen (Schlafapnoe-Syndrom) und dadurch verursachten ausgeprägten Vigilanzbeeinträchtigungen sollten nicht am Straßenverkehr teilnehmen. Bei allen diesen Personen, besonders aber bei Berufskraftfahrern und Personen, die Kraft- fahrzeuge zur Personenbeförderung gemäß § 11 Abs. 1 (Klasse D oder Dl) und § 48 FeV (Fahrerlaubnis zur Fahrgastbeförderung) führen, sind der Nachweis der erfolgreichen Therapieeinleitung in einem Schlafmedizinischen Labor und die regelmäßige Kontrolle dieser Therapie zu fordern (Bundesanstalt für Straßenwe- sen, 2000).
+
+
+Die Deutsche Gesellschaft für Schlafforschung und Schlafmedizin (DGSM) schlägt in ihren Empfehlungen zur Begutachtung von Schlaf-Wachstörungen und Tagesschläfrigkeit nachfolgendes Procedere vor: Grundsätzlich ist derjenige, der infolge eines OSAS unter Einschränkungen seiner Wachheit leidet, nicht zum Führen von Kraftfahrzeugen aller Art geeignet. Bei Patienten mit OSAS und CPAP-Therapie wird die Kontrolle des Therapieerfolges 6 Wochen nach eingelei- teter Therapie anhand der polysomnographischen Kontrolle mit Nachweis der deutlichen Reduktion des respiratorischen Arousal-Indexes sowie die deutliche Besserung bzw. Normalisierung der Daueraufmerksamkeit empfohlen, um die wiederhergestellte Fahrsicherheit des Betroffenen annehmen zu können. Fahrun- sicherheit liegt weiterhin vor, wenn trotz Therapie weiterhin Tagesschläfrigkeit beobachtet wird (Rühle, 1998). Der Patient sollte über seine nicht vorhandene Fahrsicherheit ausführlich informiert werden und es sollte eine schriftliche Do- kumentation über die Aufklärung erfolgen.
+
+Die American Thoracic Society schlägt in einer Stellungnahme von 1994 vor, nicht grundsätzlich bei Vorliegen eines OSAS eine Fahruntüchtigkeit anzuneh- men, da auch Patienten mit hohem Apnoe-Index unfallfrei fahren können, sondern eine Einschränkung der Fahrtüchtigkeit nur dann anzunehmen, wenn ein OSAS- Patient mit Tagesmüdigkeit einen Unfall hatte oder er unbehandelbar ist bzw. nicht innerhalb von 2 Monaten einer Therapie zugeführt werden kann bzw. der Patient keine Behandlung durchführen lassen will bzw. die Fahrerlaubnis nicht freiwillig abgibt (ATS, 1994).
+
+
+Die sich aus den genannten Empfehlungen ergebende Problematik betrifft insbe- sondere Berufskraftfahrer, denen bei längerfristiger Krankschreibung (z.B. sechs Wochen – laut Empfehlung der DGSM) Arbeitsplatzverlust drohen kann.
+
+
+1.7Fragestellungen
+Vor diesem wissenschaftlichen Hintergrund beschäftigt sich die vorliegende Ar- beit mit folgenden Fragestellungen:I.Welche neuropsychologischen Defizite lassen sich bei OSAS-Patienten nachweisen und wie ist der Einfluss der CPAP-Therapie auf diese Defizi- te?
+ II.Wie ist die Fahrleistung von Patienten mit OSAS in der simulierten Fahrsi-
+ tuation vor CPAP sowie 2, 14 und 42 Tage unter CPAP-Therapie?
+ III.Welche Testverfahren oder Parameter eignen sich zur Beurteilung einer
+ beeinträchtigten Leistung im Straßenverkehr?
+IV. Ist es aufgrund der Ergebnisse der vorliegenden Studie möglich eine Emp- fehlung auszusprechen die die Wiederaufnahme der Fahrtätigkeit bereits nach zwei Wochen CPAP-Therapie ermöglicht, statt nach sechs Wochen wie von der DGSM empfohlen?
+
+2.Methodik
+2.1Patienten
+2.1.1 Patientenkollektiv
+Die Patienten erteilten nach ausführlicher Aufklärung ihre schriftliche Zusage zur Teilnahme an der Studie, die von der Ethikkommission der Ruhr-Universität Bo- chum genehmigt wurde.
+
+Untersucht wurden insgesamt 41 Männer mit polysomnographisch gesichertem OSAS im Alter von 33 bis 73 Jahren (Durchschnittsalter 53,4 ± 8,9 Jahre).
+
+
+Die Abklärung des OSAS erfolgte in den Berufsgenossenschaftlichen Kliniken Bergmannsheil, Medizinischen Klinik III, Pneumologie, Allergologie Schlaf- und Beatmungsmedizin (Direktor Univ.- Prof. Dr. med. G. Schultze-Werninghaus).
+
+
+Bei allen Patienten wurden vor der Therapieeinstellung neben der Anamnese und den klinischen Untersuchungen ein Lungenfunktionstest, eine Röntgenaufnahme des Thorax, eine kapilläre Blutgasanalyse, ein Allergietest (Prick-Test), eine neu- ropsychologische Testreihe und eine Untersuchung an einem Fahrsimulator durchgeführt.
+
+
+2.1.2 Kontrolluntersuchungen
+Nachdem die Patienten im Schlaflabor auf eine geeignete Therapie eingestellt waren, wurden nach zwei Tagen bei 26 Patienten die neuropsychologische Test- batterie und die Fahrsimulatoruntersuchung wiederholt, um mögliche akute The- rapieauswirkungen zu untersuchen.
+
+Nach 14 Tagen wurde bei 20 Patienten und nach 42 Tagen bei 18 Patienten diese Kontrolltestreihe wiederholt.
+
+
+Zur einfacheren Darstellung werden die Testtage der Patienten folgendermaßen beschrieben:
+ •Tag 1 = OSAS-Patienten vor der Therapie-Einstellung
+ •Tag 4 = OSAS-Patienten 2 Tage unter CPAP-Therapie
+ •Tag 14 = OSAS-Patienten 2 Wochen unter CPAP-Therapie
+ •Tag 42 = OSAS-Patienten 6 Wochen unter CPAP-Therapie
+Die Daten der Polysomnographien wurden in der ersten Nacht im Schlaflabor („vor CPAP“) und in der zweiten Einstellungsnacht („unter CPAP“) erhoben.
+
+Die anamnestischen Daten wurden vor Einleitung der CPAP Therapie („vor CPAP“) und sechs Wochen nach Einleitung der CPAP Therapie („unter CPAP“) erhoben.
+
+
+2.1.3 Ein- und Ausschlusskriterien
+ Die Ein- und Ausschlusskriterien sind in Tabelle 4 aufgeführt.
+
+
+Tab. 4: Ein- und Ausschlusskriterien
+Einschlusskriterien - Pat. mit polysomnographisch nachgewiesenem Schlafapnoe-Syndrom
+Ausschlusskriterien -Weigerung zur Teilnahme an der Studie
+ -fehlende Kooperation
+ -Alter < 18 Jahren
+ -mangelnde Erfahrung im Umgang mit Personenkraftwagen
+ -Rot-Grün-Blindheit
+ -Einnahme von vigilanzbeeinflussenden Pharmaka
+ -Alkoholismus
+ -Erkrankungen des Zentralnervensystems
+ -gleichz. Vorliegen einer chronisch- obstruktiven Atemwegserkrankung
+Darüber hinaus war es nicht allen Patienten möglich jeden der drei Tests (Vigilanz optisch, Vigilanz akustisch und optisch und Fahrsimulatorfahrt) zu absolvieren.
+
+Der optische Vigilanztest wurde von praktisch jedem Patienten absolviert, beim akustisch / optischen Vigilanztest aber war es drei Patienten mit (z.B. altersbe- dingter) verminderter Hörleistung nicht möglich den Test zu absolvieren.
+
+
+Auch der Fahrsimulator konnte nicht von allen Patienten über längere Zeit benutzt werden. Hier stand neben den oben genannten Ausschlusskriterien die Problema- tik der Kinetose im Vordergrund.
+
+Durch das bewegte Bild auf dem Monitor des Simulators wurde bei drei Patienten eine kinetoseartige Symptomatik mit Übelkeit und in einem Fall sogar Erbrechen ausgelöst. Diese Patienten brachen auf eigenen Wunsch die Fahrsimulation ab und absolvierten dann nur die Vigilanztests.
+
+2.2Anamnese
+Zur subjektiven, individuellen Erfassung des Gesamtbeschwerdebildes der Patien- ten wurden standardisierte Fragebögen benutzt.
+
+2.2.1 Siegrist-Fragebogen zum Schlafverhalten
+Dieser Fragebogen bezieht sich auf das Schlafverhalten der vergangenen vier Wo- chen und enthält neben allgemeinen anamnestischen Angaben wie Geschlecht, Alter, Körpergröße, Beruf, Zigarettenkonsum oder Bluthochdruck allgemeine und spezielle Fragen über das Schlafverhalten, diverse nächtliche und morgendliche Symptome, Belastbarkeit am Tage und Einnahme von Schlafmitteln. Auch frem- danamnestische Angaben, wie etwa über Atmungsaussetzer und Schnarchen sind enthalten. Die Bewertung erfolgt anhand einer 5-Punkte-Skala, der Häufigkeits- angaben von „nie“ (1) bis „sehr oft“ (5) entsprechen.
+
+Bei Fragen die nur mit „ja“ und „nein“ beantwortet werden können, wie bei- spielsweise die Frage ob vom Partner jemals Atemstillstände bemerkt wurden, wird die Antwort „ja“ mit 1 und die Antwort „nein“ mit 0 gewertet.
+
+
+Mit diesem Fragebogen lässt sich aufgrund der gegebenen Antworten der Ver- dacht auf ein OSAS erhärten.
+
+
+2.2.2 Epworth-Sleepiness-Scale (ESS)
+In der Epworth-Sleepiness-Scale wird erfragt, wie wahrscheinlich man in acht verschiedenen Situationen, z.B. beim Sitzen und Lesen, beim Fernsehen, als Bei- fahrer im Auto oder beim Besuch öffentlicher Veranstaltungen, einschlafen wür- de. Die Bewertung erfolgt mit Hilfe einer Punkteskala, der Häufigkeitsangaben von „nie“ (0) bis „oft“ (3) entsprechen. Die Gesamtpunktzahl kann minimal bei 0 und maximal bei 24 liegen. Ein Epworth Score > 10 gilt als pathologisch (Johns, 1991). 24
+2.3VigilanztestsDie Testbatterie zur Untersuchung der neuropsychologischen Defizite setzte sich aus zwei Vigilanztests zusammen. Die Untersuchungen erfolgten in identischer Reihenfolge am Vormittag ab 9.00 Uhr bzw. am Nachmittag ab 15.30 Uhr in den physiologischen Leistungsmaxima. Die gesamte Testbatterie umfasste einen Zeit- raum von 40 Minuten. Folgende Tests wurden durchgeführt:
+ Vigilanz optisch: Testbatterie zur Aufmerksamkeitsprüfung (30 Minuten)
+ Vigilanz akustisch und optisch: Testbatterie zur Aufmerksamkeitsprüfung (10
+ Minuten)
+•Testbatterie zur Aufmerksamkeitsprüfung (TAP) (Vigilanz optisch) (Zimmermann et al., 1994)
+Bei diesem Test bewegt sich ein Querbalken in vertikaler Richtung auf dem Bild- schirm auf und ab, wobei die Ausschläge in ihrem Ausmaß variieren.
+
+Der Patient hat die Aufgabe, auf deutliche Bewegungen nach oben mit einem schnellen Tastendruck zu reagieren.
+
+
+Der Test beinhaltet circa 70 zu erkennende Reize und dauert 30 Minuten. Vor dem eigentlichen Wertungsdurchgang wird eine kurze Übungsphase absolviert.
+
+
+Es werden die Reaktionszeiten bei richtigem Drücken, Antizipationen, Ausreißer, Auslassungen und Fehlreaktionen sowohl im Gesamttest als auch in 5-Minuten- Abschnitten gewertet.
+
+
+Die Auswertung erfolgt durch den Computer, es werden es werden die Mittel- und Medianwerte und die Standardabweichung der Reaktionszeiten ausgegeben. Dar- über hinaus werden die Anzahl der Antizipationen, Ausreißer, Auslassungen, Fehlreaktionen und Richtigen ausgegeben. Es werden auch Prozentränge im Ver- gleich mit einem Normkollektiv erstellt. Die Prozentränge werden anhand von Normwerttabellen für jedes Testergebnis entsprechend festgelegt. Prozentränge von >50 stehen für überdurchschnittlich gute Ergebnisse, eindeutig pathologisch sind Prozentrangwerte <16, als grenzwertig sind Prozentrangwerte < 27 anzuse-
+ hen (Horn, 1983)
+•Testbatterie zur Aufmerksamkeitsprüfung (TAP) (Vigilanz akustisch und optisch) (Zimmermann et al., 1994)
+Bei diesem Test hört der Patient einen Ton und sieht kurz danach einen Buchsta- ben auf dem Bildschirm. Dies wiederholt sich ungefähr alle zwei Sekunden. Es gibt zwei verschiedene Töne (hoch und tief) und mehrere verschiedene Buchsta- ben. Die Aufgabe des Patienten ist es bei zwei bestimmten Kombinationen (Buch- stabe „E“ und hoher Ton, Buchstabe „N“ und tiefer Ton) so schnell wie möglich mit Tastendruck zu reagieren. Der Test beinhaltet 15 zu erkennende Reize und dauert 10 Minuten. Vor dem eigentlichen Wertungsdurchgang wird eine kurze Übungsphase absolviert. Es werden die Reaktionszeiten, Antizipationen, Ausrei- ßer, Auslassungen und Fehlreaktionen im Gesamttest gewertet.
+
+Auch bei diesem Test erfolgt die Auswertung durch den Computer, es werden die Mittel- und Medianwerte und die Standardabweichung der Reaktionszeiten aus- gegeben. Darüber hinaus werden die Anzahl der Antizipationen, Ausreißer, Aus- lassungen, Fehlreaktionen und Richtigen ausgegeben.
+
+
+2.4Fahrsimulatoruntersuchungen
+In der vorliegenden Untersuchung wurde der Fahrsimulator C.A.R.® (Computer Aided Risksimulator, Dr.-Ing. Reiner Foerst GmbH, Gummersbach) benutzt, der in Abbildung 2 dargestellt ist. Das Gerät ist 2.50 m lang, 0.80 m breit, 1.60 m hoch und wiegt 500 kg. Die Fahrerkabine ist identisch mit dem Fahrerplatz eines normalen Pkw. Auch technische und mechanische Vorrichtungen wie Lenkrad, Blinker, Scheibenwischer, Pedale, Tachometer, Drehzahlmesser, Handbremse, Zündschloss und Zündschlüssel, Sicherheitsgurt und Licht funktionieren genauso wie in einem herkömmlichen PKW. Die Straße und die äußere Umgebung sowie der Verkehr werden auf einen Bildschirm generiert, der vor dem Fahrer ange- bracht ist und den Blick durch die Frontschutzscheibe darstellen soll. Die Fahrge- räusche von Motor und Reifen werden synchron zum entsprechenden Bildablauf 26
+dargeboten. Ferner werden der jeweiligen Fahrsituation bzw. dem jeweiligen Fahrverhalten entsprechend Bewegungen wie Beschleunigung, Fliehkraft in Kur- ven, Bremsvorgang oder Fahren neben der Straße durch Bewegungen und Vibra- tionen des Sitzes dargestellt. Über ein Computerprogramm können die Fahrzeit und Fahrbedingungen eingestellt werden.
+
+Abb. 2: Fahrsimulator C.A.R.®
+In der vorliegenden Untersuchung wird eine monotone Fahrsituation unter ver- schiedenen äußeren Bedingungen über einen längeren Zeitraum dargestellt. Die während der Simulation eingestellten Bedingungen zeigt Tabelle 5.
+
+Tab 5: Fahrtbedingungen in der simulierten Fahrsituation
+Fahrtdauer: 60 MinutenFahrstrecke: LandstraßeEinzuhaltende Geschwindigkeit: 100 km/h Witterungsbedingungen: Schönwetter-, Regen-, Nebel-, Schneefahrt
+Unterschiedliche Tageszeiten: Tag-, Dämmerungs-, Nachtfahrt Wenig Hindernisse: Reh, Fußgänger, Verkehrsbaken, andere Fahrzeuge, Ampeln
+
+Der Proband soll sich wie im normalen Straßenverkehr verhalten, d.h. z.B. Licht ein- und ausschalten, die Scheibenwischer benutzen, beim Überholen die Blinker betätigen und auf Verkehrsschilder oder -zeichen regelgerecht reagieren.
+
+Ausschließlich über das Computerprogramm wurden folgende Parameter ausge- wertet: gefahrene Distanz und Reaktionszeit beim Bremsmanöver für das Reh.
+
+
+Das Computerprogramm erfasst zwar auch alle Unfälle und den größten Anteil der Konzentrationsfehler, aber ohne Angabe von Zeit und Wetterbedingungen.
+
+
+Unfälle und Konzentrationsfehler wurden somit durch den Untersucher erfasst, da nur auf diese Art auch eine zeitliche und wetterbedingte Auswertung möglich war.
+
+
+Es gibt fünf mögliche Unfallarten: Auffahrunfall, Straßenrandunfall (Unfall durch Abkommen von der Fahrbahn oder Anfahren eines dort fahrenden Radfahrers), Frontalunfall (Unfall durch Fahren im Gegenverkehr), Vorfahrtsunfall (Unfall durch Missachtung der Vorfahrt), Verkehrsbakenunfall (Unfall durch Fahren in eine Verkehrsbake).
+
+
+Konzentrationsfehler wurden folgende gemessen: Licht nicht ein- bzw. nicht aus- geschaltet, Fernlicht bei Gegenverkehr nicht abgeblendet, Blinker nicht betätigt, rote Ampel überfahren, Abweichungen von der Fahrbahn nach rechts oder links und Geschwindigkeitsüberschreitung (häufig bei Regen mit der Konsequenz A- quaplaning) und extrem langsames Fahren.
+
+
+Wie oben erwähnt wurde geprüft, ob die Unfälle bzw. die Konzentrationsfehler in einer Beziehung mit der Fahrtzeit oder den Wetterbedingungen stehen. Dafür wurde die Auswertung auch in Zeitintervallen von je 15 Minuten und für die ver- schiedenen Wetterlagen vorgenommen.
+
+
+Vor der eigentlichen Messung wurde eine 15-minütige Probefahrt bzw. Einge- wöhnungsphase absolviert.
+
+
+2.5Polysomnographie
+ Die Polysomnographie (PSG) stellt den Goldstandard der schlafmedizinischen
+Differentialdiagnostik dar. Die in der PSG erfassten Messgrößen sind in Tabelle 6 dargestellt.
+
+Tab. 6: Messgrößen der PolysomnographieI. Atmungsmechanische Parameter •Atemgasfluss über Thermistoren an Mund und Nase
+ •Atemanstrengung und –arbeit mittels respiratorischer Induktionsplethys- mographie
+ •CPAP-Druck über das benutzte Gerät
+II. Kardiorespiratorische Parameter •EKG mittels Brustwandelektroden
+ •Puls über Brustwandelektroden und Pulsoxymeter
+ •Kontinuierliche Sauerstoffsättigung über Pulsoxymetrie
+III. Schlafposition/Bewegungen/Geräusche •Lagefühler
+ •Bewegungsmelder
+ •(Larynx-) Mikrophon
+ •Videoüberwachung per Infrarotkamera
+IV. Schlafanalyse•Elektroenzephalogramm (EEG) über Goldelektroden mit Platzierung nach dem internationalen 10-20-System auf den Positionen C3 und C4 mit Verschaltung gegen die kontralateralen Ohr- oder Masteoidelektroden (C3-A2, C4-A1)•Elektrookulogramm (EOG) über Einmal-Elektroden (gesinterte Silberchlorid- Elektroden) am lateralen Lidwinkel mit Verschaltung gegen gemeinsame Maste- oidreferenz•Elektromyogramm (EMG) über Einmal-Elektroden (s.o.) an der Kinnregion (M. mentalis oder M. submentalis) und am M. tibialis anteriorDie Polysomnographien der Patienten wurden im Schlaflabor mit dem Computer- programm „Alice 4 ®“ der Firma Healthdyne. Alle Daten wurden analog und di- gital gespeichert.
+
+Die Klassifikation der schlafbezogenen Atmungsstörungen wurde nach den Krite- rien von Catterall computergestützt unter nachfolgender visueller Auswertung durchgeführt. Die Analyse der Schlafstadien erfolgte manuell in Abschnitten von 30 Sekunden nach Rechtschaffen und Kales (1968). Man unterscheidet folgende Schlafstadien:
+
+•Stadium Wach:Es beschreibt einen entspannten Wachzustand bei geschlossenen Augen und tritt üblicherweise vor Beginn der Schlafperiode oder als Aufwachepisode auf. Im EEG sind Alpha-Muster (Frequenz 8-13 Hz) vornehmlich im Okzipitalbereich zu erkennen. Der Muskeltonus ist mäßig, und es treten ruckartige Augenbewegungen auf.
+
+•Stadium 1 (NREM 1/ S1):
+Es stellt das eigentliche Einschlafstadium dar. Im EEG herrscht eine Thetaaktivi- tät (4- 7 Hz) bei noch gelegentlichen Alphawellen vor. Ferner werden erste Ver- texzacken eingestreut. Im EOG erkennt man langsame Augenbewegungen, und das EMG zeigt noch einen relativ hohen Tonus.
+
+•Stadium 2 (NREM 2/ S2):
+Bei diesem Stadium liegt leichter Schlaf vor. Im EEG dominiert Thetaaktivität mit Auftreten von Spindeln (Serien von 14-15/s-Wellen, 0.5 s Dauer) und K- Komplexen. Es liegen keine Augenbewegungen vor und der Muskeltonus ist ver- ringert.
+
+•Stadium 3 (NREM 3/ S3):
+Dieses Stadium ist das erste, leichtere Tiefschlaf- oder „slow-wave“-Stadium. Im EEG bestehen über 20% der Aktivität aus Deltawellen (0.5-3 Hz), wobei auch noch langsame Thetawellen auftreten. Augenbewegungen fehlen und der Muskel- tonus ist niedrig.
+
+•Stadium 4 (NREM 4/ S4):
+Es handelt sich um das tiefere Tiefschlaf- oder „slow-wave“-Stadium. Über die Hälfte der EEG-Aktivität bestehen aus hohen Deltawellen. Es werden keine Au- genbewegungen registriert und im EMG ist der Muskeltonus kaum noch erkenn- bar.
+
+•Stadium REM:
+Dieses Stadium wird auch als desynchronisierter, paradoxer, aktivierter Schlaf oder Traumschlaf bezeichnet. Im EEG liegt eine regelmäßige Thetaaktivität (Sä- gezahnwellen) vor. Im EOG erkennt man die charakteristischen raschen, konju- 30
+gierten Augenbewegungen (rapid-eye-movements) und das EMG zeigt den nied- rigsten Tonus der gesamten Messung an.
+
+Die unterschiedlichen Schlafstadien werden in einer festen Reihenfolge durchlau- fen, die mit einer Periodendauer von 90 Minuten wiederholt werden und die Mak- rostruktur des Schlafes charakterisieren. Am Gesamtschlaf haben die einzelnen Stadien folgenden Anteil:
+Tab. 7: Quantitative Struktur des normalen Schlafs (Clarenbach et al., 1991)StadiumAnteil am Gesamtschlaf in %  W1  NREM 15  NREM 249  NREM 38  NREM 413  REM24  Der Tiefschlaf setzt sich aus den Stadien 3 und 4 zusammen und entspricht somit einem Anteil von 21%. Es ist allerdings zu beachten, dass die Angaben für Normwerte in der Literatur nicht einheitlich sind.
+
+Eine Übersicht weiterer polysomnographischer bzw. pulsoxymetrischer Messda- ten gibt Tabelle 8.
+
+
+Tab. 8: Normbereiche pulsoxymetrischer Messwerte (Rasche, 1996; Levi- Valensi et al.,1992)
+Mittlere Sauerstoffsättigung der Messzeit (SaO2m) -Normbereich > 93%
+ -Grenzbereich 90-93%
+ -Pathologischer Bereich < 90%
+Minimale Sauerstoffsättigung der Messzeit (SaO2min) -Normbereich > 90%
+ -Grenzbereich 85-90%
+ -Pathologischer Bereich < 85%
+ 31
+Zeitdauer der Sauerstoffsättigung 90% in % der Messzeit (t90) -Normbereich < 3%
+ -Grenzbereich 3-30%
+ -Pathologischer Bereich > 30%
+Sauerstoffentsättigungsindex, entsprechend Anzahl der Desaturationen 4% (ODI)-Normbereich ≤ 5/h -Grenzbereich 5-10/h -Pathologischer Bereich > 10/h 32
+3.Ergebnisse3.1PatientenIm Rahmen des stationären Aufenthalts wurde bei allen 41 Patienten, die ihr schriftliches Einverständnis zur Teilnahme an der Studie gegeben hatten, poly- somnografisch ein obstruktives Schlafapnoesyndrom nachgewiesen.
+
+Bei drei Patienten war eine apparative Therapie nicht erforderlich und bei einem Patienten wurde eine andere apparative Therapie (BIPAP-ST) durchgeführt. Drei Patienten haben eine maschinelle Therapie verweigert, wobei alle drei Patienten zunächst eine CPAP-Therapie für kurze Zeit probeweise genutzt hatten.
+ Bei den übrigen 34 Patienten wurde eine CPAP-Therapie eingeleitet.
+
+
+Das Durchschnittsalter beträgt 53,4 ± 8,9 Jahre und der Body-Mass-Index (BMI) liegt im Mittel bei 29,8 ± 4,4 kg/m2.
+
+
+Insgesamt nahmen nicht alle Patienten an allen Testungen teil (siehe Kapitel 2.3 und 2.4), so dass am Tag 1 nur 36 (Fahrsimulator und optische Vigilanzmessung) bzw. 31(akustisch / optische Vigilanzmessung) in die statistische Auswertung eingehen konnten.
+
+
+Hauptsächlich aus Therapieuntreue bzw. primärer CPAP-Intoleranz nahmen nicht alle Patienten an den weiteren Messungen an den Tagen 4, 14 und 42 teil.
+
+
+An Tag 4 gingen Messungen von 23 Patienten der optischen Vigilanz und des Fahrsimulators und 22 Messungen der akustisch / optischen Vigilanz in die Statis- tik ein.
+ Am Tag 14 wurden bei 18 Patienten alle drei Messungen durchgeführt.
+
+
+Bei 17 Patienten wurden am Tag 42 die akustische Vigilanz und die Fahrsimula- tormessung durchgeführt. Bei 16 Patienten wurde die akustisch / optische Vigi- lanz durchgeführt.
+
+3.2Anamnese
+Die Ergebnisse der standardisierten Anamnese mittels Fragebögen sind in Tabelle 9 aufgeführt.
+
+Im Vergleich der Anamnese vor Einleitung der CPAP Therapie und sechs Wo- chen nach Beginn der CPAP Therapie fallen im Fragebogen nach Siegrist eine statistisch signifikante Reduktion der Tagesmüdigkeit und des nächtlichen Schnarchens auf. Auch der ESS-Score ist rückläufig ohne aber statistische Signi- fikanz zu erreichen.
+
+
+Tab. 9: Ergebnisse der standardisierten Anamnese durch den Siegrist Frage- bogen und der Epworth Sleepiness Scale bei OSAS-Patienten vor und nach
+CPAP vor CPAPunter CPAPp-Wert (n = 36)(n = 17) Alter 54 ± 9
+  BMI 29,8 ± 4,4
+ 29,4 ± 3,3
+ n.s.
+
+
+ESS-Score
+ 9,7 ± 5,1
+ 7,7 ± 3,9
+ n.s.
+
+
+Siegrist Fragebogen
+    Tagesmüdigkeit
+ 3,2 ± 0,8
+ 2,4 ± 0,8
+ p = 0,002
+ Einschlafneigung
+ 2,1 ± 1,1
+ 1,6 ± 0,8
+ n.s.
+ Konzentrationsstörungen
+ 2,8 ± 0,9
+ 2,3 ± 0,9
+ n.s.
+ Eingeschränkte Leis-
+ 3,0 ± 1,2
+ 1,9 ± 0,6
+ n.s.
+ tungsfähigkeit
+    Einschlafstörungen
+ 2,3 ± 1,1
+ 2,5 ± 1,2
+ n.s.
+ Nächtliches Aufwachen
+ 3,1 ± 1,2
+ 2,7 ± 0,7
+ n.s.
+ Durchschlafstörungen
+ 2,8 ± 1,1
+ 2,4 ± 0,8
+ n.s.
+ Nächtliches Herzrasen
+ 1,9 ± 1,1
+ 1,5 ± 0,7
+ n.s.
+ Nächtliches Schwitzen
+ 2,6 ± 1,3
+ 2,2 ± 1,1
+ n.s.
+ Nächtliche Atemnot
+ 1,6 ± 1,1
+ 1,6 ± 0,8
+ n.s.
+ Nächtl. Kopfschmerzen
+ 1,7 ± 0,9
+ 1,5 ± 0,6
+ n.s.
+ Nächtlicher Husten
+ 1,9 ± 1,0
+ 1,7 ± 0,7
+ n.s.
+ Nächtl. Angina pectoris
+ 2,0 ± 1,1
+ 1,4 ± 0,5
+ n.s.
+ Nykturie
+ 2,8 ± 0,9
+ 2,5 ± 0,8
+ n.s.
+
+ Vom Partner bemerkte
+ 0,7 ± 0,5
+ 0,1 ± 0,3
+ n.s.
+ Atemstillstände
+     Ausgeruhtes Erwachen
+ 2,6
+± 1,2 3,9 ± 0,7
+ n.s.
+ Sich „gerädert“ fühlen
+3,1 ± 1,2 2,3 ± 0,8
+ n.s.
+ Morgendliche Kopf-
+1,9 ± 0,9 1,6 ± 0,9
+ n.s.
+ schmerzen
+     Schnarchen
+ 3,8
+± 1,1 2,7 ± 1,4
+ p = 0,01
+ Schlafmittelgebrauch
+ 1,2
+ ±0,5
+ 1,1 ± 0,2
+ n.s.
+
+
+ 
+    3.3 PolysomnographieTabelle 10 stellt die polysomnographischen Messergebnisse vor und unter CPAP (2. Einstellungsnacht) dar.
+
+Im Hinblick auf die Schlafarchitektur zeigte sich unter der Akuteinstellung eine Besserung des Tiefschlafanteils, die sowohl absolut als auch im Vergleich zur Gesamtschlafzeit statistisch signifikant ist (p<0,05). Der REM-Schlafanteil sowie der Wachanteil blieben unverändert. Auch der Arousal-Index sinkt statistisch sig- nifikant (p<0,01).
+
+
+Die respiratorischen Parameter Apnoe-Index, Apnoe-Hypopnoe-Index, maximale Apnoedauer sowie die mittlere und minimale Sauerstoffsättigung besserten sich bereits in der zweiten CPAP-Einstellungsnacht soweit, dass statistische Signifi- kanz erreicht wurde (p<0,001).
+
+
+Tab. 10: Polysomnographie bei Patienten mit OSAS vor und unter CPAP (2.
+
+
+Einstellungsnacht)
+ vor unterp-Wert CPAP(n=36)CPAP(n=23)  Gesamtschlafzeit
+ 314,9 ± 48,9
+ 301,4±64,0
+ n.s.
+ (TST) (min)
+     Wachzeit (min.)
+ 38,5
+ ± 31,9
+ 44,9±38,9
+ n.s.
+ Wachzeit(%Bettzeit)
+ 11,0
+ + 9,1
+ 13,5±11,8
+ n.s.
+ REM (min)
+ 47,9
+ ± 19,3
+ 47,1 +24,4
+ n.s.
+ REM (%TST)
+ 15,3
+ ± 4,9
+ 15,1±7,5
+ n.s.
+ Tiefschlaf (min)
+ 11,7
+ ± 0,5
+ 19,3±6,0
+ <0,05
+ Tiefschlaf (%TST)
+ 3,6 ± 0,2
+ 6,5±2,2
+ <0,05
+ Arousal-Index(/h)
+ 18,2
+± 12,3 9,9±5,9
+ <0,01
+ AHI (/h)
+ 27,0
+± 16,9 10,3±5,9
+ <0,001
+ AI (/h)
+ 4,4 ± 1,1
+ 0,2 ± 0,0
+ <0,001
+ Max. Apnoedauer (s)
+33,2 ± 20,714,4 ± 18,2 <0,001
+ Max. Hypopnoed. (s)
+53,3 ± 19,150,0 ± 16,8 n.s.
+ SaO2m (%)
+ 90,8
+± 15,6 94,9±1,6
+ <0,001
+ SaO2min (%)
+ 82,8
+ ± 7,4
+ 89,3±4,4
+ <0,001
+ t90 (%)
+ 14,6
+± 19,6 1,1 ± 2,4
+ n.s.
+
+
+ 
+     Legende:
+TST = Gesamtschlafzeit (Total Sleep Time), REM=Rapid-eye-movement-Schlaf (=Traumschlafanteil), SaO2m=mittlere Sauerstoffsättigung, SaO2min=minimale Sauerstoffsättigung. t90: Zeit unter 90% Sauerstoffsättigung in %3.4Vigilanztests3.4.1 Vigilanztest optischDie Ergebnisse des optischen Vigilanztest werden zum einen als Rohwerte (R) und zum anderen als Prozentrangwerte (PR) auf der Basis von Normwerttabellen angegeben. Die Ergebnisse des optischen Vigilanztests sind in Tabelle 11 wieder- gegeben. Es zeigen sich wenig statistisch signifikante Verbesserungen der Leis- tungen in diesem Vigilanztest nach Einleitung der CPAP Therapie.
+
+Die Patienten wiesen bereits vor CPAP-Therapie hohe Prozentrangwerte der Re- aktionszeiten auf, die bis auf eine Verkürzung der Reaktionszeit (Rohwerte) im Untersuchungszeitraum 10-15 Minuten 2 Tage nach eingeleiteter CPAP-Therapie (p<0.05) sowie im Zeitabschnitt 20-25 Minuten 2 bzw. 14 Tage nach eingeleiteter CPAP-Therapie (p<0.05) unverändert blieben. Ebenso nahm die Anzahl der Aus- lassungen nur tendenziell ab.
+
+Tab.11: optische Vigilanztests bei Patienten mit OSAS vor und unterCPAP vor CPAP2 Tage nach14 Tage nach42 Tage nachp-Wert (n=36)CPAP (n=23)CPAP (n=18)CPAP (n=17) Reaktionszeit      Alle (R)
+ 441,9±87,1
+ 416±97,3
+ 403,9±112,4
+ 409,5±96,3
+ n.s.
+ Alle PR
+ 85,1±11,9
+ 83,8±16,1
+ 88,1±10,9
+ 87,6±11,6
+ n.s.
+ Min. 0-5 (R)
+ 445,8±86,7
+ 411,2±112,0
+ 387,6±103,2
+ 383,6±99,9
+ n.s.
+ Min. 0-5 PR
+ 69,2±25,1
+ 60,3±32,1
+ 74,6±29,5
+ 66,2±28,5
+ n.s.
+ Min. 5-10 (R)
+ 441,3±92,4
+ 434,7±115,4
+ 411,1±106,4
+ 404,4±125,5
+ n.s.
+ Min. 5-10(PR)
+ 72,2±24,9
+ 74,0±19,4
+ 78,8±18,2
+ 75,1±28,5
+ n.s.
+ Min. 10-15 (R)
+ 444,5±89,9
+ 421,3±100,5
+ 399,5±109,2
+ 407,1±130,8
+ 1<0,05
+ Min. 10-15 (PR)
+ 82,9±15,9
+ 81,4±17,8
+ 82,4±19,3
+ 82,2±21,8
+ n.s.
+ Min. 15-20 (R)
+ 436,4±100,6
+ 398,5±118,5
+ 407,2±132,2
+ 408,8±82,9
+ n.s.
+ Min. 15-20 (PR)
+ 79,8±18,2
+ 76,3±12,4
+ 71,3±21,1
+ 80,0±19,7
+ n.s.
+ Min. 20-25 (R)
+ 467,3±118,5
+ 424,4±102,1
+ 416,6±148,7
+ 416,7±97,8
+ 1, 2<0,05
+ Min. 20-25 (PR)
+ 78,6±18,9
+ 80,3±7,3
+ 74,1±25,2
+ 83,4±16,4
+ n.s.
+ Min. 25-30(R)
+ 437,9±106,7
+ 411,3±101,3
+ 413,7±131,9
+ 410,5±86,2
+ n.s.
+ Min. 25-30 (PR)
+ 82,1±16,1
+ 83,4±13,3
+ 78,3±16,7
+ 83,4±13,5
+ n.s.
+
+
+Auslassungen
+     n.s.
+ Alle
+ 3,1±6,7
+ 1,8±2,7
+ 1,5±2,9
+ 1,9±3,3
+ n.s.
+ Min. 0-5
+ 0,2±0,4
+ 0,1±0,3
+ 0,0±0,0
+ 0,2±0,4
+ n.s.
+ Min. 5-10
+ 0,4±0,9
+ 0,2±0,5
+ 0,2±0,4
+ 0,3±0,5
+ n.s.
+ Min. 10-15
+ 0,7±1,7
+ 0,3±0,5
+ 0,3±0,5
+ 0,1±0,2
+ n.s.
+ Min. 15-20
+ 0,5±1,5
+ 0,1±0,3
+ 0,4±1,2
+ 0,5±1,2
+ n.s.
+ Min. 20-25
+ 0,6±1,4
+ 0,6±0,9
+ 0,4±0,9
+ 0,4±0,8
+ n.s.
+ Min. 25-30
+ 0,7±1,6
+ 0,5±1,3
+ 0,3±0,5
+ 0,5±1,1
+ n.s.
+
+
+ 
+      Legende:
+R=Rohwert, PR=Prozentrang, 1Vergleich vorher/2 Tage, 2Vgl. vorher/14 Tage, 3Vgl. vorher/42 Tage, 4Vgl. Tag 2/14, 5Vgl Tag 2/42, 6Vgl. Tag 14/42 37
+3.4.2 Vigilanztest akustisch / optischBei diesem Vigilanztest wurden statistisch signifikante Verbesserung der richtigen Reaktionen („Richtige”) am Tag 4, Tag 14 und Tag 42 im Vergleich zum Tag 1 erreicht (p<0,05). Darüber hinaus reduzierten sich die Fehlreaktionen am Tag 14 und 42 im Vergleich zu Tag 1 und im Vergleich zu Tag 2 in statistisch signifikan- tem Ausmaß (p<0,05). Die Ergebnisse sind in Tabelle 12 zusammengefasst.
+
+
+Tab.12: akustisch / optischer Vigilanztest bei Patienten mit OSAS vor und
+unter CPAP vor CPAP2 Tage nach14 Tage nach42 Tage nachp-Wert (n=31)CPAP (n=22)CPAP (n=18)CPAP (n=16) Reaktionszeit     n.s.
+ Mittelwert
+ 567 ± 90,5
+ 524,2 ± 41,4
+ 529,1 ± 67,5
+ 548,0 ± 58,7
+ n.s.
+ Median
+ 501,8 ± 50,8
+ 506 ± 28
+ 523,2 ± 69,3
+ 517 ± 53,3
+ n.s.
+
+
+Richtige
+ 14,0 ± 1,0
+ 15,0 ± 1,0
+ 15,0 ± 1,0
+ 15,0 ± 1,0
+ 1,2,3<0,05
+Antizipationen 0,0 ± 0,0
+ 0,0 ± 0,0
+ 0,0 ± 0,0
+ 0,0 ± 0,0
+ n.s.
+
+
+Auslassungen
+ 0,0 ± 0,0
+ 0,0 ± 0,0
+ 0,0 ± 0,0
+ 0,0 ± 0,0
+ n.s.
+
+
+Fehlreaktionen
+ 2,0 ± 1,0
+ 1,0 ± 1,0
+ 0,0 ± 0,0
+ 0,0 ± 0,0
+ 2,3,4,5<0,05
+Ausreißer 0,0 ± 0,0
+ 0,0 ± 0,0
+ 0,0 ± 0,0
+ 0,0 ± 0,0
+ n.s.
+
+
+ 
+      Legende:
+ 1Vergleich vorher/2 Tage, 2Vgl. vorher/14 Tage, 3Vgl. vorher/42 Tage, 4Vgl. Tag
+ 2/14, 5Vgl Tag 2/42, 6Vgl. Tag 14/42
+
+3.5Fahrsimulatoruntersuchungen
+Einen Vergleich aller Ergebnisse der Fahrsimulatoruntersuchungen bei OSAS- Patienten vor der Therapie und 2 Tage, 14 Tage und 42 Tage mit CPAP Therapie zeigt Tabelle 13.
+
+Die Reaktionszeiten änderten sich unter CPAP-Therapie nicht. Die Unfallhäufig- keit im untersuchten Kollektiv war mit 1,0±0,9 vor eingeleiteter CPAP-Therapie insgesamt niedrig. 14 Tage nach Therapiebeginn konnte eine Reduktion und nach 6 Wochen eine weitere Absenkung (p<0.01) dokumentiert werden. Der Vergleich der Unfallhäufigkeit in den ersten 30 Messminuten mit der zweiten Untersu- chungshälfte erbrachte keine Unterschiede. Ebenso zeigten sich keine Unterschie- de im Hinblick auf die Unfallverteilung zu verschiedenen Tageszeiten (hell/dunkel) bzw. unterschiedlichen Witterungsbedingungen.
+
+
+Die Anzahl der Konzentrationsfehler in der Fahrsimulator-Untersuchung konnte bereits 2 bzw. 14 Tage nach eingeleiteter CPAP-Therapie statistisch signifikant (p<0.01, p<0.001) abgesenkt werden. Auch hier ließen sich keine Unterschiede der Häufigkeit von Konzentrationsfehlern in Abhängigkeit von der Untersu- chungsdauer bzw. zu unterschiedlichen Tageszeiten oder Witterungsbedingungen feststellen.
+
+Tab. 13: Unfälle und Konzentrationsfehler in der simulierten Fahrsituation bei Patienten mit OSAS vor und unter CPAP vor CPAP2Tage14Tage42 Tagep-Wert (n = 36)nach CPAPnach CPAPnach   (n =23)(n =18)CPAP       (n =17) Unfälle gesamt 1,0 ± 0,9
+ 1,1±1,4
+ 0,8 ± 1,3
+ 0,4±0,6
+ 3<0,01
+ Auffahrunfälle
+ 0,6 ± 0,9
+ 0,6±1,0
+ 0,8 ± 1,3
+ 0,1±0,3
+ 3<0,001,
+        5, 6<0,05
+ Straßenrandunfälle
+ 0,0 ± 0,0
+ 0,0 ± 0,2
+ 0,0 ± 0,0
+ 0,1±0,2
+ n.s.
+ Frontalunfall
+ 0,0 ± 0,2
+ 0,1 ± 0,3
+ 0,0 ± 0,0
+ 0,1±0,2
+ n.s.
+ Vorfahrt mißachtet
+ 0,3 ± 0,5
+ 0,3 ± 0,5
+ 0,0 ± 0,0
+ 0,1±0,3
+ n.s.
+ Verkehrsbakenunfall
+ 0,0 ± 0,2
+ 0,1 ± 0,3
+ 0,1 ± 0,2
+ 0,1±0,2
+ n.s.
+
+
+Unfälle nach Zeit
+        0-15 Min
+ 0,3 ± 0,6
+ 0,6 ± 0,6
+ 0,3 ± 0,6
+ 0,1±0,3
+ n.s.
+ 15-30 Min
+ 0,1 ± 0,3
+ 0,1 ± 0,4
+ 0,1 ± 0,3
+ 0,1±0,2
+ n.s.
+ 30-45 Min
+ 0,3 ± 0,5
+ 0,3 ± 0,5
+ 0,2 ± 0,5
+ 0,1±0,3
+ n.s.
+ 45-60 Min.
+ 0,2 ± 0,4
+ 0,2 ± 0,4
+ 0,2 ± 0,5
+ 0,1±0,3
+ n.s.
+
+
+Unfälle bei versch.
+
+
+ 
+      Wetterlagen/       Tageszeiten        Schönes Wetter
+ 0,2 ± 0,5
+ 0,5 ± 0,7
+ 0,4 ± 0,9
+ 0,1±0,3
+ 5<0,05
+ Regen
+ 0,2 ± 0,4
+ 0,2 ± 0,4
+ 0,2 ± 0,4
+ 0,0±0,0
+ 3, 5<0,05
+ Schnee
+ 0,0 ± 0,2
+ 0,0 ± 0,0
+ 0,0 ± 0,0
+ 0,0±0,0
+ n.s.
+ Nebel
+ 0,1 ± 0,2
+ 0,0 ± 0,0
+ 0,0 ± 0,0
+ 0,0±0,0
+ n.s.
+ Nacht
+ 0,5 ± 0,8
+ 0,5 ± 0,8
+ 0,2 ± 0,7
+ 0,2±0,4
+ n.s.
+
+
+Konzentrationsfehler
+ 5,5 ± 2,9
+ 3,7 ± 1,9
+ 2,1 ± 2,0
+ 2,0±2,2
+ 1<0,01,
+gesamt       2, 3<0,001,
+        4, 5<0,05
+ Licht n. eingeschaltet
+ 0,6 ± 0,8
+ 0,6 ± 0,6
+ 0,3 ± 0,6
+ 0,2±0,4
+ n.s.
+ Licht n. ausgeschaltet
+ 1,9 ± 1,6
+ 1,0 ± 0,9
+ 0,4 ± 0,7
+ 0,9±1,2
+ n.s.
+ Nicht geblinkt
+ 0,6 ± 0,8
+ 0,6 ± 0,8
+ 0,6 ± 1,4
+ 0,1±0,2
+ n.s.
+ Nicht abgeblendet
+ 0,5 ± 0,8
+ 0,5 ± 0,6
+ 0,4 ± 0,7
+ 0,3±0,5
+ n.s.
+ rote Ampel überfahren
+ 0,2 ± 0,5
+ 0,1 ± 0,3
+ 0,0 ± 0,0
+ 0,0 ± 0,0
+ n.s.
+
+ Spurabweichung li.
+ 0,4±0,7
+ 0,0 ± 0,0
+ 0,1±0,2
+ 0,0±0,0
+ 1<0,01,
+      3<0,05
+ Spurabweichung re.
+ 0,1±0,3
+ 0,1 ± 0,3
+ 0,0±0,0
+ 0,1±0,2
+ n.s.
+ Zu schnell gefahren
+ 1,0 ± 0,9
+ 0,8 ± 0,9
+ 0,4 ± 0,8
+ 0,4 ± 1,0
+ n.s.
+
+
+Konz.fehler nach
+     Zeit      0-15 Min
+ 1,7 ± 1,4
+ 1,2 ± 0,9
+ 0,5 ± 0,6
+ 0,3 ± 0,5
+ n.s.
+ 15-30 Min
+ 1,6 ± 1,2
+ 1,2 ± 0,7
+ 0,4 ± 0,5
+ 0,6 ± 0,8
+ n.s.
+ 30-45 Min
+ 1,0 ± 0,9
+ 0,9 ± 0,9
+ 0,6 ± 0,8
+ 0,6 ± 0,8
+ n.s.
+ 45-60 Min.
+ 0,9 ± 0,9
+ 0,5 ± 0,5
+ 0,6 ± 1,0
+ 0,5 ± 0,8
+ n.s.
+
+
+Konz.fehler bei
+     versch. Wetterl./     Tageszeiten      Schönes Wetter
+ 2,6 ± 1,8
+ 1,5 ± 1,0
+ 0,9 ± 1,4
+ 1,0 ± 1,4
+ n.s.
+ Regen
+ 1,1 ± 0,9
+ 0,8 ± 0,8
+ 0,4 ± 0,8
+ 0,4 ± 1,0
+ n.s.
+ Schnee
+ 0,4 ± 0,6
+ 0,4 ± 0,6
+ 0,3 ± 0,6
+ 0,2 ± 0,4
+ n.s.
+ Nebel
+ 0,4 ± 0,6
+ 0,2 ± 0,4
+ 0,1 ± 0,2
+ 0,0 ± 0,0
+ n.s.
+ Nacht
+ 0,9 ± 0,9
+ 0,8 ± 0,8
+ 0,4 ± 0,7
+ 0,4 ± 0,5
+ n.s.
+
+
+Reaktionszeit (sek.)
+ 1,3 ±0 ,6
+ 1,3±0,4
+ 1,2±0,4
+ 1,2±0,4
+ n.s.
+
+
+Durchschnittgeschw.
+
+
+49,7 ± 5,5
+53,3 ± 6,651,8 ± 5,751,7 ± 5,9 n.s.
+
+
+ 
+      Legende:
+ 1Vergleich vorher/2 Tage, 2Vgl. vorher/14 Tage, 3Vgl. vorher/42 Tage,
+ 4Vgl. Tag 2/14, 5Vgl Tag 2/42, 6Vgl. Tag 14/42
+
+3.6 Grafische Darstellung Die wichtigsten Ergebnisse werden hier nochmals in grafischer Form dargestellt:
+3.6.1 Anamnese
+ESS - Score2520151050vor CPAP (n=36)unter CPAP (n=17)Abb. 3: ESS-Score vor und unter CPAP 42
+Siegrist Fragebogen6543210vor CPAP (n=36)vor CPAP (n=36)unter CPAP (n=17)unter CPAP (n=17)Abb. 4: Siegrist-Fragebogenergebnisse (Tagesmüdigkeit und Schnarchen)vor und unter CPAP3.6.2 PolysomnographieTiefschlaf in Min.
+
+70
+6050403020100vor CPAP (n=36)unter CPAP (n=23)Abb. 5: Tiefschlaf in Minuten vor und unter CPAP-Therapie 43
+Arousal-Index (/h)706050403020100vor CPAP (n=36)unter CPAP (n=23)Abb. 6: Arousal-Index (/h) vor und unter CPAP-TherapieApnoe und Apnoe-Hypopnoe Index (/h)706050403020100vor CPAP (n=36)vor CPAP (n=36)unter CPAP (n=23)unter CPAP (n=23)Abb. 7: Apnoe- (AI) und Apnoe-Hypopnoe-Index (AHI) (/h) vor und unterCPAP-Therapie 44
+Sauerstoffsättigung in %100908070vor CPAP (n=36)vor CPAP (n=36)unter CPAP (n=23)unter CPAP (n=23)Abb. 8: Mittlere (SaO2 m) und minimale (SaO2 min) Sauerstoffsättigung in% vor und unter CPAP-Therapie
+
+3.6.3 Vigilanztests
+Reaktionszeit (ms)700600500400300200vor CPAP (n=36)2 Wo. CPAP (n=18)2 Nächte CPAP (n=23)6 Wo. CPAP (n=17)Abb. 9: Gesamt-Reaktionszeit im optischen Vigilanztest vor und 2, 14 und42 Tage unter CPAP-TherapieFehlreaktionen (n)121086420vor CPAP (n=31)2 Wo. CPAP (n=18)2 Nächte CPAP (n=22)6 Wo. CPAP (n=16)Abb. 10:Fehlreaktionen im akustisch-optischen Vigilanztest vor und 2, 14und 42 Tage unter CPAP-Therapie 46
+
+3.6.4 Fahrsimulatoruntersuchungen
+Unfälle (n)543210Vo  2 2 6   N W Wor    C  ä o PAP c .
+
+ 
+.
+
+ 
+h C CPAP (nt   e  PAP   C      = PAP ((  36) ( n=n=17)     = )     n 1       8      2       3)  Abb. 11:Unfälle im Fahrsimulator vor und 2, 14 und 42 Tage unter CPAP-Konzentrationsfehler (n)Therapie121086420Vor 2 26  Näc  WoWoCPAP  h  .
+
+.
+
+
+ 
+   CPAPCPAP  te  (n=36)CPA ((    n=18)1      7    P n=     (n=23) )       Abb. 12:Konzentrationsfehler im Fahrsimulator vor und 2, 14 und 42 Tageunter CPAP-Therapie474.Diskussion4.1Obstruktives Schlafapnoe-SyndromDas in dieser Studie untersuchte Patientenkollektiv ist für das obstruktive Schla- fapnoesyndrom repräsentativ.
+
+Als Hauptrisikofaktoren für die Entwicklung eines Schlafapnoesyndroms gelten das Alter, das männliche Geschlecht und die Adipositas (Young et al., 1993; Bo- rys et al., 1994; Stradling, 1995).
+
+
+Nach Young et al. (1993) beträgt die Prävalenz des klinisch manifesten obstrukti- ven Schlafapnoe-Syndroms (OSAS) in einer Altersgruppe von 30 bis 60 Jahren 2% bei Frauen und 4% bei Männern. Nach der AWMF-Leitlinie zur obstruktiven Schlafapnoe (1997) liegt die Prävalenz des behandlungsbedürftigen OSAS bei über 1% der Gesamtbevölkerung, wobei vor allem Männer der Altersgruppe über 40 Jahre betroffen sind.
+
+
+Das Patientenkollektiv mit einem Alterdurchschnitt von 53,4 ± 8,9 Jahren passt somit in die in die genannten Alterskategorien.
+
+
+Das Odds Ratio Männer zu Frauen mit OSAS ist nach Young et al. (1993) bei 2,0, es liegt in der Untersuchung von Fischer et al. (1999) bei 4,7. Somit sind Männer deutlich häufiger vom OSAS betroffen als Frauen.
+
+
+An der vorliegenden Untersuchung nahmen ausschließlich Männer teil, ergo hat- ten alle Teilnehmenden allein durch ihr Geschlecht eine höhere Wahrscheinlich- keit an einem OSAS erkrankt zu sein als der Bevölkerungsdurchschnitt.
+
+
+Nach Schäfer et al. (1997) verursacht die Adipositas eine vermehrte Fetteinlage- rung im Pharynx- und Halsbereich und begünstigt so das Auftreten von Apnoen. Auch der Body-Mass-Index (BMI) der Untersuchungsteilnehmer, der im Mittel bei 29,8 ± 4,4 kg/m2 liegt, ist erhöht und somit ein weiterer Risikofaktor.
+
+
+Die Weltgesundheitsorganisation der Vereinten Nationen (WHO 2000) definiert einen BMI 25 kg/m2 als Übergewicht oder Präadipositas und einen BMI 30 kg/m2 als Adipositas Grad I.
+
+
+Somit liegt der durchschnittliche BMI der Untersuchungsteilnehmer an der Gren- ze zwischen Präädipositas und Adipositas.
+
+Nach Soler et al. (1995) ist eine deutliche Gewichtsreduktion bei OSAS oft wirk- sam und bei Adipositas immer anzustreben, aber nur selten zu erreichen. Auch in der vorliegenden Studie konnte eine Gewichtsreduktion im Verlauf praktisch nicht gesehen werden, die BMI-Werte veränderten sich nur marginal (von 29,8 ± 4,4 kg/m2 vor Einleitung der CPAP Therapie, 29,4 ± 3,3 kg/m2 6 Wochen unter CPAP).
+
+Meist wird der Schweregrad eines OSAS anhand des AI, AHI oder der Sauer- stoffentsättigungen gemessen. Im vorliegenden Patientenkollektiv beträgt der AI im Mittel 4,4 ± 1,1 und der AHI 27,0 ± 16,9, was einem leicht- bis mittelgradigen OSAS entspricht. Die respiratorischen Parameter Apnoe-Index, Apnoe- Hypopnoe-Index, maximale Apnoedauer sowie die mittlere und minimale Sauer- stoffsättigung besserten sich bereits in der zweiten CPAP-Einstellungsnacht so- weit, dass statistische Signifikanz erreicht wurde. Die Schlafarchitektur zeigte sich nach Einleitung der CPAP-Therapie eine Besserung des Tiefschlafanteils, die sowohl absolut als auch im Vergleich zur Gesamtschlafzeit statistisch signifikant ist. Der REM-Schlafanteil sowie der Wachanteil blieben unverändert. Auch der Arousal-Index sinkt statistisch signifikant.
+
+
+Die Einleitung einer Therapie hängt aber nicht nur von den aus der Polysom- nographie ermittelten Werten ab. Einzelne Symptome, wie z.B. eine behand- lungsbedürftige Hypersomnie können schon beim obstruktiven Schnarchen ohne Apnoen auftreten, so dass sich AI oder auch AHI allein als zuverlässige Instru- mente zur Beurteilung der individuellen Gefährdung und der daraus resultieren- den Therapiebedürftigkeit nicht eignen (AWMF-Leitlinie, 1997).
+
+
+Im Vergleich der Anamnese vor Einleitung der CPAP Therapie und sechs Wo- chen nach Beginn der CPAP Therapie fallen im Fragebogen nach Siegrist eine statistisch signifikante Reduktion der Tagesmüdigkeit und des nächtlichen Schnarchens auf. Auch der ESS-Score ist rückläufig ohne aber statistische Signi- fikanz zu erreichen.
+ Dies könnte als ein erster Hinweis auf Verbesserung der Vigilanz gesehen wer- den.
+
+4.2Vigilanztests
+Vigilanz ist nach Cassel (1997) und Weeß et al. (1998) definiert als die Fähigkeit, unter monotonen Bedingungen über einen längeren Zeitraum adäquat auf uner- wartete und seltene Stimuli zu reagieren. Genauer wird die Vigilanz als Fähigkeit gesehen, auch bei sehr eingeschränkten Reizbedingungen über einen sehr langen Zeitraum hinweg aufmerksam zu bleiben (Sturm et al., 1997).
+
+Vigilanztests müssen definitionsgemäß sehr eintönig sein und sollten eine Min- destdauer von 30 Minuten aufweisen (Sturm, 1997; Weeß et al., 1998).
+
+
+In der vorliegenden Untersuchung wurde eine neuropsychologische Testbatterie zusammengestellt, die besonders der Testung auch der kurzfristigen Vigilanz die- nen sollte.
+
+
+Im Vigilanztest wären bei den Patienten mit obstruktivem Schlafapnoesyndrom am ehesten Leistungseinbrüche mit zunehmender Testdauer zu erwarten gewesen, da bei OSAS-Patienten diese bei längerfristigen und monotonen Aufgaben auftre- ten (Schwarzenberger-Kesper et al., 1987).
+
+
+Allerdings scheint der Zeitraum von 30 Minuten, die ein Vigilanztest mindestens dauern sollte (Sturm et al., 1997; Weeß et al., 1998), bzw. 10 Minuten in der vor- liegenden Untersuchung nicht ausreichend zu sein. Dies deckt sich mit den Er- gebnissen von Kotterba et al. (1998), die auch die Testbatterie zur Aufmerksam- keitsprüfung zur Einschätzung der Vigilanz benutzt haben.
+
+
+Auch Rohmfeld et al. (1994) konnten keinen signifikanten Abfall der Vigilanz beobachten. In dieser Untersuchung zur Aufmerksamkeits- und Vigilanzleistung bei 16 OSAS-Patienten und 15 Kontrollen wiesen die Patienten eine signifikant höhere Fehlerhäufigkeit im Vigilanztest des Wiener Testsystems (Version Müg- genburg) auf. Leichte und schwer erkrankte OSAS-Patienten schienen sich in ih- rer Vigilanzleistung über 66 Minuten allerdings nicht zu unterscheiden. Als Ursa- che für den fehlenden Unterschied vermuten die Autoren entweder die "willkürli- che Schweregradeinteilung", die zu geringe Stichprobengröße, oder auch nicht zu kontrollierende Einflußgrößen, wie z.B. motivationale Aspekte.
+
+
+In der vorliegenden Studie wurden beim akustisch-optischen Vigilanztest über 10 Minuten statistisch signifikante Verbesserung der richtigen Reaktionen direkt nach Einleitung der CPAP-Therapie gefunden. Dagegen reduzierten sich die Fehlreaktionen erst nach 2 Wochen CPAP-Therapie in statistisch signifikantem Aus- maß. Dies bestätigte sich auch nach sechs Wochen CPAP-Therapie.
+
+Im optischen Vigilanztest über 30 Minuten wiesen die Patienten bereits vor Ein- leitung der CPAP-Therapie hohe (und damit gute) Prozentrangwerte der Reakti- onszeiten auf, die sich unter der CPAP-Therapie nach 2 und 6 Wochen noch ten- denziell verbesserten. Statistisch signifikante Verbesserungen konnten bei diesem Test nicht im relevanten Umfang nachgewiesen werden. Insgesamt konnte keine deutliche Verbesserung der Ergebnisse in den Vigilanztests unter CPAP-Therapie gesehen werden.
+
+
+Daraus kann man schließen, dass die Patienten ihre Beschwerden über einen ge- wissen Zeitraum kompensieren können. Dies mag mit der höheren Motivation aufgrund der künstlich geschaffenen Testsituation zusammenhängen. Daher ist es notwendig, die Testdauer länger zu gestalten. Auch kann auftretender Sekunden- schlaf während der Tests nicht sicher erfasst werden, da die kurzfristigen Ein- schlafattacken in Testabschnitten, in denen keine Reaktion gefordert wird, unre- gistriert bleiben. Daher kann hier nur eine Langzeit-EEG-Überwachung sicheren Aufschluss über eventuelle Einschlafepisoden geben.
+
+
+Ein weiterer Grund für das fast durchweg gut Abschneiden in den Vigilanztest könnte darin begründet sein, dass die Vigilanzdiagnostik vor der Fahrsimulatorun- tersuchung stattfand und nur insgesamt 40 Minuten dauerte im Vergleich zu den anschließenden 60 Minuten Fahrsimulation. Dies unterstreicht die Notwendigkeit einer ausreichend langen Testung, um Leistungseinbrüche in der Vigilanz nach- zuweisen. Ähnliche Ergebnisse erhielten auch Orth et al. (2002, 2005), die auch die Vigilanztests der Fahrsimulation voranstellten.
+
+
+4.3Fahrsimulatoruntersuchungen
+Patienten mit unbehandeltem OSAS realisieren beim Führen ihrer Kraftfahrzeuge nicht ihre verminderte Fähigkeit, sicher zu fahren und dass sie somit ein Risiko für andere Verkehrsteilnehmer darstellen (Cassel et al., 1990).
+
+Daher sind geeignete diagnostische Mittel notwendig, die die Fahrtüchtigkeit un- tersuchen können.
+
+In dem in der vorliegenden Untersuchung benutzten Fahrsimulator sind während der einstündigen Simulation Reaktionen auf die Verkehrslage meist nach Phasen, in denen keine Ereignisse auftraten, gefordert. Genau diese Situation ist zur Tes- tung von OSAS-Patienten auch sinnvoll, da sie gerade in länger dauernden mono- tonen Phasen die Aufmerksamkeit vermindern oder dazu neigen einzuschlafen.
+
+Fahrsimulatoren werden zunehmend zur Evaluierung der Unfallhäufigkeit bei OSAS vor und unter Therapie eingesetzt. Untersuchungen zur Absenkung der Unfallhäufigkeit, die auf anamnestischen Angaben bzw. Fahrsimulatoruntersu- chungen beruhen, konnten eine statistisch auffällige Absenkung der Häufigkeit von Unfällen bzw. Beinahe-Unfällen belegen (Cassel et al., 1996, George et al., 1997, Krieger et al., 1997).
+
+
+In einer Untersuchung von Orth et al. (2002, 2005) konnten bei OSAS-Patienten eine 2,5-fach höhere Unfallhäufigkeit gegenüber einem Kontrollkollektiv sowie eine statistisch auffällige Absenkung der Häufigkeit von Konzentrationsfehlern und Unfällen in der simulierten Fahrsituation mit dem C.A.R.® nach 6-wöchiger Therapie nachweisen. Der Untersuchungszeitpunkt 6 Wochen nach Therapieein- leitung wurde entsprechend den Empfehlungen der Deutschen Gesellschaft für Schlafforschung und Schlafmedizin gewählt.
+
+
+Eine Arbeitsunfähigkeit über 6 Wochen nach eingeleiteter CPAP-Therapie würde für zahlreiche Berufskraftfahrer Arbeitslosigkeit bedeuten, und viele würden da- her die gegebenen Empfehlungen ignorieren. Deshalb wurde die vorliegende Stu- die mit der Frage durchgeführt, ob sich anhand der Fahrsimulatoruntersuchung Hinweise für eine Besserung der Fahrleistung bereits nach 14 Tagen finden.
+
+
+Beim Steuern eines Kraftfahrzeuges werden unterschiedliche Aufmerksamkeits- komponenten beansprucht. Hinsichtlich der Unfallneigung ist die Vigilanz, d. h. die längerfristige Aufrechterhaltung der Aufmerksamkeit bei monotonen Umge- bungsbedingungen (z. B. lange, monotone Autobahnfahrten), die wesentliche Komponente. In der vorliegenden Untersuchung hatten die Patienten bereits im Ausgangsbefund des Vigilanztests überdurchschnittliche Ergebnisse der Reakti- onszeiten. Therapieeffekte unter CPAP waren nur in 2 Unterabschnitten des Tests nachweisbar.
+
+
+Demgegenüber zeigte die Fahrsimulation bereits 2 bzw. 14 Tage nach eingeleite- ter CPAP-Therapie eine deutliche Absenkung der Konzentrationsfehler (p<0.01), die sich im Verlauf nach 6 Wochen bestätigte. Hinsichtlich der Unfallhäufigkeit hatten die Patienten bereits vor Therapie eine niedrige Gesamtunfallzahl. Dennoch zeigte sich bereits nach 14 Tagen eine deutliche Absenkung der Unfallhäufigkeit, der Trend zur Reduktion der Unfälle in der simulierten Fahrsituation bestätigte sich nach 6 Wochen.
+
+Die Ergebnisse der vorliegenden Studie unterstützen die Ergebnisse von Orth et al. (2002,2005). In der Studie von Orth et al wurde eine signifikante Reduktion der Unfälle von OSAS-Patienten nach sechs Wochen gesehen. Eine Messung nach zwei Wochen fand nicht statt. Darüber hinaus konnte in der Studie von Orth et al. ein erhöhtes Unfallrate im C.A.R.® - Simulator der OSAS-Patienten vor Einleitung der CPAP-Therapie im Vergleich mit gesunden Probanden gesehen werden.
+
+
+Mit den Ergebnissen der vorliegenden Studie kann man schließen, dass sich die Fahrsimulatorleistung schon nach 14 Tagen CPAP verbessert und somit auch die Teilnahme am Straßenverkehr, bei dokumentiertem Therapieerfolg, wieder mög- lich sein kann.
+
+
+Kritisch anzumerken ist die die relativ große Zahl der Patienten die nicht alle vier Messungen absolvierten, so dass die Zahl der Patienten mit vier Messungen ge- ring war und so eine Aussage über die genauen Effekte letztlich nochmal an ei- nem größeren Kollektiv gemessen werden sollte.
+
+
+4.4Beantwortung der Fragestellung
+ Zu I.)
+In der vorliegenden Untersuchung hatten die Patienten bereits im Ausgangsbefund des Vigilanztests überdurchschnittliche Ergebnisse der Reaktionszeiten.
+
+Therapieeffekte unter CPAP waren in 2 Unterabschnitten des optischen Vigilanz- tests und in Teilen des akustisch / optischen Vigilanztests nachweisbar.
+
+
+Insgesamt konnte aber keine deutliche Verbesserung der Ergebnisse in den Vigi- lanztests unter CPAP-Therapie gesehen werden.
+ Zu II.)
+ 53
+ Die Fahrsimulatorleistung der OSAS-Patienten war ohne CPAP-Therapie mit 1,0
+ ± 0,9 Unfällen und 5,5 ± 2,9 Konzentrationsfehlern eingeschränkt.
+
+
+Die Zahl der Unfälle ist zwar niedrig, aber die Zahl der Konzentrationsfehler, die potentiell zu Unfällen führen können, ist hoch.
+
+
+Jedoch konnte bereits nach 2 bzw. 14 Tage eingeleiteter CPAP-Therapie eine sta- tistisch signifikante Absenkung der Konzentrationsfehler (p<0.01) gesehen wer- den, die sich im Verlauf nach 6 Wochen bestätigte.
+
+
+Hinsichtlich der Unfallhäufigkeit hatten die Patienten bereits vor Therapie eine niedrige Gesamtunfallzahl. Dennoch zeigte sich bereits nach 14 Tagen eine deut- liche Absenkung der Unfallhäufigkeit, der Trend zur Reduktion der Unfälle in der simulierten Fahrsituation bestätigte sich nach 6 Wochen und erreichte dort auch statistische Signifikanz.
+
+
+Kritisch müssen die Ergebnisse am 2. Tag nach eingeleiteter CPAP-Therapie ge- sehen werden, da hier ein Lerneffekt nicht ausgeschlossen werden kann, da die vorhergehende Messung nur kurze Zeit zurück liegt (3 Tage). Dieser Lerneffekt ist nach 14 und 42 Tagen aber eher nicht wahrscheinlich, hier liegt ein deutlich größerer Abstand zu den jeweils vorhergehenden Messungen vor.
+ Zu III.)
+Die Diskrepanz zwischen den Ergebnissen der Fahrsimulatoruntersuchung und den neuropsychologischen Tests unterstreicht den Stellenwert der Fahrsimulation. Die Fahrsimulation ist eine umfassende Aufgabe, die sich nicht in einem neuro- psychologischen Test, der auf jeweils nur einen Aufmerksamkeitsaspekt fokus- siert, widerspiegelt. Daher kann die Häufigkeit von Unfällen anhand eines isolier- ten neuropsychologischen Tests nicht ermessen werden. Stattdessen sollte eine Fahrsimulation zur Dokumentation des Therapieeffektes durchgeführt werden. Die Ergebnisse der vorliegenden Studie decken sich mit den Ergebnissen von Mazza und Kollegen, die signifikante Unterschiede der Aufmerksamkeitsleistung zwischen Gesunden und OSAS-Patienten fanden, jedoch keine Korrelation zwi- schen den Aufmerksamkeitsdefiziten und anderen Parametern wie beispielsweise dem Epworth Sleepiness-Score, Atmungsstörungsindex (RDI) oder anderen Pa- rametern der Polysomnographie herstellen konnten. Die Autoren folgerten, dass 54
+ein einzelner Vigilanztest in der Beurteilung von Aufmerksamkeitsdefiziten bei OSAS nicht ausreicht, da eine Unterschätzung der tatsächlichen Defizite zu be- fürchten sei (Mazza et al., 2002). Zu IV.)
+Die Beurteilung der Fahrtüchtigkeit von Patienten mit OSAS unterliegt in Deutschland bislang keinen allgemein gültigen Richtlinien bzw. Gesetzen. Laut Empfehlung der Deutschen Gesellschaft für Schlafforschung und Schlafmedizin besteht bei Patienten mit OSAS und Einschränkungen der Wachheit Fahruntüch- tigkeit. Die wiederhergestellte Fahrsicherheit ist anzunehmen, wenn sechs Wo- chen nach Einleitung der CPAP-Therapie anhand der polysomnographischen Kontrolle eine deutliche Reduktion des respiratorischen Arousal-Indexes sowie die deutliche Besserung bzw. Normalisierung der Daueraufmerksamkeit doku- mentiert werden können und keine Tagesschläfrigkeit beobachtet wird (Rühle und Mayer, 1998).
+
+Eine Arbeitsunfähigkeit über 6 Wochen nach eingeleiteter CPAP-Therapie würde aber für zahlreiche Berufskraftfahrer Arbeitslosigkeit bedeuten, und es ist anzu- nehmen, dass die gegebenen Empfehlungen ignoriert werden. Deshalb wurde die vorliegende Studie mit der Frage durchgeführt, ob sich anhand der Fahrsimulator- untersuchung Hinweise für eine Besserung der Fahrleistung bereits nach 14 Tagen finden.
+
+
+Hinsichtlich der polysomnographischen Messdaten zeigte sich unter CPAP eine statistisch signifikante Besserung der respiratorischen Parameter (p<0,001) sowie des Schlafprofils mit einer Absenkung des Arousal-Index (p<0,01) sowie einer Zunahme des Tiefschlafanteils (p<0,05). Der REM-Anteil konnte unter Akutein- stellung nicht angehoben werden. Im Hinblick auf die Veränderung des Schlaf- profils bei Einleitung der CPAP-Therapie konnten Loredo und Mitarbeiter in einer doppelblind-placebokontrollierten Studie ähnliche Ergebnisse wie in der vorlie- genden Untersuchung nachweisen mit einer Absenkung des Arousal-Index bei unverändertem REM-und Tiefschlafanteil (Loredo et al., 1999).
+
+Beim Steuern eines Kraftfahrzeuges werden unterschiedliche Aufmerksamkeits- komponenten beansprucht. Hinsichtlich der Unfallneigung ist die Vigilanz, d. h. die längerfristige Aufrechterhaltung der Aufmerksamkeit bei monotonen Umge- bungsbedingungen (z. B. lange, monotone Autobahnfahrten), die wesentliche Komponente. In der vorliegenden Untersuchung hatten die Patienten bereits im Ausgangsbefund der Vigilanztests überdurchschnittliche Ergebnisse der Reakti- onszeiten. Therapieeffekte unter CPAP waren nur in wenigen Unterabschnitten der Tests nachweisbar. Demgegenüber zeigte die Fahrsimulation bereits 2 bzw. 14 Tage nach eingeleiteter CPAP-Therapie eine deutliche Absenkung der Konzentra- tionsfehler (p<0.01), die sich im Verlauf nach 6 Wochen bestätigte. Hinsichtlich der Unfallhäufigkeit hatten die Patienten bereits vor Therapie eine niedrige Ge- samtunfallzahl. Dennoch zeigte sich bereits nach 14 Tagen eine deutliche Absen- kung der Unfallhäufigkeit, der Trend zur Reduktion der Unfälle in der simulierten Fahrsituation bestätigte sich nach 6 Wochen und erreichte dort auch statistische Signifikanz (p<0,05).
+
+Zusammenfassend zeigt die vorliegende Studie somit wichtige Hinweise, dass die Fahrtüchtigkeit bei Patienten mit Neueinstellung auf eine CPAP-Therapie bei OSAS früher als bisher angenommen wiederhergestellt ist. Ob 14 Tage der allge- mein zu empfehlende Zeitpunkt sein wird, muss an größeren Patientenkollektiven geprüft werden.
+
+5.Zusammenfassung
+Patienten mit obstruktivem Schlafapnoe-Syndrom (OSAS) haben ein erhöhtes Unfallrisiko. Fahrtüchtigkeit wird nach den Empfehlungen der Deutschen Gesell- schaft für Schlafforschung und Schlafmedizin (DGSM) bei Patienten mit OSAS und Tagesmüdigkeit erst 6 Wochen nach eingeleiteter CPAP (continuous positive airway Pressure)-Therapie und dokumentiertem Therapieerfolg im Hinblick auf die Tagessymptomatik und Leistungsfähigkeit angenommen.
+
+Die vorliegende Studie untersuchte, ob bereits 14 Tage nach eingeleiteter CPAP- Therapie eine Besserung der neuropsychologischen Testergebnisse und der Fahr- leistung in der simulierten Situation nachweisbar war.
+
+
+Bei 36 Patienten (36 m, Alter 54 ± 9 Jahre) mit OSAS erfolgte eine Fahrsimula- toruntersuchung sowie ein Vigilanztest vor, 2 Tage (n=23), 14 Tage (n = 18) und 42 Tage (n=17) nach eingeleiteter CPAP-Therapie.
+
+
+Darüber hinaus wurden zwei Polysomnographien und jeweils zwei Fragebögen (Siegrist Fragebogen und ESS) ausgewertet.
+
+
+In der Polysomnographie zeigten sich die respiratorischen Parameter Apnoe- Index, Apnoe-Hypopnoe-Index, maximale Apnoedauer sowie die mittlere und minimale Sauerstoffsättigung in der zweiten CPAP-Einstellungsnacht statistisch signifikant verbessert.
+
+
+Die Schlafarchitektur zeigte sich nach Einleitung der CPAP-Therapie eine Besse- rung des Tiefschlafanteils, die sowohl absolut als auch im Vergleich zur Gesamt- schlafzeit statistisch signifikant ist. Der REM-Schlafanteil sowie der Wachanteil blieben unverändert. Auch der Arousal-Index sinkt statistisch signifikant.
+
+
+Im Vergleich der Anamnese vor Einleitung der CPAP Therapie und sechs Wo- chen nach Beginn der CPAP Therapie fallen im Fragebogen nach Siegrist eine statistisch signifikante Reduktion der Tagesmüdigkeit und des nächtlichen Schnarchens auf. Auch der ESS-Score ist rückläufig ohne aber statistische Signi- fikanz zu erreichen.
+
+Die Ergebnisse des optischen Vigilanztests zeigten keine wesentliche Änderung unter CPAP. Im akustisch-optischen Vigilanztest konnte bereits 2 bzw. 14 Tagen nach eingeleiteter CPAP-Therapie eine statistisch signifikante Absenkung der Fehlreaktionen (p<0,05) gesehen werden, die sich im Verlauf nach 6 Wochen bestätigte (p<0,05).
+
+Hinsichtlich der Unfallhäufigkeit hatten die Patienten bereits vor Therapie eine niedrige Gesamtunfallzahl. Dennoch zeigte sich bereits nach 14 Tagen eine deut- liche Absenkung der Unfallhäufigkeit, der Trend zur Reduktion der Unfälle in der simulierten Fahrsituation bestätigte sich nach 6 Wochen und erreichte dort auch statistische Signifikanz. Daneben zeigte sich bereits 2 bzw. 14 Tage nach eingelei- teter CPAP-Therapie eine deutliche Absenkung der Konzentrationsfehler (p<0.01), die sich im Verlauf nach 6 Wochen bestätigte (p<0,001)
+Die vorgelegte Untersuchung unterstreicht den Stellenwert der Fahrsimulation bei der Einschätzung der Fahrtüchtigkeit von Patienten mit OSAS vor und unter The- rapie. Sie belegt eine Besserung der Fahrtüchtigkeit bereits 14 Tage nach eingelei- teter Therapie und unterstützt somit eine frühere Wiederaufnahme der Fahrtätig- keit als nach den bislang empfohlenen sechs Wochen.
+
+6. Literaturverzeichnis
+Aldrich, MS. (1989).
+ Automobile Accidents in Patients with Sleep Disorders
+ Sleep 12(6), 483-494
+American Academy of Sleep Medicine (2005). International Classification of Sleep Disorders, 2nd Edition: Diagnostics and Coding Manual. Westchester, Illinois, American Academy of Sleep Medicine
+ American Thoracic Society (1994).
+ Sleep Apnea, Sleepiness and Driving Risk
+ Am. J. Respir. Crit. Care. Med. 150, 1463-1473
+AWMF-Leitlinie der DGP in Zusammenarbeit mit der DGSM (2001). Erstellungsdatum: 10. Dezember 1997, Überarbeitung: 09. April 2001 http://www.uni-duesseldorf.de/WWW/AWMF/ll/020-001.htmBarbé, F.; Pericás, J.; Munoz, A.; Findley, L.; Anto, JM.; Agusti, AGN. (1998). Automobile Accidents in Patients with Sleep Apnea Syndrome Am. J. Respir. Crit. Care. Med., 158, 18-22
+Becker, M.; Sturm, W.; Willmess, K.; Zimmermann, P. (1996). Normierungsstudie zur Aufmerksamkeitstestbatterie (TAP) von Zimmermann und Fimm Zeitschrift für Neuropsychologie 7, Heft 1: 3-15
+Bédard, MA.; Montplaisier, J.; Richer, F.; Rouleau, I.; Malo, J. (1991). Obstructive Sleep Apnea Syndrome: Pathogenesis of Neuropsychological Deficits J. Clin. Exp. Neuropsychol., 13(6), 950-964 Bèdard, MA.; Montplaisir, J.; Richer, F.; Malo, J. (1991).
+ 59
+Nocturnal Hypoxemia as a Determinant of Vigilance Impairment in Sleep Apnea Syndrome Chest 100, 367-370
+ Borys, JM.; Boute, D. (1994).
+
+
+Obstructive sleep apnea syndrome: a frequent complication of obesity Biomed & Pharmacother 48, 137-141
+ Burmann-Urbanek, M.; Sanner, B.; Kreuzer, I. (1999).
+ Endokrinologische Erkrankungen und Schlaf
+ in: Rasche, K.; Sanner, B.; Schäfer, T.; Schläfke, ME.; Sturm, A.; Zidek, W.;
+ Schultze-Werninghaus (Hrsg.): Schlafbezogene Atemstörungen in Klinik und Praxis
+ Blackwell Wissenschafts-Verlag Berlin, Wien, 150-155
+ Bundesanstalt für Straßenwesen (Hrsg.) (2000).
+ Begutachtungs-Leitlinien zur Kraftfahrereignung
+ Bergisch-Gladbach
+ Calverly, PMA. (1995).
+ Sleep and breathing problems in general medicine
+ Thorax 50, 1311-1316
+ Cassel. W. (1997).
+ Methodik der Vigilanzerfassung
+ MED-Report 14
+ Cassel, W.; Ploch, T.; Becker, C.; Dungnus, D.; Peter, JH.; Wichert, P. von (1996).
+
+
+Risk of traffic accidents in patients with sleep-disordered breathing: reduction with nasal CPAP
+ Eur Resp J. 9, 2606-2611
+ Cassel, W.; Ploch, T.; Peter, JH.; Wichert, P. von (1991).
+
+Unfallgefahr von Patienten mit nächtlichen Atmungsstörungen Pneumologie 45, 271-275Cassel, W.; Ploch, T.; Nees, E.; Fett, I.; Peter, JH.; Wichert, P. von (1990). Patients With Obstructive Sleep Apnea Are Sleepy While Driving But Drive Nev- ertheless Sleep Research 19, 116
+Cassel, W.; Stephan, S.; Ploch, T.; Peter, JH. (1989). Psychologische Aspekte schlafbezogener Atemregulationsstörungen Pneumologie 43, 625-629 Clarenbach, P.; Klotz, U.; Koella WP.; Rudolf, GAE. (1991).
+ Schering Lexikon Schlafmedizin
+ MMV Verlag München
+ Colt, HG.; Haas, H.; Rich, GB. (1991).
+
+
+Hypoxemia vs Sleep Fragmentation as Cause of Excessive Daytime Sleepiness in Obstructive Sleep Apnea
+ Chest 100, 1542-1548
+ Delguste, P.; Rodenstein, DO. (2000).
+
+
+Compliance, Education, Monitoring in thr Treatment of Obstructive Sleep Apnea by NasalContinuous Positive Airway Pressure
+ Sleep 23(4), 158-159
+ Duchna, HW. (2006).
+
+
+Schlafbezogene Atmungsstörungen – Neuauflage der Internationanlen Klassifika- tion von Schlafstörungen (ICSD-2) der American Academy of Sleep Medicine (AASM)
+ Pneumologie 60, 568-575
+ Findley, LJ.; Suratt, PM.; Dinges, DF. (1999).
+ 61
+Time-on-Task Decrements in “Steer Clear” Performance of Patients With Sleep Apnea and Narcolepsy Sleep 22(6), 804-809
+ Findley, LJ.; Unverzagt, M.; Guchu, R.; Fabrizio, M.; Bueckner, J.; Suratt, P. (1995).
+
+
+Vigilance and Automobile Accidents in Patients With Sleep Apnea or Narcolepsy Chest 108, 619-624
+ Findley, LJ.; Weiss, JW.; Jabour, ER. (1991).
+
+
+Drivers with Untreated Sleep apnea – A Cause of Death and Serious Injury Arch. Intern. Med. 151, 1451-1452
+Findley, LJ.; Fabrizio, MJ.; Knight, H.; Norcross, BB.; Laforte, AJ.; Suratt, PM. (1989). Driving Simulator Performance in Patients with Sleep Apnea
+ Am. Rev. Respir. Dis. 140, 529-530
+ Findley, LJ.; Unverzagt, ME.; Suratt, PM. (1988).
+
+
+Automobile Accidents Involving Patients with Obstructive Sleep Apnea Am. Rev. Repir. Dis. 138, 337-340
+ Findley, LJ.; Barth, JT.; Powers, DC.; Wilhait, SC.; Boyd, DG.; Suratt, PM. (1986).
+
+
+Cognitive Impairment in Patients with Obstructive Sleep Apnea and Associated Hypoxemia
+ Chest 90, 686-690
+ Fischer J., Raschke, F. (1999).
+
+
+Studie zur Untersuchung der Einschränkung der körperlichen und geistigen Leis- tungsfähigkeit bei kardiologischen, pneumologischen und gastrointestinalen Pri- märerkrankungen und gleichzeitigen schlafbezogenen Funktionsstörungen.
+ Abschlußbericht Verb. Deutscher Rentenversichers.träger, Frankfurt
+
+ Fischer, J (1992).
+ Schlafbezogene Atmungsstörungen (Apnoe-Syndrom). In
+ Nolte, D (Hrsg): Manuale Pneumologicum.
+ Dustri-Verlag, Deisenhofen, I-14, 1-19
+ Flemons, WW.; Remmers, JE.; Whitelaw, WA (1993).
+
+
+The Correlation of a Computer Simulated Driving Program with Polysomno- graphic Indices and Neuropsychological Tests in Consecutively Referred Patients for Assesment of Sleep Apnea
+ Sleep 16 (8), 71
+ George, CFP.; Smiley, A. (1999).
+ Sleep Apnea & Automobile Crashes
+ Sleep 22(6), 790-795
+ George, CFP.; Boudreau, AC.; Smiley, A. (1997).
+
+
+Effects of nasal CPAP on simulated driving performance in patients with obstruc- tive sleep apnoea
+ Thorax 52, 648-653
+ George, CFP.; Boudreau, AC.; Smiley, A. (1996).
+
+
+Simulated Driving Performance in Patients with Obstructive Sleep Apnea Am. J. Respir. Crit. Care. Med 154, 175-181
+ George, CFP.; Boudreau, AC.; Smiley, A. (1996).
+ Comparison of Simulated Driving Performance in Narcolepsy and Sleep Apnea Patients
+ Sleep 19 (9), 711-717
+ George, CFP.; Flaherty, BA.; Smiley, A. (1995).
+ Driving And Sleep Apnea, Self reported Accidents
+ Sleep Res. 24, A305
+ George, CFP.; Nickerson, PW.; Hanly, PJ.; Millar, TW.; Kryger, MH. (1987).
+
+ Sleep Apnoea Patients Have More Automobile Accidents
+ Lancet 2 (8556), A447
+ Greenberg, GD.; Watson, RK.; Deptula, D. (1987).
+ Neuropsychological Dysfunction in Sleep Apnea
+ Sleep 10 (3), 254-262
+ Grote, L.; Schneider, H. (1996).
+ Schlafapnoe und kardiovaskuläre Erkrankungen
+ Georg Thieme Verlag Stuttgart, New York
+ Gugger, M.; Rochat, T. (1995).
+
+
+Sollten Patienten mit asymptomatischen Schlafapnoe-Syndrom mit CPAP (conti- nuous positive airway pressure) behandelt werden?
+ Schweizer Med. Wochenschr. 125, 496-501
+Guilleminault, C.; Partinen, M.; Quera-Salva, MA.; Hayes, B.; Dement, WC.; Nino-Murcia, G. (1988).
+
+Determinants of Daytime Sleepiness in Obstructive Sleep Apnea Chest 94, 32-37
+Häkkänen, H.; Summula, H.; Partinen, M.; Tiihonen, M.; Silvo, J. (1999). Blink Duration as an Indicator of Drivers Sleepiness in Professional Bus Drivers Sleep 22(6), 798-802 Haniffa M, Lasserson TJ, Smith I. (2004).
+
+
+Interventions to improve compliance with continuous positive airway pressure for obstructive sleep apnoea.
+ Cochrane Database Syst Rev. Issue 4, CD003531.
+
+
+Haraldsson, PO.; Carenfelt, C.; Laurell, H.; Törnros, J. (1990). Driving Vigilance Simulator Test
+ Acta. Otolaryngol. (Stockh.) 110, 136-140
+
+Horstmann, S.; Hess, CW.; Basseti, C.; Gugger, M.; Mathis, J. (2000). Sleepiness-Related Accidents in Sleep Apnea Patients Sleep 23(3), 383-389
+ Horn, W. (1983).
+ Leistungsüberprüfungssystem L-P-S
+ Göttingen, Toronto, Zürich, Hogrefe, 1-63
+ Howard, ME., Desai, AV, Grunstein, RR, Hukins, C. (2004).
+
+
+Sleepiness, Sleep-disordered Breathing, and Accident Risk Factors in Commercial Vehicle Drivers
+ Am. J. Respir. Crit. Care. Med. 150, 1014-1021
+ Hudgel, D.W. et al. (1983).
+ Increase in pharyngeal resistance during sleep in normal man
+ Amer. Rev. Respir. Dis. 127, 235
+ Issa, FG.; Sullivan, CE. (1986).
+
+
+The immediate effects of nasal continuous positive airway pressuretreatment on sleep pattern in patients with obstructive sleep apnea syndrome
+ EEG and Clin. Neurophysiol. 63, 10-17
+ Jennum, P.; Hein, HO.; Suadicani, P.; Gyntelberg, F. (1993).
+ Cognitive Function and Snoring
+ Sleep 16 (8), 62-64
+ Johns, MW. (1991).
+
+
+A New Method for Measuring Daytime Sleepiness: The Epworth Sleepiness Scale Sleep 14 (6), 540-545
+Kales, A.; Caldwell, AB.; Cadieux, RJ.; Vela -Bueno, A.; Ruch, LG.; Mayes, SD. (1985).
+
+Severe Obstructive Sleep Apnea – II: Associated Psychopathology and Psycho- logical Consequences
+
+ J. Chron. Dis. 38 (5), 427-434
+Kapur, V.; Blough, DK.; Sandblom, RE.; Hert, R.; de Maine, JB.; Sullivan, SD.; Psaty, BM. (1999). The Medical Cost of Undiagnosed Sleep Apnea
+ Sleep 22 (6), 749-755
+ Kotterba, S.; Widdig, W.; Orth, M.; Rasche, K. (1999).
+ Vigilanzdiagnostik und neuropsychologische Testverfahren
+ in: Rasche, K.; Sanner, B.; Schäfer, T.; Schläfke, ME.; Sturm, A.; Zidek, W.;
+ Schultze-Werninghaus, G. (Hrsg.): Schlafbezogene Atemstörungen in Klinik und Praxis
+ Blackwell Wissenschafts-Verlag Berlin, Wien, 93- 101
+Kotterba, S.; Rasche, K.; Widdig, W.; Duscha, C.; Blombach, S.; Schultze- Werninghaus, G.; Malin, JP. (1998).
+
+Neuropsychological investigations and event-related potentials in obstructive sleep apnea syndrome before and during CPAP-therapy
+ Journal of the Neurological Sciences 159, 45-50
+Krieger, J.; Meslier, N.; Lebrun, T. and working group ANTADIR, Paris and Cresge Lille. (1997).
+
+Accidents in obstructive sleep apnea patients treated with nasal continuous posi- tive airway pressure. A prospective study
+ Chest 112, 1561-1566
+ Langwieder, K.; Sporner, A.; Hell, W. (1994).
+ Struktur der Unfälle mit Getöteten auf Autobahnen im Freistaat Bayern im Jahr 1991
+ HUK-Verband, Büro für Kfz-Technik, München
+ Lauber, JK.; Kayten, PJ. (1988).
+
+
+Sleepiness circadian dysrythmia and fatigue in transportation system accidents. Sleep 11 (6), 503-512
+
+Levi-Valensi, P; Weitzenblum, E; Rida, Z; Aubry, P; Braghiroli, A; Donner, C; Aprill, M; Zielinski, J; Wurtemberger,G. (1992).
+
+Sleep-related oxygen desaturation and daytime pulmonary haemodynamics in COPD patients
+ Eur Respir J. 5, 301-307
+ Lewrenz, H. (1996).
+
+
+Begutachtungs-Leitlinie des Gemeinsamen Beirats für Verkehrsmedizin beim Bundesminister für Verkehr und beim Bundesministerium für Gesundheit,
+ Heft 73, Spezieller Teil, 31
+ Loredo, JS; Ancoli-Israel, S; Dimsdale, JE (1999).
+
+
+Effects of continuous positive airway pressure vs placebo continuous positive airway pressure and sleep quality in obstructive sleep apnea.
+ Chest 116, 1545-1549
+Mazza, S.; Pépin, JL.; Naegele, B.; Plante, J.; Deschaux, C.; Lévy, P. (2005). Most obstructive sleep apnea patients exhibit vigilance and attention deficits on an extended battery of tests Eur Resp J. 25, 75-80
+ Meyer, M. (1990).
+
+
+Ermüdungsbedingte Fahruntüchtigkeit von Berufskraftfahrern Archiv für Kriminologie 185. Band, 64-79
+Mitler, MM.; Carskadon, MA.; Czeisler, A.; Dement, WC.; Dinges, WF.; Gräber, RC. (1988). Catastrophes, Sleep, and Public Policy: Consensus Report
+ Sleep 11 (1), 100-109
+Naëgelé, B.; Thouvard, V.; Pèpin, JL.; Lèvy, P.; Bonnet, C.; Perret, JE.; Pellat, J.; Feuerstein, C. (1995). Deficits of cognitive Executive Functions in Patients With Sleep Apnea Syndrome
+
+ Sleep 18 (1), 43-52
+ Oberlandesgericht Hamm
+ Aktenzeichen: 20 U 99/97
+ Urteil vom 28.05.1998
+Orth, M.; Kotterba, S.; Walther, J. W.; Rasche, K.; Schultze-Werninghaus, G.; Duchna, H. -W. (2006).
+
+Langzeit-Compliance der CPAP-Therapie - aktueller Stand, Prädiktoren und In- terventionsmöglichkeiten
+ Pneumologie 60, 480-484
+ Orth, M.; Duchna, HW.; Leidag, M. et al. (2005).
+
+
+Driving simulator and neuropsychological testing in OSAS before and under CPAP therapy
+ Eur Resp J. 26, 893-903
+ Orth, M.; Leidag, M.; Kotterba, S. et al. (2002).
+
+
+Abschätzung des Unfallrisikos bei obstruktivem Schlafapnoe-Syndrom (OSAS) durch Fahrsimulation
+ Pneumologie 56, 13-18
+ Orth, M.; Rasche, K.; Duchna, HW. (1999).
+ Konservative Therapie
+ in: Rasche, K.; Sanner, B.; Schäfer, T.; Schläfke, ME.; Sturm, A.; Zidek, W.;
+ Schultze-Werninghaus, G. (Hrsg.): Schlafbezogene Atemstörungen in Klinik und Praxis
+ Blackwell Wissenschafts-Verlag Berlin, Wien, 93-101
+Orth, M.; Rasche, K.; Kollhasser, P.; Duchna, HW.; Bauer, TT.; Schultz- Werninghaus, G. (1996).
+
+Geschlechtsspezifische Anamnese beim obstruktiven Schlafapnoe-Syndrom? Wien. med. Wschr. 146, 357-358
+
+ Pack, AI.; Dinges, DF.; Maislin, G. (2002).
+
+
+A study of prevalence of sleep apnea among commercial truck drivers FMCSA, Publication No. DOT-RT-02-030, Washington DC
+Peter, JH.; Blanke, J.; Cassel, W.; Clarenbach, P.; Elek, H.; Faust, M.; Fietze, I.; Lund, R.; Mahlo, HW.; Mayer, G.; Müller, D.; Penzel, T.; Podszus T.; Raschke, F.; Rühle, KH.; Schäfer, T.; Schläfke, ME.; Schneider, H.; Scholle, S.; Stumpner, J.; Wiater, A.; Zwacka, G. (1992). Empfehlung zur ambulanten Diagnostik der Schlafapnoe
+ Med Klin 87, 310-317
+ Peppard PE, Young T, Palta M, Skatrud J (2000).
+
+
+Prospective study of the association between sleep-disordered breathing and hy- pertension.
+ N Engl J Med 342, 1378–84.
+ Posner, MI.; Rafael, RD. (1987).
+ Cognitive theories of attention and the rehabilitation of attentional deficits
+in: Meier, MJ.; Benton, AL.; Diller, L. (Hrsg.): Neuropsychological Rehabilitation Churchill Livingstone, Edinburgh, 182-201 Randerath, W.; Gerdesmeyer, C.; Ströhlein, G.; Rühle, KH. (1997).
+
+
+Messung der Vigilanz mittels Fahrsimulator vor und nach n-CPAP. Vergleich zweier Simulationsprogramme mit unterschiedlicher Ereignishäufigkeit Somnologie 1, 110-114
+ Rasche, K. (1996).
+
+
+Nächtliche Hypoxämien bei chronisch-obstruktiven Lungenerkrankungen Thieme, Stuttgart, New York, 115-44
+Rasche, K.; Orth, M.; Duchna, HW.; Schmalz, O.; de Zeeuw, J. (1999). Systematik der Diagnostik 69
+ in: Rasche, K.; Sanner, B.; Schäfer, T.; Schläfke, ME.; Sturm, A.; Zidek, W.;
+ Schultze-Werninghaus, G. (Hrsg.): Schlafbezogene Atemstörungen in Klinik und Praxis
+ Blackwell Wissenschafts-Verlag Berlin, Wien, 37-47
+ Rasche, K.; Sanner, B.; Schäfer, T.; May, B.(1999).
+ Gastroösophagealer Reflux und Schlaf
+ in: Rasche, K.; Sanner, B.; Schäfer, T.; Schläfke, ME.; Sturm, A.; Zidek, W.;
+ Schultze-Werninghaus, G. (Hrsg.): Schlafbezogene Atemstörungen in Klinik und Praxis
+ Blackwell Wissenschafts-Verlag Berlin, Wien, 140-149
+ Rechtschaffen, A.; Kales, A. (1968).
+
+
+A manual of standardized terminology, techniques and scoring system for sleep stages of human subjects
+ Neurological Information Network
+ Risser, MR.; Catesby Ware, J.; Freeman, FG. (2000).
+
+
+Driving Simulation with EEG-Monitoring in Normal and Obstructive Sleep Ap- nea Patients
+ Sleep 23 (3), 393-398
+Roehrs, T.; Conway, W.; Wittig, R.; Zorick, F.; Sicklsteel, J.; Roth, T. (1985). Sleep wake complaints in patients with sleep-related respiratory disturbances Am. Rev. Respir. Dis. 132, 520-523Roehrs, T.; Merrion, M.; Pedrosi, B.; Stepanski, E.; Zorick, F.; Roth, T. (1995). Neuropsychological Function in Obstructive Sleep Apnea Syndrome (OSAS) compared to Chronic Pulmonary Disease (COPD) Sleep 18 (5), 382-388
+Rohmfeld, R.; Weeß, HG.; Föller-Schlums, G.; Schneider, C.; Meyer, J.; Stein- berg, R.; Pritzel, M. (1994). 70
+Beeinträchtigung der Aufmerksamkeit und Vigilanz bei obstruktivem Schlafap- noesyndrom Wien. Med. Wschr., Sonderheft, 144
+ Rühle KH.; Mayer G. (1998).
+ Empfehlungen zur Begutachtung von Schlaf-Wachstörungen und Tagesschläfrig- keit.
+ Somnologie 2, 89-9
+ Sanner, B.; Kornermann, M.; Zidek, W.; Sturm, A. (1999).
+ Herz-Kreislauferkrankungen und Schlaf
+ in: Rasche, K.; Sanner, B.; Schäfer, T.; Schläfke, ME.; Sturm, A.; Zidek, W.;
+ Schultze-Werninghaus, G. (Hrsg.): Schlafbezogene Atemstörungen in Klinik und Praxis
+ Blackwell Wissenschafts-Verlag Berlin, Wien, 113-122
+ Sanner, B., Rasche, K. (1999).
+ Systematik der Therapie
+ in: Rasche, K.; Sanner, B.; Schäfer, T.; Schläfke, ME.; Sturm, A.; Zidek, W.;
+ Schultze-Werninghaus, G. (Hrsg): Schlafbezogene Atemstörungen in Klinik und Praxis
+ Blackwell Wissenschafts-Verlag Berlin, Wien, 209-211
+ Sanner, B.; Rasche, K. (1999).
+ Apparative Therapie
+ in: Rasche, K.; Sanner, B.; Schäfer, T.; Schläfke, ME.; Sturm, A.; Zidek, W.;
+ Schultze-Werninghaus, W. (Hrsg.): Schlafbezogene Atemstörungen in Klinik und Praxis
+ Blackwell Wissenschafts-Verlag Berlin, Wien, 232-240
+Sassani A, Findley LJ, Kryger M, Goldlust E, George C, Davidson TM. (2004). Reducing motor-vehicle collisions, costs, and fatalities by treating obstructive sleep apnea syndrome. Sleep 27, 453-458
+
+ Seko, Y.; Kataoka, S.; Senoo, T. (1986).
+
+
+Analysis of driving behaviour under a state of reduced alertness Int J of Vehicle design, special issue on vehicle safety, 318-330
+ Shahar E, Whitney CW, Redline S et al. (2001).
+
+
+Sleep-disordered breathing and cardiovascular disease. Cross sectional results of the Sleep Heart Health Study.
+ Am J Respir Crit Care Med 163, 19–25.
+ Shakespeare, W. (1977).
+ Macbeth
+ Oxford University Press 1977, Akt II, Szene 2
+ Schäfer, H.; Hasper, E.; Ewig, S.; Lüderitz, B. (1996).
+ Schlafbezogene Atmungsstörungen
+ Dt Ärztebl 38 (93), 2396-2402
+ Schläfke, ME.; Schäfer, T. (1999).
+ Physiologie des Schlafes
+ in: Rasche, K.; Sanner, B.; Schäfer, T.; Schläfke, ME.; Sturm, A.; Zidek, W.;
+ Schultze-Werninghaus, G. (Hrsg.): Schlafbezogene Atemstörungen in Klinik und Praxis
+ Blackwell Wissenschafts-Verlag Berlin, Wien, 17-34
+Schwarzenberger-Kesper, F.; Becker, H.; Penzel, T.; Peter, JH.; Weber, K.; von Wiechert, P. (1987).
+
+Die exzessive Einschlafneigung am Tage (EDS) beim Apnoe-Patienten . Diagnos- tische Bedeutung und Objektivierung mittels Vigilanztest und synchroner EEG- Registrierung am Tage
+ Prax. Klin. Pneumol. 41, 401-405
+ Smith, I., T. Lasserson, J. Wright (2002).
+ Drug treatments for obstructive sleep apnoea.
+ 72
+ Cochrane Database Syst. Rev. CD003002
+ Soler, M.; Tamm, M. (1995).
+ Das obstruktive Schlaf-Apnoe-Syndrom
+ Schweiz. Med. Wochenschr. 125, 1007-1014
+ Stradling, JR. (1995).
+
+
+Obstructive sleep apnoea: definitions, epidemiology, and natural history Thorax 50, 683-689
+ Stradling, JR. (1989).
+ Obstructive sleep apnoea and driving
+ BMJ 298, 904-905
+Strafgesetzbuch in Rechtsvorschriften / Bundesrepublik Deutschland (2006). In der Fassung der Bekanntmachung vom 13.11.1998 (BGBl. I S. 3322) Zuletzt geändert durch Gesetz vom 19.4.2006 (BGBl. I S. 866) m.W.v. 25.4.2006
+Stoohs, RA.; Bingham, LA.; Itoi, A.; Guilleminault, C.; Dement, WC. (1995). Sleep and Sleep Disordered Breathing in Commercial Long-Haul Truck Drivers Chest 107, 1275-1282 Stoohs, RA.; Guilleminault, C.; Itoi, A.; Dement WC. (1994).
+
+
+Traffic Accidents in Commercial Long-Haul Truck Drivers: The Influence of Sleep-Disordered Breathing and Obesity
+ Sleep 17 (7), 619-623
+ Sturm, W. (1997).
+ Neuropsychologische Diagnostik: Aufgaben und Untersuchungsverfahren
+ in: Hartje, W.; Poeck, K. (Hrsg.): Klinische Neuropsychologie
+ Thieme-Verlag Stuttgart, New York, 1997: 59-73
+ Sturm, W. (1997).
+ Neuropsychologische Diagnostik: Aufmerksamkeitsstörungen
+ 73
+in: Hartje, W.; Poeck, K. (Hrsg.): Klinische Neuropsychologie Thieme-Verlag, Stuttgart, New York, 283-289 Sullivan, CE.; Grunstein, RR. (1994).
+
+
+Countinous positive airway pressure in sleep-disordered breathing In: Kruger MH.; Roth, T.; Dement, WC. (eds)
+ Principles and practice of sleep medicine
+ W.B. Saunders Company, London, Toronto, Montreal, Sydney, Tokyo, 694-705
+ Terán-Santos, J.; Jimènez-Gomez, A.; Cordero-Guevara, J. (1999).
+
+
+The Association Between Sleep Apnea And The Risk Of Traffic Accidents N. Engl. J. Med. 340, 847-851
+Weeß, HG.; Lund, R.; Gresele, C.; Böhning, W.; Sauler, C.; Steinberg, R. (1998). Vigilanz, Einschlafneigung, Daueraufmerksamkeit, Müdigkeit, Schläfrigkeit: Die Messung müdigkeitsbezogener Prozesse bei Hypersomnien Somnologie 2, 32-41
+ White, DP. (1995).
+ Pathophysiology of obstructive sleep apnoea
+ Thorax 50, 797-804
+ WHO (2000).
+ Obesity: preventing and managing the global epidemic.
+ WHO Technical Report Series 894, Genf
+Wilcox, I.; Grunstein, RR.; Hedner, JA.; Doyle, J.; Collins, FL.; Fletcher, PJ.; Kelly, DT.; Sullivan, CE. (1993).
+
+Effect of Nasal Continuous Positive Airway Pressure During Sleep on 24-hour Blood Pressure in Obstructive Sleep Apnea
+ Sleep 16 (6), 539-544
+ Young, T.; Blustein, J.; Finn, L.; Palta, M. (1997).
+ 74
+Sleepiness, Driving, Accidents: Sleep-Disordered Breathing and Motor Vehicle Accidents in a Population-Based Sample of Employed Adults Sleep 20 (8), 608-613
+ Young, T.; Evans, L.; Finn, L.; Palta, M. (1997).
+
+
+Estimation of the Clinically Diagnosed Proportion of Sleep Apnea Syndrome in Middle –aged Men and Women
+ Sleep 20 (9), 705-707
+Young, T.; Palta, M.; Dempsey, J.; Skatrud, J.; Weber, S.; Badr, S. (1993). The Occurence of Sleep-Disordered Breathing Among Middle-Aged Adults N. Engl. J. Med. 328, 1230-1235 Zimmermann, P.; Fimm, B. (1994).
+ Testbatterie zur Aufmerksamkeitsprüfung (TAP)
+ Psychologische Testsysteme, Freiburg, 1-39
+ 

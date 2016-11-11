@@ -1,0 +1,5848 @@
+Aus dem Institut für
+Medizinische Mikrobiologie und Krankenhaushygiene der
+Medizinischen Hochschule Hannover
+
+Helicobacter
+
+Genetic Diversity of
+Isolates in Sudan
+
+pylori
+
+Dissertation zur Erlangung des Doktorgrades der Medizin an der
+Medizinischen Hochschule Hannover
+
+vorgelegt von
+
+Wael Faroug Elamin
+
+aus Khartoum
+
+Hannover 2008
+
+Angenommen vom Senat der Medizinischen Hochschule Hannover
+am 17.4.2009
+
+Gedruckt mit Genehmigung der Medizinischen Hochschule Hannover
+Präsident: Professor Dr. med. Dieter Bitter-Suermann
+Betreuer: Professor Dr. med. Sebastian Suerbaum
+Referent: Prof. Dr. med. Franz Bange
+Koreferent: Prof. Dr. med. Jörg Schmidtke
+Tag der mündlichen Prüfung: 17.04.2009
+
+Promotionsausschussmitglieder:
+Prof. Dr. Hans-Heinrich Kreipe
+Prof. Dr. Sebastian Suerbaum
+Prof. Dr. Manfred Stuhrmann-Spangenberg
+
+Dedicated to
+My Parents, my wife and my daughter
+
+Genetic Diversity of Helicobacter pylori Isolates in
+Sudan
+
+Wael Faroug Elamin
+
+Submitted for the degree of Doctor Medicinae
+February 2008
+
+Abstract
+Helicobacter pylori infection of humans is so old that its population genetic structure
+reects that of ancient human migrations. Origins and genetics of
+are not well described.
+
+H. pylori in Africa
+
+It is not clear how dierent waves of human migrations
+
+in Africa have contributed to the evolution of strain diversity of
+
+H. pylori.
+
+The
+
+objective of our study was to learn these issues by studying the genetic origins of
+
+pylori in Sudan and their comparison to global isolates.
+typing (MLST) of 7 housekeeping genes (
+
+H.
+
+We used multilocus sequence
+
+atpA, efp, ureI, ppa, mutY, trpC, yphC ).
+
+We dened a new population, hspEastAfrica, which predominates in all Sudanese
+strains, irrespective of geographic or ethnic origin.
+origin of ancestral
+
+H. pylori
+
+Our observations suggest the
+
+(hsp-Europe) in the Sudan, which is in agreement
+
+with an out of Africa migration.
+
+Despite several back migrations to Sudan, the
+
+hspEastAfrica remained dominant while other ancestral population only contributed
+minimally. This could possibly be due to a matrilocal social pattern.
+
+Declaration
+The work in this thesis is based on research carried out at the
+
+Helicobacter
+
+research
+
+group, Hannover, Germany. No part of this thesis has been submitted elsewhere for
+any other degree or qualication and it is all my own work unless referenced to the
+contrary in the text.
+
+Copyright
+
+©
+
+2008 by Wael F. Elamin.
+
+The copyright of this thesis rests with the author. No quotations from it should be
+published without the author's prior written consent and information derived from
+it should be acknowledged.
+
+v
+
+Acknowledgements
+This study would not have been made possible without the support of my supervisor
+Prof. Dr. Sebastian Suerbaum. Through his supervision I was able to learn valuable
+knowledge regarding both molecular microbiology as well as how to think problems
+through. The laboratory of Prof. Dr. Sebastian Suerbaum has been a very pleasant and a fun atmosphere in which to study and grow; most of all though, I thank
+him for providing me with a lifetime opportunity. I also thank my co-supervisor,
+Dr.
+
+Daniel Falush, for initiating the project and for his continuous support and
+
+guidance. I would like to thank PD. Dr. Christine Josenhans and my colleagues of
+the group Anna Leybo, Birgit Brenneke, Claudia Moccia, Daniela Göppel, Jessika
+Schulze, Nina Lotzing, Patrick Olbermann, Sandra Schwarz, Stefan Kulick, Tobias
+Schweinitzer and Torsten Sterzenbach.
+
+Special thanks go to Dr.
+
+Christian Kraft
+
+for his continuous advice and support. I would also like to thank Dr. Hatim Mudawi, Dr. M.A. Eltahir and their nursing sta for providing me with most of the
+biopsies and Dr. Yousra Mirghani for her support in Sudan. I also thank the Gastroenterology units in Ibn Sina hospital, the Chinese friendship hospital and the
+Academy Charity hospital for providing biopsies. I would like to thank my father,
+Prof. Faroug Elamin, and his colleague, Prof. Imad Aradaib for providing me gastric sheep samples and for allowing me to work in their lab during the initial phase
+of the project.
+
+I also thank Prof.
+
+M. Homeida for allowing me to use his lab at
+
+Yastabshiron medical center.
+
+vi
+
+Contents
+Abstract
+
+iv
+
+Declaration
+
+Chapter 1
+INTRODUCTION
+1.1
+
+Helicobacter pylori
+
+1.1.1 History
+Spiral organisms in the stomachs of mammals were rst reported in 1893 in Turin by
+Bizzozero. By the end of 1940, two additional reports of spiral gastric bacteria had
+
+Marshall , 2001).
+
+appeared (
+
+Although it was noted in 1924 by Murray Luck that the
+
+human stomach contains abundant urease activity and it was shown in 1959 that
+this activity disappeared after antibiotic treatment (indicating that the enzyme was
+of bacterial origin), the connection between gastric urease and gastric spiral bacteria
+was not established until the culturing of
+
+H. pylori
+
+Marshall and Warren ,
+
+in 1982 (
+
+1984). Research on gastric bacteria was at rst impeded by the general belief that
+bacteria could not live in the acidic environment of the stomach.
+til 1982 that
+
+H. pylori
+
+It was not un-
+
+was rst cultured by a research scientist, Barry Marshall,
+
+through the encouragement of a pathologist, Robin Warren.
+
+The rst successful
+
+culture occurred by chance when a biopsy was left in the incubator for 5 days over
+the Easter holidays. By 1984, other groups had independently reported the disease
+
+Langenberg et al., 1984; McNulty and Watson , 1984).
+
+associations of the organism (
+
+Marshall hypothesized that the new bacterium was a
+pyloric region of the stomach and therefore called it
+
+Campylobacter
+
+found in the
+
+Campylobacter pyloridis, even
+
+though the new organism had dierent agellar morphology than campylobacters.
+
+1
+
+1.1.
+
+Helicobacter pylori
+
+C. pyloridis
+
+C. pylori
+
+became
+
+2
+when linguists pointed out that the former was gram-
+
+Marshall et al., 1987), and Campylobacter
+
+matically incorrect (
+
+became
+
+Helicobacter
+
+when it was discovered that its 16S ribosomal RNA was clearly distinct from other
+Campylobacter species tested (
+
+Andersen and Wadström ,
+
+2001).
+
+In 2005, Warren
+
+and Marshall were awarded the Nobel Prize in Medicine for their work on
+
+H. pylori.
+
+1.1.2 General characteristics
+Helicobacter pylori
+
+is a gram-negative, curved or slightly spiral, microaerophilic,
+
+slow-growing organism. The most characteristic of it's enzymes is a potent multisubunit urease.
+
+Geis et al.,
+
+(
+
+H. pylori is motile and possesses ve to seven sheathed polar agella
+
+1989;
+
+Josenhans et al.,
+
+1995).
+
+The bacterium's unique feature is its
+
+ability to colonize the stomach.
+Because of the relevance of this organism to human health, an eort was made
+to sequence the genome.
+
+H. pylori
+
+26695, originally isolated from a gastritis patient
+
+in the United Kingdom, was the strain chosen for sequencing because it colonizes
+
+Tomb et al., 1997).
+
+piglets and elicits immune and inammatory responses (
+
+J99 was sequenced in order to permit within-species genome comparison (
+1999). The
+
+H. pylori
+
+Strain
+
+Alm et al.,
+
+genomes consist of a circular chromosome approximately 1.7
+
+Mb in size. Of the 1590 predicted coding sequences, 279 genes were
+
+H. pylori
+
+spe-
+
+cic. Some of these species-specic genes are thought to play an important role in
+adaptation of
+
+H. pylori
+
+to the human stomach. The organism appears to have a lim-
+
+ited metabolic and biosynthetic capacity. These characteristics are consistent with
+those of an organism that colonizes a restricted ecological niche (
+
+Tomb et al., 1997).
+
+One interesting feature of the genome is that many predicted proteins, including
+urease, are most closely related to corresponding proteins from gram-positive organisms, archaea, or eukaryotes, rather than from other gram-negative organisms
+
+Tomb et al., 1997),
+
+(
+
+suggesting horizontal gene transfer during the evolution of
+
+pylori (Garcia-Vallvé et al., 2002; Gressmann et al., 2005).
+
+H.
+
+1.1.
+
+Helicobacter pylori
+
+3
+
+1.1.3 Disease and epidemiology
+For most of the twentieth century, peptic ulcers were thought to be stress-related
+
+Yoshida et al., 1977).
+
+and caused by hyperchlorhydria (
+
+The discovery that
+
+H. pylori
+
+is associated with gastric inammation and peptic ulcer disease was initially met
+with skepticism.
+
+However, this discovery and following studies on
+
+H. pylori
+
+have
+
+revolutionized our opinion of the gastric environment, the diseases associated with
+it, and the appropriate treatment methods.
+
+H. pylori
+
+is probably the most common human chronic infection and is dis-
+
+Parkin ,
+
+tributed worldwide, infecting both males and females (
+
+half of the world's population is persistently colonized with
+lence of
+
+H. pylori
+
+2006).
+
+More than
+
+H. pylori.
+
+The preva-
+
+is much higher in developing countries than in the Western world,
+
+Perez-Perez et al., 2004).
+
+although it increases with age in all populations studied (
+The incidence of
+
+H. pylori
+
+infection declines with increasing standards of socioe-
+
+conomic development, including sewage disposal, water chlorination, hygienic food
+preparation, decreased crowding, and education (
+quisition of
+
+H. pylori
+
+Chong , 2006).
+
+Ford et al.,
+
+2006).
+
+infection usually occurs during childhood (
+
+Once established,
+
+Natural ac-
+
+Mourad-Baars and
+
+H. pylori generally persists for decades unless erad-
+
+icated by anti-microbial therapy (
+
+Go ,
+
+2002;
+
+Magalhães Queiroz and Luzza ,
+
+2006).
+
+Because of the worldwide prevalence of infection, transmission of the organism from
+person to person is a major concern. Early studies demonstrated intra-familial clustering of infection, and more recently, DNA analyses of isolates have conrmed that
+most transmission occurs locally within families or small population groups (
+
+baum et al., 1998; Drumm et al., 1990; Kivi et al., 2003).
+with an apparent inability of
+the environment.
+
+H. pylori
+
+These results are consistent
+
+to proliferate or survive for long periods in
+
+The mode of transmission from person to person has not been
+
+proven denitively.
+
+Oral-fecal, oral-oral, and gastro-oral routes are all considered
+
+Magalhães Queiroz and Luzza ,
+
+possible (
+
+Suer-
+
+2006).
+
+The study of the mode of trans-
+
+mission is made dicult by the fact that, unlike other infectious diseases, there is
+no well-dened clinical syndrome associated with its acquisition, and expression of
+chronic
+
+H. pylori
+
+infection in humans is highly variable. Hence, the usual approach
+
+of identifying cases and determining important exposures with infectious diseases
+
+1.1.
+
+Helicobacter pylori
+
+4
+
+is not possible. Although most infections are asymptomatic, about 10% of cases of
+
+H. pylori
+
+colonization lead to illness.
+
+H. pylori
+
+is a major cause of chronic active
+
+gastritis and peptic ulcer disease and is also an early risk factor for gastric cancer.
+Infections are occasionally cleared spontaneously after a brief acute phase, but many
+last for years or decades, and it is these long-term infections that are most often implicated in disease (
+
+Kusters et al., 2006).
+
+The persistence of the
+
+H. pylori
+
+infection
+
+is surprising considering that the bacterium stimulates marked humoral and cellular
+immune responses in the human host, which are insucient to clear the infection
+
+Harry L. T. Mobley and Hazell , 2001; Suerbaum and Michetti , 2002).
+
+(
+
+1.1.4 Ecological niche
+The means by which
+
+H. pylori
+
+occupies its gastric niche and the basis for its bio-
+
+chemical capabilities and requirements is of great fundamental interest. A thorough
+understanding of
+
+H. pylori
+
+physiology and metabolism could lead to new and better
+
+drug therapies, to the identication of potential targets for therapeutic intervention,
+or to an eective vaccine. Understanding how the organism colonizes and persists
+in the host is an important step in fully understanding its pathogenesis.
+
+H. pylori
+
+have adapted to survive in the very specic and unique ecological
+
+Lee and Josenhans ,
+
+niche of the human stomach (
+
+2005;
+
+Sachs et al.,
+
+2003;
+
+Go ,
+
+2002). Because of the presence of gastric acid which rapidly destroys the majority
+of bacteria, the stomach is typically colonized only by transient oral ora.
+
+H. pylori
+
+appears to have evolved specic mechanisms to assist its survival in this hostile
+environment. These factors include the ability to swim well in the thick, protective
+mucus gel layer, the ability to transiently survive exposure to acid, and the ability to
+attach to the epithelial cell layer to prevent the bacteria from being washed out of the
+stomach through the mechanical action of peristalsis. As a result, other infectious
+agents do not appear to successfully compete with
+
+H. pylori
+
+in this environment
+
+Sachs et al., 2003).
+
+(
+
+Major non-specic host defenses against microbial colonization of the stomach
+are gastric acid, peristalsis, and the continual shedding of the cells and mucus lining
+of the gastric surface. This layer of gastric mucus, about 0.2-0.6 mm thick, is secreted
+
+1.1.
+
+Helicobacter pylori
+
+5
+
+by epithelial cells and plays an important protective role in the stomach, both as a
+lubricant and as part of the gastric mucosal barrier against acid and pepsin.
+
+H. pylori
+
+thrives in this mucus environment. The mucus layer forms a stable, continuous layer
+over the mucosa and provides an environment for the neutralization of luminal acid,
+
+Ferrero , 2005).
+
+maintaining a near neutral pH at the mucosal surface (
+
+According to studies employing light and electron microscopy and examination
+of stained gastric biopsies,
+
+H. pylori
+
+can be found both in the gastric mucus and in
+
+close proximity to the mucosal epithelial cells where it is protected from the acidic
+environment of the stomach lumen (
+
+Hazell et al., 1986; Liu et al., 2006).
+
+1.1.5 Genetic diversity of Helicobacter
+H. pylori
+
+pylori
+
+isolated from dierent patients and examined by various high-resolution
+
+typing methods, including ribotyping, restriction fragment length polymorphism
+(RFLP), and random amplied polymorphic DNA (RAPD) ngerprinting indicate
+that nearly every strain is unique at the DNA level (
+
+et al.,
+
+1992;
+
+Fujimoto et al.,
+
+Colding et al., 1999; Akopyanz
+
+Majewski and Goodwin ,
+
+1994;
+
+1988;
+
+1996). The level of polymorphism observed is higher than that in
+to that in
+
+Neisseria meningitidis (Falush et al.,
+
+2001).
+
+Kansau et al.,
+
+E. coli
+
+and similar
+
+High allelic (or sequence)
+
+diversity reects large eective population size as well as a high mutation rate.
+Recombination is relevant because it reduces the eect of selective sweeps, increasing
+eective population size. In addition to point mutations that are unique to individual
+strains, large gene clusters are present in some strains but not in others (
+
+et al., 2005).
+
+Early studies revealed that about 60% of
+
+H. pylori
+
+Gressmann
+
+isolates produce an
+
+Cover et al.,
+
+immunodominant 120-140 kDa protein of unknown function (CagA) (
+1990;
+
+Crabtree et al.,
+
+1991).
+
+The
+
+40 kb DNA segment called the
+1998;
+
+Censini et al.,
+
+cagA
+
+cag
+
+gene is located within an approximately
+
+pathogenicity island (PAI) (
+
+1996). Many of the genes within the
+
+cag
+
+Akopyants et al.,
+
+PAI help
+
+H. pylori
+
+activate proinammatory signal transduction pathways in gastric epithelial cells
+
+Segal et al., 1996, 1997), contributing to the host inammatory response.
+
+(
+
+with strains that contain the
+
+cag
+
+Infection
+
+PAI is more likely to result in clinical disease
+
+than is colonization with cag-negative strains (
+
+Covacci et al.,
+
+1993;
+
+Cover et al.,
+
+1.1.
+
+Helicobacter pylori
+
+1990;
+
+6
+
+Crabtree et al., 1991).
+
+Therefore, the presence or absence of the
+
+important characteristic among
+
+H. pylori
+
+cag
+
+PAI is an
+
+strains.
+
+Additional strain-specic genes have been identied by comparing the complete
+genome sequences of
+
+H. pylori 26695 with H. pylori J99 (Alm and Trust , 1999).
+
+The
+
+overall genomic organization, gene order and predicted proteomes (sets of proteins
+encoded by the genome) were found to be quite similar.
+the complete
+
+cag
+
+Both strains contained
+
+PAI anked by the same chromosomal genes and a previously
+
+Akopyants et al.,
+
+described 31-bp repeat (
+
+1998;
+
+Censini et al.,
+
+1996).
+
+The DNA-
+
+sequence dierences between orthologues from the two strains are found mainly in
+the third position of coding triplets, consistent with the variation seen between
+
+pylori
+
+H.
+
+strains identied by methods dependent on the nucleotide sequence or on
+
+Akopyanz et al.,
+
+the sequencing of specic loci in dierent strains (
+
+1992).
+
+This
+
+nucleotide variation however does not translate into a highly divergent proteome.
+A total of 275 (18.4%) J99 and 290 (18.7%) 26695 gene products have orthologues
+of unknown function in other species, and 346 (23.1%) J99 and 367 (23.6%) 26695
+genes are
+
+H. pylori
+
+specic, showing no sequence similarity with genes available in
+
+public databases. Of these
+
+H. pylori
+
+J99 and 26995, respectively (
+
+specic genes, 56 and 69 are specic to strains
+
+Alm et al., 1999).
+
+The fact that strain-specic DNA-restriction/modication genes have a lower
+(G+C) content than the remainder of the genome and are associated with regions
+that are organized dierently in the J99 and 26695 genomes indicates that these
+genes may have been acquired horizontally from other bacterial species or transferred more recently from other
+
+et al., 1999).
+of
+
+H. pylori
+
+H. pylori
+
+Alm
+
+strains by natural transformation (
+
+Whole genome microarray analysis of 15 strains found that a full 22%
+genes are dispensable in one or more strains, and also observed dis-
+
+tinct patterns of the strain-specic gene distribution along the chromosome, which
+may result from dierent mechanisms of gene acquisition and loss (
+2000). A comparison made for a globally representive sample of 56
+and 4
+
+H. acinonychis
+
+H. pylori
+
+strains
+
+indicated a core genome of 1111 genes. Many of the variable
+
+genes were most likely imported by horizontal gene transfer.
+are located within the
+
+Salama et al.,
+
+cag
+
+Variable genes that
+
+pathogenicity island were apparently initially acquired en
+
+1.1.
+
+Helicobacter pylori
+
+7
+
+bloc after speciation. However, most of the other variable genes were of unknown
+function or encoded restriction/modication enzymes, transposases, or outer membrane proteins. These genes seem to have been acquired prior to the speciation of
+
+H. pylori
+
+and were eventually lost by convergent evolution within individual strains
+
+Gressmann et al., 2005).
+
+(
+
+There is increasing evidence that recombination occurs between dierent
+
+lori
+
+H. py-
+
+Kraft et al., 2006; Kraft and Suerbaum , 2005; Suerbaum and Achtman ,
+
+strains (
+
+2004). Simultaneous colonization of human stomachs with more than one strain of
+
+H. pylori
+
+Fujimoto
+
+is detectable in about 5-10% of patients in the United States (
+
+et al., 1994), and may occur even more commonly in other populations (Jorgensen
+et al.,
+
+1996).
+
+Mixed infections, even those that are transient, provide an oppor-
+
+tunity for genetic exchange between strains.
+
+Analysis of single cell clones from a
+
+patient who was naturally infected with two dierent
+was
+
+H. pylori
+
+strains, one of which
+
+cag + and the other cag -, revealed evidence for at least six dierent genetic ex-
+
+changes. One of these exchanges resulted in the replacement of the entire
+with DNA containing the empty site allele from the
+
+cag -negative
+
+strain.
+
+cag
+
+PAI
+
+Several
+
+others involved a region encoding putative outer membrane proteins that could be
+
+Kersulyte et al., 1999).
+
+involved in interactions with the host (
+
+play an important role in the biology of
+
+Genetic exchange may
+
+H. pylori by generating new genotypes much
+
+more rapidly than is possible by mutation alone, therefore allowing cells to rapidly
+adapt to new sites in the gastric environment or to new hosts. For several genes,
+
+aA, aB,
+
+including
+
+and portions of
+
+vacA,
+
+phylogenetic analyses of orthologous
+
+sequences from dierent strains have yielded a bush-like rather than a tree-like pattern, indicating considerable interstrain recombination. Recombination is thought
+to occur more commonly in
+
+Suerbaum et al.,
+
+thus far (
+in
+
+H. pylori
+
+H. pylori
+
+H. pylori
+
+than in any other bacterial species analyzed
+
+1998). Thus, the high level of allelic variation observed
+
+can be attributed to at least two factors. First, large populations of
+
+have probably evolved within millions of individual human stomachs over
+
+thousands of years, resulting in considerable mutational diversity.
+
+Second, addi-
+
+tional diversity has accumulated as a result of extensive intragenic recombination
+due to mixed infections (
+
+Kraft and Suerbaum , 2005).
+
+1.1.
+
+Helicobacter pylori
+
+8
+
+As with several other bacterial species, including
+
+Neisseria spp.
+
+and
+
+Streptococ-
+
+cus pneumoniae, H. pylori is naturally competent for genetic transformation in vitro
+Nedenskov-Sorensen et al., 1990).
+
+(
+
+This property allows for the uptake of exogenous
+
+DNA, which may subsequently replicate, in the case of plasmids, or incorporate into
+the chromosome by homologous recombination.
+via transformation,
+
+H. pylori
+
+In addition to genetic exchange
+
+strains may exchange DNA via a contact-dependent
+
+mechanism resembling bacterial conjugation.
+
+H. pylori
+
+has an overall high mutation rate; in addition it has 46 genes con-
+
+taining homopolymeric runs of nucleotides or dinucleotide repeats. These genes are
+susceptible to frequent length changes due to slipped-strand mispairing-mediated
+mutagenesis.
+
+Reversible inactivation of genes could occur due to frameshifts sec-
+
+ondary to length changes (phase variation), or if the repeat is located in regulatory
+sequences, dierent gene transcription could occur. The large repertoire of hypermutable genes would mean that any large population of
+
+H. pylori
+
+will consist of
+
+many dierent subpopulations, each subpopulation with a specic combination of
+active and inactive phase-variable genes (this phenomenon has been described by
+the term `bacterial quasispecies'). The inactivation of some genes containing hypermutable sequences is likely to be selected against in vivo, however, various research
+has shown that intrastrain recombination and slipped-strand mispairing mediated
+mutagenesis generate highly diverse populations of
+
+H. pylori
+
+in an individual host.
+
+This would enable the bacterial population to respond rapidly to changing environments by expanding a particular subpopulation with higher tness. This mechanism
+could also permit the bacteria to regulate their mutation rate, as the antimutator
+gene
+
+mutY
+
+contains a repeat sequence in which length variation could lead to gene
+
+inactivation (
+
+1.1.6
+
+Suerbaum and Josenhans , 2007).
+
+Helicobacter pylori in Sudan
+
+The rst report about the prevalence of
+
+et al.,
+
+H. pylori in Sudan was in 1994 (Azim Mirghani
+
+1994), where an 80% incidence rate has been reported in cases of gastritis
+
+using a rapid urease test. The rate of recovery via culture was nearly half of that
+
+El-Mahdi et al.,
+
+using the CLO test. In 1998, Elmahdi et al. (
+
+1998) assessed the
+
+1.1.
+
+Helicobacter pylori
+
+9
+
+relationship of CagA positivity to gastric pathology and have identied a high incidence of
+
+cag
+
+positive strains in both symptomatic and asymptomatic patients, and
+
+have hence concluded that
+
+cag
+
+strains could not be the only reason for pathology
+
+in the Sudanese groups. In a recent study, assessing patients with gastroesophageal
+reux disease (GERD) and Barret's esophagitis, have identied a higher incidence
+of
+
+H. pylori
+
+1.1.7
+
+in patients with Barret's than those with GERD (
+
+Helicobacter pylori
+
+Ahmed et al., 2004).
+
+as a marker of human population
+
+migrations
+It is possible for genetic variation within parasite populations to provide information relating to their evolution. Despite this it is uncommon for this variation to
+contribute to the understanding of their hosts' evolution however some examples do
+exist; for instance
+
+Buchnera aphidicola,
+
+which are found in specialized cells (bac-
+
+Funk et al., 2000; Moran , 2003), and
+
+teriocytes) within the body cavity of aphids (
+
+Wigglesworthia glossinidia
+et al.,
+
+Canback et al., 2004).
+
+in tsetse ies (
+
+Funk
+
+Funk et al. (
+
+2000) predicted that if pathogens are not transmitted horizontally between
+
+eukaryotic hosts, a phylogenetic evolutionary parallel of host and pathogen genomes
+could be envisaged. They have shown that the phylogenies of these endosymbiotic
+Proteobacteria are congruent with those of their hosts.
+
+Hence, it is possible to
+
+utilise the genetic diversity of a pathogen to reect the evolutionary history of its
+host. However, most bacterial pathogens are frequently transmitted between hosts,
+separating the co-evolution of bacterium and host. Recently though,
+
+H. pylori
+
+has
+
+Kersulyte
+
+provided additional evidence regarding the patterns of human migrations (
+
+et al., 2000; Ghose et al., 2002; Falush et al., 2003b).
+H. pylori
+
+is usually acquired during childhood, with transmission occurring pre-
+
+dominantly within families (
+
+berg ,
+
+2006).
+
+Tindberg et al., 2001; Kivi et al., 2003; Kivi and Tind-
+
+Some studies have demonstrated the possible co-existence of a large
+
+array of clonal lineages within
+
+H. pylori
+
+populations evolving within each individual
+
+Suerbaum et al.,
+
+in isolation from one another (
+
+Xerry , 2003).
+
+1998;
+
+Han et al.,
+
+2000;
+
+Owen and
+
+Genetic exchange occurs via DNA transformation between the mul-
+
+Suerbaum et al.,
+
+tiple strains colonizing a single individual (
+
+1998;
+
+Kersulyte et al.,
+
+1.1.
+
+Helicobacter pylori
+
+10
+
+1999), leading to a closely related, heterogeneous pool of isolates with dierent genes
+and alleles that have been acquired by recombination. Despite undergoing frequent
+recombination and apparent panmixis, phylogeographical dierences have been outlined within
+
+H. pylori
+
+World-wide studies of
+
+populations that seem to reect co-evolution with humans.
+
+H. pylori
+
+isolates from dierent geographical regions demon-
+
+strated weak clonal groupings and geographical partitioning of
+
+Achtman et al., 1999; Carroll et al., 2003). H. pylori
+
+(
+
+recombination occurs very frequently.
+
+H. pylori
+
+isolates
+
+are naturally competent and
+
+Escherichia coli, which possesses strong clonal
+
+population structure, has a recombination rate which is at least 50-fold lower than
+that of
+
+H. pylori (Falush et al.,
+
+a resident
+
+H. pylori
+
+population.
+
+H. pylori
+lori
+
+2001). Should recombination only occur between
+
+population, exchange of genetic sequences can homogenise this
+
+The introduction of polymorphisms and sequence variants from one
+
+population specic to a particular geographical region to another
+
+H. py-
+
+population from a dierent geographical region via human migration makes the
+
+association of particular genotypes with specic geographical locations more dicult. Although this introduction of new polymorphisms into a particular
+
+H. pylori
+
+population poses a problem with identifying specic genotypes within certain geographical locales, it may, provide information on the ancestry of the hosts. Dierent
+studies have been aimed at identifying whether
+
+H. pylori
+
+was introduced to Latin
+
+Kersulyte et al., 2000; Ghose
+
+America via European or Asian migrant populations (
+
+et al., 2002).
+
+Falush et al., 2003b) showed
+
+However, a recent study by Falush et al. (
+
+that sequence analysis of
+geographical partitioning.
+
+H. pylori
+
+isolates obtained from 27 countries displayed
+
+The study also revealed that in addition to particular
+
+polymorphisms being associated with specic geographical regions, mosaics from
+one population appear to have been introduced into another. The introduction of
+such mosaics was found to correlate with historical migration events, such as the
+prehistoric colonization of Polynesia and the Americas, the Neolithic introduction
+of farming to Europe, the Bantu expansion within Africa, and the slave trade. In
+addition, Falush et al.
+
+(
+
+Falush et al.,
+
+2003b) demonstrated a link between Asian
+
+Ghose et al., 2002).
+
+and Amerindian strains supporting previous observations (
+further study
+
+H. pylori
+
+In a
+
+was also able to dierentiate between closely related groups
+
+1.1.
+
+Helicobacter pylori
+
+11
+
+of Budhists and Muslims in Ladakh, and was shown to be more sensitive than other
+human genetic markers (
+
+pylori
+
+Wirth et al.,
+
+2004). Thus, polymorphisms within the
+
+H.
+
+genome can be utilised as useful markers for studying ancient and recent
+
+human migrations. Albeit, recombination between
+
+H. pylori
+
+strains from migrant
+
+and native populations can sometimes complicate analysis. Therefore, the study of
+migrated populations that have remained in isolation from the native populations
+
+Carroll et al., 2004).
+
+is essential (
+
+1.1.8 House keeping proteins function
+Multilocus sequence typing (MLST) is a generic typing method, employed to date
+principally but not solely to bacterial pathogens, that aims to be a robust and
+portable method for the characterization of bacterial isolates at the molecular level
+
+Maiden et al., 1998).
+
+(
+
+MLST diers from many other former and current approaches
+
+to isolate characterization in that it is based explicitly on the population genetic
+concepts that supported the earlier technique of multilocus enzyme electrophoresis
+(MLEE) (
+
+Selander et al., 1986).
+
+It has the additional aims of providing a unied bac-
+
+terial isolate characterization approach that generates data that can also be used for
+evolutionary and population studies of a wide range of bacteria, regardless of their
+
+Urwin and Maiden ,
+
+diversity, population structure, or evolution (
+
+2003). Recently,
+
+sequences from multiple housekeeping genes have been used to dene phylogenetic
+relationships within the weakly clonal species
+1998),
+
+Streptococcus pneumoniae (Enright and Spratt , 1998) and Helicobacter pylori
+
+Achtman et al.,
+
+(
+
+1999;
+
+Falush et al.,
+
+Maiden ,
+
+MLST of pathogens (
+
+lori
+
+Neisseria meningitidis (Maiden et al.,
+
+2003b).
+
+Currently, there are 35 schemes for
+
+2006). Following are the genes used for the
+
+H. py-
+
+MLST scheme as described in interpro (http://www.ebi.ac.uk/interpro/).
+
+MLST schemes for other bacteria use dierent genes.
+1.
+
+atpA: ATPases (or ATP synthases) are membrane-bound enzyme complexes/ion
+
+transporters that combine ATP synthesis and/or hydrolysis with the transport of
+protons across a membrane. ATPases are able to utilise the energy from a proton
+gradient, using the movement of ions across the membrane via the ATPase proton
+channel to drive the synthesis of ATP. Some ATPases work in reverse, harnessing
+
+1.1.
+
+Helicobacter pylori
+
+12
+
+the energy from the hydrolysis of ATP to create a proton gradient. Dierent types
+of ATPases exist, they can dier in function (ATP synthesis and/or hydrolysis),
+structure (F-, V- and A-ATPases contain rotary motors) and in the type of ions
+they transport.
+2.
+
+efp:
+
+Members of this family possess translation elongation factor activity.
+
+They have been shown to stimulate ecient translation and peptide-bond synthesis
+on native or reconstituted 70S ribosomes
+
+in vitro,
+
+possibly indirectly by altering
+
+the anity of the ribosome for aminoacyl-tRNA, thus increasing their reactivity as
+acceptors for peptidyl transferase (by similarity).
+3.
+
+mutY: MutY is responsible for excising adenine in A
+
+·
+
+G and A
+
+·
+
+C mispairs and
+
+opposite 8-oxoguanine, one of the most stable products of oxidative DNA damage.
+MutY in E. coli is responsible for repair of oxidative DNA damage in addition to
+mismatch repair. It also processes at least some A
+lack of MutY activity generates G
+
+·
+
+C
+
+−→
+
+T
+
+·
+
+·
+
+G mispairs in E. coli, and the
+
+A transversions, resulting in rpoB
+
+mutations that confer rifampin resistance. H. pylori MutY can play a similar role in
+mismatch repair preventing G
+2006;
+4.
+
+Kulick et al., 2007).
+ppa:
+
+·
+
+C
+
+−→
+
+T
+
+·
+
+A transversion mutations (
+
+Huang et al.,
+
+The microbial inorganic pyrophosphatase (PPase) plays an important
+
+role in macromolecular biosynthesis and is essential for the viability of
+
+coli
+
+Escherichia
+
+and yeast. The protein appears to be universal and is highly conserved amongst
+
+diering species. Inorganic pyrophosphatase (PPase) is the enzyme responsible for
+the hydrolysis of pyrophosphate (PPi) which is formed principally as the product
+of the many biosynthetic reactions that utilize ATP. All known PPases require the
+presence of divalent metal cations, of which magnesium confers the highest activity.
+Among other residues, a lysine has been suggested to be part of or close to the
+active site. PPases have been sequenced from bacteria, thermophilic bacteria, from
+archaebacteria, from fungi, from a plant, and from bovine retina.
+
+The sequences
+
+of PPases share some regions of similarities, including a region that contains three
+conserved aspartates that are involved in the binding of cations.
+5.
+
+trpC:
+
+Tryptophane (Trp) is biochemically the most expensive of the amino
+
+acids synthesized by prokaryotes. Therefore it is not surprising Trp biosynthesis is
+
+1.2. African population genetics
+
+13
+
+usually regulated precisely. TrpC catalyzes phosphoribosyl-anthranilate isomerase
+step, yielding 1-(o-carboxyphenylamino)-1-deoxyribulose 5-phosphate (CDRP) (
+
+Xie
+
+et al., 2004).
+6:
+
+ureI: UreI
+
+shown by
+of
+
+UreI
+
+is an inner membrane protein with six transmembrane segments as
+
+in vitro
+
+transcription/translation and membrane separation. Expression
+
+in Xenopus oocytes results in the uptake of acid-stimulated urea, with a pH
+
+prole similar to activation of cytoplasmic urease.
+
+UreI
+
+functions as a proton gated
+
+urea channel regulating cytoplasmic urease that is essential for gastric survival and
+colonization (
+7:
+
+yphC:
+
+Weeks et al., 2000).
+
+The
+
+yphC
+
+ribosome binding.
+
+gene encodes an essential GTPase thought to be involved in
+
+yphC
+
+Sequence analysis has shown that
+
+belongs to the
+
+EngA
+Xu
+
+family of GTPases, which uniquely contain two adjacent GTP-binding domains (
+
+et al., 2006).
+
+1.2 African population genetics
+Experiments on genetic markers such as MtDNA, Y chromosomes and Y chromosome SNPs have shown that Africans have greater genetic diversity than non
+Africans.
+
+Several factors have been implied, including a larger eective size for
+
+African populations (
+
+Eller ,
+
+2001); an older onset of population demographic ex-
+
+pansion in Africa combined with larger eective size (
+
+Relethford and Jorde , 1999),
+
+population size uctuations and periodic extinctions of populations outside Africa
+
+Eller , 2002), or positive selection through adaptation to new environments outside
+
+(
+
+Africa (
+
+Excoer , 2002).
+
+Linkage Disequilibrium (LD), the tendency of alleles located close to each other
+on the same chromosome to be inherited together, has been conrmed to be lower
+
+Reich et al.,
+
+in African than non African populations (
+Goldstein & Weale (
+
+2001;
+
+Gabriel et al.,
+
+2002).
+
+Goldstein and Weale , 2001) used a simulation approach asking
+
+why the patterns are so dierent, and have found that admixture does not fully
+explain this diversity, and hence genetic bottlenecks that aected Europeans and
+not African populations.
+
+Larger eective sizes for African populations have also
+
+1.2. African population genetics
+been suggested (
+
+Frisse et al.,
+
+14
+
+2001) as a cause for the dierence in LD between
+
+African and non African populations.
+
+1.2.1 Mitochondrial DNA (MtDNA)
+In paleoanthropology, the recent single-origin hypothesis (RSOH, or Out-of-Africa
+model, or Replacement Hypothesis) is one of two inuential accounts of the origin of
+anatomically modern humans, Homo sapiens. According to the RSOH, anatomically
+modern humans evolved in Africa between 200,000 and 100,000 years ago, with
+members of one branch leaving Africa between 55000 to 80,000 years ago.
+MtDNA is an excellent marker for characterizing diversity and evolution due to
+its lack of recombination and maternal inheritance. The three main haplogroups,
+which are found only in Africa are L1, L2, and L3. Of interest and greater prevalence
+in East Africa is L3, where it accounts for about half of all types from this region.
+
+Watson et al., 1997;
+
+This frequency prole suggests an origin for L3 in East Africa (
+
+Forster , 2004).
+
+This is supported by the evidence that the out-of-Africa migration,
+
+which took place from a source in East Africa 60,000-80,000 years ago, gave rise only
+to L3 lineages outside Africa. Also of interest is Haplogroup Pre HV with lineages
+occurring widely in the Middle East, but also appearing in Ethiopia and Somalia.
+The greater diversity in the Middle East suggests that the group originated in that
+region and subsequently spread to the African continent (
+
+Lovell et al., 2005).
+
+The macro-Haplogroups M and N are a branch of the African haplogroup L3
+and span many continents.
+
+They are believed to have originated in Africa some
+
+80,000 years before present. Both haplogroups are believed to represent the initial
+migration by modern humans out of Africa. Haplogroup M particularly represents
+the dispersal of modern human into Eurasia some 60,000 years ago along the Southern Asian coastline.
+
+Owing to its old age, haplogroup M is one of those mtDNA
+
+lineages which does not correspond well to present-day racial groups, as it spans
+East Asian, South-East Asian, South Asian, Amerindian, as well as Ethiopian and
+
+Salas et al.,
+
+various Middle Eastern groups in lesser frequency (
+al (
+
+2002). Kivisild et
+
+Kivisild et al., 2004), who compared mtDNA between Ethiopians and Yemenis,
+
+have found them both to contain similar proportions of subclades M & N (Eurasian
+
+1.2. African population genetics
+
+15
+
+specic), and African specic lineages. The Eurasian subclades found in Ethiopia
+suggest backward migration and intermixing with Western Eurasian ancestors and
+East Africans, although this has been evident only in certain groups (the Amhara
+and Tigriani).
+
+Krings et al., 1999) have studied mtDNA along the Nile basin:
+
+Krings et al (
+
+Their
+
+study involved the hyper-variable (HV) region. They found increased variability of
+the HV region in the north of the basin, and higher MtDNA variability at Southern
+Sudan; which lead to the conclusion that although migrations have occurred bidirectionally, it has either been earlier or to a lesser extent on a North to South
+gradient.
+Analysis of MtDNA from 58 individuals from a sedentary population from Gurna,
+Egypt has shown that this group maintained a similar prole to that of groups in
+
+Stevanovitch et al., 2004).
+
+East Africa, further supporting origins in East Africa (
+
+1.2.2 Y Chromosome
+Study of the Non Recombining Region of the Y chromosome (NR Y) is a valuable
+
+Underhill et al.,
+
+tool for determining the paternal lineage. Underhill et al (
+
+2000),
+
+comparing the NR Y of 1062 individuals from dierent regions, have found three
+mutually reinforcing mutations (two transversions and a 1-bp deletion), distinguishing a haplogroup, which is represented today by a minority of Africans, mainly
+Sudanese, Ethiopians and Khoisans.
+
+All non-Africans, except a single Sardinian,
+
+and most African males sampled carried only the derived alleles at the three sites.
+This implies that modern extant human Y chromosomes trace ancestry to Africa
+and that the descendants of the derived lineage left Africa and eventually replaced
+
+Seielstad et al.,
+
+archaic human Y chromosomes in Eurasia. Mark Seielstad et al. (
+
+1999) have found that there is greater diversity in Y chromosomes in Africans and
+have attributed this to a greater diversity within African populations rather than
+a larger eective size.
+
+Y chromosome analysis has also supported a relationship
+
+Semino et al.,
+
+between East Africans and Khoisans (
+as well as Eurasians.
+
+2002;
+
+Passarino et al.,
+
+1998),
+
+1.2. African population genetics
+
+16
+
+1.2.3 Migration routes out of Africa
+Assuming only relatively recent migrants from Africa gave rise to today's nonAfrican humans, there could have been more than one migration that left descendants. Two routes for the migration out of Africa have been assumed (
+
+Matsumura , 2005).
+
+Forster and
+
+The rst and most obvious route is from Egypt, across the Sinai
+
+into the Levant. This route is confronted by the major obstruction of the arid zone
+of the Sahara and Sinai deserts, and thus tends to be only passable during the short
+periods of interglacial optimum when the Sahara is covered by fresh water lakes,
+rivers and abundant game. The second route only opened when sea levels fell; it
+is across the Bab-el-Mandeb, between Yemen and Djibouti. This route too is obstructed by a barrier, the Red Sea and its hazardous reefs, and so is usually only
+opened when there is a major fall in sea levels.
+
+At the times at which sea levels
+
+were low, this area is also one of high aridity, probably keeping a beachcombing human population close to the ancient shorelines, which are now well below sea-level,
+making the nding of early human fossils there very dicult.
+
+Figure 1.1: Migration routes out of Africa (
+
+Forster and Matsumura , 2005)
+
+1.3. Sudan
+
+17
+
+Genetic evidence suggests that humans departed Africa only once. The mtDNA
+M and N haplogroups are derived from haplogroup L3, and they both suggest a single exit from Africa. The distribution of the M158 Y chromosome haplotype of the
+"Eurasian Adam" indicates a similar history, dating the period between 30-79,000
+years ago. During the period in which it is thought (on genetic evidence) humans
+left Africa, between 55,000 and 85,000 years ago, paleoclimatological evidence suggests that a vast belt of desert stretched from the West African Atlantic border to
+the Eastern Siberian Pacic border. These deserts conned humans south of that
+line, and reduced the food returns to cultures based exclusively on grassland and
+woodland based hunter gatherer technologies. The M haplogroups seems to support
+the existence of this barrier. The fall in sea levels at the time opened up the second
+route out of Africa, and the growth of a beachcombing lifestyle, conrmed at the
+perched coastline shell-middens at Zuli Bay, allowed additional dietary supplements,
+in the form of hunting large game and with highly nutritious shellsh.
+Low glacial sea levels at this period would have been the rst time in millennia
+that permitted a dry crossing from the Gulf of Aden to the islands East of Java
+facing Australia.
+
+YAP
+
+Among Y-chromosomal haplogroups, the M130 and the M174
+
+gene haplogroups in particular support this hypothesis as their path follows a
+
+great arc along the shorelines of Saudi Arabia, India, South East Asia and Australia.
+This beachcomber society moved on through Southern China and Taiwan to Japan
+and Eastern Siberia. Approximately 8-10,000 years ago the M130 haplogroup was
+carried by Na-Dené speaking peoples into the North West Pacic coast of America
+
+Forster , 2004).
+
+(
+
+1.3 Sudan
+1.3.1 Geography
+Sudan is located in Northeastern Africa. It borders the Red Sea between Egypt on
+the North and Eritrea and Ethiopia on the Southeast; while Chad and the Central
+
+1.3. Sudan
+
+18
+
+African Republic are located on the West. The total area of the country is 2,505,813
+square kilometers. The length of Sudans borders is 7,687 kilometers. The bordering countries are the Central African Republic, Chad, Democratic Republic of the
+Congo, Egypt, Eritrea, Ethiopia, Kenya, Libya, and Uganda.
+The country in general is a broad, at plain, with low mountains in the Northeast
+(near the Red Sea coast), in the West, and on the Southeast.
+
+A group of low
+
+mountains in the south-central region are known as the Nuba Mountains. The Nile
+River divides the Eastern third from the Western two-thirds of the country. In the
+North, the Nubian Desert lies to the east of the Nile and the Libyan Desert to
+the West. The two areas are stony, virtually rainless, and dune-covered. South of
+the central area, vegetation gradually changes from dry grassland and woodland to
+verdant savannah.
+The Nile is the dominant geographic feature of Sudan, owing for approximately
+3,000 kilometers from Uganda in the South to Egypt in the North. Most of the country lies within the Nile's catchment basin. The Blue Nile originating in the Ethiopian
+higlands and the White Nile from the Central African lakes, join at Khartoum to
+form the Nile River proper that ows to Egypt. Other major tributaries of the Nile
+include Bahr al Ghazal, Sobat, and Atbarah rivers.
+There has been no comprehensive census in Sudan since 1983. The most recent
+survey occurred in 1993, which produced a population gure of 24.9 million, but
+it omitted the South because of insecurity. In 2003 the United Nations Population
+Division estimated Sudans population at 33.6 million, a gure similar to other estimates. According to the United Nations, the annual growth rate was 2.8 percent.
+The United Nations estimated the population density at 13.4 persons per square
+kilometer, which is a misleading measurement since half of the population lives on
+approximately 15 percent of the land, and the Northern third of the country is quite
+thinly populated. Estimates of urbanisation ranged from 31 percent to 37 percent,
+with the highest concentration in the greater Khartoum area. The capital, suered
+from a very rapid population expansion secondary to migratory factors rather than
+an increase in local birthrate.
+
+The years 1984-2006 showed massive inux of mi-
+
+grants from the Western and Southern parts of the country as a result of the civil
+
+1.3. Sudan
+
+19
+
+war and natural disasters (CIA wold fact book).
+
+1.3.2 History
+Northern Sudan was inhabited by hunter-gatherers by at least 60,000 years ago.
+With the advent of pastoralists, these people had given way to them and probably
+to agriculturalists at least by the fourth millennium B.C. Sudan's subsequent culture
+and history have largely revolved around relations to the South with tropical Africa,
+and to the North with Egypt, the Nile River forming a bridge through the Sahara
+Desert between the two. The Ancient Egyptians sent military expeditions into Nubia, and at times occupied it as well as Cush, the land between the second and sixth
+cataracts, inuencing the population of the North. From the early eighth century
+to the mid-seventh century B. C., the Cushites conquered and ruled Egypt. By the
+early sixth century B.C., the Cushitic state of Meroe had emerged and it eventually
+extended southward almost to present-day Khartoum. Meroe was in a good position
+for trade, as trade passing North to Egypt stopped there. The Meroites also had a
+route to and from the Red Sea, and, on the Red Sea, trade was increasing to and from
+India and East Asia. Meroe also maintained commercial relations with the Roman
+world, developed a distinctive culture and written language, and became the locale
+of an iron-working industry.
+
+It succumbed to invasion in the mid-fourth century
+
+A.D., their Conquerors being the neighboring Aksum kingdom, based in Ethiopia.
+By the sixth century, three states emerged as the political and cultural heirs of the
+Meroitic kingdom. They were all ruled by warrior aristocracies who converted to
+Christianity, accepting the Monophysite rite of Egypt. The use of Greek in liturgy
+was encouraged by the church and eventually gave way to the Nubian language. Arabic, however, gained importance after the seventh century, especially as a medium
+for commerce, after the expansion of the Muslim empire. With the disintegration of
+the Christian Nubian kingdoms by the fteenth century, Islamic culture and religion
+spread throughout Northern and Eastern Sudan. Pastoralists from Egypt advanced
+into the land, gradually giving rise to a new population composed of local Nubians
+
+Fadlalla , 2004).
+
+and Muslim Arabs (
+
+1.3. Sudan
+
+20
+
+1.3.3 Population genetics
+1.3.3.1
+
+Ethnic groups
+
+Ethnic identity is highly uid in Sudan and depends upon the criteria by which
+individual groups of Sudanese distinguish themselves from other groups. The largest
+and most commonly recognized ethnic groups are the Arabs, Nubians, Beja, and Fur
+(all Northerners and Muslims), and the Dinka, Nuer, Shilluk, and Nuba, all Nilotic
+peoples of the South. The Arabs and Dinka represent the largest groups within their
+respective regions. All of these ethnic groups are further subdivided into tribal or
+other units.
+
+In rough percentages, Sudans population is composed of 50 percent
+
+black Africans, 40 percent Arabs, 6 percent Beja, and 34 percent other.
+
+About
+
+570 tribes which have been grouped into 56 ethnic groups on the basis of linguistic,
+cultural and other ethnological characteristics currently exist (
+
+1.3.3.2
+
+Tvedt , 2004).
+
+Language groups
+
+More than 140 languages are spoken in the Sudan (Ethnologue). These languages
+relate to three of the four of Greenberg's African language families: i.e. the AfroAsiatic, the Niger-Kordofanian (Niger congo-a) and the Nilo-Saharan families (
+
+reiz , 1968).
+
+Hur-
+
+1.3. Sudan
+
+21
+
+Figure 1.2: Language families and their distribution in Africa (www.gmi.org)
+
+1.3.3.3
+
+Population genetics
+
+Not much work has been performed on the population genetics of the dierent
+Sudanese populations. Most of the work involved research on genetic blood markers,
+
+Saha et al., 1978; Tay and Saha ,
+
+such as typing of haemoglobin and serum proteins. (
+1988;
+
+Saha and el Seikh , 1987).
+
+The results of these works have identied dierences
+
+between the African groups and those that claim Semitic origin, although African
+
+1.4. Study rationale
+
+22
+
+markers, such as the sickle cell gene have also been identied in variable frequencies.
+Conicting results have also been shown, with characteristics of certain African
+tribes similar to some of Arab descent, and some of Arab descent similar to Africans
+
+Saha and el Seikh , 1987).
+
+(
+
+In a global MtDNA analysis (
+
+Salas et al.,
+
+tered along with others from East Africa.
+
+2002), the Sudanese groups clus-
+
+Underhill et al.
+
+who looked at the
+
+Y-chromosome of African individuals, have also placed Sudan along with Ethiopia
+on a group of their own.
+
+Again, no further subdivisions have been made within
+
+the examined Sudanese population, although groups representing all the language
+families have been examined (personal communication, P. Underhill).
+
+1.4 Study rationale
+The aim of this project is to characterise the genotypic and phenotypic diversity of
+the bacterium
+
+H. pylori
+
+groups in Sudan.
+
+amongst patients with gastric disease from dierent ethnic
+
+The project will build on existing work (
+
+Achtman et al.,
+
+1999;
+
+Falush et al., 2003a; Wirth et al., 2004) by using the same multilocus sequence typing
+(MLST) scheme. This will allow the bacteria from Sudan to be compared with a
+global collection, currently consisting of over 700 strains. This Sudanese project will
+in particular address the important question of diversity in Africa. Africa represents
+the birthplace of modern humans, and so unraveling the diversity of
+Africa might allow us to understand the origin of
+
+H. pylori,
+
+H. pylori within
+
+as well as allowing us
+
+to address questions specic to Sudan. Questions to be addressed include:
+(1) Do dierent Sudanese ethnic groups, as characterised anthropologically, harbour dierent populations of bacteria and if so, what does this tell us about the
+origin of particular Sudanese ethnic groups.
+(2) Ancestral H. pylori population AE2 (ancestral Europe2) population seems to
+have arisen in the Nile Valley area. Is this expectation conrmed by a large sample
+of bacteria?
+(3) A very divergent Africa2 population has been found in South Africa, although its ethnic origin is currently mysterious. Do similar divergent bacterial pop-
+
+1.4. Study rationale
+
+23
+
+ulations exist in North Africa, if so which ethnic groups are they associated with,
+and what does this tell us about the history of humans in Africa?
+
+Chapter 2
+Materials and Methods
+2.1 Gastric biopsies
+Gastric biopsy specimens were obtained from 200 consecutive patients undergoing
+diagnostic upper gastrointestinal endoscopy in four district hospitals in the Khartoum area during the period from 1-November-2004 until 1-August-2005. Ethical
+approval for the project was obtained from the Federal Ministry of Health, Sudan
+(23/Jul/2005), and informed consent was obtained from all subjects participating
+in the study. One endoscopic biopsy sample was obtained from the antral mucosa
+within a 5 cm radius of the pylorus. The samples were transported in aliquots containing 1.5 ml of brain heart infusion medium (Oxoid CM 225), yeast extract (Oxoid
+L21) and 20% glycerin in a cold box to the laboratory. Transport from the hospitals
+to the laboratory averaged 3 hours.
+
+2.2 Sheep gastric DNA samples
+DNA was extracted from the abomasum of 15 sheeps stomachs; obtained from the
+slaughter house of Khartoum North. Ethical approval (13/Aug/2006) was obtained
+from the research and ethics committee of Elrazi College of Medical and Health
+Sciences to work with the sheeps DNA. The DNA was extracted using a QIAamp
+DNA minikit following the tissue extraction protocol.
+
+o
+
+-20 C freezer following extraction.
+24
+
+Samples were stored in a
+
+2.3. Culture
+
+25
+
+2.3 Culture
+The biopsies were spread on Columbia blood agar plates (Oxoid CM0331), containing
+
+Helicobacter pylori
+
+selective supplement (Oxoid SR0147), and human blood,
+
+o
+
+and incubated at 37.5 C for 48-72 hours in a gas jar containing microaerophilic sachets (Biomerieux or Oxoid). Identication of the bacteria was made on the basis
+of both microscopic and biochemical properties, including gram stain, urease test
+and oxidase test. Single colonies were isolated and further propagated. From a well
+grown plate (not older than 3 days), bacteria were harvested from a half plate with
+a cotton swab and placed in the storage medium aliquots, appropriately labeled and
+
+o
+
+then transported to the -80 C freezer.
+From the remaining half plate, DNA was isolated using a QIAamp DNA minikit.
+The protocol that was used was the tissue extraction protocol. DNA was quantied
+by running on 1% agarose gel.
+
+2.4 PCR
+Polymerase chain reaction for the seven house keeping genes and the
+
+Cag
+
+pathogen-
+
+icity island was performed on a Biometra T3 thermal cycler (Biometra GMBH).
+Table (2.1) shows the concentrations and volumes of the PCR mix, and table (2.2)
+the used primers and their annealing temperatures and table (2.5) shows the cycling
+conditions used for the dierent PCR products.
+
+2.4. PCR
+
+26
+
+µ
+
+µ
+
+Table 2.1: Concentrations and volumes of PCR mix
+50 l Endvolume [ l]
+10 x PCR-Buer
+
+5
+
+µ
+µ
+
+dNTPs (GE-Healthcare)
+
+8
+
+Forwared Primer [20 pmol/ l]
+
+0.5
+
+Reverse Primer [20 pmol/ l]
+
+0.5
+
+HPLC-H2O
+
+30.75
+
+Taq DNA-Polymerase with Magnesium
+
+0.25
+
+DNA
+
+5
+
+Table 2.2: Primers / annealing temperatures
+
+O_Nr
+
+Primer
+
+Sequence
+
+Annealing-Temp.
+
+231
+
+atpA1964
+
+GGACTAGCGTTAAACGCACG
+
+57 C
+
+232
+
+atpA1965
+
+CTTGAAACCGACAAGCCCAC
+
+57 C
+
+233
+
+atpA4
+
+TGCCCGTCTGTAATAGAAATG
+
+55 C
+
+235
+
+atpA7
+
+CGCTTTGGGTGAGCCTATTG
+
+55 C
+
+286
+
+efpF01
+
+GGCAATTGGGATGAGCGAGCTC
+
+53 C
+
+287
+
+efpF02
+
+GGGCTTGAAAATTGAATTGGGCGG
+
+57 C
+
+288
+
+efpR01
+
+GTATTGACTTTAATGATCTCACCC
+
+57 C
+
+289
+
+efpR02
+
+CTTCACCTTTTCAAGATACTC
+
+53 C
+
+470
+
+mutY101
+
+AGCGAAGTGATGAGCCAACAAAC
+
+52 C
+
+471
+
+mutY102
+
+AAAGGGCAAATCGCACATTTGGG
+
+52 C
+
+472
+
+mutY1979
+
+GTGGTTGTAG(CT)TGGAAACTTTACAC
+
+53 C
+
+473
+
+mutY1980
+
+CAACGCCCAAGTAACGCTCTTC
+
+53 C
+
+483
+
+ppa1
+
+GTGAGCCATGACGCTGATTCTTTGT
+
+58 C
+
+485
+
+ppa2
+
+GCCTTGATAGGCTTTTATCGCTTTCT
+
+58 C
+
+490
+
+ppa7
+
+TTAGAAGTGAGCCATGACGC
+
+55 C
+
+4
+
+trpC1968
+
+AAAAGCATCGCCCTC(CT)AAAGGTT
+
+52 C
+
+5
+
+trpC1969
+
+GCGTCTTTAAT(AG)(AG)TTGTAAGCCCG
+
+52 C
+
+12
+
+trpC6
+
+TAGAATGCAAAAAAGCATCGCCCTC
+
+57 C
+
+13
+
+trpC7
+
+TAAGCCCGCACACTTTATTTTCGCC
+
+57 C
+
+25
+
+ureI-1
+
+TCAAGTATCGCACCATTTGAC
+
+55 C
+
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+
+2.4. PCR
+
+27
+
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+
+30
+
+ureI71AS1
+
+TCCCTTAGATTGCCAACTAAACGC
+
+55 C
+
+31
+
+ureI71S1
+
+CAATAAAGTGAGCTTGGCGCAACT
+
+55 C
+
+26
+
+ureiI-2
+
+GTTATTCGTAAGGTGCGTTTG
+
+55 C
+
+622
+
+ureI2356
+
+AGGTTATTCGTAAGGTGCG
+
+51 C
+
+623
+
+ureI3151
+
+GTTTAAATCCCTTAGATTGCC
+
+51 C
+
+43
+
+vacA1958
+
+CTGCTGTAGGAACGGTCTC
+
+53 C
+
+44
+
+vacA1959
+
+GCGTGGCGCCATCATAAAGAG
+
+53 C
+
+46
+
+vacA3
+
+ACAACCGTGATCATTCCAGC
+
+53 C
+
+47
+
+vacA4
+
+ATACGCTCCCACGTATTGC
+
+53 C
+
+55
+
+yphC1960
+
+CACGCCTATTTTTTTGACTAAAAAC
+
+55 C
+
+56
+
+yphC1961
+
+GCGTTTAAGAGCGARCTTTTGC
+
+55 C
+
+59
+
+yphCF1
+
+CACTATTACCACGCCTATTTTTTTGAC
+
+57 C
+
+2872
+
+Cag - Forward
+
+CCAAATACATTTTGGCTAAATAAAC
+
+49 C
+
+2874
+
+Cag - Reverse
+
+GGTTGCACGCATTTTCCCTT
+
+55 C
+
+2875
+
+Cag - Forward
+
+TCTCCATGTTGCCATTATGCT
+
+53 C
+
+2876
+
+Cag - Reverse
+
+GTGCCT(AG)CTAGTTTGTCAGCGA
+
+55 C
+
+Table 2.4: RAPD PCR primers
+
+AP1247
+AP1254
+AP1281
+AP1283
+
+°
+°
+°
+°
+
+Sequence
+
+Annealing temperature
+
+AAGAGCCCGT
+
+32 C
+
+CCGCAGCCAA
+
+34 C
+
+AACGCGCAAC
+
+32 C
+
+GCGATCCCCA
+
+34 C
+
+2.4. PCR
+
+28
+
+Table 2.6: 16S RNA PCR primers
+
+285
+261
+H276f
+H676r
+
+°
+°
+°
+°
+
+Sequence
+
+Anealing temp.
+
+GAGAGTTTGATCCTGGCTCAG
+
+62 C
+
+TGCGGCTGGATCACCTCCTTT
+
+62 C
+
+CTATGACGGGTATCCGGC
+
+62 C
+
+ATTCCACCACCTACCTCTCCCA
+
+62 C
+
+Table 2.5: Cycling conditions
+
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+°
+
+Time
+
+Temperature
+
+Initial denaturation step
+
+5 minutes
+
+94 C
+
+Denaturation step
+
+60 seconds
+
+94 C
+
+Annealing step
+
+60 seconds
+
+51 C
+
+Extending step
+
+180 seconds
+
+72 C
+
+Number of cycles
+
+30
+
+Denaturation step
+
+60 seconds
+
+94 C
+
+Annealing step
+
+60 seconds
+
+52 C
+72 C
+
+Extending step
+
+150 seconds
+
+Number of cycles
+
+30
+
+Denaturation step
+
+60 seconds
+
+94 C
+
+Annealing step
+
+60 seconds
+
+53 C
+
+Extending step
+
+5 minutes
+
+72 C
+
+Number of cycles
+
+30
+
+Denaturation step
+
+60 seconds
+
+94 C
+
+Annealing step
+
+60 seconds
+
+55 C
+
+Extending step
+
+2.5minutes
+
+72 C
+
+Number of cycles
+
+30
+
+Denaturation step
+
+60 seconds
+
+94 C
+
+Annealing step
+
+60 seconds
+
+57 C
+72 C
+
+Extending step
+
+60 seconds
+
+Number of cycles
+
+30
+
+Denaturation step
+
+60 seconds
+
+94 C
+
+Annealing step
+
+60 seconds
+
+58 C
+
+Extending step
+
+60 seconds
+
+72 C
+
+Final Extension Step
+
+10 minutes
+
+72 C
+
+Cooling and storage
+
+4 C
+
+2.5. Agarose Gel Electrophoresis for Amplicons
+
+29
+
+2.5 Agarose Gel Electrophoresis for Amplicons
+The PCR products were separated by electrophoresis (140V) on a 1.5% agarose gel
+stained with ethidium bromide.
+
+The 1kbp DNA ladder (Invitrogen) served as an
+
+indicator of the relative sizes of the amplicons.
+
+2.6 Purication of PCR product
+The QIAquick PCR Purication kit (Qiagen) was used to remove primers, enzymes,
+and unincorporated nucleotides to purify the PCR product.
+product was added to 250
+
+µ
+
+A total 45
+
+µ
+
+l PCR
+
+l Buer PB and were mixed in a QIAquick spin column
+
+then centrifuged for 10,000 g for 1 min. The ow-through was discarded, and 750
+
+µ
+
+l
+
+Buer PE was added to the QIAquick spin column and centrifuged for 10,000 g for
+1 min to wash. The ow-through was discarded again and centrifuged for 15,000 g
+for 2 min. Then QIAquick spin column was placed in a clean 1.5 ml microcentrifuge
+
+µ
+
+tube. 50 l Buer EB (10 mM Tris.Cl, PH 8.5) was added to the center of QIAquick
+membrane and the column was centrifuged 10,000 g for 1 min to elute the PCR
+product.
+
+2.7 DNA-sequencing
+Sanger et al.,
+
+DNA sequences were determined with the chain termination method (
+1977) using the BigDye
+tems). 10
+
+µ
+
+®
+
+Terminator v1.1 cycle sequencing kit (Applied Biosys-
+
+l end volume for the sequencing reaction has been constituted as shown
+
+on table (2.7).
+
+Table 2.7: Sequencing reaction volumes
+
+µ
+µ
+µ
+µ
+
+Volume
+Hplc H2 O
+
+7
+
+Primer
+
+1
+
+BigDye Terminator
+
+1
+
+Puried PCR Product
+
+1
+
+l
+l
+l
+l
+
+2.8. Data Analysis
+
+30
+
+Unincorporated dyes were subsequently removed from these sequencing reaction
+products using Multiscreen PCR plates (Millipore, Bedford, Mass.)
+
+packed with
+
+Sephadex G-50 (Amersham Biosciences), and processed according to the instructions. These puried sequencing reaction products were analyzed on an ABI 3130x
+DNA automated sequencer (Applied Biosystems).
+
+2.8 Data Analysis
+Data analysis was performed by the following software:
+a. Chromas V. 2.31 (Technelysium Pty Ltd, Australia), was used for viewing
+the sequences and selecting traces for further analysis and storage.
+b. Bionumerics V 4.50, (Applied Maths, Sint-Martens-Latem, Belgium)
+The sequences were uploaded into Bionumerics, and added to a global database.
+Using the functions of the program, the sequences were checked for consistency; and
+consensus trimming for the desired gene length was performed. Cluster analysis and
+sequence alignment were also perfomed using the provided model in Bionumerics.
+Exports were made from Bionumerics to all other necessary formats for analysis,
+such as Phylip, Mega, and Structure.
+
+Kumar et al., 2004),
+
+c. Mega V3.1 : Molecular Evolutionary Genetics Analysis (
+was used to infer the phylogenetic trees.
+d. DnaSP: V4.10.8 (
+
+Rozas et al., 2003) was used for the analysis of nucleotide
+
+polymorphism in the samples studied.
+e.Fastruct: (http://www-timc.imag.fr/Olivier.Francois/links.html) Used to identify structure in populations using an expectation maximisation model.
+f. Structure: (
+
+Falush et al., 2003a) A dataset was assembled by treating each
+
+of the 1404 polymorphic sites as a single locus. Map distances, used by the linkage model, were assumed to be proportional to the number of base pairs between
+sites, except for sites in dierent gene fragments which were treated as being unlinked.
+
+Each simulation consisted of running STRUCTURE V2.0 for 25,000 it-
+
+erations, following a burn-in period of 10,000 iterations.
+
+For all analysis we set
+
+2.8. Data Analysis
+
+31
+
+INFERLAMBDA=1, and FST=0, since this combination of options gives the most
+accurate estimates of the genetic distances within and between populations . In order to calculate the F values, we set INFERLAMBDA=0, LAMBDA=1 and FST=1,
+thus invoking the correlated allele frequency model without changing the inferred
+subpopulations that are found. Credibility regions were calculated from the F values
+estimated throughout the simulation.
+g.
+
+Start V1.2: (mlst
+
+Homoplasy test.
+
+www.mlst.net)
+
+This program was used to perform the
+
+Chapter 3
+Results
+3.1 Culture of Helicobacter pylori strains from Sudan
+One hundred and twenty biopsies were collected between November 2004 and August
+2005; 36 of which were culture positive. Further eighty biopsies were collected during January 2006 and March 2006. The latter collection was cultured in Hannover
+Medical school and 33 biopsies were culture positive. The samples were representative of all language groups and patients represented various geographic regions in
+Sudan.
+Isolate
+
+Language
+
+State of residence
+
+Tribe
+
+State of birth
+
+1
+
+su2
+
+Arabic
+
+2
+
+su5
+
+dinka
+
+3
+
+SUDC1.1a
+
+Arabic
+
+Northern
+
+Jaali
+
+Khartoum
+
+4
+
+SUDC1.2b
+
+Arabic
+
+Northern
+
+Jaali
+
+Khartoum
+
+5
+
+SUDC13.1
+
+Arabic
+
+DarFur
+
+Shorafa
+
+DarFur
+
+7
+
+SUDC14.1
+
+Nuba
+
+Northern
+
+Nuba
+
+Northern
+
+8
+
+SUDC15.1
+
+Tunjur
+
+DarFur
+
+Tunjur
+
+DarFur
+
+9
+
+SUDC16.3
+
+Arabic
+
+Kordofan
+
+Messeria
+
+Kordofan
+
+10
+
+SUDC17.1
+
+Arabic
+
+Kordofan
+
+Hawazmaa
+
+Kordofan
+
+11
+
+SUDC18.1
+
+Arabic
+
+Northern
+
+Shaigi
+
+Northern
+
+32
+
+3.1. Culture of Helicobacter pylori strains from Sudan
+
+33
+
+Isolate
+
+Language
+
+State of residence
+
+Tribe
+
+State of birth
+
+12
+
+SUDC19.1
+
+Arabic
+
+Northern
+
+Jaali
+
+Northern
+
+13
+
+SUDC1a
+
+Arabic
+
+Northern
+
+Jaali
+
+Khartoum
+
+14
+
+SUDC2.2
+
+Arabic
+
+Kordofan
+
+Jawama
+
+Kordofan
+
+15
+
+SUDC5.1
+
+Arabic
+
+Kordofan
+
+Kenana
+
+Kordofan
+
+16
+
+SUDC6
+
+Arabic
+
+Kordofan
+
+Messeria
+
+Kordofan
+
+17
+
+SUDC7.2
+
+Tunjur
+
+DarFur
+
+Tunjur
+
+DarFur
+
+18
+
+SUDC8.1
+
+Arabic
+
+Kordofan
+
+Hamar
+
+Kordofan
+
+19
+
+SUDC9.1
+
+Arabic
+
+DarFur
+
+Benihelba
+
+DarFur
+
+20
+
+SUDI1
+
+Arabic
+
+Northern
+
+Shaigi
+
+Northern
+
+21
+
+SUDI14
+
+Arabic
+
+Jezira
+
+Jaali
+
+Jezira
+
+22
+
+SUDI2
+
+Arabic
+
+Jezira
+
+Mogharba
+
+Jezira
+
+23
+
+SUDI20
+
+Arabic
+
+Khartoum
+
+Jaali
+
+Khartoum
+
+24
+
+SUDI22
+
+Arabic
+
+Rabak
+
+Shokriya
+
+Whitenile
+
+25
+
+SUDI26
+
+Arabic
+
+Central
+
+Kenana
+
+Sinnar
+
+26
+
+SUDJ1.1a
+
+Arabic
+
+Central
+
+Slaiman
+
+Whitenile
+
+27
+
+SUDJ1.1b
+
+Arabic
+
+Central
+
+Slaiman
+
+Whitenile
+
+29
+
+SUDj2.1a
+
+Arabic
+
+Khartoum
+
+Halaween
+
+Whitenile
+
+30
+
+SUDJ3.1a
+
+Nuba
+
+Kordofan
+
+Daju
+
+Khartoum
+
+31
+
+SUDK201
+
+Arabic
+
+DarFur
+
+Banimansour
+
+DarFur
+
+32
+
+SUDM31.1
+
+unknown
+
+33
+
+SUDS12
+
+Arabic
+
+Jezira
+
+Jaali
+
+Jezira
+
+34
+
+SUDS13
+
+Arabic
+
+Northern
+
+Jaali
+
+Khartoum
+
+35
+
+SUDS18
+
+Arabic
+
+Kordofan
+
+Kabbabish
+
+Kordofan
+
+36
+
+SUDS24
+
+Arabic
+
+Northern
+
+Shaigi
+
+Northen
+
+37
+
+SUDS26
+
+Arabic
+
+Central
+
+Kenana
+
+Sinnar
+
+38
+
+SUDS3
+
+Mahas
+
+Northern
+
+Mahasi
+
+Khartoum
+
+39
+
+SUDS30
+
+Arabic
+
+Jezira
+
+Dabassi
+
+Jezira
+
+40
+
+SUDS4.1
+
+Tigris
+
+RedSea
+
+Baniamir
+
+RedSea
+
+41
+
+SUDS72
+
+Arabic
+
+Northern
+
+Shaigi
+
+Northern
+
+3.1. Culture of Helicobacter pylori strains from Sudan
+
+34
+
+Isolate
+
+Language
+
+State of residence
+
+Tribe
+
+State of birth
+
+42
+
+SUDS73
+
+Arabic
+
+Norhthern
+
+Shaigi
+
+Khartoum
+
+43
+
+SUDS74
+
+Fur
+
+DarFur
+
+Fur
+
+DarFur
+
+44
+
+SUDS75
+
+Fur
+
+DarFur
+
+Fur
+
+DarFur
+
+45
+
+SUDS8
+
+Arabic
+
+Jezira
+
+kawahla
+
+Jezira
+
+46
+
+SUDSO11.1
+
+Nuba
+
+Rank
+
+Nuba
+
+Upper Nile
+
+47
+
+SUDSO11.2
+
+Nuba
+
+Rank
+
+Nuba
+
+Upper Nile
+
+48
+
+SUDSO13.1
+
+Arabic
+
+Northern
+
+Jaali
+
+Northern
+
+49
+
+SUDSO16.1
+
+Arabic
+
+East
+
+Shokriya
+
+Northern
+
+50
+
+SUDSO21.1
+
+Arabic
+
+Jezira
+
+Bediri
+
+Jezira
+
+51
+
+SUDSO32.1
+
+Arabic
+
+Kordofan
+
+Mahmodi
+
+Kordofan
+
+52
+
+SUDSO35.1
+
+Arabic
+
+Khartoum
+
+Rokabia
+
+Khartoum
+
+53
+
+SUDSO36.1
+
+Arabic
+
+Kordofan
+
+Silahb
+
+Kordofan
+
+54
+
+SUDSO38.1
+
+Arabic
+
+Jezira
+
+Rofai
+
+Jezira
+
+55
+
+SUDSO38.2
+
+Arabic
+
+Jezira
+
+Rofai
+
+Jezira
+
+56
+
+SUDSO4.1
+
+Nuba
+
+Kordofan
+
+Nuba
+
+Kordofan
+
+57
+
+SUDSO4.2
+
+Nuba
+
+Kordofan
+
+Nuba
+
+Kordofan
+
+58
+
+SUDSO41.1
+
+Arabic
+
+Kordofan
+
+Benihelba
+
+Kordofan
+
+59
+
+SUDSO42
+
+Arabic
+
+Abba
+
+Hawari
+
+White Nile
+
+60
+
+SUDSO42.1
+
+Arabic
+
+Abba
+
+Hawari
+
+White Nile
+
+61
+
+SUDSO43.1x
+
+Arabic
+
+Kordofan
+
+Kawahla
+
+Kordofan
+
+62
+
+SUDSO48.1
+
+Mahas
+
+Northern
+
+Mahasi
+
+Northern
+
+63
+
+SUDSO49.1
+
+Halfawi (Nubian)
+
+Halfa
+
+Halfawi
+
+Northern
+
+64
+
+SUDSO50.1
+
+Dinka
+
+Yirol
+
+Dinka
+
+Equatorial
+
+65
+
+SUDSO56.1
+
+Dongola
+
+Northern
+
+Dongola
+
+Northern
+
+66
+
+SUDSO57.2
+
+Arabic
+
+Northern
+
+Jaali
+
+Northern
+
+67
+
+SUDSO60.1
+
+Arabic
+
+DarFur
+
+maladi
+
+DarFur
+
+68
+
+SUDYL1.6
+
+Arabic
+
+Khartoum
+
+Jaali
+
+Northern
+
+69
+
+SUDYL1.7
+
+Arabic
+
+Khartoum
+
+Jaali
+
+Northern
+
+70
+
+SUDYL2.1
+
+Arabic
+
+Khartoum
+
+Jaali
+
+Northern
+
+3.1. Culture of Helicobacter pylori strains from Sudan
+
+71
+
+35
+
+Isolate
+
+Language
+
+State of residence
+
+Tribe
+
+State of birth
+
+SUDYL2.2
+
+Arabic
+
+Khartoum
+
+Jaali
+
+Northern
+
+Table 3.2: Isolates: Cultured isolates and geographic representation.
+cultured from 58 individuals.
+
+71 Isolates
+
+The points following the number indicate that the
+
+isolate is from the same individual eg SUDSO4.1 and SUDSO4.2 indicate that two
+dierent biopsies from the same patient were culture positive.
+
+3.1. Culture of Helicobacter pylori strains from Sudan
+
+36
+
+Figure 3.1: Distribution of isolates within Sudan
+
+Due to the ongoing war in Sudan, tertiary hospital care is only available in
+the capital, and there is only one other town where upper gastrointestinal (GI)
+endoscopies are carried out. Patients from all around the country are usually referred
+
+3.1. Culture of Helicobacter pylori strains from Sudan
+
+37
+
+to one of three gastrointestinal centers in Sudan. Due to the fact that most gastritis
+patients suer only mild disease, the majority of patients presenting to the GI centers
+are referred for upper GI bleeding. Only a third of patients are for OGD for gastritis.
+The reported incidence of
+
+H. pylori
+
+in Sudan was 80% (
+
+Azim Mirghani et al.,
+
+1994), and the culture recovery rate from biopsies has been reported between 50 and
+70% in experienced labs (
+
+Loeld et al., 1991; Grove et al., 1998).
+
+incidence we were able to isolate
+
+Helicobacter pylori
+
+Despite this high
+
+from 33% of collected biopsies.
+
+Several possible explanations have been proposed for the low isolation rate.
+Increase of antibiotic intake by patients is the most likely explanation, as most
+patients who arrive to tertiary hospitals where endoscopic diagnosis is available,
+would have already consumed a variety of antibiotics, as restrictions on medications are minimal and most antibiotics are sold over the counter, regardless of their
+potency.
+Transport conditions could have also aected the recovery rate, as sample transport time from hospital to laboratory averaged 3 hours, although the samples were
+
+o
+
+transported in the recommended media, the high temperatures (reaching 45 C)
+could have reduced the isolation rate.
+The samples that were isolated represented the 3 language families available
+in Sudan and various geographic areas (i.e. NiloSaharan, Afro Asiatic and NigerCongo).
+
+3.1.1 Identical isolates from dierent patients
+Six strains isolated from dierent patients were found to be identical to others in
+the data set.
+isolates.
+
+The identical strains were divided into 2 groups, each containing 3
+
+Two of the previously available isolates obtained from Sudan were also
+
+identical. The strains were an exact match to each other, and were not dierent in
+any of the sequenced genes.
+
+3.1. Culture of Helicobacter pylori strains from Sudan
+
+38
+
+Table 3.3: Identical Strains
+Group I
+Group II
+Group III
+SUDI1
+
+SUDI26
+
+SU1
+
+SUDS13
+
+SUDS26
+
+SU2
+
+SUDS24
+
+SUDYL1.6
+
+3.1.2 Multiple strains from same patient
+Eight patients volunteered more than one biopsy for the study. Multiple isolates were
+obtained from the dierent biopsies. RAPD PCR (g 3.2) was performed for these
+multiple isolates to identify dierences. The multiple isolates were also sequenced
+and sequences of seven of them were dierent in at least one sequenced gene, and
+one patient carried two identical strains. The eight paired biopsies showed closely
+related strains, as large portions of the sequences were identical in each pair. Three
+of the paired isolates contained only single nucleotide polymorphisms (SNPs). This
+could reect mutations or short imports. Three pairs of isolates diered by multiple
+nucleotide exchanges at one or two of the gene fragments and are likely to reect import of sequences from other bacteria during mixed colonization. One other pair had
+related isolates, but so many loci were polymorphic that some polymorphic stretches
+may reect more than one import. And one pair of isolates was identical. A diagram
+of the polymorphic sites and their locations in the collection of concatenated genes
+was created using Happlot (g3.3).
+
+The results of the polymorphic sites between
+
+Falush et al.,
+
+paired isolates was similar to that in previous studies (
+
+2001). They
+
+found that the majority of their paired isolates contained no sequence dierences
+(13), while three pairs of isolates contained only single nucleotide polymorphisms
+(SNPs) that might reect mutations or short imports and six pairs of isolates differed by multiple nucleotide exchanges at one or two of the gene fragments and are
+likely to reect import of sequences from other bacteria during mixed colonization.
+
+Sequences were obtained from fragments of seven housekeeping genes scattered
+around the chromosome and analyzed for 529 strains in addition to the 69 strains
+
+3.1. Culture of Helicobacter pylori strains from Sudan
+
+Figure 3.2: RAPD PCR
+
+Table 3.4: Paired isolates and dierences in genes
+Isolate 1
+
+Isolate 2
+
+Genes that are dierent
+
+SUDSO42
+
+SUDSO42.1
+
+ppa, trpC, ureI, yphC
+
+SUDSO38.1
+
+SUDSO38.2
+
+yphC
+
+SUDSO4.1
+
+SUDSO4.2
+
+efp, trpC, yphC
+
+SUDYL1.6
+
+SUDYL 1.7
+
+trpC
+
+SUDJ1.1a
+
+SUDJ1.1b
+
+yphC
+
+SUDSO11.1
+
+SUDSO11.2
+
+ppa, yphC
+
+SUDC1.1a
+
+SUDC1.2b
+
+atpA, efp, mutY,ppa, trpC, yphC
+
+SUDJ3.1
+
+SUDJ3.1a
+
+No dierence
+
+39
+
+positions of sequence polymorphisms.
+
+Figure 3.3: Happlot of concatenated gene showing polymorphic sites in paired isolates. Vertical lines within the boxes indicate the
+
+3.1. Culture of Helicobacter pylori strains from Sudan
+40
+
+3.1. Culture of Helicobacter pylori strains from Sudan
+
+41
+
+from Sudan. After aligning the sequences, none of them contained gaps or insertions.
+The GC content range for the seven genes analyzed in the Sudanese strains was
+similar to that previously reported; ranging from 39%-46%.
+Substitutions which lead to amino acid replacements are termed nonsynonymous
+while substitutions that do not cause an amino acid replacement (such as a GGG to
+GGC change, as both codons still encode glycine) are termed synonymous substitutions. Synonymous and nonsynonymous substitutions can result in dierent eects
+on the physiology of the organism, and hence can have very dierent dynamics.
+Using the program DnaSP we calculated the average number of nucleotide dif-
+
+Saitou and Nei ,
+
+ferences per site between the sequences, Pi (
+
+1987), the nucleotide
+
+diversity using the Jukes and Cantor correction, and the average number of nucleotide dierences, K (
+
+Tajima , 1983).
+
+Nonsynonymous sequence variation (Ka) was uncommon in our data set, Ka
+for the concatenated genes was 0.63%.
+
+All the Sudanese sequences showed high
+
+levels of synonymous sequence variation (Ks) with a mean percentage Ks value for
+the concatenate genes of 10.2%, and the ratio of synonymous to nonsynonymous
+polymorphisms was 16.4. This was in agreement with previous reports, indicating
+that the mutation rate in the Sudanese strains is similar to those previously reported
+
+Achtman et al., 1999).
+
+(
+
+The sets of sequences were also tested by the homoplasy test. This test analyses the apparent homoplasies among informative, synonymous polymorphic sites.
+When the same site changes twice in the ancestry of a set of sequences homoplasies
+occur. The frequency of apparent homoplasies, as measured by the homoplasy ratio,
+
+Maynard Smith and Smith ,
+
+indicates the frequency of recombination (
+
+1998). The
+
+homoplasy ratio varies between 0, indicating completely clonal descent by the accumulation of mutations and 1, indicating free recombination where all sequence
+polymorphisms are found repeatedly in independent sequences that are in dierent branches of a maximal parsimony tree (apparent homoplasies). The homoplasy
+ratio (H) for the seven sequenced housekeeping genes ranged from 0.53 to 0.75 (geometric Mean 0.59), indicating free recombination (table:3.5). These ndings were
+slightly lower than those previously reported (
+
+Achtman et al., 1999), which could be
+
+atpA
+efp
+mutY
+ppa
+trpC
+ureI
+yphC
+
+Concatenate
+
+0.08896
+
+0.11442
+
+0.0998
+
+0.08793
+
+0.15238
+
+0.0356
+
+0.11301
+
+45.5
+
+39.9
+
+40.7
+
+39.2
+
+43.8
+
+38.4
+
+0.09551
+
+Pi(s):
+
+45.9
+
+%GC
+
+0.00886
+
+0.00117
+
+0.01976
+
+0.004
+
+0.01004
+
+0.0027
+
+0.00148
+
+0.00622
+
+Pi(a):
+
+0.00893
+
+0.00118
+
+0.02008
+
+0.00402
+
+0.01012
+
+0.0027
+
+0.00148
+
+0.00624
+
+Pi(a), Jukes & Cantor
+
+Table 3.5: Properties of gene fragments sequenced
+
+0.12363
+
+0.03678
+
+0.17277
+
+0.0942
+
+0.10832
+
+0.12516
+
+0.09531
+
+0.10236
+
+Pi(s), Jukes & Cantor
+
+13.8443449
+
+31.1694915
+
+8.60408367
+
+23.4328358
+
+10.7035573
+
+46.3555556
+
+64.3986486
+
+16.4038462
+
+ks/ka
+
+0.535
+
+0.774
+
+0.563
+
+0.618
+
+0.533
+
+0.605
+
+0.542
+
+H. Ratio
+
+3.1. Culture of Helicobacter pylori strains from Sudan
+42
+
+3.1. Culture of Helicobacter pylori strains from Sudan
+
+43
+
+explained by the larger sample size for the current analysis.
+The similarity in nucleotide diversity in Sudan to that found elsewhere, and the
+fact that the mutation rate was not exceptional indicates the presence of a bacterial
+population and not just a clone.
+
+3.2. Phylogenetic Analysis
+
+44
+
+3.2 Phylogenetic Analysis
+A phylogenetic analysis was performed using the concatenate of the 7 housekeeping
+genes (1312 bp) for 598
+ulations.
+
+H. pylori
+
+isolates representing the dierent human pop-
+
+Geographic clustering was evident, with 4 distinct branches of African
+
+groups, one branch including the European strains and one branch which further
+divides into three subbranches including the Asian strains (Fig: 3.4).
+
+3.2. Phylogenetic Analysis
+
+Figure 3.4: Neighbour-joining tree (Kimura 2-parameter) of 598
+
+45
+
+H. pylori
+
+haplo-
+
+types color-coded according to population assignment by STRUCTURE into the
+populations hpEurope, hpAsia2, hpSudan, hpNEAfrica, hpAfrica2, hpAfrica1 and
+hpEastAsia (subpopulations hspMaori, hspEAsia). 71 isolates are from Sudan. (69
+isolates newly sequenced)
+
+3.2. Phylogenetic Analysis
+
+46
+
+3.2.1 Structure Analysis
+The number of bacterial populations, K, was determined using the program STRUCTURE 2.0 under the "no admixture" model by comparing posterior probabilities of
+multiple STRUCTURE runs for multiple runs where 2 < K < 15 and examining
+the isolates that were assigned to each population. In each run, a Markov Chain
+Monte Carlo (MCMC) simulation of 25,000 iterations approximated the posterior
+probability of K, following a burn-in of 10,000 iterations. The posterior probability
+of K was highest between 4 < K < 10; but strain assignment for K > 6 either split
+existing populations inconsistently or produced hypothetical populations to which
+no isolates were assigned. Analysis using another clustering algorithm model (expectation maximization), implemented in fastruct, also partitioned the total data into
+ve populations. Within the 5 ancestral populations determined by STRUCTURE,
+the Sudanese strains clustered along with the Ethiopian strains, the Nigerian strains,
+and the European strains.
+The linkage model of STRUCTURE incorporates linkage disequilibrium due to
+correlations in ancestry between loci that reect admixture between populations
+
+Falush et al., 2003a).
+
+(
+
+The linkage model is a more accurate model of the data than
+
+the no-admixture model, giving a higher model probability for K=5 populations
+with the global data set (however, because it is nucleotide based, it does not assign
+individual isolates to populations). We chose K=5 for analysis involving the linkage
+model because this number of populations yielded highly reproducible runs with this
+model.
+Matrices of pairwise FST (a measure of genetic dierentiation between populations) between paired groups of samples from similar geographic locations were
+strongly correlated (Mantel regression coecient = 0.86, P<0.001) between microsatellite data and
+
+H. pylori
+
+sequences; with more than 70% of human variation
+
+explained by a linear relationship with microbial variation.
+
+Therefore, the geo-
+
+graphic component of genetic diversity seems to be quantitatively comparable between
+
+H. pylori
+
+and humans, except that FST is considerably higher in H. pylori
+
+Linz et al., 2007).
+
+(
+
+The ancestry of the Sudanese strains showed a very high proportion of ancestral
+
+3.2. Phylogenetic Analysis
+
+47
+
+Europe 2 (AE2) in all strains. In addition, some strains, mostly those isolated from
+western Sudan had a relatively higher proportion of ancestral Africa 1 than others
+isolated in dierent parts of the country. Ancestral Europe 1, ancestral East Asia
+and ancestral Africa 2 were virtually absent in almost all strains.
+
+These results
+
+indicate a very homogeneous population lacking diversity in ancestry, despite the
+dierences in ethnic and linguistic origins of the subjects from whom the strains
+were obtained.
+
+H. pylori
+
+strains isolated in Sudan belong to a single population. The attempts
+
+to further divide this cluster into subpopulations failed. Upon modeling of two to
+four subpopulations, the isolates repeatedly formed the same groups (in the case
+of four subpopulations, one of them did not contain any strains).
+subdivision did not show any geographical or ethnic trends.
+
+However, this
+
+Figure 3.5: Distruct gure: graphic plot of the proportions of ancestral nucleotides in 598
+
+H. pylori isolates as determined by Structure
+
+coloured segments.
+
+V2.0 (linkage model). A thin line for each isolate indicates the estimated amount of ancestry from each ancestral population as ve
+
+3.2. Phylogenetic Analysis
+48
+
+Figure 3.6: Average ancestral composition of Sudanese strains
+
+3.2. Phylogenetic Analysis
+49
+
+3.2. Phylogenetic Analysis
+
+50
+
+Figure 3.7: Africa map, showing average ancestral composition of groups in and
+around Africa
+
+3.3. Helicobacter species in Sheep
+
+51
+
+3.3 Helicobacter species in Sheep
+The primers used for the 16S rRNA PCR assay, H276f and H676r were designed
+to target the regions conserved in
+
+Helicobacter
+
+species (
+
+Riley et al., 1996), but not
+
+shared by other bacteria. Using DNA extracted from sheeps stomach, none of the
+DNA samples from 15 isolates gave a positive amplication results by the rst step
+PCR. Highly conserved areas of the 16S rRNA gene were identied, and two sets of
+universal primers were used to amplify fragments of 1,556 bp. The universal primers
+had a broad specicity for a range of eubacteria.
+
+The paired universal primers
+
+were successful to generate the target fragments from 12 samples. A nested PCR
+was performed using primers H276f and H676r.
+
+Nine of the twelve tested probes
+
+yielded the target amplicon of 374 bp. BLAST of the sequenced products identied
+sequences similar to
+
+Helicobacter canis, Helicobacter pylori, and uncultured bacteria
+
+from rumen stomachs. The
+the database. The
+
+Helicobacter canis
+
+Helicobacter pylori
+
+sequence was not identical to any in
+
+16S rRNA sequence was identical to strain
+
+26695.
+
+Helicobacter pylori
+
+Dore et al., 2001).
+
+has been isolated previously from sheep (
+
+However, other groups of agellated bacteria have also been identied.
+Ohkuma et al. (
+
+Recently,
+
+Ohkuma et al., 2007) have identied a group of bacteria, normally
+
+abundant in the guts of termites, are also present in the stomachs of rumen.
+Sheep are believed to have been domesticated initially at the Levant about 80009000 years ago. They have been imported into Africa with a back-ow of human
+migration that followed (
+
+Harris , 1996), and have ever since been accompanying local
+
+populations. Their close proximity to humans has allowed them to become vectors
+of transmission of several parasites and bacteria.
+
+3.3. Helicobacter species in Sheep
+
+Figure 3.8: Tree produced using BLAST pairwise alignments
+
+52
+
+Chapter 4
+Discussion
+Recently, nonrecombining genetic loci, mtDNA, and the Y chromosome were used
+to clarify the population history of our species. These studies, along with classical
+studies of nuclear genes, supported the recent theory of an African origin of modern
+
+Cavalli-Sforza and Feldman , 2003).
+
+humans (
+
+It is thought that two haplogroups (L0
+
+and L1) of human mtDNA and two (A and B) of the human Y chromosome represent
+the ancestral human lineages, based on phylogenetic trees relating various worldwide
+haplogroups (
+
+Cavalli-Sforza and Feldman , 2003; Forster , 2004) (note that the forMishmar et al., 2003)).
+
+mer paraphyletic L1 group split into haplogroups L0 and L1; (
+
+The L0 and L1 haplogroups occur mainly in African hunter-gatherers (
+
+Watson et al.,
+
+1997). Haplogroup A is frequent in eastern and southern Africa, while haplogroup
+B is spread throughout sub-Saharan Africa (
+
+Hammer et al., 2001).
+
+These ancestral
+
+haplogroups of mtDNA and the Y chromosome are now a minority, and instead the
+L2 and L3 haplogroups of mtDNA and the E haplogroup of the Y chromosome are
+
+Watson et al., 1997; Salas et al., 2002).
+
+most prevalent in Africa (
+
+These major hap-
+
+logroups are thought to represent the African re-expansion about 60,000-80,000 years
+
+Forster ,
+
+ago, leading to the rst successful modern human migration out of Africa (
+2004).
+
+Language is a useful basis for classication of African peoples.
+
+The ma-
+
+jor linguistic families of Africa are Afroasiatic, Niger-Kordofanian (including NigerCongo), Nilo-Saharan, and Khoisan (
+
+Greenberg ,
+
+1966).
+
+Niger-Kordofanian, Nilo-
+
+Saharan, and Khoisan are spoken exclusively in Africa, while Afroasiatic languages
+are also spoken in the Middle East. Languages of the Khoisan family are spoken
+53
+
+Chapter 4. Discussion
+
+54
+
+by hunter-gatherers in southwestern most parts of the continent. The present-day
+distribution of African languages would have been associated, at least partly, with
+human dispersals within Africa.
+Population genetic studies of the Sudan, using blood genetic markers, have shown
+that the population comprises a broad spectrum of groups, ranging from endoge-
+
+Saha et al., 1978; Saha
+
+nous African groups to those of apparent semitic ancestry (
+
+and el Seikh ,
+
+1987).
+
+MtDNA has shown that the Sudanese populations exhibit
+
+a more African ancestry in the maternal lineage (
+
+Krings et al.,
+
+1999) and the Y-
+
+chromosome has shown presence of haplogroups present only in Africans as well as
+
+Underhill et al., 2000).
+
+others that carry alleles which are present in non-Africans (
+
+Human dispersals in Africa can also be studied based on the
+
+H. pylori
+
+geno-
+
+type, a novel marker with which to trace human migration. The genetic diversity
+and the suitability of
+
+H. pylori
+
+as a marker for dierent populations and human
+
+Achtman et al., 1999; Falush et al., 2003b;
+
+migration has been extensively studied (
+
+Wirth et al.,
+
+2004;
+
+Devi et al.,
+
+2006).
+
+H. pylori
+
+was shown to have a panmictic
+
+population structure, and clones are rare or absent (
+
+et al.,
+
+Achtman et al., 1999; Suerbaum
+
+1998). Previous population genetic studies have shown the existence of an-
+
+cestral population types or strains that are consistent with geographic regions. The
+presence of strains specic to geographic locales, each with an ancestral origin that
+can be geographically determined, provides an independent marker from that of Ychromosome, microsatellite or mitochondrial DNA studies, for deciphering human
+history.
+
+Comparisons of these markers show that DNA sequences from
+
+H. pylori
+
+provide greater resolution, for example, in the separation of close population groups
+of Muslims and Budhists in Ladakh. We have attempted to utilise this for the study
+of the very interesting and diverse population of Sudan.
+The population of the Sudan comprises many endogenous tribes, about 572 different tribes speaking over one hundred languages. 40% of the population of thirty
+four million (2001 census) claim membership of Arabic groups. About 50% of the
+population speak Arabic, 23 % Nilotic and Nilo-Hamitic languages and 11% Sudanic
+and Darfurian languages. Archaeological evidence suggests that the Sudan has been
+the home of man throughout pre-historic and historic times.
+
+The Sudan has an
+
+Chapter 4. Discussion
+
+55
+
+old civilization - the Merites in 300 B.C. already had their own system of writing.
+Christianity introduced in 540 A.D. has also played a great role in cultural and social
+life of the Sudanese. Muslim penetration started in the 14th century A.D. followed
+by occupation by Turkish and Egyptian forces in the early 19th century. In spite of
+these external inuences, the people of the Sudan retained their own tribal practices,
+languages, endogamy and consanguinity; and hence diversity in
+
+Helicobacter pylori
+
+was expected.
+We used an expanded data set (598
+
+H. pylori
+
+isolates) to test whether patterns
+
+in their distribution mimic those of the local populations. The same ve ancestral
+sources of nucleotides as found previously with a smaller data set (
+
+Falush et al.,
+
+2003b) have been identied using Bayesian MCMC (Monte-Carlo Markov chain)
+cluster analysis. These analyses also assigned the isolates to ve populations containing various degrees of ancestry from the ve ancestral sources.
+
+Four of the
+
+populations had been previously identied, and designated hpEurope, hpEastAsia, hpAfrica1 and hpAfrica2 owing to their obvious geographical associations. In
+agreement, almost all strains isolated from Europeans belong to hpEurope, and
+most isolates from east Asia belong to hpEastAsia. The results also conrmed that
+hpAfrica2, previously represented by only few isolates, is common in South Africa.
+A new population was identied and designated hpNEAfrica. hpNEAfrica was predominant among isolates from Sudan, Ethiopia, Somalia, and Nilo-Saharan speakers
+in northern Nigeria.
+These ndings are in agreement with a recent study by Linz et. al., who identied
+six populations, using a data set of 769
+
+H. pylori
+
+isolates. In addition to identifying
+
+the hpNEAfrica group, they have also identied another population, hpAsia2 which
+were isolated in northern India, Bangladesh, Thailand and the Philipines.
+
+As in
+
+humans, they observed a continuous loss of genetic diversity with increasing geographic distance from east Africa, supporting the recent out of Africa origin model.
+Their simulations have predicted that
+
+H. pylori
+
+has spread from east Africa over
+
+Linz et al., 2007).
+
+the same time scale as anatomically modern humans (
+Our ndings have indicated a lack of diversity in
+
+Helicobacter pylori
+
+strains iso-
+
+lated from dierent ethnic groups in Sudan. The fact that nucleotide diversity in
+
+Chapter 4. Discussion
+
+56
+
+Sudan is comparable with that found elsewhere shows that (as well as the mutation rate not being exceptional) that there is a population of bacteria present and
+not just a clone.
+
+The isolates indicated a common ancestral origin for all of the
+
+studied groups. The previously described human diversity was not apparent in the
+
+H. pylori
+
+isolates studied.
+
+The closest isolates to the Sudanese were found to be
+
+from Ethiopian isolates. The geographic distance between both groups is very close.
+Despite this, we were able to dierentiate between both groups, as each group has
+clustered seperately. Of the 71 sequenced isolates, we were unable to dierentiate
+between the ethnic groups; despite distinct phenotypic and linguistic dierences. In
+an attempt to explain these ndings, we suggest the following.
+
+Matrilocality and a male driven migration pattern
+into Sudan
+The majority of migrants into Sudan have been soldiers or merchants, occupations
+mainly of males.
+
+Those who have settled intermarried with local groups.
+
+The
+
+largest and most eminent migrant group has been that of the Arabs, whose most
+signicant exodus was in 614 A.D. The inheritance modality in the region at the
+time was matrilenial, and migrant Arabs have gained positions of power by marriage
+with the local tribes. Arabic later followed to become the language of the elite and
+progressed to become the lingua franca. As ethnic identication follows a patrilineal
+pattern, the tribes described themselves as being of Arab origin.
+hand,
+
+Helicobacter pylori
+
+et al.,
+
+2003;
+
+On the other
+
+is transmitted vertically, in most cases maternally, (
+
+Weyermann et al.,
+
+2006).
+
+As
+
+Helicobacter pylori
+
+maternally, one would expect to nd an African
+
+Kivi
+
+is mostly inherited
+
+Helicobacter pylori
+
+present in all
+
+groups. The presence of Africa 1 ancestry, further supports this model, especially
+since a large population of west Africans (both males and females) have settled
+Sudan during the last 4 centuries, en route to pilgrimage to Mecca.
+
+The west
+
+Africans currently form 30% of the population and still retain their ethnic identity,
+frequent intermarriage between them and the local tribes has occurred.
+support of this modality are the mtDNA studies (
+
+Salas et al.,
+
+2002;
+
+Also in
+
+Krings et al.,
+
+Chapter 4. Discussion
+
+57
+
+1999), which indicate that mtDNA studied in Sudan falls within African types and is
+similar to that found in neighbouring east African countries. As expected one also
+nds a higher diversity of Y-chromosome in Sudan, and haplotypes representing
+various African and Semitic origins are found. The autosomal DNA markers show
+a great degree of variance and indicates admixture between the groups, although
+some have retained their aboriginal identity.
+
+Rapid circulation
+Another explanation for the lack of diversity in ancestry could be explained by the
+rapid circulation of a certain strain. Recent research has shown that
+
+H. pylori
+
+is
+
+not necessarily transmitted vertically and evidence of horizontal transmission has
+been found in family studies in Africa (unpublished data, Suerbaum and Schwarz).
+
+Helicobacter pylori
+
+has been also identied in dierent settings in the environment,
+
+including vomitus, faeces, water and domestic animals, and a low socioeconomic status. All of these factors are present in Sudan and hence the circulation of a dominant
+strain is also possible and would explain this apparent lack of diversity. One would
+expect to nd similar homogeneity in countries with diverse populations and poor
+socioeconomic conditions, which is not the case, for isolates from India and Latin
+America had dierent ancestral composition according to the ethnic group divisions
+, i.e.
+
+it was possible to dierentiate Amerinds from European migrants in Latin
+
+America. The only explanation would be if local factors specic to Sudan favour
+this circulation, and a suggested modality is via sheep, as the Sudanese are known
+
+Yagi et al., 1996). Helicobacter pylori
+
+to consume raw sheep's stomachs (
+
+isolated from sheeps' stomach and milk (
+indicated higher prevelance of
+
+H. pylori
+
+et al., 2004; Goodman et al., 1996).
+
+have been
+
+Dore et al., 2001) and several studies have
+Cataldo
+
+in people associated with sheep (
+
+Sheep represent a plausible vehicle for transmis-
+
+sion, taking into consideration the social habits of the local populations. Our study
+has indicated the prescence of
+
+H. canis.
+
+Helicobacter
+
+species DNA, including
+
+H. pylori
+
+and
+
+The modality of sheep as a reservoir and modality for transmission needs
+
+to be further examined.
+
+Chapter 5
+Conclusion
+This study further supports the suitablity of
+
+H. pylori
+
+as a marker for population
+
+genetics, and is a useful marker for the study of female lineages.
+
+The previous
+
+division of the ancestral groups into Ancestral Africa 1, Ancestral Africa 2, Ancestral
+Europe 1, Ancestral Europe 2, and Ancestral East Asia is inaccurate, as we have
+identied that Ancestral Europe 2 (a misnomer) is in fact Ancestral East Africa;
+and this in turn supports that the rst human migrants out of Africa have left from
+East Africa, as this is the only ancestral population commonly found outside Africa.
+Despite the diversity of the Sudanese population, they seem to share a common
+ancestral
+
+Helicobacter pylori
+
+population, indicating that migration into Sudan has
+
+been male dominant. Further studies are necessary to conrm the lack of diveristy
+within the isolates from Sudan.
+
+58
+
+Bibliography
+Achtman, M., T. Azuma, D. E. Berg, Y. Ito, G. Morelli, Z. J. Pan, S. Suerbaum,
+S. A. Thompson, A. van der Ende, and L. J. van Doorn, Recombination and
+clonal groupings within
+
+Helicobacter pylori
+
+from dierent geographical regions,
+
+Mol Microbiol , 32 , 459470, 1999.
+Ahmed, H. H., H. M. Mudawi, and S. S. Fedail, Gastro-oesophageal reux disease
+in Sudan: a clinical endoscopic and histopathological study,
+
+Trop Gastroenterol ,
+
+25 , 135138, 2004.
+Akopyants, N. S., S. W. Clifton, D. Kersulyte, J. E. Crabtree, B. E. Youree, C. A.
+Reece, N. O. Bukanov, E. S. Drazek, B. A. Roe, and D. E. Berg, Analyses of the
+cag pathogenicity island of
+
+Helicobacter pylori, Mol Microbiol , 28 , 3753, 1998.
+
+Akopyanz, N., N. O. Bukanov, T. U. Westblom, S. Kresovich, and D. E. Berg, DNA
+diversity among clinical isolates of
+rapd ngerprinting,
+
+Helicobacter pylori
+
+detected by PCR-based
+
+Nucleic Acids Res , 20 , 51375142, 1992.
+
+Alm, R. A., and T. J. Trust, Analysis of the genetic diversity of
+the tale of two genomes,
+
+Helicobacter pylori :
+
+J Mol Med , 77 , 834846, 1999.
+
+Alm, R. A., L. S. Ling, D. T. Moir, B. L. King, E. D. Brown, P. C. Doig, D. R. Smith,
+B. Noonan, B. C. Guild, B. L. deJonge, G. Carmel, P. J. Tummino, A. Caruso,
+M. Uria-Nickelsen, D. M. Mills, C. Ives, R. Gibson, D. Merberg, S. D. Mills,
+Q. Jiang, D. E. Taylor, G. F. Vovis, and T. J. Trust, Genomic-sequence comparison of two unrelated isolates of the human gastric pathogen
+
+Nature , 397 , 176180, 1999.
+59
+
+Helicobacter pylori,
+
+BIBLIOGRAPHY
+
+60
+
+Andersen, L. P., and T. Wadström,
+2738,
+
+Helicobacter pylori :
+
+Basic bacteriology and culture ,
+
+Physiology and genetics;
+
+chap. 4, pp.
+
+ASM, 2001.
+
+Azim Mirghani, Y. A., S. Ahmed, M. Ahmed, M. O. Ismail, S. S. Fedail, M. Kamel,
+and H. Saidia, Detection of
+
+Helicobacter pylori
+
+in endoscopic biopsies in Sudan,
+
+Trop Doct , 24 , 161163, 1994.
+Canback, B., I. Tamas, and S. G. Andersson, A phylogenomic study of endosymbiotic
+bacteria,
+
+Mol Biol Evol , 21 , 11101122, 2004.
+
+Carroll, I. M., N. Ahmed, S. M. Beesley, A. A. Khan, S. Ghousunnissa, C. A. Moráin,
+and C. J. Smyth, Fine-structure molecular typing of Irish
+
+Helicobacter pylori
+
+isolates and their genetic relatedness to strains from four dierent continents,
+
+J Clin Microbiol , 41 , 57555759, 2003.
+Carroll, I. M., A. A. Khan, and N. Ahmed, Revisiting the pestilence of helicobacter
+pylori: insights into geographical genomics and pathogen evolution,
+
+Infect Genet
+
+Evol , 4 , 8190, 2004.
+Cataldo, F., J. Simporè, P. Greco, D. Ilboudo, and S. Musumeci,
+infection in Burkina Faso: an enigma within an enigma,
+
+Helicobacter pylori
+
+Dig Liver Dis , 36 , 589
+
+593, 2004.
+
+Cavalli-Sforza, L. L., and M. W. Feldman, The application of molecular genetic
+approaches to the study of human evolution,
+
+Nat Genet , 33 Suppl , 26675, 2003.
+
+Censini, S., C. Lange, Z. Xiang, J. E. Crabtree, P. Ghiara, M. Borodovsky, R. Rappuoli, and A. Covacci,
+
+cag, a pathogenicity island of Helicobacter pylori, encodes
+
+type I-specic and disease-associated virulence factors,
+
+Proc Natl Acad Sci U S
+
+A, 93 , 14,64814,653, 1996.
+Colding, H., S. H. Hartzen, H. Roshanisefat, L. P. Andersen, and K. A. Krogfelt,
+Molecular methods for typing of
+
+Helicobacter pylori
+
+Immunol Med Microbiol , 24 , 193199, 1999.
+
+and their applications,
+
+FEMS
+
+BIBLIOGRAPHY
+
+61
+
+Covacci, A., S. Censini, M. Bugnoli, R. Petracca, D. Burroni, G. Macchia, A. Massone, E. Papini, Z. Xiang, and N. Figura, Molecular characterization of the 128kda immunodominant antigen of
+and duodenal ulcer,
+
+Helicobacter pylori
+
+associated with cytotoxicity
+
+Proc Natl Acad Sci U S A, 90 , 57915795, 1993.
+
+Cover, T. L., C. P. Dooley, and M. J. Blaser, Characterization of and human serologic response to proteins in
+
+Helicobacter pylori
+
+vacuolizing cytotoxin activity,
+
+broth culture supernatants with
+
+Infect Immun , 58 , 603610, 1990.
+
+Crabtree, J. E., J. D. Taylor, J. I. Wyatt, R. V. Heatley, T. M. Shallcross, D. S.
+Tompkins, and B. J. Rathbone, Mucosal iga recognition of
+kda protein, peptic ulceration, and gastric pathology,
+
+Helicobacter pylori
+
+120
+
+Lancet , 338 , 332335, 1991.
+
+Devi, S. M., I. Ahmed, A. A. Khan, S. A. Rahman, A. Alvi, L. A. Sechi, and
+N. Ahmed, Genomes of
+
+Helicobacter pylori
+
+from native Peruvians suggest admix-
+
+ture of ancestral and modern lineages and reveal a western type cag-pathogenicity
+island,
+
+BMC Genomics , 7 , 191191, 2006.
+
+Dore, M. P., A. R. Sepulveda, H. El-Zimaity, Y. Yamaoka, M. S. Osato, K. Mototsugu, A. M. Nieddu, G. Realdi, and D. Y. Graham, Isolation of
+
+pylori
+
+from sheep-implications for transmission to humans,
+
+Helicobacter
+
+Am J Gastroenterol ,
+
+96 , 13961401, 2001.
+Drumm, B., G. I. Perez-Perez, M. J. Blaser, and P. M. Sherman, Intrafamilial
+clustering of
+
+Helicobacter pylori
+
+infection,
+
+N Engl J Med , 322 , 359363, 1990.
+
+El-Mahdi, A. M., S. E. Patchett, S. Char, P. Domizio, S. S. Fedail, and P. J. Kumar,
+Does CagA contribute to ulcer pathogenesis in a developing country, such as
+Sudan?,
+
+Eur J Gastroenterol Hepatol , 10 , 313316, 1998.
+
+Eller, E., Estimating relative population sizes from simulated data sets and the
+question of greater African eective size,
+
+Am J Phys Anthropol , 116 , 112, 2001.
+
+Eller, E., Population extinction and recolonization in human demographic history,
+
+Math Biosci , 177-178 , 110, 2002.
+
+BIBLIOGRAPHY
+
+62
+
+Enright, M. C., and B. G. Spratt, A multilocus sequence typing scheme for
+
+tococcus pneumoniae :
+ease,
+
+Strep-
+
+identication of clones associated with serious invasive dis-
+
+Microbiology , 144 ( Pt 11) , 30493060, 1998.
+
+Excoer, L., Human demographic history: rening the recent African origin model,
+
+Curr Opin Genet Dev , 12 , 675682, 2002.
+Fadlalla, M. H.,
+
+Short History of Sudan , i universe, 2004.
+
+Falush, D., C. Kraft, N. S. Taylor, P. Correa, J. G. Fox, M. Achtman, and S. Suerbaum, Recombination and mutation during long-term gastric colonization by
+
+licobacter pylori :
+
+He-
+
+estimates of clock rates, recombination size, and minimal age,
+
+Proc Natl Acad Sci U S A, 98 , 15,05615,061, 2001.
+Falush, D., M. Stephens, and J. K. Pritchard, Inference of population structure using
+multilocus genotype data: linked loci and correlated allele frequencies,
+
+Genetics ,
+
+164 , 15671587, 2003a.
+Falush, D., T. Wirth, B. Linz, J. K. Pritchard, M. Stephens, M. Kidd, M. J. Blaser,
+D. Y. Graham, S. Vacher, G. I. Perez-Perez, Y. Yamaoka, F. Mégraud, K. Otto,
+U. Reichard, E. Katzowitsch, X. Wang, M. Achtman, and S. Suerbaum, Traces of
+human migrations in
+
+Helicobacter pylori
+
+populations,
+
+Science , 299 ,
+
+15821585,
+
+2003b.
+
+Ferrero, R. L., Innate immune recognition of the extracellular mucosal pathogen,
+
+Helicobacter pylori, Mol Immunol , 42 , 879885, 2005.
+Ford, A. C., D. Forman, A. G. Bailey, A. T. Axon, and P. Moayyedi, Initial poor
+quality of life predicts the new onset of dyspepsia: results from a longitudinal
+ten-year follow-up study,
+
+Gut , 2006.
+
+Forster, P., Ice ages and the mitochondrial DNA chronology of human dispersals: a
+review,
+
+Philos Trans R Soc Lond B Biol Sci , 359 , 255264, 2004.
+
+Forster, P., and S. Matsumura, Evolution. Did early humans go north or south?,
+
+Science , 308 , 965966, 2005.
+
+BIBLIOGRAPHY
+
+63
+
+Frisse, L., R. R. Hudson, A. Bartoszewicz, J. D. Wall, J. Donfack, and A. Di Rienzo,
+Gene conversion and dierent population histories may explain the contrast between polymorphism and linkage disequilibrium levels,
+
+Am J Hum Genet , 69 ,
+
+831843, 2001.
+
+Fujimoto, S., B. Marshall, and M. J. Blaser, PCR-based restriction fragment length
+polymorphism typing of
+
+Helicobacter pylori, J Clin Microbiol , 32 , 331334, 1994.
+
+Funk, D. J., L. Helbling, J. J. Wernegreen, and N. A. Moran, Intraspecic phylogenetic congruence among multiple symbiont genomes,
+
+Proc Biol Sci , 267 , 2517
+
+2521, 2000.
+
+Gabriel, S. B., S. F. Schaner, H. Nguyen, J. M. Moore, J. Roy, B. Blumenstiel,
+J. Higgins, M. DeFelice, A. Lochner, M. Faggart, S. N. Liu-Cordero, C. Rotimi,
+A. Adeyemo, R. Cooper, R. Ward, E. S. Lander, M. J. Daly, and D. Altshuler,
+The structure of haplotype blocks in the human genome,
+
+Science , 296 , 22252229,
+
+2002.
+
+Garcia-Vallvé, S., P. J. Janssen, and C. A. Ouzounis, Genetic variation between
+
+Helicobacter pylori
+
+strains: gene acquisition or loss?,
+
+Trends Microbiol , 10 , 445
+
+447, 2002.
+
+Geis, G., H. Leying, S. Suerbaum, U. Mai, and W. Opferkuch, Ultrastructure and
+chemical analysis of
+
+Campylobacter pylori
+
+agella,
+
+J Clin Microbiol , 27 , 436441,
+
+1989.
+
+Ghose, C., G. I. Perez-Perez, M. G. Dominguez-Bello, D. T. Pride, C. M. Bravi, and
+M. J. Blaser, East Asian genotypes of
+
+Helicobacter pylori
+
+provide evidence for its ancient human carriage,
+
+strains in Amerindians
+
+Proc Natl Acad Sci U S A, 99 ,
+
+15,10715,111, 2002.
+
+Go, M. F., Review article: Natural history and epidemiology of
+infection,
+
+Helicobacter pylori
+
+Aliment Pharmacol Ther , 16 Suppl 1 , 315, 2002.
+
+Goldstein, D. B., and M. E. Weale, Population genomics: linkage disequilibrium
+holds the key,
+
+Curr Biol , 11 , 576579, 2001.
+
+BIBLIOGRAPHY
+
+64
+
+Goodman, K. J., P. Correa, H. J. Tenganá Aux, H. Ramírez, J. P. DeLany, O. Guerrero Pepinosa, M. López Quiñones, and T. Collazos Parra,
+
+Helicobacter pylori
+
+in-
+
+fection in the Colombian Andes: a population-based study of transmission pathways,
+
+Am J Epidemiol , 144 , 290299, 1996.
+
+Greenberg, J. H., The languages of Africa,
+
+Bloomington, Indiana University Press ,
+
+1966.
+
+Gressmann, H., B. Linz, R. Ghai, K. P. Pleissner, R. Schlapbach, Y. Yamaoka,
+C. Kraft, S. Suerbaum, T. F. Meyer, and M. Achtman, Gain and loss of multiple
+genes during the evolution of
+
+Grove,
+
+D. I.,
+
+Helicobacter pylori, PLoS Genet , 1 , 2005.
+
+G. Koutsouridis,
+
+and A. G. Cummins,
+
+histopathology and urease testing for the diagnosis of
+
+Comparison of culture,
+
+Helicobacter pylori
+
+gastritis
+
+and susceptibility to amoxycillin, clarithromycin, metronidazole and tetracycline,
+
+Pathology , 30 , 183187, 1998.
+Hammer,
+
+M. F.,
+
+T. M. Karafet,
+
+A. J. Redd,
+
+H. Jarjanazi,
+
+S. Santachiara-
+
+Benerecetti, H. Soodyall, and S. L. Zegura, Hierarchical patterns of global human
+y-chromosome diversity,
+
+Mol Biol Evol , 18 , 11891203, 2001.
+
+Han, S. R., H. C. Zschausch, H. G. Meyer, T. Schneider, M. Loos, S. Bhakdi, and
+M. J. Maeurer,
+
+Helicobacter pylori :
+
+clonal population structure and restricted
+
+transmission within families revealed by molecular typing,
+
+J Clin Microbiol , 38 ,
+
+36463651, 2000.
+
+Harris, D. R.,
+
+The Origins and Spread of Agriculture and Pastoralism in Eurasia ,
+
+Routledge, 1996.
+
+Harry L. T. Mobley, G. L. M., and S. L. Hazell,
+
+Helicobacter pylori Physiology and
+
+Genetics , ASM Press, 2001.
+Hazell, S. L., A. Lee, L. Brady, and W. Hennessy,
+
+Campylobacter pyloridis
+
+and
+
+gastritis: association with intercellular spaces and adaptation to an environment
+of mucus as important factors in colonization of the gastric epithelium,
+
+Dis , 153 , 658663, 1986.
+
+J Infect
+
+BIBLIOGRAPHY
+
+65
+
+Huang, S., J. Kang, and M. J. Blaser, Antimutator role of the dna glycosylase muty
+gene in helicobacter pylori,
+
+J Bacteriol , 188 , 62246234, 2006.
+
+Hurreiz, S. H. A., Linguistic diversity and language planning in the Sudan, (African
+studies seminar paper),
+
+Khartoum University press , 1968.
+
+Jorgensen, M., G. Daskalopoulos, V. Warburton, H. M. Mitchell, and S. L. Hazell,
+Multiple strain colonization and metronidazole resistance in
+
+Helicobacter pylori -
+
+infected patients: identication from sequential and multiple biopsy specimens,
+
+J
+
+Infect Dis , 174 , 631635, 1996.
+Josenhans, C., A. Labigne, and S. Suerbaum, Comparative ultrastructural and functional studies of
+
+Helicobacter pylori
+
+and
+
+Helicobacter mustelae
+
+agellin mutants:
+
+both agellin subunits, aA and aB, are necessary for full motility in
+
+Helicobacter
+
+species, J Bacteriol , 177 , 30103020, 1995.
+Kansau, I., J. Raymond, E. Bingen, P. Courcoux, N. Kalach, M. Bergeret, N. Braimi,
+C. Dupont, and A. Labigne, Genotyping of
+
+Helicobacter pylori isolates by sequenc-
+
+ing of PCR products and comparison with the rapd technique,
+
+Res Microbiol , 147 ,
+
+661669, 1996.
+
+Kersulyte, D., H. Chalkauskas, and D. E. Berg, Emergence of recombinant strains
+of
+
+Helicobacter pylori
+
+during human infection,
+
+Mol Microbiol , 31 , 3143, 1999.
+
+Kersulyte, D., A. K. Mukhopadhyay, B. Velapatiño, W. Su, Z. Pan, C. Garcia,
+V. Hernandez, Y. Valdez, R. S. Mistry, R. H. Gilman, Y. Yuan, H. Gao, T. Alarcón, M. López-Brea, G. Balakrish Nair, A. Chowdhury, S. Datta, M. Shirai,
+T. Nakazawa, R. Ally, I. Segal, B. C. Wong, S. K. Lam, F. O. Olfat, T. Borén,
+L. Engstrand, O. Torres, R. Schneider, J. E. Thomas, S. Czinn, and D. E. Berg,
+Dierences in genotypes of
+
+Helicobacter pylori
+
+from dierent human populations,
+
+J Bacteriol , 182 , 32103218, 2000.
+Kivi, M., and Y. Tindberg,
+ily aair?,
+
+Helicobacter pylori
+
+occurrence and transmission: a fam-
+
+Scand J Infect Dis , 38 , 407417, 2006.
+
+BIBLIOGRAPHY
+
+66
+
+Kivi, M., Y. Tindberg, M. Sörberg, T. H. Casswall, R. Befrits, P. M. Hellström,
+C. Bengtsson, L. Engstrand, and M. Granström, Concordance of
+
+pylori
+
+strains within families,
+
+Helicobacter
+
+J Clin Microbiol , 41 , 56045608, 2003.
+
+Kivisild, T., M. Reidla, E. Metspalu, A. Rosa, A. Brehm, E. Pennarun, J. Parik,
+T. Geberhiwot, E. Usanga, and R. Villems, Ethiopian mitochondrial DNA heritage: tracking gene ow across and around the gate of tears,
+
+Am J Hum Genet ,
+
+75 , 752770, 2004.
+Kraft, C., and S. Suerbaum, Mutation and recombination in
+mechanisms and role in generating strain diversity,
+
+Helicobacter pylori :
+
+Int J Med Microbiol , 295 ,
+
+299305, 2005.
+
+Kraft, C., A. Stack, C. Josenhans, E. Niehus, G. Dietrich, P. Correa, J. G. Fox,
+D. Falush, and S. Suerbaum, Genomic changes during chronic
+infection,
+
+Helicobacter pylori
+
+J Bacteriol , 188 , 249254, 2006.
+
+Krings, M., A. E. Salem, K. Bauer, H. Geisert, A. K. Malek, L. Chaix, C. Simon,
+D. Welsby, A. Di Rienzo, G. Utermann, A. Sajantila, S. Pääbo, and M. Stoneking,
+mtDNA analysis ofNile River Valley populations: A genetic corridor or a barrier
+to migration?,
+
+Am J Hum Genet , 64 , 11661176, 1999.
+
+Kulick, S., C. Moccia, C. Kraft, and S. Suerbaum, The helicobacter pylori muty homologue hp0142 is an antimutator gene that prevents specic c to a transversions,
+
+Arch Microbiol , 2007.
+Kumar, S., K. Tamura, and M. Nei, Mega3: Integrated software for molecular evolutionary genetics analysis and sequence alignment,
+
+Brief Bioinform , 5 , 150163,
+
+2004.
+
+Kusters, J. G., A. H. van Vliet, and E. J. Kuipers, Pathogenesis of
+
+pylori
+
+infection,
+
+Helicobacter
+
+Clin Microbiol Rev , 19 , 449490, 2006.
+
+Langenberg, M., G. Tytgat, M. Schipper, P. Rietra, and H. Zanen, Campylobacter
+like organisms in the stomach of patients and healthy individuals,
+
+323 , 13481349, 1984.
+
+The Lancet ,
+
+BIBLIOGRAPHY
+
+67
+
+Lee, S. K., and C. Josenhans,
+
+Helicobacter pylori
+
+and the innate immune system,
+
+Int J Med Microbiol , 295 , 325334, 2005.
+Linz, B., F. Balloux, Y. Moodley, A. Manica, H. Liu, P. Roumagnac, D. Falush,
+C. Stamer, F. Prugnolle, S. W. van der Merwe, Y. Yamaoka, D. Y. Graham,
+E. Perez-Trallero, T. Wadstrom, S. Suerbaum, and M. Achtman, An african origin
+for the intimate association between humans and helicobacter pylori,
+
+Nature , 445 ,
+
+915918, 2007.
+
+Liu, Y., E. Hidaka, Y. Kaneko, T. Akamatsu, and H. Ota, Ultrastructure of
+
+licobacter pylori
+
+in human gastric mucosa and
+
+H. pylori -infected
+
+He-
+
+human gastric
+
+mucosa using transmission electron microscopy and the high-pressure freezingfreeze substitution technique,
+
+J Gastroenterol , 41 , 569574, 2006.
+
+Loeld, R. J., E. Stobberingh, J. A. Flendrig, and J. W. Arends,
+
+Helicobacter pylori
+
+in gastric biopsy specimens. comparison of culture, modied giemsa stain, and
+immunohistochemistry. a retrospective study,
+
+J Pathol , 165 , 6973, 1991.
+
+Lovell, A., C. Moreau, V. Yotova, F. Xiao, S. Bourgeois, D. Gehl, J. Bertranpetit,
+E. Schurr, and D. Labuda, Ethiopia: between Sub-Saharan Africa and western
+Eurasia,
+
+Ann Hum Genet , 69 , 275287, 2005.
+
+Magalhães Queiroz, D. M., and F. Luzza, Epidemiology of
+fection,
+
+Helicobacter pylori
+
+in-
+
+Helicobacter , 11 Suppl 1 , 15, 2006.
+
+Maiden, M. C., Multilocus sequence typing of bacteria,
+
+Annu Rev Microbiol , 2006.
+
+Maiden, M. C., J. A. Bygraves, E. Feil, G. Morelli, J. E. Russell, R. Urwin, Q. Zhang,
+J. Zhou, K. Zurth, D. A. Caugant, I. M. Feavers, M. Achtman, and B. G. Spratt,
+Multilocus sequence typing: a portable approach to the identication of clones
+within populations of pathogenic microorganisms,
+
+Proc Natl Acad Sci U S A, 95 ,
+
+31403145, 1998.
+
+Majewski, S. I., and C. S. Goodwin, Restriction endonuclease analysis of the genome
+of
+
+Campylobacter pylori with a rapid extraction method:
+
+genomic variation,
+
+J Infect Dis , 157 , 465471, 1988.
+
+evidence for considerable
+
+BIBLIOGRAPHY
+Marshall, B. J.,
+
+68
+
+One hundred years of discovery and rediscovery of Helicobacter pylori
+
+and its association with peptic ulcer disease ,
+
+chap. 3, pp. 1924, Helicobacter
+
+pylori: Physiology and genetics; ASM, 2001.
+
+Marshall, B. J., and J. R. Warren, Unidentied curved bacilli in the stomach of
+patients with gastritis and peptic ulceration,
+
+Lancet , 1 , 13111315, 1984.
+Campylobacter pyloridis
+
+and
+
+Maynard Smith, J., and N. H. Smith, Detecting recombination from gene trees,
+
+Mol
+
+Marshall, B. J., R. W. McCallum, and C. Prakash,
+gastritis,
+
+Gastroenterology , 92 , 20512051, 1987.
+
+Biol Evol , 15 , 590599, 1998.
+McNulty, C. A., and D. M. Watson, Spiral bacteria of the gastric antrum,
+
+Lancet ,
+
+1 , 10681069, 1984.
+Mishmar, D., E. Ruiz-Pesini, P. Golik, V. Macaulay, A. G. Clark, S. Hosseini,
+M. Brandon, K. Easley, E. Chen, M. D. Brown, R. I. Sukernik, A. Olckers, and
+D. C. Wallace, Natural selection shaped regional mtDNA variation in humans,
+
+Proc Natl Acad Sci U S A, 100 , 171176, 2003.
+Moran, N. A., Tracing the evolution of gene loss in obligate bacterial symbionts,
+
+Curr Opin Microbiol , 6 , 512518, 2003.
+Mourad-Baars, P., and S. Chong,
+
+Helicobacter pylori
+
+infection in pediatrics,
+
+Heli-
+
+cobacter , 11 Suppl 1 , 4045, 2006.
+Nedenskov-Sorensen, P., G. Bukholm, and K. Bovre, Natural competence for genetic
+transformation in
+
+Campylobacter pylori, J Infect Dis , 161 , 365366, 1990.
+
+Ohkuma, M., T. Sato, S. Noda, S. Ui, T. Kudo, and Y. Hongoh, The candidate
+phylum 'termite group 1' of bacteria:
+
+phylogenetic diversity, distribution, and
+
+endosymbiont members of various gut agellated protists,
+
+FEMS Microbiol Ecol ,
+
+60 , 467476, 2007.
+Owen, R. J., and J. Xerry, Tracing clonality of
+
+Helicobacter pylori
+
+infecting family
+
+members from analysis of DNA sequences of three housekeeping genes (ureI, atpA
+
+BIBLIOGRAPHY
+
+69
+
+and ahpC), deduced amino acid sequences, and pathogenicity-associated markers
+(cagA and vacA),
+
+J Med Microbiol , 52 , 515524, 2003.
+
+Parkin, D. M., The global health burden of infection-associated cancers in the year
+2002,
+
+Int J Cancer , 118 , 30303044, 2006.
+
+Passarino, G., O. Semino, L. Quintana-Murci, L. Excoer, M. Hammer, and A. S.
+Santachiara-Benerecetti, Dierent genetic components in the Ethiopian population, identied by mtDNA and y-chromosome polymorphisms,
+
+Am J Hum Genet ,
+
+62 , 420434, 1998.
+Perez-Perez, G. I., D. Rothenbacher, and H. Brenner, Epidemiology of
+
+pylori
+
+infection,
+
+Helicobacter
+
+Helicobacter , 9 Suppl 1 , 16, 2004.
+
+Reich, D. E., M. Cargill, S. Bolk, J. Ireland, P. C. Sabeti, D. J. Richter, T. Lavery,
+R. Kouyoumjian, S. F. Farhadian, R. Ward, and E. S. Lander, Linkage disequilibrium in the human genome,
+
+Nature , 411 , 199204, 2001.
+
+Relethford, J. H., and L. B. Jorde, Genetic evidence for larger African population
+size during recent human evolution,
+
+Am J Phys Anthropol , 108 , 251260, 1999.
+
+Riley, L. K., C. L. Franklin, R. R. Hook, and C. Besch-Williford, Identication of
+murine helicobacters by PCR and restriction enzyme analyses,
+
+J Clin Microbiol ,
+
+34 , 942946, 1996.
+Rozas, J., J. C. Sánchez-DelBarrio, X. Messeguer, and R. Rozas, DnaSP, DNA
+polymorphism analyses by the coalescent and other methods,
+
+Bioinformatics , 19 ,
+
+24962497, 2003.
+
+Sachs, G., D. L. Weeks, K. Melchers, and D. R. Scott, The gastric biology of
+
+Heli-
+
+cobacter pylori, Annu Rev Physiol , 65 , 349369, 2003.
+Saha, N., and F. S. el Seikh, Some blood genetic characteristics of several Sudanese
+tribes,
+
+Am J Phys Anthropol , 73 , 397406, 1987.
+
+BIBLIOGRAPHY
+
+70
+
+Saha, N., A. P. Samuel, A. Omer, M. A. Ahmed, A. A. Hussein, and E. N. Gaddoura,
+A study of some genetic characteristics of the population of the Sudan,
+
+Ann Hum
+
+Biol , 5 , 569575, 1978.
+Saitou, N., and M. Nei, The neighbor-joining method:
+structing phylogenetic trees,
+
+a new method for recon-
+
+Mol Biol Evol , 4 , 406425, 1987.
+
+Salama, N., K. Guillemin, T. K. McDaniel, G. Sherlock, L. Tompkins, and S. Falkow,
+A whole-genome microarray reveals genetic diversity among
+strains,
+
+Helicobacter pylori
+
+Proc Natl Acad Sci U S A, 97 , 14,66814,673, 2000.
+
+Salas, A., M. Richards, T. De la Fe, M. V. Lareu, B. Sobrino, P. Sánchez-Diz,
+V. Macaulay, and A. Carracedo, The making of the African mtDNA landscape,
+
+Am J Hum Genet , 71 , 10821111, 2002.
+Sanger, F., S. Nicklen, and A. R. Coulson, DNA sequencing with chain-terminating
+inhibitors,
+
+Proc Natl Acad Sci U S A, 74 , 54635467, 1977.
+
+Segal, E. D., S. Falkow, and L. S. Tompkins,
+
+Helicobacter pylori
+
+attachment to
+
+gastric cells induces cytoskeletal rearrangements and tyrosine phosphorylation of
+host cell proteins,
+
+Proc Natl Acad Sci U S A, 93 , 12591264, 1996.
+
+Segal, E. D., C. Lange, A. Covacci, L. S. Tompkins, and S. Falkow, Induction of
+host signal transduction pathways by
+
+Helicobacter pylori, Proc Natl Acad Sci U S
+
+A, 94 , 75957599, 1997.
+Seielstad, M., E. Bekele, M. Ibrahim, A. Touré, and M. Traoré, A view of modern
+human origins from y chromosome microsatellite variation,
+
+Genome Res , 9 , 558
+
+567, 1999.
+
+Selander, R. K., D. A. Caugant, H. Ochman, J. M. Musser, M. N. Gilmour, and T. S.
+Whittam, Methods of multilocus enzyme electrophoresis for bacterial population
+genetics and systematics,
+
+Appl Environ Microbiol , 51 , 873884, 1986.
+
+Semino, O., A. S. Santachiara-Benerecetti, F. Falaschi, L. L. Cavalli-Sforza, and
+P. A. Underhill, Ethiopians and Khoisan share the deepest clades of the human
+Y-chromosome phylogeny,
+
+Am J Hum Genet , 70 , 265268, 2002.
+
+BIBLIOGRAPHY
+
+71
+
+Stevanovitch, A., A. Gilles, E. Bouzaid, R. Ke, F. Paris, R. P. Gayraud, J. L.
+Spadoni, F. El-Chenawi, and E. Béraud-Colomb, Mitochondrial DNA sequence
+diversity in a sedentary population from egypt,
+
+Suerbaum, S., and M. Achtman,
+
+Ann Hum Genet , 68 , 2339, 2004.
+
+Helicobacter pylori :
+
+structure and human migrations,
+
+recombination, population
+
+Int J Med Microbiol , 294 , 133139, 2004.
+
+Suerbaum, S., and C. Josenhans, Helicobacter pylori evolution and phenotypic diversication in a changing host,
+
+Suerbaum, S., and P. Michetti,
+
+Nat Rev Microbiol , 5 , 441452, 2007.
+
+Helicobacter pylori
+
+infection,
+
+N Engl J Med , 347 ,
+
+11751186, 2002.
+
+Suerbaum, S., J. M. Smith, K. Bapumia, G. Morelli, N. H. Smith, E. Kunstmann,
+I. Dyrek, and M. Achtman, Free recombination within
+
+Helicobacter pylori, Proc
+
+Natl Acad Sci U S A, 95 , 12,61912,624, 1998.
+Tajima, F., Evolutionary relationship of dna sequences in nite populations,
+
+Genet-
+
+ics , 105 , 437460, 1983.
+Tay, J. S., and N. Saha, Genetic heterogeneity among the Negroid and Arab tribes
+of the Sudan,
+
+Am J Phys Anthropol , 76 , 211215, 1988.
+
+Tindberg, Y., C. Bengtsson, F. Granath, M. Blennow, O. Nyrén, and M. Granström,
+
+Helicobacter pylori
+
+infection in Swedish school children: lack of evidence of child-
+
+to-child transmission outside the family,
+
+Gastroenterology , 121 , 310316, 2001.
+
+Tomb, J. F., O. White, A. R. Kerlavage, R. A. Clayton, G. G. Sutton, R. D.
+Fleischmann, K. A. Ketchum, H. P. Klenk, S. Gill, B. A. Dougherty, K. Nelson,
+J. Quackenbush, L. Zhou, E. F. Kirkness, S. Peterson, B. Loftus, D. Richardson,
+R. Dodson, H. G. Khalak, A. Glodek, K. McKenney, L. M. Fitzegerald, N. Lee,
+M. D. Adams, E. K. Hickey, D. E. Berg, J. D. Gocayne, T. R. Utterback, J. D.
+Peterson, J. M. Kelley, M. D. Cotton, J. M. Weidman, C. Fujii, C. Bowman,
+L. Watthey, E. Wallin, W. S. Hayes, M. Borodovsky, P. D. Karp, H. O. Smith,
+C. M. Fraser, and J. C. Venter, The complete genome sequence of the gastric
+pathogen
+
+Helicobacter pylori, Nature , 388 , 539547, 1997.
+
+BIBLIOGRAPHY
+Tvedt, T.,
+
+72
+
+Southern Sudan, an annotated Bibliography , I. B. Tauris, 2004.
+
+Underhill, P. A., P. Shen, A. A. Lin, L. Jin, G. Passarino, W. H. Yang, E. Kauman,
+B. Bonné-Tamir, J. Bertranpetit, P. Francalacci, M. Ibrahim, T. Jenkins, J. R.
+Kidd, S. Q. Mehdi, M. T. Seielstad, R. S. Wells, A. Piazza, R. W. Davis, M. W.
+Feldman, L. L. Cavalli-Sforza, and P. J. Oefner, Y chromosome sequence variation
+and the history of human populations,
+
+Nat Genet , 26 , 358361, 2000.
+
+Urwin, R., and M. C. Maiden, Multi-locus sequence typing: a tool for global epidemiology,
+
+Trends Microbiol , 11 , 479487, 2003.
+
+Watson, E., P. Forster, M. Richards, and H. J. Bandelt, Mitochondrial footprints of
+human expansions in Africa,
+
+Am J Hum Genet , 61 , 691704, 1997.
+
+Weeks, D. L., S. Eskandari, D. R. Scott, and G. Sachs, A h+-gated urea channel:
+the link between
+
+Helicobacter pylori urease and gastric colonization, Science , 287 ,
+
+482485, 2000.
+
+Weyermann, M., G. Adler, H. Brenner, and D. Rothenbacher, The mother as source
+of
+
+Helicobacter pylori
+
+infection,
+
+Epidemiology , 17 , 332334, 2006.
+
+Wirth, T., X. Wang, B. Linz, R. P. Novick, J. K. Lum, M. Blaser, G. Morelli,
+D. Falush, and M. Achtman, Distinguishing human ethnic groups by means of
+sequences from
+
+Helicobacter pylori :
+
+lessons from Ladakh,
+
+Proc Natl Acad Sci U
+
+S A, 101 , 47464751, 2004.
+Xie, G., C. A. Bonner, J. Song, N. O. Keyhani, and R. A. Jensen, Inter-genomic
+displacement via lateral gene transfer of bacterial trp operons in an overall context
+of vertical genealogy,
+
+BMC Biol , 2 , 1515, 2004.
+
+Xu, L., S. P. Muench, A. Roujeinikova, S. E. Sedelnikova, and D. W. Rice, Cloning,
+purication and preliminary crystallographic analysis of the bacillus subtilis GTPase YphC-GDP complex,
+
+62 , 435437, 2006.
+
+Acta Crystallograph Sect F Struct Biol Cryst Commun ,
+
+BIBLIOGRAPHY
+
+73
+
+Yagi, H., S. el Bahari, H. A. Mohamed, S. Ahmed el R, B. Mustafa, M. Mahmoud,
+M. B. Saad, S. M. Sulaiman, and A. M. el Hassan, The Marrara syndrome: a hypersensitivity reaction of the upper respiratory tract and buccopharyngeal mucosa
+to nymphs of
+
+Linguatula serrata, Acta Trop , 62 , 127134, 1996.
+
+Yoshida, T., H. Kubo, H. Murata, K. Ando, H. Ishii, and F. Miyagi, Acute multiple
+gastric ulcers in the pyloric antrum,
+
+Endoscopy , 9 , 223228, 1977.
+
+Persönliche Daten
+Name: Wael Faroug Elamin
+Anschrift: Elrazi College of Medical and Health Sciences, Khartoum, Sudan
+Geburtsdatum/-ort: 03. November 1978 in Khartoum, Sudan
+Staatsangehörigkeit: Sudan
+
+Schulausbildung:
+1983-1989: Unity High School
+1989-1994: Manarat Elriyadh School
+
+Hochschulbildung:
+1994: Beginn des Studiums der Humanmedizin an der University of Khartoum,
+College of Medicine
+
+1999: Bakkalaureus der Wissenschaften, Kings College, University of London
+Mai 2001: Medicinae Baccalaureus et Baccalaureus Chirurgiae, University of Khartoum
+
+Berufserfahrung:
+August 2001 bis Januar 2003: Medical residency
+
+74
+
+BIBLIOGRAPHY
+
+75
+
+Januar 2003 bis Juli 2003: Freiwilliger Doktor fur Medicins Sans Frontieres.
+Südsudan
+
+Dezember 2003: PLAB 1 , Prüfung für den allgemeinen medizinischen Rat , UK
+August 2004: PLAB 2
+Januar 2005 bis Juli 2005: Wissenschaftlicher Assistent, der Oxford University,
+Department of Statistiken, Oxford, UK und Elrazi College of Medical and
+Health Sciences, Sudan.
+
+August 2005 bis Oktober 2006: MD Studenten der Medizinischen Hochschule
+Hannover, Hannover, Deutschland.
+
+Januar 2007 bis Juli 2007: SHO, Medizin, Süd Tipperary General Hospital,
+Clonmel, Irland.
+
+Juli 2007 bis Juni 2008: SHO Medizin Cavan General Hospital, Cavan, Irland.
+Juli 2008 bis Zeit: SHO, Medizin Bantry General Hospital, Bantry, Co. Cork,
+Irland.
+
+Eidesstattlich Erklärung
+Erklärung nach  2 Absatz 2 Nummer 5 und 6
+Ich erkläre, dass ich die der Medizinischen Hochschule Hannover zur Promotion
+eingereichte Dissertation mit dem Titel
+
+Genetic diversity of
+
+Helicobacter pylori isolates in Sudan
+
+im Institut für Medizinische Mikrobiologie und Krankenhaushygiene der Medizinischen Hochschule Hannover unter Betreuung von Prof. Dr. S. Suerbaum ohne
+sonstige Hilfe durchgeführt und bei der Abfassung der Dissertation keine anderen
+als die dort aufgeführten Hilfsmittel benutzt habe.
+Ich habe diese Dissertation bisher an keiner in-oder ausländischen Hochschule
+zur Promotion eingereicht. Weiterhin versichere ich, dass ich den beantragten Titel
+bisher noch nicht erworben habe.
+
+76
+
+

@@ -1,0 +1,322 @@
+Reconsolidation: Propagation of spreading depression between the neocortex and the hippocampus: the barrier of the entorhinal cortex
+
+Abstract
+Spreading depression (SD) is believed to be a putative neuronal mechanism underlying different neurological disorders such as migraine aura and subsequent pain. In vitro combined neocortex-hippocampus brain slice techniques were used to investigate the propagation pattern of repetitive SD between the neocortex and the hippocampus. Different substances as well as continuous electrical stimulations and induction of long- term potentiation (LTP) in the entorhinal cortex were used. Induction of repetitive SD by KCl injection in somatosensory cortex enhanced the probability of SD entrance to the hippocampus via the entorhinal cortex. Application of AMPA receptor blocker CNQX, cannabinoide receptor agonist WIN 55212-2, and potassium ion blocker 4-AP facilitated the propagation of SD to the hippocampus, whereas application of NMDA blocker APV and GABAA blocker bicuculline inhibited SD from penetration to the hippocampus. Both continuous repetitive electrical stimulations and LTP facilitated the propagation of SD entrance to the hippocampus after 90 minutes. Administration of both NMDA blocker APV and AMPA receptor blocker CNQX 30 minutes before LTP blocked the facilitatory effect of LTP on SD propagation to the hippocampus. These data indicate the importance of the entorhinal cortex in filtering the signals between the neocortex and the hippocampus. The filtering effect of entorhinal cortex effect could be manipulated by different drugs and electrical stimulations. This may be important to understanding of SD propagation in the neurological disorders and help to design the new therapeutic strategies.
+
+1 Introduction
+Spreading depression (SD) is a pathophysiological phenomenon which exhibits as a propagating wave of neuronal and glial hyperexcitability of few seconds followed by a transient wave of depression of few minutes and later subsides with another long- duration hyperexcitability, first identified in the cerebral cortex of rabbits (Leao, 1944; Somjen, 2001; Gorji, 2001). The SD phenomenon is exclusive to the central nervous system and influences both the neuronal and the glial cells in different parts of the central nervous system including both brain and spinal cord.
+
+SD propagated in all neuronal tissues in both vertical and horizontal directions. SD probably starts with a cellular efflux of K+, leading to depolarization and a period of relative electrical silence. The subsequent energy-dependent restitution of ion gradients eventually restores normal neuronal activities. The ionic activity, however, results in a wave of neuronal depolarization propagating away from the elicitation site at a velocity of 2-5 mm/min. Because the depolarization-restoration process takes 1.5 min, the wave is only ~5mm deep (Smith et al., 2006). Different cortical layers are differently penetrated by SD waves. However, it should be noted that SD propagates easier in horizontal direction and can easily spreads for few centimetres.
+
+
+SD involves a temporary localized redistribution of different ions between intracellular and extracellular spaces. This ion redistribution is energy dependent. During eliciting of SD the concentration of extracellular K+ ([K+]o), rapidly rises (up to 60mM), causing brief neuronal excitation then depolarization and a period of electrical silence during which DC potential at the brain surface falls. In tandem, extracellular sodium ([Na+]o) and chloride ([Cl−]o) levels decrease as these ions enter cells. Consequently, water enters cells, the extracellular space is reduced, and cells swell. Ca2+ ions also move inwards, but slightly later than the outward movement of K+, suggesting that Ca2+ movements follow K+ fluxes. Additional negative ion species move outwards to maintain electrical balance, the excitatory neurotransmitter glutamate probably being the most crucial (Nicholson and Sykova, 1998; Somjen et al., 2001).
+
+Figure 1.: Aristides Azevedo Pacheco Leão. Journal of Nourophysiology, 1944 (classic figure of SD discovery), Alterations of electrical activities recorded from a rabbit during propagation of spreading depression (SD). Traces reveal propagation of flattening of epileptiform burst potentials elicited by spreading of cortical SD as well as gradual propagating recovery of these activities.
+
+SD can be initiated by different stimuli and so can be directly studied in various in vivo and in vitro experimental animal models. It was first induced by applying a brief tetanus of faradic stimulation to the rabbit neocortex (Leao, 1944; Bures et al., 1974; Fig. 1). However, such stimuli could lead to convulsive activity spreading from the stimulated area and so other investigators employed direct current (DC) stimuli (Leao & Morrison, 1945; Ochs, 1962). Mechanical stimulation, for example, by stroking of the cortical surface with a blunt instrument, a falling weight or even lightly tapping the cortex also initiates SD (Lea˜o, 1944; Zachar and Zacharova´, 1963). More recent studies have achieved more reliable and reproducible induction of SD by rapidly inserting and retracting hypodermic steel needles (Kaube and Goadsby, 1994; Lambert et al., 1999; Ebersberger et al., 2001). However, one of the most common models of SD initiation is KCl application to the neuronal tissues (Wernsmann et al., 2006; Dehbandi et al., 2008). This model has been proven to be the most reliable stimulus leading to reproducible events on earlier occasions in both non-imaging and imaging studies (Martins-Ferreira
+3et al., 2000; Bradley et al., 2001). Changes in extracellular K+ concentration themselves might be involved in such pathophysiological processes in human brain tissue (Mayevsky et al., 1996; Nicholson & Sykova, 1998).
+
+Other methods of SD induction are including: (1) application of the Na+-K+ ATP-ase inhibitor ouabain; (2) applications of the excitatory amino acids glutamate and aspartate; (3) administration of metabolic inhibitors such as NaCN and NaN that poison oxidative metabolism and NaF and iodoacetate that primarily interfere with glycolysis;
+(4)local cooling may initiate SD by depressing energy metabolism below a critical level but has proven an irreproducible experimental method. Furthermore, cooling itself raises the threshold for electrically or mechanically induced SD; (5) there are isolated reports of high-frequency electrical stimulation combined with the administration of pharmacological agents producing SD (Smith et al., 2006).
+
+Both volume-activated ion channels and glial cells probably play important roles in the restoration of normal cellular homeostasis. The former are stimulated during cell swelling, and the latter provide spatial buffering that prevents increased levels of [K+]o and [Glu−]o during normal neuronal activity. However, they might also prolong SD: volume-activated ion channels release glutamate during SD; and although gliotoxins prolong SD, they also reduce glutamate efflux from glial cells. SD appears more difficult to evoke in brains of larger animals in which the ratio of glia to neurones tends to be higher, suggesting that glial cells are important for limiting SD activity. Such limiting forces might be greater in the more complexly folded human brain, and could explain the paucity of literature accounts of SD during neurosurgery.
+
+
+SD and neurological disorders
+Processes similar to SD phenomenon in animal cortex are thought to occur in different neurological disorders in humans. These conditions are migraine with aura, brain trauma, ischemia/infarction, brain haemorrhage, epilepsy, and transient global amnesia (Gorji, 2001). Direct modulation of electrical activity of cortical neurons by the locally4spreading wave can lead to neurological symptoms (e.g. the aura phase of migraine). These same neuronal processes can also alter the neurochemistry of cortical and sub- cortical structures, modulating oxygen distribution and cell survival in these structures and change the behaviour. These problem has not been addressed before, mainly because SD induces such a short depression in each cortical loci, that transient neurochemical changes cannot be examined with conventional approaches, for example by microdialysis.
+
+A)SD and migraine with aura: A few years before discovery of SD, Lashley (1941) explained his visual aura associated with his own ophthalmic migraine attacks as bright scintillations moving across the visual field leaving a blind area in his visual field. Mapping the trajectory of his scotoma across his visual field gave a predicted velocity over a retinotopically organised visual cortex of approximately 2-3 mm/min (Lashley, 1941; Milner, 1958). This report accordingly suggested a possible physiological mechanism for migraine aura in the visual cortex. Thus, it may be suggested that the scintillations represent the excitatory phase, while the pursuing blind spot is the inhibitory process of a SD wave. Similar conclusions were suggested from blood flow studies (Lauritzen, 1984) that demonstrated that the oligaemia associated with the spread of SD from the occipital cortex showed a very similar propagation velocity to that of the SD itself. A recent study strongly supports the link between SD and the aura period in human visual cortex. High-field functional magnetic resonance imaging (MRI) was used to detect blood oxygenation level-dependent (BOLD) changes during visual aura in three migraineurs. A focal increase in BOLD signals developed first in extrastriate cortex and spread at the velocity closed to SD propagation velocity (3.5 ± 1.1 mm/min) over occipital cortex. These initial BOLD features were consistent with scintillations and paralleled by decreases in the stimulus-driven MR oscillations. Increasing in BOLD signals was followed by a decrease in the mean MR signal. This phase appeared to correspond to the localized scotoma and MR stimulus-induced response remained suppressed. Within about fifteen minutes, both BOLD signals and MR stimulus-induced
+5response recovered. During periods with no visual stimulation, but while the subject was experiencing scintillations, BOLD signal followed the retinotopic progression of the visual percept. Spreading BOLD signal changes as CSD did not cross prominent sulci (Hadjikhani et al., 2001). In line with these data, magnetoencephalographic studies in human revealed that the magnetic signals were seen in migraine patients but not in patients suffering from other forms of headache or normal controls. Three distinctive signal patterns; suppression of spontaneous cortical activity, slow field changes and large-amplitude waves, were observed strictly in migraine patients. In some patients with migraine, magnetic signals were also recorded between attacks. The same magnetic fields appeared during the propagation of SD in the cortex of anesthetized animals (Welch et al, 1993). The most common symptoms during the aura phase in migraine are visual. As mentioned, spreading oligemia and excitation wave of aura symptoms start in occipital lobe and propagates anteriorly. Altering the ionic makeup of the extracellular fluid reversibly raises or lowers the susceptibility to SD. Glial cells act as spatial buffer especially for potassium by taking potassium up and carrying it from regions of high concentration to neighbouring areas of low concentration. Regarding anatomical studies in human, the lowest glial–neuronal ratio is in the primary visual cortex (Fig. 2; Gorji, 2001).
+
+Figure 2. A schematic pattern of propagation of spreading depression in human brain. Traces recorded from human tissues. Vertical propagation of spreading depression reveals a very slow velocity of DC-negative deflection recorded in human brain tissues obtained during epilepsy surgery.
+
+B)SD and cerebrovascular diseases: SD was observed in patients suffering from brain ischemia/infarction, brain haemorrhage, and subarachnoid haemorrhage. The damage to cerebral tissue depends on a complex series of physiological responses and degenerative cellular cascades involving a dynamic interplay among the various cells in the region of damaged tissue. Experimental studies of focal ischemic stroke in animals and human support the concept that there is a core of severe ischemia, the ‘ischemic core’ which is surrounded by a region of
+7reduced perfusion, the ‘ischemic penumbra’. Within the ischemic core, failure of oxygen and glucose delivery leads to rapid depletion of energy stores and cell death. Central to the hypothesis of neuronal salvage is the concept of the ischemic penumbra. The penumbra is an area which metabolic capacity is suppressed but destruction is not yet inevitable (Olesen et al., 1986). The etiology of progressive cell injury and death in the penumbra zone has been clarified in some extent. Evidence suggests that SD plays a role in the ischemia– infarction tissue damage process. Excitotoxicity results from excessive release and impaired uptake of excitatory neurotransmitter glutamate. It is hypothesized that excessive amount of glutamate increases intracellular calcium preferentially via NMDA-receptor-mediated channels. A profound increase in extracellular potassium occurs in the ischemic core. There is a suggestion that the high potassium concentration in the ischemic focus initiates diffusion of K+ into the adjacent normally superfused cortex and triggers SD-like deflections propagating from the rim of the focus to the surrounding intact tissue during the early stages of focal ischemia (Nedergaard et al., 1986). Local reduction of tissue glucose content, caused by the increased demands and reduced supply of glucose in the area, might further reduce the threshold for elicitation of SD. In subsequent minutes and hours, further SD waves can be generated from the boundary of the focus provided that the chemical gradient is strong enough to support sufficiently intensive diffusion of active substances into the intact neocortex (Hossmann, 1996). A SD wave elicited from a single point at the periphery of the focus spreads away from it but may turn around and enter the penumbra zone in a different area of the focus. Generation of SD is limited to an approximately 120 minutes period after ischemia, followed by a shorter interval of increased SD susceptibility which disappear 3–4 h after the onset of focal ischemia (Koroleva et al., 1998). Such SD events are significantly longer than those occurring in normoxic neocortex and can be potentially harmful because they are accompanied by additional release of glutamate and influx of calcium into the neurons. In normal brain tissue, repeated SD waves do not induce any morphological or metabolic damage. However, it is believed that when SD8repeatedly collapses ionic gradients, activation of NMDA receptors and gap junctions propagates SD and triggers a massive Ca2+ influx, which in energy- compromised neurons is enough to initiate a cell death cascade (Somjen et al., 1990). The tissue fully recovers when SD induced by elevating K+ in rat hippocampal slices, but in slices that are metabolically compromised by oxygen/ glucose deprivation, cellular damage develops only where SD has propagated. After propagating of SD in oxygen/glucose-deprived (ischemic) tissues, the evoked CA1 field potential is permanently lost, the cell bodies of involved neurons swell and their dendritic areas increase in opacity (Obeidat and Andrew, 1998).
+
+C)SD and epilepsy: SD is a well-known phenomenon in experimental epilepsy. SD has been observed in a variety of in vitro and in vivo epilepsy models in different animal species. Reduction of extracellular Mg2+ concentrations, blocking of K+ channels, e.g., by 4-aminopyridine, activation of NMDA receptors, increased extracellular K+, blocking of Na+–K+ ATPase, e.g., by ouabain, blocking of T-type Ca2+ channels, e.g., by NiCl2, blocking of GABA receptors, e.g., by picrotoxin, are the common pathways for initiation of both epileptiform burst discharges and SD in experimental animal models (Gorji, 2001). By all abovementioned mechanisms, SD appears spontaneously between epileptiform ictal events. SD can be elicited in susceptible area by a single discharge of an epileptic focus (spike triggered SD). Epileptiform field potentials usually suppress during SD occurrence and reappear in few minutes (Koroleva and Bures, 1982). Penetration of cortical SD into epileptic foci established in different models of epilepsy. However, it should be noted that SD does not enter electrically or pharmacologically elicited foci of epileptic activity with high rates of interictal discharges which resulted in anomalous SD propagation. This abnormal SD conduction may account for periodic changes of ictal and interictal activity found in some types of focal epilepsy (Koroleva and Bures, 1982). SD was observed in association with epilepsy in patients suffering from brain vascular disorders (Fabricius et al., 2008). Regional cerebral blood flow (rCBF) changes in epilepsy have some similarities to those changes in
+9migraine. The human brain frequently has been observed during convulsive seizure. An initial pallor preceding and during the early phase of epileptic attack was reported while the latter part of the fit and post-convulsive state were accompanied by widespread vasodilatation of cerebral vessels. The dilated vessels were first cyanotic, and then for several hours bright red. Positron emission tomography shows a significant reduction of rCBF and oxygen consumption in interictal period and an increased local blood flow in the ictal state in epileptic focus. A small but significant reduction in both of those was observed in cerebral hemisphere homolateral to the hypoperfused and hypometabolic areas (Bernardi et al., 1983). Ictal scans revealed a focal or multifocal increase in rCBF and oxygen consumption in an active seizure focus (Olesen, 1986).
+
+SD can serve as a marker of normal function of SD-prone cerebral tissue. It disappears in cortical regions in which neuronal density was reduced by ischemia and can be used for appreciation of delayed recovery or deterioration in the penumbra zone after focal ischemia. Several studies showed that in focal brain ischemia SD increases the ischemic volume. The pathogenic importance of peri-infarct depolarisations for the progression of ischemic injury is supported by the close linear correlation between number of SD and the duration of elevated potassium with infarct volume and reduction of infarct size and neuronal loss in penumbra area by application of NMDA and non-NMDA receptor antagonist and by hypothermia (Mies et al., 1993; Mies et al., 1994).
+
+Propagation of SD
+No explanation of the propagation of SD has been suggested that accounts for all the facts presently proven. The hypothesis that gained wide acceptance is that the spread of SD probably involves the release and diffusion of the chemical mediators, most likely K+ and glutamate into the interstitial fluid. In the isolated chick retina, human neocortical tissue and cat brain, NMDA receptor antagonists block SD completely. By contrast, in rat hippocampus, glutamate and Ca2+ facilitate SD initiation, whereas NMDA antagonists and low Ca2+]o delay its onset but fail to block SD completely.
+
+Given the widespread potential signalling capacities of Ca2+ waves, observations of the interactions between astrocytes and neurons in cell culture have suggested that Ca2+ waves play a role in SD initiation and propagation.
+
+Widely accepted hypotheses hold that the primary event responsible for both the initiation and the propagation of SD is the release of some substance from neuronal elements to the extracellular compartment, which initially excites and then depresses adjacent neurons. The slowness of diffusion of the mediator would account for the low velocity of SD propagation. Among the substances proposed to mediate SD propagation are potassium (Grafstein, 1963; Bures et al., 1974) and excitatory amino acids (Fabricius et al., 1993). There are, however, observations that are difficult to reconcile with either of these two propositions.
+
+
+SD had been interpreted as a composite process or a sequence of several linked events. To solve its genesis, a most important question concerns identification of the very first step in the chain reaction. In the extant literature, however, generally more attention has been given to the major depolarization and the attending extracellular potential shift than to the antecedent events. Among antecedents heralding the onset of SD that have been reported, are a slight increase of extracellular potassium, a small positive shift preceding the fast negative shift of the extracellular potential and several types of fast field activity including a short burst of action potentials or intense synaptic noise (Leao, 1944; Higashida et al., 1974). Even a silence of spontaneous or evoked activity has occasionally been described prior to other signs (Higashida et al., 1974). Not all of these early signs are obligatory prodromals of the large, accelerating, regenerative depolarization that is typical of the process.
+
+
+Even though the discharge of impulses is not required for the initiation or the propagation of SD, the impulse shower does regularly appear at its beginning. The mechanism that gives rise to the impulse discharge may well have a key role in the evolution of SD. The widely spread synchronization seems best explained by electrical continuity that could be provided by gap junctions. Effective communication by way of quasi-syncytial nets has been demonstrated in other systems, for example in the spread
+11of so-called calcium waves in cell cultures (Cornell- Bell et al., 1990). Patent gap junctions may provide a path not only for electric current and for ions but also for intracellular “second” messengers and other active ingredients in cytosol. SD has frequently been interpreted as a diffusion-reaction process whose velocity of spread is governed by the rate of the reaction, which could involve the release of some substance from cells that then acted on the cell membrane of adjacent cells. As there are reasons for doubting a decisive role of either K or of glutamate, we are proposing an alternative hypothesis, involving the exchange of chemical signals not through the interstitial space but by way of gap junctions. The autocatalytic reaction so initiated would alter the membrane from the inside, instead of acting on receptors on the outside.
+
+Cortical structures are organized to process information in a parallel manner via excitatory and inhibitory interactions within and between adjacent cortical modules (Mountcastle, 1997). Throughout the CNS, local circuit inhibition plays an integral role in both neuronal network processing and the regulation of the excitability of projection neurons. Inhibitory circuits may be particularly important to signal processing in cortical networks with pronounced recurrent excitatory interactions (Wong et al., 1984). This inhibition may limit the propagation of excitation and facilitate discharge synchronization of projection neurons by inducing a synchronous refractory period. Breakdown in the dynamic balance of inhibitory and excitatory interaction can lead to a functional disconnection (Wong and Prince, 1990) and disrupts the normal spread of lateral excitation (Grunze et al., 1996).
+
+
+The hippocampus has direct and important functional interactions with brain areas likely to be important to migraine, such as the areas associated with vision, emotions and neuroendocrine homeostasis. The connection between entorhinal cortex and hippocampus is regarded as an important loop responsible for the processing of sensory information (Vaisanen et al., 1999). Thus, these medial temporal lobe structures may play a crucial role in the development of somatosensory and neuropsychotic symptoms in neurological disorders such as epilepsy and migraine (Eid et al. 1995). As memories in humans depend initially on the medial temporal lobe system, including the hippocampus, it was suggested that interictal memory dysfunction in patients with migraine might be attributed to the hippocampus involvement (Kupfermann, 1966). Furthermore, propagation of SD in the hippocampus was believed to play a role in migraine pain by triggering nociceptive activation of the caudal trigeminal nucleus (Kunkler and Kraig, 2003). Classical studies investigated hippocampal SD more often by implantation of KCl into the hippocampus and induction of SD directly in the tissue. Little information is available on the effects of cortical SD on hippocampal activity. Because altered neural circuit function can be seen remote from the SD propagation site, using in vitro brain models, the effects of different substances as well as electrical stimulation on propagation of SD between the neocortex and the hippocampus was investigated.
+
+Material and methodsAdult rats (250–300 g) were decapitated under deep methohexital anaesthesia and the brains were rapidly removed to ice-cold (4 °C) artificial cerebrospinal fluid (ACSF). The cerebellum was removed and a cut was made to divide the two cerebral hemispheres. Combined amygdala-hippocampus–cortex slices containing the temporal cortex, the perirhinal cortex, the entorhinal cortex, the subiculum, the dentate gyrus, the hippocampus, as well as the amygdala (500 µm) were cut in a nearly horizontal plane. Up to two different slices from each side were collected in a preparation. Slices were stored at 28 °C in ACSF, which contained (in mm) NaCl, 124; KCl, 4; CaCl2, 1.0; NaH2PO4, 1.24; MgSO4, 1.3; NaHCO3, 26; glucose, 10 (pH 7.4), oxygenated with 95% O2 and 5% CO2 for > 1 h. After 30-min incubation, CaCl2 was elevated to2.0mmol/L. Slices were individually transferred to an interphase recording chamber, placed on a transparent membrane, illuminated from below and continuously perfused (1.5–2 mL/min) with carbogenated ACSF at 32 °C. A warmed, humified 95% O2 and 5% CO2 gas mixture was directed over the surface of the slices.
+
+Electrophysiological recordings
+Extracellular field potentials were recorded with glass microelectrodes (150 mmol/l NaCl; 2–10 M) connected to the amplifier by an Ag/AgCl–KCl bridge in the third layer of temporal neocortical tissues as well as in the entorhinal cortex and hippocampal CA1 and CA3 areas. Field potentials were traced by an ink-writer and recorded by a digital oscilloscope.
+
+Induction of neocortical SD
+SD was elicited by KCl microinjection. A glass electrode filled with 2 M KCl was fixed in a special holder connected with plastic tube to a pressure injector and the tip inserted into the sixth layer of the neocortical slices. A high-pressure pulse was applied to inject an amount of K+ in the tissue sufficient to induce cortical SD (tip diameter: 2 m; injection pressure 0.5–1.0 bar applied for 200–300 ms, two injections, 1–3 nl per pulse).
+
+Cortical SD-like events were evaluated with respect to their amplitude, duration and velocity rates. SD duration was defined as the interval between the time of half-maximal voltage shift during onset and recovery of the negative DC potential deflection.
+
+Long-term potentiation
+Single pulses of electrical stimulation were applied through a bipolar platinum electrode attached to the white matter perpendicular to the recording electrode in the entorhinal cortex. Evoked field excitatory postsynaptic potentials (fEPSP) were recorded in the third layer of the entorhinal cortex. The fEPSP was elicited by adjusting the intensity of stimulation to 50% of that at which population spikes after fEPSP began to appear. The amplitude of fEPSP 1 ms after the onset was measured for data analysis. In long- term potentiation (LTP) experiments, the cortex was sequentially stimulated once every minute. Ten trains of four pulses (pulse duration 0.1 msec; interpulse interval 50 msec; intensity 5 V) were repeated at intervals of 10 msec. LTP was operationally defined as the mean change in fEPSP amplitude in response to five stimuli given 30 min after tetanic stimulation compared with the mean response to five test pulses applied immediately before the stimulation. Thus % potentiation = [(posttetanus amplitude of fEPSP/baseline amplitude of fEPSP) 1] 100. Tetanic stimulation was applied 60 min after application of drug.
+
+Experimental procedure
+After minimum 30 min incubation, SD was induced by KCl application in temporal cortex. After another 15 min, several compounds were applied to the entorhinal cortex. Compounds applied were: DL-2-Amino-5-phosphonovaleric acid (APV; 50 μmol/L), 6- cyano-7-nitroquinoxaline-2,3-dione (CNQX; 10 μmol/L), N-Methyl-D-Aspartat (NMDA; 10 μmol/L) bicuculline (10 μmol/L), 4-aminopyridine (4-AP; 20 μmol/L), and WIN 55212-2 (5 μmol/L). NMDA, APV, CNQX, bicuculline also applied in accompanied with induction of LTP in the neocortex. The abovementioned drugs were administered focally through microelectrodes on to slices (electrode tip diameter 2–315μM, 0.5–2 bar; 500–800 ms, 3–5 nl). Drugs were released through microelectrodes on to the surface of the slices. After 60 minutes application of drugs or application of substances and LTP, second KCl injection was applied (SD2). The effect of wash-out of these drugs on induction of KCl was tested after another 45 minutes (SD3).
+
+Statistical analysis
+All data are given as mean ± SEM. The data were statistically analysed using the Mann– Whitney Rank Sum test. Significance was established when the probability values were less than 0.05. The investigations were approved by the local ethics committee (Tierversuchsgenehmigung, Bezirksregierung Münster, Deutschland, AZ: 50.0835.1.0, G79/2002).
+
+ResultsThe first focal application of KCl in the sixth layer of somatosensory neocortical tissues elicited negative DC waves followed by positive waves (n = 12, amplitude of 14.1 ± 2.6 mV; duration of 118 ± 5 sec). Negative DC-deflections were preceded by small positive waves in some slices. SD1 is only propagate through temporal neocortex and failed to enter the entorhinal cortex. The second application of KCl after 45 minutes induced DC negative deflection (19.5 ± 2.9 mV; duration of 143 ± 7 sec) which propagated to the entorhinal cortex (6.5 ± 1.9 mV; duration of 103 ± 8 sec). SD2, however, did not propagate to the hippocampus. The third application of KCl after another 45 minutes elicited DC waves which propagated from the temporal neocortex to the entorhinal cortex and then to the hippocampal CA1 area. SD3 has the amplitude of 14 ± 1.7 mV, 11 ± 2.1 mV, and 10 ± 2.2 mV and the duration of 139 ± 9 sec, 143 ± 7 sec, 101 ± 6 sec, and 84 ± 7 sec in the temporal neocortex, the entorhinal cortex and the hippocampal CA1 area, respectively (figure 3).
+
+The effect of APV on SD propagation
+The first focal application of KCl in the sixth layer of the temporal neocortical tissues produced negative DC deflections followed by positive waves (n = 8, amplitude of 18.1±3.6 mV; duration of 118 ± 5 sec). The first SD was only propagated in the temporal neocortex. Application of APV at concentration of 50 μmol/L inhibited propagation of SD to the entorhinal cortex and the hippocampus in the second and third application of KCl after 45 and 90 minutes after SD1. The amplitude and the duration of SD2 was 19.4 ± 3.2 mV and 138 ± 7 sec. SD3 was also appeared only in the temporal cortex with the amplitude of 16.1 ± 3.1 mV and duration of 148 ± 4 sec (figure 4).
+
+SD 1CA3CA1ECTCSD 2CA3CA1ECTCSD3CA3CA1EC TC14 mV 2min3 mV93s19 mV2,5min11mV 84s21 mV101s14mV2,5minCA3ECA1TKClCA3ECA1TKClCA3ECA1TKClFigure 3. Application of repetitive KCl (with interval of 45 minutes) change the propagation pattern of SD from the temporal neocortex to the hippocampus via the entorhinal cortex. The first SD (SD1) only spread in the temporal cortex while the second and the third one propagated to the entorhinal cortex and the hippocampus.
+
+SD 1CA3CA1ECTC19 mV 68sCA3ECA1TKClSD 2CA3CA1ECTC18mV 2,5minSD 3CA3CA1CA3ECA1TKClCA3EEC TC14 mV 3minCA1TKClFigure 4. The effect of blocking of NMDA receptors by application of APV (50 μmol/L) on the propagation pattern of repetitive SD in combined neocortex-hippocampus slices. APV inhibited the second and the third SD to enter the entorhinal cortex and the effect of CNQX on SD propagationThe first focal application of KCl in the sixth layer of the temporal neocortical tissues produced negative DC deflections (n = 8, amplitude of 12.1 ± 1.6 mV; duration of 98 ± 5 sec). The first SD was only propagated in the temporal neocortex. Application of CNQX at concentration of 10 μmol/L, drastically changed the pattern of SD propagation in combined neocortex-hippocampus slices. The second application of KCl induced DC waves which were propagated to the entorhinal cortex as well as the hippocampal CA1 and CA3 areas. The amplitude of SD2 was 21.4 ± 2.2 mV, 24.2 ± 1.7 mV, 19 ± 1.7 mV, and 25 ± 1.7 mV in the temporal neocortex, the entorhinal cortex, and CA1 and CA3 area of the hippocampus, respectively. The duration of SD2 was 180±11 sec, 166 ± 17 sec, 123 ± 12 sec, and 125 ± 17 sec in the temporal neocortex, the entorhinal cortex, and CA1 and CA3 area of the hippocampus, respectively. Washout of the CNQX for 45 minutes, however, did not change the pattern of SD propagation under the effect of CNQX. After washout period, injection of KCl induced SD in the temporal cortex. This SD propagated to the hippocampal CA1 and CA3 via the entorhinal cortex (figure 5).
+
+The effect of WIN 55212-2 on SD propagation
+The first focal application of KCl in the temporal neocortical tissues produced negative DC deflections (n = 8, amplitude of 17.1 ± 2.6 mV; duration of 198 ± 8 sec). The first SD was only propagated in the temporal neocortex. Application of WIN 55212-2 (5 μmol/L), a potent cannabinoide receptor agonist, significantly changed the pattern of SD propagation in the combined neocortex-hippocampus slices.
+
+SD 1CA3CA1ECTC15mV 2,minCA3ECA1TKClSD 2CA3 CA1ECTCSD3CA3CA1ECTC25m V3,5min19m V 105s24m V3min21m V6min7 mV38s23 mV 3min21m V3min16m V3minCA3ECA1TKClCA3ECA1TKClFigure 5. The effect of blocking of AMPA receptors by application of APV (10 μmol/L) on the propagation pattern of repetitive SD in combined neocortex-hippocampus slices. CNQX facilitated propagation of the second and the third SD to enter the entorhinal cortex and the hippocampus.
+
+The second injection of KCl elicited negative DC waves which were propagated to the entorhinal cortex as well as the hippocampal CA1 and CA3 areas. The amplitude of SD2 was 18.4 ± 2.8 mV, 20 ± 2.7 mV, 17 ± 2.7 mV, and 11 ± 1.2 mV in the temporal neocortex, the entorhinal cortex, and CA1 and CA3 area of the hippocampus, respectively. The duration of SD2 was 168 ± 10 sec, 160 ± 14 sec, 173 ± 12 sec, and 165 ± 12 sec in the temporal neocortex, the entorhinal cortex, and CA1 and CA3 area of the hippocampus, respectively. Wash-out of the WIN 55212-2 for 45 minutes, however, did not change the pattern of SD propagation under the effect of WIN 55212-2. The same as CNQX, after washout of WIN 55212-2, SD3 propagated to the hippocampal CA1 and CA3 regions through the entorhinal cortex. The amplitude and the duration of SD3 were not differing significantly with SD2 (figure 6).
+
+SD 1CA3CA1ECTC14mV3,5minCA3ECA1TKClSD 2C A311  mVCA3 5,5minEC A1 13    mVCA1EC6,5min 16  T m V 3,5minKCl  TC23  mV  5min SD 3CA31 6m V 5minCA123m V 4,5minCA3ECA1EC8  m V TC4,5minT17KCl   mV  4,5min Figure 6. The effect of WIN 55212-2, a potent cannabinoide receptor agonist, at concentration of 10 μmol/L on the propagation pattern of repetitive SD in combined neocortex-hippocampus slices. WIN 55212-2 facilitated propagation of the second and the third SD to enter the entorhinal cortex and the hippocampus.
+
+The effect of 4-AP on SD propagationThe first local application of KCl in the sixth layer of the temporal neocortical tissues induced negative DC fluctuations (n = 8, amplitude of 17.1 ± 2.6 mV; duration of 128 ± 5 sec). The first SD was only propagated in the temporal neocortex or in some slices propagated to the entorhinal cortex (amplitude of 13.6 ± 2mV; duration of 108 ± 4 sec). Application of 4-AP, a potassium channel blocker, at concentration of 20 μmol/L did not alter the pattern of SD propagation in combined neocortex-hippocampus slices. SD2 was also only propagated to the temporal and entorhinal cortices. The amplitude and duration of SD2 were not differed from SD1. Washout of the 4-AP for 45 minutes, however, changed the pattern of SD propagation under the effect of 4-AP. After washout period, injection of KCl induced SD in the temporal cortex. This SD propagated to the hippocampal CA1 and CA3 via the entorhinal cortex (figure 7).
+
+SD 1CA3CA1ECTCSD 2CA3 CA1ECTCSD 319mV82ms17mV2,5min 22mV 101s18mV3minCA3ECA1TKClCA3ECA1TKClCA34  m V CA197sCA313E mV EC1 1 1 s 5CA1   mV TC3min    20T KCl mV  4,5min Figure 7. The effect of blocking of potassium ion channels by application of 4-AP (20 μmol/L) on the propagation pattern of repetitive SD in combined neocortex- hippocampus slices. 4-AP facilitated propagation of the third SD to enter the entorhinal cortex and the hippocampus.
+
+The effect of bicuculline on SD propagationThe first focal application of KCl in the sixth layer of the temporal neocortical tissues produced negative DC deflections followed by positive waves (n = 8, amplitude of 26.1±2.6 mV; duration of 138 ± 7 sec). The first SD was only propagated in the temporal neocortex. Application of bicuculline, GABAA receptor inhibitor, at concentration of 10 μmol/L did not facilitate or blocked propagation of SD to the entorhinal cortex and the hippocampus in the second and third application of KCl after 45 and 90 minutes after SD1. The amplitude and the duration of SD2 was 19.2 ± 2.3 mV and 126 ± 7 sec. SD3 was also appeared only in the temporal cortex with the amplitude of 23.3 ± 2.1 mV and duration of 138 ± 6 sec (figure 8).
+
+The effect of electrical stimulations on SD propagation
+The first focal application of KCl in the sixth layer of the temporal neocortical tissues produced negative DC deflections followed by positive waves (n = 8, amplitude of 9 ±0.6mV; duration of 98 ± 3 sec). The first SD was only propagated in the temporal neocortex. Application of electrical stimulation to induce maximum fEPSP in the entorhinal cortex each 60 sec did not change the propagation pattern of SD propagation after 45 minutes. The amplitude and the duration of SD2 were 12.2 ± 3 mV and 103 ± 4 sec. However, after 45 minutes of ceasing electrical stimulation SD was recorded by all electrodes inserted in the temporal and entorhinal cortices as well as in the hippocampal CA1 and CA3 regions (figure 9).
+
+SD 1CA3CA1ECTC26  mV 4minCA3ECA1R TKClSD 2CA3CA1ECTCSD 3CA3CA1ECTC 16 mV 4min24 mV 3minCA3ECA1R TKClCA3ECA1R TKClFigure 8. The effect of blocking of GABAA receptors by application of bicuculline (10 μmol/L) on the propagation pattern of repetitive SD in combined neocortex- hippocampus slices. Bicuculline both by application and withdrawal did not change the SD1 propagation pattern.
+
+SD 1CA3CA1ECTCSD 2CA3CA1ECTCSD 39 mV83s12 mV101sCA3ECA1R TKClCA3ECA1R TKClCA328 mV 99sCA125 mVEC61s28  mVTC2,5min14  mV 2minCA3ECA1 RTKClFigure 9. The effect of continuous application of electrical stimulations in the entorhinal cortex on the propagation pattern of repetitive SD in combined neocortex- hippocampus slices. Fort-five minutes of withdrawal of electrical stimulations facilitated propagation of SD.
+
+The effect of induction of LTP in the entorhinal cortex on SD propagationThe first application of KCl in the sixth layer of the temporal neocortical tissues produced negative DC deflections followed by positive waves (n = 8, amplitude of 24 ±3.8mV; duration of 110 ± 4 sec). The first SD was only propagated in the temporal neocortex. Forty-five minutes after SD1, tetanic stimulation was applies in the entorhinal cortex and induced a long-lasting enhancement of fEPSP amplitude (138 ± 4.8% of the baseline; figure 10). Application of tetanic electrical stimulation in the entorhinal cortex did not change the propagation pattern of SD propagation after 45 minutes. The amplitude and the duration of SD2 were 21.2 ± 5 mV and 97 ± 3 sec. However, after 45 minutes after LTP induction SD was recorded by all electrodes inserted in the temporal and entorhinal cortices as well as in the hippocampal CA1 and CA3 regions (figure 11).
+
+Enhancement of fEPSP (%)160140120100806040200051015202530Time (min)Figure 10. Application of tetanic stimulation in the entorhinal cortex induced long lasting enhancement of fEPSP in this part of combined neocortex-hippocampus slice.
+
+SD 1CA3CA1ECTCSD 2CA3CA1ECTCSD 39 mV83s12 mV101sCA3ECA1R TKClCA3ECA1R TKClCA328 mV 99sCA125 mVEC61s28  mVTC2,5min14  mV 2minCA3ECA1 RTKClFigure 11. The effect of induction of LTP in the entorhinal cortex on the propagation pattern of repetitive SD in combined neocortex-hippocampus slices. Fort-five minutes after induction of LTP, a facilitation in propagation of SD was observed.
+
+Application of AMPA receptor blocker CNQX, 30 minutes before application of LTP or 60 minutes after that, inhibited SD propagation to the hippocampus (figure 12 and 13).
+
+SD 1CA3CA1ECTC30mV 3,5minSD 2CA3CA1ECTC34  mV 4minCA3ECA1R TKClCA3ECA1R TKClSD 3CA3CA1ECTC23mV5minCA3ECA1R TKClFigure 12. The effect of application of CNQX (10 μmol/L) for 30 minutes before induction of LTP in the entorhinal cortex on the propagation pattern of repetitive SD in combined neocortex-hippocampus slices. Application of CNQX before LTP induction inhibited propagation of SD3 to the hippocampus.
+
+SD 1CA3CA1ECTCSD 2CA3CA1ECTCSD 3CA3CA120 mV9,5min11mV3,5minCA3ECA1R TKClCA3ECA1R TKClCA3EECTC3 mV 106sCA1R TKClFigure 13. The effect of application of CNQX (10 μmol/L) for 60 minutes after induction of LTP in the entorhinal cortex on the propagation pattern of repetitive SD in combined neocortex-hippocampus slices. Application of CNQX after LTP induction inhibited propagation of SD3 to the hippocampus.
+
+Application of NMDA blocker APV (50 μmol/L) 30 minutes before induction of LTP facilitated the effect of LTP on SD propagation. SD2 propagated to CA1 area and SD3 penetrated the whole hippocampus (both CA1 and CA3 regions; figure 14).
+
+Administration of NMDA blocker APV (50 μmol/L) 60 minutes after induction of LTP, however, inhibited the effect of LTP on SD propagation. SD2 and SD3 propagated only in the temporal cortex and did not enter the entorhinal cortex or the hippocampus (figure 15).
+
+SD1CA3CA1ECTCSD2CA3CA1ECTCCA3E23CA1RmV   90s  1 8 Tm V KCl 4,5min   22CA3  Em V  3,5minCA1  R26   mV  3,5min  8KClTmV   4,5min      SD3CA3        1 7                                                                                      m V                                                                          CA1                                                                  4,5min                                                                   2 2                                                                                                                                                                                                        m V                                                                                                                                         EC                                                                      5,5min                                                                                                              2 6                                                                                  m V                                                                                                   CA3ECA1 RTC4,5min6 m V 5,5minTKClFigure 14. The effect of application of APV (10 μmol/L) for 30 minutes before induction of LTP in the entorhinal cortex on the propagation pattern of repetitive SD in combined neocortex-hippocampus slices. Application of APV before LTP induction facilitated propagation of SD2 and SD3 to penetrate the hippocampus.
+
+SD 1CA3CA1ECTC2 mV107msCA3ECA1R TKClSD 2CA3CA1ECTC8 mV 2,5minCA3ECA1R TKClSD3CA3CA1ECTC8mV3,5minCA3ECA1R TKClFigure 15. The effect of application of APV (10 μmol/L) for 60 minutes after induction of LTP in the entorhinal cortex on the propagation pattern of repetitive SD in combined neocortex-hippocampus slices. Application of APV after LTP induction inhibited propagation of SD2 and SD3 to the entorhinal cortex or the hippocampus.
+
+DiscussionThe present study shows how propagation of SD between the neocortex and the hippocampus can modulate with different substances as well as by electrical stimulation. Repetitive SD enhanced the chance of penetration of the hippocampus by negative deflection of SD wave. Furthermore, blocking of AMPA receptors as well as potassium ion channels and activation of cannabinoide receptors facilitated the propagation of SD to the hippocampus via the entorhinal cortex. In contrary, blocking of glutamate NMDA sub-receptors and GABAA receptors inhibited the effect of repetitive SD to enhancing the possibility of cortical SD propagation to the hippocampus. Application of repetitive electrical stimulation as well as induction of LTP did not change the propagation pattern of the second SD in our experiments. However, these stimulations facilitated the propagation of cortical SD to the hippocampus after 90 minutes (SD3). Blocking of AMPA receptors either before or after LTP induction and blocking of NMDA receptors before induction of LTP limited the propagation of SD to the temporal cortex. Application of NMDA receptor blocker APV after LTP induction had no effect on late facilitatory effect of LTP on propagation pattern of repetitive SD.
+
+Intrinsic optical imaging as well as bioelectrical recordings revealed different patterns of SD propagation in hippocampal and entorhinal slices (Buchheim et al., 2002; Wernsmann et al., 2006). All data indicated of a resistance of the entorhinal cortex for penetration by cortical SD. Although the exact mechanisms responsible for difficulty of cortical SD propagation to the entorhinal cortex are not clear, some hypotheses can be derived from experimental data. A traditional view assumes that the entorhinal cortex faithfully transmits neocortical inputs to the hippocampus and the hippocampus inputs to the neocortex (Naber et al., 1999). More recent evidence suggests that the entorhinal cortex is more than a simple relay between the neocortex and hippocampus. The entorhinal cortices contribute to the gating of impulses between these brain structures. Local inhibition and intrinsic membrane properties of entorhinal neurons are major factors limiting impulse traffic across the entorhinal cortex (Pelletier et al., 2004). This may be the reason that induction of LTP and continuous stimulation changed the SD
+38propagation between those structures. In line with this, physiological studies have disclosed the existence of powerful inhibition in the entorhinal cortex (Finch et al., 1986; Jones & Buhl, 1993; Funahashi & Stewart, 1998), which may act to abort the propagation of SD.
+
+In addition, some studies indicated relative difficulties of SD occurrence in the hippocampus compared with the entorhinal cortex (Dalby & Mody, 2003; Faria & Mody, 2004). The failure of cortical SD to spread to the hippocampus was reported earlier (Fifkova, 1964). The release of glutamate is essential to the propagation of cortical SD (Van Harreveld & Fifkova, 1973). Several studies have shown that glutamate acts via NMDA receptors during the generation and propagation of SD (Mody et al., 1987; Gorji, 2001). The NMDA receptors are assembled from NR1 subunits and at least one subtype of the four members of the NR2(A–D) subunits family. NR2B subunits are essential to the generation and propagation of SD in the entorhinal cortical slices (Faria & Mody, 2004). The physiological characteristics and possibly the localization of NR2B subunits at synapses differ between the entorhinal cortex and the hippocampus (Gordey et al., 2001; Faria & Mody, 2004), which, in turn, may influence SD penetration into the hippocampus. This can be relevant in our study with the effect of blocking NMDA receptors on SD propagation through the entorhinal cortex. Blocking of NMDA receptors inhibited the propagation of SD to the entorhinal cortex. Furthermore, induction of LTP is accompanied by activation of NMDA receptors. Therefore, the effect of LTP on SD propagation in the entorhinal cortex may be related to its alteration in NMDA receptor architecture.
+
+
+Seventy per cent of CSD waves propagating from temporal cortex slices penetrated to adjacent entorhinal cortex slices and stopped there, whereas the remaining 30% reached CA1 and CA3 regions of the hippocampal slices (Wernsmann et al., 2006). On the other hand, CSD elicited from the somatosensory neocortex of anaesthetized rats did not penetrate into the hippocampus (Wernsmann et al., 2006). This suggests that the CSD recording in slices offers better conditions for SD propagation probably due to weakening of intrahippocampal inhibitory mechanisms. In our study, the relationships
+39between two sides hippocampus was failed and this may influence the propagation of SD.
+
+The entorhinal cortex, a palaeocortical area, receives projections from secondary and higher associative areas of the neocortex. Regions of both ipsilateral frontal and temporal lobes are found to contribute afferents to this region of the brain. The association areas from the primary sensory modalities of vision, audition, and somesthesis project to multimodal convergence areas in the frontal and parietal lobes (Pandya & Kuypers, 1969). Both multimodal regions project in turn to the cingulate gyrus on the medial surface of the hemisphere, which contributes a heavy supply of afferents to the presubiculum and entorhinal cortex (Jones & Powell, 1970). Therefore, the entorhinal cortex is a final cortical link between the sensory systems of the neocortex and the hippocampus of the limbic system and plays a role as a filter between these two structures. From the entorhinal inputs, the hippocampus receives highly complex and differentiated signals, coding information about the properties of the applied stimuli. The entorhinal cortical neurons constitute the direct perforant path and the crossed temporoammonic path to the hippocampus. They terminate on dendritic branches of CA1–CA3 and the dentate fascia neurons (Van Hoesen et al., 1972). Transient sensory cortical dysfunction induced by abortive SD enhanced hippocampal activity (Wernsmann et al., 2006). This suggests an inhibitory tone mediated through neocortical influence on hippocampal plasticity. In our study, application of GABAA blocker inhibited propagation of SD to the hippocampus via the entorhinal cortex. This may related to the manipulation of this inhibitory inputs of the entorhinal cortex to the hippocampus. Our conclusion is supported by recent evidence indicating that elimination of cortical input resulted in increased reactivity and complete disappearance of habituation, with prolongation of tonic responses in the hippocampus (Vinogradova, 2001). Lesions of the entorhinal cortex in adolescent rats also resulted in enhancement of spontaneous locomotor activities, an effect possibly mediated by postsynaptic hypersensitivity (Sumiyoshi et al., 2004).
+
+LTP is an experimental phenomenon, which can be used to demonstrate the repertoire of long-lasting modifications of which individual synapses are capable. LTP remains one of the prime candidates for mediating learning and memory as well as many other forms of experience-dependent plasticity (Malenka & Bear, 2004). Functional disruption of neocortical input to the hippocampus induced by abortive SD in both in vitro and ex vivo experiments enhanced the LTP in the CA1 hippocampal area ipsilateral to SD initiation (Wernsmann et al., 2006). Enhancement of LTP by abortive SD was NMDA receptor dependent. Our data indicate the modulatory role of the changes of synaptic strength by LTP induction on SD propagation. In line with our results, CSD visualized using manganese-enhanced MRI following topical application of KCl to the exposed rat cortex revealed signal enhancement in CA1–3 areas, the subiculum and the dentate gyrus of the hippocampus (Henning et al., 2005).
+
+Some evidence implicates the hippocampus in spatial memory and navigation, learning and emotion (Jensen & Lisman, 2005). This structure is also related primarily to the control of gross movements, such as locomotion and changes in posture, and involved in certain aspects of the pituitary–adrenocortical system. Amnesia, emotional disturbances, hyperactivity, yawning, and fluid retention were observed in hippocampal dysfunction as well as during migraine attacks (Bures et al., 1974; Isaacson & Pribram, 1975; Dalessio, 1980; Daquin et al., 2001). SD in animal experiments also elicits similar symptoms (Gorji, 2001). SD-like changes occur with visual aura in patients with migraine (Hadjikhani et al., 2001). Propagation of depolarizing waves in sensory systems of the neocortex may directly affect primary sensory modalities and induce aura symptoms such as visual hallucinations. SD, both indirectly via the effect on entorhinal input to the hippocampus or directly by propagation to the hippocampal structure, may disturb the hippocampal function and lead to symptoms such as amnesia or hyperactivity during migraine attacks. This study, therefore, collected data that how may influence the SD propagation to the hippocampus by different substance and electrical stimulations. This may help for further steps to design pharmacological or interventional methods to support hippocampus from affecting by cortical SD.
+
+References
+Bradley DP, Smith MI, Netsiri C, Smith JM, Bockhorst KH, Hall LD, Huang CL, Leslie RA, Parsons AA, James MF. Diffusion-weighted MRI used to detect in vivo modulation of cortical spreading depression: comparison of sumatriptan and tonabersat. Exp. Neurol. 2001; 172:342-53.
+
+Buchheim, K., Weissinger, F., Siegmund, H., Holtkamp, M., Schuchmann, S., Meierkord, H. Intrinsic optical imaging reveals regionally different manifestation of spreading depression in hippocampal and entorhinal structures in vitro. Exp. Neurol. 2002;175, 76–86.
+
+
+Bures J., Buresova O., Krivanek J. In: The Mechanisms and Applications of Leao’s Spreading Depression of Electroencephalographic Activity, Academic Press, New York, 1974.
+
+
+Cornell-Bell AH, Finkbeiner SM, Cooper MS, Smith SJ. Glutamate induces calcium waves in cultured astrocytes: long-range glial signaling. Science. 1990;247:470-3.
+
+
+Dalessio, D.J. Wolff's Headache and Other Head Pain. Oxford University Press, New York, 1980.
+
+
+Daquin, G., Micallef, J.,Blin, O. Yawning. Sleep Med. Rev. 2001;5:299–312.
+
+
+Dehbandi S, Speckmann EJ, Pape HC, Gorji A. Cortical spreading depression modulates synaptic transmission of the rat lateral amygdala. Eur J Neurosci. 2008;27:2057-65
+Ebersberger A, Schaible HG, Averbeck B, Richter F.Is there a correlation between spreading depression, neurogenic inflammation, and nociception that might cause migraine headache? Ann Neurol. 2001;49:7-13.
+
+Eid, T., Du, F., Schwarcz, R. Differential neuronal vulnerability to amino-oxyacetate and quinolinate in the rat parahippocampal region. Neuroscience 1995;68:645–656.
+
+Fabricius M, Fuhr S, Willumsen L, Dreier JP, Bhatia R, Boutelle MG, Hartings JA, Bullock R, Strong AJ, Lauritzen M. Association of seizures with cortical spreading depression and peri-infarct depolarisations in the acutely injured human brain. Clin Neurophysiol 2008; 119:1973-84.
+
+
+Faria, L.C., Mody, I. Protective effect of ifenprodil against spreading depression in the mouse entorhinal cortex. J. Neurophysiol. 2004; 92:2610–2614.
+
+
+Faria, L.C., Mody, I. Protective effect of ifenprodil against spreading depression in the mouse entorhinal cortex. J. Neurophysiol. 2004;92:2610–2614.
+
+
+Fifkova, E. Spreading EEG depression in the neo-, paleo-, and archicortical structures of the brain of the rat. Physiol. Bohemoslov. 1964;13:1–15.
+
+
+Funahashi, M., Stewart, M. GABA receptor-mediated post-synaptic potentials in the retrohippocampal cortices: regional, laminar and cellular comparisons. Brain Res. 1998;787:19–33.
+
+
+Gorji A, Scheller D, Straub H, Tegtmeier F, Köhling R, Höhling JM, Tuxhorn I, Ebner A, Wolf P, Werner Panneck H, Oppel F, Speckmann EJ. Spreading depression in human neocortical slices. Brain Res. 2001;906:74-83.
+
+
+Gorji A. Spreading depression: a review of the clinical relevance. Brain Res. Brain Res. Rev., 2001:38, 3360.
+
+
+Grafstein B. Neuronal release of potassium during spreading depression. In: M.A.B. Brazier, Editor, Brain Function Vol. 1, University of California Press, Berkeley, CA, 1963, pp. 87–124.
+
+Grunze HC,Rainnie DG,Hasselmo ME,Barkai E,Hearn EF,McCarley RW,Greene RW.
+
+NMDA-dependent
+modulationofCA1localcircuitinhibition. JNeurosci 1996;16:2034-2043.
+
+ 
+       Grunze HC,Rainnie DG,Hasselmo ME,Barkai E,Hearn EF,McCarley RW,Greene RW.
+
+NMDA-dependent
+modulationofCA1localcircuitinhibition. J.
+
+Neurosci 1996; 16: 2034-2043.
+
+
+Hadjikhani N, Sanchez Del Rio M, Wu O, Schwartz D, Bukker D, Fischt B, Kwong KK, Cutrer FM, Rosen BR, Tootell RB, Sorensen AG, Moskowitz MA. Mechanisms of migraine aura revealed by functional MRI in human visual cortex. Proc. Natl. Acad. Sci. USA., 2001;98:46874692.
+
+
+Higashida H, Mitarai G, Watanabe S. A comparative study of membrane potential changes in neurons and neuroglial cells during spreading depression in the rabbit. Brain Res. 1974;65:411-25.
+
+
+Hossmann KA Periinfarct depolarizations. Cerebrovasc Brain Metab Rev 1996;8:195- 208.
+
+
+Isaacson, R.L., Pribram, K.H. The Hippocampus. Plenum Press, New York,1975.
+
+
+Jensen, O., Lisman, J.E. Hippocampal sequence-encoding driven by a cortical multi- item working memory buffer. Trends Neurosci. 2005;28:67–72.
+
+
+Jones, E.G., Powell, T.P. An anatomical study of converging sensory pathways within the cerebral cortex of the monkey. Brain 1970;93, 793–820.
+
+
+Jones, E.G., Powell, T.P. An anatomical study of converging sensory pathways within the cerebral cortex of the monkey. Brain 1970;93:793–820.
+
+
+Jones, R.S., Buhl, E.H. Basket-like interneurones in layer II of the entorhinal cortex exhibit a powerful NMDA-mediated synaptic excitation. Neurosci. Lett. 1993;149, 35– 39.
+
+Kaube H, Goadsby PJ. Anti-migraine compounds fail to modulate the propagation of cortical spreading depression in the cat. Eur Neurol 1994;34:30-5.
+
+Koroleva VI, Bures J Stimulation induced recurrent epileptiform discharges block cortical and subcortical spreading depression in rats. Physiol Bohemoslov 1982;31:385- 400.
+
+
+Koroleva VI, Vinogradova LV, Korolev OS. The persistent negative potential provoked in different structures of the rat brain by a single wave of spreading cortical depression. Zh Vyssh Nerv Deiat Im I P Pavlova. 1998;48:654-63.
+
+
+Kunkler, P.E., Kraig, R.P. Hippocampal spreading depression bilaterally activates the caudal trigeminal nucleus in rodents. Hippocampus 2003;13:835–844.
+
+
+Kupfermann, I. Is the retrograde amnesia that follows cortical spreading depression due to subcortical spread? J. Comp. Physiol. Psychol. 1966; 61:466–467.
+
+
+Lambert GA, Michalicek J, Storer RJ, Zagami AS. Effect of cortical spreading depression on activity of trigeminovascular sensory neurons. Cephalalgia 1999;9:631-8.
+
+
+Lambert GA, Michalicek J, Storer RJ, Zagami AS. Effect of cortical spreading depression on activity of trigeminovascular sensory neurons. Cephalalgia 1999;9:631-8.
+
+
+Lashley KS. Pattern of cerebral integration indicated by scotomas of migraine. Arch. Neurol. Psychiatr. 1941;46:331.
+
+
+Lauritzen M. Long-lasting reduction of cortical blood flow of the brain after spreading depression with preserved autoregulation and impaired CO2 response. J Cereb Blood Flow Metab. 1984;4:546-54.
+
+
+Leao AAP. Spreading depression of activity in the cerebral cortex. J. Neurophysiol. 1944;7: 359–390.
+
+Leao AAP, Morrison RS. Propagation of spreading cortical depression. J. Neurophysiol. 1945;8:33–45.
+
+Martins-Ferreira H, Nedergaard M, Nicholson C. Perspectives on spreading depression. Brain Res Brain Res Rev. 2000;32:215-34.
+
+
+Mayevsky A, Doron A, Manor T, Meilin S, Zarchin N, Ouaknine GE. Cortical spreading depression recorded from the human brain using a multiparametric monitoring system. Brain Res. 1996;18;740:268-74.
+
+
+Milner PM. Note on a possible correspondence between the scotomas of migraine and spreading depression of Leão. Electroencephalogr Clin Neurophysiol 1958;10:705
+Mody I, Lambert JD, Heinemann U. Low extracellular magnesium induces epileptiform activity and spreading depression in rat hippocampal slices. J. Neurophysiol. 1987;57:869–888.
+
+Mountcastle VB. The columnar organization of the neocortex. Brain 1997; 120: 701- 722.
+
+
+Naber, P.A., Witter, M.P., Lopes da Silva, F.H. Perirhinal cortex input to the hippocampus in the rat: evidence for parallel pathways, both direct and indirect. A combined physiological and anatomical study. Eur. J. Neurosci., 1999;11:4119–4133.
+
+
+Nedergaard M, Vorstrup S, Astrup J. Cell density in the border zone around old small human brain infarcts. Stroke 1986;17:1129-37.
+
+
+Nedergaard M, Vorstrup S, Astrup J. Cell density in the border zone around old small human brain infarcts. Stroke 1986;17:1129-37.
+
+
+Nicholson C, Syková E. Extracellular space structure revealed by diffusion analysis. Trends Neurosci. 1998;21:207-15.
+
+
+Obeidat AS, Andrew RD. Spreading depression determines acute cellular damage in the hippocampal slice during oxygen/glucose deprivation. Eur J Neurosci. 1998;10:3451- 61.
+
+Olesen J. Regional cerebral blood flow (rCBF) studies in migraine and epilepsy. Funct Neurol 1986;1:369-74.
+
+
+Pandya, D.N., Kuypers, H.G. Cortico-cortical connections in the rhesus monkey. Brain Res. 1969;13:13–36.
+
+
+Somjen GG, Aitken PG, Balestrino M, Herreras O, Kawasaki K. Spreading depression- like depolarization and selective vulnerability of neurons. A brief review. Stroke 1990; 21(Suppl):III179-83.
+
+
+Somjen GG. Mechanisms of spreading depression and hypoxic spreading depression- like depolarization. Physiol Rev.; 2001;81:1065-96.
+
+
+Sumiyoshi, T., Tsunoda, M., Uehara, T., Tanaka, K., Itoh, H., Sumiyoshi, C., Kurachi, M. Enhanced locomotor activity in rats with excitotoxic lesions of the entorhinal cortex, a neurodevelopmental animal model of schizophrenia: behavioral and in vivo microdialysis studies. Neurosci. Lett., 2004;364:124–129.
+
+
+Väisänen J, Lindén AM, Lakso M, Wong G, Heinemann U, Castrén E. Excitatory actions of NMDA receptor antagonists in rat entorhinal cortex and cultured entorhinal cortical neurons. Neuropsychopharmacology. 1999;21:137-46
+Van Harreveld A, Kooiman M. Amino acid release from the cerebral cortex during spreading depression and asphyxiation. J. Neurochem. 1965;12:431–439.
+
+Van Hoesen, G.W., Pandya, D.N., Butters, N. Cortical afferents to the entorhinal cortex of the Rhesus monkey. Science 1972;175:1471–1473.
+
+
+Vinogradova, O.S. Hippocampus as comparator: role of the two input and two output systems of the hippocampus in selection and registration of information. Hippocampus 2001; 11:578–598.
+
+Welch KM, Barkley GL, Tepley N, Ramadan NM. Central neurogenic mechanisms of migraine. Neurology 1993;43(6 Suppl 3):S21-5.
+
+
+Wernsmann B, Pape HC, Speckmann EJ, Gorji A Effect of cortical spreading depression on synaptic transmission of rat hippocampal tissues. Eur J Neurosci. 2006;23:1103-10.
+
+
+Wong BY, Prince DA. The lateral spread of ictal discharges in neocortical brain slices. Epilepsy Res 1990; 7: 29-39.
+
+
+Wong RK, Miles R, Traub RD. Local circuit interactions in synchronization of cortical neurones. J Exp Biol. 1984; 112: 169-178.
+
+
+Zachar J, Zacharova D Mechanism of the origin of spreading cortical depression . Lek Pr 1963;3:3-110.
+

@@ -1,0 +1,979 @@
+Untersuchungen zur Rolle des p107 in Gefäß-Traumatisierungsmodellen der Maus
+
+
+1 Einleitung
+Trotz der seit 1970 kontinuierlich sinkenden Sterblichkeit an koronarer Herzkrankheit fordern Herz-Kreislauf-Erkrankungen in der Bundesrepublik Deutschland jährlich zahlreiche Todesopfer und gelten mit 180.000 Todesfällen pro Jahr als die häufigste Todesursache [50]. Die koronare Herzkrankheit (KHK) stellt die Manifestation der Arteriosklerose an den Koronararterien dar und tritt mit einer Prävalenz von bis zu 20% der Männer im mittleren Lebensalter auf [47].
+
+Ebenso stellt die In-Stent-Restenose sowohl klinisch als auch volkswirtschaftlich ein überaus relevantes Problem dar [50]. Dadurch steigt zunehmend die Bedeutung einer erfolgreichen Therapiemöglichkeit.
+
+
+Bei symptomatischer KHK ist die perkutane transluminale Koronarangioplastie (PTCA) und die Implantation mechanischer Endoprothesen, sogenannter Stents, in vielen Fällen die Therapie der Wahl. Sie zeichnet sich gegenüber operativen Bypass-Verfahren durch die wesentlich geringere Invasivität aus. Sie geht mit einer hohen Primärerfolgsrate und einer niedrigen Komplikationsrate einher. Es besteht allerdings das Risiko einer nach 3-6 Monaten auftretenden Wiederverengung des aufgedehnten Gefäßes [126]. Die Restenose ist das Hauptproblem nach zunächst erfolgreicher PTCA. Die Angaben über deren Häufigkeit schwanken in der Literatur zwischen 20% und 50% innerhalb der ersten 6 Monate nach PTCA [5]. Durch Stentimplantation konnte die Restenoserate, wie die „Benestent“-Studie (Belgium- Netherlands Stent Trial) und „STRESS“-Studie (Stent Restenosis Study) zeigen konnten, zwar signifikant minimiert werden [106], aber auch nach diesen Interventionen traten bei bis zu einem Drittel der Patienten substantielle Lumeneinengungen auf [32, 105] .
+
+Bei diesen sogenannten In-Stent-Restenosen handelt es sich vornehmlich um eine neointimale Hyperplasie als Antwort auf die durch die Intervention entstandene Gefäßverletzung, die durch Migration und Proliferation koronarer glatter Muskelzellen (CASMCs) mit Bildung einer Neointima charakterisiert ist [57, 79].
+
+Der Zellzyklus und dessen Regulation als Grundlage einer Proliferation stellen einen wichtigen Aspekt in der Forschung der Pathogenese und der Therapie der Restenose dar. Ein möglicher Therapieansatz ist eine Hemmung der subintimalen Zellproliferation der CASMCs durch einen Eingriff in den Zellzyklusregulationsmechanismus bzw. der Inhibition von Faktoren, die den Zellzyklus stimulieren.
+
+
+Die Rolle des Zellzyklus-Inhibitors p107 bei der Induktion der koronaren Restenose ist das Thema dieser Arbeit. Als Schwerpunkt konzentrierten wir uns insbesondere auf die Interaktion mit der Zellzyklusregulation glatter Gefäßmuskelzellen im Maus-Modell.
+
+
+1.1 Blutgefäße
+1.1.1 Gefäßaufbau
+Die Wand der Blutgefäße ist prinzipiell aus drei Schichten aufgebaut. Sie besteht aus der Tunica intima, der Tunica media und der Tunica adventitia. Die Tunica intima begrenzt das Gefäßlumen ohne Unterbrechung durch eine einfache Lage von spindelförmigen, flachen Endothelzellen, die in Richtung des Gefäßverlaufes ausgerichtet sind. Bei Arterien wird die Tunica intima gegen die Tunica media durch eine Membrana elastica interna abgegrenzt. Die Tunica media besteht aus zirkulär verlaufenden Strukturen wie glatten Muskelzellen, elastischen Fasernetzen, Kollagenfasern und Proteoglykanen. Bei Arterien kann als Grenze zur Adventitia eine Elastica externa ausgebildet sein. Die Adventitia ist wie die Intima, aus längsgerichteten Elementen zusammengesetzt [72]. 2
+Abbildung 1:Histologischer Querschnitt einer muskulären Arterie. Links Hämalaun-Eosin-Färbung, rechts Hämalaun-Orzein-Färbung. 120fache Vergrößerung (aus Kühnel 1995).
+
+1.1.2 Funktion und Ernährung der Gefäßschichten
+Die Intima steuert den Stoff-, Flüssigkeits- und Gasaustausch durch die Gefäßwand. Die Media reguliert die Blutbewegung. Über die Adventitia sind die Gefäße in ihre Umgebung eingebaut. Arterien und Venen dienen der Blutbeförderung. Der Stoff- und Gasaustausch findet durch die kapilläre Versorgung statt. Entsprechend den wechselnden Erfordernissen der verschiedenen Kreislaufabschnitte sind die drei Wandschichten bei Arterien, Venen und Kapillaren unterschiedlich ausgebildet.
+
+Die Wand größerer Blutgefäße wird zu über zwei Drittel aus dem Gefäßinhalt ernährt, in die äußeren Bezirke treten Vasa vasorum aus der Umgebung ein, in die Venenwand mehr als in die Arterienwand. Die Innervation der Gefäßwand erfolgt durch vegetative Fasern, die an Mediamuskelzellen ansetzen; Spannungsrezeptoren kommen in der Adventitia vor. Ein allgemein gültiges Prinzip des Aufbaus terminaler Strombahnen besteht allerdings nicht.
+
+1.1.3 Arterien
+Die Arterien zeigen den dreischichtigen Wandbau deutlich. Allerdings gibt es eine unterschiedliche Ausprägung zwischen den herznahen und herzfernen Arterien sowie den Arteriolen. Die Tunica intima und die Membrana elastica interna sind zumeist stark gewellt, was durch die fixierungsbedingte Kontraktion der Mediamuskulatur hervorgerufen wird.
+
+Abbildung 2: dreischichtiger Wandaufbau der Arterie
+
+1.1.3.1 Herznahe Arterien
+
+In den herznahen Arterien vom elastischen Typ wie zum Beispiel der Aorta und ihren großen Ästen, ist die Intima stärker als in allen übrigen Gefäßen ausgebildet. Sie wird von der Media durch die 1-2µm dicke gefensterte Membrana elastica interna abgegrenzt, die aber häufig von den übrigen elastischen Membranen der Media nicht deutlich zu unterscheiden ist. Im subendothelialen Bindegewebe verlaufen längsgerichtete Bindegewebszüge, vereinzelt auch glatte Muskelzellen. Die subendotheliale Schicht ermöglicht im geringen Umfang eine freie Beweglichkeit des Endothelrohres bei den pulsatorischen Bewegungen der übrigen Wandteile.
+
+Anstelle der Basallamina findet man häufig feine filamentöse Strukturen.
+
+
+Die Media wird von konzentrischen, perforierten, elastischen Membranen geprägt, deren Zahl (30-50) mit dem Alter zunimmt. Der diskontinuierliche Ausstoß des Blutes aus dem Herzen in der Systole führt vorübergehend zur reversiblen Dehnung der Gefäßwand, die bei ihrer Entdehnung in der Diastole die Blutsäule weiterschiebt.
+
+Glatte Muskelzellen bilden hier mit den elastischen Membranen ein elastisch- muskulöses System. Eine Unterscheidung zwischen der Elastica externa und den äußeren elastischen Membranen der Media ist nicht möglich.
+
+Die Adventitia besteht aus spärlichem Bindegewebe.
+
+
+1.1.3.2 Periphere Arterien
+In den herzfernen Arterien vom muskulären Typ (z.B. A. brachialis, A. femoralis) ist die Intima vermindert. In der Media dominieren hier die glatten Muskelzellen in 30 und mehr zirkulären Lagen. Zwischen ihnen liegen, abhängig von der Größe des Gefäßes, vereinzelt elastische Netze, kollagene Fasern und Grundsubstanz. Die Membrana elastica interna ist gut von der Media abgegrenzt. Auch die Membrana elastica externa ist häufig sichtbar. Die Adventitia ist bei den herzfernen Arterien meist spärlich ausgebildet.
+
+1.1.4 Altersveränderung der Arterien
+Die Altersveränderungen der Arterien spielen in der Klinik und Pathologie eine sehr große Rolle. Die Arterien in den verschiedenen Organen weisen unterschiedliche Alternsmuster auf. An die noch der Entwicklung zuzurechnenden Vorgänge (z.B. Zunahme der Zahl elastischer Membranen mit den Jahren) können sich früher oder später Involutionsveränderungen anschließen. In den Herzkranzarterien z. B. beginnen die Altersveränderungen relativ früh, in den Arterien anderer Organe häufig erst nach dem 40. Lebensjahr. Sie betreffen vorwiegend Intima und Media in Form von Abnahme der Elastizität der elastischen Netze, Zunahme kollagener Bindegewebsstrukturen und Einlagerungen von Cholesterinen [72].
+
+1.2 Auswirkungen der glatten Gefäßmuskelproliferation auf die Gefäßarchitektur
+Bei Arteriosklerose, Bluthochdruck und Restenosen nach einem angioplastischen Eingriff (z.B. PTCA) kommt es zu einem Prozess des Remodelings des arteriellen Gewebes. Dieser Vorgang beinhaltet mehrere kontrolliert ablaufende Prozesse. Sie führen zu einer Veränderung des Gesamtumfanges des Gefäßes, wodurch es zu kritischen Auswirkungen und weiteren verschiedenen Veränderungen der Gefäßwandmasse kommt. Trotz der Durchführung mehrerer Studien, die den Regelkreis der Regulation von Proliferation bei glatten Gefäßmuskelzellen und deren synthetischen Aktivität beschreiben sollten, ist relativ wenig über den Mechanismus bekannt, der das Verhalten glatter Muskelzellen in der Arterienwand steuert [108]. Die Umwandlung der Gefäßwandstruktur als Reaktion auf physiologische und pathophysiologische Stimuli wird auf vaskuläres Remodeling zurückgeführt. Das vaskuläre Remodeling ist ein dynamischer Prozess, der sowohl zelluläre als auch nicht zelluläre Komponenten des Gefäßes mit einbezieht. Die Mechanismen des arteriellen Remodelings spielen in der Entwicklung einer arteriellen Restenose im Verlauf einer PTCA oder anderen interventionellen Maßnahmen eine entscheidende Rolle [58].
+
+1.2.1 Kompensatorische Gefäßvergrößerung, Remodeling und Restenose
+Je nach struktureller Gefäßwandveränderung können unterschiedliche Einteilungen unternommen werden. Quantitative Analysen arterieller Morphometrien zeigten, dass die Querschnittsfläche der Plaques innerhalb eines erkrankten Gefäßsegments im gleichen Maße steigt, wie auch die äußere Arterie expandiert, um die Akkumulation der Plaques zu kompensieren. Die fokale kompensatorische Vergrößerung sorgt somit für eine gleich bleibende Querschnittsfläche der stenotischen Arterie. Hierdurch stellt sich das Gefäß trotz ausgeprägter Akkumulation von atherosklerotischen Plaques angiographisch unauffällig dar [58]. Bei diesem Vorgang handelt es sich um äußerliches oder angepasstes Remodeling [41, 58, 130].
+
+Durch gesteigerte Scheerkräfte kann ebenfalls eine kompensatorische Vergrößerung hervorgerufen werden. Gesteigerte Scheerkräfte entstehen durch atherosklerotische Plaques in Verbindung mit endothelabhängigen Faktoren oder auch aufgrund einer Verringerung der Media und einhergehendem Verlust der strukturellen Unterstützung. Äußeres Remodeling findet man nach einem Gefäßtrauma. Es ist mit einer aneurysmalen Gestaltung der Gefäßwand verbunden. Hierbei wird der Anstieg der Lumenfläche durch eine Ausdünnung der Gefäßwand erreicht.
+
+Von konstriktivem Remodeling spricht man als Anpassungsreaktion auf verminderte Fließeigenschaften. Dagegen kann ein inneres, schlecht angepasstes Remodeling nach Gefäßtraumata vorkommen, wie man es nach Angioplastien findet [65]. Dieses Verhalten resultiert aus der Verringerung der Lumenfläche, die auf das Schrumpfen des Gefäßumfangs zurückzuführen ist. Dies wiederum wird durch die Gefäßwandverdickung verursacht.
+
+Schwarz et al. definieren den Begriff Remodeling anders. Sie unterscheiden perfektes Remodeling vom günstigen, ungünstigen oder fehlenden Remodeling [104]. Während des Prozesses des perfekten Remodeling dehnt sich die Arterie aus, indem die Neointima sich maßgenau umwandelt. Bei dem Vorgang des günstigen oder ungünstigen Remodelings kommt es dagegen nur teilweise zu einer Expansion oder Konstriktion. Trotz der offensichtlichen Bedeutung dieses Prozesses ist relativ wenig über die zu Grunde liegenden Regulationsmechanismen bekannt, welche die mechanische Kraft oder die proliferative Aktivität von glatten Muskelzellen (SMCs) durch die Balance von mitogenen Stimuli und der Aktivität der Zellzyklusinhibitoren verursachen [108].
+
+1.3 Pathogenese der Atherosklerose
+Atherosklerose, die Hauptursache für Herzinfarkt, Schlaganfall und Extremitätengangrän, ist für 50% aller Todesfälle in den USA, Europa und Japan verantwortlich. Die Läsionen sind Ergebnis einer exzessiven entzündlich- fibroproliferativen Reaktion auf verschiedene Formen der Schädigung des Endothels und der glatten Muskelzellen der Arterienwand [100]. Chronische Schädigung der Arterienwand z.B. durch Diabetes mellitus, Übergewicht, Nikotinabusus, Bluthochdruck, Hypercholesterinämie u.a. führt vor allem an Gefäßverzweigungen und Gefäßabgängen sowie an der konvexen Gefäßinnenwand bogenförmig verlaufender Arterien zu einer Dysfunktion der Endothelzellen, die sich durch gesteigerten Gehalt an Lipoprotein in der Arterie und das Auftreten spezifischer adhäsiver Glykoproteine an der Oberfläche der Endothelzellen auszeichnet [81, 97]. Monozyten und T-Lymphozyten binden an die Glykoproteine und treten zwischen den Endothelzellen in die Intima der Arterienwand ein. Dies geschieht unter dem Einfluss verschiedener Wachstumsfaktoren und chemotaktisch wirksamer Substanzen, die von dem veränderten Endothel, den adhärenten Leukozyten [21, 40, 85, 89] und auch von den darunter liegenden glatten Muskelzellen ausgeschüttet werden.
+
+In der Intima werden die Monozyten zu Makrophagen und phagozytieren Lipid. Das Zytoplasma dieser Makrophagen erhält aufgrund der fortschreitenden intravaskulären Lipidbeladung einen schaumigen Aspekt. Die Schaumzellen sammeln sich zunächst diffus, später herdförmig an und bilden so zusammen mit den begleitenden Lymphozyten den so genannten „fatty streak" [97]. Dieser findet sich oft an Stellen präexistierender Ansammlungen intimaler glatter Muskelzellen (adaptive intimale Verdickungen), die bereits ab der Geburt vor allem an Gefäßverzweigungen vorhanden sind [112, 115].
+
+
+Das aus der Hydrolyse von Cholesterinestern freigesetzte Cholesterin verhält sich gegenüber den Enzymen der Makrophagen jedoch inert. Sofern der Abtransport solchen Cholesterins durch HDL nicht zustande kommt, bildet das überschüssige Cholesterin charakteristische tafelförmige Kristalle, die schließlich die Lysosomen und sonstigen Membransysteme der Makrophagen sprengen. Aus diesem Grund gehen ältere Schaumzellherde in nekrotische Herde über, wobei das phagozytierte Material, insbesondere das veresterte Cholesterin in Kristallform freigesetzt wird. Auf diese Weise bildet sich ein Herd mit einer zentralen Nekrosezone und fettigem Detritus, umgeben von noch vitalen makrophagozytären Schaumzellen. Ein solcher Herd wird als Atherom oder als atherosklerotischer Plaque bezeichnet [97]. Im weiteren Verlauf kommt es zu einer ausgeprägten Proliferation von glatten Muskelzellen, die vermehrt aus Elastin, Kollagen und Proteoglykanen eine Bindegewebsmatrix herstellen [100, 112]. Dieses Fibroatherom kann zusätzlich kalzifizieren und engt die arterielle Strombahn zunehmend ein. In diesem Stadium kann es vermehrt zu Komplikationen kommen: Die veränderte Oberfläche führt zur Bildung parietaler Thromben, die einerseits bei Ablösung zu Embolien, andererseits zu einer Einengung des Gefäßes bis hin zum völligen Verschluss führen können. Auch intramurale Blutungen im Atheromgebiet können zum Gefäßverschluss führen.
+
+Durch Ausdehnung der zentralen Nekrose im Atherom kann die Endotheldecke darüber einbrechen und der Atherombrei kann sich entleeren. Damit ist ein atherosklerotisches Ulkus entstanden, dessen freigesetzter Inhalt zu cholesterinkristallhaltigen Mikroembolien führen kann.
+
+
+An der Entwicklung und Progression der Atherosklerose sind viele verschiedene Substanzen beteiligt: Wachstumsfaktoren, Zytokine und andere Stoffe z.B. Lipide oder auch kleine Moleküle wie beispielsweise Stickstoffmonoxid (NO) induzieren und regulieren unterschiedliche kritische Zellfunktionen. Während des Prozesses der Atherogenese spielen sie eine Rolle in der Bereitstellung von Zellen, der Migration, der Zellproliferation und der Kontrolle der Lipid- und Proteinsynthese (einschließlich extrazellulärer Matrixproteine). Außerdem sind sie an vaskulären Ereignissen wie der Vasokonstriktion, der Vasodilatation und der Blutgerinnung beteiligt.
+
+
+Wahrscheinlich wirkt keiner dieser Faktoren im Prozess der Atherosklerose für sich alleine. Vielmehr ist anzunehmen, dass es sich um ein Netzwerk von zellulären Interaktionen handelt, die eine Ausschüttung eines Faktors zur Expression eines weiteren Faktors in einer Zielzelle bewirken. Die Zielzelle wiederum kann dann entweder die Nachbarzellen auf parakrinem Weg oder sich selbst auf autokrinem Weg stimulieren.
+
+1.4 Vaskuläre glatte Muskelzellen
+Zum überwiegenden Teil befinden sich in der Tunica media der Arterienwand vaskuläre glatte Muskelzellen. Vereinzelt sind sie auch in der Tunica intima vorhanden. Vaskuläre glatte Muskelzellen sind, wie auch die anderen Muskelarten, mesodermalen Ursprungs und stellen funktionell differenzierte Zellen dar, die darauf spezialisiert sind, auf endokrine und nervale Stimuli mit Kontraktionen zu reagieren. Durch diese Fähigkeit zur Kontraktion ist die Grundlage für die Aufrechterhaltung des Vasotonus und damit der Blutdruckregulation geschaffen.
+
+Bei vaskulären Erkrankungen, speziell bei der Entstehung der Arteriosklerose oder der Entwicklung einer Restenose nach perkutaner transluminaler Koronarangioplastie (PTCA), treten vaskuläre glatte Muskelzellen wieder in den Zellzyklus ein und beginnen erneut zu proliferieren. Dies führt dazu, dass sie zusammen mit der von ihnen hergestellten extrazellulären Matrix zu einer Hauptkomponente der arteriellen Läsion werden [95].
+
+
+Die verschiedenen Mechanismen der Arteriosklerose- und Restenoseentstehung sollen nun im Einzelnen erläutert werden.
+
+
+1.5 zelluläre Mechanismen der Restenose
+Seit der Einführung der perkutanen transluminalen koronaren Angioplastie (PTCA) im Jahre 1977 ist sie zu einer anerkannten Behandlungsmethode für Patienten mit koronarer Herzkrankheit geworden. Eines der Hauptprobleme, welches nach der Dilatation der Herzkranzgefäße entsteht, ist der Prozess der Restenosierung.
+
+Trotz vermehrter Anstrengungen sowohl in der klinischen als auch in der Grundlagenforschung tritt je nach Literaturangabe in 20– 30% der Fälle eine Restenose innerhalb des ersten halben Jahres nach der PTCA auf [5]. Zu einer klinischen Symptomatik kommt es innerhalb von 3-6 Monaten nach Durchführung der PTCA [19].
+
+Die direkten Effekte der Dilatation bestehen aus einer lokalen Verletzung des Gefäßes mit Ablösung des Endothels, Riss der Intima und der Membrana elastica interna, Lyse einiger glatter Muskelzellen der Media und Bruch der atherosklerotischen Plaques [70].
+
+
+Durch die Ablösung des Endothels und durch tiefere Verletzungen der Arterienwand kommt es zu einer Exposition von Kollagen, Lipiden und anderen Bestandteilen der extrazellulären Matrix zum zirkulierenden Blut. Dies führt zu einer Thrombozytenadhäsion und zur gleichzeitigen Aktivierung des Gerinnungssystems [52].Das Ausmaß der Thrombozytenadhäsion ist dabei abhängig von der Tiefe der Verletzung. Je ausgeprägter die Verletzung, desto größer ist die Zahl der angelagerten Thrombozyten [66].
+
+Die lokale Aktivierung des Gerinnungssystems beruht auf der Erzeugung von Thrombin, welches an Bestandteile der extrazellulären Matrix und an Fibrin bindet. Thrombin stimuliert die Proliferation von glatten Muskelzellen und bewirkt gleichzeitig eine Aktivierung der Thrombozyten, wodurch der Prozess der Thrombozytenadhäsion noch verstärkt wird.
+
+
+Neben der Thrombozytenadhäsion kommt es außerdem an der Dilatationsstelle zu einer Migration von Leukozyten. Zusammen mit dem Endothel, den Thrombozyten und dem Thrombin liefern sie in Form verschiedener Wachstumsfaktoren den Stimulus, der zu einer Aktivierung der glatten Muskelzellen führt.
+
+Abbildung 3: Pathogenese der Atherosklerose (aus Libby, 1998).
+
+A:Aufbau der normalen arteriellen Gefäßwand aus Intima, Media und Adventitia.
+
+
+B:Akkumulation und Modifikation von Lipoproteinpartikeln in der Intima des Gefäßes.
+
+
+C:Adhäsion von Leukozyten am luminalen Endothel.
+
+
+D:Penetration von Leukozyten in die Intima des Gefäßes.
+
+
+E:Akkumulation von Leukozyten unter Ausbildung von Schaumzellen.
+
+
+F:Ausbildung einer fibrinösen Kappe und eines Lipidkerns in der Gefäßwand.
+
+1.5.1 PDGF, EGF, Platelet Factor 4, Serotonin
+Einer dieser Wachstumsfaktoren ist der Platelet Derived Growth Factor (PDGF). PDGF wird von verschiedenen Zellen sezerniert, dazu gehören Thrombozyten, Endothelzellen, Monozyten, als auch glatte Muskelzellen. Er wirkt mitogen und chemotaktisch auf glatte Muskelzellen und Fibroblasten, sowie chemotaktisch auf Monozyten und neutrophile Granulozyten.
+
+Andere Faktoren, die von Thrombozyten freigesetzt werden und in der Aktivierung von glatten Muskelzellen eine Rolle spielen, sind der Epidermal Growth Factor (EGF), der Platelet Factor 4 und Serotonin.
+
+Endothelzellen und Makrophagen tragen ebenfalls zur Aktivierung von glatten Muskelzellen durch Produktion von Interleukin– 1 (IL-1), dem Fibroblast Growth Factor (FGF), sowie von PDGF oder dem PDGF ähnlichen Molekül bei.
+
+An weiteren Faktoren, die hierbei wahrscheinlich eine Rolle spielen, sind Angiotensin II, sowie Thrombospondin, Insulin–like Growth Factor, Endothelin und IL-6 zu nennen. Glatte Muskelzellen aus Restenoseläsionen weisen im Vergleich zu Zellen aus Primärstenosen in vitro eine etwa um den Faktor 4 erhöhte Proliferationsrate auf [20].
+
+Die Zerstörung des intakten Endothels durch die Angioplastie hat einen zusätzlichen Produktionsausfall von Wachstumsinhibitoren (z.B. Heparin, Transforming Growth Factor-beta (TGF-β), Endothelial Derived Relaxion Factor (EDRF), Tumor Necrosis Factor-alpha (TNF-α), Gamma-Interferon) und endogenen vasodilatatorisch wirkenden Substanzen (z.B. Stickstoffmonoxid, EDRF und Prostazyklin) zur Folge [29, 31, 37]. Die quantitative Verringerung dieser wichtigen Inhibitoren der Proliferation und Migration glatter Muskelzellen trägt erheblich zum Prozess der Restenoseentwicklung bei.
+
+Eine der Hauptfolgen der Aktivierung der glatten Muskelzellen ist die Umwandlung vom „kontraktilen“ zum „synthetisierenden“ Phänotyp [8, 34]. Der kontraktile Phänotyp ist die typische ausdifferenzierte Gefäßmuskelzelle, deren primäre Funktion die Erhaltung des Gefäßtonus ist. Sie besteht intrazellulär hauptsächlich aus Myofilamenten. Ihre Beteiligung an Synthese, Sekretion und Zellteilung sind sehr gering.
+
+Den Gegensatz dazu stellt der synthetisierende Phänotyp dar, der einem Fibroblasten gleicht. Diese Zelle proliferiert, synthetisiert und sezerniert extrazelluläre Matrix und stellt den dominantesten Zelltyp der Arteriosklerose und Restenose dar [19].
+
+Diese Modulation von einem kontraktilen zu einem synthetisierenden Phänotyp gilt als Voraussetzung für die migratorische und proliferative Stimulierbarkeit der glatten Muskelzellen
+
+ 
+kontraktilsynthetisierend   Zellteilungwenigviel   Lokalisationunbeschädigte MediaPlaque   Gestaltbandförmig oder fusiformflach oder breit   Myofilamentvielwenig   synthetisierendewenigvielOrganellen     Lipidakkumulationresistentanfällig   Innerhalb der ersten 3 Monate nach PTCA ist in der Intima restenotisch veränderter Gefäßabschnitte ausschließlich der synthetisierende Phänotyp zu finden. Nach dem 3. bis zum 6. Monat findet man eine Mischung aus beiden Phänotypen und ab dem 6. Monat nach PTCA sind nur noch Muskelzellen des kontraktilen Typs vorhanden [90].
+
+Die nächste Phase der Restenose, die Granulationsphase, resultiert direkt aus der Aktivierung der glatten Muskelzellen durch die verschiedenen Wachstumsfaktoren in der Anfangsphase, und beinhaltet die Migration und Proliferation glatter Muskelzellen, sowie die Produktion extrazellulärer Matrix.
+
+Das Schlüsselereignis in der Entstehung einer Restenose nach PTCA ist die Bildung einer Neointima durch Migration und Proliferation vaskulärer glatter Muskelzellen. Die Migration dieser Zellen verläuft aus der Tunica media in die Tunica intima. Studien bei denen man Ratten-Karotiden verwendet hatte, haben gezeigt, dass bis zu 50% der Zellen in der Intima nicht proliferieren, wodurch die starke Anhäufung glatter Muskelzellen in dem Gebiet vor allem durch Migration zu erklären ist [16]. Hervorgerufen wird sie durch die verschiedenen chemotaktisch wirksamen Substanzen.
+
+Zusätzlich zur Migration kommt es zu gesteigerter Proliferation intimaler glatter Muskelzellen. Nobuyoshi beschrieb den Zeitablauf der intimalen Proliferation [90]: 10 Tage nach Dilatation war keine gesteigerte Proliferation nachzuweisen. Innerhalb des Zeitraumes von 11 bis 30 Tagen gab es einen starken Anstieg auf 83% und innerhalb von 1-3 Monaten auf 100%. Bis zu 2 Jahre nach der Dilatation war in der Intima in den meisten Fällen ein gesteigerter Gehalt an diesen Zellen vorhanden, allerdings wandelten sich diese Zellen nach 6 Monaten wieder in den nicht-proliferierenden Phänotyp zurück.
+
+Ein weiterer wichtiger Schritt in der Restenoseentwicklung ist die Bildung von extrazellulärer Matrix, die schließlich bis zu 80% des Plaque–Volumens ausmachen kann [15]. Die Hauptbestandteile der extrazellulären Matrix sind Kollagen, Proteoglykane und Elastin. Sie werden hauptsächlich durch die glatten Gefäßmuskel- zellen synthetisiert.
+
+In der letzten Phase der Restenoseentwicklung kommt es zur Wiederherstellung der Endotheldecke, zur Umwandlung der glatten Muskelzellen in den ursprünglichen kontraktilen Phänotyp und zur Organisation der extrazellulären Matrix.
+
+Durch die Wiederherstellung einer geschlossenen Endotheldecke werden die glatten Muskelzellen wieder vor zirkulierenden Faktoren geschützt. Zusätzlich kann das Endothel wieder Proliferationsinhibitoren synthetisieren.
+
+Die extrazelluläre Matrix wird organisiert, wobei es durch Narbenretraktion, die durch Kontraktion des Kollagengerüstes durch glatte Muskelzellen und Fibroblasten hervorgerufen wird, zu einer weiteren Einengung des Gefäßlumens kommen kann.
+
+1.5.2 In–Stent-Restenose
+Die percutane transluminale Koronarangioplastie mit Stentimplantation hat das effektive Management des ischämischen Syndroms koronarer Gefäßerkrankung und ihrer Symptome deutlich verbessert. Eine verminderte Restenoserate hat zur Verwendung von koronaren Stents bei mehr als 70% der Fälle geführt. Mehr als 800.000 Prozeduren mit weiter steigender Tendenz wurden alleine in den USA im Jahr 1999 durchgeführt [116]. Die stark zunehmende Verwendung von Stents hat jedoch zur Erkenntnis geführt, dass es zu einer Häufung von In-Stent-Restenosen (ISR) kam. In den USA waren es allein im Jahr 1999 150.000 Patienten [102, 103]. Daher tritt die Bedeutung der In-Stent-Restenose und deren Vorbeugung sowie therapeutische Maßnahmen in den Vordergrund der Forschungen der interventionellen Kardiologie. Die ISR unterscheidet sich histologisch von der Restenose nach konventioneller Ballonangioplastie [78, 82]. Während nach der Dilatation durch einen Ballonkatheter das sog. negative Gefäßremodeling den entscheidenden Faktor bei der Restenose spielt, kann durch Implantation eines Stents die Neigung des Gefäßes sich wieder zusammenzuziehen gehemmt werden. Dieser „elastic recoil“ wird durch elastische Fasern verursacht, um das Gefäß an den pulsatilen Blutfluss und die hämodynamischen Veränderungen sowie die Druckveränderungen anzupassen [99]. Durch die Stentimplantation wird eine verminderte Zunahme der neointimalen Wanddicke erzielt. Stenting reduziert somit den sog. elastic recoil und negatives Remodeling, so dass ISR weitgehend aus einer neointimalen Formation resultiert [51, 78, 83]. Bei der In-Stent-Restenose besteht die Neointima hauptsächlich aus proliferierten SMCs aus der Media [42, 57, 59] und extrazellulärer Matrix [117].
+
+Abbildung 4:Immundoppelfärbung mit 1A4 (monoclonaler Anti-SMC a-Actin IgG-Antikörper) und HAM-56 (Anti-Makrophagen IgM Antikörper) einer In-Stent-Restenose: neointimale Hyperlasie 85 Tage nach einer Stent Implantation mit subtotalem Gefäßverschluss. Um den Stent (Pfeilspitzen) finden sich im Bereich zwischen den Pfeilen im Rahmen der chronischen Entzündung Makrophagen (rot) und neutrophile Granulozyten, in der oberflächlichen Schicht der neointimalen Proliferation befinden sich hauptsächlich CASMCs ( türkis) [80].
+
+1.6 Zellproliferation
+1.6.1 Extrazelluläre RegulationDie lokale Stimulation der Zellproliferation ist eine wesentliche Grundlage des Restenoseprozesses.
+
+Sie basiert auf dem Einfluss verschiedener extrazellulärer Wachstumsfaktoren. Die Induktion von c-fos, c-jun und c-myc mRNA erfolgt unmittelbar nach der Intervention und induziert die Bildung der Wachstumsfaktoren [92]. Daher entstand die sog. Onkogenhypothese der Atherogenese.
+
+
+In Abwesenheit von Wachstumsfaktoren gehen Zellen in die G0-Phase des Zellzyklus über oder sterben durch Apoptose. PDGF ist der potenteste mitogene Faktor für Zellen mesenchymalen Ursprungs. Er wird von aktivierten Plättchen, Makrophagen, SMCs und Endothelzellen synthetisiert und sezerniert. PDGF wird eine wichtige Rolle für die Migration der SMCs in die Intima zugewiesen und gilt als „Kompetenzfaktor“ für den Eintritt in den Zellzyklus, welcher es den Zellen ermöglicht, aus dem Ruhestadium G0- in die G1-Phase des Zellzyklus einzutreten [30, 87]. Die so stimulierten Zellen benötigen für die Progression des Zellzyklus eine zweite Gruppe von Wachstumsfaktoren, die Progressionsfaktoren, von denen der Insulin-like Growth Factor Typ 1 (IGF-1), der Epidermal Growth Factor (EGF), der Fibroblast Growth Factor (FGF) und der Transforming Growth Factor β (TGFβ) von Bedeutung sind. TGFβ ist bei der Aktivierung der Matrixproduktion beteiligt [92, 98].
+
+Der Zellzyklus und seine Regulation
+Cyklin A und B+ Cdc 2P21Cyklin A+Cdk 2E2F Aktivierung      DNA Schäden? Korrekte Replikation?            G2-Kontrollpunkt                        Cyklin D1, D2 und  M              D3 + Cdk 2,4,5,          G2         und 6                  G1            DNA Schäden?             S G1-KontrollpunktP15, p16,p21+p27Cyklin E+Cdk 2Rb PhosphorylierungAbbildung 5:Schematische Darstellung des Zellzyklus mit ausgewählten Checkpoints zur Kontrolle der korrekten Reihenfolge und Durchführung der Abläufe (gelb), sowie der Rolle und zeitlichen Beteiligung verschiedener Cycline und Cyclin- abhängiger Kinasen (grün), modifiziert nach Zettler 2000 [131] und Nigg 1995 [88]. 18
+1.6.2 Intrazelluläre RegulationExtrazelluläre Faktoren binden an ihre spezifischen Rezeptoren an der Zelloberfläche und können dort eine kaskadenartige Abfolge von Reaktionen innerhalb der Signaltransduktion auslösen, die schließlich zur vermehrten Zellteilung führen kann. Bestandteile dieser Kaskade sind verschiedene Thyrosinkinasen, G-Proteine (z.B. RAS), Effektorproteine und membran-assoziierte und zytoplasmatische Proteinkinasen [77].
+
+Eukaryonter Zellzyklus:
+Der Zellzyklus stellt die Grundlage der Zellproliferation dar, und bietet somit einen Angriffspunkt in der Behandlung der In-Stent-Restenose. Die Hemmung der subintimalen Zellproliferation der koronaren glatten Muskelzellen (CASMCs) könnte durch einen Eingriff in den Zellzyklusregulationsmechanismus erfolgen.
+
+Der Zellzyklus besteht aus 4 Phasen: G1, S, G2 und M. Ruhende Zellen befinden sich in der G0-Phase, einem Status mit minimaler mRNA und Proteinsynthese. Eine Zelle kann in diesem Status für viele Jahre verweilen. Sie kann jedoch auf verschiedenste Stimulation durch z.B. Wachstumsfaktoren jederzeit in die G1-Phase des Zellzyklus eintreten. In der G1-(Gap)-Phase bereitet sich die Zelle auf die S-(Synthese)-Phase vor, in der die DNA repliziert wird. Zwischen der S- und der M-Phase liegt die G2-Phase, in der die Zelle u.a. mRNAs und Proteine, die für die Zellteilung benötigt werden, synthetisiert. In der M-(Mitose)-Phase erfolgt die Zellkern- und Zellteilung (Cytokinese). Nach der Mitose können die Zellen einen erneuten Zellzyklus durchlaufen oder in die G0-Phase übergehen.
+
+1.6.3 Regulation des Zellzyklus
+Die Zellzyklusmaschinerie wird durch ein Zellzykluskontrollsystem gesteuert. Dieses Kontrollsystem vermag den Zellzyklus an bestimmten Stellen, den sog. Checkpoints, zu arretieren. Es existieren 2 Checkpoints, einer kurz vor dem Übergang der G1- in die S- Phase und einer kurz vor dem S-G2 Übergang. An diesen Übergängen prüft die Zelle intrazelluläre und extrazelluläre Bedingungen, um gegebenenfalls bei unvollständiger Replikation, fehlerhafter DNA oder mangelhafter Zellumgebung durch bestimmte Mechanismen den Replikationsvorgang zu unterbrechen [120].
+
+Eine Zellzyklusunterbrechung ist also an mehreren Stellen möglich. Zur Therapie der Restenose erscheint eine Intervention in der G1-Phase am günstigsten, da so Signaltransduktionen, die von aktivierten Zellzyklusproteinen ausgehen, frühestmöglich unterbunden werden können.
+
+
+Die Regulation im Zellzyklus erfolgt durch eine Kaskade von Phosphorylierungen von kritischen Proteinen, die DNA-Replikation, Mitose und Cytokinese initiieren und regulieren können. Diese Phosphorylierungen werden durch Proteinkinasen, den sog. cyclinabhängigen Kinasen (CDKs), katalysiert.
+
+
+Cycline sind regulatorische Proteine, die einem zyklischen Auf- und Abbau unterliegen. Cycline haben keine enzymatische Aktivität, sondern haben die Aufgabe, die Kinasen zu den von ihnen zu phosphorylierenden Proteinen zu leiten. Es sind mindestens 12 verschiedene Cycline bekannt, die jeweils an bestimmten Stellen im Zellzyklus exprimiert werden und mit ihren CDKs einen aktiven Cyclin-CDK-Komplex bilden [88].
+
+1.6.4 Bedeutung der Cycline
+Die Progression in der G1 -Phase benötigt hauptsächlich die Aktivierung der Typ D Cycline und des Cyclin E (Abbildung 5) [54]. Die Typ D Cycline werden in der frühen G1-Phase als Antwort auf Cytokine synthetisiert, während das Cyclin E während der zweiten Phase von G1 akkumuliert. Der Übergang in die S-Phase wird vor allem durch den Cyclin E/CDK 2-Komplex katalysiert [3].
+
+Negativ reguliert wird der Zellzyklus durch inhibitorische Proteine (CKI). Das sind Proteine, die an G1 Cyclin/CDK-Komplexe anbinden und diese inaktivieren. Dadurch können sie eine Zellzyklusunterbrechung induzieren. In Säugerzellen können die CKI in zwei unterschiedliche Familien eingeteilt werden: die INK4-Familie und die CIP/ KIP - Familie.
+
+Die INK4 Familie inhibiert mit p14, p15, p16, p18 und p19 spezifisch Cyclin D/CDK4 und Cyclin D/CDK6 Komplexe und ist in die G1-Phasen Kontrolle involviert [131].
+
+Die CIP/ KIP Familie hingegen schließt p21, p27 und p57 ein und reguliert die Zellproliferation während des gesamten Zellzyklus [6, 39, 93].
+
+Das Tumorsuppressorprotein p53 ist ein typischer eukaryonter Transkriptionsfaktor und ein wichtiger negativer Regulator der Zellproliferation. So wird es bei DNA- Schäden induziert und bewirkt einen G1-Arrest über die Aktivierung der Expression von p21, einem Inhibitor der Cyclin E-abhängigen Kinaseaktivität [25, 28, 43, 45, 127]. Die Bindung von p21 an den Polymerase-Cofaktor Proliferations-Zellkern-Antigen (PCNA) führt zu seiner Inaktivierung und verhindert so die DNA-Replikation [73]. Die Bindung von p21 an Cyclin D/CDK4/6 verhindert die Phosphorylierung des Retinoblastom-Proteins (Rb). Hypophosphoryliertes Rb bleibt an den Transkriptionsfaktor E2-F gebunden und verhindert damit den Eintritt der Zelle in den Zellzyklus [131]. So wird es der Zelle ermöglicht, den DNA-Schaden zu beheben.
+
+Eine Vielzahl anderer Genprodukte wie das Proliferating cell nuclear antigen (PCNA), das Retinoblastoma Protein (Rb) und Mitglieder der E2F-Familie der Transkriptionsfaktoren vermögen ebenfalls mit Cyclin/Cyclin-abhängigen Kinase- Komplexen zu interagieren und deren Aktivität zu modulieren.
+
+Rb übt einen entscheidenden Einfluss auf die Kontrolle über die Zellzyklusprogression von der G1- in die S-Phase. Dies ist zum Großteil auf die Fähigkeit des Proteins zurückzuführen, an Transkriptionsfaktoren wie E2F zu binden und zu verändern [113].
+
+1.7 pRb und pocket Proteine und E2F: Schaltstellen im Zellzyklus
+Der Zellzyklus von Säugerzellen ist ein präzise regulierter Prozess, der durch den Einfluss zahlreicher Faktoren bestimmt wird. Bisherige Untersuchungen hatten gezeigt, dass den Proteinen aus der pRb Gruppe eine wesentliche Rolle in der Regulation der Zellzyklusprogression und des Wiedereintritts von Zellen in den Zellzyklus nicht nur bei glatten Muskelzellen zukommt [10, 48, 49, 107]. Die Proteine, pRb, p107 und p130, funktionieren in einer Weise, die vom Zellzyklus abhängig ist. Sie regulieren die Aktivität von zahlreichen wichtigen zellulären Transkriptionsfaktoren wie z.B. den der E2F Gruppe.
+
+E2F Proteine wurden erstmals als zelluläre Aktivatoren beschrieben, die an ein spezifisches DNA Element im Promotor des adenoviralen E2 Gens binden [62, 67, 128]. Verschiedene Studien zeigten daraufhin eine Bindung der E2F Proteine an das Retinoblastoma Protein pRb und an zwei weitere Proteine, p107 und p130 (pocket Proteine) [11, 55, 69]. In Ergänzung dazu konnte gezeigt werden, dass E1A und andere virale Onkoproteine wie das „large T-Antigen“ des SV-40 Virus oder das E7 Onkoprotein des humanen Papillomavirus durch die Bindung an pocket Proteine E2F freisetzen, damit die Zellproliferation fördern und schließlich die Transformation der Zelle bewirken [1, 22, 27, 75, 124, 125]. Umgekehrt führt die Bindung von E2F an pRb, p107 oder p130 zu einer Inhibition der transaktivierenden Wirkung von E2F Proteinen und einer Repression E2F regulierter Gene [33, 46, 129]. Darunter sind Gene, die für Zellzyklusregulatoren und für Proteine des Nukleotidstoffwechsels und der DNA Replikation kodieren [53, 84, 96, 122].
+
+Die Komplexe aus E2F und pocket Proteinen sind in Abhängigkeit vom Zellzyklus reguliert [26]. Es konnte gezeigt werden, dass pRb in Abhängigkeit vom Zellzyklus spezifisch phosphoryliert ist [7, 12, 23]. In der G0 oder G1 Phase des Zellzyklus bindet hypophosphoryliertes pRb an E2F und die transaktivierende Funktion von E2F ist blockiert [76, 111, 123]. Mitogene Wachstumsfaktoren aktivieren die cyclinabhängigen Kinasen Cdk4/Ck6, die im Komplex mit Cyclin D die Phosphorylierung von pRb katalysieren [71, 74, 86, 91]. Dies führt zur Dissoziation des E2F/pRb Komplexes, der Transaktivierung von E2F Zielgenen und dem Eintritt der Zelle in die S-Phase des Zellzyklus (Abbildung 6) [26, 44, 76].
+
+p
+p  pRb ppCyclin  D  CdK  4/6pRbE2FE2F       G 1     S     transkriptionelle Repression  transkriptionelle Aktivierung                                                    Abbildung 6: E2F wird durch pRb reguliert       Zusammen bilden E2F und pRb somit eine zentrale Schaltstelle in der Regulation des Zellzyklus. Dies wird durch die Beobachtung bestätigt, dass in vielen Tumoren eine 23
+Inaktivierung des Retinoblastoma Proteins vorliegt oder die Mechanismen zur Regulation der E2F/pRb Komplexe inaktiviert sind [2, 110].
+
+Das Rb Gen besitzt alle Eigenschaften eines klassischen Tumorsuppressorgens und ist in mindestens einem Drittel aller Tumoren mutiert oder komplett abwesend [110, 121]. Mutationen in einzelnen Allelen im Rb Gen erzeugen eine Prädisposition für eine große Anzahl von Tumorarten [121]; heriditäre inaktivierende Mutationen im Rb Gen dagegen sind mit dem selten auftretenden Retinoblastoma Tumor der Augen im Kindesalter assoziiert [36].
+
+pRb ist zusammen mit p107 und p130 Mitglied der pocket Proteinfamilie [26, 119]. Alle pocket Proteinfamilienmitglieder besitzen eine überlappende Sequenzhomologie, vor allem in der pocket domain der jeweiligen Proteine. Trotz der bestehenden Homologie ist Rb das einzige Gen, das in Tumorzellen häufig mutiert ist [69]. Die physiologische Bedeutung jedes einzelnen Familienmitgliedes wurde durch Knockout-Mausmodelle aufgeklärt. Rb-/- Mäuse sind nicht lebensfähig und zeigen eine Letalität zwischen den embryonalen Tagen E13 und E15 und weisen Differenzierungsanomalien in einer Vielzahl von Geweben auf, die wahrscheinlich durch unkoordinierten Zellzykluseintritt und Apoptoseinduktion hervorgerufen werden [13]. p107-/- und p130-/- Mäuse dagegen sind lebensfähig und zeigen keine Tumorbildung, was die unterschiedliche Bedeutung von p107 und p130 in Bezug auf die Zellzykluskontrolle im Gegensatz zu pRb unterstreicht. Jedoch zeigen p107-/- und p130-/- Doppel-Knockout-Mäuse embryonale Letalität, was für eine funktionelle Überlappung zwischen p107 und p130 spricht [18]. Es konnte jedoch beobachtet werden, dass in Abwesenheit von p107 in Rb+/- Embryos die Entwicklung von Abnormalitäten beschleunigt wird, was ebenfalls für eine funktionelle Redundanz zwischen pRb und p107 spricht [68]. Daher ist es eher unwahrscheinlich, dass p107 und p130 eine Tumorsuppressorfunktion innehaben, auch gerade deshalb, weil die Mutation dieser beiden Gene in Tumoren bislang nicht beschrieben wurde.
+
+
+Das p107 Protein ist ein weiterer negativer Regulator des Zellzyklus. Eine Überexpression von p107 hat gezeigt, dass es bei bestimmten Zellen einen Wachstumsarrest in der G1-Phase bewirkt. Der genaue Mechanismus ist nicht geklärt, dennoch scheint er zumindest zum Teil, ähnlich dem Rb, auf einer Transkriptionshemmung von E2F zu beruhen, woraus ein G1-Phasenarrest und konsekutiv eine Prävention der DNA-Replikation resultiert [94, 132, 132].
+
+Eine zytostatische Gentherapie mit einer zusammengesetzten aktiven Form eines Retinoblastom-Gen–Produkts und eines p130-Gen-Transfers zeigten eine signifikante Abnahme der Proliferation von SMCs und Bildung einer Neointima bei Karotis- und Femoralarterien von Ratten und Schweinen im Modell der Restenose [10, 14].
+
+Hierdurch besteht die Möglichkeit, mehr über den Einfluss des p107 Gens aus der pRb- Gruppe auf vaskuläres Remodeling nach Ligatur der Arteria carotis communis in einem p107 Knockout-Maus-Modell zu erfahren.
+
+1.8 Rolle des p130
+Die Bedeutung des Proteins p130 im Rahmen einer Reaktion auf ein induziertes Trauma durch eine Ligatur der Arteria carotis communis ist bereits untersucht worden [108]. Die Daten wiesen darauf hin, dass der Verlust des Zellzyklus Inhibitors p130 zu einer gesteigerten Traumaantwort führt, woraus sich eine zentrale Rolle für p130 in der Zellzykluskontrolle während einer Reaktion auf eine Gefäßwandverletzung ergibt. Die verstärkte Traumareaktion in Zusammenhang mit p130 -/- erhielt die Möglichkeit des perfekten Remodelings.
+
+Das therapeutische Ziel eine Restenose zu verhindern sollte darauf abzielen, eine intimale, mediale und adventitielle Proliferation zu reduzieren sowie das Phänomen des inadäquaten arteriellen Remodelings zu verhindern [58].
+
+2 Fragestellung und Ziel der Arbeit
+Die Bildung der Neointima durch proliferierende vaskuläre glatte Muskelzellen ist das Schlüsselereignis in der Restenoseentwicklung nach PTCA. Ein Ansatz zur Verringerung bzw. Vermeidung der Restenose ist daher, das Proliferationsverhalten der glatten Muskulatur hemmend zu beeinflussen.
+
+Bei der Proliferation von glatten Muskelzellen spielen mitogene sowie weitere Faktoren, die den Zellzyklus beeinflussen, eine zentrale Rolle. Das Hauptaugenmerk richtet sich dabei auf die Stelle innerhalb des Zellzyklus, an der Zellen aus der G1-Phase in die S- Phase übertreten. Dieser Vorgang wird entscheidend von Zyklinen geprägt, die wiederum abhängig von Proteinen aus der pRb-Familie sind, wie z.B. pRb, p107 und p130 [48, 80, 107]. Alle diese Faktoren müssen in einer zellzyklusabhängigen Weise aktiviert und inaktiviert werden, damit die Zellen den Zellzyklus durchschreiten können, um sich letztlich zu teilen und im Verband zu wachsen.
+
+Vor diesem Hintergrund sollte der Einfluss der Proteine aus der pRb-Gruppe in Bezug auf einsetzende Reparaturmechanismen nach einer Gefäßverletzung [48, 49, 56, 101, 107] untersucht werden.
+
+Die Proteine pRb, p107 und p130 sind entsprechend strukturiert, um an andere Zellzyklusregulatorproteine zu binden und um die Aktivität von zahlreichen wichtigen Transkriptionsfaktoren zu regulieren [109]. Hierbei wird insbesondere die E2F Gruppe beeinflusst, die die Expression von Genen reguliert, welche wiederum wichtig für die Zellzyklusprogression und die zelluläre Differenzierung sind [107].
+
+Vorausgegangene Studien haben bereits bestätigt, dass eine Beeinflussung von pRb und anderen Zellzyklusregulatoren eine intimale Verdickung nach PTCA in Schweine- Arterien unterdrücken kann [38]. Es zeigten sich auch eine signifikante Abnahme von glatten Muskelzellen und Neointimabildung im Ratten-Karotis- und in Schweine- Femoralarterien-Modell [10, 14]. Diese Ergebnisse konnten in einer histomorpho- metrischen Studie über p130 -/- Mäuse, die eine gesteigerte vaskuläre Traumaantwort zeigten, bestätigt werden [108]. Die Ergebnisse stellen die Bedeutung von p130 für die Traumaantwort und arteriellem Remodeling heraus und implizieren somit eine zentrale Rolle von p130 in der Beeinflussung des Zellzyklus im Rahmen einer Reaktion auf Gefäßwandschäden.
+
+Deshalb stellte sich die Frage, ob die Kontrolle der Zellzyklusprogression während der vaskulären Traumaantwort und des Remodelings ein spezifischer Aspekt ist, der von bestimmten Proteinen der pRb Gruppe, wie z.B. pRb selbst oder p130, ausgeübt wird, oder ob es sich eher um einen unspezifischen Effekt handelt, der sich bei allen pRb Proteinen oder zahlreichen Zellzyklusinhibitoren findet.
+
+In Anbetracht der hohen strukturellen Ähnlichkeit des p107 mit p130, insbesondere in den pocket domains, die zu anderen Zellzyklusregulatoren binden, sollte untersucht werden, ob auch p107 in dem verwendeten Modell eine wesentliche Regulatorfunktion einnimmt.
+
+
+Aufgabe dieser Arbeit war es daher, in einer histomorphometrischen Studie den Einfluss von p107 auf die Reparaturmechanismen nach einem Gefäßtrauma zu untersuchen. Um vergleichbare Bedingungen zu gewährleisten, wurde die Studie unter gleichen Voraussetzungen wie die Studie über p130-Mäuse durchgeführt [108].
+
+Dabei sollten folgende Fragen beantwortet werden:
+-Resultiert das Fehlen von p107 in einer gesteigerten Traumaantwort?-Handelt es sich bei der vaskulären Traumaantwort und dem vaskulären Remodeling um einen spezifischen Aspekt, der von bestimmten Proteinen der pRb Gruppe, wie z.B. p130, ausgeübt wird, oder handelt es sich eher um einen unspezifischen Effekt, der sich bei allen pRb Proteinen oder zahlreichen Zellzyklusinhibitoren findet?
+
+3 Material und Methoden
+3.1 Tiere
+Die p107 Knockout (p107-/-) -Mäuse wurden freundlicher Weise von T. Jacks von dem Massachusetts Institute of Technology bereitgestellt [18, 68] und sind bereits von Cobrinik et al. im Detail beschrieben worden. Die Herstellung der Mauslinie erfolgte am Massachussets Institute of Technologie wie folgt: Der auf das Gen p107 wirkende Vektor wurde in den 129/Sv D3 Strang embryonischer Stammzellen eingebracht, bevor die anversierten embryonischen Stammzellklone in C57BL / 6 Blastozyten injiziert wurden. Die Mäuse wurden dann in einem DBA Hintergrund gezüchtet (Jackson Laboratories, ME, USA). Die Fortführung der Mauslinie erfolgte am Krannert Institute of Cardiology, LARC, Indiana University, Indianapolis, USA. Um homozygote p107 -/- und p107 +/+ Versuchstiere zu erhalten, wurden heterozygote p107 +/- Mäuse gepaart. Die in dieser Studie verwendeten Tiere waren zwischen 3 und 5 Monate alt und wurden in zwei Gruppen von homozygoten p107 -/- und p107 +/+ Mäuse unterteilt. Alle Manipulationen wurden gemäß der Vorgaben des „National Institutes of Health“ (NIH) und der „Institutional Animal Care and Use Guidelines“ durchgeführt.
+
+Um den genotypischen Status beurteilen zu können, wurde eine Polymerase- Kettenreaktion (PCR) durchgeführt. Die Nachkommen aus den Paarungskäfigen wurden auf die Präsenz des Neogens durch PCR untersucht. Dazu wurde ein Satz von drei Primern verwendet, wie durch Cobrinik et. al bereits beschrieben und veröffentlicht wurde [18]. Die Primer erlauben es, zwischen dem Neogen und dem natürlicher Weise vorkommenden p107 Gen zu unterscheiden. Die Reaktionsprodukte wurden mittels Elektrophorese durch ein 1% Agarosegel analysiert und durch eine Ethidium - Bromid Färbung erkannt.
+
+3.2 Carotis-Ligationsmodell der Maus
+Das Carotis-Ligationsmodell wurde als eine Modifikation des Modells angewendet, welches von Kumar et al. veröffentlicht wurde [63].
+
+Die Tiere wurden mit 2,5% Avertin (0,015ml/g Körpergewicht ip.) narkotisiert. Die rechte Arteria carotis communis wurde mittels eines kleinen Einschnitts in der Mittellinie des Halses freipräpariert und mit einer 6-0 Propylennaht etwa 2 mm proximal der Karotisbifurkation ligiert, um den Blutfluss zu unterbrechen.
+
+
+Zusätzlich wurde, in Anlehnung an das Modell von Carmeliet et al., an den Mäusen auch eine perivaskuläre elektrische Verletzung vorgenommen [9].
+
+
+Für das Femoralismodell wurde unter dem oben genannten Narkoseprotokoll die linke Femoralarterie durch einen Schnitt in der Leiste dargestellt. Für ca. 2 s wurde ein elektrischer Impuls in Höhe von 600 µA Punkt für Punkt durch die Spitzen einer bipolaren Pinzette geleitet, insgesamt über eine Länge von ca. 4 mm.
+
+
+Danach konnten sich die Tiere 3 Wochen lang erholen und wurden dann durch eine Überdosis Halothan getötet und durch Perfusion fixiert. Dazu wurde der Brustkorb gleich nach dem Tod eröffnet und das Herz mit einer 25 Gauge großen Kanüle punktiert, über welche die Infusion einer phosphatgepufferten Salzlösung (PBS) unter physiologischem Druck lief. Über einen Einschnitt in die Vena cava inferior wurde das Blut drainiert. Nach 5 Minuten wurde die PBS durch ein 10% gepuffertes Formaldehyd ersetzt. Bevor die Mäuse seziert und für die endgültige Fixierung vorbereitet wurden, wurden sie für weitere 5 Minuten mit 10% gepuffertem Formaldehyd durchtränkt. Sämtliche Eingriffe an den Tieren wurden am Krannert Institute of Cardiology, LARC, Indian University, Indianapolis, USA, durchgeführt. Die histologische Aufarbeitung und Analyse der Präparate erfolgte am Leibniz-Institut für Arterioskleroseforschung, Departement Molekular-Kardiologie, an der Universität Münster.
+
+3.3 Histologische Analyse und Morphometrie
+Das Gewebe wurde durch verschiedene Ethanolkonzentrationen dehydriert und nach Standartmethoden in Paraffin eingebettet. Die Schnitte wurden wiederbewässert und mit Verhoff - van Gieson Färbung oder Hämatoxilin-Eosin-Färbung (H&E;) sichtbar gemacht. Morphometrische Analysen wurden mittels der Euro-Soft Software zur Messung des Umfangs der Lamina elastica externa (EEL), der Lamina elastica interna (IEL) und der Lumengrenze durchgeführt. Die Flächen wurden über die Umfangsmessungen ausgerechnet. Dazu wurde eine kreisförmigen Struktur der Gefäße unter in vivo Bedingungen angenommen. Alle morphometrischen Messungen wurden an Verhoff- van Gieson gefärbten Präparaten durchgeführt. Für nicht manipulierte Gefäße wurden morphometrische Werte von mindestens 3 Schnitten pro Gefäß und Tier ermittelt.
+
+3.4 Statistische Analysen
+Mittels des t-test für unabhängige Proben wurden statistische Analysen durchgeführt. Für morphometrische Messungen der ligierten Karotisarterie (n= 9 bei p107 -/- Mäusen gegenüber n= 12 bei p107 +/+ Mäusen) wurden über insgesamt 25 Schnitte analysiert.
+
+Statistische Analysen von ligierten Arteriae carotis communis wurden unter Benutzung wiederholter Messungsanalysen von der Varianz (RM ANOVA) durchgeführt, bei der Schnitte innerhalb eines Gefäßes als eine wiederholte Messung behandelt wurden. Im Fall von fehlenden Werten eines bestimmten Abschnitts, der durch die Präparationsprozedur hervorgerufen wurde, sind die Daten mittels des Durchschnitts der Werte auf beiden Seiten eingegeben worden. Die Werte sind als Mittelwerte ± Standartfehler der Mittelwerte (SEM) gegeben.
+
+4 Ergebnisse
+4.1 Morphometrische Gefäßanalyse von p107 -/- MäusenDie p107 -/- Mäuse waren von dem Kontroll-Wildtyp p107 +/+ in Bezug auf Größe und Körpergewicht nicht vergleichbar. Die Werte für das Körpergewicht betrugen 24.46 ±1.16g im Vergleich zur Kontrollgruppe mit 27.39 ± 1.14 g pro Tier (nicht signifikant: n.s.). Bei der Präparation der Mäuse wurden weder entlang des Gefäßbaumes noch am Herzen makroskopische Unregelmäßigkeiten entdeckt. Das mittlere Herzgewicht betrug181.00± 11.00 mg bei p107 -/- Mäusen im Vergleich zu 204.55 ± 10.30 mg in der Kontrollgruppe (n.s.).
+
+Um die arteriellen Gefäßverhältnisse zu evaluieren, führten wir an unverletzten Arterien, also der Aorta thoracica, der linken Arteria carotis communis und der rechten Arteria femoralis, morphometrische Analysen durch. Die Messungen ergaben, dass alle untersuchten Blutgefäße für p107 -/- Mäuse und die p107 +/+ Kontrollgruppe keinen signifikanten Unterschied aufwiesen. Die Werte für die Lumen- und Gefäßwandfläche für p107 -/- Mäuse und der Kontrollgruppe sind in Tabelle 1 dargestellt.
+
+
+In Übereinstimmung mit der regulären Gefäßentwicklung zeigten sich weder in der einen noch in der anderen Gruppe mikroskopisch pathologische Veränderungen, im Sinne einer spontanen Neointimabildung oder einer lokalen Gefäßwandverdickung. Auch die Anzahl der elastischen Schichten war mit denen der Kontrollgruppe vergleichbar. Typischer Weise lagen sie bei der Aorta bei 5-6 und bei der Arteria carotis communis bei 3-4 elastischen Schichten. Die Abbildung 7 zeigt exemplarisch Verhoff- van Gieson und H&E; Färbungen von der Aorta thoracica und der Arteria carotis communis, sowie der Arteria femoralis von p107 -/- Mäusen und der p107 +/+ Kontrollgruppe.
+
+Tabelle 1 p107 -/-p107 +/+p    Aorta thoracica       Lumenfläche31.42 x 104 ± 1.19 x10428.76 x 104 ± 0.93 x 104n.s.
+
+Wandfläche
+5.80 x 104 ± 0.25 x 1046.13 x 104 ± 0.17 x 104n.s.
+
+ 
+n=11n= 12     Arteria femoralis       Lumenfläche4.45 x 104 ± 0.44 x 1043.84 x 104 ± 0.32 x 104n.s.
+
+Wandfläche
+0.83 x 104 ± 0.05 x 1040.92 x 104 ± 0.05 x 104n.s.
+
+ 
+n=10n=13     Arteria carotis communis      Lumenfläche7.06 x 104 ± 0.37 x 1046.54 x 104 ± 0.31 x 104n.s.
+
+Wandfläche
+1.55 x 104 ± 0.13 x 1041.47 x 104 ± 0.06 x 104n.s.
+
+ 
+n=10n=11     Die morphometrischen Analysen wurden mittels der Euro-Soft Software durchgeführt. Gemessen wurde der Umfang der Elastica externa und der Neointima. Die Flächen wurden über die gemessenen Umfänge bei Annahme einer kreisrunden Struktur des Gefäßes unter in vivo Bedingungen errechnet. Die Werte sind in µm2 und als Mittelwerte ± SEM für die p107 -/- und p107 +/+ Mäuse angegeben (n.s. = nicht signifikant).
+
+p107 -/-p107 +/+A.femoralis A. carotis AortaAbbildung 7:Querschnittsflächen der unbehandelten Gefäße von p107-/- und p107 +/+ Mäusen. Die Grafik zeigt Van Gieson Färbungen der Aorta thoracica, der linken Arteria carotis communis und der rechten Arteria femoralis. Zusätzlich wurden H&E; Färbungen für die Femoralarterie (kleine Bilder) angefertigt. Alle Präparate wurden von perfusionsfixierten Tieren gewonnen. Vergrößerung:Aorta 320 x, Karotis- und Femoralarterie 400x.
+
+4.2 Einfluss der Ligatur auf den Prozess des Remodelings bei p107 -/- Mäusen
+Um den Einfluss des p107 Gens auf das Gefäßremodeling nach traumatischem Stimulus und veränderten arteriellen Fließeigenschaften zu testen, führten wir eine Ligatur der rechten Arteria carotis communis durch. Drei Wochen nach Ligatur wurden die Tiere getötet und für morphometrische Analysen präpariert.
+
+Die morphometrischen Untersuchungen zeigten, dass das Lumen beider ligierten Arteriae carotis communis p107 -/- (n=7) und p107 +/+ (n= 9) im Vergleich zu den nicht traumatisierten kontralateralen um mehr als die Hälfte vermindert war. Darüber hinaus wich die Lumenfläche im Mittel von den ligierten Arterien zwischen p107 -/- und p107 +/+ Mäusen nicht signifikant ab.
+
+Lumen Arteria carotis communis
+          p107-/-p107+/+       ligiert2,98 x 104± 0,84 x 1043,03 x 104± 0,84 x 104n.s.
+
+ 
+     nicht-ligiert7,07 x 104± 1,12 x 1046,54 x 104± 1,03 x 104n.s.
+
+ 
+     Lumenfläche:Mittlere Werte für die Lumenfläche reichten von 1,51 x 104 ± 0.97 x 104 bis 4.20 x 104 ±2.18x 104 µm2 für p107 -/- Mäuse gegenüber 1.87 x 104 ± 1.35 x 104 bis 4.87 x 104 ± 2.26 x 104 µm2 für p107 +/+ Mäuse (Abbildung 8 B).
+
+Fläche der Media und Neointima:
+Auch die gesamte Gefäßwandquerschnittsfläche (Media + Neointima) in p107 -/- Mäusen war, verglichen zu den Kontrollmäusen, nicht signifikant erhöht, wie in Abbildung 8A dargestellt ist. Der Anstieg der Gefäßwandfläche war praktisch entlang der untersuchten Läsion konstant. Die mittlere Gefäßwandfläche reichte von 2.26 x 104 ±0.84x 104 bis 3.76 x 104 ± 1.21 x 104 µm2 für p107 -/- Mäuse gegenüber 2.55 x 104 ± 0.62 x 104 bis 4.37 x 104 ± 2,12 x 104 µm2 für die Kontrollgruppe.
+
+Fläche der Media:Während die Gefäßwandfläche insgesamt bei p107 -/- Mäusen erhöht war, zeigten jedoch Analysen der Querschnittsfläche der Tunica media von der ligierten Arteria carotis communis keine signifikanten Unterschiede zwischen p107 -/- und den p107 +/+ Mäusen. Die Werte reichten von 1.97 x 104 ± 0.21 x 104 bis 3.10 x 104 ± 0.91 x 104 für p107 -/- Mäuse gegenüber 2.15 x 104 ± 0.33 x 104 bis 3.46 x 104 ± 1.19 x 104 µm2 für die Kontrollgruppe.
+
+Fläche der Neointima:
+Die mittlere Neointimafläche reichte von 0.17 x 104 ± 0.22 x 104 bis 0.81 x 104 ± 1.01 x 104 µm2 für p107 -/- Mäuse gegenüber 0.15 x 104 ± 0.23 x 104 bis 0.91x 104 ± 1.20 x 104 µm2 für p107 +/+ Mäuse. 35
+ 6     Aproximal  distal n.s  n.s.
+
+ 
+5    )4    2    µm  Ligatur     43   (10       Fläche2          1p107 -/- Gefäßwandfläche     Kontroll- Gefäßwandfläche    0 00+300 -750  5     Bproximal distal  4   n.s.
+
+ 
+n.s )  2  µm3 4 LigaturFläche(102  10p107 -/- Lumenfläche Kontroll-Lumenfläche-75000+300 Distanz (µm)  Abbildung 8 A und B:Morphometrische Messung der rechten ligierten A. carotis communis sowie der Kontrollgruppe von p107-/- Mäusen. Abbildung A zeigt die Querschnittsflächen der ligierten A. carotis communis 3 Wochen nachdem eine Ligatur gesetzt wurde. Entsprechende Werte sind für die Lumenfläche in Abbildung B dargestellt. Über eine Strecke von ca. 750 µm proximal und ca. 300 µm distal der Ligatur wurde jeder 6. Schnitt untersucht. Schnitte die sich zu nah an der Ligatur befanden, wurden von der Studie ausgeschlossen. Die Werte sind Ergebnisse von Messungen an p107-/- Mäusen und der Kontrollgruppe und sind in µm2 dargestellt.
+
+(n.s.: nicht signifikant)
+
+4.3 Traumamodell an der Arteria femoralis
+Um diese Ergebnisse an einem anderen Modell zu testen, untersuchten wir den Einfluss von perivaskulären elektrischen Gefäßschäden an der Arteria femoralis.
+
+In Übereinstimmung mit den aus dem Carotis-Ligationsmodell gewonnenen Daten, wurden für beide Mäusegruppen p107-/- (n=8) und p107+/+ (n=6) vergleichbare Ergebnisse für die Femoralarteriengefäßwände und Lumina gemessen. Auch die Neointimaflächen waren in beiden Gruppen nicht signifikant verschieden (Abb. 10).
+
+
+Abbildung 9:
+Fläche (104 µm2)A. femoralisp107 -/-n.s.
+
+Kontrollgruppe
+(p=0.93)n.s.
+
+(p=0.15)
+n.s.
+
+(p=0.23)
+GefäßwandNeointimaLumenAbbildung 10:Morphometrische Messungen der linken Arteria femoralis nach elektrischer perivaskulärer Verletzung. Das Histogramm zeigt die Querschnittsfläche der gesamten Gefäßwand, der Neointima und des Lumens von p107 -/- (n=8) und p107 +/+ (n=6) Mäusen. Werte( in µm2) sind als Mittelwerte ± Standartabweichung dargestellt. 37
+5 DiskussionDie vorliegende Arbeit zeigt am p107 Knockout-Maus-Modell eine normale Gefäßstruktur aber keine gesteigerte Proliferation von Gefäßzellen, nachdem eine Ligatur bzw. eine perivaskuläre elektrische Schädigung an einer Arterie gesetzt wurde.
+
+Die hier vorgelegte Studie wurde durchgeführt, um die Rolle insbesondere des Proteins p107 zu evaluieren, hinsichtlich der Veränderungen an der Gefäßwand, nachdem sie im Rahmen einer Ligatur oder eines perivaskulären elektrischen Impulses verletzt wurde.
+
+
+Das Protein p107 gehört zu der pRb Gruppe, bei der es sich um eine Gruppe von Zellzyklusinhibitoren handelt. Sie üben ihre Effekte auf den Zellzyklus aus, indem sie die Aktivität der E2F Transkriptionsfaktoren kontrollieren [48, 49, 107]. Für die Proteine der pRb Familie wie für das pRb selbst und für das p130 wurde die wichtige Rolle für die Reaktion auf eine arterielle Schädigung bereits hervorgehoben, wie die Studien an hypertensiven Ratten [35] und an Mäusen [108] gezeigt haben.
+
+
+Bereits 1993 erzielte Cobrinik et. al ein wichtiges Ergebnis, aus dem sich Hinweise für die Bedeutung von p130 in Bezug auf die Kontrolle des Zellzyklusstillstands innerhalb der G0 Phase ableiten ließen [17]. Deshalb wurde in der p130 Studie untersucht, ob eine Inaktivierung des p130 eine zentrale Rolle während des Prozesses gesteigerter Proliferation glatter Muskelzellen im Zusammenhang mit Neointimabildung und Gefäßwandverdickung nach arteriellem Trauma spielen würde.
+
+
+Verschiedene in vitro und in vivo Modelle waren bereits etabliert, die die Rolle von mehreren Faktoren beschreiben, welche eine SMC Proliferation und Neointima Bildung nach mitogener Stimulation oder nach arterieller Verletzung hervorrufen [102]. Studien über zytostatische Gentherapien, bei denen die Proteine pRb oder p130 überexpremiert wurden, zeigten in Tiermodellen eine signifikante Reduzierung hinsichtlich der Bildung von Neointima als Folge einer abnehmenden Proliferation der glatten Muskelzellen [10, 14]. Die durch den Adenovirus vermittelte arterielle Transduktion von p130 reduzierte die neointimale Hyperplasie bei einem Gefäßschaden und beugte einer Restenose vor, indem die Proliferation der glatten Muskelzellen blockiert wurde. Diesgeschah durch Einflussnahme auf die Bindungskapazität von Transkriptionsfaktorregulatoren E2F. Der Verlust von p130 und seiner biologischen Funktion zum Erhalt der Gefäßstruktur war bis dato nicht unter dem Gesichtspunkt des Reparaturmechanismusses unter natürlichen Bedingungen untersucht worden. Eine beträchtliche Anzahl von Studien hatte ihren Schwerpunkt mehr auf die Einflussnahme von Neointimabildung verlegt, als auf die Untersuchung des vaskulären Remodeling. Der Prozess des vaskulären Remodeling scheint allerdings insgesamt von enormer Relevanz für die klinischen Resultate postinterventionell sowie auch während des Prozesses der Atherosklerose zu sein.
+
+Viele Studien haben bereits den hohen Stellenwert des Gefäßremodelings hervorgehoben, den es auf die Lumenvergrößerung oder die Lumenverengung in Abhängigkeit des Verhältnisses zwischen Lumen und Gefäßwandfläche hat [4, 120]. Adaptives Remodeling scheint eine frühe physiologische Reaktion zu sein, um bei Arteriosklerose eine Lumenverkleinerung zu kompensieren [64, 120]. Im Zuge der Angioplastie steigt der Einfluss des Remodelings, während der relative Beitrag intimaler Neubildung, welche zu einem späten Lumenverlust führt, mit der Zeit abnimmt [24]. Mehrere verschiedene klinische Studien haben eine bemerkenswerte inter-individuelle Variabilität in der Ausprägung des Remodeling festgestellt [118]. Konstriktives, verengendes Remodeling wurde teilweise in Beziehung gesetzt zu dem Vorkommen von spezifischen Umweltfaktoren wie z.B. dem Rauchen [60, 114] oder Diabetes [61]. Allerdings ist auch klar, dass genetische Faktoren genauso gut dazu geeignet sind, das Gleichgewicht zwischen konstriktivem und adaptivem oder ungünstigem und perfektem Remodeling herzustellen.
+
+
+Sindermann et al. konnten bereits in einer vorausgegangenen Studie
+amp130Knockout-Maus-Modell zeigen, dass ein Anstieg der Gefäßwandflächenacheiner 39
+Gefäßverletzung primär durch Neointimabildung verursacht wird [108]. Dazu wurden in der p130 Studie morphometrische Analysen an nicht behandelten Gefäßen wie der Aorta sowie an Femoral- und Karotisarterien durchgeführt. Die Ergebnisse erbrachten den Nachweis von normalen Gefäßgeometrien. Nach Gefäßverletzung, induziert durch eine Ligatur der Arteria carotis communis, entwickelte sich bei p130 -/- Mäusen ein signifikanter Anstieg der Gefäßwandfläche, der primär durch einen wesentlichen Anstieg der Neointimafläche verursacht wurde.
+
+Der in der p130 Studie aufgezeigte Vorgang neointimalen Wachstums und verstärkter Gefäßwandexpansion beschreibt einen frühen Effekt der Proliferation von glatten Muskelzellen. Eine zentrale Rolle in der Vermehrung der glatten Muskelzellen ist mitogenen Faktoren und weiteren Faktoren, die den Zellzyklus steuern, zuzuschreiben.
+
+
+Die Ergebnisse wiesen darauf hin, dass der Verlust des p130 zu einer gesteigerten Traumaantwort führt, woraus sich eine Funktion des p130 innerhalb der Zellzykluskontrolle als Reaktion auf eine Verletzung der Gefäßwand ableiten ließ. Die gesteigerte Verletzungsantwort in dem Zusammenhang von p130 -/- findet dabei im Rahmen des perfekten Remodeling statt.
+
+
+In Anbetracht der hohen strukturellen Ähnlichkeit des p 107 mit p130, insbesondere in den pocket domains, die zu anderen Zellzyklusregulatoren binden, formulierten wir die Hypothese, dass in dem verwendeten Modell auch p107 eine wesentliche Regulatorfunktion einnimmt.
+
+
+Im Vergleich zu den Ergebnissen bei p130 -/- Mäusen zeigten die p 107 -/- Mäuse unter vergleichbaren Bedingungen jedoch keine Veränderungen des Gefäßes. Zwar zeigte das Fehlen von p 107 im Gegensatz zu den p130 -/- Mäusen keine gesteigerte Reaktion auf eine Ligatur des Gefäßes, allerdings war die Neubildung der Neointima und die Gefäßwandfläche mit denen der Kontrollmäuse vergleichbar.
+
+
+Möglicherweise sind die Studien von p130 und p107 Knockout-Mäusen nicht direkt miteinander vergleichbar. So könnten beispielsweise Unterschiede im genetischen Hintergrund der beiden Mäuselinien vorliegen. Um dennoch die generelle Gültigkeit für die Daten für die p107 Maus darzulegen, wurde ein weiteres Modell verwendet, bei dem die Schädigung elektrisch und perivaskulär an einer Femoralarterie erfolgte. Obwohl es sich um ein anderes Modell handelte, zeigte es im Wesentlichen vergleichbare Ergebnisse:Der Verlust des Proteins p107 war nicht mit einer gesteigerten Reaktion auf ein Trauma oder eine Ligatur assoziiert. Trotzdem muss angemerkt werden, dass die Ergebnisse nur spezifisch für das Modell der Ligatur oder des perivaskulären elektrischen Schadens sein können. Deshalb haben die Ergebnisse potentiell eine eingeschränkte Relevanz für andere Modelle und andere Spezies.
+
+Darüber hinaus kann auch nicht ausgeschlossen werden, dass Kompensations- mechanismen einen frühen zugrunde liegenden Effekt verdeckt haben. Allerdings war es auch nicht die Intention, den zeitlichen Verlauf von Ligatur oder elektrischer Verletzungsantwort zu untersuchen, sondern das Augenmerk auf einen fortgeschrittenen Verlauf der Reaktion zu richten, die vom klinischen Standpunkt her von größtem Interesse ist.
+
+
+Diese Ergebnisse lassen verschiedene Schlussfolgerungen zu:
+Die Regulation des Zellzyklusses für glatte Muskelzellen (SMC) nach vaskulärer Verletzung scheint kein redundanter Effekt der pRb Familie sondern ein spezifischer Effekt zu sein, wie er bereits für das Protein p130 nachgewiesen wurde [35, 108].
+
+Die vorliegenden Resultate und vorangegangenen Studien geben Anlass zu der Hypothese, dass die Regulation der Traumaantwort durch die Bindung von pRb und p130 an andere Zellregulatoren nicht nur, wie bisher angenommen, durch die conserved pocket domains kontrolliert wird, sondern auch durch andere, noch nicht definierte Faktoren. Diese Erkenntnis beinhaltet einen neuen Aspekt in der Reaktion auf vaskuläre Schädigung.
+
+Weitere Studien an p130-spezifischen Pfaden sowie Untersuchungen an den funktionellen primären und sekundären Proteinstrukturen von p 130 in Hinblick auf die Proliferation und Differenzierung werden notwendig sein, um die Pathophysiologie der Traumaantwort besser zu verstehen. Diese Versuche werden so den Weg für neue und spezifische therapeutische Ansätze bahnen können. 42
+6 Literaturverzeichnis[1]Bandara LR, La Thangue NB. Adenovirus E1A prevents the retinoblastoma gene product from complexing with a cellular transcription factor.
+
+Nature. 1991 Jun 6: 351(6326): 494-7.
+
+
+[2]Bartek J, Bartkova J, Lukas J. The retinoblastoma protein pathway and the restriction point. Curr Opin Cell Biol. 1996 Dec: 8(6), 805-14. Review.
+
+
+[3]Beijersbergen RL, Bernards R. Cell cycle regulation by the retinoblastoma family of growth inhibitory proteins. Biochim.Biophys.Acta 1996; 1287:103-120.
+
+
+[4]Birnbaum Y, Fishbein MC, Luo H, Nishioka T, Siegel RJ. Regional remodeling of atherosclerotic arteries: a major determinant of clinical manifestations of disease. J Am Coll Cardiol. 1997 Nov 1;30(5):1149-64. Review.
+
+
+[5]Blackshear JL, O'Callaghan WG, Callif RM. Medical approaches to prevention of restenosis after coronary angioplasty. J.Am. Coll Cardiol., 17, (1987), 834-848.
+
+
+[6]Brooks G, Poolman RA, Li JM. Arresting developments in the cardiac myocyte cell cycle: role of cyclin-dependent kinase inhibitors.
+
+
+Cardiovasc.Res. 1998; 39:301-311.
+
+
+[7]Buchkovich K, Duffy LA, Harlow E. The retinoblastoma protein is phosphorylated during specific phases of the cell cycle.
+
+
+Cell 1989 Sep 22; 58(6): 1097-105.
+
+
+[8]Campbell JH, Campell GR. Potential role of heparanase in atherosclerosis. New Physiol. Sci., 4, (1989), 9-12.
+
+
+[9]Carmeliet P, Moons L, Stassen JM, De Mol M, Bouche A, van den Oord JJ, Kockx M, Collen D. Vascular wound healing and neointima formation induced by perivascular electric injury in mice. Am J Pathol. 1997 Feb;150(2):761-76.
+
+
+[10]Chang MW, Barr E, Seltzer J, Jiang YQ, Nabel GJ, Nabel EG, Parmacek MS, Leiden JM. Cytostatic gene therapy for vascular proliferative disorders with a constitutively active form of the retinoblastoma gene product.
+
+
+Science. 1995 Jan 27; 267(5197): 518-22.
+
+
+[11]Chellappan SP, Hiebert S, Mudryj M, Horowitz JM, Nevins JR. The E2F transcription factor is a cellular target for the RB protein.
+
+
+Cell .1991 Jun 14; 65(6): 1053-61.
+ 43
+[12]Chen PL, Scully P, Shew JY, Wang JY, Lee WH. Phosphorylation of the retinoblastoma gene product is modulated during the cell cycle and cellular differentiation. Cell. 1989 Sep 22; 58:1193-1198.
+
+[13]Clarke AR, Maandag ER, van Roon M, van der Luft NMT, van der Valk M, Hooper ML, Berns A, te Riele H. Requirement for a functional Rb-1 gene in murine development. Nature. 1992 Sep 24: 359(6393): 328-30.
+
+
+[14]Claudio PP, Fratta L, Farina F, Howard CM, Stassi G, Numata S, Pacilio C, Davis A, Lavitrano M, Volpe M, Wilson JM, Trimarco B, Giordano A, Condorelli G. Adenoviral RB2/p130 gene transfer inhibits smooth muscle cell proliferation and prevents restenosis after angioplasty. Circ Res. 1999 Nov 26; 85(11): 1032-9.
+
+
+[15]Clowes AW, Reidy MA, Clowes MM. Mechanisms of stenosis after arterial injury Lab Invest. 1983 Aug; 49 (2): 208-15.
+
+
+[16]Clowes AW, Schwartz SM. Significance of quiescent smooth muscle migration in the injured rat carotid artery. Circ Res 1985 Jan; 56(1):, 139-45.
+
+
+[17]Cobrinik D, Whyte P, Peeper DS, Jacks T, Weinberg RA. Cell cycle-specific association of E2F with the p130 E1A-binding protein.
+
+
+Genes Dev. 1993 Dec; 7(12A):2392-404.
+
+
+[18]Cobrinik D, Lee MH, Hannon G, Mulligan G, Bronson RT, Dyson N, Harlow E, Beach D, Weinberg RA, Jacks T. Shared role of the pRB-related p130 and p107 proteins in limb development. Genes Dev. 1996 Jul 1; 10(13):1633-44.
+
+
+[19]Currier JW, Haudenschild C, Faxon DP, Pathophysiologie of Restenosis: Clinical Implications. Strategies in Primary and Secondary Prevention of Coronary Artery Disease. Ischinger TH., Gohlke H., Zuckerschwert Verlag 1992.
+
+
+[20]Dartsch PC, Voisard R, Bauriedel G, Hofling B, Betz E. Growth characteristics and cytoskeletal organization of cultured smooth muscle cells from human primary stenosing and restenosing lesions.
+
+
+Arteriosclerosis. 1990 Jan-Feb; 10(1): 62-75.
+
+
+[21]Davies PF. Vascular cell interactions with special reference to the pathogenesis of atherosclerosis. Lab Invest. 1986 Jul; 55(1):5-24.
+
+
+[22]DeCaprio JA, Ludlow JW, Figge J, Shew JY, Huang CM, Lee WH, Marsilio E, Paucha E, Livingston DM. SV40 large tumor antigen forms a specific complex with the product of the retinoblastoma susceptibility gene.
+
+
+Cell. 1988 Jul 15; 54(2): 275-83.
+ 44
+[23]DeCaprio JA, Furukawa Y, Ajchenbaum F, Griffin JD, Livingston DM.
+
+The retinoblastoma-susceptibility gene product becomes phosphorylated in multiple stages during cell cycle entry and progression.
+
+
+Proc Natl Acad Sci USA. 1992 Mar 1: 89(5): 1795-8.
+
+
+[24]de Smet BJ, van der Zande J, van der Helm YJ, Kuntz RE, Borst C, Post MJ. The atherosclerotic Yucatan animal model to study the arterial response after balloon angioplasty: the natural history of remodeling.
+
+
+Cardiovasc Res. 1998 Jul; 39(1): 224-32.
+
+
+[25]Dulic V, Kaufmann WK, Wilson SJ, Tlsty TD, Lees E, Harper JW, Elledge SJ, Reed SI. p53-dependent inhibition of cyclin-dependent kinase activities in human fibroblasts during radiation-induced G1 arrest. Cell 1994 Mar 25; 76(6): 1013-23.
+
+
+[26]Dyson N. The regulation of E2F by pRb-family proteins. Genes Dev. 1998 Aug 1; 12(15): 2245-62.
+
+
+[27]Dyson N, Howley PM, Munger K, Harlow E. The human papilloma virus-16 E7 oncoprotein is able to bind to the retinoblastoma gene product.
+
+
+Science. 1989 Feb 17; 243(4893): 934-7.
+
+
+[28]el-Deiry WS, Tokino T, Velculescu VE, Levy DB, Parsons R, Trent JM, Lin D, Mercer WE, Kinzler KW, Vogelstein B. WAF1, a potential mediator of p53 tumor suppression. Cell 1993 Nov 19; 75(4): 817-25.
+
+
+[29]Faxon DP, Spiro TE, Minor S, Cote G, Douglas J, Gottlieb R, Califf R, Dorosti K, Topol E, Gordon JB, et al., Low molecular weight heparin in prevention of restenosis after angioplasty: Results of Enoxaparin Restenosis (ERA) Trial. Circulation. 1994 Aug; 90(2): 908-14.
+
+
+[30]Ferns GA, Raines EW, Sprugel KH, Motani AS, Reidy MA, Ross R. Inhibition of neointimal smooth muscle accumulation after angioplasty by an antibody to PDGF. Science. 1991 Sep 6; 253 (5024): 1129-32.
+
+
+[31]Ferron GM, Pyszczynski NA, Jusko WJ. Gender-related assessment of cyclosporine/prednisolone/sirolimus interactions in three human lymphocyte proliferation assays. Transplantation. 1998 May 15; 65(9): 1203 – 9.
+
+
+[32]Fischman DL, Leon MB, Baim DS, Schatz RA, Savage MP, Penn I, et al. A randomized comparison of coronary-stent placement and balloon angioplasty in the treatment of coronary artery disease. Stent Restenosis Study Investigators. N.Engl.J.Med. 1994 Aug 25; 331 (8): 496-501.
+ 45
+[33]Flemington EK, Speck SH, Kaelin WG. E2F-1 mediated transactivation is inhibited by complex formation with the retinoblastoma susceptibility gene product. Proc. Natl. Acad. Sci. USA. 1993 Aug 1: 90(15): 6914-8.
+
+[34]Forrester JS, Fishbein M, Helfant R, Fagin J. A paradigm for restenosis based on cell biology: clues for the development of new preventive therapies.
+
+
+J Am Coll Cardiol. 1991 Mar 1;17(3):758-69. Review.
+
+
+[35]Forte A, Di Micco G, Galderisi U, De Feo M, Esposito F, Esposito S, Renzulli A, Berrino L, Cipollaro M, Agozzino L, Cotrufo M, Rossi F, Cascino A.
+
+
+Gene expression and morphological changes in surgically injured carotids of spontaneously hypertensive rats. J Vasc Res. 2002 Mar-Apr;39(2):114-21.
+
+
+[36]Friend SH, Bernards R, Rogelj S, Weinberg RA, Rapaport JM, Albert DM, Dryja TP. A human DNA segment with properties of the gene that predisposes to retinoblastoma and osteosarcoma. Nature. 1986 Oct 16-22;323(6089):643-6.
+
+
+[37]Fyfe AI., Transplant atherosclerosis: the clinical syndrome, pathogenesis and possible model of spontaneous atherosclerosis.
+
+
+Can. J. Cardiol. 1992 Jun;8(5):509-19.
+
+
+[38]Gallo R, Padurean A, Jayaraman T, Marx S, Roque M, Adelman S, Chesebro J, Fallon J, Fuster V, Marks A, Badimon JJ. Inhibition of intimal thickening after balloon angioplasty in porcine coronary arteries by targeting regulators of the cell cycle. Circulation. 1999 Apr 27;99(16):2164-70.
+
+
+[39]Gartel AL, Serfas MS, Tyner AL. p21-negative regulator of the cell cycle. Proc Soc Exp Biol Med. 1996 Nov;213(2):138-49. Review.
+
+
+[40]Gerrity RG, Goss JA, Soby L. Control of monocyte recruitment by chemotactic factor(s) in lesion-prone areas of swine aorta.
+
+
+Arteriosclerosis 1985 Jan-Feb;5(1):55-66.
+
+
+[41]Glagov S, Weisenberg E, Zarins CK, Stankunavicius R, Kolettis GJ. Compensatory enlargement of human atherosclerotic coronary arteries.
+
+
+New Engl J Med. 1987 May 28;316(22):1371-5.
+
+
+[42]Grewe PH, Deneke T, Machraoui A, Barmeyer J, Muller KM. Acute and chronic tissue response to coronary stent implantation: pathologic findings in human specimen. J Am Coll Cardiol. 2000 Jan;35(1):157-63.
+
+
+[43]Gu Y, Turck CW, Morgan DO. Inhibition of CDK2 activity in vivo by an associated 20K regulatory subunit. Nature. 1993 Dec 16;366(6456):707-10.
+ 46
+[44]Harbour JW, Luo RX, Dei Santi A, Postigo AA, Dean DC. Cdk phosphorylation triggers sequential intramolecular interactions that progressively block Rb functions as cells move through G1.
+
+Cell. 1999 Sep 17;98(6):859-69.
+
+
+[45]Harper JW, Adami GR, Wei N, Keyomarsi K, Elledge SJ. The p21 Cdkinteracting protein Cip1 is a potent inhibitor of G1 cyclin-dependent kinases.
+
+
+Cell. 1993 Nov 19;75(4):805-16.
+
+
+[46]Helin K, Harlow E, Fattaey A. Inhibition of E2F-1 transactivation by direct binding of the retinoblastoma protein.
+
+
+Mol Cell Biol. 1993 Oct;13(10):6501-8.
+
+
+[47]Herold G. Innere Medizin. 2007.
+
+
+[48]Herwig S, Strauss M. The retinoblastoma protein: a master regulator of cell cycle, differentiation and apoptosis. Eur J Biochem. 1997 Jun 15; 246(3):581-601.
+
+
+[49]Hiebert SW, Chellappan SP, Horowitz JM, Nevins JR. The interaction of RB with E2F coincides with an inhibition of the transcriptional activity of E2F.
+
+
+Genes Dev. 1992 Feb;6(2):177-85.
+
+
+[50]Hinzpeter B, Klever-Deichert G, Wendland G, Lauterbach K. Die koronare Herzkrankheit und die Sozialversicherung. Herz. 2000 Aug;25(5):515-25. German.
+
+
+[51]Hoffmann R, Mintz GS, Dussaillant GR. Pattern and mechanisms of in-stent restenosis: a serial intravascular ultrasound study.
+
+
+Circulation. 1996 Sep 15;94(6):1247-54.
+
+
+[52]Ip JH, Fuster V, Israel D, Badimon L, Chesebro JH. The role of platelets, thrombin and hyperplasia in restenosis following coronary angioplasty.
+
+
+J. Am. Coll. Cardiol. 1991 May;17(6 Suppl B):77B-88B.
+
+
+[53]Ishida S, Huang E, Zuzan H, Spang R, Leone G, West M, Nevins JR. Role for E2F in control of both DNA replication and mitotic functions as revealed from DNA microarray analysis. Mol Cell Biol. 2001 Jul;21(14):4684-99.
+
+
+[54]Jault FM, Jault JM, Ruchti F, Fortunato EA, Clark C, Corbeil J, Richman DD, Spector DH. Cytomegalovirus infection induces high levels of cyclins, phosphorylated Rb and p53, leading to cell cycle arrest.
+
+
+J.Virol. 1995 Nov;69(11):6697-704.
+
+
+[55]Kaelin WG, Pallas DC, DeCaprio JA, Kaye FJ, Livingston DM. Identification of cellular proteins that can interact specifically with the T/E1Abinding region of the retinoblastoma gene product. Cell. 1991 Feb 8;64(3):521-32.
+ 47
+[56]Kato J, Matsushime H, Hiebert SW, Ewen ME, Sherr CJ. Direct binding of cyclin D to the retinoblastoma gene product (pRb) and pRb phosphorylation by the cyclin D-dependent kinase CDK4. Genes Dev. 1993 Mar; 7(3):331-42.
+
+[57]Kearney M, Pieczek A, Haley L, Losordo DW, Andres V, Schainfeld R, Rosenfield K, Isner JM. Histopathology of in-stent restenosis in patients with peripheral artery disease. Circulation. 1997 Apr 15;95(8):1998-2002.
+
+
+[58]Keren, G., Compensatory enlargement, remodeling, and restenosis. Adv Exp Med Biol. 1997; 430: 187-196.
+
+
+[59]Komatsu R, Ueda M, Naruko T, Kojima A, Becker AE. Neointimal tissue response at sites of coronary stenting in humans: macroscopic, histological and immunohistochemical analysis. Circulation. 1998 Jul 21;98(3):224-33.
+
+
+[60]Kornowski R. Impact of smoking on coronary atherosclerosis and remodeling as determined by intravascular ultrasonic imaging.
+
+
+Am J Cardiol. 1999 Feb 1;83(3):443-5, A9.
+
+
+[61]Kornowski R, Mintz GS, Kent KM, Pichard AD, Satler LF, Bucher TA, Hong MK, Popma JJ, Leon MB. Increased restenosis in diabetes mellitus after coronary interventions is due to exaggerated intimal hyperplasia. A serial intravascular ultrasound study. Circulation. 1997 Mar 18;95(6):1366-9.
+
+
+[62]Kovesdi I, Reichel R, Nevins JR. Identification of a cellular transcription factor involved in E1A trans-activation. Cell. 1986 Apr 25;45(2):219-28.
+
+
+[63]Kumar A, Hoover JL, Simmons CA, Lindner V, Shebuski RJ. Remodeling and neointimal formation in the carotid artery of normal and P-selectin-deficient mice. Circulation. 1997 Dec 16;96(12):4333-42.
+
+
+[64]Labropoulos N, Zarge J, Mansour MA, Kang SS, Baker WH. Compensatory arterial enlargement is a common pathobiologic response in early atherosclerosis. Am J Surg. 1998 Aug;176(2):140-3.
+
+
+[65]Lafont A, Guzman LA, Whitlow PL, Goormastic M, Cornhill JF, Chisolm GM. Restenosis after experimental angioplasty. Intimal, medial and adventitial changes associated with constrictive remodelling.
+
+
+Circ Res. 1995 Jun; 76(6): 996-1002.
+ 48
+[66]Lam JY, Chesebro JH, Steele PM, Dewanjee MK, Badimon L, Fuster V. Deep arterial injury during experimental angioplasty: relation to a positive indium-111- labeled platelet scintigram, quantitative platelet deposition and mural thrombosis. J Am Coll Cardiol. 1986 Dec;8(6):1380-6.
+
+[67]La Thangue NB, Rigby PW. An adenovirus E1A-like transcription factor is regulated during the differentiation of murine embryonal carcinoma stem cells. Cell. 1987 May 22;49(4):507-13.
+
+
+[68]Lee MH, Williams BO, Mulligan G, Mukai S, Bronson RT, Dyson N, Harlow E, Jacks T. Targeted disruption of p107: functional overlap between p107 and Rb. Genes Dev. 1996 Jul 1;10(13):1621-32.
+
+
+[69]Lee WH, Bookstein R, Hong F, Young LJ, Shew JY, Lee EY. Human retinoblastoma susceptibility gene: cloning, identification, and sequence. Science. 1987 Mar 13;235(4794):1394-9.
+
+
+[70]Lee PC, Gibbons GH, Dzau VJ. Cellular and molecular mechanisms of coronary artery restenosis. Coron. Artery Dis. 1993 Mar;4(3):254-9.
+
+
+[71]Lees J, Buchkovich K, Marshak D, Anderson C, Harlow E. The retinoblastoma protein is phosphorylated on multiple sites by human cdc2.
+
+
+EMBO J. 1991 Dec;10(13):4279-90.
+
+
+[72]Leonhardt, Histologie, Zytologie und Mikroanatomie des Menschen Thieme Verlag, 8. Auflage, 1990, 220ff.
+
+
+[73]Li R, Waga S, Hannon GJ, Beach D, Stillman B. Differential effects by the p21 CDK inhibitor on PCNA-dependent DNA replication and repair.
+
+
+Nature. 1994 Oct 6;371(6497):534-7.
+
+
+[74]Lin B, Gruenwald S, Morla A, Lee W, Wang J. Retinoblastoma cancer suppressor gene product is a substrate of the cell cycle regulator cdc2 kinase.
+
+
+EMBO J. 1991 Apr;10(4):857-64.
+
+
+[75]Ludlow JW, DeCaprio JA, Huang CM, Lee WH, Paucha E, Livingston DM. SV40 large T antigen binds preferentially to an underphosphorylated member of the retinoblastoma susceptibility gene product family.
+
+
+Cell. 1989 Jan 13;56(1):57-65.
+
+
+[76]Ludlow JW, Shon J, Pipas JM, Livingston DM, DeCaprio JA. The retinoblastoma susceptibility gene product undergoes cell cycle- dependent dephosphorylation and binding to and release from SV40 large T. Cell. 1990 Feb 9;60(3):387-96.
+ 49
+[77]Löffler G, Petrides PE. Biochemie and Pathobiochemie. 5 ed. 1997.
+
+[78]Mach F. Toward new therapeuthic strategies against neointimal formation in restenosis. Arterioscler.Thromb.Vasc.Biol. 2000 Jul;20(7):1699-700.
+
+
+[79]Mintz GS, Popma JJ, Pichard AD, Kent KM, Satler LF, Wong C, Hong MK, Kovach JA, Leon MB. Arterial remodeling after coronary angioplasty: a serial intravascular ultrasound study. Circulation. 1996 Jul 1;94(1):35-43.
+
+
+[80]Mittnacht S, Lees JA, Desai D, Harlow E, Morgan DO, Weinberg RA.
+
+
+Distinct sub-populations of the retinoblastoma protein show a distinct pattern of phosphorylation. EMBO J. 1994 Jan 1;13(1):118-27.
+
+
+[81]Mora R, Lupu F, Simionescu N. Prelesional events in atherogenesis. Colocalization of apolipoprotein B, unesterified cholesterol and extracellular phospholipid liposomes in the aorta of hyperlipidemic rabbit. Atherosclerosis. 1987 Oct;67(2-3):143-54.
+
+
+[82]Moreno PR, Palacios IF, Leon MN, Rhodes J, Fuster V, Fallon JT. Histopathologic comparison of human coronary in-stent and post-balloon angioplasty restenotic tissue. Am.J.Cardiol. 1999 Aug 15;84(4):462-6, A9.
+
+
+[83]Mudra H, Regar E, Klauss V, Werner F, Henneke KH, Sbarouni E, Theisen K. Serial follow up after optimized ultrasound guided developement of Palmaz- Schatz stents. Circulation. 1997 Jan 21;95(2):363-70.
+
+
+[84]Muller H, Bracken AP, Vernell R, Moroni MC, Christians F, Grassilli E, Prosperini E, Vigo E, Oliner JD, Helin K. E2Fs regulate the expression of genes involved in differentiation, development, proliferation, and apoptosis.
+
+
+Genes Dev. 2001 Feb 1;15(3):267-85.
+
+
+[85]Munro JM, Cotran RS. The pathogenesis of atherosclerosis: atherogenesis and inflammation. Lab Invest. 1988 Mar;58(3):249-61. Review.
+
+
+[86]Murray AW. Creative blocks: cell-cycle checkpoints and feedback controls. Nature. 1992 Oct 15;359(6396):599-604. Review.
+
+
+[87]Newby AC, George SJ. Proposed roles for growth factors in mediating smooth muscle proliferation in vascular pathologies.
+
+
+Cardiovasc Res. 1993 Jul;27(7):1173-83. Review.
+
+
+[88]Nigg EA. Cyclin-dependent protein kinases: key regulators of the eukaryotic cellcycle. Bioessays. 1995 Jun;17(6):471-80. Review.
+ 50
+[89]Nilsson J. Growth factors and the pathogenesis of atherosclerosis Atherosclerosis. 1986 Dec;62(3):185-99.
+
+[90]Nobuyoshi M, Kimura T, Ohishi H, Horiuchi H, Nosaka H, Hamasaki N, Yokoi H, Kim K. Restenosis after percutaneous transluminal coronary angioplasty: Pathologic observations in 20 patients. J Am Coll Cardiol. 1991 Feb;17(2):433-9.
+
+
+[91]Nurse, P. Universal control mechanism regulating onset of M-phase. Nature. 1990 Apr 5;344(6266):503-8. Review.
+
+
+[92]Pardee AB. G1 events and regulation of cell proliferation. Science. 1989 Nov 3;246(4930):603-8. Review.
+
+
+[93]Pines J. Cyclin-dependent kinase inhibitors: the age of crystals. Biochim.Biophys.Acta. 1997 Feb 22;1332(1):M39-42.
+
+
+[94]Poma EE, Kowalik TF, Zhu L, Sinclair JH, Huang ES.
+
+
+The human cytomegalovirus IE1-72 protein interacts with the cellular p107 protein and relieves p107-mediated transcriptional repression of an E2F- responsive promoter. J.Virol. 1996 Nov;70(11):7867-77.
+
+
+[95]Reidy MA, Bowyer DE. Control of arterial smooth muscle cell proliferation. Curr. Opin. Lipidol.4, (1993), 349-354.
+
+
+[96]Ren B, Cam H, Takahashi Y, Volkert T, Terragni J, Young RA, Dynlacht BD. E2F integrates cell cycle progression with DNA repair, replication, and G(2)/M checkpoints. Genes Dev. 2002 Jan 15;16(2):245-56.
+
+
+[97]Riede UN, Schaefer HE
+Allgemeine und spezielle Pathologie, 3. Auflage, Georg-Thieme Verlag, 1993.
+
+[98]Roberts AB, Sporn MB, Assoian RK, Smith JM, Roche NS, Wakefield LM, et al. Transforming growth factor type beta: rapid induction of fibrosis and angiogenesis in vivo and stimulation of collagen formation in vitro.
+
+
+Proc Natl Acad Sci U S A. 1986 Jun;83(12):4167-71.
+
+
+[99]Rosenbloom J, Abrams WR, Mecham R. Extracellular matrix 4: the elastic fiber. FASEB J. 1993 Oct;7(13):1208-18. Review.
+
+
+[100]Ross HJ, Canada AL, Slater LM. Cyclosporin A enhances paclitaxel toxicity against leukemia and respiratory epithelial cancers.
+
+
+Clin Cancer Res. 1997 Jan;3(1):57-62.
+ 51
+[101]Ross JS, Stagliano NE, Donovan MJ, Breitbart RE, Ginsburg GS. Atherosclerosis and cancer: common molecular pathways of disease development and progression. Ann N Y Acad Sci. 2001 Dec;947:271-92; discussion 292-3.
+
+[102]Ross R. The pathogenesis of atherosclerosis: a perspective for the 1990s. Nature. 1993 Apr 29;362(6423):801-9. Review.
+
+
+[103]Ross R. Atherosclerosis--an inflammatory disease. N.Engl.J.Med. 1999 Jan 14;340(2):115-26.
+
+
+[104]Schwartz RS, Topol EJ, Serruys PW, Sangiorgi G, Holmes DR. Artery size, neointima, and remodeling: time for some standards.
+
+
+J Am Coll Cardiol. 1998 Dec; 32(7): 2087-94.
+
+
+[105]Schwartz SM, deBlois D, O'Brien ER. The intima. Soil for atherosclerosis and restenosis. Circ.Res. 1995 Sep;77(3):445-65.
+
+
+[106]Serruys PW, de Jaegere P, Kiemeneij F, Macaya C, Rutsch W, Heyndrickx G, Emanuelsson H, Marco J, Legrand V, Materne P, et al. A comparison of balloon- expandable stent implantation with baloon angioplasty in patients with coronary artery disease. N Engl J Med. 1994 Aug 25;331(8):489-95.
+
+
+[107]Sidle A, Palaty C, Dirks P, Wiggan O, Kiess M, Gill RM, Wong AK, Hamel PA. Activity of the retinoblastoma family proteins, pRB, p107, and p130, during cellular proliferation and differentiation.
+
+
+Crit Rev Biochem Mol Biol. 1996 Jun; 31(3):237-71.
+
+
+[108]Sindermann JR, Smith J, Kobbert C, Plenz G, Skaletz-Rorowski A, Solomon JL, Fan L, March KL. Direct evidence for the importance of p130 in injury response and arterial remodeling following carotid artery ligation.
+
+
+Cardiovasc Res. 2002 Jun;54(3): 676-83.
+
+
+[109]Sindermann JR, Kobbert C, Bauer F, Skaletz-Rorowski A, Hohage H, Plenz G, Breithardt G, March KL. Vascular ligation response is independent of p107: stressing the role of the related p130.
+
+
+Am J Physiol Heart Circ Physiol. 2003 Aug;285(2):H915-8.
+
+
+[110]Sherr CJ. Cancer cell cycles.
+
+
+Science. 1996 Dec 6;274(5293):1672-7. Review.
+
+
+[111]Shirodkar S. The transcription factor E2F interacts with the retinoblastoma product and a p107-cyclin a complex in a cell cycle-regulated manner. Cell. 1992 Jan 10;68(1):157-66.
+ 52
+[112]Stary HC, Chandler AB, Dinsmore RE, Fuster V, Glagov S, Insull W Jr, Rosenfeld ME, Schwartz CJ, Wagner WD, Wissler RW. A definition of advanced types of atherosclerotic lesions and a histological classification of atherosclerosis. A report from the Committee on Vascular Lesions of the Council on Arteriosclerosis, American Heart Association.
+
+Circulation. 1995 Sep 1;92(5):1355-74. Review.
+
+
+[113]Tannoch VJ, Hinds PW, Tsai LH. Cell cycle control. Adv.Exp.Med.Biol. 2000; 465:127-40.
+
+
+[114]Tauth J, Pinnow E, Sullebarger JT, Basta L, Gursoy S, Lindsay J, Matar F. Predictors of coronary arterial remodeling patterns in patients with myocardial ischemia. Am J Cardiol. 1997 Nov 15;80(10):1352-5.
+
+
+[115]Thomas WA, Lee KT, Kim DN. Cell population kinetics in atherogenesis. Cell births and losses in intimal cell mass-derived lesions in the abdominal aorta of swine. Ann N Y Acad Sci. 1985;454:305-15.
+
+
+[116]Topol EJ. Coronary -artery stents: gauging, gorging and gouging. N.Engl.J.Med. 1998 Dec 3;339(23):1702-4.
+
+
+[117]Virmani R, Farb A. Pathology of in-stent restenosis. Curr Opin Lipidol. 1999 Dec;10(6):499-506. Review.
+
+
+[118]von Birgelen C, Airiian SG, Mintz GS, van der Giessen WJ, Foley DP, Roelandt JR, Serruys PW, de Feyter PJ. Variations of remodeling in response to left main atherosclerosis assessed with intravascular ultrasound in vivo.
+
+
+Am J Cardiol. 1997 Dec 1;80(11):1408-13.
+
+
+[119]Wang JY. Retinoblastoma protein in growth suppression and death protection. Curr Opin Genet Dev. 1997 Feb;7(1):39-45. Review.
+
+
+[120]Ward MR, Pasterkamp G, Yeung AC, Borst C. Arterial remodeling. Mechanisms and clinical implications. Circulation. 2000 Sep 5;102(10):1186-91. Review.
+
+
+[121]Weinberg RA. The retinoblastoma protein and cell cycle control. Cell. 1995 May 5;81(3):323-30. Review.
+
+
+[122]Weinmann AS, Bartley SM, Zhang T, Zhang MQ, Farnham PJ. Use of chromatin immunoprecipitation to clone novel E2F target promoters.
+
+
+Mol Cell Biol. 2001 Oct;21(20):6820-32.
+
+
+[123]Weintraub SJ, Prater CA, Dean DC. Retinoblastoma protein switches the E2F site from positive to negative element.
+
+
+Nature. 1992 Jul 16;358(6383):259-61.
+ 53
+[124]Whyte P, Buchkovich KJ, Horowitz JM, Friend SH, Raybuck M, Weinberg RA, Harlow E. Association between an oncogene and an anti-oncogene: the adenovirus E1A proteins bind to the retinoblastoma gene product.
+
+Nature. 1988 Jul 14;334(6178):124-9.
+
+
+[125]Whyte P, Williamson NM, Harlow E. Cellular targets for transformation by the adenovirus E1A proteins. Cell. 1989 Jan 13;56(1):67-75.
+
+
+[126]Wilcox JN. Molecular biology: insight into the causes and prevention of restenosis after arterial intervention.
+
+
+Am J Cardiol. 1993 Oct 18;72(13):88E-95E. Review.
+
+
+[127]Xiong Y, Hannon GJ, Zhang H, Casso D, Kobayashi R, Beach D. p21 is a universal inhibitor of cyclin kinases.
+
+
+Nature. 1993 Dec 16;366(6456):701-4.
+
+
+[128]Yee AS, Reichel R, Kovesdi I, Nevins JR. Promoter interaction of the E1A- inducible factor E2F and its potential role in the formation of a multi-component complex. Embo. 1987 Jul;6(7):2061-8.
+
+
+[129]Zamanian M, La-Thangue NB. Transcriptional repression by the Rb-related protein p107. Mol Biol Cell. 1993 Apr;4(4):389-96.
+
+
+[130]Zarins CK, Weisenberg E, Kolettis G, Stankunavicius R, Glagov S. Differential enlargement of artery segments in response to enlarging atherosclerotic plaques. J Vasc Surg. 1988 Mar;7(3):386-94.
+
+
+[131]Zettler ME, Pierce GN. Cell cycle proteins and atherosclerosis.
+
+
+Herz. 2000 Mar;25(2):100-7. Review.
+
+
+[132]Zhu L, van-den Heuvel S, Helin K, Fattaey A, Ewen M, Livingston D, Dyson N, Harlow E. Inhibition of cell proliferation by p107, a relative of the retinoblastoma protein. Genes Dev.1993 Jul;7(7A):1111-25.
+
+
+[133]Zhu L, Enders G, Lees JA, Beijersbergen RL, Bernards R, Harlow E. The pRB- related protein p107 contains two growth suppression domains: independent interactions with E2F and cyclin/cdk complexes.
+
+
+EMBO J. 1995 May 1;14(9):1904-13.
+ 54
+DanksagungMein ganz besonderer Dank gilt meinem Doktorvater, Herrn PD Dr. med J. Sindermann für die Überlassung des interessanten Themas, die konstruktive und angenehme Zusammenarbeit und die freundliche Unterstützung bei allen aufgetretenen Fragen und Schwierigkeiten.
+
+Allen Mitarbeitern des Leibniz-Instituts für Arterioskleroseforschung insbesondere Frau Dr. Christiane Köbbert und Frau Tatjana Walkert danke ich für ihre Zusammenarbeit und freundliche Hilfe.
+
+
+Zu tiefstem Dank bin ich meinen Eltern gegenüber verpflichtet. Sie haben mir das Studium ermöglicht und ich konnte mir ihrer Unterstützung immer sicher sein.
+
+
+Allen, die mich direkt oder indirekt bei der Anfertigung dieser Arbeit unterstützt haben, möchte ich herzlich danken.
+
+
+Zuletzt möchte ich mich für die Unterstützung durch meine Frau Diana bedanken, die immer für mich da war.
+
+
+Lebenslauf
+Angaben zur Person  Name:
+ Florian Peter Bauer
+Anschrift:Maria-Rasch-Weg 15, 49080 Osnabrück Geburtsdatum:
+ 23.02.1975
+Geburtsort:WolfsburgEltern:Sibylle Bauer, geb. Erz, Hausfrau  und Peter Bauer, Dipl.-Ing.
+
+
+Familienstand:
+verheiratet seit dem 22.10.2004 mit Diana Bauer, geb. Dunkmann,  Vater von Eirik Elias Bauer, geb. 18.01.2006
+ und von Anouk Kristin Bauer, geb.17.01.2008Nationalität:deutsch Konfession:
+ röm.-kath.
+
+
+Schulbildung
+ 1981-1982private Grundschule Sarajevo, Bosnien-Herzegowina1982-1983Erich-Kästner-Grundschule Wolfsburg-Detmerode 1983-1985
+ Eulenschule Wolfsburg-Fallersleben
+1985-1987Orientierungsschule Wolfsburg-Fallersleben 1987-1994
+ Gymnasium Wolfsburg-Fallersleben
+Zivildienst  1994-1995
+ Lebenshilfe Wolfsburg - Behindertenwohnheim
+  Stadtkrankenhaus Wolfsburg
+Studium der Medizin 1995-1996Otto-von-Guericke-Universität Magdeburg 1996-2001
+ Medizinische Universität zu Lübeck
+ 2001-2002
+ Westfälische Wilhelms Universität Münster
+Examina September 1998Physikum September 1999
+ Erstes Staatsexamen
+September 2001Zweites Staatsexamen November 2002
+ Drittes Staatsexamen
+Berufliche Tätigkeit  01.04.2003
+ Arzt im Praktikum
+ in der Medizinischen Klinik II, Klinikum Osnabrück, am Finkenhügel 1,  49076 Osnabrück
+seit 1.10.2004Assistenzarzt  in der Medizinischen Klinik II,
+ Klinikum Osnabrück, am Finkenhügel 1,  49076 Osnabrück
+ Osnabrück, den 14.02.2008

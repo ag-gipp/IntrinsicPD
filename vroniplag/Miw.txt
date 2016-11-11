@@ -1,0 +1,2436 @@
+Aus der Medizinischen Klinik I der Charité
+- Campus Benjamin Franklin –
+der Medizinischen Fakultät Charité – Universitätsmedizin Berlin
+
+DISSERTATION
+
+Modifizierte Therapiestrategien in der Kombinationstherapie mit
+pegyliertem Interferon alpha-2a (PEG-IFN alpha-2a) und einer einmal
+täglichen Fixdosis von Ribavirin bei HCV-infizierten
+Drogenabhängigen unter Substitutionsbehandlung
+
+zur Erlangung des akademischen Grades
+Doctor medicinae (Dr. med.)
+
+vorgelegt der Medizinischen Fakultät
+Charité – Universitätsmedizin Berlin
+
+von
+
+Michael Waizmann
+aus Leipzig
+
+Gutachter/in:
+
+1. Prof. Dr. med. R. Somasundaram
+2. Prof. Dr. med. F. Stickel
+3. Priv.-Doz. Dr. med. E. Schott
+
+Datum der Promotion: 19. November 2010
+
+Inhaltsverzeichnis
+1. Einleitung
+
+3
+
+1.1
+
+Das Hepatitis C Virus (HCV)
+
+3
+
+1.2
+
+Genomorganisation des Hepatitis C Virus
+
+4
+
+1.3
+
+HCV Genotypen und deren klinische Relevanz
+
+5
+
+1.4
+
+Transmission und Prävalenz der HCV – Infektion
+
+6
+
+1.5
+
+Epidemiologie der HCV – Infektion
+
+7
+
+1.6
+
+Epidemiologie der HCV – Infektion bei Drogenabhängigen
+
+7
+
+1.7
+
+Langzeitprognose der HCV – Infektion ohne Therapie
+
+7
+
+1.8
+
+Langzeitprognose der HCV – Infektion mit Therapie
+
+8
+
+1.9
+
+Therapie der HCV – Infektion bei Drogenabhängigen
+
+8
+
+1.10 Die Bedeutung der Adhärenz für eine erfolgreiche Therapie bei
+Drogenabhängigen
+
+8
+
+1.11 Interferon-alpha-Therapie bei chronischer Hepatitis C
+
+9
+
+1.12 Ribavirin bei der Therapie der chronischen Hepatitis C
+
+10
+
+1.13 Citalopram / Escitalopram bei der Therapie der chronischen Hepatitis C 11
+1.14 Kombinationstherapie (Interferon-alpha + Ribavirin) bei chronischer
+Hepatitis C
+
+11
+
+1.15 Therapie der chronischen Hepatitis C mit pegylierten Interferonen
+
+12
+
+1.16 Definition der Response
+
+13
+
+1.17 Ursachen der Nonresponse auf Interferon alpha bei chronischer
+Hepatitis C und prognostische Faktoren für das Therapieansprechen
+bei chronischer Hepatitis C
+
+14
+
+2. Fragestellung
+
+16
+
+3. Patienten, Material und Methoden
+
+17
+
+1
+
+3.1
+
+Patienten
+
+17
+
+3.2
+
+Einschlusskriterien
+
+17
+
+3.3
+
+Ausschlusskriterien
+
+17
+
+3.4
+
+Behandlung
+
+17
+
+3.5
+
+Materialien
+
+18
+
+3.6
+
+Zielparameter
+
+19
+
+3.6.1 Primärer Zielparameter
+
+19
+
+3.6.2 Sekundäre Zielparameter
+
+19
+
+3.7
+
+Statistik
+
+19
+
+4. Ergebnisse
+
+20
+
+4.1
+
+Virologisches Ansprechen
+
+21
+
+4.2
+
+Biochemisches Ansprechen
+
+23
+
+4.3
+
+Sicherheit und Verträglichkeit
+
+23
+
+5. Diskussion
+
+26
+
+6. Zusammenfassung
+
+31
+
+7. Literaturverzeichnis
+
+33
+
+8. Abkürzungsverzeichnis
+
+48
+
+9. Curriculum vitae
+
+49
+
+10. Erklärung zur Selbstständigkeit
+
+50
+
+11. Danksagung
+
+51
+
+2
+
+1. Einleitung
+
+1.1 Das Hepatitis C – Virus
+
+1989 gelang es erstmals Choo und weiteren Wissenschaftlern der Chiron Corporation
+(USA) [1] durch moderne molekularbiologische Verfahren, die Identifizierung des
+gesuchten Non-A-Non-B Virus aus einem hochtitrig infektiösen Plasma [2] eines
+Primaten
+
+mit
+
+chronischer
+
+Non-A-Non-B-Hepatitis.
+
+Durch
+
+Sequenzierung
+
+sich
+
+überlappender cDNA Klone konnte die gesamte Nukleotid-Sequenz dieses Non-A-nonB Virus-Genoms dargestellt werden, welches dann als Hepatitis C Virus bezeichnet
+wurde [3]. Es konnte gezeigt werden, dass bis zu 90 % der akuten und chronischen
+Non-A-Non-B Hepatitiden auf eine Infektion mit dem HCV zurückzuführen sind [4-8].
+HCV wurde als separater Genus innerhalb der Familie der Flaviviridae klassifiziert
+[9,10].
+
+Tabelle 1: Einteilung der Flaviviridae
+
+Familie
+
+Genus
+
+Spezies
+
+Flaviviren
+
+Gelbfieber Virus
+West Nile Virus
+FSME Virus
+Japanisches B
+
+Genotypen
+
+Enzephalitis
+
+Virus
+Dengue
+
+Dengue 1-4
+
+Hepaciviren
+
+Hepatitis C Virus
+GB Virus B
+
+HCV Typ 1-6
+
+neuer Genus?
+
+GB Virus C/ HGV
+GB Virus A
+
+(Typ 1-3)
+
+Pestiviren
+
+BVDV
+
+Flaviviridae
+
+HCHV
+
+3
+
+1.2 Genomorganisation des Hepatitis C Virus
+
+HCV enthält eine positiv ausgerichtete, einzelsträngige RNA (kurz ss [single strand]
+(+)RNA-Virus) von ca. 9.600 Nukleotiden. Das Genom ist durch ein Nukleokapsid
+verpackt.
+Das Genom beginnt mit einer für alle Isolate hochkonservierten nicht-codierenden
+Region von 341 Nukleotiden [9], die eine interne Ribosomenbindungsstelle enthält und
+die Expression des HCV-Polyproteins steuert. Dem nicht kodierenden 5'-Ende folgt ein
+langer offener Leserahmen von ~ 9033 Nukleotiden Länge, der für ein, je nach Virustyp,
+3010-3033 Aminosäuren großes Vorläufer-Polyprotein kodiert. Von diesem Polyprotein
+werden an bestimmten Schnittstellen einzelne Proteine co- oder posttranslational von
+Wirts-kodierten Signalasen und Virus-kodierten Proteasen abgespalten [11-15]. Das
+nicht-kodierende 3'-Ende ist je nach Isolat 27-55 Nukleotide lang [9,16-88] und wird von
+einem poly(U)-Strang [17-19] gefolgt von einer hochkonservierten Region von 98
+Nukleotiden beendet.
+Das Polyprotein enthält drei Strukturproteine, das Kapsid ("core",C) und zwei
+Hüllproteine (E1 und E2) sowie die nicht-Strukturproteine p7, NS2, NS3, NS4A, NS4B,
+NS5A und NS5B [15]. Die Größe und Funktionen der einzelnen Proteine sind in Abb. 1
+dargestellt.
+
+Abb. 1: Genomorganisation des Hepatitis C Virus (HCV) [modifiziert nach 14].
+
+Dargestellt ist das ca. 9,6 kb umfassende HCV-Genom, die verschiedenen strukturellen
+
+4
+
+h(C, E1, E2/p7) und nichtstrukturellen (NS2, 3, 4A, 5A und 5B) HCV-Gene im Kontext
+des offenen Leserahmen sowie die daraus resultierenden HCV-Proteine mit ihrem
+Molekulargewicht und den bekannten Funktionen. (ISDR = Interferon-Sensitivitätsdeterminierende Region, nach Enomoto [20]).
+Das 70 kDa große NS3-Protein vermittelt drei enzymatische Aktivitäten: eine SerinProtease
+
+(im
+
+N-terminalen
+
+Drittel
+
+lokalisiert)
+
+und
+
+„downstream“
+
+in
+
+den
+
+carboxyterminalen zwei Dritteln eine NTPase/Helikase-Kombination. Die entschlüsselte
+kristallographische Struktur der Helikase erlaubt neue Einsichten in ihre Funktionsweise
+und macht das Enzym zu einer interessanten Zielsubstanz für neue anti-HCVMedikamente. NS5A wird posttranslational phosphoryliert und liegt in einer 56 kDa und
+58 kDa Form vor. Neben einer möglichen transaktivierenden Funktion wurden auch
+Interaktionen des NS5A Proteins mit den Interferon-induzierten Effektorproteinen wie z.
+B. der PKR nachgewiesen. Das NS5A-Protein hat eine Bedeutung für die InterferonAntwort. Das NS5B-Protein besitzt eine RNA-Polymerase-Aktivität und stellt somit ein
+weiteres mögliches Zielprotein für neue antivirale Substanzen dar [21].
+
+1.3 HCV Genotypen und deren klinische Relevanz
+
+Eine große Zahl verschiedener HCV-Isolate sind kloniert und sequenziert worden [1618, 22-25]. Es konnte festgestellt werden, dass das HCV eine ausgeprägte genetische
+Heterogenität aufweist, wie man es auch von anderen RNA Viren kennt, die keine
+replikativen Reparaturmechanismen besitzen und zu Fehlern neigende Replikasen
+enthalten. Aufgrund der Ungenauigkeit der HCV-RNA-Polymerase kann es bei der
+Replikation zu ca. 2 x 10-3 Mutationen pro Nukleotidposition pro Jahr kommen.
+Phylogenetische Analysen der Nukleotid- bzw. Aminosäure-Sequenz von HCV-Isolaten
+aus
+
+unterschiedlichen
+
+geographischen
+
+Regionen
+
+haben
+
+die
+
+Existenz
+
+von
+
+6
+
+verschiedenen HCV-Genotypen ergeben. Die HCV-Genotypen zeigen eine Homologie
+auf der Nukleotid- bzw. Aminosäurenebene ca. 65-72 % bzw. 75-86 % [26-28]. Diese 6
+HCV-Typen können weiter in enger miteinander verwandte Subtypen unterteilt werden.
+Während die HCV-Genotypen 1-3 weltweit verbreitet sind, finden sich die Genotypen 46 besonders in Nord- und Zentral-Afrika (Typ 4), Süd-Afrika (Typ 5) bzw. Hong-Kong,
+Vietnam (Typ 6).
+
+5
+
+1.4 Transmission und Prävalenz der HCV – Infektion
+
+Der Mensch ist für das Hepatitis C – Virus der einzige natürliche Wirt. HCV wird
+parenteral durch Blut und Blutprodukte übertragen. Das Hepatitis C – Genom kann
+zusätzlich
+
+mittels
+
+Polymerase-Kettenreaktion
+
+(PCR)
+
+auch
+
+in
+
+anderen
+
+Körperflüssigkeiten (Speichel, Sperma) nachgewiesen werden [29]. Die Übertragung
+von Hepatitis C – Virus
+Blutprodukte
+
+ist
+
+seit
+
+durch Bluttransfusionen und nicht inaktivierbare zelluläre
+der
+
+Einführung
+
+des
+
+anti-HCV-Screenings
+
+in
+
+Blutspendeeinrichtungen deutlich zurückgegangen und spielt demzufolge nur noch eine
+untergeordnete Rolle. Für Vollblut-Transfusionen wird noch ein Restrisiko der HCVÜbertragung von etwa 1:100.000-200.000 angegeben. Durch die Einführung des HCVGenomnachweises (PCR-Testung) in den Blutspende-Einrichtungen wird dieses
+Restrisiko ebenfalls weiter gesenkt [30]. Für tiefgefrorenes Frischplasma liegt das
+Hepatitis C – Virus – Übertragungsrisiko weit unterhalb dieser Angaben.
+Intravenöser Drogenabusus ist in den entwickelten Ländern der wichtigste HCVTransmissionsweg. Bis zu 80 % der i.v. Drogenabhängigen sind Hepatitis C – Virus
+positiv. Demgegenüber wird HCV in den Entwicklungsländern v.a. durch unhygienische
+Injektionspraktiken übertragen. Dialysepatienten sind in 10-30 % mit HCV infiziert [31].
+Das Risiko einer vertikalen HCV-Transmission (von der Mutter auf das Kind) ist mit ca.
+5 % relativ gering und abhängig von der HCV-Konzentration im mütterlichen Blut
+[32,33]. Bei gleichzeitiger HIV-Infektion steigt das Übertragungsrisiko an (bis ca. 20 %)
+[34]. Ein HCV-Übertragung durch Muttermilch konnte bisher nicht dokumentiert werden.
+HCV-infizierten Müttern ist daher nicht unbedingt vom Stillen abzuraten.
+Die sexuelle Übertragung von HCV ist möglich, das Ausmaß der sexuellen
+Transmission ist derzeit aber noch unklar [35]. Bei heterosexuellen Partnern von
+Patienten mit chronischer Hepatitis C finden sich mit ca. 0-4 % niedrige anti-HCV
+Prävalenzen. Demgegenüber zeigen sexuell aktivere Personen mit 2-12 % deutlich
+höhere anti-HCV-Prävalenzen als die Normalbevölkerung. Beim medizinischen
+Personal ist die anti-HCV-Prävalenz gegenüber der Normalbevölkerung nicht erhöht.
+Bei ca. 30 % der Patienten mit Hepatitis C – Infektion lässt sich kein bekannter
+Risikofaktor nachweisen.
+
+6
+
+1.5 Epidemiologie der HCV – Infektion
+Die Zahl der Hepatitis C – Infektionen steigt stetig an. Allein in Europa gibt es ca. 9
+Millionen Betroffene, wobei es große geographische Unterschiede gibt. Im Norden
+Europas wird die Prävalenz mit 0.5 % beziffert, im Mittelmeerraum schätzt man bis zu
+2 % [36,37]. In Deutschland wird die Zahl der chronisch Infizierten auf mehr als 300.000
+– 400.000 Personen geschätzt, wobei es auch hier regionale Unterschiede zu geben
+scheint So zeigen z. B. Untersuchungen aus Berlin Prävalenzen von über 2 %
+(Schlosser et al. EASL 2009) [38]. Jährlich werden etwa 5.000 – 10.000 Neuinfektionen
+registriert [39].
+
+1.6 Epidemiologie der HCV – Infektion bei Drogenabhängigen
+In Nordamerika, Europa und Australien hat die Mehrzahl der Hepatitis C-infizierten
+Patienten die HCV – Infektion durch intravenösen Drogengebrauch erworben.
+Mittlerweile sind Menschen, die Drogen injizieren, in Westeuropa die größte
+Risikogruppe bei der Verbreitung der Hepatitis C. Geschätzte 600.000 Opiatabhängige
+in Europa sind HCV infiziert [40]. Mindestens 50 % der intravenös Drogengebraucher
+(IVDAs) sind mit dem Hepatitis C – Virus infiziert – Schätzungen reichen von 8 – 90 %
+in Nordamerika und 2 – 93 % in Westeuropa abhängig von der jeweils untersuchten
+Population [36,37].
+
+1.7 Langzeitprognose der HCV – Infektion ohne Therapie
+
+Mit längerer Dauer des intravenösen Drogengebrauchs besteht ein erhöhtes
+Infektionsrisiko [37], besonders hoch ist das Infektionsrisiko jedoch in den frühen
+Stadien des Drogengebrauchs [39]. Ohne Behandlung führt die chronische Hepatitis CInfektion (CHC) nach ca. 20 Jahren bei ungefähr 10 % der infizierten Patienten zur
+Zirrhose, nach 40 Jahren bei ca. 20 %. Dies ist insbesondere für die IVDA-Population
+relevant, weil sich die Mehrzahl der Patienten bereits zu einem sehr frühen Zeitpunkt
+(im Alter < 40 Jahren) mit HCV infiziert [41].
+
+7
+
+1.8 Langzeitprognose der HCV – Infektion mit Therapie
+
+Verlaufsbeobachtungen
+
+von
+
+bis
+
+zu
+
+sieben
+
+Jahre
+
+nach
+
+Therapieende
+
+einer
+
+durchgeführten antiretroviralen Hepatitis C – Behandlung zeigen, dass eine Heilung der
+chronischen Hepatitis C möglich ist und Rückfälle im Langzeitverlauf nach erfolgreicher
+Therapie nur äußerst selten auftreten [42].
+
+1.9 Therapie der HCV – Infektion bei Drogenabhängigen
+
+Trotz der Tatsache, dass ca. 60 % der HCV-Neuinfektionen die Population der IVDAs
+betreffen,
+
+besteht
+
+die
+
+Tendenz
+
+diese
+
+Patienten
+
+von
+
+einer
+
+HCV-Therapie
+
+auszuschließen. Gründe hierfür sind Bedenken hinsichtlich der Adhärenz, einer
+möglichen erneuten Infektion sowie potentieller Nebenwirkungen der HCV-Therapie.
+Hierzu zählen insbesondere neuropsychiatrische Nebenwirkungen der Interferonhaltigen Therapie.
+Aktuellen Behandlungsleitlinien zufolge sollte der intravenöse Drogengebrauch per se
+jedoch kein Ausschlusskriterium für eine HCV-Therapie darstellen [43,44]. Stattdessen
+sollte die HCV-Therapie bei diesen Patienten auf individuellen Merkmalen basieren,
+was auch die Akzeptanz von Suchttherapie-Programmen beinhaltet [44].
+Mehrere Studien zeigten, dass die CHC bei IVDA’s, die an Substitutionsprogrammen
+teilnehmen, erfolgreich behandelt werden kann – oftmals auch in Anwesenheit von
+verschiedenen Begleiterkrankungen und bei fortgesetztem Substanzmissbrauch [40,4548].
+Trotz dieser ermutigenden Beobachtungen stellt das IVDA-Klientel im Praxisalltag eine
+ganz
+
+besondere
+
+Herausforderung
+
+dar
+
+–
+
+insbesondere
+
+im
+
+Hinblick
+
+auf
+
+die
+
+Therapie
+
+bei
+
+Zuverlässigkeit (Compliance) und Therapietreue (Adhärenz) der Patienten.
+
+1.10
+
+Die
+
+Bedeutung
+
+der
+
+Adhärenz
+
+für
+
+eine
+
+erfolgreiche
+
+Drogenabhängigen
+
+Die Adhärenz der Patienten ist für eine erfolgreiche Therapie von großer Bedeutung
+[49]. Mit Einhaltung der sogenannten „80/80/80-Regel“ (d. h. > 80 % der geplanten
+PEG-IFN-Dosis plus > 80 % der geplanten Ribavirin-Dosis plus > 80 % der geplanten
+Behandlungsdauer), steigt die Wahrscheinlichkeit ein dauerhaftes virologisches
+8
+
+Ansprechen (SVR) zu erreichen [50]. Wird die HCV-Therapie bei IVDAs unter Aufsicht
+(directly observed therapy, DOT) in Verbindung mit einer Substitutionsbehandlung und
+unterstützenden Begleitmaßnahmen verabreicht, können dadurch die Compliance und
+das Therapieergebnis verbessert werden [51–53]. Das resultiert aus der Kombination
+der Arzneimitteltherapie mit medizinischen und unterstützenden Serviceangeboten, die
+Substitutionspatienten im Zusammenhang mit der DOT wahrnehmen können [54].
+
+1.11 Interferon-alpha-Therapie bei chronischer Hepatitis C
+
+1986 konnten Patienten mit chronischer Non-A-Non-B-Hepatitis erstmals mit Interferon
+alpha (IFN alpha) behandelt werden. Bei diesen Patienten kam es unter der Therapie
+mit Interferon alpha (IFN alpha) zum Rückgang bzw. zur Normalisierung der
+Transaminasen [55]. Mit der Entdeckung des Hepatitis C – Virus und der Einführung
+diagnostischer Tests ließen sich die Patienten mit chronischer Hepatitis Non-A, Non-B
+bis auf eine kleine Restmenge der chronischen Hepatitis C zuordnen. Nach diesen
+Ergebnissen wurden viele kontrollierte Studien zur Behandlung der chronischen
+Hepatitis C mit IFN alpha durchgeführt, die nachfolgend alle die Effektivität der IFN
+alpha-Therapie bei chronischer Hepatitis C bewiesen [56 – 62]. Die veröffentlichten
+Studien zur IFN alpha-Therapie der chronischen Hepatitis C hatten in den aufgeführten
+Punkten weitestgehend zu ähnlichen Ergebnissen geführt:
+
+-
+
+Die Dosierung des IFN alpha mit 3 x 5 bzw. 6 Mio. IE. pro Woche ist einer
+initialen Dosis von 3 x 3 Mio IE. überlegen und wies initiale Responder-Raten bis
+ca. 50 % und anhaltende Remissionen von < 20 % auf.
+
+-
+
+Eine Gesamtdauer der IFN alpha-Therapie von 12 Monaten ist einer kürzeren
+Therapiedauer, mit z. B. 6 Monaten, überlegen.
+
+-
+
+Patienten mit anhaltendem Therapieansprechen zeigen innerhalb der ersten drei
+Monate nach Therapiebeginn eine nicht mehr nachweisbare HCV-RNA und eine
+Normalisierung der Transaminasen.
+
+9
+
+1.12 Ribavirin bei der Therapie der chronischen Hepatitis C
+
+Ribavirin (1-β-D-Ribofuranosyl-1,2,4-triazol-3-carboxamid; Handelsnamen VirazolTM,
+VirazidTM, Rebetol®, Copegus®) ist ein Virostatikum. 1972 wurde es von Mitarbeitern
+der amerikanischen Firma ICN auf der Suche nach Ribonukleosiden entdeckt, die
+gegen möglichst viele Viren gleichzeitig wirken sollten.
+Ribavirin ist ein Guanosinanalogon, das die Replikation vieler DNA- und RNA-Viren,
+sowohl in Zellkulturen als auch in Versuchstieren hemmt, jedoch in der klinischen
+Anwendung eher nur mäßig aktiv ist.
+Als Wirkmechanismus des Ribavirins werden eine Depletion des intrazellulären
+Guanosin-Nukleotidpools durch Hemmung der Inosin-Monophosphat-Dehydrogenase
+und eine Hemmung der viralen RNA-abhängigen Polymerase diskutiert [63,64]. Der
+Wirkungsmechanismus von Ribavirin bei Patienten mit chronischer Hepatitis C Virus
+(HCV)-Infektion ist noch unbekannt. Mehrere Studien, in denen Ribavirin als
+Monosubstanz in einer Dosierung von 1000-1200 mg per os täglich zur Therapie der
+chronischen Hepatitis C eingesetzt worden ist, konnten zwar zeigen, dass unter dieser
+Therapie sich bei ca. 30 % der behandelten Patienten die Transaminasen
+normalisierten, die Hepatitis C Virämie jedoch weiter unbeeinflusst geblieben war [65 –
+69].
+Bei systemischer Gabe von Ribavirin kommt es meist zu geringen Nebenwirkungen wie
+Müdigkeit, Kopfschmerzen, Geschmacksirritationen, Gemüts- und Schlafstörungen. Bei
+Dosierungen von mehr als 600 mg pro Tag kann es zu einer reversiblen hämolytischen
+Anämie kommen, welche dosisabhängig ist und als Haupt-Nebenwirkung des Ribavirins
+anzusehen ist. Die verursachte Anämie beruht auf einer Reduktion der Lebensdauer
+der Erythrozyten auf Grund einer Ribavirin-induzierten Hämolyse und auf einer
+Hemmung der Freisetzung von Erythrozyten aus dem Knochenmark. Ribavirin wird
+nach oraler Gabe rasch resorbiert, besitzt eine Bioverfügbarkeit von ca. 40 % und ein
+Tmax (Zeit von der Aufnahme bis zum maximalen Plasmaspiegel) von ca. 2 Stunden.
+Nach Aufnahme in die Zelle durch Nukleosidtransporter wird Ribavirin schnell zum
+Mono-, Di- und Triphosphat phosphoryliert. In kernhaltigen Zellen kommt es zu einer
+schnellen Hydrolyse von Ribavirinmonophosphat durch eine 5’ Nukleotidase oder die
+alkalische Phosphatase, weshalb das Monophosphat nur eine Halbwertszeit von ein bis
+zwei Stunden hat. Die kernlosen Erythrozyten besitzen diese Enzyme nicht, weshalb
+
+10
+
+sich Ribavirin mit einer geschätzten Halbwertszeit von ca. 40 Tagen in diesen Zellen
+anreichert. Diese Akkumulation ist vermutlich auch der Grund für die Toxizität von
+Ribavirin für Erythrozyten.
+
+1.13 Citalopram / Escitalopram bei der Therapie der chronischer Hepatitis C
+
+Escitalopram, aus der Gruppe der selektiven SSRI, ist das S-Enantiomer der chiralen
+Substanz Citalopram. Präklinische Studien bestätigen, dass Escitalopram derzeit den
+selektivsten SSRI darstellt. Die Substanz besitzt eine hohe Spezifität für den SerotoninTransporter und weist keine klinisch relevanten Interaktionen mit postsynaptischen
+Neurotransmitter-Rezeptoren auf. R-Citalopram ist nicht nur die inaktive Form von
+Citalopram, sondern scheint das S-Enantiomer zu inhibieren, so dass sich Escitalopram
+klinisch potenter als Citalopram erweist. Die Pharmakokinetik von Escitalopram ist in
+therapeutischen Dosen linear; die Halbwertszeit von rund 30 Stunden beim Menschen
+lässt eine tägliche Einmaldosierung zu. Aus in vitro-Befunden ist nur ein geringes Risiko
+für Arzneimittelinteraktionen zu erwarten.
+In klinischen Studien an depressiven Patienten hat sich Escitalopram sowohl in der
+Akuttherapie als auch in der Rückfallprophylaxe gegenüber Plazebo als überlegen
+erwiesen. Plazebo-kontrollierte Studien mit Citalopram als aktive Kontrolle bestätigen
+die Vorzüge von Escitalopram gegenüber dem Razemat im Hinblick auf Wirksamkeit
+und Tolerabilität.
+In der Hepatitis C – Behandlung konnte die Wirksamkeit von Escitalopram zur
+Prävention Interferon-assoziierter Depressionen bei Patienten mit chronischer Hepatitis
+C nachgewiesen werden [70,71].
+
+1.14 Kombinationstherapie(Interferon alpha + Ribavirin) bei chronischer
+Hepatitis C
+
+1994 zeigte sich in einer ersten Studie um Brillanti ein günstiger Effekt der Kombination
+IFN alpha plus Ribavirin (72). Nachdem konnten zahlreiche kontrollierte Studien die
+Überlegenheit der Kombinationstherapie gegenüber der IFN alpha-Monotherapie
+[20,69,73-76] belegen. Die Kombination von IFN alpha plus Ribavirin wurde 1999 in
+11
+
+Deutschland zugelassen und ist somit derzeit die Standard-Therapie der chronischen
+Hepatitis C.
+Nach 1-jähriger Kombinationstherapie mit 3 x 3 Millionen Einheiten Interferon alpha pro
+Woche und 1000-1200 mg Ribavirin per os täglich konnten anhaltende Remissionen in
+bis zu 41 % erreicht werden. [74,76]. Es konnte mit der Kombinations-Therapie
+nachgewiesen
+
+werden,
+
+dass
+
+entgegen
+
+den
+
+bisherigen
+
+Erfahrungen
+
+mit
+
+der
+
+Monotherapie, auch nach Monat 3 der Therapie, noch eine HCV-RNA Negativierung
+eintreten kann. Allerdings bis zu 10 % der kombiniert behandelten Patienten mit
+anhaltender Remission wurden erst jenseits der 3-monatigen Kombinations-Therapie
+HCV-RNA negativ. Die Entscheidung zum Therapieabbruch wegen virologischer
+Nonresponse (HCV-RNA im Serum weiterhin positiv) wird somit derzeit erst nach
+individueller Beurteilung des Verlaufs der HCV-Negativierung gefällt und ist von rascher
+oder mäßiger Viruseliminationsdauer abhängig (rapid virological response (RVR), early
+virological response (EVR) [77].
+
+1.15 Therapie der chronischen Hepatitis C mit pegylierten Interferonen (PEG-IFN
+alpha)
+
+Die bisherigen Veröffentlichungen zur Therapie der chronischen Hepatitis C mit PEGIFN alpha zeigen eindeutig die verbesserte Wirksamkeit der PEG-IFN alpha gegenüber
+der Standard-Interferon alpha – Therapie, welche zu einer Verdopplung der
+anhaltenden Responseraten führte [78-81]. Die deutlich gebesserte antivirale Wirkung
+der PEG-IFN alpha ist primär Folge der konstanten IFN alpha-Wirkspiegel, welche im
+Gegensatz zu den Standardinterferonen, zu einer kontinuierlichen Suppression der
+Hepatitis C Viruslast führen. Somit ist Standard bei der Hepatitis C derzeit die
+Kombination aus pegylierten Interferon und Ribavirin. Damit wird bei etwa jeder dritten
+Infektion mit dem Genotyp 1, der häufigsten aber auch am schwierigsten zu
+behandelnden Variante des Hepatitis C-Virus, eine andauernde Viruselimination
+(Sustained viral response, SVR) erzielt. Eine Individualisierung der Therapiedauer in
+Abhängigkeit von Genotyp und Therapieansprechen (Viruslastelimationsdauer) ist
+neuerdings möglich.
+Die Standardtherapiedauer für Patienten mit chronischer Hepatitis C beträgt 48 (HCV-1)
+bzw.
+
+24
+
+Wochen
+
+(HCV-2/3).
+
+Unter
+
+zusätzlicher
+
+Berücksichtigung
+
+der
+12
+
+Ausgangsviruslast, des initialen virologischen Ansprechens und des Fibrosestadiums
+erscheint eine weitere Individualisierung möglich. Nichtzirrhotische Patienten mit einer
+HCV-1-Infektion, einer Viruslast vor Therapiebeginn von unter 600.000 U/ml und einem
+raschen virologischen Ansprechen (HCV-RNA < 50 U/ml zu Woche 4) erreichen mit
+einer 24-wöchigen Therapie dauerhafte virologische Ansprechraten von fast 90 %.
+HCV-2- und HCV-3-infizierte Patienten mit niedriger Viruslast zu Therapiebeginn und
+nicht nachweisbarer HCV-RNA zu Woche 4 können für weniger als 24 Wochen
+behandelt werden, ohne die dauerhaften virologischen Ansprechraten zu verringern.
+Eine Verlängerung der Therapiedauer auf 72 Wochen scheint hingegen für HCV-1infizierte Patienten von Vorteil zu sein, die nach 12 Wochen Therapie noch eine
+Viruslast von 50–6000 IU/ml im Serum nachweisbar haben [82].
+
+1.16 Definition der Response
+
+Das Response-Verhalten auf eine antivirale Therapie mit Interferon alpha mit oder ohne
+Ribavirin orientiert sich an der HCV-RNA im Serum (virologische Response) im
+zeitlichen Ablauf. Ziel der antiviralen Therapie ist, eine anhaltende virologische
+Response zu induzieren (Rapid viral response (RVR) - definiert als HCV-RNANegativität 4 Wochen nach Therapiebeginn, complete early viral response (cEVR) definiert
+
+als
+
+HCV-RNA-Negativität
+
+12
+
+Wochen
+
+nach
+
+Therapiebeginn).
+
+Zum
+
+Therapieende wird die ETR (End-of-Treatment Response) bestimmt bzw. beurteilt und
+entspricht dem Therapieansprechen bis zum Ende der Therapie. Um von einer
+anhaltenden Response sprechen zu können, ist eine Nachbeobachtung von
+mindestens 6 Monaten notwendig. Sofern die Transaminasen durchgehend im
+Normbereich geblieben sind und die PCR zum Nachweis von HCV-RNA stets negativ
+war, darf von einer anhaltenden Response (SVR - Sustained Viral Response (SVR);
+definiert als HCV-RNA-Negativität 24 Wochen nach Therapieende)
+
+ausgegangen
+
+werden. Non-Responder (NR - Nonresponse - kein dauerhaftes Therapieansprechen)
+sind als Patienten definiert, die unter einer mindestens 3-monatigen IFN alphaMonotherapie bzw. 6-monatigen Kombinationstherapie nicht HCV-RNA negativ
+geworden sind.
+
+13
+
+1.17 Ursachen der Nonresponse auf Interferon alpha bei chronischer Hepatitis C
+und prognostische Faktoren für das Therapieansprechen bei chronischer
+Hepatitis C
+
+Das unterschiedliche Responseverhalten von Patienten mit chronischer Hepatitis C auf
+die Interferon-Therapie ist bis heute nicht geklärt. Unter den Faktoren, die eine
+prognostische Relevanz hinsichtlich des Ansprechens auf eine antivirale Therapie
+haben, muss zwischen Wirtsfaktoren und viralen Faktoren unterschieden werden (Abb.
+2). Ebenso die Höhe der eingenommenen Interferon- und Ribavirindosis und die
+Therapiedauer haben eine entsprechende prognostische Bedeutung [83-89].
+
+Abb. 2: Faktoren, die das Therapieansprechen beeinflussen
+
+Therapeutisch bedeutende prognostische Faktoren für die IFN alpha-Therapie bei
+chronischer Hepatitis C konnten im Rahmen der internationalen Studien zur
+Kombinationstherapie definiert werden [74,76].
+
+Prognostisch günstig sind:
+-
+
+HCV-Genotyp 2 und 3-Infektion
+
+-
+
+HCV-RNA < 2 Mio Kopien/ml bzw. < 800.000 IU/ml
+
+-
+
+Alter < 40 Jahre
+
+-
+
+Weibliches Geschlecht
+
+-
+
+Geringer Fibrosegrad in der Leberhistologie
+14
+
+Prognostisch ungünstig sind:
+-
+
+Diabeteserkrankung
+
+-
+
+Adipositas
+
+-
+
+Steatosis hepatis
+
+-
+
+Patienten mit einem fortgeschrittenen Leberschaden (Fibrose oder Zirrhose)
+
+-
+
+HIV-Koinfektion
+
+-
+
+Immunsuppression
+
+-
+
+Patienten, die schon einmal erfolglos therapiert wurden (Nonresponder – NR).
+
+Obwohl
+
+die
+
+genannten
+
+prognostischen
+
+Parameter
+
+eine
+
+Abschätzung
+
+der
+
+wahrscheinlichen Therapieresponse möglich machen, ist keiner der aufgeführten
+prognostischen Parameter als Indikator in der Lage, die verlässliche Vorhersage für ein
+Response oder Nonresponse – Verhalten zu gewährleisten. Die wissenschaftliche
+Aufarbeitung der Interferon-Response bzw. der Interferon-Resistenz ist daher eines der
+wichtigsten Forschungsziele zur Behandlung der chronischen Hepatitis C.
+
+15
+
+2. Fragestellung
+
+Mit dieser retrospektiven Analyse sollte untersucht werden, ob
+
+1. unter optimalen Substitutionsbedingungen, die die Einhaltung einer 100/100/100Regel gewährleisten können, auch in der schwierig zu führenden IVDA-Population bei
+DOT mit pegyliertem Interferon alpha-2a plus Ribavirin, hohe SVR-Raten erzielt werden
+konnten und
+
+2. die einmal tägliche Anwendung einer fixen Ribavirin-Dosis unter Aufsicht (DOT) ohne
+Kompromittierung der Therapiesicherheit zu einer verbesserten Adhärenz und dem
+Therapieerfolg beiträgt (der Zulassung entsprechend muss Ribavirin als zweimal
+tägliche Dosis (morgens und abends) verabreicht werden [90], was jedoch bedeuten
+würde, dass der Patient zweimal täglich in die Praxis kommen muss).
+
+16
+
+3. Patienten, Material und Methoden
+
+3.1 Patienten
+
+In dieser retrospektiven Untersuchung wurden Patienten mit chronischer Hepatitis C
+aus dem Klientel der Ambulanz für Substitutionspatienten im MEDCENTER Leipzig
+analysiert, die im Zeitraum von September 2005 bis Mai 2008 behandelt wurden.
+
+3.2 Einschlusskriterien für eine Therapie mit PEG-IFN alpha-2a und Ribavirin
+(Einmaldosis)
+
+Die Einschlusskriterien waren wie folgt:
+ Alter > 18 Jahre
+ chronische Hepatitis-C Infektion (CHC)
+ keine Vorbehandlung der CHC (therapie-naiv)
+ ehemalige
+
+intravenös
+
+Drogengebraucher
+
+und
+
+aktuell
+
+Teilnehmer
+
+eines
+
+Substitutionsprogramms und unter L-Polamidon- oder Buprenorphin-Behandlung
+stabil.
+
+3.3 Ausschlusskriterien
+
+Ausschlusskriterien waren:
+ HIV/HCV-Koinfektion
+ Non-Compliance
+
+mit
+
+der
+
+Substitutionsbehandlung
+
+mit
+
+Beigebrauch
+
+von
+
+Substanzen und / oder Alkohol
+ Suizidgefährdung.
+
+Patienten,
+
+die
+
+während
+
+der
+
+Behandlung
+
+mit
+
+PEG-
+
+IFN2a/Ribavirin eine Suizidgefährdung aufwiesen, wurden ausgeschlossen.
+
+3.4 Behandlung
+
+Alle Patienten wurden vor Beginn der CHC-Therapie zwei Wochen mit Citalopram (20
+mg/Tag) behandelt. Zur Verabreichung der direkt beobachteten Therapie (DOT) mit
+PEG-IFN alpha-2a (180 µg/Woche) und der Einzeldosis Ribavirin kamen die Patienten
+17
+
+einmal täglich in die Ambulanz. Patienten, die mit den HCV-Genotypen-2/3 infiziert
+waren, erhielten eine Einzeldosis von 800 mg Ribavirin pro Tag. Patienten, die mit den
+HCV-Genotypen-1/4 infiziert waren, erhielten eine Einzeldosis von 1.200 mg Ribavirin
+pro Tag. Die HCV-Therapie wurde gleichzeitig mit L-Polamidon (10 –50 mg/Tag) oder
+Buprenorphin- (0,6 – 7,4 mg pro Tag; Dosis nach Bedarf) und Citalopram unter Aufsicht
+(DOT) verabreicht.
+Dosiserhöhungen von Citalopram waren erlaubt, um während der Therapie auftretende
+Depressionssymptome zu behandeln. Paracetamol wurde verabreicht, um andere
+therapieassoziierte Nebenwirkungen zu behandeln.
+Die Behandlungsdauer mit Peginterferon alpha-2a und Ribavirin betrug bei Patienten,
+die mit den HCV-Genotypen-1/4 infiziert waren, 48 Wochen; Patienten, die mit den
+HCV-Genotypen-2/3 infiziert waren, wurden über 24 Wochen behandelt.
+Patienten mit HCV-Genotyp-1/4, die zu Woche 12 eine HCV-RNA Viruslast über der
+Nachweisgrenze oder < 2 log Abfall der Viruslast hatten, wurden als Non-Responder
+eingestuft, und die Behandlung mit PegInterferon alpha 2a und Ribavirin wurde
+abgebrochen [43,44].
+Patienten, die zur täglichen Verabreichung der DOT in die Ambulanz kamen, konnten
+am Zentrum ständig die Unterstützung durch spezialisierte Ärzte und Pflegekräfte
+wahrnehmen sowie Hilfe in einer Beratungseinrichtung suchen. Darüber hinaus stand
+eine 24-Stunden-Telefon Helpline zur Verfügung, die alle Patienten bei Bedarf
+kontaktieren konnten.
+
+3.5 HCV-Assays
+
+Die Quantifizierung der Hepatitis C-spezifischen RNA (HCV-RNA) zur Baseline und
+während der Therapie erfolgte in externen Laboren unter Verwendung des Bayer
+VERSANT® HCV-RNA 3.0 Assays (bDNA), Nachweisgrenze 615 IU/ml. Der Abbott
+RealTime HCV Assay (RT-PCR), Sensitivität <50 IU/ml, wurde zur Quantifizierung der
+HCV-RNA
+
+bei
+
+Ende
+
+der
+
+Behandlung
+
+und
+
+für
+
+Messungen
+
+während
+
+der
+
+Nachbeobachtungsperiode eingesetzt.
+
+18
+
+3.6 Untersuchte Zielparameter
+3.6.1 Primärer Zielparameter
+
+Der primäre Zielparameter war der Anteil der Patienten mit einem dauerhaften
+virologischen Ansprechen (sustained virological response, SVR); definiert als fehlender
+HCV-RNA-Nachweis
+
+im
+
+Serum
+
+mittels
+
+eines
+
+sensitiven
+
+molekularen
+
+Nachweisverfahrens (< 50 IU/ml) 24 Wochen nach Therapieende.
+
+3.6.2 Sekundäre Zielparameter
+
+Sekundäre Zielparameter beinhalteten
+ den Anteil der Patienten mit einem schnellen virologischen Ansprechen (rapid
+virological response, RVR); definiert als fehlender HCV-RNA-Nachweis im
+Serum zu Woche 4 der Therapie
+ den Anteil der Patienten mit einem frühen virologischen Ansprechen (early
+virological response EVR); definiert als fehlender HCV-RNA-Nachweis im Serum
+zu Woche 12 der Therapie
+ die Therapieabbruchrate
+ die Non-Response-Rate
+ sowie Sicherheitsparameter einschließlich Leberfunktionstests, Thrombozyten,Leukozyten-, und Hämoglobin-Bestimmungen
+Leberbiopsien wurden nicht durchgeführt.
+
+3.7 Statistik
+
+Die statistische Analyse erfolgte deskriptiv, um die klinische Routine in dem Zentrum zu
+reflektieren. Zusammenfassende statistische Beschreibungen (Durchschnitt, Median,
+Standardabweichungen 25 % Perzentile, 75 % Perzentile, Minimum/Maximum, Zahl der
+Werte) oder Häufigkeiten und Proportionen (prozentuale Anteile) wurden für alle
+erhobenen Parameter beurteilt. Die Analysen wurden mit SPSS für Windows Release
+12.02. Testimate Version 6.4.27 berechnet.
+
+19
+
+4. Ergebnisse
+
+50 Patienten wurden initial in die Untersuchung eingeschlossen. Von diesen 50
+Patienten wurde ein Patient auf Grund extensiven Drogenmissbrauchs vor Beginn der
+HCV-Therapie von der retrospektiven Analyse ausgeschlossen.
+49 Patienten, die unter Substitutionstherapie mit Buprenorphin oder L-Polamidon stabil
+waren, begannen die Behandlung, indem zunächst über einen Zeitraum von zwei
+Wochen Citalopram eingenommen wurde. Danach erfolgte unter Beibehaltung von
+Citalopram die HCV-Kombinationstherapie mit PEG-IFN alpha-2a (40KD) und Ribavirin.
+
+Die Baseline-Charakteristika der Patienten sind in Tabelle 2 dargestellt. Die Mehrzahl
+der Patienten war mit HCV-Genotyp 3 oder Genotyp 1 infiziert.
+
+Tabelle 2: Baselinedaten des untersuchten Patientenkollektivs
+
+Baseline Charakteristika
+Anteil Männer, n (%)
+
+(n = 49)
+33 (67,4)
+
+Alter (Jahre), Mittel (Bereich)
+
+30,1 (21-46)
+
+- Männer
+
+31,2 (24-46)
+
+- Frauen
+
+27,8 (21-43)
+
+BMI (kg/m²), Mittel (Bereich)
+
+23,7 (17,2-38,5)
+
+HCV-Genotyp, n (%)
+1
+
+20 (40,8)
+
+2
+
+2 (4,1)
+
+3
+
+26 (53,1)
+
+4
+
+1 (2,0)
+
+HCV-RNA (IU/ml), Median (Bereich)
+Dauer der HCV-Infektion (Jahre), Mittel
+
+121.775 (618–22.146.587)
+3,4
+
+Dauer des intravenösen Drogengebrauchs
+6,4
+(Jahre), Mittel
+
+20
+
+Die Genotypverteilung ist in Abbildung 3 dargestellt.
+
+Abb.3: Genotypverteilung des untersuchten Patientenkollektivs
+
+48 Patienten durchliefen den gesamten Therapiezeitraum: Ein männlicher, mit HCVGenotyp-1-infizierter Patient und einer HCV-RNA Viruslast von 240.000 IU/ml vor
+Therapiebeginn, wies zu Woche 4 und 12 der Therapie einen Anstieg der Viruslast auf.
+Dieser Patient wurde als Non-Responder eingestuft und die Behandlung gemäß der
+„12-Wochen-Stopp-Regel“ nach Woche 12 beendet.
+
+4.1 Virologisches Ansprechen
+
+Die SVR-Raten insgesamt der mit HCV-Genotyp 1/4- bzw. HCV-Genotyp 2/3-infizierten
+Patienten sind in Abbildung 4 dargestellt.
+Alle 16 Patientinnen und 32 der 33 männlichen Patienten erreichten eine SVR (SVRRaten 100 % bzw. 97 %). Die RVR-Raten zu Woche 4 und die EVR-Raten zu Woche
+12 sind in Abbildung 5 dargestellt.
+Von den vier Patienten, die keine RVR erreichten, war ein Patient mit HCV-Genotyp 3
+infiziert und drei Patienten mit HCV-Genotyp 1. Der Patient, der keine EVR erreichte,
+war mit HCV-Genotyp 1 infiziert.
+21
+
+Abb. 4: Genotyp-Verteilung der SVR – Raten
+
+Abb.5 Genotyp-Verteilung der RVR – Raten und EVR – Raten
+
+22
+
+4.2 Biochemisches Ansprechen
+
+Die Veränderungen der ALT, AST und yGT während der Behandlung und im Follow-up
+sind in den Tabellen 3 und 4 dargestellt. Der Abfall der medianen ALT- und AST-Werte
+von Baseline bis Ende der Behandlung war bei HCV-Genotyp-1/4- und -2/3-infizierten
+Patienten signifikant (p < 0,01). Dieser signifikante Abfall blieb bis zum Ende des
+Nachbeobachtungszeitraums (Woche 72) bei den mit HCV-Genotyp-2/3-infizierten
+Patienten bestehen (p < 0,001).
+Im Vergleich zu Baseline waren die medianen ALT- und AST-Werte bei HCV-Genotyp1/4-infizierten Patienten bei Ende des Nachbeobachtungszeitraums (Woche 72)
+niedriger (p = n.s.); wegen der kleinen Patientenzahl (n = 6) wurde keine Signifikanz
+erreicht.
+Die mit HCV-Genotyp-2/3-infizierten Patienten wiesen während der Behandlung, zu
+Ende der Behandlung und des Nachbeobachtungszeitraums einen signifikanten Abfall
+der yGT-Werte auf (p < 0,01). Obwohl die yGT-Werte zu Ende der Behandlung und des
+Nachbeobachtungszeitraums
+
+bei
+
+HCV-Genotyp-1/4-infizierten
+
+Patienten
+
+abfielen,
+
+erreichte dies keine statistische Signifikanz.
+
+4.3 Sicherheit und Verträglichkeit
+
+Die Behandlung war gut verträglich. Es wurden außer den bereits für PEG-IFN alpha-2a
+(40KD) und Ribavirin bekannten und in der Fachinformation beschriebenen
+Nebenwirkungen keine neuen unerwünschten Ereignisse beobachtet; 47 % der
+Patienten (n = 23/49) benötigten Paracetamol zur Behandlung von bekannten
+Nebenwirkungen, wie z. B. Fieber und Schüttelfrosterscheinungen. Depressionen, die
+während der Therapie auftraten, machten bei drei Patienten eine Dosisanpassung von
+Citalopram erforderlich, indem die initiale Citalopram-Dosis von 20 auf 40 mg pro Tag
+erhöht wurde (die Citalopram-Dosierungen wurden zu Woche 14, 17 und Woche 10
+erhöht). Zwei von diesen drei Patienten waren mit HCV-Genotyp 1 infiziert und einer mit
+HCV-Genotyp
+
+3.
+
+Nach
+
+Dosiserhöhung
+
+von
+
+Citalopram
+
+besserten
+
+sich
+
+die
+
+Depressionsepisoden, so dass die HCV-Therapie planmäßig fortgeführt werden konnte.
+Bei beiden Patientengruppen wurden ein signifikanter Abfall der medianen Leukozytenund Plättchenzahlen beobachtet (p < 0,01). Bei HCV-Genotyp-2/3-infizierten Patienten
+fielen die Hämoglobin-Werte während der Behandlung signifikant ab (p < 0,01). Der
+23
+
+mediane Hämoglobin-Abfall betrug 0,9 (Bereich -2,0 – 2,5) mmol/l zu Woche 4 (p <
+0,01), 1,3 (Bereich -0.6 - 2,8) mmol/l zu Woche 12 (p < 0,001), 1,2 (Bereich -0,4 – 2,8)
+mmol/l bei Therapieende (p < 0,001) und 0,7 (Bereich -1,0 bis 3,1) mmol/l zu Ende des
+Nachbeobachtungszeitraums (p < 0,01). Mit Ausnahme von Woche 12 (medianer Abfall
+1,0 mmol/l; p < 0,05) fielen die medianen Hämoglobin-Werte im Vergleich zu Baseline
+bei HCV-Genotyp-1/4-Patienten nicht signifikant ab. Bei Therapieende betrug der
+mediane Hämoglobinabfall bei HCV-Genotyp-1-Infizierten 0,1 (Bereich -3,1 bis 5,4)
+mmol/l (p = n.s.). Transiente Anämie (Hämoglobin < 6.3 mmol/l [ca. 10 g/dl] zu jedem
+Zeitpunkt während der Behandlung) wurde bei drei HCV-Genotyp-1/4- und drei HCVGenotyp-2/3-infizierten Patienten beobachtet. Die Anämie besserte sich ohne
+Intervention. Bei keinem Patienten war zu irgendeinem Zeitpunkt während der Therapie
+eine Dosisanpassung für PEG-IFN alpha-2a oder Ribavirin erforderlich.
+
+Tabelle 3: Laborwerte: Genotyp-1/4, Median (Bereich)
+Während der Therapie
+Baseline
+
+Woche 4
+
+(n=21)
+
+(n=21)
+
+Woche 12
+(n=21)
+†
+
+†
+
+Follow-Up†
+
+Woche 24
+
+Woche 48
+
+(n=20)
+
+(n=20)
+‡
+
+Woche 72
+(n=6)
+†
+
+24 (14–65)
+
+†
+
+ALT (U/l)
+
+90 (17–430)
+
+56 (20–276)
+
+52 (18–165)
+
+AST (U/l)
+
+60 (38–238)
+
+48 (25–200)
+
+48 (33–154)
+
+38 (23–90)
+
+41 (22–155)
+
+39 (27–50)
+
+yGT (U/l)
+
+40 (19–361)
+
+44 (12–260)
+
+44 (11–303)
+
+32 (6–212)*
+
+29 (7–410)
+
+21 (10–296)
+
+Leukozyten (GPT/l)
+
+7,1 (4,6–19,0)
+
+4,3 (2,1–10,6)
+
+Plättchen (GPT/l)
+
+224 (154–504)
+
+165 (53–252)
+
+140 (65–325)
+
+Hämoglobin (mmol/l)
+
+8,7 (6,9–17,3)
+
+7,8 (6,1–16,4)
+
+7,6 (5,3–13,0)*
+
+†
+
+‡
+
+‡
+
+†
+
+36 (22–78)
+
+†
+
+‡¥
+
+‡§
+
+4,2 (2,2–6,8)
+
+5,0 (2,4–12,8)
+
+†
+
+‡
+
+36 (23–225)
+
+†
+
+163 (67–287)
+
+¥
+
+8,2 (6,1–13,5)
+
+¥
+
+§
+
+†
+
+4,2 (2,7–10,8)
+
+–
+
+217 (73–405)
+
+–
+
+8,6 (6,3–13,3)
+
+–
+
+§
+
+Signifikant im Vergleich mit Baseline: *: p<0,05; : p<0,01; : p<0,001 n=20; n=19
+ALT: Alaninaminotransferase; AST: Aspartataminotransferase; yGT: Gammaglutamyltranspeptidase
+
+24
+
+Tabelle 4: Laborwerte: Genotyp-2/3 Median (Bereich)
+Während der Therapie
+Baseline
+
+Woche 4
+
+(n=28)
+
+(n=28)
+‡
+
+Follow-up
+
+Woche 12
+
+Woche 24
+
+(n=28)
+
+(n=28)
+
+(n=28)
+
+ALT (U/l)
+
+69 (27–1000)
+
+35 (11–114)
+
+37 (8–248)
+
+34 (12–408)
+
+32 (15–65)‡
+
+AST (U/l)
+
+52 (25–850)
+
+36 (18–88)†
+
+39 (18–161)*
+
+33 (14–285) †
+
+34 (19–53)‡
+
+yGT (U/l)
+
+69 (12–543)
+
+41 (13–471)†
+
+38 (13–329)†
+
+33 (13–288)†
+
+28 (14–72)‡
+
+Leukozyten (GPT/l)
+
+6,7 (2,8–12,5)
+
+4,3 (1,6–9,8)‡
+
+3,9 (1,3–9,4)‡
+
+3,9 (1,5–12,4)‡
+
+5,7 (2,1–15,0)*
+
+Plättchen (GPT/l)
+
+219 (136–400)
+
+155 (71–310)‡
+
+152 (58–305)‡
+
+159 (52–289)‡
+
+203 (72–314)†
+
+Hämoglobin (mmol/l)
+
+8,9 (7,4–10,3)
+
+8,0 (5,9–9,7)†
+
+7,4 (5,9–9,6)‡
+
+7,5 (5,5–9,3)‡
+
+8,3 (5,9–9,8)†
+
+†
+
+†
+
+Woche 48
+
+†
+
+‡
+
+Signifikant im Vergleich mit Baseline: *: p<0,05; : p<0,01; : p<0,001
+ALT: Alaninaminotransferase; AST: Aspartataminotransferase; yGT: Gammaglutamyltranspeptidase
+
+25
+
+5. Diskussion
+
+Die Daten dieser retrospektiven Analyse zeigen, dass HCV-infizierte IVDAs unter
+stabiler L-Polamidon- oder Buprenorphin-Maintenancetherapie (Erhaltungstherapie), in
+einer optimalen Substitutionsumgebung sicher und erfolgreich mit PEG-IFN alpha-2a
+(40 KD) und Ribavirin behandelt werden können. Die direkt unter täglicher Aufsicht
+(DOT) verabreichte Therapie mit PEG-IFN alpha-2a und Ribavirin führte bei 95 % der
+mit HCV-Genotyp-1/4-infizierten Patienten zu einem dauerhaften virologischen
+Ansprechen und bei 100 % der mit HCV-Genotyp-2/3-infizierten Patienten. Sowohl
+HCV-Genotyp-1/4-
+
+als
+
+auch
+
+HCV-Genotyp-2/3-infizierte
+
+Patienten
+
+wiesen
+
+ein
+
+dauerhaftes biochemisches Ansprechen mit signifikanten Reduktionen der ALT- und
+AST-Werte auf. Darüber hinaus wurde die einmal tägliche Verabreichung von Ribavirin
+gut vertragen, wobei ein ähnliches Sicherheitsprofil wie das für die zweimal tägliche
+Verabreichung bekannte, beobachtet wurde.
+Die Behandlung der chronischen Hepatitis C bei IVDAs wird in der medizinischen
+Fachliteratur kontrovers diskutiert: Bedenken betreffen die Adhärenz, Wirksamkeit und
+die Möglichkeit einer Re-Infektion, was für die Population von Suchtpatienten mit einem
+chaotischen Lebensstil häufig typisch ist. Die Ergebnisse von Studien, in denen die
+Compliance von IVDA’s bei einer HCV-Therapie untersucht wurde, variieren. Während
+einige schlechte Ergebnisse zeigen, entsprechen die Ergebnisse anderer Studien
+denen von nicht drogenabhängigen Patientengruppen [92]. Es ist bekannt, dass die
+reduzierte
+
+Adhärenz
+
+zu
+
+einer
+
+PEG-IFN
+
+alpha-2a/Ribavirin-Therapie
+
+die
+
+SVR
+
+beeinträchtigen kann, insbesondere bei HCV-Genotyp-1-infizierten Patienten [50].
+Silvestre und Kollegen beobachteten, dass die Wahrscheinlichkeit eine SVR zu
+erreichen bei IVDAs, die nicht therapietreu waren, signifikant niedriger war als bei
+therapietreuen Patienten (4 % versus 42 %) [47]. Auch eine französische prospektive,
+multizentrische Beobachtungsstudie zeigte, dass IVDAs, die nicht therapietreu waren
+(definiert als Einnahme von < 80 % der geplanten Studienmedikation über < 80 % der
+geplanten Behandlungsdauer) mit signifikant niedrigerer Wahrscheinlichkeit eine SVR
+erreichten als die therapietreuen Patienten (43,5 % versus 23,9 %, p = 0,019) [93].
+Mehrere Faktoren wirken sich negativ auf die Adhärenz aus, dazu gehören kürzere
+Abstinenzzeiten vor Beginn der HCV-Therapie, der Rückfall zu regelmäßigem
+Substanzmissbrauch und das Fehlen von psychosozialer Begleitung [47,53]. Daher ist
+es nicht überraschend, dass bei IVDAs SVR-Raten in einem breiten Bereich zwischen
+26
+
+20 – 70 % beobachtet wurden [40,46,94-97]. Gleichwohl zeigen immer mehr Studien,
+dass sowohl aktive IVDAs als auch IVDAs, die an einer Substitutionstherapie
+teilnehmen, ähnliche Adhärenz- und SVR-Raten erreichen wie nicht drogenabhängige
+Patienten; obwohl im Allgemeinen aktive Substanzgebraucher eine Behandlung eher
+ablehnen, die Therapie abbrechen oder als „lost to follow-up“ eingestuft werden
+[92,94,96]
+Bei HIV-Patienten, die eine Methadon-Maintenance-Therapie (MMT) erhielten, führte
+die täglich unter Aufsicht verabreichte antivirale Therapie zu einer Verbesserung der
+Compliance und des Therapieergebnisses [98-102]. Die DOT hat auch bei einer HCVTherapie von IVDAs das Potential, zu einer Verbesserung der Compliance und SVRRaten beizutragen. In einer vor kurzem publizierten Studie mit Patienten unter MMT, die
+PEG-IFN alpha-2a und Ribavirin erhielten, führte die täglich unter Aufsicht verabreichte
+Therapie zu einer besseren Compliance als die Selbstinjektion: > 60 % versus 50 % der
+Patienten waren > 80 % compliant mit der geplanten kumulativen Dosis von PEG-IFN
+alpha-2a und Ribavirin bzw. Ribavirin. Insgesamt erreichten 54 % der Patienten in der
+DOT-Gruppe und 33 % der Patienten, die die Injektion selbst vornahmen, ein
+dauerhaftes virologisches Ansprechen. Die DOT erwies sich in einer schrittweisen
+logistischen Regressionsanalyse als ein signifikanter Prädiktor der SVR [48]. Darüber
+hinaus zeigte eine kleine norwegische Studie mit 17 HCV-Genotyp-3-infizierten MMTPatienten, die PEG-IFN alpha-2a + Ribavirin erhielten, eine Compliance-Rate von 100
+% und eine SVR-Rate von 94 %. In dieser Studie fand die Verabreichung von PEG-IFN
+alpha-2a unter Beobachtung statt, und die Patienten erhielten während der Behandlung
+psychosoziale Unterstützung [53].
+In unserer retrospektiven Analyse waren die Adhärenz- und SVR-Raten ebenfalls
+besonders
+
+hoch,
+
+was
+
+auf
+
+mehrere
+
+Faktoren
+
+zurückgeführt
+
+werden
+
+könnte.
+
+Wahrscheinlich trägt mehr zum Erfolg einer DOT bei, als nur die Anwendung der
+Medikation unter Aufsicht. Die intensive medizinische und psychosoziale Begleitung, die
+bei einer DOT angeboten wird, ist mit einem virologischen Therapieerfolg verbunden
+[54]. Es ist anzunehmen, dass solche Faktoren mindestens genau so bedeutsam sind,
+wie die Sicherstellung, dass die Medikation wie verschrieben angewendet wird. In
+unserer retrospektiven Untersuchung könnten auch die tägliche Unterstützung durch
+und der Kontakt mit spezialisierten Serviceeinrichtungen sowie die ständige
+Verfügbarkeit einer 24-Stunden-Helpline dazu beigetragen haben, dass die Patienten
+besonders motiviert waren, sowohl die antivirale HCV-Therapie als auch die
+27
+
+Substitutionstherapie durchzuführen. Ein weiterer Aspekt, der für IVDAs unter
+Substitutionstherapie zu bedenken ist, ist die Tatsache, dass PEG-IFN alpha-2a
+subkutan injiziert werden muss und die Assoziation dieser Anwendungsart mit dem
+früheren Drogenmissbrauch. In unserer Praxis konnten die Patienten je nach
+individueller Präferenz ihre wöchentliche Injektion unter Aufsicht selbst durchführen
+oder durch eine Pflegekraft durchführen lassen. Weil die Injektion in der Praxis
+verabreicht wurde, bestand keine Veranlassung, dass der Patient die Spritzen zu Hause
+lagerte. Obwohl der gelegentliche Beigebrauch nicht notwendigerweise die Compliance
+beeinträchtigt, sind Patienten, die während der Methadon-Maintenance-Therapie einen
+Rückfall erleiden, signifikant weniger therapietreu und haben daher eine niedrigere
+Wahrscheinlichkeit eine SVR zu erreichen [47]. Daher ist es offensichtlich von Vorteil,
+die Substitutionstherapie beizubehalten.
+Das schnelle und effektive Management von Nebenwirkungen ist bei IVDAs mit MMT
+extrem
+
+wichtig,
+
+insbesondere
+
+im
+
+Hinblick
+
+auf
+
+das
+
+Potential
+
+für
+
+einen
+
+Substanzmissbrauch und Rückfall in den ehemals chaotischen Lebensstil. Die frühe
+Erkennung und das Management solcher Nebenwirkungen stellt insofern bei IVDAs
+eine Herausforderung dar, als die Wirkungen einer Interferon-haltigen Therapie oft dem
+eines Absetzens der Therapie ähnlich sind – diese Situationen erfordern eine
+sorgfältige Differenzierung und entsprechende Management-Strategien. Spezialisierte
+multidisziplinäre Arztpraxen mit Personal, das über Erfahrungen mit solchen
+Problemfällen verfügt, könnten dazu beitragen, dass Management dieser Patienten und
+damit auch deren Compliance zu verbessern.
+Ein weiterer Aspekt, der zu den hohen SVR-Raten in dieser retrospektiven Analyse
+beigetragen haben könnte, ist die Strategie, die für die Prävention und das
+Management von Depressionen angewendet wurde: Indem Patienten vor Beginn der
+HCV-Therapie routinemäßig eine antidepressive Therapie mit Citalopram erhielten und
+diese auch während der Behandlung mit PEG-IFN alpha-2a und Ribavirin fortsetzten.
+Mehr als ein Drittel der mit Interferon-alpha behandelten Patienten haben signifikante
+Depressionssymptome [103-106]. Gleichwohl liegen Hinweise vor, dass die Inzidenz bei
+Patienten, die mit pegyliertem Interferon behandelt werden, niedriger ist [107]. Als
+besonderer Risikofaktoren für Interferon-induzierte psychiatrische Nebenwirkungen
+einschließlich Depressionen und Suizidgefährdung [45] gelten der frühere oder aktuelle
+Substanzmissbrauch, obwohl die Datenlage hierzu heterogen ist [108]. Depressionen
+während einer HCV-Therapie sind signifikant mit einer niedrigeren Adhärenz assoziiert
+28
+
+[109]. Die frühe Diagnose und Behandlung von Depressionen trägt zu niedrigeren
+Abbruchraten
+
+infolge
+
+Interferon-induzierter
+
+Depressionen
+
+unter
+
+gleichzeitiger
+
+Verbesserung der Compliance bei [108-110]. Daher stellt sich die Frage, ob Patienten,
+die mit einer Interferon-haltigen Therapie behandelt werden, möglicherweise von einer
+antidepressiven Prophylaxe profitieren. Bis dato ist die Zahl der Studien, in denen die
+prophylaktische antidepressive Behandlung von Patienten unter HCV-Therapie
+untersucht wurde, limitiert [110-112]. Die Daten einer plazebo-kontrollierten Studie mit
+61 Patienten zeigten, dass signifikant weniger Patienten, die eine antidepressive
+Prophylaxe erhielten, unter der laufenden IFN-Ribavirin-Therapie die Kriterien für eine
+leichte, mittelgradige oder schwere Depressionen erfüllten [112]. Der positive Effekt
+einer antidepressiven Therapie war bei denjenigen Patienten, die zu Baseline vermehrt
+depressive Symptome aufwiesen, am ausgeprägtesten. Darüber hinaus konnte gezeigt
+werden,
+
+dass
+
+die
+
+prä-emptive
+
+Citalopram
+
+Behandlung
+
+von
+
+Patienten
+
+mit
+
+psychiatrischen Störungen die Inzidenz von Depressionen während der Behandlung
+reduzierte - verglichen mit Patienten mit psychiatrischen Risikofaktoren, die keine
+prophylaktische Therapie erhielten [110].
+In unserer Analyse nahmen alle Patienten, die eine DOT erhielten, Citalopram vor und
+während der HCV-Therapie ein: Die Inzidenz von Depressionen während der Therapie
+war niedrig, nur bei drei Patienten (6 %) war eine Erhöhung der Citalopram-Dosis
+erforderlich.
+
+Obwohl
+
+die
+
+Datenlage
+
+zur
+
+prophylaktischen
+
+Anwendung
+
+von
+
+Antidepressiva limitiert ist, können gefährdete („at-risk“) Patienten einschließlich IVDAs
+von einem solchen Behandlungsansatz profitieren [70].
+Möglicherweise könnte auch die Substitutionsmethode, die in unserer Praxis
+angewendet wird, die SVR-Raten positiv beeinflusst haben. In einer größeren
+französischen Beobachtungsstudie führte die Substitutionstherapie mit Buprenorphin zu
+signifikant höheren SVR-Raten als die MMT (48,1 % versus 31,8 %) [93]. Die Gründe
+für diesen offensichtlichen Vorteil müssen noch näher evaluiert werden. Gleichwohl
+liegen bereits Hinweise für eine bessere Compliance von Patienten unter BuprenorphinMaintenance vor [95].
+Schließlich legt das pharmakokinetische Profil von Ribavirin, das für die zweimal
+tägliche Anwendung zugelassen ist, nahe, dass die einmal tägliche Verabreichung der
+kompletten Dosis durchaus eine anwendbare Option darstellt. Die einmal tägliche
+Verabreichung hat das Potential, die Compliance und somit den Therapieerfolg zu
+verbessern und ermöglicht eine patientenfreundlichere Anwendung von Ribavirin unter
+29
+
+DOT. Die Bedeutung der systemischen Verfügbarkeit von Ribavirin für den
+Behandlungserfolg ist in klinischen Studien mit zweimal täglicher Dosierung von
+Ribavirin gezeigt worden. In diesen Studien führten höhere Ribavirin-Dosen zu höheren
+SVR-Raten
+
+[49].
+
+In
+
+unserer
+
+Analyse
+
+ist
+
+somit
+
+als
+
+weiterer
+
+positiver
+
+ergebnisbeeinflussender Faktor, die einmal tägliche Verabreichung der kompletten
+Dosis und dem damit anzunehmenden höheren systemischen Ribavirinspiegel zu
+diskutieren. Zur besseren Beurteilung dieses Sachverhaltes sind zukünftig noch
+ergänzende prospektive, kontrollierte Studien sinnvoll. Gleichwohl ist die Behandlung
+mit Ribavirin in Kombination mit pegyliertem Interferon mit einer dosisabhängigen
+hämolytischen Anämie assoziiert. Diese stellt zugleich die wesentliche dosislimitierende
+Nebenwirkung dar und könnte somit auch die SVR beeinträchtigen. In unserer
+Untersuchung
+
+war
+
+der
+
+Hämoglobinabfall
+
+und
+
+der
+
+Anteil
+
+der
+
+Patienten
+
+mit
+
+Hämoglobinwerten unter 6,2 mmol/dl (ca. 10 g/dl) während der Therapie ähnlich wie in
+klinischen Studien mit PEG-IFN alpha-2a und Ribavirin [107,113]. Anämien traten
+sporadisch auf, erforderten aber weder eine Reduktion der Ribavirin-Dosis noch
+Dosisreduktionen anderer Medikamente oder einen Behandlungsabbruch. Unsere
+Daten zeigen daher, dass sich das Sicherheitsprofil einer einmal täglichen Anwendung
+von Ribavirin nicht von dem einer zweimal täglichen Anwendung unterscheidet.
+
+Zusammengefasst stellt die direkt unter Aufsicht verabreichte HCV-Therapie eine viel
+versprechende Methode dar, um sowohl Therapietreue als auch einen antiviralen
+Therapieerfolg bei IVDAs unter Maintenance-Therapie zu erreichen. Die Ergebnisse
+unserer retrospektiven Analyse zeigen, dass bei HCV-infizierten IVDAs die mit PEG-IFN
+alpha-2a und Ribavirin therapiert werden, die direkt unter Aufsicht durchgeführte
+Behandlung,
+
+welche
+
+in
+
+einer
+
+spezialisierten
+
+suchtmedizinischen
+
+Praxis
+
+mit
+
+angeschlossenem gastroenterologischen Zentrum bei ständig verfügbarer klinischer
+und psychologischer Unterstützung erfolgte, zu sehr hohen Compliance- und SVRRaten führen kann. Die antidepressive Prophylaxe und einmal tägliche Verabreichung
+einer fixen Ribavirin-Dosis haben möglicherweise zu diesem Behandlungserfolg
+beigetragen.
+
+30
+
+6. Zusammenfassung
+
+Die Prävalenz der Hepatitis C unter Drogengebrauchern in Westeuropa beträgt
+zwischen 2 % und 98 % abhängig von der jeweilig untersuchten Population [36,37].
+Aufgrund der langsamen Progression der Erkrankung über Jahrzehnte wird der Peak
+von Hepatitis-C (HCV)-induzierten Leberversagen bis zum Jahr 2015 zunehmen, trotz
+sinkender Inzidenzzahlen [91]. IVDA´s werden in Zukunft die größte Gruppe von
+Leberzirrhosepatienten und somit von Transplantationskandidaten ausmachen. Dies
+wird beachtenswerte gesundheitsökonomische Kosten verursachen.
+Frühere Guidelines gaben kontroverse Empfehlungen bezüglich HCV-Therapie bei
+IVDU ab. Es bestand eine nicht auf Evidenz begründete Zurückhaltung bezüglich einer
+Hepatitis C – Therapie bei dieser Patientengruppe. Aus der oben erwähnten Sachlage
+lässt sich eine dringende Intensivierung der Hepatitis-C-Therapie bei Drogenpatienten
+folgern.
+Ziel der vorliegenden Arbeit war die retrospektive Bewertung der Wirksamkeit und
+Verträglichkeit einer direkt beobachteten Therapie (DOT) mit Peginterferon alpha-2a
+(PEG-IFN alpha-2a) und einer singulären Tagesdosis Ribavirin (RBV) zur Behandlung
+der chronischen Hepatitis C (CHC) bei intravenös Drogengebrauchern (IVDAs), die an
+einem
+
+Substitutionsprogramm
+
+in
+
+einer
+
+suchtmedizinischen
+
+Spezialambulanz
+
+teilnahmen.
+In dieser retrospektiven Untersuchung wurden Patienten analysiert, die u. a. die
+Therapieeinschlusskriterien erfüllten: Ehemalige IVDAs, die unter Substitutionstherapie
+(L-Polamidon oder Buprenorphin) stabil waren; ein Alter
+≥18 Jahre aufwiesen und
+bisher keine Hepatitis C – Therapie erhalten hatten, d.h. therapienaiv waren. Die
+Patienten erhielten eine direkt unter Aufsicht verabreichte Therapie mit PEG-IFN alpha2a 180 mg/Woche plus RBV einmal täglich als Fixdosis (800 oder 1200 mg/Tag in
+Abhängigkeit vom HCV-Genotyp) und Citalopram (20 mg/Tag). Der primäre
+Wirksamkeitsparameter der Analyse war die dauerhafte virologische Ansprechrate
+(SVR-Rate). Sekundäre Parameter beinhalteten das schnelle virologische Ansprechen
+(RVR) zu Woche 4 der Therapie, das frühe virologische Ansprechen (EVR) zu Woche
+12 der Therapie sowie die Analyse von Leberenzymwerten und Sicherheitsparametern.
+49 Patienten wurden therapiert. Insgesamt erreichten 48 von 49 Patienten (98 %) eine
+SVR, darunter 20 von 21 (95 %) der mit HCV-Genotyp-1/4-infizierten Patienten und alle
+31
+
+28 (100 %) mit HCV-Genotyp-2/3-infizierten Patienten. Die RVR-Rate betrug 92 % (n =
+45/49), die EVR-Rate 98 % (n = 48/49). Die Behandlung war gut verträglich. Interferoninduzierte Depressionen, die während der Therapie auftraten, machten bei 3 Patienten
+eine
+
+Dosisanpassung
+
+von
+
+Citalopram
+
+erforderlich,
+
+woraufhin
+
+die
+
+depressive
+
+Symptomatik verschwand und die CHC-Therapie fortgesetzt wurde. Dosisanpassungen
+anderer Medikamente waren nicht erforderlich.
+Die Ergebnisse dieser Untersuchung zeigen, dass HCV-infizierte IVDA’s, die unter
+Substitutionstherapie mit L-Polamidon oder Buprenorphin stabil sind, in einem
+optimalem Substitutionssetting sicher und erfolgreich mit PEG-IFN alpha-2a und
+Ribavirin behandelt werden können. In unserer Untersuchung schien sich das
+Sicherheitsprofil einer einmal täglichen Anwendung von Ribavirin nicht von dem einer
+zweimal täglichen Anwendung zu unterscheiden, wobei die direkt unter Aufsicht erfolgte
+Einnahme
+
+von
+
+Ribavirin
+
+zu
+
+einer
+
+Verbesserung
+
+der
+
+Adhärenz
+
+und
+
+des
+
+Therapieergebnisses beigetragen haben könnte.
+
+32
+
+7. Literaturverzeichnis
+
+1. Choo Q-L, Kuo G, Weiner AJ, Overby LR, Bradley DW, Houghton M . "Isolation of a
+cDNA clone derived from a blood-borne non-A, non-B viral hepatitis genome".
+Science 1989; 244: 359-362 .
+2. Bradley DW, Maynard JE. "Etiology and natural history of post-transfusion and
+enterically transmitted non-A, non-B hepatitis". Sem Liver Dis 1986; 6 : 56-66 .
+3. European patent application (Europäisches Patentamt München, Nr. 0-318-216-A1).
+4. Alter MJ, Coleman PJ, Alexander WJ, Kramer E, Miller JK, Mandel E, Hadler SC,
+Margolis HS . "Importance of heterosexual activity in the transmission of hepatitis B
+and non-A, non-B hepatitis". JAMA 1989; 262 : 1201-1205.
+5. Alter MJ, Sampliner RE. "Hepatitis C and miles to go before we sleep". N Engl J
+Med 1989; 321 : 1538-1540.
+6. Alter MJ, Hadler SC, Judson FN, Mares A, Alexander WJ, Hu PJ, Miller JK, Moyer
+LA, Fields HA, Bradley DW, Margolis HS . "Risk factors for acute non-A, non-B
+hepatitis in the United States and association with hepatitis C virus infection." JAMA
+1990; 264 : 2231-2235.
+7. Alter MJ. "Inapparent transmission of hepatitis C: footprint in the sand." Hepatology
+1991; 14 : 389-391.
+8. Alter MJ, Margolis HD, Krawczynski K, Judson FN, Mares A, Alexander WJ, Hu PY,
+Miller JK, Gerber MA, Sampliner RE, Meeks EL, Beach MJ . "The natural history of
+community-acquired hepatitis C in the United States." N Engl J Med 1992; 327 :
+1899-1905.
+9. Han JH, Shyamala V, Richmann KH, Brauer MJ, Irvine B, Urdea MS, Tekamp-Olson
+P, Kuo G, Choo Q-L, Houghton M ". Characterisation of the terminal regions of
+
+33
+
+hepatitis C viral RNA: Identification of conserved sequences in the 5' untranslated
+region and poly(A) tails at the 3' end." Proc. Natl Acad Sci 1991; 88 : 1711-1715.
+10. Francki RIB, Fauquet CM, Knudson DL, Brown F. "Classification of nomenclature of
+viruses. Fifth report of the International Committee on Taxonomy of Viruses". Arch
+Virol 1991 (Suppl 2); 223.
+11. Houghton M, Weiner A, Han J, Kuo G, Choo Q-L. "Molecular biology of the hepatitis
+C viruses: Implications for diagnosis, development and control of viral disease."
+Hepatology 1991; 14 : 381-388.
+12. Choo Q-L, Kuo G, Weiner A, Wang K-S, Overby L, Bradley D, Houghton M .
+"Identification of the major, parenteral non-A, non-B hepatitis agent (hepatitis C
+virus) using a recombinant cDNA approach" . Sem Liv Dis 1992; 12 : 279-288 .
+13. Reed KE, Rice CM. "Molecular characterization of hepatitis C virus. "In" " Reesnick
+HW (Editor)": Hepatitis C Virus, 2nd revised and enlarged edition. Current Studies in
+Hematology and Blood Transfusion." Basel, Karger 1998; 62 : 1-37.
+14. Bartenschlager R. "The NS3/4A proteinase of the hepatitis C virus: unravelling
+structure and function of an unusual enzyme and a prime target for antiviral
+therapy". J Viral Hepat 1999; 6 : 165-181 .
+15. Reed KE, Rice CM. "Overview of hepatitis C virus genome structure, polyprotein
+processing, and protein properties". Curr Top Microbiol Immunol 2000; 242 : 55-84.
+16. Choo Q-L, Richmann KH, Han JH, Berger K, Lee C, Dong C, Gallegos C, Coit D,
+Medina-Selby A, Barr PJ, Weiner AJ, Bradley DW, Kuo G, Houghton M. "Genetic
+organisation and diversity of the hepatitis C virus. " Proc Nat Acad Sci 1991; 88 :
+2451-2455.
+17. Kato N, Hijikata M, Ootsuyama Y, Nakagawa M, Ohkoshi S, Sugimura T,
+Shimotohno K. "Molecular cloning of the human hepatitis C virus genome from
+
+34
+
+Japanese patients with non-A non-B hepatitis" . Proc Natl Acad Sci 1990; 87 : 95249528 .
+18. Takamizawa A, Mori C, Fuke I, Murakami S. Fujita J, Onishi E, Andoh T, Yoshida I,
+Okayama H . "Structure and organisation of the hepatitis C virus genome isolated
+from human carriers". J Virol 1991 ; 65 : 1105-1113
+19. Okamoto H, Okada S, Sugiyama Y, Kurai K, Iizuka H, Machida A, Miyakawa Y
+Mayumi M . "Nucleotide sequence of the genomic RNA of hepatitis C virus isolated
+from a human carrier: Comparison with reported isolates for conserved and
+divergent regions." J Gen Virol 1991; 72 : 2697- 2704 .
+20. Lai MY, Kao JH, Yang PM, Wang JT, Chen PJ, Chan KW, Chu JS, Chen DS. "Longterm efficacy of ribavirin plus interferon alpha in the treatment of chronic hepatitis C."
+Gastroenterology 1996; 111: 1307.
+21. Behrens SE, Tomei L, De Francesco R ". Identification and properties of the RNAdependent RNA polymerase of hepatitis C virus." EMBO 1996; 15: 12-22.
+22. Chen PJ, Lim MH, Tai KF, Liu PC, Lin CJ, Chen DS. "The Taiwanese hepatitis C
+virus genome: sequence determination and mapping the 5' termini of viral genomic
+and antigenomic RNA." Virology 1992; 188 : 102-113.
+23. Ogata N, Alter HJ, Miller R, Purcell RH. "Nucleotide sequence and mutation rate of
+the H strain of hepatitis C virus." Proc Natl Acad Sci 1991; 88 : 3392-3396.
+24. Okamoto H, Okada S, Sugiyama Y, Kurai K, Iizuka H, Machida A, Miyakawa Y
+Mayumi M. "Nucleotide sequence of the genomic RNA of hepatitis C virus isolated
+from a human carrier: Comparison with reported isolates for conserved and
+divergent regions." J Gen Virol 1991; 72 : 2697- 2704.
+25. Okamoto H, Kurai K, Okada S-I, Yamamoto K, Lizuka H, Tanaka T, Fukuda S,
+Tsuda F, Mishiro S. "Full-length sequence of a hepatitis C virus genome having poor
+
+35
+
+homology to reported isolates: Comparative study of four distinct genotypes" .
+Virology 1992; 188 : 331-341.
+26. Simmonds P, McOmish F, Yap PL, Chan SW, Lin CK, Dusheiko G, Saeed AA,
+Holmes EC. "Sequence variability in the 5' non-coding region of hepatitis C virus:
+Identification of a new virus type and restriction on sequence diversity". J Gen Virol
+1993; 74: 661-668.
+27. Simmonds P, Holmes EC, Cha TA, Chan SW, McOmish F, Irvine B, Beall E, Yap
+PL, Kolberg J, Urdea MS . "Classification of hepatitis C virus into six major
+genotypes and a series of subtypes by phylogenetic analysis of the NS-5 region". J
+Gen Virol 1993; 74 : 2391-2399 .
+28. Simmonds P, Rose KA, Graham S, Chan S-W, McOmish F, Dow BC, Follett EAC,
+Yap PL, Marsden H . "Mapping of serotype-specific, immunodominant epitopes in
+the NS-4 region of hepatitis C virus (HCV): Use of type-specific peptides to
+serologically differentiate infections with HCV types 1, 2, and 3". J Clin Microbiol
+1993; 31: 1493-1503.
+29. Couzigou P, Richard L, Dumas F, Schouler L, Fleury H. "Detection of HCV-RNA in
+saliva of patients with chronic hepatitis C" . Gut 1993; 34 (Suppl) : S59 -S60 .
+30. Van der Poel CL. "Hepatitis C virus and blood transfusion: past and present risks." J
+Hepatol 1999; 31 (Suppl. 1) : 101-106 .
+31. Alter MJ. "Epidemiology of hepatitis C" . Hepatology 1997; 26: 62S-65S .
+32. Dienstag JL. "Sexual and perinatal transmission of hepatitis C." Hepatology 1997;
+26: 665 -705 .
+33. Zanetti AR, Tanzi E, Newell ML. "Mother-to-Infant transmission of hepatitis C virus".
+J Hepatol 1999; 31 (Suppl. 1): 96-100.
+
+36
+
+34. Thomas DL, Villano SA, Riester KA, Hershow R, Mofenson LM, Landesman SH,
+Hollinger FB, Davenny K, Riley L, Diaz C, Tang HB, Quinn TC. "Perinatal
+transmission of hepatitis C virus from human immunodeficiency virus type 1-infected
+mothers. Women and infants transmission study". J Infect Dis 1998; 177 : 14801488.
+35. Wejstal R. "Sexual transmission of hepatitis C virus". J Hepatol 1999; 31 (Suppl. 1) :
+92-95.
+36. Aceijas. C., Rhodes, T. Global estimates of prevalence of HCV infection among
+injecting drug users. Int J Drug Policy 2007; 18: 352–8.
+37. Amon J. J., Garfein R. S., Ahdieh-Grant L., Armstrong G. L. Ouellet L. J., Latka M.
+H., et al. Prevalence of hepatitis C virus infection among injection drug users in the
+United States, 1994-2004. Clin Infect Dis 2008; 46: 1852-8.
+38. Schlosser B: High Prevalence of chronic hepatitis C (HCV) infection in a German
+metropolitan area: A prospective screening analysing 7683 patient. EASL 2009:
+Abstract 415.
+39. Hagan H., Des Jarlais D. C., Stern R., Lelutiu-Weinberger C., Scheinmann R.,
+Strauss S., Flom P.L. HCV synthesis project: preliminary analyses of HCV
+prevalence in relation to age and duration of injection. Int J Drug Policy 2007; 18:
+341–51.
+40. Van Thiel D. H., Anantharaju A., Creech S. Response to treatment of hepatitis C in
+individuals with a recent history of intravenous drug abuse. Am J Gastroenterol
+2003; 98: 2281–8.
+41. Dore G. J., Thomas D. L. Management and treatment of injection drug users with
+hepatitis C virus (HCV) infection and HCV/human immunodeficiency virus
+coinfection. Semin Liver Dis 2005; 25 : 18–32.
+
+37
+
+42. Berg T, Kaul T, Heuft HG, Naumann U, Lobeck H, Wiedenmann B, Hopf U. Analysis
+of long-term efficacy of interferon-alpha treatment in chronic hepatitis C. J Hepatol
+1998; 28 : 511-512
+43. NIH Consensus Statement on Management of Hepatitis C: 2002. NIH Consens
+State Sci Statements 2002; 19:1–46.
+44. Strader D. B., Wright T., Thomas D. L., Seeff L. B.; American Association for the
+Study of Liver Diseases. Diagnosis, management, and treatment of hepatitis C.
+Hepatology 2004; 39: 1147–71.
+45. Schaefer M., Schmidt F., Folwaczny C., Lorenz R., Martin G., Schindlbeck N., et al.
+Adherence and mental side effects during hepatitis C treatment with interferon alpha
+and ribavirin in psychiatric risk groups. Hepatology 2003; 37 : 443–51.
+46. Mauss S., Berger F., Goelz J., Jacob B., Schmutz G. A prospective controlled study
+of interferon-based therapy of chronic hepatitis C in patients on methadone
+maintenance. Hepatology 2004; 40: 120–4.
+47. Sylvestre D. L., Clements B. J. Adherence to hepatitis C treatment in recovering
+heroin users maintained on methadone. Eur J Gastroenterol Hepatol 2007; 19 :
+741–7.
+48. Bonkovsky H. L., Tice A. D., Yapp R. G., Bodenheimer H. C. Jr., Monto A., Rossi S.
+J., Sulkowski M. S. Efficacy and safety of peginterferon alpha-2a/ribavirin in
+methadone maintenance patients: randomized comparison of direct observed
+therapy and self-administration. Am J Gastroenterol 2008; 103: 2757–65.
+49. Sulkowski M.S. Anemia in the treatment of hepatitis C virus infection. Clin Infect Dis
+2003; 37 Suppl 4: S315–22.
+
+38
+
+50. McHutchison J.G., Manns M., Patel K., Poynard T., Lindsay K. L., Trepo C., et al.
+Adherence to combination therapy enhances sustained response in genotype-1infected patients with chronic hepatitis C. Gastroenterology 2002; 123 : 1061–9.
+51. Litwin A. H., Soloway I., Gourevitch M. N. Integrating services for injection drug
+users infected with hepatitis C virus with methadone maintenance treatment:
+challenges and opportunities. Clin Infect Dis 2005; 40: S339–45.
+52. Grebely J., Genoway K., Khara M., Duncan F., Viljoen M., Elliott D., et al. Treatment
+uptake and outcomes among current and former injection drug users receiving
+directly observed therapy within a multidisciplinary group model for the treatment of
+hepatitis C virus infection. Int J Drug Policy 2007; 18: 437–43.
+53. Krook A.L., Stokka D., Heger B., Nygaard E. Hepatitis C treatment of opioid
+dependants receiving maintenance treatment: results of a Norwegian pilot study. Eur
+Addict Res 2007; 13: 216–21.
+54. Smith-Rohrberg D., Mezger J., Walton M., Bruce R. D., Altice F.L. Impact of
+enhanced services on virologic outcomes in a directly administered antiretroviral
+therapy trial for HIV-infected drug users. Acquir Immune Defic Syndr 2006; 43 Suppl
+1: S48–53.
+55. Hoofnagle JH, Mullen KD, Jones DB, Rustgi V, Di Bisceglie AM, Peters M,
+Waggoner JG. "Treatment of chronic non-A, non-B hepatitis with recombinant
+human alpha interferon: a preliminary report". N Engl J Med 1986; 315: 1575 .
+56. Davis GL, Balart LA, Schiff ER, Lindsay K, Bodenheimer HC, Perrillo RP, Carey W,
+Jacobsen IM, Payne J, Dienstag JL, Van Thiel DH, Tamburro C, Lefkowitch J,
+Albrecht J, Meschievitz C, Ortego TJ, Gibas A. "Treatment of chronic hepatitis C
+with recombinant interferon alpha" . N Engl J Med 1989; 321: 1501.
+
+39
+
+57. Causse X, Godinot H, Chevallier M, Chossegros P, Zoulim F, Ouzan D, Heyraud JP,
+Fontanges T, Albrecht J, Meschievitz C. "Comparison of 1 or 3 MU of interferon
+alpha 2b and placebo in patients with chronic non-A, non-B hepatitis" .
+Gastroenterology 1991; 101: 497.
+58. Di Bisceglie AM, Martin P, Kassianides C, Lisker-Melan M, Murray L, Waggoner J,
+Goodman Z, Banks SM, Hoofnagle JH. "Recombinant interferon alpha therapy for
+chronic hepatitis C." N Engl J Med 1989; 321: 1506.
+59. Hoofnagle JH, Peters M, Mullen KD. "Randomized, controlled trial of recombinant
+human a-interferon in patients with chronic hepatitis C." Gastroenterology 1998; 95 :
+1318 .
+60. Hopf U, Möller B, König V, Küther S, Lobeck H, Huhn D. "Langzeitbehandlung der
+kryptogenen chronischen Hepatitis C mit rekombinantem Interferon alpha." Z
+Gastroenterol 1990; 28: 453 .
+61. Hopf U, Küther S, König V, Heuft HG, Berg T, Bauditz J, Soltani K, Lobeck H, Huhn
+D. "Langzeitbeobachtung der chronischen Hepatitis C nach Behandlung mit
+rekombinantem Interferon alpha-2a." Z Gastroenterol 1994; 32: 425 .
+62. Marcellin P, Boyer N, Giostra E, Degott C, Louronce AM, Degos F, Coppere H,
+Cales P, Couzigou P, Benhamou JP. "Recombinant human alpha-interferon in
+patients with chronic non-A, non-B hepatitis: a multicenter randomized controlled
+trial from France." Hepatology 1991; 13: 393.
+63. Ilyin GP, Langouet S, Rissel M, Delcros JG, Guillouzo A, Guguen GC. "Ribavirin
+inhibits protein synthesis and cell proliferation induced by mitogeic factors in primary
+human and rat hepatocytes." Hepatology 1998; 27 : 1687 .
+64. Montero C, Duley JA, Fairbanks LD, McBride MB, Micheli V, Cant AC, Morgan G .
+"Demonstration of induction of erythrocyte inosine monophosphate dehydrogenase
+
+40
+
+activity in ribavirin-treated patients using a high performance liquid chromatography
+linked method." Clin Chem Acta 1995; 238: 169.
+65. Di Bisceglie AM, Conjeevaram HS, Fried MW, Sallie R, Park Y, Yurdaydin C, Swain
+MG, Kleiner DE, Maheaney K, Hoofnagle JH. "Ribavirin as therapy for chronic
+hepatitis C. A randomized, double-blind, placebo-controlled trial." Ann Intern Med
+1995; 123: 897.
+66. Bodenheimer HC, Lindsay KL, Davis GL, Lewis IH, Thung SN, Seef KLB. "Tolerance
+and efficacy of oral ribavirin treatment of chronic hepatitis C: a multicenter trial."
+Hepatology 1997; 26: 473.
+67. Dusheiko G Main J, Thomas H, Reichard O, Lee C, Dhillon A, Rassam S, Fryden A,
+Reesink H, Bassendine M, Norkrans G, Cuypers T, Lelie N, Telfer P, Watson J,
+Weegink C, Sillikens P, Weiland O. "Ribavirin treatment for patients with chronic
+hepatitis C: results of a placebo controlled study" . J Hepatol 1996; 25: 591.
+68. Reichard O, Andersson J, Schvarcz R, Weiland O. "Ribavirin treatment for chronic
+hepatitis C". Lancet 1991; 337 : 1058.
+69. Reichard O, Yun Z-B, Sönnerborg A, Weiland O. "Hepatitis C viral RNA titers in
+serum prior to, during, and after oral treatment with ribavirin for chronic hepatitis C" .
+J Med Virol 1993; 41 : 99.
+70. Sarkar R, Friebe A, Effenberger S, Heinze L, Thomas S, Reimer J, Berg T, Schäfer
+M. Effektivität und Sicherheit von Escitalopram zur Prävention PEG-IFN-alpha
+assoziierter Depressionen bei Patienten mit chronischer Hepatitis C (CIPPADStudie). Nervenarzt 2008; Suppl 4: 581.
+71. Kraus MR, Schäfer A, Al-Taie O, Scheurlen M. Prophylactic SSRI during interferon
+alpha re-therapy in patients with chronic hepatitis C and a history of interferoninduced depression. J Viral Hepat. 2005 Jan; 12(1):96-100.
+
+41
+
+72. Brillanti S, Garson J, Foli M, Whitby K, Deaville R, Masci C, Miglioli M, Barbara L: A pilot
+study of combination therapy with ribavirin plus interferon alpha for interferon alpha-resistant
+chronic hepatitis C. Gastroenterology 1994; 107 (3): 812–817.
+
+73. Chemello L, Cavaletto L, Bernardinello E, Guido M, Pontisso P, Alberti A. "The effect
+of interferon alpha and ribavirin combination therapy in naive patients with chronic
+hepatitis C" . J Hepatol 1995; 23 (Suppl 2) : 8.
+74. McHutchison JG, Gordon SC, Schiff ER, Shiffman ML, Lee WM, Rustgi VK,
+Goodmann ZG, Ling MH, Albrecht JK for the Hepatitis Interventional Therapy Group
+(HIT) . "Interferon alpha-2b alone or in combination with ribavirin as initial treatment
+for chronic hepatitis C. " N Engl J Med 1998; 339 : 1485.
+75. Reichard O, Norkrans G, Frydén A, Braconier JH, Sönnerborg A, Weiland O, for the
+Swedish Study Group. "Randomised, double blind, placebo-controlled trial of
+interferon-a-2b with and without ribavirin for chronic hepatitis C. ‘Lancet’ " 1998;
+351 : 83.
+76. Poynard T, Marcellin P, Lee SS, Niederau C, Minuk G, Ideo G, Bain V, Heathcote J,
+Zeuzem S, Trépo C, Albrecht J, for the International Hepatitis Interventional Group
+(IHIT). "Randomized trial of interferon a2b plus ribavirin for 48 weeks or 24 weeks
+versus interferon a2b plus placebo for 48 weeks for treatment of chronic infection
+with hepatitis C virus." Lancet 1998; 352 : 1426.
+77. Pagani P, Puoti M, Quinzan GP, et al. Rapid virologic response during combination
+anti HCV treatment in HIV co-infected patients with HCV genotype 3: predictors and
+clinical significance in comparison with HIV uninfected persons. 4th International
+AIDS Society Conference on HIV Pathogenesis, Treatment, and Prevention.
+Sydney, Australia, July 22-25, 2007; Abstract MOPEB047.
+78. Trépo C, Lindsay K, Niederau C, Schiffman M, Gordon S, Hoefs J, Schiff ER,
+Marcellin P, Bacon B, Fang J, Garaud J, Albrecht J, for the Hepatitis Interventional
+42
+
+Therapy Group: "Pegylated interferon alpha-2B (Peg-Intron) monotherapy is
+superior to interferon-alpha-2B (Intron A) for the treatment of chronic hepatitis C
+[Abstract]." J Hepatol 2000; 32 (Suppl 2): 29.
+79. Zeuzem S, Feinmann SV, Rasenack J, Heathcote EJ, Lai M-Y, Gane E, O‘Grady J,
+Reichen J, Diago M, Lin A, Hoffmann J, Brunda MJ. "Peg-Interferon alpha-2a in
+patients with chronic hepatitis C." N Engl J Med 2000; 343 : 1666-1672.
+80. Heathcote EJ, Shiffmann ML, Cooksley GE, Dusheiko GM, Lee SS, Balart L,
+Reindollar R, Reddy RT, Wright TL, Lin A, Hoffmann J, De Pamphilis J. "PegInterferon alpha-2a in patients with chronic hepatitis C and cirrhosis." N Engl J Med
+2000; 343 : 1673-1680.
+81. Reddy KR, Wright TL, Pockros PJ, et al. "Efficacy and safety of pegylated (40-kd)
+interferon a-2a compared with interferon a-2a in noncirrhostic patients with chronic
+hepatitis C." Hepatology 2001; 33 : 433-438.
+82. Zeuzem S.; Individualised treatment of chronic hepatitis C, Der Internist 2006, 47
+(Suppt 1) : 20-25.
+
+83. Benhamou JP, U. Hopf, Rizzetto M, Sanchez-Tapias JM, Braconier JH, Buhler H,
+Spacey B. and Non-A, non-B (C) Study Group ": Long-term lymphoblastoid
+interferon enhances sustained responses and improves histological activity up to 12
+months post-treatment." Hepatology 1995; 22 : 151A.
+84. Chemello L, Bonetti P, Cavaletto L, Talato F, Donadon V, Casarin P, Belussi F,
+Frezza M, Noventa F, Pontisso P, Benvegnu L, Casarin C, Alberti A, and the
+TriVeneto Viral Hepatitis Group. "Randomized trial comparing three different
+regimens of alpha-2a-interferon in chronic hepatitis C." Hepatology 1995; 22 : 700.
+85. Davis J. "Prediction of response to interferon treatment of chronic hepatitis C." J
+Hepatol 1994; 21 : 1.
+
+43
+
+86. Kasahara A, Hayashi N, Hiramatsu N, Oshita M, Hagiwara H, Katayama K, Kato M,
+Masuzawa M, Yoshihara H, Kishida Y. "Ability of prolonged interferon treatment to
+suppress relapse after cessation of therapy in patients with chronic hepatitis C: a
+multicenter randomized controlled trial." Hepatology 1995; 21 : 291.
+87. Lin R, Roach E, Zimmermann M, Strasser S, Farrell GC. "Interferon-alpha-2b for
+chronic hepatitis C: effects of dose increment and duration of treatment on response
+rates. Results of the first multicenter Australian trial. Australia Hepatitis C Study
+Group." J Hepatol 1995; 23 : 487.
+88. Poynard T, Bedossa P, Chevallier M, Mathurin P, Lemonnier C, Trépo C, Couzigou
+P, Payen JL, Sajus M, Costa JM, Vidaud M, Chaput JC and the Multicenter Study
+Group. “A comparison of three interferon alpha-2b regimens for the long-term
+treatment of chronic non-A, non-B hepatitis." N Engl J Med 1995; 332 : 1457.
+89. Reichard O, Foberg U, Frydén A, Mattsson L, Norkrans G, Sönnerborg A, Wejstal R,
+Yun Z-B, Weiland O . "High sustained response rate and clearence of viremia in
+chronic hepatitis C after treatment with interferon-a2b for 60 weeks." Hepatology
+1994; 19 : 280.
+90. COPEGUS®
+
+Summary
+
+of
+
+Product
+
+http://emc.medicines.org.uk/document.aspx?documentId=11755
+
+Characteristics.
+Accessed
+
+27
+
+March 2009.
+91. Armstrong GL, Alter MJ, McQuillan GM, Margolis HS. The past incidence of
+hepatitis C virus infection: implications for the future burden of chronic liver disease
+in the United States. Hepatology. 2000 Mar; 31(3): 777–82.
+92. Pellicelli A. M., Barbaro G., Barbarini G., Soccorsi F.; CLEO Group. Management of
+chronic hepatitis in drug addicts: a systematic review. Clin Ter 2008; 159: 41–9.
+
+44
+
+93. Chossegros P., Mélin P., Hézode C., Bourlière M., Pol S., Fhima A., et al. A French
+prospective observational study of the treatment of chronic hepatitis C in drug
+abusers. Gastroenterol Clin Biol 2008 Sep 19. [Epub ahead of print]
+94. Robaeys G., Van Vlierberghe H., Matheï C., Van Ranst M., Bruckers L., Buntinx F.;
+BASL Steering Committee; Benelux Study Group. Similar compliance and effect of
+treatment in chronic hepatitis C resulting from intravenous drug use in comparison
+with other infection causes. Eur J Gastroenterol Hepatol 2006; 18: 159–66.
+95. Ciaccio A., Ferraro D., Alaimo G., Maggio A. A., Craxi A., Almasio P.L. Feasibility of
+combination therapy for chronic hepatitis C in IVDU in the framework of an heroin
+detoxification protocol. Hepatology 2007; 46 (Suppl. 1), 393A–394A.
+96. Anagnostou O., Manolakopoulos S., Deutsch M., Tiniakou E., Giannaris M.,
+Papatheodoridis G., et al. Drug users with chronic hepatitis C who are adherent to
+antiviral treatment will finally benefit from therapy. Gastroenterology 2008; 134; A–
+775.
+97. Belfiori B., Ciliegi P., Chiodera A., Bacosi D., Tosti A., Baldelli F., et al. Peginterferon
+plus Ribavirin for chronic hepatitis C in opiate addicts on methadone/buprenorphine
+maintenance therapy. Dig Liver Dis 2009; 41: 303–7.
+98. Conway B., Prasad J., Reynolds R., Farley J,. Jones M., Jutha S., et al. Directly
+observed therapy for the management of HIV-infected patients in a methadone
+program. Clin Infect Dis 2004; 38 Suppl 5: S. 402–8.
+99. Lucas G. M., Weidle P. J., Hader S., Moore R. D. Directly administered antiretroviral
+therapy in an urban methadone maintenance clinic: a nonrandomized comparative
+study. Clin Infect Dis 2004; 38 Suppl 5: S. 409–13.
+100. Lucas G. M., Mullen B. A., Weidle P. J., Hader S., McCaul M. E., Moore R. D.
+Directly administered antiretroviral therapy in methadone clinics is associated with
+
+45
+
+improved HIV treatment outcomes, compared with outcomes among concurrent
+comparison groups. Clin Infect Dis 2006; 42: 1628–35.
+101. Altice F. L., Maru D. S., Bruce R. D., Springer S. A., Friedland G. H. Superiority of
+directly administered antiretroviral therapy over self-administered therapy among
+HIV-infected drug users: a prospective, randomized, controlled trial. Clin Infect Dis
+2007; 45: 770–8.
+102. Maru D. S., Bruce R. D., Walton M., Mezger J. A., Springer S. A., Shield D., Altice
+F. L. Initiation, adherence, and retention in a randomized controlled trial of directly
+administered antiretroviral therapy. AIDS Behav 2008; 12: 284–93.
+103. Hauser P., Khosla J., Aurora H., Laurin J., Kling M. A., Hill J., et al. A prospective
+study of the incidence and open-label treatment of interferon-induced major
+depressive disorder in patients with hepatitis C. Mol Psychiatry 2002;.7: 942–7.
+104. Dieperink E., Ho S. B., Thuras P., Willenbring M. L. A prospective study of
+neuropsychiatric symptoms associated with interferon-alpha-2b and ribavirin
+therapy for patients with chronic hepatitis C. Psychosomatics 2003; 44: 104–12.
+105. Loftis J.M., Socherman R. E., Howell C. D., Whitehead A. J., Hill J. A., Dominitz J.
+A., Hauser P. Association of interferon-alpha-induced depression and improved
+treatment response in patients with hepatitis C. Neurosci Lett 2004; 365: 87–91.
+106. Schaefer M., Schmidt F., Horn M., Schmid-Wendtner M. H., Volkenandt M.
+Depression during treatment with interferon alpha. Psychosomatics 2004; 45:176.
+107. Fried M. W., Shiffman M. L., Reddy K. R., Smith C., Marinos G., Gonçales F. L.
+Jr., et al. Peginterferon alpha-2a plus ribavirin for chronic hepatitis C virus
+infection. N Engl J Med 2002; 347: 975–82.
+
+46
+
+108. De Bie J., Robaeys G., Buntinx F. Hepatitis C, interferon alpha and psychiatric comorbidity in intravenous drug users (IVDU) : guidelines for clinical practice. Acta
+Gastroenterol Belg 2005; 68: 68–80.
+109. Martín-Santos R., Díez-Quevedo C., Castellví P., Navinés R., Miquel M., Masnou
+H., et al. De novo depression and anxiety disorders and influence on adherence
+during peginterferon-alpha-2a and ribavirin treatment in patients with hepatitis C.
+Aliment Pharmacol Ther 2008; 27: 257–65.
+110. Schaefer M., Schwaiger M., Garkisch A. S., Pich M., Hinzpeter A., Uebelhack R.,
+et al. Prevention of interferon-alpha associated depression in psychiatric risk
+patients with chronic hepatitis C. J Hepatol 2005; 42: 793–8.
+111. Morasco B. J., Rifai M. A., Loftis J. M., Indest D. W., Moles J. K., Hauser P. A
+randomized trial of paroxetine to prevent interferon-alpha-induced depression in
+patients with hepatitis C. J Affect Disord 2007; 103: 83–90.
+112. Raison C. L., Woolwine B. J., Demetrashvili M. F., Borisov A. S., Weinreib R.,
+Staab J., et al. Paroxetine for prevention of depressive symptoms induced by
+interferon-alpha and ribavirin for hepatitis C. Aliment Pharmacol Ther 2007; 25:
+1163–74.
+113. Hadziyannis S. J., Sette H. Jr, Morgan T. R., Balan V., Diago M., Marcellin P., et
+al. Peginterferon-alpha2a and ribavirin combination therapy in chronic hepatitis C:
+a randomized study of treatment duration and ribavirin dose. Ann Intern Med 2004;
+140: 346–55.
+
+47
+
+8. Abkürzungsverzeichnis
+
+Abb. Abbildung
+ALT
+
+Alaninaminotransferase
+
+AST
+
+Aspartataminotransferase
+
+CHC chronische Hepatitis – C Infektion
+DOT direkt unter täglicher Aufsicht verabreichte Therapie mit PEG-IFN alpha-2a und
+Ribavirin
+DNA Desoxyribonukleinsäure
+yGT
+
+Gammaglutamyltranspeptidase
+
+HCV Hepatitis C Virus
+IVDA intravenöse Drogengebraucher
+MMT Methadon-Maintenance-Therapie
+PCR Polymerase-Kettenreaktion
+RNA Ribonukleinsäure
+RVR Rapid viral response
+
+48
+
+9. Curriculum vitae
+
+Michael Waizmann
+
+Mein Lebenslauf wird aus datenschutzrechtlichen Gründen in der elektronischen
+Version meiner Arbeit nicht veröffentlicht.
+
+49
+
+10. Erklärung
+
+„Ich, Michael Waizmann, erkläre, dass ich die vorgelegte Dissertation mit dem Thema:
+Modifizierte Therapiestrategien in der Kombinationstherapie mit pegyliertem Interferon
+alpha-2a (PEG-IFN alpha-2a) (40 KD) und einer einmal täglichen Fixdosis von Ribavirin
+bei HCV-infizierten Drogenabhängigen unter Substitutionsbehandlung, selbst verfasst
+und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt, ohne die
+(unzulässige) Hilfe Dritter verfasst und auch in Teilen keine Kopien anderer Arbeiten
+dargestellt habe.“
+
+Leipzig, 01. März 2010
+
+Michael Waizmann
+
+50
+
+11. Danksagung
+Mein besonderer Dank für die sehr gute Zusammenarbeit gilt dem Betreuer meiner
+Promotionsarbeit Herrn Professor Dr. med. R. Somasundaram. Er hat mir die
+Möglichkeit verschafft, diese Untersuchung zu bearbeiten und auszuwerten. Er gab mir
+bei der Bearbeitung des Themas wichtige gedankliche Anstöße. Ich danke Herrn
+Professor Somasundaram außerdem für die abschließende Durchsicht.
+Desweiteren danke ich den Mitarbeitern des MEDCENTER Leipzig, insbesondere Frau
+Barbara Trantow und Frau Gabriele Kunath für die Unterstützung, dass ich diese
+Untersuchung auswerten und abschließen konnte.
+Mein spezieller Dank gilt außerdem meiner Familie für die Hilfe und Geduld bei der
+Entstehung dieser Arbeit.
+
+51
+
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd">
+      <feature name="vroniplag" etext_number="Acb" url="http://de.vroniplag.wikia.com/wiki/Acb'"/>
+      <feature name="language" value="de" />
+    <feature name="realistic-plagiarism" this_offset="4517" this_length="731" />
+<feature name="realistic-plagiarism" this_offset="15753" this_length="1655" />
+<feature name="realistic-plagiarism" this_offset="17825" this_length="885" />
+<feature name="realistic-plagiarism" this_offset="19513" this_length="2258" />
+<feature name="realistic-plagiarism" this_offset="21893" this_length="5420" />
+<feature name="realistic-plagiarism" this_offset="27904" this_length="1438" />
+<feature name="realistic-plagiarism" this_offset="30059" this_length="6199" />
+<feature name="realistic-plagiarism" this_offset="36533" this_length="1117" />
+<feature name="realistic-plagiarism" this_offset="71812" this_length="636" />
+</document>
