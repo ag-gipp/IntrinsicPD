@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd">
+      <feature name="vroniplag" etext_number="Ees" url="http://de.vroniplag.wikia.com/wiki/Ees'"/>
+      <feature name="language" value="de" />
+    <feature name="realistic-plagiarism" this_offset="438" this_length="3331" />
+<feature name="realistic-plagiarism" this_offset="4042" this_length="536" />
+<feature name="realistic-plagiarism" this_offset="6005" this_length="1663" />
+<feature name="realistic-plagiarism" this_offset="7747" this_length="2628" />
+<feature name="realistic-plagiarism" this_offset="10430" this_length="683" />
+<feature name="realistic-plagiarism" this_offset="14735" this_length="511" />
+<feature name="realistic-plagiarism" this_offset="15462" this_length="2021" />
+</document>

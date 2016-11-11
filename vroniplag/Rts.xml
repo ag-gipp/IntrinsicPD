@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd">
+      <feature name="vroniplag" etext_number="Rts" url="http://de.vroniplag.wikia.com/wiki/Rts'"/>
+      <feature name="language" value="de" />
+    <feature name="realistic-plagiarism" this_offset="2393" this_length="2180" />
+<feature name="realistic-plagiarism" this_offset="5510" this_length="3048" />
+<feature name="realistic-plagiarism" this_offset="8277" this_length="2725" />
+<feature name="realistic-plagiarism" this_offset="10802" this_length="2496" />
+<feature name="realistic-plagiarism" this_offset="13452" this_length="2507" />
+<feature name="realistic-plagiarism" this_offset="15250" this_length="1716" />
+<feature name="realistic-plagiarism" this_offset="16054" this_length="693" />
+<feature name="realistic-plagiarism" this_offset="16171" this_length="102" />
+<feature name="realistic-plagiarism" this_offset="18275" this_length="129" />
+<feature name="realistic-plagiarism" this_offset="20323" this_length="1912" />
+<feature name="realistic-plagiarism" this_offset="20924" this_length="373" />
+<feature name="realistic-plagiarism" this_offset="22153" this_length="1186" />
+<feature name="realistic-plagiarism" this_offset="23094" this_length="781" />
+<feature name="realistic-plagiarism" this_offset="23353" this_length="193" />
+<feature name="realistic-plagiarism" this_offset="24127" this_length="697" />
+<feature name="realistic-plagiarism" this_offset="25601" this_length="1407" />
+<feature name="realistic-plagiarism" this_offset="26008" this_length="662" />
+<feature name="realistic-plagiarism" this_offset="27241" this_length="1140" />
+<feature name="realistic-plagiarism" this_offset="30441" this_length="1476" />
+<feature name="realistic-plagiarism" this_offset="32096" this_length="1610" />
+<feature name="realistic-plagiarism" this_offset="35983" this_length="1363" />
+<feature name="realistic-plagiarism" this_offset="49493" this_length="406" />
+<feature name="realistic-plagiarism" this_offset="52506" this_length="342" />
+<feature name="realistic-plagiarism" this_offset="64473" this_length="556" />
+<feature name="realistic-plagiarism" this_offset="65949" this_length="907" />
+<feature name="realistic-plagiarism" this_offset="72243" this_length="821" />
+<feature name="realistic-plagiarism" this_offset="80040" this_length="408" />
+<feature name="realistic-plagiarism" this_offset="85985" this_length="1501" />
+<feature name="realistic-plagiarism" this_offset="88155" this_length="1435" />
+<feature name="realistic-plagiarism" this_offset="88368" this_length="121" />
+</document>

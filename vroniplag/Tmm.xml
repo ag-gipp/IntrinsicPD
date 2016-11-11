@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd">
+      <feature name="vroniplag" etext_number="Tmm" url="http://de.vroniplag.wikia.com/wiki/Tmm'"/>
+      <feature name="language" value="de" />
+    <feature name="realistic-plagiarism" this_offset="4037" this_length="2268" />
+<feature name="realistic-plagiarism" this_offset="5679" this_length="1630" />
+<feature name="realistic-plagiarism" this_offset="7729" this_length="2047" />
+<feature name="realistic-plagiarism" this_offset="10145" this_length="2399" />
+<feature name="realistic-plagiarism" this_offset="11603" this_length="1455" />
+<feature name="realistic-plagiarism" this_offset="12489" this_length="2324" />
+<feature name="realistic-plagiarism" this_offset="17178" this_length="2357" />
+<feature name="realistic-plagiarism" this_offset="19390" this_length="2211" />
+<feature name="realistic-plagiarism" this_offset="19616" this_length="224" />
+<feature name="realistic-plagiarism" this_offset="21845" this_length="827" />
+<feature name="realistic-plagiarism" this_offset="24910" this_length="807" />
+<feature name="realistic-plagiarism" this_offset="26206" this_length="1148" />
+<feature name="realistic-plagiarism" this_offset="27083" this_length="863" />
+<feature name="realistic-plagiarism" this_offset="28504" this_length="1419" />
+<feature name="realistic-plagiarism" this_offset="29296" this_length="229" />
+<feature name="realistic-plagiarism" this_offset="29883" this_length="364" />
+<feature name="realistic-plagiarism" this_offset="48186" this_length="969" />
+<feature name="realistic-plagiarism" this_offset="49577" this_length="1253" />
+<feature name="realistic-plagiarism" this_offset="50559" this_length="554" />
+<feature name="realistic-plagiarism" this_offset="52828" this_length="2144" />
+</document>

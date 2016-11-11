@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd">
+      <feature name="vroniplag" etext_number="Miw" url="http://de.vroniplag.wikia.com/wiki/Miw'"/>
+      <feature name="language" value="de" />
+    <feature name="realistic-plagiarism" this_offset="2561" this_length="773" />
+<feature name="realistic-plagiarism" this_offset="3851" this_length="1198" />
+<feature name="realistic-plagiarism" this_offset="5060" this_length="278" />
+<feature name="realistic-plagiarism" this_offset="4887" this_length="4782" />
+<feature name="realistic-plagiarism" this_offset="14119" this_length="2750" />
+<feature name="realistic-plagiarism" this_offset="17951" this_length="265" />
+<feature name="realistic-plagiarism" this_offset="20165" this_length="693" />
+<feature name="realistic-plagiarism" this_offset="21097" this_length="582" />
+<feature name="realistic-plagiarism" this_offset="23215" this_length="919" />
+<feature name="realistic-plagiarism" this_offset="24330" this_length="165" />
+<feature name="realistic-plagiarism" this_offset="24585" this_length="1025" />
+</document>

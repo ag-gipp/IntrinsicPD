@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd">
+      <feature name="vroniplag" etext_number="Mak" url="http://de.vroniplag.wikia.com/wiki/Mak'"/>
+      <feature name="language" value="de" />
+    <feature name="realistic-plagiarism" this_offset="1777" this_length="1573" />
+<feature name="realistic-plagiarism" this_offset="3368" this_length="1523" />
+<feature name="realistic-plagiarism" this_offset="4267" this_length="824" />
+<feature name="realistic-plagiarism" this_offset="4893" this_length="535" />
+<feature name="realistic-plagiarism" this_offset="5187" this_length="239" />
+<feature name="realistic-plagiarism" this_offset="5510" this_length="397" />
+<feature name="realistic-plagiarism" this_offset="6171" this_length="623" />
+<feature name="realistic-plagiarism" this_offset="6625" this_length="319" />
+<feature name="realistic-plagiarism" this_offset="8266" this_length="1516" />
+<feature name="realistic-plagiarism" this_offset="9403" this_length="610" />
+<feature name="realistic-plagiarism" this_offset="12076" this_length="1783" />
+<feature name="realistic-plagiarism" this_offset="12563" this_length="284" />
+<feature name="realistic-plagiarism" this_offset="30182" this_length="841" />
+<feature name="realistic-plagiarism" this_offset="31752" this_length="95" />
+<feature name="realistic-plagiarism" this_offset="32111" this_length="345" />
+<feature name="realistic-plagiarism" this_offset="34551" this_length="667" />
+<feature name="realistic-plagiarism" this_offset="35419" this_length="400" />
+<feature name="realistic-plagiarism" this_offset="39163" this_length="842" />
+<feature name="realistic-plagiarism" this_offset="39524" this_length="316" />
+<feature name="realistic-plagiarism" this_offset="41033" this_length="734" />
+<feature name="realistic-plagiarism" this_offset="42086" this_length="1021" />
+<feature name="realistic-plagiarism" this_offset="44057" this_length="1524" />
+<feature name="realistic-plagiarism" this_offset="45516" this_length="1418" />
+</document>

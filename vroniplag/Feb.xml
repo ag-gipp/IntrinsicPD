@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd">
+      <feature name="vroniplag" etext_number="Feb" url="http://de.vroniplag.wikia.com/wiki/Feb'"/>
+      <feature name="language" value="de" />
+    <feature name="realistic-plagiarism" this_offset="2114" this_length="5438" />
+<feature name="realistic-plagiarism" this_offset="13755" this_length="7283" />
+<feature name="realistic-plagiarism" this_offset="21040" this_length="8435" />
+<feature name="realistic-plagiarism" this_offset="30196" this_length="1231" />
+<feature name="realistic-plagiarism" this_offset="31486" this_length="1564" />
+<feature name="realistic-plagiarism" this_offset="35343" this_length="299" />
+<feature name="realistic-plagiarism" this_offset="36652" this_length="976" />
+<feature name="realistic-plagiarism" this_offset="49260" this_length="479" />
+<feature name="realistic-plagiarism" this_offset="51435" this_length="2208" />
+<feature name="realistic-plagiarism" this_offset="56026" this_length="327" />
+<feature name="realistic-plagiarism" this_offset="78103" this_length="2984" />
+</document>

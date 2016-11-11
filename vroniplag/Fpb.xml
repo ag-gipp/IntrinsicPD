@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd">
+      <feature name="vroniplag" etext_number="Fpb" url="http://de.vroniplag.wikia.com/wiki/Fpb'"/>
+      <feature name="language" value="de" />
+    <feature name="realistic-plagiarism" this_offset="79" this_length="2684" />
+<feature name="realistic-plagiarism" this_offset="3780" this_length="1275" />
+<feature name="realistic-plagiarism" this_offset="5137" this_length="2568" />
+<feature name="realistic-plagiarism" this_offset="7786" this_length="1183" />
+<feature name="realistic-plagiarism" this_offset="25364" this_length="9360" />
+<feature name="realistic-plagiarism" this_offset="36812" this_length="840" />
+<feature name="realistic-plagiarism" this_offset="37968" this_length="2134" />
+<feature name="realistic-plagiarism" this_offset="40294" this_length="253" />
+<feature name="realistic-plagiarism" this_offset="42172" this_length="646" />
+<feature name="realistic-plagiarism" this_offset="59835" this_length="517" />
+<feature name="realistic-plagiarism" this_offset="60353" this_length="1976" />
+</document>

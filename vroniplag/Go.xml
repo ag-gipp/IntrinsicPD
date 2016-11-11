@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd">
+      <feature name="vroniplag" etext_number="Go" url="http://de.vroniplag.wikia.com/wiki/Go'"/>
+      <feature name="language" value="de" />
+    <feature name="realistic-plagiarism" this_offset="2207" this_length="2702" />
+<feature name="realistic-plagiarism" this_offset="3939" this_length="2117" />
+<feature name="realistic-plagiarism" this_offset="6058" this_length="1131" />
+<feature name="realistic-plagiarism" this_offset="7191" this_length="4877" />
+<feature name="realistic-plagiarism" this_offset="11791" this_length="8331" />
+<feature name="realistic-plagiarism" this_offset="20484" this_length="3447" />
+<feature name="realistic-plagiarism" this_offset="21364" this_length="7779" />
+<feature name="realistic-plagiarism" this_offset="26985" this_length="5943" />
+<feature name="realistic-plagiarism" this_offset="33538" this_length="5280" />
+<feature name="realistic-plagiarism" this_offset="38819" this_length="26425" />
+<feature name="realistic-plagiarism" this_offset="70238" this_length="6523" />
+</document>
