@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd">
       <feature name="vroniplag" etext_number="Tmm" url="http://de.vroniplag.wikia.com/wiki/Tmm'"/>
-      <feature name="language" value="de" />
+      <feature name="language" value="en" />
     <feature name="realistic-plagiarism" this_offset="4037" this_length="2268" />
 <feature name="realistic-plagiarism" this_offset="5679" this_length="1630" />
 <feature name="realistic-plagiarism" this_offset="7729" this_length="2047" />
