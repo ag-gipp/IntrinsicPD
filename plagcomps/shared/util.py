@@ -115,7 +115,7 @@ class BaseUtility:
         tree = xml.etree.ElementTree.parse(xml_path)
 
         for feature in tree.iter("feature"):
-            if feature.get("name") == "artificial-plagiarism":
+            if 'plagiarism' in feature.get("name"):
                 start = int(feature.get("this_offset"))
                 end = start + int(feature.get("this_length"))
                 spans.append((start, end))
