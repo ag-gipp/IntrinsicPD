@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd">
       <feature name="vroniplag" etext_number="Clm" url="http://de.vroniplag.wikia.com/wiki/Clm'"/>
-      <feature name="language" value="de" />
+      <feature name="language" value="en" />
     <feature name="realistic-plagiarism" this_offset="2597" this_length="180" />
 <feature name="realistic-plagiarism" this_offset="3406" this_length="590" />
 <feature name="realistic-plagiarism" this_offset="4429" this_length="350" />
