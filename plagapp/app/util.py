@@ -123,8 +123,8 @@ def get_read_feat():
 def get_atom_options():
     options = [
         'paragraph',
-        'sentence'
-        #'word'
+        'sentence',
+        'nchars'
     ]
 
     return zip(options, options)
