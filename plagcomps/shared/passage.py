@@ -120,6 +120,7 @@ class IntrinsicPassage(Passage):
 		plagiarized passages
 		'''
 		rel_spans = self.get_relative_plag_spans()
+		print rel_spans
 		html = ''
 		last_end = 0
 
@@ -127,7 +128,7 @@ class IntrinsicPassage(Passage):
 			cur_start, cur_end = cur_span
 
 			html += self.text[last_end : cur_start]
-			html += '<span style="text-decoration: underline;">'
+			html += '<span style="color:red">'
 			html += self.text[cur_start : cur_end]
 			html += '</span>'
 			last_end = cur_end
@@ -135,6 +136,13 @@ class IntrinsicPassage(Passage):
 		html += self.text[last_end:]
 	
 		return html
+
+	def is_plag(self):
+		rel_spans = self.get_relative_plag_spans()
+		if rel_spans:
+			return True
+		else:
+			return False
 	
 	def to_html(self):
 		'''
