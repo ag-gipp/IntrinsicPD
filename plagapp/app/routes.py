@@ -134,18 +134,18 @@ def view_doc():
           'color': 'black'
           }, {
              'value': THRES,
-             'color': 'orange'
+             'color': 'pink'
          }, {'value': 1.0,
-             'color': 'red'
+             'color': 'pink'
              }]
     elif uq_conf>THRES:
         zone = [{'value': THRES,
                  'color': 'black'
                  }, {
                     'value': uq_conf,
-                    'color': 'orange'
+                    'color': 'pink'
                 }, {'value': 1.0,
-                    'color': 'red'
+                    'color': 'pink'
                     }]
 
     #values to build boxplot (seenu.andi-rajendran)
