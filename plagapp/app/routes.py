@@ -143,9 +143,9 @@ def view_doc():
                  'color': 'black'
                  }, {
                     'value': uq_conf,
-                    'color': 'pink'
+                    'color': 'green'
                 }, {'value': 1.0,
-                    'color': 'pink'
+                    'color': 'green'
                     }]
 
     #values to build boxplot (seenu.andi-rajendran)
