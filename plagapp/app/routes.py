@@ -134,7 +134,7 @@ def view_doc():
           'color': 'black'
           }, {
              'value': THRES,
-             'color': 'pink'
+             'color': 'black'
          }, {'value': 1.0,
              'color': 'pink'
              }]
@@ -143,7 +143,7 @@ def view_doc():
                  'color': 'black'
                  }, {
                     'value': uq_conf,
-                    'color': 'black'
+                    'color': 'pink'
                 }, {'value': 1.0,
                     'color': 'black'
                     }]
