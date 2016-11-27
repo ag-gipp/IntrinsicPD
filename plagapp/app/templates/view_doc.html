@@ -80,10 +80,14 @@
                 </div>
             </div>
             <div id="block_container">
-            <div id="redcircle" style="width: 50px;height: 50px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: red;">Suspected atom</div>
-            <div id="orangecircle" style="width: 50px;height: 50px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: pink;">Suspected atom crossing threshold</div>
-      <div id="orangecircle" style="width: 50px;height: 50px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: orange;">Suspected atom not crossing threshold</div>
+                 {% if plag_cats|length > 0 %}
+            <div id="redcircle" style="width: 50px;height: 50px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: orange;">Stylistically noteworthy values</div>
+            <div id="orangecircle" style="width: 50px;height: 50px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: pink;">Ground truth atoms not crossing threshold</div>
+      <div id="orangecircle" style="width: 50px;height: 50px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: red;">Ground truth atoms crossed threshold</div>
             <div id="blackcircle" style="width: 50px;height: 50px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: black; color: white;">Unsuspected Atom</div>
+                 {% else %}
+                <div id="redcircle" style="width: 50px;height: 50px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: red;">Suspected atom</div>
+                {% endif %}
 
             <div class="container">
                 <div class="row">
@@ -104,21 +108,21 @@
                                         {% set j=0 %}
                                         {% for passage in passages %}
 
-                                                {% if passage.plag_confidence >= 0.85 and not passage.is_plag()%}
+                                                 {% if passage.plag_confidence >= 0.85 and not passage.is_plag()%}
                                                     <div class="passage" features="{{ passage.to_html() }}"
-                                                         style="font-size:13px;line-height:16px;color:#FFA500;"
+                                                         style="font-size:13px;line-height:16px;color: orange;"
                                                          id='pass{{ j }}'>
                                                         {{ passage.text.decode('utf8')|safe }}
                                                     </div>
                                                 {% elif passage.plag_confidence >= 0.85 and passage.is_plag()%}
                                                     <div class="passage" features="{{ passage.to_html() }}"
-                                                         style="font-size:13px;line-height:16px;color:#FFC0CB;"
+                                                         style="font-size:13px;line-height:16px;color: pink;"
                                                          id='pass{{ j }}'>
                                                         {{ passage.text.decode('utf8')|safe }}
                                                     </div>
                                                 {% elif passage.plag_confidence < 0.85 and passage.is_plag()%}
                                                     <div class="passage" features="{{ passage.to_html() }}"
-                                                         style="font-size:13px;line-height:16px;color:#FF0000;"
+                                                         style="font-size:13px;line-height:16px;color: red;"
                                                          id='pass{{ j }}'>
                                                         {{ passage.text.decode('utf8')|safe }}
                                                     </div>
@@ -128,7 +132,6 @@
                                                          id='pass{{ j }}'>
                                                         {{ passage.text.decode('utf8')|safe }}
                                                     </div>
-
                                                 {% endif %}
                                                 {% if atom_type == 'paragraph' %}
                                                     <br/>
@@ -172,13 +175,13 @@
 
                                         {% if passage.plag_confidence >= 0.85 and not passage.is_plag()%}
                                             <td class="passage_row"
-                                                bgcolor=#FFA500> {{ "%.4f"| format(passage.plag_confidence) }}</td>
+                                                 style="background-color:orange"> {{ "%.4f"| format(passage.plag_confidence) }}</td>
                                         {% elif passage.plag_confidence >= 0.85 and passage.is_plag()%}
                                             <td class="passage_row"
-                                                bgcolor=#FFC0CB> {{ "%.4f"| format(passage.plag_confidence) }}</td>
+                                               style="background-color:pink"> {{ "%.4f"| format(passage.plag_confidence) }}</td>
                                         {% elif passage.plag_confidence < 0.85 and passage.is_plag()%}
                                             <td class="passage_row"
-                                                bgcolor=#FF0000> {{ "%.4f"| format(passage.plag_confidence) }}</td>
+                                                style="background-color:red"> {{ "%.4f"| format(passage.plag_confidence) }}</td>
                                         {% else %}
                                             <td class="passage_row">{{ "%.4f"| format(passage.plag_confidence) }}</td>
                                         {% endif %}
