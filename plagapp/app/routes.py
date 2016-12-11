@@ -129,24 +129,24 @@ def view_doc():
         ser_dat.append([0,passage.plag_confidence,passage.char_index_start,cp])
         cp+=1
 
-    if uq_conf<THRES:
-        zone=[{'value': uq_conf,
-          'color': 'black'
-          }, {
-             'value': THRES,
-             'color': 'black'
-         }, {'value': 1.0,
-             'color': 'pink'
-             }]
-    elif uq_conf>THRES:
-        zone = [{'value': THRES,
+    plag_cats =[str(passage.plag_spans[0][0]) for passage in all_passages if passage.plag_spans]
+
+    if plag_cats:
+
+        zone=[{
+                 'value': THRES,
                  'color': 'black'
-                 }, {
-                    'value': uq_conf,
-                    'color': 'pink'
-                }, {'value': 1.0,
-                    'color': 'black'
-                    }]
+             }, {'value': 1.0,
+                 'color': 'red'
+                 }]
+
+    else:
+        zone=[{
+                 'value': THRES,
+                 'color': 'black'
+             }, {'value': 1.0,
+                 'color': 'orange'
+                 }]
 
     #values to build boxplot (seenu.andi-rajendran)
     series_box = [{
@@ -261,9 +261,6 @@ def view_doc():
     }
 
 
-
-    plag_cats =[str(passage.plag_spans[0][0]) for passage in all_passages if passage.plag_spans]
-
     return render_template('view_doc.html',
         atom_type = atom_type,
         cluster_method = cluster_method,
@@ -272,7 +269,7 @@ def view_doc():
         features = feature_names,
         doc_name = doc_name,
         chartID='chart', chart=chart, prop=float(100)/float(len(all_passages)),series=series, title=title, categories=categories, yAxis=yAxis, plag_cats=plag_cats, categories2=categories2, series_box=series_box,series_col=series_col,dataSource=json.dumps(dataSource), title2=title2, chart2=chart2,uq_conf=uq_conf,lq_conf=lq_conf, pc90=pc90, modelyn=modelyn)
-    
+
 
 #@app.route('/view_source_doc/<doc_name>', methods=['GET'])
 #def view_source_doc(doc_name):
@@ -284,7 +281,7 @@ def view_source_doc():
     atom_type = 'paragraph'
 
     passages = PlagDetector().get_ground_truth_passages(atom_type, full_path, xml_path)
-    
+
     return render_template('view_source_doc.html',
         passages = passages,
         atom_type = atom_type)
