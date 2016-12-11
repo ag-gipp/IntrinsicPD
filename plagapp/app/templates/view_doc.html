@@ -27,7 +27,6 @@
             .passage{
                 font-size:16px;
             }
-
             .reduce-font b {
                 font-size: 10px
             }
@@ -248,7 +247,6 @@
         plag_cats = {{ plag_cats|safe }};
         $(document).ready(function () {
             var lastClicked;
-
             $('#boxplot').highcharts({
                 chart: {
                     type: 'boxplot',
@@ -260,13 +258,10 @@
                     'width': 200
                 },
                 title: {{title2|safe}},
-
                 xAxis: {
                     categories: {{categories2|safe}}
                 },
-
                 series: {{series_box|safe}},
-
                 yAxis: {
                     title: {
                         text: 'Suspicion Score'
@@ -290,11 +285,9 @@
                         point: {
                             events: {
                                 click: function myFunction() {
-
                                     if (lastClicked !== undefined) {
                                         lastClicked.css("border-style", "none");
                                     }
-
                                     scrllto('pass' + this.c);
                                     $('#pass' + this.c).css("border-style", "inset");
                                     lastClicked = $('#pass' + this.c);
@@ -305,7 +298,5 @@
                 }
             });
         });
-
-
     </script>
 {% endblock content %}
