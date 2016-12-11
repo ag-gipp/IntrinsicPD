@@ -1,0 +1,956 @@
+Retrospektive Untersuchung von Risiko-Melanompatienten unter eineradjuvanten Therapie mit Interferon-α
+
+1. Einleitung 
+1.1. Malignes Melanom
+ 1.1.1. Definition
+Das maligne Melanom ist eine Neoplasie, mit möglicher lymphogener und hämatogener Metastasierung, die vom melanozytären Zellsystem bzw. neuroektodermalen Gewebe ausgeht und sich überwiegend an der Haut manifestiert. Selten kommt das maligne Melanom auch am Auge (Uvea und Retina), an den Meningen oder an Schleimhäuten verschiedener Lokalisationen vor (Vagina, Darmmukosa, Präputium, Nasenschleimhaut). Das Melanom ist meist stark pigmentiert. Die Pigmentierung kann von schwarz über blau, braun, grau, pink, rot und weiß variieren. Wenige Melanome produzieren keine Pigmente, wie das sogenannte amelanotische Melanom (Koch SE et al. 2000). Die klinische Einteilung von Melanom-Subtypen beinhaltet Aussehen, Oberflächenbeschaffenheit, Farbe, Form und Größe. 
+
+1.1.2. Pathogenese / Ätiologie
+Zum Verständnis der Pathogenese wird im Folgenden ein kurzer Blick auf die molekulare Ebene von Melanozyten geworfen. Melanozyten wachsen in keinem Zellverband und bilden auch keine Interzellularbrücken, sogenannten Desmosomen. Sie segregieren nach einer Zellteilung, das heißt die homologen Chromosomen trennen sich in der Meiose und verteilen sich auf die Gameten.
+
+Somit haben die Melanomzellen, durch Transformation aus Melanozyten entstanden, die Möglichkeit, sehr schnell in die Lymphgefäße des oberen Koriums einzubrechen. Dieser Pathomechanismus erklärt die rasche Frühmetastasierung beim MM.
+
+Die Entstehung eines malignen Melanoms kann sich spontan auf völlig normaler Haut oder auf dem Boden eines Nävuszellnävus (nävogenes
+MM)abspielen. Als Hauptrisikofaktoren gelten das Vorhandensein von > 5 atypischen Naevi sowie das Vorkommen aktinischer Lentigines und ein lichtempfindlicher Hauttyp (Typ I+II), (Garbe C et al. 1994).
+
+In der Kindheit und im Adoleszenzalter sind melanozytäre Nävi nach häufiger und intensiver intermittierender Sonnenstrahlung mit fördernden Sonnenbränden als Indikator assoziiert (Garbe C et al. 1994).
+
+
+Die unterschiedlichen genetisch bedingten Hauttypen haben ebenso einen wichtigen Einfluss in der Ätiologie des Melanoms. Die lichtempfindliche Haut der Typen I und II reagiert schneller und intensiver auf Sonneneinstrahlung als die Haut von Individuen mit dunklem Hauttyp (Garbe C et al. 1994, Holly EA et al. 1995, Marghoob AA et al. 1995).
+
+
+Darüber hinaus gibt es ein familiär gehäuftes Auftreten von malignen Melanomen. Das FAMMM-Syndrom (familial atypical multiple mole melanoma syndrome), als besonderes Krankheitsbild kann in seiner klinischen Penetranz sehr variabel sein und ist mit einem stark erhöhten Risiko, an einem Melanom zu erkranken, verbunden (Czajkowski R et al. 2004). Das Syndrom geht auch vermehrt mit anderen systemischen Karzinomen wie Pankreas-Karzinom, Lungen-Karzinom oder Larynx- Karzinom einher (Lynch HT et al. 1981). Neben vielen polygenen Erbfaktoren spielen auch exogene Einflüsse eine sehr wichtige Rolle.
+
+
+Wichtigster Risikofaktor ist die UV-Lichtexposition, besonders im Kindesalter. Eine Studie zeigte, dass eine Vermeidung der Sonne in den frühen Jahren zu einem erheblich geringeren Melanomrisiko führt (Autier P et al. 1998). Somit kommt der UV-Strahlung als akut-intermittierender Exposition bei der Melanomentstehung ein bedeutenderer Einfluss zu als der chronisch-kumulativen Exposition (Berking C et al. 2005).
+
+
+Die Haarfarbe eines Individuums als Risikofaktor wird kontrovers diskutiert. Hier spielt der Rezeptor Melanocortin-1 eine wichtige Rolle. Er ist mit roten
+bzw. blonden Haaren und heller Haut assoziiert, somit besitzen diese Personen eine erhöhte Sensitivität gegenüber Sonnenlicht und entwickeln häufiger ein malignes Melanom (Rees JL et al. 2000), (Box NF et al. 2001).
+
+Personen mit hellbraunen, blonden oder roten Haaren hatten ein 1,49-, 1,84- und 2,38-faches Risiko, ein MM zu bekommen im Vergleich zu Personen mit dunkler Haarfarbe. Individuen mit blauen Augen hatten ein 1,55-fach höheres Risiko als Individuen mit brauner Augenfarbe (Bliss JM et al. 1995). Andere Studien beschreiben die Haarfarbe als keinen oder nur sehr geringen Risikofaktor für das Entstehen des Melanoms (Kaskel P et al. 2001, Loria D et al. 2001).
+
+ 1.1.3. Epidemiologie
+ 1.1.3.1. Inzidenz und Mortalität
+Das maligne Melanom kommt vorwiegend bei Menschen weißer Rasse vor. Die Inzidenz ist hier 10- bis 100-fach höher als bei Afrikanern oder Asiaten. Bei der weißen Bevölkerung wurden in Regionen mit starker Sonnenstrahlung (Australien, Südstaaten der USA) Inzidenzen von 30-50 Melanomneuerkrankungen je 100.000 Einwohner und Jahr registriert. Dieser Befund weist auf die mögliche Bedeutung des geringeren Pigmentschutzes in der Pathogenese des Melanoms bei Menschen mit Hauttyp I-III hin (Garbe et al. 1989). Das Risiko, an einem Melanom zu erkranken, ist bei Auswanderern nach Australien geringer als das der in Australien geborenen weißen Bevölkerung (McCredie et al. 1994).
+
+Bei europäischen Auswanderern wurde eine ähnlich hohe Inzidenz des malignen Melanoms beobachtet wie in ihrem Ursprungsland. Bei Immigranten aus Großbritannien, die als Jugendliche nach Australien ausgewandert sind, zeigte sich eine Sterblichkeit am malignen Melanom, die dem der in Neuseeland geborenen Bevölkerung entsprach (Cooke KR et al. 1985). Sowohl das Alter der Auswanderer nach Australien als auch
+die Dauer des Aufenthaltes haben eine Bedeutung für die Inzidenz des Melanoms (Khlat M et al. 1992).
+
+In Deutschland erkranken durchschnittlich 12-16 Menschen/100.000 Einwohner/Jahr. Die Inzidenz verdoppelt sich derzeit alle 10-15 Jahre, und 90% aller durch Hauttumoren bedingten Todesfälle werden durch das maligne Melanom verursacht. Das unterstreicht den vorrangigen Stellenwert des malignen Melanoms in der onkologischen Dermatologie neben Plattenepithelkarzinomen der Haut, Merkelzellkarzinomen und malignen Adnextumoren.
+
+
+Auch die Mortalitätsrate stieg zwischen 1970 und 1995 bei den deutschen Männern von 1,7 auf 3,2 Todesfälle/100.000 Einwohner und Jahr und bei den deutschen Frauen von 1,6 auf 2,0 Todesfälle/100.000 Einwohner und Jahr an (Garbe C et al. 2001).
+
+
+Die heutige Aufklärung der Bevölkerung führt zur Diagnose von zunehmend dünneren Tumoren (< 0,75 statt 1,3 mm) und weniger invasiven Tumoren mit besserer Prognose (Garbe C et al. 2001, Hall HI et al. 1999).
+
+ 1.1.3.2. Geschlechts-/Altersverteilung
+Die Geschlechtsverteilung änderte sich mit der Zeit. Im Vergleich zu den 70er Jahren, in denen 2/3 aller deutschen Melanompatienten Frauen waren, ist heute die Verteilung mit einem über 45%igen Anteil an Männern ausgeglichener (Garbe C et al. 2001, Crombie IK et al. 1979).
+
+Die Altersverteilung ist fast gleich geblieben. Obwohl Melanome in jedem Alter auftreten können, sind sie bei Kindern sehr selten (0,8 Fälle / 1.000.000 Einwohner) und entwickeln sich meistens auf dem Boden kongenitaler Nävuszellnävi (Ceballos PI et al. 1995). Die meisten Melanome entstehen zwischen dem 30. und 70. Lebensjahr. Während das Durchschnittsalter beim nodulären malignen Melanom bei 55 Jahren und das Durchschnittsalter beim superfiziell spreitenden Melanom bei 51
+Jahren liegt, tritt das Lentigo-maligna-Melanom mit einem Durchschnittsalter von 68 Jahren bevorzugt später auf (nach dem 60. Lebensjahr). 
+
+1.1.3.3. Risikofaktoren
+Ca. 5% der Melanompatienten haben eine positive Familienanamnese mit einem oder mehreren ebenfalls betroffenen Familienmitgliedern. In diesen Fällen kann bei etwa 25% eine Mutation im Gen p16/CDKN2A nachgewiesen werden, das auf Chromosom 9 lokalisiert ist und im Zellzyklus als Tumorsuppressor-Gen wirkt. Mitglieder von Melanomfamilien, die Träger dieser Mutation sind, zeigten in den USA bis zum 60. Lebensjahr ein Risiko von 60%, an einem malignen Melanom zu erkranken. Sie liegen damit deutlich über dem vergleichbaren Risiko von Individuen, die nicht Träger dieser Genmutation sind (MacKie RM et al. 2002). Das Risiko für die Entwicklung eines zweiten Melanoms erhöht sich bei Patienten mit Melanomen in der Vorgeschichte (Craig LS et al. 1993) (Tabelle 1).
+
+Der Einfluss von UV-Licht auf die Entwicklung von malignen Melanomen bei hellhäutigen Personen ist letztlich nicht eindeutig geklärt. Aufgrund der vorliegenden epidemiologischen Studien scheinen vor allem die Intensität der Sonnenexposition in Kindheit und Adoleszenz sowie das Auftreten von Sonnenbränden im frühen Lebensalter die wesentlichen Risikofaktoren für die Entstehung von malignen Melanomen in Bezug auf UV-Licht zu sein.
+
+
+RF = Risikofaktoren, ↓ = sinkendes Risiko, ↑ = hohes Risiko der Melanomentstehung ,
++ = leichtes Risiko, ++ = mittleres Risiko, +++ = starkes Risiko,UV = ultraviolett, FAMMM = familial atypical multiple mole melanoma Tabelle 1. Risikofaktoren der Melanomentstehung
+Die kumulative Strahlendosis konnte hingegen als Risikofaktor für die Entstehung kutaner maligner Melanome nicht in allen Studien bestätigt werden, scheint aber für die Gruppe der Lentigo-maligna-Melanome von Bedeutung zu sein (Garbe C et al. 1992, Österlind A et al. 1988, Weinstock MA et al. 1989). 1.1.4. Klinik und Typeinteilung
+Die Diagnose eines malignen Melanoms lässt sich in der Regel häufig von einem erfahrenen Dermatologen einfach klinisch feststellen.
+
+Wegweisend sind dabei die klinischen Zeichen, die 1985 von Friedmann et al. In der sogenannten ABCD(E)-Regel zusammengefasst wurden (E=Erhabenheit) (Abbildung 1, Tabelle 2 und 3).
+
+
+Abbildung 1. ABCD-Regel: Stichwortartige Kriterien für die klinische Diagnose maligner Melanome
+E Erhabenheit
+F Farbänderung in den vergangenen Monaten
+G Größenzunahme
+H Hämorrhagien
+J Juckreiz
+Tabelle 2. Weitere Kriterien für die klinische Diagnose des malignen MelanomsSind mehrere dieser Kriterien erfüllt, muss der Verdacht auf ein malignes Melanom geäußert werden. Die endgültige Diagnose wird histologisch gestellt als Folge einer Exzision mit einem Sicherheitsabstand von mindestens 1 cm.
+
+Typen
+AbkürzungProzentualerMedianes  AnteilAlterSuperfiziell spreitendesSSM 57 %
+ 51 Jahre
+ Melanom
+    Noduläres Melanom
+ NM
+ 21 %
+ 56 Jahre
+ Lentigo-maligna-Melanom
+ LMM
+ 9 %
+ 68 Jahre
+ Akrolentiginöses Melanom
+ALM 4 %
+ 63 Jahre
+Tabelle 3. Nach Clark werden beim malignen Melanom klinisch und histologisch vier Typen unterschieden (Clark W et al. 1969). (Daten des Zentralregisters Malignes Melanom der Deutschen Dermatologischen Gesellschaft in den Jahren 1983-1993)Subtypen Differenzialdiagnosen SSM Junktionsnävus, Verruca seborrhoica, pigmentiertes Basaliom
+NM Pigmentiertes Basaliom, Histiozytom, thrombosiertes Angiom, Granuloma pyogenicumALM Posttraumatische Blutung, Schmutzpigmentierung, Kaposi- Sarkom, Plattenepithelkarzinom, Plantarwarzen, Ekkrines Porom, Granuloma pyogenicumLLM Lentigo senilis und simplex, plane Verruca seborrhoica, plane aktinische KeratoseTabelle 4. Differenzialdiagnosen zu den Subtypen des malignen MelanomsSuperfiziell spreitendes malignes Melanom – SSMDas superfiziell spreitende maligne Melanom weist primär ein horizontales Wachstumsmuster auf. Es imponiert als flacher münzförmiger Herd mit unterschiedlichen Farbtönen (von rot über braun bis schwarz) und oft polyzyklischer Begrenzung. Bei weiterer Progression kommt es häufig zu weißen Regressionszonen. Es tritt bevorzugt am Rücken, an der Brust und den Extremitäten auf. Das mittlere Erkrankungsalter liegt bei 51 Jahren. Die Anamnese beträgt in der Regel 3 bis 5 Jahre. Histopathologisch ist es durch eine Akanthose der Epidermis und eine intraepidermale Aussaat von pagetoiden, atypischen Melanozyten (einzeln oder zu Nestern aggregiert) gekennzeichnet. Die Veränderungen sind zum Rand hin meist unscharf begrenzt. Bei weiterer Progression kommt es zur Infiltration der Dermis und zum Auftreten von Knoten.
+
+Noduläres malignes Melanom – NMM
+Das NMM entwickelt sich relativ rasch innerhalb von Monaten oder wenigen Jahren. Es ist durch ein vornehmlich vertikales Wachstum gekennzeichnet, welches sich klinisch als ein meist scharf begrenzter, rot- bis braunschwarzer knotiger Tumor manifestiert. Im Gegensatz zum SSM sind die ABCD(E)-Regeln vielfach nicht erfüllt. Die makroskopischen Aspekte finden sich histologisch in einem kompakten, knotig vertikalen Wachstum mit scharfer seitlicher Begrenzung wieder. Es finden sich epitheloide und/oder spindelzellige atypische Melanozyten. Daneben weisen eine relativ große Anzahl von Mitosen, eine starke Vaskularisierung und die fehlende „Reifung“ der Zellen zur Tiefe auf ein aggressives Wachstumsverhalten hin.
+
+Lentigo-maligna-Melanom – LMM
+Das LMM entwickelt sich auf dem Boden einer oft schon Jahre bis Jahrzehnte bestehenden melanotischen Präkanzerose, der Lentigomaligna. Es findet sich überwiegend bei älteren Menschen (mittleres Alter: 68 Jahre) in sonnenexponierter und lichtgeschädigter Haut (Gesicht, Hals, Hände, Arme, Unterschenkel). Das LMM stellt sich klinisch als planer, meist relativ großer (2-6 cm) Herd dar, dessen Farbe von hell- bis dun- kelbraun und schwarz, von weiß-grau (Regressionsareale) bis blau–grau variiert. Dazwischen finden sich dunkelbraune bis schwarze Knötchen mit invasivem, vertikalem Wachstum. Histopathologisch findet man im Bereich der planen Tumorareale in den Basalschichten Nester atypischer, meist spindelförmiger Melanozyten, die entlang der Hautadnexe auch in die Tiefe wachsen können. In den knotigen Arealen dehnen sich die malignen Zellen vertikal in beide Richtungen aus. Die Haut ist als Zeichen der aktinischen Schädigung durch ausgeprägte aktinische Elastose gekennzeichnet.
+
+Akrolentiginöses malignes Melanom – AMM
+Das AMM befindet sich primär im Bereich der Palmae, Plantae oder gelegentlich der Schleimhäute. Das mittlere Erkrankungsalter liegt bei 63 Jahren. Bei dunkelhäutigen oder orientalischen Völkern ist es der häufigste Melanomtyp (Ridgeway CA et al. 1995), wohingegen es in der hellhäutigen Bevölkerung mit einem Anteil von 5% eher zu den selteneren Melanomtypen zählt. Typisch ist eine plane, zum Teil unscharf begrenzte, hellbraune bis schwarze Makula, auf der sich zentral oft pigmentierte, aber auch amelanotische Knoten entwickeln können. Im Bereich des Nagelbettes kann das AMM zunächst als subunguale Verfärbung imponieren oder durch Nagelwachstumsstörungen auffallen. Histologisch ist es durch eine verbreiterte Epidermis mit kompakter Hornschicht charakterisiert, die von einzelnen oder in unregelmäßigen Nestern angeordneten atypischen dendritischen Melanozyten durchsetzt ist. Häufig reichen die atypischen Melanozyten bis in die Schweißdrüsen- ausführungsgänge. 1.1.5. Stadieneinteilung
+Nach der histologischen Untersuchung des Primarius und der Ausbreitungsdiagnostik kann das maligne Melanom einem Stadium zugeordnet werden, welches die nachfolgende Therapie bestimmt.
+
+Die pT-Klassen werden gemäß der vertikalen Tumordicke nach Breslow (Breslow A et al. 1970) festgelegt, nur bei fehlender Angabe der Tumordicke wird der Invasionslevel nach Clark (Clark W et al. 1969) in Anlehnung an die TNM-Klassifikation herangezogen. Bei Diskrepanz zwischen Tumordicke und Clark-Level richtet sich die pT-Kategorie nach dem jeweils ungünstigeren Befund. (Tabelle 5 und 6)
+pT = Primärtumor, CIS = carcinoma in situ, 10-JÜR = 10-Jahres-Überlebensrate Tabelle 5. Vertikale Tumordicke nach Breslow (Breslow A et al. 1970)
+ Level I
+ die Melanomzellen befinden sich nur in der Epidermis
+ Level II
+ die Basalmembran ist durchbrochen, die papillare Dermis
+ wird infiltriert
+  Level III
+ Tumorzellen erfüllen die gesamte papillare Dermis
+ Level IV
+ Melanomzellen dringen in die retikuläre Dermis ein
+ Level V
+ die Tumorinfiltration reicht bis in die Subkutis
+Tabelle 6. Clark-Level entsprechend der Eindringtiefe des Melanoms (Clark W et al. 1969)In-Transit-Metastasen sind Metastasen der Haut oder Schleimhaut, die mehr als 2 cm vom Primärtumor entfernt sind, aber nicht jenseits der regionären Lymphknoten liegen. Seit 2002 wird von der AJCC eine neue Klassifikation mit Kriterien verwendet, welche die individuellen prognostischen Faktoren der einzelnen Patienten besser berücksichtigen sollen.
+
+Tabelle 8. Stadieneinteilung des kutanen malignen Melanoms (UICC/AJCC 2002) mit 10-JÜR
+(Die pT-Klassen werden nach den vertikalen Tumordicken nach Breslow festgelegt, nur bei fehlender Tumordickenangabe wird der Invasionslevel nach Clark in Anlehnung an die TNM-Klassifikation (UICC 1997) herangezogen. Satellitenmetastasen werden als pTa und In-Transit-Metastasen als pTb bezeichnet. Prognoseangaben aufgrund einer multizentrischen Studie [69];UICC = Union Internationale Contre le Cancer;AJCC = American Joint Committee on Cancer; 10JÜR = 10-Jahresüberlebensrate; TNM = Tumor / Nodulus / Metastase – Klassifikation)Tabelle 8. Stadieneinteilung des kutanen malignen Melanoms (UICC/AJCC 2002) mit 10-JÜRDie Haupteinteilung des malignen Melanoms erfolgt nach vertikalem Tumordurchmesser (Breslow) und Ulzerationsgrad in der T-Klassifikation, die Eindringtiefe des Tumors in das Gewebe (Clark-Level) wird vernachlässigt. Die Anzahl der befallenen Lymphknoten und das Verhältnis von makroskopisch befallenen zu mikroskopisch metastasierten Lymphknoten sowie eine Präsenz von Ulzerationen des Primarius werden in der N-Klassifikation beachtet. Ein Anstieg der Serum-LDH-Werte wird in der M-Klassifizierung miteinbezogen. Patienten mit einem Melanom Stadium I, II und III werden einem höheren Stadium zugeordnet, wenn der Primarius ulzeriert ist. Befinden sich neben dem Primarius Satellitenmetastasen oder In-Transit-Metastasen, wird der Patient in das Stadium III eingeteilt. 1.1.6. Diagnostik des malignen Melanoms
+Die Diagnosesicherung erfolgt mittels Klinik und histologischer Sicherung. Auflichtmikroskopie, fotografische Analyse und hochauflösende Sonographie können ergänzend eingesetzt werden. 1.1.6.1. Klinik
+Maligne Melanome zeigen in den meisten Fällen vergleichbare morphologische Eigenschaften: Ihre Kontur ist unregelmäßig polyzyklisch durch das unterschiedlich schnelle Wachstum in verschiedene Richtungen. Die Begrenzung des Melanoms ist teils scharf, bedingt durch oberflächliche Tumornester, und teils unscharf durch tiefer gelegene Tumornester. Die Melanomfarbe erstreckt sich von braun, schwarz, blau- grau über normal pigmentierte Haut bis hin zu weißlichen und roten Farbtönen. Ursächlich sind hier z.B. eine wechselnd starkeMelaninproduktion, Entzündungen, Vaskularisationen oder Depigmentierung durch fokale Rückbildung des Tumors. Die Oberflächenstruktur des malignen Melanoms ist unregelmäßig. Es kann flach, erhaben oder atrophisch sein und in späteren Stadien Sekundärveränderungen wie Ulzerationen, Schuppen, Erosionen oder Krusten aufweisen (Fritsch P et al. 1998). Abbildung 2. Malignes Melanom
+
+ 1.1.6.2. Auflichtmikroskopie
+Bei dieser Methode wird eine Lupe bzw. ein Stereomikroskop mit einem Immersionsölfilm auf die Haut aufgesetzt. Diese wird durch eine interne Lichtquelle beleuchtet. Abbildung 3. Auflichtmikroskopische Untersuchung
+Abbildung 4. Auflichtmikroskopische Untersuchung und DokumentationDurch den Immersionsölfilm wird die Reflexion des Lichtes an der Hautoberfläche stark herabgesetzt. Es ist daher möglich, Strukturen von der Epidermis bis in die papilläre Dermis zu analysieren (Pehamberger H et al. 1987), (Steiner A et al. 1987). 1.1.6.3. Hochauflösende Ultraschalldiagnostik
+Mit 20-100-MHz–Sonden wird die Tumordicke bestimmt. In der Regel weist die präoperative Messung eine etwas größere Tumordicke auf als die Vermessung am histologischen Präparat, das durch Fixierung und Einbettung um mindestens 10% schrumpft. Ein subtumorales, entzündliches Infiltrat kann aber auch eine größere Tumordicke vortäuschen. Manchmal entgehen aber auch kleine subtumorale Tumornester der sonographischen Detektion, so dass präoperativ eine zu geringe Tumordicke bestimmt wird (Dummer W et al. 1995). Abbildung 5. Malignes Melanom der Aderhaut
+
+ 1.1.6.4. Exzision und Histologie
+Bei klinisch eindeutigem Befund wird die Probebiopsie mit einem Sicherheitsabstand von 1 cm in gesunder Haut in Lokal- oder Leitungsanästhesie durchgeführt. Die Biopsie führt mittels histologischer Paraffinschnittuntersuchung in über 90% der Fälle zu einer klaren Diagnose. Handelt es sich um histologisch unklare Tumoren oder vermutet man Melanommetastasen, so dient die immunophänotypische Charakterisierung (S-100, HMB-45-Antigen) der Entscheidung (Kaufmann R et al. 1998). Abbildung 6. Histologie des malignen Melanoms
+
+ 1.1.7. Immunologie
+Melanome sind von einem entzündlichen Infiltrat umgeben, das Ähnlichkeit mit dem einer Transplantatabstoßung besitzt. Es gibt jedoch keine Zerstörung des Tumors durch dieses Infiltrat, da er mit aktiven „Escape–Mechanismen“ ausgestattet ist (Fritsch P et al. 1998):‐Herabregulierung der MHC–I durch das c-myc-Onkogen. Hierdurch geht die Zielstruktur für zytotoxische Lymphozyten verloren, die Interaktion unterbleibt. IFN-α und IFN-Gamma können die MHC-I-Expression wieder herstellen.
+
+‐Expression des Adhäsionsmoleküls ICAM I auf den Zellen und Produktion löslicher ICAMs I durch die Melanomzellen (induziert durch IFN-Gamma und IFN-α seitens der Entzündungszellen). Hierdurch wird die Bindung zytotoxischer T-Lymphozyten an den Tumorzellen nach dem Konkurrenz- prinzip behindert.
+
+‐Unterlaufen der Immunabwehr durch Antigenheterogenität der Melanomzellen. Diese führt durch immunologische Selektion zum Auswachsen und Metastasieren antigenveränderter Klone. Tumorinfiltrierende Lymphozyten aus dem Primärmelanom können demnach kultivierte Tumorzellen aus diesem selbst, nicht aber solche aus Antigen-veränderten Metastasen abtöten.
+
+‐Induktion einer spezifischen Toleranz in CD4-Lymphozyten durch Expression von MHC II ohne gleichzeitige Expression des kostimulatorischen Signals (B7).
+
+ 1.1.8. Ausbreitungsdiagnostik
+Nach der Exzisionsbiopsie und Histologie ist vor der Festlegung des therapeutischen Vorgehens eine eingehende Ausbreitungsdiagnostik erforderlich, da das Melanom in jedes Organ und Gewebe metastasieren kann. Es kann dabei zu folgenden Metastasen kommen: Satellitenmetastasen, In–Transit–Metastasen, Metastasen in den ableitenden oder sekundären Lymphknoten und Fernmetastasen, welche sich zumeist in Haut und Subkutis, Leber, Lunge, Knochen oder Cerebrum finden (Balch CM et al. 1983).
+
+Durch das Auftreten von Metastasen verschlechtert sich die Prognose erheblich (siehe Kapitel 1.1.10.). Die Ergebnisse der Ausbreitungsdiagnostik sind daher für das weitere Vorgehen besonders wichtig.
+
+
+Folgende Untersuchungen werden in Rahmen einer Durchuntersuchung angewendet (Shiver RT et al. 1998):
+‐Blutuntersuchung (Blutbild und Differenzialblutbild, Blutkörperchen- senkungsgeschwindigkeit, GOT, GPT, Gamma-GT, LDH, Kreatinin, Harnstoff)‐Körperliche Untersuchung einschließlich Palpation der ableitenden Lymphwege und der Lymphknotenstationen ‐Lymphknotensonographie
+ ‐Oberbauchsonographie
+ ‐Röntgen Thorax in 2 Ebenen
+ ‐Abdomen-CT
+ ‐Schädel-MRT
+ ‐Knochenszintigramm
+ ‐PET
+Abbildung 7. Schematische Darstellung eines PET und seines MessprinzipsAbbildung 8. Untersuchungsprinzip - Molekulare Bildgebung mittels PET/CT bei metastasiertem malignen Melanom 1.1.8.1. Sentinel Lymphnode Dissection (SLND)
+Die „Sentinel Node Biopsy“ hat sich Mitte der 80er Jahre als zusätzliche Untersuchung im Rahmen der Ausbreitungsdiagnostik etabliert. Der erste Lymphknoten im Abstromgebiet des Melanoms wird markiert und exzidiert. Die histologische und immunhistologische Aufarbeitung in 4 µm dünnen Schnitten soll Mikrometastasen aufdecken. Der drainierende Lymphknoten kann folgendermaßen dargestellt werden:1.Präoperativ erfolgt eine Lymphabflussszintigraphie. Die ersten sich radioaktiv darstellenden Lymphknoten werden in Projektion auf die Haut markiert.
+
+2.Vor Beginn der Operation wird Patentblau um die Primärnarbe s. c. injiziert. Innerhalb von ca. 10 Minuten kommt es zur Anfärbung des ersten drainierenden Lymphknotens.
+
+
+3.Die Lokalisation des drainierenden Lymphknotens wird zusätzlich intraoperativ mit einer Gammasonde bestätigt und auch am exzidierten Präparat noch einmal bestimmt.
+
+
+Es finden sich in bis zu 20% der Fälle „positive“ Lymphknoten (mit mikrometastatischen Tumornestern). Ein Lymphknotensprung mit Befall des 2. oder 3. Lymphknotens ohne Befall des 1. Lymphknotens erfolgt bei weniger als 2% der Melanompatienten (Buchels HK et al. 1998). Bei „positivem“ Lymphknoten wird die vollständige Lymphadenektomie angestrebt.
+
+ 1.1.8.2. Elektive Lymphknotendissektion (ELND)
+Die ELND wurde 1992 von Morton et al. zum ersten Mal in der Diagnostik des malignen Melanoms eingesetzt. Man ging davon aus, dass Melanomzellen vor einer allgemeinen Disseminierung zunächst in die regionären Lymphknoten metastasieren. Anhand von Mikrometastasen sollte eine Lymphknotenbeteiligung möglichst frühzeitig erkannt werden. Trotz einer negativen ELND kann es jedoch in 15-20% der Fälle zu unerwarteten Metastasen kommen. Der Nutzen der ELND bei Melanompatienten ohne klinischen Verdacht auf Metastasierung ist als nicht gesichert anzusehen (Wussow P et al. 1986). Die weniger invasive und damit risikoärmere SLND sollte der ELND vorgezogen werden (Gibbs P et al. 2001). 1.1.9. Tumormarker
+Tumormarker sind Moleküle, die von Tumorzellen selbst oder von nicht- malignen Zellen synthetisiert werden und im Blut oder anderen Körperflüssigkeiten nachweisbar sind. Für den klinischen Alltag sollte ein kommerziell erhältliches, standardisiertes, einfaches und reproduzierbares Testsystem zur Verfügung stehen.
+
+Es handelt sich meistens um Proteine, seltener um Kohlenhydrate oder Lipide, die erstens zell- oder gewebsständig sind und zweitens entweder aktiv in den Interzellularraum abgegeben werden oder passiv nach Zerfall der Zelle in diesen gelangen. Jeder Tumormarker soll spezifisch für seinen Tumor sein, und er sollte bei gesunden Menschen bzw. Patienten mit anderen Erkrankungen oder Tumoren nicht oder nur in geringerem Maße vorhanden sein.
+
+
+Zur Beurteilung der Validität des Tumormarkers bzw. seiner Sensitivität muss der Tumormarker mit einer hohen Wahrscheinlichkeit den Tumor erkennen können.
+
+
+Ein idealer Tumormarker korreliert mit der Tumorlast des Patienten. Somit würde unter einer Therapie ein Spiegelabfall einer partiellen oder kompletten Remission entsprechen. Spiegelpersistenz kann mit Konstanz der Tumormasse und steigende Werte können mit Progression der Erkrankung gleichgesetzt werden.
+
+
+Ein Tumormarker besitzt eine unabhängige prognostische Aussagekraft, die bei einem Patienten mit erhöhtem Risiko die Erkennung eines Rezidivs oder einer Metastasierung und eine rechtzeitige Behandlung mit verschiedenen Therapieschemata ermöglicht.
+
+
+Somit sollen bei den Nachsorge-Untersuchungen, Verlaufskontrollen und beim Therapiescreening der Patienten mit malignen Hauterkrankungen die Tumormarker ergänzende Informationen liefern.
+
+
+Seit Jahren sind viele Arbeitsgruppen damit beschäftigt, Tumormarker für das maligne Melanom zu etablieren. Es wurden zum einen Tumormarker untersucht, die nicht Zelltyp- bzw. Gewebe-spezifisch sind, und zum anderen Proteine, die eine andere Zelltyp- bzw. Gewebespezifität aufweisen.
+ Zu der ersten Gruppe gehören unter anderem:
+•Proangiogenetische Faktoren wie VEGF (vascular endothelial growth factor), bFGF (basic fibroblast growth factor) und Interleukin-8. Sie spielen in der Neovaskularisation von gutartigem Gewebe sowie Tumorzellverbänden eine Rolle und werden in Tumorzellen aufgrund der starken Wachstumskapazität in größerer Menge produziert.
+
+•Adhäsionsmoleküle wie slCAM (soluble intracellular adhesion molecule 1) und sVCAM (soluble vascular cell adhesion molecule 1). Sie kommen sowohl auf Tumorzellen als auch auf gutartigen Zelltypen vor und dienen zum einen der Anheftung an umgebende Strukturen, zum anderen sind sie für die Migration und Metastasierung von Tumorzellen von Bedeutung.
+
+
+•HLA-Moleküle wie HLA-DR und soluble HLA Klasse I. Als humane Leukozytenantigene dienen sie der Präsentation und Erkennung fremder, zum Beispiel viraler oder maligner Strukturen auf der Oberfläche verschiedener benigner und maliger Zellen durch das Immunsystem.
+
+
+•Zytokine und Zytokinrezeptoren wie Interleukin-6, Interleukin-8, Interleukin-10 und soluble Interleukin-2-Rezeptoren. Sie werden als Botenstoffe des Immunsystems sowohl von benignen als auch malignen Zelltypen exprimiert.
+
+
+•Sonstige Moleküle wie LDH (Laktatdehydrogenase) oder C- reaktives Protein. Sie sind mit tumorspezifischen Stoffwechselfunktionen oder entzündlichen Vorgängen im Rahmen einer Tumorerkrankung assoziiert.
+ Zu der Gruppe der Zelltyp- bzw. Gewebe-spezifischen Tumormarker gehören:
+•Differenzierungsantigene: Sie werden im Rahmen der Differenzierung eines Zelltyps exprimiert und kommen in der Regel in gutartigen wie auch in bösartigen Zellen eines Typs vor. Vertreter sind Enzyme des Melaninstoffwechsels wie 5-S-Cysteinyldopa, L- Dopa/L-Tyrosin, 6-Hydroxy-5-Methoxyindol-2-Carboxylsäure sowieS100-Beta (löslich in 100% Ammoniumsulfat), MART-1 (melanoma antigen recognised by T cells) und MIA (melanoma inhibitory activity), wobei letztere vornehmlich von malignen Melanomzellen produziert werden.
+
+•Tumorassoziierte Antigene wie NSE (Neuronenspezifische Enolase), LASA-P (Lipid-bound sialic acid) und TA90- Immunkomplex (90-kd tumor-associated antigen immune complex) werden im Rahmen verschiedener Tumoren vermehrt exprimiert.
+
+
+Es gibt zur Zeit keine geeigneten Tumormarker zum Screening oder zur Diagnostik von Primärmelanomen, die nur eine geringe Tumorlast aufweisen, da alle bislang untersuchten Tumormarker in ihrer Serumkonzentration stark mit der Tumorlast korrelieren.
+
+
+Erkrankungsrezidive bzw. Progression im Rahmen der Verlaufskontrolle bei klinisch tumorfreien Patienten sollen möglichst früh erkannt werden.
+
+
+Für das Therapiemonitoring bei bereits metastasierten Patienten eignen sich die derzeit auch verfügbaren Tumormarker. Für postoperativ tumorfreie Patienten, die keine oder geringe Tumorlast aufweisen, gibt es dagegen momentan keine geeigneten Serummarker, um den Erfolg einer adjuvanten Therapie überprüfen zu können.
+
+
+Für die prognostische Einschätzung der Gesamtüberlebens- wahrscheinlichkeit bzw. des progressionsfreien Intervalls gilt das Gleiche: Nur bei bereits metastasierten Melanompatienten, nicht jedoch bei der großen Gruppe der tumorfreien Melanompatienten, können Serummarker als prognostische Indikatoren angewendet werden, da die Überlebensprognose stark mit der Tumorlast korreliert und diese wiederum erst ab einer bestimmten Größe von den momentan verfügbaren Tumormarkern angezeigt wird (Brochez L et al. 2000, Ugurel S 2005).
+
+ 1.1.10. Therapie
+Die Therapie des malignen Melanoms richtet sich nach dem jeweils vorliegenden Tumorstadium (Bröcker EB et al. 1989). 1.1.10.1. Exzision
+Die frühzeitige Exzision des malignen Melanoms stellt die wirksamste Behandlungsmaßnahme zur Vermeidung einer Progression der Erkrankung dar. Bei klinisch eindeutiger Diagnose eines malignen Melanoms wird zur primären Versorgung eine eindeutige Totalexzision mit adäquatem Sicherheitsabstand empfohlen. Von der Kommission “Malignes Melanom der Deutschen Dermatologischen Gesellschaft“ werden folgende Empfehlungen für die Exzision primärer maligner Melanome gegeben: In- situ-Melanome sollen mit einem Sicherheitsabstand von 0,5 cm, Melanome >1 mm Tumordicke mit 1 cm Sicherheitsabstand und maligne Melanome mit einer Tumordicke von mehr als 4 mm mit einem Sicherheitsabstand von 2 cm exzidiert werden.
+
+Kann ein Melanom klinisch nicht mit Sicherheit diagnostiziert werden, sollte zunächst eine operative Entfernung in toto ohne Sicherheitsabstand erfolgen. Bei histologischer Bestätigung des Melanomverdachts ist eine Nachexzision (zweizeitige Exzision) mit dem für die Tumordicke nötigen Sicherheitsabstand zu veranlassen. Die Nachexzision sollte so früh wie möglich, spätestens aber 4 Wochen nach dem ersten Eingriff durchgeführt werden. Im Allgemeinen wird für diese operativen Eingriffe die Lokalanästhesie, seltener eine Intubationsnarkose oder eine Leitungsanästhesie gewählt. Der Wundverschluss erfolgt als Primärverschluss oder wird mittels Verschiebelappenplastik oder Deckung mit Spalthaut- oder Vollhauttransplantat vorgenommen.
+
+
+Liegt das primäre Melanom z.B. in der Nähe des Auges oder Ohres, wird der Sicherheitsabstand unter größtmöglicher Einhaltung anatomischer Strukturen adaptiert. Melanome, die histologisch als LMM-Typ verifiziert
+werden, können bei inoperabler Tumorgröße oder in Rücksicht auf Alter und Morbidität des Patienten der Radiatio zugeführt werden. Das LMM zeigt auf die Bestrahlung ein gutes Ansprechen. Bei subungualen Melanomen oder Melanomen an den Fingern oder Zehen hat man die Entfernung der Endphalangen oder des gesamten Strahls zurückgestellt. Ebenso kann bei einem malignen Melanom im Bereich des Gesichtes der Kompromiss eines verminderten Sicherheitsabstandes in Betracht gezogen werden.
+
+Eine Entfernung des malignen Melanoms mit CO2-Lasertherapie oder mit Kontaktkryotherapie ermöglicht keine exakte histologische Aufarbeitung und wird daher in der Regel abgelehnt.
+
+ 1.1.10.2. Hypertherme Extremitätenperfusion
+Treten vermehrt Satellitenmetastasen oder multiple In–Transit–Metastasen an den Extremitäten auf, so besteht eine Indikation für die hypertherme Extremitätenperfusion. Die betroffene Extremität wird bei dieser Methode einmal oder mehrfach mit hohen Dosen eines Zytostatikums perfundiert und die Stoffwechselaktivität der Zellen durch Erwärmung der Extremität auf eine Temperatur von 39°-42° erhöht. Das Verfahren setzt das Anlegen eines extrakorporalen Kreislaufs für diese Extremität voraus. Operativ werden die Hauptarterie und die Hauptvene der Extremität mit einer Herz– Lungen–Maschine verbunden. Es können höhere Konzentrationen der Zytostatika wie z.B. Melphalan, Cisplatin oder Vincristin verwendet werden als bei systemischer Behandlung möglich wären, da die systemische Belastung verringert wird. Der Einsatz der hyperthermen Extremitätenperfusion führt in 50–80 % zu einer vollständigen Remission (CR). Als mögliche Nebenwirkungen sind arterielle und venöse Schäden, persistierende Durchblutungsstörungen, Ödeme oder Schmerzen zu beachten. 
+
+1.1.10.3. Adjuvante Therapie
+Eine adjuvante Therapie erfolgt nach der chirurgischen Entfernung aller erkennbaren Tumormassen und soll das Risiko einer primären oder erneuten Metastasierung mindern und die Überlebenschance verbessern. Die adjuvante Therapie wird primär bei malignen Melanomen mit hoher Metastasierungstendenz eingesetzt. Das körpereigene Immunsystem soll stimuliert werden, um mögliche zirkulierende Tumorzellen und Mikrometastasen abzuwehren. Zur Verfügung stehen die adjuvante Immuntherapie und adjuvante Chemotherapie. 
+
+1.1.10.3.1. Adjuvante Immuntherapie
+In Rahmen einer adjuvanten Immuntherapie soll sich das Abwehrsystem eines Melanompatienten durch die Stimulation einer spezifischen zellulären Immunantwort gegen die Melanomzellen richten. Vorhandene Tumorzellen sollen lysiert und so eine Tumorausbreitung verhindert werden. Drei Strategien kommen hier zur Anwendung: ‐Einsatz von definierten Zytokinen
+Zytokin-Monotherapien sind vielfach durchgeführt worden. IFN-α induziert die Expression von Tumor–assoziierten Antigenen und erhöht die Expression von HLA-Klasse-I-Antigen auf der Zelloberfläche der Melanomzellen. NK–Zellen, T–Lymphozyten und Monozyten werden durch IFN-α aktiviert. IL-2 induziert die Sekretion von Zytokinen (TNF-α, IFN-α, GM-CSF). Durch hohe Induktionsdosen von IL–2 wird zudem eine Aufregulation der IL–2-Rezeptoren erreicht. ‐Spezifische Vakzinierung mit Melanomantigenen
+Die Vakzinierung ist ein medizinisches Procedere, welches mit der Identifikation von Tumor-assoziierten Antigenen (TAA) wie Melan-A und gp100 ihren Ursprung hatte (Braathen LR et al. 1986). Cytotoxische Lymphozyten des am Melanom erkrankten Patienten werden durch dieTAA zur spezifischen Anti-Tumor-Aktivität angeregt. Eine Immunreaktion, die Tumorzellen eliminiert und vor einem Rezidiv schützt, soll erreicht werden. Natürliche Adjuvantien einer Antigen–spezifischen T–Zell–Antwort stellen die dendritischen Zellen dar (Nestle FO 2000). Die „Gedächtnisfunktion“ wird außerdem durch synthetische Adjuvantien wie Zytokine (IL-2, IL-12), monoklonale Antikörper, Proteine, Peptide (MAGE, BAGE, GAGE, LAGE-1 / NY-ESO-1) oder rekombinante Viren erreicht, die kostimulatorische Rezeptoren triggern (Bocchia M et al. 2000). ‐Verabreichung von monoklonalen Antikörpern
+Auf die direkte Gabe von monoklonalen Antikörpern wurde in den 80er Jahren große Hoffnung gesetzt. Allerdings waren die Erfolge beim malignen Melanom eher mäßig. 
+
+1.1.10.3.2. Adjuvante Chemotherapie
+Dacarbazin (DTIC) hat sich als wirksamstes Zytostatikum in der Behandlung des malignen Melanoms etabliert. Bei der Monotherapie von Melanomen im Stadium IV mit DTIC kam es zu Ansprechraten von 20– 25% (Ho VC et al. 1990; Johnson TM et al. 1995; McCredie M et al. 1994). Es wurde im Stadium II a (>1,5mm) und im Stadium IV in der Kombination mit INFα genutzt.
+
+Durch eine Kombination von Zytostatika mit Zytokinen kann eine Steigerung der objektiven Ansprechraten erreicht werden. Allerdings ergab sich in allen bisher durchgeführten Studien hierdurch keine signifikante Verlängerung der Gesamtüberlebenszeit. Die subjektive und objektive Verträglichkeit einer Monochemotherapie wird durch die Zugabe von IFN bzw. IL-2 verschlechtert.
+
+ 1.1.10.4. Palliative Therapie
+Eine palliative Therapie wird bei Melanompatienten im Stadium IV durchgeführt. Heilung des Patienten ist in diesem Stadium nicht mehr zu erwarten, aber es wird versucht, eine mögliche lange Remission zu erreichen. Für diese Zielsetzung kommen operative, radiologische und chemotherapeutische Maßnahmen in Frage.
+
+Ohne Behandlung überleben nach Diagnosestellung im Stadium IV weniger als 20% der Patienten ein Jahr. Ist eine Remission oder SD (stable disease) nicht mehr möglich, steht die Linderung von Beschwerden im Vordergrund. Der Patient soll eine möglichst hohe Lebensqualität behalten. Auch hier kommen operative, radiologische und chemotherapeutische Maßnahmen zum Einsatz.
+ ‐Operative Therapie
+Die operative Therapie im Stadium IV kommt vorwiegend bei einzelnen oder wenigen Haut-, ZNS-, Lungen- oder Lymphknotenmetastasen in Frage. Primär wird eine vollständige Sanierung angestrebt. Dafür geeignet sind Metastasen in Kutis, Subkutis und Lymphknotenstationen. Im Bereich der Haut oder leicht zugänglicher Lokalisationen kann eine OP zur Tumormassenreduktion eingesetzt werden. Schwierige Lokalisationen wie singuläre Lungen- und Lebermetastasen kommen vorrangig bei persistierend singulärer Metastasierung oder bei SD für eine operative Therapie in Frage. ‐Strahlentherapie
+Das maligne Melanom spricht nur in begrenztem Umfang auf eine Strahlentherapie an. Das klinische Ansprechen hängt von der gesamten Strahlendosis, bei fraktioniertem Schema von der applizierten Einzeldosis und vor allem vom Tumorvolumen ab. Metastasen mit einem Durchmesser bis zu 2 cm können bei adäquater Dosis in 80–100% zur vollständigen Rückbildung gebracht werden. Bei Metastasen mit mehr als 4 cm Durchmesser ist die Ansprechrate kleiner als 50%. Gute Ansprechratenwerden bei Einzeldosen von > 5 Gy erzielt. Es werden Gesamtdosen von mindestens 30–50 Gy angestrebt. Der wichtigste Anwendungsbereich der Strahlentherapie sind Knochenmetastasen. Hier kann auch oftmals die Schmerzsymptomatik wirkungsvoll mitbehandelt werden. Das Entstehen pathologischer Frakturen wird durch die Behandlung gemindert. Bei intrazerebraler Metastasierung sollten relativ hohe Dosen (> 5 Gy) kurz aufeinander folgend über einen relativ kurzen Zeitraum eingesetzt werden. ‐Chemotherapie
+Im Stadium IV wird hauptsächlich die systemische Chemotherapie angewandt. Dacarbazin (DTIC) wird hier als Monotherapeutikum genutzt. Die Ansprechrate liegt zwischen 20-25%. DTIC zeigt im Vergleich zu anderen Zytostatika nur eine relativ geringe Organtoxizität. In äußerst seltenen Fällen kann DTIC ein Budd-Chiari-Syndrom oder eine mäßiggradige Alopezie verursachen. DTIC kommt auch bei vielen Polychemotherapien zum Einsatz. Die Kombination von Chemotherapeutika im Stadium IV kann, wie Stadien an kleineren Kollektiven zeigen, zu einer Verlängerung der Überlebenszeit der Patienten gegenüber der Monotherapie führen.
+
+DVP-, CVD- oder Rosenzweig-Schema
+DTIC (Dacarbazin)450 mg/m² i.v. , Tag 1+8, alle 4 WochenVindesin3 mg/m² i.v. , Tag 1+8, alle 4 WochenDDP (Cisplatin)50 mg/m² i.v. , Tag 1+ 8, alle 4 WochenAnstelle von Vindesin ist auch Vincristin oder Vinblastin einsetzbar. Tabelle 9. Rosenzweig-Schema
+BVD-Schema BCNU (Carmustin)100 mg/m² i.v. , Tag 1, alle 6 WochenVincristin1,5 mg/m² i.v. , Tag 1, alle 1+4, alle 6 WochenDTIC (Dacarbazin)150 mg/m² i.v. , Tag 1-5, alle 4 Wochen Tabelle 10. BVD-Schema
+Es ist aber auch mit höherer Toxizität als in der Monotherapie zu rechnen (Ahmann DL et al. 1989, Lakhani S et al. 1990). Die Remissionsraten liegen zwischen 25–55%. Studien, welche die Wirksamkeit des DTIC gegenüber Polychemotherapien prüfen, haben die Erfolge der Polychemotherapien bezüglich Überlebensraten, nicht bezüglich Ansprechsraten, nicht bestätigen können.
+
+BHD-Schema
+ BCNU (Carmustin)150 mg/m² i.v. , Tag 1+4, alle 8 WochenHydroxyurea1500 mg/ m² p.o., Tag 1 – 5, alle 4 WochenDTIC (Dacarbazin)150 mg/m² i.v. , Tag 1-5, alle 4 Wochen Tabelle 11. BHD-Schema
+Bei Vorliegen von zerebralen Metastasen ist Fotemustin das Standardpräparat. Hier zeigten i.v. Applikationen Ansprechraten zwischen 16% und 47% (Khayat D et al. 1992).
+
+BOLD-Schema
+ Bleomycin15 IE i.v., Tag 1+4, alle 4-6 WochenVincristin1 mg/ m² i.v., Tag 1 +5, alle 4-6 WochenCCNU (Lomustin)80 mg/ m² p.o., Tag 1, alle 4-6 WochenDTIC (Dacarbazin)200 mg/ m² i.v., Tag 1-5, alle 4-6 Wochen Tabelle 12. BOLD-Schema
+Des Weiteren kann im Stadium IV mit zerebraler Beteiligung Temozolomid gegeben werden (Bleehen N et al. 1995).
+
+McClay-Schema oder Dartmouth-Schema oder DBCT-Schema
+DTIC (Dacarbazin)220 mg/ m² i.v., Tag 1-3, alle 4-6 WochenBCNU (Carmustin)150 mg/m² i.v. , Tag 1, alle 8 WochenDDP (Cisplatin)50 mg/m² i.v. , Tag 1+ 8, alle 4 WochenTamoxifen2 x 20 mg p.o. täglich, 2 x 80 mg p.o. 7 Tage vor dem Zyklus Tabelle 13. McClay-Schema
+
+ 1.1.11. Prognose
+Die Prognose des malignen Melanoms hat sich in den letzten Jahren deutlich verbessert. Die 5-Jahres-Überlebensrate lag vor 50 Jahren noch unter 20%, heute beträgt sie ca. 80%. Die drastisch gebesserte Gesamtprognose für das Kollektiv der Melanompatienten beruht auf der Früherkennung der Melanome, Aufklärungskampagnen, der gesteigerten
+Sensibilität der Patienten für Hautveränderungen und Screeninguntersuchungen, die heute Standard sind (Schubert A 1998). Die Prognose des Melanoms hängt von multiplen Faktoren wie
+Tumordicke, Geschlecht, histologischem Melanomtyp und Tumorlokalisation ab (Breslow A 1970).
+
+Die Melanom-10-Jahres-Überlebensrate nimmt in den höheren Tumorstadien (Klassifikation der AJCC von 2001) (Balch CM et al. 2001) kontinuierlich ab. Im Stadium I beträgt sie noch 90-97%.
+
+
+Eine deutliche Prognoseverschlechterung mit 10-Jahres-Überlebensraten zwischen 43 und 67% zeigt sich bei Primärtumoren mit größerer Tumordicke entsprechend dem Stadium II. Bei Melanomen mit regionären Lymphknoten- oder In-Transit-Metastasen reduziert sich die 10-Jahres- Überlebensrate weiter auf 19-28%. Leider nur noch eine begrenzte Überlebenszeit (10-Jahres-Überlebenszeit unter 3%) weisen Patienten mit Fernmetastasen auf (Orfanos CE et al. 1994).
+
+
+Der weitere Verlauf und die Prognose des Melanoms werden vor allem durch die histologische Charakterisierung des Primarius sowie durch das Auftreten von Metastasen und Rezidiven bestimmt. Für die Prognose können auch weitere Eigenschaften des Tumors und andere Kriterien einen unabhängigen Einfluss haben. So spielen die Lokalisation, das Lebensalter, das Geschlecht, die Regressionszonen und die Vaskularisierung innerhalb des Tumors, die Ausprägung der antitumorösen Entzündungsreaktion, die Mitose-Rate (Mitosen pro mm² im dermalen Anteil des Melanoms) sowie ein hoher prognostischer Index (Mitose-Rate x Eindringtiefe in mm) eine wichtige prognostische Rolle.
+
+
+Nach dem Auftreten von Metastasen gelten im Wesentlichen die im Rahmen der neuen AJCC- Klassifikation, 6. Auflage, 2002 eingearbeiteten prognostischen Überlegungen (s. Tabelle 8.).
+
+ 1.1.12. Nachsorge
+Ziele der Nachsorge sind eine vollständige Rehabilitation des Melanompatienten, die psychosoziale Unterstützung und Untersuchungen im Hinblick auf ein möglichst frühzeitiges Erkennen von Progress bzw. Rezidiv. In den ersten fünf postoperativen Jahren ist die Nachsorge intensiv zu gestalten, da hier 90% der Metastasen auftreten.
+
+Spätmetastasen sind jedoch nicht ungewöhnlich (Levy E et al. 1991), so dass generell eine Nachsorge über 10 Jahre eingehalten wird.
+
+
+Der betreuende Arzt ist gefordert, den Patienten in regelmäßigen Abständen gründlich zu untersuchen, Lymphknoten zu palpieren und Lymphknoten–Sonographien zu veranlassen. Blutuntersuchungen,
+Röntgen–Thorax, Abdomen–Sonographie, Schädel–CT und Knochenszintigraphie werden je nach Verlauf, Stadieneinteilung und Beschwerden genutzt.
+
+Die Deutsche Dermatologische Gesellschaft hat 2002 das in Tabelle 14. dargestellte Nachsorgeschema empfohlen. DDG = Deutsche Dermatologische Gesellschaft, MM = Malignes Melanom, MR = Metastasierungsrisiko, M = Metastasen, LK = Lymphknoten
+ Tabelle 14. Tumornachsorge bei Melanompatienten
+
+ 1.2. Interferone
+ 1.2.1. Definition
+Interferone sind spezifische Proteine, die von Zellen im Rahmen einer Immunantwort auf virale und bakterielle Infektionen sowie unter Einfluss zahlreicher antigener und mitogener Stimuli (z.B. Lektine) gebildet werden (Tossing G 2001). 1.2.2. Geschichte der Interferone
+Das Interferon (IFN) wurde 1957 von den Virologen Alic Isaacs und Jean Lindenmann vom National Institute of Medical Research in Mill Hill, London, entdeckt. Die beiden Wissenschaftler studierten das Phänomen der viralen Interferenz. Sie infizierten Hühnereichorionallantoismembran mit Influenzaviren und stellten fest, dass es einen Faktor geben muss, der die Fähigkeit besitzt, Zellen vor einer nachfolgenden Infektion zu schützen. Isaacs und Lindemann nannten diesen Faktor „Interferon“ (Friedman RM 1981, Isaacs A et al. 1957, Wallace J 1985). Isaacs fand heraus, dass IFN eine Speziesspezifität besitzt.
+
+Ion Gresser, ein amerikanischer Virologe, führte in den späten 60er Jahren am Laboratory of Viral Oncology in Villenjuif, Frankreich, Untersuchungen an Mäusen durch, in denen er durch Viren Leukämien induzierte. Er stellte fest, dass aus Mäusehirn isoliertes IFN das Fortschreiten einer Leukämie verzögern oder sogar präventiv gegeben werden kann. In nachfolgenden Studien konnte er zeigen, dass hohe Interferondosen in Mäusen das Wachstum nicht virusinduzierter Tumoren verhindern können. Diese Ergebnisse veranlassten 1971 Hans Strander aus Schweden dazu, IFN erstmals in Phase-I-Studien zur adjuvanten Behandlung von Osteosarkompatienten einzusetzen (Gresser I et al. 1970).
+
+ 1.2.3. Klassifikation
+Interferone gehören zur Gruppe der Zytokine und sind eine Familie von Proteinen, die Interaktionen zwischen einer Reihe unterschiedlicher Zellen vermitteln und regulieren (Burke F et al. 1993, Niederle N et al. 1990).
+
+Interferone lassen sich aufgrund ihrer molekularen und funktionellen Eigenschaften in drei Klassen unterteilen: IFN-α, IFN-β und IFN-γ (Peters M. 1989, Von Wussow P. 1986).
+
+IFN-α und IFN-β weisen zwei gemeinsame Polypeptidsegmente auf (Aminosäuren 28–40 und Aminosäuren 122–150). IFN-γ weist keine signifikante Homologie zu IFN-α und IFN-β auf.
+ Interferon
+ IFN-IFN-IFN- Anzahl Gene
+  23
+ 1
+ 1
+ Genort (Chromosom)
+ 9
+ 9
+ 12
+ Rezeptorort
+  21
+ 21
+ 6
+ (Chromosom )
+      Molekulargewicht (kD)
+ ≈ 20
+ 23
+ 17-25
+ Aminosäuren
+  165 -166
+ 166
+ 143
+ ph-Stabilität
+  stabil
+ stabil
+ labil
+ Zellherkunft
+ Monozyten, Fibroblasten
+ T-Zellen
+  B-Zellen
+     Induktoren
+  Virus
+ RNS-Virus
+ Antigen Mitogen
+      Tabelle 15.
+ Übersicht der humanen Interferone
+ Α-Interferone werden nach Virusinduktion von B-Lymphozyten und Monozyten gebildet. Sie bestehen aus 165-166 Aminosäuren und haben ein Molekulargewicht von etwa 20 kD (Balkwill F et al. 1978). Innerhalb der Klasse der α-Interferone sind aufgrund unterschiedlicher Aminosäuresequenzen mehr als 20 verschiedene Subtypen beschrieben worden (Von Wussow P. 1986). Sie werden als IFN-α1, IFN-α2 usw. bezeichnet. Eine weitere Differenzierung von IFN-α2 ist durch eine Differenz einzelner Aminosäuren in der ansonsten gemeinsamen Polypeptidkette möglich.
+
+Aufgrund der Positionen 23 und 24 ihrer Aminosäurensequenzen werden IFN-α-2a, IFN-α-2b und IFN-α-2c unterschieden (De Vita VT et al. 1985).
+
+
+Interferone
+ Position 23Position 34 IFN-α-2a
+  Lysin
+ Histidin
+ IFN-α-2b
+  Arginin
+ Histidin
+ IFN-α-2c
+  Arginin
+ Arginin
+ Tabelle 16.
+ Subtypen der α-Interferone
+B-Interferone sind Glykoproteine, werden hauptsächlich von Fibroblasten synthetisiert, bestehen aus 166 Aminosäuren und haben ein Gewicht von 23 kD. Induktoren sind RNS und Viren.
+
+G-Interferon weist 143 Aminosäuren auf und ein Molekulargewicht von 17- 25 kD. Es wird, induziert durch Antigene und Mitogene, von T-Zellen synthetisiert.
+
+ 1.2.4. Allgemeines zur Wirkung der Interferone
+Interferone entfalten ihre Wirkung durch Bindung an spezifische Membranrezeptoren an der Zelloberfläche. Die α- und β-Interferone haben einen gemeinsamen Rezeptor, dessen Genlokus auf Chromosom 21 lokalisiert ist. Der γ-Interferon-Rezeptor wird durch ein Gen auf Chromosom 6 kodiert (Peters M 1989).
+
+Die meisten Zellen weisen zwei verschiedene Rezeptortypen auf. Die Gesamtzahl an Rezeptoren für α und β oder γ pro Zelle kann zwischen 1000 und 10.000 variieren (Sonnenblick et al. 1991). Durch die Bindung an den jeweiligen Rezeptor werden verschiedene Effekte ausgelöst, wie zum Beispiel eine Steigerung der Expression von MHC-Peptiden und Tumor- assoziierten Antigene auf der Zelloberfläche (Obadina M et al. 1996).
+
+
+Die IFN-Wirkungen sind auf vielfältige Weise miteinander verbunden (Luger TA et al. 1990). Für Interferone werden antivirale, antiproliferative
+und immunmodulierende Wirkungen beschrieben (Garbe C et al. 1992, Jones GJ et al. 1986, Spiegel RJ 1986, Stadler R et al. 1990).
+
+Sie haben Einfluss auf Wachstum, Differenzierung und Funktionen leukozytärer Subpopulationen und/oder ihrer hämatopoetischen Vorläuferzellen (Hauschild A et al. 2000).
+
+ 1.2.4.1. Wirkungsmechanismus des IFN-α
+ ∙Antivirale Wirkung
+Die antivirale Wirkung wird als Maß für die biologische Aktivität der Interferone verwendet (Pestka S 1983). Der genaue Mechanismus der antiviralen Wirkung von IFN-α ist nach wie vor ungeklärt. IFN-α wirkt nicht direkt antiviral, jedoch induziert IFN-α die Inhibition der viralen Transkription und Translation.
+
+Die Zeit bis zum Einsetzen der IFNα-Wirkung hängt direkt von der IFN-α- Konzentration ab. Höhere Konzentrationen an IFN-α bedingen eine rasche Hemmung der Virusreplikation. Niedrige IFN-α-Konzentrationen bewirken eine verzögerte und verringerte Virussynthese im Sinne einer virusstatischen Wirkung. Im Rahmen ihrer antiviralen Aktivität wurde die Induktion folgender Enzyme durch IFN-α beschrieben (Hovanessian AG et
+al 1977, Lengyel 1982): 2`5`-oligo-Adenylatsynthetase, Phosphodiesterase, Proteinkinase. Diese Enzyme stellen Inhibitoren der Proteinsynthese dar (Farell PJ et al. 1978). Die Zelle wird gezwungen, entweder in die Ruhephase einzutreten oder den Teilungszyklus mit erheblich verminderter Geschwindigkeit fortzusetzen (Creasy AA et al. 1980, Horoszewicz JS et al. 1979). Verschiedene Untersuchungen zeigen, dass der durch IFN-α induzierte antivirale Effekt via Rezeptor-aktivierte Zellen auf Nachbarzellen übertragen werden kann, die noch nicht mit IFN- αin Kontakt gekommen sind (Shearer M et al. 1987).
+ ∙Antiproliferativer Effekt
+Die antitumorale Wirkung des IFN-α beruht vor allem auf antiproliferativen Effekten (Stadler R et al. 1990). IFN-α verlangsamt das Wachstum sowohl gesunder als auch maligner Zellen, indem es Phasen des Teilungszyklusses verlängert (Balkwill F et al. 1978). An der menschlichen lymphozytären Leukämiezelllinie RPMI-8402 und an Osteosarkomzellen zeigt sich die stärkste Hemmung der Zellproliferation mit 80-100%. ∙Immunmodulierende Wirkung
+Interferone sind in der Lage, verschiedene Immunreaktionen zu beeinflussen (Malbrain MLNG et al. 1995). Sie fördern die Ausschüttung weiterer Zytokine (GM-CSF, IL-2, IL-1, TNF) (Balkwill F. 1989). Dadurch kann unter anderem Fieber ausgelöst werden. Je nach Dosis und Zeitpunkt der Verabreichung kann IFN-α Immunfunktionen stimulieren oder inhibieren, indem es die zytotoxische Aktivität von verschiedenen Zellen (T-Lymphozyten, Makrophagen, Killerzellen) entweder intensiviert oder abschwächt (Blasi E et al. 1984, Knop J 1990, Schultz RM et al. 1977, Vilcek J et al. 1980). Die immunmodulierende Wirkung des IFN-α auf Zellen spiegelt sich in einer Erhöhung der Oberflächenexpression von Histokompatibilitätsantigen (HLA Klasse I) wieder. Diese Antigene gelten als eine entscheidende Komponente für die Erkennung maligner und virusinfizierter Zellen durch T-Zellen (Basham TY et al. 1983).
+
+1.2.5. Pharmakokinetik von IFN-α
+Aufgrund des natürlichen proteolytischen Abbaus im Gastrointestinaltrakt ist nach oraler Verabreichung von IFN nicht mit einer messbaren Serumkonzentration zu rechnen. Die Pharmakokinetik von IFN-α-2b wurde an gesunden männlichen Probanden getestet, die 5 Mio IE/m² KO und 10 Mio. IE als Einmaldosis subkutan, intramuskulär bzw. als 20-minütige intravenöse Infusion verabreicht bekamen. Die nach subkutaner und intramuskulärer Injektion gemessenen mittleren IFN-Konzentrationen imSerum waren ähnlich. Serumhöchstwerte traten 3-12 Stunden nach Gabe der niedrigen Dosis auf bzw. 6-8 Stunden nach Gabe der höheren Dosis. Die Eliminations-Halbwertszeit von IFN-α betrug für die niedrige Dosierung etwa 2-3 Stunden, für die hohe Dosis 6-8 Stunden.
+
+Die Serumspiegel lagen 16-24 Stunden nach der s.c. oder i.m. Injektion unterhalb der Nachweisgrenze. Sowohl nach subkutaner als auch nach intramuskulärer Applikation lag die Bioverfügbarkeit bei 100%.
+
+
+Nach intravenöser Verabreichung erreichten die IFN-α-Serumspiegel gegen Infusionsende (20 Minuten) ihre Höchstwerte (135-273 IE/ml), nahmen dann rascher ab als nach subkutaner oder intramuskulärer Verabreichung des Wirkstoffes und waren 4 Stunden nach der Infusion nicht mehr nachweisbar. Die biologische Halbwertszeit liegt für niedrige IFN-α-Dosen (5 Mio IE/m² s.c.) bei 3-12 Stunden, für hohe IFN-α-Dosen (10 Mio IE/m² s.c.) bei 6-8 Stunden. Abb. 9 zeigt die mittlere Serumkonzentration in Abhängigkeit von der Applikationsart nach einmaliger Injektion von IFN-α-2b (5 Mio IE/m²) (Grafik von Essex Pharma, Abb. 9).
+
+
+Die Liquorgängigkeit: einige Untersuchungen mit teilweise gereinigtem, natürlichem oder rekombinantem IFN-α ergaben, dass IFN-α beim Menschen die Blut-Hirn-Schranke kaum überschreitet.
+
+
+Da IFN-α renal metabolisiert wird, stellen Funktionsstörungen der Nieren eine Kontraindikation in der Anwendung dar.
+
+
+Abbildung 9. Grafik Essex Pharma Liquorgängigkeit: Untersuchungen mit teilweise gereinigtem, natürlichem oder rekombinantem IFN-α ergaben, dass IFN-α beim Menschen die Blut-Hirn-Schranke kaum überschreitet
+Schwere Funktionsstörungen der Leber bedürfen einer genauen Überwachung der Leberwerte beim therapeutischen Einsatz von IFN-α, auch wenn die Leber nur eine untergeordnete Rolle beim Katabolismus des IFN-α spielt (Bocci V 1985, Koyama Y 1983). 1.2.6. Anwendungsgebiete der Interferone
+Interferone finden ihre Anwendung in der Therapie verschiedener Erkrankungen. Tabelle 17 zeigt eine Übersicht der Indikationen, für die Interferone zugelassen sind (Anonymous 1993, Conlon KC et al. 1990, Nathanson L 1996, Schmoll HJ 1988, The INFB Multiple Sclerosis Study Group 1993, Weck PK et al. 1988, Von Wussow P 1986).
+
+Interferon
+ProduktnameZulassung IFN-α-2a
+ Roferon
+ Malignes Melanom Stad. II + III,
+   Basaliom, Lymphome (CML, Myelom,
+   CTCL, NHL), Kaposi -Sarkom,
+   Nierenzellkarzinom, Hepatitis,
+   Karzinoid, Condylomata acuminata
+ IFN-α-2b
+  Malignes Melanom, Lymphome
+   (CML, Myelom, follikuläres
+   Lymphom), Haarzellenleukämie
+ IFN-α-2a
+  Hepatitis
+ pegyliert IFN-
+   α-2b pegyliert
+   IFN-alfacon-1
+ Inferax
+ Hepatitis
+ IFN-β-1a
+ Avonex
+ Multiple Sklerose
+    IFN-β-1b
+  Multiple Sklerose
+ Humanes IFN-
+ Fiblaferon
+ Condylomata acuminata
+ β
+   IFN-γ-1b
+  Septische Granulomatose
+ Tabelle 17. Übersicht der Indikationen, für die Interferone zugelassen sind
+Während oder nach einer IFN-α-Therapie können Nebenwirkungen auftreten. Die Stärke und die Dauer der Symptome sind dabei von der IFN- α-Dosis, der Applikationsart, der Dauer der Applikation und der IFN-α- Klasse abhängig.
+
+In vielen Studien und Kasuistiken werden die möglichen Nebenwirkungen beschrieben. Eine Übersicht der möglichen Nebenwirkungen einer IFN-α- Therapie gibt die Tabelle 18.
+
+
+Häufigste NW
+Fieber, Abgeschlagenheit, Kopfschmerzen, MyalgienHäufige NWSchüttelfrost, Appetitlosigkeit, ÜbelkeitGelegentliche NWErbrechen, Diarrhöen, Gelenkschmerzen, Somnolenz, Schwindel, Mundtrockenheit, Alopezie (unspezifische), grippeähnliche Symptome, Rückenschmerzen, Depressionen, allgemeines Unwohlsein, Schmerzen, übermäßige Schweißabsonderung, Geschmacksveränderungen, Reizbarkeit, Schlaflosigkeit, Verwirrtheit, Konzentrationsstörungen, HypotonieSeltene NWSchmerzen im Abdomen, Hautausschläge, Nervosität, Veränderungen an der Injektionsstelle, Parästhesien, Herpes simplex, Pruritus, Augenschmerzen, Hypakusis, Angstzustände, Nasenbluten, Husten, Pharyngitis, Lungeninfiltrate, Pneumonitis und Pneumonie, Bewußtseinsstörungen, Gewichtsverlust, Gesichtsödeme, Dyspnoe, dyspeptische Beschwerden, Tachykardie, Hypertonie, gesteigerter Appetit, verminderte Libido, Hypästhesie, ungewöhnliche Geschmackswahrnehmungen, dünnflüssiger Stuhl, Zahnfleischbluten, Krämpfe in den Beinen, Neuropathie, Polyneuropathie, Rhabdomyolyse, Niereninsuffizienz, Hyper- oder Hypothyreoidismus, HepatotoxizitätSehr seltene NWNephrotisches Syndrom, Nierenversagen, sich verschlechternder Diabetes, Diabetes/Hyperglykämie, Herzischämie, Myokardinfarkt, Herzrhythmusstörungen  EinzelfälleNetzhautblutungen, Cotton-wool-Herde, Verschluss der Netzhautarterien bzw. -venen  LaborchemischeAbfall der Granulozyten und Leukozyten, des Hämoglobins, derVeränderungenThrombozyten Anstieg der alkalischen Phosphatase, des LDH, des Serumkreatinins. des Serumharnstoffs, der SGPT/SGOT  Tabelle 18. Mögliche Nebenwirkungen (NW) während und/oder nach einer IFN-α-Therapie(Abdi EA et al. 1986, Anderlini P et al. 1995, Asnis LA et al. 1995, Chang L et al. 1995, Christian MM et al. 1997, Funk J et al. 1991, Greenfield SM et al. 1994, Guyer DR et al. 1993, Köhler U et al. 2000, Lisker-Melman M et al. 1992, Nouri K et al. 1996, Orlow SJ et al. 1992, Pauluzzi P et al. 1993, Pigatto PD et al. 1991, Purvin VA 1995, Quesada JR et al. 1986, Reinhold U et al. 1997, Salzo S et al. 1990, Schafer M et al. 1999, Silver RT et al. 1996, Tartour E et al. 1995, Wölfer LU et al. 1996)2. Patienten und Methoden 2.1. Patienten
+Die vorliegende Studie basiert auf den Daten einer retrospektiven Untersuchung von 127 Patienten mit neu aufgetretenen oder bekannten sowie metastasierenden Melanomen, die im Zeitraum von 2000-2006 in der Klinik und Poliklinik für Dermatologie und Allergologie der Technischen Universität München aufgenommen, diagnostiziert und behandelt wurden.
+
+Es wurden 58 weibliche und 69 männliche Fälle eingeschlossen. Der Durchschnittsalter betrug 58,3 Jahre (26-86 Jahre).
+
+
+Bei allen Patienten wurde die Diagnose eines malignen Melanoms jeweils mittels histologischer Untersuchung bestätigt. Dabei wurde die Tumoreindringtiefe nach Breslow und/oder der Invasionslevel nach Clark (Breslow et al. 1970, Clark et al. 1969) berücksichtigt. Die Verteilung der klinisch-histologischen Typen in unserem Patientenkollektiv ist in Tabelle 19 zusammengefasst.
+
+
+Anzahl der Patienten
+SSM 68NMM 24AMM 10LMM 13pTx 12 Tabelle 19. Die Verteilung der histologischen Melanotypen in unserem
+ Patientenkollektiv
+Bei der Erstvorstellung (gemäß 127 Patientenakten) befanden sich 9 Patienten im Stadium pTx, 11 in pT1, 40 in pT2, 35 in pT3 sowie 32 Patienten im pT4 (s. Tabelle 20). Keiner der Patienten befand sich in Stadum der Fernmetastasierung.
+
+ 
+ pTxN1
+ pT1
+ pT2
+ pT3
+ pT4
+ insgesamt
+ Männlich
+ 8
+ 6
+17 19
+ 19
+69 Weiblich
+ 1
+523 16
+ 13
+58 insgesamt
+ 9
+ 11
+40 35
+32 127
+ Tabelle 20. Geschlechtsverteilung der untersuchten
+ Melanompatienten
+Bei allen 127 Patienten wurde die Interferon-Therapie einschließlich des Verlaufes bzw. der Progression, der Therapiedauer und der Verträglichkeit sowie der Nebenwirkungen dokumentiert und retrospektiv ausgewertet. 2.2. Methoden
+Bevor ein Patient mit IFN-α behandelt werden konnte, wurden entsprechend eines klinischen Standards unter Berücksichtigung von Ein- und Ausschlusskriterien (Tabelle 21, 22, 23) Staging sowie körperliche und laborchemische Untersuchungen (Tabelle 24) veranlasst. Waren alle Kriterien erfüllt und hatte der Patient schriftlich der IFN-α-Therapie zugestimmt, wurde diese eingeleitet:∙Applikation des pegylierten Interferons-α-2b einmal wöchentlich s. c. von 50 µg-100 µg oder nicht pegylierten Interferons-α-2a 3- mal 3 Mio. IE wöchentlich über mindestens 12 Monate (die mittlere Applikations- bzw. Therapiezeit unseres
+Patientenkollektivs betrug 14,5 Monate) im Anschluss an eine initiale Therapie mit 18 Mio. IE Interferon-α-2b i. v., die über 5 Tage bis spätestens 6 Wochen nach der primären Operation oder Metastasenexzision des bekannten Melanoms begonnen wurde.
+
+∙Regelmäßige Nachsorgeuntersuchungen mit klinischen und laborchemischen Kontrolluntersuchungen wie in Tabelle 22 aufgelistet (alle 4 bis 12 Wochen während der Therapie, alle 3 bis 6 Monate nach Therapieende).
+
+
+∙Diagnostik: Tumormarker (S100, MIA), Sonographie (Oberbauch, Lymphknoten), PET, c MRT, CT
+∙Nachbeobachtungszeit 12 bis 36 Monate mit regelmäßigen Nachsorgeuntersuchungen alle 3 bzw. 6 MonateEinschlusskriterienAlter zwischen 18 und 70 Jahren (bei gutem Allgemeinzustand bis 75 Jahre)Therapiebeginn innerhalb 8 Wochen nach operativer Entfernung desPrimariusKarnofsky-Index > 70%Schriftliche Einverständniserklärung des PatientenBei Frauen: Konzeptionsschutz Tabelle 21. Einschlusskriterien für Interferon-Therapie
+AusschlusskriterienAlter < 18 Jahre bzw. > 70 Jahre, Karnofsky-Index < 70%Therapiebeginn später als 8 Wochen nach der operativen Entfernung des PrimärtumorsFehlende schriftliche Einverständniserklärung des PatientenFehlender Konzeptionsschutz, schwangere oder stillende FrauenVorliegen einer ernsthaften Begleiterkrankung, die in keinem Zusammenhang mit der neoplastischenErkrankung stehtVorliegen einer AutoimmunerkrankungMyokardinfarkt innerhalb des letzten Jahres, manifeste Angina pectoris, dekompensierteHerz-/LungenerkrankungVorliegen einer psychischen Erkrankung (z.B. Depression, Psychose)Nicht therapierte, nicht eingestellte SchilddrüsenerkrankungFunktionsstörungen der Nieren (Kreatinin > 1,5 x oberer Norm)Vorliegen einer Lebererkrankung (Bilirubin und Transaminasen > 1,5 x oberer Norm)Myelosuppression, Gerinnungsstörung, ZNS-ErkrankungenLeukopenie unter 3.000/µl, Thrombozytopenie unter 100.000/µl, Anämie (Hämoglobin < 10 mg/dl)Vorangegangene Chemo- oder IFN-Therapie in den letzten 6 MonatenBekannte Überempfindlichkeit gegen IFN und Humanalbumin oder Zweitmalignome Tabelle 22. Ausschlusskriterien für Interferon-Therapie
+EinschlusskriterienAusschlusskriterien  histologisch gesichertes malignes MelanomSchleimhautmelanome oder okulärePatienten nach Radikaloperation einerMelanome; Vorliegen von verbliebenenErstmanifestation regionärer LK-MetastasenLymphknoten, Satelliten-, In-Transit- oder(Stad. IIIb, N1,2; M0)Fernmetastasen   Nachweis von Mikro- oder MakrometastasenNachweis klinischer Tumorfreiheitbei einer „sentinel node biopsy” oder elektiven Lymphknotendissektion   Tabelle 23. Zusatzkriterien zur Teilnahme an der ADO-Studie für
+ MM Stadium III b Studienleiter Prof. Dr. med. R. K. Garbe
+BlutbildGlutamat-Pyruvat-TransaminaseDifferenzialblutbildLaktat-DehydrogenaseBlutkörperchensenkungsgeschwindigkeitγ-Glutamyl-TransferaseKreatininalkalische PhosphataseKreatininkinaseHepatitis A-, B-, C-AntikörperKreatininclearanceSchilddrüsenwerteElektrolyteSchilddrüsen-AntikörperAlbuminantinukleäre AntikörperGlutamat-Oxalazetat-TransaminaseGerinnungsstatusTabelle 24. Laborchemische Parameter, die vor und während einer IFN-α-Therapie bestimmt wurdenDen Patienten wurde empfohlen, sich während der IFN-α-Therapie zu schonen, vitamin- und eiweißreiche Kost zu sich zu nehmen, ausreichend Flüssigkeit zuzuführen (mindestens 2-3 l tgl.) oder gegebenfalls auch elektrolythaltige Getränke zu trinken. Eine IFN-Infobroschüre wurde jeweils vor Beginn der Therapie mitgegeben, und eine Demonstration des IFN- Pens mit Anleitung und Applikation der s.c. IFN-Injektion wurde durchgeführt. 2.3. Dokumentation und Auswertung
+Die 127 Patientendaten wurden anhand von Papierakten und Nachsorge- Folgeerhebungsbogen erhoben, tabellarisch zusammengestellt, grafisch bearbeitet und ausgewertet jeweils 12 bzw. 36 Monate nach Beginn der Interferontherapie. Aufgrund der Nebenwirkungen und schlechter Verträglichkeit bei 12 Patienten wurde die Therapie vorzeitig abgebrochen. Somit nahmen nur 115 Patienten an der vollständigen Auswertung teil. 2.4. Ziel der Untersuchung
+Obwohl die Wirksamkeit von pegyliertem Interferon bisher nur bei Nierenzellkarzinom, Leberzellkrebs oder bestimmten Leukämien nachgewiesen werden konnte, haben wir uns aufgrund der einfachen Applikationsform (Injektion 1x/Wo.) und der verringerten Nebenwirkungsrate bei Risikomelanompatienten (unabhängig von der Tumordicke: pTx-pT4 und/oder positiver Wächterlymphknoten oder Zustand nach Metastasenresektion) für eine adjuvante Therapie mit pegyliertem Interferon-α entschieden. Daten von Studien mit gleichen oder ähnlichen Kontroll- und Patientengruppen wurden mit unseren Ergebnissen verglichen.
+
+3. Ergebnisse
+ 3.1. Geschlecht
+ In unserem Patientenkollektiv konnten nach der Auswertung insgesamt
+115Patienten in allen Tumorstadien unter IFN-α-2a- oder IFN-α-2b- Therapie eingeschlossen werden. Die genaue Aufteilung der Stadien und die Geschlechtsverteilung sind nachfolgend tabellarisch sowie bildlich in Prozent dargestellt (Tabelle 25, Abbildung 10).
+
+12 weitere Patienten wurden von der Auswertung ausgeschlossen, da die Therapie wegen der Nebenwirkungen vorzeitig abgebrochen werden musste.
+
+
+ 
+  pTxN1
+ pT1
+ pT2
+ pT3
+ pT4
+ insgesamt
+  männlich
+ 7
+ 4
+ 16
+ 18
+ 18
+ 63
+  Weiblich
+ 1
+ 5
+ 19
+ 14
+ 13
+ 52
+  insgesamt
+ 8
+ 9
+ 35
+ 32
+ 31
+ 115
+ Tabelle 25.
+ Geschlechtsverteilung des Patientenkollektivs
+    (Klinische Stadien I – III)
+   Die gesamte Geschlechtsverteilung unseres Patientenkollektivs ist in Abbildung 10 dargestellt. In allen Stadien unseres Kollektivs befanden sich insgesamt 52 weibliche und 63 männliche Patienten. pTxN1 = ohne bekannten Primarius mit positiven SLN
+ Abbildung 10. Geschlechtsverteilung der pTx-pT4-Patienten
+In unserem Patientenkollektiv (Abbildung 10) befanden sich insgesamt 8 Patienten (1 weiblich, 7 männlich) mit unbekanntem Primarius (pTx) und positiven Sentinellymphknoten. Weiterhin wurden aufgrund der Tumordicke 9 Patienten (5 weiblich, 4 männlich) in das Stadium pT1 eingeteilt sowie 35 (19 weiblich, 16 männlich) in das Stadium pT2. Im Stadium pT3 befanden sich 32 Patienten (14 weiblich, 18 männlich), gefolgt von Stadium pT4 mit insgesamt 31 Patienten (13 weiblich, 18 männlich). 3.2. Alter
+ Abbildung 11. Altersdurchschnitt der pTx-pT4-Patienten
+Abbildung 11 zeigt einen Altersdurchschnitt unseres Patientenkollektivs von 58,3 Jahren wie in Tabelle 26 dargestellt.
+
+Alters-
+pTxN1pT1pT2pT3pT4insgesamtdurchschnitt48,861,155,259,562,358,3 Tabelle 26. Altersdurchschnitt unseres Patientenkollektivs
+Es zeigte sich ein signifikanter Altersunterschied zwischen den Patientengruppen. So war vor allem der Altersdurchschnitt in der pTxN1- Gruppe mit 48,8 Jahren im Durchschnitt 13,5 Jahre niedriger als in der pT4-Gruppe (62,3 Jahre). 
+
+3.3. Diagnostik der Sentinel-Lymphknoten
+Die Tabelle 27 zeigt die Anzahl der 115 rekrutierten Patienten mit positiven und negativen Sentinellymphknoten. Es waren insgesamt 56 (48,6%) Patienten mit positiven Sentinellymphknoten (SLN) versus 59 (51,4%) Patienten mit negativen Sentinellymphknoten. Bei allen 8 pTx-Patienten waren positive Sentinellymphknoten diagnostiziert. In der pT1-Gruppe waren 7 Patienten mit positiven SLN versus 2 mit negativen SLN. Die pT2- Gruppe zeigte 16 Patienten mit positiven SLN versus 19 Patienten mit negativen SLN, und die pT3-Gruppe zeigte 9 Patienten mit positiven SLN versus 23 mit negativen SLN. In der pT4-Gruppe waren 16 SLN-positive versus 15 SLN-negative Patienten zu beobachten.
+
+ 
+  pTxN1
+ pT1
+ pT2
+ pT3
+ pT4
+ Insgesamt
+  SLN positiv
+ 8
+ 7
+ 16
+ 9
+ 16
+ 56
+  SLN negativ
+ keine
+ 2
+ 19
+2315 59
+ Tabelle 27.
+ Anzahl der Patienten mit positiven und negativen SLN
+ Abbildung 12. SLN-Überblick bei pTx-pT4-Patienten
+
+ 3.4. Therapieverlauf
+In unserem Patientenkollektiv mit 115 Melanompatienten wurden Auswertungen des Therapieverlaufes nach 12 bzw. 36 Monaten nach Beginn der Interferon-Therapie durchgeführt (Tabelle 28, 29; Abbildung 13, 14).
+
+Therapieverlauf nach 12 Monaten
+Stadiumohne Progressmit ProgressVerstorbeneinsgesamtpT1720pT22762pT32282pT41993pTxN1242insgesamt77299115 Tabelle 28. Therapieverlauf nach 12 Monaten
+Die Ergebnisse der ersten Auswertung nach 12 Monaten Interferon- Therapie zeigten:a)keinen Progress bei 77 ( 66,9%) der behandelten Patienten,b)Progress bei 29 (25,2%) Patienten undc)Tod bei 9 (7,9%) Patienten (s. Abbildung 13).
+
+Die meisten Patienten mit Progress befanden sich in der pT4-Gruppe, gefolgt von der pT3-, pT2- und pTx-Gruppe (Tabelle 28 und Abbildung 13).
+ Abbildung 13. Therapieverlauf nach 12 Monaten
+Therapieverlauf nach 36 MonatenStadiumohne Progressmit ProgressVerstorbeneinsgesamtpT1531pT214174pT312155pT48176pTxN1026insgesamt395422 Tabelle 29. Therapie und Verlauf nach 36 Monaten
+Die Ergebnisse der zweiten Auswertung nach 36 Monaten zeigtena)keinen Progress bei 39 (33,9%) der behandelten Patienten,b)Progress bei 54 Patienten (46,9%) und c)Tod bei 22 (19,2%) Patienten (s. Tabelle 29, Abbildung 14).
+ Abbildung 14. Therapieverlauf nach 36 Monaten
+Vergleich zwischen dem Therapieverlauf nach 12 und 36 Monaten  Kontrollzeit
+  ohne Progress
+ mit Progress
+  Verstorbene
+  nach 12 Monaten
+ 66,90%
+ 25,20%
+  7,90%
+  nach 36 Monaten
+ 33,90%
+ 46,90%
+  19,20%
+ Tabelle 30.
+ Therapieverlauf nach 12 und 36 Monaten
+ Die Auswertungen nach der 12-monatigen und 36-monatigen Kontrolluntersuchung der therapierten Patientengruppe zeigten einen bedeutsamen Unterschied zwischen den Patienten mit und ohne Progress.
+
+Es zeigte sich ein Anstieg der Progression von 25,2% nach 12 Monaten Therapie und auf 46,9% nach 36 Monaten.
+ Abbildung 15. Therapieverlauf - 12 versus 36 Monate
+Die Prozentzahl der verstorbenen Patienten stieg von 7,8% nach 12 Monaten auf 19,2% nach 36 Monaten. Dementsprechend fiel die Zahl der Patienten ohne Progress (66,9%) auf fast die Hälfte (33,9%) (Tabelle 30, Abbildung 15). 3.5. Nebenwirkungen
+Die mittlere Behandlungszeit unseres Patientenkollektivs betrug 14,5 Monate (zwischen 12-20 Monaten). In der Zeit der Interferonapplikation zeigten sich Nebenwirkungen bei 19 Patienten in Form von schwerer Müdigkeit bei 7 Patienten, Kopfschmerzen und Nausea bei jeweils 2, Schwindel mit Hypertonie bei 6 sowie Haarausfall und Thyreoiditis jeweils bei einem Patienten (siehe Abbildung 16). Abbildung 16. Nebenwirkungen bei den gesamten Patienten
+In unserem Patientenkollektiv konnte die Auswertung nur bei 115 Patienten abgeschlossen werden, da bei 12 Patienten aufgrund der Stärke der Nebenwirkungen die Interferontherapie vorzeitig abgebrochen werden musste (s. Abbildung 17). Bei 7 weiteren Patienten wurde die initiale Wochendosis von 100 µg/Wo. s.c. auf 50 µg/Wo. s.c. reduziert und konnte so weiter wie geplant problemlos fortgeführt werden.
+
+Abbildung 17. Nebenwirkungen bei den Patienten mit Therapieabbruch
+Bei den 115 Patienten wurden bei 45% Gewichtsverlust und Diarrhoe, bei 63% Müdigkeit, bei 49% erhöhte Körpertemperatur mit Grippe-ähnlicher Symptomatik und Gliederschmerzen, bei 5% Vitiligo, bei 14% Thyreoiditis, bei 25% Depressionen, bei 23% erhöhte Leberwerte, bei 35% Kopfschmerzen, bei 47% Myalgien, bei 15% Libidoverlust (bei Männern), bei 10% Tachykardie mit Hypotonie, bei 13% Nausea, bei 8% Haarausfall und bei 3% generalisiertes Exanthem, häufig begleitet von Pruritus und Hauttrockenheit, beobachtet. Abbildung 18. Anzahl der pTx-pT4-Patienten mit Therapieabbruch
+Ein Abbruch der Interferontherapie erfolgte in der pT4-Gruppe bei 5 Patienten (3 weiblich, 2 männlich), in der pT2-Gruppe bei 3 (2 weiblich, 1 männlich), in der pT3-Gruppe bei 3 (weiblich) und in der pT1-Gruppe bei einem Patienten. Bei allen Patienten der pTx-Gruppe wurde die Interferontherapie gut vertragen (siehe Abbildung 18.).
+
+Bei der kompletten prozentuellen Auswertung zeigte sich bei 33,9% der behandelten Melanompatienten eine rezidivfreie Zeit von 36 Monaten.
+
+
+4. Diskussion
+Seit der Entdeckung der Interferone 1957 durch Isaacs und Lindenmann wurden im Vergleich zu IFN-β und IFN-γ mit IFN-α die signifikantesten Erfolge in der Melanomtherapie erzielt. Studien mit einer IFN-α- Monotherapie zeigen sogar im Stadium IV noch Ansprechraten bis zu 24% (Dorval T et al. 1986, Kirkwood JM et al. 1985, Sertoli MR et al. 1989).
+
+Studien mit IFN-β haben gezeigt, dass das Wirkungsspektrum von IFN-β vergleichbar ist mit dem von IFN-α. IFN-β hat sich jedoch vorrangig in der Therapie der multiplen Sklerose etabliert.
+
+
+Interferon-γ (IFN-γ) zeigte nur in Pilotstudien einen therapeutischen Nutzen in der Therapie des disseminierten Melanoms. Beim Einsatz von IFN-α in randomisierten Studien bei „High-Risk-Melanomen“ (>1.5 mm) wurde keine signifikante Beeinflussung der rezidivfreien Zeit oder Gesamtüberlebenszeit erzielt, so dass sein Einsatz auf die Kombination mit Zytostatika ± TNFα in der Extremitätenperfusion beschränkt bleibt (Maysens FJ et al. 1995).
+
+
+In den Studien zur adjuvanten Therapie des malignen Melanoms mit IFN-α wurden die als gleichwertig angesehene Wirkstoffe IFN-α-2a (Roferon, Hoffmann La Roche) und IFN-α-2b (Intron A, Schering-Plough) eingesetzt.
+
+
+Neben diesem therapeutischen Ansatz können die Wirkstoffe IFN-α-2a und IFN-α-2b noch in weiteren Therapien eingesetzt werden (siehe Tabelle 31, 32).
+ Wirkstoff Indikation
+ Interferon α2a Chronische Hepatitis B/C, Haarzellleukämie,
+(Rufern®) Chronisch myeloische Leukämie (CML), Kutanes T-Zell-Lymphom, NHL, Kaposi-Sarkom bei AIDS, Fortgeschrittenes Nierenzellkarzinom, Adjuvante Melanomtherapie (Stadium II + III), Multiples Myelom, Basaliom, Condylomata acuminata Chronische Hepatitis B/C, Chronisch myeloische
+ Leukämie (CML), Multiples Myelom, Follikuläre
+ Lymphome, Karzinoid, Kaposi-Sarkom bei AIDS,
+ Adjuvante Melanomtherapie
+ Tabelle 31. Indikationen für eine IFN-α –Therapie
+IFN-α-2b (Intron A®)In der adjuvanten Melanomtherapie variieren Dosis, Dauer und Injektionsort des Interferons (Tabelle 32). Eine subkutane IFN-α-Therapie mit einer Frequenz von 3x/Woche wird vorrangig eingesetzt. Diese Dosierung hat so breite Akzeptanz gefunden, dass man zum Teil schon von einem Standard spricht. Ansonsten variieren die Dosierungen bis zu20Mio. IE IFN-α/m2. Eine Verlängerung der Überlebenszeit konnte bisher nur mit einer Dosierung von 10-20 Mio. IE IFN-α/m2 ("Kirkwood-Schema", ECOG 1684, Tabelle 34) nachgewiesen werden.
+
+Bei ausgeprägtem Nebenwirkungsprofil und zumeist notwendiger Dosisreduktion kann aber dieses Schema noch nicht zu einem gesicherten
+ Standard erhoben werden.
+
+
+Subtyp
+DosisHäufigkeit geplanteInjektionsart Dauer                       subkutan (s.c.)
+ IFN-α-2a
+ 3-20 Mio.IE/m2
+ 1-2x/tägl.
+
+
+ 
+ 3 -7Jahre
+ intravenös (i. v.)
+ IFN-α-2b
+   1-5x/Wo.
+
+
+ 
+  intramuskulär (i. M.)
+        Tabelle 32.
+ Variablen in der IFN-α-Therapie
+    Hochrisikomelanom  Primär malignes Melanom > 4,00 mm
+     Stadium II b
+     Melanom mit mittlerem  Primär malignes Melanom 1,5 -4 mm
+Risiko    Stadium II a
+     Niedrigrisikomelanom  Primär malignes Melanom 0,75 -1,5 mm
+     Stadium I b
+     Melanom mit sehr  Primär malignes Melanom > 0,75 mm
+niedrigem Risiko  Stadium I a
+      Tabelle 33.
+ Die Tumordicke der „Risiko-Melanome“
+ Zwei Studien, in denen Melanompatienten mit einer Tumordicke von 1,5 -4
+mmmit niedrig dosiertem IFN-α behandelt wurden (Tabelle 33, 34), zeigten eine signifikante Verlängerung des rezidivfreien Intervalls. Beibeiden Studien kam es jedoch nicht zu einer signifikanten Verlängerung der absoluten Überlebenszeit (Grob JJ et al. 1998), (Pehamberger H et al. 1998).
+
+In der Studie von Pehamberger und Mitarbeitern wurden 311 Patienten im Stadium II über 1 Jahr mit einer konsequent niedrigen IFN-α-2a-Dosis behandelt. Nach einer Beobachtungszeit von 41 Monaten zeigte sich eine signifikante Differenz (P=0.02) der rezidivfreien Zeit im Vergleich zum Kontrollkollektiv. Ähnliche Ergebnisse erzielte die Studie von Grob et al..
+
+
+Unsere Studie mit 115 interferonbehandelten Patienten zeigte gleiche Ergebnisse hinsichtlich der Verlängerung der rezidivfreien Zeit im Vergleich zu den oben genannten Studien, die wir als Patientengruppen und Kontrollgruppen verwendeten (s. Tabelle 34).
+
+
+Im Rahmen der Studie von Grob et al. wurden 489 Patienten im Stadium II des malignen Melanoms für 18 Monate mit niedrig dosiertem IFN-α-2a therapiert. Die rezidivfreie Zeit war nach 5 Jahren signifikant verlängert gegenüber der Kontrollgruppe (P=0.035). Nach einer mittleren Beobachtungszeit von 3 Jahren zeigte sich zunächst auch eine signifikante Verlängerung der Gesamtüberlebenszeit. Diese konnte jedoch nach 5 Jahren nicht bestätigt werden (P=0.059), da sich die Sterberate der therapierten Patienten zahlenmäßig der Kontrollgruppe annäherte; ein Phänomen, das mit zunehmend längerer Nachbeobachtungszeit vielfach bestätigt wird und die dabei verwendeten IFN-α-Protokolle immer wieder verbesserungswürdig erscheinen lässt. Wenn auch eines der Nebenziele, „die Verlängerung der rezidivfreien Zeit“, erreicht wird, bleibt das eigentlich gültige Hauptziel eines adjuvanten Therapieprotokolls „die Verlängerung der Überlebenszeit“ eines behandelten Kollektivs.
+
+
+In 4 Studien wurden Patienten mit Hochrisikomelanomen (> 4 mm) mit IFN-α behandelt, wobei auch Lymphknoten-positive Kollektive eingeschlossen wurden. Die WHO-16-Studie setzte niedrig dosiertes IFN- α-2a von 3 Mio. IE 3x/Woche über einen Zeitraum von 3 Jahren ein. Nach einer Beobachtungszeit von weiteren 3 Jahren wurden keine signifikanten
+Verlängerungen der rezidivfreien Zeit oder Gesamtüberlebenszeit festgestellt. Zurzeit werden in der AIM-Studie der UK Hochrisikopatienten (TD > 4 mm) mit einem Niedrigdosisschema IFN-α-2a über 2 Jahre behandelt. Die Studie stellt bzgl. der Dosierung eine Wiederholung der WHO-16-Studie dar. In drei weiteren Studien erfolgte unter anderem eine Randomisierung in einen Hochdosis-Arm. Die Patienten, welche in die Studie der North Central Cancer Treatment Group (NCCTG-83/7052) aufgenommen wurden, erhielten 3x/Woche 20 Mio. IE IFN-α-2a/m2/Tag. Die IFN-α-Injektionen wurden i.m. über 3 Monate gegeben.
+
+Nach 3-jähriger Beobachtung zeigte sich bei den Patienten mit Lymphknotenbefall eine signifikante Verlängerung der rezidivfreien Zeit
+gegenüber der Kontrollgruppe. Eine Verlängerung der Gesamtüberlebenszeit konnte weder bei den LK-positiven noch bei den LK-negativen Patienten bestätigt werden. Da man zwar eine Verlängerung der rezidivfreien Zeit, jedoch nicht der Gesamtüberlebenszeit erzielte, wurde in einer kritischen Wertung die Therapiedauer für zu kurz befunden. Nachfolgende Studien streben eine Therapiezeit von 3-5 Jahren an.
+
+Mit dem Protokoll der Eastern Cooperative Oncology Group aus dem Jahr 1996 (ECOG 1684) gelang bisher der einzige Nachweis sowohl einer signifikant verlängerten rezidivfreien Zeit als auch einer signifikant verlängerten Gesamtüberlebenszeit gegenüber den Patienten der Kontrollgruppe durch den adjuvanten Einsatz einer Hochdosis-IFN-α- Therapie. Insgesamt wurden in diesem Protokoll 287 Patienten randomisiert. Ein Teilkollektiv von 34 der 287 Patienten zeigte positive Lymphknoten. In dem als "Kirkwood-Schema" bezeichneten Protokoll erhielten die Patienten eine Dosis von 20 Mio. IE IFN-α/m2/Tag 5x/Woche über 1 Monat i.v.. Danach wurden 10 Mio. IE IFN-α/m2/Tag 3x/Woche als Erhaltungsdosis über 11 Monate s.c. injiziert. Die gesamte Behandlung erstreckte sich über 1 Jahr. Die mittlere Nachbeobachtungszeit lag bei 7 Jahren. 37% der mit IFN-α behandelten Patienten erreichten eine 5-jährige rezidivfreie Zeit. In der Kontrollgruppe blieben nur 26% der Patienten 5 Jahre rezidivfrei.
+
+
+Studie
+ Patienten-BehandlungTherapie-MittlereResultate  zahl dauerBeobachtungs-      zeit        Melanome mit mittlerem Risiko           Pehamberger 311IFN-α-2a 3 Mio. IE/Tag1 Jahr41 MonateRemissionsfreieet al. (141)  über 3 Wochen  Zeit verlängert;        3 Mio. IE 3 x/Woche über  Gesamtüberlebenszeit   11 Monate  Unbeeinflusst   vs. Beobachtung          Grob et al.
+
+ 
+489IFN-α-2a 3 Mio. IE 3x/Woche18 Monate5 JahreRemissionsfreie(80)  vs. Beobachtung  Zeit verlängert;      Gesamtüberlebenszeit      unbeeinflusst       Hochrisikomelanome          WHO 16444IFN-α-2a 3 Mio. IE 3x/Woche3 Jahre3 JahreKein Vorteil,   vs. Beobachtung  weder in der      remissionsfreien Zeit      noch in der      Gesamtüberlebenszeit      NCCTG262IFN-α-2a 20 Mio. IE/m2/Tag3 Monate6 JahreKein Vorteil,83/7052  3 x/Woche  weder in der   vs. Beobachtung  remissionsfreien Zeit      noch in der      Gesamtüberlebenszeit      ECOG 1684287IFN-α-2b 20 Mio. IE/m2/Tag1 Jahr7 JahreSignifikanter   5 x/Woche über 4 Wochen,  Vorteil in der   danach 10 Mio IE/m2/Tag  remissionsfreien Zeit und   3 x/Woche über 11 Monate  der   vs. Beobachtung  Gesamtüberlebenszeit;      größter Vorteil bei LK-      positiven Patienten      ECOG 1694608IFN-α-2b wie 1684 vs. 3 Mio.
+
+Hochdosis
+4 JahreRemissionsfreie   IE 3 x/Woche über 2 Jahre1 Jahr vs.
+
+ 
+Zeit nur im Hochdosis-   vs. BeobachtungNiedrigdosis Arm von Vorteil;    2 Jahre Gesamtüberlebenszeit      unbeeinflusst       Tabelle 34. Randomisierte Studien mit adjuvanten IFN-α-Therapien (Kirkwood JM et al. 1996)Die Gesamtüberlebenszeit stieg im Mittel von 2,8 auf 3,8 Jahre. Im Lymphknoten-Kollektiv befanden sich auch Patienten mit Mikrometastasen in den ableitenden Lymphknoten.
+
+Von den IFN-α-behandelten Patienten mit „positiven“ Lymphknoten erreichten 66% eine rezidivfreie Zeit von 5 Jahren. Ob dieses Teilkollektiv der Lymphknoten-positiven Patienten (n=34) besonders von der IFN-α- Therapie profitiert hat, kann aufgrund der kleinen Kollektivzahl nicht eindeutig gesagt werden.
+
+
+Solche retrospektiv vorgenommenen Auswertungen von Subkollektiven sind im Sinne der Evidenz-basierten Medizin zwar unzulässig, haben im Falle dieser Studie aber noch einmal mehr den Eindruck verstärkt, dass höhere IFN-α-Dosierungen zum Erzielen eines therapeutischen Nutzens notwendig sind.
+
+
+Aufgrund der ausgeprägten häufigen Nebenwirkungen, die in der Mehrzahl der Patienten zur Dosisreduktion des IFN-α führten, sollte die Notwendigkeit der hohen IFN-α-Dosis, unteranderem auch im Hinblick auf die Kosten und besonders bezüglich der Zielsetzung „verlängertes Gesamtüberleben“ mit der Folgestudie ECOG 1690 überprüft werden. An der dreiarmigen Studie nahmen 642 randomisierte Patienten mit Hochrisikomelanomen teil. Die Patienten wurden nach dem "Kirkwood- Schema" im Vergleich zu einem niedrig dosierten IFN-α-Schema (3 Mio. IE IFN-α 3x/Woche über 2 Jahre) behandelt oder waren Teil der Kontrollgruppe. Nach einer Beobachtungszeit von 52 Monaten wurden 608 Patienten evaluiert. Eine signifikante Verlängerung der rezidivfreien Zeit wurde in der Hochdosis-Gruppe gegenüber der Kontrollgruppe registriert. Nur in diesem Punkt liegt eine Bestätigung der Ergebnisse des ECOG- 1684-Protokolls vor. Die Verlängerung der Gesamtüberlebenszeit konnte nicht bestätigt werden. Damit wird der Therapieerfolg einer hohen IFN-α- Dosis in Bezug auf das Überleben erneut in Frage gestellt.
+
+
+Eine entscheidende Einschränkung in der Auswertung ist durch die Folgetherapie der zunächst mit niedrig dosiertem IFN-α behandelten
+Patienten entstanden. Diese Patienten erhielten bei einem Rezidiv ebenfalls die IFN-α–Hochdosis-Therapie wie im Vergleichsarm. Statistisch signifikante Differenzen der beiden Behandlungsarme sind daher nicht korrekt auswertbar.
+
+Zur Interpretation und Einordnung unserer Daten wurden die Ergebnisse der randomisierten Phase-III-Studie der EORTC (European Organisation for Research and Treatment of Cancer) 18991 herangezogen: Adjuvant therapy with pegylated interferon α-2b versus observation alone in resected stage III melanoma, publiziert in The Lancet 2008 (Eggermont AM et al. 2008).
+
+
+Im Gegensatz zu den USA wird hochdosiertes Interferon-α in Europa bei Hochrisikomelanomen mit einem Breslow >4 mm und/oder Lymphknotenmetastasen kontrovers diskutiert. Auf dem ASCO 2007 in Chicago, dem Jahreskongress der American Society of Clinicial Oncology, wurden zwei wichtige Interferon-Studien vorgestellt. Die eine Studie überprüfte adjuvantes, pegyliertes Interferon (peg-IFN) über 5 Jahre bei Melanomen mit Lymphknotenmetastasen (Eggermont AM et al. 2008). Die andere Studie stellte die Frage, ob 4 Wochen intravenöses Interferon-α im Vergleich zum klassischen, nebenwirkungsreicheren 12-Monate-Schema ausreichen (Gogas et al. 2004).
+
+
+Adjuvantes Interferon bei Hochrisikomelanomen verlängert das krankheitsfreie Intervall; ob es das Gesamtüberleben verlängert, bleibt kontrovers. Aus diesem Grunde haben die europäischen EORTC- Interferonstudien immer einen Nullarm als Kontrolle. Peg-IFN hat den Vorteil, dass es nur einmal pro Woche subkutan verabreicht werden muss und von den meisten Patienten subjektiv besser vertragen wird.
+
+
+Eggermont AM et al. haben bei Melanompatienten mit resezierten Lymphknotenmetastasen adjuvantes wöchentliches peg-IFN mit keiner Therapie als Kontrolle verglichen. Hier wurde untersucht, ob die Pegylierung von IFN-α eine längere Gabe unter Verbesserung der Überlebensrate ermöglicht. In dieser großen Phase-III-Studie (EORTC
+18991) wurden 1.256 Patienten randomisiert, 629 lediglich beobachtet, die übrigen 627 über 8 Wochen mit 6 µg/kg pegyliertem Interferon-α-2/Wo. und dann mit 3 µg/kg/Wo. bis zu fünf Jahre behandelt. Im Mittel bekamen die Patienten 12 Monate lang pegyliertes IFN-α-2b. Nach 3,8 Jahren (im Durchschnitt) war es zu 328 Rezidiven in der Interferon-Gruppe und zu 368 in der Kontrollgruppe gekommen.
+
+Nach 4 Jahren betrug die rezidivfreie Überlebensrate 45,6% in der IFN- Gruppe und 38,9% in der Kontrollgruppe. Das Gesamtüberleben unterschied sich zwischen den beiden Studienarmen nicht. Nebenwirkungen vom Schweregrad 3 bzw. 4 traten bei 40 bzw. 5% der Patienten unter Interferon auf und bei 10 bzw. 2% im Kontrollarm. Am häufigsten kam es unter Interferon zu Fatigue (16%), Hepatotoxizität (11%) und Depressionen (6%). Bei 31% der Patienten wurde die Behandlung wegen schwerer Nebenwirkungen abgebrochen.
+
+
+Das metastasenfreie Überleben (DMFS – distant metastasis-free survival) sowie das Gesamtüberleben (OS – overall survival) waren im Vergleich zu DMFS und OS der Kontrollgruppe nicht signifikant verlängert. Allerdings zeigte sich ein signifikant verlängertes rezidivfreies Überleben (RFS – relapse-free survival) und DMFS bei Patienten mit einem ausschließlich mikroskopischen Lymphknotenbefall (positiver Wächterlymphknoten). Die Patienten müssen 5 Jahre lang eine Therapie mit dem Risiko zahlreicher schwerer Nebenwirkungen in Kauf nehmen, um ihre Chance auf ein krankheitsfreies Überleben um 6% zu verlängern, so die Interpretation der Autoren. Das Gesamtüberleben bleibt von der Behandlung unbeeinflusst. Im Vergleich zu der EORTC-18991-Studie zeigten sich ähnliche Ergebnisse für das RFS und OS bei unseren Patienten.
+
+
+Die Nebenwirkungen der Interferontherapie unserer Patienten im Vergleich zur EORTC-Studie sind in Tabelle 35 dargestellt.
+
+
+Daraus kann geschlossen werden, dass peg-IFN keine Indikation für Patienten mit makroskopischen Lymphknotenmetastasen (N2) ist. Peg-IFN
+ zeigt aber einen Vorteil für das DMFS bei Patienten mit mikroskopischen
+ Lymphknotenmetastasen (N1).
+
+
+ 
+EORTC-IFN-KontrollgruppeUnsere IFN-GruppeSymptomeGruppe n=608n=613n=115    Müdigkeit94%41%83%    Leber-   toxizität79%36%57%    Pyrexie75%9%69%    Kopfweh70%19%55%    Myalgie67%23%47%    Depressionen59%25%45%    Verschiedene99%79%60%    Tabelle 35. Vergleich der Nebenwirkungen unter IFN-α-Therapie im Stadium III und IV mit Ergebnissen der EORTC-18991- Studie (Eggermont AM et al. 2008)Es muss allerdings die Frage gestellt werden, ob das DMFS tatsächlich ein Surrogat für das OS ist und ob eine 5-jährige Therapie nötig ist, da in der früheren EORTC-18952-Studie eine 2-jährige Therapie mit intermediär dosiertem Interferon zu ähnlichen Resultaten geführt hat.
+
+Es bleibt schließlich noch die Frage, ob hochdosiertes IFN für 4 Wochen die gleiche Wirksamkeit zeigt wie nach 12 Monaten.
+
+
+H. Gogas stellte die Frage, ob intravenöses Interferon-α (IFN) über einen Monat nicht gleich gut wirkt wie das klassische hoch dosierte "Kirkwood- Schema" über 12 Monate. In dieser Phase-III-Studie wurden 364 Patienten mit einem Hochrisikomelanom in einen 4-wöchigen intravenösen IFN-Arm sowie in einen klassischen 12-monatigen IFN-Arm (4 Wochen intravenös, 11 Monate subkutan) randomisiert. Erwartungsgemäß waren die
+Nebenwirkungen im 12-Monate-Arm erheblich größer. RFS sowie OS waren äquivalent (Pectasides et al. 2009, Gogas et al. 2004).
+
+Einschränkend ist hier die relativ geringe Patientenzahl zu nennen, welche einen knappen Vorteil des klassischen Schemas maskieren könnte. Allerdings sollte auch diskutiert werden, ob ein marginaler Überlebensvorteil eine doch deutlich toxischere 12-monatige Therapie rechtfertigt. Mehr Informationen wird voraussichtlich die ECOG-1697- Studie geben (Titel: Phase III Randomized Study of Four Weeks of High Dose Interferon Alfa-2b in Stage T2bN0, T3a-bN0, T4a-bN0, and T1-4, N1a, 2a, (microscopic) Melanoma; Zeitraum: 22.12.1998 bis 31.12.2014 vorgesehen, Ident. Nr. NCT00003641), welche 1 Monat intravenöses IFN versus kein IFN bei Patienten mit einem Hochrisikomelanom überprüfen wird.
+ 4.1. Nebenwirkungen einer IFN-α-Therapie
+Die Nebenwirkungen einer Hochdosistherapie mit IFN-α können beachtlich sein. Zwei Drittel der nach dem „Kirkwood-Schema" behandelten Patienten litten unter schweren Nebenwirkungen nach WHO Grad III-IV. Im Vergleich dazu traten bei der niedrig dosierten IFN-α-Therapie im Rahmen der Studie von Grob et al. nur in 10% der Fälle Nebenwirkungen nach WHO Grad III-IV auf (s. Tabelle 36), und es kam zu keinem therapiebedingten Todesfall wie in der Anfangsphase der ECOG-1684-Studie, bei der 2 Patienten durch ein Leberversagen zu Tode kamen.
+
+In Europa werden derzeit Patienten mit Hochrisikomelanomen im Rahmen der dreiarmigen EORTC-18952-Studie therapiert. Während des ersten Therapiemonats bekommen zwei Behandlungsarme 10 Mio. IE IFN-α-2a pro Tag injiziert.
+
+
+Als Erhaltungstherapie werden in einem Arm 10 Mio. IE IFN-α 3x/Woche für 11 Monate gegeben, im anderen Arm erhalten die Patienten 5 Mio. IE IFN-α 3x/Woche über 23 Monate.
+
+
+ 
+WHO Grad 0WHO Grad IWHO Grad IIWHO Grad IIIWHO Grad IV      Hämoglobin> = 11,09,5 – 10,98,0 – 9,46,5 – 7,9< = 6,5(g/100 ml)           Leukozyten> = 4,03,0 – 3,92,0 – 2,91,0 – 1,9< = 1,0(1000/µl)           Granulozyten> = 2,01,5 – 1,91,0 – 1,40,5 – 0,9< = 0,51000/µl)           Thrombozyten(1     000/µl)> = 10075 - 9950 - 7425 – 49< = 25      BlutungenKeinePetechiengeringerbeträchtlichergravierenderBlutverlustBlutverlustBlutverlust         Bilirubin< 1,25 x N1,25 – 2,5 x N2,6 - 5 x N5,1 - 10 x N> 10 x N      SGOT/SGPT< 1,25 x N1,25 – 2,5 x N2,6 - 5 x N5,1 - 10 x N> 10 x N      alkalische< 1,25 x N1,25 – 2,5 x N2,6 - 5 x N5,1 - 10 x N> 10 x NPhosphatase              Rötung,     Erosionen, kleine  Mundschleim-UnverändertRötung,Geschwüre, festeGeschwüre,enteralehaut WundseinSpeisen möglichFlüssignahrungErnährung nicht    erforderlichmöglich      Nausea,nicht Erbrechenbehandlungs-refraktäresNauseatherapie-Erbrechenvorhandenvorübergehenddürftiges Erbrechen    Erbrechen          massiv, mit nichtvorübergehendmäßigbeträchtlich,HämorrhagieDiarrhoevorhanden< 2 d> 2 dTherapieund/oder    erforderlichDehydratation      Harnstoff-N< 1,25 x N1,25 – 2,5 x N2,6 - 5 x N5,1 - 10 x N> 10 x N(µmol/l)           Kreatinin< 1,25 x N1,25 – 2,5 x N2,6 - 5 x N5,1 - 10 x N (µmol/l)> 10 x N               ProteinurieKeine< = 3 g/l3,1 -10 g/l> 10 g/lNephrotisches     Syndro      HämaturieKeinemikroskopischbeträchtlichbeträchtlichObstruktion    u. Gerinnsel       LungeUnverändertdiskreteBelastungs-RuhedyspnoevollständigeRuhe  Veränderungdyspnoe    erforderlich           Fiebernicht< = 38° C38 - 40° C> 40° CFieber mitvorhanden    Blutdruckabfall              Broncho-spasmus,Broncho-    spasmus,    parenterale  nichtÖdemparenteraleanaphylaktischeAllergieTherapie nichtvorhanden TherapieReaktion  erforderlich   erforderlich                 exfoliative   trockenefeuchteDermatitis,HautUnverändertErythemDesquamation,Desquamation,Nekrosen,   Vesikulationen,Ulzerationchirurgische   Pruritus Therapie     erforderlich        minimalermäßigerVollständigevollständigeHaareUnverändertHaarverlustHaarverlustAlopezie,Alopezie,    reversibelreversibel      InfektionKeinegeringfügigmäßigbeträchtlichmassiv mit     RR-Abfall      HerzrhythmusUnverändertSinus-unifokalemultifokaleventrikuläre  tachykardieSVES,SVESTachykardie  > 100 in RuheVorhofarrhythmie          asymptomat.,vorübergehendsymptomat.
+
+symptomat.
+
+
+Herzfunktion
+Unverändertpathologischessymptomat.
+
+Dysfunktion auf
+Dysfunktion  EKG,DysfunktionTherapietherapierefraktär  US-Befund ansprechend          symptomatischerTamponade,Tamponade,PerikarditisKeineasymptomat.
+
+Erguss,
+Punktionoperative  ErgussPunktion nichterforderlichEntlastung   erforderlich erforderlich           BewusstseinUnverändertvorüber-SomnolenzSomnolenzKomagehende< 50% der> 50% der     LethargieWachstundenWachstunden         Parästhesienausgeprägtegravierende PeriphereUnverändertund/oderParästhesieParästhesienLähmungenNerven abgeschwächteund/oder mäßigeund/oder   SehnenreflexeMuskel-schwächebeträchtliche     Einschränkung     der Motorik       ObstipationnichtdiskretmäßigAuftreibung desAuftreibung des vorhanden  Leibes,Leibes,    SubileusErbrechen,     Ileus      Schmerznichtdiskretmäßiggravierendtherapierefraktär vorhanden           Tabelle 36. Graduierung der Toxizität (nach WHO 1979), (N = Normwert, SVES =
+supraventrikuläre Extrasystole, US = Untersuchung, symptomat. = symptomatisch, d = Tage)Der dritte Behandlungsarm wird als Kontrollgruppe randomisiert. Im Rahmen der EORTC-Studie sollen eine niedrige (5 Mio. IE) und mittlere (10 Mio. IE) Dosierung des Interferons bei gleicher kumulativer Gesamtdosis u.a. in ihrer Wirkung und Toxizität getestet werden. Ergebnisse der Studie liegen zum jetzigen Zeitpunkt noch nicht vor, da 1000 Patienten in die Studie eingeschlossen werden sollen. Die Frage nach der „Standard-IFN-α-Therapie” bleibt nach wie vor ungeklärt. Es liegt eine Tendenz zur höheren Dosis vor. Im Moment erhalten Melanompatienten im Stadium III häufiger eine Hochdosis-IFN-α-Therapie. Patienten mit einem Melanom im Stadium II werden sowohl nach dem Niedrigdosisschema als auch nach dem Hochdosisschema behandelt.
+
+In Deutschland liegen für IFN-α-2b (Intron A) seit Juli 1997 und für IFN-α- 2a (Roferon) seit Juni 1999 die Zulassungen für die Therapie bei Melanompatienten im Stadium II und III vor, Tumorstadien, die in hohem Maße rezidivgefährdet sind. Mit der zunehmenden Zahl an klinischen Studien wurde realisiert, dass eine IFN-α-Therapie zwar während der Injektionsphase „immunologisch schützt“, jedoch die protektiven, in Gang gesetzten Wirkmechanismen nach Ende der Therapie und besonders dann im Verlauf an Bedeutung verlieren.
+
+
+Der größte Teil der Nebenwirkungen unter der IFN-α-Therapie ist mit einem WHO I-II tolerabel. Akute Reaktionen auf die IFN-α-Therapie sind oft selbstlimitierend und verschwinden einige Tage oder Wochen nach der ersten IFN-α-Injektion.
+
+
+Nebenwirkungen nach WHO III-IV erfordern eine Reduktion der IFN-α- Dosis, eine Therapiepause oder einen Abbruch der IFN-α-Therapie.
+
+
+Empfehlungen zur Behandlung der Nebenwirkungen sind in Tabelle 21 zusammengefasst. Die vorangestellte Begleitmedikation der Grippe- symptomatik mit Paracetamol sollte gerade zu Beginn der IFN-α-Therapie konsequent eingesetzt werden. Ausgeprägte und für den Patienten doch oft belastende Nebenwirkungen reduzieren die Toleranz gegenüber einer IFN-α-Therapie. Am Beispiel der Grippesymptomatik lässt sich sagen,
+dass das Gros der Patienten mit einer Paracetamol-Therapie von 1-2 Tabletten (à 500 mg) vor oder bei der Injektion von IFN-α und einer 2. Einnahme 2 bis 4 Stunden später auskommt und die grippale Symptomatik von Beginn an tolerabel ist. Unter der Erhaltungstherapie zeigt sich, wenn auch individuell verschieden, eine Gewöhnung und eine abgeschwächte Symptomatik.
+
+Eigene Erfahrungen der Patienten führen schließlich dazu, dass ein Teil der Patienten vollständig auf die Begleitmedikation verzichten kann. Nur ein kleiner Teil des Behandlungskollektivs bedarf einer IFN-α- Therapieumstellung und medikamentöser Ergänzung. Sonderfälle sind grippale oder virale Infekte, die mit aufgepfropfter gleicher Symptomatik eventuell eine therapeutisch ergänzende Begleitmedikation erfordern.
+
+
+Meist treten ca. 2-3 Stunden nach der ersten IFN-α-Injektion Symptome wie Fieber, Gliederschmerzen, Kopfschmerzen, Myalgien, Arthralgien, gastrointestinale Symptome und Müdigkeit auf.
+
+
+Erhöhte Temperaturen normalisieren sich oft schon innerhalb von 12 Stunden. Sekundäres Fieber produzierende Mediatoren wie IL-1, IL-2, Prostaglandin E2 und TNF-α, die durch IFN induziert werden, tragen zur Grippesymptomatik bei (Boccia V 1994).
+
+
+Von den 115 Melanompatienten unseres Kollektivs, die eine IFN-α- Therapie erhalten hatten, entwickelten 49% grippale Symptome.
+
+
+In unserem Patientenkollektiv wurde die Auswertung nur bei 115 Patienten abgeschlossen, da bei 12 Patienten aufgrund der Stärke der Nebenwirkungen die Interferontherapie vorzeitig abgebrochen werden musste (s. Abbildung 17). Bei 7 weiteren Patienten wurde die initiale Wochendosis von 100 µg/Wo. s.c. auf 50 µg/Wo. s.c. reduziert. Bei diesen Patienten wurden keine weiteren Nebenwirkungen beobachtet, und die Therapie konnte weiter wie geplant problemlos fortgeführt werden.
+
+
+Bei unseren ausgewerteten 115 Patienten wurden bei 45% Gewichtsverlust (3-7 kg) und Diarrhoe, bei 63% Müdigkeit, bei 49%
+erhöhte Körpertemperatur mit grippeähnlicher Symptomatik und Gliederschmerzen, bei 5% Vitiligo, bei 14% Thyreoiditis, bei 25% Depressionen, bei 23% erhöhte Leberwerte, bei 35% Kopfschmerzen, bei 47% Myalgien, bei 15% der Männer Libidoverlust, bei 10% Tachykardie und Hypotonie, bei 13% Nausea, bei 8% Haarausfall und bei 3% generalisiertes Exanthem begleitet von Pruritus und Hauttrockenheit beobachtet.
+
+Es konnte eine Korrelation zwischen steigender IFN-α-Dosis und Anzahl der betroffenen Patienten mit starken Nebenwirkungen beobachtet werden. Somit wurde eine Erniedrigung der Dosis erforderlich.
+
+
+In den Produktbeschreibungen von IFN-α (Roferon®, IntronA®) werden vaskulär bedingte Nebenwirkungen angegeben, jedoch läßt sich ein grundsätzlicher Pathomechanismus für vaskuläre Schäden nicht beweisen.
+
+
+Eine Patientin unseres Kollektivs, die mit 3x3 Mio. IE IFN-α behandelt wurde, entwickelte während der Therapie Drehschwindelattacken und cerebelläre Symptome, die sich in Form eines ataktischen Ganges äußerten. Ein MRT des Schädels wies auf möglicherweise abgelaufene Hirnstamminfarkte hin, die durch die IFN-α-Therapie ausgelöst worden sein könnten. Eine Prädisposition für einen Hirninfarkt lag bei unserer Patientin nicht vor. Die Therapie wurde nach Eintreten der Symptomatik sofort abgebrochen.
+
+
+Drapier und Mitarbeiter berichten in einem Fallbeispiel von einer Patientin mit Leberkarzinom, die während der Therapie mit IL-2 und IFN-α mehrere Schlaganfälle erlitt (Drapier S et al. 2000).
+
+
+Salman und Mitarbeiter befassten sich in einer Studie mit dem Effekt von IFN-α auf die Myokardgefäße von Mäusen. Eine signifikante Zunahme der Endotheldicke in den Myokardgefäßen der mit IFN-α behandelten Mäuse im Vergleich zu den nicht behandelten Mäusen konnte gezeigt werden. Als Folge wurde das kapilläre Lumen der Gefäße kleiner (Sacchi S et al. 1995).
+
+
+Neuropsychiatrische Nebenwirkungen einer IFN-α-Therapie wie Verhaltensänderungen, Bewußtseinsstörungen, Antriebslosigkeit und Anfallsleiden beeinflussen die Lebensqualität des behandelten Patienten oft stark und traten entsprechend publizierter Daten bei 13-60% der Patienten auf (Metrisch O et al. 1990, Prasad S et al. 1992). Verhaltensänderungen der Patienten wurden eher bei hoch dosierter Gabe (20 Mio. IE) als bei niedrig dosierter (5 Mio. IE) IFN-α-Therapie beobachtet (Meiranen A et al. 1988).
+
+
+Das Fatigue-Syndrom ist nur im Zusammenhang mit der Hochdosistherapie geschildert worden und trat dort bei bis zu 90% der behandelten Patienten auf (Adams F et al. 1984, Jones GJ et al. 1986). In unserem Kollektiv wurde es bei 49 % der Patienten beobachtet.
+
+
+Zum Thema zerebrale Symptomatik berichten Fallbeschreibungen von Patienten, bei denen es während der IFN-α-Therapie zu Anfällen (Jannsen HLA et al. 1990), Leukoenzephalopathie (Meyers FJ Jr et al. 1995), Oculomotorius-Parese (Bauherz G et al. 1990), Opticus-Neuropathie (Manesis EK et al. 1994) oder Trigeminus-Neuropathie (Read SJ et al. 1995) gekommen ist.
+
+
+Auch in unserem Kollektiv entwickelte eine Patientin eine Leukenzephalopathie unter dem klinischen Bild einer homonymen Hemianopsie, die mittels MR diagnostisch gesichert wurde. Trotz des sofortigen Therapieabbruchs ist dieser Befund bisher unverändert.
+
+
+Die meisten neurologischen Symptome persistieren für die Dauer der Therapie und normalisieren sich nach Beendigung der IFN-α-Gabe. Das Zeitintervall, in dem eine Besserung von den Patienten angegeben wird, ist sehr unterschiedlich. Eine subjektive Besserung der durch neurologische Nebenwirkungen belasteten Patienten macht sich bereits in der ersten Woche nach Beendigung der IFN-α-Therapie bemerkbar. Die durch Müdigkeit, Abgeschlagenheit und Antriebslosigkeit zurückgestellten Aktivitäten können wieder geplant und angegangen werden. Es dauert
+jedoch meist mehrere Wochen, bis ein Patient seine frühere Kondition wieder erreicht hat.
+
+Um Vorbehalte abzubauen und die Belastung und Anspannung des Patienten zu minimieren, ist es wichtig, ausführlich und verständlich über das Spritzen, das Mitführen des IFN-α in der Kühlbox, Lagerungszeiten etc. aufzuklären. Die IFN-α-Therapie darf nicht zum Handicap werden, sondern muss auch im Rahmen einer von den Patienten gewünschten Reise leicht durchführbar sein. Dies erleichtert dem Patienten eine positive Einstellung.
+
+
+Das Auftreten von Autoimmunerkrankungen wie Hyper-/Hypo- thyreoidismus, Thyreoiditis, Pemphigus vulgaris, bullösem Pemphigoid, systemischem Lupus erythematodes (SLE), Dermatomyositis (DM), Sklerodermie (SCS), rheumatoider Arthritis und Reiter-Syndrom, induziert durch eine IFN-α-Therapie, ist mehrfach beschrieben worden (Cleveland MG et al. 1993, Graninger WB et al. 1991, Parodi A et al. 1993, Rönnblom LE et al. 1991, Sacchi S et al. 1995, Schilling PJ et al. 1991, Vial T et al. 1994, Wandl UB et al. 1992). In unserem Patientenkollektiv wurden bei 14% der Fälle Thyreoiditis, bei 8% Alopecia areata und bei 5% Vitiligo beobachtet, die einige Wochen später nach Abbruch der Therapie verschwanden.
+
+
+Sacchi und Mitarbeiter diagnostizierten bei 28 von 581 Patienten (4,8%) mit chronisch myeloischer Leukämie, die mit IFN-α behandelt worden waren (5x10 Mio. IE/Tag), anhand klassischer Symptome, Klinik und Laborparameter Hypothyreoidismus, SLE, SCS oder DM (Sacchi S et al. 1995). In unserem Kollektiv war nur eine Patientin mit bekannter chronisch myeloischer Leukämie, die Interferon nur in einer Dosis von 50 µg 3x wöchentlich gut vertrug. Bei den ersten Gaben von 100 µg entwickelte sie schwere Müdigkeit, Gewichtsverlust und Fieber über 39,5° C sowie diffuse Alopezie.
+
+
+Auch das Auftreten eines insulinabhängigen Diabetes mellitus bei Patienten, die mit IFN-α behandelt wurden, wird in der Literatur vereinzelt
+registriert (Fabris P et al. 1992, Guerci AP et al. 1994). Die Blutzuckerwerte bei 3 unserer insulinabhängigen Diabetes-mellitus-Patienten während der IFN-Therapie waren unauffällig, und die Therapie wurde problemlos vertragen.
+
+Einige Autoren fanden eine Assoziation zwischen dem Auftreten bestimmter HLA-Typen (HLA-A2, HLA-B7, HLA-DR2) und dem Risiko für die Entstehung eines IFN-α-induzierten SLE (Rönnblom LE et al. 1991). Die Prognose der Melanompatienten mit IFN-α-induziertem SLE ist gut, insofern als nach Therapieende die Befunde rückläufig sind. Bei eventuell persistierendem SLE wird eine immunsuppressive Therapie notwendig. Für diese dann in Folge immunsupprimierten Melanompatienten wurde kein Rezidiv oder Progress der Grunderkrankung beschrieben (Sacchi S et al. 1995, Vial T et al. 1994). Dass für Melanompatienten unter Immunsuppression ein erhöhtes Risiko eines Rezidivs oder Progresses besteht, wird auf Grund von Transplantationsdaten angenommen. Bei unseren 2 SLE- und einem LE-Patienten wurde die Therapie gut vertragen und eine minimale Verschlechterung wurde nur am Anfang der Therapie beobachtet.
+
+
+Eine Dermatose, die besonders dem Einfluss von IFN-α unterliegt, ist die Psoriasis, sowohl Induktion als auch aggravierter Verlauf sind bekannt (Barger L et al. 2000, Funk J et al. 1991).
+
+
+Auch bei einer unserer Patientinnen verschlechterte sich eine vor der Therapie geringfügig ausgeprägte Psoriasis unter einer Dosierung von 3x3 Mio. IE IFN-α. Die Psoriasis besserte sich adäquat unter einer Behandlung mit Psorcutansalbe. Der Verlauf der Psoriasis war stabil, die Ausdehnung der Herde verringerte sich von 60% der Körperoberfläche auf 2%, so dass die IFN-α–Therapie unverändert fortgeführt wurde.
+
+
+Unter einer IFN-α-Therapie werden hämatologische Veränderungen dokumentiert. Durch eine Unterbrechung der Therapie oder Dosisreduktion normalisieren sich die Blutwerte häufig wieder. Einige Einzelfallstudien beschreiben eine Antikörper-vermittelte Zerstörung von Erythrozyten und
+Thrombozyten, die unter einer IFN-α-Therapie auftrat (Abdi EA et al. 1986, Akard LP et al. 1986, Braathen LR et al. 2000, Shrestha R et al. 1995).
+
+Eine IFN-α-Therapie kann eine Steroid-refraktäre idiopathische thrombozytopenische Purpura induzieren, die mit schweren und manchmal sogar lebensgefährlichen Hämorrhagien einhergeht (Benjamin S et al. 1991, Matthey F et al. 1990). In unserem Patientenkollektiv zeigten einige Patienten zu Beginn der IFN-α-Therapie hämatologische Veränderungen. Diese beschränkten sich auf Knochenmark-Suppressionen mit Senkung der Leukozyten- und Thrombozytenzahlen, und die Therapie wurde weiter mit guter Verträglichkeit fortgeführt.
+
+
+Die nephrotoxischen Effekte bei einer IFN-α-Therapie bleiben oft milde bis asymptomatisch wie in unserer Studie, es wurden aber auch schwere, lebensbedrohliche Nierenschäden beschrieben. Diese können sich in Form von Oligurie, akutem Nierenversagen, nephrotischem Syndrom und hämolytisch-urämischem Syndrom manifestieren. (Aul C et al. 1996, Ault BH et al. 1988, Averbuch SD et al. 1984, Ayub A et al. 1993, Durand JM et al. 1995, Harvey M et al. 1994, Herrman J et al. 1987, Jadoul M et al. 1995, Lederer E et al. 1992, Nair S et al. 1992, Noel C et al. 1992, Rettmar K et al. 1995, Sawamura M et al. 1992, Schlaifer D et al. 1994, Selby P et al. 1985, Stratta P et al. 1993).
+
+
+In unserem Patientenkollektiv entwickelten 14 Patienten in den ersten Tagen der IFN-α-Therapie Harnstoff- und Kreatininwerte nach WHO II. Bereits bei der 6. IFN-α-Injektion lagen diese Laborwerte wieder im Normbereich.
+ Die durch IFN-α induzierten renalen Dysfunktionen sind zumeist reversibel.
+
+
+Bei den Patienten, die von Lederer und Troung (Lederer E et al. 1992) bzw. Nair (Nair S et al. 1992) sowie Durand und Mitarbeitern (Drepper H et al. 1994) vorgestellt wurden, war die renale Dysfunktion irreversibel und führte bei den betroffenen Patienten zu Nierenfunktionsstörungen, die eine Hämodialyse erforderten. Dies ist jedoch eher als Ausnahme zu werten, da
+sich in den meisten Fällen die Nierenfunktion nach Abbruch/Beendigung der IFN-α-Therapie wieder normalisiert.
+
+Kardiovaskuläre Nebenwirkungen des IFN-α wurden bei 5-20% der Patienten gefunden. Benigne Arrhythmien sind die häufigsten Symptome bei IFN-α-induzierten kardiovaskulären Nebenwirkungen, wie sich auch in unserem Patientenkollektiv bei 7 Patienten am Anfang der Therapie zeigte. Sie treten bei bis zu 20% der Patienten auf (Martino S et al. 1987). Lebensbedrohliche Arrhythmien entstehen in den seltensten Fällen einer IFN-α-Therapie. Sarna und Mitarbeiter allerdings beschreiben einen 56- jährigen Mann, der 4 Stunden nach seiner ersten IFN-α-Injektion zunächst über Luftnot klagte, 2 Tage später jedoch an einem Herz-Kreislauf- Stillstand verstarb (Sarna G et al. 1983).
+
+
+Zumeist werden jedoch eine leichte Hypotension (RR < 105/60) oder Hypertonie (RR > 160/90) und Angina-pectoris-artige Brustschmerzen unter IFN-α-Therapie beschrieben.
+
+
+Es kann im Verlauf der IFN-α-Therapie aber auch zur Entwicklung einer IFN-α-bedingten Kardiomyopathie kommen. Der erste Fall einer IFN-α- induzierten Kardiomyopathie wurde 1988 von Cohen und Mitarbeitern vorgestellt (Cohen MC et al. 1988). Sie beschrieben eine 62-jährige Frau mit einem Nierenzellkarzinom, die nach einer 4-wöchigen IFN-α-Therapie mit Dosierungen bis zu 35 Mio. IE/Tag eine dilatative Kardiomyopathie entwickelte. Die Patientin verstarb jedoch letztlich an der metastasierenden Krankheit. In unserem Kollektiv trat kein Fall einer IFN-α-induzierten Kardiomyopathie auf.
+
+
+Kardiale Nebenwirkungen während der Therapie wurden in unserem Kollektiv bei 7 Patienten dokumentiert. Bei 4 von ihnen entwickelten sich lediglich in den ersten Therapietagen kardiovaskuläre Nebenwirkungen wie leichte Hypertonie, und bei 3 Patienten lag eine nicht behandlungsbedürftige Hypotonie vor. In der pT2-Gruppe gab ein Patient anamnestisch Herzstolpern zu Beginn der IFN-α-Therapie an, was von internistischer Seite ohne entsprechenden funktionellen Befund war. Ein
+Patient aus der pT4-Gruppe entwickelte während der IFN-α-Therapie eine Hypertonie mit Blutdruckwerten von 200/160 mm Hg, die durch Behandlung mit Adalat nicht kontinuierlich gesenkt wurden. Die IFN-α- Therapie musste vorzeitig abgebrochen werden. Der Blutdruck normalisierte sich nach 3 Tagen vollständig.
+
+Kardiovaskuläre Nebenwirkungen einer IFN-α-Therapie sind meistens dosisunabhängig und verschwinden nach den ersten Therapietagen. Risikofaktoren für die Entstehung kardialer Nebenwirkungen durch IFN-α sind das Alter des Patienten (Spiegel RJ 1986), vorbestehende Herzerkrankungen (Sonnenblick et al. 1991) und HIV-Infektionen (Deyton LR et al. 1989). Die Ausschlusskriterien für eine IFN-α-Therapie sind entsprechend angepasst.
+
+
+In einer Studie von Jones und Itri wurden 1019 Patienten mit verschiedenen onkologischen Erkrankungen täglich oder 3x/Woche mit einer IFN-α-Dosis von 1-24 Mio. IE über 8-16 Wochen behandelt. Es entwickelten 5 von 1019 Patienten (0,5%) einen Herzinfarkt. Vier von ihnen hatten eine Herz-/Kreislauferkrankung in der Vorgeschichte (Jones GJ et al. 1986). Patienten mit einem Herzinfarkt in der Vorgeschichte oder instabiler kardialer Funktion sollten dementsprechend von IFN-α- Protokollen ausgeschlossen werden.
+
+
+Eine strenge Einhaltung von Ein-/Ausschlusskriterien vor einer IFN-α- Therapie wird durch die aufgeführten Ergebnisse gestützt.
+
+
+Unter einer IFN-α-Therapie häufig auftretende laborchemische Veränderungen sind Erhöhungen der Leberenzyme und Veränderungen der Blutfette (Abnahme des Serum-Cholesterins, Hypertriglyzeridämie) (Jones GJ et al. 1986, Massaro E et al. 1986, Quesada JR et al. 1986, Spiegel RJ 1986). In unserem Patientenkollektiv kam es, bedingt durch den Metabolismus des IFN-α und seine Wirkung auf die Permeabilität der glomerulären Kapillarwand, bei 26% zur Erhöhung der Leberenzyme. Es zeigte sich ein dosisabhängiger Anstieg der Häufigkeit der Patienten mit einem Leberenzymanstieg. Bei insgesamt 12% der Patienten traten
+Veränderungen der Leberenzyme nach WHO III (SGOT/SGPT 5,1-10xN) auf, wobei 10 Patienten in den ersten 2-3 Therapietagen betroffen waren. Die Leberwerte normalisierten sich danach wieder. Es war eine Dosisreduktion des IFN-α oder eine Behandlung der Patienten nötig. Bei den anderen 7 Patienten war laut Therapieprotokoll eine Dosisreduktion von 100 µg auf 50 µg einmal wöchentlich gefordert. Diese führte dann zu einer Normalisierung der Leberwerte und begleitenden Nebenwirkungen in Form von Müdigkeit, Schwindel, Kopfschmerzen und Nausea. Wir können damit bestätigen, dass die Häufigkeit laborchemischer Veränderungen von der IFN-α-Dosis abhängig ist und nach Dosisreduktion eine Normalisierung der Laborparameter zu erwarten ist. 4.2. Besondere Nebenwirkungen der IFN-α-Therapie
+Es traten einige Nebenwirkungen der IFN-α-Therapie in unserem Kollektiv auf, die im Folgenden gesondert aufgeführt werden.
+
+Eine Patientin entwickelte im Rahmen ihres 4. IFN-α-Zyklusses einen einseitigen Hörverlust, der nach Abbruch der Therapie reversibel war.
+
+
+1988 beschrieben Croghan und Mitarbeiter 17 Melanompatienten in einer Phase-I-Studie, die mit IFN-α und DFMO (Difluormethylornithin) behandelt wurden. Drei Patienten, die 9x10 Mio. IE IFN-α erhalten hatten, entwickelten einen Hörverlust, der nach Abbruch der Therapie reversibel war (Croghan MK et al. 1988).
+
+
+Kanda und Mitarbeiter berichten von 38 Patienten, die mit IFN-α behandelt worden waren. Bei 15 Patienten (39,5%) trat ein Hörverlust während der Therapie auf. Der jeweilige Hörverlust zeigte sich hauptsächlich in den Endphasen der IFN-α-Therapie und war nach Abbruch der Therapie bei fast allen Patienten innerhalb von 7-14 Tagen reversibel (Kanda Y et al. 1995).
+
+
+In der Literatur beschreiben Piazza und Mitarbeiter 18 Männer mit einer chronischen Hepatitis C, die 6 Mio. IE IFN-α 3x/Woche über 18 Monate erhielten. 4 Patienten (22,2%) entwickelten während dieser Zeit sexuelle Dysfunktionen wie Libidoverlust, erektile Dysfunktion und Ejakulationsstörungen. Die Sexualhormone verringerten sich im 3. Be- handlungsmonat und lagen unterhalb der Normgrenzen, stiegen aber nach einigen Tagen in den Normbereich zurück (Pigatto PD et al. 1991).
+
+
+Da jedoch eine standardisierte und routinisierte Befragung zu den andrologischen Bereichen nur selten durchgeführt wird, ist von einer deutlichen Unterschätzung dieser Probleme auszugehen. Auch 11 unserer Patienten gaben während der IFN-α-Therapie einen Libidoverlust an. Es stellt sich die Frage, inwieweit die onkologische Erkrankung des Patienten mental zur Entwicklung dieser Nebenwirkung beigetragen hat.
+
+
+Eine weitere Patientin zeigte während der IFN-α-Therapie Veränderungen der Muskelenzyme nach WHO II. Nach Therapieende normalisierten sich die Werte wieder. Die Patientin leidet seit dieser Zeit an chronischen Muskel- und Knochenschmerzen, die den Verdacht zunächst auf eine Interferon-induzierte Dermatomyositis lenkten. Kutane, neurologische und laborchemische Testungen bestätigten den Verdacht nicht. Es besteht der Verdacht auf ein Fibromyalgie-Syndrom, da in ihrem Blutbild Anti- Serotonin-AK festgestellt wurden.
+
+
+Eine IFN-α-induzierte Dermatomyositis muss trotzdem als potenzielle Nebenwirkung einer IFN-α-Therapie gesehen werden, da Dietrich und Mitarbeiter einen Melanompatienten beschreiben, der eine Hochdosis- therapie mit IFN-α-2b erhalten hatte und eine Dermatomyositis entwickelte (Dietrich LL et al. 2000).
+
+
+5. Zusammenfassung
+Die Inzidenz maligner Melanome steigt ständig. Zurzeit werden in Deutschland 12 bis 16 (München 14-16) Neuerkrankungen pro 100.000 Einwohner registriert. Aufgrund der Früherkennung verbessern sich die 5-Jahres-Überlebensraten. Dennoch bedürfen immer mehr Patienten einer postoperativen Therapie. Hier hat sich in den letzten Jahren Interferon-α als einziges adjuvantes Therapeutikum etabliert. Je nach verwendetem Interferon, Verabreichungsform und Dosis sowie Metastasenlokalisation und Vorbehandlung können verschiedene Remissionsraten erzielt werden. Die vorliegende Studie basiert auf Daten einer retrospektiven Untersuchung von 127 Melanompatienten mit neu aufgetretenen oder bekannten sowie metastasierenden Melanomen, die im Zeitraum von 2000-2006 in der Klinik und Poliklinik für Dermatologie und Allergologie der Technischen Universität München aufgenommen, diagnostiziert und behandelt wurden.
+
+In die retrospektive Untersuchung wurden 58 Frauen und 69 Männer eingeschlossen. Das Durchschnittsalter betrug 58,3 Jahre (26-86 Jahre). Bevor ein Patient mit IFN-α behandelt werden konnte, wurden entsprechend eines klinischen Standards unter Berücksichtigung von Ein- und Ausschlusskriterien eine Ausbreitungsdiagnostik sowie körperliche und laborchemische Untersuchungen veranlasst. Waren alle Kriterien erfüllt und hatte der Patient schriftlich der IFN-α-Therapie zugestimmt, wurde diese eingeleitet: Applikation von 50-100 µg pegyliertem Interferon- α-2b 1x/Wo. s.c. oder nicht pegyliertem Interferon-α-2a 3x3 Mio. IE wöchentlich über mindestens 12 Monate im Anschluss an eine initiale Therapie mit 18 Mio. IE Interferon-α-2b i. v., die über 5 Tage bis spätestens 6 Wochen nach der primären Operation oder Metastasenexzision des bekannten Melanoms begonnen wurde. Regelmäßige Nachsorgeuntersuchungen mit klinischen und laborchemischen Kontrolluntersuchungen alle 4 bis 12 Wochen während der Therapie und alle 3 bis 6 Monate nach Therapieende
+(Nachbeobachtungszeit von 12 bis 36 Monaten) sowie Nachsorge- diagnostik Tumormarker (S100, MIA), Sonographie (Oberbauch, Lymphknoten), PET, cMRT, CT wurden durchgeführt. Die Daten der 127 Patienten wurden anhand von Papierakten und Nachsorge- Folgeerhebungsbogen erhoben, tabellarisch zusammengestellt, graphisch bearbeitet und ausgewertet jeweils 12 bzw. 36 Monate nach Beginn der Interferontherapie. Aufgrund der Nebenwirkungen und schlechter Verträglichkeit bei 12 Patienten wurde die Therapie vorzeitig abgebrochen. Somit nahmen 115 Patienten an der vollständigen Auswertung teil.
+
+Die Ergebnisse der ersten Auswertung nach 12 Monaten Interferon- Therapie zeigten: keinen Progress bei 77 (66,9%) der behandelten Patienten, Progress bei 29 (25,2%) Patienten, Tod bei 9 (7,9%) Patienten. Die Ergebnisse der zweiten Auswertung nach 36 Monaten zeigten: keinen Progress bei 39 (33,9%) der behandelten Patienten, Progress bei 54 (46,9%) Patienten und Tod bei 22 (19,2%) Patienten. Die mittlere Behandlungszeit betrug 14,5 Monate. Es wurde eine gute allgemeine Verträglichkeit und eine geringe Nebenwirkungsrate beobachtet. Bei 12 Patienten (10,4%) kam es zu einem Therapieabbruch wegen der aufgetretenen Nebenwirkungen.
+
+
+Der Einsatz von IFN-α in der Therapie des malignen Melanoms zeigte bezüglich der remissionsfreien Zeit in unserer Studie ähnliche Ergebnisse wie in anderen randomisierten Studien. Auf Grund vereinzelter dem widersprechender Therapieerfolge kann jedoch auch heute noch kein klares Konzept für eine “Standard”-IFN-α-Therapie vorgelegt werden. Besonders die bei einer IFN-α-Therapie auftretenden Nebenwirkungen beeinflussen den rückhaltlosen Einsatz, denn sie können, wie auch unsere Ergebnisse zeigen, zu einem Therapieabbruch führen.
+
+
+6. Literatur
+Abdi EA, Brien W, Venner PM. Auto-immune thrombocytopenia related to interferon therapy. Scand J Haematol 36 (5): 515-519, 1986Abdi EA, Venner PM. Immune thrombocytopenia after α-interferon therapy in patients with cancer. JAMA 255 (14): 1878-1879, 1986Adams F, Quesada JR, Gutterman JU. Neuro psychiatric manifestations of human leukocyte interferon therapy in patients with cancer. JAMA 252 (7): 938-941, 1984Ahmann DL, Greagen ET, Hahn RG, Edmonson JH, Bisel HF, Shaid DJ. Complete responses and long-term survivals after systemic chemotherapy for patients with advanced malignant melanoma. Cancer 63 (2): 224-227, 1989Akard LP, Hoffmann R, Elias L, Saiers JH. Alpha - interferon and immune hemolytic anemia. Ann Intern Med 105 (2): 306, 1986Anderlini P, Buzaid AC, Legha SS. Acute rhabdomyolysis after concurrent administration of interleukin-2, interferon-α and chemotherapy for metastatic melanoma. Cancer 76 (4): 678-679, 1995Anonymous. Interferon ß-1b for multiple sclerosis. Med Lett Drugs Ther 35 (900): 61-62, 1993Asnis LA, Gaspari AA. Cutaneous reactions to recombinant cytokine therapy. J Am Acad Dermatol 33 (3): 393-410, 1995Aul C, Minning H, Sudhoff T, Gattermann N, Heyll A. Recurrent reversible nephrotic syndrome during therapy with recombinant interferon alpha. Am J Hematol 54: 91,1997Ault BH, Stapleton FB, Gaber L, Martin A, Roy S, Murphy SB. Acute renal failure during therapy with recombinant human gamma interferon. N Engl J Med 319 (21): 1397-1400, 1988Autier P, Dore JF. Influence of the sun exposures during childhood and during adulthood on melanoma risk. Int J Cancer 77: 533-537, 1998Averbuch SD, Austin HA 3rd, Sherwin SA, Antonovych T, Bunn PA, Jr, Longo DL. Acute interstitial nephritis with the nephrotic syndrome following recombinant leukocyte a interferon therapy for mycosis fungoides. N Engl J Med 310 (1): 32-35, 1984Ayub A, Zafar M, Al-Harbi A, Ellis M. Qunibi W. Acute renal failure with a - interferon therapy: a case report. Med Sci Res 21: 123-124, 1993Balch CM, Buzald AC, Soong S-J, Atkins MB, Cascinelli N, Coit DG, Fleming ID, Gershenwald JE, Houghton A Jr, Kirkwood, McMasters KM, Mihm MF, Morton DL, Reintgen DS, Ross MI, Sober A, Thompson JA, Thompson JF. Final version of the American Joint Committee on Cancer staging system for cutaneous melanoma. J Clin Oncol 19: 3635-3648, 2001Balch CM, Soong SJ, Murad TM, Smith JW, Maddox WA, Durant JR. A multifactorial analysis of melanoma. IV. Prognostic factors in 200 melanoma patients with distant metastases (stage III). J Clin Oncol 1 (2): 126-134, 1983Balkwill F, Taylor-Papadimitriou J. Interferon affects both G1 and S+G2 in cells stimulated from quiescence to growth. Nature 274 (5673): 798-800, 1978 Balkwill F. Peptide regulatory factors. Lancet 1060-1063, 1989
+Barger L, Descamps V, Marck Y, Dehen L, Grossin M, Crickx B, Marcellin P, Belaich S. Alpha interferon-induced eczema in atopic patients infected by hepatitis C virus: 4 case reports. Ann Dermatol Venereol 127 (1): 51-55, 2000Basham TY, Merigan TC. Recombinant interferon-gamma increases HLA-DR synthesis and expression. J Immunol 130 (4): 1492-1494, 1983Bauherz G, Soeur M, Lustman F. Oculomotor nerve paralysis induced by alpha-II-interferon. Acta Neorol Belg 90 (2): 111-114, 1990Benjamin S, Bain BJ, Dodsworth H. Severe bleeding associated with worsening thrombocytopenia following alpha interferon therapy for autoimmune thrombocytopenic purpura. Clin Lab Haematol 13 (3): 315-317, 1991Berking C. Bedeutung von ultravioletter Strahlung beim malignen Melanom. Hautarzt 56: 687-696, 2005Blasi E, Herberman RB, Veresio L. Requirement for protein synthesis for induction of macrophage tumoricidal activity by INF-α and INF-beta but not by INF-gamma. J Immunol 132 (6): 3226-3228, 1984Bleehen N, Newlands E, Lee S, Can Thatcher N, Selby P. Cancer research campaign phase II trial of temozolomide in metastatic melanoma. J Clin Oncol 13 (4): 910-913, 1995Bliss JM, Ford D, Swerdlow AJ, Armstrong BK, Cristofolini M, Elwood JM, Green A, Holly EA, Mack T, MacKie RM. Risk of cutaneous melanoma associated with pigmentation characteristics and freckling: Systematik overview of 10 case-control studies. The International Melanoma Analysis Group (IMAGE). Int J Cancer 62: 367-376, 1995Bocchia M, Bronte V, Colombo MP, De Vincentiis A, Di Nicola M, Forni G, Lanata L, Lemoli R M, Massaia M, Rondelli D, Zanon P, Tura S. Antitumor vaccination: where we stand. Haematologica 85 (11): 1172-1206, 2000Bocci V. Pharmacology and side-effects of interferons. Antiviral Res 24 (2-3): 111-119, 1994Bocci V. Distribution, catabolism and pharmacokinetics of interferons. Interferon, Vol. 4 Elsevier, Amsterdam: 47-72, 1985Box NF, Duffy DL, Irving RE, Russell A, Chen W, Griffyths LR, Parsons PG, Green AC, Sturm RA. Melanocortin-1 receptor genotype is a risk factor for basal and squamous cell carcinoma. J Invest Dermatol 116: 224-229, 2001Braathen LR, Stavem P. Autoimmune haemolytic anaemia associated with interferon alfa2a in patient with mycosis fungoides. Br Med J 298 (6689): 1713, 1986Breslow A. Thickness, cross-sectional areas and depth of invasion in the prognosis of cutaneous melanoma. Ann Surg 172 (5): 902-908, 1970Brochez L, Naeyaert JM. Serological markers for melanoma. Br J Dermatol 143: 256-268, 2000Bröcker EB, Macher E. Stand in der Therapie des malignen Melanoms. MMW Sonderdruck 131 28/29: 543-546, 1989Buchels HK, Bachter D, Balda BR, Vogt H, Buchels H. Primary therapy of malignant melanomas: sentinel lymphadenectomy. Int J Dermatol 37 (4): 278- 282, 1998Burke F, Naylor MS, Davies B, Balkwill F. The cytokine wall chart. Immunol Today 14 (4): 165-170, 1993Ceballos PI, Ruiz-Maldonado R, Mihm MC Jr. Melanoma in children. N Engl J Med 332: 656-662, 1995Chang L, Liranzo M, Bergfeld WF. Cutaneous side effects associated with interferon-α therapy: a review. Cutis 56 (39: 144, 1995Christian MM, Diven DG, Sanchez RL, Soloway RD. Injections site vasculitis in a patient receiving interferon α for chronic hepatitis C. J Am Acad Dermatol 37 (1): 118-120, 1997Clark W, From l, Bernadino E, Mihm MC. The histiogenesis and biologic behavior of primary human malignant melanoma of the skin. Cancer Res 29: 705-726, 1969Cleveland MG, Malory SB. Incomplete Reiter’s Syndrom induced by systemic interferon a treatment. J Am Acad Dermatol 129: 788-789, 1993Cohen MC, Huberman MS, Nestro RW. Recombinant alpha - 2 interferon- related cardiomyopathy. AM J Med 85 (4): 549-551, 1988Conlon KC, Urba WJ, Smith JW 2nd, Steis RG, Longo DL, Clark JW. Exacerbation of symptoms of autoimmune disease in patients receiving α- interferon therapy. Cancer 65 (10): 2237-2242, 1990Cooke KR, Fraser J. Migration and death from malignant melanoma. Int J Cancer 36 (2): 175-178, 1985 Craig LS jr., Vollmer RT, Seigler HF. Multiple primary melanoma: Incidence
+ and risk factors in 283 patients. Surgery 113: 330-339, 1993
+Creasy AA, Bartholomew JC, Merigan TC. Role of G0-G1 arrest in the inhibition of tumor cell growth by interferon. Proc Natl Acad Sci USA 77: 1471- 1475, 1980Croghan MK, Booth A, Meyskens FL Jr. A phase I trial of recombinant interferon-alpha and alpha – difluoromethylornithine in metastatic melanoma. J Biol Response Mod 7 (4): 409-415, 1988Crombie IK. Racial differences in melanoma incidence. Br J Cancer 40: 185- 193, 1979Czajkowski R, Placek W, Drewa G, Czajkowska A, Uchanska G. FAMMM syndrome: pathogenesis und management. Dermatol Surg 30: 291-296, 2004De Vita VT, Hellmann S, Rosenberg SA. Cancer principles and practice of Oncology. 2. Ed.: Vol. 1 and 2, JB Lippincott Company, Philadelphia, 1985Dayton LR, Walker RE, Kovacs JA, Herpin B, Parker M, Masur H, Fauci AS, Lane HC. Reversible cardiac dysfunction associated with interferon alfa therapy in AIDS patients with Kaposi’s sarcoma. N Engl J Med 321 (18): 1246- 1249, 1989Dietrich LL, Bridges AJ, Albertini MR. Dermatomyositis after interferon alpha treatment. Med Oncol 17 (1): 64-69, 2000Dorval T, Palangie T, Jouve M, Garcia-Giralt E, Israel L, Falcoff E, Schwab D, Pouillart P. Clinical phase II trial of recombinant DNA interferon (interferon α 2b)in patients with metastatic malignant melanoma. Cancer 58 (2): 215-218, 1986Drapier S, Kassiotis P, Mourtada I, Pinel JF, Edan G. Multiple cerebral infarcts associated with livedo secondary to anti-cancer therapy with interleukin 2 and interferon alpha. Rev Neurol 156 (10): 789-791, 2000Drepper H, Kohler CO, Bastian B, Breuninger H, Bröcker E-B, Göhl J, Groth W, Hermanek P, Hohenberger W, Lippold A. Prognosevorteil für definierte Risiko-gruppen durch die Lymphknotendissektion. Langzeitstudie an 3616 Melanom-patienten. Hautarzt 45 (9): 612-622, 1994Dummer W, Blaheta HJ, Bastian BC, Schenk T, Bröcker EB, Remy W. Preoperative characterization of pigmented skin lesions by epiluminescence microscopy and high-frequency ultrasound. Arch Dermatol 131 (3): 279-285, 1995Durand JM, Retornaz F, Cretel E, Kaplanski G, Soubeyrand J. Crescentic glomerulonephritis during treatment with interferon - a2b. Am J Haematol 48 (2): 140-141, 1995Eggermont AM, Suciu S, MacKie R, Ruka W, Testori A, Kruit W, Punt CJ, Delauney M, Sales F, Groenewegen G, Ruiter DJ, Jagiello I. Post-surgery adjuvant therapy with intermediate doses of interferon alfa 2b versus observation in patients with stage IIb/III melanoma (EORTC 18952): randomised controlled trial. Lancet 366: 1189–1196, 2000Eggermont AM, Suciu S, Santinami M, Testori A, Kruit WHJ, Marsden J, Punt CA, Sles F, Gore M, MacKie R, Kusic Z, Dummer R, Hauschild A, Musat E, Spatz A, Keilholz U, for the EORTC Melanoma Group. Adjuvant therapy with pegylated interferon α-2b versus observation alone in resected stage III melanoma. Lancet 372: 117-126, 2008Fabris P, Betterle C, Floreani A, Greggio NA, de Lazzari F, Naccarato R, Chiaramonte M. Development of type 1 diabetes mellitus during interferon alfa therapy for chronic HCV hepatitis. Lancet 340 (8818): 548, 1992Farell PJ, Sen GC, Dubois MF, Ratner L, Slattery E, Lengyel P. Interferon action: two distinct pathways for inhibition of protein synthesis by double- stranded RNA. Proc Natl Acad Sci USA 75, 12: 5893-5897, 1978 Friedman RM. Interferons: A Primer. Academic Press, New York: 2-7, 1981
+Friedmann RJ, Rigel DS, Kopf AW. Early detection of malignant melanoma: the role of the physician examination and self examination of the skin. Cancer J Clin 35: 130-151, 1985Fritsch P. Dermatologie und Venerologie. Lehrbuch, Springer Verlag: 585 ff, 1998Funk J, Langeland T, Schrumpf E, Iannsen I-LE. Psoriasis induced by interferon α. Br J Dermatol 125 (5): 463-465, 1991Garbe C, Blum A. Epidemiology of cutaneous melanoma in Germany and worldwide. Skin Pharmacol Appl Skin Physiol 14: 280-290, 2001Garbe C, Buttner P, Weiss J, Soyer HP, Stocker U, Kruger S, Roser M, Weckbecker J, Panizzon R, Bahmer F. Risk factors for developing cutaneous melanoma and criteria for identifying persons at risk: multicenter case-control study of the Central Malignant Melanoma Registry of the German Dermatological Society. J Invest Dermatol 102: 695-705, 1994Garbe C, Orfanos CE. Epidemiologie des malignen Melanoms in der BRD im internationalen Vergleich. Onkologie 12 (6): 253-262, 1989Garbe C, Zouboulis CC, Krüger S, Waibel M, Kreuser E-D, Stadler R, Orfanos CE. Kombination von Interferon-α mit Zytostatika: erfolgversprechender Therapieansatz beim metastasierten Melanom. Hautarzt 43 (1): 4-10, 1992 Garbe C. Sonne und malignes Melanom. Hautarzt 43: 251-257, 1992
+Gibbs P, Robinson WA, Pearman N, Raben D, Walsh P, Gonzalez R. Management of primary cutanous melanoma of the head and the neck: The University of Colorado experience and review of the literature. J Surg Oncol 77 (3): 179-185, 2001Gogas H, Bafaloukos D, Ioannovich J, Skarlos D, Polyzos A, Fountzilas G, Kalofonos HP, Aravantinos G, Tsoutsos D, Panagiotou P, Frangia K, Petrakopoulou T, Pectasides D; Hellenic Coperative Oncology Group. Tolerability of adjuvant high-dose interferon alfa-2b: 1 month versus 1 year--a Hellenic Cooperative Oncology Group study. Anticancer Res 24(3b): 1947- 1952, May-Jun 2004Graninger WB, Hassfeld W, Pesau BB, Machold KP, Zielinski CC, Smolen JS. Induction of systemic lupus erythematosus by interferon - gamma in a patient with rheumatoid arthritis. J Rheumatol 18 (10): 1621-1622, 1991Greenfield SM, Harvey RS, Thompson RP. Rhabdomyolysis after treatment with interferon α. Brit Med J 309 (6953): 512, 1994Gresser I, Bourali C. Antitumor effects of interferon preparations in mice. J Nat Cancer Inst 45 (2): 365-376, 1970Grob JJ, Dreno B, de la Salmoniere P, Delaunay M, Cupissol D, Guillot B, Souteyrand P. Randomised trial of interferon alpha-2a as adjuvant therapy in resected primary melanoma thicker than 1.5 mm without clinically detectable node metastases. Lancet 351 (9120): 1905-1910, 1998 Guerci AP, Guerci B, Lévy-Marchal C, Ongagna, J, Ziegler O. Onset of insulin
+-dependent diabetes mellitus after interferon-alpha therapy for hairy cell leukemia. Lancet 343 (8906): 1167-1168, 1994Guyer DR, Tiedeman J, Yannuzzi LA, Slakter JS, Parke D, Kelley J. Interferon- associated retinopathy. Arch Ophtalmol 111 (3): 350-356, 1993Hall HI, Miller DR, Rogers JD, Bewerse B. Update on the incidence and mortality from melanoma in the United States. J Am Acad Dermatol 40: 35-42, 1999Harvey M, Rosenfeld D, Davies D, Hall BM. Recombinant interferon alpha and hemolytic uremic syndrome: cause or coincidence? Am J Hematol 46 (2): 152- 153, 1994Hauschild A, Hinrichsen H, Christophers E. Nebenwirkungen der Interferontherapie und deren Management. Hautarzt 51 (10): 793-800, 2000Herrman, Gabriel F. Membranoproliferative glomerulonephritis in a patient with hairy–cell leukemia treated with alpha-II interferon. N Engl J Med 316 (2): 112- 113, 1987 Ho VC, Sober AJ. Therapy for cutaneous melanoma: an update. J Am Acad
+ Dermatol 22 (2 Pt 1): 159-176, 1990
+Holly EA, Aston DA, Cress RD, Ahn DK, Kristiansen JJ. Cutaneous melanoma in women. II. Phenotypic characteristics and other host-related factors. Am J Epidemiol 141: 934-942, 1995Horoszewicz JS, Leong SS, Carter WA. Noncycling tumor cells are sensitive targets for the antiproliferative activity of human interferon. Science 206, 4422: 1091-1093, 1979Hovanessian AG, Brown RE, Kerr IM. Synthesis of low molecular weight inhibitor of protein synthesis with enzyme from interferon-treated cells. Nature 268 (5620): 537-540, 1977Iaacs A, Lindenmann J. Virus interference. I. The Interferon. By A. Isaacs and J. Lindenmann, J Interferon Res 7 (5): 429-438, 1957 Jadoul M, Piessevaux H, Ferrant A, Cosyns JP, van Ypersele de Strihou C.
+
+
+Renal thrombotic microangiopathy in patients with chronic myelogenous leukemia treated with interferon-a2b. Nephrol Dial Transplant 10 (1): 111-113, 1995
+Jannsen HLA, Berk L, Vermeulen M, Schalm SW. Seizures associated with low - dose alpha–interferon. Lancet 336 (8730): 1580, 1990Johnson TM, Smith JV 2nd, Nelson BR, Chang A. Current therapy for cutaneous melanoma. J Am Acad Dermatol 32 (5 Pt 1): 689-707, 1995Jones GJ, Itri LM. Safety and tolerance of recombinant interferon alfa-2a (Roferon®-A) in cancer patients. Cancer 57 (8 suppl.): 1709-1715, 1986Kanda Y, Shigeno K, Matsuo H, Yano M, Yamada N, Kumagami H. Interferon - induced sudden hearing loss. Audiology 34 (2): 98-102, 1995Kaskel P, Sander S, Kron M, Kind P, Peter RU, Krahn G. Outdoor activities in childhood: a protective factor for cutaneous melanoma? Results of a case- control study in 271 matched pairs. Br J Dermatol 145: 602-609, 2001Kaufmann R, Tilgen W, Garbe C. Malignes Melanom. Hautarzt 48 (suppl 1): 30-38, 1998Khayat D, Avril MF, Gerard B, Bertrand P, Bizzari JP, Cour V. Fotemustine: an overview of its clinical activity in disseminated malignant melanoma. Melanoma Res 2 (3): 147-151, 1992Khlat M, Vail A, Parkin M, Green A. Mortality from melanoma in migrants to Australia: variation by age at arrival and duration of stay. Am J Epidemiol 135 (10): 1103-1113, 1992Kirkwood JM, Strawderman MH, Ernstoff MS, Smith TJ, Borden EC, Blum RH. Interferon alfa-2b adjuvant therapy of high-risk resected cutaneous melanoma: the Eastern Cooperative Oncology Group Trial EST 1684. J Clin Oncol 14: 7– 17, 1996Kirkwood JM, Ernstoff MS, Davis CA, Reiss M, Ferraresi R, Rudnick SA. Comparison of intramuscular and intravenous recombinant α-2-interferon in melanoma and other cancers. Ann Intern Med 103 (1): 32-36, 1985Kirkwood JM, Strawderman MH, Ernstoff MS, Smith TJ, Borden ЕC, Blum RH Interferon alpha-2b adjuvant therapy of high-risk resected cutaneous melanoma: the Eastern Cooperative Oncology Group trial EST 1684. J Clin Oncol 14 (1): 7-17, 1996Knop J. Immunology effects of Interferon. J Invest Dermatol 95 (6 suppl.): 72- 74, 1990 Koch SE, Lange JR. Amelanotic melanoma: the great masquerader. J Am
+ Acad Dermatol 42: 731-734, 2000
+Köhler U, Linse F, Sebastian G, Meurer M. Akute Rhabdomyolyse als Komplikation einer Interferon-α Therapie bei erythrodermer Mycosis fungoides. Zeitschrift für Hautkrankheiten; H+G 3 (75): 138-141, 2000Koyama Y. Pharmacokinetics and clinical trials of HuINFß in malignant tumours. Interferons IDGFN Kyoto: 189-195, 1983Lakhani S, Selby P, Bliss JM, Perren TJ, Gore ME, McElwain TJ. Chemotherapy for malignant melanoma: combinations and high dose produce more responses without survival benefit. Br J Cancer 61 (2): 330-334, 1990Lederer E, Truong L. Unusual glomerular lesion in a patient receiving long - term interferon–alpha. Am J Kidney Dis 20 (5): 516-518, 1992Lengyel P. Biochemistry of interferons and their actions. Annu Rev Biochem 51: 251-282, 1982Levy E, Silverman MK, Vossaert KA, Kopf AW, Bart RS. Late recurrence of malignant melanoma: a report of five cases, a review of the literature and a study of associated factors. Melanoma Res 1 (1): 63-67, 1991Lisker-Melman M, Di Bisceglie AM, Usala SJ, Weintraub B, Murray LM, Hoofnagle JH. Development of thyroid disease during therapy of chronic viral hepatitis with interferon α. Gastroenterology 102 (6): 2155-2160, 1992 Loria D, Matos E. Risk factors for cutaneous melanoma: a case-control study
+ in Argentina. Int J Dermatol 40: 108-114, 2001
+Luger TA, Schwarz T. Evidence for an epidermal cytokine network. J Invest Dermatol 95 (6 suppl.): 100-104, 1990Lynch HT, Fusaro RM, Pester J, Oosterhuis JA, Went LN, Rumke P, Neering H, Lynch JF. Tumor spectrum in the FAMMM syndrome. Br J Cancer 44: 553- 560, 1981MacKie RM. Risk factors for the development of primary cutaneous malignant melanoma. Dermatol Clin 20: 597-600, 2002Malbrain MLNG, van den Bergh H, Zachee P. Further evidence for clonal nature of the idiopathic hypereosinophilic syndrome: complete hematological and cytogenic remission induced by interferon-α in a case with a unique chromosomal. Br J Haem 92: 176-183, 1995Manesis EK, Petrou C, Brouzas D, Hadziyannis S. Optic tract neuropathy complicating low - dose interferon treatment. J Hepatol 21 (3): 474-477, 1994Marghoob AA, Slade J, Salopek TG, Kopf AW, Bart RS, Rigel DS. Basal cell and squamous cell carcinomas are important risk factors for cutaneous malignant melanoma. Screening implications. Cancer 75: 707-714, 1995Martino S, Ratanatharathorn V, Karanes C, Samal BA., Ho-Sohon Y, Rudnick SA. Reversible arrhythmias observed in patients treated with recombinant alpha-2 interferon. J Cancer Res Clin Oncol 113 (4): 376-378, 1987Massaro E, Borden E, Hawkins MJ, Shargo E. Effects of recombinant interferon-alpha 2 treatment upon lipid concentrations and lipoprotein composition. J Interferon Res 6 (6): 655-662, 1986Matthey F, Ardeman S, Jones L, Newland AC. Bleeding in immune thrombocytopenic purpura after alpha–interferon. Lancet 335 (8687): 471-472, 1990McCredie M, Coates M, Grulich A. Cancer incidence in migrants to New South Wales (Australia) from the Middle East, 1972-1991. Cancer Causes control 5 (5): 414-421, 1994Merimsky O, Reider-Groswasser I, Inbar M, Chaitchik S. Interferon-related mental deterioration and behavioral changes in patients with renal cell carcinoma. J Cancer 26 (15): 596-600, 1990Meyers JD, Flournoy N, Sanders JE, McGuffin RW, Newton BA, Fisher LD, Lum LG. Prophylactic use of human leukocyte interferon after allogeneic marrow transplantation. Am Intern Med 107 (6): 809-816, 1987Meyskens FL Jr, Kopecky KJ, Taylor CW, Noyes RD, Tuthill RJ, Hersh EM , Feun LG, Doroshow JH, Flaherty LE, Sondak VK. Randomized trial of adjuvant human interferon gamma versus observation in high-risk cutaneous melanoma: a Southwest Oncology Group study. J Natl Cancer Inst 87 (22): 1710-1713, 1995Nair S, Ernstoff MS, Bahnson RR, Arthur S, Johnston J, Downs MA, Neuhart J, Kirkwood JM. Interferon-induced reversible acute renal failure with nephrotic syndrome. Urology 39 (2): 169-172, 1992Nathanson L. Interferon adjuvant therapy for melanoma. Cancer 78 (5): 944- 947, 1996Nestle FO. Dendritic cell vaccination for cancer therapy. Oncogene 19 (56): 6673-6679, 2000 Niederle N, von Wussow P. Interferone: präklinische und klinische Befunde.
+ Springer Verlag, Berlin: 1-2,1990
+Niiranen A, Laaksonen R, Livanainen M, Mattson K, Farkkila M, Cantell K. Behavioral assessment of patients treated with alpha – interferon. Acta Psychiatr Scand 78 (5): 622-626, 1988Noel C, Vrtovsnik F, Facon T, Noël-Walter MP, Hazzan M, Jouet JP. Acute and definitive renal failure in progressive multiple myeloma treated with recombinant interferon alpha - 2a; report on two patients. Am J Haematol 41 (4): 298-299, 1992Nouri K, Valor P, Rodriguez FM, Kerdel FA. Interferon α-induced interstitial pneumonitis in a patient with cutaneous T-cell lymphoma. J Am Acad Dermatol 35 (2 Pt 1): 269-270, 1996Obadina M, Verma U, Hawkins M, Mazumder A, Vincent T. Immunomodulation following chemotherapy. Breast Cancer Res Treat 38 (1): 41-48, 1996Orfanos CE, Jung HG, Wolff HH, Garbe C. Stellungnahme und Empfehlungen der Kommission malignes Melanom der Deutschen Dermatologischen Gesellschaft zur Diagnostik, Behandlung und Nachsorge des malignen Melanoms der Haut-Stand 1993/94. Hautarzt 45: 285-291, 1994Orlow SJ, Friedman-Kien AE. Cutaneous ulcerations secondary to interferon α therapy of Kaposi´s sarcoma. Arch Dermatol 128 (4): 566, 1992Österlind A, Tucker MA, Stone BJ, Jensen OM. The Danish case-control study of cutaneous malignant melanoma. II. Importance of UV-light exposure. Int J Cancer 42: 319-324, 1988Parodi A, Semino M, Gallo R, Rebora A. Bullous eruption with circulating pemphigus - like antibodies following interferon - alpha therapy. Dermatology 186 (2): 155-157, 1993Pauluzzi P, Kokelj F, Perkan V, Pozzato G, Moretti M. Psoriasis exacerbation induced by interferon α. Report of two cases. Acta Derm Venerol 73 (5): 395, 1993Pehamberger H, Soyer HP, Steiner A, Kofler R, Binder M, Mischer P, Pachinger W, Aubock J, Fritsch P, Kerl H, Wolff K. Adjuvant interferon alfa-2a treatment in resected primary stage II cutaneous melanoma. Austrian Malignant Melanoma Cooperative Group. J Clin Oncol 16 (4): 1425-1429, 1998Pectasides D, Dafni U, Bafaloukos D, Skarlos D, Polyzos A, Tsoutsos D, Kalofonos H, Fountzilas G, Panagiotou P, Kokkalis G, Papadopoulos O, Castana O, Papadopoulos S, Stavrinidis E, Vourli G, Ioannovich J, Gogas H. Randomized Phase III Study of 1 Month Versus 1 Year of Adjuvant High-Dose Interferon Alfa-2b in Patients With Resected High-Risk Melanoma. J Clin Oncol. 12 Jan, 2009Pehamberger H, Steiner A, Wolff K. In vivo epiluminescence microscopy of pigmented skin lesions. I. Pattern analysis of pigmented skin lesions. J Am Acad Dermatol 17 (4): 571-583, 1987Pestka S. The purification and manufacture of human interferons. Sci Am 249 (2): 34-36, 1983Peters M. Wirkungsmechanismen der Interferone. Semin Liver Dis 9,4: 5-9, 1989Pigatto PD, Bigardi A, Legori A, Altomare GF, Riboldi A .Allergic contact dermatitis from beta-interferon in eyedrops. Contact Dermatitis 25 (3): 199- 200, 1991Prasad S, Waters B, Hill PB, Portera FD, Riely CA. Psychiatric side effects of interferon alpha-2b in patients treated for hepatitis C. Clin Res 40: 840A, 1992Purvin VA. Anterior ischemic optic neuropathy secondary to interferon alfa. Arch Ophthalmol 113 (8): 1041-1044, 1995Quesada JR, Gutterman JU. Psoriasis and α-interferon. Lancet 1 (8496): 1466-1468, 1986Quesada JR, Talpaz M, Rios A, Kurzrock R, Gutterman JU. Clinical toxicity of interferons in cancer patients: a review. J Clin Oncol 4 (2): 234-243, 1986Read SJ, Crawford DH, Pender MP. Trigeminal sensory neuropathy induced by interferon-alpha therapy. Aust N Z J Med 25 (1): 54, 1995 Rees JL. The melanocortin 1 receptor (MC1R): more than just red hair.
+ Pigment Cell Res 13: 135-140, 2000
+Reinhold U, Hartl C, Hering R, Hoeft A, Kreysel HW.Fatal rhabdomyolysis and multiple organ failure with adjuvant high-dose interferon α in malignant melanoma. Lancet 349 (9051): 540-541, 1997Rettmar K, Kienast J, Van de Loo J. Minimal change glomerulonephritis with reversible proteinuria during interferon alpha 2a therapy for chronic myeloid leukemia. Am J Haematol 49 (4): 355-356, 1995Ridgeway CA, Hieken TJ, Ronan SG, Kim DK, Das Gupta TK. Acral lentigous melanoma. Arch Surg 130: 88-92, 1995Rönnblom LE, Alm GV, Öberg KE. Autoimmunity after alpha-interferon therapy for malignant carcinoid tumors. Ann Intern Med 115 (3): 178-183, 1991Sacchi S, Kantarjiian H, O’Brien S, Cohen PR, Pierce S, Talpaz M. Immune- mediated and unusual complications during interferon alfa therapy in chronic myelogenous leukemia. J Clin Oncol 13 (9): 2401-2407, 1995Scalzo S, Gengaro A, Boccoli G, Masciulli R, Giannella G, Salvo G. Primary hypothyroidism associated with IL-2 and INFα2-therapy of melanoma and renal carcinoma. Eur J Cancer 26 (11-12): 1152-1156, 1990Sarna G, Figlin R, Callaghan M. Alpha (human leukocyte) interferon as treatment for non - small cell carcinoma of the lung: a phase II trial. J Biol Response Mod 2 (4): 343-347, 1983Sawamura M, Matsushima T, Tamura J, Murakami H, Tsuchiya J. Renal toxicity in long - term a - interferon treatment in a patient with myeloma. Am J Hematol 41 (2): 146, 1992Schäfer M, Messer T, Wegner U, Schmid-Wendtner M, Volkenandt M. Psychiatrische Nebenwirkungen während adjuvanter Therapien mit Interferon- alpha bei Patienten mit malignen Melanomen: Klinische Einschätzung sowie diagnostische und therapeutische Möglichkeiten. Hautarzt 50 (9): 654-658, 1999Schilling PJ, Kurzrock R, Kantarjian H, Gutterman JU, Talpaz M. Development of systemic lupus erythematosus after interferon therapy for chronic myelogeneous leukemia. Cancer 68 (7): 1536-1537, 1991Schlaifer D, Dumazer P, Spenatto N, Mignon-Conte M, Brousset P, Lumbroso C, Cooper M,. Muller C, Huguet F, Attal M. Hemolytic-uremic syndrome in a patient with chronic myelogenous leukemia treated with interferon alpha. Am J Haematol 47 (3): 254-255, 1994Schmoll HJ. Zusammenfassung und Perspektiven. In: Schmoll HJ, Schöpf E (Hrsg. Lokale und systhemische Tumortherapie mit Interferonen. Aktuelle Immunologie 5. Zuckschwerdt-Verlag: 1-5, 1988Schubert A. Zur Epidemiologie des malignen Melanoms. Zeitschr Hautkr, H+G3 (73): 152-156, 1998 Schultz RM, Papamatheakis JD, Chirigos MA. Interferon: an inducer of
+ macrophage activation by polyanions. Science 197, 4304: 674-676, 1977
+Selby P, Kohn J, Raymond J, Judson I, McElwain T. Nephrotic syndrome during treatment with interferon. Br Med J 290 (6476): 1180, 1985Sertoli MR, Bernengo MG, Ardizzoni A, Brunettia I. Phase II trial of recombinant α-2b interferon in the treatment of metastatic skin melanoma. Oncol 46 (2): 96-98, 1989Shearer M, Taylor-Papadimitriou J. Regulation of cell growth by interferon. Cancer Metastasis Rev 6 (3): 199-221, 1987Shivers SC, Wang X, Li W, Joseph E, Messina J, Glass LF. Molecular staging of malignant melanoma: correlation with clinical outcome. JAMA 280 (16): 1410-1415, 1998Shrestha R, McKinley C, Bilir BM, Everson GT. Possible idiopathic thrombocytopenic purpura associated with natural alpha interferon therapy for chronic hepatitis C infection. Am J Gastroenterol 90 (7): 1146-1147, 1995Silver RT, Szatrowski TP, Peterson B, Powell B, Larson R, Stock W, Arthur D, Schiffer C, Bloomfield CD. Combined α Interferon (rINFα2b) and low dose Cytosine Arabinoside (ARA-C) for PH + chronic phase chronic myeloid leukemia. Blood 88; 638 (suppl. 1), 1996Sonnenblick M, Rosin A. Cardiotoxicity of interferon. A review of 44 cases. Chest 99 (3): 557-561, 1991 Spiegel RJ. Intron A (IFNa2b): clinical overview and future directions. Semin
+ Oncol 13 (3 suppl 2): 89-101, 1986
+Stadler R, Garbe C. Interferon-Therapie beim malignen Melanom. Z Hautkr 65 (5): 504-507, 1990Steiner A, Pehamberger H, Wolff K. In vivo epiluminescence microscopy of pigmented skin lesions. II. Diagnosis of small pigmented skin lesions and early detection of malignant melanoma. J Am Acad Dermatol 17 (4): 584-591, 1987Stratta P, Canavese C, Dogliani M. Hemolytic-uremic syndrome during recombinant a-interferon treatment for hairy cell leukemia. Ren Fail 15 (4): 559-561, 1993Tartour E, Schlumberger M, Dorval T, Baudin E, Fridman WH. Endocrine involvement in immunotherapy. Ann Endocrinol 56 (2): 143-148, 1995The INFB Multiple Sclerosis Study Group. Interferon ß-1b is effective in relapsing-remitting multiple sclerosis. II. MRI analysis results of a multicenter, randomized, double-blind, placebo-controlled trial. Neurology 43, (4): 662-667, 1993Tossing G. New developments in interferon therapy. Eur L Med Res 6 (2): 47- 65, 2001 Ugurel S. Serummarker des malignen Melanoms. Hautarzt 56: 173-186, 2005
+Vial T, Descotes J. Clinical toxicity of the interferons. Drug Saf 10 (2): 115-150, 1994Vilcek J, Gresser I, Merigan TC. Regulatory functions of interferons. Ann NY Acad Sci 350: 1-129, 1980 Wallace J. What`s next for interferon? MD 5: 97-104, 1985
+Wandl UB, Nagel-Hiemke M, May D, Kreutzfelder E, Kloke O, Kranzhoff M, Seeber S, Niederle N. Lupus-like autoimmune disease induced by interferon therapy for myeloproliferative disorders. Clin Immunol Immunopathol 65 (1): 70-74, 1992Weck PK, Buddin DA, Whisnant JK. Interferons in the treatment of genital human papilomavirus infections. Am J Med 85 (2A): 159-164, 1988Weinstock MA, Colditz GA, Willett WC, Stampfer MJ, Bronstein BR, Mihn MC, Speizer FE. Nonfamilial cutaneous melanoma incidence in women associated with sun exposure before 20 years of age. Pediatrics 84: 199-204, 1989Wölfer LU, Goerdt S, Schröder K, Zouboulis CC, Orfanos CE. Interferon-α- induzierte Psoriasis vulgaris. Hautarzt 47 (2): 124-128, 1996Von Wussow P. Einteilung, Synthese und biologische Eigenschaften von Interferonen. In: Hoffschneider P. Immuntherapie mit Interferonen. Akt Immunol Vol. 1: 3-10, 19867.

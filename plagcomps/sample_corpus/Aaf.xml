@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd" reference="suspicious-document00001.txt">
+      <feature name="vroniplag" etext_number="Aaf" url="http://de.vroniplag.wikia.com/wiki/Aaf'"/>
+      <feature name="language" value="de" />
+    <feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="129" this_length="484" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="758" this_length="3741" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="5819" this_length="398" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="7406" this_length="324" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="8981" this_length="2843" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="11978" this_length="2198" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="14177" this_length="591" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="15009" this_length="5754" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="22117" this_length="2670" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="28283" this_length="1292" />
+<feature name="artificial-plagiarism" translation="false" obfuscation="low" this_offset="30278" this_length="1838" />
+</document>
