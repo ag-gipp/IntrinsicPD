@@ -10,13 +10,11 @@ import numpy as np
 from plag_detector import PlagDetector
 from util import *
 #import psycopg2 as dbops
-THRES = 0.85
 
 
 sample_corpus_loc = os.path.join(app.config['PLAGCOMPS_LOC'], 'plagcomps/sample_corpus')
 
-@app.route('/index/')
-@app.route('/')
+@app.route('/help/')
 def main_page():
     return render_template('index.html')
 
@@ -24,7 +22,9 @@ def main_page():
 def about():
     return render_template('about.html')
 
-@app.route('/select_doc/') #seperated features into three different varieties and arranged them accordingly in the web page (seenu.andi-rajendran)
+@app.route('/select_doc/')
+@app.route('/')
+#seperated features into three different varieties and arranged them accordingly in the web page (seenu.andi-rajendran)
 def select_doc():
     return render_template('select_doc.html',
                     docs = get_file_short_names(), synt_feats=get_synt_feats(),vocab_richness=get_vocab_richness(),config_fold=get_config_files(),
@@ -46,11 +46,12 @@ def view_doc():
     cluster_method = request.args.get('cluster_method')
     save_config = request.args.get('save_config')
     over_config = request.args.get('over_config')
+    threshold = request.args.get('threshold')
     qload = request.args.get('qload')
     k = int(request.args.get('k'))
     # saving/modifying style models (seenu.andi-rajendran)
     if save_config=='yes':
-        options = {'k': k, 'features': features, 'atom_type': atom_type, 'cluster_method': cluster_method}
+        options = {'k': k, 'features': features, 'atom_type': atom_type, 'cluster_method': cluster_method, 'threshold':threshold}
         with open('config_files/'+request.args.get('fname')+'.json', "wb") as outconf: outconf.write(json.dumps(options))
     elif save_config=='no':
         if over_config=='no' and qload=='yes':
@@ -58,6 +59,7 @@ def view_doc():
             k=options['k']
             atom_type = options['atom_type']
             features = options['features']
+            threshold=options['threshold']
             cluster_method = options['cluster_method']
             modelyn=request.args.get('lname')
         elif over_config=='yes' and qload=='yes':
@@ -89,6 +91,11 @@ def view_doc():
     avg_conf = np.percentile(confs,50)
     uq_conf = np.percentile(confs,90)
     pc90 = np.percentile(confs,90)
+
+    if threshold == 'pc90':
+        THRES = pc90
+    else:
+        THRES = 0.8
 
     uq_cnt, thres_cnt, lq_cnt = 0,0,0
     for passage in all_passages:
@@ -137,7 +144,7 @@ def view_doc():
                  'value': THRES,
                  'color': 'black'
              }, {'value': 1.0,
-                 'color': 'red'
+                 'color': 'yellow'
                  }]
 
     else:
@@ -145,12 +152,12 @@ def view_doc():
                  'value': THRES,
                  'color': 'black'
              }, {'value': 1.0,
-                 'color': 'orange'
+                 'color': 'yellows'
                  }]
 
     #values to build boxplot (seenu.andi-rajendran)
     series_box = [{
-        'name': 'Percentile Values',
+        'name': 'Percentile',
         'data': [dat]
     },{
         'name': 'Atoms',
@@ -158,7 +165,8 @@ def view_doc():
         'keys': ['x', 'y', 'z','c'],
         'data': ser_dat,
         'tooltip': {
-            'pointFormat': 'Index: {point.z}, Suspicion Score: {point.y}'
+            'pointFormat': 'Idx: {point.z}, Suspicion: {point.y}',
+            'style': {'fontSize': '1px'}
         },
         'zones':zone
     }]
@@ -177,29 +185,6 @@ def view_doc():
         'data': [uq_cnt],
         'color': '#F0E7E7'
     }]
-
-    column=[]
-    for e in categories:
-        column.append({'id':e})
-    dataset=[]
-    z=0
-    for cf in cfs:
-        if uq_conf > THRES:
-            if cf < THRES:
-                colran = 'Cold'
-            elif cf < uq_conf and cf >= THRES:
-                colran = 'Warm'
-            elif cf >= uq_conf and cf > THRES:
-                colran = 'Hot'
-        elif uq_conf < THRES:
-            if cf < uq_conf:
-                colran = 'Cold'
-            elif cf >= uq_conf and cf < THRES:
-                colran = 'Warm'
-            elif cf >= THRES and cf > uq_conf:
-                colran = 'Hot'
-        dataset.append({"rowid": "pc","columnid": categories[z],'value':str(cf),'colorRangeLabel':colran})
-        z+=1
 
     if uq_conf>THRES:
         color=[
@@ -244,22 +229,6 @@ def view_doc():
                 }
             ]
 
-    dataSource = {
-        'chart':{
-            'theme':'fint',
-            'caption': doc_name,
-            'xAxisName': 'indexes',
-            'yAxisName': 'Plag. Conf.',
-        },
-        'rows':{'row':[{'id':'pc'}]},
-        'columns': {'column': column},
-        "dataset":[{'data':dataset}],
-        "colorRange": {
-            "gradient": "0",
-            "color": color
-        }
-    }
-
 
     return render_template('view_doc.html',
         atom_type = atom_type,
@@ -268,7 +237,7 @@ def view_doc():
         passages = all_passages,
         features = feature_names,
         doc_name = doc_name,
-        chartID='chart', chart=chart, prop=float(100)/float(len(all_passages)),series=series, title=title, categories=categories, yAxis=yAxis, plag_cats=plag_cats, categories2=categories2, series_box=series_box,series_col=series_col,dataSource=json.dumps(dataSource), title2=title2, chart2=chart2,uq_conf=uq_conf,lq_conf=lq_conf, pc90=pc90, modelyn=modelyn)
+        chartID='chart', chart=chart,THRES = THRES, prop=float(100)/float(len(all_passages)),series=series, title=title, categories=categories, yAxis=yAxis, plag_cats=plag_cats, categories2=categories2, series_box=series_box,series_col=series_col, title2=title2, chart2=chart2,uq_conf=uq_conf,lq_conf=lq_conf, pc90=pc90, modelyn=modelyn)
 
 
 #@app.route('/view_source_doc/<doc_name>', methods=['GET'])
