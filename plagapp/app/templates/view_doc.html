@@ -18,11 +18,15 @@
     <!-- end added -->
 {% endblock further_head %}
 
+
 {% block content %}
     <div class="container-fluid">
         <style>
             .color-map {
-                margin-top: 150px;
+                /*margin-top: 150px;*/
+                margin-top:164px !important;
+                height:524px;
+                float:right;
             }
             .passage{
                 font-size:16px;
@@ -31,180 +35,225 @@
                 font-size: 10px
             }
             #block_container
-{
-    text-align:center;
-}
-#redcircle, #orangecircle, #blackcircle, #underline
-{
-    display:inline;
-    font-size: 15px
-}
+            {
+                text-align:center;
+            }
+            #redcircle, #orangecircle, #blackcircle, #underline
+            {
+                display:inline;
+                font-size: 15px
+            }
+
         </style>
 
 
-        <h1>Where's the suspicious passage(s)?</h1>
+        <h1>&nbsp;&nbsp;&nbsp;Stylistic Analysis</h1>
+
         <div class="jumbotron">
 
-            <div class="row reduce-font">
-                <div class="col-md-2" align="center">
-                    <table class="table">
-                        <tr>
-                            <th>Doc Name:</th>
-                            <th>Atom Type:</th>
-                            <th>Cluster Method:</th>
-                            {% if cluster_method == 'kmeans' %}
-                                <th>k:</th>
-                            {% endif %}
-                            <th>
-                                <small>Stylistic Feature(s):</small>
-                            </th>
-                            {% if modelyn != '' %}
-                                <th>Style Model used is:</th>
-                            {% endif %}
-                        </tr>
-                        <tr>
-                            <td>{{ doc_name }}</td>
-                            <td>{{ atom_type }}</td>
-                            <td>{{ cluster_method }}</td>
-                            {% if cluster_method == 'kmeans' %}
-                                <td>{{ k }}</td>
-                            {% endif %}
-                            <td>{% for f in features %}{{ f }};{% endfor %}</td>
-                            {% if modelyn != '' %}
-                                <td>{{ modelyn }}</td>
-                            {% endif %}
-                        </tr>
+            <!--<div class="row reduce-font">
+            <div class="col-md-2" align="center"> -->
+            <style type="text/css">
+                table.gridtable {
+                    #font-family: verdana,arial,sans-serif;
+                    font-size:14px;
+                    color:#333333;
+                    border-width: 1px;
+                    border-color: #666666;
+                    border-collapse: collapse;
+                    width: 100%;
+                    white-space: nowrap;
+                }
+                table.gridtable th {
+                    border-width: 1px;
+                    padding: 8px;
+                    border-style: solid;
+                    border-color: #666666;
+                    background-color: #dedede;
+                    white-space: nowrap;
+                }
+                table.gridtable td {
+                    border-width: 1px;
+                    padding: 8px;
+                    border-style: solid;
+                    border-color: #666666;
+                    background-color: #ffffff;
+                    white-space: nowrap;
+                }
+            </style>
 
-                    </table>
+
+            <table class="gridtable" width="100%">
+
+                <tr>
+                    <th width=100px>Document</th>
+                    <th width=100px>Atom Type</th>
+                    <th width="125px">Cluster Method</th>
+                    {% if cluster_method == 'kmeans' %}
+                        <th width="30px">k</th>
+                    {% endif %}
+                    <th>
+                        Stylistic Feature(s)
+                    </th>
+                    {% if modelyn != '' %}
+                        <th>Style Model used is</th>
+                    {% endif %}
+                    <th width="130px">Threshold Type</th>
+                </tr>
+
+                <tr>
+                    <td width="100px">{{ doc_name }}</td>
+                    <td width="100px">{{ atom_type }}</td>
+                    <td width="125px">{{ cluster_method }}</td>
+                    {% if cluster_method == 'kmeans' %}
+                        <td width="30px">{{ k }}</td>
+                    {% endif %}
+                    <td style="word-wrap:break-all;">{% for f in features %}{{ f }};{% endfor %}</td>
+                    {% if modelyn != '' %}
+                        <td>{{ modelyn }}</td>
+                    {% endif %}
+
+                    {% if THRES == '0.8' %}
+                    <td width="130px">0.8</td>
+                    {% else %}
+                    <td width="130px">90th percentile</td>
+                    {% endif %}
+
+
+                </tr>
+
+            </table>
+
+    <div id="block_container">
+        {% if plag_cats|length > 0 %}
+            <div id="redcircle" style="width: 60px;height: 60px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: orange;">atom, score > threshold</div>
+            <div id="orangecircle" style="width: 60px;height: 60px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: pink;">gt atom, score > threshold</div>
+            <div id="orangecircle" style="width: 60px;height: 60px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: red;">gt atom, score < threshold</div>
+            <div id="blackcircle" style="width: 50px;height: 50px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: black; color: white;">atom, score < threshold</div>
+        {% else %}
+            <div id="redcircle" style="width: 50px;height: 50px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: orange;">Atom crossing the threshold</div>
+        {% endif %}
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <!-- boxplot visualization (seenu.andi-rajendran)-->
+                    <div id="boxplot"></div>
                 </div>
-            </div>
-            <div id="block_container">
-                 {% if plag_cats|length > 0 %}
-            <div id="redcircle" style="width: 50px;height: 50px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: orange;">Stylistically noteworthy values</div>
-            <div id="orangecircle" style="width: 50px;height: 50px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: pink;">Ground truth atoms not crossing threshold</div>
-      <div id="orangecircle" style="width: 50px;height: 50px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: red;">Ground truth atoms crossed threshold</div>
-            <div id="blackcircle" style="width: 50px;height: 50px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: black; color: white;">Unsuspected Atom</div>
-                 {% else %}
-                <div id="redcircle" style="width: 50px;height: 50px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: orange;">Atom crossing the threshold</div>
-                {% endif %}
-
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3">
-                        <!-- boxplot visualization (seenu.andi-rajendran)-->
-                        <div id="boxplot"></div>
-                    </div>
                 <!-- Color Scroller (seenu.andi-rajendran)-->
-                    <div class="col-md-1" id='document_browser'>
-                        <aside id='left'><span class="spacer-bg-top"></span><span class="spacer-bg-body"></span></aside>
-                    </div>
-                    <div class="col-md-9">
-                        <div class="row">
-                            <div class="col-md-9">
-                            <!-- added colouring to text based on confidence value(seenu.andi-rajendran)-->
-                                <div class="panel-body" style="height:550px;overflow-y: scroll;" id="document_content">
-                                    <p>
-                                        {% set j=0 %}
-                                        {% for passage in passages %}
-
-                                                 {% if passage.plag_confidence >= 0.85 and not passage.is_plag()%}
-                                                    <div class="passage" features="{{ passage.to_html() }}"
-                                                         style="font-size:13px;line-height:16px;color: orange;"
-                                                         id='pass{{ j }}'>
-                                                        {{ passage.text.decode('utf8')|safe }}
-                                                    </div>
-                                                {% elif passage.plag_confidence >= 0.85 and passage.is_plag()%}
-                                                    <div class="passage" features="{{ passage.to_html() }}"
-                                                         style="font-size:13px;line-height:16px;color: pink;"
-                                                         id='pass{{ j }}'>
-                                                        {{ passage.text.decode('utf8')|safe }}
-                                                    </div>
-                                                {% elif passage.plag_confidence < 0.85 and passage.is_plag()%}
-                                                    <div class="passage" features="{{ passage.to_html() }}"
-                                                         style="font-size:13px;line-height:16px;color: red;"
-                                                         id='pass{{ j }}'>
-                                                        {{ passage.text.decode('utf8')|safe }}
-                                                    </div>
-                                                 {% else %}
-                                                    <div class="passage" features="{{ passage.to_html() }}"
-                                                         style="font-size:13px;line-height:16px;"
-                                                         id='pass{{ j }}'>
-                                                        {{ passage.text.decode('utf8')|safe }}
-                                                    </div>
-                                                {% endif %}
-                                                {% if atom_type == 'paragraph' %}
-                                                    <br/>
-                                                {% endif %}
-                                                {% set j = j + 1 %}
-
-
-                                        {% endfor %}
-                                    </p>
-                                </div>
-                            <br><br><br>
-                            <button type="button" class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#full_table">
-                Hide/Show Table
-            </button>
-
-            <div class="row collapse" id="full_table">
-                <div class="col-md-9">
-                    <div class="table-responsive" style="font-size:12px;">
-                        <table class="table table-condensed table-scrollable table-bordered">
-                            <thead>
-                            <tr>
-                                <th>Start Index</th>
-                                {% for feature in features %}
-                                    <th>{{ feature }}</th>
-                                {% endfor %}
-                                <th>Suspicion Score</th>
-                                {% if plag_cats|length > 0 %}
-                                    <th>Plag. Span</th>
-                                {% endif %}
-
-                            </tr>
-                            </thead>
-                            <tbody>
-                            <!-- Added colouring to each atom based on confidence value(seenu.andi-rajendran)-->
-                            {% for passage in passages %}
-                                <tr class="passage_starting_at_{{ passage.start_word_index }}">
-                                    <td class="passage_row"> {{ passage.char_index_start }}</td>
-                                    {% for feature in passage.features %}
-                                        <td class="passage_row"> {{ "%.4f"| format(passage.features[feature]) }}</td>
-                                    {% endfor %}
-
-                                        {% if passage.plag_confidence >= 0.85 and not passage.is_plag()%}
-                                            <td class="passage_row"
-                                                 style="background-color:orange"> {{ "%.4f"| format(passage.plag_confidence) }}</td>
-                                        {% elif passage.plag_confidence >= 0.85 and passage.is_plag()%}
-                                            <td class="passage_row"
-                                               style="background-color:pink"> {{ "%.4f"| format(passage.plag_confidence) }}</td>
-                                        {% elif passage.plag_confidence < 0.85 and passage.is_plag()%}
-                                            <td class="passage_row"
-                                                style="background-color:red"> {{ "%.4f"| format(passage.plag_confidence) }}</td>
-                                        {% else %}
-                                            <td class="passage_row">{{ "%.4f"| format(passage.plag_confidence) }}</td>
-                                        {% endif %}
-
-
-                                    {% if plag_cats|length > 0 %}
-                                        {% if passage.plag_spans|length > 0 %}
-                                            <td class="passage_row"> {{ "(%i, %i)"| format(passage.plag_spans[0][0],
-                                passage.plag_spans[0][1]) }}
-                                            </td>
-                                        {% else %}
-                                            <td class="passage_row"/>
-                                        {% endif %}
-                                    {% endif %}
-
-
-                                </tr>
-                            {% endfor %}
-                            </tbody>
-                        </table>
-                    </div>
+                <div class="col-md-1" id='document_browser'>
+                    <aside id='left'><span class="spacer-bg-top"></span><span class="spacer-bg-body"></span></aside>
                 </div>
-            </div>
+                <div class="col-md-9">
+                    <div class="row">
+                        <div class="col-md-9">
+                            <!-- added colouring to text based on confidence value(seenu.andi-rajendran)-->
+                            <div class="panel-body" style="height:550px;overflow-y: scroll;" id="document_content">
+                                <p>
+                                    {% set j=0 %}
+                                    {% for passage in passages %}
 
+                                        {% if passage.plag_confidence >= THRES and not passage.is_plag()%}
+                                            <div class="passage" features="{{ passage.to_html() }}"
+                                                 style="font-size:13px;line-height:16px;color: orange;text-align:left"
+                                                 id='pass{{ j }}'>
+                                                {{ passage.text.decode('utf8')|safe }}
+                                            </div>
+                                        {% elif passage.plag_confidence >= THRES and passage.is_plag()%}
+                                            <div class="passage" features="{{ passage.to_html() }}"
+                                                 style="font-size:13px;line-height:16px;color: pink;text-align:left"
+                                                 id='pass{{ j }}'>
+                                                {{ passage.text.decode('utf8')|safe }}
+                                            </div>
+                                        {% elif passage.plag_confidence < THRES and passage.is_plag()%}
+                                            <div class="passage" features="{{ passage.to_html() }}"
+                                                 style="font-size:13px;line-height:16px;color: red;text-align:left"
+                                                 id='pass{{ j }}'>
+                                                {{ passage.text.decode('utf8')|safe }}
+                                            </div>
+                                        {% else %}
+                                            <div class="passage" features="{{ passage.to_html() }}"
+                                                 style="font-size:13px;line-height:16px;text-align:left"
+                                                 id='pass{{ j }}'>
+                                                {{ passage.text.decode('utf8')|safe }}
+                                            </div>
+                                        {% endif %}
+                                        {% if atom_type == 'paragraph' %}
+                                            <br/>
+                                        {% endif %}
+                                        {% set j = j + 1 %}
+
+
+                                    {% endfor %}
+                                </p>
+                            </div>
+                            <br>
+                        <button type="button" class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#full_table">
+                            Atom Scores
+                        </button>
+
+                            <div class="row collapse" id="full_table">
+                                <div class="col-md-9">
+                                    <div class="table-responsive" style="font-size:12px;">
+                                        <table class="table table-condensed table-scrollable table-bordered" style="height:10px;">
+                                            <thead>
+                                            <tr>
+                                                <th>Atom No</th>
+                                                <th>Start Index</th>
+                                                {% for feature in features %}
+                                                    <th>{{ feature }}</th>
+                                                {% endfor %}
+                                                <th>Suspicion Score</th>
+                                                {% if plag_cats|length > 0 %}
+                                                    <th>Plag. Span</th>
+                                                {% endif %}
+
+                                            </tr>
+                                            </thead>
+                                            <tbody>
+                                            <!-- Added colouring to each atom based on confidence value(seenu.andi-rajendran)-->
+                                            {% for passage in passages %}
+
+                                                <tr class="passage_starting_at_{{ passage.start_word_index }}">
+                                                <td>{{ loop.index }}</td>
+
+                                                    <td class="passage_row"> {{ passage.char_index_start }}</td>
+                                                    {% for feature in passage.features %}
+                                                        <td class="passage_row"> {{ "%.4f"| format(passage.features[feature]) }}</td>
+                                                    {% endfor %}
+
+                                                    {% if passage.plag_confidence >= THRES and not passage.is_plag()%}
+                                                        <td class="passage_row"
+                                                            style="background-color:orange"> {{ "%.4f"| format(passage.plag_confidence) }}</td>
+                                                    {% elif passage.plag_confidence >= THRES and passage.is_plag()%}
+                                                        <td class="passage_row"
+                                                            style="background-color:pink"> {{ "%.4f"| format(passage.plag_confidence) }}</td>
+                                                    {% elif passage.plag_confidence < THRES and passage.is_plag()%}
+                                                        <td class="passage_row"
+                                                            style="background-color:red"> {{ "%.4f"| format(passage.plag_confidence) }}</td>
+                                                    {% else %}
+                                                        <td class="passage_row">{{ "%.4f"| format(passage.plag_confidence) }}</td>
+                                                    {% endif %}
+
+
+                                                    {% if plag_cats|length > 0 %}
+                                                        {% if passage.plag_spans|length > 0 %}
+                                                            <td class="passage_row"> {{ "(%i, %i)"| format(passage.plag_spans[0][0],
+                                passage.plag_spans[0][1]) }}
+                                                            </td>
+                                                        {% else %}
+                                                            <td class="passage_row"/>
+                                                        {% endif %}
+                                                    {% endif %}
+
+
+                                                </tr>
+
+                                            {% endfor %}
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
                             </div>
 
                         </div>
@@ -212,8 +261,10 @@
                     </div>
 
                 </div>
+
             </div>
         </div>
+    </div>
 
     </div>
 
@@ -255,7 +306,7 @@
                     'height': 550,
                     'panning': true,
                     'inverted': false,
-                    'width': 200
+                    'width': 250        //increased width of boxplot to get tooltip appear completely
                 },
                 title: {{title2|safe}},
                 xAxis: {
@@ -264,14 +315,14 @@
                 series: {{series_box|safe}},
                 yAxis: {
                     title: {
-                        text: 'Suspicion Score'
+                        text: 'Stylistic Dissimilarity Score'
                     },
                     plotLines: [{
-                        value: 0.85,
+                        value: {{THRES|safe}},
                         color: 'black',
                         width: 1,
                         label: {
-                            text: 'Threshold value: 0.85',
+                            text: 'Threshold value: {{THRES|round(2)}}',
                             align: 'center',
                             style: {
                                 color: 'gray'
@@ -289,7 +340,7 @@
                                         lastClicked.css("border-style", "none");
                                     }
                                     scrllto('pass' + this.c);
-                                    $('#pass' + this.c).css("border-style", "inset");
+                                    $('#pass' + this.c).css("border-style", "none");
                                     lastClicked = $('#pass' + this.c);
                                 }
                             }
@@ -298,5 +349,23 @@
                 }
             });
         });
+
+        // Change the selector if needed
+        var $table = $('table.scroll'),
+                $bodyCells = $table.find('tbody tr:first').children(),
+                colWidth;
+
+        // Adjust the width of thead cells when window resizes
+        $(window).resize(function() {
+            // Get the tbody columns width array
+            colWidth = $bodyCells.map(function() {
+                return $(this).width();
+            }).get();
+
+            // Set the width of thead columns
+            $table.find('thead tr').children().each(function(i, v) {
+                $(v).width(colWidth[i]);
+            });
+        }).resize(); // Trigger resize handler
     </script>
 {% endblock content %}
