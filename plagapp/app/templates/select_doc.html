@@ -3,7 +3,8 @@
 {% block content %}
 
     <div class="container" xmlns="http://www.w3.org/1999/html">
-        <h1>Detect Suspicious Passages</h1>
+        <!-- Changed heading -->
+        <h1>Start Analysis</h1>
         <div class="jumbotron">
 
             <div class="form-group">
@@ -12,85 +13,93 @@
                 <form action='/view_doc'>
 
                     <div class="form-group">
-                        <label for="usr">Select Doc:</label>
+                        <label for="usr">Document :</label>
                         <select name="doc">
                             {% for doc in docs %}
                                 <option value='{{ doc[0] }}'>{{ doc[0] }}</option>
                             {% endfor %}
                         </select>
                     </div>
-                <br>
-                 <div class="form-group">
-                <label>Atom Type:</label>
-                    {% for atom_option in atom_options %}
-                        <input type="radio" class="atomClass" name="atom" value="{{ atom_option[0] }}">
-                        {{ atom_option[0] }}&emsp;
-                    {% endfor %}
-                </div>
-                <br>
+                    <br>
                     <div class="form-group">
-                <label>Stylistic Feature(s):</label>
-                    <select id="features" name="features" multiple>
-                    </select>
+                        <!-- Added heading -->
+                        <h3><strong>Style Model</strong></h3>
 
-                    <!--<select name="similarity_measure">
-                        {% for similarity_measure in similarity_measures %}
-                        <option value="{{ similarity_measure[0] }}">{{ similarity_measure[0] }}</option>
-                        {% endfor %}
-                    </select>-->
-                </div>
-                <br>
-                <div class="form-group">
-                <label>Clustering Method/Outlier Detection:</label>
-                    <select name="cluster_method">
-                        {% for cluster_method in cluster_methods %}
-                            <option value="{{ cluster_method[0] }}">{{ cluster_method[0] }}</option>
-                        {% endfor %}
-                    </select>
-                &emsp;
-                <label>Cluster Value:</label>
+                        <!-- Pushed style model loading option upwards-->
+                        <div class="form-group">
+                            <i>Load existing Style Model ?</i>&emsp;
+                            <input type="radio" name='qload' value="yes"
+                                   onclick="document.getElementById('load_config').style.display = 'block';document.getElementById('over_config').style.display = 'block';"><i>Yes</i>
+                            <input type="radio" name='qload' value="no"
+                                   onclick="document.getElementById('load_config').style.display = 'none';document.getElementById('over_config').style.display = 'none';"
+                                   checked><i>No</i><br>
+                        </div>
 
-                    <select name="k">
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
-                        <option value="5">5</option>
-                    </select>
-                </div>
+                        <div id="load_config" class="form-group" style="display: none;">
+                            <i>Load Style Model</i>&emsp;
+                            <select name="lname">
+                                {% for config_file in config_fold %}
+                                    <option value='{{ config_file }}'>{{ config_file }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                        <label>Atom Type:</label>
+                        {% for atom_option in atom_options %}
+                            <input type="radio" class="atomClass" name="atom" value="{{ atom_option[0] }}">
+                            {{ atom_option[0] }}&emsp;
+                        {% endfor %}
+                    </div>
+                    <br>
+                    <div class="form-group">
+                        <label>Stylistic Feature(s):</label>
+                        <select id="features" name="features" multiple>
+                        </select>
+                    </div>
+                    </br>
+                    <div id="threshold" class="form-group" style="display: block;"><label>Threshold value:</label>
+                        <input type="radio" name="threshold" value="f8" checked> <i>0.8</i>
+                        <input type="radio" name="threshold" value="pc90"><i>90th percentile</i><br>
+                    </div>
+
+                    <div class="form-group">
+                        <!--Modified Clustering Method heading-->
+                        <label>Clustering Method (Outlier Detection Method) :</label>
+                        <select name="cluster_method" id='cluster'>
+                            {% for cluster_method in cluster_methods %}
+                                <option value="{{ cluster_method[0] }}">{{ cluster_method[0] }}</option>
+                            {% endfor %}
+                        </select>
+                        &emsp;<!--Modifiying cluster value-->
+
+                        <div id='cluster_value'>
+                            <label>No. of cluster:</label>
+
+                            <select name="k">
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                                <option value="4">4</option>
+                                <option value="5">5</option>
+                            </select>
+                        </div>
+                    </div>
 
                     <div class="form-group">
                         <!-- included creation/modification of style models(seenu.andi-rajendran)-->
-                    <br><i>Save Style Model ?</i>&emsp;
-                    <input type="radio" class="save_config" name="save_config" value="yes"
-                           onclick="document.getElementById('fname').style.display = 'block';"><i>Yes</i>
-                    <input type="radio" class="save_config" name="save_config" value="no"
-                           onclick="document.getElementById('fname').style.display = 'none';" checked><i>No</i><br>
-                    <div id="fname" class="form-group" style="display: none;"><i>Style Model file name</i>&emsp;
-                        <input type="text" name="fname" value="" width="30" height="30"><br>
+                        <i>Save Style Model ?</i>&emsp;
+                        <input type="radio" class="save_config" name="save_config" value="yes"
+                               onclick="document.getElementById('fname').style.display = 'block';"><i>Yes</i>
+                        <input type="radio" class="save_config" name="save_config" value="no"
+                               onclick="document.getElementById('fname').style.display = 'none';" checked><i>No</i><br>
+                        <div id="fname" class="form-group" style="display: none;"><i>Style Model file name</i>&emsp;
+                            <input type="text" name="fname" value="" width="30" height="30"><br>
+                        </div>
                     </div>
-                    </div>
-                    <div class="form-group">
-                    <i>Load existing Style Model ?</i>&emsp;
-                    <input type="radio" name='qload' value="yes"
-                           onclick="document.getElementById('load_config').style.display = 'block';document.getElementById('over_config').style.display = 'block';"><i>Yes</i>
-                    <input type="radio" name='qload' value="no"
-                           onclick="document.getElementById('load_config').style.display = 'none';document.getElementById('over_config').style.display = 'none';"
-                           checked><i>No</i><br>
-                    </div>
+
 
                     <div id="over_config" class="form-group" style="display: none;"><i>Overwrite Style Model ?</i>&emsp;
                         <input type="radio" name="over_config" value="yes"> <i>Yes</i>
                         <input type="radio" name="over_config" value="no" checked><i>No</i><br>
-                    </div>
-                    </div>
-
-                    <div id="load_config" class="form-group" style="display: none;">
-                        <i>Load Style Model</i>&emsp;
-                        <select name="lname">
-                            {% for config_file in config_fold %}
-                                <option value='{{ config_file }}'>{{ config_file }}</option>
-                            {% endfor %}
-                        </select>
                     </div>
 
 
@@ -186,6 +195,17 @@
                 }
             });
         }
-
+$(document).ready(function(){
+    $('#cluster').on('change', function() {
+      if ( this.value == 'kmeans')
+      {
+        $("#cluster_value").show();
+      }
+      else
+      {
+        $("#cluster_value").hide();
+      }
+    });
+});
     </script>
 {% endblock content %}
