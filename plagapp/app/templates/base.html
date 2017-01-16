@@ -6,29 +6,52 @@
     <script src="/static/js/bootstrap.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
+    <!--Left alignment-->
     {% block further_head %}{% endblock %}
+    <style>
+ .container {
+  margin-left: 0;
+}
+tbody {
+  display: block;
+  max-height: 500px;
+  overflow-y: scroll;
+  margin-right:-1.4em;
+}
+thead,
+tbody tr {
+  display: table;
+  table-layout:fixed;
+  width: 100%;
+}
+thead {
+  width: 100%;
+}
+table {
+  width: 500px;
+  padding-right:1em;
+}
+th, td {
+word-break: break-all;
+box-shadow:0   0 0 1px;
+}
+</style>
 </head>
-
 <body>
 <nav class="navbar navbar-default" role="navigation">
     <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-        <a class="navbar-brand" href="/">IPD</a>
-    </div>
-
+    <!-- Removed IPD link -->
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav">
-            <li><a href="/">Home</a></li>
+            <li><a href="/select_doc">Home</a></li>
             <li><a href="/about">About Us</a></li>
             <!-- changed name (seenu.andi-rajendran) -->
-            <li><a href="/select_doc">Detect Suspicious Passage(s)!</a></li>
-            <!--<li><a href="/select_folder">Bulk Analysis!</a></li>-->
+            <!-- Added Help -->
+            <li><a href="/help">Help</a></li>
         </ul>
     </div><!-- /.navbar-collapse -->
 </nav>
-
-
 {% block content %}{% endblock %}
 </body>
 </html>
