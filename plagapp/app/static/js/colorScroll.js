@@ -34,31 +34,47 @@
       var scrollerHandleMin = 31
 
 
-
+console.log("scrollHeight "+container.prop('scrollHeight'));
       // here calculating the total height of text elements of container
       var totalHeight = 0;
       container.children('.'+ settings.coloredTextClass).each(function(){
         totalHeight = totalHeight + $(this).outerHeight(true);
+
       });
 
       // calculate height of  text empty elements like br or <p></p>
       var emptyHeight = 0;
-      container.children().not('.'+ settings.coloredTextClass).each(function(){
-        emptyHeight = emptyHeight + $(this).outerHeight(true);
+        var emptyCount = 0;
+      container.children("br").each(function(){
+        emptyHeight = parseInt($(this).css("line-height"));
+        emptyCount = emptyCount + 1.15;
+
       });
-
-
+      emptyHeight = emptyHeight * emptyCount;
+console.log(emptyHeight+totalHeight);
+        console.log(emptyHeight);
+        console.log(totalHeight);
       // calculating the ratio b/n total height of children of container and the height of color-scroll element
-      var ratio = totalHeight/$colorScroll.outerHeight();
-      // create a jquery object containing of small divs which will be colored, and associated with each passage div in container
-      var $mini = $('.'+settings.coloredTextClass, container).map(function(){
 
-        var heightPassage=$(this).outerHeight(true)/ratio+'px';
+        console.log($colorScroll.outerHeight());
+        var ratio = container.prop('scrollHeight')/(container.outerHeight());
+        console.log(ratio);
+      // create a jquery object containing of small divs which will be colored, and associated with each passage div in container
+      var $mini = $('.'+settings.coloredTextClass+',br', container).map(function(){
+
+
+        if($(this).prop("tagName") == "BR"){
+          var heightPassage=(parseInt($(this).css("line-height"))/ratio)+'px'
+        }else {
+            var heightPassage = ($(this).outerHeight() / ratio) + 'px';
+        }
         // getting the color of passage
         var colorPassage=$(this).css('color');
         // color change if color is black
         if (colorPassage=='rgb(0, 0, 0)')
           colorPassage = settings.replaceBlack;
+
+
 
         var elem = $('<div class="'+settings.scrollSectionClass+'" style="height:'+heightPassage+'; background-color:'+colorPassage+'" ></div>').get(0)
 
@@ -84,7 +100,7 @@
 
       // getting multiple to create algorithm for converting top positions
       var k = (totalHeight + emptyHeight - containerHeight)/($colorScroll.innerHeight()-overlayHeight)
-
+console.log("K height: "+k);
 
       // attaching draggable to overlay scrolling element, so that it can be moved along color scroll element
       $overlay.draggable({
@@ -125,8 +141,9 @@
           });
       // function triggered when container scrolled, basically scroll the overlay
       function  scrollText(){
+          console.log(container.scrollTop());
               $overlay.animate({
-                top: container.scrollTop()/k + 'px'
+                top: (container.scrollTop()/k) + 'px'
               }, 1)
        }
       container.on('scroll',  scrollText)
@@ -139,9 +156,11 @@
         $overlay.animate({
           top: topPosition+'px'
         }, 200)
-
+console.log(((topPosition+overlayHeight)*ratio-containerHeight));
+          console.log(topPosition);
+          console.log(((topPosition/$colorScroll.outerHeight())*container.prop('scrollHeight')));
         container.animate({
-          scrollTop: (topPosition+overlayHeight)*ratio-containerHeight+'px'
+          scrollTop: ((topPosition/$colorScroll.outerHeight())*container.prop('scrollHeight'))+'px'
         }, 10)
       })
 
@@ -161,7 +180,7 @@ $(document).ready(function() {
   for (var i in passes) {
     col = document.getElementById('pass' + i).style.color;
     var element = document.createElement("section");
-    element.style.background = col;
+    element.style.background = col;;
 
     document.getElementById("left").appendChild(element);
   }
