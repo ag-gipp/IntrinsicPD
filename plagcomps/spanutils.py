@@ -12,6 +12,8 @@
 #    second_index = _binarySearchForSpanIndex(spans, end_index, False)
 #    return (first_index, second_index)
 
+import copy
+
 def slice(spans, start_char, end_char, return_indices = False):
     '''
     '''

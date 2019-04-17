@@ -211,7 +211,7 @@ class FeatureExtractor:
     def __init__(self, text, char_span_length=5000):
         self.text = text
         self.word_spans = tokenization.tokenize(text, "word")
-        self.sentence_spans = tokenization.tokenize(text, "sentence")
+        self.sentence_spans = list(tokenization.tokenize(text, "sentence"))
         self.paragraph_spans = tokenization.tokenize(text, "paragraph")
         self.nchar_spans = tokenization.tokenize(text, "nchars", char_span_length)
     
@@ -913,7 +913,7 @@ class FeatureExtractor:
         for wd in wds:
             syls = self._wdsyl(wd)
             if syls >= 3:
-		        count += 1
+                count += 1
         return count
 
     #adapted from https://github.com/wimmuskee/readability-score/blob/master/readability_score/calculators/smog.py

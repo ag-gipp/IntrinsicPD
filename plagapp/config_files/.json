@@ -1,0 +1,1 @@
+{"threshold": "pc90", "k": 3, "cluster_method": "kmeans", "features": ["honore_r_measure", "hapax_legomena", "simpsons_d", "yule_k_characteristic"], "atom_type": "sentence"}

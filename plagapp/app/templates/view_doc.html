@@ -189,8 +189,15 @@
                             </div>
                             <br>
                         <button type="button" class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#full_table">
-                            Atom Scores
+                            Show atom scores
                         </button>
+                        <form action='/download_csv'>
+                            <input type="hidden" name="csv_content" value="{{ csv_content }}">
+                            <input type="hidden" name="csv_filename" value="{{ csv_filename }}">
+                            <button type="submit" class="btn btn-primary btn-sm">
+                                Download atom scores as CSV
+                            </button>
+                        </form>
 
                             <div class="row collapse" id="full_table">
                                 <div class="col-md-9">

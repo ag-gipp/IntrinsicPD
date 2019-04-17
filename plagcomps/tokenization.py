@@ -43,7 +43,7 @@ def _tokenize_by_paragraph(text, return_spans):
     # Idea from this gem: http://stackoverflow.com/a/4664889/3083983
     # boundaries[i][0] == start of <ith> newline sequence (i.e. 2+ newlines)
     # boundaries[i][1] == end of <ith> newline sequence (i.e. 2+ newlines)
-    PARAGRAPH_RE = r'\s*\n{2,}\s*'
+    PARAGRAPH_RE = r'\s*(\n|\r){2,}\s*'
     boundaries = [(m.start(), m.end()) for m in re.finditer(PARAGRAPH_RE, text)]
 
     if len(boundaries) == 0:

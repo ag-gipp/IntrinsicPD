@@ -1,7 +1,7 @@
 # Import the actual Flask app
 from app import app
 #from plagcomps.dbconstants import *
-from flask import render_template, redirect, jsonify, request, url_for
+from flask import render_template, redirect, jsonify, request, url_for, Response
 import sys, json
 import os, csv, time, datetime
 import numpy as np
@@ -28,7 +28,18 @@ def about():
 def select_doc():
     return render_template('select_doc.html',
                     docs = get_file_short_names(), synt_feats=get_synt_feats(),vocab_richness=get_vocab_richness(),config_fold=get_config_files(),
-                           read_feat=get_read_feat(), word_features = get_word_feature_options(),cluster_methods = get_cluster_options(), atom_options = get_atom_options())#, similarity_measures = get_similarity_options())
+                    read_feat=get_read_feat(), word_features = get_word_feature_options(),cluster_methods = get_cluster_options(), atom_options = get_atom_options())#, similarity_measures = get_similarity_options())
+
+@app.route('/download_csv')
+def download_csv():
+    content = request.args.get('csv_content')
+    filename = request.args.get('csv_filename') or 'features.csv'
+
+    return Response(
+        content,
+        mimetype="text/csv",
+        headers={"Content-disposition":
+                 "attachment; filename="+filename})
 
 @app.route('/view_doc')
 def view_doc():
@@ -89,7 +100,7 @@ def view_doc():
     confs = np.array(cfs)
     lq_conf = np.percentile(confs,25)
     avg_conf = np.percentile(confs,50)
-    uq_conf = np.percentile(confs,90)
+    uq_conf = np.percentile(confs,75)
     pc90 = np.percentile(confs,90)
 
     if threshold == 'pc90':
@@ -229,12 +240,24 @@ def view_doc():
                 }
             ]
 
+    csv_content = "Atom No, Start Index"
+    for feature in feature_names:
+        csv_content+=", "+feature
+    csv_content+="\n"
+    i=1
+    for passage in all_passages:
+        csv_content+=str(i)+", "+str(passage.char_index_start)+", "+", ".join('%.4f' % passage.features[feature] for feature in passage.features)
+        csv_content+="\n"
+        i+=1
+    csv_filename=doc_name+"-"+atom_type+".csv"
 
     return render_template('view_doc.html',
         atom_type = atom_type,
         cluster_method = cluster_method,
         k = k,
         passages = all_passages,
+        csv_content = csv_content,
+        csv_filename = csv_filename,
         features = feature_names,
         doc_name = doc_name,
         chartID='chart', chart=chart,THRES = THRES, prop=float(100)/float(len(all_passages)),series=series, title=title, categories=categories, yAxis=yAxis, plag_cats=plag_cats, categories2=categories2, series_box=series_box,series_col=series_col, title2=title2, chart2=chart2,uq_conf=uq_conf,lq_conf=lq_conf, pc90=pc90, modelyn=modelyn)

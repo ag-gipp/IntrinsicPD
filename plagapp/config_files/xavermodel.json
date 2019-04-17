@@ -1,0 +1,1 @@
+{"threshold": "f8", "k": 2, "cluster_method": "kmeans", "features": ["hapax_legomena"], "atom_type": "sentence"}

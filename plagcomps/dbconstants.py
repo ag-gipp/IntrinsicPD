@@ -1,3 +1,3 @@
-dbname='localhost:5432/postgres'
-username="postgres"
-password="seenu"
+dbname='localhost:5432/intrinsicpd'
+username="intrinsicpd"
+password="intr1nsic"

@@ -53,7 +53,22 @@
                     <br>
                     <div class="form-group">
                         <label>Stylistic Feature(s):</label>
-                        <select id="features" name="features" multiple>
+                        <select id="features" name="features" multiple size="15">
+                            <optgroup label="Vocabulary Richness">
+                                {% for feature in vocab_richness %}
+                                    <option value="{{ feature[0] }}">{{ feature[0] }}</option>
+                                {% endfor %}
+                            </optgroup>
+                            <optgroup label="Syntactic Features">
+                                {% for feature in synt_feats %}
+                                    <option value="{{ feature[0] }}">{{ feature[0] }}</option>
+                                {% endfor %}
+                            </optgroup>
+                            <optgroup label="Readability Features">
+                                {% for feature in read_feat %}
+                                    <option value="{{ feature[0] }}">{{ feature[0] }}</option>
+                                {% endfor %}
+                            </optgroup>
                         </select>
                     </div>
                     </br>
@@ -112,89 +127,7 @@
     </div>
     <!-- loading of stylistic features according to atom type when selected (seenu.andi-rajendran)-->
     <script type="text/javascript">
-        if ('undefined' == typeof window.jQuery) {
 
-            alert("Jquery is not loaded");
-
-        } else {
-
-
-            $('.atomClass').change(function (event) {
-                which = $(this).val();
-                switch (which) {
-                    case "paragraph":
-
-                        $("#features").empty();
-
-                        $('#features').append($("<optgroup></optgroup>").attr("label", 'Vocab Richness'));
-                    {% for feature in vocab_richness %}
-
-                        $('#features').append($("<option></option>").attr("value", "{{ feature[0] }}").text("{{ feature[0] }}"));
-
-                    {% endfor %}
-                        $('#features').append($("<optgroup></optgroup>").attr("label", 'Syntactic Features'));
-                    {% for feature in synt_feats %}
-
-                        $('#features').append($("<option></option>").attr("value", "{{ feature[0] }}").text("{{ feature[0] }}"));
-
-                    {% endfor %}
-                        $('#features').append($("<optgroup></optgroup>").attr("label", 'Readability Features'));
-                    {% for feature in read_feat %}
-
-                        $('#features').append($("<option></option>").attr("value", "{{ feature[0] }}").text("{{ feature[0] }}"));
-
-                    {% endfor %}
-
-                        break;
-                    case "sentence":
-
-                        $("#features").empty();
-
-                        $('#features').append($("<optgroup></optgroup>").attr("label", 'Vocab Richness'));
-                    {% for feature in vocab_richness %}
-
-                        $('#features').append($("<option></option>").attr("value", "{{ feature[0] }}").text("{{ feature[0] }}"));
-
-                    {% endfor %}
-                        $('#features').append($("<optgroup></optgroup>").attr("label", 'Syntactic Features'));
-                    {% for feature in synt_feats %}
-
-                        $('#features').append($("<option></option>").attr("value", "{{ feature[0] }}").text("{{ feature[0] }}"));
-
-                    {% endfor %}
-                        $('#features').append($("<optgroup></optgroup>").attr("label", 'Readability Features'));
-                    {% for feature in read_feat %}
-
-                        $('#features').append($("<option></option>").attr("value", "{{ feature[0] }}").text("{{ feature[0] }}"));
-
-                    {% endfor %}
-                        break;
-                    case "nchars":
-                        $("#features").empty();
-
-                        $('#features').append($("<optgroup></optgroup>").attr("label", 'Vocab Richness'));
-                    {% for feature in vocab_richness %}
-
-                        $('#features').append($("<option></option>").attr("value", "{{ feature[0] }}").text("{{ feature[0] }}"));
-
-                    {% endfor %}
-                        $('#features').append($("<optgroup></optgroup>").attr("label", 'Syntactic Features'));
-                    {% for feature in synt_feats %}
-
-                        $('#features').append($("<option></option>").attr("value", "{{ feature[0] }}").text("{{ feature[0] }}"));
-
-                    {% endfor %}
-                        $('#features').append($("<optgroup></optgroup>").attr("label", 'Readability Features'));
-                    {% for feature in read_feat %}
-
-                        $('#features').append($("<option></option>").attr("value", "{{ feature[0] }}").text("{{ feature[0] }}"));
-
-                    {% endfor %}
-
-                        break;
-                }
-            });
-        }
 $(document).ready(function(){
     $('#cluster').on('change', function() {
       if ( this.value == 'kmeans')
