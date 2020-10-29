@@ -1,57 +1,67 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link href="/static/css/bootstrap.min.css" rel="stylesheet" media="screen">
-    <script type=text/javascript src="/static/js/jquery.js"></script>
-    <script src="/static/js/bootstrap.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Coda" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
+    <link rel="stylesheet" href='/static/css/select_doc.css'/>
     <!--Left alignment-->
     {% block further_head %}{% endblock %}
+
     <style>
- .container {
-  margin-left: 0;
-}
-tbody {
-  display: block;
-  max-height: 500px;
-  overflow-y: scroll;
-  margin-right:-1.4em;
-}
-thead,
-tbody tr {
-  display: table;
-  table-layout:fixed;
-  width: 100%;
-}
-thead {
-  width: 100%;
-}
-table {
-  width: 500px;
-  padding-right:1em;
-}
-th, td {
-word-break: break-all;
-box-shadow:0   0 0 1px;
-}
-</style>
+        .header {
+            font-family: "Coda";
+            font-size: 1.8em;
+            font-weight: bold;
+            margin-left: 50px;
+        }
+        .header > a {
+            color: #ddd;
+            text-decoration: none;
+            transition-duration: 0.5s;
+        }
+        .header > a:hover {
+            color: #fff;
+            transition: ease;
+            text-decoration: none;
+            transition-duration: 0.5s;
+        }
+        .hide {
+            display:none;
+        }
+    </style>
+
 </head>
 <body>
-<nav class="navbar navbar-default" role="navigation">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <!-- Removed IPD link -->
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-        <ul class="nav navbar-nav">
-            <li><a href="/select_doc">Home</a></li>
-            <li><a href="/about">About Us</a></li>
-            <!-- changed name (seenu.andi-rajendran) -->
-            <!-- Added Help -->
-            <li><a href="/help">Help</a></li>
-        </ul>
-    </div><!-- /.navbar-collapse -->
+
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="header">
+        <img src="/static/resources/BUW_Logo.png" alt="BUW Logo">
+        &nbsp;
+        <a class="navbar-brand" href="/select_doc">IntrinsicPD</a>
+    </div>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="/select_doc">Home </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/about">About </a>
+      </li>
+    </ul>
+  </div>
 </nav>
+
+
 {% block content %}{% endblock %}
 </body>
 </html>

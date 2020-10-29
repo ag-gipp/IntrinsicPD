@@ -1,0 +1,1 @@
+0 0 1 * * delete_non_standard_text.sh

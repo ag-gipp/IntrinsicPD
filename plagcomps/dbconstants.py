@@ -1,3 +1,3 @@
-dbname='localhost:5432/intrinsicpd'
-username="intrinsicpd"
-password="intr1nsic"
+dbname='son1i-server-h31m.strangled.net:5432/intrinsicpd'
+username="postgres"
+password="12345678"

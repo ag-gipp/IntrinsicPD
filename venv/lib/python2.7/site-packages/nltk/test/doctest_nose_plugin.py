@@ -1,16 +1,17 @@
 # -*- coding: utf-8 -*-
 from __future__ import print_function
-from nose.suite import ContextList
 import re
 import sys
 import os
 import codecs
 import doctest
-from nose.plugins.base import Plugin
 from nose.util import tolist, anyp
+from nose.plugins.base import Plugin
+from nose.suite import ContextList
 from nose.plugins.doctests import Doctest, log, DocFileCase
 
 ALLOW_UNICODE = doctest.register_optionflag('ALLOW_UNICODE')
+
 
 class _UnicodeOutputChecker(doctest.OutputChecker):
     _literal_re = re.compile(r"(\W|^)[uU]([rR]?[\'\"])", re.UNICODE)
@@ -28,10 +29,14 @@ class _UnicodeOutputChecker(doctest.OutputChecker):
         # ALLOW_UNICODE is active and want != got
         cleaned_want = self._remove_u_prefixes(want)
         cleaned_got = self._remove_u_prefixes(got)
-        res = doctest.OutputChecker.check_output(self, cleaned_want, cleaned_got, optionflags)
+        res = doctest.OutputChecker.check_output(
+            self, cleaned_want, cleaned_got, optionflags
+        )
         return res
 
+
 _checker = _UnicodeOutputChecker()
+
 
 class DoctestPluginHelper(object):
     """
@@ -44,6 +49,7 @@ class DoctestPluginHelper(object):
         '#doctest doctestencoding=utf-8' option that
         changes the encoding of doctest files
     """
+
     OPTION_BY_NAME = ('doctestencoding',)
 
     def loadTestsFromFileUnicode(self, filename):
@@ -63,32 +69,30 @@ class DoctestPluginHelper(object):
                 sys.path.append(dirname)
                 fixt_mod = base + self.fixtures
                 try:
-                    fixture_context = __import__(
-                        fixt_mod, globals(), locals(), ["nop"])
+                    fixture_context = __import__(fixt_mod, globals(), locals(), ["nop"])
                 except ImportError as e:
-                    log.debug(
-                        "Could not import %s: %s (%s)", fixt_mod, e, sys.path)
-                log.debug("Fixture module %s resolved to %s",
-                    fixt_mod, fixture_context)
+                    log.debug("Could not import %s: %s (%s)", fixt_mod, e, sys.path)
+                log.debug("Fixture module %s resolved to %s", fixt_mod, fixture_context)
                 if hasattr(fixture_context, 'globs'):
                     globs = fixture_context.globs(globs)
             parser = doctest.DocTestParser()
             test = parser.get_doctest(
-                doc, globs=globs, name=name,
-                filename=filename, lineno=0)
+                doc, globs=globs, name=name, filename=filename, lineno=0
+            )
             if test.examples:
                 case = DocFileCase(
                     test,
                     optionflags=self.optionflags,
                     setUp=getattr(fixture_context, 'setup_test', None),
                     tearDown=getattr(fixture_context, 'teardown_test', None),
-                    result_var=self.doctest_result_var)
+                    result_var=self.doctest_result_var,
+                )
                 if fixture_context:
                     yield ContextList((case,), context=fixture_context)
                 else:
                     yield case
             else:
-                yield False # no tests to load
+                yield False  # no tests to load
 
     def loadTestsFromFile(self, filename):
 
@@ -123,7 +127,7 @@ class DoctestPluginHelper(object):
         self.fixtures = options.doctestFixtures
         self.finder = doctest.DocTestFinder()
 
-        #super(DoctestPluginHelper, self).configure(options, config)
+        # super(DoctestPluginHelper, self).configure(options, config)
         self.optionflags = 0
         self.options = {}
 
@@ -138,18 +142,22 @@ class DoctestPluginHelper(object):
                         self.optionflags &= ~doctest.OPTIONFLAGS_BY_NAME[stroption[1:]]
                         continue
                     try:
-                        key,value=stroption.split('=')
+                        key, value = stroption.split('=')
                     except ValueError:
                         pass
                     else:
                         if not key in self.OPTION_BY_NAME:
                             raise ValueError()
-                        self.options[key]=value
+                        self.options[key] = value
                         continue
                 except (AttributeError, ValueError, KeyError):
                     raise ValueError("Unknown doctest option {}".format(stroption))
                 else:
-                    raise ValueError("Doctest option is not a flag or a key/value pair: {} ".format(stroption))
+                    raise ValueError(
+                        "Doctest option is not a flag or a key/value pair: {} ".format(
+                            stroption
+                        )
+                    )
 
 
 class DoctestFix(DoctestPluginHelper, Doctest):

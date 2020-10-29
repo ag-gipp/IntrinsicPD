@@ -1,0 +1,39 @@
+Acid2 
+
+Acid2 is a test page distributed and advanced by the Web Standards Project to uncover website page rendering blemishes in internet browsers and different applications that render HTML. Named after the analysis for gold, it was created in the soul of Acid1, a generally tight trial of consistence with the Cascading Style Sheets 1.0 (CSS1) standard, and was discharged on 13 April 2005. As with Acid1, an application breezes through the test if the manner in which it shows the test page coordinates a reference picture. 
+
+Acid2 tests parts of HTML markup, CSS 2.1 styling, PNG pictures, and information URIs. The Acid2 test page will be shown accurately in any application that pursues the World Wide Web Consortium and Internet Engineering Task Force details for these innovations. These determinations are known as web guidelines since they depict how innovations utilized on the web are relied upon to work. 
+
+Acid2 was planned in view of Microsoft Internet Explorer especially. The makers of Acid2 were disheartened that Internet Explorer did not pursue web benchmarks. It was inclined to show pages uniquely in contrast to different programs, causing web designers to invest energy tweaking their website pages. Acid2 tested Microsoft to influence Internet Explorer to agree to web gauges. 
+
+Acid2 was discharged on 13 April 2005. On 31 October 2005, Safari 2.0.2 turned into the principal program to pass Acid2. Musical drama, Konqueror, Firefox, and others pursued. With the arrival of Internet Explorer 8 on 19 March 2009, the most recent adaptations of all significant work area internet browsers presently breeze through the test until IE10 was discharged, which comes up short the test. Its successor, Microsoft Edge, can render it accurately as of Windows 10 form 1607. Acid2 was trailed by Acid3. 
+
+The test comes up short when programs become consistent with current CSS breakdown and edge principles. 
+
+Acid2 was first proposed by HÃ¥kon Wium Lie, boss specialized officer of Opera Software and maker of the broadly utilized Cascading Style Sheets web standard. In a 16 March 2005 article on CNET, Lie communicated overwhelm that Microsoft Internet Explorer did not appropriately bolster web gauges and subsequently was not totally interoperable with different programs. He declared that Acid2 would be a test to Microsoft to plan Internet Explorer 7, at that point being developed, to accomplish a more prominent level of guidelines consistence than past variants of Internet Explorer. The first Acid1 test had constrained program producers to fix their applications or face humiliation; Lie trusted that Acid2 would do likewise. 
+
+Untruth and an associate, Ian Hickson, made the primary draft of the test in February 2005. Ian Hickson coded the last test as a team with the Web Standards Project and the bigger web network. It was formally discharged on 13 April 2005 and around then, every internet browser fizzled it tremendously. 
+
+On 23 April 2005, Acid2 was refreshed to fix a bug that influenced the mouth to show up excessively near the nose. After a few grievances, the test was again refreshed in January 2006 to expel a test for disagreeable SGML-style remarks that were never generally executed. In programs that don't actualize SGML-style remarks, the first test showed "Blunder" on the base piece of the face. 
+
+In March 2008, Ian Hickson discharged Acid3 as a follow-up to Acid2. While Acid2 fundamentally tests CSS, Acid3 concentrates more on JavaScript and other "Web 2.0" innovations. 
+
+In July 2005, Chris Wilson, the Internet Explorer Platform Architect, expressed that passing Acid2 was not a need for Internet Explorer 7, portraying the test as a "list of things to get" of highlights instead of a genuine trial of models consistence. In December 2007, Microsoft reported that every one of the progressions required to pass Acid2 would be made accessible in Internet Explorer 8, however that the progressions would not be turned on of course, implying that IE8 would not really breeze through the test. The worry was that changing to another conduct would cause such a large number of issues in website pages anticipating Internet Explorer's old, resistant conduct. At that point in March 2008 Microsoft discharged IE8 beta 1 and turned on the progressions as a matter of course all things considered. James Pratt, item director for IE8, clarified that this choice was made so that "engineers can invest more energy building highlights and cool stuff, and less time simply endeavoring to change their locales crosswise over various programs." 
+
+Another uncertain models consistence issue caused IE8 beta 1 to bomb if not all components of the test were facilitated from a similar server. In August 2008 Microsoft discharged IE8 beta 2, which settled the issue. As of that beta, in any case, measures mode isn't turned on as a matter of course for pages stacked in the "Intranet Zone". This zone is dynamic for pages stacked by means of UNC ways, named addresses without dabs (like <nowiki>http://mysite/</nowiki>), and locales that sidestep the intermediary settings. All things considered, IE8 won't finish the Acid2 test whenever stacked in these cases. 
+
+Acid2 tests an assortment of web norms distributed by the World Wide Web Consortium and the Internet Engineering Task Force. Except for CSS 2.1, all web models tried were arranged before the year 2000. CSS 2.1 was a hopeful suggestion at the season of Acid2's discharge, was as yet a competitor proposal starting at 23 April 2009. 
+
+In particular, Acid2 tests: 
+
+Since Acid2 is certainly not a thorough test, it doesn't ensure all out conformance to a specific standard. A variation of the Acid2 test that does not test for information URI support is likewise accessible from the Web Standards Project. 
+
+A passing score is possibly viewed as substantial if the program's default settings were utilized. Activities, for example, changing text dimensions, zoom level, and applying client templates can break the presentation of the test. This is normal and isn't pertinent to a program's consistence. 
+
+The accompanying program settings and client activities refute the test: 
+
+Whenever rendered effectively, Acid2 will show up as a smiley face underneath the content "Hi World!" in the client's program, with the nose turning blue when the mouse cursor drifts over it. At the season of the test's discharge, each program fizzled it, however at this point various programs pass it. See the rundown beneath. 
+
+Despite the fact that Opera Mini depends on a similar rendering motor as Opera for PCs, it doesn't finish the Acid2 test. This is on the grounds that Opera Mini purposefully reformats website pages to attempt to make them increasingly reasonable for gadgets with little screens. 
+
+Coming up next is a rundown of discharges taking note of critical arrivals of uses that finished the test. New applications that have passed Acid2 since their first official discharge are excluded in the course of events.

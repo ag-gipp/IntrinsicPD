@@ -3,6 +3,7 @@ $(document).ready(function() {
 
     var lastClicked;
     var flag;
+
     function updateFeatureBox(text) {
         $('#feature_box').html(text);
     };
@@ -32,5 +33,7 @@ $(document).ready(function() {
 
         updateFeatureBox($(this).attr('features'));
     });
+
+
 
 });

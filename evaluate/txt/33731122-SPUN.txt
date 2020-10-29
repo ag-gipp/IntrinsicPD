@@ -1,0 +1,11 @@
+Accident design 
+
+Accident design is a content based organization for abridging the base calls of adjusted peruses to a reference succession. This organization encourages visual presentation of SNP/indel calling and arrangement. It was first utilized by 
+
+Tony Cox and Zemin Ning at the Wellcome Trust Sanger Institute, however turned out to be generally known through its execution inside the SAMtools programming suite. 
+
+Each line comprises of 5 (or alternatively 6) tab-isolated sections: 
+
+This is a discretionary section. On the off chance that present, the ASCII estimation of the character less 33 gives the mapping Phred nature of every one of the bases in the past segment 5. This is like quality encoding in the FASTQ group. 
+
+There is no standard record augmentation for a Pileup document, yet .accident is regularly utilized.

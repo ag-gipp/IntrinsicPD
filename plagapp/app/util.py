@@ -23,17 +23,9 @@ vocab_richness= [
 
 synt_feats = [
         'stopword_percentage',
-        'punctuation_percentage',
         'avg_internal_word_freq_class',
         'avg_external_word_freq_class',
-        'average_word_length',
-        'average_sentence_length',
-        'syntactic_complexity',
-        'average_syllables_per_word',
-        'alpha_chars_ratio',
-        'digit_chars_ratio',
-        'upper_chars_ratio',
-        'white_chars_ratio'
+        'syntactic_complexity'
 ]
 
 read_feat = [
@@ -42,10 +34,21 @@ read_feat = [
         'linsear_write_formula',
         'gunning_fog_index',
         'dale_chall_readability_score',
-        'polysyllablcount',
         'smog_index',
         'flesch_reading_ease',
         'flesch_kincaid_grade'
+]
+
+lex_feats = [
+    'punctuation_percentage',
+    'average_word_length',
+    'average_sentence_length',
+    'average_syllables_per_word',
+    'alpha_chars_ratio',
+    'digit_chars_ratio',
+    'upper_chars_ratio',
+    'white_chars_ratio',
+    'polysyllablcount'
 ]
 
 
@@ -98,6 +101,10 @@ def get_file_to_full_paths():
 
     return {name : full for name, full in zip(file_names, full_paths)}
 
+def get_lex_feats():
+    options = lex_feats
+
+    return zip(options, options)
 
 def get_vocab_richness():
     options = vocab_richness

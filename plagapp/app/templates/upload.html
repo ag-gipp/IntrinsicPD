@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+{% block further_head %}
+    <link rel="stylesheet" href="/static/css/upload.css">
+{% endblock further_head %}
+{% block content %}
+
+<title>IntrinsicPD - Upload</title>
+
+<div class="container">
+    <br>
+    <h2>Select file(s) to upload</h2>
+
+    <div class="jumbotron">
+        <p>
+        {% with messages = get_flashed_messages() %}
+          {% if messages %}
+            <ul class=flashes>
+            {% for message in messages %}
+              <li>{{ message }}</li>
+            {% endfor %}
+            </ul>
+          {% endif %}
+        {% endwith %}
+        </p>
+        <form method="post" action="/up" enctype="multipart/form-data">
+            <dl>
+                <p>
+                    <input type="file" name="file" multiple autocomplete="off" required>
+                </p>
+            </dl>
+            <div class = "row">
+                <div class = "column" id = "submitButton">
+                    <p>
+                        <button class="btn btn-primary" type="submit">Upload</button>
+                    </p>
+                </div>
+                <div class = "column" id = "backButton">
+                    &nbsp;<a class="btn btn-primary" href="/select_doc">Back</a>
+                </div>
+            </div>
+        </form>
+
+
+    </div>
+</div>
+
+
+
+
+
+{% endblock content %}

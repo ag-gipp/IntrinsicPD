@@ -1,1 +1,1 @@
-{"k": 2, "cluster_method": "kmeans", "features": ["yule_k_characteristic", "yule_i", "stopword_percentage"], "atom_type": "paragraph"}
+{"threshold": "f8", "k": 2, "cluster_method": "kmeans", "features": ["hapax_legomena"], "atom_type": "paragraph"}

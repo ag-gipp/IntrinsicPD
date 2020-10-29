@@ -1,7 +1,4 @@
-@import url('//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css');
-body {
-  margin: 10px;
-}
+
 .color-map{
   width: 50px !important;
   border: 1px solid black;
@@ -19,13 +16,13 @@ body {
 .mapSection{
   width: 50px !important;
   /* border-top: 1px solid white; */
-  
+
 }
 .overlay{
   background-color: rgba(141, 159, 207, 0.7);
   opacity: 30%;
   margin: 0;
-   position: absolute; 
+   position: absolute;
   z-index: 200;
   top: 0;
   width: 50px;

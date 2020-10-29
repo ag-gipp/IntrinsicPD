@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
 {% block further_head %}
-    <link href="/static/css/view_doc.css" rel="stylesheet" media="screen">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="/static/js/popover.js"></script>
     <script src="/static/js/tooltip.js"></script>
     <script src="/static/js/view_doc.js"></script>
@@ -13,13 +13,19 @@
     <!--<script src="/static/js/colorScroll.js"></script>-->
     <!-- added  -->
     <script src="/static/js/jquery-ui-git.js"></script>
-    <link rel='stylesheet' href='/static/css/bootstrap.min.css'/>
+
+    <script src = "/static/js/slider.js"></script>
+
     <link rel='stylesheet' href='/static/css/style.css'/>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel='stylesheet' href='/static/css/view_doc.css'/>
     <!-- end added -->
 {% endblock further_head %}
 
 
 {% block content %}
+<title>IntrinsicPD - Analysis</title>
     <div class="container-fluid">
         <style>
             .color-map {
@@ -41,13 +47,13 @@
             #redcircle, #orangecircle, #blackcircle, #underline
             {
                 display:inline;
-                font-size: 15px
+                font-size: 16px
             }
 
         </style>
 
-
-        <h1>&nbsp;&nbsp;&nbsp;Stylistic Analysis</h1>
+        <br>
+        <h2>Stylistic Analysis for Intrinsic Plagiarism Detection</h2>
 
         <div class="jumbotron">
 
@@ -80,9 +86,76 @@
                     background-color: #ffffff;
                     white-space: nowrap;
                 }
+                .col-xl-1 {
+                    border: 1px solid;
+                }
+                .col-xl-7 {
+                    border: 1px solid;
+                }
+                .col-white {
+                    background:white;
+                }
             </style>
 
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-xl-1 col-grey">
+                        <strong>Document</strong>
+                    </div>
+                    <div class="col-xl-1">
+                        <strong>Atom Type</strong>
+                    </div>
+                    <div class="col-xl-1">
+                        <strong>Cluster Method</strong>
+                    </div>
+                    {% if cluster_method == 'kmeans' %}
+                        <div class="col-xl-1">
+                            <strong>k</strong>
+                        </div>
+                    {% endif %}
+                    <div class="col-xl-7">
+                        <strong>Stylistic Feature(s)</strong>
+                    </div>
+                    {% if modelyn != '' %}
+                        <div class="col-xl-1"><strong>Style Model used is</strong></div>
+                    {% endif %}
+                    <div class="col-xl-1">
+                        <strong>Threshold</strong>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xl-1 col-white">
+                        {{ doc_name }}
+                    </div>
+                    <div class="col-xl-1 col-white">
+                        {{ atom_type }}
+                    </div>
+                    <div class="col-xl-1 col-white">
+                        {{ cluster_method }}
+                    </div>
+                    {% if cluster_method == 'kmeans' %}
+                        <div class="col-xl-1 col-white">
+                            {{ k }}
+                        </div>
+                    {% endif %}
+                    <div class="col-xl-7 col-white">
+                        {% for f in features %}{{ f }} &nbsp; {% endfor %}
+                    </div>
+                    {% if modelyn != '' %}
+                        <div class="col-xl-1 col-white">
+                            {{ modelyn }}
+                        </div>
+                    {% endif %}
 
+                    {% if origThresh == 'pc90' %}
+                    <div class="col-xl-1 col-white">90th percentile</div>
+                    {% else %}
+                    <div class="col-xl-1 col-white">{{THRES}}</div>
+                    {% endif %}
+                </div>
+            </div>
+
+            <!--
             <table class="gridtable" width="100%">
 
                 <tr>
@@ -108,22 +181,23 @@
                     {% if cluster_method == 'kmeans' %}
                         <td width="30px">{{ k }}</td>
                     {% endif %}
-                    <td style="word-wrap:break-all;">{% for f in features %}{{ f }};{% endfor %}</td>
+                    <td style="word-wrap:break-word;">{% for f in features %}{{ f }} &nbsp; {% endfor %}</td>
                     {% if modelyn != '' %}
                         <td>{{ modelyn }}</td>
                     {% endif %}
 
-                    {% if THRES == '0.8' %}
-                    <td width="130px">0.8</td>
-                    {% else %}
+                    {% if origThresh == 'pc90' %}
                     <td width="130px">90th percentile</td>
+                    {% else %}
+                    <td width="130px">{{THRES}}</td>
                     {% endif %}
 
 
                 </tr>
 
             </table>
-
+            -->
+    <br>
     <div id="block_container">
         {% if plag_cats|length > 0 %}
             <div id="redcircle" style="width: 60px;height: 60px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: orange;">atom, score > threshold</div>
@@ -131,12 +205,12 @@
             <div id="orangecircle" style="width: 60px;height: 60px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: red;">gt atom, score < threshold</div>
             <div id="blackcircle" style="width: 50px;height: 50px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: black; color: white;">atom, score < threshold</div>
         {% else %}
-            <div id="redcircle" style="width: 50px;height: 50px;-webkit-border-radius: 25px;-moz-border-radius: 25px;border-radius: 25px;background: orange;">Atom crossing the threshold</div>
+            <div id="redcircle" style="background: orange;">Atom crossing the threshold</div>
         {% endif %}
 
         <div class="container">
             <div class="row">
-                <div class="col-md-3">
+                <div class="col-md-2">
                     <!-- boxplot visualization (seenu.andi-rajendran)-->
                     <div id="boxplot"></div>
                 </div>
@@ -188,21 +262,44 @@
                                 </p>
                             </div>
                             <br>
-                        <button type="button" class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#full_table">
-                            Show atom scores
-                        </button>
-                        <form action='/download_csv'>
-                            <input type="hidden" name="csv_content" value="{{ csv_content }}">
-                            <input type="hidden" name="csv_filename" value="{{ csv_filename }}">
-                            <button type="submit" class="btn btn-primary btn-sm">
-                                Download atom scores as CSV
-                            </button>
-                        </form>
+                            <div class = "row">
+                                <div id = "sliderThreshholdText">
+                                    Threshhold:
+                                </div>
+                                &nbsp;
+                                <span id = "sliderValue"></span>
+                                <script>
+
+                                </script>
+                                <div class = "slidecontainer">
+                                    &nbsp;
+                                    <input type = "range" min = "0" max = "1" step = "0.1" value = "0.9" class = "slider" id = "threshholdSlider">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-2">
+                                </div>
+                                <div class="col-md-3">
+                                    <button type="button" class="btn btn-primary btn-sm" data-toggle="collapse" data-target="#full_table">
+                                    Show atom scores
+                                    </button>
+                                </div>
+                                <div class="col-md-2">
+                                    <form action='/download_csv'>
+                                        <input type="hidden" name="csv_content" value="{{ csv_content }}">
+                                        <input type="hidden" name="csv_filename" value="{{ csv_filename }}">
+                                        <button type="submit" class="btn btn-primary btn-sm">
+                                            Download atom scores as CSV
+                                        </button>
+                                    </form>
+                                </div>
+                            </div>
 
                             <div class="row collapse" id="full_table">
                                 <div class="col-md-9">
                                     <div class="table-responsive" style="font-size:12px;">
                                         <table class="table table-condensed table-scrollable table-bordered" style="height:10px;">
+                                            <br>
                                             <thead>
                                             <tr>
                                                 <th>Atom No</th>
@@ -374,5 +471,7 @@
                 $(v).width(colWidth[i]);
             });
         }).resize(); // Trigger resize handler
+
+
     </script>
 {% endblock content %}

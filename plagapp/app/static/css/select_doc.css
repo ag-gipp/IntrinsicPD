@@ -1,0 +1,39 @@
+
+
+body{
+        /*background-color: #f7f7f7;*/
+    }
+
+    #main_content{
+        /*background-color: #f7f7f7;*/
+    }
+
+    .jumbotron{
+        border-style: solid;
+        boder-width: medium;
+        border-color: #89ba17;
+        background-color: #f7f7f7;
+    }
+
+    .col{
+        /*border-style: solid;
+        boder-width: 0.01;
+        border-color: #89ba17;*/
+    }
+
+    h4{
+        color: #3751ad;
+    }
+
+    h2{
+        color: #4389bc;
+    }
+
+    h6{
+        color: #4389bc;
+    }
+    .tooltip-inner {
+    max-width: 600px;
+    /* If max-width does not work, try using width instead */
+    width: 600px;
+}

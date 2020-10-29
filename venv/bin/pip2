@@ -1,5 +1,4 @@
-#!/Users/wheb/Documents/GitHub/IntrinsicPD/venv/bin/python
-
+#!/home/son1i/PycharmProjects/IRProject/IntrinsicPD/venv/bin/python2.7
 # -*- coding: utf-8 -*-
 import re
 import sys

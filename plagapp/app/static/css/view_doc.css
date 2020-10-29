@@ -3,9 +3,9 @@ Help from: http://coderguy.com/2013/06/18/twitter-bootstrap-affix-nav-tutorial.h
 */
 
 .affix {
-  width: inherit; 
+  width: inherit;
   position: fixed;
-  top: 50px;  
+  top: 50px;
 }
 .affix-bottom {
   width: inherit;
@@ -13,3 +13,16 @@ Help from: http://coderguy.com/2013/06/18/twitter-bootstrap-affix-nav-tutorial.h
   top: auto;
   bottom: 200px;
 }
+
+
+th {
+    color: #3751ad;
+}
+
+#sliderValue{
+    color: #e8122e;
+}
+
+h2{
+        color: #4389bc;
+    }

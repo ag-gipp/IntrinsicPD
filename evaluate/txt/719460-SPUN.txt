@@ -1,0 +1,299 @@
+Laplaceâ Rungeâ Lenz vector 
+
+In established mechanics, the Laplaceâ Rungeâ Lenz (LRL) vector is a vector utilized predominantly to depict the shape and introduction of the circle of one galactic body around another, for example, a planet spinning around a star. For two bodies collaborating by Newtonian gravity, the LRL vector is a steady of movement, implying that it is the equivalent regardless of where it is determined on the circle; proportionally, the LRL vector is said to be "monitored". All the more by and large, the LRL vector is preserved in all issues in which two bodies communicate by a focal power that shifts as the opposite square of the separation between them; such issues are called Kepler issues. 
+
+The hydrogen iota is a Kepler issue, since it contains two charged particles connecting by Coulomb's law of electrostatics, another converse square focal power. The LRL vector was fundamental in the main quantum mechanical inference of the range of the hydrogen molecule, before the improvement of the SchrÃ¶dinger condition. Be that as it may, this methodology is infrequently utilized today. 
+
+In traditional and quantum mechanics, saved amounts for the most part compare to a symmetry of the framework. The protection of the LRL vector relates to a surprising symmetry; the Kepler issue is scientifically equal to a molecule moving openly on the outside of a four-dimensional (hyper-)circle, with the goal that the entire issue is symmetric under specific turns of the four-dimensional space. This higher symmetry results from two properties of the Kepler issue: the speed vector dependably moves in an ideal hover and, for a given complete vitality, all such speed circles converge each other in a similar two points. 
+
+The Laplaceâ Rungeâ Lenz vector is named after Pierre-Simon de Laplace, Carl Runge and Wilhelm Lenz. It is otherwise called the Laplace vector, the Rungeâ Lenz vector and the Lenz vector. Unexpectedly, none of those researchers found it. The LRL vector has been re-found a few times and is likewise proportional to the dimensionless flightiness vector of divine mechanics. Different speculations of the LRL vector have been characterized, which fuse the impacts of unique relativity, electromagnetic fields and even extraordinary kinds of focal powers. 
+
+A solitary molecule moving under any traditionalist focal power has something like four constants of movement, the absolute vitality "E" and the three Cartesian parts of the precise force vector L regarding the inception. The molecule's circle is kept to a plane characterized by the molecule's underlying energy p (or, proportionally, its speed v) and the vector r between the molecule and the focal point of power (see Figure 1, beneath). 
+
+As characterized beneath (see Mathematical definition), the Laplaceâ Rungeâ Lenz vector (LRL vector) A dependably lies in the plane of movement for any focal power. In any case, An is steady just for a reverse square focal power. For most focal powers, notwithstanding, this vector An isn't consistent, yet alters in both length and course; if the focal power is "roughly" a reverse square law, the vector An is around steady long, however gradually turns its bearing. A "summed up" preserved LRL vector formula_1 can be characterized for every single focal power, yet this summed up vector is a convoluted capacity of position, and as a rule not expressible in shut structure. 
+
+The plane of movement is opposite to the precise force vector L, which is steady; this might be communicated scientifically by the vector speck item condition ; similarly, since A lies in that plane, . 
+
+The LRL vector contrasts from other preserved amounts in the accompanying property. While for commonplace moderated amounts, there is a comparing cyclic arrange in the three-dimensional Lagrangian of the framework, there does "not" exist such a facilitate for the LRL vector. Along these lines, the protection of the LRL vector must be inferred straightforwardly, e.g., by the technique for Poisson sections, as portrayed underneath. Preserved amounts of this sort are classified "dynamic", rather than the standard thing "geometric" preservation laws, e.g., that of the precise energy. 
+
+The LRL vector A will be a consistent of movement of the critical Kepler issue, and is valuable in portraying cosmic circles, for example, the movement of the planets. All things considered, it has never been notable among physicists, perhaps on the grounds that it is less natural than energy and rakish force. Thus, it has been rediscovered freely a few times in the course of the most recent three centuries. 
+
+Jakob Hermann was the first to demonstrate that An is saved for an exceptional instance of the backwards square focal power, and worked out its association with the unpredictability of the orbital circle. Hermann's work was summed up to its advanced structure by Johann Bernoulli in 1710. Toward the century's end, Pierre-Simon de Laplace rediscovered the preservation of An, inferring it systematically, instead of geometrically. Amidst the nineteenth century, William Rowan Hamilton determined the equal unpredictability vector characterized underneath, utilizing it to demonstrate that the energy vector p proceeds onward a hover for movement under a backwards square focal power (Figure 3). 
+
+Toward the start of the twentieth century, Josiah Willard Gibbs inferred a similar vector by vector examination. Gibbs' determination was utilized for instance via Carle Runge in a well known German reading material on vectors, which was referenced by Wilhelm Lenz in his paper on the (old) quantum mechanical treatment of the hydrogen molecule. In 1926, the vector was utilized by Wolfgang Pauli to determine the range of hydrogen utilizing current quantum mechanics, however not the SchrÃ¶dinger condition; after Pauli's distribution, it ended up referred to predominantly as the "Rungeâ Lenz vector". 
+
+For a solitary molecule followed up on by an opposite square focal power portrayed by the condition 
+
+the LRL vector An is characterized scientifically by the equation 
+
+</math> 
+
+where 
+
+Since the expected power is moderate, the all out vitality is a steady of movement, 
+
+Moreover, the accepted power is a focal power, and accordingly the rakish energy vector L is additionally preserved and characterizes the plane in which the molecule ventures. The LRL vector An is opposite to the rakish force vector L in light of the fact that both and r are opposite to L. It pursues that A lies in the plane of the circle. 
+
+This meaning of the LRL vector A relates to a solitary point molecule of mass moving under the activity of a fixed power. Notwithstanding, a similar definition might be reached out to two-body issues, for example, Kepler's concern, by taking as the diminished mass of the two bodies and r as the vector between the two bodies. 
+
+An assortment of elective details for a similar steady of movement may likewise be utilized. The most well-known is proportional by to characterize the unusualness vector 
+
+The "shape" and "introduction" of the Kepler issue circles can be resolved from the LRL vector as pursues. Taking the dab result of A with the position vector r gives the condition 
+
+where "Î¸" is the point among r and A (Figure 2). Permuting the scalar triple item 
+
+furthermore, adjusting yields the characterizing equation for a conic segment, gave that "A" will be a consistent, which is the situation for the reverse square power law, 
+
+of unpredictability "e", 
+
+what's more, latus rectum 
+
+The major semiaxis of the conic segment might be characterized utilizing the latus rectum and the unpredictability 
+
+where the less sign relates to ovals and the in addition to sign to hyperbolae. 
+
+Taking the spot result of A with itself yields a condition including the vitality , 
+
+which might be changed regarding the erraticism, 
+
+In this way, if the vitality "E" is negative (bound circles), the unpredictability is short of what one and the circle is an oval. Alternately, if the vitality is sure (unbound circles, additionally called "dispersed circles"), the unusualness is more prominent than one and the circle is a hyperbola. At long last, if the vitality is actually zero, the capriciousness is one and the circle is a parabola. In all cases, the bearing of A lies along the symmetry hub of the conic segment and focuses from the focal point of power toward the periapsis, the purpose of nearest approach. 
+
+The preservation of the LRL vector An and precise energy vector L is helpful in demonstrating that the force vector p proceeds onward a hover under a reverse square focal power. 
+
+Taking the dab result of 
+
+with itself yields 
+
+Further picking L along the - pivot, and the major semiaxis as the - hub, yields the locus condition for p, 
+
+As it were, the force vector p is kept to a hover of range fixated on . The flightiness relates to the cosine of the edge appeared in Figure 3. 
+
+In the savage furthest reaches of roundabout circles, and therefore evaporating A, the hover focuses at the inception (0,0). 
+
+For quickness, it is additionally valuable to present the variable formula_16. 
+
+This round hodograph is valuable in outlining the symmetry of the Kepler issue. 
+
+The seven scalar amounts "E", An and L (being vectors, the last two contribute three moderated amounts each) are connected by two conditions, and , giving five free constants of movement. (Since the size of A, subsequently the flightiness "e" of the circle, can be resolved from the complete precise force "L" and the vitality "E", just the "heading" of An is monitored freely; besides, since An unquestionable requirement be opposite to L, it contributes "just one" extra preserved amount.) 
+
+This is steady with the six introductory conditions (the molecule's underlying position and speed vectors, each with three segments) that indicate the circle of the molecule, since the underlying time isn't dictated by a consistent of movement. The subsequent 1-dimensional circle in 6-dimensional stage space is along these lines totally determined. 
+
+A mechanical framework with "d" degrees of opportunity can have at most constants of movement, since there are 2"d" starting conditions and the underlying time can't be dictated by a consistent of movement. A framework with more than "d" constants of movement is designated "superintegrable" and a framework with constants is called maximally superintegrable. Since the arrangement of the Hamiltonâ Jacobi condition in one organize framework can yield just "d" constants of movement, superintegrable frameworks must be distinguishable in more than one facilitate framework. The Kepler issue is maximally superintegrable, since it has three degrees of opportunity () and five autonomous consistent of movement; its Hamiltonâ Jacobi condition is divisible in both round directions and allegorical directions, as depicted beneath. 
+
+Maximally superintegrable frameworks pursue shut, one-dimensional circles in stage space, since the circle is the crossing point of the stage space isosurfaces of their constants of movement. Thus, the circles are opposite to all inclinations of all these 
+
+autonomous isosurfaces, five in this particular issue, and consequently are controlled by the summed up cross results of these angles. Subsequently, all superintegrable frameworks are naturally describable by Nambu mechanics, then again, and equally, to Hamiltonian mechanics. 
+
+Maximally superintegrable frameworks can be quantized utilizing replacement relations, as delineated beneath. In any case, equally, they are likewise quantized in the Nambu structure, 
+
+for example, this established Kepler issue into the quantum hydrogen iota. 
+
+The Laplaceâ Rungeâ Lenz vector An is preserved just for an ideal reverse square focal power. In most handy issues, for example, planetary movement, be that as it may, the association potential vitality between two bodies isn't actually a reverse square law, yet may incorporate an extra focal power, a supposed "irritation" depicted by a potential vitality . In such cases, the LRL vector turns gradually in the plane of the circle, relating to a moderate apsidal precession of the circle. 
+
+By presumption, the irritating potential is a traditionalist focal power, which suggests that the absolute vitality and rakish force vector L are saved. Hence, the movement still lies in a plane opposite to L and the size is rationed, from the condition . The annoyance potential might be any kind of capacity, however ought to be altogether more fragile than the primary opposite square power between the two bodies. 
+
+The "rate" at which the LRL vector pivots gives data about the bothering potential . Utilizing sanctioned annoyance hypothesis and activity point arranges, it is direct to demonstrate that A pivots at a rate of, 
+
+where is the orbital period, and the character was utilized to change over the time necessary into a rakish vital (Figure 5). The articulation in rakish sections, , speaks to the bothering potential, however "found the middle value of" more than one full period; that is, arrived at the midpoint of more than one full entry of the body around its circle. Numerically, this time normal relates to the accompanying amount in wavy props. This averaging smothers changes in the rate of turn. 
+
+This methodology was utilized to help confirm Einstein's hypothesis of general relativity, which includes a little compelling converse cubic irritation to the ordinary Newtonian gravitational potential, 
+
+Embeddings this capacity into the indispensable and utilizing the condition 
+
+to express as far as , the precession rate of the periapsis brought about by this non-Newtonian irritation is determined to be 
+
+which intently coordinates the watched peculiar precession of Mercury and parallel pulsars. This concurrence with test is solid proof for general relativity. 
+
+The mathematical structure of the issue is, as clarified in later areas, SO(4)/â¤ ~ SO(3) Ã SO(3). 
+
+The three parts "L" of the precise energy vector L have the Poisson sections 
+
+where =1,2,3 and is the completely antisymmetric tensor, i.e., the Levi-Civita image; the summation list is utilized here to stay away from perplexity with the power parameter characterized previously. At that point since the LRL vector A changes like a vector, we have the accompanying Poisson section relations among An and L: 
+
+At last, the Poisson section relations between the diverse segments of An are as per the following: 
+
+where formula_24 is the Hamiltonian. Note that the range of the segments of An and the parts of L isn't shut under Poisson sections, on account of the factor of formula_24 on the right-hand side of this last connection. 
+
+At long last, since both L and An are constants of movement, we have 
+
+The Poisson sections will be reached out to quantum mechanical compensation relations in the following segment and Lie sections in a following segment. 
+
+As noted beneath, a scaled Laplaceâ Rungeâ Lenz vector D might be characterized with indistinguishable units from rakish force by partitioning A by formula_27. Since D still changes like a vector, the Poisson sections of D with the precise energy vector L would then be able to be written in a comparable structure 
+
+The Poisson sections of D with "itself" rely upon the indication of "H", i.e., on whether the vitality is negative (creating shut, circular circles under a backwards square focal power) or positive (delivering open, hyperbolic circles under an opposite square focal power). For "negative" energiesâi.e., for bound frameworksâthe Poisson sections are 
+
+We may now value the inspiration for the picked scaling of D: With this scaling, the Hamiltonian never again shows up on the right-hand side of the former connection. In this manner, the range of the three segments of L and the three segments of D frames a six-dimensional Lie variable based math under the Poisson section. This Lie variable based math is isomorphic to so(4), the Lie polynomial math of the 4-dimensional revolution bunch SO(4). 
+
+On the other hand, for "positive" vitality, the Poisson sections have the contrary sign, 
+
+For this situation, the Lie variable based math is isomorphic to so(3,1). 
+
+The qualification among positive and negative energies emerges on the grounds that the ideal scalingâthe one that wipes out the Hamiltonian from the right-hand side of the Poisson section relations between the segments of the scaled LRL vectorâincludes the "square root" of the Hamiltonian. To acquire genuine esteemed capacities, we should then take the supreme estimation of the Hamiltonian, which recognizes positive qualities (where formula_31) and negative qualities (where formula_32). 
+
+The Casimir invariants for negative energies are 
+
+what's more, have evaporating Poisson sections with all parts of D and L, 
+
+"C" is inconsequentially zero, since the two vectors are constantly opposite. 
+
+Be that as it may, the other invariant, "C", is non-trifling and depends just on "m", "k" and "E". Upon accepted quantization, this invariant permits the vitality dimensions of hydrogen-like iotas to be inferred utilizing just quantum mechanical sanctioned compensation relations, rather than the ordinary arrangement of the SchrÃ¶dinger condition. This deduction is talked about in detail in the following area. 
+
+Poisson sections give a straightforward manual for quantizing most established frameworks: the recompense connection of two quantum mechanical administrators is determined by the Poisson section of the relating traditional factors, increased by . 
+
+Via completing this quantization and computing the eigenvalues of the Casimir administrator for the Kepler issue, Wolfgang Pauli had the capacity to determine the vitality dimensions of hydrogen-like molecules (Figure 6) and, subsequently, their nuclear emanation range. This rich 1926 induction was acquired "before the advancement of the SchrÃ¶dinger condition". 
+
+A nuance of the quantum mechanical administrator for the LRL vector An is that the energy and rakish force administrators don't drive; thus, the quantum administrator cross result of p and L must be characterized cautiously. Commonly, the administrators for the Cartesian parts are characterized utilizing a symmetrized (Hermitian) item, 
+
+When this is done, one can demonstrate that the quantum LRL administrators fulfill substitutions relations precisely closely resembling the Poisson section relations in the past areaâsimply supplanting the Poisson section with formula_37 times the commutator. 
+
+From these administrators, extra stepping stool administrators for L can be characterized, 
+
+These further interface "extraordinary" eigenstates of L, so unique turn multiplets, among themselves. 
+
+A standardized first Casimir invariant administrator, quantum simple of the abovementioned, can in like manner be characterized, 
+
+where is the opposite of the Hamiltonian vitality administrator, and is the personality administrator. 
+
+Applying these stepping stool administrators to the eigenstates |"â"ã of the all out rakish force, azimuthal precise energy and vitality administrators, the eigenvalues of the first Casimir administrator, , are believed to be quantized, . Significantly, by dint of the disappearing of "C", they are free of the â and quantum numbers, making the vitality levels degenerate. 
+
+Consequently, the vitality levels are given by 
+
+which corresponds with the Rydberg equation for hydrogen-like particles (Figure 6). The extra symmetry administrators A have associated the diverse â multiplets among themselves, for a given vitality (and "C"), managing states at each dimension. As a result, they have augmented the precise force aggregate SO(3) to SO(4)/â¤ ~ SO(3) Ã SO(3). 
+
+The protection of the LRL vector compares to an inconspicuous symmetry of the framework. In established mechanics, symmetries are consistent activities that map one circle onto another without changing the vitality of the framework; in quantum mechanics, symmetries are ceaseless tasks that "blend" electronic orbitals of a similar vitality, i.e., degenerate vitality levels. A rationed amount is normally connected with such symmetries. For instance, each focal power is symmetric under the turn aggregate SO(3), prompting the protection of precise energy L. Traditionally, a general turn of the framework does not influence the vitality of a circle; quantum precisely, pivots blend the circular music of a similar quantum number "l" without changing the vitality. 
+
+The symmetry for the backwards square focal power is higher and increasingly inconspicuous. The impossible to miss symmetry of the Kepler issue results in the preservation of both the precise force vector L and the LRL vector An (as characterized above) and, quantum precisely, guarantees that the vitality dimensions of hydrogen don't rely upon the rakish energy quantum numbers "l" and "m". The symmetry is increasingly unpretentious, be that as it may, on the grounds that the symmetry activity must occur in a higher-dimensional space; such symmetries are frequently called "concealed symmetries". 
+
+Traditionally, the higher symmetry of the Kepler issue takes into consideration persistent changes of the circles that safeguard vitality however not precise force; communicated another way, circles of a similar vitality yet unique rakish energy (capriciousness) can be changed ceaselessly into each other. Quantum precisely, this compares to blending orbitals that vary in the "l" and "m" quantum numbers, for example, the "s" () and "p" () nuclear orbitals. Such blending is impossible with normal three-dimensional interpretations or turns, yet is identical to a revolution in a higher measurement. 
+
+For "negative" energies â i.e., for bound frameworks â the higher symmetry aggregate is SO(4), which protects the length of four-dimensional vectors 
+
+In 1935, Vladimir Fock demonstrated that the quantum mechanical bound Kepler issue is comparable to the issue of a free molecule restricted to a three-dimensional unit circle in four-dimensional space. In particular, Fock demonstrated that the SchrÃ¶dinger wavefunction in the force space for the Kepler issue was the stereographic projection of the round sounds on the circle. Revolution of the circle and reprojection results in a ceaseless mapping of the circular circles without changing the vitality; quantum precisely, this compares to a blending of all orbitals of a similar vitality quantum number "n". Valentine Bargmann noted in this manner that the Poisson sections for the precise energy vector L and the scaled LRL vector D framed the Lie variable based math for SO(4). Basically, the six amounts D and L relate to the six preserved precise momenta in four measurements, related with the six conceivable basic turns in that space (there are six different ways of picking two tomahawks from four). This end does not suggest that our universe is a three-dimensional circle; it just implies that this specific material science issue (the two-body issue for backwards square focal powers) is "scientifically comparable" to a free molecule on a three-dimensional circle. 
+
+For "positive" energies â Â i.e., for unbound, "dissipated" systemsÂ â the higher symmetry bunch is SO(3,1), which saves the Minkowski length of 4-vectors 
+
+Both the negative-and positive-vitality cases were considered by Fock and Bargmann and have been assessed comprehensively by Bander and Itzykson. 
+
+The circles of focal power systemsÂ â and those of the Kepler issue in particularÂ â are likewise symmetric under reflection. In this way, the SO(3), SO(4) and SO(3,1) bunches refered to above are not the full symmetry gatherings of their circles; the full gatherings are O(3), O(4) and O(3,1), separately. In any case, just the associated subgroups, SO(3), SO(4) and SO(3,1), are expected to show the preservation of the precise energy and LRL vectors; the reflection symmetry is insignificant for protection, which might be gotten from the Lie variable based math of the gathering. 
+
+The association between the Kepler issue and four-dimensional rotational symmetry SO(4) can be promptly imagined. Let the four-dimensional Cartesian directions be signified ("w", "x", "y", "z") where ("x", "y", "z") speak to the Cartesian directions of the typical position vector r. The three-dimensional force vector p is related with a four-dimensional vector formula_44 on a three-dimensional unit circle 
+
+where formula_46 is the unit vector along the new "w"- pivot. The change mapping p to Î· can be interestingly transformed; for instance, the "x"- segment of the energy levels with 
+
+what's more, also for "p" and "p". At the end of the day, the three-dimensional vector p is a stereographic projection of the four-dimensional formula_44 vector, scaled by "p" (Figure 8). 
+
+Without loss of all inclusive statement, we may dispose of the ordinary rotational symmetry by picking the Cartesian facilitates to such an extent that the "z"- pivot is lined up with the precise force vector L and the energy hodographs are adjusted as they are in Figure 7, with the focuses of the circles on the "y"- hub. Since the movement is planar, and p and L are opposite, "p" = "Î·" = 0 and consideration might be confined to the three-dimensional vector . The group of Apollonian circles of force hodographs (Figure 7) relate to a group of incredible circles on the three-dimensional formula_44 circle, all of which meet the "Î·"- pivot at the two foci , comparing to the energy hodograph foci at "p" = Â±"p". These incredible circles are connected by a straightforward revolution about the "Î·"- pivot (Figure 8). This rotational symmetry changes every one of the circles of a similar vitality into each other; be that as it may, such a pivot is symmetrical to the typical three-dimensional turns, since it changes the fourth measurement "Î·". This higher symmetry is normal for the Kepler issue and relates to the preservation of the LRL vector. 
+
+A rich activity edge factors answer for the Kepler issue can be acquired by wiping out the excess four-dimensional directions formula_44 for elliptic round and hollow directions 
+
+where sn, cn and dn are Jacobi's elliptic capacities. 
+
+The Laplaceâ Rungeâ Lenz vector can likewise be summed up to distinguish preserved amounts that apply to different circumstances. 
+
+Within the sight of a uniform electric field E, the summed up Laplaceâ Rungeâ Lenz vector formula_1 is 
+
+where "q" is the charge of the circling molecule. Despite the fact that formula_1 isn't preserved, it offers ascend to a rationed amount, to be specific formula_58. 
+
+Further summing up the Laplaceâ Rungeâ Lenz vector to different possibilities and exceptional relativity, the most broad structure can be composed as 
+
+where (cf. Bertrand's hypothesis) and , with the edge "Î¸" characterized by 
+
+what's more, "Î³" is the Lorentz factor. As previously, we may acquire a rationed binormal vector B by taking the cross item with the preserved rakish energy vector 
+
+These two vectors may moreover be consolidated into a rationed dyadic tensor W, 
+
+In representation, the LRL vector for a non-relativistic, isotropic consonant oscillator can be determined. Since the power is focal, 
+
+the precise force vector is rationed and the movement lies in a plane. 
+
+The moderated dyadic tensor can be written in a straightforward structure 
+
+in spite of the fact that it ought to be noticed that p and r are not really opposite. 
+
+The comparing Rungeâ Lenz vector is progressively muddled, 
+
+where 
+
+is the characteristic wavering recurrence and 
+
+Coming up next are contentions demonstrating that the LRL vector is moderated under focal powers that comply with an opposite square law. 
+
+A focal power formula_68 following up on the molecule is 
+
+for some capacity formula_70 of the range formula_71. Since the precise energy formula_72 is monitored under focal powers, formula_73 and 
+
+where the force formula_75 and where the triple cross item has been rearranged utilizing Lagrange's recipe 
+
+The personality 
+
+yields the condition 
+
+For the exceptional instance of a backwards square focal power formula_79, this equivalents 
+
+In this manner, An is monitored for opposite square focal powers 
+
+A shorter verification is gotten by utilizing the connection of precise energy to rakish speed, formula_82, which holds for a molecule going in a plane opposite to formula_83. Determining to opposite square focal powers, the time subsidiary of formula_84 is 
+
+where the last equity holds in light of the fact that a unit vector can just change by turn, and formula_86 is the orbital speed of the pivoting vector. In this manner, A supposedly is a distinction of two vectors with equivalent time subsidiaries. 
+
+As portrayed beneath, this LRL vector A will be an uncommon instance of a general preserved vector formula_1 that can be characterized for every focal power. Be that as it may, since most focal powers don't deliver shut circles (see Bertrand's hypothesis), the practically equivalent to vector formula_1 once in a while has a straightforward definition and is commonly a multivalued capacity of the point "Î¸" among r and formula_1. 
+
+The steadiness of the LRL vector can likewise be gotten from the Hamiltonâ Jacobi condition in allegorical directions , which are characterized by the conditions 
+
+where "r" speaks to the sweep in the plane of the circle 
+
+The reversal of these directions is 
+
+Partition of the Hamiltonâ Jacobi condition in these directions yields the two equal conditions 
+
+where Î is a consistent of movement. Subtraction and re-articulation regarding the Cartesian momenta "p" and "p" demonstrates that Î is proportionate to the LRL vector 
+
+The association between the rotational symmetry portrayed above and the preservation of the LRL vector can be made quantitative by method for Noether's hypothesis. This hypothesis, which is utilized for discovering constants of movement, expresses that any minuscule variety of the summed up directions of a physical framework 
+
+that makes the Lagrangian differ to initially arrange by a complete time subsidiary 
+
+relates to a saved amount Î 
+
+Specifically, the saved LRL vector segment "A" compares to the variety in the directions 
+
+where "I" parallels 1, 2 and 3, with "x" and "p" being the "i"th parts of the position and energy vectors r and p, individually; not surprisingly, "Î´" speaks to the Kronecker delta. The subsequent first-request change in the Lagrangian is 
+
+Substitution into the general recipe for the monitored amount Î yields the preserved part "An" of the LRL vector, 
+
+The Noether hypothesis induction of the protection of the LRL vector An is rich, yet has one downside: the arrange variety "Î´x" includes the "position" r, yet additionally the "energy" p or, equally, the "speed" v. This disadvantage might be dispensed with by rather determining the preservation of An utilizing a methodology spearheaded by Sophus Lie. In particular, one may characterize a Lie change in which the directions r and the time "t" are scaled by various forces of a parameter Î» (Figure 9), 
+
+This change changes the complete rakish force "L" and vitality "E", 
+
+in any case, protects their item "EL". Accordingly, the unpredictability "e" and the greatness "An" are protected, as might be seen from the condition for "A" 
+
+The heading of An is protected also, since the semiaxes are not changed by a worldwide scaling. This change additionally safeguards Kepler's third law, specifically, that the semiaxis "an" and the period "T" structure a constantÂ "T"/"a". 
+
+Not at all like the energy and precise force vectors p and L, there is no generally acknowledged meaning of the Laplaceâ Rungeâ Lenz vector; a few diverse scaling elements and images are utilized in the logical writing. The most widely recognized definition is given above, yet another basic option is to isolate by the steady "mk" to acquire a dimensionless monitored whimsy vector 
+
+where v is the speed vector. This scaled vector e has a similar course as An and its extent rises to the erraticism of the circle, and along these lines evaporates for round circles. 
+
+Other scaled adaptations are additionally conceivable, e.g., by partitioning A by "m" alone 
+
+or then again by "p" 
+
+which has indistinguishable units from the precise force vector L. 
+
+In uncommon cases, the indication of the LRL vector might be switched, i.e., scaled by â1. Other regular images for the LRL vector incorporate a, R, F, J and V. Be that as it may, the decision of scaling and image for the LRL vector don't influence its protection. 
+
+An option preserved vector is the binormal vector B considered by William Rowan Hamilton, 
+
+which is preserved and focuses along the "minor" semiaxis of the oval. (It isn't characterized for evaporating whimsy.) 
+
+The LRL vector is the cross result of B and L (Figure 4). On the force hodograph in the significant segment above, B is promptly observed to interface the beginning of momenta with the focal point of the round hodograph, and to have size "A/L". At perihelion, it focuses toward the force. 
+
+The vector B is meant as "binormal" since it is opposite to both An and L. Like the LRL vector itself, the binormal vector can be characterized with various scalings and images. 
+
+The two preserved vectors, An and B can be joined to shape a monitored dyadic tensor W, 
+
+where "Î±" and "Î²" are discretionary scaling constants and formula_111 speaks to the tensor item (which isn't identified with the vector cross item, notwithstanding their comparative image). Written in express parts, this condition peruses 
+
+Being opposite to each another, the vectors An and B can be seen as the main tomahawks of the moderated tensor W, i.e., its scaled eigenvectors. W is opposite to L , 
+
+since An and B are both opposite to L too, . 
+
+All the more legitimately, this condition peruses, in express parts,

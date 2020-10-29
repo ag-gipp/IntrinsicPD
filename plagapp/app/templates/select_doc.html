@@ -1,127 +1,176 @@
-{% extends "base.html" %}
+{% extends 'base.html' %}
+{% block further_head %}
 
+{% endblock further_head %}
 {% block content %}
 
-    <div class="container" xmlns="http://www.w3.org/1999/html">
+<title>IntrinsicPD</title>
+
+    <div class="container" xmlns="http://www.w3.org/1999/html" id="main_content">
         <!-- Changed heading -->
-        <h1>Start Analysis</h1>
+        <br>
+        <h2>Analyse Documents for Intrisic Plagiarism Detection</h2>
+
         <div class="jumbotron">
 
             <div class="form-group">
+            <form action="/view_doc">
 
+            <div class="container">
+                <div class="row">
+                    <div class="col">
 
-                <form action='/view_doc'>
-
-                    <div class="form-group">
-                        <label for="usr">Document :</label>
-                        <select name="doc">
-                            {% for doc in docs %}
-                                <option value='{{ doc[0] }}'>{{ doc[0] }}</option>
-                            {% endfor %}
-                        </select>
-                    </div>
-                    <br>
-                    <div class="form-group">
-                        <!-- Added heading -->
-                        <h3><strong>Style Model</strong></h3>
-
-                        <!-- Pushed style model loading option upwards-->
+                        <!-- Document -->
                         <div class="form-group">
-                            <i>Load existing Style Model ?</i>&emsp;
-                            <input type="radio" name='qload' value="yes"
-                                   onclick="document.getElementById('load_config').style.display = 'block';document.getElementById('over_config').style.display = 'block';"><i>Yes</i>
-                            <input type="radio" name='qload' value="no"
-                                   onclick="document.getElementById('load_config').style.display = 'none';document.getElementById('over_config').style.display = 'none';"
-                                   checked><i>No</i><br>
-                        </div>
+                            <h4>Document <i class="fas fa-info-circle" data-toggle="tooltip"  data-placement="top" title="Choose an existing document or upload your own."></i></h4>
 
-                        <div id="load_config" class="form-group" style="display: none;">
-                            <i>Load Style Model</i>&emsp;
-                            <select name="lname">
-                                {% for config_file in config_fold %}
-                                    <option value='{{ config_file }}'>{{ config_file }}</option>
+                            <select id="ex_doc" name="doc">
+                                {% for doc in docs %}
+                                    <option value='{{ doc[0] }}'>{{ doc[0] }}</option>
+                                {% endfor %}
+                            </select>
+
+                            <a href="/upload" id="n_doc"><button type="button" class="btn btn-primary btn-sm">Upload new documents</button></a>
+
+                        </div>
+                        <hr>
+                        <br>
+
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+
+                        <!-- Atom Type -->
+                        <div class="form-group">
+                            <h4>Atom Type <i class="fas fa-info-circle" data-toggle="tooltip"  data-placement="top" title="You can analyse by three different atom types: paragraphs, sentences and nchars (character vector)."></i></h4>
+                            {% for atom_option in atom_options %}
+                                {% if atom_option[0] == 'paragraph' %}
+                                    <input type="radio" class="atomClass" name="atom" value="{{ atom_option[0] }}" checked>
+                                {% else %}
+                                    <input type="radio" class="atomClass" name="atom" value="{{ atom_option[0] }}">
+                                {% endif %}
+                                {{ atom_option[0] }}&emsp;
+                            <br>
+                            {% endfor %}
+                        </div>
+                        <br>
+
+                    </div>
+                    <div class="col">
+
+                        <!-- Threshold Value -->
+                        <div id="threshold" class="form-group" style="display: block;"><h4>Threshold value <i class="fas fa-info-circle" data-toggle="tooltip"  data-placement="top" title="The threshold value will determine when suspicious behaviour will be shown."></i></h4>
+                            <input type="radio" name="threshold" value="0.8" checked> <i>0.8</i><br>
+                            <input type="radio" name="threshold" value="pc90"><i>90th percentile</i><br>
+                        </div>
+                        <br>
+
+                    </div>
+                    <div class="col-4">
+
+                        <!-- Clustering Method -->
+                        <div class="form-group">
+                            <h4>Clustering Method <i class="fas fa-info-circle" data-toggle="tooltip"  data-placement="top" title="Choose one of the following clustering methods."></i></h4>
+                            <select name="cluster_method" id='cluster'>
+                                {% for cluster_method in cluster_methods %}
+                                    <option value="{{ cluster_method[0] }}">{{ cluster_method[0] }}</option>
                                 {% endfor %}
                             </select>
                         </div>
 
-                        <label>Atom Type:</label>
-                        {% for atom_option in atom_options %}
-                            <input type="radio" class="atomClass" name="atom" value="{{ atom_option[0] }}">
-                            {{ atom_option[0] }}&emsp;
-                        {% endfor %}
+                        <!-- No of Cluster -->
+                        <div class="form-group">
+                            <div id='cluster_value'>
+                                <h4>No. of cluster <i class="fas fa-info-circle" data-toggle="tooltip"  data-placement="top" title="Choose the number of cluster used for the kmeans clustering method."></i></h4>
+
+                                <select name="k">
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                    <option value="5">5</option>
+                                </select>
+                            </div>
+                        </div>
+
                     </div>
-                    <br>
-                    <div class="form-group">
-                        <label>Stylistic Feature(s):</label>
-                        <select id="features" name="features" multiple size="15">
-                            <optgroup label="Vocabulary Richness">
-                                {% for feature in vocab_richness %}
-                                    <option value="{{ feature[0] }}">{{ feature[0] }}</option>
-                                {% endfor %}
-                            </optgroup>
-                            <optgroup label="Syntactic Features">
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col">
+                        <h4>Stylistic Feature(s) <i class="fas fa-info-circle" data-toggle="tooltip"  data-placement="top" title="The following categories of stylistic features are supported: Vocabulary Richness, Syntactic Features, Readability Features and Lexical Features. You can choose as many stylistic features as you need."></i></h4>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+
+                        <!-- Stylistic Feature -->
+                        <div class="form-group">
+                            <h6>Lexical Features <i class="fas fa-info-circle" data-toggle="tooltip"  data-placement="top" data-html="true" title="Lexical Features check if a term is used in a common way. <br><br> punctuation_percentage: Number of punctuation symbols/number of characters <br> average_word_length: average number of characters per word <br> average_sentence_length: Number of words per sentence <br> average_syllables_per_word: Number of syllables/number of words <br> alpha_chars_ratio: Number of alphabetic chars/number of all chars <br> digit_chars_ratio: Number of digits/number of all chars <br> upper_chars_ratio: Number of uppercase chars/number of all chars <br> white_chars_ratio: Number of white space chars/number of all chars <br> polysyllablcount: Number of words of ≥3 syllables"></i></h6>
+                            <select id="multiselect4" name="features" multiple size="15">
+                                <optgroup>
+                                    {% for feature in lex_feats %}
+                                        <option value="{{ feature[0] }}">{{ feature[0] }}</option>
+                                    {% endfor %}
+                                </optgroup>
+                            </select>
+                        </div>
+                        </br>
+                    </div>
+
+                    <div class="col">
+                        <h6>Syntactic Features <i class="fas fa-info-circle" data-toggle="tooltip"  data-placement="top" data-html="true" title="Syntactic Features check how they behave when they are syntactically restricted. <br><br> stopword_percentage: Number of stopwords/number of all words <br> avg_internal_word_freq_class: Average of frequency classes <br> avg_external_word_freq_class: Average of frequency classes. <br> syntactic_complexity: Modified version of Index of Syntactic Complexity"></i></h6>
+                        <select id="multiselect2" name="features" multiple size="15">
+                            <optgroup>
                                 {% for feature in synt_feats %}
                                     <option value="{{ feature[0] }}">{{ feature[0] }}</option>
                                 {% endfor %}
                             </optgroup>
-                            <optgroup label="Readability Features">
+                        </select>
+                    </div>
+
+                    <div class="col">
+                        <h6>Vocabulary Richness <i class="fas fa-info-circle" data-toggle="tooltip" data-placement="top" data-html="true" title="Vocabulary Richness is a quantitative measure, to check if a person only uses specific individual vocabulary. <br><br> honore_r_measure: Share of unique words in the atom <br> hapax_legomena: Number of words occurring once/number of all words <br> hapax_dislegomena: Number of words occurring twice/number of all words <br> sichels_s: Similar to hapax_dislegomena <br> brunets_w: Number of unique words ^ -0.172 <br> yule_k_characteristics: The larger value, the less diverse vocabulary <br> yule_i: The larger value, the more diverse vocabulary <br> type_token_ratio: number of unique words / number of all words"></i></h6>
+                            <select id="multiselect" name="features" multiple size="15">
+                                <optgroup>
+                                    {% for feature in vocab_richness %}
+                                        <option value="{{ feature[0] }}">{{ feature[0] }}</option>
+                                    {% endfor %}
+                                </optgroup>
+                            </select>
+                    </div>
+
+                    <div class="col">
+                        <h6>Readability Features <i class="fas fa-info-circle" data-toggle="tooltip"  data-placement="top" data-html="true" title="Readability Features is a measure to check how easy a text is to read. <br><br> automated_readability_index: Gauge the understandability of a text. <br> linsear_write_formula: Readability metric to calculate the readability <br> gunning_fog_index: Estimates the time a person needs to unterstand the text <br> smog_index: Estimates the time a person need to understand a piece of text. <br> flesch_reading_ease: Paragraph Feature <br> flesch_kincaid_grade: Paragraph Feature "></i></h6>
+                        <select id="multiselect3" name="features" multiple size="15">
+                            <optgroup>
                                 {% for feature in read_feat %}
                                     <option value="{{ feature[0] }}">{{ feature[0] }}</option>
                                 {% endfor %}
                             </optgroup>
                         </select>
                     </div>
-                    </br>
-                    <div id="threshold" class="form-group" style="display: block;"><label>Threshold value:</label>
-                        <input type="radio" name="threshold" value="f8" checked> <i>0.8</i>
-                        <input type="radio" name="threshold" value="pc90"><i>90th percentile</i><br>
-                    </div>
 
-                    <div class="form-group">
-                        <!--Modified Clustering Method heading-->
-                        <label>Clustering Method (Outlier Detection Method) :</label>
-                        <select name="cluster_method" id='cluster'>
-                            {% for cluster_method in cluster_methods %}
-                                <option value="{{ cluster_method[0] }}">{{ cluster_method[0] }}</option>
-                            {% endfor %}
-                        </select>
-                        &emsp;<!--Modifiying cluster value-->
+                </div>
 
-                        <div id='cluster_value'>
-                            <label>No. of cluster:</label>
+                <div class="row">
+                    <div class="col">
 
-                            <select name="k">
-                                <option value="2">2</option>
-                                <option value="3">3</option>
-                                <option value="4">4</option>
-                                <option value="5">5</option>
-                            </select>
+                        <!-- Start Analysis -->
+                        <div>
+                            <button type="submit" class="btn btn-primary">Start Analysis</button>
                         </div>
+
                     </div>
+                    <div class="col">
 
-                    <div class="form-group">
-                        <!-- included creation/modification of style models(seenu.andi-rajendran)-->
-                        <i>Save Style Model ?</i>&emsp;
-                        <input type="radio" class="save_config" name="save_config" value="yes"
-                               onclick="document.getElementById('fname').style.display = 'block';"><i>Yes</i>
-                        <input type="radio" class="save_config" name="save_config" value="no"
-                               onclick="document.getElementById('fname').style.display = 'none';" checked><i>No</i><br>
-                        <div id="fname" class="form-group" style="display: none;"><i>Style Model file name</i>&emsp;
-                            <input type="text" name="fname" value="" width="30" height="30"><br>
-                        </div>
                     </div>
+                    <div class="col">
 
-
-                    <div id="over_config" class="form-group" style="display: none;"><i>Overwrite Style Model ?</i>&emsp;
-                        <input type="radio" name="over_config" value="yes"> <i>Yes</i>
-                        <input type="radio" name="over_config" value="no" checked><i>No</i><br>
                     </div>
-
-
-                    <div class="btn btn-default">
-                        <input type='submit' value='Go'>
-                    </div>
-                </form>
+                </div>
+            </div>
+            </form>
             </div>
         </div>
     </div>
@@ -139,6 +188,27 @@ $(document).ready(function(){
         $("#cluster_value").hide();
       }
     });
+    $('#multiselect option').mousedown(function(e) {
+        e.preventDefault();
+        $(this).prop('selected', !$(this).prop('selected'));
+        return false;
+    });
+    $('#multiselect2 option').mousedown(function(e) {
+        e.preventDefault();
+        $(this).prop('selected', !$(this).prop('selected'));
+        return false;
+    });
+    $('#multiselect3 option').mousedown(function(e) {
+        e.preventDefault();
+        $(this).prop('selected', !$(this).prop('selected'));
+        return false;
+    });
+    $('#multiselect4 option').mousedown(function(e) {
+        e.preventDefault();
+        $(this).prop('selected', !$(this).prop('selected'));
+        return false;
+    });
+    $("[data-toggle=tooltip]").tooltip();
 });
     </script>
 {% endblock content %}
